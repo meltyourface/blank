@@ -1,9 +1,10 @@
 title: "Hermes Trismegistus: Dataset"
 description: Lets read the Hemes Dataset like a book!
 theme: just-the-docs
-
-url: https://meltyourface.github.io/trismagist
-
+baseurl: "/trismegist"
+url: https://meltyourface.github.io/
+repository: meltyourface/trismegist
+permalink: pretty
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
 
@@ -91,7 +92,7 @@ gh_edit_link: true # show or hide edit this page link
 gh_edit_link_text: "Edit this page on GitHub"
 gh_edit_repository: "https://github.com/meltyourface/trismegis" # the github URL for your repo
 gh_edit_branch: "main" # the branch that your docs is served from
-# gh_edit_source: docs # the source that your files originate from
+gh_edit_source: "posts" # the source that your files originate from
 gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
 
 # Color scheme currently only supports "dark", "light"/nil (default), or a custom scheme that you define
