@@ -22,16 +22,16 @@ excerpt: >
 ---
 Geomancy: A Concise Overview and Explanation
 
-Introduction:
+**Introduction**:
 Geomancy, a divination technique that predates medieval Europe, traces its origins to ancient Babylonia, Egypt, and Greece, and later spread to Islamic regions and Western countries. This method of divination, which involves the interpretation of figures and patterns formed by Earth elements (earth, air, fire, and water), aims to uncover answers to questions, unravel mysteries, and provide insights about human endeavor.
 
-History:
+**History**:
 The exact origins of geomancy remain shrouded in mystery, but historical accounts suggest that this practice was prevalent among various ancient civilizations. For instance, in ancient Greece, geomancers employed the technique of interpreting sacred landscapes to discern the will of deities. The practice also flourished in the Islamic world, where it was known as "Ilm al-Raml," or "The Science of the Sand," and was used for a variety of purposes ranging from predicting agricultural outcomes to resolving legal disputes. During the medieval and Renaissance periods in Europe, geomancy continued to develop as a prominent occult discipline, positioned alongside astrology, alchemy, and necromancy.
 
 Basic Principles:
 Geomancy revolves around the concept of interpreting symbolic figures, called "geomantic figures," which embody a set of 16 distinct configurations, each comprising four lines or "points." These points can signify either single or double dots. The combinations give rise to different interpretations, which depend on the four classical elements and their associated qualities. Additionally, geomantic figures are correlated to astrological signs and planets, thus intertwining the practice with astrology.
 
-Techniques:
+**Techniques**:
 A fundamental aspect of practicing geomancy lies in forming and interpreting the geomantic figures. **Students of geomancy follow these steps**:
 
 1. **Phrase the question**: To begin a geomantic reading, formulate a clear and concise question.

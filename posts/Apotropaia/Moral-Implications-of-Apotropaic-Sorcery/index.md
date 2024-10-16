@@ -23,7 +23,7 @@ excerpt: >
 
 ## Title: Apotropaic Sorcery: Moral, Metaphysical, and Social Ramifications
 
-Abstract:
+**Abstract**:
 In this treatise, the moral ramifications of employing apotropaic sorcery shall be analyzed, focusing on the potential impact on practitioners, subjects, and the metaphysical ecosystem. A comprehensive understanding of historical, cultural, and philosophical perspectives will be presented, incorporating diverse viewpoints and illustrated with both real-life and hypothetical scenarios. Furthermore, potential safeguards and ethical guidelines intended for the wider esoteric community will be discussed to mitigate any adverse consequences stemming from the application of Apotropaia.
 
 ### I. Introduction: Defining Apotropaic Sorcery

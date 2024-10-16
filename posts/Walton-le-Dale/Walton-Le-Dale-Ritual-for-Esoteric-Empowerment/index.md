@@ -22,7 +22,7 @@ excerpt: Compose an intricate ritual framework, focusing on the distinctive esot
 
 ## The Whispering Ribble Convergence
 
-Objective: To harmonize with the esoteric energies of Walton le Dale and unlock its hidden truths by combining ancient knowledge and local mythos.
+**Objective**: To harmonize with the esoteric energies of Walton le Dale and unlock its hidden truths by combining ancient knowledge and local mythos.
 
 Preliminary Preparations:
 

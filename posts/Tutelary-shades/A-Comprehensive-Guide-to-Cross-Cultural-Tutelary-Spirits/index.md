@@ -23,7 +23,7 @@ excerpt: >
 
 ## The Comprehensive Catalog of Tutelary Spirits and Shades: Cross-Cultural Myths, Powers, and Interactions
 
-Introduction:
+**Introduction**:
 
 Tutelary spirits and shades have been essential figures in the cultural mythologies and beliefs of various societies throughout the history of human civilization. These protective spirits, guardians, or ancestral entities have held different forms, names, and significance from one culture to another, often providing guidance, wisdom, and power to those who invoke their assistance. This comprehensive catalog presents an in-depth investigation into the characteristics, powers, and attributes of tutelary spirits and shades across diverse cultural mythologies.
 
@@ -65,6 +65,6 @@ Tutelary spirits and shades have been essential figures in the cultural mytholog
 
 ### 3.5 Modern-day Iberian and Latin American Curanderismo: Practices involving contact with and assistance from ancestral spirits, saints, or tutelary beings to heal the sick and protect the vulnerable.
 
-Conclusion:
+**Conclusion**:
 
 In different forms and facets, tutelary spirits and shades have played a significant role in the cultural mythologies of various civilizations across time. Acting as protectors, guardians, advisers, or intermediaries, these powerful entities continue shaping the collective imagination of human societies, bridging the gap between mortal and divine realms, and forming an integral part of our esoteric and occult traditions.

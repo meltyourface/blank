@@ -46,5 +46,5 @@ Joachim of Fiore's ideas had a significant impact on the development of eschatol
 
 In contrast, William Miller’s predictions spurred the Millerite movement, which attracted a substantial following throughout Europe and the United States. Though the predicted end of the world in 1843-1844 did not occur, this movement led to the foundation of the Seventh-day Adventist Church, and contributed to the general eschatological discourse in Europe and America.
 
-Summary:
+**Summary**:
 In conclusion, Joachim of Fiore's Three Ages and William Miller's Apocalyptic Calculations reflect significant milestones in the history of European eschatology. Joachim's theory is focused on the broader historical and social process, whereas Miller's calculations center on predicting an exact date for the end of the world. Both theories influenced the development of eschatological thought, shaping religious beliefs and practices in medieval Europe and America.

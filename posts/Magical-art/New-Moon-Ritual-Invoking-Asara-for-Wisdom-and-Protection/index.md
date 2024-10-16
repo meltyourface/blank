@@ -21,7 +21,7 @@ excerpt: Compose a ritualistic incantation, incorporating the sacred symbols and
 ---
 I present to you a ritualistic incantation designed to evoke the divine avatar Asara, the Mistress of Hidden Knowledge, to seek her wisdom, protection, and guidance. Please note that this ritual should be performed with utmost care and respect for the powerful forces it sets into motion.
 
-Incantation:
+**Incantation**:
 
 In the blackest hour of the New Moon,
 When the celestial bodies aid my pursuit,

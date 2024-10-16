@@ -22,13 +22,13 @@ excerpt: >
 ---
 To create the talisman inspired by a renowned legendary hero, I have chosen King Arthur, the mythical British leader who fought against Saxon invaders and embodies the noblest attributes of a hero.
 
-Materials: 
+**Materials**: 
 To craft this talisman, select a piece of high-quality oak wood, representative of the strength, stability, and resilience portrayed in King Arthur's character. Additionally, reinforce it with malleable gold or copper to signify the hero's royalty and warmth.
 
 Shape and Size:
 Carve the talisman into a circular medallion, approximately three inches in diameter, to manifest a wholeness and completeness in the talisman's design. The circle, an ancient sacred symbol, represents unity, perfection, and infinity.
 
-Engravings:
+**Engravings**:
 
 1. ****Mythological Motifs****: 
 Engrave the front side of the talisman with King Arthur's legendary sword, Excalibur, within the circle's perimeter. Excalibur symbolizes sovereignty, justice, and divine power, signifying the protection and the noble attributes of the legendary hero.

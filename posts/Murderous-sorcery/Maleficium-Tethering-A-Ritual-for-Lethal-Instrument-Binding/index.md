@@ -21,7 +21,7 @@ excerpt: Develop a comprehensive ritual to mystically tether a lethal instrument
 ---
 Ritual Name: Maleficium Tethering
 
-Objective: To tether a lethal instrument to its predestined target using Murderous sorcery, ensuring an infallible connection between the weapon and the victim.
+**Objective**: To tether a lethal instrument to its predestined target using Murderous sorcery, ensuring an infallible connection between the weapon and the victim.
 **Step 1**: Prepare the Sacred Space
 - Choose a remote location where you won't be interrupted, preferably during a new moon when the veil between the worlds is thinnest.
 - Clear the area and draw a large pentagram using a mixture of grave dirt and crushed hematite.

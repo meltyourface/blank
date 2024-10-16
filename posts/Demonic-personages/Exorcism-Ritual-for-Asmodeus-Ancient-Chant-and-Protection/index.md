@@ -66,4 +66,4 @@ Guard this sanctuary and make it secure from the grasp of Asmodeus.)
 
 In the completion of this chant, perform final gestures or prayers to officially seal the ritual. Always remember to thank the entities you've invoked for their assistance in the expulsion. Maintain the protective barrier by regularly repeating the chant and reinforcing your intention.
 
-Note: If the situation remains unresolved, consider seeking guidance from a specialized authority with expertise in Demonology and banishing rituals.
+**Note**: If the situation remains unresolved, consider seeking guidance from a specialized authority with expertise in Demonology and banishing rituals.

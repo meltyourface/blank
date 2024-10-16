@@ -22,7 +22,7 @@ excerpt: Develop a comprehensive guide detailing the initiation, progression, an
 
 ## The Outcasts' Path to Astral Mastery
 
-Introduction:
+**Introduction**:
 Welcome, seeker of the hidden mysteries. This comprehensive guide is intended for those who wish to unravel the secrets of astral projection and navigate the ethereal realm within the framework of Outcasts' esoteric and occult practices. Follow these steps, example rituals, and safeguards with diligence and courage, and you shall unlock the vastness of the astral plane.
 
 ### Part I: Initiation
@@ -63,7 +63,7 @@ Engage with the various entities and guardians of the Outcasts' domain. Foster a
 9. Advanced Rituals
 Cultivate your expertise in astral rites and ceremonies to heighten your experiences in this ethereal realm. Practice rituals for soul retrieval, exorcisms, or contacting higher beings within the framework of Outcasts' esoteric and occult practices.
 
-Safeguards:
+**Safeguards**:
 
 1. Never enter the astral plane without proper protection and grounding. Invoke your guardian spirits prior to astral travel to safeguard your journey.
 

@@ -21,7 +21,7 @@ excerpt: Devise a unique and coherent transliterated liturgical composition that
 ---
 To respond to this knowledge challenge, I will create a unique transliterated liturgical composition that draws upon comparative symbolism from three distinct esoteric traditions – namely Kabbalah, Hermeticism, and Hinduism. The composition will reflect the interconnectivity of human consciousness with the divine purpose and portray the significance of such a connection.
 
-Title: The Sacred Nexus
+**Title**: The Sacred Nexus
 
 Verse 1: (Kabbalah Symbolism)
 From the roots of the sacred Tree of Life, Ein Sof (Infinite),
@@ -34,7 +34,7 @@ The supernal triad, Kether, Chokhmah, and Binah combine,
 Symbolizing the unity of human thought and divine will,
 Where knowledge grows and our destiny fulfilled.
 
-Chorus: (Unifying Theme – Interconnectivity of Human Consciousness and Divine Purpose)
+**Chorus**: (Unifying Theme – Interconnectivity of Human Consciousness and Divine Purpose)
 The divine within us, in every breath and beat,
 Our consciousness branching like the Tree of Life complete,
 We seek the sacred nexus, seekers of truth untold,
@@ -51,7 +51,7 @@ Tied through the universal principle of mentalism,
 Understanding our place in the cosmic plan,
 As mirrors of the divine, God's human spawn.
 
-Chorus:
+**Chorus**:
 The divine within us, in every breath and beat,
 Our consciousness branching like the Tree of Life complete,
 We seek the sacred nexus, seekers of truth untold,
@@ -68,7 +68,7 @@ Unfurling the cosmic order in the heart of every Karma.
 The path of Yoga, showing union divine,
 Between human consciousness and the infinite divine line.
 
-Chorus:
+**Chorus**:
 The divine within us, in every breath and beat,
 Our consciousness branching like the Tree of Life complete,
 We seek the sacred nexus, seekers of truth untold,

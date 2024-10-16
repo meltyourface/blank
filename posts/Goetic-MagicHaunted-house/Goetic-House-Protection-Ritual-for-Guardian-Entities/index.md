@@ -23,7 +23,7 @@ excerpt: >
 
 ## Title: The Rite of the Guardian Seal
 
-Objective: To create a comprehensive protection ritual for the Goetic Haunted House utilizing ceremonial tools and powerful incantations.
+**Objective**: To create a comprehensive protection ritual for the Goetic Haunted House utilizing ceremonial tools and powerful incantations.
 **Step 1**: Preparation of the Ceremonial Space
 
 1. Sweep and cleanse the area of any negative energies with a besom or broom.

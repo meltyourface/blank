@@ -55,14 +55,14 @@ Symbolic Association: The wise elder, the sacred owl, ancient runes and sigils
 
 Practical Harnessing of Straw Colors for Magical Goals
 
-Sigils:
+**Sigils**:
 
 1. Straw Gold - Create a sigil of a golden key for unlocking potential or drawing wealth.
 2. Straw Beige - Design a sigil of a balanced scale to attract harmony and serenity.
 3. Straw Wheat - Develop a sigil embodying a wheat stalk to promote health and well-being.
 4. Straw Grey - Construct a sigil of an open eye for enhancing intuition and wisdom.
 
-Talismans:
+**Talismans**:
 
 1. Straw Gold - Fashion a gold key or sun-shaped talisman to carry or wear for success.
 2. Straw Beige - Carve the symbol of scales into a beige stone to evoke balancing energies.

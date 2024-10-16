@@ -28,7 +28,7 @@ excerpt: >
 ---
 Answer: She embodies the divine feminine principle and channels spiritual energy through her body for use in the ceremony.
 
-Explanation: In Aleister Crowley's Gnostic Mass, the Priestess plays a crucial role in the performance of the ritual as a representation of the divine feminine principle, or Nuit. This principle balances the divine masculine principle, embodied by the Priest (Hadit), and together they represent the dual aspects of divinity.
+**Explanation**: In Aleister Crowley's Gnostic Mass, the Priestess plays a crucial role in the performance of the ritual as a representation of the divine feminine principle, or Nuit. This principle balances the divine masculine principle, embodied by the Priest (Hadit), and together they represent the dual aspects of divinity.
 
 The Gnostic Mass is a highly symbolic ritual, with roots in Hermeticism, Gnosticism, and the philosophy of Thelema, which was founded by Crowley. It aims to achieve a union between the individual and the divine, often expressed as a mystical union between the microcosm (the self) and the macrocosm (the universe).
 

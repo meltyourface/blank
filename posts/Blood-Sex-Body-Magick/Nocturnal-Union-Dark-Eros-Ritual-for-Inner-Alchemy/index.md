@@ -23,7 +23,7 @@ excerpt: >
 
 ## Title: The Ritual of Nocturnal Union
 
-Objective: To harness the potent energies of dark eros through Blood Sex Body Magick in order to promote a profound psychological metamorphosis and internal alchemy.
+**Objective**: To harness the potent energies of dark eros through Blood Sex Body Magick in order to promote a profound psychological metamorphosis and internal alchemy.
 
 The ritual components:
 1. Consecration of a sacred space
@@ -41,7 +41,7 @@ Invocation of deities or energies:
 3. Shiva - A Hindu deity symbolizing destruction and transformation
 4. Pan - Greek deity representing primal energy and carnal desire
 
-Bloodletting:
+**Bloodletting**:
 - Perform bloodletting using sterilized instruments and take all necessary precautions against infection and excessive blood loss
 - Use a small amount of blood to create symbols or sigils of the invoked deities on all participants' bodies
 - Optionally, anoint each talisman or sigil with blood to reinforce its power and connection to the practitioner's intention

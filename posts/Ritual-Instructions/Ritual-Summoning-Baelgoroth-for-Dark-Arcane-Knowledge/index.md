@@ -70,4 +70,4 @@ Equip enchanted artifacts for protection, including rings, necklaces, and bracel
 
 Upon successful contact, approach Baelgoroth with respect and caution. Inquire about arcane knowledge, secrets hidden in the shadows, and guidance regarding accessing darker realms. Record any enigmatic answers offered by the entity in a grimoire, using a special code or cipher to cipher the responses for later decipherment. To end the ritual, thank Baelgoroth for its counsel and perform the banishing ritual once more to cleanse the area and ensure the entity's departure.
 
-Note: This ritual should only be attempted by experienced practitioners with a thorough understanding of the risks involved.
+**Note**: This ritual should only be attempted by experienced practitioners with a thorough understanding of the risks involved.

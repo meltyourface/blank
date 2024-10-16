@@ -23,7 +23,7 @@ I have chosen to analyze the historical cultural significance and usage of ginse
 
 Ginseng is a slow-growing perennial plant belonging to the Panax genus and Araliaceae family, native to eastern Asia and North America. The most commonly used species for aphrodisiac purposes are Panax ginseng (Asian ginseng) and Panax quinquefolius (American ginseng). It has a significant reputation for its aphrodisiac-like qualities and has been widely used in traditional medicinal practices and cultural rituals worldwide.
 
-Origins:
+**Origins**:
 Ginseng's use as an aphrodisiac dates back thousands of years and can be traced to ancient China, where it was believed to promote longevity, increase energy levels, and enhance sexual desire. It was also a key component in traditional Indian Ayurvedic medicine, where it was used to improve overall vitality and reproductive health.
 
 Chemical Constituents:

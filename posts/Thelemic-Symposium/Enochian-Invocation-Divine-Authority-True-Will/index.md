@@ -24,7 +24,7 @@ Passage: "Ol sonuf vaoresaji, gohu IAD Balata, elanusaha caelazod"
 
 This specific passage is an excerpt from the 19th Enochian Key, also known as the 1st Key of the 30 Aethyrs. It is one of the calls or invocations used in Enochian magic, a system of ceremonial magic developed by Dr. John Dee and Edward Kelley in the late 16th century. The Enochian language is considered by many to be the "angelic language", and its utilization is aimed at communicating with and summoning angelic entities.
 
-Translation: "I reign over ye, says the God of Justice, in power exalted above the firmaments of wrath"
+**Translation**: "I reign over ye, says the God of Justice, in power exalted above the firmaments of wrath"
 
 Within the context of a Thelemic Symposium, this passage carries potency in its symbolic representation and can be connected to Thelemic principles in various ways, since the Thelema tradition is an amalgamation of Western esoteric thought, including the influence of Enochian magick.
 

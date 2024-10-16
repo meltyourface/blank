@@ -22,7 +22,7 @@ excerpt: Generate a section of a grimoire that provides a detailed explanation a
 
 ## Reformation of Flesh and Soul
 
-Overview:
+**Overview**:
 Reformation of Flesh and Soul is an ancient and powerful occult practice that enables the practitioner to undergo a transformative process, ultimately resulting in the alteration of one's physical and spiritual essence. This metamorphosis is achieved through the careful application of arcane knowledge, rituals, and energies that govern the universe. Through this process, the practitioner can acquire enhanced abilities, heightened spiritual awareness, and even extraordinary powers.
 
 Necessary Preparations:

@@ -46,5 +46,5 @@ The initiate is positioned upon the Thunderstone, still bound by the iron chain.
 **Step Six - The Thunderstruck Ascension**:
 As the final act, the initiate shall stand atop the Thunderstone while the congregation beats a rhythmic drumbeat on the ground like the pounding of thunder. The initiate is then unbound from the iron chain, signifying the completion of their initiation and their new status as a dedicated Thor worshipper.
 
-Conclusion:
+**Conclusion**:
 Having endured and overcome the tests of strength, conviction, and spirit, the initiate is now a full-fledged Thor worshipper. They must carry on the path of bravery, perseverance, and ferocity in their life, consistently drawing strength from their connection to the mighty Thor. The Rite of Thunderstruck Ascension serves as a deeply symbolic and intense spiritual experience, paving the path to a life of worship, embracing the complex symbology and ethos of Thor worship.

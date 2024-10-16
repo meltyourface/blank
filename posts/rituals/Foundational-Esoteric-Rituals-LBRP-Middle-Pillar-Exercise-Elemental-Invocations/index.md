@@ -26,7 +26,7 @@ The Lesser Banishing Ritual of the Pentagram (LBRP) is a foundational practice i
 
 The primary purpose of the LBRP is to create a sacred space for meditation and magical workings by banishing negative energies and invoking protection. It also serves to develop the practitioner's ability to focus and visualize, which is essential for further magical work.
 
-Steps:
+**Steps**:
 1. Stand facing the east in your chosen ritual space.
 2. The materials required for the LBRP are a ceremonial dagger (or your index finger) and a clear mind, free from distractions.
 3. Begin by grounding and centering oneself, then perform the Qabalistic Cross:
@@ -50,7 +50,7 @@ Ritual 2: The Middle Pillar Exercise
 
 The Middle Pillar Exercise, also developed within the Golden Dawn, is a meditative technique designed to balance and refine the practitioner's energy. Drawing from the Kabbalistic Tree of Life, it works with the five central sephiroth (energy centers) to awaken and enhance one's spiritual power.
 
-Steps:
+**Steps**:
 1. Stand or sit comfortably.
 2. Enter a relaxed and meditative state, focusing on the breath.
 3. Visualize a sphere of brilliant white light just above your head, corresponding to the Kether sephira. Vibrate the God name "Eheieh."
@@ -65,7 +65,7 @@ Ritual 3: Invocation of the Elemental Powers
 
 The ritual of invoking elemental powers is a practice found in various occult and pagan traditions. It is performed to enhance personal power, build a connection with nature's forces, and develop an understanding of the unique energies of the classical elements (air, fire, water, and earth).
 
-Steps:
+**Steps**:
 1. Assemble the following materials: incense (air), a candle (fire), a bowl of water (water), and a dish of salt or a stone (earth).
 2. Create a ritual space, placing each element in a corresponding direction: incense (east), candle (south), bowl of water (west), and dish of salt or stone (north).
 3. Stand at the center, facing east.

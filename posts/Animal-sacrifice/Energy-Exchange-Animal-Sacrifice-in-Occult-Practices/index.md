@@ -30,7 +30,7 @@ The correct answer is:
 
 - It functions as an exchange of energy, often for receiving blessings or invoking spiritual entities
 
-Explanation:
+**Explanation**:
 
 Animal sacrifice within the context of occult practices is not about inflicting harm or causing suffering, but an exchange of energy and a way of remembering and honoring the cyclical nature of life and death. It has been a part of human spiritual practices for thousands of years and is still practiced today in various forms throughout the world by different cultures and religious groups.
 

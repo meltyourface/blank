@@ -29,7 +29,7 @@ excerpt: >
 ---
 Answer: The ultimate level of spiritual attainment in Sufism, often symbolized by the pole star used as a metaphor for spiritual guidance
 
-Explanation: Qutub, also known as "the Axis" or "the Pole", refers to the central spiritual concept in various esoteric teachings, particularly in the Sufi tradition. It represents the highest level of spiritual attainment, where a Sufi mystic achieves union with the Divine.
+**Explanation**: Qutub, also known as "the Axis" or "the Pole", refers to the central spiritual concept in various esoteric teachings, particularly in the Sufi tradition. It represents the highest level of spiritual attainment, where a Sufi mystic achieves union with the Divine.
 
 In these teachings, Qutub is often symbolized by the pole star, which is a pervasive symbol of guidance and stability across many cultures. The pole star acts as a fixed point in the night sky, remaining unaffected by the rotation of the Earth. Similarly, the concept of Qutub is associated with the idea of an unchanging, unwavering spiritual truth that individuals strive to attain.
 

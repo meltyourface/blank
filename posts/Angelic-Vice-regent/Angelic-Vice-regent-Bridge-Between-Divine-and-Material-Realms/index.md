@@ -25,7 +25,7 @@ excerpt: >
 The role of Angelic Vice-regent primarily involves:
 Serving as an intermediary between the divine and material realms, communicating divine messages to humans.
 
-Explanation:
+**Explanation**:
 The Angelic hierarchy is a system that asserts the existence of various levels of angelic beings, each with their own specific purpose, role, and authority. The concept of the Angelic Vice-regent corresponds to an intermediary role between the divine and material realms. Its main responsibility is to communicate divine messages to humans, ensuring that the will of the divine is known and respected on earth.
 
 The notion of the Angelic Vice-regent is rooted in various religious and mystical traditions, including Christianity, Judaism, and Islamic mysticism. In these contexts, the Vice-regent occupies an essential role in the angelic hierarchy, acting as a bridge between the divine and the human world.

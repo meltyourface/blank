@@ -43,7 +43,7 @@ Esoteric Practices
 
 To harness the power of the All-Seeing Eye, initiates must first understand its symbolism and significance within their particular tradition. Depending on the belief system, the All-Seeing Eye can be invoked for spiritual protection, increased intuition, prophetic visions, or as a focus for meditation practices.
 
-Ritual: The All-Seeing Eye Meditation
+**Ritual**: The All-Seeing Eye Meditation
 
 This meditation practice aims to awaken your inner vision and connect with the All-Seeing Eye's energy.
 
@@ -56,16 +56,16 @@ This meditation practice aims to awaken your inner vision and connect with the A
 7. Maintain your concentration for 10-20 minutes, or as long as you are comfortable.
 8. When you finish, express gratitude for the experience and gently return to your normal state of awareness.
 
-Spell: Protection Charm with the All-Seeing Eye
+**Spell**: Protection Charm with the All-Seeing Eye
 
 This charm uses the All-Seeing Eye's symbolism for spiritual protection and guidance.
 
-Materials:
+**Materials**:
 - A small amulet or pendant with the All-Seeing Eye
 - A piece of paper
 - A black or white candle
 
-Instructions:
+**Instructions**:
 
 1. Cleanse the amulet or pendant with incense or saltwater, dispelling any previous energy.
 2. On the piece of paper, write your request for protection or guidance.

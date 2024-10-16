@@ -23,10 +23,10 @@ excerpt: Compose an extensive manual detailing the intricate techniques and sacr
 
 ## The Invisible Order of Illuminated Adepts: A Comprehensive Guide to Scrying and Divination
 
-Preface:
+**Preface**:
 This manual will guide the aspiring adept in the sacred art of scrying and divination, exploring the techniques and rituals associated with crystal balls, obsidian mirrors, and consecrated pools of water. Special attention will be paid to the spiritual preparation, meditation, and protective practices necessary to enhance the clarity and accuracy of the obtained visions.
 
-Introduction:
+**Introduction**:
 The Invisible Order of Illuminated Adepts, a secret society of esoteric practitioners, has long employed divination and scrying to glimpse the unseen and seek answers from the ethereal realm. This manual will reveal the techniques and rituals handed down through generations of adepts, allowing the dedicated seeker to unlock the mysteries of the cosmos.
 
 ### Chapter 1: Foundations of Scrying Divination
@@ -70,7 +70,7 @@ The Invisible Order of Illuminated Adepts, a secret society of esoteric practiti
 6.4. Respecting Boundaries and Ethical Guidelines
 6.5. Cleansing and Releasing after Scrying Work
 
-Conclusion:
+**Conclusion**:
 The dedicated seeker who has mastered the techniques and rituals contained in this manual will become a proficient scryer and diviner, revealing the secrets of the cosmos and assisting others on their spiritual journeys. The practices of the Invisible Order of Illuminated Adepts are now at their fingertips, and they are ready to step boldly into the unseen with wisdom and clarity.
 
-Copyright: Invisible Order of Illuminated Adepts
+**Copyright**: Invisible Order of Illuminated Adepts

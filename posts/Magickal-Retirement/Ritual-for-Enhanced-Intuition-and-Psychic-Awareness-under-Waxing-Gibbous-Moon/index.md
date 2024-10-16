@@ -22,22 +22,22 @@ excerpt: Design a comprehensive Magickal Retirement lunar ritual, tailored to he
 
 ## Ritual of the Mystical Moon
 
-Goal: To heighten intuition and expand psychic awareness
+**Goal**: To heighten intuition and expand psychic awareness
 
 Phase of the Moon: Waxing Gibbous
 
-Sigil: Design a sigil combining the glyphs of the Moon (crescent) with a personal symbol representing your intuitive or psychic abilities (e.g. an all-seeing eye, a star, or a spiral). The sigil should resonate with you and your intentions.
+**Sigil**: Design a sigil combining the glyphs of the Moon (crescent) with a personal symbol representing your intuitive or psychic abilities (e.g. an all-seeing eye, a star, or a spiral). The sigil should resonate with you and your intentions.
 
-Colors:
+**Colors**:
 - Silver (represents lunar energy and psychic awareness)
 - Purple (represents spiritual power and intuition)
 
-Herbs:
+**Herbs**:
 - Mugwort (aids in psychic abilities and intuition)
 - Lavender (calms the mind and promotes psychic visions)
 - Bay Leaf (strengthens intuition and foresight)
 
-Stones:
+**Stones**:
 - Moonstone (enhances intuition, psychic abilities, and connection to the Moon)
 - Labradorite (boosts psychic abilities and spiritual awareness)
 - Amethyst (supports spiritual growth and intuition)

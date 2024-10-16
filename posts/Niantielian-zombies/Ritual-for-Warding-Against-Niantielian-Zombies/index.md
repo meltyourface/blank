@@ -47,7 +47,7 @@ The Ritual:
 5. Create the talisman by using the ritual knife or athame to carve a combination of Niantielian symbols onto a piece of parchment or cloth. Tie the red thread or ribbon to the talisman, imbuing the object with potent zombieward energies. Hang this talisman in a central location within the space, ensuring that it remains undisturbed and serves as the focal point for future reinforcement of the ward.
 6. Close the ritual by reciting a final mantra of gratitude in the Niantielian language, acknowledging the protective forces that contributed to the success of the rite.
 
-Maintenance:
+**Maintenance**:
 Regularly inspect the symbols and talisman to ensure their integrity. Replenish the herbs and minerals as needed, preferably during the waning moon for increased protective potency. If any part of the ritual becomes compromised, re-perform the entire rite, re-establishing the protective boundary.
 
 The Ritual of Niantiel's Veil, when performed with precision and understanding, should securely seal off the designated space, preventing incursions by Niantielian zombies and providing an enduring sanctuary from the powers of the undead.

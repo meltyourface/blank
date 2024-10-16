@@ -22,7 +22,7 @@ excerpt: Compose an immersive guided astral voyage script for unveiling and intr
 
 ## Journey to Your Primal Soul-Creature
 
-Introduction:
+**Introduction**:
 Welcome, seeker of the hidden realms, to this journey of unveiling and intimately connecting with your primal soul-creature. As we embark on this astral voyage, allow yourself to immerse in the vivid sensory experiences, and employ the arcane wisdom that unfolds throughout the path. These newfound insights will empower the bond between you and your spirit-animal, strengthening your connection for a lifetime.
 
 Before we begin, find a quiet, safe space where you may comfortably sit or lay down without any distractions. Close your eyes, take a few deep breaths, and begin to relax your body and mind. Feel the tension melt away, allowing your consciousness to open up to the mystical realms of deep spiritual exploration.
@@ -73,7 +73,7 @@ Having encountered your primal soul-creature and having received its guidance, i
 
 Gradually, you exit the grotto and retrace your steps through the ancient forest. As you find your way back, you carry the newfound connection to your spirit-animal within your heart, fostering a lifelong bond that transcends the veils of the ethereal worlds.
 
-Conclusion: 
+**Conclusion**: 
 
 As you take one last look at the forest around you, close your eyes and begin to feel the familiarity of the room you began in. Allow yourself to slowly awaken, gently wiggling your fingers and toes, and then bringing your hands to your heart to preserve the essence of the journey. Open your eyes at your own pace.
 

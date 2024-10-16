@@ -59,7 +59,7 @@ Table of Contents:
 
 7. Conclusion: The Power of Dreams and Esoteric Wisdom
 
-Appendices:
+**Appendices**:
 - Glossary of Esoteric Terms and Dream Symbols
 - Recommended Reading and Resources
 

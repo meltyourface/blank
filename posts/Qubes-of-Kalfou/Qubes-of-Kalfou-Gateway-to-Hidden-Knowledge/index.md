@@ -28,7 +28,7 @@ excerpt: >
 ---
 Answer: Earth, Transformation, Crossroads, Four Quadrants
 
-Explanation: The Qubes of Kalfou is a complex system that deals primarily with the esoteric, occult, and hidden knowledge. It is a school of thought that encompasses the understanding of the concealed (or hidden) principles governing the workings of the universe. Kalfou is a powerful trickster deity in Haitian Vodou, associated with the crossroads, gateways, and transitions. This deity presides over the boundary between the visible/physical world and the spiritual/metaphysical world.
+**Explanation**: The Qubes of Kalfou is a complex system that deals primarily with the esoteric, occult, and hidden knowledge. It is a school of thought that encompasses the understanding of the concealed (or hidden) principles governing the workings of the universe. Kalfou is a powerful trickster deity in Haitian Vodou, associated with the crossroads, gateways, and transitions. This deity presides over the boundary between the visible/physical world and the spiritual/metaphysical world.
 
 The elements of Earth, Transformation, Crossroads, and Four Quadrants accurately represent the deep knowledge of the Qubes of Kalfou's structure, function, and associated symbols because they embody significant aspects of Kalfou's nature, his dominion over the crossroads, and the workings of the esoteric universe.
 

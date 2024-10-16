@@ -22,7 +22,7 @@ excerpt: Write a lesson on Dionysian thiasoi that provides a comprehensive yet c
 
 ## Dionysian Thiasoi: Historical Context, Rituals, Symbols, and Esoteric Significance
 
-Introduction: Understanding Dionysian Thiasoi
+**Introduction**: Understanding Dionysian Thiasoi
 Dionysian thiasoi, referring to the sacred and ecstatic congregations that worship the Greek god Dionysus, are important for grasping the rich history and spiritual practices of the Hellenistic world. These gatherings blended mysticism, ritual, and revelry, granting participants an opportunity to explore altered states of consciousness, ancient wisdom, and esoteric concepts. This lesson delves into the historical context, rituals and ceremonies, key symbols and deities, and the esoteric significance of participating in a Dionysian thiasos.
 
 ### Section 1: Historical Context

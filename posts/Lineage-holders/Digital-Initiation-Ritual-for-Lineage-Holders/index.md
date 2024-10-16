@@ -22,7 +22,7 @@ excerpt: Design a comprehensive digital ritual for the initiation and transmissi
 
 ## The Digital Initiatory Journey of the Lineage Holders
 
-Purpose: To design a comprehensive digital ritual for initiation and transmission of sacred knowledge within the Lineage holders' tradition, utilizing innovative multimedia platforms.
+**Purpose**: To design a comprehensive digital ritual for initiation and transmission of sacred knowledge within the Lineage holders' tradition, utilizing innovative multimedia platforms.
 
 Phase 1: Preparation for the Initiation
 

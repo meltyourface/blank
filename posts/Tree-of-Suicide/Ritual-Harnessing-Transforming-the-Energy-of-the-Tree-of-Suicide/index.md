@@ -21,7 +21,7 @@ excerpt: Devise a comprehensive ritualistic process for channeling and transmuti
 ---
 A comprehensive ritualistic process for channeling and transmuting malevolent energies affiliated with the Tree of Suicide involves numerous intricate steps, requiring absolute focus and determination from the practitioner. The goal of this ritual is to harness the dark energies connected to the Tree of Suicide, transmute them into restorative and benign forces, then utilize these transformed powers for spiritual growth and healing. In order to do this safely and effectively, you must follow these steps with precision.
 
-Materials:
+**Materials**:
 — The Sigil of Transmutation: A circular symbol divided into eight segments, each one representing the different branches of the Tree of Suicide
 — Crystals: Black Tourmaline, Clear Quartz, and Amethyst, charged with protective energy
 — Candles: Three black, three white, and three purple

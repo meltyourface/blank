@@ -21,7 +21,7 @@ excerpt: Create a detailed blueprints for a necromancer's lair, incorporating el
 ---
 Blueprint of the Necromancer's Lair:
 
-Exterior:
+**Exterior**:
 
 1. The outer entrance of the lair will be hidden in plain sight. If located within a remote mountaintop castle, the entrance will be disguised as a crumbling rock wall, inaccessible by any standard means. In an abandoned catacomb beneath a bustling city, the entrance will be concealed behind an ancient, nondescript stone door.
 
@@ -29,7 +29,7 @@ Exterior:
 
 3. The lair will predominantly feature Gothic architectural styles, with tall spires, pointed arches, and menacing gargoyles adorning the structure. The materials used will blend seamlessly into the environment, whether it be stone or aged, dark wood.
 
-Interior:
+**Interior**:
 
 1. Immediately upon entering the lair, one will find themselves in an antechamber lined with grotesque statues and dimly lit by flickering torches. This area is meant to evoke a general sense of unease.
 

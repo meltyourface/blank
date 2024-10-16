@@ -22,7 +22,7 @@ excerpt: >
 ---
 Sigil Name: Luminis Pura
 
-Description:
+**Description**:
 
 The Luminis Pura is a sigil specifically designed for the Ritual of Purification, with the intent to promote mental clarity and cleanse negative energies.
 
@@ -44,7 +44,7 @@ Interwoven with the pentagram is the lemniscate, or infinity symbol. The lemnisc
 
 When these elements intertwine, they form the Luminis Pura sigil, a powerful and visually appealing symbol that embodies the core principles of purification and fosters an atmosphere of focus and tranquility. 
 
-Application:
+**Application**:
 
 To perform the Ritual of Purification using the Luminis Pura sigil, follow these steps:
 

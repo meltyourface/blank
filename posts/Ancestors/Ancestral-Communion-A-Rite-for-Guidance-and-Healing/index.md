@@ -23,7 +23,7 @@ excerpt: >
 
 ## Title: The Ancestral Key: Unlocking the Ancient Rites of Ancestral Communion
 
-Introduction:
+**Introduction**:
 Ancestral worship is a time-honored and prevalent aspect of countless global cultural and spiritual traditions. It entails venerating and calling upon the spirits of our forebears through intricate ceremonies, rites, and rituals designed to strengthen our connection, attain wisdom and guidance, and maintain the balance between the physical and spiritual worlds. Notable ancestral ceremonies include the Chinese Tomb-Sweeping Day (Qingming), the African Dagara tribe's custom of ancestor dance, the Japanese Bon Festival (Obon), and the Mexican Day of the Dead (Día de los Muertos).
 
 In this guide, we delve into the lesser-known, esoteric ancestral worship ceremony rooted in the Ancestors domain, which we shall call "The Ancient Rite of Ancestral Communion." The rite is divided into three parts: preparation, invocation, and offering. 

@@ -33,7 +33,7 @@ The participant should create a circle of lunar symbols, stones, candles, and ot
 ### III. The Waxing Moon Ritual (Embracing New Beginnings):
 As the Moon grows larger in the sky, the participant should meditate on their life changes and visualize how their Wyrd intertwines with the ever-shifting lunar energy. The participant will set goals and aspirations for their new path while acknowledging their place within the immutable tapestry of Wyrd.
 
-Instructions:
+**Instructions**:
 1. Light a white candle.
 2. Hold a piece of silver thread in hand.
 3. Recite the following incantation: "By the waxing moon's growing light, my Wyrd is weaving, my path made right."
@@ -44,7 +44,7 @@ Instructions:
 ### IV. The Full Moon Ritual (Releasing Old Patterns):
 During the Full Moon, the participant should focus on shedding old habits and patterns by figuratively cutting any ties that may bind them to their past.
 
-Instructions:
+**Instructions**:
 1. Light a black candle.
 2. Hold a small pair of scissors or a knife.
 3. Recite the following incantation: "In the full moon's illuminating glow, I release the past, my Wyrd does show."
@@ -55,7 +55,7 @@ Instructions:
 ### V. The Waning Moon Ritual (Gaining Greater Spiritual Understanding):
 As the Moon retreats, it signifies the journey within for introspection and personal growth. This phase encourages the participant to consolidate their experiences and inspirations from their newfound path into a clearer spiritual understanding.
 
-Instructions:
+**Instructions**:
 1. Light a silver candle.
 2. Hold a small loom or woven item (to symbolize the intricate fabric of Wyrd).
 3. Recite the following incantation: "By the waning moon's decreasing light, I glean wisdom, my Wyrd takes flight."

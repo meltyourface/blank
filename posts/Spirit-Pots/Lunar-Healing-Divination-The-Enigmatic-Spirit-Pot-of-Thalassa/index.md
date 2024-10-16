@@ -42,13 +42,13 @@ The Ritual:
 **Step 5**: Sit in a meditative state with the hands placed on the Spirit Pot. Envision the desired outcome, whether it is healing or divination. Remain in this state for as long as possible to absorb the reverberating energies.
 **Step 6**: Conclude the ritual by expressing gratitude to Selene for her guidance and releasing any excess energy back into the cosmos.
 
-Outcomes:
+**Outcomes**:
 
 1. Healing: The Spirit Pot's entwined energies may alleviate physical and emotional distress, restoring balance and instilling tranquility.
 
 2. Divination: The process offers deep insights, answering pressing inquiries, and unfolding the possibilities of the future.
 
-Precautions:
+**Precautions**:
 
 1. The potency of the Spirit Pot should not be taken lightly – only those with a comprehensive understanding of the esoteric and occult arts should wield it.
 

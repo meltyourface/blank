@@ -23,7 +23,7 @@ excerpt: >
 
 ## The Korybantic Scene: Rituals, Practices, and Symbology
 
-Introduction: Unveiling the Korybantic Mysteries
+**Introduction**: Unveiling the Korybantic Mysteries
 
 The Korybantic scene, often shrouded in mystery and intrigue, represents a branch of esotericism that has roots in ancient civilizations and has evolved over time into a complex system of rituals, practices, and symbolic frameworks. With its origins in the worship of the Phrygian deity Cybele, the Korybantic rites have been adopted and adapted by various cultures throughout history, including the Greeks and Romans, creating a rich and intricate tapestry of beliefs and practices that still resonates with practitioners of the occult today.
 

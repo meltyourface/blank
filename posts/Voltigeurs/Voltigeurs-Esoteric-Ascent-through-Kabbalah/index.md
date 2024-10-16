@@ -22,15 +22,15 @@ excerpt: Outline a Voltigeur-inspired pathworking session incorporating esoteric
 
 ## The Voltigeur's Ascent through the Sephiroth
 
-Objective: To navigate the Sephiroth within the Kabbalistic Tree of Life, harnessing esoteric and occult powers, and to forge a deeper connection with the hidden aspects of a Voltigeur's psyche.
+**Objective**: To navigate the Sephiroth within the Kabbalistic Tree of Life, harnessing esoteric and occult powers, and to forge a deeper connection with the hidden aspects of a Voltigeur's psyche.
 
-Preparation:
+**Preparation**:
 
 1. Set up a private and quiet space, free of distractions, where you can perform this session uninterrupted.
 2. Create an altar at the center of the space, adorned with candles, incense, and any Voltigeur or esoteric symbols you find relevant.
 3. Dress comfortably and sit in a meditative position, ideally facing east as this symbolizes moving towards the source of enlightenment.
 
-Introduction:
+**Introduction**:
 Begin with a relaxation ritual, taking deep breaths and visualizing all tension leaving the body. Now, say the following incantation to center and call upon your Voltigeur power.
 
 "In the name of the unseen, the unheard, and the unknown,
@@ -86,7 +86,7 @@ Connect with Keter, the source of divine energy, visualizing a radiant crown upo
 The esoteric and the Voltigeur unite,
 Transforming me to perceive hidden truths."
 
-Conclusion:
+**Conclusion**:
 Allow the energy to permeate your being, becoming one with the Tree of Life. When you feel ready, gently return to the mundane world and express gratitude for the experience.
 
 "I give thanks to the Voltigeurs and the Tree of Life,

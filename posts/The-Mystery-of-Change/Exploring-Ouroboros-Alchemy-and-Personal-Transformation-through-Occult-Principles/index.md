@@ -27,11 +27,11 @@ The challenge posed is to analyze the symbolism of the Ouroboros and the process
 
 ### I. Essential Concepts
 
-Ouroboros:
+**Ouroboros**:
 
 The Ouroboros is an ancient symbol depicting a serpent or dragon eating its own tail. It represents the cyclical nature of existence, as well as the eternal cycle of life, death, and rebirth. Found across numerous cultures and time periods, the Ouroboros carries with it themes of self-sustenance, renewal, and perpetual motion.
 
-Alchemy:
+**Alchemy**:
 
 Alchemy is a philosophical and protoscientific practice that aimed to achieve the transmutation of base metals into noble metals, particularly gold, as well as the discovery of the philosopher's stone - a substance capable of granting immortality and eternal youth. Throughout time, Alchemy has evolved into a vast and complex symbolism, with the concept of transformation at its core. Alchemists sought to understand the underlying principles governing the natural world, align themselves with these principles, and use their knowledge to purify and transform both matter and the human spirit.
 

@@ -22,9 +22,9 @@ excerpt: Design and conduct an Anasyrma-centric visualization exercise tailored 
 
 ## The Journey of the Astral Sigil
 
-Objective: To guide a student with a deep fascination for astral projection and otherworldly realms through a visualization exercise that focuses on an Anasyrma-centric approach.
+**Objective**: To guide a student with a deep fascination for astral projection and otherworldly realms through a visualization exercise that focuses on an Anasyrma-centric approach.
 
-Materials: A quiet, comfortable space for meditation, a pen and paper for sigil design, and a printout of a reference guide on sacred geometry (such as Metatron's Cube or the Flower of Life).
+**Materials**: A quiet, comfortable space for meditation, a pen and paper for sigil design, and a printout of a reference guide on sacred geometry (such as Metatron's Cube or the Flower of Life).
 
 Begin by helping the student create their personal astral sigil, which will serve as a visual anchor throughout the exercise. Encourage them to incorporate sacred geometry and symbols of personal significance related to their preferred esoteric domain (e.g., astral projection, spirit communication, or divination).
 

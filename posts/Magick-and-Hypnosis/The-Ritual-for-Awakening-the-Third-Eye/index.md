@@ -31,7 +31,7 @@ Materials needed:
 - A smudging bundle made from sacred herbs such as sage, cedar, or sweetgrass.
 - Essential oils such as lavender or sandalwood (optional).
 
-Instructions:
+**Instructions**:
 
 1. Create a sacred space: Tidy the room or area where the ritual will take place and cleanse it using the smudging bundle. Light the herbs, blow out the flame, and let the smoke fill the space. Use your hands to direct the smoke, symbolically cleansing the area of negative energies and creating a safe and harmonious environment for the ritual.
 

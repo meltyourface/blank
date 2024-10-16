@@ -22,7 +22,7 @@ excerpt: Write a short and informationally dense text on the topic of Black Book
 
 ## The Dark Mysteries of European Necromancy
 
-Introduction: The Foundations of Necromancy
+**Introduction**: The Foundations of Necromancy
 
 Necromancy, the arcane art of communicating with the dead and directing their powers, has been a staple of European esotericism since ancient times. Veiled by secrecy, symbols, and dark rituals, the Black Books of European necromancy harbor numerous spells, invocations, methods, and incantations designed for those who dare to venture into this realm of the occult.
 

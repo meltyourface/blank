@@ -22,9 +22,9 @@ excerpt: Devise an intricate ritual to urgently summon a potent protective barri
 
 ## Ritual of the Aegis
 
-Purpose: To urgently summon a potent protective barrier against malevolent supernatural forces.
+**Purpose**: To urgently summon a potent protective barrier against malevolent supernatural forces.
 
-Components:
+**Components**:
 
 1. Five small obsidian stones, representing the pentacle of protection
 2. A vial of blessed saltwater, for purification and warding off negative energies

@@ -23,7 +23,7 @@ excerpt: >
 
 ## Title: The Mysterious Mandrake Root: A Comprehensive Study
 
-Introduction: Mandrake Root and Its Occult History
+**Introduction**: Mandrake Root and Its Occult History
 
 The Mandrake root (Mandragora officinarum) has been entwined with the world of the occult since ancient times. With a rich history spanning multiple cultures and geographic regions, the Mandrake has been revered and feared for its potent powers and mysterious properties. From legends of its screams causing death to tales of its efficacy as a powerful aphrodisiac, the Mandrake has earned a place of infamy within the annals of magical lore. In this section, we will delve into the occult history, significance, and applications of this fascinating botanical specimen and provide practical guidance for harnessing its power safely and effectively.
 

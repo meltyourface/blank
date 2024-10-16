@@ -36,7 +36,7 @@ Instructions for Harnessing Power:
 - With a calm, focused, and open mind, gaze into the ball, allowing your thoughts to drift.
 - Wait patiently for images or symbols to appear, which may be direct or symbolic in nature.
 
-Precautions:
+**Precautions**:
 - Avoid using a crystal ball known to carry negative energies, as it can lead to inaccurate or harmful readings.
 - Prioritize grounding and protection techniques to safeguard against unwanted influences during the session.
 
@@ -53,7 +53,7 @@ Instructions for Harnessing Power:
 - Let your vision soften and focus on your breath, allowing your peripheral vision to expand.
 - Observe the images, symbols, or messages that materialize.
 
-Precautions:
+**Precautions**:
 - Engage in protection rituals to repel any negative energies or entities.
 - Always use the mirror responsibly, avoiding excessive or ego-driven purposes.
 
@@ -70,7 +70,7 @@ Instructions for Harnessing Power:
 - In a dim, quiet environment, gaze upon the water's surface, allowing your mind to empty.
 - Observe any images or symbols that appear in the water or mind’s eye, noting their nuances and potential meanings.
 
-Precautions:
+**Precautions**:
 - Ensure the water source is pure, unpolluted, and obtained with respect to its origin.
 - Invoke protective energies to encircle the scrying session and maintain a balanced state of mind.
 

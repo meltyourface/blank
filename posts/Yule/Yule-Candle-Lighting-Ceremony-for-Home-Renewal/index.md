@@ -22,7 +22,7 @@ excerpt: Devise an intricate Yule candle-lighting ceremony for the Winter Solsti
 
 ## The Enlightening Embrace of Yule
 
-Objective: To perform a sacred Yule candle-lighting ceremony on the Winter Solstice to infuse the home with warmth, luminosity, and honor the returning sun during the period of darkness.
+**Objective**: To perform a sacred Yule candle-lighting ceremony on the Winter Solstice to infuse the home with warmth, luminosity, and honor the returning sun during the period of darkness.
 
 Materials needed:
 1. Four large pillar candles (colors: red for the south, green for the north, yellow for the east, and blue for the west)
@@ -35,7 +35,7 @@ Materials needed:
 8. A feather or fan
 9. A small cauldron of ignited charcoal
 
-Instructions:
+**Instructions**:
 
 1. Begin by preparing the ritual space. Clear the space of any clutter or unnecessary belongings. Sweep the area with a broom to "sweep away" any negative energy.
 

@@ -22,7 +22,7 @@ excerpt: Write a detailed lesson from a grimoire or spellbook focusing on the oc
 
 ## The Arcanum of Enlightened Teaching
 
-Introduction: The Occult Roots of Teaching
+**Introduction**: The Occult Roots of Teaching
 
 The art of Teaching, as explored in the realm of the occult and esoteric, finds its foundation in an ancient hermetic wisdom that transcends the ordinary methods and mechanisms of traditional scholarship. Where previously teaching might have been thought of as the simple imparting of knowledge from one individual to another, the mystical approach to pedagogy emphasizes the role of energetic exchange, the invocation of higher spiritual forces, and the transformation of both student and teacher through the process of learning.
 

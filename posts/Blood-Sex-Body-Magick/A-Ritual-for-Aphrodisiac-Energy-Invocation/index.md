@@ -23,9 +23,9 @@ excerpt: >
 
 ## Title: The Rite of Aphrodisiac Synthesis
 
-Overview: The Rite of Aphrodisiac Synthesis is an intricate Blood Sex Body Magick ritual designed to channel the potent energies of aphrodisiac herbs and plants into a sacred blend, harnessing their power for use within the sphere of sexuality and sensuality. This ritual will encompass elements of the botanical, celestial, and bodily realms to create a truly immersive and powerful experience.
+**Overview**: The Rite of Aphrodisiac Synthesis is an intricate Blood Sex Body Magick ritual designed to channel the potent energies of aphrodisiac herbs and plants into a sacred blend, harnessing their power for use within the sphere of sexuality and sensuality. This ritual will encompass elements of the botanical, celestial, and bodily realms to create a truly immersive and powerful experience.
 
-Ingredients:
+**Ingredients**:
 
 1. Damiana leaves (Turnera diffusa)
 2. Maca root (Lepidium meyenii)
@@ -40,7 +40,7 @@ Ingredients:
 
 Celestial Alignments: The optimal time to perform this ritual is during the waxing gibbous or full moon phases, when the moon’s energy is most potent for harnessing aphrodisiac properties. Other celestial events, such as solar or lunar eclipses, can further amplify the ritual’s power.
 
-Preparation:
+**Preparation**:
 
 1. Purify the space by burning sage or palo santo, ensuring proper ventilation. This removes any lingering negative energies.
 2. Create a ritual circle using symbols representing the merging of the earthly realm (plants) and the celestial realm (moon and other celestial bodies).
@@ -52,7 +52,7 @@ Sacred Blend Preparation:
 2. Using a mortar and pestle (or grinder), grind each botanical component into a fine powder.
 3. Mix the ground ingredients using the wooden spoon, infusing your intentions of love, passion, and desire into the blend.
 
-Ritual:
+**Ritual**:
 
 1. Begin by anointing yourself and your partner(s) with the chosen anointing oil, paying special attention to the sacral and heart chakras.
 2. Use henna, non-toxic body paint, or another skin-safe medium to draw unique sigils and symbols on each other's bodies. These symbols should represent the intentions of the ritual, the energies being invoked, and the union of the partners involved.
@@ -62,7 +62,7 @@ Ritual:
 6. Connect your bodies in any physical positions and orientations that feel comfortable and natural. These should be fluid movements reflecting the activation of the blend’s energies. Continue to create sacred sounds throughout this phase.
 7. Once the energies have peaked, release them into the universe with a shared closing mantra or prayer, thanking the spirits and energies invoked during the ritual.
 
-Aftercare:
+**Aftercare**:
 
 1. Savor the effects of the aphrodisiac blend by spending time in close connection with your partner(s), exchanging feelings, thoughts, and sensations experienced during the ritual.
 2. Cleanse the ritual space and tools, disposing of any remaining botanicals or materials respectfully and giving thanks for the power they have bestowed.

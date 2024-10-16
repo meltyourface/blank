@@ -22,9 +22,9 @@ excerpt: Develop an intricate, Epoptai-specific ceremonial procedure to establis
 
 ## The Ritual of the Sacred Celestial Protector
 
-Objective: To establish a profound connection with one's Sacred Celestial Protector using personalized symbols, esoteric tools, and tailored chants.
+**Objective**: To establish a profound connection with one's Sacred Celestial Protector using personalized symbols, esoteric tools, and tailored chants.
 
-Preparation:
+**Preparation**:
 
 1. ****Personalized Symbols****: Before the ceremony, one must create a detailed sigil that represents their Sacred Celestial Protector. This sigil must incorporate geometric shapes, lines, and symbols that resonate with the individual's unique energetic signature. The sigil will act as an anchor point for the ritual.
 
@@ -38,7 +38,7 @@ Preparation:
 
 3. ****Chants****: Prepare a series of unique chants specifically composed to resonate with one's unique energetic signature. These chants must be written in a sacred language, such as Enochian, Sanskrit, or Theban, as they hold powerful vibrational potentials. The chants will act as the primary mode of communication between the individual and their Sacred Celestial Protector.
 
-Procedure:
+**Procedure**:
 **Step 1**: Purification
 The ritual space must be purified to create a conducive environment for connecting with the Sacred Celestial Protector. Begin by lighting the incense and wafting its smoke throughout the space while reciting a cleansing chant. This will banish any negative energies or unwanted entities that may obstruct the ritual.
 **Step 2**: Casting the Circle

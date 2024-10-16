@@ -22,7 +22,7 @@ excerpt: Generate a section of a grimoire that provides a comprehensive overview
 
 ## Ordo Templi Orientis: History, Principles, and Structure
 
-Introduction: Ordo Templi Orientis
+**Introduction**: Ordo Templi Orientis
 
 Ordo Templi Orientis (OTO) is a mystical and occult organization founded in the early 20th century. It has been associated with prominent figures such as Aleister Crowley and Karl Kellner, who were instrumental in establishing the key principles, beliefs, practices, and structures that define the organization to this day. OTO has its roots in the Western esoteric tradition, combining influences from Freemasonry, Rosicrucianism, Thelema, and various other spiritual systems. This section provides a comprehensive overview of OTO, serving as a foundation for deeper study for initiates.
 

@@ -52,7 +52,7 @@ Design your dream pillow using sacred geometry patterns to design the pillow's e
 Moon Phase:
 Craft your dream pillow during the optimal moon phase for dreamwork: the waxing or full moon. Waxing moons symbolize growth, making it great for enhancing dream recall and lucidity, while the full moon radiates powerful energy, amplifying your intentions.
 
-Instructions:
+**Instructions**:
 
 1. Sew the pillowcase using the chosen fabric, leaving one side open for stuffing it later.
 

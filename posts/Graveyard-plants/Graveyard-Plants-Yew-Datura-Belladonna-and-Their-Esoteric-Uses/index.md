@@ -37,7 +37,7 @@ Magical Properties: Yew's enduring ties with the eternal make it an excellent co
 
 Harvesting and Preparation: To harness Yew's energies, collect leaves, berries, or wood during the waning moon, taking care to approach the tree with reverence and gratitude. Once acquired, allow the botanicals to air-dry in a shaded place, away from direct sunlight, until fully desiccated. Following this, store the potent plant material in a dark, cool place until needed for future endeavors.
 
-Precautions: Please note that, although visually beautiful, Yew is poisonous, both to humans and animals. Exercise caution while handling, storing, and using these botanicals to prevent accidental ingestion or absorption.
+**Precautions**: Please note that, although visually beautiful, Yew is poisonous, both to humans and animals. Exercise caution while handling, storing, and using these botanicals to prevent accidental ingestion or absorption.
 
 ### Section 3.2: Datura (Datura spp.)
 
@@ -49,7 +49,7 @@ Magical Properties: The magical uses of Datura extend to spells and practices co
 
 Harvesting and Preparation: Datura should be conscientiously and respectfully gathered in the full moon's light, communing with the plant to request its cooperation. To prepare the plant for use, dry the leaves or flowers carefully away from sunlight, placing the desiccated components in a dark and cool environment for storage.
 
-Precautions: Datura possesses a highly potent psychoactive nature and should be treated with the utmost caution. Ingestion or excessive contact with the skin can lead to harmful effects. Furthermore, pregnant or nursing individuals must never handle or use Datura in any form.
+**Precautions**: Datura possesses a highly potent psychoactive nature and should be treated with the utmost caution. Ingestion or excessive contact with the skin can lead to harmful effects. Furthermore, pregnant or nursing individuals must never handle or use Datura in any form.
 
 ### Section 3.3: Belladonna (Atropa belladonna)
 
@@ -61,6 +61,6 @@ Magical Properties: In magical applications, Belladonna's affinity for the subco
 
 Harvesting and Preparation: To gather Belladonna, approach the plant respectfully and mindfully during the dark moon's phase. Dry the leaves, berries, or roots in a protected, shaded area, and store the desiccated botanicals in a cool, dark place while ensuring they are well-identified and secured to prevent accidents.
 
-Precautions: Belladonna is a highly toxic plant, and contact should be minimal. Therefore, gloves should be worn while handling, as ingestion or absorption can lead to severe poisoning. Pregnant and breastfeeding individuals must avoid contact with Belladonna at all costs.
+**Precautions**: Belladonna is a highly toxic plant, and contact should be minimal. Therefore, gloves should be worn while handling, as ingestion or absorption can lead to severe poisoning. Pregnant and breastfeeding individuals must avoid contact with Belladonna at all costs.
 
 As we conclude this enthralling exploration of these three mystical graveyard plants, may your understanding serve as a powerful ally in manifesting the countless possibilities that lie within the realms of the esoteric and the occult. Remember always to embrace the ephemeral darkness, as it is within this enigmatic space that true illumination thrives.

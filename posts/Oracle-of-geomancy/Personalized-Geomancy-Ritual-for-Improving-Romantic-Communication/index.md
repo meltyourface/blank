@@ -28,21 +28,21 @@ For this personalized ritual, we will be incorporating three geomantic figures â
 
 1. **Puella (the Girl)**:
 
-Element: Water
+**Element**: Water
 Symbolism: Harmony, balance, beauty, love, relationships, and receptivity.
 
 Puella represents the nurturing and compassionate aspects of the feminine archetype. It symbolizes balance, grace, and beauty; as well as the power of attraction and forming connections. When Puella appears in a reading, it often suggests that relationships, love, and emotional well-being are coming to the forefront of the subject's life.
 
 2. **Rubeus (Red)**:
 
-Element: Air
+**Element**: Air
 Symbolism: Passion, desire, revolution, transformation, and agitation.
 
 Rubeus signifies intense energy, dynamic change, and transformative power. It evokes strong emotions â€“ both positive and negative. As an Air-ruled figure, it represents the volatile, ever-changing nature of thoughts and ideas. When Rubeus appears, it alerts the subject to be aware of the tumultuous and unpredictable forces at work in their life, which could lead to sudden changes and upheavals.
 
 3. **Conjunctio (The Conjunction)**:
 
-Element: Earth
+**Element**: Earth
 Symbolism: Union, communication, collaboration, meeting, and agreements.
 
 Conjunctio represents the joining together of different forces, energies, or people in a harmonious and cooperative manner. It signifies communication, partnerships, and the binding together of seemingly disparate elements to create something new, stable, and beneficial. Conjunctio often indicates fruitful collaborations, joint ventures, or the forging of supportive relationships.

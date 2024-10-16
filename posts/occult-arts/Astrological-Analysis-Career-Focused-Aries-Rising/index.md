@@ -52,13 +52,13 @@ Dominant elements: Earth (Sun and Saturn in Capricorn, Pluto in Virgo) and Air (
 
 Dominant planetary rulers: Mars (Aries rising), Saturn (Capricorn Sun), Mercury (Gemini Moon)
 
-Character:
+**Character**:
 This individual is likely ambitious, practical, and highly competent when it comes to achieving long-term objectives. The Sun in Capricorn imparts an air of responsibility and dedication to goals while the Moon in Gemini contributes to versatility, curiosity, and adaptability. Their Aries rising lends an assertive, pioneering spirit that manifests in their ability to take action and lead.
 
-Strengths:
+**Strengths**:
 The conjunction of Sun and Saturn in the 10th house speaks to a potential for great success in professional endeavors. They have the discipline and determination to rise steadily within hierarchical structures. The Moon in the 3rd house reveals a strong drive for knowledge as well as a knack for communication.
 
-Challenges:
+**Challenges**:
 Their Mars in Libra in the 7th house may cause indecisiveness when it comes to making decisions or taking action. Balancing their own needs versus the needs of others could be an ongoing challenge. A tense square between the Moon in Gemini and Jupiter in Cancer could result in emotional turbulence or exaggerated appetites.
 
 Life Path:

@@ -39,6 +39,6 @@ The natural grazing lands available to Sámi reindeer herds are under constant t
 
 The Sámi people have not been immune to the impacts of modernization, with climate change exacerbating cultural and spiritual shifts. Substantial encroachments on Sámi territories from mining, logging, and wind energy projects further contribute to the decline of reindeer habitats and the erosion of the herding way of life. Personal accounts from Sámi herders will provide a compelling insight into the tensions between traditional cultural practices and forces of contemporary transformation.
 
-Conclusion: Contemplating Adaptation Strategies
+**Conclusion**: Contemplating Adaptation Strategies
 
 Facing the inextricable link between their cultural practices, reindeer husbandry, and the environment, the Sámi must consider adaptation strategies to ensure the sustainability of their unique sociocultural ecosystem. By incorporating traditional Sámi knowledge alongside innovative approaches, such as technological advancements and cooperative alliances with scientists and policy-makers, this conclusion will contemplate potential pathways for preserving the Sámi's cherished relationship with their environment, reindeer, and collective cultural identity.

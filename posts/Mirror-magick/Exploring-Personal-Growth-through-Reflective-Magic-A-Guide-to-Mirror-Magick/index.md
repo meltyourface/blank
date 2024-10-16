@@ -66,7 +66,7 @@ Materials needed:
 - A mirror (preferably a handheld or portable size)
 - Candles, incense, or other cleansing tools
 
-Instructions:
+**Instructions**:
 
 1. Begin by thoroughly cleansing your mirror, removing any dust or unwanted energy. Consecrate the mirror through a ritual of your choice.
 

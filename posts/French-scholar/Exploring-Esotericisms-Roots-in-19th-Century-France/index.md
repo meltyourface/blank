@@ -22,10 +22,10 @@ excerpt: Analyze the complex interrelations between the intellectual and occult 
 Introduction: 
 During the 19th century, France underwent significant changes both socially and intellectually. The Industrial Revolution, the rise of the bourgeoisie, and the decline of the aristocracy all contributed to a shift in the intellectual landscape. Amidst this transformation, many individuals became interested in exploring the arcane truths hidden in ancient texts and secret societies. A confluence of Egyptology, Hermeticism, and French secret societies led to a unique interplay between the intellectual and occult movements in France, giving birth to what we now recognize as esotericism.
 
-Egyptology:
+**Egyptology**:
 As a result of Napoleon Bonaparte's conquest of Egypt in 1798, French scholars gained access to a wealth of ancient Egyptian artifacts and texts. This ignited widespread interest in deciphering the ancient Egyptian language and exploring its spiritual and philosophical implications. The Rosetta Stone's discovery, which enabled the translation of ancient Egyptian hieroglyphs, facilitated deeper understanding not just of the culture, but of its mystical and esoteric beliefs. For example, Egypt's relationship with the afterlife, and rituals surrounding death sparked the French intelligentsia's interest in the metaphysical realm.
 
-Hermeticism:
+**Hermeticism**:
 Hermeticism is a philosophical and spiritual belief system originating from the Hellenistic period, based primarily on the teachings of Hermes Trismegistus. The foundational text of Hermeticism, the Corpus Hermeticum, was re-discovered and translated during the Renaissance. It gained traction among French scholars and blended with local occult practices, such as alchemy and Kabbalah. Additionally, Hermeticism's concept of "as above, so below" (the idea of a macrocosm-microcosm relationship between the universe and the individual) resonated with many intellectuals seeking to understand the complex relationship between the physical and metaphysical worlds.
 
 Key French Scholars:

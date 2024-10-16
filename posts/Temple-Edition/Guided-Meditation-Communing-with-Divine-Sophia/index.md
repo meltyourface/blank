@@ -59,6 +59,6 @@ Her melodious voice whispers, revealing insights and bestowing her blessings:
 
 The Temple of the Divine Sophia dissolves, the Light-Fire diminishing. Offer gratitude and acknowledgment before returning to your earthly plane. Carry the celestial illumination you received, a beacon within your heart, guiding your every choice.
 
-Conclusion:
+**Conclusion**:
 
 Trust in this mystical, guided communion with the Divine Sophia, for within it, profound spiritual transformation and growth reside. The Temple Edition teachings will continue to awaken your divine essence, as you step confidently upon the hallowed paths of ancient wisdom and sacred union with the celestial realms.

@@ -21,7 +21,7 @@ excerpt: Design a comprehensive guide detailing the ideal candle-scents, colors,
 ---
 A Comprehensive Guide to Zodiac Candles: Scents, Colors, Materials, Symbols, and Rituals
 
-Introduction:
+**Introduction**:
 Zodiac candles are a powerful tool for harnessing the energies of the astrological signs and their associated elements. This comprehensive guide will help you understand how to choose the ideal candle scents, colors, and materials corresponding to each zodiac sign, along with unique esoteric symbols and occult rituals to enhance their potency.
 
 1. Aries (March 21 - April 19) - Fire
@@ -108,5 +108,5 @@ Zodiac candles are a powerful tool for harnessing the energies of the astrologic
     Symbol: Two fish
     Ritual: Light the Pisces candle on a Waxing Gibbous Moon to amplify intuition, compassion, and spiritual connection. Meditate on the two fish symbol, promoting a balance between the physical and metaphysical realms.
 
-Conclusion:
+**Conclusion**:
 By utilizing this guide, you will be able to harness the energy of the zodiac signs and their corresponding elements through tailored candle scents, colors, and materials. The unique esoteric symbols and rituals included will serve to amplify the energetic properties of these candles and maximize their benefits when used during specific astrological events.

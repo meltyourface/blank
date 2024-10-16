@@ -23,7 +23,7 @@ excerpt: >
 ---
 The multifaceted role of Wyrd in AbsenceGermanic sorcery is an enthralling subject that touches upon the complexities of fate, determinism, and individual agency in spiritual practice. To thoroughly explore the concept of Wyrd, we will first delve into its etymology, followed by the cultural influences that shaped its development. Next, we will investigate the implications of Wyrd for an initiate's personal journey within AbsenceGermanic sorcery. Finally, we will discuss the interplay of fate, determinism, and individual agency, and consider strategies for balancing one's reverence for these concepts with the pursuit of mastery.
 
-Etymology:
+**Etymology**:
 Wyrd, etymologically speaking, is derived from the Old English word "weorþan," meaning "to become" or "to come to pass." This concept has evolved over time, shifting from a purely deterministic model to incorporate aspects of individual agency. The earliest forms of the word root primarily in Germanic cultures, and Wyrd has since been recognized as a central concept in both Norse cosmology and traditional European witchcraft.
 
 Cultural Influences:

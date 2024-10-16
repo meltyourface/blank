@@ -28,7 +28,7 @@ Ingredients:
 - Mandrake root
 - Moonstone
 
-Method:
+**Method**:
 Begin the process during a new moon to harness the lunar energy. **Carefully mix equal parts of mercury, lead, and iron pyrite, and grind them into a fine powder. In a crucible, heat the mixture until it forms a uniform black mass. Add finely ground mandrake root and moonstone powder in a 2**:1 ratio to the mass. Allow the blend to cool, then store it in a dark place, wrapped in lead sheets and bound with black silk. 
 
 Stage 2: Albedo - The Whitening
@@ -38,7 +38,7 @@ Ingredients:
 - Salt
 - Dove's blood
 
-Method:
+**Method**:
 Commence this stage during a waxing moon. Melt silver in a separate crucible. Add equal parts of stage 1 black mass to the crucible while maintaining heat. The mixture should now be viscous but not burning. Gently dissolve salt, then carefully pour dove's blood into the concoction while reciting ancient alchemical incantations. As you complete the recitations, the mixture should transform into a silvery-white, luminescent liquid.
 
 Stage 3: Citrinitas - The Yellowing
@@ -48,7 +48,7 @@ Ingredients:
 - Sulfur
 - Sunstone
 
-Method:
+**Method**:
 On the day of the summer solstice, heat the stage 2 white liquid in a new crucible. Melt gold and pour it into the mixture, then add finely ground sunstone, and sulfur. The substance should now turn into a golden-yellow, semi-solid material similar to butter. Place the material in a glass alembic and expose it to sunlight for seven days to fully absorb solar energy.
 
 Stage 4: Rubedo - The Reddening
@@ -58,14 +58,14 @@ Ingredients:
 - Bloodstone
 - Dragon's blood
 
-Method:
+**Method**:
 During a full moon, heat the stage 3 yellow substance in a crucible. Add ground cinnabar, bloodstone powder, and dragon's blood. The substance will change, turning bright crimson, and release a sweet fragrance. Allow the mixture to cool, then place it in a gold-lined receptacle, topped with a hermetic seal.
 
 Stage 5: Completion & Transmutation
 Ingredients:
 - Stage 4 red stone
 
-Method:
+**Method**:
 The Philosopher's Stone is nearly complete. The red stone must be aged for 40 days and nights, ensuring it is under the influence of various astrological alignments. The stone will gradually transmute into a vibrant, iridescent gemstone carrying the power to transform base metals into gold and grant eternal youth to its possessor.
 
 Remember that the synthesis of the Philosopher's Stone is a legendary and perilous task. Proceed with caution and always honor the ancient wisdom and traditions associated with alchemy.

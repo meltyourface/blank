@@ -22,7 +22,7 @@ excerpt: >
 ---
 The Wheel of Hecate is a symbol of great importance in the Path of Hecate, representing the ninefold lunar aspects and the three realms connected to the goddess. In order to create an evocative and intricate depiction of it, we must first delve into its symbolism within the practice of Opening the Way.
 
-Symbolism:
+**Symbolism**:
 1. The wheel itself is formed of three interlocking circles that symbolize the realms of earth, sky, and the underworld, associated with Hecate. These circles are connected with each other to represent the interconnectedness of all realms.
 2. Within the wheel, there is a central circle that represents the essence of Hecate and the divine feminine. It is from this center that the energy of the goddess radiates outwards.
 3. ****The nine points on the wheel correspond to the ninefold lunar aspects of Hecate, with each aspect representing a phase of the moon. These aspects are****: New Moon, Crescent Moon, Half Moon, Gibbous Moon, Full Moon, Disseminating Moon, Last Quarter, Balsamic Moon, and Black Moon.

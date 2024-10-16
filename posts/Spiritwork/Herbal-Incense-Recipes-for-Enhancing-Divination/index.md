@@ -23,7 +23,7 @@ excerpt: >
 
 ## Title: The Alchemist's Apothecary: Herbal and Incense Recipes for Mastering the Art of Spiritwork Divination
 
-Introduction:
+**Introduction**:
 Welcome to the Alchemist's Apothecary, a comprehensive guide to meticulously crafted herbal blend recipes and aromatic incense combinations tailored to enhance your Spiritwork divination practices. Within these pages, you will discover recipes designed to heighten your abilities in scrying, rune casting, tarot reading, and pendulum dowsing. Gain insights into the historical and cultural significances of each herb and incense ingredient, as well as their individual metaphysical properties that contribute to the potency and effectiveness of each blend or combination. Learn proper storage, preparation, and usage techniques to ensure optimal results in discerning and channeling spiritual messages during the divination sessions.
 
 ### Chapter 1: Herbal Blends for Scrying
@@ -63,5 +63,5 @@ Welcome to the Alchemist's Apothecary, a comprehensive guide to meticulously cra
 - Preparation: Grind and mix herbs as needed before each divination session. Use a mortar and pestle or an electric grinder.
 - Usage: Burn herbal blends or incenses in a heat-safe dish or censer. Place the dish or censer in a well-ventilated space filled with your divination tools to enhance their energy and effectiveness.
 
-Conclusion:
+**Conclusion**:
 Armed with your newfound knowledge of herbal blends and aromatic incenses, embark on your journey through the realm of Spiritwork divination. Harness the ancient wisdom of these time-honored herbs and fragrant incenses to enhance your scrying, rune casting, tarot reading, and pendulum dowsing practices. As you delve deeper into the mysteries of the spiritual realm, trust your intuition and be open to the divine messages you receive during your explorations. Good luck on your path of self-discovery and spiritual enlightenment.

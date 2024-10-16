@@ -49,11 +49,11 @@ To interact with the beings of the Netherworld, a student of the arcane must pos
 
 Summoning beings from the Netherworld requires the practitioner to develop both mental and physical discipline in order to create and maintain the connection between dimensions. The summoning process typically involves three key components: intention, invocation, and offering.
 
-Intention: Defining a clear purpose for the summoning is of utmost importance. The practitioner must have a specific goal in mind and visualize the desired outcome before initiating the ritual.
+**Intention**: Defining a clear purpose for the summoning is of utmost importance. The practitioner must have a specific goal in mind and visualize the desired outcome before initiating the ritual.
 
-Invocation: The next step involves reciting an incantation or performing a series of gestures designed to call forth the targeted entity. This can include using the being's name, sigils, and other related symbols or words of power.
+**Invocation**: The next step involves reciting an incantation or performing a series of gestures designed to call forth the targeted entity. This can include using the being's name, sigils, and other related symbols or words of power.
 
-Offering: In order to appease the summoned entity and ensure cooperation, an offering is usually presented as a symbol of goodwill. This offering can take the form of physical objects, such as incense or gemstones, or intangible gifts, such as knowledge or dedication.
+**Offering**: In order to appease the summoned entity and ensure cooperation, an offering is usually presented as a symbol of goodwill. This offering can take the form of physical objects, such as incense or gemstones, or intangible gifts, such as knowledge or dedication.
 
 ### 2.2 Interaction Guidelines
 

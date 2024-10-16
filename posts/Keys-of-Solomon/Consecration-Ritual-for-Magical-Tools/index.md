@@ -21,7 +21,7 @@ excerpt: Develop a comprehensive and intricate consecration ceremony specificall
 ---
 Consecration Ceremony for Magical Tools in the Keys of Solomon
 
-Preparation:
+**Preparation**:
 
 1. Thoroughly clean all tools. Begin by physically cleansing them, and then use a purifying incense like frankincense or sage.
 
@@ -37,7 +37,7 @@ Preparation:
 
 3. Set up a sacred space. Arrange an altar with a white cloth, two beeswax candles (one on either side), consecrated salt, consecrated water, and consecrated incense. Place the tools to be consecrated in the center of the altar.
 
-Ceremony:
+**Ceremony**:
 
 1. Mark the sacred space by drawing a circle in consecrated salt around the area.
 

@@ -23,7 +23,7 @@ excerpt: >
 
 ## Title: Terminating Spiritual Pacts: A Comprehensive Guide
 
-Introduction:
+**Introduction**:
 Terminating a spiritual pact can be a complex and delicate process that requires a precise and informed approach. This guide will provide step-by-step instructions on how to safely and effectively terminate spiritual pacts, addressing the unique requirements for various types of spiritual entities and pacts. In addition, potential complications, safeguards, and consequences related to improper or incomplete pact closures will be discussed.
 
 Preparing for Pact Termination:
@@ -39,7 +39,7 @@ Communicate with the spiritual entity involved to clarify the agreement's terms 
 
 Step-by-Step Instructions for Terminating Spiritual Pacts:
 
-Preparation:
+**Preparation**:
 1. **Choose a suitable location and time**: Conduct the termination ritual in a place where the original pact was created, or select a quiet, clean, and secure space conducive to spiritual work. Ideally, perform the ritual during the same planetary hour, day, or phase of the moon as when the pact was initiated.
 
 2. **Cleanse and consecrate the area**: Use purifying methods (e.g., incense, asperging with consecrated water, etc.) to prepare the space for the ceremony.

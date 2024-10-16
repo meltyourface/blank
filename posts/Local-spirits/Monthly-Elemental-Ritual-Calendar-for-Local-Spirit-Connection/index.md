@@ -21,7 +21,7 @@ excerpt: Design a comprehensive, monthly ritualistic schedule that focuses on cu
 ---
 Month: January
 
-Altar: Choose a quiet, dedicated space for the altar. Place a cloth with earthy tones as the foundation. Weekly, refresh the altar with locally sourced tokens such as flowers, plants, or small stones that resonate with the local spirits.
+**Altar**: Choose a quiet, dedicated space for the altar. Place a cloth with earthy tones as the foundation. Weekly, refresh the altar with locally sourced tokens such as flowers, plants, or small stones that resonate with the local spirits.
 
 Weekly Altar Updates:
 1. Fresh flowers and regional greenery

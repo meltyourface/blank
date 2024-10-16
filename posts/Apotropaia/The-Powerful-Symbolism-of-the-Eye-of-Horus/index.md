@@ -28,7 +28,7 @@ excerpt: >
 ---
 - Eye of Horus created to symbolize protection, good health, and royal power
 
-Explanation:
+**Explanation**:
 
 The reasoning behind choosing the Eye of Horus as the most effective in warding off negative energies and evil influences within various cultural beliefs lies in its widespread usage, origin from a powerful mythology, and the strong symbolism attached to it. 
 

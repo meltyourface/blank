@@ -33,7 +33,7 @@ excerpt: >
 
 ## The Ritual of Tetraelemental Transmutation
 
-Preparation:
+**Preparation**:
 
 1. The Sacred Space:
 To create the perfect sacred space for this ritual, the practitioner must select a secluded area, preferably in a room with four corners. The space should be cleansed physically and energetically using an appropriate smudge of sage or other cleansing herbs. Within the center of the space, a ritual altar should be constructed. Each corner of the room should be adorned with symbols representing the four alchemical elements:
@@ -59,16 +59,16 @@ The Ritual:
 
 3. Personalized Elemental Rituals:
 
-Earth:
+**Earth**:
 Begin by meditating on the qualities of the earth element, focusing on its transformative power within the physical realm. Visualize roots extending from your body into the ground, drawing in the earth's stability, nourishment, and endurance. Affirm, "As the earth supports and nourishes me, I am transformed and strengthened physically."
 
-Air:
+**Air**:
 Next, focus on the attributes of air, allowing its intellect, clarity, and agility to influence your mental processes. Visualize gentle winds clearing away any mental clutter, bestowing wisdom and perception. Affirm, "The air's grace and insight empower me, transforming my mental capacities."
 
-Fire:
+**Fire**:
 Proceed to the element of fire, embracing its alchemical properties of passion, transformation, and willpower. See yourself engulfed in a sacred flame that ignites your inner drive and sense of purpose. Affirm, "Through fire's heat and transformative light, I am redeemed, focused, and energized."
 
-Water:
+**Water**:
 Lastly, connect to the water element, tapping into its fluidity, intuition, and emotional depth. Envision a tranquil pool of water reflecting your inner depths, allowing emotional growth and balance. Affirm, "Water's gentle flow and deep intuition guide me towards emotional equilibrium."
 
 4. Integration of the Shadow Self and Elemental Duality:

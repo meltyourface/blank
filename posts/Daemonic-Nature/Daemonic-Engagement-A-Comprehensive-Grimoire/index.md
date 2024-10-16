@@ -33,7 +33,7 @@ excerpt: >
 
 ## Daemonic Connections: A Comprehensive Grimoire
 
-Introduction:
+**Introduction**:
 This grimoire is designed for those who seek respectful engagement with Daemonic entities. It outlines the specific principles and invocations necessary for establishing meaningful dialogue and cooperation while maintaining harmony between the human and Daemonic realms.
 
 ### I. **Summoning Rituals**: Sigils, Incantations, and Invocation Timing

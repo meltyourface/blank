@@ -22,7 +22,7 @@ excerpt: Design a magical initiation ritual for an arcane secret society devoted
 
 ## The Rite of Ascendance
 
-Objective: The Rite of Ascendance is an initiation ritual designed for a secret society dedicated to the mastery of esoteric arts. The goals of the ritual are manifold: to establish a powerful spiritual connection between the initiate and the society, to forge unbreakable bonds among members, and to unlock the latent magical abilities of the initiate. It aims to test the candidate's dedication, willpower, and aptitude for the magical arts.
+**Objective**: The Rite of Ascendance is an initiation ritual designed for a secret society dedicated to the mastery of esoteric arts. The goals of the ritual are manifold: to establish a powerful spiritual connection between the initiate and the society, to forge unbreakable bonds among members, and to unlock the latent magical abilities of the initiate. It aims to test the candidate's dedication, willpower, and aptitude for the magical arts.
 
 The Ritual:
 

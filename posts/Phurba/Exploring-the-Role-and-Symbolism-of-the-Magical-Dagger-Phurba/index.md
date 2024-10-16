@@ -31,7 +31,7 @@ Techniques and Practices:
 
 4. **Astrological Healing and Conferring Blessings**: In traditional communities in the Himalayas, Phurba is utilized during astrological healing and blessing ceremonies. This may involve the invocation of planetary deities to treat illnesses associated with negative astrological influences.
 
-Chants:
+**Chants**:
 
 The use of mantras is central to the rituals surrounding Phurba. **One common invocation found in the Tibetan Phurba Tantra is**:
 

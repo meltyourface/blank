@@ -22,9 +22,9 @@ excerpt: Design a comprehensive Shamanic ritual incorporating various aspects of
 
 ## Ritual of the Crystal Nexus
 
-Objective: To facilitate profound energy healing and intentional manifestation through the use of crystal energy work, spirit animal guidance, and ancestral invocation, while honoring the interconnectedness of all elements.
+**Objective**: To facilitate profound energy healing and intentional manifestation through the use of crystal energy work, spirit animal guidance, and ancestral invocation, while honoring the interconnectedness of all elements.
 
-Materials:
+**Materials**:
 1. A variety of crystals chosen for their specific energy properties and relevance to the intentions set (e.g., clear quartz for amplification, amethyst for spiritual growth, rose quartz for love, etc.)
 2. A sacred space prepared for ritual practice (e.g., an altar, a quiet room, or an outdoor location)
 3. Sage or palo santo for smudging and cleansing

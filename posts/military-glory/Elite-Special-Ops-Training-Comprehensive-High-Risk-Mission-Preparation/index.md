@@ -33,9 +33,9 @@ excerpt: >
 
 ## Project Glory - Elite Special Operations Training Program
 
-Objective: Cultivate an elite special operations unit with advanced strategic, physical, and disciplinary capabilities for high-risk missions and military glory.
+**Objective**: Cultivate an elite special operations unit with advanced strategic, physical, and disciplinary capabilities for high-risk missions and military glory.
 
-Duration: 24 months
+**Duration**: 24 months
 
 Program Components:
 
@@ -150,4 +150,4 @@ Continuous Assessment (CA): Weekly evaluations and performance tracking
 
 Adjustments to the training program will be made based on the results of the CA to ensure continuous improvement and development of the unit.
 
-Conclusion: By executing this comprehensive and rigorous training program, elite special operations members will become highly skilled, disciplined, and adaptive, resulting in unparalleled combat efficiency and military glory in high-risk mission scenarios.
+**Conclusion**: By executing this comprehensive and rigorous training program, elite special operations members will become highly skilled, disciplined, and adaptive, resulting in unparalleled combat efficiency and military glory in high-risk mission scenarios.

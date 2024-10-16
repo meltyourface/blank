@@ -35,7 +35,7 @@ Ritual Components:
 
 5. Offerings: Instead of traditional offerings, provide something that will enhance the local ecosystem, such as native seeds, compost, or sustainably harvested herbs.
 
-Incantations:
+**Incantations**:
 
 Translate the original Latin incantation into a contemporary language, while maintaining the essence of the summoning. 
 

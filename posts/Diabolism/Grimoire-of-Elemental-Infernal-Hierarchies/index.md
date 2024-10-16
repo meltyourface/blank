@@ -22,7 +22,7 @@ excerpt: Design a color-coded grimoire for cataloguing demonic entities accordin
 
 ## The Chromatic Compendium of Infernal Dominions
 
-Introduction: This grimoire serves as an intricate guide in cataloguing demonic entities according to their elemental infernal affiliations. It employs color-coding, esoteric symbols, and sigils to capture the hierarchical structures of these malevolent forces. Additionally, this comprehensive work includes methods for summoning and controlling demons, ensuring its functionality for the adept practitioner of Diabolism.
+**Introduction**: This grimoire serves as an intricate guide in cataloguing demonic entities according to their elemental infernal affiliations. It employs color-coding, esoteric symbols, and sigils to capture the hierarchical structures of these malevolent forces. Additionally, this comprehensive work includes methods for summoning and controlling demons, ensuring its functionality for the adept practitioner of Diabolism.
 
 Color Scheme and Elemental Affiliations: 
 1. Red - Fire
@@ -33,7 +33,7 @@ Color Scheme and Elemental Affiliations:
 
 Each color is symbolized by a sigil, representing the ever-burning flame, a flowing wave, a sturdy rock, a gust of wind, and the ethereal quintessence. 
 
-Hierarchy:
+**Hierarchy**:
 1. Infernal Overlords (Golden Crowns)
 2. Grand Dukes and Duchesses (Silver Scepters)
 3. The Demonic Legion (Bronze Swords)

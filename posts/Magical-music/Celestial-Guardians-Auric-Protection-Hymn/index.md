@@ -22,7 +22,7 @@ excerpt: Compose an enchanting musical composition utilizing the mystical proper
 
 ## The Auric Hymn of Celestial Guardians
 
-Instruments:
+**Instruments**:
 - Theremin
 - Singing bowl (tuned to various frequencies)
 - Waterphone
@@ -32,9 +32,9 @@ Instruments:
 
 Time Signature: 7/8
 
-Scale: Egyptian
+**Scale**: Egyptian
 
-Structure:
+**Structure**:
 
 ### I. Invocation (0:00 - 1:00)
 - The composition begins with the haunting and ethereal sounds of the theremin, playing a drone-like note.

@@ -38,16 +38,16 @@ Example 1: A dreamer with Japanese heritage experiences a dream of climbing Moun
 
 Symbol Identification: Mount Fuji (representing personal goals/achievements), Kitsune (transformation, trickery, and wisdom), Riddle (the challenge faced by the dreamer)
 
-Interpretation: This dream suggests the dreamer is working towards a significant goal, but that there may be both internal and external challenges requiring wisdom and adaptability in order to overcome. Drawing from Japanese folklore, the dreamer should pay close attention to the wisdom offered by the Kitsune, which may provide guidance and insight for their real-life challenge.
+**Interpretation**: This dream suggests the dreamer is working towards a significant goal, but that there may be both internal and external challenges requiring wisdom and adaptability in order to overcome. Drawing from Japanese folklore, the dreamer should pay close attention to the wisdom offered by the Kitsune, which may provide guidance and insight for their real-life challenge.
 
 Example 2: An American dreamer comes across a thunderstorm brewing over a picturesque lake. In the midst of the storm, a large oak tree is struck by lightning and splits in half, revealing a vibrant, crystalline core.
 
 Symbol Identification: Thunderstorm (uncertainty and uncontrollable change), Lake (emotional depth and inner reflection), Oak tree (stability and endurance), Lightning (sudden revelation), Crystalline core (hidden inner truth)
 
-Interpretation: This dream indicates the dreamer is undergoing significant change and upheaval in their life, which may be emotionally challenging. Though they have relied on their deeply-rooted stability to endure these challenges, the dream suggests an inner revelation that will provide clarity during this time and reveal new truths about themselves and their situation. The dreamer should embrace this transformative process.
+**Interpretation**: This dream indicates the dreamer is undergoing significant change and upheaval in their life, which may be emotionally challenging. Though they have relied on their deeply-rooted stability to endure these challenges, the dream suggests an inner revelation that will provide clarity during this time and reveal new truths about themselves and their situation. The dreamer should embrace this transformative process.
 
 Example 3: A Russian dreamer dreams of the mythical Firebird perched on a Slavic symbol of protection, the Bereginya. The Firebird presents the dreamer with a golden feather and then flies off into the night sky.
 
 Symbol Identification: Firebird (positive change, opportunity, and divine guidance), Bereginya (protection and nurturing energy), Golden feather (great fortune, accomplishment)
 
-Interpretation: This dream signifies the dreamer being guided and protected by higher forces, as they come into contact with new opportunities that will bring change and success. The symbolism of the Firebird combined with the Bereginya offers a message of hope and encouragement for the dreamer to whole-heartedly embrace their journey, trusting that the outcome will be positive.
+**Interpretation**: This dream signifies the dreamer being guided and protected by higher forces, as they come into contact with new opportunities that will bring change and success. The symbolism of the Firebird combined with the Bereginya offers a message of hope and encouragement for the dreamer to whole-heartedly embrace their journey, trusting that the outcome will be positive.

@@ -22,18 +22,18 @@ excerpt: Compose a mystically-infused song harnessing the power of occult solfeg
 
 ## Cantus Mirabilis
 
-Instruments:
+**Instruments**:
 1. Mediterranean Lyre (tuned to 396 Hz, 417 Hz, and 528 Hz)
 2. Tibetan Singing Bowls (tuned to 396 Hz, 417 Hz, and 528 Hz)
 3. Choir (chanting in Latin and Enochian)
 
-Structure: 
+**Structure**: 
 1. Introduction (Mediterranean Lyre, 396 Hz)
 2. Second passage (Choir chants in Latin, 417 Hz)
 3. Third passage (Tibetan Singing Bowls, 528 Hz)
 4. Final passage (Mediterranean Lyre, Choir, Tibetan Singing Bowls, 396 Hz, 417 Hz, and 528 Hz)
 
-Lyrics:
+**Lyrics**:
 (Choir in Latin)
 Pulchra mysteria, resonant regna ignota,
 Curatio mentis, altum purificati,

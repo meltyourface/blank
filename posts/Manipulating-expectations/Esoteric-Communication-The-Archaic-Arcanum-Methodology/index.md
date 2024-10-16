@@ -25,7 +25,7 @@ Encrypted Communication System: The Archaic Arcanum
 
 Start with creating an alphabet based on archaic symbols. For each letter of the modern alphabet, associate it with an esoteric symbol. Use a mixture of alchemical symbols, astrological signs, runes, and other occult symbols.
 
-Example:
+**Example**:
 
 A = Alchemical symbol for fire
 B = Rune “Berkana”
@@ -37,7 +37,7 @@ Z = Alchemical symbol for air
 
 Create a square matrix with each row and column represented by one of the 22 Major Arcana cards of the Tarot. Arrange the Archaic Alphabet symbols inside the matrix, creating a unique structure resulting in 484 (22x22) unique combinations. Fill the remaining cells with an assortment of additional symbols and/or characters to add complexity.
 
-Example:
+**Example**:
 
 | 0: Fool     | 1: Magician | 2: High Priestess | ... |
 |-------------|-------------|-------------------|-----|
@@ -48,7 +48,7 @@ Example:
 
 Write your message in plain text before veiling it with occult symbolism. Begin by encoding your message using the Archaic Alphabet created in step 1. Then, use the Mystic Matrix to encrypt the entire message by combining the corresponding Tarot cards with the respective matrix positions.
 
-Example:
+**Example**:
 
 Plain Text Message: "Secret Meeting Tonight"
 
@@ -66,7 +66,7 @@ a. Locate the Tarot card coordinate pairs in the encrypted message.
 b. Use the Mystic Matrix to reveal the Archaic Alphabet symbols.
 c. Replace the encrypted symbols with their modern letter counterparts.
 
-Example:
+**Example**:
 
 Encrypted Message: (0,1),(1,2),(14,8),(3,6),(16,3),(8,11),…
 

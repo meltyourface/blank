@@ -23,7 +23,7 @@ excerpt: >
 
 ## Title: The Mystifying Odyssey of Eliphas Blackwood: Master of the 'Big Man' Society and Occult Connoisseur
 
-Introduction:
+**Introduction**:
 In the annals of the secret society known as the 'Big Man,' few names evoke as much intrigue and applaud as Eliphas Blackwood. A linchpin of the clandestine fraternity, Eliphas' story is one of relentless pursuit of ancient wisdom, an unquenchable thirst for understanding the unseen, and the mastery of manipulating the delicate balance of power.
 
 ### Chapter 1: The Charmed Beginnings
@@ -47,5 +47,5 @@ As Eliphas' stature within the 'Big Man' society intensified, his teachings and 
 ### Chapter 7: The Enigmatic End
 As with many figures of his ilk, the passing of Eliphas Blackwood remains shrouded in mystery. Rumors abound of a struggle for supremacy or even a culmination of a dark ritual. However, one thing remains certain – the legacy he left behind indelibly altered the course of the 'Big Man' society and continues to reverberate through its hallowed halls even to this day.
 
-Conclusion:
+**Conclusion**:
 The life of Eliphas Blackwood stands testimony to the far-reaching influence and unyielding perseverance of an individual seeking to unravel and master the mysteries of the occult. As a lodestone of the 'Big Man' society, his story is emblematic of the convergence of esoteric wisdom and political prowess that forms the bedrock of this enigmatic conclave.

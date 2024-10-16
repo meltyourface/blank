@@ -24,7 +24,7 @@ excerpt: >
 ---
 Answer: The Enochian language is believed to be the original language of the angels, while Adamical roots are considered the linguistic remnants passed down to humanity.
 
-Explanation: The Enochian language, sometimes referred to as the Angelic language, is an esoteric language tied to the occult and mystical practices. It gained prominence through the works of Dr. John Dee and Edward Kelley in the 16th century. Dee and Kelley claimed to have received this language as a direct communication from the angelic realm, with the angels revealing the secrets of creation and divine knowledge.
+**Explanation**: The Enochian language, sometimes referred to as the Angelic language, is an esoteric language tied to the occult and mystical practices. It gained prominence through the works of Dr. John Dee and Edward Kelley in the 16th century. Dee and Kelley claimed to have received this language as a direct communication from the angelic realm, with the angels revealing the secrets of creation and divine knowledge.
 
 Adamical roots, on the other hand, refer to an ancient language that is believed to have been spoken by humanity before the biblical Tower of Babel story. Essentially, it is considered the original language spoken by Adam and subsequent generations until the dispersion of languages at the Tower of Babel.
 

@@ -26,7 +26,7 @@ The correct answer is:
 
 In alchemy, the rainbow is associated with the Philosopher's Stone, as it represents the harmony of diverse elements coming together.
 
-Explanation:
+**Explanation**:
 
 Alchemy is an ancient and esoteric discipline that sought to convert base metals into gold and discover the Philosopher's Stone and the Elixir of Life. While the primary focus of alchemy was the transformation of physical elements, it also included spiritual and mystical aspects. In this context, the rainbow is a powerful symbol in alchemy, representing the unification of diverse elements in the pursuit of the Philosopher's Stone.
 

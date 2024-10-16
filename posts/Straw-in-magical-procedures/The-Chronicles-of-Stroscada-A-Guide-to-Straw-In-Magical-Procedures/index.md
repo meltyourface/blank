@@ -33,7 +33,7 @@ excerpt: >
 
 ## The Chronicles of Stroscada - A Treatise on the Arcane Art of Straw-in Magical Procedures
 
-Prologue:
+**Prologue**:
 The Chronicles of Stroscada unravels the enigmatic realm of Straw-in magic, cast in an ancient and potent form of sorcery. Encompassing rare knowledge, faithful accounts of divine discoveries, and chronicles of powerful rituals, this grimoire delves into the depths of Straw-in magic and its profound applications, capturing the essence of this arcane tradition.
 
 ### Part 1: A Journey Through Time - The Lineage of Straw-in Magic
@@ -51,5 +51,5 @@ The magical prowess of Straw-in magic permeates seamlessly into our mundane exis
 ### Part 5: The Journeyman's Testimony - Illuminating the Path to Mastery
 Immerse in personal chronicles and testimonies, reflecting the unwavering dedication in the pursuit of the arcane. Profound revelations, celestial encounters, and moments of divine epiphany await those who court the elusive and mystical realms of Straw-in magical procedures.
 
-Epilogue:
+**Epilogue**:
 The Chronicles of Stroscada illuminates the obscure pathways of the Straw-in magical tradition, offering enlightenment and mastery to those who dare to embrace its power. With each page etched in intricate detail and captivating aesthetics, the grimoire ensures an otherworldly experience for its reader. Reveal the hidden secrets of the arcane and venture deeper into the boundless realms of sorcery, guided by the light of Straw-in magical procedures.

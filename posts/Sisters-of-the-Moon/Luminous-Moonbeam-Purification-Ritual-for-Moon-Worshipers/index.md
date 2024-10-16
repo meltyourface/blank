@@ -22,7 +22,7 @@ excerpt: Devise an intricate purification ritual specifically tailored for Siste
 
 ## The Luminous Moonbeam Purification Ritual
 
-Objective: To cleanse and align the energetic body of Sisters of the Moon practitioners in preparation for full moon ceremonies.
+**Objective**: To cleanse and align the energetic body of Sisters of the Moon practitioners in preparation for full moon ceremonies.
 
 Materials needed:
 1. **Lunar herbs**: White sage, mugwort, lavender, jasmine, and moonstone

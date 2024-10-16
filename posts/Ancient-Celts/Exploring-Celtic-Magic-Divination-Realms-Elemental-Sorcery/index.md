@@ -33,7 +33,7 @@ Divination was an integral aspect of Celtic mysticism, a method of connecting wi
 
 Ogham Script: The Celts had their own alphabet called the Ogham script, which was ascribed with spiritual significance. The Druids utilized this script for divination in the form of Ogham staves, utilizing a set of slender wooden rods marked with the symbols and cast upon the ground to decipher meaning based on patterns and positions in which they fell.
 
-Augury: Augury, or interpreting bird behavior as an omen, was an essential component to determining divine insight into future events. The Celts attributed different meanings to various bird species, with each symbolizing a specific trait, power, or consequence.
+**Augury**: Augury, or interpreting bird behavior as an omen, was an essential component to determining divine insight into future events. The Celts attributed different meanings to various bird species, with each symbolizing a specific trait, power, or consequence.
 
 Animal Sacrifices: Animal sacrifices held considerable significance in Celtic culture. Through this ritual, the Druids would observe the entrails of a slain animal to glean guidance and messages from the beyond. 
 
@@ -53,14 +53,14 @@ Celtic practitioners not only regarded these realms but also sought connection w
 
 The Celts believed in harnessing the powers of the Earth's elements in their magical workings. They revered the interconnected nature of these elements and their role in ensuring balance and harmony within the environment.
 
-Air: Representing wisdom, intellect, and inspiration, air was harnessed through the smoke of sacred fires, incense, and the breath of life in enchantments and spells.
+**Air**: Representing wisdom, intellect, and inspiration, air was harnessed through the smoke of sacred fires, incense, and the breath of life in enchantments and spells.
 
-Fire: Essential for transformation, purification, and passion, fire was incorporated in rituals to maintain balance and burn away negativity to promote healing.
+**Fire**: Essential for transformation, purification, and passion, fire was incorporated in rituals to maintain balance and burn away negativity to promote healing.
 
-Water: Symbolizing life, emotion, and intuition, water was considered sacred for its ability to cleanse, heal, and restore balance. The Celts gathered water from sacred wells and springs, using it for blessings, offerings, and rituals.
+**Water**: Symbolizing life, emotion, and intuition, water was considered sacred for its ability to cleanse, heal, and restore balance. The Celts gathered water from sacred wells and springs, using it for blessings, offerings, and rituals.
 
-Earth: Representing strength, stability, and abundance, earth was the cornerstone for grounding and channeling energy. Practices such as tree planting, herb harvesting, and burying tokens in the soil were common methods of connecting with the earth's energy.
+**Earth**: Representing strength, stability, and abundance, earth was the cornerstone for grounding and channeling energy. Practices such as tree planting, herb harvesting, and burying tokens in the soil were common methods of connecting with the earth's energy.
 
-Conclusion: Delving Deeper into Celtic Wisdom
+**Conclusion**: Delving Deeper into Celtic Wisdom
 
 In this section, we have provided a broad outline of some of the core principles, beliefs, and practices prevalent within the magical traditions of the Ancient Celts. It is crucial to appreciate that, while this content provides an invaluable initiation into the realm of Celtic occultism, the path to mastery lies in continued exploration and deepening your understanding of the rich tapestry of spiritual wisdom that lies at the heart of Celtic culture. Harnessing these teachings necessitates a deep and abiding connection to nature, reverence for the spiritual world, and an unwavering commitment to preserving the ancient lore that underpins the practices and techniques of this enigmatic and powerful tradition.

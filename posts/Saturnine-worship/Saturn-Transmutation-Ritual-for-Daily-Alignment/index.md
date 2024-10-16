@@ -22,9 +22,9 @@ excerpt: Design a ceremonial ritual, incorporating the sacred symbols and elemen
 
 ## The Rite of Saturnine Transmutation
 
-Objective: Attunement with the energies of Saturn, allowing for the gradual transmutation and strengthening of the practitioner's daily thoughts, actions, and experiences in accordance with the esoteric teachings of the Saturnine Path.
+**Objective**: Attunement with the energies of Saturn, allowing for the gradual transmutation and strengthening of the practitioner's daily thoughts, actions, and experiences in accordance with the esoteric teachings of the Saturnine Path.
 
-Preparation:
+**Preparation**:
 
 1. Choose a quiet and undisturbed space for the ritual, preferably indoors and away from direct sunlight.
 2. Cleanse the area with sage or other purifying smoke, ensuring all traces of negative energies are removed.

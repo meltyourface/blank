@@ -27,7 +27,7 @@ excerpt: >
 ---
 Answer: Placing the seal of an archangel on a ritual cloth made of silk, while surrounding it with candles of corresponding colors and invoking the archangel's name and qualities.
 
-Explanation: In the practice of Angelic magic, it is crucial to create a harmonious and potent environment that aligns with the angelic entity's energy. This establishes a strong connection and allows for clear communication between the practitioner and the archangel. The first option reflects this understanding in its various components.
+**Explanation**: In the practice of Angelic magic, it is crucial to create a harmonious and potent environment that aligns with the angelic entity's energy. This establishes a strong connection and allows for clear communication between the practitioner and the archangel. The first option reflects this understanding in its various components.
 
 Angelic correspondences play a crucial role in creating an environment that resonates with the specific archangel. These correspondences involve symbols, colors, and other attributes that hold significance to the angel. Placing the seal of an archangel on a ritual cloth made of silk displays respect and adoration towards the angel, as silk is a material considered to have high vibrations and an association with divinity.
 

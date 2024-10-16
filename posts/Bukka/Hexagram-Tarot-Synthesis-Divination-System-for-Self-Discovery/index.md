@@ -25,13 +25,13 @@ HTS is an innovative system that blends the ancient wisdom of the I Ching hexagr
 
 1. Integration: To initiate the synthesis, assign each of the 64 I Ching hexagrams to one of the 78 tarot cards. The 22 Major Arcana cards will each be paired with a single hexagram, while the 56 Minor Arcana will have the remaining 42 hexagrams divided between them. This will establish a correlation for multi-layered divination.
 
-Example: The Fool tarot card (representing new beginnings) could be paired with hexagram 24 (Fu - Turning Point; a return to innocence, restarting).
+**Example**: The Fool tarot card (representing new beginnings) could be paired with hexagram 24 (Fu - Turning Point; a return to innocence, restarting).
 
 2. Casting: The seeker shuffles both the I Ching hexagram coins/tokens and the tarot deck. The seeker then focuses their energy on the question or situation while drawing three tarot cards and casts three I Ching hexagrams.
 
 3. Interpreting: Regarding the tarot cards, read the cards as a standard past, present, and future spread. For the hexagrams, the first is the foundational hexagram, the second represents the present state, and the third reveals the direction of the situation.
 
-Example: The seeker's initial reading results in The Fool, the Five of Cups, The Star, and hexagrams 24, 40, and 58.
+**Example**: The seeker's initial reading results in The Fool, the Five of Cups, The Star, and hexagrams 24, 40, and 58.
 
 4. Synthesis: Merge the meanings of each tarot card with their corresponding hexagrams. This fusion provides an enriched reading with more profound insights. NSTextAlignment: TextAlign.justify,
  
@@ -39,7 +39,7 @@ Example: The Fool (paired with hexagram 24) could indicate a turning point or sp
 
 5. Path of Transformation: Examine the relationships between the hexagrams to provide further guidance on the seeker's journey. Look for any relevant changes in the lines, called "nuclear hexagrams," which signify the hidden transformative forces at work.
 
-Example: Suppose there is a line change in the first hexagram (24) leading to hexagram 19 (Approach). In that case, the past transformation may also involve making essential connections and fostering relationships for growth.
+**Example**: Suppose there is a line change in the first hexagram (24) leading to hexagram 19 (Approach). In that case, the past transformation may also involve making essential connections and fostering relationships for growth.
 
 6. Deepening Insights: As a final step, encourage the seeker to meditate on the combined wisdom of the hexagrams and tarot cards. This contemplation invites profound introspection and can unveil additional personal insights and revelations.
 

@@ -22,7 +22,7 @@ excerpt: Design an intricate system incorporating rune stones for the purpose of
 
 ## The Fenrir Runes - A Fourth Dimensional Divinatory System
 
-Introduction:
+**Introduction**:
 The Fenrir Runes combine the ancient art of runic divination with the mysteries of the Fourth dimension, creating a powerful and intricate system specifically tailored to the phenomena of time manipulation and multidimensionality. This system draws on the energies of time, space, and alternate realms, providing unparalleled insight into the secrets of the cosmos.
 
 ### I. Rune Stones Description and Attributes

@@ -22,23 +22,23 @@ excerpt: >
 ---
 Incantation Name: Elysium Natura
 
-Purpose: To meticulously invoke the four primal elemental energies - fire, water, earth, and air.
+**Purpose**: To meticulously invoke the four primal elemental energies - fire, water, earth, and air.
 
-Requirements:
+**Requirements**:
 1. Attire: Robes made of natural fibers, preferably white or black in color, to signify purity or absorption.
 2. Instruments: A staff made of oak adorned with elemental runes, a set of crystal chalices dedicated to each element (fire opal for fire, aquamarine for water, peridot for earth, and topaz for air), and a silver athame (ceremonial knife) engraved with elemental sigils.
 3. Altar: A pentacle adorned altar cloth, with corresponding elemental items placed around its perimeter (candles for fire, water-containing vessel for water, soil-filled vessels for earth, incense for air).
 4. Time: The incantation must be performed during a Lunar or Solar eclipse, to harness the celestial energies and amplify the ritual's potency.
 5. Location: Perform the incantation at the center of a natural geographical compass (north – mountains, east – plains, south – desert, west – coast).
 
-Preparation:
+**Preparation**:
 
 1. Cleanse and purify the ritual area by smudging it with sage and sprinkling it with saltwater.
 2. Raise a protective circle to ensure the ritual's safety and create sacred space.
 3. Call upon the guardians (elemental spirits or angels) to witness and protect the ritual.
 4. Consecrate the ritual tools, altar, and elemental items (any power vested in deities or the universe).
 
-Incantation:
+**Incantation**:
 
 Begin by standing in the east direction. As you vocalize each stanza, make the corresponding ritualistic gesture and utilize the necessary arcane components:
 
@@ -74,7 +74,7 @@ Roots bound to the core, your strength now uncoil."
 
 (Gesture: Place your hands on the soil-filled vessel and feel the grounded energy)
 
-Closing:
+**Closing**:
 "By celestial powers of lunar and solar tides,
 We invoke the elements with open hearts and wide strides.
 For equilibrium and essence, the primal forces we bind,

@@ -23,7 +23,7 @@ excerpt: >
 
 ## The Complete Training Curriculum for Mastering Staff Roles in a 17th Century Large Country House Estate
 
-Objective: To provide an immersive, authentic, and comprehensive understanding of essential skills, period-specific etiquette, and intricate household roles required for the flawless operation and maintenance of a 17th-century large country house estate.
+**Objective**: To provide an immersive, authentic, and comprehensive understanding of essential skills, period-specific etiquette, and intricate household roles required for the flawless operation and maintenance of a 17th-century large country house estate.
 
 Course Structure:
 
@@ -80,4 +80,4 @@ Week 8: Exams & Assessments
 - Practicum exams for specific roles and duties
 - Constructive feedback provided by master instructors
 
-Conclusion: Upon completion of this immersive training curriculum, participants should possess the essential skills, a deep understanding of period-specific etiquette, and mastery over their respective roles within the household hierarchy.
+**Conclusion**: Upon completion of this immersive training curriculum, participants should possess the essential skills, a deep understanding of period-specific etiquette, and mastery over their respective roles within the household hierarchy.

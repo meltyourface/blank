@@ -42,6 +42,6 @@ The union of the God and the Goddess is significant within Alexandrian Witchcraf
 
 This concept of duality and union is also represented in the belief system, where practitioners aspire to balance the energies within themselves, maintaining equilibrium in their daily lives. The union of the God and the Goddess acknowledges that while both have separate aspects and qualities, they are inherently interconnected and dependent on each other to maintain cosmic harmony.
 
-Conclusion:
+**Conclusion**:
 
 Alexandrian Witchcraft's approach to the roles of the God and the Goddess emphasizes the necessity of duality, balance, union, and manifestation. By understanding their various manifestations and functions within the Sabbats, Esbats, and Magickal workings, practitioners can appreciate the significance and interconnectedness of these cosmic powers. Through the union of the God and the Goddess, the tradition emphasizes the importance of balance within the universe and within ourselves, ultimately seeking to achieve cosmic harmony through spiritual practice and self-awareness.

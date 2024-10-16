@@ -22,7 +22,7 @@ excerpt: Design an intricate purification ritual rooted in the dark arts for sum
 
 ## The Purification Ritual of the Shadow Nexus
 
-Objective: Summon an ancient mystical creature from the arcane realms (Basilisk or Griffin)
+**Objective**: Summon an ancient mystical creature from the arcane realms (Basilisk or Griffin)
 
 ### I. Necessary symbols, incantations, and ritual implements
 

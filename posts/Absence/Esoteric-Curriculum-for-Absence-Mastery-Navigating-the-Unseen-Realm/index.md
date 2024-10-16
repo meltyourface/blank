@@ -22,7 +22,7 @@ excerpt: Design a comprehensive esoteric Absence-based curriculum utilizing arch
 
 ## The Path of the Unseen: An Absence-based Curriculum for Esoteric Mastery
 
-Introduction:
+**Introduction**:
 The Path of the Unseen is a comprehensive esoteric curriculum designed to assist the aspirant in traversing the realm of Absence through the use of foundational archetypes and mythological symbolism. This curriculum endeavors to facilitate deep self-exploration and personal growth through intricate rituals and exercises, all the while ensuring alignment with the core tenets of Absence mastery.
 
 Course Outline:

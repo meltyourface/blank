@@ -32,7 +32,7 @@ excerpt: >
 ---
 Ritual of the Black Flame: Eradication of Malignant Forces
 
-Preparation:
+**Preparation**:
 
 1. Begin by performing a thorough cleansing of your ritual space. Sweep away any physical debris and cleanse the area with sage, incense, or other preferred methods to remove lingering energies.
 
@@ -40,7 +40,7 @@ Preparation:
 
 3. Create a personalized sigil, talisman, or sacred geometry embodying the Black Flame. This symbol will act as your conduit to draw forth its power. Place this symbol on your altar or on the floor within your sacred space.
 
-Invocation:
+**Invocation**:
 
 4. Stand before your sacred space and take a deep breath. Center yourself and visualize a black flame burning within your heart. This flame will act as a link to the ancient and powerful energy source.
 
@@ -51,7 +51,7 @@ I summon forth the source eternally dark.
 Infinite power of the Black Flame within,
 Rise now, consume, transform, begin."
 
-Ritual:
+**Ritual**:
 
 6. Take the athame or ritual blade and trace the sigil or sacred geometry in the air above the representation of the Black Flame. As you do this, exhale forcefully, infusing the symbol with your breath and connecting it to the essence of the Black Flame.
 
@@ -83,7 +83,7 @@ Your work is complete, now let it transmogrify: healed and cleansed we are again
 
 16. Snuff the Black Flame candle, symbolizing the closure of the ritual.
 
-Integration:
+**Integration**:
 
 17. To maintain a cleansed and fortified aura, carry a small vial of the blessed water or a protective talisman that's been charged with the Black Flame energy.
 

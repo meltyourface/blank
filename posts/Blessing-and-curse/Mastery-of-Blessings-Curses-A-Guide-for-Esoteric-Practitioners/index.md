@@ -43,15 +43,15 @@ How to Cast and Counter
 
 1. Casting a Blessing: Begin by entering a calm and focused state of mind. Choose your method of casting, either invocational or transference, and select an appropriate spiritual entity or tool. Clearly visualize your intention and feel gratitude for the benevolent energies you are about to call upon. Speak aloud your intention and request for assistance, then release the energy towards its target. Always remember to express gratitude to the spiritual entities or energies involved.
 
-Example: To bless a house with prosperity, practice an invocational method by calling upon the archangel Ariel and dedicating a candle offering. Recite an incantation that explicitly states your intention of inviting prosperity into the home, and light the candle in gratitude.
+**Example**: To bless a house with prosperity, practice an invocational method by calling upon the archangel Ariel and dedicating a candle offering. Recite an incantation that explicitly states your intention of inviting prosperity into the home, and light the candle in gratitude.
 
 2. Casting a Curse: Note that casting curses calls upon powerful forces that demand respect and caution. If you choose to proceed, ensure that your intentions are just. As with the blessing, choose your method of casting and select the appropriate entity or tool. Visualize the curse's effects as vividly as possible, and invoke the energies or entities necessary to bring this into manifestation. Release the curse upon the target, and ensure that you protect yourself energetically from any potential backlash.
 
-Example: An individual seeks to bind an enemy's harmful actions. By utilizing the transference method, the individual carves a sigil of binding onto a black candle, visualizes the targeted person, and concentrates on stopping their harmful behavior. Upon lighting the candle, the energy is released to bind the enemy's actions.
+**Example**: An individual seeks to bind an enemy's harmful actions. By utilizing the transference method, the individual carves a sigil of binding onto a black candle, visualizes the targeted person, and concentrates on stopping their harmful behavior. Upon lighting the candle, the energy is released to bind the enemy's actions.
 
 3. Countering a Blessing or Curse: To counter a blessing or a curse, one must first determine its origin. Employ divination techniques, such as scrying or tarot, to discern the source. Once identified, utilize either invocational or transference methods to neutralize or reverse the effects of the initial casting. It is crucial to maintain strong energetic protection throughout this process.
 
-Example: A person becomes aware of a curse placed upon them. In divination, they learn that the curse was cast via a transference method involving a cursed object. By locating and neutralizing the cursed object with protective symbols, the person can effectively counter the curse.
+**Example**: A person becomes aware of a curse placed upon them. In divination, they learn that the curse was cast via a transference method involving a cursed object. By locating and neutralizing the cursed object with protective symbols, the person can effectively counter the curse.
 
 Conclusion
 

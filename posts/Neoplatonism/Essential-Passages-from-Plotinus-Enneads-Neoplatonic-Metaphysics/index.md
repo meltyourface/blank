@@ -23,32 +23,32 @@ Translation of Essential Passages from Plotinus' Enneads:
 
 PASSAGE I: The One (Enneads VI.9.6)
 
-Original: "Τὸ οὖν ἕν ἀγαθόν, καὶ οὐ κατὰ μεθεξιν καὶ κατὰ συστάσιν ἕτερον. Ἀγαθὸν αὐτὸ κατ’ αὑτὸ οὖσα, οὐδ’ ἄλλως οὐδέν, οὐδ’ ἄλλο τελέως."
+**Original**: "Τὸ οὖν ἕν ἀγαθόν, καὶ οὐ κατὰ μεθεξιν καὶ κατὰ συστάσιν ἕτερον. Ἀγαθὸν αὐτὸ κατ’ αὑτὸ οὖσα, οὐδ’ ἄλλως οὐδέν, οὐδ’ ἄλλο τελέως."
 
 Contemporary English Translation: 
 
 The One is truly good, and it is not by mere participation or constitution that it is something else. Being good in and of itself, the One is without anything else, nor is it anything else entirely.
 
-Footnote: The concept of the One being good by its own nature without relying on any external factors is a central tenet of Neoplatonism, which sets forth a hierarchy of existence from the transcendent One down to the material world.
+**Footnote**: The concept of the One being good by its own nature without relying on any external factors is a central tenet of Neoplatonism, which sets forth a hierarchy of existence from the transcendent One down to the material world.
 
 PASSAGE II: The Emanation of the Intellect (Enneads V.1.6)
 
-Original: "Τῷ οὖν αὐτὸ ἀγαθὸν γίγνεται, καὶ μόνον αὐτοῦ γίγνεται καὶ ἄλλου οὐδενός, ἀλλ’ αὐτοῦ αἰτίου γίγνεται τοῦ κάλλους οὔτε δεομένου οὔτε αὐτῷ δεομένῳ."
+**Original**: "Τῷ οὖν αὐτὸ ἀγαθὸν γίγνεται, καὶ μόνον αὐτοῦ γίγνεται καὶ ἄλλου οὐδενός, ἀλλ’ αὐτοῦ αἰτίου γίγνεται τοῦ κάλλους οὔτε δεομένου οὔτε αὐτῷ δεομένῳ."
 
 Contemporary English Translation:
 
 The emanation of the Intellect arises from the One itself and only from the One, without reliance on anything else. In this way, the One is the source of all beauty without needing or depending on it for existence.
 
-Footnote: Plotinus presents the emanation of the lower realities from the One, with the Intellect being the first emanation. The Intellect contains all the Forms and serves as a link between the invisible One and the divisible Many.
+**Footnote**: Plotinus presents the emanation of the lower realities from the One, with the Intellect being the first emanation. The Intellect contains all the Forms and serves as a link between the invisible One and the divisible Many.
 
 PASSAGE III: The Relationship of the One and the Many (Enneads VI.9.3)
 
-Original: "Ἕν τι τὸ πρῶτον ἢ μή ἐνὸς εἶναί πως δυνατὸν πάντων; Καὶ τούτου οὔτε ἓν οὔτε πολλὰ εἶναι ἁρμόττει."
+**Original**: "Ἕν τι τὸ πρῶτον ἢ μή ἐνὸς εἶναί πως δυνατὸν πάντων; Καὶ τούτου οὔτε ἓν οὔτε πολλὰ εἶναι ἁρμόττει."
 
 Contemporary English Translation:
 
 Is there not anything primary in the One itself, or is it somehow possible for everything to exist without unity? For this very being, it is suitable neither to be one nor many.
 
-Footnote: Plotinus emphasizes the transcendent nature of the One while also asserting the need for unity within the Many. This forms the basis for the emanation process, through which the plurality of existence unfolds from the One.
+**Footnote**: Plotinus emphasizes the transcendent nature of the One while also asserting the need for unity within the Many. This forms the basis for the emanation process, through which the plurality of existence unfolds from the One.
 
 Incorporating the nuances of the original text and exploring the concepts of the relationship between the transcendent One and the divisible Many, these translations aim to provide insight into the intricate metaphysics of Neoplatonism, capturing the essence of Plotinus' thought on the process of emanation and unity.

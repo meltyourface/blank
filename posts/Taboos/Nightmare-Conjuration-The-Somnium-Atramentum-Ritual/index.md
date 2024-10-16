@@ -23,7 +23,7 @@ excerpt: >
 
 ## Somnium Atramentum - The Ink of Nightmares
 
-Overview:
+**Overview**:
 The Somnium Atramentum is an intricate and powerful ritual that enables the caster to traverse into the realm of dreams and nightmares, manipulate dreams of others, and extract knowledge buried deep within the subconscious. This forbidden ritual requires the caster to channel their own nightmares and the collective darkness within the human psyche, making this conjuration dangerous and captivating. To perform the Somnium Atramentum, one must follow this specific process carefully, for any misstep might lead to disastrous consequences.
 
 Ingredients and Artifacts:
@@ -37,7 +37,7 @@ Ingredients and Artifacts:
   7. Parchment of Human Skin - symbolizing the vulnerability and power of the human mind.
   8. ****Ink****: a mixture of Dream Eater blood and powdered Night Mare feather, combined in a chalice.
 
-Preparation:
+**Preparation**:
 Begin by placing the mirror in the center of the chosen space. Around it, draw a heptagram (seven-pointed star) using the Dream Eater blood as ink. Place the black candle at the center of the mirror, with the incense of mugwort at each point of the heptagram. Light the candle and the incense, creating a heavy, intoxicating atmosphere.
 
 Steps of the Ritual:

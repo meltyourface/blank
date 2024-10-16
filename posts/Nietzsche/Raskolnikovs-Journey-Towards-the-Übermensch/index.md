@@ -23,17 +23,17 @@ excerpt: >
 
 ## The Mountains of Eternity
 
-Author: Anonymous Master of the Esoteric and Occult
+**Author**: Anonymous Master of the Esoteric and Occult
 
-Setting: Saint Petersburg, Russia, 19th Century
+**Setting**: Saint Petersburg, Russia, 19th Century
 
-Characters:
+**Characters**:
 1. Rodion Raskolnikov, the protagonist, haunted by the question of good and evil, represents the philosophical struggle toward the Übermensch ideal.
 2. Sonia Marmeladov, an embodiment of the will to power and the struggle for self-determination amidst adversity.
 3. Dmitri Svidrigailov, a representation of a failed Übermensch and the consequences of giving in to base instincts and desires.
 4. Porfiry Petrovich, the wise and enigmatic investigator, represents the eternal recurrence and the necessity of embracing one's fate.
 
-Synopsis:
+**Synopsis**:
 The novel begins with Rodion Raskolnikov, a poor but brilliant law student, lamenting over the human condition and pondering the concept of eternal recurrence. ****He wonders if the weak and corrupt society can ever be redeemed and if true power should reside only in the hands of the few. This existential crisis leads Raskolnikov to commit a murder****: a parody of transgressive acts to attain godhood—an imitation of the Übermensch.
 
 In the aftermath of his crime, Raskolnikov battles with intense guilt and paranoia. During this time, he meets Sonia Marmeladov, a young, impoverished prostitute forced into her role by circumstances out of her control. Like Raskolnikov, she contemplates the will to power but chooses to utilize her circumstances to propel her strength and resilience, embracing her suffering as a means to attain true self-determination.

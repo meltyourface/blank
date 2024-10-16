@@ -22,9 +22,9 @@ excerpt: Develop a comprehensive ritual that harnesses the power of Klipot energ
 
 ## The Ritual of the Klipotic Pendulum
 
-Purpose: To harness the power of Klipot energies and incorporate them into daily life, balancing the dark and light aspects while cultivating a deep understanding of their intricate dynamics.
+**Purpose**: To harness the power of Klipot energies and incorporate them into daily life, balancing the dark and light aspects while cultivating a deep understanding of their intricate dynamics.
 
-Preparation:
+**Preparation**:
 
 1. **Assemble necessary tools and materials**:
    a. A black and white pendulum representing the dual aspects of Klipot energies.

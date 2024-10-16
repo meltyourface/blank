@@ -23,7 +23,7 @@ excerpt: >
 
 ## Title: The Rite of the Shadowed Serpent
 
-Purpose: The purpose of this ritual is to delve into the Qliphothic realms, uncover hidden knowledge, and embrace the transformation that arises from exploring one's darker aspects, in accordance with Crowley's explorations and Thelemic principles.
+**Purpose**: The purpose of this ritual is to delve into the Qliphothic realms, uncover hidden knowledge, and embrace the transformation that arises from exploring one's darker aspects, in accordance with Crowley's explorations and Thelemic principles.
 
 Required Resources:
 

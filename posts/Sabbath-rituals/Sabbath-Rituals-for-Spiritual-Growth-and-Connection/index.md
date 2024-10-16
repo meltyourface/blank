@@ -27,11 +27,11 @@ Sabbath rituals are an integral part of the occult tradition, representing sacre
 
 The Circle of Acknowledgement is a foundational ritual performed at the start of any Sabbath gathering, intended to honor and connect with the elemental energies present in the natural world. It serves to create a sacred space, invoke powerful energies, and set the overall intention for the gathering.
 
-Preparations:
+**Preparations**:
 - Cleanse your ritual space, which can be indoors or outdoors, ensuring that it is free from clutter and distractions.
 - Set up an altar in the center of the space, adorned with symbols and offerings representing each of the four elements: Earth, Air, Fire, and Water.
 
-Instructions:
+**Instructions**:
 1. Stand facing the east direction, taking a moment to ground yourself and connect with the energies of the rising sun and the element of Air.
 2. Moving clockwise, turn to the south and invoke the energies of Fire, honoring the transformative power of this element.
 3. Continue moving clockwise to the west, tuning into the nurturing and purifying energies of Water.
@@ -42,11 +42,11 @@ Instructions:
 
 This ritual focuses on harnessing the power of the sabbath to manifest intentions and desires, using the symbolic elements of a chalice filled with water and a candle to represent the union of the Divine Feminine and Divine Masculine.
 
-Preparations:
+**Preparations**:
 - Prepare a chalice filled with water and a candle placed on the altar.
 - Write down a specific intention or desire that you wish to manifest, ensuring it is clear, concise, and positive.
 
-Instructions:
+**Instructions**:
 1. Light the candle, representing the Divine Masculine force, and place it on the altar.
 2. Hold the chalice, symbolizing the Divine Feminine energy, with both hands, and imbue it with your intention or desire by concentrating and visualizing it coming to fruition.
 3. Slowly pour the water from the chalice around the base of the candle, creating a circle, and symbolically aligning the Divine Feminine and Divine Masculine forces in unison.
@@ -56,11 +56,11 @@ Instructions:
 
 The Spiral Dance of Renewal is a time-honored ritual performed during the sabbath to celebrate the cyclical nature of life, the seasons, and the interconnectedness of all beings. This participative dance encourages the release of inhibitions, fosters emotional growth and rejuvenation, and culminates in a heightened state of spiritual oneness.
 
-Preparations:
+**Preparations**:
 - Ensure the ritual space is open and clear, with ample room for participants to move and dance.
 - Prepare some soft, rhythmic music that promotes flow and connection.
 
-Instructions:
+**Instructions**:
 1. Gather in a circle, with one person leading the dance and opening the energy by offering a brief invocation of unity and connection with nature and the elements.
 2. Begin to dance, following the leader in a spiral-shaped formation, moving inwards towards the center of the circle, and then spiraling outwards once again.
 3. Encourage participants to release any emotional blockages or limitations while dancing, finding freedom and expression in their movements.

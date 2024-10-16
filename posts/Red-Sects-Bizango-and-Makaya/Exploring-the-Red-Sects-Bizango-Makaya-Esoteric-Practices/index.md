@@ -44,20 +44,20 @@ Makaya, although similar in roots to Bizango, focuses on the spiritual empowerme
 
 Bizango rituals and ceremonies often take place in hidden spaces, away from the eyes of non-initiates. The rituals serve multiple purposes, including communal bonding, decision-making, and collective protection from adversaries. Bizango rituals can be organized around the core elements of initiation, invocation of djab or baka, and transformation.
 
-Initiation: Members of Bizango undergo an initiation process, serving as a rite of passage and a means of ensuring their commitment and loyalty. This initiation may involve periods of fasting, ritual bathing, and the creation and ingestion of powerful spiritual concoctions.
+**Initiation**: Members of Bizango undergo an initiation process, serving as a rite of passage and a means of ensuring their commitment and loyalty. This initiation may involve periods of fasting, ritual bathing, and the creation and ingestion of powerful spiritual concoctions.
 
-Invocation: Bizango practitioners call upon ancestral spirits and Lwa in their rituals through songs, dances, and drumming. These invocations help create a connection between the living and the spiritual realm, facilitating communication and assistance from divine entities.
+**Invocation**: Bizango practitioners call upon ancestral spirits and Lwa in their rituals through songs, dances, and drumming. These invocations help create a connection between the living and the spiritual realm, facilitating communication and assistance from divine entities.
 
-Transformation: Bizango rituals incorporate the transformative power of tsakapa through ceremonies involving symbolic rebirth and renewal. This may include acts such as ritual scarification or the wearing of ceremonial garb, representing a connection to both spiritual and physical metamorphosis.
+**Transformation**: Bizango rituals incorporate the transformative power of tsakapa through ceremonies involving symbolic rebirth and renewal. This may include acts such as ritual scarification or the wearing of ceremonial garb, representing a connection to both spiritual and physical metamorphosis.
 
 5.3.2 Makaya
 
 Makaya rituals share similarities with Bizango regarding the involvement of songs, dances, and drumming to connect with the spiritual realm. However, Makaya rituals often focus on the goal of achieving divine equilibrium and accessing the empowering force of mají.
 
-Ceremonies: Regular ceremonies involving the entire community strengthen connections between community members and the spiritual realm. These gatherings often involve feasts, offerings, and libations, with an emphasis on gratitude and respect for the Lwa and ancestral spirits.
+**Ceremonies**: Regular ceremonies involving the entire community strengthen connections between community members and the spiritual realm. These gatherings often involve feasts, offerings, and libations, with an emphasis on gratitude and respect for the Lwa and ancestral spirits.
 
 Indigenous Elements: Makaya practitioners value the connection to indigenous spirituality and often incorporate Taino-derived elements such as sacred herbs, sacred spaces, and symbolic talismans in their rituals.
 
-Divination: Divination is an important aspect of Makaya practice, utilized to gain guidance from the Lwa and confirm the maintenance of the cosmic balance. Divinatory tools such as cowrie shells or bones may be employed, with skilled diviners interpreting the messages received.
+**Divination**: Divination is an important aspect of Makaya practice, utilized to gain guidance from the Lwa and confirm the maintenance of the cosmic balance. Divinatory tools such as cowrie shells or bones may be employed, with skilled diviners interpreting the messages received.
 
 In conclusion, Bizango and Makaya represent two distinct branches of the Red Sects, each retaining a complex set of beliefs, rituals, and practices. While both traditions maintain their roots in Afro-Caribbean spirituality and touch on similar themes, they also possess unique qualities that embody their respective aims and values. By deepening our understanding of Bizango and Makaya, we can appreciate the richness and significance of these esoteric traditions within the broader context of Afro-Caribbean spiritual systems.

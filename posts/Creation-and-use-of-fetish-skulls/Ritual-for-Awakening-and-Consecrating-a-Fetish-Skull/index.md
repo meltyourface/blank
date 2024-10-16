@@ -29,9 +29,9 @@ excerpt: >
   
 ---**Step 1**: Awakening the Skull's Latent Energy
 
-Materials: Fetish-skull, anointed candles (four), altar, ritual dagger, offering (berries, bread, or other appropriate items)
+**Materials**: Fetish-skull, anointed candles (four), altar, ritual dagger, offering (berries, bread, or other appropriate items)
 
-Preparation:
+**Preparation**:
 
 1. Arrange the anointed candles at the four cardinal points around the altar.
 2. Place the fetish-skull at the center of the altar.
@@ -51,9 +51,9 @@ With this invocation, let the ritual begin."
 Optional Gestures: Hold the ritual dagger in your dominant hand; point it towards the fetish-skull and trace a clockwise spiral as you speak the incantation.
 **Step 2**: Invoking the Essence of the Primary Bone Material
 
-Materials: Bone samples (human, animal, or mythical creature), bowl, a chalice filled with the sacred water, and incense.
+**Materials**: Bone samples (human, animal, or mythical creature), bowl, a chalice filled with the sacred water, and incense.
 
-Preparation:
+**Preparation**:
 
 1. Add the corresponding bone samples to the bowl.
 2. Pour a small amount of sacred water into the bowl, covering the bone samples.
@@ -71,9 +71,9 @@ In this sacred union, transform fetters to unity."
 Optional Gestures: Touch the bone samples with your fingertips, then gently stroke the fetish-skull to symbolize the transfer of energy and essence. Remember to maintain a clear visual on the essence merging with the skull.
 **Step 3**: Linking the Skull's Purpose to the Individual or Space
 
-Materials: Personal item or substance linked to the individual or space (e.g., hair, photograph, earth), a silk or velvet cloth.
+**Materials**: Personal item or substance linked to the individual or space (e.g., hair, photograph, earth), a silk or velvet cloth.
 
-Preparation:
+**Preparation**:
 
 1. Wrap the item or substance in the silk or velvet cloth.
 2. Place the wrapped object beside the fetish-skull on the altar.
@@ -90,9 +90,9 @@ Connected in purpose, our work now begun."
 Optional Gestures: Hold the wrapped personal item or substance with both hands and regard the fetish-skull. Visualize an ethereal bond forming between the two objects.
 **Step 4**: Closing Benediction to Seal and Consecrate the Fetish-Skull
 
-Materials: Salt, compass, and a ceremonial cloth.
+**Materials**: Salt, compass, and a ceremonial cloth.
 
-Preparation:
+**Preparation**:
 
 1. Sprinkle a circle of salt around the perimeter of the altar.
 2. Use the compass to ensure proper alignment with the cardinal points.

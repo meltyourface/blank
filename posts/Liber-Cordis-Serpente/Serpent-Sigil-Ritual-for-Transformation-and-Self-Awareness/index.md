@@ -22,9 +22,9 @@ excerpt: Develop an intricate Liber Cordis Serpente ritual or working, concentra
 
 ## The Ascension of the Serpent's Coil
 
-Objective: To harness the energies of the sacred serpent and achieve heightened self-awareness through transformational sigils, invocations, and multi-layered philosophical references.
+**Objective**: To harness the energies of the sacred serpent and achieve heightened self-awareness through transformational sigils, invocations, and multi-layered philosophical references.
 
-Materials:
+**Materials**:
 1. A designated ritual space
 2. Serpent effigy
 3. Candles (seven)
@@ -35,7 +35,7 @@ Materials:
 8. A black robe or ritual attire
 9. A compass for creating the circle
 
-Preparation: 
+**Preparation**: 
 1. Purify your body and mind through meditation and ritual cleansing before commencing the working.
 2. Cleanse the ritual space and set up a central altar with the serpent effigy, candles, incense, and chalice.
 3. Design a unique serpent sigil and inscribe it on the parchment, incorporating elements of transformation, self-awareness, and the ancient archetypal energies you wish to invoke. Place it beneath the serpent effigy.

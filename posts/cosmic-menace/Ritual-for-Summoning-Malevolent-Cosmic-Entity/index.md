@@ -34,10 +34,10 @@ Ingredients and Materials:
 9. Candles made from the rendered fat of voidbeasts, infused with Yordavix weed
 10. Circle of warding geometries, carved into the ground and/or floor, lined with powdered starstone
 
-Configuration:
+**Configuration**:
 The Ritual of Malevolentinum must be conducted during the great celestial alignment, when the Moon eclipses the black hole residing at the center of our galaxy. This exceptionally rare event weakens the veil between dimensions, amplifying the effectiveness of the ritual.
 
-Instructions:
+**Instructions**:
 
 1. Prepare the ritual area within the circle of warding geometries by placing the crystal shards from the fallen city of Xa'axaloth at the cardinal directions, equidistant from the circle.
 

@@ -30,23 +30,23 @@ The North Node's position in the birth chart highlights the client's purpose and
 South Node:
 Conversely, their South Node, which represents past life experiences, is situated in the 10th house, in Virgo. This means that our client has previously focused on achieving professional success, being respected, and upholding standards of perfectionism. Their development in this area has laid the groundwork for continuing growth in their personal life and emotional connections in the current lifetime.
 
-Ascendant:
+**Ascendant**:
 The Ascendant, also known as the Rising sign, plays a major role in shaping the client's personality, habits, and how they present themselves to the world. The Ascendant is located in Leo in this birth chart. This brings a natural charisma, boldness, and passion to the individual, assisting them in attracting others and forming strong spiritual bonds.
 
-Pluto:
+**Pluto**:
 Pluto's position is significant when evaluating the transformative aspects in a client's life. In this chart, Pluto resides in the 5th house, signifying profound transformation and upheaval in creative expression, personal identity, and love life. This energy intensifies relationships and can serve as a catalyst for remarkable personal growth.
 
-Saturn:
+**Saturn**:
 Saturn is known as the taskmaster, governing self-discipline, limitations, and structured growth. In this birth chart, Saturn occupies the 7th house, which indicates a karmic responsibility to learn the value of deep, committed relationships. This placement suggests that forming powerful, lasting bonds may require dedication and hard work.
 
-Venus:
+**Venus**:
 Lastly, Venus's location is essential when examining love, beauty, and the arts. Here, Venus is positioned in the 6th house, emphasizing the importance of nurturing relationships through daily routines, work, and self-care.
 
 I-Ching Hexagram Insights:
 
 For our client, the I-Ching hexagram drawn for their karmic patterns and Reunification possibilities is hexagram 32, "Heng: Lasting, Continuity." This hexagram emphasizes the need for cultivating balance, flexibility, and adaptability in life. It suggests that focusing on self-improvement and nurturing personal relationships with humility and patience will bring lasting success and deeper spiritual connections.
 
-Suggestions:
+**Suggestions**:
 
 To help our client achieve a stronger connection with past life energies and enhance their Reunification potential, some tailored rituals are recommended:
 

@@ -71,7 +71,7 @@ Module 5: Experiential Learning Opportunities
 - Networking events and discussion groups for the esoteric community
 - Opportunities for social and ecological service through mystical practice
 
-Assessment:
+**Assessment**:
 - Written essays and reflections on assigned readings and practices
 - Practical examinations of learned techniques (e.g., divination, ritual work)
 - Oral presentations on historical or philosophical topics

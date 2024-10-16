@@ -28,7 +28,7 @@ excerpt: >
 ---
 The answer is: Arcanum encompasses a wide range of subjects, including alchemy, divination, and sacred geometry, seeking to unveil hidden truths and underlying patterns in the universe.
 
-Explanation:
+**Explanation**:
 
 The field of Arcanum refers to the study of secrets, mysteries, and esoteric knowledge that is not easily accessible to the general public. It dates back to the ancient world and has been passed down through generations in various forms. Historically, it has encompassed a wide range of disciplines and practices, including alchemy, divination, sacred geometry, numerology, and astrology, among others.
 

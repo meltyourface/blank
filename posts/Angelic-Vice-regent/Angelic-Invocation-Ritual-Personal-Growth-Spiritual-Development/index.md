@@ -22,12 +22,12 @@ excerpt: >
 ---
 Angelic Invocation Ritual for Personal Growth and Spiritual Development in the Angelic Vice-regent Domain
 
-Preparation:
+**Preparation**:
 1. Cleanse and consecrate the ritual space by burning sage or another purifying herb.
 2. Prepare a circle of salt to represent the boundary between the physical and spiritual realms.
 3. Draw the Sigil of the Angelic Vice-regent within the circle, using chalk or another temporary medium.
 
-Materials:
+**Materials**:
 - A white or gold candle to represent the angelic light
 - Incense for summoning angelic energies (frankincense, myrrh, or sandalwood)
 - A chalice filled with water, wine, or another sacred liquid
@@ -40,7 +40,7 @@ Align with the coordinates of the planet Venus, the celestial representative of 
 Numerological Associations:
 Incorporate sacred numerology into the invocation through the selection of significant numbers, such as 333, which symbolizes the ascended masters, and 444, which represents the angelic realm. Begin the ritual at a time that adheres to these numbers, and repeat any invocations or chants the corresponding number of times.
 
-Ritual:
+**Ritual**:
 
 1. Light the candle and incense within the circle of salt, and arrange the sacrificial offerings before entering the circle.
 

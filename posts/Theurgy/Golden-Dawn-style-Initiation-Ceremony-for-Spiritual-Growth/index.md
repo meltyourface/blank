@@ -22,7 +22,7 @@ excerpt: >
 ---
 The following is a meticulously detailed Golden Dawn-style initiation ceremony, incorporating specific elements of Theurgy, invocations of divine entities, the use of sacred symbols, ritual tools, and the inclusion of an original ritualistic component with unique elemental correspondences and a tailored sigil.
 
-Preparation:
+**Preparation**:
 1. Obtain consent from the candidate who will be the focal point of the ceremony.
 2. Set the date and time for the ceremony, preferably on a significant astrological date or time that aligns with the intentions of the initiation.
 3. Create a ceremonial space by consecrating the chosen area and cleansing it with incense, anointing it with blessed oils, and creating a sacred circle.

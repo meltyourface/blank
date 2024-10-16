@@ -22,15 +22,15 @@ excerpt: Design an engaging role-play scenario that simulates a conversation wit
 
 ## Midnight Mysteries with the Scarlet Sorcerer
 
-Scenario:
+**Scenario**:
 
 In an ancient and dimly lit chamber adorned with sultry paintings and mystical symbols, you find yourself face-to-face with a notorious and mystical figure known as the Scarlet Sorcerer. Legend has it that this enigmatic entity possesses the knowledge of the darkest and most powerful of sexual magicks, capable of solving any carnal dilemma.
 
 You, a curious traveler seeking to understand the tribulations of your own sexual strife and desires, have decided to partake in this intimate and engaging role-play experience. The Scarlet Sorcerer, intrigued by your forthrightness and strong will, decides to share their arcane wisdom and unlock the mysteries behind your sexual quandaries.
 
-Setting: The Chamber of Forbidden Desires
+**Setting**: The Chamber of Forbidden Desires
 
-Characters:
+**Characters**:
 
 1. You: A bold adventurer and ardent seeker of forbidden knowledge, inquisitive and vulnerable, hoping for answers and guidance.
 2. Scarlet Sorcerer: A highly skilled, enigmatic figure, who is both sensual and intimidating, armed with the secrets of the most potent spells and enchantments to overcome sexual tribulations.

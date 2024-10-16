@@ -22,9 +22,9 @@ excerpt: Devise an intricate and multifaceted magical rite for the Cultus of the
 
 ## Rite of the Obsidian Seraphim
 
-Objective: Invoke the Obsidian Seraphim, a powerful and enigmatic entity, to assist the Cultus of the hidden elite in their secretive endeavors and further their aims.
+**Objective**: Invoke the Obsidian Seraphim, a powerful and enigmatic entity, to assist the Cultus of the hidden elite in their secretive endeavors and further their aims.
 
-Timing: The rite must be performed during the New Moon, when the celestial energies are most conducive to accessing the metaphysical.
+**Timing**: The rite must be performed during the New Moon, when the celestial energies are most conducive to accessing the metaphysical.
 
 Preparatory and Cleansing Procedures:
 

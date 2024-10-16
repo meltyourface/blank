@@ -24,7 +24,7 @@ For this all-encompassing numerology analysis, let us assume an individual named
 1. **Life Path Number**:
 This is derived from the individual's birthdate. In this case, December 29, 1976.
 
-Month: December (12): 1+2 = 3
+**Month**: December (12): 1+2 = 3
 Day: 29: 2+9 = 11 (a master number, so don't reduce further) 
 Year: 1976: 1+9+7+6 = 23: 2+3 = 5
 
@@ -37,7 +37,7 @@ Derived from the vowels in the individual's full name.
 
 In John Michael Smith's case, his Soul Urge number is calculated by assigning numerical values to the vowels in his name using the standard numerology chart (A=1, E=5, I=9, O=6, and U=3).
 
-John: O = 6
+**John**: O = 6
 Michael: I + A + E = 9 + 1 + 5 = 15: 1+5 = 6
 Smith: I = 9
 
@@ -48,7 +48,7 @@ The Soul Urge Number is 3, signifying creativity and self-expression. The core d
 3. **Expression Number**:
 Derived from all the letters in the individual's full name.
 
-John: J+O+H+N = 1+6+8+5 = 20
+**John**: J+O+H+N = 1+6+8+5 = 20
 Michael: M+I+C+H+A+E+L = 4+9+3+8+1+5+3 = 33 (a master number, don't reduce further)
 Smith: S+M+I+T+H = 1+4+9+2+8 = 24
 

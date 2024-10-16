@@ -22,7 +22,7 @@ excerpt: Design an elaborate and intricate cleansing ritual for maintaining the 
 
 ## Scrying Sanctum Purgation Ritual
 
-Purpose: To cleanse, purify, and maintain the sanctity of a scrying workspace, ensuring its optimal effectiveness in subsequent scrying sessions.
+**Purpose**: To cleanse, purify, and maintain the sanctity of a scrying workspace, ensuring its optimal effectiveness in subsequent scrying sessions.
 
 Tools and Materials:
 1. Sage bundle
@@ -37,7 +37,7 @@ Tools and Materials:
 10. A pendulum, crystal ball, or other preferred scrying tool
 11. A compass
 
-Procedure:
+**Procedure**:
 
 1. Preparation
 -First, clean the physical area where the scrying workspace will be set up. This simple act primes and harmonizes the energy within the workspace.

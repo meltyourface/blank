@@ -22,7 +22,7 @@ excerpt: >
 ---
 In the ancient language of the Fey, I shall craft an incantation to forge a powerful bond with a leprechaun, a cunning and elusive Fey creature. To ensure the success of this ritual, I shall utilize the knowledge of Fey customs and vulnerability, creating a pact that intertwines our destinies and ensures lifelong service. 
 
-Incantation:
+**Incantation**:
 
 Flædnes hærémonath seiora, distíllan græged symbel
 (Gather essence of moon's might, distill sacred potion)

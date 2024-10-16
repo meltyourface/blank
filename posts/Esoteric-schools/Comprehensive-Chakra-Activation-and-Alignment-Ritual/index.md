@@ -23,9 +23,9 @@ excerpt: >
 
 ## Title: The Comprehensive Chakra Alignment and Activation Ritual
 
-Purpose: To align and activate the seven primary chakras within an individual, facilitating a deep state of transcendental meditation.
+**Purpose**: To align and activate the seven primary chakras within an individual, facilitating a deep state of transcendental meditation.
 
-Duration: Approximately 60-90 minutes
+**Duration**: Approximately 60-90 minutes
 
 Materials required:
 1. A quiet space for meditation
@@ -33,7 +33,7 @@ Materials required:
 3. Cushion or mat for sitting
 4. Diagram of Chakra system
 
-Preparation:
+**Preparation**:
 1. Choose a quiet space where you will not be disturbed for 90 minutes.
 2. Set up a small altar with any sacred objects, candles, and incense, if desired.
 3. Prepare the Chakra diagram with specific visualizations, mantras, and energy work practices for each Chakra. Make sure to have a clear view of the diagram from your seated position.

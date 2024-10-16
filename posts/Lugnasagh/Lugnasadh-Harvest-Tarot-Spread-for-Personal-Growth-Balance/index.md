@@ -37,7 +37,7 @@ Card Positions:
 8. ****Lugh's Protection****: Guidance from Lugh, the sun god, on how to overcome obstacles or adversities. (Center-top position)
 9. ****Tailtiu's Nurturing****: Guidance from Tailtiu, the earth goddess, on how to nurture and care for yourself during this time. (Center-bottom position)
 
-Instructions:
+**Instructions**:
 
 1. Begin by focusing on your thoughts and intentions for this Lugnasadh season. Meditate on the themes of personal growth, gratitude, and balance.
 2. Shuffle the deck, concentrating on the energies of Lugh, Tailtiu, and the harvest. 

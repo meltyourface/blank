@@ -34,7 +34,7 @@ In contrast to Hegel's dialectical idealism, Friedrich Nietzsche's perspectivism
 
 Gnostic dualism, with roots in ancient religious and metaphysical systems, posits that reality comprises two contrasting aspects: the material world, associated with evil, falsehood, and suffering, and the spiritual realm, linked with truth, goodness, and salvation. Human beings, as spiritual beings trapped in material bodies, must engage in the pursuit of knowledge (gnosis) to transcend material existence and achieve spiritual enlightenment.
 
-Analysis:
+**Analysis**:
 
 1. Subjective experience and objective reality in Hegelian dialectics
 

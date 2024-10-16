@@ -43,7 +43,7 @@ Additionally, it is crucial to mention that American Gothic represents a white, 
 
 An Artistic Interpretation Challenging the Original Artwork's Portrayal of Gender:
 
-Title: American Mosaic
+**Title**: American Mosaic
 Medium: Digital Art
 
 In response to the original American Gothic painting, I propose the creation of a new artwork entitled American Mosaic. This digital art piece will consist of a diverse array of individuals representing various gender identities, races, sexual orientations, and socioeconomic backgrounds.

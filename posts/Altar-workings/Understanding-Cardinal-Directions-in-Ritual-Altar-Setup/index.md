@@ -23,22 +23,22 @@ To fully comprehend the symbolic significance of each cardinal direction within 
 
 The integration of cardinal directions and associated elements in an altar can be compared to a magnificent symphony. Just as each instrument contributes to the overall harmony, so does each direction carry a unique energy that impacts the ritual being conducted. Let us examine the significance of each cardinal direction and how they collectively contribute to a balance and harmony within the ritual.
 
-North:
+**North**:
 Symbolizing the element Earth, the Northern direction represents fertility, stability, strength, and prosperity. It is an energy of grounding, permanence, and nurturing. The North also corresponds with the watchtower guardian of the gnomes and the archangel Uriel. In a ritual, the North provides the foundation, the anchoring force that binds the energies together. It can be likened to the steady bassline in a musical composition, offering depth and stability to the overall sound.
 
 A metaphoric example would be planting seeds in the Earth, representing the intentions of a ritual. These seeds rely on the nurturing support of the soil, taking root and eventually growing into a manifestation of our desires.
 
-East:
+**East**:
 The East represents the element Air, symbolizing intellect, communication, and inspiration. The energies of the East include the rising sun, new beginnings, growth, and higher wisdom. The watchtower guardian of the East is the sylphs, and the archangel is Raphael. In a ritual, the East provides the breath of life, fueling our intentions with inspiration and opening pathways for communication with higher powers and energies.
 
 Imagine a gust of wind blowing through newly sprouted leaves; the East breathes life into the seeds planted, allowing them to grow and mature.
 
-South:
+**South**:
 Associated with the element Fire, the Southern direction represents action, transformation, passion, and vitality. It is the propelling force that drives our desires and intentions forward. The watchtower guardian of the South is the salamanders, and the archangel is Michael. In ritual work, the fiery energies of the South enable change, igniting passion and providing the impetus for transformation.
 
 Drawing from our metaphor, the heat and light from the sun facilitate the growth of our intentions, ripening the fruits of our labor, ultimately leading to the desired outcome.
 
-West:
+**West**:
 The West is aligned with the element Water, symbolizing emotions, intuition, and cleansing. It is an energy of healing, compassion, and renewal. The watchtower guardian of the West is the undines, and the archangel is Gabriel. In a ritual, the West represents the emotional undercurrents, providing fluidity and depth of feeling to the ritual. It offers the opportunity for cleansing and emotional release, allowing us to let go of that which no longer serves us.
 
 Continuing our example, water provides the necessary hydration for the plants to thrive, cleansing and nourishing their growth, culminating in the manifestation of our intentions.

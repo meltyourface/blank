@@ -22,7 +22,7 @@ excerpt: Generate a brief, information-dense section of a grimoire focused on th
 
 ## Domain of Horrors: An Exploration of Fear and Darkness within the Occult
 
-Introduction:
+**Introduction**:
 The domain of horrors is a fascinating, yet perilous aspect of the occult, drawing upon the deep-seated fears and dark energies that reside both within our human psyche and the greater, metaphysical realm. To effectively navigate, understand, and harness the potential benefits of this domain, it is crucial for students to arm themselves with foundational principles, techniques, and precautions. In doing so, one may not only glean the rich insights offered by the study of horrors but also avoid catastrophic consequences. This section aims to provide a comprehensive guide on traversing the domain of horrors, delving into its historical significance, core tenets, and associated risks.
 
 ### I. Core Principles
@@ -65,6 +65,6 @@ The domain of horrors is not to be entered lightly, as hidden dangers lie in wai
 2. Encounter and attachment of malevolent entities seeking to exploit a student's vulnerabilities and energetic vulnerabilities.
 3. A descent into destructive patterns or behaviors, should one lose control over the forces encountered and surrender to the dark energies at play.
 
-Conclusion:
+**Conclusion**:
 
 The study of the domain of horrors offers a complex, intriguing pathway into the occult, inviting adepts to plumb the depths of fear and dark energies with the promise of growth, transformation, and deepened understanding. Armed with the necessary principles, techniques, and precautions, initiates can undertake this journey with confidence and fortitude, ultimately emerging with invaluable insights and expanded consciousness.

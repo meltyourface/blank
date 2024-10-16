@@ -22,7 +22,7 @@ excerpt: Describe a section of a grimoire focused on teaching a student the step
 
 ## Contacting Shades from the Past: A Comprehensive Guide
 
-Introduction:
+**Introduction**:
 
 The practice of contacting shades from the past has long been an essential aspect of the study of the occult. By conversing with spirits and entities from bygone eras, students can glean valuable insights into the arcane knowledge possessed by those who have come before them. Throughout the centuries, numerous methods of communication have been developed and refined to facilitate productive and respectful interactions with these shades. In this section, we will provide a detailed overview of the step-by-step process, precautions, and essential materials required to contact shades from the past.
 
@@ -58,7 +58,7 @@ Step-by-Step Process:
 
 7. **Closing the Ritual**: As the conversation winds down, express your thanks to the shade and guardian spirits for their guidance. Extinguish the candles and incense, remove any offerings, and carefully dismantle the circle of protection. Perform a final cleansing ritual to restore balance and harmony to the environment.
 
-Precautions:
+**Precautions**:
 
 1. **Protect yourself**: Ensure that the circle of protection is properly constructed and maintained throughout the entire ritual.
 

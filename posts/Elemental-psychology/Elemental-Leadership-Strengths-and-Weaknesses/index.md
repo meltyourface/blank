@@ -23,33 +23,33 @@ Scenario 1: The Elemental Conference (Air)
 
 In this scenario, a conference is held to discuss the importance of clean air and the reduction of air pollution. The Air representative excels at communication and intellectual problem-solving. Their strengths lie in finding innovative solutions and facilitating conversation among the different elemental representatives.
 
-Strengths: Strong communication skills, the ability to think outside the box, adaptability
+**Strengths**: Strong communication skills, the ability to think outside the box, adaptability
 Weaknesses: Difficulty in making concrete decisions, becoming easily distracted by other ideas
 
 Scenario 2: The Water Resource Crisis (Water)
 
 A town's water supply has become contaminated, and the Water representative must devise a plan to purify the water and provide a sustainable solution for the town. The Water representative holds immense empathy and emotional understanding, allowing them to identify the needs of the community and address concerns in a sensitive and supportive manner. 
 
-Strengths: Emotional intelligence, nurturing and supportive nature, strong intuition
+**Strengths**: Emotional intelligence, nurturing and supportive nature, strong intuition
 Weaknesses: Overwhelmed by strong emotions, struggles in highly structured environments
 
 Scenario 3: The Forest Fire (Fire)
 
 A fast-spreading forest fire threatens a local village, and the Fire representative must devise a strategy to control the fire and save the village. The Fire representative's determined, action-oriented nature allows them to quickly assess the situation and act decisively, rallying the community behind them.
 
-Strengths: Determination, strong leadership skills, adaptability to changing situations
+**Strengths**: Determination, strong leadership skills, adaptability to changing situations
 Weaknesses: Impulse control, a tendency to overlook important details in their haste
 
 Scenario 4: The Fallen Bridge (Earth)
 
 A seismic event has caused a vital bridge to collapse, isolating a community. The Earth representative needs to work on a plan to rebuild the bridge in a sustainable and resource-efficient manner. The Earth representative is methodical and dependable, excelling in strategic planning and providing a sense of stability.
 
-Strengths: Strategic thinking, goals-oriented, strong sense of responsibility
+**Strengths**: Strategic thinking, goals-oriented, strong sense of responsibility
 Weaknesses: Resistance to change, over-reliance on tried-and-true methods
 
 Scenario 5: The Elemental Collaboration (Representation of All Elements)
 
 In this final scenario, an international crisis requires a task force comprising representatives of each element to develop a solution that utilizes the unique strengths of each element. This scenario allows for the exploration of collaboration and integration between each elemental force and reveals the potential for groundbreaking results when each elemental strength is brought together.
 
-Strengths: Complex problem solving, balanced decision-making, leveraging the unique attributes of each element
+**Strengths**: Complex problem solving, balanced decision-making, leveraging the unique attributes of each element
 Weaknesses: Possible conflicts arising from the clashing of elemental personalities, potential biases towards one's own element

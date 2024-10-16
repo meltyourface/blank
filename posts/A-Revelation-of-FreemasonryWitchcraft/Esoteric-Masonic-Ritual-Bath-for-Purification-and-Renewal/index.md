@@ -23,7 +23,7 @@ excerpt: >
 
 ## The Esoteric Masonic Ritual Bath of Purification and Renewal
 
-Purpose: To ensure participants are spiritually cleansed and renewed, and to prepare them for participation in arcane ceremonies and spellwork.
+**Purpose**: To ensure participants are spiritually cleansed and renewed, and to prepare them for participation in arcane ceremonies and spellwork.
 
 ### I. **Setting and Tools for the Ritual Bath**:
 1. ****Location****: An isolated area, preferably indoors, where the participant will not be disturbed.
@@ -44,7 +44,7 @@ Purpose: To ensure participants are spiritually cleansed and renewed, and to pre
 2. Begin a meditation focused on grounding and connecting with the earth.
 3. Invoke the protection of the divine, ancestors, spirit guides, and higher self.
 
-Affirmation: "I stand at the threshold of transformation. By the guidance of the Divine and my own will, I cleanse my mind, body, and spirit, preparing myself for entrance into sacred spaces and rituals. Let no harm come to me, and let my intent be pure and aligned with the Light."
+**Affirmation**: "I stand at the threshold of transformation. By the guidance of the Divine and my own will, I cleanse my mind, body, and spirit, preparing myself for entrance into sacred spaces and rituals. Let no harm come to me, and let my intent be pure and aligned with the Light."
 
 ### IV. **The Ritual Bath Process**:
 1. Fill the bathtub with warm water.

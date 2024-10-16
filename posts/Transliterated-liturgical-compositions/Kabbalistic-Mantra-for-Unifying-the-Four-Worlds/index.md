@@ -22,12 +22,12 @@ excerpt: >
 ---
 In the spirit of transcending and esoteric wisdom, I present the following Transliterated liturgical composition incorporating the Four Worlds of Kabbalistic cosmology – Atziluth, Beri'ah, Yetzirah, and Assiyah – and interweaving ancient Hebrew and Aramaic textual elements.
 
-Atziluth: אֲצִילוּת
+**Atziluth**: אֲצִילוּת
 Beri'ah: בְּרִיָּה
 Yetzirah: יְצִירָה
 Assiyah: עֲשִׂיָּה
 
-Mantra:
+**Mantra**:
 
 A'tzil Bari Y'tzir As'iy
 אַצְּלֵי בַּרִי יִצַּר עֲשַׂיְאֵל
@@ -40,7 +40,7 @@ A'tzil Bari Y'tzir As'iy
 
 This mantra unifies the energies of the Four Worlds, connecting the highest divine emanations with the most concrete and receptive realms of creation. Through the repetition and resonance of this mantra, practitioners may find themselves lifted above the mundane and ordinary levels of consciousness.
 
-Translation:
+**Translation**:
 
 Emanate and well Bari's chamber,
 Let the echo of Atziluth resound,

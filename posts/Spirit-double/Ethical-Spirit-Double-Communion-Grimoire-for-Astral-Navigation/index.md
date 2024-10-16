@@ -98,7 +98,7 @@ The completion of a successful Spirit-double communion marks the dissolution and
 
 ### Chapter 4: Proper Conduct During Ritualistic Encounters
 
-Preparation: Purification, Setting Intentions, and Shielding
+**Preparation**: Purification, Setting Intentions, and Shielding
 
 The key to a harmonious and ethical Spirit-double communion lies in adequate preparation. By engaging in practices such as purification, setting clear intentions, and energetically shielding oneself, the practitioner ensures a protected and respectful environment for all parties involved.
 

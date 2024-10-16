@@ -30,7 +30,7 @@ excerpt: >
 ---
 Session 1: Introduction to True Will and Astral Exploration
 
-Objective: To understand the principles of True Will and establish a foundation for astral exploration.
+**Objective**: To understand the principles of True Will and establish a foundation for astral exploration.
 
 1. Welcoming participants and explaining the purpose and goals of the sessions.
 2. Presenting the principles of True Will in detail, elaborating on their significance in achieving spiritual growth and personal transformation.
@@ -40,7 +40,7 @@ Objective: To understand the principles of True Will and establish a foundation 
 
 Session 2: Visualization and Connection with True Will Energies
 
-Objective: To develop vivid and powerful visualization techniques for connecting with True Will energies.
+**Objective**: To develop vivid and powerful visualization techniques for connecting with True Will energies.
 
 1. Teaching visualization techniques that help participants create clear and strong mental imagery.
 2. Guided meditation: Visualizing a personal sacred space, a serene and safe environment where participants can comfortably explore the astral realm.
@@ -50,7 +50,7 @@ Objective: To develop vivid and powerful visualization techniques for connecting
 
 Session 3: Advanced Meditation Techniques for True Will Exploration
 
-Objective: To incorporate advanced meditation techniques to stimulate the understanding and control of True Will.
+**Objective**: To incorporate advanced meditation techniques to stimulate the understanding and control of True Will.
 
 1. Introduction to sigil creation for True Will manifestation and guidance on sigil creation practice.
 2. Guided meditation and practical exercises for chakra alignment, focusing on activating and opening each energy center in the body.
@@ -59,7 +59,7 @@ Objective: To incorporate advanced meditation techniques to stimulate the unders
 
 Session 4: Progressive Enhancement of Astral Capabilities
 
-Objective: To design a comprehensive syllabus for enhancing astral capabilities through meditation and visualization.
+**Objective**: To design a comprehensive syllabus for enhancing astral capabilities through meditation and visualization.
 
 1. Reviewing progress and discussing experiences from previous sessions and homework.
 2. Introducing advanced astral projection techniques and providing step-by-step instructions for safe and effective exploration.
@@ -69,7 +69,7 @@ Objective: To design a comprehensive syllabus for enhancing astral capabilities 
 
 Session 5: Mastery over Personal Spiritual Journey
 
-Objective: To inspire and empower participants to continue their spiritual journey towards mastery over True Will and astral exploration.
+**Objective**: To inspire and empower participants to continue their spiritual journey towards mastery over True Will and astral exploration.
 
 1. Sharing personal experiences of overcoming obstacles and achieving success in the astral realm.
 2. Hosting a group discussion on the challenges faced during the sessions and strategize overcoming these challenges in future practices.

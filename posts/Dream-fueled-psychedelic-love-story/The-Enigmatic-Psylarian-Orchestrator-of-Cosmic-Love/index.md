@@ -22,13 +22,13 @@ excerpt: >
 ---
 Introducing the Psylarian, a surreal, dream-inspired creature that exists in the realm of psychedelic love stories and orchestrates ethereal encounters between celestial beings. The Psylarian is the mastermind behind the most enchanting romantic entanglements, creating connections that defy ordinary understanding.
 
-Appearance:
+**Appearance**:
 
 The Psylarian possesses a bizarre, yet captivating, anatomy. Its body is reminiscent of a mercurial chameleon with an opalescent, translucent skin that reflects colors unseen by the mortal eye. Coupled with this, otherworldly luminescent patterns dance and spark across its surface, accentuating its flowing, liquid-like form. The creature possesses a singular, infinitely deep sapphire eye that acts as a window to the cosmic consciousness and perceives the emotional auras of the celestial beings it encounters.
 
 Particularly peculiar is its elongated thorax, which houses a multitude of iridescent tendrils that undulate with uncanny grace. These tendrils are the means through which the Psylarian weaves and manipulates the cosmic fabric of love itself. At the end of each tendril, the creature has a small orifice that softly releases opalescent dust, seeds of enchanting dreams and serendipitous encounters.
 
-Function:
+**Function**:
 
 The Psylarian inhabits the crevices between reality and dreams, thriving within the nexus of interdimensional love stories. It seeks only to create bonds that shatter the constrictions of time, space, and rationality. Infinitely intuitive and empathic, the Psylarian senses the emotional connections and auras of celestial beings, feeling the vibrational frequencies as they resonate across dreamlands and galaxies.
 

@@ -22,7 +22,7 @@ excerpt: Craft a meticulously articulated dissertation, grounded in Lovecraftian
 
 ## Yog-Sothoth: The Incomprehensible Nexus of the Lovecraftian Cosmos
 
-Abstract:
+**Abstract**:
 
 Within the annals of H. P. Lovecraft's mythos, few entities evoke as much terror and awe as Yog-Sothoth, the unimaginable amalgamation of spheres, gates, and omniscience. This dissertation delves into Lovecraftian lore and cosmic mythology to substantiate the existence of Yog-Sothoth, examining its inexplicable nature, exploring its connections to the malevolent Outer Gods, and analyzing ancient tomes and eldritch manuscripts that defend the existence of this abominable being. By meticulously studying the literary, historical, and philosophical aspects of the Cthulhu Mythos, this research establishes Yog-Sothoth as a prime example of our fear of the unknown and the unfathomable forces that drive the universe.
 

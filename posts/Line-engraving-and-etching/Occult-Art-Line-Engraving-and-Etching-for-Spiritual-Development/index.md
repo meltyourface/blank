@@ -45,13 +45,13 @@ The creation of magical and mystical art through these techniques serves as a me
 
 To perform this initiatory ritual, create an etching or engraving representing your spiritual journey or aspects of your desired growth and development. Choose symbols that resonate with your intentions, such as runes for wisdom, an Ouroboros for transformation, or a Triquetra for balance and unity.
 
-Materials:
+**Materials**:
 - A metal plate (copper or zinc)
 - Engraving or etching tools
 - Ink and printing materials
 - A quiet space conducive to spiritual work
 
-Instructions:
+**Instructions**:
 1. Begin by meditating on your intentions and goals for spiritual growth. Visualize the symbols that reflect these aspects and your overall purpose.
 
 2. Prepare your metal plate and engraving or etching tools. As you work on the design, focus on infusing the lines with your intention imbuing the artwork with the energies of your aspirations.

@@ -22,9 +22,9 @@ excerpt: >
 ---
 Rite of Ancestral Recognition
 
-Objective: To venerate and honor the spirits of ancestors, seeking their wisdom and guidance while strengthening the connection with the otherworldly realms.
+**Objective**: To venerate and honor the spirits of ancestors, seeking their wisdom and guidance while strengthening the connection with the otherworldly realms.
 
-Components:
+**Components**:
 
 1. **Candles**: Seven white candles to represent purity, divinity, and illumination.
 2. **Incense**: Sandalwood for protection and purification; copal to strengthen the connection to ancestors and to honor their memory.
@@ -32,7 +32,7 @@ Components:
 4. **Offering**: A mixture of salt, honey, wine, and bread, along with any ancestral heirlooms or personal items.
 5. **Symbols**: Sigils of ancestral power and protection, drawn on parchment with consecrated ink.
 
-Setup:
+**Setup**:
 
 1. Prepare the ritual space by cleansing it of negative energies using sage or sandalwood incense.
 2. Draw a circle with salt to create a protected boundary. Place the seven candles at equal intervals around the circle.
@@ -80,6 +80,6 @@ Proceed in peace and in light")
 
 10. Extinguish the candles and incense, releasing the energy back to the cosmos. Close the ritual by sweeping away the salt circle and dismantling the altar.
 
-Documentation:
+**Documentation**:
 
 Throughout this Rite of Ancestral Recognition, a dedicated scribe can produce detailed descriptions of each step, visual representations of the essential symbols, and transcriptions of the spoken or chanted elements to create a coherent and intricate portrayal of the ritual. This documentation allows for replication and reflection on the profound spiritual connection achieved by honoring and connecting with the ancestral spirits.

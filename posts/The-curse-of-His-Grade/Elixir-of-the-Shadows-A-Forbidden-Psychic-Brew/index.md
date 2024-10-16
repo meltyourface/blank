@@ -32,14 +32,14 @@ excerpt: >
 ---
 Elixir of the Whispering Shadows: A Recipe
 
-Ingredients:
+**Ingredients**:
 1. **Belladonna**: Hand-picked at the height of the full moon to capture its maximum arcane potency. Known to induce vivid visions and access the astral plane.
 2. **Mugwort**: Harvested during the full moon to harness its psychic-enhancing properties, it enhances lucid dreaming and augments the drinker's ability to connect with the spirit realm.
 3. **Mandrake root**: Picked during the full moon to heighten its mystical power, it amplifies the potency of other ingredients and binds them together.
 4. **Ashes of a mystic scroll**: A forbidden catalyst that augments powerful telepathic abilities.
 5. Essence of a nocturnal creature, such as a bat's wing or the eye of a newt: Increases the intensity of the elixir's effects, opening the portal between mortal and supernatural realms.
 
-Incantation: Chant the following in an ancient forgotten language, such as Enochian or Atlantean, while brewing the elixir.
+**Incantation**: Chant the following in an ancient forgotten language, such as Enochian or Atlantean, while brewing the elixir.
 "Yae'goth untress nil'gath. Dal'mari intaya sholta vandrei. Haragath'kora shandre pogath. Uvolet olbrisht sehrag novon clura."
 
 Ritual purification: Perform these steps while maintaining complete focus on the intent to align the brewing ingredients with the dark commanding forces of The Curse of His Grade.
@@ -48,7 +48,7 @@ Ritual purification: Perform these steps while maintaining complete focus on the
 2. Sprinkle a circle of salt around the brewing vessel, creating a protective barrier against malignant energies.
 3. Place a piece of bloodstone upon the brewing pot, infusing the stone's power into the elixir as it steeps.
 
-Preparation:
+**Preparation**:
 
 1. Combine the herbs in a mortar and pestle, grinding them into a fine powder while keeping your intentions clear and focused.
 2. Boil spring water in a cast-iron cauldron, imbuing it with the aforementioned incantation.
@@ -56,7 +56,7 @@ Preparation:
 4. Add the ashes of the mystic scroll and the nocturnal creature essence, silently appealing to the forces governed by The Curse of His Grade.
 5. Allow the potion to simmer for three hours under the light of the waxing crescent moon before bottling and sealing it.
 
-Effects:
+**Effects**:
 
 The Elixir of the Whispering Shadows warps the drinker's senses, imbuing them with the ability to perceive otherwise hidden forces and commune with the spirits that dwell beyond mortal perception. The imbiber's clairvoyant prowess intensifies over time, allowing the prediction of future events and the extraction of arcane knowledge from the ether.
 

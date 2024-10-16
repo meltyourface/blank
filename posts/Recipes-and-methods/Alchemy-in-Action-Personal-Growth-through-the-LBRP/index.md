@@ -21,7 +21,7 @@ excerpt: In the context of the Lesser Banishing Ritual of the Pentagram, explain
 ---
 Knowledge Challenge: In the context of the Lesser Banishing Ritual of the Pentagram, explain the symbolic alchemical connections between the elements represented and their transformation through the ritual - as well as possible avenues for personal growth achieved by unifying these elements within the practitioner.
 
-Answer:
+**Answer**:
 
 To answer this challenge, we first need to identify and understand the essential components of the Lesser Banishing Ritual of the Pentagram (LBRP) and its connections to alchemy and elemental symbolism, followed by the transformative process it induces and then the potential for personal growth achieved by unifying these elements within the practitioner. 
 

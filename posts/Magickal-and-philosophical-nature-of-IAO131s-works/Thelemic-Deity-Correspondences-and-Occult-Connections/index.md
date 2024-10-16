@@ -34,7 +34,7 @@ Thelemic Deities:
 7. Chaos
 8. Baphomet
 
-Correspondences:
+**Correspondences**:
 
 1. Nuit (Nu):
 - Egyptian: Nut, the goddess of the night sky

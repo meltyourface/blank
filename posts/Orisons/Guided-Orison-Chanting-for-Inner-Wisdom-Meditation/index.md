@@ -22,10 +22,10 @@ excerpt: Create a guided meditation script that incorporates the ancient art of 
 
 ## Orison Chanting Journey: Summoning Higher Wisdom through Meditation
 
-Introduction:
+**Introduction**:
 Welcome to this guided meditation and Orison chanting journey. In this session, we will embark on a mystic voyage to unlock your inner knowledge and commune with higher wisdom by incorporating ancient chants crafted by generations of Orison practitioners. Make yourself comfortable in a seated position and prepare to explore the depths of your consciousness.
 
-Begin:
+**Begin**:
 
 1. Grounding (1-2 minutes)
 As you settle into your seat, close your eyes and feel the ground beneath you. Take a moment to connect with the earth and its powerful, grounding energies. Feel as though roots are emerging from your feet, anchoring you to the planet.
@@ -61,5 +61,5 @@ Gently bring your awareness back to your breath, taking slow and deep inhalation
 10. Close (1 minute)
 As you bring your attention back to the room, take one last deep breath and open your eyes. You have returned, empowered and enlightened by the ancient wisdom of Orison chanting.
 
-Conclusion:
+**Conclusion**:
 With this guided meditation and Orison-chanting journey, you have unearthed potent inner wisdom while exploring the mystic depths of your consciousness. Practice this meditation regularly to maintain a deep connection to an evolved state of inner knowledge and self-awareness. May your journey with Orison chanting continue to bring clarity, joy, and enlightenment to your life.

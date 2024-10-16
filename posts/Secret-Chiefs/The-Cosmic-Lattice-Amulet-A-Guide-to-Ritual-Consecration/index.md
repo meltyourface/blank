@@ -22,12 +22,12 @@ excerpt: >
 ---
 The Cosmic Lattice Amulet
 
-Materials:
+**Materials**:
 - Meteorite iron, for its extraterrestrial properties and connection to potent cosmic energies
 - Lapis lazuli, representing wisdom, spiritual attainment, and enhanced intuition
 - Quartz crystal, for its amplifying properties and energy conductivity
 
-Symbols:
+**Symbols**:
 1. ****The Hermetic Symbol of Unification****: This symbol, composed of Caduceus, a hexagram, and a lemniscate, represents the harmonization of dualities (masculine and feminine; yin and yang) and embodies Hermetic principles, such as "as above, so below."
 2. ****The Kabbalistic Tree of Life****: Incorporated into the design, the ten Sephiroth and twenty-two paths allude to the blueprint of Creation and the roadmap to spiritual enlightenment in Kabbalah.
 3. ****The Egyptian Ankh****: As the symbol of life and fertility, the ankh connects the amulet to ancient Egyptian magical practices and the sacred knowledge of life and death.

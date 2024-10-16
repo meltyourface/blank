@@ -22,9 +22,9 @@ excerpt: Design a sinister lunar ceremony anchored in the macabre, incorporating
 
 ## Shadows of the Lunar Eclipse
 
-Setting: At the apex of a desolate, bone-strewn hill beneath the gnarled limbs of an ancient dead tree, marked with symbols only discernible under moonlight. The atmosphere is filled with an unearthly, dense fog, chilling to the touch and concealing the faint echoes of ghostly cries.
+**Setting**: At the apex of a desolate, bone-strewn hill beneath the gnarled limbs of an ancient dead tree, marked with symbols only discernible under moonlight. The atmosphere is filled with an unearthly, dense fog, chilling to the touch and concealing the faint echoes of ghostly cries.
 
-Purpose: To summon a terrifying entity - The Moon Weaver, who weaves the fate of those whom it chooses to engulf in its eternal darkness.
+**Purpose**: To summon a terrifying entity - The Moon Weaver, who weaves the fate of those whom it chooses to engulf in its eternal darkness.
 
 New Moon: The Beginning of Shadows
 1. Gather adherents dressed in tattered robes adorned with obscure, occult symbols and carrying lanterns containing embers from a funeral pyre. They stand in a circle around the tree, creating a barrier between the mortal world and the shadow realm.

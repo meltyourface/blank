@@ -22,19 +22,19 @@ excerpt: >
 ---
 To explore the roles and symbolism of Lilith, Hecate, and Kali within their respective myths and cultural contexts, we must first delve into each goddess' history, mythology, and symbolism. After establishing these foundations, we can then analyze how they represent the transformative power of feminine energy, and how their personas intertwine.
 
-Lilith:
+**Lilith**:
 
 Lilith originates from ancient Mesopotamian mythology and later found her way into Jewish mysticism and folklore. She is often depicted as a rebellious, fiercely independent figure who refuses to submit to patriarchal authority. According to the Jewish legend, Lilith was initially created as the first wife of Adam from the same earth but refused to be subservient to him. As a result, she left the Garden of Eden and was replaced by Eve, who was created from Adam's rib to ensure her submission. 
 
 Symbolism associated with Lilith includes the night, demons, infertility, and sexual independence. She is often associated with the empowerment of women, particularly in terms of sexual agency and rejecting patriarchal norms. As a Dark Goddess, she represents the untamed wildness and power of feminine energy when it is liberated from oppressive expectations.
 
-Hecate:
+**Hecate**:
 
 Hecate is a complex and multifaceted goddess from ancient Greek mythology, closely associated with magic, witchcraft, the night, and liminal spaces such as crossroads and thresholds. She is often portrayed as a triple goddess, embodying the aspects of the maiden, mother, and crone, representing the full spectrum of the female experience.
 
 Hecate's most prominent symbols include the torch, the key, the serpent, and the dagger. Collectively, these symbols closely associate her with transformation and transitions, enlightenment, and guidance. As a Dark Goddess, Hecate embodies mystery, intuition, and the transformative power of the feminine, especially as it relates to cycles of life, death, and rebirth.
 
-Kali:
+**Kali**:
 
 Kali is a Hindu goddess, often depicted as a fierce and destructive force who destroys ignorance, delusion, and evil. She is associated with the transformative power of destruction, chaos, and rebirth. Kali assumes many roles in Hindu mythology, including that of a loving mother, a wrathful warrior, and a cosmic force associated with the dissolution of the universe.
 

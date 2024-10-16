@@ -28,7 +28,7 @@ excerpt: >
 ---
 Answer: Worship of multiple gods, each associated with different aspects of life and nature, which led to the creation of elaborate religious rituals and ceremonies.
 
-Explanation: The Ancient Celts were a polytheistic society and believed in a wide range of gods and goddesses, each associated with different aspects of life and nature. These deities were believed to influence various elements of the natural world, such as the sun, moon, rivers, and forests, and they also played crucial roles in important life events, like birth, death, and battle.
+**Explanation**: The Ancient Celts were a polytheistic society and believed in a wide range of gods and goddesses, each associated with different aspects of life and nature. These deities were believed to influence various elements of the natural world, such as the sun, moon, rivers, and forests, and they also played crucial roles in important life events, like birth, death, and battle.
 
 The polytheistic beliefs of the Ancient Celts deeply influenced their culture and society, particularly in the realm of religious rituals and ceremonies. They believed in propitiating and honoring these gods in order to gain favor and avoid misfortune. As a result, they developed elaborate and often complex rituals, including offerings, feasts, and sacred ceremonies. Some noteworthy examples include the veneration of the god Lugh during the festival of Lughnasadh and the honoring of the goddess Brigid at Imbolc.
 

@@ -36,7 +36,7 @@ Incorporate the astrological symbol for Mercury within the Caduceus. The symbol 
 Occult Numerology:
 Integrate the number 8 into the sigil's design, as it signifies infinity, fluidity, and knowledge in numerology. The number 8 can be represented by two intertwined circles or simply by incorporating eight key components into the sigil's structure.
 
-Colors:
+**Colors**:
 The sigil should incorporate colors associated with Mercury, such as silver, gray, or lavender, along with any colors that hold particular significance to the cult's unique doctrine and practices.
 
 To complete the sigil, imbue it with intention and energy through visualization, meditation, and any rituals or practices specific to the Mercury cult. These rituals may involve invoking the god Hermes, sealing the sigil with sacred oils, or performing an initiation ceremony where the sigil is charged by the energies of the group. Once complete, the sigil serves as a powerful tool of protection, guidance, and growth for the initiate during their journey within the Mercury cult.

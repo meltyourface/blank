@@ -23,7 +23,7 @@ Challenge:
 
 Explain the role of Kerberos in the Greek mythological underworld. Analyze its multidimensional symbolism by comparing its attributes and functions to the duties of a psychopomp, as well as its connections to the ancient mysterious rites and initiatory systems.
 
-Response:
+**Response**:
 
 In order to delve into the role of Kerberos in Greek mythological underworld and to analyze the multidimensional symbolism of this fascinating creature, we must first establish a baseline understanding of Kerberos and psychopomps, along with other mystical rites and rituals.
 

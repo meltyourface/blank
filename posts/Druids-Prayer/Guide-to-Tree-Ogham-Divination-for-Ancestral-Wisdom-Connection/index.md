@@ -22,7 +22,7 @@ excerpt: >
 ---
 Tree Ogham divination is a time-honored and mystical practice within the Druid's Prayer tradition, drawing from ancient Celtic wisdom and channeling the spirits of revered trees of the forest. Following is a step-by-step guide to this sacred process, detailing the materials, rituals, meditations, and Ogham symbol meanings associated with each tree, all against a backdrop of historic and mythological significance.
 
-Materials:
+**Materials**:
 1. Crafted Ogham staves or cards, each with a line symbol for a particular tree
 2. Cloth to spread the staves or cards
 3. Notebook to record observations and insights

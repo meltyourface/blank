@@ -33,7 +33,7 @@ excerpt: >
 
 ## Whispers from Unseen Worlds
 
-Introduction:
+**Introduction**:
 
 In this anthology, we journey to the furthest reaches of Lovecraft's twisted cosmos, delving into the dark, enigmatic worlds that he crafted, and examining the terrible, incomprehensible entities that inhabit them. Welcome, dear reader, to the alluring compilation of interstellar terror tales that will send shivers down your spine. We present you with "Whispers from Unseen Worlds."
 

@@ -40,11 +40,11 @@ In the mystic's journey, the Dark Night of the Soul is a period of profound spir
 
 With these three concept definitions in place, we can now proceed to draw thoughtful parallels between Revolutionary withdrawal, the Alchemical process of Nigredo, and the Dark Night of the Soul in the mystic's journey.
 
-Symbolism: 
+**Symbolism**: 
 
 Revolutionary withdrawal shares several symbolic associations with the Nigredo stage in Alchemy and the Dark Night of the Soul in mysticism. In all three instances, there is a focus on darkness, isolation, and confinement. The symbolism of darkness evokes themes of self-confrontation, deep introspection, and the need to explore the shadow-side of one's psyche. This period of withdrawal forces the seeker to face their limiting beliefs, latent fears, and suppressed emotions which might act as barriers to spiritual awakening.
 
-Influences:
+**Influences**:
 
 Throughout history, there have been numerous examples of individuals experiencing Revolutionary withdrawal in their pursuit of spiritual awakening. Echoes of this phenomenon can be found in traditions such as Buddhism, where monks renounce worldly possessions and attachments in order to attain enlightenment, or in the Christian tradition of hermits and anchorites who withdraw from society in search of a deeper relationship with God.
 

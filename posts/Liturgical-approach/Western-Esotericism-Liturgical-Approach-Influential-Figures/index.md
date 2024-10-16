@@ -98,7 +98,7 @@ Suggested Texts:
 3. **The Hermetic Order of the Golden Dawn**: "The Book of the Sacred Magic of Abramelin the Mage" translated by S. L. MacGregor Mathers
 4. **Eliphas Lévi**: "Transcendental Magic: Its Doctrine and Ritual" by Eliphas Lévi
 
-Assessment:
+**Assessment**:
 1. Attendance and Participation (20%)
 2. Reflective Writing Assignments (20%)
 3. Creative Project and Presentation (30%)

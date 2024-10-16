@@ -21,7 +21,7 @@ excerpt: Develop an Imbolg-inspired incense recipe that harnesses the powerful e
 ---
 Imbolg Incense Recipe:
 
-Ingredients:
+**Ingredients**:
 1. 2 parts dried basil leaves
 2. 2 parts dried rosemary leaves
 3. 1 part dried angelica root
@@ -35,7 +35,7 @@ Ingredients:
 11. 5 drops cedarwood essential oil
 12. Small sunstone or clear quartz crystal chips (optional)
 
-Instructions:
+**Instructions**:
 
 1. Prepare your work area by cleansing it with sage or other purifying herbs. Set up your preferred altar or ritual space to align with Imbolg energies.
 

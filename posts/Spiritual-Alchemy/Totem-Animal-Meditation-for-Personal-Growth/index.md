@@ -23,7 +23,7 @@ excerpt: >
 
 ## The Ritual of Totemic Ascendance
 
-Objective: To establish and enhance a connection with animal totems, harnessing their vital energies and wisdom for personal spiritual guidance and growth.
+**Objective**: To establish and enhance a connection with animal totems, harnessing their vital energies and wisdom for personal spiritual guidance and growth.
 
 Materials Needed:
 
@@ -34,7 +34,7 @@ Materials Needed:
 5. Comfortable clothing that allows unrestricted movement and also preferably symbolic colors or patterns related to your chosen animal totem(s).
 6. A journal or voice recorder to take notes of messages or visions from the totem.
 
-Preparation:
+**Preparation**:
 
 1. **Set up a sacred space**: This can be indoors or outdoors, depending on your preference and the nature of your animal totem. Ensure it is quiet and free from distractions. Cleanse the area with sage, palo santo, or any other purifying agent to create a harmonious atmosphere.
 2. **Arrange the materials on the altar**: Organize the representations of your animal totem(s), elemental objects, and crystal(s) in a circular or symmetrical arrangement upon the altar. Position the candle in the center.

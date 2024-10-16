@@ -22,7 +22,7 @@ excerpt: Develop an intricate and engaging narrative that meticulously incorpora
 
 ## The Arcane Odyssey
 
-Prelude: The Arcane Adept
+**Prelude**: The Arcane Adept
 
 In the mystical city of Atreyef, the spiritual epicenter of the world, the wise Arcane Adept, Elviana, gathers a group of 21 diverse individuals for a meeting in her hidden temple. Each person is talented, but they do not know the potential they carry within themselves, symbolized by 22 Major Arcana cards within the ancient tarot deck. Elviana's old eyes see their potential, and she decides to act as a guide in their journey of self-discovery and mastery of the Magical and Imprecatory arts.
 
@@ -68,6 +68,6 @@ Throughout the narrative, the 22 characters are guided by the symbolism and wisd
 
 As the characters' stories intertwine, the group gradually achieves a mastery of the Magical and Imprecatory arts, transforming the world around them. The hidden temple, once a safe haven, becomes the stage for their final trial, which tests the depth of their understanding, the vigor of their character, and the lessons they have learned from the tarot arcana.
 
-Epilogue: The Ascension
+**Epilogue**: The Ascension
 
 Having successfully navigated the challenges posed by the traditional decks of the tarot, the group ascends to a new level of enlightenment and awareness. Under Elviana's guidance, these Masters of the Arcane leave a lasting impact on the city of Atreyef, the world, and generations to come, their stories forever entwined in the mysteries and wisdom of the 22 Major Arcana cards.

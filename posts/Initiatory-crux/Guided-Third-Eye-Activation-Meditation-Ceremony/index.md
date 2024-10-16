@@ -21,7 +21,7 @@ excerpt: Compose a detailed guided meditation ceremony, centered on the Initiato
 ---
 Guided Meditation Ceremony: Awakening the Third Eye through the Initiatory Crux
 
-Preparation:
+**Preparation**:
 1. Choose a quiet, sacred space where you can comfortably sit or lie down. Ensure that you will not be disturbed for the duration of the ceremony. Light some incense to cleanse the atmosphere and set the mood.
 2. Create a sacred circle using salt or chalk to represent the boundaries of your protective space. Within the circle, draw a hexagram – a symbol of the unification of as above, so below.
 3. Place four elemental representation tools (fire, air, water, and earth) at the four cardinal directions of the circle.

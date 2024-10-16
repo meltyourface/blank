@@ -22,9 +22,9 @@ excerpt: Design an intricate ritual to perform clandestine sorcery through medit
 
 ## Nexus Locus Arcanum
 
-Objective: To perform clandestine sorcery through meditative practices, granting entry into the concealed dimensions of arcane wisdom.
+**Objective**: To perform clandestine sorcery through meditative practices, granting entry into the concealed dimensions of arcane wisdom.
 
-Components:
+**Components**:
 
 1. **Enchanted Symbols**: The ritual will require three main enchanted symbols that will serve as gateways and amplifiers.
 

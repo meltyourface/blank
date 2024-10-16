@@ -86,7 +86,7 @@ Recommended Readings:
 4. Hanegraaff, W. J. (2013). **Esotericism and the Academy**: Rejected Knowledge in Western Culture.
 5. Yates, F. A. (1964). Giordano Bruno and the Hermetic Tradition.
 
-Evaluation:
+**Evaluation**:
 - Class Participation (20%)
 - Group Presentations (20%)
 - In-depth Research Paper (30%)

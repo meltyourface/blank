@@ -28,7 +28,7 @@ excerpt: >
 ---
 The most accurate answer would be: An obsidian pendulum used to communicate with ancestors and spirits, strengthened by being in contact with burial grounds.
 
-Explanation:
+**Explanation**:
 Amulets have a long history within the realms of the esoteric and occult. They are objects believed to possess certain powers, offering protection, or bringing luck to those who possess them. Often, the properties of the amulet are derived from the materials used, as well as the preparation methods.
 
 In the mentioned options, I have chosen the obsidian pendulum because of the nature of the material and the context in which it is used. Obsidian, historically associated with protection and communication (particularly with the spirit world), is a volcanic glass that has been widely used in various shamanic and occult practices. Being in close proximity to burial grounds, which are considered a bridge between the living and the dead, further strengthens the pendulum's power.

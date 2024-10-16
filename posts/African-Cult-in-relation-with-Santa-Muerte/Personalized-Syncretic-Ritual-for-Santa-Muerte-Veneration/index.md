@@ -28,7 +28,7 @@ Santa Muerte, also known as "La Santa Madrina" or "Holy Godmother," is a female 
 
 Santa Muerte's syncretic rituals draw from both indigenous Mexican customs and African cult traditions. Mexican customs include the use of votive candles, offerings, and altars adorned with imagery of the saint. African customs might include divination techniques and the use of sacred objects such as osain and iwa, which are believed to protect from evil spirits.
 
-Task: Devise an elaborate, personalized ritual for venerating Santa Muerte, incorporating elements from both African cult traditions and indigenous Mexican customs.
+**Task**: Devise an elaborate, personalized ritual for venerating Santa Muerte, incorporating elements from both African cult traditions and indigenous Mexican customs.
 
 1. Begin by preparing a sacred space dedicated to Santa Muerte. Set up an altar adorned with her images, including a statue or picture, as well as a white cloth to represent her purity. Arrange an array of votive candles in various colors representing her diverse aspects - red for passion, green for justice, black for protection, and white for healing and purification. Include offerings such as coins, flowers, candy, and tobacco in gratitude for her divine intervention.
 

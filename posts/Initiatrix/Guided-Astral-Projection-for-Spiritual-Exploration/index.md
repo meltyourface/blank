@@ -24,9 +24,9 @@ excerpt: >
 
 ## Arcane Flight: A Guided Astral Projection Meditation for Initiatrix Practitioners
 
-Duration: 30 minutes
+**Duration**: 30 minutes
 
-Introduction:
+**Introduction**:
 Welcome, Initiatrix Practitioners, to a journey through the astral plane. This comprehensive guided meditation will assist you in inducing astral projection, employing protective energies, and exploring arcane realms. Please ensure you are in a quiet, comfortable space, free from distractions.
 
 Stage 1: Deep Relaxation and Grounding Exercises (5 minutes)

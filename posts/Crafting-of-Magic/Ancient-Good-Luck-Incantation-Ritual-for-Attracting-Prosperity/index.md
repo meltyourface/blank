@@ -22,7 +22,7 @@ excerpt: >
 ---
 In the Crafting of Magic, we follow a systematic approach that combines knowledge, intent, and energy to create a potent enchantment. To accomplish the creation of an intricate good luck incantation, we must first set the proper environment and acquire the essential elements for the ritual.
 
-Preparations:
+**Preparations**:
 
 1. Find a quiet and serene space free of disturbances.
 2. Equip yourself with a white or gold robe, a symbol of purity and fortune.
@@ -35,7 +35,7 @@ Preparations:
 
 Before beginning the incantation, take a few moments to meditate and clear your mind. Focus your intent upon drawing forth good fortune and aligning yourself with the energies necessary for the desired outcome. Connect with benevolent spirits, through invocation or visualization, to bring auspicious energies into your ritual.
 
-Incantation:
+**Incantation**:
 
 Recite the following incantation with your dominant hand extended outward, and your non-dominant hand cupping the bowl of water. Utilize the ancient magical language, blending it with your native tongue.
 
@@ -59,7 +59,7 @@ Benignus est locus mihi impertitum.
 In nomine veritatis, gratiae, aeterna,
 Haec vincula sero et exitum munero."
 
-Translation:
+**Translation**:
 
 "In the ancient magical languages of eternity,
 Akinos, Lumeris, Vexum Veritus,

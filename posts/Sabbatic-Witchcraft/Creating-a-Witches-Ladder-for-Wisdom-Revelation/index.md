@@ -21,7 +21,7 @@ excerpt: Craft an intricate Witches' Ladder specific to the realm of Sabbatic Wi
 ---
 To craft an intricate Witches' Ladder specific to the realm of Sabbatic Witchcraft with the intention of unearthing concealed wisdom, begin by gathering the necessary materials and select a suitable location to create the ladder. Ensure that the area is cleared of negative energies, and then set up a sacred space by casting a circle and calling upon the elements and guardians of the Sabbatic Craft.
 
-Materials:
+**Materials**:
 
 1. A length of sturdy natural fiber cord or twine, approximately 3-4 feet long
 2. Nine or thirteen semi-precious stones, each representing a specific correspondence to ancient wisdom (such as lapis lazuli, labradorite, amethyst, and serpentine)
@@ -29,7 +29,7 @@ Materials:
 4. Silver, gold, or copper wire to create sigils related to wisdom and occult mysteries (create these sigils based on the chosen symbolism from ancient sources or lost lineages)
 5. Sandalwood or sage incense for purification and consecration
 
-Instructions:
+**Instructions**:
 
 1. Begin by meditating on the intention of obtaining concealed wisdom. **Focus on the ancient sources or lost lineages you wish to connect with as you chant the following**:
 

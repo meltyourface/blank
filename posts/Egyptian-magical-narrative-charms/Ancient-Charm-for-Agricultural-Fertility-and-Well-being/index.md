@@ -29,7 +29,7 @@ The historical accuracy of the Charm of Djindjewah is evident in the deity’s r
 
 The charm is also bound by historical accuracy in the invocation of other gods and goddesses. Several deities, such as Heka (god of magic), Osiris (god of the afterlife), and Isis (goddess of fertility and motherhood) play a role in the charm. These additional deities were indeed prominent in ancient Egyptian religion, and their association with magic, fertility, and well-being is consistent with their mythological roles.
 
-Effectiveness:
+**Effectiveness**:
 From a traditional standpoint, the Charm of Djindjewah illustrates a deep understanding of Egyptian magic practices as it adheres to the process of recitation, veneration of gods, and ritual enactment. The charm's recitations, symbols, and ritualistic components are carefully crafted to ensure potency and credibility.
 
 1. Invocations:

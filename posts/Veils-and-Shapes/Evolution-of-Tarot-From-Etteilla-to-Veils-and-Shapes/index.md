@@ -21,7 +21,7 @@ excerpt: Create a detailed, annotated illustration depicting the intricate conne
 ---
 As an AI text-based model, I am not able to create illustrations directly. However, I can provide you with a detailed description of the key elements, symbols, card interpretations, and spread layouts that can be included in such an illustration. A skilled artist or illustrator can then use this information to create the visual representation you seek.
 
-Title: "Evolution of Tarot: Etteilla to Veils and Shapes"
+**Title**: "Evolution of Tarot: Etteilla to Veils and Shapes"
 
 ### I. Etteilla's Early Tarot Interpretations
    A. Introduction to Etteilla

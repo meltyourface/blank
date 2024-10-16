@@ -24,7 +24,7 @@ excerpt: >
 ---
 Answer: Establishing contact with one's Holy Guardian Angel
 
-Explanation: In the context of the occult and esoteric practices, Abramelin's magical system is primarily focused on establishing contact with one's Holy Guardian Angel (HGA). This angelic being is believed to be a guiding force in a person's life, and the magician's central goal in this system is to unite their own consciousness with that of their HGA, therefore achieving a state of deep self-knowledge and spiritual insight.
+**Explanation**: In the context of the occult and esoteric practices, Abramelin's magical system is primarily focused on establishing contact with one's Holy Guardian Angel (HGA). This angelic being is believed to be a guiding force in a person's life, and the magician's central goal in this system is to unite their own consciousness with that of their HGA, therefore achieving a state of deep self-knowledge and spiritual insight.
 
 The system is derived from the Book of Abramelin, a grimoire that is attributed to the Jewish Kabbalist and magician Abramelin the Mage, dating back to the 15th century. The book consists of a series of teachings, written in the form of a correspondence between Abramelin and his student, detailing the necessary steps to achieve spiritual enlightenment through the union with one's Holy Guardian Angel.
 

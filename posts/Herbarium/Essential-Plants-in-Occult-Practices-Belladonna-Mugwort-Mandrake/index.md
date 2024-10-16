@@ -38,7 +38,7 @@ To use Belladonna in rituals and spells, create an infused oil or ointment. Plac
 
 When using Belladonna oil, apply sparingly to the forehead or wrists. Keep in mind that Belladonna is highly toxic and should be used with the utmost care.
 
-Precautions: Belladonna should not be ingested or used during pregnancy. Use extreme caution when handling, and always respect the power of this potent plant.
+**Precautions**: Belladonna should not be ingested or used during pregnancy. Use extreme caution when handling, and always respect the power of this potent plant.
 
 12.2: Plant 2 - Mugwort (Artemisia vulgaris)
 
@@ -52,7 +52,7 @@ Harvesting, Preparation, and Use: Harvest Mugwort during the full moon to maximi
 
 To use Mugwort in rituals and spells, the dried herb can be smudged, infused in oil, or steeped as tea. Simply burning the herb releases its protective energies and can clear negative energies from a space.
 
-Precautions: Pregnant or nursing women should avoid the use of Mugwort, as it can stimulate uterine contractions. Additionally, ingesting large quantities of Mugwort may cause vomiting or diarrhea.
+**Precautions**: Pregnant or nursing women should avoid the use of Mugwort, as it can stimulate uterine contractions. Additionally, ingesting large quantities of Mugwort may cause vomiting or diarrhea.
 
 12.3: Plant 3 - Mandrake (Mandragora officinarum)
 
@@ -66,6 +66,6 @@ Harvesting, Preparation, and Use: Harvesting Mandrake root requires special ritu
 
 To harness the magick of Mandrake root, use it as an amulet or talisman. Carry a small piece of the root in a pouch or include it in your magickal workings, such as money spells or protection rituals.
 
-Precautions: The Mandrake plant contains toxic alkaloids, making it poisonous if ingested. Use it responsibly and keep it away from children and pets.
+**Precautions**: The Mandrake plant contains toxic alkaloids, making it poisonous if ingested. Use it responsibly and keep it away from children and pets.
 
 By understanding and respecting the mystical properties of these three powerful plants, you can enhance your spiritual practice and further forge a deep connection to the esoteric and natural world. Remember, the connection to these potent energies comes with great responsibility, and a mindful approach will ensure a safe and transformative experience.

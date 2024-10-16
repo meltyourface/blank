@@ -28,7 +28,7 @@ The magic of the Decans presents us with distinct influences in the form of ston
 
 1. Dictamnus albus (Burning Bush)
 
-Decan: 1st Decan of Leo
+**Decan**: 1st Decan of Leo
 Stone: Ruby
 Astrological Association: Sun in Leo
 
@@ -36,7 +36,7 @@ Dictamnus albus is a powerful herb with anti-inflammatory and antimicrobial prop
 
 2. Artemisia absinthium (Wormwood)
 
-Decan: 2nd Decan of Cancer
+**Decan**: 2nd Decan of Cancer
 Stone: Moonstone
 Astrological Association: Mercury in Cancer
 
@@ -44,7 +44,7 @@ This bitter herb is known for its powerful effects on the digestive system and l
 
 3. Atropa belladonna (Deadly Nightshade)
 
-Decan: 3rd Decan of Scorpio
+**Decan**: 3rd Decan of Scorpio
 Stone: Topaz
 Astrological Association: Moon in Scorpio
 
@@ -52,7 +52,7 @@ Belladonna's essential oil has strong anti-spasmodic and analgesic properties, m
 
 4. Papaver somniferum (Opium Poppy)
 
-Decan: 1st Decan of Pisces
+**Decan**: 1st Decan of Pisces
 Stone: Amethyst
 Astrological Association: Jupiter in Pisces
 
@@ -60,7 +60,7 @@ The calming and antispasmodic effect of poppy seed oil is further enhanced when 
 
 5. Nymphaea caerulea (Blue Lotus)
 
-Decan: 3rd Decan of Taurus
+**Decan**: 3rd Decan of Taurus
 Stone: Emerald
 Astrological Association: Saturn in Taurus
 
@@ -68,7 +68,7 @@ Blue lotus oil brings feelings of harmony, peace, and love, qualities that reson
 
 6. Aconitum napellus (Monkshood)
 
-Decan: 1st Decan of Capricorn
+**Decan**: 1st Decan of Capricorn
 Stone: Garnet
 Astrological Association: Mars in Capricorn
 
@@ -76,7 +76,7 @@ The grounding and rejuvenating energy of monkshood essential oil, coupled with t
 
 7. Hyoscyamus niger (Henbane)
 
-Decan: 2nd Decan of Sagittarius
+**Decan**: 2nd Decan of Sagittarius
 Stone: Turquoise
 Astrological Association: Moon in Sagittarius
 
@@ -84,7 +84,7 @@ Henbane's calming, sedative properties work harmoniously with the protective ene
 
 8. Datura stramonium (Jimsonweed)
 
-Decan: 3rd Decan of Libra
+**Decan**: 3rd Decan of Libra
 Stone: Peridot
 Astrological Association: Mars in Libra
 
@@ -92,7 +92,7 @@ Jimsonweed essential oil supports introspection, while peridot further strengthe
 
 9. Mandragora officinarum (Mandrake)
 
-Decan: 1st Decan of Virgo
+**Decan**: 1st Decan of Virgo
 Stone: Carnelian
 Astrological Association: Mercury in Virgo
 
@@ -100,7 +100,7 @@ Mandrake's sedative and grounding energy works in tandem with the motivation and
 
 10. Cymbopogon nardus (Citronella)
 
-Decan: 2nd Decan of Aquarius
+**Decan**: 2nd Decan of Aquarius
 Stone: Amethyst
 Astrological Association: Venus in Aquarius
 

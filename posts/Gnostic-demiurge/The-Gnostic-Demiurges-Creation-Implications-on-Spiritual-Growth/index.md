@@ -23,7 +23,7 @@ excerpt: >
 
 ## Title: The Gnostic Demiurge in The Apocryphon of John: A Hermeneutic Exploration and its Metaphysical Implications on Spiritual Growth
 
-Introduction:
+**Introduction**:
 In this hermeneutic analysis, we will delve deep into the Gnostic scripture "The Apocryphon of John" to examine the concept of the Gnostic Demiurge - the lesser, malevolent god that creates the material world. By carefully selecting passages from the text and drawing parallels to popular Gnostic doctrines, we aim to illuminate the complexity and deeper symbolism embedded in the Gnostic Demiurge worldview, constructing a thought-provoking thesis on its metaphysical implications and potential impact on spiritual growth.
 
 Context and Selections:

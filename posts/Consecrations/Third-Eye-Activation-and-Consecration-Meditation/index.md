@@ -22,7 +22,7 @@ excerpt: Design a comprehensive visualization exercise that focuses on activatin
 
 ## The Sacred Third Eye Activation and Consecration
 
-Duration: 30 minutes
+**Duration**: 30 minutes
 
 Before beginning the exercise, find a quiet, distraction-free space to sit comfortably. Make sure that you're wearing loose, comfortable clothing, and ensure you feel relaxed.
 **Step 1**: Grounding and Setting Your Intention

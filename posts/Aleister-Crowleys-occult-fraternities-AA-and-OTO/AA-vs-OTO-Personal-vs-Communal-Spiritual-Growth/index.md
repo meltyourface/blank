@@ -29,7 +29,7 @@ excerpt: >
 ---
 1. The A.A. is mainly centered on personal illumination and spiritual growth, whereas the O.T.O. is structured around communal rituals and advancing in the hierarchy within the order.
 
-Explanation:
+**Explanation**:
 The A.A. (Astrum Argenteum or Silver Star) and O.T.O. (Ordo Templi Orientis or Order of the Eastern Temple) are two distinct occult fraternities founded by Aleister Crowley, with different focuses and objectives for their members.
 
 The A.A. is primarily centered on personal illumination and spiritual growth. The fraternity is organized as a hierarchical structure, but its main purpose is to guide individual members through a series of initiations that lead them on a path of self-discovery. This journey is rooted in the philosophy and practices of Thelema, a spiritual path also developed by Crowley. Thelema teaches that individuals must discover and follow their True Will, which is their innermost nature and sole purpose in life. Thus, the A.A. aims to help members realize their True Will and develop their spiritual selves through various esoteric practices such as meditation, astral projection, and the study of mystical texts.

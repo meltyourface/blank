@@ -23,7 +23,7 @@ excerpt: >
 
 ## Chakra Equilibrium Program
 
-Introduction: This comprehensive Contemplation exercise program is designed to achieve equilibrium within the chakra system. Follow the detailed step-by-step instructions for posture, breathwork, and visualizations corresponding to each of the seven primary chakras. Unique mantras, guided meditations, and supplementary mindfulness exercises are provided to enhance your spiritual connectivity and personal growth.
+**Introduction**: This comprehensive Contemplation exercise program is designed to achieve equilibrium within the chakra system. Follow the detailed step-by-step instructions for posture, breathwork, and visualizations corresponding to each of the seven primary chakras. Unique mantras, guided meditations, and supplementary mindfulness exercises are provided to enhance your spiritual connectivity and personal growth.
 
 ### Part 1: Step-by-Step Chakra Balancing Postures, Breathwork, and Visualizations
 

@@ -21,7 +21,7 @@ excerpt: Utilize an advanced occult remote viewing technique, incorporating elem
 ---
 To complete this task, I begin by setting the intention to observe the building's weakest structural points and assessing its hidden energetic patterns and magico-architectural vulnerabilities. Please note that the following technique involves advanced magical practices and should not be attempted by beginners.
 
-Preparation:
+**Preparation**:
 
 1. I find a quiet, undisturbed space conducive to focused concentration.
 2. I gather a set of geomantic tools and lithomantic stones (preferably ones connected to the region or construction materials of the building in question).

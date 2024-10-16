@@ -31,9 +31,9 @@ excerpt: >
 
 ## The Galvanizing Wisdom Journaling Ritual
 
-Objective: Strengthen self-awareness and unearth deep esoteric insights through the power of Galvanizing blessings and occult wisdom.
+**Objective**: Strengthen self-awareness and unearth deep esoteric insights through the power of Galvanizing blessings and occult wisdom.
 
-Materials:
+**Materials**:
 - A dedicated journal
 - Pen or pencil
 - A quiet, sacred space for journaling
@@ -41,7 +41,7 @@ Materials:
 - Crystals (such as clear quartz, amethyst, or selenite)
 - Optional: a custom sigil symbolizing intention
 
-Instructions:
+**Instructions**:
 1. **Invoking Galvanizing blessings**:
    a. Begin by lighting candles and arranging crystals around your journaling space to create a sacred atmosphere.
    b. Meditate on sacred symbols or ancient esoteric principles that resonate with you personally.

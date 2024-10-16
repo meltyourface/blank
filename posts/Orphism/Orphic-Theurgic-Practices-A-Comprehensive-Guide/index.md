@@ -29,7 +29,7 @@ Course Overview: The course is divided into five levels, each focusing on specif
 
 Level 1: Introduction to Orphism and the Theurgic Path
 
-Objective: Introduce students to the historical and cultural contexts of Orphism and provide the foundation for understanding theurgic practices.
+**Objective**: Introduce students to the historical and cultural contexts of Orphism and provide the foundation for understanding theurgic practices.
 
 ### 1.1 Introduction to Orphism: Origins, history, and major figures
 ### 1.2 Orphic Cosmogony: Theogony and the birth of the gods
@@ -38,11 +38,11 @@ Objective: Introduce students to the historical and cultural contexts of Orphism
 ### 1.5 Orphic Eschatology: Afterlife and the Hymns of Orpheus
 ### 1.6 Theurgic principles: Divine union and spiritual ascent
 
-Assessment: Quiz, written reflection, and group discussion
+**Assessment**: Quiz, written reflection, and group discussion
 
 Level 2: Initiation and Sacred Rites
 
-Objective: Familiarize students with the fundamental initiation rites and sacred rituals of Orphism.
+**Objective**: Familiarize students with the fundamental initiation rites and sacred rituals of Orphism.
 
 ### 2.1 Purification and sanctification
 ### 2.2 The Lesser Mysteries: Symbolic death and rebirth
@@ -51,11 +51,11 @@ Objective: Familiarize students with the fundamental initiation rites and sacred
 ### 2.5 Sacred centres and altars: Energetic configurations
 ### 2.6 The Eleusinian rites and the Dionysian mysteries
 
-Assessment: Quiz, ritual practice journal, and group presentation
+**Assessment**: Quiz, ritual practice journal, and group presentation
 
 Level 3: Invocations, Divination, and Energy Manipulation
 
-Objective: Impart practical techniques for invoking deities, performing divinations, and manipulating energy in accordance with the Orphic tradition.
+**Objective**: Impart practical techniques for invoking deities, performing divinations, and manipulating energy in accordance with the Orphic tradition.
 
 ### 3.1 Invocation of the gods: Hymns, prayers, and offerings
 ### 3.2 Orphic divination methods: Stichomancy, oneiromancy, and augury
@@ -64,11 +64,11 @@ Objective: Impart practical techniques for invoking deities, performing divinati
 ### 3.5 Theurgic hierarchies: Divine forces and celestial intelligences
 ### 3.6 Creating and consecrating sacred objects
 
-Assessment: Quiz, divination readings, and experiential report
+**Assessment**: Quiz, divination readings, and experiential report
 
 Level 4: Advanced Theurgic Techniques
 
-Objective: Guide students in deepening their theurgic practice through advanced techniques and personalized affiliations.
+**Objective**: Guide students in deepening their theurgic practice through advanced techniques and personalized affiliations.
 
 ### 4.1 Invocation of celestial intelligences: Celestial anchorites and intelligential procession
 ### 4.2 Theurgy through art: Sacred music, poetry, and dance
@@ -77,11 +77,11 @@ Objective: Guide students in deepening their theurgic practice through advanced 
 ### 4.5 Practices for spiritual ascension and integration
 ### 4.6 Ethical conduct, community, and service
 
-Assessment: Quiz, advanced ritual practice, and personal deity presentation
+**Assessment**: Quiz, advanced ritual practice, and personal deity presentation
 
 Level 5: Mastery of Orphic Theurgy
 
-Objective: Enable students to integrate Orphic wisdom and theurgic practices into their lives, fostering a profound connection with the gods and deities.
+**Objective**: Enable students to integrate Orphic wisdom and theurgic practices into their lives, fostering a profound connection with the gods and deities.
 
 ### 5.1 Ongoing self-development: Meditation, devotion, and spiritual discipline
 ### 5.2 Cultivating community: Networking, guiding, and sharing wisdom
@@ -90,6 +90,6 @@ Objective: Enable students to integrate Orphic wisdom and theurgic practices int
 ### 5.5 Spiritual counselling and mentorship: Collaborative growth
 ### 5.6 Developing a unique theurgic practice: Honoring tradition and personal insights
 
-Assessment: Final exam, integration journal, and spiritual guidance session
+**Assessment**: Final exam, integration journal, and spiritual guidance session
 
 Course Materials: Core texts, hymns, practical exercises, and historical accounts of Orphism. Experiential activities include rituals, divination readings, and networking with other practitioners. Assessment methods encompass quizzes, journals, presentations, and other activities that support the learning experience.

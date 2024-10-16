@@ -32,7 +32,7 @@ Phase 1: Invocation
 
 The purpose of the invocation phase is to establish a connection between the practitioner's energy and the boundless cosmic forces. This connection lays the foundation for the entire incantation and is essential to the success of the ritual.
 
-Incantation:
+**Incantation**:
 
 ### I. O swirling cosmos, I approach thine eternal void,
 Whence all abundance emerges in hexametric bode.
@@ -45,7 +45,7 @@ Phase 2: Communion
 
 The communion phase involves becoming one with the boundless cosmic forces, allowing your own energy to synchronize with the chaos, drawing forth abundance and wealth.
 
-Incantation:
+**Incantation**:
 
 ### III. In breathless antinomies do our spirits intertwine,
 The wellspring's fount unlocked within this mind of mine.
@@ -58,7 +58,7 @@ Phase 3: Culmination
 
 The culmination phase solidifies your connection with the chaotic energies of the void, manifesting tangible abundance in your life.
 
-Incantation:
+**Incantation**:
 
 ### V. We conjoin in oblivion, unity most profound,
 Our chaotic alliance, with æonic wealth unbound.

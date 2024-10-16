@@ -22,17 +22,17 @@ excerpt: Compose a one-act play deeply entrenched in the mystical realm of Fresh
 
 ## Fresh Fever from the Skies: The Eclipsing of Stars
 
-Setting: 
+**Setting**: 
 An otherworldly realm that defies the laws of nature, where celestial events hold deeper mystical significance and secrets waiting to be unraveled. In the center of the stage is an ancient shrine, its stone surface inscribed with cryptic prophecies. Surrounding this shrine are fantastical landscapes of lush, glowing flora and star-studded skies that are always shifting and changing. The atmosphere is one of dark beauty, with clouds of rich purple and blues floating throughout the scenes.
 
-Characters:
+**Characters**:
 
 1. **Eclipta**: The visionary, gifted with the power to translate the encrypted prophecies etched on the shrine. Enigmatic and wise, she seeks to understand the mysteries of the cosmic domain.
 2. **Novara**: The skeptical scholar who questions the old ways. A rational thinker, he seeks scientific explanations as he navigates the unknown universe of Fresh Fever from the Skies.
 3. **Cresciana**: The devoted priestess. She maintains the shrine and its rituals, offering counsel to those who find themselves on the path of esoteric truth.
 4. **Selenial**: A spirit embodied by the ever-changing moon. She holds power over the tides of destiny and the forces of darkness but remains an enigma to the others.
 
-Summary:
+**Summary**:
 
 The story begins with Eclipta, Novara, and Cresciana who have been brought together by fate at the ancient shrine as it undergoes a rare celestial event - the total eclipse of three powerful stars. Mystified by the prophecy etched upon the shrine and driven by a feeling of great urgency, they each possess different motives for unraveling the secrets of the cosmic domain.
 

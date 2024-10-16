@@ -23,7 +23,7 @@ excerpt: >
 
 ## The Grim Sowing of the Sinister Pastoral
 
-Introduction:
+**Introduction**:
 The Grim Sowing of the Sinister Pastoral is an unhallowed grimoire, chronicling my nefarious journey through the dark arts of the occult and the exploration of the accursed countryside that has whispered its secrets to me. Within this cursed volume, I have thoroughly documented my diabolical practices and the sinister forces I have communed with, unveiling the dark truths hidden within the bowels of this eerie landscape.
 
 ### I. The Covenant of the Shadow Council
@@ -56,5 +56,5 @@ The Grim Sowing of the Sinister Pastoral is an unhallowed grimoire, chronicling 
 
 2. The Shadow Calendar: A comprehensive record of sinister seasonal events, commenting on the ebb and flow of the Sinister Pastoral path during the darkest days of the year.
 
-Conclusion:
+**Conclusion**:
 As a testament to my dedication and mastery of the Sinister Pastoral path, this grimoire has come to embody all that I have uncovered and the profane wisdom bestowed upon me by the hidden forces of the countryside. May The Grim Sowing of the Sinister Pastoral serve as a trove of dark revelations for those who dare to walk these forsaken paths, and as a stark warning to those who would turn their backs on the ever-present whispers of the haunted land that surrounds us.

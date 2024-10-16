@@ -61,6 +61,6 @@ Rune Magic: Encompassing the ancient symbols of the Norse, the runes tell storie
 
 Meditation and Pathworking: Practitioners visualize Yggdrasil and its Nine Worlds to embark on spiritual journeys, exploring the tree's many pathways and connections.
 
-Rituals: Yggdrasil is used as a symbol for protection, invocation of elemental forces, and balancing energies in rituals.
+**Rituals**: Yggdrasil is used as a symbol for protection, invocation of elemental forces, and balancing energies in rituals.
 
 As an initiate embarks on the journey to explore the depths of Yggdrasil symbolism, understanding the tree's mythological, esoteric, and contemporary meanings will provide a robust foundation for spiritual growth and deepened occult practices.

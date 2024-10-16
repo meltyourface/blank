@@ -23,7 +23,7 @@ excerpt: >
 
 ## Title: The Shadowed Rite of Pnakotos
 
-Purpose: To protect oneself from the malignant influence of Nyarlathotep, the Crawling Chaos - a shapeshifting, deceptive malevolent entity in H.P. Lovecraft's cosmos.
+**Purpose**: To protect oneself from the malignant influence of Nyarlathotep, the Crawling Chaos - a shapeshifting, deceptive malevolent entity in H.P. Lovecraft's cosmos.
 
 Required Materials:
 

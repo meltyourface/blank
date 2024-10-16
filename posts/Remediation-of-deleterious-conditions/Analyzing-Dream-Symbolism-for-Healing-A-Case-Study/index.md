@@ -27,14 +27,14 @@ Drawing from the Major Arcana, we get:
 2. The Tower (XVI) - Symbolizes upheaval, sudden disruption, and chaos.
 3. The Magician (I) - Represents individual power, mastery, and manifestation.
 
-Analysis: The presence of The Moon card points to the dream being deeply rooted in the subconscious mind, with fears and illusions fueling its symbolism. The Tower suggests that there may be ongoing turmoil in the dreamer's life or repressed feelings of chaos. The Magician card is a sign of personal power and offers the possibility for the dreamer to overcome the negative influences.
+**Analysis**: The presence of The Moon card points to the dream being deeply rooted in the subconscious mind, with fears and illusions fueling its symbolism. The Tower suggests that there may be ongoing turmoil in the dreamer's life or repressed feelings of chaos. The Magician card is a sign of personal power and offers the possibility for the dreamer to overcome the negative influences.
 
-Numerology:
+**Numerology**:
 Using numerologies for the snake (6) and the childhood home (9):
 6 - The number six represents balance, harmony, and taking responsibility for one's actions.
 9 - The number nine signifies completion of cycles, wisdom gained from experience, and an opportunity for growth.
 
-Analysis: Utilizing numerology, the snake attacking the dreamer suggests a potential imbalance in their life and the need to take responsibility for their situation. The childhood home represents the completion of an important cycle, and the wisdom gained from it can bring growth and healing.
+**Analysis**: Utilizing numerology, the snake attacking the dreamer suggests a potential imbalance in their life and the need to take responsibility for their situation. The childhood home represents the completion of an important cycle, and the wisdom gained from it can bring growth and healing.
 
 Sigil Creation:
 Combining the esoteric meanings of the tarot cards and numerology, we can create a sigil to aid in the dreamer's healing and growth. The sigil incorporates elements of The Moon, The Tower, and The Magician, as well as the numbers six and nine, to balance the influences and point towards positive transformation.

@@ -22,7 +22,7 @@ excerpt: >
 ---
 To craft a specialized charm for Finders to efficaciously locate sought-after artifacts, first gather the essential materials and tools needed. **These include**:
 
-Materials:
+**Materials**:
 1. Mugwort (for psychic properties and enhancing intuition)
 2. Vervain (for protection and purifying energies)
 3. Frankincense essential oil (to elevate spiritual vibrations and improve concentration)
@@ -32,12 +32,12 @@ Materials:
 7. A small piece of parchment paper (for inscribing the Finder's specific intention)
 8. Natural twine (for tying the pouch)
 
-Tools:
+**Tools**:
 1. Mortar and pestle (for crushing the herbs)
 2. A sacred space or altar (for creating and consecrating the charm)
 3. Matches or lighter (for anointing the charm)
 
-Instructions:
+**Instructions**:
 1. Begin by creating a sacred space or altar by clearing and cleaning the area. If you wish, you may cast a protective circle around the space.
 
 2. In the mortar and pestle, add equal parts of dried mugwort and vervain. With focus and intention, grind the herbs together until they are finely powdered.

@@ -22,7 +22,7 @@ excerpt: Devise an intricately layered narrative for a spectral pursuit in the r
 
 ## The Haunting of Whitewood Manor
 
-Setting: The atmospheric setting of our spectral pursuit unfolds in the decaying ruins of Whitewood Manor, an 18th-century gothic estate hidden within an enfolding darkness of an ancient forest. The mansion's crumbling facade and oppressive surroundings exude a sense of maleficence, with its labyrinthine corridors and shadowy chambers revealing remnants of occult practices and macabre antiquities.
+**Setting**: The atmospheric setting of our spectral pursuit unfolds in the decaying ruins of Whitewood Manor, an 18th-century gothic estate hidden within an enfolding darkness of an ancient forest. The mansion's crumbling facade and oppressive surroundings exude a sense of maleficence, with its labyrinthine corridors and shadowy chambers revealing remnants of occult practices and macabre antiquities.
 
 Otherworldly Manifestations: The tormented spirits dwelling in Whitewood Manor exhibit varying degrees of spectral transmutation and demonic possession. Among them is the malevolent essence of the estate's original master, Lord Austerlitz, a known practitioner of black magic who conducted unspeakable rituals in his quest for eternal life. The echoes of his nefarious deeds possess our explorers and bind them in his haunted dominion.
 

@@ -26,7 +26,7 @@ Introduction
 
 The Cup, an essential and mysterious symbol often associated with the element of water, is rich in its meaning and applications within esoteric and occult practices. Throughout history, people have used this vessel to represent various concepts, such as emotion, intuition, receptivity, and even the feminine womb. As an initiate, it is fundamental to understand The Cup's role in rituals, meditations, and spiritual development.
 
-Symbolism: The Multifaceted Nature of The Cup
+**Symbolism**: The Multifaceted Nature of The Cup
 
 As a cornerstone of esoteric and occult symbolism, The Cup embodies several dimensions of meaning:
 

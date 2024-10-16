@@ -31,7 +31,7 @@ excerpt: >
 
 ## Compendium of Rituals for Defeating and Expelling the Malevolent
 
-Introduction: This compendium serves as a comprehensive guide for practitioners of the esoteric and occult arts to protect themselves and others from malevolent Monsters and supernatural entities. The information enclosed has been meticulously researched and compiled from various sources, traditions, and disciplines to aid in safeguarding against the forces of darkness.
+**Introduction**: This compendium serves as a comprehensive guide for practitioners of the esoteric and occult arts to protect themselves and others from malevolent Monsters and supernatural entities. The information enclosed has been meticulously researched and compiled from various sources, traditions, and disciplines to aid in safeguarding against the forces of darkness.
 
 1. Rituals for Warding Off Malevolent Monsters
 
@@ -103,4 +103,4 @@ Introduction: This compendium serves as a comprehensive guide for practitioners 
     C. The Island of the Dolls (1950s)
        - Explores the paranormal disturbances surrounding the eerie island and the rituals performed to quell the unrest
 
-Conclusion: Armed with the knowledge and rituals provided within this compendium, practitioners can empower themselves to confront malevolent Monsters and supernatural entities with confidence. Remembering to approach each encounter with humility and respect, understanding that defining "good" and "evil" is often a subjective matter, especially when confronting unfamiliar realms.
+**Conclusion**: Armed with the knowledge and rituals provided within this compendium, practitioners can empower themselves to confront malevolent Monsters and supernatural entities with confidence. Remembering to approach each encounter with humility and respect, understanding that defining "good" and "evil" is often a subjective matter, especially when confronting unfamiliar realms.

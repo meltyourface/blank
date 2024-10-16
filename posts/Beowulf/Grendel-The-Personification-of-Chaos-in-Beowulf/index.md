@@ -22,7 +22,7 @@ excerpt: >
 ---
 Name: Grendel
 
-Aliases: "mearc-stapa" (boundary-walker), “heoru-wearh” (war-sword), and “eoten” (giant).
+**Aliases**: "mearc-stapa" (boundary-walker), “heoru-wearh” (war-sword), and “eoten” (giant).
 
 ### I. **Background**:
 A descendant of Cain, Grendel is a monstrous creature of the darkness and the enemy of mankind. Grendel lives in an underwater lair (“grund-wyrgenne”) with his mother and is a symbol of evil, chaos, and destruction.

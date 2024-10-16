@@ -23,7 +23,7 @@ excerpt: >
 
 ## Mystical Prayer
 
-Introduction:
+**Introduction**:
 
 Mystical prayer is an art that transcends the confines of conventional religious practice and bridges the gap between the mundane and the divine. This esoteric form of prayer is deeply rooted in the mysteries of the ancient world and has evolved over time, incorporating various spiritual practices from diverse cultures and traditions. The ultimate goal of mystical prayer is to establish a direct connection with the Divine, allowing the practitioner to experience profound spiritual transformation and develop a greater understanding of their purpose in the universe.
 

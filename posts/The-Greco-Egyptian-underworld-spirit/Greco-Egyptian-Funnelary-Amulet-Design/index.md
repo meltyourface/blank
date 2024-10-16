@@ -22,11 +22,11 @@ excerpt: >
 ---
 To craft a meticulous funerary amulet that draws upon the fusion of Greco-Egyptian mythos, it's essential to incorporate a harmonious blend of symbolic elements representing both cultures. Here, we envision a delicately crafted amulet that offers profound spiritual protection for the soul traversing the dangerous realms of Duat and the Elysian Fields:
 
-Shape: The amulet is shaped like a winged scarab, a potent symbol of rebirth and resurrection in ancient Egyptian beliefs. At the center of the scarab, there's an encompassing circle which represents Hades's Helm of Darkness – an artifact that renders its wearer invisible, ensuring that they remain undetected by potential dangers in the afterlife.
+**Shape**: The amulet is shaped like a winged scarab, a potent symbol of rebirth and resurrection in ancient Egyptian beliefs. At the center of the scarab, there's an encompassing circle which represents Hades's Helm of Darkness – an artifact that renders its wearer invisible, ensuring that they remain undetected by potential dangers in the afterlife.
 
-Materials: The amulet is crafted primarily from lapis lazuli, a deep blue semi-precious stone that was highly revered by both the Greeks and Egyptians. This precious material represents the night sky, a pathway through which the spirit ascends to the afterlife. In addition, the amulet is adorned with gold, a metal considered to be sacred in both cultures. Gold represents the eternal glow of the divine and signifies spiritual protection.
+**Materials**: The amulet is crafted primarily from lapis lazuli, a deep blue semi-precious stone that was highly revered by both the Greeks and Egyptians. This precious material represents the night sky, a pathway through which the spirit ascends to the afterlife. In addition, the amulet is adorned with gold, a metal considered to be sacred in both cultures. Gold represents the eternal glow of the divine and signifies spiritual protection.
 
-Symbols:
+**Symbols**:
 1. **The Eye of Horus**: A powerful symbol of protection and good health in the Egyptian mythos, the Eye of Horus is engraved on the wings of the scarab. This symbol invokes the divine protection of Horus, son of Osiris, and guides the spirit through the afterlife.
 
 2. **Cerberus**: The three-headed dog that guards the entrance to the Greek underworld is depicted at the bottom of the amulet. Cerberus serves as a sentinel, ensuring the safety of the soul and preventing malevolent forces from entering the protected realm.

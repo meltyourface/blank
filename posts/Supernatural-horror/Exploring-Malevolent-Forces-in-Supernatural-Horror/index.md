@@ -22,7 +22,7 @@ excerpt: Write a concise section of a grimoire with an emphasis on Supernatural 
 
 ## Supernatural Horror: Unveiling Dark Realms and Entities
 
-Introduction:
+**Introduction**:
 
 Supernatural horror occupies a distinct space in the world of the occult and esoteric knowledge, with its roots buried deep in the dark corners of human consciousness. This branch of study focuses on malevolent entities, harrowing manifestations, and rituals that often teeter on the brink of the unimaginable. For those who feel compelled to explore the abyss and confront their fears, this section endeavors to guide initiates through their journey into the realm of supernaturally horrifying forces.
 

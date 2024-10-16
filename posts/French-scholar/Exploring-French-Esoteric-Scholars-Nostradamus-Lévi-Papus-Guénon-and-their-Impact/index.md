@@ -22,7 +22,7 @@ excerpt: Generate a section of a grimoire that provides an insightful overview o
 
 ## The French Legacy in Occult Studies
 
-Introduction:
+**Introduction**:
 
 The history of occult studies in France is rich and diverse, boasting a plethora of influential scholars and practitioners who significantly contributed to the development and understanding of esoteric knowledge. This section aims to provide an insightful overview of notable French figures and their scholarly contributions, while offering helpful advice for students eager to delve deeper into this intriguing aspect of French intellectual history.
 

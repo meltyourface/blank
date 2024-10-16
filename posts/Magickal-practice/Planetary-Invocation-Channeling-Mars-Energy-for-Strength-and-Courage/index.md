@@ -72,4 +72,4 @@ So be it."
 8. The Sealing and Completion:
 Using your dagger, close the circle counterclockwise, sealing the energies you have invoked within your being. Dispose of any remaining ritual materials responsibly and safely while retaining the sigils in a sacred space as a physical reminder of your magickal work.
 
-Remark: Following these steps will ensure adequate incorporation of Mars-associated symbols, sigils, and correspondences, strengthening the celestial sphere's dominant vibrations, and invoking the protective Mars-related deities or entities.
+**Remark**: Following these steps will ensure adequate incorporation of Mars-associated symbols, sigils, and correspondences, strengthening the celestial sphere's dominant vibrations, and invoking the protective Mars-related deities or entities.

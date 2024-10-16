@@ -23,14 +23,14 @@ excerpt: >
 
 ## Title: The Blood Moon Obeisance
 
-Setting: A secluded grove deep within an ancient, twisted forest on the night of a blood moon.
+**Setting**: A secluded grove deep within an ancient, twisted forest on the night of a blood moon.
 
 Required Artifacts:
 1. The Orb of Deirdre – A mysterious and otherworldly sphere crafted from fae-touched obsidian, rumored to have once belonged to a powerful fae queen.
 2. The Silver Sigil – A pendant engraved with an arcane symbol whose origins have been lost to time.
 3. The Athame of Laran – A ceremonial dagger rumored to have been forged in the heart of the fae kingdom.
 
-Preparations:
+**Preparations**:
 1. The participant must fast for three days prior to the ritual, consuming only water infused with the petals of the enigmatic nightshade flower.
 2. Two days before the ritual, the participant must gather moonwort and weeping widow's fern from the forest, taking care to step lightly and leave offerings of fresh cream to appease hidden fae folk.
 

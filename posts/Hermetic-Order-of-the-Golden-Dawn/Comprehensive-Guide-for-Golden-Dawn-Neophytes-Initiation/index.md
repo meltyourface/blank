@@ -22,23 +22,23 @@ excerpt: Design and structure a comprehensive curriculum for instructing neophyt
 
 ## The Hermetic Order of the Golden Dawn: Comprehensive Curriculum for Neophytes
 
-I: Introduction to the Hermetic Order of the Golden Dawn
+**I**: Introduction to the Hermetic Order of the Golden Dawn
 - History and foundational principles
 - Importance of initiation ceremonies in the development of the initiate
 - Philosophy and structure of the Order
 - Role of the Neophyte
 
-II: Foundations of Initiation
+**II**: Foundations of Initiation
 - Preparation for initiation: cultivating a receptive mindset and purifying the body
 - The Neophyte Oath
 - The Lesser and Greater rituals of the Pentagram: theory, symbolism, and application
 
-III: Symbolism and Mysticism
+**III**: Symbolism and Mysticism
 - The role of symbolism in rituals and ceremonies
 - Symbolism in the Hermetic Order of the Golden Dawn
 - The Tree of Life: its components and relationships
 
-IV: Initiation Ceremony - First Order
+**IV**: Initiation Ceremony - First Order
 - Detailed walkthrough of the step-by-step ritual procedures:
   - Opening ritual
   - Binding and purification
@@ -47,23 +47,23 @@ IV: Initiation Ceremony - First Order
   - Welcoming the Guardian Angel 
 - Meditation and reflection on the experience
 
-V: Elemental Magick and Correspondences
+**V**: Elemental Magick and Correspondences
 - The four classical elements and their connection to the Order's symbolism
 - Invoking and banishing elemental energies
 - Practical exercises and meditations to resonate with each of the four elements
 - Elemental talismans, sigils, and tools
 
-VI: Invoking Guardian Angels
+**VI**: Invoking Guardian Angels
 - Invocation of the four archangels and their corresponding elemental energies
 - Enriching the bond with your personal guardian angel
 - Incorporating angelic guidance in daily life
 
-VII: Ethics and Etiquette in the Order
+**VII**: Ethics and Etiquette in the Order
 - Code of conduct within the Hermetic Order of the Golden Dawn
 - Balancing personal growth with the needs of the group
 - Respecting privacy and confidentiality in the Order
 
-VIII: Further Steps in the Path
+**VIII**: Further Steps in the Path
 - Possible areas of specialization and areas of focus after the initiation ceremony
 - Introduction to other rituals in the Order and their purposes
 - Suggested reading and continued study

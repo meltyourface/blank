@@ -24,7 +24,7 @@ In order to compare Hecate's roles as a liminal goddess, a psychopomp, and a pro
 
 Liminal Goddess: Refers to a deity that presides over the thresholds, boundaries, and transitional phases of life. Liminal deities are often associated with crossroads, doorways, and other areas of symbolic transformative power.
 
-Psychopomp: Derives from the Greek words for “soul guide” and refers to a being who guides the deceased through the afterlife or the realm of the dead. Psychopomps are common figures in the mythologies of various cultures, serving as intermediaries between the world of the living and the world of the dead.
+**Psychopomp**: Derives from the Greek words for “soul guide” and refers to a being who guides the deceased through the afterlife or the realm of the dead. Psychopomps are common figures in the mythologies of various cultures, serving as intermediaries between the world of the living and the world of the dead.
 
 Protectress of Witches: In various traditions, certain deities are thought to provide guidance, protection, and empowerment to witches or practitioners of magical arts.
 

@@ -37,7 +37,7 @@ excerpt: >
 
 ## Esoteric Breath of Life - Synchronous Group Session Manual
 
-Introduction:
+**Introduction**:
 The following manual provides a comprehensive, step-by-step guide for conducting a synchronous group session focused on the esoteric Breath of Life techniques. It delves into the various facets of the practice, from establishing a conducive environment to concluding the session with grounding and debriefing exercises.
 
 1. **Establishing a Suitable Environment**:

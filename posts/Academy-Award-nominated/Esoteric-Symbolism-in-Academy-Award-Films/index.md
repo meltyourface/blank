@@ -23,7 +23,7 @@ excerpt: >
 
 ## Title: Esoteric Symbolism in Films of Academy Award Nominated Filmmakers
 
-Introduction:
+**Introduction**:
 Academy Award nominated films often carry a profound depth in their narratives and visual artistry. Unbeknownst to casual viewers, many of these films possess esoteric symbolism and hidden meanings that elevate the cinematic experience and deepen the understanding for those who are knowledgeable in the occult domain. The following sections will introduce and explain key concepts related to this topic and discuss examples from celebrated films to elucidate the rich tapestry of esoteric symbolism interwoven in the realm of Academy Award nominated filmmakers.
 
 Key Concepts:
@@ -40,5 +40,5 @@ Examples of Esoteric Symbolism in Films:
 
 3. Archetypes & Synchronicities in Pulp Fiction (1994, Quentin Tarantino): Quentin Tarantino's cult classic, Pulp Fiction, deftly weaves together multiple narratives filled with archetypal characters (the Hitman, the Boxer, the Damsel in distress). These distinct characters navigate a world of circumstantial synchronicities, such as Vincent Vega (John Travolta) and Jules Winnfield's (Samuel L. Jackson) profound discussion regarding a life-changing sign from divine intervention, which leads them onto their separate paths.
 
-Conclusion:
+**Conclusion**:
 The beauty of esoteric symbolism lies in its ability to provide deep layers of understanding beneath the surface of a film's narrative. Academy Award nominated filmmakers often incorporate these themes to add substance, complexity, and transcendent insights into their works. To truly master the art of recognizing and appreciating these symbols, viewers must be well-versed in the mystical and occult concepts that underscore these films and reflect upon the profundity behind their artistry.

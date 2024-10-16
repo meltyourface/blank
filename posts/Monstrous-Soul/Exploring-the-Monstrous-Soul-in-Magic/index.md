@@ -22,7 +22,7 @@ excerpt: Write a short but informationally dense text for a section of a grimoir
 
 ## The Monstrous Soul: Manifestation and Magic
 
-Introduction:
+**Introduction**:
 Within the vast and interconnected realm of the esoteric and occult lies the concept of the Monstrous Soul. It is a unique manifestation of spiritual energy that derives its power from the darker, primal aspects of human nature. As practitioners of the arcane arts, it is imperative that we understand the core attributes of the Monstrous Soul, how it reveals itself within an individual, and its role in various magical practices.
 
 ### I. Core Attributes of the Monstrous Soul:

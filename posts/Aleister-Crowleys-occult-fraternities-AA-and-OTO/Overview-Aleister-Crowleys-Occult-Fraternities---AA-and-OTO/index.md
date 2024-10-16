@@ -26,7 +26,7 @@ Introduction to Aleister Crowley's Occult Fraternities: A.A. and O.T.O.
 
 Aleister Crowley (1875-1947), a British occultist, writer, and mystic, founded or was closely associated with two influential occult fraternities: the A∴A∴ (Astrum Argentum or Silver Star) and the O.T.O. (Ordo Templi Orientis). These fraternities focused on the spiritual development of the individual and the attainment of self-realization and mastery over one's own reality. This overview serves as an introduction to Crowley's occult fraternities, exploring their history, aims, objectives, rituals, practices, teachings, and key symbols, as well as notable controversies and achievements.
 
-History:
+**History**:
 
 A∴A∴: Crowley, along with his mentor, George Cecil Jones, founded the A∴A∴ in 1907. The order was conceived as a continuation of the Hermetic Order of the Golden Dawn, from which Crowley and Jones had defected. The A∴A∴ synthesized various magical, mystical, and spiritual disciplines and traditions from around the world to create a comprehensive approach to personal enlightenment.
 

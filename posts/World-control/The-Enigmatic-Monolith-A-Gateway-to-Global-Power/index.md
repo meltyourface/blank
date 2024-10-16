@@ -30,7 +30,7 @@ Intricate geometric patterns, reminiscent of sacred geometry, adorn the outer su
 Political influences:
 The surrounding concentric rings are engraved with images and cryptograms narrating the history of clandestine global political influences. The stone used for these rings is sourced from significant political landmarks across the globe, hinting at a worldwide reach.
 
-Misdirection:
+**Misdirection**:
 The third and final ring, closest to the Eye of Control, features designs that intentionally confound and mislead onlookers from the truth hidden within. False patterns, symbols, and messages are cleverly integrated, ensuring only the initiated can decipher the monument's true purpose.
 
 Innovative, Concealed Chambers & Mechanisms:

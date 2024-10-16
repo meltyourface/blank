@@ -23,7 +23,7 @@ excerpt: >
 
 ## Chronicles of the Elemental Planes - Mysteries Unraveled
 
-Introduction:
+**Introduction**:
 The Elemental Planes, the primordial realms that embody the fundamental essences of air, earth, fire, and water, have long been shrouded in the annals of esoteric knowledge. This chronicle seeks to unravel the myriad mysteries of these enchanting planes, exploring their interwoven origin stories, diverse inhabitants, and unique landscapes. Delve into the precipice of creation, uncover the arcane connections between these four realms, and witness the elemental wonders that govern their very existence.
 
 ### I. Plane of Air - The Boundless Expanse
@@ -37,7 +37,7 @@ Dominant Forces and Magical Occurrences:
 Origin Story:
 The Plane of Air traces its origins to the aeons of creation, when the divine architects wove the first symphonies of wind and light. The realm itself was conceived as a dream – the embodiment of freedom, change, and ephemeral beauty.
 
-Inhabitants:
+**Inhabitants**:
 - Sylphs, the wind-born spirits that dance to the ever-changing melodies of the aether.
 - Aarakocra, a race of avian humanoids deeply attuned to the endless skies.
 - Djinn, benevolent and capricious elemental beings with the power to reshape reality.
@@ -53,7 +53,7 @@ Dominant Forces and Magical Occurrences:
 Origin Story:
 The Plane of Earth was conceived as a testimony to stability, permanence, and the boundless potential hidden beneath the surface. The eternal foundation was born from the world-shaping dreams of primordial titans who molded stone and metal into fantastic forms.
 
-Inhabitants:
+**Inhabitants**:
 - Earth Elementals, beings that embody the unyielding strength and adaptability of the land.
 - Galeb Duhr, sentient stone beings who maintain the labyrinthine structures and safeguard their secrets.
 - Dao, denizens of the realm who obsessively search for and amass rare minerals and extraordinary geologic treasures.
@@ -69,7 +69,7 @@ Dominant Forces and Magical Occurrences:
 Origin Story:
 In the beginning, the first flames of creation flickered into existence, shaping the Plane of Fire into a crucible of passion, inspiration, and transformative power. Untamed fury merged with numinous light, fueled by a latent vitality that drives an eternal cycle of rebirth.
 
-Inhabitants:
+**Inhabitants**:
 - Salamanders, creatures ignited by an inner fire that reflects their warrior's spirit.
 - Azer, artisans of the infernal forge who wield the power of fire to craft powerful artifacts.
 - Efreet, proud and merciless rulers of aflame cities, who command the elemental power of the realm.
@@ -85,11 +85,11 @@ Dominant Forces and Magical Occurrences:
 Origin Story:
 At the dawn of time, the cosmic oceans of the Plane of Water gave birth to the great cosmic serpents that would become the rivers of life across all planes. Formless and adaptable, the aquatic realm embodies the potential for renewal and transformation.
 
-Inhabitants:
+**Inhabitants**:
 - Merfolk, mesmerizing and enigmatic beings who navigate the depths with grace and mystery.
 - Marids, whimsical genies of water and storms who wield vast control over water-based magics.
 - Kraken, the ancient and terrible leviathans that slumber within the abyss, waiting for the perfect moment to rise anew.
 
-Conclusion:
+**Conclusion**:
 
 The Elemental Planes are bound together in a cosmic dance of creation and destruction, embodying the essence of reality itself. Their remarkable contrasts and arcane connections serve as the foundations of the multiverse. May these chronicles illuminate the wonders of the elemental realms, inviting further exploration and reverence for the primordial forces they represent.

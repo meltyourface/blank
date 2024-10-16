@@ -42,7 +42,7 @@ The Ritual:
 3. Draw a six-pointed star or hexagram within the circle using the ceremonial dagger. This star represents the balance between chaos and order, a hallmark of The Furies' energies, and serves as an anchor point for their power.
 4. As an offering, spill a few drops of the practitioner's blood onto the ceremonial dagger, signifying a willingness to enact the justice and vengeance that The Furies represent. Optionally, this offering may be accompanied by a recitation of an ancient oath such as, "By my blood and ire, I take up this blade in seeking righteous vengeance, that transgressions may be punished and justice upheld."
 
-Culmination:
+**Culmination**:
 1. Meditate on The Furies' vengeful power flowing into the ceremonial dagger, visualizing their essence infusing the blade and empowering it for the practitioner's use.
 2. To close the ritual, extinguish the black candle and speak a final affirmation such as, "In darkness and in light, let this blade be empowered, an instrument of divine vengeance and true justice, forever wielded by my hand as an extension of the wrath of The Furies."
 

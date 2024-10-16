@@ -33,8 +33,8 @@ Here is a step-by-step guide to creating the personal sigil:
 
 4. Integration: Combine the Enochian script, astrological symbols, and sacred geometry elements into one cohesive design. This can be done by overlapping, interweaving, or juxtaposing the various elements. The final result should be a harmonious, aesthetically pleasing representation of your connection to your Holy Guardian Angel.
 
-Visualization: Visualize the sigil in your mind's eye, infusing it with your intent and focusing your energy on the aspects you wish to manifest. The more you meditate on the sigil and its meaning, the more you will attune yourself to its power.
+**Visualization**: Visualize the sigil in your mind's eye, infusing it with your intent and focusing your energy on the aspects you wish to manifest. The more you meditate on the sigil and its meaning, the more you will attune yourself to its power.
 
-Usage: Use the sigil as a focal point during your rituals of invocation and evocation. Place it on your altar, wear it as a pendant, or tattoo it onto your body to help intensify your connection with your Holy Guardian Angel and optimize concentration during sacred rituals.
+**Usage**: Use the sigil as a focal point during your rituals of invocation and evocation. Place it on your altar, wear it as a pendant, or tattoo it onto your body to help intensify your connection with your Holy Guardian Angel and optimize concentration during sacred rituals.
 
 By following these steps, you will create a powerful talisman deeply rooted in the Thelemic magickal tradition of Liber Samekh, embodying your Holy Guardian Angel and incorporating elements of Enochian language, sacred geometry, and astrological correspondences. Your personal sigil will serve as an invaluable tool to aid you in your spiritual journey and Thelemic practice.

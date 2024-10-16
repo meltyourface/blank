@@ -36,6 +36,6 @@ The LBRP enables the development and synthesis of the four elements within the p
 
 Through the LBRP, the practitioner constructs a magical circle that delineates sacred space, separating the mundane from the divine. This purification process calms the mind, allowing the initiate to establish a connection with the transcendent. Over time, regular practice trains the will and enhances the ability to concentrate, resulting in heightened spiritual awareness and discernment.
 
-Summary:
+**Summary**:
 
 The Lesser Banishing Ritual of the Pentagram is historically significant in the Western magical tradition as a ritual amalgamating various spiritual practices. The esoteric symbolism of the ritual strengthens an initiate's connection to the four traditional elements and guides them on their journey of inner development. In fostering the synthesis of the elements and invoking divine power, the LBRP ultimately provides the initiate with a foundation for deeper alchemical transformation and growth within the context of Western ceremonial magick.

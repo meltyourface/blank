@@ -24,7 +24,7 @@ excerpt: >
 ---
 Answer: Entities that defy normal classification, composed of unnatural combinations of different creatures, symbolizing a distortion of the natural order.
 
-Explanation: In the context of occult Abomination, these entities embody a combination of characteristics that defy standard classifications and go outside the realm of mundane understanding. The term "Abomination" itself implies an aberration or deviation from what is considered standard or "normal." As such, the answer that best encapsulates this concept is: "Entities that defy normal classification, composed of unnatural combinations of different creatures, symbolizing a distortion of the natural order."
+**Explanation**: In the context of occult Abomination, these entities embody a combination of characteristics that defy standard classifications and go outside the realm of mundane understanding. The term "Abomination" itself implies an aberration or deviation from what is considered standard or "normal." As such, the answer that best encapsulates this concept is: "Entities that defy normal classification, composed of unnatural combinations of different creatures, symbolizing a distortion of the natural order."
 
 The other options, although relevant to some aspects of the occult or supernatural entities, do not fully encompass the full scope of Abomination:
 

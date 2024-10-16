@@ -23,10 +23,10 @@ excerpt: >
 
 ## Embracing Asclepius: A Guided Meditation for Spiritual Healing
 
-Introduction:
+**Introduction**:
 Welcome, faithful follower, to this guided meditation designed specifically for our Priesthood of Asclepius. This journey will lead you into a deep, spiritual connection with the divine healing essence of Asclepius, guided by ancient Greek mystical practices, sacred incantations, and visualization techniques. Our aim is to help you engage with Asclepius's serpentine symbol, the Rod of Asclepius, and facilitate communication with the deity for improved well-being and spiritual growth.
 
-Preparation:
+**Preparation**:
 1. Begin by finding a quiet, comfortable space where you can remain undisturbed for the duration of the meditation.
 2. Sit or lie down, adopting a posture that allows you to maintain focus, yet remain relaxed.
 3. Take a few moments to clear your mind of distractions and center your thoughts on Asclepius, the god of medicine and healing.

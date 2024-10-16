@@ -23,9 +23,9 @@ excerpt: >
 
 ## Title: Journey through the Cosmic Web of Interdependence
 
-Objective: To provide an immersive guided meditation experience in order to gain insight into the profound interconnectedness within Buddhism and our world. 
+**Objective**: To provide an immersive guided meditation experience in order to gain insight into the profound interconnectedness within Buddhism and our world. 
 
-Duration: 45 minutes
+**Duration**: 45 minutes
 
 Begin with setting the environment:
 
@@ -66,6 +66,6 @@ Closing the Meditation (5 min):
 2. Encourage attendees to share any experiences, insights, or thoughts that arose during the meditation, fostering a sense of community and interdependence among the group.
 3. Close the meditation with a traditional Buddhist chanting and express gratitude to the practitioners for their participation.
 
-Conclusion:
+**Conclusion**:
 
 Through this 45-minute meditation experience, participants will delve deeper into the profound understanding of interconnectedness and interdependence, drawing upon rich teachings from the Avatamsaka Sutra. They will journey through the cosmic web and along the ten stages of the Bodhisattva path, using visualizations, mindfulness, chanting, and contemplative practices to transform their perspectives and foster a deeper connection to Buddhism and the universe.

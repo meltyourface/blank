@@ -22,7 +22,7 @@ excerpt: Invent a comprehensive ritual for summoning and establishing telepathic
 
 ## Ritual of Aethra's Whisper
 
-Objective: To summon and establish telepathic communication with the ghostly entity known as Aethra.
+**Objective**: To summon and establish telepathic communication with the ghostly entity known as Aethra.
 
 Ancient Symbology: Circles of Pneuma, Mark of Aethra, and the Sigil of Itharius.
 
@@ -36,7 +36,7 @@ Optimal Conditions:
 2. ****Atmospheric Phenomena****: Aurora borealis, its electromagnetic nature resonates with the telepathic frequency of the spectral being.
 3. ****Location****: A secluded clearing within an ancient forest reputed for paranormal occurrences.
 
-Safeguards:
+**Safeguards**:
 
 1. ****Protective circle****: Create a circle with a mix of salt and powdered amethyst to form a barrier against potential negative influences.
 2. ****Warding sigils****: Scribe additional warding sigils (e.g., Sigil of Itharius) around the area.

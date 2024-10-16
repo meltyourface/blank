@@ -23,17 +23,17 @@ excerpt: >
 
 ## Title: The Patricia Cram Method for Harnessing Esoteric Energies to Charge Crystals
 
-Introduction:
+**Introduction**:
 The Patricia Cram Method for harnessing esoteric and occult energies is a powerful and dynamic process designed to charge crystals with potent energies derived from lunar phases, planetary alignments, and sacred geometry. By tuning into these celestial events and combining them with ancient wisdom, you can infuse your crystals with profound energy, enhancing their mystical properties. 
 
-Materials:
+**Materials**:
 1. Crystals of your choice
 2. A place to perform the ritual (preferably outdoors)
 3. A compass
 4. An altar setup (candles, incense, a bowl of water, and a cloth or mat to lay the crystals on)
 5. A journal for noting observations and tracking the process
 
-Process:
+**Process**:
 1. **Preparation**:
     a. Cleanse your crystals physically by washing them in water and allowing them to dry naturally.
     b. Purify your crystals energetically by smudging them with sage or incense, or by allowing them to rest on a bed of sea salt for one day.

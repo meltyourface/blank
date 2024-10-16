@@ -22,13 +22,13 @@ excerpt: >
 ---
 I present to you the Gavasti Archakam Mantra, an ancient, Divine mantra infused with esoteric and occult symbolism, specifically designed to invoke the celestial guardians to protect against malevolent psychic attacks and astral intrusions. 
 
-Mantra:
+**Mantra**:
 "Om Kshamapara Brahmane, Ash-Taakshara Vijaabjaaya,
 Shri Maha-Ganapataye, Garudaaya Namostu Tey,
 Narashya Bhagavan Vishnur, Dhvani-Sanchaar Samriddhaye,
 Loka-Paalaya, Astraaya, Raksha-Raksha Svabhave!"
 
-Translation:
+**Translation**:
 "Salutations to the source of infinite forgiveness, Brahma emanating from the eight-lettered lotus,
 To the great lord Ganesha, and the divine carrier Garuda, homage to thee,
 The protector of all beings, Lord Vishnu, who empowers sound resonance,

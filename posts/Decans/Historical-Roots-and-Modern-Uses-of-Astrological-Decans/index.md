@@ -47,12 +47,12 @@ To fully answer this challenge, let us first briefly explore the historical orig
 
 **Parallels and Contrasts**
 
-Parallels:
+**Parallels**:
 
 1. All three traditions acknowledged the existence and importance of the Decans and incorporated them into their spiritual and astrological belief systems.
 2. Decans served as timekeepers or symbols of divinity in all systems, representing cycles of life and yearly progression.
 
-Contrasts:
+**Contrasts**:
 
 1. The Egyptian origin of the Decans is primarily linked to astronomy and timekeeping, whereas the Chaldean and Hermetic traditions integrated Decans into personality analysis, divination, and personal growth.
 2. The Hermetic tradition delved comprehensively into the esoteric aspect, connecting the Decans to spiritual development, while both Egyptian and Chaldean traditions mainly associated them with natural cycles, elements, and daily life.

@@ -22,7 +22,7 @@ excerpt: Design an ancient Vedic ritual aimed at invoking and connecting to one'
 
 ## Invocation of the Ishta Devatas through Ancient Vedic Rituals
 
-Objective: To establish a connection with one's chosen spirit guides, the Ishta Devatas, through a sacred Vedic ritual incorporating powerful Indian techniques for harnessing life-force, Kundalini Yoga, Pranayama, sacred mantras, Mudras and Asanas.
+**Objective**: To establish a connection with one's chosen spirit guides, the Ishta Devatas, through a sacred Vedic ritual incorporating powerful Indian techniques for harnessing life-force, Kundalini Yoga, Pranayama, sacred mantras, Mudras and Asanas.
 
 Materials needed:
 1. Sacred space or altar
@@ -31,7 +31,7 @@ Materials needed:
 4. Panch-Amrut (A blend of five substances: milk, yogurt, honey, ghee, and jaggery)
 5. Images or representations of the chosen Ishta Devatas
 
-Preparation:
+**Preparation**:
 1. Cleanse and purify the sacred space or altar.
 2. Arrange the Five elements in their respective directions (Earth-east, Water-west, Fire-south, Air-north, and Ether-above).
 3. Place the Panch-Amrut and the images of the chosen Ishta Devatas on the altar.

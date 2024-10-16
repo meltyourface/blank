@@ -22,7 +22,7 @@ excerpt: Compose an original ritual centered around the art of Sacred inversion 
 
 ## The Ritual of Transcendental Annihilation
 
-Introduction:
+**Introduction**:
 The Ritual of Transcendental Annihilation incorporates elements from the persecuted esoteric sects of the Gnostic Bogomils and the ancient Persian Zurvanites. By incorporating their rituals, we aim to dissolve traditional religious dogma and create a new framework that transcends restrictive beliefs through sacred inversion and religious nihilism. 
 
 New Symbols:
@@ -30,7 +30,7 @@ New Symbols:
 2. **The Void Compass**: Symbolizing the embrace of nihilism as a way to navigate the endless cycle of creation and destruction.
 3. **The Syncretic Flame**: Depicting the union of the Bogomil and Zurvanite sects, along with the duality between light (knowledge) and darkness (nihilism).
 
-Participants:
+**Participants**:
 1. **The Inverter**: Responsible for guiding the overall ritual and overseeing the sacred inversions.
 2. **The Nihilist**: Assumes the role of the voice of nihilism, questioning the meaning and significance of religious dogma.
 3. **The Bogomil**: Represents the persecuted sect and carries the knowledge of dualist Gnostic practices.

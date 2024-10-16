@@ -23,7 +23,7 @@ Spell: The Abundance Beacon
 
 Desired Outcome: To attract prosperity and wealth while offering protection from psychic attacks.
 
-Ingredients:
+**Ingredients**:
 1. Green or gold candle (to symbolize prosperity)
 2. Small bag or pouch (to contain and focus the energies)
 3. Pyrite, citrine, and green aventurine (crystals for attracting prosperity)
@@ -32,11 +32,11 @@ Ingredients:
 6. A silver coin or piece of currency (representing the desired abundance)
 7. Salt (for purification and protection)
 
-Sigil: Design a sigil that incorporates the rune Fehu (for wealth, prosperity, and abundance), the Eye of Horus (protection against negative energies), and the infinity symbol (endless abundance). Draw this sigil on a small piece of paper.
+**Sigil**: Design a sigil that incorporates the rune Fehu (for wealth, prosperity, and abundance), the Eye of Horus (protection against negative energies), and the infinity symbol (endless abundance). Draw this sigil on a small piece of paper.
 
 Lunar phase and astrological alignment: Execute the spell during a waxing moon or a full moon in the sign of Taurus, as it is an earth sign associated with wealth, abundance, and stability.
 
-Procedure:
+**Procedure**:
 1. Begin by cleansing your space with the smoke of dragon's blood resin or by sprinkling salt around the area. 
 2. Cast a circle or visualize a protective energy barrier around you to guard against negative energies and psychic attacks during the ritual. 
 3. Light the green or gold candle, and focus on the flame, saying: "I invoke the power of fire to illuminate the path to abundance and to ward off negativity." 

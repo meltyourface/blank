@@ -63,7 +63,7 @@ Let's use the phrase "Hello, world!" to demonstrate the Vortex Cipher encoding a
 7 |v w Q ! M Z T 3|
 8 |F E R k H x ; N|
 
-Encoding:
+**Encoding**:
 ---------
 1. Locate the characters in the vortex map:
    H (8, 5), e (6, 3), l (3, 5), l (3, 5), o (3, 2), , (1, 3),   (1, 1), w (7,
@@ -76,7 +76,7 @@ Encoding:
 3. Locate the corresponding encoded symbols in the vortex map:
    The encoded message is: "%c6Y2>5<5)<93<J9QZ"
 
-Decoding:
+**Decoding**:
 ---------
 1. Reverse the rotation process for each coordinate pair:
    E1 (3, 8) -> H (8, 5)

@@ -22,11 +22,11 @@ excerpt: Design a ritual for the Veneration of shades of the True and Secret Anc
 
 ## The Illumination of Ancestral Wisdom
 
-Objective: Invoke the spirit of a chosen ancestor to seek guidance and wisdom, while maintaining a reverent demeanor.
+**Objective**: Invoke the spirit of a chosen ancestor to seek guidance and wisdom, while maintaining a reverent demeanor.
 
-Setting: Perform this ritual inside a dimly lit, clean, and quiet space, either in a room or outside under the night sky, preferably during a new or full moon. The ambiance should promote a sense of tranquility and connection with the unseen realms.
+**Setting**: Perform this ritual inside a dimly lit, clean, and quiet space, either in a room or outside under the night sky, preferably during a new or full moon. The ambiance should promote a sense of tranquility and connection with the unseen realms.
 
-Materials:
+**Materials**:
 
 1. ****An ancestral altar****: A small table or a raised platform covered with a dark cloth.
 2. A photograph or representation of the chosen ancestor.
@@ -36,7 +36,7 @@ Materials:
 6. A small copper or silver dish for the offering (food, drink, or an object the ancestor cherished).
 7. An antique bell or chime.
 
-Instructions:
+**Instructions**:
 **Step 1**: Preparation
 Ensure the space is clean and serene. Take a ritual bath to purify your body and mind, then gently cleanse the room or area with the incense or smudging herbs.
 **Step 2**: Set up the ancestral altar

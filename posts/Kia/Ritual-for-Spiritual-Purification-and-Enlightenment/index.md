@@ -23,9 +23,9 @@ excerpt: >
 
 ## Title: The Ritual of Aurum Transcendence
 
-Objective: Lead the practitioner to a purified and enlightened state of being within the realm of Kia through spiritual purification and energy balance.
+**Objective**: Lead the practitioner to a purified and enlightened state of being within the realm of Kia through spiritual purification and energy balance.
 
-Preparation:
+**Preparation**:
 
 1. Prepare a quiet, clean, and secluded ritual space. Ensure the space is free from distractions and clutter to counteract negative energies.
 

@@ -22,9 +22,9 @@ excerpt: Outline a purification ritual specific to the Mass of Baphomet, to be c
 
 ## The Sigillum Purificatio of Baphomet
 
-Purpose: The Sigillum Purificatio is a purification ritual within the Mass of Baphomet, intended to cleanse and prepare the practitioner for engaging with Goetic entities. This ritual aids in establishing a connection with the divine and seeks the protection and guidance of Baphomet.
+**Purpose**: The Sigillum Purificatio is a purification ritual within the Mass of Baphomet, intended to cleanse and prepare the practitioner for engaging with Goetic entities. This ritual aids in establishing a connection with the divine and seeks the protection and guidance of Baphomet.
 
-Materials:
+**Materials**:
 
 1. Sacred Vestments: Black robes adorned with the Sigil of Baphomet, symbolizing the practitioner's connection to the deity.
 2. Ritual Tools: Athame, chalice, pentacle, and wand to represent the four elements and their respective guardians.

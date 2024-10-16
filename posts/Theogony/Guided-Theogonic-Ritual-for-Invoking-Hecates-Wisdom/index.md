@@ -23,7 +23,7 @@ Guided Theogonic Meditation/Ritual: Summoning The Essence of Hecate, The Goddess
 
 The aim of this practice is to summon the essence of Hecate, the ancient deity associated with magic, witchcraft, and the night. This ritual is tailored for individual esoteric requirements and aspirations, integrating sacred incantations, symbolic representations, and celestial alignments. Ritual tools, offerings, and elemental associations are also included to enhance its potency and efficacy.
 
-Preparation:
+**Preparation**:
 1. Choose the optimal time for the ritual, preferably on a new or full moon.
 2. Choose a quiet and secluded space, either outdoors or indoors.
 3. Cleanse the area with purifying incense (such as sage or frankincense).
@@ -42,7 +42,7 @@ Elemental Associations:
 3. ****Fire****: The candles on the altar to symbolize fire and transformation.
 4. ****Water****: The chalice of libation to embody water and emotions.
 
-Procedure:
+**Procedure**:
 
 1. Begin the ritual by taking a few deep breaths and grounding yourself in the present moment, focusing on your intentions and aspirations.
 

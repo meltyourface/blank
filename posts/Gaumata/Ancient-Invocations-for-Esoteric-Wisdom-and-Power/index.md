@@ -65,7 +65,7 @@ Help me unravel the ancient secrets beneath the Veil.
 With every step in the path of darkness, the Sage's flame burns brighter,
 Illuminating my way, the pursuit of enlightenment becomes my life's mission.
 
-Mantra: Unlocking Psychic Potential
+**Mantra**: Unlocking Psychic Potential
 
 Om Asato-Gaumata Anahata-Omkara Drishti Upadesha
 

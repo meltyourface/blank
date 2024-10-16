@@ -23,7 +23,7 @@ excerpt: >
 
 ## Title: The Rite of Voiding Shadows
 
-Purpose: To dispel malevolent psychic attacks and protect oneself from any further intrusions.
+**Purpose**: To dispel malevolent psychic attacks and protect oneself from any further intrusions.
 
 Consecrated Ritual Tools:
 1. Athame (a ritual knife) - to direct personal power and energy.

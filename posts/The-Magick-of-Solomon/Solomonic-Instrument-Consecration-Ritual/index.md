@@ -21,9 +21,9 @@ excerpt: Develop a custom ritual for consecrating magickal tools, specifically w
 ---
 Ritual name: Consecration of the Solomonic Instruments
 
-Objective: Purify and consecrate the athame, wand, pentacle, and chalice with planetary and elemental correspondences, invoking archangels and divine forces.
+**Objective**: Purify and consecrate the athame, wand, pentacle, and chalice with planetary and elemental correspondences, invoking archangels and divine forces.
 
-Preparation:
+**Preparation**:
 
 1. Create sigils for each magickal tool with sacred geometry based on their planetary and elemental correspondences.
    - Athame: Sigil of Mars (element of fire)

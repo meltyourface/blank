@@ -34,7 +34,7 @@ Hierarchy of the Homeric Figures:
 9. Paris (Prince of Troy)
 10. Helen (Queen of Sparta)
 
-Explanation:
+**Explanation**:
 
 1. Zeus is at the top of the hierarchy, as his actions directly influence the course of both the Iliad and the Odyssey. He is the supreme ruler of Mount Olympus and his decisions impact the fates of humans and gods alike. In the Iliad, Zeus is responsible for prolonging the Trojan War and maintaining a level of balance between the opposing forces.
 

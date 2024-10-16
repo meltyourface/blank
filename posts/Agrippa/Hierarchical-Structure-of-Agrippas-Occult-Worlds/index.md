@@ -29,7 +29,7 @@ excerpt: >
 The correct answer is:
 - The three worlds exist in a hierarchical structure, with each world exerting influence upon the one below.
 
-Explanation:
+**Explanation**:
 In Agrippa's "Three Books of Occult Philosophy," the three worlds – Natural, Celestial, and Intellectual – are presented as distinct yet interconnected realms that form the basis of occult understanding and practice. Agrippa drew heavily upon Neoplatonic and Hermetic thought and presented a worldview that blends philosophy, magic, and religion.
 
 The Natural World is considered the most basic and tangible of the three realms. It is comprised of the physical, visible aspects of the world, such as the earth, plants, animals, and human beings. It is also referred to as the Elemental World.

@@ -31,7 +31,7 @@ excerpt: >
 
 ## The Banishing Rite of the Stelliform Gateway
 
-Objective: To dispel and banish malign energies through a comprehensive grimoire-inspired ritual.
+**Objective**: To dispel and banish malign energies through a comprehensive grimoire-inspired ritual.
 
 Materials Required:
 

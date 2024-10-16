@@ -23,7 +23,7 @@ excerpt: >
 
 ## Title: "Mirror of the Silver Shield"
 
-Intent: This advanced protection spell utilizes the Magick Mirror to create a potent barrier against negative energies and malicious entities. The spell shields accomplished practitioners from harm, not only by deflecting hostile forces but also by resisting spiritual and mental attacks. Additionally, the Mirror of the Silver Shield enhances the caster's skill in astral projection, aura reading, and energy manipulation while the protection is in place.
+**Intent**: This advanced protection spell utilizes the Magick Mirror to create a potent barrier against negative energies and malicious entities. The spell shields accomplished practitioners from harm, not only by deflecting hostile forces but also by resisting spiritual and mental attacks. Additionally, the Mirror of the Silver Shield enhances the caster's skill in astral projection, aura reading, and energy manipulation while the protection is in place.
 
 Ritual Steps:
 

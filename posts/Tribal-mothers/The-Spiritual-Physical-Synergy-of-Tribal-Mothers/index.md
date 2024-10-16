@@ -33,7 +33,7 @@ Physical Roles of Tribal Mothers:
 
 Inasmuch as their spiritual roles are profound, so are the physical roles of the Tribal mothers in the preservation of ancient wisdom and cultural identity. Primarily, they are responsible for the nurturing and upbringing of the next generation, ensuring the survival and sustainability of the tribe. For Tribal mothers, education goes beyond academics; they are tasked with instilling cultural values, customs, and knowledge passed through generations in their children, which thus preserves their tribe's unique identity. Additionally, they serve as the glue that binds families, providing a sense of belonging, safety, and love within the community.
 
-Metaphor:
+**Metaphor**:
 
 If the tribe is imagined as a tree, the Tribal mothers can be easily seen as the roots that hold the tree firmly to the ground, nourishing it, and providing it with life-sustaining nutrients.
 

@@ -22,16 +22,16 @@ excerpt: Design a multifaceted initiation ceremony for a Coven Governance consis
 
 ## The Five-Fold Elemental Initiation Ceremony
 
-Introduction:
+**Introduction**:
 The Five-Fold Elemental Initiation Ceremony is designed to welcome new members into a Coven Governance through a multifaceted, layered ritual that incorporates invoking the elements, consecrating sacred objects, and swearing oaths of loyalty. This ceremony involves the use of unique symbols, deities, and traditions to ensure a sense of belonging and commitment among new members of the coven. The following is an outline of the step-by-step process of the ritual, along with the roles for existing coven members during the ceremony.
 
-Preparations:
+**Preparations**:
 - Cleanse and purify the ritual space using sacred smoke such as sage or incense.
 - Decorate the space with symbols, tools, and deities representative of the coven's beliefs and practices; adorn the altar with elemental representatives and the coven's insignia.
 - Circulate the coven's sacred objects among the participating members so they can bond with the items prior to the ceremony.
 - Coven members must dress in attire representing their elemental affinity or role within the coven.
 
-Roles:
+**Roles**:
 - High Priestess: Leads the ritual and guides the initiates.
 - Guardians of the Elements: Represent each of the elements (Earth, Air, Fire, and Water) and assist in invoking their corresponding element during the ceremony.
 - Coven Witnesses: Other existing coven members who quietly observe and hold space for the ceremony to unfold.

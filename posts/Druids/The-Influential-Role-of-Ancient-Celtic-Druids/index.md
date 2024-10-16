@@ -25,11 +25,11 @@ Belief Systems:
 
 Druids held a central position in the spiritual and belief systems of pre-Roman Celtic societies. They were considered intermediaries between the human world and the divine, often functioning as priests, prophets, and seers. Serving as the primary mediators of Celtic polytheism, Druids played a vital role in interpreting and communicating the will of myriad gods and goddesses, preserving oral tradition, and ensuring the balance between this world and the "Otherworld."
 
-Rituals:
+**Rituals**:
 
 A key aspect of the Druids' duties involved presiding over religious ceremonies and rituals. They carried out various rites to appease the deities, secure the health and prosperity of the community, and ensure the fertility of the land. The most notable of these ceremonies were the seasonal festivals, such as Samhain, Imbolc, Beltane, and Lughnasadh, marking important transitions in the agrarian calendar. The Druids' role as ritual leaders enabled them to maintain their authoritative grip on the spiritual lives of the Celtic population.
 
-Education:
+**Education**:
 
 The Druids were also at the forefront of education in Celtic society, tasked with the responsibility of preserving and transmitting sacred knowledge orally. This included the memorization of complex mythologies, genealogies, and laws. As custodians of wisdom, they held a monopoly on learning and demonstrated expertise in various disciplines, including astronomy, mathematics, medicine, and law. It is believed that the Druidic education system served as a key mechanism through which they reproduced social and ideological order within Celtic society.
 

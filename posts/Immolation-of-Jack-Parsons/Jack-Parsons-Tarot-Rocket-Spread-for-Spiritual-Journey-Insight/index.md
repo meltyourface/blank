@@ -22,7 +22,7 @@ excerpt: Design an intricate Tarot spread inspired by the Immolation of Jack Par
 
 ## The Immolation of Jack Parsons Tarot Spread
 
-Layout:
+**Layout**:
 The spread consists of 15 card positions arranged in the shape of a rocket, symbolizing Jack Parsons' pioneering work in rocketry and his spiritual aspirations associated with Thelema and the Babalon Working. The positions also incorporate astrological and alchemical correspondences to deepen the complexity and richness of the reading experience.
 
 1. The Main Engine: The Querent's current state and how it relates to their inner self or spiritual path.
@@ -44,5 +44,5 @@ The spread consists of 15 card positions arranged in the shape of a rocket, symb
 14. The Guidance (E): Alchemical correspondence – Salt, representing the passive principle, stability, and grounding (encouragement or warnings for the Querent to find balance and stability).
 15. The Guidance (F): Alchemical correspondence – Mercury, symbolizing the bridge between the active and passive principles, integration, and transformation (guidance for the Querent to bring balance and spiritual alchemy to their life).
 
-Instructions:
+**Instructions**:
 Begin by shuffling the Tarot deck and focusing on the Querent's spiritual journey or questions. Lay out the cards in the rocket-shape, starting with the Main Engine and progressing through each stage before moving to the individual positions within each stage. As each card is revealed, interpret its meaning in relation to the corresponding position and its symbolism in Jack Parsons' life and spiritual pursuit. Integrate the astrological and alchemical correspondences to add depth and complexity to the reading experience.

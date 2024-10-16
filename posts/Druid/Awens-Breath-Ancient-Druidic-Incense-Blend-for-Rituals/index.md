@@ -24,7 +24,7 @@ excerpt: Create an intricate recipe for a uniquely crafted Druidic incense blend
 
 Awen's Breath, an enigmatic and potent Druidic incense blend, synergizes the essence of sacred Celtic rituals and ceremonies, augmenting the energies and intentions within these practices. Ethically-sourced and organic, the components of this captivating blend reflect the roots of ancient Druidic tradition and the natural world that inspired it.
 
-Ingredients:
+**Ingredients**:
 1. Oak bark (Quercus spp.) – 1 part: Oak emanates strength, wisdom, and resilience, channeling the energies of the revered Celtic tree.
 2. **Rowan berries (Sorbus aucuparia) – ½ part**: Rowan is a potent symbol of protection and enhances divinatory abilities.
 3. **Hawthorn leaves and flowers (Crataegus monogyna) – ½ part**: Hawthorn promotes balance and purification, easing the heart and allowing for inner growth and spiritual development.
@@ -33,7 +33,7 @@ Ingredients:
 6. **Mugwort (Artemisia vulgaris) – ½ part**: Mugwort brings clarity, encourages lucid dreaming, and enhances the user's psychic abilities.
 7. **Vervain leaves (Verbena officinalis) – ¼ part**: A classic Druidic herb, vervain purifies, protects, and strengthens the bond between the visible and invisible realms.
 
-Instructions:
+**Instructions**:
 
 1. Begin preparing the blend during the waxing moon phase, which encourages growth, initiation, and the realization of intentions.
 2. Choose an outdoor setting amid nature, preferably close to an oak tree, on a clear and calm evening, just as the sun sets. Ensure the space is clean and undisturbed.

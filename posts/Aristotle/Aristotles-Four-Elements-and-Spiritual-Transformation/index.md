@@ -28,7 +28,7 @@ excerpt: >
 ---
 - The four elements correspond directly to the four stages of personal transformation, with Earth representing initiation, Water as purification, Air as illumination, and Fire as ultimate unification with the divine.
 
-Explanation:
+**Explanation**:
 
 While Aristotle is best known for his contributions to logic, natural sciences, ethics, and politics, he is also recognized as having an influence on the Western occult tradition. This influence comes predominantly from his discussions of the four elements – Earth, Water, Air, and Fire – which he proposed as fundamental constituents of the physical world. Though these pursuits were primarily concerned with the natural world, they do have implications for spiritual transformation as well.
 

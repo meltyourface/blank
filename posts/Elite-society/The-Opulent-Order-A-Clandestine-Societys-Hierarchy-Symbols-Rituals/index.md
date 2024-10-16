@@ -24,7 +24,7 @@ Organization: The Opulent Order
 
 Core Values: Power, Wisdom, Illumination, Legacy, and Transcendence
 
-Hierarchy:
+**Hierarchy**:
 1. The Enlightened Sovereign
 2. Council of the Inner Sanctum
 3. Oracles of Shadows
@@ -58,7 +58,7 @@ Lavish Rituals:
 
 3. **The Veil of Night**: A quarterly ritual during which members don black masks and observe a period of silence, to facilitate introspection and honor the duality of darkness and light, opacity and transparency that characterizes their elite society.
 
-Symbols:
+**Symbols**:
 1. **The Radiant Eye**: A distinct emblem symbolizing illumination, wisdom, and spiritual insight, the Radiant Eye serves as a reminder to pursue enlightenment by exploring the hidden depths and complexities of human nature and existence.
 
 2. **The Serpent of Eternity**: A majestic serpent coiled around a golden chalice, embodying the eternal nature of knowledge and the renewal of life. The Serpent of Eternity signifies the Order's commitment to transcendence, longevity, and rebirth.

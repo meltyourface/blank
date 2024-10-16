@@ -41,13 +41,13 @@ Creating the optimal blend requires experimentation with various combinations of
 5. Black pepper: 5%
 6. Citronella: 5%
 
-Instructions:
+**Instructions**:
 1. Carefully measure the essential oils in the suggested ratios or personalize the blend according to preference and sensitivity.
 2. Pour the essential oils into a clean, dark-colored glass bottle with a dropper.
 3. Secure the bottle cap and gently shake the mixture to combine the oils thoroughly.
 4. Allow the elixir to synergize for a minimum of 24 hours in a cool, dark place before using it.
 
-Usage:
+**Usage**:
 The elixir can be used in several ways to provide protection against malevolent Hungry ghost energies. Examples of usage include:
 
 1. Diffusing the blend in an ultrasonic diffuser or a candle diffuser throughout a space for passive protection.

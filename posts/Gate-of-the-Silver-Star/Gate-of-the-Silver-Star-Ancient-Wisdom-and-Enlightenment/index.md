@@ -22,19 +22,19 @@ excerpt: >
 ---
 Verse 1: "In the beginning, there was naught but the void, a darkness that concealed the aeons, the essence of the Silver Star."
 
-Interpretation: This verse alludes to the pre-creation state of the universe, where nothing existed except a mysterious force, which is the essence of the Silver Star. The "aeons" here could refer to the timeless, eternal nature of this force.
+**Interpretation**: This verse alludes to the pre-creation state of the universe, where nothing existed except a mysterious force, which is the essence of the Silver Star. The "aeons" here could refer to the timeless, eternal nature of this force.
 
 Footnote 1.1: The concept of the void and creation from darkness is a recurring theme in various esoteric and mythological traditions. For example, the ancient Egyptian creation myth of Khepri and the primordial water of Nun.
 
 Verse 2: "Through the will of the All—One, the sublime fire breathed life into the cosmos, the Silver Star revealing its gates, bestowing sacred wisdom upon the chosen few."
 
-Interpretation: The verse speaks of divine intervention in the creation of reality, specifically with the release of sacred wisdom and knowledge by the Silver Star. The "All—One" may refer to a supreme consciousness, unifying the entire cosmos. The "chosen few" indicates that only certain individuals were meant to possess this profound understanding.
+**Interpretation**: The verse speaks of divine intervention in the creation of reality, specifically with the release of sacred wisdom and knowledge by the Silver Star. The "All—One" may refer to a supreme consciousness, unifying the entire cosmos. The "chosen few" indicates that only certain individuals were meant to possess this profound understanding.
 
 Footnote 2.1: The connection between fire and life is seen in mythologies like Prometheus's theft of fire from Greek mythology and the Hindu god Agni. Fire often symbolizes illumination and wisdom.
 
 Verse 3: "Whosoever possesses the discerning eye shall unveil the secrets of the Silver Star and unlock the paths of light, unto the celestial abode shall they ascendingly sail."
 
-Interpretation: This verse implies that through the teachings of the Gate of the Silver Star, one can attain an enlightened state, metaphorically referred to as paths of light and celestial abode. The "discerning eye" suggests that one must possess a certain level of intuitive wisdom and discernment to grasp the knowledge granted by the Silver Star.
+**Interpretation**: This verse implies that through the teachings of the Gate of the Silver Star, one can attain an enlightened state, metaphorically referred to as paths of light and celestial abode. The "discerning eye" suggests that one must possess a certain level of intuitive wisdom and discernment to grasp the knowledge granted by the Silver Star.
 
 Footnote 3.1: The concept of an inner spiritual eye or third eye is prevalent in esoteric traditions like Hinduism, Buddhism, and Hermeticism. This inner eye allows one to perceive the hidden truths of reality and attain spiritual awakening.
 
@@ -42,7 +42,7 @@ Cross-reference: The Emerald Tablet, the Ascent of Mount Abiegnus, the spiritual
 
 Verse 4: "Guarded by the Serpent's Coil, the Tree of Knowledge bestows its fruit, an essence transforming mundane thoughts to resplendent wisdom—elixir of the illuminated."
 
-Interpretation: In this verse, the "Serpent's Coil" is a metaphor for the cyclical nature of wisdom and the creative force represented by the Silver Star. The Tree of Knowledge symbolizes the universal wisdom that practitioners of the esoteric arts tap into and use to transform their mundane thoughts into transcendent wisdom like an elixir.
+**Interpretation**: In this verse, the "Serpent's Coil" is a metaphor for the cyclical nature of wisdom and the creative force represented by the Silver Star. The Tree of Knowledge symbolizes the universal wisdom that practitioners of the esoteric arts tap into and use to transform their mundane thoughts into transcendent wisdom like an elixir.
 
 Footnote 4.1: The serpent and the tree are well-known symbols in mythologies, such as the biblical story of Adam and Eve, in which the serpent tempts Eve to eat the fruit from the tree, purportedly imbuing humanity with knowledge.
 

@@ -23,9 +23,9 @@ excerpt: >
 
 ## Breaking the Veil - An Initiation Ritual for the Witches Sabbath
 
-Objective: To guide new practitioners, or those deepening their current practice, through a transformational initiation into the profound mysteries and spiritual growth of the dark arts.
+**Objective**: To guide new practitioners, or those deepening their current practice, through a transformational initiation into the profound mysteries and spiritual growth of the dark arts.
 
-Preparation:
+**Preparation**:
 
 1. Tidy and cleanse the ritual space with purifying herbs such as sage, rosemary, or cedar. Light candles and incense appropriate for your tradition, and place them around the room.
 

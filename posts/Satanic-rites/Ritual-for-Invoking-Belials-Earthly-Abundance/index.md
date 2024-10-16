@@ -22,9 +22,9 @@ excerpt: Compose an elaborate ritual for invoking Belial, a powerful demon, as t
 
 ## The Rite of Belial's Earthly Abundance
 
-Purpose: To invoke Belial as the guardian of the Earth element, manifesting wealth and diabolical abundance through dark forces.
+**Purpose**: To invoke Belial as the guardian of the Earth element, manifesting wealth and diabolical abundance through dark forces.
 
-Preparation:
+**Preparation**:
 
 - Timing: This ritual should be performed during the waxing moon, on a Saturday night, ideally at midnight to maximize alignment with the energies of Belial. If possible, perform it during the astrological sign of Capricorn for added power.
 
@@ -38,7 +38,7 @@ Preparation:
 
 - Tools: Obtain an athame or ritual dagger (preferably made of iron), a divination tool like a pendulum or a scrying mirror, and a piece of parchment and ink for taking notes.
 
-Ritual:
+**Ritual**:
 
 1. Begin the ritual by casting a circle around your ritual space. Call upon the four elemental powers, starting with Earth to the North, then Air to the East, Fire to the South, and Water to the West.
 

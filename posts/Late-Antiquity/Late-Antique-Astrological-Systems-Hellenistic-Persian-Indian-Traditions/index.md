@@ -26,7 +26,7 @@ excerpt: >
 Course Description:
 This comprehensive curriculum delves into the fundamentals of late antique astrological systems, highlighting the key differences and commonalities between Hellenistic, Persian, and Indian traditions. Students will engage with primary sources, learn about common techniques, and study the lives and works of notable astrologers from the Late Antiquity period. This course aims to provide a rich and deep understanding of the different astrological schools and their impact on late antique society.
 
-Duration: 12 weeks
+**Duration**: 12 weeks
 
 Week 1: Introduction to Late Antique Astrological Systems
 - Overview of Late Antiquity Astrology

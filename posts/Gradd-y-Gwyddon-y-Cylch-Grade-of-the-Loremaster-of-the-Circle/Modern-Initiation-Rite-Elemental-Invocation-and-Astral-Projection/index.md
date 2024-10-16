@@ -22,10 +22,10 @@ excerpt: Design and compose a modernized initiation rite specifically for a cand
 
 ## Rite of the Velum Invocatus
 
-Introduction:
+**Introduction**:
 The Rite of the Velum Invocatus is a modernized initiation rite designed for a candidate seeking entry into the Gradd y Gwyddon y Cylch (Grade of the Loremaster of the Circle). This rite combines mystic, esoteric, and occult traditions, weaving a tapestry of sacred knowledge, astral projection, ley line manipulation, and evocation of elemental forces while adhering to contemporary ethical and safety standards.
 
-Preparation:
+**Preparation**:
 1. Select a location with a strong connection to ley lines and elemental energies, ideally an outdoor sacred grove or a stone circle.
 2. Determine the optimal date and time of the ritual, preferably during a full moon or an astrological conjunction.
 3. **Assemble the following ritual tools**: a ceremonial dagger, a wooden or stone bowl containing incense, a chalice of clear spring water, a candle in a secure holder, a crystal or other focus for ley line energy, and a circle-casting cord.
@@ -35,7 +35,7 @@ Creating the Sacred Space:
 2. Mark out a physical circle using the cord, approximately 9 feet in diameter. Secure markers or small stones at each of the four cardinal points (north, south, east, and west).
 3. Light the candle, invoking the element of fire, and place it within the circle's center.
 
-Symbology:
+**Symbology**:
 Throughout the ritual, utilize the symbols of the Gradd y Gwyddon y Cylch, such as a spiral, a circle enclosing the four elemental symbols, and a glyph symbolizing the gateway between the astral and physical realms.
 
 Opening Invocation:

@@ -23,11 +23,11 @@ excerpt: >
 
 ## Title: Passionate Pursuits
 
-Objective: Passionate Pursuits is a unique and enticing card game, designed to initiate various adventurous, sensual experiences and deepen sexual intimacy between players. The game features a mix of suggestive challenges, tantalizing rewards, and opportunities for conversation that result in both physical and mental stimulation.
+**Objective**: Passionate Pursuits is a unique and enticing card game, designed to initiate various adventurous, sensual experiences and deepen sexual intimacy between players. The game features a mix of suggestive challenges, tantalizing rewards, and opportunities for conversation that result in both physical and mental stimulation.
 
 Number of Players: 2 or more consenting adults
 
-Components:
+**Components**:
 
 1. **Challenge Cards (four categories**: Sensual, Erotic, Kinky, and Wild)
 2. **Reward Cards (two types**: Sensational and Intimate)
@@ -36,7 +36,7 @@ Components:
 
 Set Up: Shuffle the three different decks (Challenge, Reward, and Bonus) separately and place them face down in the center of the playing area. Place the Stop Card within easy reach of all players. Each player should start the game with nothing but the Stop Card in their hand.
 
-Instructions:
+**Instructions**:
 
 1. Players take turns drawing a Challenge Card from the deck of their choice. The categories allow the players to make a pick based on their comfort level and preferences. If playing with additional players, partner selections can be made before drawing a Challenge Card.
 

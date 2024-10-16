@@ -28,7 +28,7 @@ excerpt: >
 ---
 Answer: Combining a mixture of sulfur, mercury, and salt - representing the three essential principles of matter - after which subjecting them to a series of purification and distillation processes.
 
-Explanation: In the practice of Alchemy, a significant concept is the three essential principles of matter: sulfur, mercury, and salt. These principles represent different aspects of matter and the processes associated with the transformation of materials. Sulfur represents the active, fiery, and masculine principle, while mercury is seen as the passive, fluid, and feminine principle. Salt, on the other hand, represents the neutral, stable, and crystalline part of one's being.
+**Explanation**: In the practice of Alchemy, a significant concept is the three essential principles of matter: sulfur, mercury, and salt. These principles represent different aspects of matter and the processes associated with the transformation of materials. Sulfur represents the active, fiery, and masculine principle, while mercury is seen as the passive, fluid, and feminine principle. Salt, on the other hand, represents the neutral, stable, and crystalline part of one's being.
 
 The creation of an Alchemical tincture revolves around the combination of these three principles, which makes the first option the most accurate answer. This process is not merely a simple mixture of physical elements. Rather, it is a metaphysical and spiritual representation of the qualities each principle embodies. 
 

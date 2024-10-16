@@ -23,7 +23,7 @@ excerpt: >
 
 ## The New Moon Enchantment of Manifestation
 
-Introduction:
+**Introduction**:
 This intricate Inner Order ritual is designed to harness the energies of the New Moon for manifesting intentions and desires. By invoking specific deities or celestial entities, crafting a personalized sigil or talisman, arranging the ceremonial space, and incorporating astral projection techniques, this ritual aims to align the practitioner's consciousness with the lunar energies and create a potent energetic vortex to facilitate the manifestation process.
 
 1. Invocation of Appropriate Deities or Celestial Entities:

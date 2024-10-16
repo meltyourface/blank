@@ -30,7 +30,7 @@ The best answer is:
 
 - A storehouse of mystical texts, accessible only to a chosen few who possess esoteric insights.
 
-Explanation:
+**Explanation**:
 
 The term "Archive" in the context of the occult and esoteric typically refers to a carefully guarded and secret repository of knowledge, often comprising ancient texts, carefully collected wisdom, and hidden histories. This distinguishes it from a mundane archive, which would generally be open to anyone with an interest and would contain records of a more quotidian nature.
 

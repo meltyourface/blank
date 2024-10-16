@@ -22,7 +22,7 @@ excerpt: Design a sacred ritual rooted in Slavic animism for the purpose of invo
 
 ## Ritual for Invoking Dola, the Divine Embodiment of Fate and Fortune
 
-Preparation:
+**Preparation**:
 
 1. Choose a location in nature, preferably near a flowing water source such as a river or stream, and find a sturdy tree where the ceremony will be conducted. This location represents the connection between the natural world and human destiny.
 
@@ -73,7 +73,7 @@ Invoking Dola:
 13. Listen closely for any signs or messages from Dola, either through direct mental communication or environmental cues.
 
 
-Conclusion:
+**Conclusion**:
 
 14. Thank Dola, the protective spirits, and deities for their presence and guidance in the ritual.
 

@@ -36,5 +36,5 @@ Countess Elizabeth Bathory, a Hungarian noblewoman, was infamous for her alleged
 Case 5: French Revolution Mirror Case
 During the French Revolution, many aristocrats were executed by guillotine. Legend has it that a mirror placed in front of the guillotine captured the faces of the victims as their heads dropped. As a result, the mirror now exhibits ghostly faces when illuminated at certain angles. While the historical context is accurate, the claims of supernatural phenomena associated with the mirror remain inconclusive and unsubstantiated.
 
-Conclusion:
+**Conclusion**:
 After thoroughly investigating these cases, it appears that while patterns of supernatural mirror phenomena exist in various cultures, the lack of solid evidence casts doubts on their credibility. Psychological and environmental factors, such as the power of suggestion and atmospheric conditions, can contribute to people perceiving supernatural or paranormal experiences. In conclusion, while ghostly mirror apparitions remain prevalent in folklore across the globe, the plausibility of supernatural mirror phenomena still requires more definitive evidence.

@@ -31,7 +31,7 @@ In order to design a spell that combines the principles of sympathetic magic, co
 
 With these definitions in mind, let's craft a spell that effectively combines all the components and adheres to the ethical considerations. This spell aims to invoke harmony, balance, and tranquility within a living space by working with each of the four elements.
 
-Spell: Harmonious Home Elemental Blessing
+**Spell**: Harmonious Home Elemental Blessing
 
 Ingredients and tools:
 - Earth: A small dish containing soil or salt

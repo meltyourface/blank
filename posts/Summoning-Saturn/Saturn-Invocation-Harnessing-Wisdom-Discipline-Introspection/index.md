@@ -23,7 +23,7 @@ excerpt: >
 
 ## The Rite of the Saturnian Sage
 
-Purpose: To invoke the potent planetary energies of Saturn, focusing on harnessing its deep well of wisdom, discipline, and introspection.
+**Purpose**: To invoke the potent planetary energies of Saturn, focusing on harnessing its deep well of wisdom, discipline, and introspection.
 
 Ingredients and tools:
 1. An altar adorned with a black cloth

@@ -23,7 +23,7 @@ excerpt: >
 
 ## Treaty of Global Accord
 
-Preamble:
+**Preamble**:
 Recognizing the immense suffering, upheaval, and devastation caused by the Second World War, the undersigned parties, representing the Allied powers and the defeated Axis nations, hereby set forth the following provisions in the interest of establishing a durable peace, facilitating post-war reconstruction, fostering international cooperation, and preventing future hostilities.
 
 Article I: Division of Defeated Axis Territories
@@ -59,4 +59,4 @@ Article VII: Establishment of an International Organization for Peace
 
 Done in the city of ________, this ___ day of ____________, 194_, in the English, French, Chinese, and Russian languages, each text being equally authentic.
 
-Signatures:
+**Signatures**:

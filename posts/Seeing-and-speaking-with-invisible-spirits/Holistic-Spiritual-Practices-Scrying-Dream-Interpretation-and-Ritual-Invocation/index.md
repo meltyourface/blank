@@ -30,13 +30,13 @@ Finally, ritual invocation is the act of calling upon spiritual beings or deitie
 
 Now that we have a basic understanding of the three practices, let's examine their intersections and differences:
 
-Intersections:
+**Intersections**:
 
 1. ****Connection to the spiritual realm****: All three practices serve as a means to connect with the spiritual realm and facilitate communication or a transfer of knowledge from invisible spirits to the practitioner. This illustrates the shared purpose of bridging the divide between the physical and spiritual worlds.
 
 2. ****Personal growth and spiritual evolution****: All three practices assist individuals in their spiritual growth and self-improvement by providing guidance, insight, and wisdom that can help them overcome personal challenges, deepen their understanding of themselves, and achieve spiritual transformation.
 
-Differences:
+**Differences**:
 
 1. ****Mode of communication****: Scrying and dream interpretation primarily involve receiving messages, insights, or visions from the spiritual realm, while ritual invocation focuses on actively and purposefully communicating with specific spiritual beings and invoking their presence or assistance.
 

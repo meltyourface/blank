@@ -42,11 +42,11 @@ Morning:
 - Keynote presentation on the origins and evolution of rural idyll, featuring influential figures and literary works
 - Group discussion exploring participants' personal connections or experiences with rural idyll living
 
-Afternoon:
+**Afternoon**:
 - Workshop: Introduction to indigenous and worldwide rural idyll philosophies
 - Hands-on activity: Recognizing and appreciating the symbiotic relationship between humans and nature
 
-Evening:
+**Evening**:
 - Poetry readings and musical performances centered around themes of rural idyll
 - Campfire storytelling and sharing of personal stories
 
@@ -56,11 +56,11 @@ Morning:
 - Guided meditation focused on the natural environment
 - Workshop: Introduction to organic farming techniques and permaculture principles, including composting, crop rotation, and natural pest control
 
-Afternoon:
+**Afternoon**:
 - Workshop: Artisanal craftsmanship, featuring traditional woodworking, pottery, and weaving
 - Hands-on activity: Participants create their own handmade crafts to take home
 
-Evening:
+**Evening**:
 - Documentary screening: The environmental, spiritual, and social impact of artisanal craftsmanship and organic farming
 - Group discussion: Reflecting on the importance of preserving these traditional skills
 
@@ -70,11 +70,11 @@ Morning:
 - Yoga and stretching session in a rural idyll setting
 - Workshop: Introduction to sustainable building techniques, including cob, straw bale, and rammed earth construction methods
 
-Afternoon:
+**Afternoon**:
 - Field trip to a local eco-village showcasing innovative sustainable architecture and building techniques in rural communities
 - Hands-on activity: Participation in a community building project utilizing the techniques learned in the morning workshop
 
-Evening:
+**Evening**:
 - Guest speaker: A local rural idyll architect sharing their experiences and insights on sustainable building
 - Reflective group discussion: Envisioning the ideal rural idyll home
 
@@ -84,11 +84,11 @@ Morning:
 - Guided nature walk and exploration of the local rural idyll surroundings
 - Thematic session: Presentations by experts on the social, psychological, and environmental benefits of rural idyll living
 
-Afternoon:
+**Afternoon**:
 - Case study analysis: Successful rural idyll communities from around the world
 - Interactive group activity: Imagining and designing the groundwork for a thriving rural idyll community
 
-Evening:
+**Evening**:
 - Art exhibit: Featuring works inspired by rural idyll life and landscapes
 - Social event: Connecting with fellow participants and building a sense of community
 
@@ -98,11 +98,11 @@ Morning:
 - Group discussion: Addressing challenges and misconceptions associated with rural idyll living
 - Sharing of solutions and support resources
 
-Afternoon:
+**Afternoon**:
 - Workshop: Developing personal action plans for incorporating elements of rural idyll living into participants' daily lives
 - Presentation of rural idyll community initiatives
 
-Evening:
+**Evening**:
 - Closing ceremony: Participants reflect on their experiences and share their personal commitments to embrace and promote rural idyll living
 - Farewell gathering and final performances to celebrate the accomplishments and connections made throughout the week
 

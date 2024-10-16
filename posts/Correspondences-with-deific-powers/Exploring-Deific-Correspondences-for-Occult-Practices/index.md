@@ -58,23 +58,23 @@ Once a connection has been established, practitioners should maintain and nurtur
 
 ### 3.1 Isis - Egyptian Goddess of Magic and Healing
 
-Attributes: Magic, healing, motherhood, protection, and rebirth
+**Attributes**: Magic, healing, motherhood, protection, and rebirth
 Correspondences: Cornelian, moonstone, selenite, silver, water, the color blue
 
-Benefits: Increased magical prowess, emotional healing, protection from harm, spiritual growth, and manifestation of intuitive insights.
+**Benefits**: Increased magical prowess, emotional healing, protection from harm, spiritual growth, and manifestation of intuitive insights.
 
 ### 3.2 Thor - Norse God of Thunder and Strength
 
-Attributes: Strength, courage, protection, and justice
+**Attributes**: Strength, courage, protection, and justice
 Correspondences: Red jasper, bloodstone, iron, lightning, the color red
 
-Benefits: Enhanced physical strength and fortitude, increased courage and determination, a just and balanced nature, and protection from threats and adversaries.
+**Benefits**: Enhanced physical strength and fortitude, increased courage and determination, a just and balanced nature, and protection from threats and adversaries.
 
 ### 3.3 Hecate - Greek Goddess of Witchcraft, Crossroads, and Ghosts
 
-Attributes: Witchcraft, crossroads, spiritual guidance, necromancy, lunar magic
+**Attributes**: Witchcraft, crossroads, spiritual guidance, necromancy, lunar magic
 Correspondences: Labradorite, garnet, obsidian, silver, nightshade, the color black
 
-Benefits: Mastery of witchcraft and the occult arts, spiritual guidance during moments of decision, improved intuition and psychic abilities, and the ability to communicate with the dead.
+**Benefits**: Mastery of witchcraft and the occult arts, spiritual guidance during moments of decision, improved intuition and psychic abilities, and the ability to communicate with the dead.
 
 In conclusion, understanding and effectively utilizing correspondences with deific powers is an essential skill for occult practitioners seeking to deepen their knowledge and enhance their spiritual growth. By establishing meaningful connections with various deities and harnessing their energies, seekers can unlock the secrets of a rich, esoteric universe while furthering their own magical abilities and personal development.

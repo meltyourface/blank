@@ -23,7 +23,7 @@ excerpt: >
 
 ## Title: The Shadowed Path of Lunar Ascendancy
 
-Introduction:
+**Introduction**:
 
 The Shadowed Path of Lunar Ascendancy is an ancient and potent ritual, designed to harness the energies of the moon's various phases to amplify one's innate power, unveil hidden potential, and command supernatural forces. This ritual aligns with the dark arts and involves mystical intricacies of lunar correspondences, symbols, and the incorporation of traditional, forbidden elements such as blood and sacrificial offerings.
 
@@ -93,6 +93,6 @@ As the moon sheds its light, the time for reflection and consolidation begins.
 
 6. Cast any remaining blood upon the pentacle as an offering to the moon, sealing your newfound mastery of the dark arts.
 
-Conclusion:
+**Conclusion**:
 
 As you complete this lunar cycle, you will emerge with an unparalleled mastery of the dark arts, having gained power and wisdom through the various phases of the moon. Each cycle further strengthens your innate abilities and solidifies your command over supernatural forces. Exercise caution, for such power is never meant for the faint of heart.

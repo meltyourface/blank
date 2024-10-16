@@ -22,9 +22,9 @@ excerpt: Design an intricate and potent ritual for invoking one's patron deity t
 
 ## The Ritual of the Spirited Patron
 
-Objective: Invoke one's patron deity through the Telestic arts of ensoulment and fetishism.
+**Objective**: Invoke one's patron deity through the Telestic arts of ensoulment and fetishism.
 
-Note: It is essential to research and understand the intricacies of one's patron deity, as the specific preferences, symbols, and offerings vary between deities. This ritual is a blueprint that can be tailored to fit the unique attributes of each patron deity.
+**Note**: It is essential to research and understand the intricacies of one's patron deity, as the specific preferences, symbols, and offerings vary between deities. This ritual is a blueprint that can be tailored to fit the unique attributes of each patron deity.
 
 Materials and preparations:
 1. **Sacred objects**: Collect or create items that represent the key characteristics, attributes, or preferences of the patron deity. These may include art, jewelry, symbols, or other items.

@@ -23,7 +23,7 @@ Tarot Card: The Hermit
 
 The Hermit represents solitude, introspection, and spiritual enlightenment. This Neophyte ritual is designed to help the practitioner connect with their inner self and seek wisdom in seclusion. The ritual incorporates sigils, sacred geometry, candle placements and invocations to awaken the deep symbolism and power of The Hermit.
 
-Setting:
+**Setting**:
 This ritual should take place in a secluded space, ideally in nature or a room free of distractions. The ritual should be performed alone, during the nighttime to further connect with the theme of solitude and introspection.
 
 Required Items:

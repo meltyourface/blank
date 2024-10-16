@@ -22,7 +22,7 @@ excerpt: Write a detailed section for a grimoire on the occult topic, 'The Curse
 
 ## Title: The Curse of the Grade
 
-Overview:
+**Overview**:
 
 The Curse of the Grade is an intricate subject in the study of the esoteric and occult arts, delving into the complexities of curses and their applications. Students venturing into this territory must approach this knowledge with caution and responsibility, as the misuse or mishandling of curses can lead to unwanted and severe consequences. Throughout history, practitioners of the occult have employed curses to manipulate, harm, or seek retribution. This chapter will provide students with a comprehensive understanding of the Curse of the Grade, its origins, various types of curses, their effects, methods of application, protection and reversal techniques. Additionally, we shall address the ethical considerations and precautions that must be adhered to when engaging with this esoteric domain.
 

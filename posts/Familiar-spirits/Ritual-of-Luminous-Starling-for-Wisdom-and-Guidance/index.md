@@ -29,7 +29,7 @@ Symbolic Elements:
 2. The symbol of Mercury - associated with communication, learning, and perception.
 3. A seven-pointed star - denotes the spirit's celestial origins and serves as the summoning sigil.
 
-Location: An ancient forest, at the center of a circular clearing with seven evenly-spaced trees where birds are known to inhabit. The location should be infused with the spirit of nature, untamed and rich in ambient energy.
+**Location**: An ancient forest, at the center of a circular clearing with seven evenly-spaced trees where birds are known to inhabit. The location should be infused with the spirit of nature, untamed and rich in ambient energy.
 
 Tools and Materials:
 1. A reliable compass - for proper alignment of the ritual space.
@@ -42,7 +42,7 @@ Tools and Materials:
 
 Timing and Astrological Conditions: The rite must be performed on a clear, moonless night when the planet Mercury is visible and rising in the eastern sky. Ideally, Mercury should be in conjunction or sextile aspect with another celestial body to enhance the communicative aspects of the ritual.
 
-Incantations:
+**Incantations**:
 
 Invoke the elements (in the sequences of North, South, East, West):
 "Guardians of the Elements, hear my call,
@@ -56,9 +56,9 @@ Celestial being of radiant light,
 Join me, guide me, share your wisdom,
 Through the dark, the unknown, the infinite night."
 
-Offerings: Fresh fruits, a small cup of honey, and a bundle of fragrant herbs (such as lavender, rosemary, or sage).
+**Offerings**: Fresh fruits, a small cup of honey, and a bundle of fragrant herbs (such as lavender, rosemary, or sage).
 
-Safeguards:
+**Safeguards**:
 1. Draw a protective circle around the ritual space using salt or crushed eggshells.
 2. Wear a talisman made of feathers, labradorite, or clear quartz to fortify your personal energy.
 3. Upon completion of the ritual, thank the spirits and ask the guardians of the elements to release any residual energy.

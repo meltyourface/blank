@@ -22,7 +22,7 @@ excerpt: Design an intricate, folklore-inspired ceremony for the initiation or r
 
 ## The Rite of the Whispering Oaks
 
-Background:
+**Background**:
 The Rite of the Whispering Oaks is a folklore-inspired ceremony designed for the initiation of an individual into the mysterious society of the Guardians of the Oak Grove, an ancient community that protects the sacred woodland and its hidden wisdom. The group has its roots in Celtic traditions and carries elements from various regional pagan and ethnic customs. The ceremony consists of three distinct phases, namely, The Departure, The Revelation, and The Union.
 
 Phase 1: The Departure

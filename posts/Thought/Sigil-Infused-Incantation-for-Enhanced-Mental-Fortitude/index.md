@@ -22,7 +22,7 @@ excerpt: >
 ---
 Sigil-Infused Incantation for Self-Assurance and Courage in the Realm of Thought
 
-Intention:
+**Intention**:
 This sigil-infused incantation aims to bolster self-assurance and courage within the realm of Thought. Drawing from ancient mystical traditions and modern psychological techniques, this spell calls upon the support of a minor deity and employs a carefully crafted sigil for optimal results.
 
 1. **Empowering Mental State**:

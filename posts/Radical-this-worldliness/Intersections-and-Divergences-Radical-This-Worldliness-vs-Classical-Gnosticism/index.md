@@ -25,10 +25,10 @@ Radical this-worldliness, as a philosophy, emphasizes the importance and value o
 
 Classical gnostic thought, on the other hand, is rooted in ancient religious and spiritual traditions, such as Hellenistic Judaism, early Christianity, and various pagan religions. The central tenets include belief in dualism (the material world vs. the spiritual world), salvation through self-knowledge and access to hidden, esoteric knowledge, and antinomian practices. In this framework, the material world is often seen as imperfect, fallen, or even wholly evil due to the influence of a lesser or flawed deity (the Demiurge). The focus for the Gnostics is self-realization through ascent to a higher plane of existence, beyond the material world.
 
-Intersections:
+**Intersections**:
 1. Self-realization and knowledge: Both Radical this-worldliness and classical gnostic thought place immense value on self-realization and the pursuit of knowledge. For Radical this-worldliness, this comes in the form of critical thinking and rationality. In gnostic thought, it is through self-knowledge, gnosis, and uncovering hidden truths that one achieves salvation. In both cases, there is a potent transformative potential found in gaining insight and understanding.
 
-Divergences:
+**Divergences**:
 1. Material world and spiritual world: While Radical this-worldliness places significant emphasis on the sanctity, value, and potential improvement of the material world, classical gnostic thought largely dismisses the material world as a place of suffering and ignorance, with the ultimate goal of transcending it and reuniting with the divine.
 
 2. Human agency and activism: Radical this-worldliness advocates for a strong sense of individual agency and the pursuit of social and environmental justice. In contrast, classical gnostic thought often focuses on the development of individual spirituality and self-knowledge above societal change.

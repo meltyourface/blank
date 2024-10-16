@@ -21,7 +21,7 @@ excerpt: Design a psychological profile of a character deeply immersed in the da
 ---
 Character Name: Dr. Mordecai Brimstone
 
-Background:
+**Background**:
 
 Born into a seemingly ordinary family, Mordecai Brimstone's childhood was anything but typical. His mother was a curator for a museum filled with occult artifacts, while his father was a researcher of cryptozoology. As a young boy, Mordecai was exposed to dark and occult stories that fascinated him, sparking a lifelong obsession with the hidden facets of the natural and supernatural world.
 
@@ -37,7 +37,7 @@ Disintegration of relationships:
 
 As Mordecai plunged deeper into the depths of darkness, his relationships with his family, peers, and authorities gradually deteriorated. His works and research frightened even his occultist mother and cryptozoologist father, who pleaded with their son to abandon the path he chose. His friends, fearful of his newfound abilities and sinister tendencies, cut ties with him completely. Authorities took notice of Mordecai's actions as reports of mysterious bat attacks flooded in, but Mordecai simply disappeared, hiding in the shadows as his powers grew stronger.
 
-Climax:
+**Climax**:
 
 Driven to the brink of insanity by his mastery of bat-related chaos, Mordecai decided to unleash devastation upon an unsuspecting city. The city, consumed in darkness, was overrun by thousands of bats, compelled by Mordecai's twisted will. They destroyed property and injured countless innocent people. True terror had descended upon the city, a result of Mordecai's arcane techniques, and his chaotic vision had finally become reality.
 

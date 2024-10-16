@@ -28,13 +28,13 @@ At the foundation of the American Craft – also known as the Blue Lodge – lie
 
 Comparatively, the York Rite – comprised of the Royal Arch, Cryptic, and Knights Templar orders – acknowledges deeper philosophical undertones. While maintaining the fundamental principles present in the Blue Lodge, the York Rite explores themes of self-discovery, lost knowledge, and chivalry alongside its Masonic symbolism. Moreover, the York Rite's Christian roots become increasingly evident in the Knights Templar order, as it focuses on Christian virtues and themes.
 
-Symbolism:
+**Symbolism**:
 
 The American Craft, or Blue Lodge, emphasizes symbolic teachings centered around operative masonry. As its three principal degrees illustrate the foundation of the Freemason journey, symbolism plays a crucial role in imparting moral lessons and allegorical meanings. The primary symbols commonly identified within this pathway include the square, compass, and the letter 'G,' representing Geometry – the divine science of the universe.
 
 In contrast, the York Rite expands upon the foundational symbolism of the American Craft through its Royal Arch, Cryptic, and Knights Templar degrees. The Royal Arch focuses on the recovery of lost knowledge and emphasizes the importance of the Keystone – an essential stone that completes an arch – symbolizing enlightenment. The Cryptic degree centers around the discovery and preservation of hidden Masonic truths, bringing forth symbols such as the Key and Trowel. Lastly, the Knights Templar rituals incorporate Christian symbolism and teachings, linking the order to the historic Knights Templar and their iconic Red Cross emblem.
 
-Objectives:
+**Objectives**:
 
 The American Craft aims to provide initiates with a comprehensive understanding of Masonic principles and ground them in three core values: brotherly love, relief, and truth. Furthermore, these objectives extend into the development of moral character, the pursuit of knowledge, and the promotion of self-improvement.
 

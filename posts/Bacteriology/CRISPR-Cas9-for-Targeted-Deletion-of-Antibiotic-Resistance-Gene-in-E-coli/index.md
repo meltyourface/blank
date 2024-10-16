@@ -22,7 +22,7 @@ excerpt: Design a CRISPR-Cas9 system experiment for targeted genome editing in E
 
 ## CRISPR-Cas9 System for Targeted Deletion of Antibiotic Resistance Gene in Escherichia coli
 
-Objective: To design and implement a CRISPR-Cas9 system for targeted deletion of a specific antibiotic resistance gene in Escherichia coli, assess its efficiency and specificity, and evaluate its potential applications in the study and manipulation of bacterial pathogens and microbiome composition.
+**Objective**: To design and implement a CRISPR-Cas9 system for targeted deletion of a specific antibiotic resistance gene in Escherichia coli, assess its efficiency and specificity, and evaluate its potential applications in the study and manipulation of bacterial pathogens and microbiome composition.
 
 ### I. Design of guide RNAs (gRNAs)
 1. **Selection of the target gene**: Select a specific antibiotic resistance gene in E. coli (e.g., blaTEM-1 encoding a beta-lactamase for ampicillin resistance).

@@ -43,6 +43,6 @@ Thomas identified her recording a video about her evening walk routine, capturin
 
 Grateful for the experience, Mallory filmed her interaction with Thomas and uploaded the video to multiple platforms, unknowingly capturing the Barred Owl's distinct call in the background at precisely 9:29 PM—just a moment before the homicide took place. Thomas also signed Mallory's walk logbook, which she meticulously maintained, which noted the time and location.
 
-Conclusion:
+**Conclusion**:
 
 With the intricate cover story of nocturnal birdwatching, a misdirecting flash mob, Mallory Richards unknowingly serving as a vital witness, meticulously planned social media posts, a donation paper trail, and calls recorded in the background, Thomas Hawthorne meticulously crafted a seemingly bulletproof alibi. The focus shifted from him to the actors wearing black hoodies participating in the emergency flash mob, further obscuring Thomas's true murderous intent.

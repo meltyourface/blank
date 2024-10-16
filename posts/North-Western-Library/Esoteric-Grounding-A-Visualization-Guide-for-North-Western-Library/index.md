@@ -31,7 +31,7 @@ excerpt: >
 
 ## Grounding and Centering Within the North Western Library: An Esoteric Visualization Guide
 
-Introduction: 
+**Introduction**: 
 
 Embark on a transformative journey, utilizing the North Western Library's extensive esoteric and occult archives to aid in grounding and centering one's energy. Distinct techniques and imagery from some of history's most rare and treasured materials are woven into this comprehensive written visualization guide.
 

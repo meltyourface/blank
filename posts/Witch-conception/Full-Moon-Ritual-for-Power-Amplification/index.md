@@ -29,7 +29,7 @@ Arcane Symbols:
 3. Inexcitabilis Flamma - The unquenchable flame, symbolizing the eternal growth and expansion of one's power
 4. Sanctus Exiguus - A connection to the divine and pure aspects of one's soul
 
-Components:
+**Components**:
 1. Amara's Heart - A fist-sized red garnet crystal, for amplifying energy and unlocking dormant powers
 2. Ebony mortar and pestle - For blending the herbs of the ritual
 3. Ceremonial Athame - A double-edged dagger with a black handle, used for scribing symbols and directing energy

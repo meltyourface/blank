@@ -22,9 +22,9 @@ excerpt: Develop a personalized, Control-themed meditation ritual to heighten co
 
 ## Ritual of the Inner Adept
 
-Objective: To heighten concentration and strengthen self-discipline through a personalized, Control-themed meditation ritual incorporating esoteric symbols and occult influences.
+**Objective**: To heighten concentration and strengthen self-discipline through a personalized, Control-themed meditation ritual incorporating esoteric symbols and occult influences.
 
-Materials:
+**Materials**:
 1. An altar or clean, flat surface
 2. A black or dark purple altar cloth
 3. A candle (preferably black or dark purple)
@@ -43,7 +43,7 @@ Preparatory steps:
 
 4. Stand or sit comfortably in front of your altar, close your eyes, and take a few deep, cleansing breaths. Inhale deeply through your nose, expanding your lower abdomen as you breathe in, and exhale slowly through your mouth, contracting your lower abdomen as you breathe out.
 
-Ritual:
+**Ritual**:
 1. **Begin with the Invocation**: While facing your altar, say the following mantra to invoke the arcane energies of Control:
 "I call upon the hidden powers of the universe, guiding energies, and inner masters to guide me in strengthening and mastering my will, concentration, and self-discipline. May this meditation bring me closer to the mysteries within and without."
 

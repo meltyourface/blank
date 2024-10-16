@@ -28,7 +28,7 @@ excerpt: >
 ---
 Answer: 2. Alcohol affects the practitioner's ability to connect with higher states of consciousness, which ultimately limits their understanding of esoteric principles.
 
-Explanation: Alcoholism, or the consistent excessive consumption of alcohol, has been known to negatively impact both physical and mental health. In the context of esoteric and occult practices, a practitioner's ability to connect with higher states of consciousness is of utmost importance in gaining insights and understanding esoteric principles.
+**Explanation**: Alcoholism, or the consistent excessive consumption of alcohol, has been known to negatively impact both physical and mental health. In the context of esoteric and occult practices, a practitioner's ability to connect with higher states of consciousness is of utmost importance in gaining insights and understanding esoteric principles.
 
 Alcohol affects the brain and various neurotransmitters, leading to a decrease in cognitive function, impaired judgment, and diminished memory. When a practitioner's mind is clouded by the influence of alcohol, their intuition and ability to concentrate become weaker, making it difficult to engage in meaningful spiritual experiences.
 

@@ -23,15 +23,15 @@ Answer:
 
 To answer this knowledge challenge, we will begin by addressing each aspect individually, looking at their characteristics, roles, and symbolism within ancient esoteric practices. Then, we will look at how a novice in the study of the Qubes of Kalfou should approach each aspect and ultimately the interconnected web of modalities and energies that comprise this real. Last, we'll consider potential stakes in approaching these aspects and summarize the key themes, ideas, and conclusions.
 
-Kalfou: Kalfou, sometimes spelled Kalfu or Carrefour, is the aspect that represents the master of crossroads and decision-making. It is connected with unruly and chaotic forces. Kalfou symbolizes the meeting point of various forces, and can be linked to initiation and the beginning of an individual's spiritual journey. In ancient esoteric practices, Kalfou was associated with choices and their consequences.
+**Kalfou**: Kalfou, sometimes spelled Kalfu or Carrefour, is the aspect that represents the master of crossroads and decision-making. It is connected with unruly and chaotic forces. Kalfou symbolizes the meeting point of various forces, and can be linked to initiation and the beginning of an individual's spiritual journey. In ancient esoteric practices, Kalfou was associated with choices and their consequences.
 
 Papa Legba: Papa Legba is the aspect representing communication and opening the door to the spirit world. He is the gatekeeper, allowing an individual to interact with and understand the workings of the supernatural realm. Papa Legba is a trickster figure, known for his cunning and wit.
 
-Ogoun: Ogoun embodies the aspects of power, strength, and determination. He is considered a warrior, representing iron and the force necessary to forge ahead on one's spiritual path. In ancient esoteric practices, Ogoun was invoked for protection and courage in the face of adversity.
+**Ogoun**: Ogoun embodies the aspects of power, strength, and determination. He is considered a warrior, representing iron and the force necessary to forge ahead on one's spiritual path. In ancient esoteric practices, Ogoun was invoked for protection and courage in the face of adversity.
 
-Ezili: In contrast, Ezili represents love, harmony, and grace. This aspect is associated with the balance and union of opposites, as well as the nurturing forces that support growth and strengthen personal connections.
+**Ezili**: In contrast, Ezili represents love, harmony, and grace. This aspect is associated with the balance and union of opposites, as well as the nurturing forces that support growth and strengthen personal connections.
 
-Simbi: Simbi illustrates wisdom, knowledge, and intellectual pursuit. It is connected to rivers and often symbolizes the flow of information. In esoteric history, Simbi was seen as a teacher and counselor, guiding initiates on their spiritual journey.
+**Simbi**: Simbi illustrates wisdom, knowledge, and intellectual pursuit. It is connected to rivers and often symbolizes the flow of information. In esoteric history, Simbi was seen as a teacher and counselor, guiding initiates on their spiritual journey.
 
 Baron Samedi: Lastly, Baron Samedi is linked to death, resurrection, and transformation. This aspect embodies the cycle of life and the passage from one state of being to another.
 

@@ -28,7 +28,7 @@ excerpt: >
 ---
 Answer: Attaining spiritual and intellectual enlightenment through the integration of all knowledge systems, symbols, and disciplines.
 
-Explanation: The study of Arcanum arcanorum, or the ultimate secret, is an esoteric pursuit which spans multiple disciplines, belief systems, and ancient traditions. It is closely tied to the concepts of occult, mystical, and arcane knowledge. Striving toward attaining the ultimate secret is a journey toward spiritual and intellectual enlightenment, which can be achieved through the integration of various knowledge systems, symbols, and disciplines.
+**Explanation**: The study of Arcanum arcanorum, or the ultimate secret, is an esoteric pursuit which spans multiple disciplines, belief systems, and ancient traditions. It is closely tied to the concepts of occult, mystical, and arcane knowledge. Striving toward attaining the ultimate secret is a journey toward spiritual and intellectual enlightenment, which can be achieved through the integration of various knowledge systems, symbols, and disciplines.
 
 The other choices do not fully encapsulate the depth and complexity of Arcanum arcanorum:
 

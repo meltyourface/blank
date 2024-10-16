@@ -40,7 +40,7 @@ Elemental Connections: Letters will be grouped into sets of four, each group per
 
 Planetary Associations: Lastly, each letter will have a correspondence with one of the eight planets, strengthening their esoteric properties and ritual applications.
 
-Example:
+**Example**:
 
 1. ****Letter A****: The visual design of the A character would combine the angularity of the Enochian script, the curving lines of Celestial, and the connecting bars from Theban. A will be associated with the zodiac sign Aries, the element Fire, and the planet Mars.
 

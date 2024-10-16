@@ -22,7 +22,7 @@ excerpt: Write a brief yet informative text on the historical context of the "Af
 
 ## The Affair of the Poisons: An Unveiling of Darkness in 17th Century France
 
-Introduction:
+**Introduction**:
 
 The Affair of the Poisons, an infamous scandal deeply rooted in the world of occult and esoteric practices, unleashed a whirlwind of fear, intrigue, and suspicion across 17th century France. Its revelation brought to light numerous allegations of poisonings, witchcraft, and clandestine activities, leading to the arrest, torture, and execution of over thirty individuals. In this chapter, we delve into the historical context surrounding the Affair of the Poisons, exploring key events and individuals involved, and examining the significance and influence of esoteric practices in France at that time.
 
@@ -42,7 +42,7 @@ Though treatises such as the "Grand Grimoire" – thought to contain potent demo
 
 While these texts brought forth a resurgence of interest in esoteric arts, they also drew the ire of French authorities. In their quest to maintain order and preserve the sanctity of the Catholic Church, these authorities sought to suppress the influence of these mystical works, burnishing occultism's dark reputation.
 
-Conclusion:
+**Conclusion**:
 
 The Affair of the Poisons exposed a clandestine world of esoteric practices and dark deeds beneath the opulent façade of 17th century France. The societal impact of the scandal led to the persecution of many individuals involved in the subversive activities, while inadvertently fanning the flames of curiosity into the realms of the occult.
 

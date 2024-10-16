@@ -29,7 +29,7 @@ excerpt: >
 ---
 Answer: Matching the elemental associations and symbolic meanings of various animals to the practitioner's goals and desired outcomes.
 
-Rationale: In the context of the esoteric and occult practices, animals as spirit-helpers often have symbolic undertones that are important to consider when choosing the most suitable animal spirit for a practitioner's specific intentions and needs. These symbolic meanings are rooted in various traditions, mythologies, and cultures from around the world, and often connect animals to specific elements and energies. As such, the most effective method would be to match the elemental associations and symbolic meanings of these animals to the practitioner's goals and desired outcomes.
+**Rationale**: In the context of the esoteric and occult practices, animals as spirit-helpers often have symbolic undertones that are important to consider when choosing the most suitable animal spirit for a practitioner's specific intentions and needs. These symbolic meanings are rooted in various traditions, mythologies, and cultures from around the world, and often connect animals to specific elements and energies. As such, the most effective method would be to match the elemental associations and symbolic meanings of these animals to the practitioner's goals and desired outcomes.
 
 In choosing the first animal that comes to mind or waiting for an animal to physically cross their path, the practitioner is relying on chance or coincidence rather than intentionally seeking out an animal spirit helper with specific attributes that align with their intentions. While the first option may sometimes bring insight, it is not a reliable method for consistently choosing the most appropriate spirit helper.
 

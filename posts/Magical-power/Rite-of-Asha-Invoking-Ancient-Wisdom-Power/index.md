@@ -22,9 +22,9 @@ excerpt: Compose a detailed and intricate ritual, incorporating the use of arcan
 
 ## The Rite of Asha's Ascendance 
 
-Purpose: To manifest prosperity, protection, and enhanced magical abilities by invoking the ancient deity Asha, the Guardian of Wisdom and Power.
+**Purpose**: To manifest prosperity, protection, and enhanced magical abilities by invoking the ancient deity Asha, the Guardian of Wisdom and Power.
 
-Preparation:
+**Preparation**:
 
 1. Choose a secluded location, ideally a place rich with natural energies (e.g., a forest, a cave, or by a river).
 2. Acquire the following enchanted items: a silver chalice filled with moon water, a golden athame (ceremonial dagger), an incense burner with sandalwood and myrrh, and a pure white cloth.

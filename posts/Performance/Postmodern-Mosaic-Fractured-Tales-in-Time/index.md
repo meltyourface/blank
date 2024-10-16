@@ -23,9 +23,9 @@ excerpt: >
 
 ## Title: Fractured Fables
 
-Setting: A contemporary cityscape that extends to fictional and historical settings.
+**Setting**: A contemporary cityscape that extends to fictional and historical settings.
 
-Summary: Fractured Fables is an immersive theatrical performance that masterfully weaves together classic and original tales, utilizing postmodern narrative techniques such as intertextuality, metafiction, and temporal distortion to create a story like no other. Audience members will journey through a series of fragmented scenes brought together under a unified theme, offering a rich and unexpected divergence from traditional storytelling structures.
+**Summary**: Fractured Fables is an immersive theatrical performance that masterfully weaves together classic and original tales, utilizing postmodern narrative techniques such as intertextuality, metafiction, and temporal distortion to create a story like no other. Audience members will journey through a series of fragmented scenes brought together under a unified theme, offering a rich and unexpected divergence from traditional storytelling structures.
 
 Act 1: The Awakening
 

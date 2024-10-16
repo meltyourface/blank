@@ -30,10 +30,10 @@ A Witch or Vǫlva, on the other hand, is a wise-woman skilled in the art of sei�
 
 Now, let us consider how the roles of the Seeress and Witch/Vǫlva connect with the practices of divination, shamanism, and the Web of Wyrd:
 
-Divination:
+**Divination**:
 Both the Seeress and Witch/Vǫlva engage in divination practices as part of their spiritual discipline. While the Seeress is more directly associated with foreseeing the future and interpreting omens, the Witch/Vǫlva might also perform divination acts in addition to their extensive knowledge of seiðr. Thus, both these figures share a common connection to the art of divination.
 
-Shamanism:
+**Shamanism**:
 In terms of shamanic practices, the Witch/Vǫlva has a deeper connection as seiðr practitioners. Shamanism in Norse tradition involves communicating with the spirits of nature and the ancestors, as well as journeying between realms. The Witch/Vǫlva's spiritual discipline and knowledge of seiðr enable them to navigate these shamanic practices efficiently. Seeresses, although not explicitly engaged in shamanic practices, may utilize some elements of shamanism in their divination rituals.
 
 The Web of Wyrd:

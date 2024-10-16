@@ -22,7 +22,7 @@ excerpt: Design a ritualistic incense blend for the sacred purpose of invoking a
 
 ## Incendium Spiritus Amicabilis - The Incense of Amicable Spirits
 
-Ingredients:
+**Ingredients**:
 1. Sandalwood (Santalum album) - 2 parts
 2. Frankincense (Boswellia sacra) - 2 parts
 3. Myrrh (Commiphora myrrha) - 1 part

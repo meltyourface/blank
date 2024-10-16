@@ -21,12 +21,12 @@ excerpt: Devise an intricate Free thoughtGeomantic incantation ritual to expertl
 ---
 I shall now devise a Free thoughtGeomantic incantation ritual to seal a volatile spirit within an enchanted object with utmost expertise.
 
-Preparation:
+**Preparation**:
 **Step 1**: Choose a suitable enchanted object to contain the volatile spirit. An object made from either obsidian or meteoric iron, preferably with a hollow cavity to hold the essence of the spirit, will be best for this task.
 **Step 2**: On the surface of the chosen object, inscribe a series of intricate arcane symbols. These symbols should include binding sigils, elemental glyphs representing the Earth element (for containment and stability), as well as protection runes to ensure the spirit does not escape or cause harm.
 **Step 3**: Gather the following esoteric materials: incense made from dragon's blood, sandalwood, and myrrh; pure spring water; salt; and a small amount of the summoner's blood.
 
-Ritual:
+**Ritual**:
 **Step 1**: Begin the ritual by forming a circle of salt around the area where the sealing will take place. This will create a sacred space, protecting the caster from any potential harm or interference in the process.
 **Step 2**: Light the incense and allow the smoke to fill the area. This will create a heightened atmosphere for the ritual, aiding in focus and connection to the spirit.
 **Step 3**: Enter a profound meditative state and focus on the spirit that needs to be contained. Visualize the spirit's essence being drawn towards the enchanted object and prepare yourself for its arrival.

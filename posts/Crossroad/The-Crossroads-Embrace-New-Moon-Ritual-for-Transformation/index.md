@@ -21,7 +21,7 @@ excerpt: Develop a spell invoking the ancient powers of the Crossroad that attra
 ---
 Spell Name: The Crossroad's Embrace
 
-Purpose: Attract transformative opportunities and catalyze personal growth
+**Purpose**: Attract transformative opportunities and catalyze personal growth
 
 Symbolic Items:
 1. Two-headed coin (representing choice and duality)
@@ -29,7 +29,7 @@ Symbolic Items:
 
 Crossroad Location: The Ancient Oak Crossroad, a powerful convergence of ley lines where a centuries-old oak tree marks the four-way junction of dirt roads.
 
-Incantation: (to be spoken aloud at the crossroad)
+**Incantation**: (to be spoken aloud at the crossroad)
 
 "By the whisper of the winds, the dance of the flame,
 The current's caress, and the earth's secret name,

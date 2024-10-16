@@ -30,7 +30,7 @@ Materials needed:
 5. A bowl of water
 6. A representation of the lunar phase you're connecting to (poster, drawing or object)
 
-Preparation:
+**Preparation**:
 1. Find a time when the energy of the moon is at its peak (full moon is especially powerful)
 2. Prepare your space by cleansing it with incense or an essential oil diffuser
 3. Arrange your materials in a manner that feels intuitive and sacred to you

@@ -23,7 +23,7 @@ excerpt: >
 
 ## Rekindling Courtly Love: A Re-examination of Chretien de Troyes' Works in the Context of 12th-century France
 
-Introduction:
+**Introduction**:
 Courtly love - a far-reaching concept that permeated the literature, culture, and society of medieval Europe, remains at the core of the works of Chretien de Troyes. With remarkable romances like "Erec and Enide," "Lancelot, the Knight of the Cart," and "Perceval, the Story of the Grail," Chretien established himself as a leading figure in the genre of Romance literature. This study provides a groundbreaking re-examination of courtly love's intricate manifestations through a critical analysis of these seminal Arthurian sagas in relation to the sociopolitical landscape of 12th-century France, ultimately contributing an innovative perspective to the scholarly discourse.
 
 1. Contextualizing Courtly Love in 12th-century France:
@@ -41,5 +41,5 @@ The re-examination of scholarly theses on courtly love, including Andreas Capell
 5. Reconceptualizing Courtly Love: A Groundbreaking Hypothesis:
 The presentation of a novel hypothesis that seeks to redefine courtly love, emphasizing its fluidity, dynamism, and multifaceted nature. This overarching interpretation synthesizes the cultural, historical, and narrative insights gleaned from the analysis of Chretien's works, culminating in a comprehensive reconceptualization of courtly love as an evolving and multifarious phenomenon that continued to shape the literature and society of medieval France.
 
-Conclusion:
+**Conclusion**:
 By re-examining the intricate manifestations of courtly love in the works of Chretien de Troyes and engaging in dialogue with established scholarly theses, this groundbreaking study presents a refreshed perspective on this defining aspect of Romance literature. In doing so, it seeks to contribute significantly to both the fields of Romance literature and medieval studies, opening new avenues for future research and reflection.

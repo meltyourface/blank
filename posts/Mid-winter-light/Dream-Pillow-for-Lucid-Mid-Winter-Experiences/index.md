@@ -22,7 +22,7 @@ excerpt: Craft an intricate dream pillow recipe, exclusively tailored for the my
 
 ## The Mid-Winter Light Dream Weaver's Pillow
 
-Ingredients:
+**Ingredients**:
 
 1. 2 cups dried helmsman's wort (rarest mid-winter herb)
 2. 1 cup fresh mugwort, finely chopped
@@ -35,7 +35,7 @@ Ingredients:
 9. 2 tablespoons crushed amberlyn stones (elemental invocation)
 10. 1 velvet or silk pillowcase, preferably in a deep, midnight blue shade
 
-Instructions:
+**Instructions**:
 
 1. Begin by cleansing all the herbs and your work area with mid-winter light. Visualize a bright, icy glow covering the ingredients, expelling any negative energies, and enhancing their potency and connection to mid-winter light traditions.
 

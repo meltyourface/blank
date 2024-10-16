@@ -22,7 +22,7 @@ excerpt: Develop an intricate naming ceremony for a newborn that seamlessly inco
 
 ## Celestial Naming Ceremony for the Starborn
 
-Preparation:
+**Preparation**:
 1. Obtain the newborn's astrological chart, including information on the positions of planets at the time of birth.
 2. Research the etymological roots and mystical significance of the chosen name.
 3. Collect the following materials - a large circular cloth mat, corresponding colored candles for each planet, planetary sigils drawn on individual paper, an incense holder for each element (earth, air, water, fire), an easel or stand for a piece of art to be created during the ceremony, and any additional materials that resonate with the newborn's astrological chart.

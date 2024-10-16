@@ -31,7 +31,7 @@ Verbal Component: Chant beloved names thrice, with affection cradled in every no
 
 Symbolic Element: Entwine two red roses, their thorns pricked in passionate desire.
 
-Visualization: Envision the night sky with illustrious constellations forming a heart, wrapping the two souls in tender connection.
+**Visualization**: Envision the night sky with illustrious constellations forming a heart, wrapping the two souls in tender connection.
 
 2. **Financial Abundancy**: Gilded Gains
 
@@ -44,7 +44,7 @@ Verbal Component: Recite a whispered plea to Mammon, god of wealth and avarice.
 
 Symbolic Element: Hold a gold coin and trace with care, a sigil of six pointed prosperity.
 
-Visualization: In golden hues of vibrant dawn, triumphant towers of wealth unleashed, a spire of abundance ascends.
+**Visualization**: In golden hues of vibrant dawn, triumphant towers of wealth unleashed, a spire of abundance ascends.
 
 3. **Rejuvenating Restoration**: Celestial Salve
 
@@ -57,4 +57,4 @@ Verbal Component: Sing the seven sacred notes of ancient deities, each note care
 
 Symbolic Element: Inscribe the lesser-known sigil of Lord Melchisedec, a circle adorned with thirteen lines and etched upon a spagyric elixir.
 
-Visualization: A celestial essence of verdant mist enwrapping the body, repairing the core, and restoring the spirit in a dance of tranquil restoration.
+**Visualization**: A celestial essence of verdant mist enwrapping the body, repairing the core, and restoring the spirit in a dance of tranquil restoration.

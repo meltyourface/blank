@@ -26,11 +26,11 @@ Introduction to Monsters:
 
 Monsters, contrary to their often negatively ascribed title, are a diverse group of entities that humans have interacted with throughout time. These mysterious beings, which can take on various forms and exhibit a range of emotions, are deeply rooted in the mythos of human culture. Their origins, classifications, and roles in the grand tapestry of existence have fascinated both scholars and practitioners for centuries. In this section, we will delve into the fascinating world of monsters, analyzing their origins, classifications, notable examples, and behavioral patterns. Furthermore, we will discuss techniques for protection against, summoning, or manipulating these entities, and how a student of the occult can utilize this knowledge in their practice.
 
-Origins:
+**Origins**:
 
 Monsters trace their origins back to the dawn of human existence, if not earlier. Rooted in various mythologies, religious texts, oral traditions, folklore, and urban legends, these entities emerge as embodiments of the unknown, human fears, and imaginative outpourings. Monsters can originate from the collective human unconscious or as manifestations of deities, magical practices, or supernatural occurrences. They can also be born out of alchemical experiments or the outcomes of spiritual transmutation.
 
-Classifications:
+**Classifications**:
 
 Given the vast range of monsters, they can be classified into numerous categories, such as:
 

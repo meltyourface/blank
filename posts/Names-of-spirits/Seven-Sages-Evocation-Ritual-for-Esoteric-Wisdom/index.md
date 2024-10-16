@@ -22,7 +22,7 @@ excerpt: >
 ---
 The Seven Sages Evocation Ceremony
 
-Note: This ritual is based on the study of various ancient grimoires and texts incorporating the wisdom and attributes of the seven spirits renowned for their vast knowledge and insights. Proceed with caution and respect.
+**Note**: This ritual is based on the study of various ancient grimoires and texts incorporating the wisdom and attributes of the seven spirits renowned for their vast knowledge and insights. Proceed with caution and respect.
 
 Spirits' Names and Sigils:
 1. Raziel - The Angel of Knowledge and Mysteries

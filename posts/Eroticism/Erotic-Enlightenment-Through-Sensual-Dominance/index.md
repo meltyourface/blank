@@ -22,9 +22,9 @@ excerpt: Compose an intricately provocative one-act play delving into the clande
 
 ## The Unveiling of Eros and Anteros
 
-Scene: A dimly lit, elaborately adorned chamber, designed to simultaneously intimidate and entice.
+**Scene**: A dimly lit, elaborately adorned chamber, designed to simultaneously intimidate and entice.
 
-Characters:
+**Characters**:
 Maîtresse Déesse: A seasoned dominatrix known for her brazen defiance of conventional sexual mores.
 Revolutia: A subversive countercultural icon and artist, also unafraid of exploring the boundaries of sexuality.
 
@@ -32,17 +32,17 @@ Revolutia: A subversive countercultural icon and artist, also unafraid of explor
 
 Maîtresse Déesse: (Smirking as she slowly circles Revolutia.) So, you are the provocateur who so brazenly challenges society's limits? What is it that you desire from this temple of the forbidden?
 
-Revolutia: (Eyes locked with Maîtresse Déesse.) I crave knowledge, Maîtresse. Of the secret desires elegantly written within the Kama Sutra and echoed in the pages of De Sade's masterpieces. I wish to seek understanding... and to know the very depths of my own desires.
+**Revolutia**: (Eyes locked with Maîtresse Déesse.) I crave knowledge, Maîtresse. Of the secret desires elegantly written within the Kama Sutra and echoed in the pages of De Sade's masterpieces. I wish to seek understanding... and to know the very depths of my own desires.
 
 Maîtresse Déesse: (Raises an eyebrow, intrigued.) As you submit to my control, you will face trials in the realms of pleasure and pain, senses awakened and stifled. Your very essence will be bound by the Shibari of my artful creation. My task is strict, my whips unyielding.
 
-Revolutia: (Bites their lip, determination shining through.) It is an honor to submit, to trace this treacherous voyage through darkest desire. By your firm hand, I trust to learn of the sacred within the profane.
+**Revolutia**: (Bites their lip, determination shining through.) It is an honor to submit, to trace this treacherous voyage through darkest desire. By your firm hand, I trust to learn of the sacred within the profane.
 
 (As they speak, Maîtresse Déesse meticulously binds Revolutia's limbs in elegant knots.)
 
 Maîtresse Déesse: Imbibing the essence of Eros and Anteros, you shall reveal a visage of your soul painfully virgin yet unbound. You shall be tested by my song of shadows and light, propelled to both ecstasy and torment within the confines of this chamber.
 
-Revolutia: (Gently restrained by the ropes.) I am ready, Maîtresse, to endure your cruelest instruments of discipline and be seduced by the future that lies at the crossroads of our tortured artistry.
+**Revolutia**: (Gently restrained by the ropes.) I am ready, Maîtresse, to endure your cruelest instruments of discipline and be seduced by the future that lies at the crossroads of our tortured artistry.
 
 (As they delve into sensory deprivation, a blindfold billowing around Revolutia's eyes, Maîtresse Déesse regales Revolutia in provocative prose, detailing the hedonism found within the ancient literature of Kama Sutra and Marquis de Sade.)
 
@@ -50,13 +50,13 @@ Maîtresse Déesse: (Leans forward, whispering in Revolutia's ear.) Eager alchem
 
 (Revolutia is subjected to various forms of corporal punishment, enduring the pain and finding pleasure in their shared journey.)
 
-Revolutia: (Exhales sharply.) Maîtresse, with each calculated strike, a crystal clarity graces my mind... The power to challenge, to redefine... the essence of eroticism throbs within my every nerve.
+**Revolutia**: (Exhales sharply.) Maîtresse, with each calculated strike, a crystal clarity graces my mind... The power to challenge, to redefine... the essence of eroticism throbs within my every nerve.
 
 (With the climactic strike and the imprints finally made, the barriers of submission break down, bound by mutual respect and the journey they have undergone.)
 
 Maîtresse Déesse: (Unties Revolutia, pride twinkling in her eyes.) You have traversed the labyrinth of your soul, Revolutia. What epiphany has dawned on you in these shadows we share?
 
-Revolutia: (Radiating gratitude, speaking softly.) A resolute, transformative power revealed in each masterful knot, lash, and strike. It is our crucible, Maîtresse, to coruscate radiant change upon society's misguided notions of desires and the boundless depths of pleasure.
+**Revolutia**: (Radiating gratitude, speaking softly.) A resolute, transformative power revealed in each masterful knot, lash, and strike. It is our crucible, Maîtresse, to coruscate radiant change upon society's misguided notions of desires and the boundless depths of pleasure.
 
 (With newfound understanding, respect, and deep intimacy, Maîtresse Déesse and Revolutia embrace, their shared experience irrevocably entwining their souls within the dimly lit chamber.)
 

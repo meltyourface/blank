@@ -23,7 +23,7 @@ excerpt: >
 
 ## Title: A Treatise on Angelic Lore: The Nature, Hierarchy, and Invocation of Angels for the Aspiring Occultist
 
-Introduction:
+**Introduction**:
 The study of angels, the divine messengers, illuminators, and guardians of humanity, has always been a subject of both reverence and intrigue within the esoteric, occult, and various magical practices. Angels occupy a special place in the hierarchy of the spirit world and are known to intervene in the affairs of humanity, offering their guidance, protection, and wisdom. This treatise will equip the initiate with a solid foundation in angelic lore, its connections to mystical practice, and methods to interact and invoke these celestial beings for the benefit of one's spiritual journey.
 
 ### Chapter 1: Nature of Angels
@@ -60,5 +60,5 @@ To cultivate a meaningful relationship with these celestial beings and invoke th
 
 4. **Ritualistic Invocations**: Esoteric and magical practices often contain specific protocols and rituals for invoking angels. These may include ceremonial magic, sigil work, and enochian rituals. The diligent study and correct application of these rituals can facilitate an authentic experience of angelic presence and foster their collaboration in one's spiritual journey.
 
-Conclusion:
+**Conclusion**:
 By acquainting oneself with the angelic hierarchy, their roles, and principles, the occultist-in-training can forge and cultivate a powerful alliance with these celestial guardians. Through meditation, prayer, visualization, and ritualistic invocations, one will gradually unveil the secrets of the angelic realm and access the vast reservoir of divine knowledge and protection afforded by these transcendent beings.

@@ -45,7 +45,7 @@ Now, let us explore the esoteric symbolism of the dolphin and anchor printers ma
 
 4. ****The Interconnectedness of Knowledge****: The interplay between the dolphin and anchor can also be interpreted as representing the interconnectedness of all knowledge. It suggests that each field of study and each piece of wisdom is linked to others, forming a vast network of understanding that any true scholar should strive to grasp and appreciate.
 
-Conclusions:
+**Conclusions**:
 
 The relationship between Aldus Manutius' dolphin and anchor printers mark and the philosophy behind the Aldine Academy can be summarized through the following key themes and ideas:
 

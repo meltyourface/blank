@@ -26,12 +26,12 @@ Mandrake root (Mandragora spp.) has been utilized for its properties as an anest
 
 Historically, mandrake root has been used in diverse esoteric and occult traditions to induce trance states, promote supernatural abilities like divination, and serve as an essential component in talismans. It is believed to grant protection and even attract love, aligning with the conceptual domains of life and death and influence the giver's life.
 
-Mugwort:
+**Mugwort**:
 Artemisia vulgaris, commonly known as mugwort, is a versatile herb with a wide range of uses connected to dreams, prophecy, and purification. In Mortality practices, mugwort becomes essential when seeking insight into the realms of life, death, and resurrection.
 
 Its properties have been utilized throughout various esoteric and occult traditions, such as Lucid Dreaming, Astral Projection, or Dreamwalking. As such, mugwort assists practitioners in navigating the realms between life and death or exploring resurrective energy. Additionally, it serves as a protective herb, warding off negative energies and malevolent spirits that interfere with the balance of life and death.
 
-Wormwood:
+**Wormwood**:
 Wormwood (Artemisia absinthium) is another powerful herb with a rich history in esoteric and occult practices. Known for its bitter taste and strong scent, wormwood is associated with spiritual purification, exorcism, and communication with the deceased.
 
 In Mortality practices, wormwood's foundational role in the creation of absinthe grants it a unique relationship with altered states of consciousness, often enabling deeper exploration of life, death, and resurrection themes. Wormwood also exhibits protective qualities to guard against negative energies that may disrupt the delicate balance of life and death.

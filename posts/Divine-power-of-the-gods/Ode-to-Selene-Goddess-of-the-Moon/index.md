@@ -26,7 +26,7 @@ In silver-shining chariot you take flight,
 We sing your praise, your lunar temples gleaming,
 Embrace nocturnal hearts, your light redeeming.
 
-Chorus:
+**Chorus**:
 Goddess of the Moon, Selene divine,
 With sacred power of fertility and intuition,
 Guide our hearts and souls,
@@ -38,7 +38,7 @@ As waxing crescent, your bright face confiding,
 With gibbous birth, we see your might ascending,
 Celestial force untold, your reach extending.
 
-Chorus:
+**Chorus**:
 Goddess of the Moon, Selene divine,
 With sacred power of fertility and intuition,
 Guide our hearts and souls,
@@ -50,7 +50,7 @@ As ancient secrets of the night bestow,
 Awaken mysteries deep within our minds,
 Great Selene, your lunar force enshrines.
 
-Chorus:
+**Chorus**:
 Goddess of the Moon, Selene divine,
 With sacred power of fertility and intuition,
 Guide our hearts and souls,
@@ -62,13 +62,13 @@ Yet wisdom gained lies dormant in the fields,
 Your subtle whispers nurture intuition,
 As crescent dwindles, darkness overtakes its mission.
 
-Chorus:
+**Chorus**:
 Goddess of the Moon, Selene divine,
 With sacred power of fertility and intuition,
 Guide our hearts and souls,
 Illuminate our paths, let moonlight reign.
 
-Outro:
+**Outro**:
 Oh Selene, goddess pure, your cycle nears its end,
 Your once-lit path, in darkness now descend,
 But rest assured, your latent power shall rise,

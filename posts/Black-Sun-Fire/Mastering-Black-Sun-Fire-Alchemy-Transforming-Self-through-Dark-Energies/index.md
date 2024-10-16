@@ -22,11 +22,11 @@ excerpt: >
 ---
 The intricacies of the Black Sun Fire alchemy discipline are deep, multifaceted, and often misunderstood. However, as a master of this esoteric practice, I will provide a comprehensive understanding of its origins, principles, and practical applications.
 
-Origins:
+**Origins**:
 
 The Black Sun Fire alchemy discipline is believed to have originated in the ancient world, with roots traced back to the Babylonian, Egyptian, and Hermetic mystery schools. ****These early alchemists sought the ultimate transformation****: the transmutation of base metals into gold and the attainment of immortality. Black Sun Fire offered them an alternate path, leveraging the primal powers of the universe through the darker aspects of spiritual energy.
 
-Principles:
+**Principles**:
 
 At its core, the Black Sun Fire discipline revolves around the following fundamental principles:
 

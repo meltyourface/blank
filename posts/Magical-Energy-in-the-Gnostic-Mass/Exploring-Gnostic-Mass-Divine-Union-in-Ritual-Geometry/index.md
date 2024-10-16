@@ -23,13 +23,13 @@ The Gnostic Mass, or Liber XV, is a central rite in many modern forms of Gnostic
 
 The central concept of uniting macrocosm and microcosm is essential to understanding the dynamics between the triad of Priestess, Priest, and Congregation. Their roles serve as embodiments of various aspects of divinity and humanity, and their interactions create a sacred space for transformation.
 
-Priestess:
+**Priestess**:
 As the embodiment of the divine feminine principle (Nuit), the Priestess represents the infinite potential of the cosmos and the receptive womb of creation. She is the doorway through which the cosmic energies enter the temple, personifying the mysteries of life, death, and rebirth. Her spiritual authority draws upon the power of lunar and earth energies, as well as the sacred feminine wisdom of priestesses throughout history.
 
-Priest:
+**Priest**:
 The Priest symbolizes the divine masculine principle (Hadit), representing individual consciousness and the active, generative force that manifests in the material world. Through his interaction with the Priestess, he becomes the mediator of divine energy and brings forth transformative power into the temple space. He embodies the solar and phallic energies, reflecting the archetypal role of priests in various mythologies and traditions.
 
-Congregation:
+**Congregation**:
 The Congregation serves as the microcosm, representing the collective consciousness of humanity, intending to attune themselves with the divine energies present in the ceremony. Each individual participant is a cell of the greater temple, and their combined energy feeds into and supports the interaction between the Priestess and the Priest, generating a circuit of consciousness and will that permeates the entire sacred space.
 
 Sacred Geometry in Temple Layout:

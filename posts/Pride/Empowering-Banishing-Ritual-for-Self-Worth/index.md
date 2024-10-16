@@ -21,7 +21,7 @@ excerpt: Craft a powerful banishing spell that harnesses the energy of Pride to 
 ---
 Upon extensive research and a deep dive into various esoteric traditions, I have crafted the following powerful multi-layered banishing ritual that utilizes the energy of Pride to eliminate negative self-talk, targeting its root causes. This ritual incorporates symbols, sigils, and incantations from diverse practices to provide lasting protection and foster self-worth.
 
-Materials:
+**Materials**:
 - A clean, quiet, and uncluttered space for the ritual
 - A circle (drawn on the ground or a cloth) to represent the confines of your power and protection
 - A black or white candle

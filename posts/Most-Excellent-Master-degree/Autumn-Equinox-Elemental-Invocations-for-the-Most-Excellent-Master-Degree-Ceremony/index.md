@@ -25,10 +25,10 @@ excerpt: >
 ## Title: The Elemental Convergence of the Most Excellent Master Degree
 Sabbat Celebration: Autumn Equinox
 
-Introduction:
+**Introduction**:
 During the autumn equinox, a time when the day and night are of equal length, we gather to celebrate the convergence of the elemental powers in the Most Excellent Master Degree ceremony. This elaborate ritual is designed to invoke the four elemental powers – Earth, Air, Fire, and Water – and connect them with specific Masonic symbols, rites, and teachings unique to the Most Excellent Master Degree. The ceremonial proceedings aim to maintain a balance between the physical and spiritual aspects of life, as indicated by the equal length of day and night.
 
-Setting:
+**Setting**:
 The ceremony will be conducted within a sacred temple adorned with symbols and representations of the four elements, placed at the four cardinal points (North, East, South, and West). In the center of the temple, a square and compass resting upon an altar are surrounded by a circular configuration of stones, symbolizing the Master's working tools.
 
 ### I. **The Elemental Invocations**:

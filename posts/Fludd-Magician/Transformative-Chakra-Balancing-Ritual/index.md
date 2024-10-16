@@ -22,9 +22,9 @@ excerpt: Develop a Fludd (Magician) ritual to intricately harmonize the seven bo
 
 ## The Rite of the Transcendent Chakra Harmony
 
-Objective: To intricately harmonize the seven bodily chakras through esoteric symbolism, occult practices, enchanted crystals, mystical incantations, and the invocation of otherworldly forces, facilitating a deeply transformative chakra balancing experience.
+**Objective**: To intricately harmonize the seven bodily chakras through esoteric symbolism, occult practices, enchanted crystals, mystical incantations, and the invocation of otherworldly forces, facilitating a deeply transformative chakra balancing experience.
 
-Preparation:
+**Preparation**:
 
 1. Gather the following materials:
    a. A white robe or loose, comfortable clothing.

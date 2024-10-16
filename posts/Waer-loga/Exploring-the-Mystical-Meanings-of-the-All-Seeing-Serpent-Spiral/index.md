@@ -21,7 +21,7 @@ excerpt: Investigate the origin, underlying meaning, and arcane associations of 
 ---
 The emblem we will be examining in terms of origin, underlying meaning, arcane associations, and historical significance is the "All-Seeing Serpent Spiral," a complex Waer-loga symbol that has mystified practitioners and researchers alike for centuries.
 
-Origin:
+**Origin**:
 
 The All-Seeing Serpent Spiral (ASSS) emblem traces its origins to the ancient civilization of Sumer, specifically to the reign of Naram-Sin, who was thought to have been a powerful Waer-loga sorcerer-king. The symbol has been found inscribed on various artifacts and temple reliefs dating back to the 24th century BCE. Over the centuries, the ASSS has been adopted, modified, and integrated into various magical traditions, from Egyptian and Greek mystery schools to the medieval grimoires of European occultists.
 

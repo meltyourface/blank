@@ -22,14 +22,14 @@ excerpt: Generate a section of a grimoire that provides five detailed and safe p
 
 ## Exploring Esoteric Properties through Physical Experiments
 
-Introduction:
+**Introduction**:
 The purpose of this section is to provide the student of the occult with a series of physical experiments geared towards deepening their understanding of the esoteric properties of matter, energy, and symbolism. By performing these experiments, the student will witness the workings of such properties firsthand and enhance their comprehension of the arcane. Each experiment outlines the required tools, materials, and steps, while also discussing the expected outcomes and the esoteric principles they demonstrate.
 
 Experiment 1: Balancing the Elements
 Objective: Understand the elemental balance of matter through physical representations.
 Tools and Materials: 4 bowls, water, soil, small pebbles, lit candle
 
-Steps:
+**Steps**:
 1. Arrange the four bowls in a square formation.
 2. Fill the first bowl with water, representing the element of Water.
 3. Fill the second bowl with soil, representing the element of Earth.
@@ -45,7 +45,7 @@ Experiment 2: Manifestations of Energy
 Objective: Visualize the flow of energy in a physical medium.
 Tools and Materials: Pendulum (preferably with a crystal), paper, pen
 
-Steps:
+**Steps**:
 1. Draw a spiral on a piece of paper.
 2. Place the pendulum at the center of the spiral.
 3. Focus your intent on channeling energy through the pendulum to make it move following the spiral without physically moving the pendulum.
@@ -59,7 +59,7 @@ Experiment 3: Sympathetic Resonance
 Objective: Understand how sympathetic resonance occurs between two objects.
 Tools and Materials: 2 identical tuning forks, rubber mallet
 
-Steps:
+**Steps**:
 1. Strike one tuning fork with the rubber mallet.
 2. Slowly bring it closer to the second tuning fork.
 3. Observe the second tuning fork as it begins to vibrate in response to the vibration of the first tuning fork.
@@ -72,7 +72,7 @@ Experiment 4: Sigil Creation and Activation
 Objective: Understand the power of symbolism by creating and activating a personalized sigil.
 Tools and Materials: Paper, pen, a specific intent or goal
 
-Steps:
+**Steps**:
 1. Write out your intent or goal clearly and concisely.
 2. Remove all repeating and nonessential letters from the phrase.
 3. Arrange the remaining letters in a visually appealing design that holds meaning for you.
@@ -87,7 +87,7 @@ Experiment 5: Visualization of Personal Aura
 Objective: Enhance awareness of personal energy fields by visualizing one's own aura.
 Tools and Materials: Mirror, dimly lit room
 
-Steps:
+**Steps**:
 1. Stand in front of a mirror in a dimly lit room.
 2. Look at your reflection and focus on a specific point on your body (e.g., the forehead).
 3. Allow your peripheral vision to take over as you continue to focus on the chosen point.
@@ -97,5 +97,5 @@ Expected Outcome: A heightened understanding of personal energy fields and their
 
 Esoteric Principles Demonstrated: Visualization, aura, energy fields
 
-Conclusion:
+**Conclusion**:
 These five experiments provide an opportunity for the student of the occult to delve into the esoteric properties of matter, energy, and symbolism in a practical and safe manner. By executing these experiments, the student is given a stronger foundation to advance their knowledge and understanding within the realm of the occult and esoteric wisdom.

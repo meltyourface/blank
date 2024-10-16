@@ -23,7 +23,7 @@ excerpt: >
 
 ## Title: The Enigmatic Tome of Daraka
 
-Lesson: Unveiling the Mysteries of an Ancient Grimoire
+**Lesson**: Unveiling the Mysteries of an Ancient Grimoire
 
 Introduction
 

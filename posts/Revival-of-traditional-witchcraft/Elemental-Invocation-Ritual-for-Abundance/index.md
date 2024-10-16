@@ -25,25 +25,25 @@ In the realm of traditional witchcraft, the Revival period places emphasis on el
 Lunar Phase: Waxing Moon (for increasing energy and abundance)
 Time of Day: Dawn (to symbolize the awakening of elemental energies)
 
-Herbs:
+**Herbs**:
 - Earth: Patchouli (for grounding and stability)
 - Air: Lavender (for communication and mental clarity)
 - Fire: Cinnamon (for transformation and vitality)
 - Water: Willow (for emotional healing and intuition)
 
-Stones:
+**Stones**:
 - Earth: Moss Agate (for growth and manifestation)
 - Air: Selenite (for clarity and spiritual connection)
 - Fire: Carnelian (for motivation and courage)
 - Water: Lapis Lazuli (for emotional peace and transformation)
 
-Symbols:
+**Symbols**:
 - Earth: Pentacle (representing Earth energy and stability)
 - Air: Athame or wand (representing mental focus and direction)
 - Fire: Candle or cauldron (representing transformation and desire)
 - Water: Chalice or bowl (representing receptivity and emotional healing)
 
-Incantation:
+**Incantation**:
 
 By the Waxing Moon's embrace,
 And Dawn's first shimmering grace,

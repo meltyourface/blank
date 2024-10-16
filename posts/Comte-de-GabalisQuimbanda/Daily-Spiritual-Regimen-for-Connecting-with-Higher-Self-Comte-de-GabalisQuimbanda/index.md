@@ -36,17 +36,17 @@ Next, identify personal talismans or symbols that hold significance for you and 
 
 Now that you have your intention, sacred texts, and talismans, it's time to establish a daily regimen. Below is a suggested outline that can be personalized according to your unique needs and preferences.
 
-Morning:
+**Morning**:
 - Begin with a cleansing ritual (smudging, spiritual bath, or chanting) to purify your energy and space.
 - Invoke the protection and guidance of the Quimbanda spirits and your Higher Self.
 - Meditate for at least 15 minutes, focusing on deepening the connection with your Higher Self.
 - Read a passage from your chosen sacred text, contemplating its relevance to your current life and spiritual journey.
 
-Midday:
+**Midday**:
 - Perform a brief grounding ritual (such as connecting with the earth or visualizing roots extending from your feet) to maintain energetic balance.
 - Reflect on any messages, insights, or synchronicities experienced thus far in the day, and note them in your journal.
 
-Evening:
+**Evening**:
 - Engage in a more extended meditation session, incorporating the chanting of mantras or prayers specific to the Comte de GabalisQuimbanda tradition.
 - Perform an energy work practice, such as channeling energy through your hands for healing purposes or visualizing light energy filling your body.
 - Spend time in quiet reflection or journaling, processing the day's activities, and contemplating insights received from your Higher Self.

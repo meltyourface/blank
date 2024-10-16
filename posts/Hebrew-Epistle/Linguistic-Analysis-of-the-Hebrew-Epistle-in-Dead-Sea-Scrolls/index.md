@@ -21,10 +21,10 @@ excerpt: Conduct an in-depth analysis of the linguistic structure of the Hebrew 
 ---
 The Hebrew Epistle within the Dead Sea Scrolls is a fascinating source for studying both the language's evolution and the cultural context of its time. This analysis will focus on the linguistic structure of the Hebrew Epistle, comparing it to other contemporaneous texts, and considering the sociolinguistic implications of scribal practices and transmission processes. 
 
-Syntax:
+**Syntax**:
 The syntax of the Hebrew Epistle is characterized by its reliance on the VSO (verb-subject-object) word order, typical of Biblical Hebrew. However, some sentences demonstrate a slight deviation, adopting an SVO (subject-verb-object) order, which is indicative of an evolving language. The usage of the definite article "ה" (ha) is also worth noting, as its function differs slightly from other texts of the same period. In some cases, the Hebrew Epistle appears to rely less on the definite article, potentially indicating a shift in syntactic preferences.
 
-Morphology:
+**Morphology**:
 Morphologically, the Hebrew Epistle exhibits standard Biblical Hebrew patterns, including the use of triconsonantal roots and verbal inflection forms (such as qal, niph'al, and piel). ****However, there are instances where the text diverges from the norm****: some verb forms appear to be closer to those found in later Mishnaic Hebrew, and there is evidence of phonological shifts, such as the transformation of the Proto-Semitic /θ/ into /ʃ/.
 
 Semantic properties:

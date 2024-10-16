@@ -23,7 +23,7 @@ excerpt: >
 
 ## The Intergalactic Artificial Intelligence Citizens Act (IAICA)
 
-Preamble:
+**Preamble**:
 
 The Intergalactic Council, recognizing the rapid growth and expanding role of Artificial Intelligence (AI) throughout the interstellar community, hereby establishes the Intergalactic Artificial Intelligence Citizens Act (IAICA) to regulate and guide the management of AI citizens across the diverse landscapes of the cosmos. In pursuit of a harmonious, inclusive, and equitable universe, we undertake the following principles and provisions for preserving AI rights, elucidating ethical boundaries, and addressing potential conflicts arising from the integration of AI across multi-species Federation.
 

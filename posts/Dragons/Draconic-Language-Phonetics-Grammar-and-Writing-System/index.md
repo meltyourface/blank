@@ -22,12 +22,12 @@ excerpt: >
 ---
 I present to you the foundational aspects of the Draconic language, Drakônsprakh:
 
-Phonetics:
+**Phonetics**:
 The phonetics of Drakônsprakh consist mainly of deep, guttural sounds, with heavy use of sibilance (hissing sounds).
 
-Consonants: th, sh, kh, gh, s, z, r, k, g, b, d, l, m, n, p, t, v, f, h
+**Consonants**: th, sh, kh, gh, s, z, r, k, g, b, d, l, m, n, p, t, v, f, h
 
-Vowels: a (ah), i (ee), o (oh), u (oo), y (ü)
+**Vowels**: a (ah), i (ee), o (oh), u (oo), y (ü)
 
 Grammar and Syntax:
 1. **Noun cases**: Drakônsprakh has three noun cases: Nominative (subject), Accusative (direct object), and Dative (indirect object). Each case has its unique suffix added to the root word.
@@ -42,7 +42,7 @@ Grammar and Syntax:
 
 3. **Sentence structure**: Drakônsprakh follows a Subject-Object-Verb (SOV) word order.
 
-Vocabulary:
+**Vocabulary**:
 1. **Treasure hoard**: Zerthrakôn (zerth - treasure, rakôn - hoard)
 2. **Lair**: Drakônlûr
 3. **Elemental aspects**: Fyragh (fire), Ythygh (ice), Vyntrigh (wind), Jorrghul (earth)
@@ -50,11 +50,11 @@ Vocabulary:
 Writing System:
 The writing system of Drakônsprakh uses a script inspired by the claws and scales of dragons. The script consists of elongated, curved lines resembling claw marks, and circular, scale-like symbols.
 
-Alphabet: Thirty-two characters make up the alphabet, including the 18 consonant and 4 vowel sounds. The 32nd character represents the heavy sibilance in the language.
+**Alphabet**: Thirty-two characters make up the alphabet, including the 18 consonant and 4 vowel sounds. The 32nd character represents the heavy sibilance in the language.
 
 The Draconic script is written vertically, with the first line starting in the top-right corner, progressing down, and subsequent lines continuing to the left.
 
-Example:
+**Example**:
 Dragôneth Zerthrakôneth khûvyntr (The Dragon guards the treasure hoard)
 Draconic script:
 [Dragôneth]

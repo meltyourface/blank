@@ -22,7 +22,7 @@ excerpt: >
 ---
 Here is a potent herbal blend recipe specifically tailored for the 13 Days Ritual to Destroy Enemies and Negative Energies. This powerful blend incorporates rare and metaphysically significant ingredients to cleanse and strengthen one's aura, banish adverse forces, and create a protective barrier against future negativity.
 
-Ingredients:
+**Ingredients**:
 
 1. Dragon's Blood (Daemonorops draco) - 13 grams
 Occult significance: Dragon's Blood is known for its protective, purifying, and banishing properties, as well as its ability to boost the power of other ingredients in the blend.
@@ -45,7 +45,7 @@ Occult significance: Patchouli is utilized in spells and rituals for grounding a
 7. Yarrow (Achillea millefolium) - 4 grams
 Occult significance: Yarrow is known to strengthen spiritual and psychic defenses. It can assist in casting out negative energies and warding off evil influences.
 
-Directions:
+**Directions**:
 
 1. Crush and mix the herbs in a mortar and pestle, focusing on your intentions and invoking the energies of each ingredient.
 

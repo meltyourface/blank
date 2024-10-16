@@ -24,9 +24,9 @@ excerpt: >
 ---
 Answer: Drawing a pentagram on the floor of the Airboat to ward off sea spirits.
 
-Rationale: The least effective strategy mentioned above is drawing a pentagram on the floor of the Airboat to ward off sea spirits. The reason behind this is that the other three options are all directly related to harnessing or manipulating the energy of the wind or improving the Airboat's ability to utilize the wind's energy. In contrast, the option of drawing a pentagram to ward off sea spirits is not inherently helpful in harnessing wind energy as it serves a different purpose altogether, mainly protecting the Airboat from potential supernatural threats rather than focusing on using the wind's energy.
+**Rationale**: The least effective strategy mentioned above is drawing a pentagram on the floor of the Airboat to ward off sea spirits. The reason behind this is that the other three options are all directly related to harnessing or manipulating the energy of the wind or improving the Airboat's ability to utilize the wind's energy. In contrast, the option of drawing a pentagram to ward off sea spirits is not inherently helpful in harnessing wind energy as it serves a different purpose altogether, mainly protecting the Airboat from potential supernatural threats rather than focusing on using the wind's energy.
 
-Context:
+**Context**:
 1. **Using an ancient wind summoning spell**: This strategy directly seeks to manipulate and harness the natural power of the wind in the environment. By summoning favorable winds, this method will ensure that there's sufficient wind energy to propel the Airboat forward. This strategy would be effective because it would directly impact the availability and strength of the wind.
 
 2. **Constructing the main sail of the Airboat from enchanted cloth**: This strategy is geared towards amplifying the wind energy captured by the sail, effectively increasing the efficiency of the Airboat. The enchanted cloth would forge a strong connection with the wind's power, enabling the Airboat to travel faster and more efficiently. This approach is useful because it enhances the overall energy capture capability of the Airboat, thus improving its wind-propelled performance.

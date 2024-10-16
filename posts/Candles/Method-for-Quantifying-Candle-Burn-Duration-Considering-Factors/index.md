@@ -22,7 +22,7 @@ excerpt: Devise an intricate methodology for assessing the burn duration of vari
 
 ## Comprehensive Methodology for Assessing Burn Duration in Various Types of Candles
 
-Objective: To devise a precise and accurate method for assessing the burn duration of different candles considering factors such as wax composition, wick material, ambient temperature, and candle size.
+**Objective**: To devise a precise and accurate method for assessing the burn duration of different candles considering factors such as wax composition, wick material, ambient temperature, and candle size.
 
 Controlled Environment: To conduct the experiment, a temperature-regulated laboratory will be set up. The room will have consistent and controllable temperature and humidity levels. The controlled environment will also be free from drafts and isolated from external light sources that may affect the burning process.
 

@@ -35,7 +35,7 @@ Verbal Components:
 
 5. ****Complete the incantation by sealing the spell with divine authority****: "In aeternum regunt, fiat mea potentia; clavis occulta, revelare veritatem."
 
-Pronunciation:
+**Pronunciation**:
 
 1. "Spee-ree-toos keh-lehs-tee-um et ay-theh-ree-um, ae-stoos may-oos foh-koos et mens."
 
@@ -47,7 +47,7 @@ Pronunciation:
 
 5. "Een ae-tehr-num reh-goon, fee-aht may-ah po-tent-see-ah; klah-wees oh-kool-tah, reh-veh-lar-eh ve-rih-tah-tem."
 
-Cadence:
+**Cadence**:
 
 The incantation is to be chanted in a metered, rhythmic manner, accompanied by the steady synchronization of breaths and pauses. Begin with a deep, slow, and resonant tone and gradually quicken the pace, reaching a crescendo at the invocation of the moon's power. Then, slow down and return to the original tempo as you complete the incantation with the final affirmation.
 

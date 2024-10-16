@@ -25,7 +25,7 @@ Throughout the Middle Ages, Renaissance, and Enlightenment periods, various demo
 Middle Ages:
 During the Middle Ages, one of the primary demonic classification systems used was the one developed by Alfonso de Spina, a Spanish Franciscan bishop, in his work "Fortalicium Fidei" (1458). In this system, de Spina categorized demons into ten orders, according to their functions and powers. These orders begin with false gods and end with witches and wizards who directly deal with these creatures. The main distinction in this hierarchy is based on the degree of rebellion against God and the degree of power with which they can tempt humans.
 
-Renaissance:
+**Renaissance**:
 In the Renaissance period, two major classification systems for demons emerged, namely those devised by Johann Weyer in "Pseudomonarchia Daemonum" (1577) and by Collin de Plancy in "Dictionnaire Infernal" (1818). Weyer's classification included 69 demons, with each demon's attributes and areas of expertise outlined explicitly. On the other hand, Collin de Plancy's classification listed 69 infernal beings, detailing their hierarchy, appearance, and abilities. Both systems demonstrated a deeper attempt to understand and categorize the demonic realm. One example demon from the Renaissance period is Astaroth, portrayed as a high-ranking demon and the treasurer of hell, known for his deep knowledge and cunning ways.
 
 Enlightenment Period:

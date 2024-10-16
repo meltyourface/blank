@@ -29,7 +29,7 @@ excerpt: >
 ---
 A.A. primarily focuses on individual spiritual development, while the O.T.O. functions as an organized religious institution emphasizing Thelema as its core doctrine.
 
-Explanation:
+**Explanation**:
 When it comes to Aleister Crowley's occult fraternities, the A.A. (Astrum Argentum or Silver Star) and the O.T.O. (Ordo Templi Orientis or Order of Oriental Templars) serve different functions, have different objectives, and are distinct from one another.
 
 The A.A., which primarily focuses on individual spiritual development, is a magical order dedicated to the teachings of the Hermetic and mystic traditions. The essential goal of A.A. is to provide students with a structured system of spiritual growth to attain higher states of consciousness and spiritual mastery. The structure of the A.A. comprises various degrees, with each degree representing a specific level of mastery and accomplishment.

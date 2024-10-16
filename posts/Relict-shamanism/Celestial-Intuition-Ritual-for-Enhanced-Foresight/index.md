@@ -23,7 +23,7 @@ excerpt: >
 
 ## Title: Ritual of the Celestial Intuition
 
-Objective: To channel the forces of ancient spirits and enhance intuitive abilities while strengthening the connection between the caster and the celestial plane, thereby enabling heightened foresight and deciphering of hidden energies.
+**Objective**: To channel the forces of ancient spirits and enhance intuitive abilities while strengthening the connection between the caster and the celestial plane, thereby enabling heightened foresight and deciphering of hidden energies.
 
 Artifacts Needed:
 1. Altar Stone - to serve as the centerpiece of the ritual and anchor for energies.

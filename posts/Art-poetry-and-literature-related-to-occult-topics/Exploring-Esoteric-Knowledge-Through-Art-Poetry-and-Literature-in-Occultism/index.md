@@ -38,7 +38,7 @@ Like art, poetry has been employed as an effective tool for expressing and prese
 
 Some notable poets of occult significance include William Blake, who blended visionary insight with mystical verse to create his prophetic works; and Aleister Crowley, whose Thelemic philosophy and rituals were often conveyed through enigmatic poetry. By examining the poems of these and other authors, students of the occult can unravel rich layers of symbolism and tap into the timeless wisdom that resonates within the lines of verse.
 
-Literature: A Portal for Occult Thought and Practice
+**Literature**: A Portal for Occult Thought and Practice
 
 Perhaps the most comprehensive repository of occult knowledge lies within the pages of esoteric literature. From ancient manuscripts and grimoires to modern writings, literature has played a pivotal role in documenting and transmitting occult concepts, rituals, and philosophies across centuries and cultures. Authors such as Eliphas Lévi, H.P. Blavatsky, Dion Fortune, and Israel Regardie have contributed immensely to the development of occult thought and practice.
 

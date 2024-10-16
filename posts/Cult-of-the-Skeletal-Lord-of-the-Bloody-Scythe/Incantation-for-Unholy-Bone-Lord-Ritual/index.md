@@ -56,7 +56,7 @@ Ultimum Meerithrum tetigit, maximæ umbrae regalis,
 Sceptrum, gladius, et tempus, trium potestatum sacerrima,
 Dominus Ossium universum triumphat, super omnes vitae umbra.
 
-Translation:
+**Translation**:
 Verse I:
 From the depths of death's embrace, the lord of bones arises,
 Flesh and blood's shadow, possessed by countless torments,

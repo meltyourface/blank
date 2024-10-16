@@ -22,9 +22,9 @@ excerpt: Invent a spoken charm incorporating ancient languages and esoteric symb
 
 ## The Ancestral Alignment Invocation
 
-Purpose: To invoke the wisdom and guidance of one's ancestors through spoken charm.
+**Purpose**: To invoke the wisdom and guidance of one's ancestors through spoken charm.
 
-Components:
+**Components**:
 1. Altar: A small table or surface to place ceremonial items.
 2. Sacred Symbols: Three specially selected ancient symbols that represent important values or aspects of the invoker's ancestral lineage.
 3. Candles: Three white candles to represent the connection to the spiritual realm.
@@ -41,7 +41,7 @@ Lucus inter astra et terram, nexus æternum, affero te a tempore immemorat,
 Hodie revela claustra arcanae, lumine vatis, me ducat per umbras,
 In nomine trium, ego voco te Mei Antecessores!"
 
-Translation:
+**Translation**:
 "Path of my ancestors, shadows of those who came before, grant me your wisdom,
 The grove between stars and the earth, an eternal connection, I bring you forth from time immemorial,
 Today uncover the hidden gates, illuminate the seer, guide me through the shadows,

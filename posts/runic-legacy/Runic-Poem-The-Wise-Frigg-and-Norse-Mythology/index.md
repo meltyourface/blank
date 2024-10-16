@@ -59,6 +59,6 @@ Hidden Message with Runic Cipher Techniques:
 Verse 1 ᚠ, Verse 2 ᚱ, Verse 3 ᛁ
 FRIGGAWISEWANDWIELD
 
-Translation: Frigga, wise, wand-wield
+**Translation**: Frigga, wise, wand-wield
 
 The poem tells of the esoteric wisdom of the elders Futhark runic alphabet, featuring Norse gods and ancient rituals. Odin, Thor, and Frigg are mentioned, as are the Norns who are responsible for determining fate. Encoded within the bindrunes is a message: "Frigga, wise, wand-wield," highlighting Frigga's wisdom and magic.

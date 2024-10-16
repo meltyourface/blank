@@ -27,7 +27,7 @@ excerpt: >
 ---
 Answer: Chumbley was an adept synthesist, drawing from various Western occult traditions as well as Eastern mystical practices, and particularly focused on the Cultus Sabbati and his own praxis, the Draconian Tradition.
 
-Explanation: Andrew Chumbley was indeed an adept synthesist, as he did not confine his beliefs or practices to just one specific tradition or system. Instead, he chose to gather knowledge and wisdom from different sources and blend them into a unique and cohesive whole. This is what set him apart from other occult practitioners who were often bound to one specific tradition or system.
+**Explanation**: Andrew Chumbley was indeed an adept synthesist, as he did not confine his beliefs or practices to just one specific tradition or system. Instead, he chose to gather knowledge and wisdom from different sources and blend them into a unique and cohesive whole. This is what set him apart from other occult practitioners who were often bound to one specific tradition or system.
 
 One of Chumbley's main focuses was the Cultus Sabbati, an initiatory Wiccan tradition that emphasized on the cultivation of spiritual power through the direct experience of transpersonal forces. This tradition acted as a foundation for Chumbley's own magical system, known as the Draconian Tradition. The Draconian Tradition itself is characterized by its reliance on the practitioner's personal experience, intuition, and gnosis (direct knowledge of the divine) rather than adherence to dogma or traditional material.
 

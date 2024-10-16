@@ -22,7 +22,7 @@ excerpt: Generate a brief but informationally dense grimoire passage on the occu
 
 ## The Leviathan in Esoterica: A Comprehensive Study
 
-Introduction:
+**Introduction**:
 The Leviathan has long captivated the imaginations and inspired the practices of numerous esoteric traditions. Central to an understanding of the Leviathan’s importance is an exploration of its historical origins, its multifaceted symbolism, and its relevance within the myriad of esoteric practices. This passage aims to provide initiates of the occult with a comprehensive and compelling overview of this enigmatic concept.
 
 Historical Origins of Leviathan:

@@ -26,7 +26,7 @@ Origins and Practices:
 
 The term 'necromancy' comes from the Ancient Greek words 'nekros' meaning 'dead body' and 'manteia' meaning 'divination', thus necromancy may be defined as the divination or conjuring of spirits of the deceased. While its roots can be traced back to the mysticism and rituals of Ancient Egypt, Mesopotamia, and India, necromancy has flourished and evolved across different cultures and times. Contrary to popular belief, its widespread practice extends far beyond just sorcerers and dark wizards. Priests, shamans, and healers have all been known to use necromantic rituals to seek guidance, knowledge, and foresight.
 
-Myth: Necromancy is inherently evil.
+**Myth**: Necromancy is inherently evil.
 
 Contrary to popular belief, necromancy itself is not inherently evil. Rather, it is the intentions and methods of the individuals practicing necromancy that determine its moral implications. Some practitioners use necromantic rituals for purposes such as resolving disputes, or healing ailments by consulting with ancestral spirits.
 

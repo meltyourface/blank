@@ -23,10 +23,10 @@ excerpt: >
 
 ## Engravings Unveiled: A Journey through the Art of Tarot Card Designs from the Early Renaissance to the Contemporary Era
 
-Abstract:
+**Abstract**:
 This comprehensive study explores the engraving techniques, styles, and symbolism utilized in tarot card designs spanning from the early Renaissance to contemporary times. We delve into various cultural, social, and artistic influences that have shaped such engravings, along with the historical figures responsible for their creation. Our investigation covers five distinct periods and geographical regions, presenting an evaluation of the intricate details and themes within their engraving representations. Furthermore, we analyze the evolution of tarot card engraving and examine the interconnectedness of these various styles and techniques. Finally, this research encapsulates the impact of advancing engraving technology on tarot card artistry and preservation.
 
-Introduction: 
+**Introduction**: 
 For centuries, tarot cards have been an artistic representation of mysticism, symbolism, and esoteric wisdom. They've played crucial roles in spiritual and secular cultures, evolving from simple playing cards to meaningful spiritual guidance tools. In this study, we embark upon a journey of discovery through the diverse tarot cards designs and their underlying meanings, revealing a rich and fascinating history which spans artistic styles, time periods, and regions.
 
 1. **Early Renaissance (15th Century Italy)**:
@@ -44,7 +44,7 @@ Aleister Crowley, an accomplished occultist, collaborated with artist Lady Fried
 5. ****Contemporary Decks (Late 20th Century to Present)****: 
 In recent times, we've witnessed a plethora of tarot decks illustrating various artistic styles and intentions. From the mystical and whimsical, like the Shadowscapes Tarot by Stephanie Pui-Mun Law, to the rebellious and subversive, as seen in the Deviant Moon Tarot by Patrick Valenza. Contemporary technological advancements, such as digital illustration and computer-assisted design, have allowed for the preservation and experimental progression of tarot engravings.
 
-Conclusion:
+**Conclusion**:
 Throughout history, the evolution of tarot card engravings has intertwined with cultural shifts, artistic movements, and spiritual practices, creating a rich tapestry of symbolism and design. Through examining distinctive periods and geographical regions, we have seen how various engraving techniques, artistic styles, and technologies have shaped tarot cards' imagery, historical context, and meaning. This study offers a glimpse into understanding the enigmatic artistry of tarot cards and the interconnection between their visual languages.
 
 Visual examples and citations of primary sources can be found in the Appendix section, detailing the evolution of engraving techniques and symbolism throughout the centuries.

@@ -23,7 +23,7 @@ excerpt: >
 
 ## The Interweaving Threads of Mysticism: Examining the Connections Between Israel Regardie's "The Golden Dawn" and Eastern Traditions
 
-Abstract: This essay seeks to explore the intricate connections between Israel Regardie's magnum opus, "The Golden Dawn," and Eastern mystical systems, specifically Hinduism and Buddhism. Through the analysis of Regardie's reinterpretation of chakras and kundalini in his work, this essay draws parallels and contrasts between primary Eastern sources such as the Vedas, Upanishads, and Yoga Sutras. Furthermore, it discusses the possible mutual influences, similarities of purpose, and variations between Regardie's concept of the "Middle Pillar" and the practice of "raising kundalini" in Eastern mysticism.
+**Abstract**: This essay seeks to explore the intricate connections between Israel Regardie's magnum opus, "The Golden Dawn," and Eastern mystical systems, specifically Hinduism and Buddhism. Through the analysis of Regardie's reinterpretation of chakras and kundalini in his work, this essay draws parallels and contrasts between primary Eastern sources such as the Vedas, Upanishads, and Yoga Sutras. Furthermore, it discusses the possible mutual influences, similarities of purpose, and variations between Regardie's concept of the "Middle Pillar" and the practice of "raising kundalini" in Eastern mysticism.
 
 Introduction
 

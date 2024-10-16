@@ -35,7 +35,7 @@ excerpt: >
 
 ## Rite of the Stellar Gnosis
 
-Preparation:
+**Preparation**:
 Participants should wear dark robes, preferably adorned with Saturnian symbols. Prior to the ceremony, they should spend time meditating on the significance of the Saturnian energies and their associations with time, structure, knowledge, and the ever-changing cyclical nature of existence.
 
 ### I. Construction of the Altar

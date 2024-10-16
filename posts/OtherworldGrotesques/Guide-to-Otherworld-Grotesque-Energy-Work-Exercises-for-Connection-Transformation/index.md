@@ -23,21 +23,21 @@ Series 1: Foundation Exercises for OtherworldGrotesque Energy Work
 
 Exercise 1: Connecting with the Self-Grotesque
 
-Purpose: To develop self-awareness and to connect with the practitioner's own internal energies associated with the grotesque.
+**Purpose**: To develop self-awareness and to connect with the practitioner's own internal energies associated with the grotesque.
 
-Technique: Begin by finding a quiet and comfortable place where you will not be disturbed. Close your eyes, and visualize yourself standing in front of a mirror. First, focus on the reflection of your physical self, taking note of your appearance and energy. Next, allow your reflection to transform into your Self-Grotesque, a bizarre and otherworldly aspect of your being. Take note of its appearance, energy, and presence.
+**Technique**: Begin by finding a quiet and comfortable place where you will not be disturbed. Close your eyes, and visualize yourself standing in front of a mirror. First, focus on the reflection of your physical self, taking note of your appearance and energy. Next, allow your reflection to transform into your Self-Grotesque, a bizarre and otherworldly aspect of your being. Take note of its appearance, energy, and presence.
 
-Invocation: "I am a vessel of the Otherworldly Grotesque. By embracing my Self-Grotesques, I awaken and strengthen my connection to the bizarre and unknown."
+**Invocation**: "I am a vessel of the Otherworldly Grotesque. By embracing my Self-Grotesques, I awaken and strengthen my connection to the bizarre and unknown."
 
-Complexity: Beginner
+**Complexity**: Beginner
 
 Exercise 2: Communing with the Grotesque Elemental Forces
 
-Purpose: To develop an understanding of the Five Grotesque Elemental Forces: Mutatia (shape-shifting), Limbia (liminality), Ombria (shadow), Insecta (hive mind), and Tentaclax (tentacles).
+**Purpose**: To develop an understanding of the Five Grotesque Elemental Forces: Mutatia (shape-shifting), Limbia (liminality), Ombria (shadow), Insecta (hive mind), and Tentaclax (tentacles).
 
-Technique: In a quiet and calm setting, close your eyes and visualize a quintagonal space around you. Take several deep breaths and center yourself before invoking each energy in turn, focusing on its essence and how it manifests within the grotesque realm. Feel the energy entering and merging with your form, blending and adapting to your unique balance.
+**Technique**: In a quiet and calm setting, close your eyes and visualize a quintagonal space around you. Take several deep breaths and center yourself before invoking each energy in turn, focusing on its essence and how it manifests within the grotesque realm. Feel the energy entering and merging with your form, blending and adapting to your unique balance.
 
-Invocation: 
+**Invocation**: 
 
 "Element of Mutatia, I invite you into my being, shape my thoughts, and warp my reality.
 Element of Limbia, I welcome you, blur the lines between worlds, and grant me passage through the veil.
@@ -45,29 +45,29 @@ Element of Ombria, I invoke your power, cloak me in darkness, and make me unseen
 Element of Insecta, I connect with your hive mind, granting me unity and instinctive knowledge of the grotesque.
 Element of Tentaclax, I embrace your unstoppable reach, may it extend my power and influence."
 
-Complexity: Beginner to Intermediate
+**Complexity**: Beginner to Intermediate
 
 Series 2: Advanced OtherworldGrotesque Energy Work
 
 Exercise 3: Summoning Grotesque Entities
 
-Purpose: To engage with external Otherworldly entities and establish a relationship for guidance, protection, or assistance.
+**Purpose**: To engage with external Otherworldly entities and establish a relationship for guidance, protection, or assistance.
 
-Technique: Clear the space around you, ensuring it is free of distractions or negative energies. Create a summoning circle using symbols, talismans, or objects that resonate with the desired entity. Visualize that entity, focusing on its form, energy, and presence. Invite them by speaking their name and welcoming them with openness and respect.
+**Technique**: Clear the space around you, ensuring it is free of distractions or negative energies. Create a summoning circle using symbols, talismans, or objects that resonate with the desired entity. Visualize that entity, focusing on its form, energy, and presence. Invite them by speaking their name and welcoming them with openness and respect.
 
-Invocation: "I, [your name], call upon you, [entity name], to join me within this sacred circle. We navigate the realms and mysteries together."
+**Invocation**: "I, [your name], call upon you, [entity name], to join me within this sacred circle. We navigate the realms and mysteries together."
 
-Complexity: Advanced
+**Complexity**: Advanced
 
 Energy Safety Note: Always approach with respect and clear boundaries. Maintain personal protective measures, such as shielding your energy, to avoid being overwhelmed or drained by the entity.
 
 Exercise 4: Chthonic Grotesque Astral Projection
 
-Purpose: To engage in remote esoteric exploration, communing with grotesque realms or entities beyond the physical plane.
+**Purpose**: To engage in remote esoteric exploration, communing with grotesque realms or entities beyond the physical plane.
 
-Technique: Safely and comfortably recline, allowing your body to relax and your mind to remain alert. Begin by grounding yourself within your Self-Grotesque form. Imagine yourself in a vast, dark chasm, where a portal awaits, crafted from grotesque materials, attached by monstrous limbs. Travel through this portal into a grotesque abyss, where twisted forms, bizarre energies, and unexpected manifestations await.
+**Technique**: Safely and comfortably recline, allowing your body to relax and your mind to remain alert. Begin by grounding yourself within your Self-Grotesque form. Imagine yourself in a vast, dark chasm, where a portal awaits, crafted from grotesque materials, attached by monstrous limbs. Travel through this portal into a grotesque abyss, where twisted forms, bizarre energies, and unexpected manifestations await.
 
-Complexity: Advanced
+**Complexity**: Advanced
 
 Astral Safety Note: Utilize your connection to the Grotesque Elemental Forces to maintain boundaries and personal power. Strengthen your grounding and connection to your Self-Grotesque before each journey. Be prepared for unsettling discoveries and experiences.
 
@@ -75,15 +75,15 @@ Series 3: Mastery of OtherworldGrotesque Energy Work
 
 Exercise 5: Grotesque Alchemy and Transmutation
 
-Purpose: To transform energies, beliefs, and manifestations from mundane to OtherworldGrotesque and vice versa.
+**Purpose**: To transform energies, beliefs, and manifestations from mundane to OtherworldGrotesque and vice versa.
 
-Technique: Focus your intention on an object, belief, or energy you wish to transform. Envision the desired outcome in its grotesque form, including shape, size, material, energy, or essence. Move your hands in a counterclockwise spiral while chanting:
+**Technique**: Focus your intention on an object, belief, or energy you wish to transform. Envision the desired outcome in its grotesque form, including shape, size, material, energy, or essence. Move your hands in a counterclockwise spiral while chanting:
 
 "Mutatia, Limbia, Ombria, Insecta, Tentaclax,
 Transmute this being into the divine grotesque,
 By my will, so mote it be."
 
-Complexity: Master Level
+**Complexity**: Master Level
 
 Transmutation Safety Note: Engage in regular grounding practices and maintain strong boundaries when performing transmutations to avoid unintended consequences.
 

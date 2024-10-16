@@ -22,7 +22,7 @@ excerpt: Compose a guided meditation rooted in the folk-magical tradition to acc
 
 ## Journey to the Akashic Library
 
-Preparation:
+**Preparation**:
 
 Begin by finding a quiet location where you can sit or lie down comfortably. Make sure you have enough time and won't be disturbed during the meditation. Light some candles and incense to create a calm atmosphere and engage your senses. Burn sage or palo santo around your body and the room to cleanse your aura.
 
@@ -50,7 +50,7 @@ The Akashic Records:
 
 9. The guardian leads you to a specific book or scroll containing the information you seek. As you hold the record in your hands, begin to absorb the knowledge within. The answers will manifest as images, symbols, or messages directly into your consciousness.
 
-Completion:
+**Completion**:
 
 10. Thank your guardian for their assistance and guidance. With newfound wisdom in hand, slowly exit the library, knowing you can always return for more insights and knowledge.
 

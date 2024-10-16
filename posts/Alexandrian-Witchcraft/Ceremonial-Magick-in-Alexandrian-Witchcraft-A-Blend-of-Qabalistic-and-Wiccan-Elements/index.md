@@ -29,7 +29,7 @@ excerpt: >
 ---
 Answer: Focused on ceremonial magick, incorporating both Wiccan and Qabalistic elements in their rituals.
 
-Explanation: As an Alexandrian Witchcraft master, I can affirm that this tradition is focused on ceremonial magick. Alexandrian Witchcraft, founded in the 1960s by Alex Sanders and his wife Maxine, is considered a blend of Gardnerian Wicca and Ceremonial Magick. Its principles and practices draw heavily from both Wiccan and Qabalistic influences.
+**Explanation**: As an Alexandrian Witchcraft master, I can affirm that this tradition is focused on ceremonial magick. Alexandrian Witchcraft, founded in the 1960s by Alex Sanders and his wife Maxine, is considered a blend of Gardnerian Wicca and Ceremonial Magick. Its principles and practices draw heavily from both Wiccan and Qabalistic influences.
 
 Ceremonial magick, a more complex and symbolic form of magick, is rooted in Hermetic and Qabalistic practices. This form of magick typically involves in-depth visualization, ritual work, and the invocation of deities, spirits, and other entities. Alexandrian Witchcraft adopted these practices into its own tradition.
 

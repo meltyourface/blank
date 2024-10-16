@@ -22,16 +22,16 @@ excerpt: >
 ---
 Language Name: Aleazar
 
-Phonology:
+**Phonology**:
 Aleazar has a diverse phonology consisting of various consonants and vowels, with no fixed number of them. New sounds may spontaneously be created, altered, or cease to exist, leading to an unpredictable phonetic landscape.
 
-Grammar:
+**Grammar**:
 Aleazar's grammar generally follows a Subject-Object-Verb (SOV) structure, but the order may randomly change within a sentence, conversation, or time frame. To communicate effectively, the listener should be sensitive to unpredictable shifts in word order.
 
-Nouns:
+**Nouns**:
 Nouns in Aleazar can change their form without any predictable pattern. There are numerous affixes that attach to nouns to indicate their role in a sentence, and these affixes change unpredictably. Additionally, there is no strict distinction between singular and plural forms, which can lead to creative interpretations of quantity.
 
-Verbs:
+**Verbs**:
 Verbs in Aleazar represent the core idea of change and disorder by having numerous irregular conjugations that vary depending on factors such as time, mood, or chance. Additionally, it is common for verbs to change in tense or form mid-sentence, resulting in a fluid and dynamic representation of actions and states.
 
 Adjectives and Adverbs:

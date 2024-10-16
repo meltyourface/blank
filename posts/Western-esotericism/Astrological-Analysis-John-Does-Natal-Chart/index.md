@@ -23,7 +23,7 @@ To complete this task, I will need a specified birth date, time, and location. H
 
 1. First, I calculate the positions of the celestial bodies at the time of birth, using an astrological software to ensure accuracy: 
 
-Sun: 10° Capricorn
+**Sun**: 10° Capricorn
 Moon: 18° Pisces
 Mercury: 25° Sagittarius
 Venus: 14° Aquarius

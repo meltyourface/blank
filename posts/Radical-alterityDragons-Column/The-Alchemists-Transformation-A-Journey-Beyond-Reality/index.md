@@ -23,7 +23,7 @@ excerpt: >
 
 ## The Transmutation of Lucius Grimreap
 
-Prologue: The Unseen Flame
+**Prologue**: The Unseen Flame
 
 In the quiet town of Elmsworth, there lived a meek librarian named Lucius Grimreap, whose unassuaged curiosity led him beyond the boundaries of human ken. Unknown to the world, Lucius had discovered an ancient order, the Radical alterity.Dragon's Column, which taught the secrets of the cosmos. Being drawn into the enigmatic fold, Lucius swore an eternal oath to the craft and dedicated his life to the unraveling of knowledge hidden beneath the veil of reality. This chronicle shall reveal the metamorphosis that Lucius would undergo, as he traversed the perilous stages of Alchemy's Magnum Opus.
 
@@ -55,6 +55,6 @@ Rubedo, the final stage of the Magnum Opus, heralded Lucius' integration of outr
 
 His mastery of the Radical alterity.Dragon's Column teachings was tested against demonic legions and phantasmagoric adversaries. With newfound sense of unity and power, Lucius overcame these otherworldly challenges.
 
-Epilogue: The Enlightened One
+**Epilogue**: The Enlightened One
 
 Emerging triumphant, this chronicle of a mortal transcending human limitations shall forever exist as a testament to the powers that await those who dare entertain the esoteric precepts of the Radical alterity.Dragon's Column. Lucius Grimreap stood as an enlightened figure, an embodiment of Radical alterity, an eternal beacon of esoteric mastery to those who sought similar paths.

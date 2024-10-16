@@ -26,7 +26,7 @@ I carefully analyze the grimoire's language and script, identifying it as Lëtho
 
 Before translating, I take a moment to ground and protect myself by invoking a circle of protection around me to ensure that no unintended energies or entities interfere with the translation process. Once secured, I begin the meticulous work of translating and preserving the ritual texts.
 
-Translation:
+**Translation**:
 
 The Tome of Ethereal Entities and Forbidden Chthonic Lore
 

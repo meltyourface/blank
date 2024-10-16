@@ -23,7 +23,7 @@ Catalog of Diverse Offerings and Ceremonial Guidelines for Ancestral Worship
 
 ### I. Honoring Recently Deceased Ancestors
 
-Offerings:
+**Offerings**:
 1. **Fresh fruits and vegetables**: Select locally sourced, seasonal produce.
 2. **Cooked dishes**: Prepare the deceased's favorite meals or dishes significant to your cultural background.
 3. **Beverages**: Include water, tea, alcohol, or other beverages the deceased enjoyed.
@@ -41,7 +41,7 @@ Ceremonial Guidelines:
 
 ### II. Commemorating Long-Lost Ancestors
 
-Offerings:
+**Offerings**:
 1. **Ancestral foods**: Research and prepare traditional dishes that your ancestors might have enjoyed.
 2. **Grains and seeds**: Offer whole grains, such as rice, wheat, or corn, which represent sustenance and abundance.
 3. **Water**: Symbolizes life and cleansing.
@@ -58,7 +58,7 @@ Ceremonial Guidelines:
 
 ### III. Appeasing Distressed Ancestral Spirits
 
-Offerings:
+**Offerings**:
 1. **Rice**: Represents purification and balance.
 2. **Salt**: Symbolizes cleansing and protection.
 3. **Chrysanthemum flowers**: Known for their purifying and calming properties.
@@ -75,7 +75,7 @@ Ceremonial Guidelines:
 
 ### IV. Celebrating Ancestral Achievements
 
-Offerings:
+**Offerings**:
 1. **Gold- or silver-colored items**: Represent wealth and prosperity.
 2. **Luxury foods and drinks**: Choose decadent treats and beverages to celebrate the ancestor's accomplishments.
 3. **Flowers**: Opt for vibrant and fragrant blooms that signify victory or success, such as roses or lilies.

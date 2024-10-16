@@ -22,9 +22,9 @@ excerpt: Craft an intricate ceremonial rite to amplify one's bond with the poten
 
 ## The Rite of Pivotal Alignment
 
-Objective: To strengthen the bond with the potent spirit Oriens during moments of self-expansion and growth, using the domain knowledge of Asmodeus and Oriens.
+**Objective**: To strengthen the bond with the potent spirit Oriens during moments of self-expansion and growth, using the domain knowledge of Asmodeus and Oriens.
 
-Materials:
+**Materials**:
 
 1. An altar table
 2. Four cardinal incense (East: sandalwood, South: dragon's blood, West: jasmine, North: frankincense)
@@ -38,7 +38,7 @@ Materials:
 10. Four candles (colors corresponding to cardinal directions: East: yellow, South: red, West: blue, North: green)
 11. A parchment paper to write the desired self-expansion manifestation
 
-Procedure:
+**Procedure**:
 
 1. Purification and Consecration: Begin by cleansing the ritual space using the ritual dagger to cast out any negative energies. Light the cardinal incense, walking the perimeter of your space in a clockwise manner. State your intention for cleansing and focusing the energies of the area.
 

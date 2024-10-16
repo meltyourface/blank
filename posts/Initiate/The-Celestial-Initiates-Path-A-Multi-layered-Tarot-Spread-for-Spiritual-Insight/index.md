@@ -23,7 +23,7 @@ excerpt: Create a meticulously refined Tarot card spread, specialized for illumi
 
 ## The Celestial Initiate's Path Tarot Spread
 
-Description: The Celestial Initiate's Path is a meticulously refined Tarot card spread that illuminates the intricacies of an individual's spiritual journey. Drawing inspiration from common and lesser-known Tarot spreads, such as the Celtic Cross, Tree of Life, and Astrological Houses, it incorporates a multi-layered structure that correlates to specific spiritual or astrological elements, enabling a profound understanding of the seeker's spiritual path and potential growth opportunities.
+**Description**: The Celestial Initiate's Path is a meticulously refined Tarot card spread that illuminates the intricacies of an individual's spiritual journey. Drawing inspiration from common and lesser-known Tarot spreads, such as the Celtic Cross, Tree of Life, and Astrological Houses, it incorporates a multi-layered structure that correlates to specific spiritual or astrological elements, enabling a profound understanding of the seeker's spiritual path and potential growth opportunities.
 
 Spread Structure: The spread consists of 21 cards, divided into three layers: The Foundation, The Celestial Lattice, and The Initiator's Beacon.
 
@@ -61,6 +61,6 @@ Layer 3: The Initiator's Beacon (Cards 15-21)
 20. Creativity: Developing one's unique expression,
 21. Enlightenment: Striving towards spiritual fulfillment.
 
-Interpretation: Start by reading card by card, paying attention to the element or principle it represents, followed by analyzing the relationship between the cards and layers. Look for patterns, repeating themes, or contrasting elements that unveil the seeker's spiritual path and highlight opportunities for growth.
+**Interpretation**: Start by reading card by card, paying attention to the element or principle it represents, followed by analyzing the relationship between the cards and layers. Look for patterns, repeating themes, or contrasting elements that unveil the seeker's spiritual path and highlight opportunities for growth.
 
 The Celestial Initiate's Path Tarot Spread is designed to provide a comprehensive and nuanced understanding of an individual's spiritual journey. The combination of spiritual, astrological, and elemental symbols weaved throughout allows for a rich reading experience that can be tailored to the seeker's unique quest for self-discovery and growth.

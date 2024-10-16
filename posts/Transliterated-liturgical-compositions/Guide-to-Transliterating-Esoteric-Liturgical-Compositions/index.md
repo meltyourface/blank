@@ -60,7 +60,7 @@ As practitioners delve into the complexities of transliterated liturgical compos
 
 3. ****Engage in meditation****: Contemplatively exploring the deeper layers of meaning within the text can open up insights not immediately discernible to the rational mind.
 
-Example: The Orphic Hymns
+**Example**: The Orphic Hymns
 
 The Orphic Hymns are a collection of 87 hymns composed in Greek, dating back to the 2nd and 3rd centuries CE. In the occult domain, the Orphic Hymns are held in high regard for their mystical potency. They have been translated and transcribed widely, retaining their evocative power in various languages and scripts. Their anthems are devoted to a pantheon of gods and goddesses, reflecting ancient beliefs and philosophies that resonate deeply with occult practitioners today.
 

@@ -22,9 +22,9 @@ excerpt: Devise an intricate Winter Solstice ceremony, steeped in occult symboli
 
 ## The Ritual of the Eternal Cycle
 
-Setting: A Sacred Grove, adorned with Yule decorations, ancient symbols, and ancestral relics
+**Setting**: A Sacred Grove, adorned with Yule decorations, ancient symbols, and ancestral relics
 
-Objective: To pay homage to the ancestors, venerate their wisdom, and forge a deeper connection with the ancestral spirits during the longest night of the year, the Winter Solstice.
+**Objective**: To pay homage to the ancestors, venerate their wisdom, and forge a deeper connection with the ancestral spirits during the longest night of the year, the Winter Solstice.
 
 Timeline of Events:
 

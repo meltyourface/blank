@@ -22,7 +22,7 @@ excerpt: Design a powerful arcane ritual for summoning the Realm of Lucid Dreams
 
 ## The Arcane Ritual of Ethereal Oneirogenesis
 
-Objective: To summon the Realm of Lucid Dreamscapes and achieve mastery over one's own dreams while traversing the subconscious.
+**Objective**: To summon the Realm of Lucid Dreamscapes and achieve mastery over one's own dreams while traversing the subconscious.
 
 Incantation Sequence:
 

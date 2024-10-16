@@ -22,7 +22,7 @@ excerpt: Craft an elaborate protection ritual specifically aimed at shielding a 
 
 ## The Sanctum Ascendere Barrier
 
-Purpose: To create an elaborate protection ritual specifically aimed at shielding a workspace or business from malevolent witches and nefarious spirits.
+**Purpose**: To create an elaborate protection ritual specifically aimed at shielding a workspace or business from malevolent witches and nefarious spirits.
 
 Materials Required:
 
@@ -35,7 +35,7 @@ Materials Required:
 7. A dagger (ceremonial or athame)
 8. A white or purple candle (for channelling positive energy)
 
-Instructions:
+**Instructions**:
 **Step 1**: Preparations
 - Choose a quiet time, preferably during the waning moon, to perform the ritual.
 - Cleanse the area, both physically and energetically, by sweeping, dusting and removing clutter.
@@ -77,7 +77,7 @@ Maneat hinc tutum, cunctis temporibus late.'
 
 - Close the ritual by giving thanks to the elements, ancestors and any guiding spirits.
 
-Maintenance:
+**Maintenance**:
 - Repeat the ritual once every three months, updating symbols and incantations as needed to address evolving threats.
 - Cleanse and recharge the amulets and crystals regularly.
 - Utilize the candle to anchor and channel positive energy, maintaining the barrier's efficacy and adaptive strengths.

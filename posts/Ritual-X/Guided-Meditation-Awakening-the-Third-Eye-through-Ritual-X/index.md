@@ -52,13 +52,13 @@ While chanting the ancient invocations, bring awareness to each of your seven ch
 
 As you attend to your sixth chakra, the third eye, allow it to ignite with life, the indigo flame growing brighter and stronger. Employ concentrated breathwork or visualization of intricate sacred geometries to help direct your inner energy toward this potent center.
 
-IV: Connecting with Your Spirit Guide
+**IV**: Connecting with Your Spirit Guide
 
 With the energy of your third eye activated, call upon your spirit guide or guardian to join you in the sacred chamber. Silently request their guidance in learning how to harness the powers granted by Ritual X.
 
 Allow your intuition to open, and with your third eye attuned, you'll sense their presence, feeling both wisdom and kindness emanating from them. Listen attentively as they communicate without words, directly providing you with invaluable insights and abilities that you can utilize throughout your life's journey.
 
-V: Closing Ceremony: Grounding and Gratitude
+**V**: Closing Ceremony: Grounding and Gratitude
 
 As your connection with your spirit guide comes to a natural close, engage in a final ceremony to ground yourself and ensure balance within your energetic field. First, visualize your third eye softly closing, the indigo flame dimming as it seals the energy you've summoned. Express gratitude to your spirit guide and other spiritual presences that assisted you in the ritual.
 

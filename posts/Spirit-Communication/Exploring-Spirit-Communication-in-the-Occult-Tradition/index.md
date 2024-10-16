@@ -23,7 +23,7 @@ excerpt: >
 
 ## The Art of Spirit Communication
 
-Introduction:
+**Introduction**:
 The art of Spirit Communication is an intrinsic element within the study and practice of the occult. Spanning across diverse cultures and historical eras, communicating with spirits has been a way in which individuals sought to gain knowledge, power, or assistance from entities that exist beyond the veil of the physical realm. In this section, we delve into the history, practices, and various methods of Spirit Communication, thereby providing a comprehensive foundation for students who are eager to engage with this rich and deeply mysterious domain.
 
 Historical Overview:

@@ -27,7 +27,7 @@ excerpt: >
 ---
 Answer: A romantic affair between a mortal and a supernatural being, mirroring the push and pull of fear and fascination in occult practice, and their shared desire to explore each other's realms.
 
-Explanation: This subplot best demonstrates the seamless integration of esoteric elements, the adventure genre, and the complexity of romantic relationships for a few reasons.
+**Explanation**: This subplot best demonstrates the seamless integration of esoteric elements, the adventure genre, and the complexity of romantic relationships for a few reasons.
 
 First, the presence of a supernatural being paired with a mortal exemplifies the essence of the occult, which is characterized by the study of hidden or secret knowledge, particularly of a supernatural nature. Additionally, the quasi-forbidden nature of such a union will pique the reader's curiosity, similar to prohibition-era allure.
 

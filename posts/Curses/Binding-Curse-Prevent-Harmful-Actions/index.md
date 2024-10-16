@@ -22,14 +22,14 @@ excerpt: Design a sophisticated binding curse that specifically targets an indiv
 
 ## The Ebon Serpent Binding
 
-Intent: This curse is designed to bind a specific individual, preventing them from causing any form of physical, mental, or emotional harm. It harnesses the essence of potent ingredients and requires a meticulous ritual to be activated.
+**Intent**: This curse is designed to bind a specific individual, preventing them from causing any form of physical, mental, or emotional harm. It harnesses the essence of potent ingredients and requires a meticulous ritual to be activated.
 
-Ingredients:
+**Ingredients**:
 1. Black mamba venom (1 gram) – for amplifying the power of the curse and imbuing it with a paralyzing effect.
 2. Crushed moonstones (13 grams) – for channeling lunar energies and strengthening the connection with the target.
 3. Tears of a Chameleon (9 drops) – for adaptability, ensuring the curse adjusts to the target's attempts to resist or bypass it.
 
-Ritual:
+**Ritual**:
 1. The ritual is to be performed at midnight, during a waning moon, which is the symbol of completion, surrender, and letting go.
 2. Mark out a circle with a 12-foot diameter and inscribe the sacred pentagram within it, surrounded by a secondary circle of ancient runes to invoke protection and power.
 3. Light five black candles at the points of the pentagram, representing the elements—earth, air, fire, water, and spirit.

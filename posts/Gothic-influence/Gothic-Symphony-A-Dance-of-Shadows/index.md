@@ -21,7 +21,7 @@ excerpt: Compose a symphonic masterpiece that embodies the quintessence of the G
 ---
 As a text-based AI, I am unable to compose an actual symphonic masterpiece. However, I can provide you with an outline for creating a Gothic symphony that is rich in themes and atmosphere derived from the esoteric, supernatural, and dark beauty of Gothic culture.
 
-Title: Symphony of Lamenting Shadows
+**Title**: Symphony of Lamenting Shadows
 
 ### I. Awakening of the Vampyre (Allegro Misterioso)
 

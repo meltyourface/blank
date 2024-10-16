@@ -22,9 +22,9 @@ excerpt: Design a detailed Wiccan ritual incorporating symbols, chants, and offe
 
 ## The Encompassing Rite of the Triple Aspects
 
-Objective: To honor and celebrate the Goddess and God in their triple aspects, combining symbols, chants, and offerings to deepen our spiritual connection with them.
+**Objective**: To honor and celebrate the Goddess and God in their triple aspects, combining symbols, chants, and offerings to deepen our spiritual connection with them.
 
-Preparation:
+**Preparation**:
 
 1. Cleanse and consecrate the ritual space using saltwater and incense.
 2. Choose representations of each aspect: candles or statues (green for the Maiden and Youth, red for the Mother and Father, and black for the Crone and Sage).
@@ -61,7 +61,7 @@ Phase 3: Honoring the Crone and Sage
 3. Present an offering: Offer stones, crystals, or herbs and say: "May these stones/crystals/herbs symbolize the wisdom and stability you both embody."
 4. Reflect on wisdom and transformation in your life.
 
-Closing:
+**Closing**:
 
 1. Thank the triple aspects of the Goddess and God for their presence, wisdom, and blessings, saying: "Maiden, Mother, Crone; Youth, Father, Sage; your presence, wisdom, and blessings are acknowledged and embraced. Blessed be."
 2. Release the elements, thanking them for their protection and guidance.

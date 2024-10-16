@@ -25,7 +25,7 @@ excerpt: >
 
 Note on Specifics: Given that prehistoric sacred sites and ancient monuments come in various forms, sizes, and with unique cultural backgrounds, this Earth-magic ritual is designed to be adapted to the specific site chosen. The examples provided reference Stonehenge, but can be adjusted for any other site.
 
-Objective: To enhance the connection between humans and prehistoric sacred sites or ancient monuments, we will invoke the elemental forces and harness mystical symbols to perform the Ritual of the Primordial Harmonization.
+**Objective**: To enhance the connection between humans and prehistoric sacred sites or ancient monuments, we will invoke the elemental forces and harness mystical symbols to perform the Ritual of the Primordial Harmonization.
 
 Materials Required:
 1. Natural, local materials used in constructing the site (e.g., bluestones from Stonehenge)
@@ -48,7 +48,7 @@ Main Ritual:
 5. Release the enhanced energies by performing a ritual dance or similar physical expression around the sacred site. This ensures that the energies are properly dispersed and harmonized with the ambient energies of the site.
 6. Stand in a circle once more, holding hands and envisioning roots extending from each participant's feet into the ground. Visualize the site's energy rising from the Earth and flowing through the group, further solidifying the connection between humans and the sacred site.
 
-Closure:
+**Closure**:
 1. Slowly dissolve the circle, allowing each participant to depart with their talisman and new connection to the site.
 2. Express gratitude to the ancestors, spirits, and deities for their guidance and permission.
 3. Cleanse the area one more time and leave an offering at the site as an act of appreciation and respect.

@@ -28,7 +28,7 @@ Materials Required:
 3. **Gemstones**: Black tourmaline and garnet, both known for their potent protective qualities.
 4. **Thistle flowers**: Freshly picked, under the harvest moon's light.
 
-Design:
+**Design**:
 The intricate design, infused with sacred traditional symbols, includes:
 
 1. **Sigil of Protection**: Encircled at the amulet's center, this sigil is surrounded by Thistle flowers and further empowered by the lunar influence of the moon-imbued silver.

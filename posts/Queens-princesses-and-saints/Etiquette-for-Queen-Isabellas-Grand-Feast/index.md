@@ -23,7 +23,7 @@ excerpt: >
 
 ## Title: Etiquette Guidelines for the Grand Feast of Her Majesty, Queen Isabella
 
-Introduction:
+**Introduction**:
 Her Majesty, Queen Isabella, graciously invites esteemed members of the royal court, distinguished princesses, and revered saints to partake in the grand feast—an emblem of unity and reverence to cherished traditions and the display of the exhibition of highest culture. The following etiquette guidelines must be adhered to by all attendees, ensuring that propriety, decorum, and historical precedent echo throughout the evening.
 
 Seating Arrangements:
@@ -46,11 +46,11 @@ Conversation Topics:
 3. In the presence of revered saints, conversations shall remain respectful and modest, allowing for the sharing of their spiritual wisdom.
 4. Attendees must uphold the etiquette of listening attentively and appreciating the opinion of others, as seen in the court of Queen Elizabeth I of England.
 
-Attire:
+**Attire**:
 1. Attire for the grand feast shall be elegant and refined, reflecting the styles common in the court of Queen Philippa of Hainault, mother of Edward III of England.
 2. Royal attendees should don their regalia, including the royal family's finest jewels and adornments, as was customary in the reign of Maria Theresa of Austria.
 3. The queens, princesses, and saints are encouraged to incorporate religious and symbolic motifs into their attire as a nod to the pious devotion of saints.
 4. All attendees must maintain modesty in appearance and pay particular attention to elaborate hair ornaments and headdresses, mirroring the elegance of the French court during the rule of Anne of Brittany.
 
-Conclusion:
+**Conclusion**:
 In honoring the historical traditions and virtuous values of past queens, princesses, and saints, the Grand Feast of Her Majesty, Queen Isabella, will exemplify grace and refinement. The etiquette guidelines provided shall usher in an atmosphere of unity and noble camaraderie, allowing for a truly memorable evening befitting Her Majesty's court.

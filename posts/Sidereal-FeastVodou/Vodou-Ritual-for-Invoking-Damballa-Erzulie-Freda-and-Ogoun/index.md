@@ -22,16 +22,16 @@ excerpt: >
 ---
 In the esoteric tradition of Sidereal FeastVodou, we find a plethora of ancient rituals that call upon the guidance and protection of Vodou spirits known as Lwa. **For this particular ritual, we shall focus on invoking the energies of three powerful Lwa**: Damballa, Erzulie Freda, and Ogoun. We will incorporate three traditional herbs, two consecrated oils, and a triad of colors to enhance our connection to these spirits.
 
-Herbs:
+**Herbs**:
 1. Basil (Ocimum basilicum) - Associated with love, protection, and wealth.
 2. Vervain (Verbena officinalis) - Linked with purification, spiritual cleansing, and protection.
 3. Mugwort (Artemisia vulgaris) - Utilized for divination, psychic abilities, and prophetic dreams.
 
-Oils:
+**Oils**:
 1. Vetiver oil (Vetiveria zizanioides) - A grounding, protective, and purifying oil.
 2. Ylang Ylang oil (Cananga odorata) - An oil known for attracting love, sensuality, and spiritual communion.
 
-Colors:
+**Colors**:
 1. White - Representing purity, light, and Damballa.
 2. Pink - Symbolic of love, compassion, and Erzulie Freda.
 3. Red - Embodying power, strength, and Ogoun.

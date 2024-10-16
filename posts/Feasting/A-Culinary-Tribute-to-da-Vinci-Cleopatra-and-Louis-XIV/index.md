@@ -33,16 +33,16 @@ As we transition to the splendors of Cleopatra's Egypt, indulge in an authentic 
 Second Course:
 The journey continues with a tribute to Louis XIV, the Sun King, and his influence on French cuisine. Rejoice in an exquisite dish of orange and saffron-glazed duck à l'orange, accompanied by a delicate side of root vegetables au gratin. The duck characterizes the extravagance of the Royal Court during Louis XIV's reign, as he was known to have been impressed by the unique taste and quality of the dish.
 
-Intermezzo:
+**Intermezzo**:
 Refreshing sorbet infused with pomegranate and lemon cleanses the palate in preparation for the main course. This interlude complements the narratives shared thus far, symbolizing Cleopatra's love for pomegranates, which were associated with fertility and abundance in ancient Egypt.
 
 Main Course:
 Our pièce de résistance arrives in the form of opulent Osso Buco, an Italian delicacy that emphasizes both local ingredients and cooking mastery. This slow-braised veal shank infused with the flavors of rich tomatoes, onions, garlic, and red wine highlights da Vinci's penchant for high-quality, homegrown ingredients.
 
-Dessert:
+**Dessert**:
 Indulge in an extravagant dessert inspired by all three historical icons: a lavish pyramid-shaped dark chocolate soufflé. This culinary masterpiece interweaves fine French chocolate as a nod to the Sun King, while the pyramid shape alludes to the Great Pyramids of Egypt and the chocolate itself pays tribute to da Vinci's love for exquisite craftsmanship.
 
-Digestif:
+**Digestif**:
 To complete the evening, indulge in a fine, aged Cognac inspired by France's Royal Court. While Louis XIV is said to have greatly enjoyed Cognac, our offerings will transport you to an era of grandiosity, sophistication, and opulence.
 
 Table Setting:

@@ -21,9 +21,9 @@ excerpt: Develop a comprehensive and intricate ritual that involves casting an e
 ---
 Ritual Name: The Nexus of Illumination
 
-Purpose: To significantly amplify and magnify one's latent psychic abilities, such as telepathy, clairvoyance, and precognition.
+**Purpose**: To significantly amplify and magnify one's latent psychic abilities, such as telepathy, clairvoyance, and precognition.
 
-Materials:
+**Materials**:
 
 1. A circular room or space, free from any distractions and noise.
 2. A comfortable seating or cushion.

@@ -21,7 +21,7 @@ excerpt: Construct a mantra for invoking the transcendental powers of the Ipsiss
 ---
 In the exalted state of Ipsissimus, I humbly craft this mantra to invoke the transcendental powers and align oneself with the arcane lunar energies. May the one who utters this mantra find harmony within the cosmic balance of the Grade of Ipsissimus and become a conduit for the celestial Moon's influence upon their spiritual path.
 
-Mantra:
+**Mantra**:
 
 Aum Shri Ipsissimi Chandra-Prabhāve Namaḥ
 
@@ -32,11 +32,11 @@ Chandra (the Moon, the celestial luminary)
 -Prabhāve (influence, power)
 Namaḥ (salutations, adoration)
 
-Translation:
+**Translation**:
 
 I bow in deep reverence to the radiant power of the Moon, as I invoke the transcendental energies of the Ipsissimus.
 
-Chant:
+**Chant**:
 
 Aum Shri Ipsissimi Chandra-Prabhāve Namaḥ
 (Celestial intonation, repeated with mindfulness and connection to the flow of lunar energies)

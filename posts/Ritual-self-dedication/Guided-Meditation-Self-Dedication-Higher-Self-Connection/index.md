@@ -23,7 +23,7 @@ excerpt: >
 
 ## The Sacred Ritual of Self-Dedication and Connection to the Higher Self
 
-Introduction:
+**Introduction**:
 Welcome, divine seeker, to the Sacred Ritual of Self-Dedication and Connection to the Higher Self. This guided meditation will take you on a transformative journey through the realm of the esoteric, unlocking doors and paths within your soul to access and embrace your higher self. This ceremony contains specific phases, including purification, invocation of sacred entities, pledges of commitment, and both symbolic and tangible elements to enrich your experience.
 
 Phase 1: Purification
@@ -68,6 +68,6 @@ Phase 5: Communion and Integration
 
 4. Descend the glowing staircase, returning to your physical body, feeling renewed, aligned, and deeply connected to your higher self.
 
-Closure:
+**Closure**:
 
 As you come back to awareness in your sacred space, ground yourself by feeling your connection to the Earth beneath you. Open your eyes and take a moment to reflect on the experiences and wisdom gained during this ritual. Carry this newfound knowledge and connection with you as you proceed on your path of spiritual growth and self-discovery. Blessed be.

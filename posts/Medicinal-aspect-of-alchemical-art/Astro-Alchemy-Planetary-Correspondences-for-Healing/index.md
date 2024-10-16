@@ -78,4 +78,4 @@ excerpt: >
    - Astrological influence on well-being: Aids in maintaining structure, stability, and discipline
    - Planetary movements: Remedies are enhanced when Saturn is in Capricorn or Aquarius
 
-Note: The relationships between alchemical planetary correspondences and their influence on human well-being depend on an individual's natal chart and the current astrological climate. The planetary movements and their influence on alchemical remedies are subject to change, and should be considered in conjunction with individual astrological configurations.
+**Note**: The relationships between alchemical planetary correspondences and their influence on human well-being depend on an individual's natal chart and the current astrological climate. The planetary movements and their influence on alchemical remedies are subject to change, and should be considered in conjunction with individual astrological configurations.

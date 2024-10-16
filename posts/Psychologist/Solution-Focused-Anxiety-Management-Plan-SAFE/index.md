@@ -22,7 +22,7 @@ excerpt: >
 ---
 Solution-Focused Brief Therapy (SFBT) is an evidence-based, strengths-based approach to therapy that emphasizes the importance of focusing on solutions rather than problems. As a Psychologist with a deep understanding of SFBT, the following intervention can be designed to support a client in recognizing and implementing positive coping strategies for managing their anxiety effectively:
 
-Title: Anxiety Alleviation through Solution-Focused Empowerment (SAFE)
+**Title**: Anxiety Alleviation through Solution-Focused Empowerment (SAFE)
 
 1. Initial Assessment and Personalized Goal-setting
 

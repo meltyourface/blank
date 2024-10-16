@@ -22,7 +22,7 @@ excerpt: >
 ---
 Selected Verse: "In umbrae noctis, cantus sanguinis tollit, et dei ignoti revelantur."
 
-Translation: In the shadow of night, the blood song rises, and unknown gods are revealed.
+**Translation**: In the shadow of night, the blood song rises, and unknown gods are revealed.
 
 In-depth Analysis and Interpretation:
 

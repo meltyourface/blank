@@ -37,7 +37,7 @@ The Ceremony
 
 1. Begin the ceremony by lighting the candles in a clockwise direction, starting from the east. As each candle is lit, recite the corresponding invocation:
 
-East: "By the powers of air, I call upon the fierce winds to carry my intention to the Crown Prince of Witchflame."
+**East**: "By the powers of air, I call upon the fierce winds to carry my intention to the Crown Prince of Witchflame."
 South: "By the powers of fire, I call upon the eternal flame to ignite my spirit and align me with the Witchflame Path."
 West: "By the powers of water, I call upon the flowing tides to cleanse my soul and prepare me for this sacred journey."
 North: "By the powers of earth, I call upon the steadfast earth to ground me and grant me strength in my devotion."

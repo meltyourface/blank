@@ -22,9 +22,9 @@ excerpt: Compose a comprehensive Satanic ritual venerating Lilith, drawing upon 
 
 ## Nocturnal Embrace - A Ritual Veneration of Lilith
 
-Objective: To evoke the spirit of Lilith and to honor her as the symbol of unrestrained feminine energy, personal power, and liberation from social norms and expectations.
+**Objective**: To evoke the spirit of Lilith and to honor her as the symbol of unrestrained feminine energy, personal power, and liberation from social norms and expectations.
 
-Supplies:
+**Supplies**:
 1. Lilith statue or representation
 2. Black and crimson candles
 3. Chalice filled with red wine
@@ -34,16 +34,16 @@ Supplies:
 7. Sigil of Lilith
 8. A dark, intimate space for the ritual, adorned with representations of the night sky, serpents, and other symbols associated with Lilith
 
-Ritual:
+**Ritual**:
 
-Preparation:
+**Preparation**:
 1. Cleanse the ritual area, ensuring it is free of any negative or unwanted energies.
 2. Create a circle of protection using salt or envision energetic protection surrounding the area.
 3. Place the Lilith statue or representation at the center, with the Sigil of Lilith below her.
 4. Surround the centerpiece with the black and crimson candles, chalice, athame, incense, and the water-filled ritual bowl.
 5. Light the candles and incense.
 
-Invocation:
+**Invocation**:
 
 ### I. Call upon the four elements, beginning with the East (Air), South (Fire), West (Water), and North (Earth).
 
@@ -92,7 +92,7 @@ Whisper your ancient wisdom and embolden my spirit."
 I sever ties to restrictions and limitations,
 I embrace the boundlessness of your dark femme energy."
 
-Closure:
+**Closure**:
 
 ### I. Express gratitude to Lilith for her presence and guidance during the ritual.
 

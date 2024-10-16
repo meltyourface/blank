@@ -29,7 +29,7 @@ Artifacts Needed:
 2. A polished silver mirror.
 3. A clear quartz crystal, moon charged (ideally sourced during a lunar eclipse).
 
-Preparation:
+**Preparation**:
 - Perform the ritual during a waxing crescent or full moon. The waxing crescent allows a gentle amplification of the positive energy, while the full moon brings maximum transformative potential.
 - Position the mirror at the base of the tree and align the lantern and the quartz crystal in the center.
 - Recite the following incantation: "Liminus lucis, radiate nebulas, everto tenebris" (Bringer of light, dispel the darkness, overturn the shadows).
@@ -52,7 +52,7 @@ Artifacts Needed:
 2. A satchel of lavender and chamomile.
 3. An amulet of agate and amethyst, connected with a silver chain.
 
-Preparation:
+**Preparation**:
 - Perform the ritual during the waning crescent moon, as this is a time of release and purification.
 - Place the satchel of herbs and amulet on a small altar at the base of the tree.
 - Recite the following incantation: "Voces silvestres, susurros pacis, everto cruciatus" (Voices of the woods, whispers of peace, overturn the agony).
@@ -75,7 +75,7 @@ Artifacts Needed:
 2. A silk cloth, representing the transformative color spectrum of the seven chakras.
 3. A pendant with a rose quartz crystal, imbued with peace and serenity.
 
-Preparation:
+**Preparation**:
 - Perform the ritual during a waxing gibbous moon, a time of reflection and growth, which aids in integrating and grounding emotions.
 - Lay the silk cloth at the base of the Wailing Elm.
 - Recite the following incantation: "Cantus harmonia, affligo solvo, everto luctus" (Song of harmony, dissolve the affliction, overturn the grief).

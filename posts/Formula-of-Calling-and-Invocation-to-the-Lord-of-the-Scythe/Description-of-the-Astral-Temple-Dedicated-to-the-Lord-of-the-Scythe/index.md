@@ -27,7 +27,7 @@ The astral temple devoted to the Lord of the Scythe is designed in the form of a
 
 The temple’s entrance is guarded by two large obsidian statues of hooded skeletal figures holding enormous scythes. As you step in, the atmosphere is heavy with the scent of incense burning, evoking otherworldly rites. The labyrinthine corridors within the temple are lined with tall, flickering candles, their shadows casting eerie forms upon the walls.
 
-Altar: 
+**Altar**: 
 
 At the heart of the astral temple lies the elaborate altar dedicated to the Lord of the Scythe. The altar is a massive, ornately-carved stone slab, its surface smoothed by the touch of countless worshipers. Upon the altar lies a large, inlaid silver sigil depicting the Lord of the Scythe – a hooded figure holding a scythe, hovering over a mortal world below. 
 

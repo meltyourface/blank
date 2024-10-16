@@ -22,7 +22,7 @@ excerpt: Design an elaborate meditation ritual that synthesizes core Rosicrucian
 
 ## Illumination of the Inner Temple
 
-Objective: To synthesize core Rosicrucian principles and esoteric symbolism into an elaborate meditation ritual, incorporating traditional alchemical sigils, Hermetic axioms, and the Tree of Life, in order to achieve spiritual potency and illumination.
+**Objective**: To synthesize core Rosicrucian principles and esoteric symbolism into an elaborate meditation ritual, incorporating traditional alchemical sigils, Hermetic axioms, and the Tree of Life, in order to achieve spiritual potency and illumination.
 
 Preparatory Stages:
 

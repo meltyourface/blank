@@ -22,7 +22,7 @@ excerpt: Create a short but informationally dense section of a grimoire that pro
 
 ## Tenderness and Terrors of Life
 
-Introduction:
+**Introduction**:
 The Tenderness and Terrors of Life represent the duality present in the universe and the human experience. To achieve a deep understanding of the inner workings of these opposing forces, students must grasp the full spectrum of energies in the occult realm. This section will explore the key concepts, practices, and teachings related to the balance between tenderness and terror, helping students navigate these energies and harness their power for transformative growth and evolution.
 
 ### I. The Dualistic Nature of Existence

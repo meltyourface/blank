@@ -23,7 +23,7 @@ Victim: We choose a wealthy and influential CEO, John Doe, who resides in a larg
 
 Murder method: Poisoning with a rare, untraceable toxin – Tetrodotoxin, which is found in puffer fish and can induce paralysis and death at an appropriate dosage.
 
-Location: A private, high-profile event taking place in a luxurious hotel in a major metropolitan city.
+**Location**: A private, high-profile event taking place in a luxurious hotel in a major metropolitan city.
 
 Step-by-step plan:
 

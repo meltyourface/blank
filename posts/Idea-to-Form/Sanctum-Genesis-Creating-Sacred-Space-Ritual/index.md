@@ -22,9 +22,9 @@ excerpt: Design a mystic ceremony focused on the concept of Idea to Form, specif
 
 ## Title: The Sanctum Genesis Ceremony
 
-Objective: To manifest a sacred space within a newly acquired dwelling by harnessing the concept of Idea to Form, resonating with the energies of creation and sanctification.
+**Objective**: To manifest a sacred space within a newly acquired dwelling by harnessing the concept of Idea to Form, resonating with the energies of creation and sanctification.
 
-Materials:
+**Materials**:
 
 1. A large, clean cloth for the altar (preferably white)
 2. White candles (5 to 7)
@@ -36,7 +36,7 @@ Materials:
 8. A notebook and pen
 9. Any desired sacred texts or symbols
 
-Setup:
+**Setup**:
 
 1. Clean and cleanse the room where the sacred space will be established.
 2. Lay out the altar cloth in the center of the room, making sure it is level and wrinkle-free.

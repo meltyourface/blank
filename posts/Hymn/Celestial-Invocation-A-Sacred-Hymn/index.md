@@ -25,7 +25,7 @@ We beckon thee, with voice and song, answer our enthralled calls,
 Astral spirits, celestial realms, we seek thy wisdom and grace,
 Ignite within our sanctuary the presence of thy embrace.
 
-Chorus:
+**Chorus**:
 Ave, Ave Divinitas, incantamus tua veritas,
 Hymn, Hymn of mystic harmony, delight the gods and set us free.
 
@@ -35,7 +35,7 @@ Adorn our rites with sigils bright and bindless energy,
 Empyrean hosts, whose timeless gaze let spiral galaxies flee,
 We summon thee, in this hallowed space, with celestial decree.
 
-Chorus:
+**Chorus**:
 Ave, Ave Divinitas, incantamus tua veritas,
 Hymn, Hymn of mystic harmony, delight the gods and set us free.
 
@@ -45,11 +45,11 @@ May thy resonances resound from the birth to setting sun,
 Like onyx smoke and silver flame, our song ascends on high,
 Bind us tight with sacred trust, eternal heavenly ties.
 
-Chorus:
+**Chorus**:
 Ave, Ave Divinitas, incantamus tua veritas,
 Hymn, Hymn of mystic harmony, delight the gods and set us free.
 
-Coda:
+**Coda**:
 In unity of voice and soul and transcendent melody,
 We weave our heavy hearts and minds with ancient alchemy,
 And together, raise a sacred space, to touch eternity,

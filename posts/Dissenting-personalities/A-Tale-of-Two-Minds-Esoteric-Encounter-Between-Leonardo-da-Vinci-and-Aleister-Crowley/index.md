@@ -27,24 +27,24 @@ Leonardo da Vinci: "Whilst the symbolism displayed here intrigues me, how can we
 
 Aleister Crowley: "Ah, Leonardo, the rationalist! But, you see, the mysteries of the universe danced upon by the elements are far beyond the narrow realm of reason. How can we, bound by flesh and blood, comprehend the ineffable? Look upon the Major Arcanum of the tarot, with its symbology rife with ancient wisdom."
 
-Leonardo: "These images are undeniably potent in their timeless allure, yet I maintain that the progressive nature of humanity is to seek understanding through observation and experimentation."
+**Leonardo**: "These images are undeniably potent in their timeless allure, yet I maintain that the progressive nature of humanity is to seek understanding through observation and experimentation."
 
-Crowley: "Consider the art of alchemy. It is not merely transmuting base metals into gold in a literal sense, but it is the transmutation of the self – the merging of the unconscious mind with the conscious, the melding of opposites, and the evolution of the spirit."
+**Crowley**: "Consider the art of alchemy. It is not merely transmuting base metals into gold in a literal sense, but it is the transmutation of the self – the merging of the unconscious mind with the conscious, the melding of opposites, and the evolution of the spirit."
 
-Leonardo: "You speak in riddles, Crowley. And yet, I see a wisp of reason within your words. Yet, I still struggle to believe the true value of these esoteric arts."
+**Leonardo**: "You speak in riddles, Crowley. And yet, I see a wisp of reason within your words. Yet, I still struggle to believe the true value of these esoteric arts."
 
-Crowley: "Let me tell you a tale. Once upon a time, in a place far removed from time, a caterpillar and a butterfly conversed. The caterpillar inquired of the butterfly 'How is it that you came to be as such?' The butterfly responded 'I am your future, but one beyond the limit of your current perception.' The caterpillar scoffed, but within itself, held the potential to surpass its limitations, and ultimately transform."
+**Crowley**: "Let me tell you a tale. Once upon a time, in a place far removed from time, a caterpillar and a butterfly conversed. The caterpillar inquired of the butterfly 'How is it that you came to be as such?' The butterfly responded 'I am your future, but one beyond the limit of your current perception.' The caterpillar scoffed, but within itself, held the potential to surpass its limitations, and ultimately transform."
 
-Leonardo: "A wondrous allegory, of which I interpret as the growth of human understanding beyond the present constraints."
+**Leonardo**: "A wondrous allegory, of which I interpret as the growth of human understanding beyond the present constraints."
 
-Crowley: "Precisely! Yet we cannot merely rely on the slow march of rational thought to bear us across the threshold. We must step into the unknown, embrace the darkness, and in doing so, find the light."
+**Crowley**: "Precisely! Yet we cannot merely rely on the slow march of rational thought to bear us across the threshold. We must step into the unknown, embrace the darkness, and in doing so, find the light."
 
 Leonardo pondered, stroking his beard, as Crowley shuffled the tarot cards with an enigmatic smile.
 
-Crowley: "Do you dare pick a card from the deck, Leonardo? Embrace the unforeseen, for who knows what wisdom gestates within?"
+**Crowley**: "Do you dare pick a card from the deck, Leonardo? Embrace the unforeseen, for who knows what wisdom gestates within?"
 
 Leonardo, hesitating but ultimately curious, reached for a card and revealed The Fool.
 
-Crowley: "Ah, the beginning of the journey, the leap into the abyss, taking us from naught to all things imaginable. Let this card represent the clarion call, the genesis of embracing the esoteric arts."
+**Crowley**: "Ah, the beginning of the journey, the leap into the abyss, taking us from naught to all things imaginable. Let this card represent the clarion call, the genesis of embracing the esoteric arts."
 
 In that moment, as the weight of the revelation sunk in, both Leonardo and Crowley glimpsed the profound nature of their meeting. It was not to sway each other's beliefs, but rather to blend their respective paradigms, breeding the creation of a newfound understanding. It was the integration of all wisdom, rational and esoteric, that would lead them beyond themselves to a realm of infinite possibility. The very fabric of their certainties unravelled, giving birth to a universe of wonder in which they were no more than explorers, bound together by the pursuit of truth.

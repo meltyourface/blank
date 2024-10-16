@@ -22,27 +22,27 @@ excerpt: >
 ---
 The InannaÓðinn Annual Calendar
 
-January:
+**January**:
 New Year's Day - Awakening of Inanna and Odin: A ceremony to invoke the divine presence of Inanna and Odin, welcoming them to walk alongside the members of the cult for the coming year. Featuring chants echoing the gods' glories and recitation of the sacred poem Lay of InannaÓðinn.
 
 January 1st- Full Moon - Moon of New Beginnings:  A ritual to cleanse oneself spiritually and embark on new endeavors. Incorporates anointment with sacred oils and renewal of vows to Inanna and Odin.
 
-February:
+**February**:
 Imbolc - February 2nd - Bonfires of Inanna: Participants ignite bonfires in honor of Inanna's transformative power and light, ushering in rejuvenation and the birth of new sacred knowledge.
 
 February Full Moon - Moon of Hidden Wisdom: A communal meditation delving into the mysteries of the cult and internal spiritual growth to raise individual and collective consciousness.
 
-March:
+**March**:
 Spring Equinox - March 20th-23rd - Celebration of Odin's Ravens: Honoring Odin's association with wisdom, learning, and transformation through storytelling, offering of mead, and a group invocation of Huginn and Muninn's blessings.
 
 March Full Moon - Moon of Embracing Change: Rituals dedicated to embracing personal transition and adapting to change, reflecting Inanna's journey through the underworld.
 
-April:
+**April**:
 April 30th - Inanna's Descent Commemoration: Sacred chants, invocations, and representation of Inanna's descent into the underworld, recognizing cycles of death and rebirth.
 
 April Full Moon - Moon of Fertility: A ritual to reap Inanna's and Odin's blessings of creativity and fertility, entwined with an enactment of the Sacred Marriage rite.
 
-May:
+**May**:
 Beltane - May 1st - The Merging of the Realms: A day of spiritual and sensual celebration, enlivening Inanna's and Odin's passionate and powerful aspects.
 
 May Full Moon - Moon of the Sacred Hunt: Devotees participate in a ritual hunt, seeking the sacred wisdom embodied by the stag and invoking Odin's presence as the god of hunts and warriors.
@@ -58,22 +58,22 @@ July Full Moon - Moon of Protection & Authority: An invocation of protections an
 August
 August Full Moon - Moon of Victory and Perseverance: A ritual of thanksgiving for personal and collective victories, honoring Inanna and Odin with offerings and dedicating trophies of success to the gods.
 
-September:
+**September**:
 Autumn Equinox - September 20th-23rd - Inanna's Harvest Festival: A feast to share the bounty of the earth, incorporating prayers and songs of gratitude to Inanna for her generosity.
 
 September Full Moon - Moon of Reflection: Rituals to aid in self-evaluation, inspired by the introspective qualities of Odin, and reconnecting with one's spiritual path.
 
-October:
+**October**:
 October 31st - November 1st - Ancestors' Night: Remembering and connecting with departed ancestors, guided by both Inanna's and Odin's role in the afterlife and communicating with the deceased.
 
 October Full Moon - Moon of Sacrifice: A ritual of voluntary surrender and dedication, honoring Inanna's selflessness and Odin's sacrifice for the pursuit of sacred wisdom.
 
-November:
+**November**:
 November 1st - Day of the Divine Mask: Ceremony to explore the divine aspects of Inanna and Odin, adopting their behavior and attributes for 24 hours to invoke divine presence.
 
 November Full Moon - Moon of Shadows: Communal meditations to confront personal shadows, acknowledging the darker aspects of oneself while seeking transformation and self-acceptance.
 
-December:
+**December**:
 Winter Solstice - December 20th-23rd - Odin's Feast of the Wild Hunt: A reenactment of the Wild Hunt, followed by an elaborate feast, storytelling, and celebratory toasts to Odin's wisdom and divine guidance.
 
 December Full Moon - Moon of Illumination: Gathering in the sacred sanctum adorned with lunar symbols, followers meditate on their personal spiritual journey, culminating in a mystical union with the gods through dreams and trances.

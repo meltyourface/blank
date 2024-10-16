@@ -23,7 +23,7 @@ excerpt: >
 
 ## Ritual of the Empyrean Bond
 
-Intent: To amplify and reinforce the emotional bonds between two individuals, drawing from the mystical realm of the Ramifications of a love connection.
+**Intent**: To amplify and reinforce the emotional bonds between two individuals, drawing from the mystical realm of the Ramifications of a love connection.
 
 Symbolic Elements:
 
@@ -70,4 +70,4 @@ Potential Side-effects and Consequences:
 
 4. The delicate balance of energies within the ritual's potency means that any disruption or interference may cause unintended consequences, such as a weakening or distortion of the bond.
 
-Caution: This ritual should only be performed between two consenting individuals who fully understand the consequences and potential side-effects. Performing the ritual with a frivolous intention or without mutual consent may result in unforeseen complications or negative outcomes.
+**Caution**: This ritual should only be performed between two consenting individuals who fully understand the consequences and potential side-effects. Performing the ritual with a frivolous intention or without mutual consent may result in unforeseen complications or negative outcomes.

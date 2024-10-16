@@ -27,7 +27,7 @@ Parties Involved:
 [Partner 1 Name]
 [Partner 2 Name]
 
-Preamble:
+**Preamble**:
 
 This agreement is to establish a mutual understanding and commitment to engage in a Tantric sexual union for the purpose of fostering mutual growth, sensual exploration, and spiritual development. Both parties willingly enter this union with the intention to consciously develop and maintain a supportive and transformative sexual partnership.
 

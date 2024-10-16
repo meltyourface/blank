@@ -22,7 +22,7 @@ excerpt: Design a comprehensive Quimbanda Kingdoms ritual that intricately detai
 
 ## The Seal of Seven Crossroads
 
-Objective: To close and seal interdimensional gateways to the spirit realm, specifically addressing the involvement of Exus and Pombagiras throughout the ceremony.
+**Objective**: To close and seal interdimensional gateways to the spirit realm, specifically addressing the involvement of Exus and Pombagiras throughout the ceremony.
 
 ### I. Preparation of the Ritual
 

@@ -38,7 +38,7 @@ Goetia promotes the idea that by controlling and channeling the raw power of cha
 
 Theurgia-Goetia's emphasis on more neutral and organized spirits promotes a different approach to self-mastery. By cultivating a harmonious relationship with these spirits, the practitioner can learn from them and access knowledge, wisdom, and insights that enable personal transformation, growth, and self-discovery. By working in tandem with the hierarchies of Theurgia-Goetia spirits, the practitioner focuses on a more esoteric and spiritual understanding of the universe, further reinforcing the process of inner development and evolution.
 
-Conclusion: Key Themes and Ideas
+**Conclusion**: Key Themes and Ideas
 
 The correlation between the underlying principles of Lemegeton's Goetia and Theurgia-Goetia rests on the nature of the spirits, their hierarchy, and the invocation methods.
 

@@ -23,7 +23,7 @@ excerpt: >
 
 ## Title: Ritual for Solid Connection and Protection while Engaging with the Olympic Spirit Phul
 
-Purpose: To establish a solid connection with the Olympic Spirit Phul, invoking his aid and protection while ensuring safety and equilibrium for the practitioner.
+**Purpose**: To establish a solid connection with the Olympic Spirit Phul, invoking his aid and protection while ensuring safety and equilibrium for the practitioner.
 
 Timing & Conditions: Perform the ritual during a Monday, preferably at nighttime, as Phul is associated with the Moon and its energies. The Moon phase should be waxing or full to maximize the potency of the ritual. Ensure the environment is sacred and free from distractions.
 
@@ -37,7 +37,7 @@ Tools Required:
 6. A talisman bearing Phul’s name and sigil
 7. Ceremonial robe or other appropriate attire
 
-Precautions: Do not perform this ritual with negative intentions or ill will, as it may backfire on the practitioner. Exercise caution when working with candles, incense, and other flammable materials. Adhere to standard safety protocols while conducting the ritual.
+**Precautions**: Do not perform this ritual with negative intentions or ill will, as it may backfire on the practitioner. Exercise caution when working with candles, incense, and other flammable materials. Adhere to standard safety protocols while conducting the ritual.
 
 Step-by-Step Guide:
 

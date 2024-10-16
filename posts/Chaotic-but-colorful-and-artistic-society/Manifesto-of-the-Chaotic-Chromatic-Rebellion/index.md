@@ -21,7 +21,7 @@ excerpt: Embark on the creation of a vividly imaginative and intricately woven m
 ---
 Manifesto of the Chaotic Chromatic Collective
 
-Preamble:
+**Preamble**:
 In defiance of stagnant orders, we, the free-willed legions of the Chaotic Chromatic Collective unite to eternalize a movement, untethered by normalcy and propelled by anarchy. Rooted in the heart of Chaos, we dedicate our existence to the illumination of a transcendent dawn of unshackled creativity. Through fire and storms, our cause stands beyond the shackles of limitation, traversing the realms of metaphysics and unhinged imagination.
 
 ### I. The Philosophy of the Unbound Prism
@@ -44,6 +44,6 @@ We vow to carry the language of the Chaotic Chromatic Collective into uncharted 
 
 In pursuit of the Unbound Prism, we instigate an inventive renaissance, igniting the fires of Edenic creation, juxtaposing discordance with unbridled creativity. Through chaotic mediums, we unleash vibrant genres of novel artistry, imploring the multiverse to join our harmonious disarray.
 
-Conclusion:
+**Conclusion**:
 
 Thus, we embark on an endless odyssey, our hands dipped in the kaleidoscopic swirls of the chaotic divine. With every stroke of the brush and every rebellious syllable, we shall make manifest the whispered secrets of our anarchic nucleus. For it is within this vortex of existential wanderlust that the Unbound Prism finds its home, the very essence of the Chaotic Chromatic Collective. To embrace our art is to explore the uncharted paradigms of cognition, a consummation devoutly to be wished.

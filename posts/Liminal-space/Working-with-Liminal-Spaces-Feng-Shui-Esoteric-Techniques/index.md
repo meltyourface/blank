@@ -36,7 +36,7 @@ Applying in Specific Settings:
 
 Transitional Thresholds (e.g., doorways, entrances, exits): Focus on the entry points and create clear, inviting pathways to ensure a smooth flow of energy between realms. Incorporate protective symbols and talismans to ward off unwanted influences and promote positive transitioning through the space.
 
-Crossroads: Emphasize the four cardinal directions in your design, drawing energy from the meeting point and dispersing it evenly across the Liminal space. Honor and invoke crossroads deities such as Hecate, Hermes, or Eshu to promote balance and guidance through decision-making.
+**Crossroads**: Emphasize the four cardinal directions in your design, drawing energy from the meeting point and dispersing it evenly across the Liminal space. Honor and invoke crossroads deities such as Hecate, Hermes, or Eshu to promote balance and guidance through decision-making.
 
 Spatial-Temporal Anomalies: Assess the unique energetic qualities and distinctive characteristics of the anomaly to determine suitable Feng Shui adjustments. Utilize elements and symbols that help anchor and stabilize the energy flow while maintaining respect for the unpredictable nature of these Liminal spaces.
 

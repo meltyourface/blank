@@ -28,7 +28,7 @@ excerpt: >
 ---
 Answer: Akkadian liturgical texts contain complex systems of divine knowledge, which interweave Sumerian and Babylonian religious practices with the understanding of cosmic forces.
 
-Explanation: The Akkadian liturgical texts, dating from the late third millennium BCE to the first millennium BCE, can be regarded as repositories of an intricate system of divine knowledge that relate to both religious practices and the understanding of the cosmos. These texts are not merely a random assortment of incantations or spells, but instead, contain a purposeful structure that combines elements of Sumerian and Babylonian religious practices with an exploration of cosmic and metaphysical forces.
+**Explanation**: The Akkadian liturgical texts, dating from the late third millennium BCE to the first millennium BCE, can be regarded as repositories of an intricate system of divine knowledge that relate to both religious practices and the understanding of the cosmos. These texts are not merely a random assortment of incantations or spells, but instead, contain a purposeful structure that combines elements of Sumerian and Babylonian religious practices with an exploration of cosmic and metaphysical forces.
 
 The Akkadians were heavily influenced by the earlier Sumerian civilization, and they adopted and modified many of its religious and cultural elements, including the Sumerian pantheon of gods, religious rituals, and various literary genres. The Akkadian liturgical texts reflect a syncretic approach to cultic practice, incorporating and adapting multiple strands of religious thought.
 

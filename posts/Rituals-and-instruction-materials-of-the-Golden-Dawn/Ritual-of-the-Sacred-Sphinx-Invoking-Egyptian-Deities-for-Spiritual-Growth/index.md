@@ -23,9 +23,9 @@ excerpt: >
 
 ## The Ritual of the Sacred Sphinx: Invoking the Powers of the Egyptian Pantheon
 
-Purpose: To invoke the energies of the Egyptian pantheon, strengthening the practitioner's connection with these ancient deities and channeling their power for spiritual growth, protection, and wisdom.
+**Purpose**: To invoke the energies of the Egyptian pantheon, strengthening the practitioner's connection with these ancient deities and channeling their power for spiritual growth, protection, and wisdom.
 
-Preparations:
+**Preparations**:
 
 1. Set up an altar in the center of the ritual space in an eastward direction. Place candles and incense representing each of the four elements on their respective cardinal points (east - air, south - fire, west - water, north - earth). Additionally, place an ankh and a golden disk symbolizing Ra on the altar.
 

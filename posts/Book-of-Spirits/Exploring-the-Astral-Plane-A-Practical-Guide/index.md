@@ -23,7 +23,7 @@ excerpt: >
 
 ## A Master's Guide to Traversing the Astral Plane Using the Book of Spirits
 
-Introduction:
+**Introduction**:
 The astral plane is a realm of existence beyond our physical reality, where beings of different vibrations and energies coexist. It is said to be a world of deep spiritual significance and interaction. By utilizing the Book of Spirits and following this intricate step-by-step guide, one will be able to traverse the astral plane skillfully, communicate with mystical entities, and maintain personal safety and spiritual integrity.
 **Step 1**: Preparation and Purification
 Before embarking on astral excursions, it is essential to cleanse and purify oneself and the surrounding environment. To begin, light candles and incense to cleanse the atmosphere, preferably using elements like sage, frankincense, or sandalwood. Then, draw a ritual circle around the space where you will be meditating and declare that the circle can only be entered by beings of light who are there to assist you. Imbue the circle with crystals (such as amethyst, quartz, or selenite) at each cardinal point for added protection. Take a ritual bath infused with salt and essential oils that promote relaxation and healing.

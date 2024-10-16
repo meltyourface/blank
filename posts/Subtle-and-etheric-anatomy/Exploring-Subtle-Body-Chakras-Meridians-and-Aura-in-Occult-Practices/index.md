@@ -37,21 +37,21 @@ Chakras, originating from the Sanskrit word "cakra," meaning "wheel" or "disk," 
 6. **Third Eye Chakra (Ajna)**: Positioned between the eyebrows, it governs intuition, insight, and psychic abilities.
 7. **Crown Chakra (Sahasrara)**: Nestled at the top of the head, it is responsible for spiritual enlightenment and divine consciousness.
 
-Exercise: Chakra Balancing Meditation
+**Exercise**: Chakra Balancing Meditation
 Meditate to focus on each chakra, visualizing its corresponding color and spinning motion, beginning with the root chakra and finishing with the crown. As you progress, imagine the interconnectedness of these energy centers, creating a column of vibrant light. Regular practice will harmonize and strengthen the chakra system.
 
 ### III. **Meridians**: Pathways of Life Force Energy
 
 Meridians represent energy pathways within the subtle body that connect organ systems and distribute vital life force energy, or "qi" (chi), throughout the body. Based on traditional Chinese medicine, there are 12 primary meridians linked to various organs, such as the kidneys, stomach, and heart. Meridian exercise, also known as "qigong," cultivates a harmonious flow of this life force.
 
-Exercise: Qigong Practice
+**Exercise**: Qigong Practice
 Begin by standing in a comfortable position, with feet shoulder-width apart and knees slightly bent. Focus your breath and inhale deeply, filling your abdomen. As you exhale, allow your breath to relax your body. Now, slowly raise your arms, palms up, to chest level, visualizing the qi moving through your meridians, from your extremities to your torso. Lower your arms while exhaling, imagining the negative energy flowing out. Repeat this sequence for several breaths, concentrating on the smooth movement of qi.
 
 ### IV. **The Aura**: The Energetic Shield
 
 The aura is an electromagnetic energy field surrounding the physical body and reflects the condition of one's subtle and etheric anatomy. Its colors, shapes, and patterns reveal insights into an individual's physical, emotional, and spiritual state. Regular practices of energy cleansing and fortification can strengthen the aura, increasing one's protection from external influences.
 
-Exercise: Aura Cleansing and Strengthening
+**Exercise**: Aura Cleansing and Strengthening
 Find a quiet space to sit or stand comfortably. Close your eyes and take slow, deep breaths, center yourselves. Visualize a radiant white light emanating from your core and expanding to envelop your physical body, permeating and cleansing the layers of your aura. With each breath, envision the white light becoming a potent, golden shield, encapsulating the aura and safeguarding it from negative energies.
 
 By familiarizing with and implementing these practices towards their subtle and etheric anatomy, initiates will develop a profound understanding of the hidden connections within the human body. The consistent exercise of chakra balancing, qigong, and aura cleansing will pave the way for a more vibrant, harmonious, and spiritually advanced life, fostering the comprehension of the occult's mysteries on a deeper level.

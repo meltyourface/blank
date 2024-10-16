@@ -23,10 +23,10 @@ excerpt: >
 
 ## Title: The Soul-Forging Rite: A Grimoire-Inspired Guided Meditation for Ethereal Aura Fortification and Personal Energy Enhancement.
 
-Introduction:
+**Introduction**:
 The Soul-Forging Rite draws from the deep mystical traditions and hidden lore of the Grimoire masters. Following this guided meditation, you will awaken your inner reserves of energy, strengthen your ethereal aura, and elevate your consciousness. It is imperative that you approach this meditation with a focused mind and a heart receptive to the wisdom of the ages.
 
-Preparation:
+**Preparation**:
 1. Identify a quiet and secure space, preferably shielded from outside distractions and influences.
 2. Cleanse the area with purifying sage, palo santo, or other aromatic herbs, while reciting the following incantation: "By the ancient fires, I cleanse this space and banish any negativity that dwells here. May a pure and sacred sanctuary be forged for our spiritual work."
 

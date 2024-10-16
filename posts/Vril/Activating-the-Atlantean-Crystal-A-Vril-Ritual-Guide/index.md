@@ -21,7 +21,7 @@ excerpt: Develop an intricate ritual to establish a direct connection with a spe
 ---
 To establish a direct connection with the Vril-ya Atlantean crystal and harness its immense power, follow this intricate ritual that utilizes ancient symbols, sacred geometry, and esoteric incantations.
 
-Preparation:
+**Preparation**:
 
 1. Choose a secluded location with a strong connection to the earth. Ideally, it should be located where ley lines intersect or with geographical significance such as a cave, ancient ruins, or megalithic stone circles.
 

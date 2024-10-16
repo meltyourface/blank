@@ -22,9 +22,9 @@ excerpt: Draft a comprehensive Coven ritual for sealing and warding a sacred spa
 
 ## The Ritual of the Elemental Seal
 
-Objective: To create a sacred and protected space, warding off any harmful energies or malevolent entities. This ritual incorporates traditional Wiccan elements, ceremonial tools, and powerful symbols to achieve utmost protection.
+**Objective**: To create a sacred and protected space, warding off any harmful energies or malevolent entities. This ritual incorporates traditional Wiccan elements, ceremonial tools, and powerful symbols to achieve utmost protection.
 
-Materials:
+**Materials**:
 1. Altar cloth
 2. Athame or ritual knife
 3. Wand

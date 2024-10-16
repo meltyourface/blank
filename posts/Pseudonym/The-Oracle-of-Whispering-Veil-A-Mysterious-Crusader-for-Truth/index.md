@@ -22,17 +22,17 @@ excerpt: Craft an intricate and clandestine persona for a Pseudonym-affiliated w
 
 ## The Oracle of the Whispering Veil
 
-Name: Valtasar Khepri
+**Name**: Valtasar Khepri
 
-Alias: Thoth Divinus
+**Alias**: Thoth Divinus
 
-Appearance: A tall, mysterious figure draped in midnight blue robes adorned with subtle astronomical patterns in gold thread. Valtasar wears an enigmatic crux ansata (ankh) pendant, forged from an ancient meteorite, symbolizing the duality of life and death. Always concealed by an ever-changing mask, in the likeness of Thoth and a moonlit moth, the face of Valtasar remains a mystery to everyone.
+**Appearance**: A tall, mysterious figure draped in midnight blue robes adorned with subtle astronomical patterns in gold thread. Valtasar wears an enigmatic crux ansata (ankh) pendant, forged from an ancient meteorite, symbolizing the duality of life and death. Always concealed by an ever-changing mask, in the likeness of Thoth and a moonlit moth, the face of Valtasar remains a mystery to everyone.
 
-Backstory: Valtasar Khepri, born into an influential family of historians and cryptographers, became fascinated with the power and potential of hidden knowledge at an early age. Studying ancient texts that pertained to arcane knowledge, Valtasar became proficient in several dead languages like Linear A, Etruscan, and Ge’ez. A scholarly prodigy, they were initiated into a secret society known as The Order of the Golden Dawn, a group whose members dabbled in mysticism, the occult, and the spiritual realm.
+**Backstory**: Valtasar Khepri, born into an influential family of historians and cryptographers, became fascinated with the power and potential of hidden knowledge at an early age. Studying ancient texts that pertained to arcane knowledge, Valtasar became proficient in several dead languages like Linear A, Etruscan, and Ge’ez. A scholarly prodigy, they were initiated into a secret society known as The Order of the Golden Dawn, a group whose members dabbled in mysticism, the occult, and the spiritual realm.
 
 Through a tireless study of the esoteric and the profane, Valtasar Khepri transcended mortal understanding, earning the secret name Thoth Divinus, the embodiment of knowledge and wisdom. Thoth Divinus, embracing their new persona, vowed to expose hidden truths and give voice to silenced whispers, choosing the path of the whistleblower.
 
-Motivations: Thoth Divinus seeks to eradicate corruption, deceit, and secrecy that have infiltrated organizations, governments, and institutions. Thoth Divinus believes that truth is a catalyst for change and the ultimate key to the evolution of humankind. They are driven by a moral compass, an unwavering devotion to justice and balance, drawing inspiration from the ancient Egyptian goddess Ma’at.
+**Motivations**: Thoth Divinus seeks to eradicate corruption, deceit, and secrecy that have infiltrated organizations, governments, and institutions. Thoth Divinus believes that truth is a catalyst for change and the ultimate key to the evolution of humankind. They are driven by a moral compass, an unwavering devotion to justice and balance, drawing inspiration from the ancient Egyptian goddess Ma’at.
 
 Code of Ethics:
 

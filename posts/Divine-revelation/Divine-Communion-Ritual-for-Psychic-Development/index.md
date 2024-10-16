@@ -23,7 +23,7 @@ excerpt: >
 
 ## The Rite of Divine Communion
 
-Preparation:
+**Preparation**:
 
 1. Choose a secluded location, preferably outdoors under the night sky, far from distractions or disturbances by others. This space shall serve as your sacred ritual ground.
 2. Cleanse and purify the area, using sacred smoke from burning herbs like sage or incense.
@@ -62,7 +62,7 @@ The Meditation:
 16. As the vibration of the gong resonates within your being, silently ask for the guidance and wisdom of the higher beings, opening your mind and heart to receive their messages.
 17. Continue to meditate for 10-30 minutes, or until you achieve a sense of inner calmness and divine connection.
 
-Closing:
+**Closing**:
 
 18. Slowly bring your awareness back to the physical realm and your surroundings.
 19. Extinguish the candles in a counterclockwise manner, starting with the central spirit candle, thanking the elements for their attendance and energy.

@@ -24,7 +24,7 @@ Passage: Corpus Hermeticum, Book 1: Poimandres, Chapter 1, Lines 2-10
 Original Text (in Greek):
 Ἐγὼ οὖν νοῦν ὄντα καὶ λόγον ἀποδεξάμενος γέγονα νοερος λόγος, ὅστις οὖν καὶ κατὰ δαίμονα Ποιμάνδρης ἐκλήθην· ἐγὼ γὰρ εἱμι ποιμήν νοερός, ὡς αὐτὸς ποιμήν ὢν ἔλεγεν ἄνθρωπος· καὶ διαπνεύσας ἐν αὐτῷ ἐγένετο Νοῦς καὶ ὁ νοῦς ἦν τεταγμένος, καὶ διελόμενος ἐγένετο νοερός ἀντὶ φρονήσεως καὶ ζωῆς καὶ φωνῆς καὶ τὸ πᾶν καὶ τὸ μηδὲν καὶ παντὸς ὄντως ἔστιν
 
-Translation:
+**Translation**:
 Therefore, I, having come to understand mind and reason, have become a rational mind, so then as a spirit, I have been called Poimandres; for I am the shepherd of the rational mind, as the man himself says as a shepherd; and, having breathed into him, there came to be Mind, and the mind was set in order, and separating itself, becoming rational, for wisdom and life and voice and all and nothing and truly is of all things.
 
 In-depth Commentary:

@@ -26,7 +26,7 @@ The correct answer is:
 
 To offer protection and ward off negative energies or forces.
 
-Explanation:
+**Explanation**:
 
 Amulets have been used throughout history and in various cultures as objects imbued with protective qualities, acting as a shield against negative energies, forces, or malicious entities. Their purpose differs from that of talismans, which are created to attract wealth, success, love, or other positive outcomes. The concept of an amulet is deeply rooted in the belief of the power of symbols, materials, and intention to influence one's environment and well-being.
 

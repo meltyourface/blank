@@ -79,6 +79,6 @@ Using a stylus or bone-carving tool, carefully etch the Lilitavrah symbols and t
 Sample Encoded Message:
 Summoning: (XZO ITW YMZA) - "Pluto-Separation-Journey Mercury-Power-Transformation Fire-Air-Sulphur"
 
-Commanding: (UJO IGW XOQ) - "Jupiter-Connection-Balance Mars-Energy-Earth Saturn-Uranus-Connection"
+**Commanding**: (UJO IGW XOQ) - "Jupiter-Connection-Balance Mars-Energy-Earth Saturn-Uranus-Connection"
 
-Dispelling: (VRG ZCT YS!) - "Balance-Separation-Mars Sulphur-Sun-Neptune Separation-Moon-Awakening"
+**Dispelling**: (VRG ZCT YS!) - "Balance-Separation-Mars Sulphur-Sun-Neptune Separation-Moon-Awakening"

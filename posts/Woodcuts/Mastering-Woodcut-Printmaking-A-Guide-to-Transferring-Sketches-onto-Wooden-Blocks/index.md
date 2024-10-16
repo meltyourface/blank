@@ -24,7 +24,7 @@ excerpt: >
 
 ## Title: A Comprehensive Guide to Transferring Artistic Sketches onto Wooden Blocks for Woodcut Printmaking
 
-Introduction:
+**Introduction**:
 Woodcut printmaking is an ancient and rewarding art form. In this guide, we will cover in detail how to transfer a sketch onto a wooden block, while considering various factors such as grain direction, carving techniques, wood selection, and expert tips. Let's dive right in!
 **Step 1**: Select a suitable wood type
 
@@ -72,7 +72,7 @@ Do a test print to evaluate your carving work. Adjust the carving or ink applica
 
 Remember, woodcut printmaking is a unique medium with a distinct style. Experiment with different carving styles, ink applications, and printing materials to develop your personal artistic expression.
 
-Conclusion:
+**Conclusion**:
 
 Mastering the art of transferring sketches onto wooden blocks for woodcut printmaking takes dedication, patience, and practice. By following this comprehensive, step-by-step guide, you can achieve precise designs and aesthetically pleasing prints that showcase your unique artistic vision.
 

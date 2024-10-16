@@ -21,11 +21,11 @@ excerpt: Compose an intricate incantation, utilizing archaic language and symbol
 ---
 By the ancient powers of land, sky, and sea, I doth call forth this incantation of grand artifice, that it may serve us in our quest for protection from all forces nefarious and malign.
 
-I: Celestial Alignment and Temporal Considerations
+**I**: Celestial Alignment and Temporal Considerations
 
 To invoke the guardian spirit within the most potent of times, one must await the moment when Luna, the Moon, is waxing and nears its most exquisite fullness, and in the company of the constellation of Orion, the mighty Hunter. At the very hour when darkness surrenders to the gentle touch of dawning light, thou shall be ready to proceed.
 
-II: Ceremonial Tools and Sacred Objects
+**II**: Ceremonial Tools and Sacred Objects
 
 Prepare these sacred instruments and objects, which shall become the vessels of the enchantment:
 
@@ -35,11 +35,11 @@ Prepare these sacred instruments and objects, which shall become the vessels of 
 4. A stone altar etched with the symbols of the elements: Earth, Water, Air, and Fire
 5. A pentacle fashioned of iron forged during a lightning storm, with the azure star of guardian energy at its center
 
-III: Sacred Geometry and Symbolic Encompassment
+**III**: Sacred Geometry and Symbolic Encompassment
 
 Upon the very ground where thou doth stand, inscribe with thine wand a mighty circle, around the circumference of which thou shalt inscribe the ancient runes of the language of the Eldest Spirits. Within this sacred boundary, in each of the four cardinal directions, mark symbols for the elements: a stone for Earth in the North, a feather for Air in the East, the chalice of Water in the South, and a blazing candle for Fire in the West.
 
-IV: Elemental and Natural Components for Empowerment
+**IV**: Elemental and Natural Components for Empowerment
 
 Into the chalice of water, mix well the following:
 
@@ -50,7 +50,7 @@ Into the chalice of water, mix well the following:
 
 Allow the wand to rest atop the chalice, absorbing the confluence of energies thus created.
 
-V: Ritual Performance and Invocation
+**V**: Ritual Performance and Invocation
 
 Standing within the circle, take up the wand, and initiate the incantation with these words:
 

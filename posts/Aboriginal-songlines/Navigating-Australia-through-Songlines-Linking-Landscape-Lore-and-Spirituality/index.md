@@ -28,7 +28,7 @@ excerpt: >
 ---
 - Linking lore, landscape, and spirituality in order to navigate the Australian continent.
 
-Rationale:
+**Rationale**:
 
 Aboriginal songlines, also known as dreaming tracks or paths, are complex oral and artistic maps that map both the physical landscape and the spiritual world of Australia's Indigenous people. They serve several essential functions for Aboriginal people and their culture, but the primary purpose is linking lore, landscape, and spirituality in order to navigate the Australian continent.
 

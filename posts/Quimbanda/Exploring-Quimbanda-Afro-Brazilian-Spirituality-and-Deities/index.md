@@ -27,13 +27,13 @@ Quimbanda is an Afro-Brazilian spiritual tradition that originated in the early 
 
 At the core of Quimbanda are its central deities and spirits: the Exus and the Pomba Giras. The Exus are often seen as trickster spirits, capable of both good and evil, while the Pomba Giras are female counterparts associated with sensuality and feminine energy. Both of these spirits serve as mediums for seekers to connect with the divine and the supernatural realm. Quimbanda practitioners, known as "Quimbandeiros," believe that by establishing relationships with these spirits, they can gain insight, power, and protection in their spiritual and everyday lives.
 
-Section: Fundamental Rituals and Practices
+**Section**: Fundamental Rituals and Practices
 
 To begin practicing Quimbanda, one must first learn about the core components of its ritual practice. These typically include offerings, invocations, and the construction of a spiritual altar, called a "terreiro." Offerings made to the Exus and Pomba Giras often consist of candles, alcohol, cigars, or various foods, depending on the specific preferences of the spirit being invoked. Invocations, also known as "pontos cantados," are chants or songs used to call upon and communicate with these spirits.
 
 Central to the establishment of a strong spiritual connection with the Exus and Pomba Giras is the construction and maintenance of a terreiro. This sacred space serves not only as a focal point for ritual practice but also as a home or sanctuary for the spirits. Terreiros are generally decorated with various objects and symbols that represent the spirits and elements of the practitioner's unique spiritual path. A well-established terreiro is essential for conducting effective rituals, as it provides a direct conduit between the spiritual and physical worlds.
 
-Section: Initiating a Spiritual Journey in Quimbanda
+**Section**: Initiating a Spiritual Journey in Quimbanda
 
 For those seeking to initiate their spiritual journey within the Quimbanda tradition, there are several steps to follow. Initially, it is important to study and gain a deep understanding of the tradition's history, beliefs, and rituals. Building a solid foundation in these areas will enable seekers to make informed decisions about their spiritual path and commitment to the practice.
 

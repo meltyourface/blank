@@ -22,11 +22,11 @@ excerpt: Design and lead a ritualized workshop on distinguishing authentic Devil
 
 ## Unveiling the Infernal Truths: Authentic Devil Worship and Beyond the Veils of Illusion
 
-Objective: To educate and guide workshop participants in distinguishing authentic Devil worship practices and experiences from self-deceptive illusions, and to strengthen their connection to diabolic forces.
+**Objective**: To educate and guide workshop participants in distinguishing authentic Devil worship practices and experiences from self-deceptive illusions, and to strengthen their connection to diabolic forces.
 
-Duration: 3 hours
+**Duration**: 3 hours
 
-Location: A secluded, dimly-lit chamber adorned with esoteric symbols and ritualistic artifacts
+**Location**: A secluded, dimly-lit chamber adorned with esoteric symbols and ritualistic artifacts
 
 Materials Required:
 1. An altar for offerings and symbols;
@@ -38,7 +38,7 @@ Materials Required:
 7. Animal bones for divinatory purposes;
 8. A metal or wooden rod for ceremonial uses.
 
-Agenda:
+**Agenda**:
 
 ### I. ****Introduction and Purification (Duration****: 30 minutes)
    A. Welcoming remarks

@@ -50,16 +50,16 @@ The following are examples of common chants and their meanings and applications 
 
 1. The Vedic Gayatri Mantra: Om Bhur Bhuvah Swaha, Tat Savitur Varenyam, Bhargo Devasya Dhimahi, Dhiyo Yo Nah Prachodayat.
 
-Translation: "We meditate on the divine light of the radiant Sun; may it inspire our intellect and illuminate our understanding."
+**Translation**: "We meditate on the divine light of the radiant Sun; may it inspire our intellect and illuminate our understanding."
 
-Purpose: This ancient Hindu chant is typically used for invoking spiritual illumination and connecting with the source of life energy.
+**Purpose**: This ancient Hindu chant is typically used for invoking spiritual illumination and connecting with the source of life energy.
 
 2. A Protection Chant: "By Earth, by Air, by Water, and by Fire, protect me in this space, a shield, a barrier, with your power I now acquire."
 
-Purpose: This chant is used to create a circle of protection and invoke the energy of the four elements to safeguard against negative influences.
+**Purpose**: This chant is used to create a circle of protection and invoke the energy of the four elements to safeguard against negative influences.
 
 3. A Manifestation Chant: "I invoke the power within, by my will the change begins. I call forth abundance, love, and grace, my desires manifest in time and space."
 
-Purpose: This chant is employed to manifest desirable outcomes by tapping into personal power and aligning with higher energies.
+**Purpose**: This chant is employed to manifest desirable outcomes by tapping into personal power and aligning with higher energies.
 
 In conclusion, the practice of chanting in the occult serves as a powerful means to connect with spiritual realms, protect oneself from harmful forces, and manifest desired outcomes. By learning the techniques and concepts outlined in this chapter, the esoteric student can draw upon the transformative power of chants to enhance their spiritual practice and deepen their understanding of the interconnectedness between the material and immaterial planes.

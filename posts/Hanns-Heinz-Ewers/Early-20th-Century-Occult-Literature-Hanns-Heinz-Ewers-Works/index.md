@@ -33,7 +33,7 @@ The Sorcerer's Apprentice:
 
 'The Sorcerer's Apprentice' is a sinister and fantastical story revolving around a demonic pact between a young man, Frank Braun, and a mysterious entity, embodied by his master, the Puppeteer. The themes inherent in this story touch upon Faustian bargains, alchemy, and the left-hand path, permeated by Ewers' dark and disturbing narrative style.
 
-Alraune:
+**Alraune**:
 
 In 'Alraune,' Ewers introduces readers to a unique blend of science and the occult through the story of a genetically engineered woman, Alraune, created by a twisted scientist, Dr. Ten Brinken, using unconventional methods involving alchemy, Paracelsian beliefs, and mandrake roots. Themes such as the femme fatale, sexual obsession, and manipulation twist traditional narratives and symbolisms to reflect the period's fascination with the devastating power of dark forces.
 
@@ -45,6 +45,6 @@ In 'Alraune,' Ewers employs symbolism derived from the mandrake root, which was 
 
 Ewers' personal occult explorations were significantly tied to his literary works. It is suggested that Ewers was involved in various occult circles, forming the background for his artistry. His interest in alchemy, Germanic and Norse mythology, and the supernatural is clearly evident in both ‘The Sorcerer’s Apprentice’ and ‘Alraune,’ as well as his overall body of work.
 
-Conclusion:
+**Conclusion**:
 
 In conclusion, Hanns Heinz Ewers played a crucial role in contributing to the early 20th-century occult revival through his innovative and compelling literary works that interwove esoteric themes and concepts within engaging stories. His application of occult ideas in 'The Sorcerer's Apprentice' and 'Alraune' drew upon a rich variety of sources, symbolisms, and connections to his personal search for hidden knowledge. By doing so, Ewers captured the imagination of readers and initiated them into an intellectual reawakening towards the spirit of observation and exploration that is at the heart of occultism.

@@ -30,11 +30,11 @@ Metaphysical relations in the context of occult studies refer to the hidden conn
 
 Entities, symbols, and forces within the occult framework hold various metaphysical meanings and are connected on multiple levels, ranging from the symbolic to the cosmic. These connections are the basis for many occult concepts, as they provide insights into the world beyond the physical, enabling a deeper understanding of the nature of reality.
 
-Entities: In this context, entities refer to spirits, deities, and other non-physical beings that have their own unique attributes and functions. These beings are often associated with specific elements, symbols, and energies that help define their roles in the metaphysical realm.
+**Entities**: In this context, entities refer to spirits, deities, and other non-physical beings that have their own unique attributes and functions. These beings are often associated with specific elements, symbols, and energies that help define their roles in the metaphysical realm.
 
-Symbols: Symbols are visual representations that hold hidden meanings and encoded information. Examples of occult symbols include sigils, runes, and glyphs. These symbols may have multiple correspondences, such as linking a particular element to a specific entity or representing a desired outcome in a magical ritual.
+**Symbols**: Symbols are visual representations that hold hidden meanings and encoded information. Examples of occult symbols include sigils, runes, and glyphs. These symbols may have multiple correspondences, such as linking a particular element to a specific entity or representing a desired outcome in a magical ritual.
 
-Forces: Occult forces can range from abstract concepts like fate and destiny to more tangible energies such as astral vibrations and etheric currents. These forces interact with entities and symbols to create a complex web of relationships that shape the metaphysical landscape.
+**Forces**: Occult forces can range from abstract concepts like fate and destiny to more tangible energies such as astral vibrations and etheric currents. These forces interact with entities and symbols to create a complex web of relationships that shape the metaphysical landscape.
 
 ### 7.3 Principles for Gaining Deep Insights into Metaphysical Relations
 

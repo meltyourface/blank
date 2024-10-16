@@ -21,7 +21,7 @@ excerpt: Create a detailed recipe for an herbal elixir using the principles of F
 ---
 Elixir of Psychic Empowerment
 
-Ingredients:
+**Ingredients**:
 - 1 cup dried mugwort leaves
 - 1/2 cup dried lavender flowers
 - 1/2 cup clary sage leaves
@@ -30,7 +30,7 @@ Ingredients:
 - 1 moonstone, cleansed and consecrated
 - 1 small vial or jar
 
-Preparation:
+**Preparation**:
 
 1. Gather the herbs during the waning crescent moon phase for increased psychic receptiveness.
 2. Cleanse and consecrate the quartz crystal and moonstone, as they will be used in the energizing and enchanting process.

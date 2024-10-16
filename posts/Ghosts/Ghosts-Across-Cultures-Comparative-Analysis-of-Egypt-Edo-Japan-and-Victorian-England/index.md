@@ -41,7 +41,7 @@ During the 19th century, as the Industrial Revolution transformed Victorian Engl
 
 Victorian ghost stories often bore moral lessons while also exploring the limits of scientific knowledge. The tales involved ghosts seeking justice, imparting wisdom, or relaying messages to the living. They also reflected unease about the rapid change and the fear of losing touch with past traditions.
 
-Analysis:
+**Analysis**:
 
 Although each of the three cultures presents ghost stories and beliefs rooted in their unique historical, social, and religious contexts, common themes emerge. In all three, the connection between the world of the living and the dead serves to preserve societal values, remind the living of their moral obligations, and address the consequences of human actions.
 

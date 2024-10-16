@@ -22,7 +22,7 @@ excerpt: >
 ---
 Case Study: The Malfoy family from the Harry Potter universe
 
-Background: The Malfoy family is an old, prestigious pure-blood wizarding family known for their strong magical abilities and influence within the magical community. They are ardent supporters of pure-blood ideals, advocating for the superiority of magical bloodlines over those of mixed heritage. In this case study, we will analyze the consequences of a union between a Malfoy family member and a non-magical individual (Muggle).
+**Background**: The Malfoy family is an old, prestigious pure-blood wizarding family known for their strong magical abilities and influence within the magical community. They are ardent supporters of pure-blood ideals, advocating for the superiority of magical bloodlines over those of mixed heritage. In this case study, we will analyze the consequences of a union between a Malfoy family member and a non-magical individual (Muggle).
 
 1) Impact on the lineage's magical potency and hereditary characteristics
 

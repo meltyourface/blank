@@ -21,7 +21,7 @@ excerpt: Devise a comprehensive, month-long personal ritual, designed to delve d
 ---
 Month-Long Personal Ritual: Delving into the Mysteries of the Hell Fire Club
 
-Overview:
+**Overview**:
 The purpose of this month-long ritual is to delve deeper into the mysteries of the Hell Fire Club while simultaneously increasing self-awareness and strengthening connections with fellow members. ****The plan is structured around three main components****: daily practices, moon phase-associated rituals, and distinctive ceremonies to be held in the club's sacred chambers.
 
 Daily Practices:

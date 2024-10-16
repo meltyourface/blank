@@ -22,7 +22,7 @@ excerpt: Compose an immersive and enigmatic ritual performance piece inspired by
 
 ## The Magnum Opus - A Journey Through the Emerald Tablet
 
-Introduction:
+**Introduction**:
 As the theater darkens, an enchanting, ethereal soundscape fills the room. The stage is decorated with symbols of ancient alchemy, awakening an aura of mysticism.
 
 Act I: Calcination

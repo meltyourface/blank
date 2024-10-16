@@ -31,7 +31,7 @@ Hecate's divine essence is imbued with many diverse attributes, primarily stemmi
 
 Witchcraft and Sorcery: Hecate's deep connection to the spiritual and metaphysical realms makes her a potent symbol for those who seek to unleash intuitive and psychic abilities while delving into the mysteries of life.
 
-Crossroads: As a guide at the crossroads of life, Hecate assists her followers in making prudent choices while illuminating their paths with her torches. She governs the realms of transitions, empowering her devotees to navigate the intricacies of their lives with wisdom.
+**Crossroads**: As a guide at the crossroads of life, Hecate assists her followers in making prudent choices while illuminating their paths with her torches. She governs the realms of transitions, empowering her devotees to navigate the intricacies of their lives with wisdom.
 
 The Moon: As a lunar goddess, Hecate unveils the feminine and intuitive aspects of existence. Her connection to the waxing, full, and waning moon underscores her influence over the cyclical nature of life, as well as the ebb and flow of personal and spiritual growth.
 

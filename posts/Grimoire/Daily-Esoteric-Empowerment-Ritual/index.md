@@ -22,7 +22,7 @@ excerpt: Design an intricate Grimoire-based spiritual ritual tailored to your in
 
 ## Title: The Ritual of the Enigmatic Nexus
 
-Intention: A daily Grimoire-focused spiritual practice designed to empower, protect, and heighten personal intuition for personal growth and mastery of the esoteric arts.
+**Intention**: A daily Grimoire-focused spiritual practice designed to empower, protect, and heighten personal intuition for personal growth and mastery of the esoteric arts.
 
 Tools and Materials:
 
@@ -33,7 +33,7 @@ Tools and Materials:
 5. Rune stones or tarot deck for divination.
 6. Incense, candles, and essential oils for sensory and energetic enhancement.
 
-Preparation:
+**Preparation**:
 
 Before conducting the ritual, create an altar or ritual space adorned with sacred geometry, alchemical symbols, and elemental correspondences that resonate with the practitioner. Ensure this space is cleansed and consecrated before each use.
 

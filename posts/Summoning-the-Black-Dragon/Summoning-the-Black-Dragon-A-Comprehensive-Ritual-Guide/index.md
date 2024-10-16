@@ -30,7 +30,7 @@ Preparation:
 
 5. Gathering the necessary tools: Gather all required tools and ingredients for the ritual, including a chalice filled with water, a ritual knife or athame, incense (preferably frankincense), candles (black and white), a representation of the Black Dragon (such as a figurine or a drawn image), and any other items specifically related to the summoning of the Black Dragon.
 
-Ritual:
+**Ritual**:
 1. Grounding and centering: Begin by grounding and centering yourself, focusing on your intentions and purpose for the summoning.
 
 2. Invoking the elemental energies: Invoke the energies of the four elements—air, fire, water, and earth—by lighting the incense (air), candles (fire), holding the chalice of water, and sprinkling salt (earth) around the ritual space. This will establish a connection with nature and attract the Black Dragon to your location.

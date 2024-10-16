@@ -29,11 +29,11 @@ The exploration of black magic is incomplete without understanding the crucial r
 
 The Phoenix, originating from Greek mythology, is a legendary bird that symbolizes regeneration, resilience, and eternal life. Believed to be a sacred firebird, it possesses the power of resurrection and reincarnation. In black magic, the Phoenix is often invoked during rituals focusing on new beginnings and breaking free from cycles of personal limitation.
 
-Characteristics:
+**Characteristics**:
 - Immortality and Rebirth: As the Phoenix reaches the end of its life cycle, it's believed to create a funeral pyre of its own accord and be consumed within the flames, only to be reborn from the ashes.
 - Fire Manipulation: The Phoenix is believed to generate and manipulate fire, creating a strong connection to the element of fire.
 
-Abilities:
+**Abilities**:
 - Ashes of Rejuvenation: The ashes of the Phoenix have been sought after for their alleged magical healing and regenerative properties.
 - Conduit of Transmutation: The Phoenix energy can help facilitate spiritual transformations and personal transformation rituals.
 
@@ -41,11 +41,11 @@ Abilities:
 
 Also known as "The King of Serpents," the Basilisk is a legendary reptile from European myth and folklore. It is said to possess deadly venom and the ability to kill with a single glance. This fearsome creature has long been associated with dark rituals and cursed practices within black magic traditions.
 
-Characteristics:
+**Characteristics**:
 - Death Gaze: The Basilisk is reputed to have a lethal gaze that can bring instant death to its enemies.
 - Venomous Nature: Boasting an immensely potent venom, the Basilisk can bring about death, injury, or induce dark and malicious enchantments.
 
-Abilities:
+**Abilities**:
 - Curse Infliction: The Basilisk's essence can be used in spell-casting to inflict pain, misfortune, or death on an enemy.
 - Dark Protection: Surrounding oneself with the Basilisk's energy can act as a powerful protective ward against negative forces or other practitioners of black magic.
 
@@ -53,11 +53,11 @@ Abilities:
 
 The Chimera, deriving from Greek mythology, is a monstrous creature composed of the body of a lion, a goat head on its back, and a serpent forming the tail. This hybrid beast is commonly employed as a symbol of chaos and a harbinger of destruction.
 
-Characteristics:
+**Characteristics**:
 - Chaotic Convergence: The Chimera perfectly embodies chaos with its numerous animal components merging as one frightening entity.
 - Destruction: Linked to natural disasters and cataclysmic events, the Chimera is a symbol of ferocious destruction in black magic practices.
 
-Abilities:
+**Abilities**:
 - Conjuring Chaos: The essence of the Chimera is invoked to create confusion, disorder, and conflict in the lives of one's adversaries.
 - Retribution: Utilizing Chimera's energy, black magic practitioners can enact vengeance and obliterate their enemies through powerful rituals.
 
@@ -65,11 +65,11 @@ Abilities:
 
 A majestic and powerful creature, the Griffin has the body of a lion and the head and wings of an eagle. Though it is known as a sentinel of divine knowledge and treasures, some practitioners of black magic have exploited its powers for more sinister purposes.
 
-Characteristics:
+**Characteristics**:
 - Physical Prowess: The Griffin is seen as a formidable creature with its lion body and eagle wings, symbolizing strength, courage, and prowess.
 - Divine Guardian: Griffins are guardians of hidden knowledge and divine treasures, their primary role being protectors of the secret truths of the world.
 
-Abilities:
+**Abilities**:
 - Ritual Amplification: When the Griffin's essence is invoked in black magic rituals, it enhances the potency of spells and enchantments.
 - Forbidden Knowledge: In times of great need, some practitioners of black magic may seek the Griffin's guidance to gain access to otherwise inaccessible knowledge, often at a high price.
 

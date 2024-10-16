@@ -23,12 +23,12 @@ excerpt: >
 
 ## Title: A Dark Eden: A Comprehensive Guide to the Enigmatic Flora of the Graveyard
 
-Introduction:
+**Introduction**:
 Within the quiet and undisturbed confines of cemeteries lie an abundance of flora, each with unique properties that flourish under the watchful eyes of the departed. As a master of the esoteric, I have taken it upon myself to investigate, catalog, and decode the mystical significance of these alluring plants. Over the years, I have honed my necro-botanical identification skills to reveal their otherworldly connections.
 
 The following comprehensive guide will detail each specimen's distinct characteristics and delve into the symbolism they possess, enabling even the most novice of scholars to navigate the shaded paths of any graveyard with confidence and discern the enchanted flora that paint the landscape. 
 
-Contents:
+**Contents**:
 ### Section I: The Dark Bloomers
 1. The Corpse Flower (Amorphophallus titanium)
 2. The Black Bat Flower (Tacca chantrieri)
@@ -49,7 +49,7 @@ Contents:
 11.Rose (Rosa spp.)
 12. Clematis (Clematis spp.)
 
-Conclusion:
+**Conclusion**:
 Although their physical presence can evoke a sense of haunting beauty, the true significance of graveyard plants lies in their intricate correlation to the otherworldly. By understanding their symbolism and unique properties, one can pierce the shroud of mystery that enshrouds these enigmatic flora.
 
 Whether they bloom under the cloak of darkness or emit otherworldly whispers on the wind, the plants detailed in this guide certainly hold a tenacious grip on the imagination, imbuing any cemetery with an air of the supernatural. As you wander beneath the arching branches of the yew or marvel at the ghostly tendrils of the clematis, remember that these ethereal plants hold ancient secrets in their roots, and a world of mystique within their blossoms. Cherish the knowledge gained, and allow it to illuminate the hidden wonders that thrive amongst the stone and the dust.

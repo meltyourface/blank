@@ -22,9 +22,9 @@ excerpt: Devise an intricate sequence of symbolic gestures, incorporating the us
 
 ## The Elemental Unison
 
-Setting: A dimly-lit room with a meticulously crafted ritual circle, consecrated with salt and inscribed with sacred geometry and elemental symbols.
+**Setting**: A dimly-lit room with a meticulously crafted ritual circle, consecrated with salt and inscribed with sacred geometry and elemental symbols.
 
-Props:
+**Props**:
 1. **Earth**: A bowl of rich soil, imbued with small gemstones and a seeded plant.
 2. **Air**: A large feather, a censer of aromatic incense, and a hand fan.
 3. **Fire**: A ceremonial dagger, a candle, and a chalice filled with flammable liquid.

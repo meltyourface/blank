@@ -28,7 +28,7 @@ In order to create a unique and intricate ritual chant to invoke the elemental e
 
 With these associations in mind, here is a chant that can be used within your coven to strengthen your ability to harness the power of the elements:
 
-Chant:
+**Chant**:
 
 "From the steadfast North we call
 Mighty Earth, on you we stand tall

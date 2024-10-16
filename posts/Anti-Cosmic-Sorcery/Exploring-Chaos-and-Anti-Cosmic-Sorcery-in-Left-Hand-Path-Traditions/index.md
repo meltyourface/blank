@@ -37,7 +37,7 @@ It is important to note that this path requires a significant level of self-awar
 
 In conclusion, the concept of Chaos is central to Anti-Cosmic Sorcery and the Left Hand Path, providing a catalyst for the deconstruction and transcendence of the individual's ego. By aligning with the forces of chaos, practitioners can liberate themselves from the confines of societal constructs and explore the fullest extent of their potentials. Key themes in this exploration include the dissolution of established cosmic order, ego deconstruction, transcendence of personal limitations, and the power of chaos in catalyzing these processes.
 
-References:
+**References**:
 
 Edred, M. (1994). The Nightside of Runes: Uthark, Adul, and the Initiatory Path of Northern Sorcery. Lodestar.
 

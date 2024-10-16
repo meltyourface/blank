@@ -23,16 +23,16 @@ excerpt: >
 
 ## The Ritual of Ethereal Communion
 
-Purpose: To establish communication with an ethereal spirit guide, and forge a transcendent connection through the incorporation of sigil crafting, elemental associations, and multisensory experiences.
+**Purpose**: To establish communication with an ethereal spirit guide, and forge a transcendent connection through the incorporation of sigil crafting, elemental associations, and multisensory experiences.
 
-Ingredients:
+**Ingredients**:
 1. Sigil designing materials: parchment, ink, quill
 2. Elemental representations: a small dish of earth, a censer with incense (air), a chalice with water, a candle (fire)
 3. Essential oils and herbs for fragrance and sensory activations (e.g., lavender, frankincense, myrrh)
 4. A comfortable cushion or mat for meditation and visualization
 5. A blindfold or eye mask to enhance focus and internal visualization
 
-Preparation:
+**Preparation**:
 
 1. Design a sigil: Meditate on the attributes and characteristics of your desired ethereal spirit guide. Once you have a clear understanding, use the ink and quill to create a sigil representing your connection with the guide on the parchment paper.
 

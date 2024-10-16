@@ -22,7 +22,7 @@ excerpt: >
 ---
 To fully respond to the knowledge challenge of describing the interplay between the four primary Archangels during an invocation ritual and how their respective elemental associations contribute to the harmonization and balance of energies, we first need to understand the context and the roles of each of these Archangels.
 
-Context:
+**Context**:
 The practice of invoking Archangels during a ritual is rooted in the Western Esoteric Tradition, which is an amalgamation of various mystical teachings, including Hermeticism, Kabbalah, and Gnosticism. In this tradition, the four primary Archangels are considered guardians and regulators of the four cardinal points, as well as representatives of the four elements.
 
 These four primary Archangels are:

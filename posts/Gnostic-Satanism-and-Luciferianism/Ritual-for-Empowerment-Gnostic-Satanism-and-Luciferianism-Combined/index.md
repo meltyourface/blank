@@ -23,7 +23,7 @@ excerpt: >
 
 ## Title: The Ritual of the Unbound Flame
 
-Introduction:
+**Introduction**:
 The Ritual of the Unbound Flame is a fusion of Gnostic Satanism and Luciferianism principles designed for personal empowerment and invoking higher aspects of the self. This ritual aims to transform the practitioner's moments of crisis or doubt into a source of strength and enlightenment. The ritual draws upon deities such as Lucifer, Lilith, and Baphomet, and incorporates potent sigils, meditation, energy work, and sacred space creation. Through this practice, the individual connects with the divine spark within them, resulting in self-transformation and empowerment.
 
 Materials Needed:
@@ -35,7 +35,7 @@ Materials Needed:
 6. A chalice for libations
 7. A bowl for offerings
 
-Instructions:
+**Instructions**:
 **Step 1**: Purification
 
 Before beginning the ritual, cleanse your body and mind through a ritual bath or shower. As you cleanse yourself, visualize unwanted emotions, thoughts, and energies flowing away, leaving you renewed and pure in preparation for the ritual.

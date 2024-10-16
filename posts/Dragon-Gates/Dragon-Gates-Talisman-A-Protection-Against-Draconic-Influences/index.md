@@ -24,7 +24,7 @@ Designing the multidimensional Dragon Gates talisman:
 Shape and Structure:
 The talisman shall be presented in the form of a hexagonal pendant, embodying the principles of sacred geometry that resonate with the stability and harmony of the Dragon Gates. Each corner of the hexagon symbolizes an element (Fire, Water, Air, Earth, and Spirit), while the center signifies the balance between them that the talisman will provide.
 
-Materials:
+**Materials**:
 A balanced blend of mystical materials shall be utilized for the talisman's construction:
 
 1. Dragon bone: Harvested ethically from a deceased dragon of great power, the bone imbues the talisman with deep, ancestral energy, fortifying the talisman against draconic curses and influences.

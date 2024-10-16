@@ -22,7 +22,7 @@ excerpt: Compose a meticulously crafted guided meditation for embarking upon ast
 
 ## The Astral Voyage: A Guided Meditation into the Esoteric Realms
 
-Introduction:
+**Introduction**:
 
 Welcome, seeker of the astral realms. You are about to embark upon a transformative journey transcending the boundaries of the physical world, swirling through mystic portals to vibrant dimensions, and unraveling the arcane secrets beyond your wildest dreams. This meticulously crafted guided meditation shall serve as your wings as you soar through the astral planes, invoking ancient Magickal entities for protection and wisdom. Let go of your earthly tether, breathe deeply, and step into the threshold of the uncharted.
 
@@ -60,6 +60,6 @@ When you have satiated your astral wanderlust, follow the silver thread back to 
 
 As your awareness returns to the here and now, let the memories of your astral voyage linger in your heart and mind, a treasure trove of revelations and inner growth.
 
-Conclusion:
+**Conclusion**:
 
 Through this guided meditation, you have engaged with the mysteries of the astral realms, experienced the boundless potential of your ethereal self, and woven a tapestry of Magickal encounters that shall enrich your journey on the earth plane. Remember the secrets you have gleaned, the energies you have harnessed, and the entities who have guided you - you have their blessings, and you will carry the Magick with you always.

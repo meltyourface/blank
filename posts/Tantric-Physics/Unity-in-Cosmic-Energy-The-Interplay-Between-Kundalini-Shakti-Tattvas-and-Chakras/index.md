@@ -25,10 +25,10 @@ The knowledge challenge at hand brings forth the notion of the interlinked relat
 Kundalini Shakti:
 In the context of Tantric Physics, Kundalini Shakti refers to the latent, cosmic energy that resides at the base of the spine, coiled like a serpent. It is considered the primal life force that animates all life forms. The awakening and ascent of this energy through the chakra system, ultimately reaching the crown chakra (Sahasrara), signifies the union of the individual's self with the cosmic consciousness.
 
-Tattvas:
+**Tattvas**:
 Tattvas are the fundamental principles or elements representing the five major aspects of the macrocosm: Earth (Prithvi), Water (Jala), Fire (Agni), Air (Vayu), and Ether (Akasha). These elements are present within every individual as the microcosm, reflecting the connection between the individual and the universal realities. When various Tattvas are in harmony, it is believed to bring a state of physical, mental, and spiritual equilibrium.
 
-Chakras:
+**Chakras**:
 Chakras, which means "wheel" in Sanskrit, are the subtle energy centers that form a part of the subtle body or "Sukshma Sharira." There are seven primary chakras in the human body aligned along the spine, starting from the base to the crown of the head. Each chakra represents a unique level of consciousness and is associated with specific Tattvas and energetic qualities.
 
 Now, let's integrate these concepts to uncover the hidden correspondence between the microcosmic and macrocosmic dimensions.

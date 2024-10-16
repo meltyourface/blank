@@ -28,7 +28,7 @@ excerpt: >
 ---
 Answer: A connection between the mortal and spiritual realms, often seen as a bridge that allows communication or travel between worlds
 
-Explanation: The answer that best demonstrates a comprehensive understanding of the rainbow as a sacred and spiritual symbol within the context of esoteric and occult studies is the idea that it represents a connection between the mortal and spiritual realms, often seen as a bridge that enables communication or travel between worlds.
+**Explanation**: The answer that best demonstrates a comprehensive understanding of the rainbow as a sacred and spiritual symbol within the context of esoteric and occult studies is the idea that it represents a connection between the mortal and spiritual realms, often seen as a bridge that enables communication or travel between worlds.
 
 Throughout history, many cultures and belief systems have imbued rainbows with much spiritual and symbolic significance that transcends mere meteorological explanations. While it is true that rainbows are formed by the dispersion of light through water droplets in the atmosphere, the esoteric and occult perspectives assign deeper meanings to this natural phenomenon.
 

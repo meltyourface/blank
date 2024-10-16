@@ -24,7 +24,7 @@ excerpt: Compose and meticulously scribe an incantation within a Grimoire that, 
 
 *Note: Summoning Asmodeus or any other powerful entities should only be performed with extreme caution and preparation. The following ritual assumes the summoner possesses advanced knowledge and expertise in dealing with spiritual powers.
 
-Materials:
+**Materials**:
 1. A Grimoire, ideally bound in leather and written with iron gall ink
 2. A basic altar (wooden table)
 3. A consecrated chalice
@@ -47,7 +47,7 @@ Mix a full-bodied red wine (preferably from the same year) with the following he
 
 Allow this mixture to rest for at least 3 hours before consuming it during the ritual.
 
-Incantation:
+**Incantation**:
 
 Begin by setting up and consecrating the altar, placing the Grimoire, chalice, knife, brazier, and incense upon it. Then, inscribe the sigil of Asmodeus within your Grimoire, using the iron gall ink and a quill. Proceed to don the ceremonial robe and enter the ritual space, ensuring you are free from distractions. Invoke the four elemental spirits to guard the four corners.
 
@@ -55,24 +55,24 @@ Light the candles in a pentagonal formation and place the brazier at the center.
 
 "Amprodias andamian, Asmodeus rex infernorum. Exeo a sacris abditis et adveni, potentior deus magnum ex ortus noctis."
 
-Translation: "Amprodias unbind, Asmodeus, king of the infernal realms. Emerge from your hidden sanctuary and come forth, great god of the dark dawn."
+**Translation**: "Amprodias unbind, Asmodeus, king of the infernal realms. Emerge from your hidden sanctuary and come forth, great god of the dark dawn."
 
 Open your Grimoire to the page containing the sigil of Asmodeus and concentrate on it while reciting the invocation eight times. As the atmosphere thickens, ignite the incense within the brazier. Hold the chalice filled with the prepared wine in both hands, and continue:
 
 "Ego conjuro te per tutelarum tuarum potentiam, Asmodeus, venire ad me et obedire voluntatis meae."
 
-Translation: "I conjure thee by the power of your guardians, Asmodeus, to come unto me and obey my will."
+**Translation**: "I conjure thee by the power of your guardians, Asmodeus, to come unto me and obey my will."
 
 Slow and carefully, consume some of the wine to form a bond with the archdemon (be cautious, as the wine contains potent herbs). Then, pointing the consecrated iron knife at the sigil, use the remaining wine to anoint it, saying:
 
 "Suscipe mihi et meipsum confirmate sigillo vino caerimonio, gratia et auctoritate. Ego invoco te, Asmodeus."
 
-Translation: "Receive me and strengthen me with the seal of this ceremonial wine, by grace and authority. I invoke thee, Asmodeus."
+**Translation**: "Receive me and strengthen me with the seal of this ceremonial wine, by grace and authority. I invoke thee, Asmodeus."
 
 Repeat this incantation three more times, while focusing on the desired goal or request. Once Asmodeus has been invoked and the purpose is clear, thank him for his presence, and conclude the ritual with the following phrase:
 
 "Gratias tibi ago pro tuo auxilio, Asmodeus. Valere et regressus ad regnum tuum."
 
-Translation: "I thank thee for your assistance, Asmodeus. Farewell and return to your realm."
+**Translation**: "I thank thee for your assistance, Asmodeus. Farewell and return to your realm."
 
 After the ritual, dispose of any remaining wine and herbs and cleanse the space. Remember that dealing with powerful entities such as Asmodeus demands extreme caution and the highest level of spiritual preparation.

@@ -21,7 +21,7 @@ excerpt: Outline a plan for regular anti-witchcraft spell rituals, focusing on s
 ---
 Task: Outline a plan for regular anti-witchcraft spell rituals.
 
-Objective: Spiritual cleansing and protection maintenance against malevolent forces.
+**Objective**: Spiritual cleansing and protection maintenance against malevolent forces.
 
 Optimal Frequency and Schedule: The optimal frequency for performing regular anti-witchcraft spell rituals is once every lunar month (29.5 days). It is advisable to perform these rituals on the night of the full moon to harness its powerful natural energies. The following schedule revolves around the lunar cycle:
 

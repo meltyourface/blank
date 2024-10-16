@@ -22,9 +22,9 @@ excerpt: >
 ---
 Ritual Name: The Sanguine Requiem
 
-Objective: To exorcise and violently purify a cursed or tainted weapon, stripping it of malevolent energies and freeing the souls of its victims, while potentially harnessing some of its past power.
+**Objective**: To exorcise and violently purify a cursed or tainted weapon, stripping it of malevolent energies and freeing the souls of its victims, while potentially harnessing some of its past power.
 
-Ingredients:
+**Ingredients**:
 
 1. An altar - Upon this surface, the weapon will be laid during the ritual.
 2. Salt - Representing purity and protection, creating a barrier against evil forces.
@@ -35,7 +35,7 @@ Ingredients:
 7. A chalice - To hold the blood and serve as a receptacle for the purified energies.
 8. A ceremonial dagger - To represent authority and control of the ritual.
 
-Steps:
+**Steps**:
 
 1. **Prepare the ritual space**: Cleanse the area by burning the chosen incense and create a circle of salt around the perimeter to ward off negative energies. Arrange the candles in a circle within the salt, black candles to the west and white candles to the east.
 

@@ -44,10 +44,10 @@ Now let us consider the key themes of cosmic order, knowledge, and power, and th
 Cosmic Order:
 Each deity played essential roles in maintaining cosmic order. Enlil's separation of heaven and earth and his connection to the Tablets of Destiny demonstrate his responsibility for establishing and preserving the fundamental order of the universe. Enki's creation of humanity contributes to the cosmic order by populating the earth and instituting a form of divine control over human life. Lastly, Inanna's dual aspects of love and war exhibit the necessity of balancing opposing forces to ensure the harmonious continuation of life.
 
-Knowledge:
+**Knowledge**:
 Enki, being the god of wisdom and the patron of writing, directly influenced the dissemination and acquisition of knowledge in Sumerian society. In this context, his role as a creator of humanity can also be viewed as the ultimate act of imparting knowledge – the very act of bringing sentient beings into existence. The advancements in technology, agriculture, and administration that characterized Sumerian civilization could be directly attributed to the involvement of Enki and the inherent desire for obtaining knowledge.
 
-Power:
+**Power**:
 Enlil's power was supremely authoritative, holding the power to establish kings and ensuring divine legitimacy in governance. Inanna, the formidable goddess of war, embodied the protection and martial capability needed to maintain political power. It is clear that both religion and politics were inextricably linked, paving the way for a civilization that believed in the divine origin of their rulers and the importance of maintaining order through the influence of their pantheon.
 
 In summary, the roles of Anunnaki deities Enlil, Enki, and Inanna in Ancient Sumerian mythology showcase the rich fabric of cosmological understanding that shaped the Sumerian civilization. It is through their multifaceted attributes, domains, and functions that we can recognize their links to cosmic order, knowledge, and power. Ultimately, their contributions informed and propagated the structure and legitimacy of Sumerian society, shaping its worldview, governing principles, and appreciation of divine order.

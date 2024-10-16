@@ -23,9 +23,9 @@ excerpt: >
 
 ## Title: Elixir of Mandragoric Purification
 
-Intention: To purge impurities, expel malevolent forces, and fortify the aura against future negativity.
+**Intention**: To purge impurities, expel malevolent forces, and fortify the aura against future negativity.
 
-Ingredients:
+**Ingredients**:
 
 1. Mandrake root (fresh or dried) - 9 g
 2. Blessed thistle - 6 g 
@@ -39,7 +39,7 @@ Ingredients:
 10. Essential oil of rosemary - 9 drops
 11. Essential oil of lavender - 6 drops
 
-Equipment:
+**Equipment**:
 
 1. Mortar and pestle
 2. Cauldron
@@ -48,7 +48,7 @@ Equipment:
 5. Filter cloth
 6. Clear crystal/rune to be used as a focal point for the ritual
 
-Preparation:
+**Preparation**:
 
 1. Begin by thoroughly cleansing and consecrating your ritual space, ensuring that it is free from any impurities or negative energies that could interfere with the potency of the elixir.
 
@@ -80,7 +80,7 @@ Elixir of protection, grant me this boon."
 
 10. Close the potion with the appropriate lid, sigil, or sealing wax.
 
-Usage:
+**Usage**:
 
 To use the Elixir of Mandragoric Purification, anoint your pulse points (temples, wrists, and throat) daily with a small amount of the elixir. Alternatively, you may also diffuse the elixir using an oil burner to fill your space with its purifying and protective energies. For an even stronger effect, perform a grounding and centering meditation during the application of the elixir.
 

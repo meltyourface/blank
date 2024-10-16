@@ -34,7 +34,7 @@ excerpt: >
 ---
 Comprehensive Elemental Ritual for the Hierophant's Esoteric Domain
 
-Overview:
+**Overview**:
 This comprehensive ritual is designed to harness and channel the elemental energies and forces within the Hierophant's esoteric domain (Earth, Air, Fire, and Water) and harmonize them with the practitioner's intentions.
 
 1. **Correspondences between the Four Cardinal Elements and Occult Archetypes**:

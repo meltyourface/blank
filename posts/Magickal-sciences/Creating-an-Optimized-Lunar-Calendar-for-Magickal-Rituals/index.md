@@ -48,12 +48,12 @@ For example:
 
 New Moon
 
-Ritual: Intention-setting and visualization exercises.
+**Ritual**: Intention-setting and visualization exercises.
 
-Materials: Blue or black candles, clear quartz crystals, and parchment paper.
+**Materials**: Blue or black candles, clear quartz crystals, and parchment paper.
 
-Colors: Black, silver, and deep blue.
+**Colors**: Black, silver, and deep blue.
 
-Deities: Goddesses of new beginnings, such as Hekate.
+**Deities**: Goddesses of new beginnings, such as Hekate.
 
 By integrating this detailed information into a lunar calendar format, you will provide a highly valuable, multi-faceted resource for Magickal practitioners seeking to optimize their esoteric workings through expert planning and precise timing.

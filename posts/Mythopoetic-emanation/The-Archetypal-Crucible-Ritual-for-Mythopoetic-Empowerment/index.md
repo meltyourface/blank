@@ -22,7 +22,7 @@ excerpt: Develop an intricate ceremonial framework to forge an enchanted Talisma
 
 ## The Rite of The Archetypal Crucible
 
-Introduction: To forge the enchanted Talisman of Mythopoetic Emanation, we must undertake The Rite of The Archetypal Crucible. This intricate ceremony is designed to first purify, then consecrate the talisman with distinct symbols and invocations, imbuing it with the power to amplify one's inner strength and personal power.
+**Introduction**: To forge the enchanted Talisman of Mythopoetic Emanation, we must undertake The Rite of The Archetypal Crucible. This intricate ceremony is designed to first purify, then consecrate the talisman with distinct symbols and invocations, imbuing it with the power to amplify one's inner strength and personal power.
 
 ### I. Essential Materials and Consecrated Tools
 

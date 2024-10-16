@@ -22,7 +22,7 @@ excerpt: Design a comprehensive unbinding ritual that harnesses the arcane energ
 
 ## Unbinding Ritual of the Liberating Hecatean Veil
 
-Preparations:
+**Preparations**:
 
 1. Cleanse and purify the ritual space with a smudging of sage or burning of sacred incense.
 2. Gather the necessary ingredients and tools:
@@ -34,7 +34,7 @@ Preparations:
     vi. A ritual dagger or athame (to direct energies and inscribe sigils)
     vii. Chalice with a mixture of water and moon-revered salt (to cleanse and purify)
 
-Ritual:
+**Ritual**:
 **Step 1**: Enter the purified ritual space and draw a protective circle using the hazelwood shavings (a mixture of whittled hazelwood and powdered bark). As you create the circle, recite the following incantation:
 
    "Hecate, weaver of shadows,

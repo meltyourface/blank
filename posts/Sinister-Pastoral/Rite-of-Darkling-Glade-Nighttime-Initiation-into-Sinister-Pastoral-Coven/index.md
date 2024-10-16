@@ -23,7 +23,7 @@ excerpt: >
 
 ## Rite of the Darkling Glade
 
-Setting: The Rite of the Darkling Glade takes place during the darkest night of the year, within the dense treeline of an ancient, haunted forest. The ceremony is conducted amongst the ruins of a forgotten stone circle, hidden beneath centuries of overgrowth.
+**Setting**: The Rite of the Darkling Glade takes place during the darkest night of the year, within the dense treeline of an ancient, haunted forest. The ceremony is conducted amongst the ruins of a forgotten stone circle, hidden beneath centuries of overgrowth.
 
 Ceremonial attire: Acolytes must adorn themselves in tattered, earthen garments made from materials gathered from the surrounding wilderness. They are required to paint sigils upon their flesh in a mixture of soil and animal blood, signifying the motifs of night, death, and transformation.
 

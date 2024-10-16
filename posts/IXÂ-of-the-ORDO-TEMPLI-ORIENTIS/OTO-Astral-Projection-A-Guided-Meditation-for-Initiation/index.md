@@ -23,7 +23,7 @@ excerpt: >
 
 ## The IX° Astral Projection and Spiritual Exploration - A Guided OTO Meditation
 
-Instructions: Find a quiet and comfortable space where you can sit or lie down without disturbances. Dim the lights, and ensure your body is fully at ease. Take a deep breath in and out. Let us begin our journey together.
+**Instructions**: Find a quiet and comfortable space where you can sit or lie down without disturbances. Dim the lights, and ensure your body is fully at ease. Take a deep breath in and out. Let us begin our journey together.
 
 1. The Path of Initiation
 Start by visualizing yourself standing at the base of the Qabalistic Tree of Life, poised to embark on a transformative journey. You are at Malkuth, the Kingdom, a realm of material reality. As you truly embrace your calling as an adept of the Ordo Templi Orientis, repeat firmly: "Do what thou wilt shall be the whole of the Law."

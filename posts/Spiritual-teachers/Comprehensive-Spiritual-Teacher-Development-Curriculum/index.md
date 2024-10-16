@@ -23,7 +23,7 @@ excerpt: >
 
 ## Spiritual Teacher's Path: A Comprehensive Curriculum for Aspiring Masters
 
-Structure:
+**Structure**:
 The curriculum will consist of five stages, each covering different aspects of spiritual growth. Each stage will begin with theory, followed by practical exercises, and concluding with evaluation through measurable outcomes. The timeline for each stage may vary depending on individual progress, but a suggested duration for the entire curriculum is approximately 3-5 years.
 
 Stage 1: Foundations of Esoteric Wisdom (6-12 months)

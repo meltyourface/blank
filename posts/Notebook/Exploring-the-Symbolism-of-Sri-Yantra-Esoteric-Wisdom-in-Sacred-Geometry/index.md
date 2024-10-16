@@ -22,7 +22,7 @@ excerpt: >
 ---
 Sacred Geometry Diagram Chosen: The Sri Yantra
 
-Introduction:
+**Introduction**:
 
 The Sri Yantra, also known as Shree Chakra or Shri Yantra, is a prominent sacred geometry diagram from the Notebook of Esoteric Practices. Characterized by its fascinating configuration of nine interconnected triangles, this powerful symbol is believed to represent the concept of cosmic creation and the union of the divine masculine and feminine principles. Through an in-depth analysis of the underlying symbolic meanings contained within the Sri Yantra, this comprehensive written exploration will shed light on its connections to esoteric and occult practices while considering historical and cultural influences.
 

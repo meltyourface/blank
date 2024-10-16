@@ -49,19 +49,19 @@ Working Mechanism: By reciting this incantation, you are invoking your personal 
 
 3. Construction of a Consecrated Altar or Sacred Space
 
-Layout: A pentagram etched on the floor, encircled by black candles, with a central station dedicated to each of the chosen entities from the Devil's Grimoire: Baphomet, Azazel, and Lilith.
+**Layout**: A pentagram etched on the floor, encircled by black candles, with a central station dedicated to each of the chosen entities from the Devil's Grimoire: Baphomet, Azazel, and Lilith.
 
-Materials: Black cloth, silver chalice, ritual dagger, incense (dragon's blood), skull-shaped candle holder, and a personalized representation of each entity (statue, sigil, etc.).
+**Materials**: Black cloth, silver chalice, ritual dagger, incense (dragon's blood), skull-shaped candle holder, and a personalized representation of each entity (statue, sigil, etc.).
 
-Symbolism: The pentagram represents the five elements (earth, water, fire, air, spirit), while the encircling black candles signify divine protection. Baphomet symbolizes the unity of opposing forces, Azazel represents transgression and rebellion, and Lilith embodies feminine power and independence.
+**Symbolism**: The pentagram represents the five elements (earth, water, fire, air, spirit), while the encircling black candles signify divine protection. Baphomet symbolizes the unity of opposing forces, Azazel represents transgression and rebellion, and Lilith embodies feminine power and independence.
 
 4. Integration of Daily Meditative Practices
 
-Technique: Adapt a visualization technique from the Grimoire, which uses inner alchemy for transformation. Close your eyes and visualize a growing, dark flame within your chest, expanding and transforming into a powerful infernal beast. As this beast stretches and moves within you, feel your psychic and intuitive abilities strengthen and sharpen.
+**Technique**: Adapt a visualization technique from the Grimoire, which uses inner alchemy for transformation. Close your eyes and visualize a growing, dark flame within your chest, expanding and transforming into a powerful infernal beast. As this beast stretches and moves within you, feel your psychic and intuitive abilities strengthen and sharpen.
 
 5. Personalized Potion or Elixir
 
-Ingredients: Nightshade, wormwood, and mandrake root mixed in a base of pomegranate wine.
+**Ingredients**: Nightshade, wormwood, and mandrake root mixed in a base of pomegranate wine.
 
 Goals and Intended Effects: Heightened perception, insight into hidden realms, enhanced arcane abilities.
 

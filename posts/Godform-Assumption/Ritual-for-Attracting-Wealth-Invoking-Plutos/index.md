@@ -22,9 +22,9 @@ excerpt: Develop and construct a meticulously designed, self-originated ritual f
 
 ## The Ritual of Plutonian Abundance
 
-Godform: Plutos, the God of Wealth (Greek Pantheon - a wealth-giving aspect of Hades)
+**Godform**: Plutos, the God of Wealth (Greek Pantheon - a wealth-giving aspect of Hades)
 
-Objective: To attract abundance and wealth through the invocation of the godform Plutos, and the manipulation of esoteric energies and occult correspondences.
+**Objective**: To attract abundance and wealth through the invocation of the godform Plutos, and the manipulation of esoteric energies and occult correspondences.
 
 Preparatory Measures:
 

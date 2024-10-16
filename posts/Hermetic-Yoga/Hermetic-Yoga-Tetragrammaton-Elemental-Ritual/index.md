@@ -23,7 +23,7 @@ excerpt: >
 
 ## Title: Tetragrammaton Hermetic Yoga Ritual
 
-Preparation:
+**Preparation**:
 - Prepare the space by clearing it of any energies or objects that might distract from the practice. Cleanse the area with sage or frankincense, and create a sacred boundary around the space using salt or a white cord.
 - Set up four altars or stations, one for each cardinal direction (North, East, South, and West). Each station will represent an aspect of the Tetragrammaton, an element, and a specific purpose within the ritual.
 - The Eastern station represents the letter Yod (י) or YHVH, the element of air, and the faculties of the intellect. Decorate this station with feathers, incense, and yellow or gold-colored items.
@@ -79,7 +79,7 @@ Asana and Pranayama (Northern Station – Final Heh - Earth):
 Meditation and Mantra (Northern Station – Final Heh - Earth):
 13. Sit in a comfortable meditation position and visualize yourself rooted into the Earth's energy. Repeat the mantra "Om Heh (ה) Hung" 27 times, focusing on connecting with the aspect of the final Heh and the physical body.
 
-Closing:
+**Closing**:
 14. **Return to the center of the ritual space and perform the following invocation**:
 "I have journeyed through the mysteries of the Tetragrammaton and the elements. I have connected with the divine attributes of Yod, Heh, Vav, Heh (YHVH), and I am transformed by this sacred ritual. With gratitude and love, I release the energies and spirits that assisted me in this sacred practice. So Mote It Be."
 

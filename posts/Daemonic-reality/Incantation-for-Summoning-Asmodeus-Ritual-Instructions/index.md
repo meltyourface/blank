@@ -22,13 +22,13 @@ excerpt: >
 ---
 In accordance with the request, I have created an incantation for conjuring the Daemonic entity, Asmodeus, incorporating elements of ancient linguistic traditions. Note that involvement in Daemonic practices can be dangerous, and it is crucial to approach with caution, respect, and preparation.
 
-Incantation: 
+**Incantation**: 
 
 1. Sulum-uhr-Asmodeus zu'akre'thel, Azarak Kar'Zaman-nakhr moratá fornis'gal!
 2. Ol vin sabinok sur ên-Asmodai, rex inferni, corax-ûr dominor;
 3. Es viuu Enochian kos-uris, Latinarum illá-tor, ar-khan Sumeri ukhra;
 
-Preparation:
+**Preparation**:
 
 - Draw the proprietary sigil of Asmodeus upon a clean surface, in the center of the ritual area. This sigil is crafted from an amalgamation of Enochian, Latin, and Sumerian symbolism for power and dominion.
 - Prepare a sacrificial offering of rich incenses, lit and placed within a ceremonial bowl atop the sigil.

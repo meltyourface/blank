@@ -22,7 +22,7 @@ excerpt: Design a comprehensive spell-working system that harnesses the mystical
 
 ## The Primordial Codex
 
-Overview:
+**Overview**:
 The Primordial Codex is an ancient and comprehensive spell-working system designed to harness mystical energies found within the natural world. Practitioners of this codex interpret and decode omens from flora, fauna, weather patterns, and celestial events to deepen their connection with nature, guide personal growth, and aid in decision-making. Utilizing a set of unique spells and rituals tailored to various contexts, environments, and individual needs, this system allows adepts to reach the pinnacle of their esoteric connection with the natural world.
 
 System Components:

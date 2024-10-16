@@ -33,12 +33,12 @@ Each part will guide the novice through a combination of readings, active learni
 
 -=-=- PART 1: Foundations of Thelema -=-=-
 
-Topics:
+**Topics**:
 ### 1.1 The History and Origin of Thelema
 ### 1.2 Aleister Crowley – Life, Works, and Influence
 ### 1.3 Sacred Texts and the Structure of Thelemic Canon
 
-Readings:
+**Readings**:
 - "The Book of the Law" (AL)
 - "The Vision and the Voice" (Liber XXX Aerum)
 - "The Equinox of the Gods" (Liber AL vel Legis)
@@ -50,12 +50,12 @@ Activities and Assessments:
 
 -=-=- PART 2: Magick, Rituals, and Practices -=-=-
 
-Topics:
+**Topics**:
 ### 2.1 The Components of Magick
 ### 2.2 Ceremonial Rituals and Their Purposes
 ### 2.3 Divination, Astral Travel, and Other Esoteric Practices
 
-Readings:
+**Readings**:
 - "Magick in Theory and Practice" (Liber ABA)
 - "The Book of Lies" (Liber CCCXXXIII)
 - "777 and Other Qabalistic Writings of Aleister Crowley"
@@ -69,12 +69,12 @@ Activities and Assessments:
 
 -=-=- PART 3: Ethics, Philosophy, and Application of True Will and the Law of Thelema -=-=-
 
-Topics:
+**Topics**:
 ### 3.1 The Ethical and Philosophical Foundations of Thelema
 ### 3.2 Understanding and Uncovering True Will
 ### 3.3 Personal Development and Application of the Law of Thelema
 
-Readings:
+**Readings**:
 - "Liber II: The Message of the Master Therion"
 - "Eight Lectures on Yoga"
 - "Liber Tzaddi vel Hamus Hermeticus"
@@ -85,5 +85,5 @@ Activities and Assessments:
 - Goal setting: Structuring and implementing a plan to align actions with True Will
 - Final project: Presenting on a chosen topic that synthesizes learning and demonstrates personal growth within Thelema
 
-Conclusion:
+**Conclusion**:
 Upon successful completion of the curriculum, the novice will have gained both a strong theoretical understanding and practical experience of Thelema, its history, magick, rituals, and philosophy. They will be well-equipped to delve deeper into the mysteries of the Abbey of Thelema and to continue their pursuit of True Will and the Law of Thelema as an adept practitioner.

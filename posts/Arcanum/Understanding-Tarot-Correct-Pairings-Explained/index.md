@@ -24,7 +24,7 @@ excerpt: >
 ---
 The correct pair is: The Chariot is associated with triumph over obstacles and corresponds to the astrological sign of Cancer.
 
-Explanation:
+**Explanation**:
 
 The Tarot is a diverse system full of symbols and meanings, and it is essential to understand these symbols in their proper context. In this case, there is a specific reference to the Arcanum, which refers to the hidden knowledge within the Tarot. The Tarot can be grouped into Major and Minor Arcana. The question refers to the Major Arcana, which deals with significant spiritual lessons and experiences.
 

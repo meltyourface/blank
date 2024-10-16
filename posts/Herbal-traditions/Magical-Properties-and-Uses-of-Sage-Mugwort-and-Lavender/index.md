@@ -28,7 +28,7 @@ Herbs have been an integral part of magical practices and rituals throughout hum
 
 Sage is a perennial plant with a rich history in magical practices. Known for its cleansing and purifying properties, Sage is often used in smudging rituals - the practice of burning the herb and allowing the smoke to cleanse a space or individual.
 
-Folklore: Sage has a long history of association with wisdom and knowledge. The ancient Greeks believed that Sage could enhance memory and cognitive function. Additionally, it has long been utilized in various cultures as a means of warding off evil spirits and protecting against negative energy.
+**Folklore**: Sage has a long history of association with wisdom and knowledge. The ancient Greeks believed that Sage could enhance memory and cognitive function. Additionally, it has long been utilized in various cultures as a means of warding off evil spirits and protecting against negative energy.
 
 Spiritual Associations: Sage is linked to the element of Earth and the planet Jupiter. It is often used to invoke wisdom, spiritual growth, and success in magical workings.
 
@@ -36,7 +36,7 @@ Spiritual Associations: Sage is linked to the element of Earth and the planet Ju
 
 Mugwort is a tall, flowering plant with a rich history of use in folk magic, medicine, and as a sacred herb. Most commonly, it is used for psychic development and divination, as well as protection.
 
-Folklore: Mugwort is heavily associated with the moon and lunar deities. The herb is said to enhance psychic abilities and dream work when ingested - such as in teas. In addition, it is often placed under the pillow or mattress to foster prophetic dreams and astral travel.
+**Folklore**: Mugwort is heavily associated with the moon and lunar deities. The herb is said to enhance psychic abilities and dream work when ingested - such as in teas. In addition, it is often placed under the pillow or mattress to foster prophetic dreams and astral travel.
 
 Spiritual Associations: Mugwort is associated with the element of Air and the planet Venus. It is known to facilitate psychic development, divination, and spiritual growth in magical practice.
 
@@ -44,7 +44,7 @@ Spiritual Associations: Mugwort is associated with the element of Air and the pl
 
 Lavender is a fragrant flowering plant which has been held in high regard for its calming and soothing properties. In magical work, Lavender is often employed for purposes of relaxation, tranquility, and the promotion of peace and harmony.
 
-Folklore: The name Lavender is derived from the Latin verb "lavare," which means "to wash" – a testament to its historical use as a cleansing and purifying herb. Roman soldiers purportedly used the herb to ward off evil spirits, and many ancient cultures believed that it was a protective charm against the evil eye.
+**Folklore**: The name Lavender is derived from the Latin verb "lavare," which means "to wash" – a testament to its historical use as a cleansing and purifying herb. Roman soldiers purportedly used the herb to ward off evil spirits, and many ancient cultures believed that it was a protective charm against the evil eye.
 
 Spiritual Associations: Lavender is linked to the element of Air and the planet Mercury. In magical practice, it is used to promote peace, love, happiness, and protection.
 

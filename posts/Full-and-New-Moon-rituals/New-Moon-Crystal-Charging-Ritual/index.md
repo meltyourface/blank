@@ -23,7 +23,7 @@ Elaborate New Moon Ritual for Purifying and Energetically Charging Crystals
 
 The purpose of this New Moon ritual is to purify and energetically charge various types of crystals using the transformative power of New Moon energy. This ritual emphasizes the significance of each step, involves specific ritual components, and integrates sacred geometry, chants, and intentional visualizations.
 
-Materials:
+**Materials**:
 1. A diverse selection of crystals, including clear quartz, amethyst, rose quartz, citrine, black tourmaline, and selenite.
 2. Moon water (water left under the moonlight for a night)
 3. A cloth to lay the crystals on

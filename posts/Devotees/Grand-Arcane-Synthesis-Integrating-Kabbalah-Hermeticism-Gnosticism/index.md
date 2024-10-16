@@ -33,9 +33,9 @@ excerpt: >
 
 ## The Grand Arcane Synthesis
 
-Purpose: To integrate and harmonize the principles of Kabbalah, Hermeticism, and Gnosticism into a coherent metaphysical practice, facilitating deep spiritual transformation and understanding of one's inner self.
+**Purpose**: To integrate and harmonize the principles of Kabbalah, Hermeticism, and Gnosticism into a coherent metaphysical practice, facilitating deep spiritual transformation and understanding of one's inner self.
 
-Preparation: Prior to performing the ritual, gather the following visual symbols and tools, which represent essential aspects of each esoteric tradition:
+**Preparation**: Prior to performing the ritual, gather the following visual symbols and tools, which represent essential aspects of each esoteric tradition:
 
 1. ****Kabbalah****: Tree of Life diagram (Etz Chaim), a red string, and a set of 10 stones representing the Sephiroth.
 2. ****Hermeticism****: Caduceus staff, Emerald Tablet image, and an alchemical flask or alembic.

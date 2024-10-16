@@ -35,9 +35,9 @@ excerpt: >
 
 ## Reawakening the Songlines: A Collaborative Journey into Aboriginal Knowledge and Wisdom
 
-Objective: To create a comprehensive joint venture that delves into the intricate world of Aboriginal songlines, bridging the gap between traditional understanding and modern research.
+**Objective**: To create a comprehensive joint venture that delves into the intricate world of Aboriginal songlines, bridging the gap between traditional understanding and modern research.
 
-Partners:
+**Partners**:
 1. Esteemed Aboriginal elders representing diverse indigenous communities
 2. Knowledgeable researchers with expertise in anthropology, geography, linguistics, ecology, and cultural studies
 

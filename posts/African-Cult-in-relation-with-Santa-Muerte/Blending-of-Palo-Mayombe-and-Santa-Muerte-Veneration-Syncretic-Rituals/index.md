@@ -26,7 +26,7 @@ excerpt: >
 ---
 Answer: The blending of Palo Mayombe rituals with Santa Muerte veneration.
 
-Explanation: The syncretic relationship between the African Cult and Santa Muerte can be best described as the blending of Palo Mayombe rituals with Santa Muerte veneration. This is because Palo Mayombe, an African-Cuban religion with roots in the Congo region, shares similarities with popular beliefs in Santa Muerte, a Mexican cult centered on the worship of a skeletal figure representing death.
+**Explanation**: The syncretic relationship between the African Cult and Santa Muerte can be best described as the blending of Palo Mayombe rituals with Santa Muerte veneration. This is because Palo Mayombe, an African-Cuban religion with roots in the Congo region, shares similarities with popular beliefs in Santa Muerte, a Mexican cult centered on the worship of a skeletal figure representing death.
 
 Palo Mayombe and Santa Muerte both emphasize magical practices, protection, and communication with spirits. In their syncretic relationship, practitioners of Palo Mayombe might incorporate imagery and rituals of Santa Muerte into their spiritual practice. Similarly, Santa Muerte devotees may integrate aspects of Palo Mayombe rituals to enhance their connection with the spirit of death.
 

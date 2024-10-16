@@ -25,7 +25,7 @@ Where cosmic energies and ancient wisdom coincide,
 Exu, Pomba Gira, faithful guides and guardians divine,
 Lead us through the abyss of life, entwined like sacred vine.
 
-Chorus:
+**Chorus**:
 Exu and Pomba Gira, sublime spirits of cosmic night,
 In the kingdom of Quimbanda, we seek refuge in your light,
 Together in celestial dance, your power we revere,
@@ -43,7 +43,7 @@ In your bewitching charm, the secrets of the world entwine,
 Your wisdom and authority, our hearts doth recognize,
 Through the power of your love, we discover our spiritual ties.
 
-Chorus:
+**Chorus**:
 Exu and Pomba Gira, sublime spirits of cosmic night,
 In the kingdom of Quimbanda, we seek refuge in your light,
 Together in celestial dance, your power we revere,
@@ -61,7 +61,7 @@ In the divinations crimson hands, our fates are foretold,
 Through the cycles of reincarnation, we tread the spiral path,
 Ever-growing, ever-learning, to find our sacred hearth.
 
-Chorus:
+**Chorus**:
 Exu and Pomba Gira, sublime spirits of cosmic night,
 In the kingdom of Quimbanda, we seek refuge in your light,
 Together in celestial dance, your power we revere,
@@ -73,7 +73,7 @@ In the presence of Exu, Pomba Gira, and the legion of radiant spirits,
 We walk the path of the ancestors, guided by timeless resilience,
 In the Quimbanda Kingdom, our hearts alight, our souls uplifted.
 
-Outro:
+**Outro**:
 In the echoes of eternity, the mystical hymn resounds,
 Celebrating the intricate web of Quimbanda kingdoms,
 Old and new, fire and water, passion and wisdom

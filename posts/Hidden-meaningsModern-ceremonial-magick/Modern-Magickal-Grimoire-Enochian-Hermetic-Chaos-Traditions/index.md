@@ -23,7 +23,7 @@ excerpt: >
 
 ## The Grimoire of Modern Ceremonial Magick
 
-Introduction:
+**Introduction**:
 
 This grimoire is a comprehensive guide to modern ceremonial magick, drawing on a wealth of esoteric and occult wisdom from various traditions and paradigms, such as Enochian, Hermetic, and Chaos Magick. Within these pages, you will find detailed instructions for ritual preparation, invocation of deities and spirits, and the use of sacred geometry and talismanic symbols to enhance your magickal practice.
 
@@ -90,6 +90,6 @@ This grimoire is a comprehensive guide to modern ceremonial magick, drawing on a
 ### 7.5 The Art of Talisman Magick
 ### 7.6 Advanced Techniques for Constructing and Charging Talismans
 
-Epilogue: The Path of the Adept
+**Epilogue**: The Path of the Adept
 
 This grimoire is a living tool in the hands of the dedicated practitioner. As you explore and practice its teachings, may you grow in wisdom, understanding, and mastery of the magickal arts. Always remember the importance of ethics, discipline, and respect for the forces you invoke. Magick is not a power to be wielded without thought or consequence; it is a path of self-discovery and consciousness expansion, grounded in reverence for the mysteries of the universe.

@@ -31,7 +31,7 @@ excerpt: >
 
 ## Symbolum Universitas
 
-Description: The Symbolum Universitas is a system of divination symbols that synthesize core concepts from both Western and Eastern esotericism. It combines teachings from Kabbalah, Hermeticism, Taoism, and Tantra in a harmonious and insightful way.
+**Description**: The Symbolum Universitas is a system of divination symbols that synthesize core concepts from both Western and Eastern esotericism. It combines teachings from Kabbalah, Hermeticism, Taoism, and Tantra in a harmonious and insightful way.
 
 1. **Core Concepts**:
 

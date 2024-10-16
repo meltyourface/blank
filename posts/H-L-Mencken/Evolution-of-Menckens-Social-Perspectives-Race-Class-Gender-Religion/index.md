@@ -22,7 +22,7 @@ excerpt: Conduct a comprehensive diachronic analysis of the evolution of H. L. M
 
 ## The Diachronic Evolution of H. L. Mencken's Social Perspectives
 
-Introduction:
+**Introduction**:
 Henry Louis Mencken, an influential journalist, essayist, and editor, left a bold mark on American culture and discourse. As a key figure of the early 20th century, Mencken's perspectives on social issues evolved considerably over time, influenced by historical events, cultural developments, and personal experiences. In this analysis, we will explore Mencken's views on race, class, gender, and religion while offering insights into what shaped his thought process. We will rely on both primary and secondary sources to create a comprehensive picture of the complexity and richness of Mencken's viewpoints.
 
 ### I. Early Years and Influences

@@ -24,7 +24,7 @@ Invocation 1: Guardian Spirits
 
 Begin by drawing a protective circle around the area of invocation using a mixture of salt and crushed rosemary. Light a white candle in the center.
 
-Chant:
+**Chant**:
 "Spirits of the guardian realm,
 Hear my call, let none defend,
 Protective shields and watchful eyes,
@@ -40,7 +40,7 @@ Invocation 2: Ancestral Spirits
 
 Place a small offering of food and drink before a photograph or personal item belonging to one of your ancestors. Light a black or white candle.
 
-Chant:
+**Chant**:
 "Ancestors of blood and spirit,
 Guide my path through ancient merit.
 Wisdom shared, traditions follow,
@@ -56,7 +56,7 @@ Invocation 3: Elemental Spirits
 
 Draw elemental symbols in each corresponding corner of your sacred space: Earth (north), Air (east), Fire (south), Water (west). **Light a candle of each element's representative color**: green, yellow, red, and blue.
 
-Chant:
+**Chant**:
 "Spirits of earth, wind, fire, and wave,
 Heed my call, benevolent and brave,
 Elements four, your strengths combined,
@@ -72,7 +72,7 @@ Invocation 4: Healing Spirits
 
 Arrange a circle of small healing stones such as amethyst, rose quartz, and clear quartz in the center of your space. Light a violet or blue candle.
 
-Chant:
+**Chant**:
 "Healing spirits, bringers of balm,
 Mend the wounds and quiet the qualm,
 Replenish the heart, body, and mind,
@@ -88,7 +88,7 @@ Invocation 5: Wisdom Spirits
 
 Surround yourself with books, scrolls, and symbols of knowledge, preferably in a circle. Light a silver or indigo candle.
 
-Chant:
+**Chant**:
 "Spirits of wisdom, intellect expand,
 Cultivate insight and deep understanding,
 Share with me your knowledge untold,
@@ -104,7 +104,7 @@ Invocation 6: Prosperity Spirits
 
 Arrange gold and silver coins or other symbols of wealth, alongside a green or gold candle at the center of your space.
 
-Chant:
+**Chant**:
 "Spirits of fortune, prosperity, and gain,
 I beckon you to bless my earthly plane,
 Let abundance flow through our shared ground,

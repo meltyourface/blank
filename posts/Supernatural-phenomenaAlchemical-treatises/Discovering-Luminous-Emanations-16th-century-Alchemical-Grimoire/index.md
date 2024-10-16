@@ -28,7 +28,7 @@ The recently unearthed Supernatural phenomena Alchemical treatise, referred to a
 Historical Context:
 The exact origins of "The Luminous Emanations" remain nebulous. However, the style of writing, along with various historical references within the text, suggests that the grimoire was likely authored during the 16th century. This era was a fertile period for occult advancements in Europe, as learned men of the time sought to explore the mysteries of the natural world, particularly in relation to spiritual and alchemical studies.
 
-Authorship:
+**Authorship**:
 Though the author remains anonymous, there are speculations that the treatise may be the work of a leading occult figure of the time; potential candidates include John Dee, Heinrich Cornelius Agrippa, or even an understudy of Paracelsus. The author displays a profound understanding of the Hermetic arts and is highly skilled in drawing from a vast range of esoteric sources.
 
 Connections to Magickal Orders and Alchemical Theories:

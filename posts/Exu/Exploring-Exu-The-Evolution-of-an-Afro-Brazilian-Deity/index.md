@@ -23,9 +23,9 @@ excerpt: >
 
 ## Exu: Historical Origins and Evolution in Afro-Brazilian Religion
 
-Objective: Provide an in-depth exploration of Exu within the context of Afro-Brazilian religious practices and its impact on society through the ages.
+**Objective**: Provide an in-depth exploration of Exu within the context of Afro-Brazilian religious practices and its impact on society through the ages.
 
-Duration: A two-day seminar, with four sessions each day, each session lasting 1.5 hours.
+**Duration**: A two-day seminar, with four sessions each day, each session lasting 1.5 hours.
 
 Target Audience: Scholars, academics, practitioners, and enthusiasts of Afro-Brazilian religion and culture.
 

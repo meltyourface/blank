@@ -22,7 +22,7 @@ excerpt: Design a comprehensive Chaossexual magick ritual that harnesses potent 
 
 ## The Rite of the Ecstatic Nexus
 
-Objective: The Rite of the Ecstatic Nexus is designed to materialize a precisely defined desired reality by harnessing potent sexual energy through Chaossexual magick. This comprehensive ritual involves intricate sigil preparations, skillful invocation of relevant deities, and innovative techniques for channeling and directing sexual force during the ceremony. Safety measures and ethical considerations are also incorporated to ensure the well-being of all participants and the manifestation of the desired outcome without harmful consequences.
+**Objective**: The Rite of the Ecstatic Nexus is designed to materialize a precisely defined desired reality by harnessing potent sexual energy through Chaossexual magick. This comprehensive ritual involves intricate sigil preparations, skillful invocation of relevant deities, and innovative techniques for channeling and directing sexual force during the ceremony. Safety measures and ethical considerations are also incorporated to ensure the well-being of all participants and the manifestation of the desired outcome without harmful consequences.
 
 Preparation and Required Materials:
 

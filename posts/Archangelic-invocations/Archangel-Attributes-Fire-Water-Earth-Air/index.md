@@ -32,7 +32,7 @@ The answer is:
 - Archangel Uriel, Wisdom, Earth
 - Archangel Raphael, Healing, Air
 
-Explanation:
+**Explanation**:
 In the practice of Archangelic invocations, having a deep understanding of the subject matter requires extensive knowledge about the key attributes of each archangel, the fields they're experts in, and their associated elements. The given multiple-choice question showcases four archangels with accurate representations of their expertise and element correspondences, which are:
 
 1. Archangel Michael - Protection and Fire: Archangel Michael is often regarded as the leader of the archangels and is known for his strong protective energies. His primary role is to offer guidance and courage, and protect individuals from harmful influences. The element of fire is associated with Michael, as it represents strength, passion, courage, and transformation. Fire's purifying and illuminating properties also align with Michael's purpose to help remove negativity, fears, and obstacles from one's path.

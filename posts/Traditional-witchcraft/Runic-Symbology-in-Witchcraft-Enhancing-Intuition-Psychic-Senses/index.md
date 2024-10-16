@@ -23,7 +23,7 @@ excerpt: >
 
 ## Runic Symbology in Traditional Witchcraft: Augmenting Intuition and Psychic Senses
 
-Introduction:
+**Introduction**:
 Runic symbology has been used in Traditional Witchcraft for centuries as a means to enhance an individual's innate abilities, such as intuition and psychic senses. This comprehensive guide will detail the selection, preparation, and utilization of specific runic symbols while adhering to ancient principles and rituals.
 
 ### Chapter 1: Understanding Runes and their Origins
@@ -66,5 +66,5 @@ Runic symbology has been used in Traditional Witchcraft for centuries as a means
 - Creating rune-etched candles for use in rituals
 - Enhancing the effectiveness of spellwork through rune incorporation
 
-Conclusion:
+**Conclusion**:
 The study and incorporation of runic symbols in Traditional Witchcraft provide a rich and fascinating connection to ancient knowledge and power. By dedicating oneself to the selection, preparation, and utilization of runes, it is possible to greatly enhance one's intuitive prowess and strengthen psychic senses. This guide serves as a starting point for those seeking to delve deeper into the ancient art of runic sorcery and unlock their hidden potential.

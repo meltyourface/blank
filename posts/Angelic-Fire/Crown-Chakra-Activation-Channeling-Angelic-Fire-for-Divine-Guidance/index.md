@@ -23,10 +23,10 @@ excerpt: >
 
 ## Title: Channeling the Angelic Fire through Crown Chakra Activation
 
-Objective: 
+**Objective**: 
 This visualization exercise aims to channel the profound essence of Angelic Fire, targeting the activation of the crown chakra for enhanced receptivity to divine angelic guidance and celestial wisdom.
 
-Preparation:
+**Preparation**:
 Before you begin, find a quiet and comfortable place where you won't be disturbed. Sit in a relaxed position with your spine straight and your hands resting on your knees or in your lap. Ensure you have a strong energetic boundary by visualizing a protective white or golden light surrounding your body.
 **Step 1**: Grounding
 Begin by taking a few deep and slow breaths, inhaling through your nose and exhaling through your mouth. As you breathe, feel yourself becoming grounded and connected to the Earth. Imagine the Earth's energy flowing into your root chakra at the base of your spine, and this energy traveling up through your body, filling each chakra and creating a strong foundation.

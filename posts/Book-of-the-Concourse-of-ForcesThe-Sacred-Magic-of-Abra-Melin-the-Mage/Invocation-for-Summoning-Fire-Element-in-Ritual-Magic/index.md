@@ -34,7 +34,7 @@ Materials and Tools:
 Ceremonial Preparations:
 Before beginning the invocation, cleanse and consecrate your ceremonial space. Purify the area with the saltwater and incense smoke, and then cast a circle using the ritual dagger or athame. Place the fireproof symbol of the fire element at the center of the circle, and set up the incense nearby. Position the chalice and wand or staff within easy reach.
 
-Invocation:
+**Invocation**:
 With the ceremonial space prepared, don your fireproof robe or garment and enter the circle. Begin the invocation by lighting the incense and allowing the smoke to fill the area. Hold the wand or staff in your dominant hand, and recite the following incantation three times:
 
 "By the powers of Samael, mighty master of fire,
@@ -67,4 +67,4 @@ I now dissolve the connection, the circle's power to restore."
 
 Following this, extinguish the incense, release the circle, and perform a cleansing ritual to ensure any residual energies are dispelled from your working space.
 
-Note: Working with elemental forces, especially fire, can be dangerous and should not be treated lightly. It is essential to follow the outlined precautions and perform the ritual with the utmost respect and care to prevent any unintended consequences.
+**Note**: Working with elemental forces, especially fire, can be dangerous and should not be treated lightly. It is essential to follow the outlined precautions and perform the ritual with the utmost respect and care to prevent any unintended consequences.

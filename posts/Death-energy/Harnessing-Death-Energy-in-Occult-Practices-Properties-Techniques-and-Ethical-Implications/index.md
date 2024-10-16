@@ -24,7 +24,7 @@ excerpt: >
 
 ## Death Energy – Origins, Properties, and Applications within the Occult
 
-Introduction:
+**Introduction**:
 Death energy, an enigmatic and formidable force, has been shrouded in mystery and intrigue throughout the annals of human history. Often regarded as the energy emanating from the impending dissolution of the physical body, Death energy holds immense power in the realm of the occult. In this section, we will explore the thorny subject of harnessing this dark energy, its applications within the occult, and the moral implications associated with its use. 
 
 Origins of Death Energy:

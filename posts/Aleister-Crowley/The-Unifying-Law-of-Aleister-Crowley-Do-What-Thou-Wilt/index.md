@@ -24,7 +24,7 @@ The correct answer is:
 
 - Aleister Crowley's exploration of various philosophies, spiritual systems, and esoteric traditions led him to the development of what he considered a unifying Law – "Do what thou wilt shall be the whole of the Law. Love is the law, love under will."
 
-Explanation:
+**Explanation**:
 
 Aleister Crowley was an influential figure within the occult and esoteric landscape of the late 19th and early 20th centuries. He was an ambitious pioneer, seeking to break through conventional wisdom and explore new frontiers in thought and practice. Crowley's relentless questioning of established norms led him to investigate various spiritual systems, philosophies, and mystical traditions from around the world.
 

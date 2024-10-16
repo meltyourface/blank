@@ -21,9 +21,9 @@ excerpt: Design an elaborate ritual derived from the Sworn Book of Honorius to e
 ---
 The Ritual of the Dreaming Ascent
 
-Purpose: The purpose of this elaborate ritual is to establish a potent connection with one's Holy Guardian Angel within a lucid dream. 
+**Purpose**: The purpose of this elaborate ritual is to establish a potent connection with one's Holy Guardian Angel within a lucid dream. 
 
-Materials:
+**Materials**:
 1. Sigil of the Holy Guardian Angel (HGA)
 2. Dream journal and pen
 3. White candle and lighter
@@ -32,11 +32,11 @@ Materials:
 6. Ritual dagger or athame
 7. A ritual robe or white garments
 
-Preparation:
+**Preparation**:
 1. Familiarize yourself with basic techniques of lucid dreaming, such as reality checks, dream anchoring, and waking-induced methods.
 2. Create the sigil of your Holy Guardian Angel. Meditate on the sigil daily for one week leading up to the ritual.
 
-Ritual:
+**Ritual**:
 
 Phase 1 - Cleansing:
 1. Begin the ritual by wearing your ritual robe/white garments and entering a clean, quiet, and dimly lit space.

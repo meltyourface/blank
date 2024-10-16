@@ -72,7 +72,7 @@ excerpt: Devise a comprehensive guide on discerning and attuning the quintessent
 ### 10.2 Balancing the Chakras and Releasing Blockages
 ### 10.3 Strengthening the Auric Field and Heightening Intuition 
 
-Appendix: Crystal Profiles and Correspondences 
+**Appendix**: Crystal Profiles and Correspondences 
 A.1 Comprehensive List of Crystals and Their Uses 
 A.2 Planetary, Elemental, and Zodiacal Associations 
 A.3 Chakra and Energy System Correspondences 

@@ -30,7 +30,7 @@ Sigil Crafting: Where Art Meets Occult Influence
 
 Drawing from the clandestine knowledge safeguarded by her ancestors, Elizabeth crafted intricate sigils that were an unparalleled demonstration of art and power. Each sigil, marked by its exclusively symbolic runic patterns, was scrupulously drafted to invoke specific energies and to attract desired outcomes. Elizabeth Device, being a perfectionist, devoted considerable time and effort to forge exceptionally potent sigils, as she believed in their capacity to enhance her supernatural prowess.
 
-Incantations: Speaking in The Ancient Tongues
+**Incantations**: Speaking in The Ancient Tongues
 
 Elizabeth's mastery of the Lancashire witches' charm would be incomplete without an exploration of her unparalleled command of incantations. Drawing from ancient tongues and mystical scripts, she recited verses with an unmatched precision and harmony, forging the most formidable union of celestial energies. Tapping into the resonances of nature and the vestiges of esoteric traditions, Elizabeth's incantations exuded a raw power that was rumored to warp time and space, allowing her to communicate with the spirit world.
 

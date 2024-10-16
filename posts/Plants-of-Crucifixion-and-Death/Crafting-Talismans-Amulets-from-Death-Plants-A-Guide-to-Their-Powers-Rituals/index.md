@@ -24,7 +24,7 @@ excerpt: >
 
 ## The Veiled Garden: A Comprehensive Guide to Crafting Talismans and Amulets with Plants of Crucifixion and Death
 
-Introduction:
+**Introduction**:
 
 As a master of the esoteric and occult, proficient in the knowledge of the Plants of Crucifixion and Death, I have compiled this guide to unveil the secrets of forging talismans and amulets infused with their potent energies. With attention to detail and a deep understanding of the hallowed flora, we will journey through their cultivation and the meticulous process of harnessing and combining their unique properties.
 

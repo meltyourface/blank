@@ -43,7 +43,7 @@ To successfully invoke the powers of Giants and Dwarves, one must approach their
 
 5.4.1 Guardian Giants Ritual
 
-Purpose: Protection and ground energy enhancement
+**Purpose**: Protection and ground energy enhancement
 
 Materials required:
 
@@ -52,7 +52,7 @@ Materials required:
 - Grounding incense or essential oil
 - Offerings of fresh flowers and herbs
 
-Procedure:
+**Procedure**:
 
 1. Begin in a quiet, outdoor location, preferably at the base of a mountain or near large stones.
 2. Prepare the space with grounding incense or essential oil.
@@ -63,7 +63,7 @@ Procedure:
 
 5.4.2 Dwarven Mastery Chant
 
-Purpose: Improve a specific skill or talent
+**Purpose**: Improve a specific skill or talent
 
 Materials required:
 
@@ -71,7 +71,7 @@ Materials required:
 - A candle (any color that symbolizes your intention)
 - A quiet, indoor location
 
-Procedure:
+**Procedure**:
 
 1. Find a quiet, indoor location and prepare the space for meditation.
 2. Light the candle, and place the symbol of the desired skill or talent before you.

@@ -22,7 +22,7 @@ excerpt: Design and orchestrate a funeral service that seamlessly integrates div
 
 ## Embracing Unity: A Multicultural Celebration of Life
 
-Objective: To design a seamless funeral service that integrates diverse cultural customs while honoring the deceased's unique background.
+**Objective**: To design a seamless funeral service that integrates diverse cultural customs while honoring the deceased's unique background.
 
 ### I. **Ceremony Outline**:
 A. ****Prelude****: Instrumental music featuring a fusion of traditional tunes from the cultures represented.

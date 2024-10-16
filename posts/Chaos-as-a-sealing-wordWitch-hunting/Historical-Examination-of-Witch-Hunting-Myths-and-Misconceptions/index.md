@@ -33,7 +33,7 @@ excerpt: >
 
 ## "Dismantling Fear: Demystifying Witch-Hunting, Occult Practices, and Our Scapegoat Tradition"
 
-Introduction:
+**Introduction**:
 
   - Introduce the topic of witch-hunting and its historical implications
   - Briefly mention the prevalence of misconceptions and fallacies surrounding it
@@ -75,12 +75,12 @@ Segment 6: Legitimate Esoteric Practices and the Need for Empathy
   - Acknowledge their spiritual significance and importance to their practitioners
   - Advocate for the understanding of diverse belief systems to prevent future persecution and promote empathy
 
-Conclusion:
+**Conclusion**:
 
   - Summarize key points of the presentation
   - Stress the importance of dismantling fallacies and fostering empathy
   - Encourage the audience to challenge their preconceptions and seek a more nuanced understanding of occult practices
 
-References:
+**References**:
   
   - Include a list of well-researched sources from academic articles, books, and other reputable materials

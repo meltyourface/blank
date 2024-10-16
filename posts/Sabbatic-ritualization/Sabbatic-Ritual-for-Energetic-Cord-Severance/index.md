@@ -23,7 +23,7 @@ Commencing the Sabbatic Ritual of Severance:
 
 This intricate Sabbatic ritual aims to meticulously sever detrimental energetic cords and malevolent attachments with individuals. Throughout this process, we involve specific occult symbols, carefully selected herbs of wormwood and mugwort, and an enigmatic incantation in ancient Sumerian as the core of our ritual.
 
-Preparation:
+**Preparation**:
 
 1. Find a secluded and quiet space where you would be undisturbed. Ensure proper ventilation to let out any smoke or fumes created during the ritual. Wear comfortable and unrestricting clothes, preferably black or dark in color.
 

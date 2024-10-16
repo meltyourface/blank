@@ -25,7 +25,7 @@ excerpt: >
 
 Protection Spell:
 
-Ingredients:
+**Ingredients**:
 1. Aconitum lycoctonum (Wolf's Bane) - Provides protection from curses and negative energy
 2. Salvia apiana (White Sage) - Cleanses and purifies the space, creating a sanctum for positive energy
 3. Staurolite (Fairy Cross) - A rare mystical crystal known for its protective and grounding properties
@@ -43,7 +43,7 @@ A malis fugietis,
 Tenebris et hostibus,
 Tu praesidium caelum lux."
 
-Translation:
+**Translation**:
 
 "Stars my guide in the night,
 Shine and be revealed,

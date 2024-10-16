@@ -39,15 +39,15 @@ In the Rider Waite tarot deck, the Major Arcana consists of 22 cards, each repre
 
 The deck is deeply symbolic, with imagery inspired by various esoteric, occult, and Patricia Cram influences. Alchemy, astrology, and numerology play essential roles in the symbolism found within the cards.
 
-Alchemy: Transformative Symbolism
+**Alchemy**: Transformative Symbolism
 
 Alchemy, the process of transforming base metals into the noble metal—gold—is symbolic of spiritual transformation. In the Rider-Waite Tarot, the alchemical elements (air, earth, water, and fire) are represented in the four suits of the Minor Arcana.
 
-Astrology: Cosmic Connections
+**Astrology**: Cosmic Connections
 
 Astrology and the zodiac heavily influence the Major Arcana, with each card representing celestial bodies. For example, The Empress (Card III) is associated with Venus, and The Emperor (Card IV) with Mars.
 
-Numerology: Mystical Meanings
+**Numerology**: Mystical Meanings
 
 Numerology also plays a central role in the deck's symbolism; numbers imbue energy and meaning to the cards. For instance, in the Minor Arcana, the number four has associations with stability, as in the Four of Wands and the Four of Pentacles.
 

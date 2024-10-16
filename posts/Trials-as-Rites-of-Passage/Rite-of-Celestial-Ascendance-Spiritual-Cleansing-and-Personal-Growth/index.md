@@ -22,7 +22,7 @@ excerpt: Design an intricate energetic cleansing rite of passage to facilitate p
 
 ## Rite of Celestial Ascendance
 
-Purpose: To facilitate personal growth and spiritual development through energetic cleansing and transcending barriers to achieve self-mastery.
+**Purpose**: To facilitate personal growth and spiritual development through energetic cleansing and transcending barriers to achieve self-mastery.
 
 Materials Required:
 

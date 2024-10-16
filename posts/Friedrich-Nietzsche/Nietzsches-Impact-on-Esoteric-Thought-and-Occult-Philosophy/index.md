@@ -22,7 +22,7 @@ excerpt: >
 ---
 Lesson: Friedrich Nietzsche's Contributions to Occult Philosophy and Esoteric Thought
 
-Introduction:
+**Introduction**:
 
 Friedrich Nietzsche (1844-1900) was a German philosopher, whose ideas have had a profound impact on the history of Western thought. While he may not be known explicitly for his contributions to occult philosophy, Nietzsche's ideas have inspired and resonated with various esoteric concepts and movements. To fully understand Nietzsche's role in the domain of the occult, we need to delve into his key ideas and explore how they intersect with occultist traditions and principles.
 

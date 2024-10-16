@@ -33,7 +33,7 @@ Incorporate Hecate's wheel, a symbol consisting of a circle surrounded by six sp
 Elemental Associations:
 Represent the four elements – Earth, Air, Fire, and Water – on Hecate's altar. For Earth, use a pentacle or a bowl of soil; for Air, utilize an incense burner or a feather; for Fire, employ candles (preferably black, purple, or silver); and for Water, utilize a chalice or a small bowl of water. These elements resonate with Hecate's domain and deepen the connection to her energy.
 
-Offerings:
+**Offerings**:
 Offerings to Hecate can include pomegranates, honey, garlic, onions, wine, or eggs. It is also customary to leave a plate of food outside at crossroads for her hounds as a gesture of devotion.
 
 Magickal Tools:

@@ -29,7 +29,7 @@ The answer is:
 
 A careful focus on traditional astrological symbols found within Western horoscopes
 
-Explanation:
+**Explanation**:
 
 In the context of occult studies, the Radical alterity.Dragon's Column refers to a domain that encompasses the creation, evolution, and deep study of esoteric, occult, and mystical systems. This field's practitioners often aim to go beyond the known or the mundane, seeking transformation and enlightenment through the exploration of unknown or uncharted territories of human experience and potential. 
 

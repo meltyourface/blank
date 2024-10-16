@@ -23,7 +23,7 @@ Ritual for the Consecration of Ceremonial Tools
 
 Inspired by the esoteric wisdom and occult practices of Moina Mathers and the Hermetic Order of the Golden Dawn, this ritual is designed to consecrate and purify ceremonial tools. The practitioner will draw upon elemental energies, astrological correspondences, and sacred symbols to imbue the tools with their sacred purpose.
 
-Preparation:
+**Preparation**:
 1. Choose a time and date that correspond with an astrologically auspicious moment. Consider lunar phases (full or new moon), planetary hours, and the specific intention that you wish to bring to the tools being consecrated.
 
 2. Cleanse and purify the ritual space using a mixture of water and salt. Sprinkle this mixture in a clockwise manner around the perimeter of the space while visualizing any negative energies dissipating.
@@ -34,7 +34,7 @@ Preparation:
 
 5. Purify yourself with a ritual bath, focusing on releasing any negative energies or distractions so as to devote your full attention to the consecration ceremony.
 
-Ritual:
+**Ritual**:
 1. Begin by casting a circle clockwise around the perimeter of your ritual space. As you move, visualize a sphere of divine light surrounding you, shielding the space from any unwanted energies.
 
 2. Light the incense and candle on the altar, and invoke the presence of the elements:

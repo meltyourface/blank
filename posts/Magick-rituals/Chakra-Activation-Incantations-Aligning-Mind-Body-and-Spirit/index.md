@@ -23,10 +23,10 @@ excerpt: >
 ---
 I). **Muladhara (Root Chakra) Activation Incantation**:
 
-Symbols: Earth element, square, and the Seed Mantra "LAM"
+**Symbols**: Earth element, square, and the Seed Mantra "LAM"
 Geometry: Tetrahedron
 
-Incantation:
+**Incantation**:
 "Ayn-el-adamat, Sha'ashwìm malach-root,
 Tetractys sang, oh square embrace,
 Lam, lam, basal font aflame,
@@ -37,10 +37,10 @@ Resonant Tone: 194.18 Hz, C note
 
 II). **Svadhisthana (Sacral Chakra) Activation Incantation**:
 
-Symbols: Water element, crescent moon, and the Seed Mantra "VAM"
+**Symbols**: Water element, crescent moon, and the Seed Mantra "VAM"
 Geometry: Icosahedron
 
-Incantation:
+**Incantation**:
 "Yemayá of waters bless,
 Crescent moon, thy shape attest,
 Vam, vam, ablaze within,
@@ -51,10 +51,10 @@ Resonant Tone: 210.42 Hz, D note
 
 III). **Manipura (Solar Plexus Chakra) Activation Incantation**:
 
-Symbols: Fire element, triangle, and the Seed Mantra "RAM"
+**Symbols**: Fire element, triangle, and the Seed Mantra "RAM"
 Geometry: Star Tetrahedron
 
-Incantation:
+**Incantation**:
 "Ra, grand fire, forge this core,
 Triangular sun, strength implores,
 Ram, ram, Manipura shines,
@@ -65,10 +65,10 @@ Resonant Tone: 126.22 Hz, E note
 
 IV). **Anahata (Heart Chakra) Activation Incantation**:
 
-Symbols: Air element, hexagram, and the Seed Mantra "YAM"
+**Symbols**: Air element, hexagram, and the Seed Mantra "YAM"
 Geometry: Octahedron
 
-Incantation:
+**Incantation**:
 "Zephyr's breath, the Sylphs conspire,
 Hexagram unfolds, love's sweet fire,
 Yam, yam, Anahata opens wide,
@@ -79,10 +79,10 @@ Resonant Tone: 136.10 Hz, F note
 
 V). **Vishuddha (Throat Chakra) Activation Incantation**:
 
-Symbols: Ether element, 16-petal lotus, and the Seed Mantra "HAM"
+**Symbols**: Ether element, 16-petal lotus, and the Seed Mantra "HAM"
 Geometry: Dodecahedron
 
-Incantation:
+**Incantation**:
 "Etheric cadence whispers truth,
 Lotus petals sing, voice uncouth,
 Ham, ham, Vishuddha glows,
@@ -93,10 +93,10 @@ Resonant Tone: 141.27 Hz, G note
 
 VI). **Ajna (Third Eye Chakra) Activation Incantation**:
 
-Symbols: Light element, two-petal lotus, and the Seed Mantra "OM"
+**Symbols**: Light element, two-petal lotus, and the Seed Mantra "OM"
 Geometry: Icosidodecahedron
 
-Incantation:
+**Incantation**:
 "Lumen's force illuminates,
 Duali-flowers propagate,
 Om, om, Ajna visions grand,
@@ -107,10 +107,10 @@ Resonant Tone: 221.23 Hz, A note
 
 VII). **Sahasrara (Crown Chakra) Activation Incantation**:
 
-Symbols: Spirit element, thousand-petal lotus, and the Seed Mantra "AH"
+**Symbols**: Spirit element, thousand-petal lotus, and the Seed Mantra "AH"
 Geometry: Sphere
 
-Incantation:
+**Incantation**:
 "Spirit vast, cosmos resounds,
 Lotus blooms a thousand rounds,
 Ah, ah, Sahasrara unite,

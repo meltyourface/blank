@@ -44,11 +44,11 @@ The Enochian language, with its Adamical undercurrents, continues to play a vita
 
 The presence of the Adamical roots can be discerned in several aspects of the Enochian language, including its structure, vocabulary, and grammar. Consider the following examples:
 
-Structure: The Enochian script resembles the ancient Phoenician languages, suggesting an origin that predates many well-documented human languages. This supports the theory that it contains remnants of the Adamic language.
+**Structure**: The Enochian script resembles the ancient Phoenician languages, suggesting an origin that predates many well-documented human languages. This supports the theory that it contains remnants of the Adamic language.
 
-Vocabulary: Enochian words are often formed through a complex process of letter permutation and substitution, which is said to reflect the original creative impulse behind the Adamic language. Furthermore, several Enochian words' meanings hint at a profound, underlying connection to the natural world and divine energies.
+**Vocabulary**: Enochian words are often formed through a complex process of letter permutation and substitution, which is said to reflect the original creative impulse behind the Adamic language. Furthermore, several Enochian words' meanings hint at a profound, underlying connection to the natural world and divine energies.
 
-Grammar: The Enochian grammar system is concise yet flexible, allowing for intricate constructions that facilitate precise expression of magical intent. This echoes the reputed ability of the Adamic language to directly manipulate the divine essence of creation.
+**Grammar**: The Enochian grammar system is concise yet flexible, allowing for intricate constructions that facilitate precise expression of magical intent. This echoes the reputed ability of the Adamic language to directly manipulate the divine essence of creation.
 
 ### V. Enhancement of Magical Workings through Adamical Mastery
 

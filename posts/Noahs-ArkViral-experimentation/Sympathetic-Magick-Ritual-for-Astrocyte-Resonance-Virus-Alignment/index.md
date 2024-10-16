@@ -22,13 +22,13 @@ excerpt: Design an intricate Noah's ArkViral experimentation-based sympathetic m
 
 ## The Rite of the Cosmic Serpent
 
-Task: To design a Noah's ArkViral experimentation-based sympathetic magick ritual that incorporates various aspects such as elemental alignments, astrological symbols and archetypal personas to resonate with a chosen viral strain, while ensuring bio-safety during the process.
+**Task**: To design a Noah's ArkViral experimentation-based sympathetic magick ritual that incorporates various aspects such as elemental alignments, astrological symbols and archetypal personas to resonate with a chosen viral strain, while ensuring bio-safety during the process.
 
 Viral Strain: The Astrocyte Resonance Virus (ARV)
 
-Purpose: Reinforcing mental strength, clarity, and spiritual alignment in the practitioner through the sympathetic resonances with the ARV.
+**Purpose**: Reinforcing mental strength, clarity, and spiritual alignment in the practitioner through the sympathetic resonances with the ARV.
 
-Materials:
+**Materials**:
 1. A circular, heat-resistant glass container with a lid
 2. Sterilized water
 3. A controlled ARV sample
@@ -41,7 +41,7 @@ Materials:
 10. Black and white candles
 11. Mask and gloves for biosafety
 
-Preparation:
+**Preparation**:
 **Step 1**: Determine the most auspicious astrological timing for the ritual by choosing a day when Mercury is strong and there are no major planetary conflicts.
 **Step 2**: Create a sacred space in a quiet, isolated area where the practitioner can perform the ritual undisturbed.
 **Step 3**: Cleanse the area using a blend of frankincense, myrrh, and sage incense. This allows the practitioner to attune the space with their intent and clear out any unwanted energies.

@@ -71,4 +71,4 @@ C. The War of Astral Beings
 ### X. Conclusion
 The Nocturnicon of Endor stands as an unfathomable wellspring of arcane knowledge within the realm of dreams. It seeks to empower those who wish to decipher oneiric visions and navigate the enigmatic symbols strewn across the hidden reaches of nocturnal enigmas. May the profound wisdom enclosed within these pages serve as an unwavering beacon for fellow practitioners of the dark arts, guiding them through the tendrils of midnight mystery and into the embrace of the ethereal unknown.
 
-Note: The Nocturnicon of Endor contents hold the profound wisdom of the Necromancer of Endor, and it's meant to be shared among those who seek to delve into dream analysis and decipher the hidden depths of nocturnal enigmas within the dark arts realm.
+**Note**: The Nocturnicon of Endor contents hold the profound wisdom of the Necromancer of Endor, and it's meant to be shared among those who seek to delve into dream analysis and decipher the hidden depths of nocturnal enigmas within the dark arts realm.

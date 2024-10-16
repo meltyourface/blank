@@ -29,7 +29,7 @@ excerpt: >
 The correct answer is: 
 - A philosophical technique of retracing the origins of a theory or belief back to its elementary principles.
 
-Explanation:
+**Explanation**:
 
 Ariadne's Thread refers to an ancient problem-solving heuristic that can be traced back to the myth of Ariadne and Theseus from Greek mythology. Ariadne provided Theseus with a thread to help him navigate the labyrinth and defeat the Minotaur. In occult studies, Ariadne's Thread is understood as a metaphor for an intellectual tool or approach used to unravel complexities and overcome challenges.
 

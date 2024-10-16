@@ -23,9 +23,9 @@ excerpt: >
 
 ## Title: *The Dream Grimoire of the Key*
 
-Cover: An embossed keyhole surrounded by sigils and symbols associated with dream interpretation and the esoteric.
+**Cover**: An embossed keyhole surrounded by sigils and symbols associated with dream interpretation and the esoteric.
 
-Introduction: A brief explanation of the esoteric domain of the Key, highlighting the focus on unlocking the hidden wisdom and knowledge derived from dreams. This section will provide a basic understanding of the power of dreams and the methods of analysis pertaining to the Key.
+**Introduction**: A brief explanation of the esoteric domain of the Key, highlighting the focus on unlocking the hidden wisdom and knowledge derived from dreams. This section will provide a basic understanding of the power of dreams and the methods of analysis pertaining to the Key.
 
 *Section 1: Enigmatic Dream Logs*
 

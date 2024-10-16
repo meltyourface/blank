@@ -21,9 +21,9 @@ excerpt: Develop an in-depth lesson plan for instructing novice Cartomancy pract
 ---
 Lesson Plan: Understanding the Suit of Swords in Tarot for Novice Cartomancy Practitioners
 
-Objective: By the end of this lesson, students will have a comprehensive understanding of the symbolism, spiritual significance, and elemental associations of the Suit of Swords in the tarot, as well as a foundational knowledge in card combinations and recognizing patterns in tarot readings.
+**Objective**: By the end of this lesson, students will have a comprehensive understanding of the symbolism, spiritual significance, and elemental associations of the Suit of Swords in the tarot, as well as a foundational knowledge in card combinations and recognizing patterns in tarot readings.
 
-Materials: Tarot decks, notebooks, pens or pencils, handouts on Suit of Swords symbolism and card meanings, whiteboard or blackboard, markers or chalk.
+**Materials**: Tarot decks, notebooks, pens or pencils, handouts on Suit of Swords symbolism and card meanings, whiteboard or blackboard, markers or chalk.
 
 ### Part 1: Introduction to the Suit of Swords (15 minutes)
 - Briefly discuss the history of tarot and its origins in cartomancy
@@ -57,4 +57,4 @@ Materials: Tarot decks, notebooks, pens or pencils, handouts on Suit of Swords s
 - Emphasize the importance of continued practice and study in developing Cartomancy skills and encourage students to practice regularly on their own and with others
 - Provide students with handouts or resources for additional study and reference on the Suit of Swords
 
-Assignment: Have students reflect on the Suit of Swords in their personal lives and write a one-page reflection on how they connect with the cards' symbolism, spiritual significance, and intellectual themes.
+**Assignment**: Have students reflect on the Suit of Swords in their personal lives and write a one-page reflection on how they connect with the cards' symbolism, spiritual significance, and intellectual themes.

@@ -22,10 +22,10 @@ excerpt: Analyze and decipher a cryptic passage from an enigmatic ancient grimoi
 Cryptic Passage:
 "Y ddraig dwfn dan gysgad gyfentynion ddefnyddiodd i ddatgelu crwd geis hoffiad y glamraig trychinebus. Hyd yn oed ymylon y ddimpeonte, hwnnw oedd arall olaf. Ymestunio amlen, yrrydaw litipitie i beri tywyllwch a phwncaws."
 
-Translation:
+**Translation**:
 "The deep dragon slept beneath the intertwined materials, revealing the enchanted secrets of the disastrous, enchanted flame. Even at the edge of the formless, this was the ultimate other. To entwine the thread, one must set forth the litipitie to cause darkness and substance."
 
-Elucidation:
+**Elucidation**:
 The cryptic passage speaks of potent arcane energies represented by the "deep dragon" and the "disastrous, enchanted flame." There is an implication that the power lies hidden within objects or materials and, when accessed, offers the ability to manipulate the formless – a realm beyond our typical understanding. The passage is ultimately instructional, guiding the practitioner on using the "thread" (symbolizing connection) and invoking the "litipitie" (a word denoting a specific mystical force) to bridge the gap between the tangible world and the formless.
 
 Ritual/Procedure:

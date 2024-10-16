@@ -21,7 +21,7 @@ excerpt: Construct a personalized six-word mantra, incorporating sacred syllable
 ---
 Mantra: "Om Hari Lemu Soha Ahum"
 
-Sigils: 1. Seed of Life, representing interconnectedness and wisdom.
+**Sigils**: 1. Seed of Life, representing interconnectedness and wisdom.
             2. Triquetra, symbolizing interwoven energies and protection. 
             3. Merkaba, portraying the activation of the light body, guidance, and assistance.
 

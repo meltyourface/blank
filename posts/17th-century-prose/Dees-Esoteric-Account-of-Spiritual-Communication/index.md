@@ -29,7 +29,7 @@ excerpt: >
 The correct answer is: 
 - John Dee's "A True and Faithful Relation of What Passed for Many Yeers between Dr. John Dee and Some Spirits."
 
-Explanation:
+**Explanation**:
 
 John Dee's "A True and Faithful Relation of What Passed for Many Yeers between Dr. John Dee and Some Spirits" best exemplifies the intertwining of fantastical elements and spiritual symbolism to convey deep insights into the hidden aspects of the human experience.
 

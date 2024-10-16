@@ -22,7 +22,7 @@ excerpt: Craft an intricate sigil focused on channeling paranormal energies for 
 
 ## Sigil of Erisafe 
 
-Description: The Sigil of Erisafe is a powerful and intricate symbol that is specifically crafted to channel paranormal energies for the purpose of protection. The sigil combines various mystical and historical elements, ultimately drawing upon protective, shielding, and banishing forces from multiple sources and traditions. The sigil safeguards the user against malevolent entities, negative energies, and supernatural threats while maintaining stability and balance in the surrounding environment.
+**Description**: The Sigil of Erisafe is a powerful and intricate symbol that is specifically crafted to channel paranormal energies for the purpose of protection. The sigil combines various mystical and historical elements, ultimately drawing upon protective, shielding, and banishing forces from multiple sources and traditions. The sigil safeguards the user against malevolent entities, negative energies, and supernatural threats while maintaining stability and balance in the surrounding environment.
 
 Design Elements:
 

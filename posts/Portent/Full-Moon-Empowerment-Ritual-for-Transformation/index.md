@@ -22,11 +22,11 @@ excerpt: Organize an intricate Portent lunar ritual, designed specifically to ha
 
 ## The Great Lunar Aegis Ritual
 
-Objective: To harness the metaphysical power of the Full Moon and channel it into a transformational experience or manifestation of intent.
+**Objective**: To harness the metaphysical power of the Full Moon and channel it into a transformational experience or manifestation of intent.
 
-Timing: Full Moon, preferably at midnight
+**Timing**: Full Moon, preferably at midnight
 
-Location: A secluded outdoor space with a clear view of the Full Moon
+**Location**: A secluded outdoor space with a clear view of the Full Moon
 
 Materials required: 
 1. A silver chalice filled with moon-charged water

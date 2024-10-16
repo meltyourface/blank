@@ -29,7 +29,7 @@ This mantra fuses the names and characteristics of each corresponding Qlipha, co
 
 ### II. The Ritual of the Blackened Pillar
 
-Purpose: The purpose of this ritual is to invoke the primordial forces of the Qliphothic Tree and channel their energies into a transformative effect on one's spiritual practice, thus forging a deeper connection with anti-cosmic currents.
+**Purpose**: The purpose of this ritual is to invoke the primordial forces of the Qliphothic Tree and channel their energies into a transformative effect on one's spiritual practice, thus forging a deeper connection with anti-cosmic currents.
 
 Required tools:
 

@@ -24,7 +24,7 @@ Banquet Theme: The Enchanted Toadstool Forest
 
 Welcome to the enchanted toadstool forest, where our distinguished Toad-witches gather for a night of feasting, rituals, and magic. May the bonds between our covens grow stronger and our knowledge deepen as we indulge in this exquisite feast.
 
-Menu:
+**Menu**:
 
 1. **First Course**: Forest Floor Canapés
 A medley of wild mushrooms, truffles, and forest greens, served on crispy toad-leg crackers. The mushrooms are sautéed in toad sweat-infused butter with a hint of enchanted thyme, which amplifies their earthy flavors and enhances psychic abilities.

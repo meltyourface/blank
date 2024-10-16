@@ -45,7 +45,7 @@ Further down the hierarchy, elementals and nature spirits reside within and are 
 
 ### 1.3 Roles, Strengths, and Vulnerabilities
 
-Deities: Deities serve as sources of profound wisdom and guidance. Their strength lies in their vast knowledge and power, but they are vulnerable to being misunderstood or having their teachings misused by followers.
+**Deities**: Deities serve as sources of profound wisdom and guidance. Their strength lies in their vast knowledge and power, but they are vulnerable to being misunderstood or having their teachings misused by followers.
 
 Archangels and Demons: Archangels possess immense power and aid in providing protection, healing, and divine guidance. Demons offer allurements of personal power and influence but can lead practitioners down a dark path. Both are vulnerable to preconceived notions and misunderstandings from practitioners.
 

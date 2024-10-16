@@ -23,7 +23,7 @@ excerpt: >
 
 ## Title: The Arcane Disappearing Ink Formula
 
-Introduction:
+**Introduction**:
 
 In an age of digital surveillance and advanced detection methods, the mastery of Disappearance remains a highly sought-after skill. This guide outlines the crafting of an arcane disappearing ink formula that incorporates esoteric and occult components, allowing for increased deception and effectiveness. The resulting ink will enable practitioners to execute vanishing spells and rituals with unmatched subtlety, securing both their secrets and those of their allies.
 
@@ -39,7 +39,7 @@ Materials Required:
 8. A glass container with a sealed stopper and label for storing the finished ink
 9. A fountain pen made of ebony wood and equipped with a moonstone-inlaid nib
 
-Steps:
+**Steps**:
 
 1. Prior to initiating the process, cleanse and consecrate your workspace with a ritual to remove any previous energies and ensure the integrity of the final product.
 

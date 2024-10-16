@@ -43,7 +43,7 @@ The Desired Outcome:
 
 Am-khentet-nebeb r-khau rwntu setat-hi abw, Dedeq-k neferu sheru y-tu Au-tu her-t.
 
-Translation: I seek the hidden knowledge of the ethers and the essence of universal truths, Guide me into the realms of wisdom and enlightenment.
+**Translation**: I seek the hidden knowledge of the ethers and the essence of universal truths, Guide me into the realms of wisdom and enlightenment.
 
 (Chants and Rituals: Light a candle inscribed with the lunar symbol and intone the following chant)
 

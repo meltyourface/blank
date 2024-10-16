@@ -22,7 +22,7 @@ excerpt: Develop an intricate and detailed cartographic representation of a prev
 
 ## Ira Mortuorum – The Wrath of the Dead
 
-Location: Hidden within the dense Fogwood Forest that shrouds a mysterious island, lies the ancient City of the Dead— Ira Mortuorum. 
+**Location**: Hidden within the dense Fogwood Forest that shrouds a mysterious island, lies the ancient City of the Dead— Ira Mortuorum. 
 
 Overview of the Layout:
 Surrounded by stone walls, the city is divided into four primary sectors. Clockwise from the north: The Necropolis, The Charnel Grounds, The Elysium Fields, and The Ossuarium. A dark river yet to be named silently flows, dissecting the city diagonally, from the northeast to the southwest. At its center stands the Atramentum Tower, casting an ominous shadow. 
@@ -67,7 +67,7 @@ Markers and Artifacts:
 Supernatural Phenomena:
 - An apparition called the "Keeper of the Bones" for his vigil on the catacombs' entrance.
 
-Conclusion:
+**Conclusion**:
 Stemming from historical findings and deciphered inscriptions, Ira Mortuorum was an ancient city devoted to the afterlife and the arcane. Its inhabitants aimed to appease spirits' wrath and grant them eternal rest, while those who dared to harness power from dark artifacts faced the ultimate price.
 
 The intricate cartography of Ira Mortuorum and the documentation of unearthly phenomena, significant landmarks, and mysterious artifacts further our understanding of its arcane heritage. Thus, this newly discovered lost City of the Dead will leave a remarkable mark in the annals of history and the studies of the esoteric and occult.

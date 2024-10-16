@@ -22,35 +22,35 @@ excerpt: Craft a series of Qi Gong-inspired affirmations, rooted in traditional 
 Affirmation 1: Wood Element - Awaken the Inner Spring
 "I am like a tall, strong tree, deeply rooted to the Earth, with branches that reach for the heavens. As my energy flows, I grow, and learn from life's experiences."
 
-Visualization: Imagine yourself as a tree with strong roots connecting deep into the earth while your branches and leaves reach for the sky. Feel the energy and growth moving through you.
+**Visualization**: Imagine yourself as a tree with strong roots connecting deep into the earth while your branches and leaves reach for the sky. Feel the energy and growth moving through you.
 
 Breathing Technique: Inhale deeply through your nose, and exhale through your mouth as you perform the Tai Chi "Parting the Wild Horse's Mane" movement, expanding outward and upward like a tree reaching to the sky.
 
 Affirmation 2: Fire Element - Ignite the Inner Flame
 "My inner flame is bright and strong, fueling my passion, creativity, and joy. I radiate warmth and love, connecting with others harmoniously."
 
-Visualization: Envision a warm flame at your heart center, dancing and flickering brightly. Feel the warmth spread through your entire body with each breath.
+**Visualization**: Envision a warm flame at your heart center, dancing and flickering brightly. Feel the warmth spread through your entire body with each breath.
 
 Breathing Technique: Inhale slowly through your nose, and exhale forcefully through your mouth as you perform the Qi Gong "Shaking the Body" exercise, embodying the vigorous and energetic nature of the fire element.
 
 Affirmation 3: Earth Element - Embrace the Inner Stability
 "I am like a mountain, solid and stable, grounded in the present moment. I cultivate inner peace, balance, and harmony, nourishing both body and spirit."
 
-Visualization: Picture yourself as a sturdy mountain, anchoring you in the present moment and providing unwavering stability.
+**Visualization**: Picture yourself as a sturdy mountain, anchoring you in the present moment and providing unwavering stability.
 
 Breathing Technique: Inhale deeply through your nose, and exhale slowly through your mouth as you practice the Tai Chi "Grasp the Bird's Tail" movement, connecting with the solidity of the Earth's energy.
 
 Affirmation 4: Metal Element - Sharpen the Inner Focus
 "My focus is unwavering, allowing me to accomplish my goals with grace and efficiency. I embrace change with strength and resilience, shedding the old to make way for the new."
 
-Visualization: Imagine a sharp, brilliant sword, symbolizing clarity, focus, and precision. Align yourself with this energy as you navigate life's transitions.
+**Visualization**: Imagine a sharp, brilliant sword, symbolizing clarity, focus, and precision. Align yourself with this energy as you navigate life's transitions.
 
 Breathing Technique: Inhale sharply through your nose and exhale forcefully through your mouth as you execute the Ba Duan Jin "Punching with a Fierce Gaze" exercise, reinforcing the idea of sharpness and focus.
 
 Affirmation 5: Water Element - Flow with the Inner Current
 "I am a continuous flow of energy, adapting effortlessly to life's challenges. My intuition guides me, and I trust the wisdom of the universe as I navigate life's currents."
 
-Visualization: Envision yourself as a flowing river, effortlessly maneuvering around obstacles and course correct as needed.
+**Visualization**: Envision yourself as a flowing river, effortlessly maneuvering around obstacles and course correct as needed.
 
 Breathing Technique: Inhale slowly through your nose, and exhale gently through your mouth as you perform the Tai Chi "Wave Hands Like Clouds" movement, embodying the fluid and adaptable nature of water.
 

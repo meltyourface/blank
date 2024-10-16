@@ -23,7 +23,7 @@ excerpt: >
 
 ## Ethical Teachings of the Rough and Perfect Ashlar Stones: A Fellow Craft Study Guide
 
-Introduction:
+**Introduction**:
 The Rough and Perfect Ashlar stones are symbolic of personal growth and development in Freemasonry, specifically in the Fellow Craft degree. This in-depth study guide aims to provide background information, analysis, and practical guidance on the ethical teachings and moral symbolism of these stones, as well as explore their historical context and their impact on a Mason's personal journey. By the end of the guide, readers should have a deeper understanding of the Ashlar stones' moral significance and be able to integrate these teachings into their own Masonic journey.
 
 ### I. Background:

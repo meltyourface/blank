@@ -23,7 +23,7 @@ excerpt: >
 
 ## The Harmonious Vibrational Home Cleansing Ritual
 
-Purpose: To cleanse the home of negative energies, balance and harmonize the vibrations of the space, and invite positive energies to dwell within.
+**Purpose**: To cleanse the home of negative energies, balance and harmonize the vibrations of the space, and invite positive energies to dwell within.
 
 Materials needed:
 - A singing bowl (preferably made of brass or crystal)
@@ -34,7 +34,7 @@ Materials needed:
 - Loose salt crystals
 - An essential oil diffuser with lavender or sandalwood essential oil
 
-Steps:
+**Steps**:
 
 1. **Preparation**:
 Before performing the ritual, ensure the home is clean and decluttered. Open the windows to allow fresh air to circulate. Turn on the essential oil diffuser to softly permeate the air with a calming scent.
@@ -71,7 +71,7 @@ Earth's own frequency, for peace like a dove."
 5. **Tonal Harmony**:
 With the sacred instruments (singing bowl, bell, or chime), produce harmonious sounds that reverberate throughout the home. Focus on the serene vibrations, visualizing their gentle warmth filling each space with peace and tranquility.
 
-Chant:
+**Chant**:
 
 "Instruments of harmony and peace,
 Let your calming energies increase."
@@ -79,7 +79,7 @@ Let your calming energies increase."
 6. **Sealing and Grounding the Spell**:
 Sprinkle the salt crystals around the perimeter of the home, creating a continuous line. This symbolic act will seal and ground the spell, creating a barrier against negative energies.
 
-Chant:
+**Chant**:
 
 "Bound by salt and Earth's embrace,
 Negativity has no place,

@@ -22,7 +22,7 @@ excerpt: Compose an in-depth treatise examining the significance and utilization
 
 ## Title: Enigmatic Botanicals: The Metaphysical Significance of Belladonna, Mugwort, and Mandrake in Empowered Human-Plant RelationQabalah
 
-Abstract:
+**Abstract**:
 This treatise explores the role and significance of Belladonna, Mugwort, and Mandrake, three potent botanicals, within the esoteric realm of Empowered Human-Plant RelationQabalah. By examining their unique metaphysical properties, historical context, and methods of incorporation into rituals, spellwork, and energy manipulation, we gain an appreciation for their enduring relevance in the sphere of occult practices. Furthermore, this discourse delves into the ethical considerations and potential consequences pertaining to the cultivation and use of these formidable plant allies.
 
 ### I. Introduction

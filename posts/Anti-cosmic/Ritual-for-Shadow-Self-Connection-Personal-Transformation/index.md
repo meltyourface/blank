@@ -23,9 +23,9 @@ excerpt: >
 
 ## Title: The Ritual of Shadow Ascendance
 
-Purpose: To establish a profound connection with one's Shadow Self through the guidance of adversarial deities, by traversing the Qliphothic realms and embracing the Anti-cosmic essence of the void.
+**Purpose**: To establish a profound connection with one's Shadow Self through the guidance of adversarial deities, by traversing the Qliphothic realms and embracing the Anti-cosmic essence of the void.
 
-Preparation:
+**Preparation**:
 
 1. Consecrate a space for the ritual, ensuring it is clean, with no outside disturbances.
 2. Place an obsidian mirror in the center of the space, representing the gateway to the Shadow Self.

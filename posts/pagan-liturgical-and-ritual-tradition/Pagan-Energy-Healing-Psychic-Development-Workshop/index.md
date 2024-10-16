@@ -22,9 +22,9 @@ excerpt: Develop a comprehensive, full-length workshop encompassing the principl
 
 ## Embracing the Esoteric: A Comprehensive Workshop in Pagan Energy Healing and Psychic Development
 
-Objective: To provide participants with a thorough grounding in pagan liturgical and ritual traditions as a foundation for their own unique spiritual practices in energy healing and psychic development.
+**Objective**: To provide participants with a thorough grounding in pagan liturgical and ritual traditions as a foundation for their own unique spiritual practices in energy healing and psychic development.
 
-Duration: 6 full-day sessions (10am-6pm)
+**Duration**: 6 full-day sessions (10am-6pm)
 
 Day 1: Introduction to Paganism and Psychic Development
 1. Welcome and icebreaker (30 minutes)
@@ -85,4 +85,4 @@ Day 6: Integration and Celebration of Unique Spiritual Practices
 6. Final group ritual and celebration of unique spiritual journeys (1.5 hours)
 7. Reflections, feedback, and closing circle (1 hour)
 
-Note: This curriculum is designed as a guideline, and specific rituals, techniques, and activities may need to be adapted to the spiritual needs and preferences of the participants.
+**Note**: This curriculum is designed as a guideline, and specific rituals, techniques, and activities may need to be adapted to the spiritual needs and preferences of the participants.

@@ -46,7 +46,7 @@ Emoji combination: 💧🔥
 2. **Interaction**: The two elements are placed together, indicating a merging or blending of their energies.
 3. **Contextual interpretation**: This combination can symbolize an intense emotional experience filled with passion.
 
-Rituals:
+**Rituals**:
 Emojimancy rituals are designed to enhance enrichment, creativity, and cross-cultural engagement. They can help individuals understand how they navigate and interact with the wider cultural landscape.
 
 1. **The Emojimancy Sphere**: Users take three deep breaths, then visualize an energetic sphere around themselves. As they breathe, they mentally focus on the emojis they want to draw into their sphere for interpretation.

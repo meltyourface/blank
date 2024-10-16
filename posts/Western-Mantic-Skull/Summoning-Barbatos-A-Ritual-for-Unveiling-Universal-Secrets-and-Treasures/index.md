@@ -26,7 +26,7 @@ Domain of Influence: Barbatos is known for his abilities to understand animals, 
 
 The Barbatos Invocation Ritual:
 
-Preparation:
+**Preparation**:
 1. Select a conducive location for the ritual, preferably a quiet and secluded natural environment.
 2. Determine the precise time and date to perform the ritual; the most potent being when the sun is in Sagittarius or when the moon is waxing gibbous.
 3. **Gather the necessary materials**: a pentacle or talisman inscribed with the sigil of Barbatos, incense (sandalwood or pine), candles (green or gold), a chalice or cup filled with wine, a horn or musical instrument, and an offering (crystal or precious metals).

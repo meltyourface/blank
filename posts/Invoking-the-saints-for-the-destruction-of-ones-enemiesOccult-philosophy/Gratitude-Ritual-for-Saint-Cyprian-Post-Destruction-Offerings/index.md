@@ -23,7 +23,7 @@ excerpt: >
 
 ## Gratitude to Saint Cyprian: Offerings and Ritual Practices after Enemy Destruction
 
-Introduction:
+**Introduction**:
 As an adept of the esoteric and occult, it is essential to maintain balance and reciprocity when invoking the saints for destructive purposes. Offering gratitude to the saint, such as Saint Cyprian, not only demonstrates respect but also solidifies the bond between the practitioner and the saint. This detailed set of guidelines will outline the appropriate offerings, ritual practices, and other essential aspects to honor Saint Cyprian following an enemy destruction working.
 
 1. Ideal Time

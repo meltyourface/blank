@@ -23,7 +23,7 @@ excerpt: >
 ---
 The correct answer is: The Lesser Key of Solomon also known as the Goetia.
 
-Explanation:
+**Explanation**:
 
 Aleister Crowley, an early 20th-century English occultist, poet, and ceremonial magician, is best known for founding the religious philosophy of Thelema. Thelema is a spiritual path that draws upon a wide range of esoteric and occult influences, including Egyptian Theurgy, Western esotericism, and historical magical practices.
 

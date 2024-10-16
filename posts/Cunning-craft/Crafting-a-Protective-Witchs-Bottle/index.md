@@ -23,10 +23,10 @@ excerpt: >
 
 ## Title: The Master's Guide to Crafting a Witch's Bottle for Safeguarding Your Dwelling
 
-Introduction:
+**Introduction**:
 A witch's bottle is a potent and powerful charm designed to protect one's home from all sorts of negative influences, including magical attacks and ill-wishing individuals. In this guide, we will delve into the meticulous construction of a witch's bottle specifically tailored for the safeguarding of your dwelling, including the ingredients, methods, and optimal timing for harnessing the spell's full potential. 
 
-Ingredients:
+**Ingredients**:
 1. A clean, glass bottle or jar with a tight-fitting lid
 2. Pins, needles, and rusty nails (for piercing and binding harmful energies)
 3. Protective herbs (e.g., rosemary, sage, fennel, wormwood, and rue)

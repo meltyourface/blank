@@ -23,7 +23,7 @@ excerpt: >
 
 ## Tarot Illuminated: An Esoteric Odyssey through Time, Symbol, and Spirit
 
-Preface:
+**Preface**:
 In this comprehensive work, we seek to unravel the tapestry of the Tarot's enduring allure and significance within the Western esoteric tradition. From its mysterious origins and the rising tide of symbolism to the remarkable individuals who shaped its evolution and contemporary relevance, this treatise aims to serve as a beacon of illumination for the seeker of arcane wisdom.
 
 ### Chapter I: Ancient Origins and Cultural Influences of Tarot
@@ -44,5 +44,5 @@ This chapter offers a panoramic view of the myriad ways Tarot is employed in mod
 ### Chapter VI: Ethical Concerns and Societal Implications of Tarot Practice
 Lastly, we explore the ethical quandaries and societal ramifications of Tarot practice, drawing from historical precedence and examining contemporary challenges through the lens of the Western esoteric tradition. As we unveil the shadowy aspects of its usage, we also seek to unearth the lessons and insights that can empower both practitioners and seekers to wield the Tarot with great wisdom and discernment.
 
-Epilogue: The Unending Journey
+**Epilogue**: The Unending Journey
 In our closing remarks, we contemplate the ever-evolving trajectory of Tarot as a living system of symbols and wisdom, acknowledging that this treatise is but a milestone in the unfolding exploration of the human spirit within the rich tapestry of the Western esoteric tradition. Let it serve as a catalyst for further inquiry, and as a humble tribute to the dynamic, beguiling mystery that is the Tarot.

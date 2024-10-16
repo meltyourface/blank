@@ -23,7 +23,7 @@ excerpt: >
 
 ## A Comprehensive Herbal Correspondence Compendium Rooted in Enlightenment Principles
 
-Introduction:
+**Introduction**:
 Herbalism has been an integral part of human history, and the art of understanding the properties of various botanical specimens has been refined over millennia. Drawing upon Enlightenment principles, hermetic traditions, alchemical wisdom, and esoteric doctrines, this compendium aims to provide a cohesive overview of the intricate relationships between plants and their diverse applications in personal transformation, spiritual growth, and the amplification of ritual manifestations.
 
 The following chart contains a curated selection of well-researched herbs, along with their associated intentions, planetary correspondences, and relevant contextual examples.
@@ -51,5 +51,5 @@ Valerian                      Sleep, Psychic Abilities             Mercury      
 Willow Bark                Flexibility, Divination                Moon                                Becoming adaptable, psychic work
 Yarrow                         Courage, Prophetic Abilities   Venus, Mars                    Building bravery, refining intuitive skills
 
-Summary:
+**Summary**:
 Herbal correspondences, informed by Enlightenment principles and rooted in the aforementioned ancient and modern practices, can offer a wealth of insights and applications for those wishing to utilize the power of botanical specimens in their own transformational and spiritual endeavors. By understanding the intentions, planetary associations, and historical context of these herbs, one can harness their potent energies and curate an apothecary tailored to one's unique needs. The study and application of herbalism within the esoteric traditions highlight the inherent interconnectedness between humanity and the natural world and serve as a reminder of the vast reservoir of wisdom that can be found within its roots, leaves, and flowers.

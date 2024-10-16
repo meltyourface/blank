@@ -27,10 +27,10 @@ excerpt: >
 
 ## The Rite of Ascension to the Sacred Realms
 
-Introduction:
+**Introduction**:
 The Rite of Ascension to the Sacred Realms is a ceremonial practice that has been designed specifically for modern practitioners of the Occult revival. This ritual incorporates ancient Egyptian deities, symbols, and mysticism to enable participants to explore the depths of their spiritual consciousness and connect with the magical energies that permeate the universe.
 
-Preparation:
+**Preparation**:
 To begin the ritual, the space should be set up to represent the Temple of Ascension. ****The four corners of the room should be marked with the respective symbols of the Four Cardinal Deities****: Ra, Isis, Osiris, and Thoth, with Ra in the East, Isis in the West, Osiris in the North, and Thoth in the South.
 
 The altar should be placed in the center of the room, with the Eye of Horus, statues of Anubis as the guide to the afterlife, and Thoth as the divine scribe situated prominently.

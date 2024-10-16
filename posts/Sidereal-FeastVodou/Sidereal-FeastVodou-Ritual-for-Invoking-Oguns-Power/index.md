@@ -23,7 +23,7 @@ excerpt: >
 
 ## Title: Sidereal FeastVodou Ceremony in Honor of Ogun
 
-Introduction:
+**Introduction**:
 The sacred Sidereal FeastVodou ceremony dedicated to Ogun, the divine warrior, is an intricate and powerful ritual designed to invoke the potent energies of Ogun and align the practitioner's intentions with the cosmos. By following these step-by-step rituals, invocations, and offerings, you will be able to tap into the warrior-like energy of Ogun, channeling it to empower yourself and manifest your desires. Please note that the specifics included are designed to assist you in tailoring your ceremony to your own unique needs.
 **Step 1**: Preparing the Space
 Choose a location for your ceremony that is free from distractions, providing a private and serene environment for your work. Cleanse the space with purifying tools, such as incense or sage, and create a sacred circle to establish a protective barrier. Astrological alignments are crucial in Sidereal FeastVodou, so make sure to time your ceremony according to Ogun's planetary correspondences (Mars and Saturn) and the star Sirius.
@@ -55,5 +55,5 @@ Align our desires with the wisdom of the stars."
 
 Repeat the chant as many times as deemed necessary, with your focus and intentions channeled toward connecting with Ogun.
 
-Conclusion:
+**Conclusion**:
 End the ceremony by giving thanks to Ogun for his presence and guidance. Extinguish the candles and carefully dispose of the offerings. Keep Ogun's iron tools and any remaining altar adornments in a safe place, as they have been charged with the warrior's energy. Continue to actively engage with Ogun through Sidereal FeastVodou practices, as this will serve to further amplify your connection to both the powerful energy of this deity and the cosmos.

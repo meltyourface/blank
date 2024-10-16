@@ -23,9 +23,9 @@ excerpt: >
 
 ## Title: The Ritual of the GOTOS Egregore
 
-Objective: To invoke the Fraternitas Saturni egregore into a group working by incorporating the foundational principles, symbols, esoteric lore specific to the Fraternitas Saturni tradition.
+**Objective**: To invoke the Fraternitas Saturni egregore into a group working by incorporating the foundational principles, symbols, esoteric lore specific to the Fraternitas Saturni tradition.
 
-Preparation:
+**Preparation**:
 1. Select a secluded and quiet location where the ritual will take place.
 2. Choose a day that corresponds with Saturn, traditionally Saturday, during a waning moon phase.
 3. Prepare the ritual space with a consecrated altar facing North, where the energies of Saturn are strongest.
@@ -53,5 +53,5 @@ Ritual Steps:
 12. The Guardian of the Portal signals the conclusion of the ritual.
 13. Record the experience in the group's magical journal for future reference and analysis.
 
-Reminder:
+**Reminder**:
 Remember to maintain focused intention throughout the ritual, ensuring that all participants are in harmony with the egregore's energies. After the ritual, the group's bond with the GOTOS egregore will strengthen their collective Fraternitas Saturni practices and manifest profound magickal effects.

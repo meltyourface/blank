@@ -24,7 +24,7 @@ Psycho-Spiritual Evaluation: Natal Astrological Chart Analysis and Ritualistic P
 
 Birth Information: [Full Name, Date of Birth, Time of Birth, City of Birth]
 
-Introduction:
+**Introduction**:
 
 Within the esoteric framework of the Proclamation of the Grade of Ipsissimus, the pursuit of self-mastery requires a deep understanding of one's metaphysical makeup. Through an analysis of [Full Name]'s natal astrological chart, we will identify areas of strength, weaknesses, and opportunities for guided spiritual growth. Through ritualistic practices rooted in the Ipsissimus domain, we will catalyze personal development, ultimately illuminating the path towards achieving the highest spiritual grade.
 

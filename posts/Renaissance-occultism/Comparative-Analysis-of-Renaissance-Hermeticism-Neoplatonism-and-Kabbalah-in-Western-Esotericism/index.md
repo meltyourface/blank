@@ -27,19 +27,19 @@ To begin, let us first understand the three branches of Renaissance occultism, n
 
 The underlying philosophies of Renaissance Hermeticism, Neoplatonism, and Kabbalah share certain commonalities as well as differences which can be analyzed by examining their cosmology, ontology, epistemology, and soteriology.
 
-Cosmology:
+**Cosmology**:
 
 In Renaissance Hermeticism, the creation process is described in terms of emanationism, wherein the One, the ultimate source, emanates various levels of reality. This cosmic hierarchy descends from the One to Nous (mind), world soul, and the material world. Neoplatonism shares a similar structure, with the One at the apex followed by Nous (containing Platonic Ideas), the world soul, and the material world. However, the Kabbalah cosmology posits a different structure. It emphasizes the ten Sefirot, divine attributes through which the one, indivisible God interacts with the creation.
 
-Ontology:
+**Ontology**:
 
 Hermeticism posits that all creation is interconnected and divine. Humans, in particular, possess a dual nature: both material and divine. Neoplatonism also supports the interconnectedness of creation and a hierarchical structure, placing the material world at the lowest level. In Kabbalah, entities possess a mixture of divine light and immanent darkness, which affect their inclinations and moral behavior.
 
-Epistemology:
+**Epistemology**:
 
 Hermeticism values direct, personal experiences as a way to gain spiritual insights. It stresses the importance of continuous spiritual development and self-discovery through various esoteric practices. Neoplatonism concurs about the importance of inner contemplation. The philosopher ascends through stages of knowledge, from sensory experience to dialectic exploration of deductive relationships, ultimately culminating in direct experiences of the Supreme One. In Kabbalah, the path to spiritual knowledge is through the interpretation of Torah, particularly its esoteric, mystical layers.
 
-Soteriology:
+**Soteriology**:
 
 In Hermeticism, salvation is achieved through gnosis - a deep, experiential knowledge of the divine. This is attained by acquiring knowledge, practicing meditation, and accumulating virtues. Neoplatonism envisions salvation as a return to the divine source (henosis) through an ascent of the soul, attained by purifying oneself intellectually and morally. Kabbalah's concept of salvation is rooted in the Jewish tradition. It emphasizes maintaining a harmonious balance of the Sefirotic energies and fulfilling the Law and Mitzvot to achieve closeness to the divine.
 

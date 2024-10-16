@@ -21,9 +21,9 @@ excerpt: Develop a comprehensive ritual for the conjuration and manipulation of 
 ---
 Ritual Name: The Sanctum of Ethereal Transmutations
 
-Objective: To conjure and manipulate ethereal energies for the purpose of cleansing, purifying, and sanctifying a space for magical protection, revitalization, and malediction.
+**Objective**: To conjure and manipulate ethereal energies for the purpose of cleansing, purifying, and sanctifying a space for magical protection, revitalization, and malediction.
 
-Preparation:
+**Preparation**:
 
 1. Choose a location: Select a suitable space, preferably an enclosed area that is free from interruptions and external distractions.
 
@@ -99,7 +99,7 @@ To protect, revitalize, and bring balance to this domain."
 
 3. Extinguish the candle and incense, symbolizing the end of the ritual.
 
-Timing:
+**Timing**:
 
 Perform this ritual during a waxing moon or on a full moon night to harness the moon's energy for growth and amplification. Begin the ritual at a time that allows you to maintain focus and intention without distractions or interruptions.
 

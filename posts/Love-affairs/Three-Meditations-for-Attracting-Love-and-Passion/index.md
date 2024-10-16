@@ -21,11 +21,11 @@ excerpt: Design a series of sensual and romantic meditations centered around att
 ---
 Meditation 1: Physical Intimacy
 
-Focus: This meditation will focus on drawing forth feelings of desire and physical intimacy, using symbols and rituals related to sexuality and sensuality. 
+**Focus**: This meditation will focus on drawing forth feelings of desire and physical intimacy, using symbols and rituals related to sexuality and sensuality. 
 
-Symbols: Rose (symbol of love and passion), apple (symbol of sensuality and indulgence), flame (symbol of lust and passion)
+**Symbols**: Rose (symbol of love and passion), apple (symbol of sensuality and indulgence), flame (symbol of lust and passion)
 
-Affirmation: "I am a magnet for my ideal physical connection. My body and soul attract my perfect partner."
+**Affirmation**: "I am a magnet for my ideal physical connection. My body and soul attract my perfect partner."
 
 Step-by-Step Guide:
 1. Create a sacred space by setting up an altar with representations of the symbols, such as a red rose, an apple, and a candle.
@@ -41,11 +41,11 @@ Step-by-Step Guide:
 
 Meditation 2: Emotional Connection
 
-Focus: Cultivating emotional connection, vulnerability, and trust between you and your ideal partner.
+**Focus**: Cultivating emotional connection, vulnerability, and trust between you and your ideal partner.
 
-Symbols: Moon (symbol of emotion and intuition), water (symbol of purity and emotional cleansing), heart (symbol of love and compassion)
+**Symbols**: Moon (symbol of emotion and intuition), water (symbol of purity and emotional cleansing), heart (symbol of love and compassion)
 
-Affirmation: "I am open to deep and honest emotional connection. My heart is ready to love and be loved."
+**Affirmation**: "I am open to deep and honest emotional connection. My heart is ready to love and be loved."
 
 Step-by-Step Guide:
 1. Set up your sacred space with representations of the moon, a bowl of water, and a heart-shaped token.
@@ -60,11 +60,11 @@ Step-by-Step Guide:
 
 Meditation 3: Spiritual Alignment
 
-Focus: Aligning your spiritual values and beliefs with those of your ideal partner, creating a deep, shared spiritual bond.
+**Focus**: Aligning your spiritual values and beliefs with those of your ideal partner, creating a deep, shared spiritual bond.
 
-Symbols: Sun (symbol of spiritual enlightenment and growth), pentacle (symbol of the elements and interconnectedness), infinity (symbol of eternal love and spiritual connection)
+**Symbols**: Sun (symbol of spiritual enlightenment and growth), pentacle (symbol of the elements and interconnectedness), infinity (symbol of eternal love and spiritual connection)
 
-Affirmation: "My soul is aligned with the divine energies of the universe. I manifest my ideal spiritual partner."
+**Affirmation**: "My soul is aligned with the divine energies of the universe. I manifest my ideal spiritual partner."
 
 Step-by-Step Guide:
 1. Arrange representations of the sun, a pentacle, and the infinity symbol within your sacred space.

@@ -23,9 +23,9 @@ excerpt: >
 
 ## Title: The Luminous Sanctum Ritual
 
-Objective: To purify a living space by manipulating the flow of energy, dispelling negative forces, and attracting positive vibrations.
+**Objective**: To purify a living space by manipulating the flow of energy, dispelling negative forces, and attracting positive vibrations.
 
-Preparation:
+**Preparation**:
 
 1. **Gather the following materials**:
    a. **Crystals**: Clear quartz, amethyst, selenite, and black tourmaline

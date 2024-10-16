@@ -21,7 +21,7 @@ excerpt: Design a book cover illustrating the intricate connections between the 
 ---
 As an AI language model, I am unable to directly create visual designs. However, I can provide a comprehensive description of a book cover design concept that integrates the Black Bull totem and ancient mythological narratives.
 
-Title: The Black Bull: Totemic Majesty and Ancient Mythology
+**Title**: The Black Bull: Totemic Majesty and Ancient Mythology
 
 Book Cover Design Concept:
 

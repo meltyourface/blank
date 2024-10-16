@@ -21,14 +21,14 @@ excerpt: Create a detailed recipe for crafting a traditional smudge stick that i
 ---
 Recipe for a Traditional Smudge Stick Incorporating Local Plants:
 
-Ingredients:
+**Ingredients**:
 1. Sage (Salvia spp.): Sage is known for its purifying and cleansing properties, and is often used to ward off negative energies and spirits.
 2. Cedar (Thuja spp.): Cedar is a protective tree used for grounding, as well as for attracting positive energies and good luck.
 3. Sweetgrass (Hierochloe odorata): Sweetgrass is employed for attracting positive vibes and blessings as it symbolizes peace and loving-kindness.
 4. Lavender (Lavandula spp.): Lavender is renowned for promoting relaxation and inner peace, making it an essential addition for dispelling negative energies and bringing balance.
 5. Mugwort (Artemisia vulgaris): Mugwort is utilized for enhancing spiritual vision, lucid dreaming, and psychic awareness.
 
-Instructions:
+**Instructions**:
 
 1. Begin by collecting healthy, fresh branches of each plant (Sage, Cedar, Sweetgrass, Lavender, and Mugwort). Ensure there are no signs of rot, mold, or infestations.
 

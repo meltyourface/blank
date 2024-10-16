@@ -22,9 +22,9 @@ excerpt: Design and elucidate a ritualistic sequence that expertly harnesses the
 
 ## The Rite of Cataclysmic Rebirth
 
-Purpose: To harness the devastating forces of the abyss and the invigorating essence of creation within one's magical practice, striking an equilibrium between these polar energies for the safe dismantling of malevolent entities or the restructuring of reality.
+**Purpose**: To harness the devastating forces of the abyss and the invigorating essence of creation within one's magical practice, striking an equilibrium between these polar energies for the safe dismantling of malevolent entities or the restructuring of reality.
 
-Preparation:
+**Preparation**:
 
 1. Choose a secure location, ideally at the intersection of ley lines or other energetically charged sites. Ensure the space is free of disturbances and outside influences.
 2. Construct a two-layered circular boundary using salt for the outer ring, symbolizing protection, and charcoal for the inner ring, signifying destruction.
@@ -53,7 +53,7 @@ The Ritual:
 8. Extinguish the four candles while chanting the Sealing Words:
    "Lock, and bind, contain this power. Unraveled chaos, now in slumber."
 
-Safeguards:
+**Safeguards**:
 
 1. Strictly abide by the protective boundaries and sigils throughout the ritual to ensure no adverse outcomes.
 2. In case of unexpected or uncontrolled manifestations, recite the emergency Banishment Verse:

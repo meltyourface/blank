@@ -23,7 +23,7 @@ Selected passage from Liber DCLXXI vel Pyramidos:
 
 "Thrash out the Chaff of the Wheat, that the Flail may learn from the Wheel; refine the spirit from the earth, till the fixed become volatile, and the volatile become fixed, that the Salt may be seasoned with Salt!"
 
-Interpretation:
+**Interpretation**:
 
 This passage from Liber DCLXXI vel Pyramidos signifies the essential process of purification and transformation both within the individual practitioner and the larger cosmos.
 

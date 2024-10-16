@@ -30,7 +30,7 @@ The cult of Osiris was an important religious movement in ancient Egypt. Osiris 
 
 Now that we understand the historical contexts of the Eleusinian Mysteries, the Ordo Templi Orientis, and the Egyptian cult of Osiris, we can delve into their initiation processes, symbolic deaths, and rebirths.
 
-Initiation:
+**Initiation**:
 
 Eleusinian Mysteries: This initiation process remains largely hidden; however, it is known that the ceremonies involved dancing, initiates enacting parts of a myth, and the ingestion of a sacred drink called kykeon. The Lesser Mysteries were preparatory, while the Greater Mysteries contained the core rituals of initiation.
 

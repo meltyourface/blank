@@ -24,7 +24,7 @@ excerpt: Create a detailed sketch of an AutobiographyDystopia, illustrating the 
 
 In The Subjugated Chronicles, the world is divided into distinct geographic regions, each defined by its role within the totalitarian regime. The landscape juxtaposes extensive surveillance systems with a dark, polluted atmosphere that tells the personal stories of the oppressed characters inhabiting it.
 
-Geography:
+**Geography**:
 The world comprises five major cities: Monolith, Desolation, Haven, Fjord, and Trench. The geography transitions from heavily urbanized zones to sparse, decaying structures highlighting the societal divide.
 
 1. Monolith

@@ -29,7 +29,7 @@ excerpt: >
 
 ## The Rite of Ascension into Necromantia
 
-Setting: The ceremony must be performed at the nexus of ley lines. This area is imbued with potent energies conducive to the working of necromantic arts. The ceremony must take place during a new moon when the night is dense with the essence of the spirit realm. Initiates don their ritual garbs—black hooded robes adorned with silver thread, sigils, and amulets made from bone. Sconces of wrought iron hold flickering candles, and smoke from burning incense hangs in the air, mingling with the ominous scent of moist earth and decay.
+**Setting**: The ceremony must be performed at the nexus of ley lines. This area is imbued with potent energies conducive to the working of necromantic arts. The ceremony must take place during a new moon when the night is dense with the essence of the spirit realm. Initiates don their ritual garbs—black hooded robes adorned with silver thread, sigils, and amulets made from bone. Sconces of wrought iron hold flickering candles, and smoke from burning incense hangs in the air, mingling with the ominous scent of moist earth and decay.
 
 1. **Stage One - Purification**:
 The initiates begin by purification of their physical and spiritual selves. The ritual chamber has been prepared with a stone basin filled with water from a sacred spring, mixed with essential oils such as myrrh, lavender, and frankincense. Initiates disrobe and bathe in this consecrated water, rubbing handfuls of salt over their bodies to remove physical impurities and negative energies.

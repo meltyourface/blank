@@ -26,7 +26,7 @@ With each scream and laceration, our form begins to rise,
 Yet once the deed is done, our presence they despise.
 What are we?
 
-Answer: Ritual scars
+**Answer**: Ritual scars
 
 Riddle 2:
 Through haunted woods and cursed lanes, our whispers fill the air,
@@ -35,7 +35,7 @@ When days turn black and stars align, our purpose then unfolds,
 Bringing forth calamities, as the prophecy foretold.
 What are we?
 
-Answer: Cursed talismans
+**Answer**: Cursed talismans
 
 Riddle 3:
 Inscribed upon the ancient walls, amidst the petrichor,
@@ -44,7 +44,7 @@ It serves those who possess the skill to trace its hidden lines,
 Yet condemn their souls to writhe deep within the brindled vines.
 What is it?
 
-Answer: Demonic glyph
+**Answer**: Demonic glyph
 
 Riddle 4:
 Clandestine wandering through the night, we feast upon the fear,
@@ -53,7 +53,7 @@ A pact we strike, transmogrify, a grievous price to pay,
 For in return, what was once mortal, now claims immortal sway.
 What are we?
 
-Answer: Eldritch beasts
+**Answer**: Eldritch beasts
 
 Riddle 5:
 Across the ashen plains we soar, within the putrid sky,
@@ -62,4 +62,4 @@ We bear the weight of agony and cloaked by veil of dread,
 Awoken by the seething sins, we seek the souls to shred.
 What are we?
 
-Answer: Spectral harbingers
+**Answer**: Spectral harbingers

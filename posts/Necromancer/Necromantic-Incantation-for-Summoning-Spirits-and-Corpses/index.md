@@ -28,7 +28,7 @@ Tenebris confluo, potestas umbrae ignoti virium,
 Corpora et anima, vinculum inextricabilis teneo,
 Per sanguinem sacrificii, ad huius foederis confirmandum.
 
-Explanation:
+**Explanation**:
 
 This incantation, titled "Incantatio Necromantica," is designed to summon and bind the spirits of the dead, reanimate corpses, and manipulate dark energies for the necromancer's will. The purpose of this incantation is to gain control over these dark forces and tap into the knowledge and power of the deceased.
 

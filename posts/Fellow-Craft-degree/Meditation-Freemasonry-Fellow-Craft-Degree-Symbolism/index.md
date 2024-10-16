@@ -23,7 +23,7 @@ excerpt: >
 
 ## Journey Through the Fellow Craft Symbols
 
-Duration: 25 Minutes
+**Duration**: 25 Minutes
 
 Time Breakdown:
 1. Introduction (0:00 - 2:00)

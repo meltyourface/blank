@@ -23,30 +23,30 @@ excerpt: >
 
 ## Title: A Conversation across Centuries
 
-Characters:
+**Characters**:
 Johann Wolfgang von Goethe
 Margaret Atwood
 
 [Setting: A cozy, dimly lit room; a fire crackles in the background. Books line the walls, and Goethe and Atwood sit in high-backed armchairs, glasses of wine in hand.]
 
-Goethe: Ah, Ms. Atwood, it is a pleasure to converse with an esteemed author from your time. I daresay, the centuries between us provide quite the unique perspective.
+**Goethe**: Ah, Ms. Atwood, it is a pleasure to converse with an esteemed author from your time. I daresay, the centuries between us provide quite the unique perspective.
 
-Atwood: The pleasure is all mine, Mr. Goethe. Your works, particularly within your Sturm und Drang movement, have left an indelible mark on the literary landscape. May we begin by discussing your philosophy during that period?
+**Atwood**: The pleasure is all mine, Mr. Goethe. Your works, particularly within your Sturm und Drang movement, have left an indelible mark on the literary landscape. May we begin by discussing your philosophy during that period?
 
-Goethe: By all means. The Sturm und Drang movement was born out of rebellion against the rationalism of the Enlightenment period. Emotions, passion, and the individual experience were at the core of our literary works. The Sorrows of Young Werther, for example, delves into the intensity of unrequited love, presenting the sheer power of emotions as both enthralling and destructive.
+**Goethe**: By all means. The Sturm und Drang movement was born out of rebellion against the rationalism of the Enlightenment period. Emotions, passion, and the individual experience were at the core of our literary works. The Sorrows of Young Werther, for example, delves into the intensity of unrequited love, presenting the sheer power of emotions as both enthralling and destructive.
 
-Atwood: A heightened focus on emotions brings to mind my own work, The Handmaid's Tale, albeit through a more dystopian lens. The characters are bound by a repressive regime, but it is the emotional narrative that underpins the story and allows us to see the profound impact and importance of individuality, love, and human connections. However, the dangers of unchecked emotions are also evident - just like with Werther.
+**Atwood**: A heightened focus on emotions brings to mind my own work, The Handmaid's Tale, albeit through a more dystopian lens. The characters are bound by a repressive regime, but it is the emotional narrative that underpins the story and allows us to see the profound impact and importance of individuality, love, and human connections. However, the dangers of unchecked emotions are also evident - just like with Werther.
 
-Goethe: Indeed. Your work seems to have several themes in common with Sturm und Drang, though set in another era and context. Speaking of context, let us now turn to Faust - the culmination of my life's work. Faust seeks the ultimate, transcendent knowledge, yet his ambitious pursuits and pact with Mephistopheles consistently bring forth serious consequences.
+**Goethe**: Indeed. Your work seems to have several themes in common with Sturm und Drang, though set in another era and context. Speaking of context, let us now turn to Faust - the culmination of my life's work. Faust seeks the ultimate, transcendent knowledge, yet his ambitious pursuits and pact with Mephistopheles consistently bring forth serious consequences.
 
-Atwood: The pursuit of knowledge and the dangers therein are recurring themes in my work, especially within the MaddAddam Trilogy. Humanity's uncritical pursuit of technology and knowledge leaves lasting and disastrous consequences on the environment and social order. Faust's deal with Mephistopheles, in this case, could be analogous to our society’s heedless deal with technology and advancement.
+**Atwood**: The pursuit of knowledge and the dangers therein are recurring themes in my work, especially within the MaddAddam Trilogy. Humanity's uncritical pursuit of technology and knowledge leaves lasting and disastrous consequences on the environment and social order. Faust's deal with Mephistopheles, in this case, could be analogous to our society’s heedless deal with technology and advancement.
 
-Goethe: Interesting parallels indeed. Integration of ideas across epochs surely showcases the universality and timelessness of literature. Would you say historical context affects your work as directly as it did mine?
+**Goethe**: Interesting parallels indeed. Integration of ideas across epochs surely showcases the universality and timelessness of literature. Would you say historical context affects your work as directly as it did mine?
 
-Atwood: The Handmaid's Tale, for instance, is influenced by historical events and the sociopolitical climate. The novel resonates with the real-world oppression of women, which has occurred repeatedly throughout history. Similar to how the historical context of your time spawned the Sturm und Drang movement, the challenges of my time inspired The Handmaid's Tale.
+**Atwood**: The Handmaid's Tale, for instance, is influenced by historical events and the sociopolitical climate. The novel resonates with the real-world oppression of women, which has occurred repeatedly throughout history. Similar to how the historical context of your time spawned the Sturm und Drang movement, the challenges of my time inspired The Handmaid's Tale.
 
-Goethe: This interconnectedness of history and literature fascinates me. As writers, we draw from our unique experiences, yet we are intrinsically bound by the greater human condition. Thus, a dialogue is formed across ages, with our philosophies and works as the bridge.
+**Goethe**: This interconnectedness of history and literature fascinates me. As writers, we draw from our unique experiences, yet we are intrinsically bound by the greater human condition. Thus, a dialogue is formed across ages, with our philosophies and works as the bridge.
 
-Atwood: Indeed! Despite our differing temporal and philosophical contexts, our works converge on certain themes: the power and peril of emotions, humanity's unquenchable thirst for knowledge, and a bleak depiction of a submissive society. Together, we reaffirm the idea that transcendent human truths bind us all, regardless of time and space.
+**Atwood**: Indeed! Despite our differing temporal and philosophical contexts, our works converge on certain themes: the power and peril of emotions, humanity's unquenchable thirst for knowledge, and a bleak depiction of a submissive society. Together, we reaffirm the idea that transcendent human truths bind us all, regardless of time and space.
 
 [Exeunt]

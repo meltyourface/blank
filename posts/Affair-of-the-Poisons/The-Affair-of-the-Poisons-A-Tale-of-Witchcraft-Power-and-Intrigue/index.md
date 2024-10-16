@@ -44,5 +44,5 @@ In response to the perceived threat posed by such activities, the French governm
 
 The Affair of the Poisons also influenced other European countries to take a more aggressive stance toward witchcraft and alchemy. The events in France stimulated witch trials elsewhere, contributing to the broader European witch hunts of the late 17th century.
 
-Summary:
+**Summary**:
 The Affair of the Poisons was a complex scandal involving key players such as La Voisin and members of the French court. The sociopolitical landscape of 17th-century France provided fertile ground for the development of networks offering services related to occult practices, witchcraft, and poison use. The scandal had long-lasting effects on the perception and legislation of witchcraft, alchemy, and poison use in France and beyond, with legal repercussions affecting many lives and shaping Europe's stance on occult practices for generations to come.

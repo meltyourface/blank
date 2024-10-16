@@ -22,7 +22,7 @@ excerpt: Craft a comprehensive ritual to establish contact with a prominent phys
 
 ## The Ritual of Ascending Connection
 
-Objective: To establish contact with a prominent physical presence, such as one's spirit guide, using esoteric and occult aspects to develop a strong and lasting bond.
+**Objective**: To establish contact with a prominent physical presence, such as one's spirit guide, using esoteric and occult aspects to develop a strong and lasting bond.
 
 Materials Needed:
 1. Sacred Space: A quiet and comfortable environment free from distractions
@@ -36,7 +36,7 @@ Materials Needed:
 9. Sacred Geometry Symbol: A Flower of Life or Metatron's Cube printed or drawn
 10. Comfortable Seating: A cushion or chair for meditation and focus
 
-Steps:
+**Steps**:
 
 1. Preparation and Cleansing: Cleanse your sacred space and materials with the incense. Visualize a white light radiating from the incense, purifying everything it touches.
 

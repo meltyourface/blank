@@ -21,7 +21,7 @@ excerpt: Devise a ritual to conquer the barrier of skepticism when employing arc
 ---
 Ritual Name: The Enlightening Veil of Sagacity
 
-Goal: To conquer skepticism and enhance the practitioner's ability to manipulate thought forms and ethereal visualization techniques through the arcane practices of Image-making lore.
+**Goal**: To conquer skepticism and enhance the practitioner's ability to manipulate thought forms and ethereal visualization techniques through the arcane practices of Image-making lore.
 
 ### I. Preparations
 

@@ -23,15 +23,15 @@ excerpt: >
 
 ## Rite of the Celestial Descent
 
-Objective: The objective of this rite is to invoke the divine essence of Inanna herself, bless her faithful followers with profound insights, reveal otherworldly wisdom, and initiate the participants into a higher spiritual echelon. The ceremony also intends to strengthen the bond between Inanna and her disciples, enhance the overall energy of the cult, and generate a positive impact on the cosmic balance.
+**Objective**: The objective of this rite is to invoke the divine essence of Inanna herself, bless her faithful followers with profound insights, reveal otherworldly wisdom, and initiate the participants into a higher spiritual echelon. The ceremony also intends to strengthen the bond between Inanna and her disciples, enhance the overall energy of the cult, and generate a positive impact on the cosmic balance.
 
-Preparations:
+**Preparations**:
 
 1. Select a location of great importance to the Cult of InannaÓðinn, preferably near a significant natural landmark which resonates with a strong energy force.
 2. Ensure that the entire area is cleansed using sacred herbs such as sage or palo santo.
 3. Gather the necessary materials: silver chalice, ceremonial dagger, censer, black and white candles, altar cloth adorned with sacred symbols, and offerings (fruits, grains, and flowers).
 
-Process:
+**Process**:
 
 ### I. Purification of The Temple
 - The congregation gathers around the perimeter of the ritual space, walking clockwise to create a sacred circle.

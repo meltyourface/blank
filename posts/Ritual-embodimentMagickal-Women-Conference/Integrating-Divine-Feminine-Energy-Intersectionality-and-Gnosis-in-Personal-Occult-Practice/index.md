@@ -26,10 +26,10 @@ To fully understand and integrate the key principles of the Ritual EmbodimentMag
 Divine Feminine Energy:
 Divine feminine energy represents the sacred, creative force that is often associated with intuition, compassion, nurturance, and receptivity. Historically, this energy has been embodied by various goddess figures across cultures, such as the Egyptian Isis, Hindu Kali, and Greek Aphrodite. In the context of a personal practice, tapping into the divine feminine energy can lead to greater self-awareness, empowerment, and connection with the natural world.
 
-Intersectionality:
+**Intersectionality**:
 Intersectionality is a term introduced by Kimberlé Crenshaw, to explain how different social identities (such as race, gender, class, and sexuality) intersect and collectively influence one's life experiences and opportunities. In the context of occult practices, intersectionality is essential in understanding the diverse paths to knowledge and wisdom that individuals may pursue depending on their unique identities and contexts. Integrating intersectionality into one's practice means approaching the esoteric from a more inclusive and holistic perspective.
 
-Gnosis:
+**Gnosis**:
 Gnosis, derived from the Greek word for knowledge, refers to a direct, experiential understanding of divine or mystical truths. Gnosis stands in contrast to knowledge gained through analytical thinking or intellectual study alone. It is a key principle in many mystical and esoteric traditions, such as Gnosticism, Hermeticism, and Kabbalah. Incorporating gnosis into a personal practice involves cultivating a deep, intuitive connection with the self, the divine, and the universe, alongside the intellectual study of esoteric texts and traditions.
 
 Integrating the Key Principles:

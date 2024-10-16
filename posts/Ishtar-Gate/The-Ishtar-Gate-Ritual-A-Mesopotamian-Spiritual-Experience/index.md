@@ -22,17 +22,17 @@ excerpt: Develop a detailed ritual dedicated to the goddess Ishtar, to be perfor
 
 ## The Veil of Ishtar
 
-Location: Ishtar Gate, Babylon
+**Location**: Ishtar Gate, Babylon
 
 Date and Time: The ritual should be performed during the Waxing Gibbous Moon, on a Friday, at dusk.
 
-Participants: A high priestess, two acolytes, and any devotees who wish to attend. The high priestess and acolytes must wear traditional Mesopotamian clothing and jewelry, signifying their roles and connection to the goddess Ishtar.
+**Participants**: A high priestess, two acolytes, and any devotees who wish to attend. The high priestess and acolytes must wear traditional Mesopotamian clothing and jewelry, signifying their roles and connection to the goddess Ishtar.
 
-Preparation: Participants should purify themselves with a ritual bath, and dress in the traditional attire. They should also fast for 24 hours before the ritual. The ritual area should be cleansed and consecrated using cedar incense and sacred water from the Euphrates River, while reciting a cuneiform incantation for the purification of space.
+**Preparation**: Participants should purify themselves with a ritual bath, and dress in the traditional attire. They should also fast for 24 hours before the ritual. The ritual area should be cleansed and consecrated using cedar incense and sacred water from the Euphrates River, while reciting a cuneiform incantation for the purification of space.
 
-Altar: An altar should be set up by the Ishtar Gate, adorned with symbols and artwork dedicated to Ishtar, including the eight-pointed star, the lion, and the dove. The altar must also have cuneiform inscriptions of praise and devotion to Ishtar.
+**Altar**: An altar should be set up by the Ishtar Gate, adorned with symbols and artwork dedicated to Ishtar, including the eight-pointed star, the lion, and the dove. The altar must also have cuneiform inscriptions of praise and devotion to Ishtar.
 
-Offerings: Blue irises, lapis lazuli, carnelian, and storax incense should be arranged on the altar as offerings to Ishtar.
+**Offerings**: Blue irises, lapis lazuli, carnelian, and storax incense should be arranged on the altar as offerings to Ishtar.
 
 1. Gathering
 

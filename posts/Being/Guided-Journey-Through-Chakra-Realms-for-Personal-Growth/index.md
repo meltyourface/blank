@@ -22,9 +22,9 @@ excerpt: >
 ---
 Realm 1: The Root Chakra Valley
 
-Description: The Root Chakra Valley is a vast landscape of towering red mountains and arid red desert land, representing the primal energies of survival and security. The realm is inhabited by ancient animals and tribal entities that serve as guides and guardians.
+**Description**: The Root Chakra Valley is a vast landscape of towering red mountains and arid red desert land, representing the primal energies of survival and security. The realm is inhabited by ancient animals and tribal entities that serve as guides and guardians.
 
-Meditation:
+**Meditation**:
 1. Begin by finding a comfortable seated position and close your eyes.
 2. Take several deep breaths, inhaling and exhaling slowly to calm your body and mind.
 3. Visualize yourself in the Root Chakra Valley, feeling the warm red earth beneath your feet. As you breathe, allow the red energy of this realm to rise up through your body, grounding you and enhancing your connection to the Earth.
@@ -34,9 +34,9 @@ Meditation:
 
 Realm 2: The Sacral Sea of Creativity
 
-Description: The Sacral Sea of Creativity is a vast ocean of vibrant orange waters and warm, sandy beaches, representing the energies of creation, sensuality, and emotional flow. It is inhabited by marvelous aquatic creatures, representing artistic inspiration, desire, and pleasure.
+**Description**: The Sacral Sea of Creativity is a vast ocean of vibrant orange waters and warm, sandy beaches, representing the energies of creation, sensuality, and emotional flow. It is inhabited by marvelous aquatic creatures, representing artistic inspiration, desire, and pleasure.
 
-Meditation:
+**Meditation**:
 1. Bring your awareness to your sacral chakra, located just below your navel.
 2. Visualize a warm, glowing orange energy radiating from this center, drawing you into the realm of the Sacral Sea of Creativity.
 3. Let yourself float along the surface of the ocean, connected with the dynamic orange waters and the gentle movement of the waves. Breathe in the creative energy of this realm, allowing it to stir within you and nourish your entire being.
@@ -45,9 +45,9 @@ Meditation:
 
 Realm 3: The Solar Plexus Citadel
 
-Description: The Solar Plexus Citadel is an immense, electrifying yellow city of towering spires and bustling streets, pulsating with power, ambition, and personal purpose. It showcases a plethora of advanced technology symbolizing progress, development, and growth of personal potential.
+**Description**: The Solar Plexus Citadel is an immense, electrifying yellow city of towering spires and bustling streets, pulsating with power, ambition, and personal purpose. It showcases a plethora of advanced technology symbolizing progress, development, and growth of personal potential.
 
-Meditation:
+**Meditation**:
 1. Bring your awareness to the solar plexus chakra, just above your navel.
 2. Visualize an intense yellow energy building up inside of you, pulling you to the realm of the Solar Plexus Citadel.
 3. With each breath, absorb the empowering yellow energy emanating from the vibrant cityscape, invigorating your physical and mental being.
@@ -56,9 +56,9 @@ Meditation:
 
 Realm 4: The Heart Chakra Forest
 
-Description: The Heart Chakra Forest is a lush, green sanctuary teeming with life, effervescent flora, and compassionate beings. The trees within the enchanted grove symbolize growth, change, and harmony, while the vibrant flora represents a profound connection to nature and love.
+**Description**: The Heart Chakra Forest is a lush, green sanctuary teeming with life, effervescent flora, and compassionate beings. The trees within the enchanted grove symbolize growth, change, and harmony, while the vibrant flora represents a profound connection to nature and love.
 
-Meditation:
+**Meditation**:
 1. Bring your focus to the heart chakra, centered in your chest.
 2. Visualize a brilliant green energy emanating from this center, drawing you into the realm of the Heart Chakra Forest.
 3. Breathe in the life-giving energy of the verdant plants and bathe in the warm, loving atmosphere that permeates the realm.
@@ -67,9 +67,9 @@ Meditation:
 
 Realm 5: The Throat Chakra Observatory
 
-Description: The Throat Chakra Observatory is a vast expanse of pristine, azure skies filled with fantastic flying beings that embody the virtues of communication, expression, and truth. Set below a seemingly infinite number of floating islands, these sky dominions represent the limitlessness of thought and wisdom.
+**Description**: The Throat Chakra Observatory is a vast expanse of pristine, azure skies filled with fantastic flying beings that embody the virtues of communication, expression, and truth. Set below a seemingly infinite number of floating islands, these sky dominions represent the limitlessness of thought and wisdom.
 
-Meditation:
+**Meditation**:
 1. Bring your attention to the throat chakra, located at the base of your throat.
 2. Visualize a calming blue energy streaming from this center, drawing you into the realm of the Throat Chakra Observatory.
 3. Breathe in the transformative air, feeling it cleanse and revitalize your entire being. As you breathe out, sense yourself merging with the far-reaching azure skies.

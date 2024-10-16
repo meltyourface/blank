@@ -32,7 +32,7 @@ In scutum infra nos, transmutare ungues ferri.
 Deditum disciplina austera, sit rem, et adhaerebit ad se, pugionem vehere.
 Adsuper claustra temporis, Ferrum Natura coronæ, In perficientur cogitationes nos.
 
-Translation:
+**Translation**:
 Eon of the North, I convene with thee, Lord of Saturn.
 Placing sigil before my sight, Unveil the fixed star's time.
 Head of the World, ruler in straight time, Constrict and define, become our Master.

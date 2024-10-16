@@ -23,7 +23,7 @@ excerpt: >
 
 ## Astral Runes: A Complete Grimoire on Rúne Magic and Astrological Influence
 
-Introduction:
+**Introduction**:
 
 Welcome, seeker, to Astral Runes - a comprehensive exploration of the interconnected worlds of Rúne magic and astrology, guiding the adept practitioner to achieve mastery over the esoteric and occult arts. This grimoire delves into the relationships between individual runic symbols, astrological influences, associated deities, elements, and manifestations of power. Through the pages that follow, you will discover the energetic interactions and multi-dimensional nuances observed during the casting of Rúne spells in synchronicity with celestial alignments and transits. Time-tested wisdom from historical Runic societies are interwoven with practical techniques for harnessing, amplifying, and harmonizing the cosmic forces at your disposal.
 
@@ -66,6 +66,6 @@ Liber VI: Advancements in Rúne Magic
 2. Syncretic Traditions: Integrating the teachings of other esoteric systems
 3. Future Prospects: Predictions and innovations in runic astrology and magic
 
-Conclusion:
+**Conclusion**:
 
 With the wisdom bestowed upon you by Astral Runes, may your journey into the depths of Rúne magic and astrological influence be fruitful and transformative. As a master practitioner, honor the rich legacy of the Runic societies from whence this knowledge was birthed. Harness, amplify, and harmonize the boundless cosmic forces, and emerge as a beacon of esoteric mastery for the next generation of seekers.

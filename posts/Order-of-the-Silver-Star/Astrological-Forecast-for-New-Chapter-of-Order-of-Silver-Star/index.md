@@ -22,7 +22,7 @@ excerpt: >
 ---
 To begin constructing the astrological chart, we will need specific information about the date, time, and location of the founding ceremony for the new chapter of the Order of the Silver Star. For the purpose of this task, let's assume the following details:
 
-Date: June 21, 2023
+**Date**: June 21, 2023
 Time: 12:00 PM
 Location: London, England
 

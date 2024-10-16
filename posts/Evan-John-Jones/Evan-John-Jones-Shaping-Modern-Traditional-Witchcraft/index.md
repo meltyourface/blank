@@ -46,6 +46,6 @@ Over the years, Jones' work has faced various criticisms, largely due to the inf
 
 Conversely, proponents of Jones' work argue that his syncretic approach and flexible framework incorporate the resilience and adaptability necessary for the survival of Traditional Witchcraft in the face of an ever-changing world.
 
-Conclusion:
+**Conclusion**:
 
 Evaluating the influence of Evan John Jones on the methods and practices of modern Traditional Witchcraft reveals a complex and multi-layered impact. Through his collaborations with Doreen Valiente and Robert Cochrane, his role in the formation and development of the Clan of Tubal Cain, and the consequences of that work on contemporary paganism, Jones emerges as a formidable figure in the witchcraft tradition. While shifting perceptions and criticisms persist, it is inarguable that he played a pivotal role in shaping the modern spiritual practice of witchcraft, both within the Clan of Tubal Cain and more broadly within the pagan community.

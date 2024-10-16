@@ -27,7 +27,7 @@ Thelemic philosophy is a new religious movement founded by Aleister Crowley, an 
 The A.'.A.'. (Astrum Argentum):
 The Astrum Argentum, or the Silver Star, is a magickal order created by Crowley to guide initiates through various stages of spiritual development and guide them in discovering their True Will. The system involves multiple degrees with each degree corresponding to a specific task or achievement related to spiritual growth.
 
-Alchemy:
+**Alchemy**:
 Alchemy is an ancient philosophical and proto-scientific tradition aimed at achieving the transformation of base materials into noble metals, as well as the philosopher's stone, which is said to bring about worldly perfection and enlightenment. The stages of alchemical transformation are represented by colors: nigredo (black), albedo (white), citrinitas (yellow), and rubedo (red).
 
 The Four Stages of Alchemical Process and Their Relevance to Thelemic Spiritual Evolution:

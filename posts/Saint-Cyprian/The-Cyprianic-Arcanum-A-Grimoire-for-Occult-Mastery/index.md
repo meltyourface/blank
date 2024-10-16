@@ -23,7 +23,7 @@ excerpt: >
 
 ## Title: The Cyprianic Arcanum
 
-Introduction:
+**Introduction**:
 
 The Cyprianic Arcanum is a transformation of an existing grimoire, woven together with the intricate teachings and arcane wisdom of Saint Cyprian, the patron saint of occultists, sorcerers, and necromancers. This tome contains advanced rituals, conjurations, and invocations that reflect Saint Cyprian's profound mastery of the esoteric and occult arts. Each page is illuminated with rich symbolism and cryptic illustrations embodying the enigmatic essence of Saint Cyprian's lore. Only the most devoted practitioners shall illuminate themselves with the forbidden knowledge held within.
 

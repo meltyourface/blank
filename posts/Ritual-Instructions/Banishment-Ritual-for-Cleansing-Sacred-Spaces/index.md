@@ -22,17 +22,17 @@ excerpt: Design a banishment ritual focused on the realm of Ritual Instructions,
 
 ## The Rite of the Adamantine Barrier
 
-Objective: To design a banishment ritual for dispelling negative energies from a consecrated space using specific tools, symbols, chants, and techniques.
+**Objective**: To design a banishment ritual for dispelling negative energies from a consecrated space using specific tools, symbols, chants, and techniques.
 
 Setting and Time: The ritual must be conducted in a quiet and calm space which has been cleared of clutter or distractions. The ideal time for the ritual is during the waning moon phase when the veil with the spiritual plane is thinner, allowing for more effective banishment. Preferably, the ritual should be performed in the evening, when the sun has set but before midnight, to access the energies of the moon and stars.
 
-Symbols:
+**Symbols**:
 
 1. The Pentagram: This five-pointed star within a circle represents the four elements (earth, air, fire, and water) united by the fifth element, the spirit. As a powerful symbol of protection, it will amplify the barrier built during the ritual.
 
 2. Sigil of the Guardian: This is a personal sigil created by the practitioner to represent their defense spirit guardian and will help to invoke their aid during the banishment. Draw the sigil on a piece of parchment paper.
 
-Tools:
+**Tools**:
 
 1. Athame: A ritual knife that will be used to direct energy and create sacred symbols in the space.
 
@@ -44,7 +44,7 @@ Tools:
 
 5. Altar Cloth: Black or dark purple for banishing energies.
 
-Steps:
+**Steps**:
 
 1. Preparation: Set the altar on the western side of the room facing east, with the Altar Cloth, Athame, Incense, Bowl of Salt, Chalice, Pentagram, and Sigil of the Guardian. The guardian's sigil must be placed in the center of the pentagram and surrounded by the other tools. Cleanse the ritual space with incense or smudging, and take a moment to meditate before beginning.
 

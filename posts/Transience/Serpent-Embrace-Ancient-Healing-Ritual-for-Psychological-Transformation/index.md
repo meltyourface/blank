@@ -22,7 +22,7 @@ excerpt: Create an intricate ritual to harness the power of Transience, focusing
 
 ## Ritual of the Serpent's Embrace
 
-Objective: Release and transmute emotional impediments and deep-seated psychological wounds through the power of Transience.
+**Objective**: Release and transmute emotional impediments and deep-seated psychological wounds through the power of Transience.
 
 ### Part 1: Preparation
 

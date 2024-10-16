@@ -33,10 +33,10 @@ The Book of Abramelin, often attributed to Abraham von Worms, outlines a complex
 
 By comparing these three grimoires, we can identify core commonalities underlying their approach to theurgy, invocation, and symbolic representation, highlighting a universal thread that bridges these distinct works.
 
-Theurgy:
+**Theurgy**:
 At the core of each grimoire lies the belief in the possibility of communion with divine or supernatural beings through rituals and practices. The Egyptian Book of the Dead is focused on honoring the gods and ensuring a smooth journey in the afterlife, while The Lesser Key of Solomon and The Book of Abramelin share the belief in the power of supernatural beings and their ability to shape and influence the material world.
 
-Invocation:
+**Invocation**:
 Invoking entities plays a crucial role in all three grimoires. The Lesser Key of Solomon details specific rituals for summoning spirits and angels, including sigils, incantations, and guidelines for precise actions. The Book of Abramelin outlines methods for contacting one's Holy Guardian Angel and attaining knowledge and conversation. Similarly, The Egyptian Book of the Dead is rife with incantations, prayers, and spells designed to call upon the gods in the afterlife, demonstrating the importance of invocation.
 
 Symbolic Representation:

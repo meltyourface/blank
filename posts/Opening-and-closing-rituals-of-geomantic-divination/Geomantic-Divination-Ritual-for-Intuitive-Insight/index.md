@@ -23,7 +23,7 @@ excerpt: >
 
 ## The Ritual of Unfolding Intuition
 
-Objective: To facilitate a profound connection with one's intuition through a comprehensive opening and closing ritual for a geomantic divination session.
+**Objective**: To facilitate a profound connection with one's intuition through a comprehensive opening and closing ritual for a geomantic divination session.
 
 Sacred Geometry: The Seed of Life (a pattern made of seven evenly spaced circles, representing the seven days of creation)
 Elemental Forces: Earth, Air, Fire, and Water

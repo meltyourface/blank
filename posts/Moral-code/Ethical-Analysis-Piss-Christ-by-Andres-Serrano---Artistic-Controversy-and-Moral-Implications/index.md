@@ -23,7 +23,7 @@ excerpt: Analyze and assess the underlying ethical principles and moral implicat
 
 ## "Piss Christ" by Andres Serrano
 
-Analysis:
+**Analysis**:
 
 Andres Serrano's controversial artwork, "Piss Christ" (1987), has long been the subject of debates surrounding the moral implications of artistic expression. The piece features a photograph of a small plastic crucifix submerged in a glass tank filled with the artist's urine. Given the explicitly provocative nature of the work, it is essential to analyze the ethical principles and moral implications involved in its creation and public reception.
 
@@ -51,6 +51,6 @@ Alternative Ethical Perspectives:
 
 A consequentialist assessment of "Piss Christ" might focus on the overall impact of the artwork. For example, if the work triggered harmful or beneficial consequences, such as inspiring violence or sparking productive conversations. From a deontological perspective, intent and duty are the main factors to consider, such as whether the piece was exhibited in good faith to challenge the commodification of religion, or if it was created solely to provoke and offend.
 
-Conclusion:
+**Conclusion**:
 
 "Piss Christ" serves as a catalyst for discussing the limits and responsibilities of artistic expression, the balance between free speech and religious sensitivity, and the evolving relationship between society and its symbols. Engaging with the ethical questions raised by Serrano's artwork urges us to reexamine our understanding of morality in art and the role of artists in both challenging and shaping our broader cultural beliefs.

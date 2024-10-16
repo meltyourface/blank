@@ -31,7 +31,7 @@ Ingredients and tools:
 - Grounding stones (such as black tourmaline or hematite)
 - A quiet and comfortable space
 
-Steps:
+**Steps**:
 1. Light the candles and incense, inviting purification and clarity.
 2. Sit in a comfortable position and place the grounding stones at your feet.
 3. Close your eyes and take a series of deep, cleansing breaths.
@@ -49,7 +49,7 @@ Ingredients and tools:
 - Chakra stones
 - A warm bath (optional)
 
-Steps:
+**Steps**:
 1. Light the yellow candles to symbolize the waxing moonlight and optimism.
 2. Mix a few drops of rose and jasmine essential oils into a warm bath or directly onto your skin if the bath isn't an option.
 3. Place the chakra stones on your corresponding chakra areas.
@@ -66,7 +66,7 @@ Ingredients and tools:
 - A fireproof container
 - Citrine or carnelian stones
 
-Steps:
+**Steps**:
 1. Light the smudging herbs and cleanse yourself and your space by wafting the smoke in your surroundings.
 2. Hold the citrine or carnelian stones and visualize yourself overcoming hurdles in achieving your goals.
 3. Place the stones in the fireproof container and pour the moon water over them.
@@ -81,7 +81,7 @@ Ingredients and tools:
 - A silver or white pen
 - A comfortable and soothing space
 
-Steps:
+**Steps**:
 1. Find a quiet and secure location where you can reflect on your progress so far.
 2. Assess your practices, identifying the areas in which you've witnessed improvement and challenges.
 3. Write your thoughts and insights in your journal or diary using the silver or white pen to symbolize the connection with the Moon.
@@ -96,7 +96,7 @@ Ingredients and tools:
 - A sacred circle, drawn with a mixture of salt and crushed moonstone or clear quartz
 - Music (preferably instrumental and calming)
 
-Steps:
+**Steps**:
 1. Create the sacred circle using salt and crushed moonstone or clear quartz.
 2. Light a candle and diffuse lavender oil to promote relaxation.
 3. Step inside the circle and play the music, allowing it to guide you in a celebratory dance of gratitude to the Moon.

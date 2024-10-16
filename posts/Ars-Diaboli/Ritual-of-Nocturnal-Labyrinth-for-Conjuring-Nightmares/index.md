@@ -22,7 +22,7 @@ excerpt: Design an elaborate ritual for conjuring visionary nightmares through t
 
 ## Ritual of the Nocturnal Labyrinth
 
-Materials:
+**Materials**:
 1. Cursed gemstones: Obsidian, Black Tourmaline, and Smoky Quartz.
 2. Sinister botanicals: Belladonna, Mandrake, and Wormwood.
 3. Candles: 13 black candles.
@@ -31,7 +31,7 @@ Materials:
 6. Incense: Sandalwood and Myrrh.
 7. Sigil: Drawn with the quill and ink on parchment or thick paper.
 
-Preparation:
+**Preparation**:
 
 Step 1: Prepare the space by cleaning and making it quiet and dark, blocking any source of natural or artificial light.
 
@@ -69,4 +69,4 @@ Step 6: As the ritual nears its end, thank the dark forces and release their ene
 
 Step 7: Open the circle of protection and gather the sinister botanicals, cursed gemstones, and Sigil. Separately, dispose of these materials in a way that feels proper, symbolizing the conclusion of the ritual and the dissolution of its energies.
 
-Note: As with any ritual involving dark forces and potentially dangerous materials, proceed at your own risk and use caution. Populate the ritual with specifics to satisfy your needs while ensuring to honor and respect the potential dangers that lie ahead.
+**Note**: As with any ritual involving dark forces and potentially dangerous materials, proceed at your own risk and use caution. Populate the ritual with specifics to satisfy your needs while ensuring to honor and respect the potential dangers that lie ahead.

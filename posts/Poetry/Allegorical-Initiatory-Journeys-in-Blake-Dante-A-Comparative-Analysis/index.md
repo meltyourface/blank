@@ -26,7 +26,7 @@ William Blake's "The Marriage of Heaven and Hell" (1790-1793) is a series of aph
 
 Dante Alighieri's "The Divine Comedy" (1308-1321), a three-part epic poem, portrays a journey through Hell, Purgatory, and Heaven with allegorical representations of punishment, atonement, and divine order. The poem uses an intricate system of numerology, symbolism, and theological principles, conveying Dante's spiritual and political beliefs in a meticulously crafted cosmos.
 
-Symbolism:
+**Symbolism**:
 
 Both works employ a vivid array of symbols connecting the spiritual realm with the human experience. In "The Marriage of Heaven and Hell," Blake juxtaposes biblical and mythological figures (like angels, devils, and Gods) against natural and cultural symbols (like trees, fires, and books) to demonstrate the unity of divine and mundane aspects of existence. The title itself symbolizes the joining of oppositions, suggesting that both pain ("Hell") and pleasure ("Heaven") shape human experience.
 

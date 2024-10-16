@@ -30,7 +30,7 @@ excerpt: >
 
 In the context of African Cult practices and their relationship with Santa Muerte, the primary influence of African spirituality within the syncretic worship of Santa Muerte is the incorporation of Yoruba Orishas and their attributes.
 
-Explanation:
+**Explanation**:
 
 The African Cult practices have a strong connection to African traditional religion, particularly the Yoruba religion. In this religion, the Orishas are the spiritual beings who serve as intermediaries between humans and the supreme being, Olodumare. The Yoruba religion and its Orishas have had a significant impact on the syncretic worship of Santa Muerte.
 

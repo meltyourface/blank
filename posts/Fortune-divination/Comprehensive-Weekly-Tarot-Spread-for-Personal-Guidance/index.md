@@ -23,9 +23,9 @@ excerpt: >
 
 ## Title: Comprehensive Weekly Tarot Spread for Self-Discovery and Personal Guidance
 
-Layout: A 12-card spread arranged in a circular layout, with each card representing a specific aspect of the week ahead.
+**Layout**: A 12-card spread arranged in a circular layout, with each card representing a specific aspect of the week ahead.
 
-Instructions: To begin, shuffle your tarot deck and focus on the energy surrounding the week ahead. Take a few deep breaths, clear your mind, and when you feel ready, draw 12 cards, placing them in the following positions:
+**Instructions**: To begin, shuffle your tarot deck and focus on the energy surrounding the week ahead. Take a few deep breaths, clear your mind, and when you feel ready, draw 12 cards, placing them in the following positions:
 
 Card Positions:
 

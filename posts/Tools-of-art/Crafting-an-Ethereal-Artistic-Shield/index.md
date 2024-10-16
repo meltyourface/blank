@@ -22,7 +22,7 @@ excerpt: Design a detailed step-by-step ritual for harnessing the power of occul
 
 ## Etheric Shield of Art
 
-Purpose: To harness the power of occult-based visualization techniques in order to conjure an energetic shield made of ethereal elements drawn from Tools of art.
+**Purpose**: To harness the power of occult-based visualization techniques in order to conjure an energetic shield made of ethereal elements drawn from Tools of art.
 
 Ritual Overview:
 
@@ -34,7 +34,7 @@ Ritual Overview:
 6. Anchoring the Shield
 7. Closing and Gratitude
 
-Materials:
+**Materials**:
 
 - A quiet, clutter-free space
 - Artistic tools and items related to the practitioner's affinity (paintbrushes, musical instruments, notepads, etc.)

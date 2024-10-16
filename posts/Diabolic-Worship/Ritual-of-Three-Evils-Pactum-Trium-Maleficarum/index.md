@@ -40,19 +40,19 @@ Next, the individual shall invoke each demonic force by reciting their respectiv
 
 "Ug-gur Azrathor, ishkur-sarru amēlu qallatu, śāṭ-ru turpīq!Šēru-šu erēšu harbu-šu ina kišādi!"
 
-Translation: "Rise, Azrathor, mighty storm king, shatterer of worlds! Stride upon the ashes of your conquest!"
+**Translation**: "Rise, Azrathor, mighty storm king, shatterer of worlds! Stride upon the ashes of your conquest!"
 
 2. **Belphora**:
 
 "Puhrak Belphora, dāru saharsu, nīšu tu'em! Maqātu-su isabbatsa, šanīnāru purkullu-su!"
 
-Translation: "Emerge, Belphora, whispering seductress, weaver of lies! Unveil your illusions and shroud us in deceit!”
+**Translation**: "Emerge, Belphora, whispering seductress, weaver of lies! Unveil your illusions and shroud us in deceit!”
 
 3. **Cruxthorion**:
 
 "Haddi Cruxthorion, pirištu elû, nīšu ēpušta! Iš-kunu-su mehretu sinništu amēlu tallaktu!"
 
-Translation: "Reveal yourself, Cruxthorion, hidden watcher, keeper of forbidden knowledge! Gift us the secrets that mankind fears to tread!”
+**Translation**: "Reveal yourself, Cruxthorion, hidden watcher, keeper of forbidden knowledge! Gift us the secrets that mankind fears to tread!”
 
 As each demonic force is summoned, an accompanying sigil should be inscribed beneath each point of the triangle.
 

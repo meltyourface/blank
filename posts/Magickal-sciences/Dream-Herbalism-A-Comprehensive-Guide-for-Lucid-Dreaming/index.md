@@ -22,7 +22,7 @@ excerpt: Compile a comprehensive grimoire of herbs, roots, and botanicals specif
 
 ## Nocturnal Botanicum - A Grimoire of Dream Enhancement and Lucidity
 
-Introduction:
+**Introduction**:
 This comprehensive grimoire is a compilation of herbs, roots, and botanicals traditionally utilized in the arcane practices of dream enhancement and lucidity. Through deep research and meticulous experimentation, the mystical properties, esoteric associations, and practical uses of each plant have been cataloged to provide a detailed guide for those who seek to explore the liminal spaces of the dream realm.
 
 ### I. Exploration of Notable Herbs, Roots, and Botanicals:

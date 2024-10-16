@@ -28,7 +28,7 @@ excerpt: >
 ---
 Answer: Alleged immorality, art experiments, and the expulsion of foreign residents.
 
-Explanation: The Abbey of Do What Thou Wilt was a center of esoteric and occult practices founded by the infamous English occultist Aleister Crowley in 1920. Located in Cefalù, Sicily, the Abbey was envisioned as a utopia, where people could engage in the exploration of Thelema, Crowley's spiritual system. However, this utopian experiment soon gave rise to several controversies surrounding its practices and philosophies. 
+**Explanation**: The Abbey of Do What Thou Wilt was a center of esoteric and occult practices founded by the infamous English occultist Aleister Crowley in 1920. Located in Cefalù, Sicily, the Abbey was envisioned as a utopia, where people could engage in the exploration of Thelema, Crowley's spiritual system. However, this utopian experiment soon gave rise to several controversies surrounding its practices and philosophies. 
 
 The allegations of immorality stem from the very core principle of Thelema: "Do what thou wilt shall be the whole of the Law." This tenet was often interpreted by the public and critics as an endorsement of hedonistic and self-indulgent practices without any moral or ethical boundaries. Consequently, the Abbey became associated with tales of sexual practices, drug use, and unconventional rituals which further fueled controversies.
 

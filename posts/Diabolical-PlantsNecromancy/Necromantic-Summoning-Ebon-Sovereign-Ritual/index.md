@@ -23,7 +23,7 @@ excerpt: >
 
 ## Title: Ritual of the Nocturnal Shade
 
-Purpose: To summon a formidable necromantic being - The Ebon Sovereign of the Shadowed Thorns - by using diabolical plants, ancient incantations, and powerful artifacts.
+**Purpose**: To summon a formidable necromantic being - The Ebon Sovereign of the Shadowed Thorns - by using diabolical plants, ancient incantations, and powerful artifacts.
 
 Ideal Conditions: This ritual is best performed during the new moon, when darkness is at its peak. Choose a secluded area, preferably surrounded by an abundance of wild, sinister plants and trees to amplify the ritual's power.
 

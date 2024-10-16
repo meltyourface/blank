@@ -34,7 +34,7 @@ excerpt: >
 ---
 Operation: Mind Fracture
 
-Objective: To debilitate the enemy's military forces through a comprehensive psychological warfare campaign exploiting identified vulnerabilities and weaknesses.
+**Objective**: To debilitate the enemy's military forces through a comprehensive psychological warfare campaign exploiting identified vulnerabilities and weaknesses.
 
 Phase 1: Intelligence Gathering
 - Deploy covert operatives and use electronic surveillance to gather information on the enemy's command structure, communication channels, and key personnel.

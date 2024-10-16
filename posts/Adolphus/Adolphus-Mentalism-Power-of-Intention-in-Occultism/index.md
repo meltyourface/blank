@@ -24,7 +24,7 @@ excerpt: >
 ---
 Answer: His key teachings emphasize the power of intention and mentalism in manifesting reality.
 
-Explanation: Adolphus, an enigmatic figure in the world of occultism, is known for his unique aspects that represent a deep understanding of esoteric teachings. While the other options may hold some truth, the statement about Adolphus emphasizing the power of intention and mentalism in manifesting reality is the most accurate.
+**Explanation**: Adolphus, an enigmatic figure in the world of occultism, is known for his unique aspects that represent a deep understanding of esoteric teachings. While the other options may hold some truth, the statement about Adolphus emphasizing the power of intention and mentalism in manifesting reality is the most accurate.
 
 Adolphus' teachings echo some concepts found in Kabbalistic studies, like the idea of thought and intention having influence over the physical world. The Kabbalah, a form of Jewish mysticism, is not the primary focus of Adolphus' approach to occultism but has commonalities with it. It emphasizes the understanding of divine emanations known as the Sephiroth within the Tree of Life and theurgy – the practice of rituals used to attain spiritual growth.
 

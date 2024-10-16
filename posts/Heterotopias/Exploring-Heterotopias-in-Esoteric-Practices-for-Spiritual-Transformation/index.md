@@ -22,7 +22,7 @@ excerpt: Write an informative section of a grimoire that provides a deep and com
 
 ## Heterotopias in Occult and Esoteric Practice
 
-Subtitle: Exploring the Significance, Origins, and Interaction with Spiritual Spaces
+**Subtitle**: Exploring the Significance, Origins, and Interaction with Spiritual Spaces
 
 Introduction
 

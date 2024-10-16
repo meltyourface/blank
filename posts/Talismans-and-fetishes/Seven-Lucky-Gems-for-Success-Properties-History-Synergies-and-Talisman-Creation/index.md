@@ -24,51 +24,51 @@ Here is a curated collection of six gemstones, each chosen for their properties 
 
 1. Citrine
 
-Properties: Citrine is a potent stone for manifesting wealth and prosperity. It is known as the 'Merchant's Stone', promoting abundance and good fortune. Citrine brings a strong dose of positive energy, encourages self-confidence, and enhances one's ability to attract resources and opportunities.
+**Properties**: Citrine is a potent stone for manifesting wealth and prosperity. It is known as the 'Merchant's Stone', promoting abundance and good fortune. Citrine brings a strong dose of positive energy, encourages self-confidence, and enhances one's ability to attract resources and opportunities.
 
 Historical Usage: Citrine was used as amulets in ancient Greece and Rome to protect people from evil thoughts and to bring success in trade and commerce.
 
-Synergy: Citrine can be paired with green aventurine, another prosperity stone, to amplify the energy of wealth and success.
+**Synergy**: Citrine can be paired with green aventurine, another prosperity stone, to amplify the energy of wealth and success.
 
 2. Green Aventurine
 
-Properties: Known as the 'Stone of Opportunity', green aventurine is believed to attract luck, abundance, and success. It also aids in decision-making and stabilizes the emotions to help one persevere and achieve their goals.
+**Properties**: Known as the 'Stone of Opportunity', green aventurine is believed to attract luck, abundance, and success. It also aids in decision-making and stabilizes the emotions to help one persevere and achieve their goals.
 
 Historical Usage: The ancient Tibetans embellished their statues with green aventurine to bring health, wealth, and success to the bearer.
 
-Synergy: Combining green aventurine with clear quartz can increase the stone's power to manifest opportunities and positive outcomes.
+**Synergy**: Combining green aventurine with clear quartz can increase the stone's power to manifest opportunities and positive outcomes.
 
 3. Pyrite
 
-Properties: Pyrite is also known as 'Fool's Gold', and its lucky energy attracts wealth and success. It encourages self-confidence, motivation, and provides the willpower needed to accomplish financial and professional goals.
+**Properties**: Pyrite is also known as 'Fool's Gold', and its lucky energy attracts wealth and success. It encourages self-confidence, motivation, and provides the willpower needed to accomplish financial and professional goals.
 
 Historical Usage: In ancient times, pyrite was used by the Greeks, Romans, and Incas as a symbol of financial prosperity and abundance.
 
-Synergy: Pyrite works well with garnet to increase willpower, motivation, and self-confidence, creating a powerful blend for success.
+**Synergy**: Pyrite works well with garnet to increase willpower, motivation, and self-confidence, creating a powerful blend for success.
 
 4. Garnet
 
-Properties: Garnet symbolizes determination, motivation, and perseverance. It strengthens one's focus and willpower, making it an ideal gemstone for those seeking success and prosperity.
+**Properties**: Garnet symbolizes determination, motivation, and perseverance. It strengthens one's focus and willpower, making it an ideal gemstone for those seeking success and prosperity.
 
 Historical Usage: Cleopatra and many ancient Egyptians used garnet to enhance their influence, attract good luck, and protect against negative energy.
 
-Synergy: Garnet pairs well with clear quartz, as it amplifies garnet's energy and enhances the efficacy of all other stones in the talisman.
+**Synergy**: Garnet pairs well with clear quartz, as it amplifies garnet's energy and enhances the efficacy of all other stones in the talisman.
 
 5. Tiger's Eye
 
-Properties: This stone is known for its ability to increase courage, self-confidence, and resilience. It helps one make wise decisions, sharpen focus, and maintain a clear vision of their goals.
+**Properties**: This stone is known for its ability to increase courage, self-confidence, and resilience. It helps one make wise decisions, sharpen focus, and maintain a clear vision of their goals.
 
 Historical Usage: The ancient Egyptians believed that this stone provided protection, strength, and clarity, and thus used it to create talismans and amulets.
 
-Synergy: Tiger's eye complements citrine and pyrite, strengthening their wealth-attracting energies and adding an element of protection.
+**Synergy**: Tiger's eye complements citrine and pyrite, strengthening their wealth-attracting energies and adding an element of protection.
 
 6. Clear Quartz
 
-Properties: Known as the 'Master Healer', clear quartz amplifies the energies of other stones, making it an essential element in a success-enhancing talisman. It also aids in decision-making and promotes clarity of thought.
+**Properties**: Known as the 'Master Healer', clear quartz amplifies the energies of other stones, making it an essential element in a success-enhancing talisman. It also aids in decision-making and promotes clarity of thought.
 
 Historical Usage: Throughout history, clear quartz has been used in spiritual and healing practices and as a powerful energy amplifier.
 
-Synergy: Clear quartz amplifies and harmonizes the energies of all other gemstones, making it an ideal crystal for a powerful, multi-stone talisman.
+**Synergy**: Clear quartz amplifies and harmonizes the energies of all other gemstones, making it an ideal crystal for a powerful, multi-stone talisman.
 
 Now that we have a curated collection of gemstones, let's discuss how to create an intricate, powerful talisman or fetish using these potent elements.
 

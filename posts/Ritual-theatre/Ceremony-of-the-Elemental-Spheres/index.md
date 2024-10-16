@@ -25,7 +25,7 @@ Beneath the velvet firmament, where secrets confine,
 A ceremony convenes, the ritual begins,
 To summon the elements, the powers within.
 
-I: Earth - Terra Profunda
+**I**: Earth - Terra Profunda
 
 From Terra Profunda, the Fertile One emerges,
 Robed in the verdant hues of a thousand gardens,
@@ -37,7 +37,7 @@ Scent of loam and moist decay, an aromatic chime,
 The crackling of leaves, a symphony in earthen hue,
 Bound by Gaia's embrace, to her domain we hew.
 
-II: Air - Caelestis Zephyris
+**II**: Air - Caelestis Zephyris
 
 Now, on wings of gossamer, Caelestis Zephyris cometh,
 Invisible artist, sculptor of clouds, Air's breath,
@@ -49,7 +49,7 @@ As hallowed words resound, incantations falter,
 Celebrants enraptured by the essence of thought,
 Upon gilded zephyrs, ride the winds uncaught.
 
-III: Fire - Ignis Sacra
+**III**: Fire - Ignis Sacra
 
 By the flame's exuberance, Ignis Sacra is born,
 Dancing sparks awaken, with radiant hues adorn,
@@ -61,7 +61,7 @@ Weaving tales of Conclave, in fervent trance,
 Flames crackle and roar, visions beguile,
 As searing hands beseech, the vapors begone.
 
-IV: Water - Aqua Vitae
+**IV**: Water - Aqua Vitae
 
 The murm’ring embrace of Aqua Vitae surges from the West,
 Boundless depths cascading, shimmering cerulean vest,
@@ -73,7 +73,7 @@ Dulled to the touch, yet with secrets to beguile,
 Symphony of raindrops, a thousand whispers in the breeze,
 Merging with the elements, surrendering the key.
 
-V: The Grand Finale - Elementalis Commixtio
+**V**: The Grand Finale - Elementalis Commixtio
 
 Earth, Air, Fire, and Water coalesce and embrace,
 The altar alight, as stars theirselves incandesce,

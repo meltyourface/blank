@@ -22,11 +22,11 @@ excerpt: >
 ---
 Title of Artwork: The Night's Watcher
 
-Medium: Oil on Canvas
+**Medium**: Oil on Canvas
 
-Artist: Arthur Blackwood (1863 - 1921)
+**Artist**: Arthur Blackwood (1863 - 1921)
 
-Description: The Night's Watcher is a hauntingly mesmerizing piece by Arthur Blackwood depicting a large shadowy owl perched atop an ancient, gnarled tree. In the background, a crescent moon casts a silvery glow over the enigmatic forested landscape. The canvas is strewn with subtle symbols and cryptic elements, calling upon the viewer to decipher the piece's full meaning.
+**Description**: The Night's Watcher is a hauntingly mesmerizing piece by Arthur Blackwood depicting a large shadowy owl perched atop an ancient, gnarled tree. In the background, a crescent moon casts a silvery glow over the enigmatic forested landscape. The canvas is strewn with subtle symbols and cryptic elements, calling upon the viewer to decipher the piece's full meaning.
 
 Symbolism of the Owl:
 The owl has long held an esteemed place in folklore, mythology, and the occult, often associated with wisdom, mystery, and the supernatural. In Greek mythology, the owl represents Athena, goddess of wisdom and war, and is considered her favored companion. In ancient Egyptian beliefs, Owls were considered guardians of the Underworld and symbolized the protective powers over the dead. The creature has also represented lunar associations in various cultures, further reinforcing the mystic power of the moon.

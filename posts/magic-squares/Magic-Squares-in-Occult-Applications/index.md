@@ -44,7 +44,7 @@ Magic squares have been utilized in diverse magical practices across cultures an
 
 4. ****Divination****: Certain forms of divination, such as geomancy, incorporate magic squares to determine the outcome of a query or to discern hidden knowledge.
 
-IV: Applications in Rituals and Spells
+**IV**: Applications in Rituals and Spells
 
 Magic squares have been used in various rituals and spells, with their practical applications rooted in the belief that the numerical order and planetary associations can affect and channel specific energies. **Here are some examples of how they have been employed in practice**:
 

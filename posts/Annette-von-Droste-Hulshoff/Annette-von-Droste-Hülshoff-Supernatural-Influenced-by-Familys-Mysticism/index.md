@@ -22,7 +22,7 @@ excerpt: >
 ---
 Answer: Her family's religious and mystical beliefs greatly influenced her literary work on the supernatural.
 
-Explanation: Annette von Droste-Hülshoff was a German poet and writer who lived in the 19th century. She is best known for her Gothic poems and her novella, "The Jew's Beech." Her family's religious and mystical beliefs had a significant impact on her work, particularly in terms of her interest in the supernatural.
+**Explanation**: Annette von Droste-Hülshoff was a German poet and writer who lived in the 19th century. She is best known for her Gothic poems and her novella, "The Jew's Beech." Her family's religious and mystical beliefs had a significant impact on her work, particularly in terms of her interest in the supernatural.
 
 Annette's family was devoutly Catholic, and their home, the Hülshoff Castle, was steeped in religious and mystical traditions. The castle itself was filled with religious artwork and relics, creating an atmosphere that was conducive to fostering a fascination with the spiritual and the supernatural. Additionally, the family would often share stories of local legends and supernatural occurrences, further fueling Annette's imagination.
 

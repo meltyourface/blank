@@ -24,7 +24,7 @@ The correct answer is:
 
 The Black Books are a collection of texts that compile necromantic wisdom from various European occult traditions, with some dating back to the Medieval period and encompassing diverse topics such as conjuration and invocation.
 
-Explanation:
+**Explanation**:
 
 The Black Books of European necromancy have a rich and complex history within occult tradition. These texts reflect an amalgamation of knowledge and practices from various European cultures and time periods. To comprehend the significance of these manuscripts, it's essential to delve into several aspects, such as their historical development, key concepts, and the connection with other occult practices.
 

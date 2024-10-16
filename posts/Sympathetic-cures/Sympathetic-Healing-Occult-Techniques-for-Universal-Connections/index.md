@@ -45,9 +45,9 @@ To perform sympathetic healing rituals, a practitioner should first attune thems
 
 1. Healing Candle Ritual
 
-Materials: Healing colored candle (e.g., green or blue), carving tool, essential oil of choice, parchment paper, and a pen.
+**Materials**: Healing colored candle (e.g., green or blue), carving tool, essential oil of choice, parchment paper, and a pen.
 
-Instructions:
+**Instructions**:
 a. Carve the name or initials of the person to be healed onto the candle.
 b. Anoint the candle with the essential oil while focusing your intent on healing energy.
 c. Write the healing intention on parchment paper.
@@ -56,9 +56,9 @@ e. Allow the candle to burn completely, releasing the energy for healing. Dispos
 
 2. Herbal Healing Charm
 
-Materials: Small cloth pouch, healing herbs (e.g., lavender, chamomile, rosemary), a piece of the recipient's hair or an object belonging to them, and a length of string.
+**Materials**: Small cloth pouch, healing herbs (e.g., lavender, chamomile, rosemary), a piece of the recipient's hair or an object belonging to them, and a length of string.
 
-Instructions:
+**Instructions**:
 a. Fill the pouch with the selected herbs.
 b. Add the hair or object to the pouch, invoking the Law of Contagion.
 c. Close the pouch and tie it securely with the string.
@@ -66,9 +66,9 @@ d. Charge the charm with healing intent and give it to the recipient to wear or 
 
 3. Distance Healing Visualization
 
-Materials: A clear quartz crystal, a photograph or name of the person to be healed, and a quiet space for meditation.
+**Materials**: A clear quartz crystal, a photograph or name of the person to be healed, and a quiet space for meditation.
 
-Instructions:
+**Instructions**:
 a. Hold the quartz crystal in your hands and focus on its energy-enhancing properties.
 b. Visualize the person to be healed, mentally projecting healing energy to them.
 c. Continue the visualization for an extended period, allowing the crystal to amplify and direct the healing energy towards its target.

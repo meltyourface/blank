@@ -22,7 +22,7 @@ excerpt: Design an intricate meditation ritual to attune oneself with the potent
 
 ## Black Dragon's Breath of Arcane Power
 
-Preparation:
+**Preparation**:
 1. Find a secluded space where it is dimly lit and free of noise or distraction.
 2. Cleanse the area using sage or incense to remove any negative energies.
 3. Create a protective circle in the space using a mixture of salt, crushed black tourmaline, and dragon's blood resin.
@@ -30,7 +30,7 @@ Preparation:
 5. In the center of the circle, place a black dragon figurine or representation, facing east.
 6. Surround the dragon figure with black candles, each anointed with dragon's blood oil and inscribed with the Sigil of the Black Dragon.
 
-Ritual:
+**Ritual**:
 
 1. Begin by standing in the center of the circle, facing east, and ensure you are wearing dark and comfortable clothing.
 

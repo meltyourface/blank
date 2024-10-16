@@ -23,10 +23,10 @@ excerpt: >
 
 ## The Esoteric Odyssey: Prague's Mystical Legacy and Gabriele D'Annunzio's Influence
 
-Introduction:
+**Introduction**:
 Welcome, intrepid explorer, to The Esoteric Odyssey. This journey will take you through the mystical landmarks of Prague, delving into the world of occult manuscripts and the connections to the Italian poet Gabriele D'Annunzio. As you walk the ancient cobblestone paths, you will discover cryptic monuments, uncover their symbolic links to esoteric literature, and witness the influence of D'Annunzio on this magical and historic city.
 
-Itinerary:
+**Itinerary**:
 
 Stop 1: The Prague Astronomical Clock (Orloj)
 We begin our odyssey at the enigmatic Prague Astronomical Clock, a marvel of medieval engineering with a mystical flair. Aside from its intricate design showcasing the universe, time, and the zodiac, the clock also holds hidden messages and alchemical symbols. Delve into the literature of the time and learn how D'Annunzio was supposedly fascinated by the clock's secrets, incorporating its symbolism in his works.
@@ -45,5 +45,5 @@ Stop 5: The Klementinum Library**Step into the breathtaking Klementinum Library,
 Stop 6**: The Vyšehrad Cemetery
 Conclude your mystical journey at the hauntingly beautiful Vyšehrad Cemetery. Surrounded by Gothic statues and cenotaphs, ponder upon the intertwining of art, history, and the esoteric while examining the cemetery's powerful symbolism and mythos. Discover how these iconic representations tie into the thematic elements that run through D'Annunzio's poetry, prose, and personal beliefs.
 
-Conclusion:
+**Conclusion**:
 As you reach the end of this Esoteric Odyssey, the curtain closes on an unforgettable adventure. The bond between the mystical and alluring Prague, the enigma of occult manuscripts, and the profound influence of Gabriele D'Annunzio will leave you with a newfound appreciation for the hidden world that surrounds us. May the spirit of this journey linger in your heart, mind, and soul as you walk through the streets of Prague, forever changed by its mystical embrace.

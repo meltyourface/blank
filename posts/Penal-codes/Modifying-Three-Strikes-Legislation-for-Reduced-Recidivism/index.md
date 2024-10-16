@@ -23,19 +23,19 @@ Task: Analyze and propose amendments to three-strikes legislation within the con
 
 Amendment Proposal 1: Modify the third-strike mandatory life sentence for non-violent offenders.
 
-Justification: Mandatory life sentences for non-violent third-strike offenders disproportionately affect minority communities and do not effectively address the underlying issue of recidivism. By reserving mandatory life sentences for only violent third-strike offenders, our criminal justice system can more specifically target dangerous individuals who pose a significant threat to public safety.
+**Justification**: Mandatory life sentences for non-violent third-strike offenders disproportionately affect minority communities and do not effectively address the underlying issue of recidivism. By reserving mandatory life sentences for only violent third-strike offenders, our criminal justice system can more specifically target dangerous individuals who pose a significant threat to public safety.
 
 Alternative Pathway: For non-violent third-strike offenders, implement a combination of long-term, community-based supervision, rehabilitation programs, and custody sanctions to help with reintegration and decrease the likelihood of reoffending. The aim is to address the unique needs of each individual, focusing on behavioral and mental health issues, education, employment, and substance abuse treatment.
 
 Amendment Proposal 2: Develop discretionary sentencing guidelines for judges in three-strikes cases.
 
-Justification: Judges can make more appropriate, individualized sentencing decisions if provided with discretionary guidelines in three-strikes cases. This would take into account the nature of the offenses and the offender's potential for rehabilitation, reducing the chances of unfairly harsh sentences for non-violent or low-level repeat offenders.
+**Justification**: Judges can make more appropriate, individualized sentencing decisions if provided with discretionary guidelines in three-strikes cases. This would take into account the nature of the offenses and the offender's potential for rehabilitation, reducing the chances of unfairly harsh sentences for non-violent or low-level repeat offenders.
 
 Alternative Pathway: Judges can utilize a sliding scale based on the nature and severity of the crime, as well as the offender's history, to determine the appropriate sentencing duration and program participation, potentially including mental health treatment, education, or employment assistance.
 
 Amendment Proposal 3: Institute periodic review of three-strike sentences.
 
-Justification: Periodic reviews of three-strike sentences can provide incentives for good behavior, participation in rehabilitation programs, and opportunities for early release upon successful completion of these programs. This can reduce the burden on the prison system, make the process more humane, and improve the chances of successful reintegration into society.
+**Justification**: Periodic reviews of three-strike sentences can provide incentives for good behavior, participation in rehabilitation programs, and opportunities for early release upon successful completion of these programs. This can reduce the burden on the prison system, make the process more humane, and improve the chances of successful reintegration into society.
 
 Alternative Pathway: Establish a review process for three-strike offenders, taking place every five years. This review would involve experts in corrections, probation, and parole, who can assess the offender’s rehabilitation progress, potential risk to public safety, and eligibility for early release with appropriate supervision and support.
 

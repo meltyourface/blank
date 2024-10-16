@@ -22,11 +22,11 @@ excerpt: >
 ---
 Assessment and Evaluation of Soil Fertility for a Designated Garden Plot
 
-Introduction:
+**Introduction**:
 
 A designated garden plot was assessed for its suitability for growing a variety of edible plants and identifying potential foraging sites. The evaluation involved a thorough analysis of the soil's nutrient content, texture, and pH levels, obtained from samples taken from different areas within the plot. This comprehensive report presents the garden's current fertility status, focusing on the benefits and drawbacks of growing specific crops such as tomatoes, leafy greens, and root vegetables, along with tailored recommendations for improving soil quality using traditional and esoteric techniques.
 
-Findings:
+**Findings**:
 
 Nutrient Content:
 Upon analyzing the collected soil samples, the nutrient content was found to be moderately rich in nitrogen (N), phosphorus (P), and potassium (K), which are essential for healthy plant growth. The plot seems suitable for a wide range of edible plants, including tomatoes, leafy greens, and root vegetables.
@@ -58,6 +58,6 @@ Based on the identified microclimates and soil conditions, the following edible 
 5. Chickweed (Stellaria media)
 6. Lambsquarters (Chenopodium album)
 
-Conclusion:
+**Conclusion**:
 
 With the moderately rich nutrient content, suitable soil texture, and slightly acidic pH levels, this designated garden plot presents a suitable environment for a variety of edible plants, including tomatoes, leafy greens, and root vegetables. Carefully implementing the recommended techniques for improving soil quality, such as biochar addition and compost mixtures, will further enhance the garden's fertility. By incorporating traditional and esoteric techniques and selecting forageable plants adapted to the garden's conditions, the potential for a thriving and diverse edible landscape becomes possible.

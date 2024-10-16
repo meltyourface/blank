@@ -22,7 +22,7 @@ excerpt: Design a comprehensive Enochian ritual, incorporating the specialized l
 
 ## Hierophant's Enochian Angelic Invocation 
 
-Introduction:
+**Introduction**:
 This comprehensive Enochian ritual incorporates the specialized language, sigils, and symbols specific to the occult Hierophant domain to powerfully invoke angelic communication. The document will provide detailed steps to prepare the sacred space, select and consecrate ritual tools, and the proper sequence of employing the Enochian Calls and Keys. Additionally, all aspects of the specific angelic hierarchy and entities to be contacted, their associated sigils, and the intended purpose of the communication will be elaborated.
 
 ### I. Preparation of the Sacred Space

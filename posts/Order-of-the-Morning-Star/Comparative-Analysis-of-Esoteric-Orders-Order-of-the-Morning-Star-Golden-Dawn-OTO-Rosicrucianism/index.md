@@ -22,7 +22,7 @@ excerpt: Compare and contrast the teachings, rituals, and symbolism of the Order
 ---
 The Order of the Morning Star, along with the Hermetic Order of the Golden Dawn, the Ordo Templi Orientis, and the Rosicrucian Order, are significant esoteric orders that have shaped the foundations of occult practice and understanding for centuries. A comparison and analysis of the teachings, rituals, and symbolism across these four esoteric traditions underscore the fascinating similarities and differences between them.
 
-Teachings:
+**Teachings**:
 1. Order of the Morning Star: The teachings of this order emphasize personal transformation and the pursuit of spiritual enlightenment through the study of ancient mysteries, alchemy, and symbolism. By engaging in deep meditation and altered states of consciousness, the initiate seeks to unite the individual consciousness with the divine.
 
 2. Hermetic Order of the Golden Dawn: This order, rooted in the Hermetic-Qabalah tradition, focuses on theurgy, divination, and ceremonial magick intended to guide the initiate towards spiritual growth and self-improvement. The teachings synthesize aspects of Kabbalah, astrology, and Egyptian mythology.

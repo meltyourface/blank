@@ -21,10 +21,10 @@ excerpt: Design a promotional poster for an upcoming independent film in the neo
 ---
 Since I’m an AI language model and I can’t physically design the poster for you, I can provide you with a highly detailed description for the ideal neo-noir promotional poster, which you can then use to guide a graphic designer or create the poster yourself.
 
-Title: "Midnight Whispers"
+**Title**: "Midnight Whispers"
 Tagline: "When truth lies in the shadows, who can you trust?"
 
-Description:
+**Description**:
 The overall color scheme of the poster is a mix of contrasting deep blues and dark blacks, with shades of orange and yellow for accentuation, creating a striking visual reminiscent of smog-filled city night skies.
 
 The background features a cityscape, with towering buildings, foggy streets, and reflections from neon signs. The light seems to come from within the buildings and signage, highlighting the elements of chiaroscuro lighting. Flashes of light unearthly blue light stream through cracks in the buildings, illuminating the looming skyscrapers.

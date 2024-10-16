@@ -54,15 +54,15 @@ Correspondences
 
 Throughout the magical systems, various correspondences are associated with the equinoxes. The following list enumerates some of the most common associations:
 
-Planets:
+**Planets**:
 - Autumnal Equinox: Venus, Mars, and Mercury
 - Vernal Equinox: Moon, Sun, and Venus
 
-Elements:
+**Elements**:
 - Autumnal Equinox: Earth and Water
 - Vernal Equinox: Air and Fire
 
-Deities:
+**Deities**:
 - Autumnal Equinox: Demeter, Persephone, and Osiris
 - Vernal Equinox: Eostre, Ishtar, and Freyja
 

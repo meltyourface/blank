@@ -23,7 +23,7 @@ excerpt: >
 
 ## The Ancestral Nexus: A Ritual System for Veneration and Revelation
 
-Overview:
+**Overview**:
 The Ancestral Nexus is a comprehensive ritual system designed to connect individuals with their personal ancestral experiences through various esoteric methods. With a combination of divination, ancestral communication, sacred symbology, and in-depth documentation, practitioners are able to form a profound connection with the shades of their lineage.
 
 ### I. **Preparation for Rituals**:

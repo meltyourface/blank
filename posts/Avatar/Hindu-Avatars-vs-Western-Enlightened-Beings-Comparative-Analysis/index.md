@@ -27,13 +27,13 @@ On the other hand, Western mystery traditions encompass a wide range of belief s
 
 Now, let us examine the similarities and differences between the concept of avatars in Hinduism and enlightened beings and divine intermediaries in Western mystery traditions.
 
-Similarities:
+**Similarities**:
 
 1. Both avatars in Hinduism and enlightened beings/divine intermediaries in Western mystery traditions are conceptualized as emanations or manifestations of the Supreme Being. They serve as a bridge between the divine and human realms, providing guidance, protection, and wisdom to those who seek it.
 
 2. Both avatars and enlightened beings/divine intermediaries carry out specific missions, such as maintaining cosmic order, imparting knowledge, and guiding humanity on their spiritual journey. These entities work on both macrocosmic and microcosmic levels, impacting the universe's overall functioning and individuals' spiritual development.
 
-Differences:
+**Differences**:
 
 1. Avatars in Hinduism usually incarnate in physical form and engage with the world directly, actively participating in the preservation of cosmic order and restoration of Dharma. In contrast, enlightened beings and divine intermediaries in Western mystery traditions often act as guides and messengers, rather than assuming physical forms and intervening directly in human affairs.
 

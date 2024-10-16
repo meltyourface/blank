@@ -35,7 +35,7 @@ Structure and Components:
 
 4. Activation Symbol: A central symbol that allows the energies of the respective sigils to be harnessed during the process of divination.
 
-Process:
+**Process**:
 
 1. Begin by constructing the Sigil Wheel containing the numerical sigils (0-9) along with the corresponding esoteric symbols chosen based on their traditional associations with numerology.
 

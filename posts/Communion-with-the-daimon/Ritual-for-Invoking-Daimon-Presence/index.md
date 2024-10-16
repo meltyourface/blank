@@ -22,9 +22,9 @@ excerpt: Design an intricate ritual that meticulously cleanses and consecrates a
 
 ## Ritual of The Sacred Conclave 
 
-Purpose: To cleanse and consecrate a sacred space for invoking and communing with the daimon.
+**Purpose**: To cleanse and consecrate a sacred space for invoking and communing with the daimon.
 
-Materials:
+**Materials**:
 1. A clean and undisturbed room or outdoor space
 2. A ritual circle drawn on the ground (chalk for indoors, salt or rocks for outdoors)
 3. Four elemental representation items (Earth, Air, Fire, Water) for the cardinal points

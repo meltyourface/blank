@@ -23,7 +23,7 @@ excerpt: >
 
 ## Title: Ritual of Negation and Affirmation
 
-Objective: To perform a transformative ritual exploring the depths of the inner self by embracing the concept of Negation before Affirmation through the use of symbols, invocations, and a reflective process.
+**Objective**: To perform a transformative ritual exploring the depths of the inner self by embracing the concept of Negation before Affirmation through the use of symbols, invocations, and a reflective process.
 
 Required Tools:
 1. Black and white candles (representing duality)
@@ -32,13 +32,13 @@ Required Tools:
 4. Chalice filled with water (symbolizing purification and affirmation)
 5. Sigil of Negation and Affirmation (to be drawn by the practitioner before the ritual)
 
-Preparation:
+**Preparation**:
 1. Choose a quiet and peaceful location for performing the ritual, preferably during the night.
 2. Create a personal Sigil of Negation and Affirmation, combining elements of negation (such as the Inverted pentagram) with affirmation symbols (like upward triangles or circles).
 3. Cleanse the ritual area and tools with sage or incense.
 4. Draw or place the Sigil of Negation and Affirmation in the center of the ritual space, surrounded by the black and white candles.
 
-Ritual:
+**Ritual**:
 
 1. Light the black candle, stating, "I light this candle to seek and discover the unknown within myself, to face the darkness with courage and honesty."
 

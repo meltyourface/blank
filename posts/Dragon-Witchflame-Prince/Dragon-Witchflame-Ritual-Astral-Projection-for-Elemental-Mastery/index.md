@@ -21,7 +21,7 @@ excerpt: Initiate a Ritualistic Astral Projection to Harmonize with the Mighty E
 ---
 To initiate the Ritualistic Astral Projection to Harmonize with the Mighty Essence of the Dragon Witchflame Prince, one must adhere to the following steps:
 
-Preparation:
+**Preparation**:
 
 1. Choose an isolated location where you can remain undisturbed throughout the duration of the ritual. This must be a place that is imbued with a powerful chi.
 
@@ -31,7 +31,7 @@ Preparation:
 
 4. Place the dragon skull at the center of the circle, representing the unyielding core of the Dragon Witchflame Prince's essence. Surround the skull with black candles and light them, signifying the pathway to the astral plane.
 
-Ritual:
+**Ritual**:
 
 1. Begin by purifying the atmosphere: light sacred incense, and chant the Invocation of the Dragon Lord to create a powerful connection to the ancestral spirits of dragons, thereby invoking their blessings and protection.
 

@@ -30,41 +30,41 @@ Gate One: The Gateway of Initiation
 
 The first Gate represents the entrance to the path of the occult. Symbolized by an obsidian circle containing the sigil of the Queen of Hell, this Gate signifies the dedication of the student to their studies and the commitment to delve into the unknown.
 
-Ritual: The initiation ritual involves meditation within the symbolic circle, focusing on the sigil, and reciting an incantation dedicated to the Queen of Hell. This process serves as a formal declaration of the student's intentions and binds their will to the journey ahead.
+**Ritual**: The initiation ritual involves meditation within the symbolic circle, focusing on the sigil, and reciting an incantation dedicated to the Queen of Hell. This process serves as a formal declaration of the student's intentions and binds their will to the journey ahead.
 
-Purpose: This Gate creates a foundation for the student, granting them protection, guidance, and access to hidden knowledge.
+**Purpose**: This Gate creates a foundation for the student, granting them protection, guidance, and access to hidden knowledge.
 
 Gate Two: The Gateway of Elements
 
 The second Gate symbolizes the mastery of the four fundamental elements: earth, water, air, and fire. Each element is represented by a unique sigil, and the mastery of each is vital for controlling the energies harnessed throughout the study of the occult.
 
-Ritual: To attune to each element, the student must meditate and perform specific rituals dedicated to connecting their spirit to the essence of each element. This may involve surrounding oneself with objects of the associated element, adopting symbols and correspondences related to the elemental energies, or invoking ancient elemental spirits.
+**Ritual**: To attune to each element, the student must meditate and perform specific rituals dedicated to connecting their spirit to the essence of each element. This may involve surrounding oneself with objects of the associated element, adopting symbols and correspondences related to the elemental energies, or invoking ancient elemental spirits.
 
-Purpose: Mastery of the elements serves as a basis for understanding the forces and energies intrinsic to the workings of the universe, both on the physical and metaphysical planes. The practitioner becomes adept at harnessing and manipulating elemental energies for further exploration in the occult.
+**Purpose**: Mastery of the elements serves as a basis for understanding the forces and energies intrinsic to the workings of the universe, both on the physical and metaphysical planes. The practitioner becomes adept at harnessing and manipulating elemental energies for further exploration in the occult.
 
 Gate Three: The Gateway of Symbols
 
 The third Gate is centered around understanding and utilizing the vast array of symbols that exist within the fabric of the esoteric knowledge. Symbols carry the power to represent and evoke forces or concepts, acting as keys to unlocking potent energies and mysteries.
 
-Ritual: Students must study and meditate on various arcane symbols relevant to their path, committing them to memory and understanding their intricacies. They must also create a personal sigil, which symbolizes their unique connection to the Queen of Hell and the pact they have made.
+**Ritual**: Students must study and meditate on various arcane symbols relevant to their path, committing them to memory and understanding their intricacies. They must also create a personal sigil, which symbolizes their unique connection to the Queen of Hell and the pact they have made.
 
-Purpose: This Gate emphasizes the importance of sigils and symbols, granting students the ability to communicate with entities, channel energies, and bring their intentions to fruition through the use of occult symbolism.
+**Purpose**: This Gate emphasizes the importance of sigils and symbols, granting students the ability to communicate with entities, channel energies, and bring their intentions to fruition through the use of occult symbolism.
 
 Gate Four: The Gateway of Invocation
 
 The fourth Gate encompasses the art of invoking spirits, entities, and otherworldly forces to assist or guide the practitioner in their studies and rituals. It teaches the importance of respect, authority, and control when dealing with both beneficial and malevolent beings.
 
-Ritual: Invocation requires the proper use of incantations, offerings, symbols, and rituals to entice the desired entities. The student learns to manage the energies during the invocation and direct the summoned beings towards achieving their intended goals.
+**Ritual**: Invocation requires the proper use of incantations, offerings, symbols, and rituals to entice the desired entities. The student learns to manage the energies during the invocation and direct the summoned beings towards achieving their intended goals.
 
-Purpose: Gaining the ability to invoke supernatural entities provides the student with access to a multitude of hidden powers, knowledge, and resources that can further enhance their path and deepen their understanding of the occult.
+**Purpose**: Gaining the ability to invoke supernatural entities provides the student with access to a multitude of hidden powers, knowledge, and resources that can further enhance their path and deepen their understanding of the occult.
 
 Gate Five: The Gateway of Transformation
 
 The fifth Gate symbolizes the transformation of the self through the alchemical process of merging one's being with the Queen of Hell's energies. This transmutation results in a metamorphosis – a strengthening of the mind, body, and spirit.
 
-Ritual: Students must undergo a series of rituals designed to help them confront and mortify their fears, relinquish their preconceptions, and transcend human limitations. By shedding their old selves, they are reborn into a more powerful and enlightened form.
+**Ritual**: Students must undergo a series of rituals designed to help them confront and mortify their fears, relinquish their preconceptions, and transcend human limitations. By shedding their old selves, they are reborn into a more powerful and enlightened form.
 
-Purpose: The Gateway of Transformation empowers the student with the understanding that they are capable of extraordinary advancement. It offers the realization that by embracing the energies of the Queen of Hell and indulging in the esoteric arts, they can reshape their reality and achieve true mastery.
+**Purpose**: The Gateway of Transformation empowers the student with the understanding that they are capable of extraordinary advancement. It offers the realization that by embracing the energies of the Queen of Hell and indulging in the esoteric arts, they can reshape their reality and achieve true mastery.
 
 Conclusion
 

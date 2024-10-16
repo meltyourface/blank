@@ -33,13 +33,13 @@ The hero's journey is a concept popularized by Joseph Campbell in his book "The 
 
 In the context of adventure and romance, the hero's journey often pairs the protagonist with a love interest who plays an essential role in the protagonist's transformation. The hero's trials may involve protecting their love interest or winning their heart, and their return symbolizes the new-found wisdom, self-awareness, and maturity they have gained through their experiences.
 
-Comparison:
+**Comparison**:
 Both the alchemical marriage and the hero's journey are symbolic representations of personal and spiritual transformation. They both involve facing challenges and overcoming adversity to achieve a better, more evolved state of being. Furthermore, the themes of adventure and romance are inherent in both concepts, as they often depict love interests and quests that lead the characters to ultimate self-realization and wholeness.
 
-Contrast:
+**Contrast**:
 While the hero's journey follows a linear narrative structure, the alchemical marriage represents a more abstract, mystical process of transformation. The hero's journey is centered around a single protagonist, while the alchemical marriage focuses on the union of two characters, embracing the connectedness between both parties. The hero's journey depicts external trials and adventures, while the alchemical marriage primarily represents a more internal, spiritual transformation.
 
-Examples:
+**Examples**:
 Two classic examples that weave both themes are William Shakespeare's "Romeo and Juliet" and the Greek myth of Psyche and Eros. In "Romeo and Juliet," the lovers' tragic fate demonstrates the intense collision of opposites in the alchemical marriage, as their love, representing harmony, cannot survive within the dualistic world of their feuding families. Furthermore, both characters embark on the hero's journey, as they leave their familiar worlds to venture into the unknown territory of forbidden love.
 
 In the myth of Psyche and Eros, both themes are abundantly present. Psyche undergoes a journey of self-discovery and transformation, as she faces trials imposed by Aphrodite. Her love for Eros ultimately leads her to achieve immortality and unite with him, embodying the alchemical marriage's union of opposites. The hero's journey is also evident, as Psyche's experience of growth and self-awareness mirrors the three-stage structure of departure, initiation, and return.

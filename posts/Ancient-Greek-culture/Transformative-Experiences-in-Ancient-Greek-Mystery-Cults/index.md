@@ -28,7 +28,7 @@ excerpt: >
 ---
 Answer: The Eleusinian Mysteries, as a prominent example of mystery cults, played a significant role in ancient Greek society by offering transformative experiences and revealing hidden knowledge to the select initiates, fostering a sense of unity and kinship.
 
-Explanation: The Eleusinian Mysteries were a series of ancient Greek rituals and ceremonies centered around the cult of Demeter and Persephone. They were held annually in the city of Eleusis, which was considered a sacred location. The mysteries were among the most revered and well-known of the various mystery cults in the ancient Greek world.
+**Explanation**: The Eleusinian Mysteries were a series of ancient Greek rituals and ceremonies centered around the cult of Demeter and Persephone. They were held annually in the city of Eleusis, which was considered a sacred location. The mysteries were among the most revered and well-known of the various mystery cults in the ancient Greek world.
 
 Mystery cults, such as the Eleusinian Mysteries, were religious sects that focused on the worship of specific deities and the acquisition of esoteric (hidden) knowledge. While they involved rituals and ceremonies that were secretive, they were not entirely exclusive to the elite, as many citizens were eventually initiated into the mysteries. However, once initiated, participants were indeed expected to keep the knowledge and their experiences within the circle of the initiated.
 

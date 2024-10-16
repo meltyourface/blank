@@ -29,7 +29,7 @@ excerpt: >
 The correct answer is:
 - The reinterpretation of a previously disregarded or demonized goddess figure through a contemporary, empowering lens
 
-Explanation:
+**Explanation**:
 
 Reappropriated Goddess refers to the practice in modern occult and esoteric circles of rediscovering, reinterpreting, and, in some cases, rehabilitating previously disregarded or demonized goddess figures from various mythologies and cultures. The goal is to empower and reclaim the female principle, which has often been marginalized or distorted in the face of patriarchal cultural contexts.
 

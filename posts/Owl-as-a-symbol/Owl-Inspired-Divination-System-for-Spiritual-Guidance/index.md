@@ -23,7 +23,7 @@ excerpt: >
 
 ## Noctua Aeterna Divination System
 
-Overview:
+**Overview**:
 The Noctua Aeterna Divination System draws upon the rich symbolism and mystical nature of the owl as its guiding force. Owls, revered for their wisdom, intuition, and keen senses, serve as the main mode of channeling answers to various questions. This divination method incorporates several owl-themed elements, including feathers, talons, and nocturnal habits into an intricate casting toolset.
 
 Casting Toolset:

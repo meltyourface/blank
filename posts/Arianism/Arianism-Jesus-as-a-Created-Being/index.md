@@ -22,7 +22,7 @@ excerpt: >
 ---
 Answer: Jesus is a created being and not equal to God the Father in essence.
 
-Explanation: Arianism is a theological doctrine associated with the early Christian theologian Arius, who lived in the 4th century AD. This belief system emphasizes the distinction between the Father and the Son (Jesus Christ) in the Holy Trinity, claiming that Jesus is a created being and not equal to God the Father in essence. This doctrine contrasts with traditional Trinitarian Christianity, which asserts that Jesus is co-eternal and equal in essence to God the Father.
+**Explanation**: Arianism is a theological doctrine associated with the early Christian theologian Arius, who lived in the 4th century AD. This belief system emphasizes the distinction between the Father and the Son (Jesus Christ) in the Holy Trinity, claiming that Jesus is a created being and not equal to God the Father in essence. This doctrine contrasts with traditional Trinitarian Christianity, which asserts that Jesus is co-eternal and equal in essence to God the Father.
 
 Arius and his followers argued that the Son of God, Jesus Christ, had a beginning and was created by God the Father, hence rendering him distinct from the Father in terms of essence and nature. They derived this understanding from various biblical passages, such as Proverbs 8:22-31, where Wisdom (interpreted as Jesus) was described as created before the formation of the cosmos.
 

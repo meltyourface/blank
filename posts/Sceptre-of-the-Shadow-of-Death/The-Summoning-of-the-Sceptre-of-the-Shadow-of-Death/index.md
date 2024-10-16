@@ -21,7 +21,7 @@ excerpt: >
 ---
 The Summoning Ritual of the Sceptre of the Shadow of Death:
 
-Preparation:
+**Preparation**:
 
 1. Before commencing the ritual, gather the following materials and ingredients:
    a. A flat piece of obsidian.
@@ -32,7 +32,7 @@ Preparation:
 
 2. Choose a location where the ritual will be performed. The area should be quiet, secluded, and undisturbed by outside influences.
 
-Steps:
+**Steps**:
 
 1. **Engraving the Sigil**:
    a. Cleanse the obsidian with purified water and sage smoke to remove any residual energy.

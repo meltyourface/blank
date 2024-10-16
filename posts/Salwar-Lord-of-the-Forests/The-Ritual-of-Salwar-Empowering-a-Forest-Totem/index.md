@@ -21,9 +21,9 @@ excerpt: Design a mystical ritual to consecrate and energize a wooden totem intr
 ---
 The Ritual of the Forest's Heart
 
-Setting: A secluded grove amidst the oldest trees within the heart of the forest under the gleaming full moon. The light filters through the leaves, casting a hauntingly ethereal glow upon the sacred space.
+**Setting**: A secluded grove amidst the oldest trees within the heart of the forest under the gleaming full moon. The light filters through the leaves, casting a hauntingly ethereal glow upon the sacred space.
 
-Preparations:
+**Preparations**:
 
 1. Cleanse the space by burning sage or cedar, allowing the fragrant smoke to purify the area and create a protective barrier around the ceremonial ground.
 

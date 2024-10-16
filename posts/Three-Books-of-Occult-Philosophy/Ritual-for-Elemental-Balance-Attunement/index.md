@@ -22,9 +22,9 @@ excerpt: Develop a comprehensive occult ritual, rooted in the teachings of the T
 
 ## The Ritual of Elemental Harmony
 
-Objective: To create a comprehensive occult ritual that allows the practitioner to harmoniously attune and balance the four elemental aspects (fire, water, air, and earth) within oneself, utilizing the teachings of the Three Books of Occult Philosophy.
+**Objective**: To create a comprehensive occult ritual that allows the practitioner to harmoniously attune and balance the four elemental aspects (fire, water, air, and earth) within oneself, utilizing the teachings of the Three Books of Occult Philosophy.
 
-Preparation:
+**Preparation**:
 
 1. Determine the practitioner's astrological alignment by constructing their natal chart. Identify the dominant elements and signs in the chart to understand their natural elemental affinities.
 

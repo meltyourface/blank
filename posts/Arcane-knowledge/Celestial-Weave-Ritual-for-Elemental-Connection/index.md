@@ -23,14 +23,14 @@ excerpt: >
 
 ## Title: Celestial Weave
 
-Sigils:
+**Sigils**:
 1. **Earth - The Sigil of Gaia**: A circle encompassing an equilateral triangle with an inverted triangle within it.
 2. **Air - The Sigil of Zephyrus**: A circle encompassing a horizontal figure eight.
 3. **Water - The Sigil of Tethys**: A circle encompassing a downward-pointing, stylized wave-like pattern.
 4. **Fire - The Sigil of Ignis**: A circle encompassing an upward-pointing triangle.
 5. **Aether (Spirit) - The Sigil of Astraeus**: A circle encompassing a pentagram.
 
-Formation: Participants stand in a circle, facing inward, giving each ample space for individual expression and comfort.
+**Formation**: Participants stand in a circle, facing inward, giving each ample space for individual expression and comfort.
 
 Introduction - Grounding in the Elements (8 counts per element):
 1. Begin by invoking Earth. Stand tall, arms by the sides. Inhale deeply, and as you exhale, lower into a slight squat. Touch the Earth sigil and trace it in front of you.

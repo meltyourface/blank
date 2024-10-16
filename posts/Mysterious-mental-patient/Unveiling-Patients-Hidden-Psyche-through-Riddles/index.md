@@ -26,7 +26,7 @@ I once stood tall and felt the sun, now I wonder if I'm still whole.
 With eyes closed tight, I remembered life, but the specter stole my gaze.
 Whispers taunt my every stride, leaving sanity along the maze.
 
-Question: Where did I last see the sun before my memory was dismembered?
+**Question**: Where did I last see the sun before my memory was dismembered?
 
 Riddle 2: The Phantom's Visit
 
@@ -35,7 +35,7 @@ A figure emerged from the darkness deep, our clandestine meeting in the pale,
 We spoke in tongues unknown to man, piercing the borders of reality's embrace,
 Binding our thoughts through threads unseen, a pact we created in secret space.
 
-Question: What was the enigmatic pact I formed with the phantom during our fateful encounter?
+**Question**: What was the enigmatic pact I formed with the phantom during our fateful encounter?
 
 Riddle 3: The Dream Within
 
@@ -44,7 +44,7 @@ Each path condemned, and fate determined, but still, my psyche dared to morph,
 I emerged at the intersection of realms, where thought and substance coalesce,
 There I gorged on knowledge forbidden, feeding my unending thirst to regress.
 
-Question: What is the intersection of realms where the mysterious patient gained forbidden knowledge?
+**Question**: What is the intersection of realms where the mysterious patient gained forbidden knowledge?
 
 Riddle 4: The Labyrinths Embrace
 
@@ -53,7 +53,7 @@ Corridors twisted, shadows bent, the truth no longer I could find.
 A reflection unseen in shattered mirrors, anguished laughter echoed within
 The labyrinth absorbs the essence of self, ensnaring a once lucid grin.
 
-Question: How does the labyrinth of the patient's consciousness obscure their sense of self?
+**Question**: How does the labyrinth of the patient's consciousness obscure their sense of self?
 
 Riddle 5: The Augury of the Mind's Eye
 
@@ -62,6 +62,6 @@ Marks astrological etched in pale flesh, those remnants of celestial steps,
 An essence fragmented; the birth of duality, a solitary pair gaze and plead,
 Foretold, the seeker must travel far, to find solace for the ravenous seed.
 
-Question: What is the dual nature of the patient's psyche that propels them on their journey to self-discovery and healing?
+**Question**: What is the dual nature of the patient's psyche that propels them on their journey to self-discovery and healing?
 
 Answering these riddles will lead the therapist to understand the nature of the mysterious patient's memories, experiences, dreams, consciousness, and hidden desires. With each enigma unraveled, the obscured truth will emerge, helping the therapist illuminate the patient's concealed psyche and guide them toward healing.

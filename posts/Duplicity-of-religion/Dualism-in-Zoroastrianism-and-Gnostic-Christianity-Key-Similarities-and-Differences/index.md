@@ -30,12 +30,12 @@ Gnostic Christianity, on the other hand, is a branch of early Christianity that 
 
 With this contextual understanding of the dualism present within Zoroastrianism and Gnostic Christianity, let us now delve into their similarities and differences.
 
-Similarities:
+**Similarities**:
 1. Both belief systems feature a cosmic struggle between the opposing forces of light and darkness, good and evil.
 2. In both cases, the followers have a responsibility to align themselves with the forces of good and to actively participate in overcoming evil.
 3. Both religions believe that the material world, although affected by evil, has a higher purpose, either as an arena for moral growth (Zoroastrianism) or as a place to discover and awaken inner spiritual knowledge (Gnostic Christianity).
 
-Differences:
+**Differences**:
 1. While Zoroastrianism sees Ahura Mazda and Angra Mainyu in a direct conflict, Gnostic Christianity perceives the struggle as occurring between the material world governed by the Demiurge and the spiritual realm of the higher God.
 2. Zoroastrianism's dualism is more concrete and cosmic, while Gnostic Christianity's dualism is primarily focused on the spiritual journey of an individual.
 3. Salvation in Zoroastrianism is attained through following a moral and ethical path, while Gnostic Christianity emphasizes the acquisition of secret knowledge to return to the spiritual realm.

@@ -31,7 +31,7 @@ excerpt: >
 
 ## The Grand Compendium of Banishment: Defending Against Malevolent Monsters and Supernatural Entities 
 
-Introduction:
+**Introduction**:
 The Grand Compendium of Banishment is an exhaustive guide to understanding and repelling dark forces that linger in the shadows of our world. From ancient bloodsuckers to diabolic entities, this manual delves into the intricacies of ritual practice in warding off or banishing such malevolence. Throughout this compendium, you will find precise information on various classes of Monsters, their vulnerabilities, and rituals formulated to deter them.
 
 ### Chapter 1: Monster Classification and Rituals for Warding
@@ -49,5 +49,5 @@ A thorough analysis of the ethical and moral implications of banishing rituals i
 ### Chapter 5: Historical Accounts and Case Studies: Evolution of Banishment Rituals in Practice
 This chapter provides a compilation of documented instances of banishment rituals throughout history, illustrating the continual progress and development of the field. It demonstrates the evolution of techniques and showcases various successful implementations and the outcomes they produced.
 
-Conclusion:
+**Conclusion**:
 The Grand Compendium of Banishment serves as a comprehensive guide for those who seek to protect themselves and their communities from the malevolent forces that often go unseen. By offering thorough information on rituals, artifacts, and the preparation process, this compendium equips its readers with the knowledge and understanding required to engage with the supernatural realm and deter dark forces. Always remember the immense responsibility that comes with wielding this power. May this guide light your path and offer solace in the shadows.

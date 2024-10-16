@@ -23,7 +23,7 @@ excerpt: >
 
 ## Title: The Ceremony of Mortal Transcendence
 
-Objective: To ensure the deceased experiences a smooth transition from the realm of the living to the afterlife, and to strengthen the deceased's connection with the Cultus of the dead.
+**Objective**: To ensure the deceased experiences a smooth transition from the realm of the living to the afterlife, and to strengthen the deceased's connection with the Cultus of the dead.
 
 ### I. The Sacred Place of Transcendence
 Choose a location of eternal rest for the deceased according to the Cultus' ancient traditions, typically an isolated area surrounded by nature's elements – such as a forest, cave, or abandoned ruins.

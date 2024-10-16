@@ -22,7 +22,7 @@ excerpt: >
 ---
 Meditation Experience: The Breath of the Orixás
 
-Introduction:
+**Introduction**:
 Welcome to an immersive audio meditation designed for Macumba practitioners seeking to deepen their connection to and communication with their Orixás. This experience will guide you through a transformative spiritual journey, tailored to help you align with the wisdom and energy of your chosen Orixá, be it Xangô, Iansã, or Oxóssi. 
 
 Ritual Setup:
@@ -36,7 +36,7 @@ Light incense or burn sacred herbs traditional to the Orixá you wish to connect
 
 Take a few moments to purify and sanctify your space with prayer or invocation. In either Yoruba or Portuguese, call upon the Orixá and ask for their guidance and protection.
 
-Meditation:
+**Meditation**:
 
 Begin by sitting or lying down comfortably in your sacred space. Close your eyes and take three deep, cleansing breaths to center yourself.
 
@@ -52,7 +52,7 @@ Inhale deeply for a count of 4, holding the breath for 4 counts, and exhaling fo
 
 Continue this rhythmic breathing with your Orixá in mind, letting their essence infuse your being with each breath.
 
-Invocation: (softly, in Yoruba or Portuguese)
+**Invocation**: (softly, in Yoruba or Portuguese)
 
 -For Xangô: "Òrìṣà Xangô, senhor da justiça, flamejante, transforme minha vida e ilumine minha jornada espiritual!"
 -For Iansã: "Ìyánsán, poderosa guerreira, rainha dos ventos, varra as dúvidas e fortaleça minha resolução espiritual!"

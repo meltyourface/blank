@@ -22,9 +22,9 @@ excerpt: Create an elaborate, historically accurate theatrical performance that 
 
 ## In the Shadow of the Infernal: The Birth of the Church of Satan
 
-Setting: The play is set between the late 1950s to the late 1960s in San Francisco, California, during the rise of the counterculture movement.
+**Setting**: The play is set between the late 1950s to the late 1960s in San Francisco, California, during the rise of the counterculture movement.
 
-Structure: The play will have three acts, with each act exploring the different stages of the Church of Satan's establishment and influence.
+**Structure**: The play will have three acts, with each act exploring the different stages of the Church of Satan's establishment and influence.
 
 Act I: Awakening the Beast
 

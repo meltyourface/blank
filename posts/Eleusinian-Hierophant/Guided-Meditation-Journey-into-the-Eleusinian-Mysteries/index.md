@@ -33,11 +33,11 @@ excerpt: >
 
 ## Journey into the Eleusinian Mysteries
 
-Preparation:
+**Preparation**:
 
 Find a quiet, comfortable space for meditation. Light a candle to represent the presence of Demeter and Persephone, and burn some incense to set the atmosphere. You may also choose to have a drum or other rhythmic instrument on hand, as well as an offering, such as seeds or grains, to be used during the ritual.
 
-Sequence:
+**Sequence**:
 
 1. Grounding Ritual
 

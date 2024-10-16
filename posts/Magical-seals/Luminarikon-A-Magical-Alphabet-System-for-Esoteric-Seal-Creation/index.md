@@ -54,15 +54,15 @@ As for the interaction and synergy of the Luminarikon characters, their attribut
 
 1. Combining elements, energies, and celestial bodies will generate intensified seals with multiple dimensions of power.
 
-Example: Aumaria (air) + Berathos (fire) + Crysalia (water) + Dunerot (earth) + Ecliptia (sun) + Faeon (moon) = a powerful seal representing harmony and unity in nature.
+**Example**: Aumaria (air) + Berathos (fire) + Crysalia (water) + Dunerot (earth) + Ecliptia (sun) + Faeon (moon) = a powerful seal representing harmony and unity in nature.
 
 2. The balance of characters that represent opposing meanings and energies will often result in more robust and stable seals, frequently used for protection and warding.
 
-Example: Illumial (light) + Jordreth (darkness) + Pyrandris (protection) = a protective seal guarding against both light- and dark-based magical influences.
+**Example**: Illumial (light) + Jordreth (darkness) + Pyrandris (protection) = a protective seal guarding against both light- and dark-based magical influences.
 
 3. To achieve optimal synergy, avoid combining characters that have conflicting energies or intentions.
 
-Example: Kaelthren (love) and Xevorion (destruction) should not be combined without clear intent and guidance, as these energies contradict each other.
+**Example**: Kaelthren (love) and Xevorion (destruction) should not be combined without clear intent and guidance, as these energies contradict each other.
 
 4. Characters associated with action and intention (e.g., Hesprios (wisdom), Quiverian (balance), Lorthas (healing), Sylvarin (abundance)), can be used to amplify or fine-tune the purpose of a specific seal.
 

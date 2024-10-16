@@ -22,9 +22,9 @@ excerpt: Devise an intricate ritual, utilizing the mystic energies of Time's Oce
 
 ## Ritual of Chronos' Crucible
 
-Objective: To induce profound personal metamorphosis through harnessing the mystic energies of Time's Ocean.
+**Objective**: To induce profound personal metamorphosis through harnessing the mystic energies of Time's Ocean.
 
-Preparation:
+**Preparation**:
 
 1. ****Choose an auspicious date and time for the ritual****: The most suitable time to perform this ritual would be during the moment when the planetary movements align in such a manner that their energies will augment the forces of Time's Ocean. Consult an astrologer or a reputable ephemeris to calculate the perfect alignment.
 

@@ -23,9 +23,9 @@ excerpt: >
 
 ## The Quintessential Elemental Circle Ritual
 
-Purpose: To invoke the powers and energies of the four cardinal elements—Earth, Air, Fire, and Water—within a Wiccan circle, creating a sacred and balanced space for magical workings.
+**Purpose**: To invoke the powers and energies of the four cardinal elements—Earth, Air, Fire, and Water—within a Wiccan circle, creating a sacred and balanced space for magical workings.
 
-Preparation: Prepare the ritual space by setting up an altar with the traditional Gardnerian tools: an athame and wand, a chalice, a pentacle, and a censer with corresponding elemental representations (incense for Air, candles for Fire, a bowl of water for Water, and a bowl of salt or earth for Earth). Additionally, have colored candles in correspondence with each element (green for Earth, yellow for Air, red for Fire, and blue for Water) at the cardinal points around the circle.
+**Preparation**: Prepare the ritual space by setting up an altar with the traditional Gardnerian tools: an athame and wand, a chalice, a pentacle, and a censer with corresponding elemental representations (incense for Air, candles for Fire, a bowl of water for Water, and a bowl of salt or earth for Earth). Additionally, have colored candles in correspondence with each element (green for Earth, yellow for Air, red for Fire, and blue for Water) at the cardinal points around the circle.
 
 1. Casting the Circle & Consecrating the Space
 

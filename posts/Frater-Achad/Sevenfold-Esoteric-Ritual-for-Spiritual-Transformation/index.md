@@ -22,7 +22,7 @@ excerpt: Devise an innovative and intricate magical ritual, Frater Achad, by met
 
 ## The Ritual of the Sevenfold Confluence
 
-Purpose: To invoke the blessings and power of diverse esoteric traditions, harmonizing and channeling the energies towards spiritual enlightenment, wisdom, and personal transformation.
+**Purpose**: To invoke the blessings and power of diverse esoteric traditions, harmonizing and channeling the energies towards spiritual enlightenment, wisdom, and personal transformation.
 
 Traditions to be synthesized:
 1. Hermeticism

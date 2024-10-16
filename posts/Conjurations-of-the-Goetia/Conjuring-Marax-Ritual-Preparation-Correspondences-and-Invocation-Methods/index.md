@@ -27,7 +27,7 @@ The conjuration of Goetic spirits requires the practitioner to be well-grounded 
 
 The practitioner must create a sacred space by either drawing a circle or constructing a consecrated environment. Tools like the Goetic Triangle should be employed to ensure a focused and secure conjuration. The circle and Triangle of Art are essential components that protect the practitioner and provide a boundary between the mundane world and the spiritual plane.
 
-Correspondences:
+**Correspondences**:
 Each Goetic spirit has unique characteristics, including corresponding symbols, astrological signs, elements, and so forth, that help attune the mage to the spirit's energy. Marax is usually associated with Venus and the element of Earth, with his sigil or seal being the primary identifying symbol. In addition, aligning the time of day or phase of the moon with Marax's preferred astrological correspondences further strengthens the connection.
 
 During the ritual, appropriate offerings should be made to Marax, which might include incenses like sandalwood, myrrh, or frankincense, or other materials related to the spirit's domain. Staying true to these correspondences ensures an open line of communication with the spirit.

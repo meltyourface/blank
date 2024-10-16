@@ -23,7 +23,7 @@ The Celestial Guardian Angel Dream Odyssey (CGADO)
 
 The Celestial Guardian Angel Dream Odyssey is a ritual designed to facilitate profound encounters with one's celestial Guardian angel in a dream state. By combining meditation, visualization, sacred symbols, and manifestations unique to Guardian angels, you will embark on a transformative journey. With possibility of obtaining divine wisdom and guidance, participants must take careful preparations and precautions to ensure the experience is both safe and enriching.
 
-PREPARATION:
+**PREPARATION**:
 
 1. Select a date and time when you can be fully present and undisturbed while performing the ritual. Some may prefer to choose a significant date, such as the anniversary of a loved one's passing or a meaningful celestial event.
 
@@ -39,7 +39,7 @@ PREPARATION:
 
 5. Obtain or create a sacred symbol that represents your Guardian Angel, such as the Sigil of Archangel Michael.
 
-PROCEDURE:
+**PROCEDURE**:
 
 1. Begin by setting up the sacred space. Place the chosen crystals and the white candle near where you will be resting or meditating. Light the incense, allowing the fragrant smoke to cleanse and bless the environment.
 

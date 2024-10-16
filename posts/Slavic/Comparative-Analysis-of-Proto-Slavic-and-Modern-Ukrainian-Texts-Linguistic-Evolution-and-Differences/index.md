@@ -45,7 +45,7 @@ The word order in the Proto-Slavic text seems more flexible and less reliant on 
 Orthography, pronunciation, and grammar:
 The Proto-Slavic script has limited characters, while the modern Ukrainian alphabet contains 33 letters, some adopted from other languages. A prominent shift in pronunciation is the introduction of soft and hard consonants, affecting the orthography as well. In grammar, the expansion of declensions and verb conjugations enhances communicative precision in modern Ukrainian.
 
-Vocabulary:
+**Vocabulary**:
 The lexical contrast between the two texts stems from the diverse cultural, historical, and spiritual influences throughout the ages. For instance, ancient Slavs heavily relied on animistic beliefs and nature worship, reflected in words like _РХБОСТИ_ (divine fertility) and _ТРЕПТАЛА_ (fluttering).
 
 Potential future developments:

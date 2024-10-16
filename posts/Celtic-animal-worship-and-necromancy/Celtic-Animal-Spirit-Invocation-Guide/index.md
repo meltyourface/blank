@@ -22,7 +22,7 @@ excerpt: Create an in-depth manual detailing the intricate process of invoking s
 
 ## Title: Invoking Celtic Animal Spirits: A Comprehensive Manual
 
-Introduction:
+**Introduction**:
 
 The art of invoking Celtic animal spirits combines the mystic realm of esotericism with the powerful energies of ancient necromancy. This manual aims to provide an in-depth look into this complex and illuminating practice. The reader will find step-by-step instructions on performing ancient rituals, a list of offerings suited to each spirit, and guidance on establishing potent connections with these ethereal beings.
 
@@ -87,6 +87,6 @@ The art of invoking Celtic animal spirits combines the mystic realm of esoterici
 ### 10.2 Precautions to take to ensure a secure spiritual experience
 ### 10.3 The transcendent benefits of communing with revered animal spirits
 
-Conclusion:
+**Conclusion**:
 
 Invoking Celtic animal spirits is an extraordinary journey that allows practitioners to establish not only powerful connections with the ethereal realms but also a deeper understanding of oneself. By mastering the intricate processes detailed in this manual, one may tap into the wisdom, protection, and guidance offered by these ancient and revered animal spirits.

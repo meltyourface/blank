@@ -23,7 +23,7 @@ Title of the Incantation: Vibra Lux Solis - The Vibrational Light of the Sun
 
 I, a master of the esoteric, occult, and Shamanic warrior elite, unveil the specialized incantation meant to channel the mystic energies of vibrational healing. This powerful formula draws upon ancient knowledge and harmonizes the elemental forces, ethereal symbolism, and resonant frequencies specific to an individual's spiritual needs and energy vibration. With a dynamic composition, it adapts effortlessly to various healing rituals, deepening its potency to evoke transcendent experiences.
 
-Incantation:
+**Incantation**:
 
 Vibra Lux Solis, Ex Chao Plumbum Aurum,
 By Earth and Air, Water and Fire,
@@ -45,7 +45,7 @@ Vortex of the spirit, dance thy cosmic waltz,
 Ten thousand songs, Omnia resonare,
 Emergere, heal, et revelare veritatem.
 
-Instructions:
+**Instructions**:
 
 1. Begin by cleansing your physical space and mind, creating a calming and sacred environment through incense, candles, crystals, or any other ritual objects that resonate with you.
 

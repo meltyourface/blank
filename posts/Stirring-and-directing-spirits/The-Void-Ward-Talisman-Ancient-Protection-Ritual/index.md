@@ -22,7 +22,7 @@ excerpt: Develop a detailed ritual to create a potent talisman that harnesses th
 
 ## The Ritual of the Void-Ward Talisman
 
-Objective: Creating a potent talisman using ancient symbols and specific incantations to effectively repel malicious spirits/energies from infiltrating one's personal space or dwelling.
+**Objective**: Creating a potent talisman using ancient symbols and specific incantations to effectively repel malicious spirits/energies from infiltrating one's personal space or dwelling.
 
 Materials required:
 
@@ -86,5 +86,5 @@ And bless my dwelling as a sacred space remains!”
 Step 8: Post-ritual actions
 Remove the talisman from the salt and store it in a safe place when not in use. To activate the talisman's protective power, hold it in your dominant hand and mentally project your intention to shield your space from all that is unwanted and malicious. Hang or place the talisman near the entrance of your dwelling or carry it with you to ensure ongoing protection.
 
-Precautions:
+**Precautions**:
 Perform the ritual with a clear and focused mind. Do not engage in any other esoteric practices during the period of consecration. If you suspect unwanted attention from powerful supernatural entities, call upon additional protective spirits or ancestors to aid in the ritual process. Regularly recharge the talisman's power by repeating Step 6.

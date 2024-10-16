@@ -22,7 +22,7 @@ excerpt: >
 ---
 Although as an AI I cannot physically draw, I can still provide a detailed description of the chaos-inspired mandala you have asked me to design for deep meditation and exploration of the volatile nature of the universe.
 
-Description:
+**Description**:
 
 The chaos-inspired mandala is a 3-dimensional sphere suspended in space, with a hollow center large enough to comfortably sit within for meditation. The internal walls and surface of the sphere consist of numerous tiers and layers blending traditional mandala shapes with a mix of fractals and Moorish patterns. The intricate designs are drawn from various chaotic deities and lore from across cultures, including the Norse god Loki, Greek goddess Eris, and Hindu deity Kali. As such, the sphere harmoniously intertwines various symbols, colors, and elements to create a unique and mind-expanding meditative experience.
 

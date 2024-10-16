@@ -21,7 +21,7 @@ excerpt: Design a daily affirmation routine for spiritual growth and personal tr
 ---
 Daily Affirmation Routine for Spiritual Growth and Personal Transformation within the Astrum Argentum Tradition:
 
-Morning:
+**Morning**:
 1. Begin the day with a simple purification ritual, such as taking a cleansing bath or shower and visualizing negative energies being washed away. Light incense or a candle to symbolize the start of your daily spiritual practice.
 
 2. Perform the Lesser Banishing Ritual of the Pentagram for spiritual protection and self-empowerment. This ritual should be done daily to establish a strong energetic foundation and to cleanse your personal space.
@@ -30,14 +30,14 @@ Morning:
 
 4. Sit in meditation with a focus on visualizing the Tree of Life. As you visualize the sephiroth, consider their unique attributes and how they correspond to various aspects of your spiritual journey. Reflect on how these energies interact and support your True Will.
 
-Midday:
+**Midday**:
 1. Focus on your breath and enter a relaxed meditative state. Visualize the astral realm, its complexities, and the potential for growth that exists within this dimension. Allow yourself to be guided by your intuition, and consider incorporating Astrum Argentum symbols, phrases, or invocations to help focus your exploration.
 
 2. Perform a guided meditation during which you travel the astral plane or focus on interacting with spiritual entities, energies, and forces to increase mastery and understanding of the astral realm.
 
 3. Practice a daily divination using the Thoth Tarot. Ask for guidance and insight into how your intentions are aligning with your True Will. Reflect on the cards' significance and be open to any new insights or intuitive impressions.
 
-Evening:
+**Evening**:
 1. Perform an invocation of the Tree of Life, paying special attention to the interplay between the sephiroth. Focus on their individual energies and how they unite to support your spiritual growth and personal transformation.
 
 2. Review the day's experiences, contemplate any new insights or discoveries, and consider how they support your spiritual journey.

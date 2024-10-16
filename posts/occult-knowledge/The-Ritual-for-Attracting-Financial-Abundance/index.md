@@ -22,7 +22,7 @@ excerpt: Design a detailed ritual for manifesting a specific intention through t
 
 ## The Ritual of Golden Prosperity
 
-Intention: Attracting prosperity and financial abundance
+**Intention**: Attracting prosperity and financial abundance
 
 Candle Color: Green
 
@@ -37,7 +37,7 @@ Preparing the Candle:
 Lunar Phase and Astrological Alignments:
 Perform the ritual during the first quarter or Full Moon phase, when the energies are at their peak for manifesting intentions. As for astrological alignments, look for a day when the Sun or Moon is in an Earth sign (Taurus, Virgo, Capricorn) to enhance financial and material endeavors.
 
-Incantation:
+**Incantation**:
 "By the Moon's glow and Earth's embrace,
 I call upon the abundance to fill my space.
 As I desire, so shall it be,

@@ -24,43 +24,43 @@ excerpt: >
 
 1. **Luxmatar**: The Illuminator
 
-Domain: Knowledge, Enlightenment, and Wisdom
+**Domain**: Knowledge, Enlightenment, and Wisdom
 Attributes: Light, Metaphysical Understanding, and Cosmic Harmony
 Symbols: An All-Seeing Eye surrounded by Golden Rays
 
 2. **Oscura**: The Shadow Weaver
 
-Domain: Darkness, Mysteries, and Hidden Knowledge
+**Domain**: Darkness, Mysteries, and Hidden Knowledge
 Attributes: Secrets, Mental Manipulation, and Nighttime
 Symbols: A Silver Crescent Moon cloaked in black
 
 3. **Vitamahir**: The Life Bringer
 
-Domain: Life Force, Vitality, and Healing
+**Domain**: Life Force, Vitality, and Healing
 Attributes: Regeneration, Energy Infusion, and Nature
 Symbols: A Serpent coiled around a Caduceus
 
 4. **Mortephius**: The Death Ender
 
-Domain: Death, Transformation, and Spiritual Progress
+**Domain**: Death, Transformation, and Spiritual Progress
 Attributes: Cycles, Reincarnation, and Ending Suffering
 Symbols: A Skull with a Butterfly emerging from its third eye
 
 5. **Chronexis**: The Shifter of Ages
 
-Domain: Time, Destiny, and Fate
+**Domain**: Time, Destiny, and Fate
 Attributes: Chronomancy, Timeless Wisdom, and Prophecies
 Symbols: An Hourglass filled with stardust
 
 6. **Pyrotai**: The Elementalist
 
-Domain: Elemental Forces, Creation, and Destruction
+**Domain**: Elemental Forces, Creation, and Destruction
 Attributes: Fire, Water, Earth, and Air Manipulation
 Symbols: A Tetrahedron projecting elemental energies
 
 7. **Cœltara**: The Harmonizer
 
-Domain: Intricate Relationships, Unity, and Balance
+**Domain**: Intricate Relationships, Unity, and Balance
 Attributes: Love, Empathy, and Spiritual Connections
 Symbols: A Heart intertwined with an Infinity Symbol
 

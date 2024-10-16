@@ -32,7 +32,7 @@ First, we select the ancient sigils corresponding to the element of Air and the 
 
 Next, we construct the mantra by integrating the energy of the sigils with the elemental affinity and spiritual intention. The sacred syllables and structure of the mantra can represent the elements and intentions, thereby incorporating their power into the practitioner's core.
 
-Mantra: "Huram-Yintas Velkori Suvam"
+**Mantra**: "Huram-Yintas Velkori Suvam"
 
 Separated into syllables, the mantra and its meaning are:
 

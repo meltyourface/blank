@@ -37,7 +37,7 @@ Uranus: Capricorn, 5°32'
 Neptune: Capricorn, 11°51'
 Pluto: Scorpio, 15°14'
 
-Houses:
+**Houses**:
 1st House: Taurus
 2nd House: Gemini
 3rd House: Cancer

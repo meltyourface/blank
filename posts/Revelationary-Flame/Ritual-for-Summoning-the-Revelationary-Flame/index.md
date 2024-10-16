@@ -32,18 +32,18 @@ excerpt: >
 ---
 1. Ritualistic preparation:
 
-Materials:
+**Materials**:
 - A red or black silk cloth (to represent the Revelationary Flame)
 - Brass or gold candelabrum with 5 candles (symbolizing the 5 elements)
 - Small metallic bowl for burning incense (frankincense or myrrh is preferable)
 - Red, black or gold altar cloth
 - An obsidian or quartz crystal (to represent the higher spiritual realms)
 
-Symbols:
+**Symbols**:
 - Draw or inscribe the sigil of the Revelationary Flame on a piece of parchment or wood
 - Arrange the candles in a pentagonal shape around the sigil.
 
-Ambiance:
+**Ambiance**:
 - Dim lighting or complete darkness, ideally illuminated by only the candles
 - Soft, low-frequency, and meditative music or chanting (or complete silence)
 - A clean, quiet, and sacred space, free of disturbances and distractions

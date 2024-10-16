@@ -23,7 +23,7 @@ excerpt: >
 
 ## The Spell of Lucidity
 
-Preamble: The Spell of Lucidity calls upon the esoteric wisdom of the Hermetic principles and the powers of transformation, leading to the dispelling of creative blocks. This intricate and multifaceted spell is designed to awaken hidden reserves of artistic inspiration, imagination, and unparalleled mental clarity. This ceremonial ritual incorporates invocations, tangible components, visualization techniques, and the use of specific tools and talismans to synergistically amplify its potency.
+**Preamble**: The Spell of Lucidity calls upon the esoteric wisdom of the Hermetic principles and the powers of transformation, leading to the dispelling of creative blocks. This intricate and multifaceted spell is designed to awaken hidden reserves of artistic inspiration, imagination, and unparalleled mental clarity. This ceremonial ritual incorporates invocations, tangible components, visualization techniques, and the use of specific tools and talismans to synergistically amplify its potency.
 **Step One – Preparations**:
 1. Choose a quiet and calm workspace, preferably during a waxing moon.
 2. Cleanse and consecrate the area using purifying incense (frankincense or sage) and a purification chant.

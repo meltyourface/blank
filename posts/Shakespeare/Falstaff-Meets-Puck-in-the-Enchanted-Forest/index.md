@@ -26,7 +26,7 @@ Act III, Scene II - An Enchanted Forest in the Realm of the Henriad
 
 [Enter Sir John FALSTAFF, lost and weary]
 
-FALSTAFF:
+**FALSTAFF**:
 A pox upon this labyrinth of trees!
 Nay, my forest of misfortune it'd be!
 Inside this dense and darksome expanse,
@@ -34,19 +34,19 @@ A rotund knight shall find no sweet romance.
 
 [Enter PUCK, naturally mischievous]
 
-PUCK:
+**PUCK**:
 And what lost soul with plump girth do I see?
 Why, 'tis a man most suited for glee!
 Fear not, good sir, amid these trees and vines,
 I offer service, if thou art inclined.
 
-FALSTAFF:
+**FALSTAFF**:
 Mysterious specter, stay thy jest,
 For I am weary, seeking peace and rest.
 But shouldst thou guide me to a safe repose,
 I would trust thee, despite my many woes.
 
-PUCK:
+**PUCK**:
 Ah, well-met knight, I shall lead the way
 To a realm wherein thy cares in respite lay.
 But first, lay coin upon yon hollow log,
@@ -54,17 +54,17 @@ So might my service worthy prove and strong.
 
 [FALSTAFF hesitates, then places the coin on the log]
 
-FALSTAFF:
+**FALSTAFF**:
 Thy task complete, now show me restful shade,
 Though I know not if I am bless'd or play'd.
 
-PUCK:
+**PUCK**:
 Not in the art of trickery shall I engage,
 But mischief's warmth hath drawn me to this stage.
 Thy wit and mine, a dance shall we commence,
 E'er I guide thee to thy fair recompense.
 
-FALSTAFF:
+**FALSTAFF**:
 Indeed, I bite, curious elf, I say!
 Our sharp-tongued duel from winds, strays.
 Begin then, thou strange impish knave,
@@ -76,7 +76,7 @@ Couldst thou, perhaps, escape the Robin's hand?
 Thy limbs so full and rife with stocked brawn,
 Wouldst thou wend a maid or gentle faun?
 
-FALSTAFF:
+**FALSTAFF**:
 Ha! Yet thou hast not reckon'd my charm,
 Which lures tender hearts to mine ample arm.
 No wood be I, neither beast nor fish,
@@ -94,7 +94,7 @@ I'll meet this hornèd king, by Puck's light.
 Show me the path, you nimble sprite of air,
 Let Falstaff's humor reign upon his lair.
 
-PUCK:
+**PUCK**:
 That be the spirit, heavy-laden sir,
 One laugh or two, be payment well incurred.
 Henceforth, we journey, may the revels start,

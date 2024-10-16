@@ -22,7 +22,7 @@ excerpt: >
 ---
 "Pathway to the Pantheon" - An Enchanting Egyptian Incense Formula
 
-Ingredients:
+**Ingredients**:
 1. 1 part Frankincense
 2. 1 part Myrrh
 3. 1 part Sandalwood
@@ -30,7 +30,7 @@ Ingredients:
 5. 1/2 part Cypress
 6. A few drops of Lotus essential oil
 
-Instructions:
+**Instructions**:
 
 1. Begin by thoroughly cleansing your working space and tools to remove any lingering energies.
 

@@ -23,7 +23,7 @@ excerpt: >
 
 ## Title: The Foundations of Sidereal FeastVodou: Principles, Practices, and Rituals
 
-Introduction:
+**Introduction**:
 
 Sidereal FeastVodou is a unique and intriguing esoteric tradition that combines the celestial insights of sidereal astrology with the rich spiritual practices of Haitian Vodou. This treatise provides an introduction to its key principles, practices, and rituals, imparting foundational knowledge for those seeking to delve into this captivating realm of occult studies.
 
@@ -60,6 +60,6 @@ Sidereal FeastVodou practitioners maintain a strong connection with their ancest
 3. **Initiation Ceremony**:
 An integral aspect of Sidereal FeastVodou is the formal initiation of new participants into the tradition. This ceremony signifies a deep commitment to the path and bestows the initiates with foundational knowledge, spiritual guidance, and energetic empowerment. The initiation ceremony includes the transmission of sacred teachings, purification rituals, and the forging of spiritual bonds with the Lwa.
 
-Conclusion:
+**Conclusion**:
 
 Armed with this foundational understanding of the principles, practices, and rituals of Sidereal FeastVodou, the earnest student can embark on a rewarding journey into this mystical and transformative spiritual tradition. The fusion of time-honored Vodou practices and celestial wisdom offers a plethora of rich, engaging experiences and deep insights into the interconnectedness of all things.

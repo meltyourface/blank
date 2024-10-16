@@ -27,7 +27,7 @@ Emblem Design:
 Shape and Background:
 The emblem takes on a circular form to represent the unification of different races and worlds within the federation. The background color is a gradient of cosmic blues and purples, which evokes the vastness of space and the diversity of celestial bodies within the interstellar realm.
 
-Elements:
+**Elements**:
 
 1. ****Wormhole****: At the center of the emblem lies an intricate wormhole design. This symbolizes the exploration of quantum physics, allowing advanced races to traverse vast distances in space. The wormhole is depicted with swirling lines that create a 3D illusion, signifying the bending of spacetime.
 

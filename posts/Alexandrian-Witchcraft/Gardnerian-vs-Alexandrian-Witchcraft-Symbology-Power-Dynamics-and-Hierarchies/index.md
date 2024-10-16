@@ -24,7 +24,7 @@ To fully explore the relationship between the Gardnerian tradition and the innov
 
 The Gardnerian tradition is known as the first modern Witchcraft tradition, originating from the works of Gerald Gardner in the 1950s. It draws upon historical and folkloric sources, placing high importance on ceremonial rituals, a hierarchical structure, and lineage to Gardner. Alexandrian Witchcraft, as the brainchild of Alex and Maxine Sanders, emerged in the 1960s and is considered an offshoot of the Gardnerian tradition. It incorporates innovative aspects, such as the fusion of ceremonial magic techniques, Eastern philosophy, and updated symbology.
 
-Symbology:
+**Symbology**:
 
 In the Gardnerian tradition, symbolism plays a crucial role in representing core beliefs and practices. The tradition focuses on elemental tools, such as athames, wands, chalices, and pentacles, which represent the four elements of earth, air, water, and fire. The Gardnerian rituals also feature various symbols, such as runes, crosses, and the Sigil of Baphomet.
 

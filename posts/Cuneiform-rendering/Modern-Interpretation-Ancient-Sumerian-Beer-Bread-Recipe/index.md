@@ -23,7 +23,7 @@ Due to the constraints of a text-based format, I am unable to physically deciphe
 
 Ancient Sumerian Inspired Beer Bread
 
-Ingredients:
+**Ingredients**:
 - 3 cups (720ml) lukewarm water
 - 2 tablespoons active dry yeast
 - 1/4 cup (60ml) honey
@@ -33,7 +33,7 @@ Ingredients:
 - 1 cup (120g) barley flour
 - 1 cup (237ml) ancient Sumerian-style beer (substitute with a dark, malty beer)
 
-Instructions:
+**Instructions**:
 
 1. In a large mixing bowl, combine the lukewarm water, active dry yeast, and honey. Allow the mixture to sit for 5-10 minutes, or until the yeast has become foamy and bubbly.
 

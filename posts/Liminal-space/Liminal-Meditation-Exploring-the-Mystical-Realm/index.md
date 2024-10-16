@@ -23,10 +23,10 @@ excerpt: >
 
 ## Journey to the Liminal Realm
 
-Introduction:
+**Introduction**:
 Welcome, seeker of the unknown. I am your guide through this in-depth meditation, crafted to navigate the mysterious and otherworldly realm of the Liminal space. Settle into a comfortable position, close your eyes, and begin to breathe deeply and evenly. Feel the rhythm of the air entering and leaving your body, grounding you in the present moment. Know that as you embark upon this journey, you remain safely tethered to your physical body.
 
-Invocation:
+**Invocation**:
 In the space between realms, ancient whispers speak of the unimaginable. We stand on the shore of existence, peering into the unfathomable vastness that is the Liminal space. Let us traverse the threshold and bear witness to the great beyond, together.
 
 Passage through a gateway:

@@ -22,7 +22,7 @@ excerpt: Craft an elaborate compendium of creatures from the realm of Fantasy, m
 
 ## The Elysian Codex of Enigmatic Entities
 
-Introduction:
+**Introduction**:
 In the boundless realms of Fantasy, one may encounter an array of mystical creatures that defy the expectations and knowledge of the mundane worlds. The Elysian Codex aims to capture the essence of these enigmatic entities, drawing upon obscure folklore, enchanted regions, and realms where magic reigns supreme. Herein, we shall delve into the complex interactions between these bewitching beings and their magical surroundings while shedding light on their influence upon the cultures, mythologies, and storytelling traditions of the denizens who inhabit these mystical worlds.
 
 ### I. Marbekaskies (Dwellers of the Whispering Woods)

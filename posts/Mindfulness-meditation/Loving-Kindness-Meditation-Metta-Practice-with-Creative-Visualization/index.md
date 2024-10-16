@@ -25,24 +25,24 @@ excerpt: >
 
 Session duration: 45 minutes
 
-Objective: To nurture loving-kindness (Metta) within oneself and towards others 
+**Objective**: To nurture loving-kindness (Metta) within oneself and towards others 
 
-Preparation:
+**Preparation**:
 1. Choose a quiet and comfortable space for the meditation session
 2. Dress in comfortable, non-restrictive clothing
 3. Ensure that the room temperature is comfortably warm
 
-Posture:
+**Posture**:
 1. Sit on a cushion, chair, or yoga mat with a straight back
 2. Place your hands on your knees or rest them in your lap
 3. Keep your head gently aligned with your spine
 4. Partially close your eyes or keep a soft gaze
 
-Introduction:
+**Introduction**:
 1. Set an intention for the session—cultivating loving-kindness for yourself and others
 2. Start with deep, cleansing breaths—in through the nose and out through the mouth
 
-Breathwork:
+**Breathwork**:
 1. Shift the focus to breathing naturally and rhythmically
 2. Observe the sensation of the breath as it enters and exits the nostrils or rises and falls in the abdomen
 3. If your mind wanders, gently bring your focus back to your breath
@@ -73,7 +73,7 @@ Stage 5: Loving-kindness for all sentient beings
 1. Expand the combined lights to envelop the entire world and all living beings
 2. **Silently recite**: "May all beings be happy. May all beings be healthy. May all beings be safe. May all beings be at peace."
 
-Finishing:
+**Finishing**:
 1. Gradually return your focus to your breath, observing its natural rhythm
 2. Gently bring awareness back to your body and surroundings
 3. Slowly open your eyes and transition into a state of gratitude for this meditation session

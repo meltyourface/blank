@@ -23,7 +23,7 @@ excerpt: >
 
 ## The Ritual of the Azure Flame
 
-Objective: Establish a connection with Aradia, an ascended master known as the queen of witches and a powerful lunar deity, in order to attain spiritual knowledge and enhance magical abilities.
+**Objective**: Establish a connection with Aradia, an ascended master known as the queen of witches and a powerful lunar deity, in order to attain spiritual knowledge and enhance magical abilities.
 
 Step-by-step process:
 

@@ -23,7 +23,7 @@ excerpt: >
 
 ## Title: The Mentem Noctis Illumination Ritual
 
-Purpose: Develop a ritual that harnesses the dark energies of a nightmare and transmutes them into a powerful source of enlightenment and self-growth.
+**Purpose**: Develop a ritual that harnesses the dark energies of a nightmare and transmutes them into a powerful source of enlightenment and self-growth.
 
 Materials Required:
 1. A quiet, dark, and comfortable space for sleeping.
@@ -33,13 +33,13 @@ Materials Required:
 5. Incense of choice for relaxation and grounding.
 6. A notebook and pen to record the nightmare and gained insights.
 
-Preparation:
+**Preparation**:
 1. Prepare the ritual space by lighting the black and white candles, and placing the incense and talisman in close proximity. The black candle represents the darkness and negative energies in the nightmare, while the white candle represents the positive energies and enlightenment to be gained from the ritual.
 2. Cleanse the body and mind by washing the face and hands in the bowl of water to symbolize a clear consciousness and openness to personal growth.
 3. Meditate for 15 to 30 minutes to let go of fears and distractions and focus on the intent of transmuting the dark energy of a nightmare into an empowering and enlightening experience.
 4. Record the intended purpose of the ritual in the notebook, accompanied by the talisman symbol, dedicating the journal to the process of transformation and growth.
 
-Ritual:
+**Ritual**:
 1. Lie down in a comfortable position and hold the talisman or symbol close to the heart, focusing on the intention of coupling its protective power with the purpose of the ritual.
 2. **Recite the following invocation**:
 

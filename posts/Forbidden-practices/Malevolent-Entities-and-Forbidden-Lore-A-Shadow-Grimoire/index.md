@@ -31,7 +31,7 @@ excerpt: >
 
 ## The Shadow Grimoire
 
-Introduction: In the deep recesses of human history, from ancient cultures to the clandestine corners of modern society, the malevolent powers of the unknown have held a notorious influence. The Shadow Grimoire explores these enigmatic entities, documenting their sinister origins, summoning rituals, and arcane lore. Venture cautiously into this dark compendium, for the creatures that reside within may spark insidious desires and irrevocable consequences.
+**Introduction**: In the deep recesses of human history, from ancient cultures to the clandestine corners of modern society, the malevolent powers of the unknown have held a notorious influence. The Shadow Grimoire explores these enigmatic entities, documenting their sinister origins, summoning rituals, and arcane lore. Venture cautiously into this dark compendium, for the creatures that reside within may spark insidious desires and irrevocable consequences.
 
 ### Chapter I: Origins, History, and Sinister Associations
 
@@ -52,4 +52,4 @@ For an intrepid practitioner, a visual guide is indispensable; this chapter prov
 
 Lastly, we elucidate the deeper symbolism behind these dark entities, exploring their forms, abilities, and malevolent desires. This chapter delves into their connections to other creatures, forbidden practices, and esoteric knowledge. From this investigation, one may grasp a deeper understanding of the mysterious, multifaceted world of the occult and the sinister forces that shape it.
 
-Conclusion: The endless abyss of dark lore invites both wonder and terror. **The Shadow Grimoire provides an extensive exploration of the intricate, hidden world of malevolent beings, tempting those who venture within to consider the price of power and the dangerous allure of the unknown. Though this text offers an invaluable guide, let those who enter be warned**: the secrets held within may ignite an unquenchable thirst for the forbidden, and wisest are those who tread cautiously on this incendiary path.
+**Conclusion**: The endless abyss of dark lore invites both wonder and terror. **The Shadow Grimoire provides an extensive exploration of the intricate, hidden world of malevolent beings, tempting those who venture within to consider the price of power and the dangerous allure of the unknown. Though this text offers an invaluable guide, let those who enter be warned**: the secrets held within may ignite an unquenchable thirst for the forbidden, and wisest are those who tread cautiously on this incendiary path.

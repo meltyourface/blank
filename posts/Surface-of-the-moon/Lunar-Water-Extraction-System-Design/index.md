@@ -23,10 +23,10 @@ excerpt: >
 
 ## Lunar Regolith Hydration Extraction and Purification System (LRHEPS)
 
-Abstract:
+**Abstract**:
 The Lunar Regolith Hydration Extraction and Purification System (LRHEPS) aims to efficiently extract and purify water from lunar regolith, addressing challenges such as extreme temperature fluctuations, low gravity, and various regolith compositions. The proposed system utilizes innovative and advanced technologies, providing detailed calculations and hypothetical outcomes for different lunar regions.
 
-Introduction:
+**Introduction**:
 Water is essential for sustainable human presence on the moon. Lunar regolith, which contains a mixture of water and other volatile elements, is a valuable resource that can be harnessed to support long-duration missions on the moon. The proposed LRHEPS focuses on utilizing the optimal combination of heating, excavating, and purifying techniques to obtain water from this regolith.
 
 System Components:
@@ -54,5 +54,5 @@ Limitations and Strategies:
 
 3. Dust challenges: Lunar dust has an electrostatic nature that may cause issues with moving parts like rover tracks and drills. Regular maintenance and the use of dust-repellent coatings can mitigate the impact of dust on the system's performance.
 
-Conclusion:
+**Conclusion**:
 The LRHEPS presents an efficient, innovative, and well-calculated design for the extraction and purification of water from lunar regolith. The system addresses unique environmental challenges and conditions on the moon, such as extreme temperature fluctuations, low gravity, and various regolith compositions. By mitigating potential limitations and optimizing resource acquisition strategies, LRHEPS ensures sustainable human presence on the moon.

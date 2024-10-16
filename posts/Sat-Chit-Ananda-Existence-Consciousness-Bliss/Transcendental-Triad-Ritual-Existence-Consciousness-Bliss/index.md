@@ -22,16 +22,16 @@ excerpt: Design an elaborate ritual incorporating techniques from the esoteric, 
 
 ## The Ritual of Transcendental Triad
 
-Objective: To facilitate deep grounding and immersive connections with the realms of existence, consciousness, and bliss, evoking a profound state of transcendental ecstasy for the participants.
+**Objective**: To facilitate deep grounding and immersive connections with the realms of existence, consciousness, and bliss, evoking a profound state of transcendental ecstasy for the participants.
 
-Preparation:
+**Preparation**:
 
 1. Cleanse and purify the ritual space using sage or palo santo, ensuring all negative energies are expelled.
 2. Create a sacred altar in the center of the space, adorned with symbols of existence, consciousness, and bliss such as sacred geometry, crystals, divine imagery (e.g., mandalas, yantras), and offerings of fruits, flowers, and incense.
 3. Set up three large circles around the altar, each representing one of the realms of Sat-Chit-Ananda: Existence (outermost), Consciousness (middle), and Bliss (innermost). The circles should be appropriately colored (red for Existence, blue for Consciousness, and gold for Bliss) and marked with corresponding sacred symbols or glyphs.
 4. For each participant, provide a set of robes in three different colors representing the realms (red, blue, and gold) and a protective amulet or talisman.
 
-Ritual:
+**Ritual**:
 
 1. Begin by ringing a sacred bell or gong to signal the commencement of the ritual. Have the participants stand outside the outermost circle, wearing red robes, and facing the altar.
 

@@ -50,6 +50,6 @@ Comparing the melodies, there is no apparent similarity in the musical progressi
 
 While both hymns utilize the common hymn structures present in the 18th century, their different meters and rhyming patterns denote distinct individual compositions.
 
-Conclusion:
+**Conclusion**:
 
 After examining the thematic and lyrical similarities, musical patterns, and poetic structures of Charles Wesley's "Hark! The Herald Angels Sing" and Isaac Watts' "Joy to the World," it is unlikely that either hymn directly copied or unduly influenced the other. Although both hymns celebrate the birth of Christ, their distinct focuses, melodies, and structures reveal their unique and creative origins.

@@ -24,9 +24,9 @@ excerpt: Design a comprehensive concept for an ambitious crossover collaboration
 
 Crossover Collaboration: Johnny Cash and Chris Stapleton
 
-Concept: The album "Timeless Trails" pays homage to the rich history and deep roots of country music by highlighting and exploring the collision of traditional melodies and modern production techniques. Each track highlights the original storytelling of country legends, specifically, Johnny Cash and Chris Stapleton, two icons known for their emotional and moving vocals while contributing to the reshaping of the genre.
+**Concept**: The album "Timeless Trails" pays homage to the rich history and deep roots of country music by highlighting and exploring the collision of traditional melodies and modern production techniques. Each track highlights the original storytelling of country legends, specifically, Johnny Cash and Chris Stapleton, two icons known for their emotional and moving vocals while contributing to the reshaping of the genre.
 
-Tracklist:
+**Tracklist**:
 
 1. Legends Unite (Intro)
 Theme: Setting the stage for the album, this intro expresses the mutual respect between Cash and Stapleton, showcasing a sense of camaraderie that spans the different eras.

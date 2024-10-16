@@ -33,7 +33,7 @@ excerpt: >
 
 ## Grimoire of the Obsessed - The Arcane Art of Focused Will
 
-Introduction:
+**Introduction**:
 The Grimoire of the Obsessed explores the subject of Obsession through the lens of the archaic and arcane, weaving together the intricate web of metaphysical associations, occult rituals, and esoteric techniques that inform this often-misunderstood concept. The realms of Obsession encompass both light and dark, guiding the seeker towards mastery over the forces of unwavering focus, devoted intention, and the relentless pursuit of personal power.
 
 ### Chapter One: The Many Faces of Obsession
@@ -54,5 +54,5 @@ This chapter will investigate the myriad connections between Obsession and vario
 ### Chapter Six: Talismans, Amulets, and Enchanted Objects of Obsession
 Lastly, we will present a collection of powerful talismans, amulets, and enchanted objects designed to aid the seeker in their pursuit of Obsession's mastery. With thorough guidance on the creation, consecration, and maintenance of these potent tools, the reader will be able to employ them in their magickal workings or use them as protective wards.
 
-Conclusion:
+**Conclusion**:
 The Grimoire of the Obsessed stands as a testament to the power of focused intention, dedication, and the unwavering pursuit of mastery. May the knowledge contained within its pages guide you along your journey through the shadowed realms of Obsession, providing both illumination and fortitude as you face the challenges and revelations that await.

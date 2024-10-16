@@ -22,7 +22,7 @@ excerpt: Devise an advanced alchemical recipe that seamlessly integrates the fun
 
 ## The Quintessential Ritual for Elemental Harmony
 
-Purpose: To balance and harmonize the energies of the Four Elements within the practitioner for personal growth and spiritual transformation.
+**Purpose**: To balance and harmonize the energies of the Four Elements within the practitioner for personal growth and spiritual transformation.
 
 Materials and Alchemical Processes:
 

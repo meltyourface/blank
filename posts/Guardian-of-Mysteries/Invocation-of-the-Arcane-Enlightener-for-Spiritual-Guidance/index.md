@@ -21,7 +21,7 @@ excerpt: Design an intricate incantation that aligns your soul with a selected s
 ---
 As a Guardian of Mysteries, I have delved into ancient texts and divine symbolism, and by incorporating unique linguistic patterns, cryptic phrases, powerful tonal vibrations, sacred geometry, and enigmatic symbols, I have designed the following intricate incantation that aligns my soul with the selected supernatural entity: The Arcane Enlightener. This entity corresponds to my personal spiritual journey, as well as the mystical and esoteric arts.
 
-Incantation: Threl'ka Luminoth Essen'zhira
+**Incantation**: Threl'ka Luminoth Essen'zhira
 
 Recite the chant in a focused and meditative state, surrounded by a circle of candles, and with the symbol of the Arcane Enlightener – an eye within a pyramid, surrounded by a circle of runes – drawn or etched upon your altar or meditation space.
 

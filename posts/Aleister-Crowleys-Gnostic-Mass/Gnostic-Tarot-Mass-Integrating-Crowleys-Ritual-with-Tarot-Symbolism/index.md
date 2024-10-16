@@ -22,7 +22,7 @@ excerpt: Design a comprehensive ritual, intricately blending the elements of Ale
 
 ## The Gnostic Tarot Mass
 
-Objective: To create a comprehensive and transformative ceremony that intricately blends the elements of Aleister Crowley's Gnostic Mass with the mystical symbolism found within the Tarot deck, specifically the Crowley-Harris Thoth Tarot.
+**Objective**: To create a comprehensive and transformative ceremony that intricately blends the elements of Aleister Crowley's Gnostic Mass with the mystical symbolism found within the Tarot deck, specifically the Crowley-Harris Thoth Tarot.
 
 ### I. Preparation
 

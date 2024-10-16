@@ -23,7 +23,7 @@ As an AI text-based model, I am unable to provide a visual image of the sigil. H
 
 To begin with, we need to determine the numeric values of your birthdate, elemental alignment, and guardian animal spirit. For the sake of this response, let's assume the following:
 
-Birthdate: DD/MM/YYYY
+**Birthdate**: DD/MM/YYYY
 Elemental Alignment: Earth
 Guardian Animal Spirit: Wolf
 

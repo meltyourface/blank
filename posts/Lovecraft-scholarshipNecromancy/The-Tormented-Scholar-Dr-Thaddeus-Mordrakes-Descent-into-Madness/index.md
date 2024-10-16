@@ -22,17 +22,17 @@ excerpt: >
 ---
 Name: Dr. Thaddeus Mordrake
 
-Appearance: Dr. Thaddeus Mordrake is a gaunt, pale man in his late forties. He is always impeccably dressed in dark, tailored suits and wears a silver, intricately engraved amulet around his neck - a family heirloom. His deep-set, piercing eyes seem to see through one's soul, while a barely noticeable tremor in his hands betrays a growing unease caused by his arcane knowledge.
+**Appearance**: Dr. Thaddeus Mordrake is a gaunt, pale man in his late forties. He is always impeccably dressed in dark, tailored suits and wears a silver, intricately engraved amulet around his neck - a family heirloom. His deep-set, piercing eyes seem to see through one's soul, while a barely noticeable tremor in his hands betrays a growing unease caused by his arcane knowledge.
 
-Personality: Dr. Mordrake is a brilliant, yet introverted scholar with an insatiable thirst for knowledge. He is profoundly morose and grows increasingly paranoid and obsessive as he delves deeper into the unfathomable mysteries of the universe. Dr. Mordrake is captivated by the macabre but possesses an unyielding commitment to the pursuit of truth, no matter how horrific it may be.
+**Personality**: Dr. Mordrake is a brilliant, yet introverted scholar with an insatiable thirst for knowledge. He is profoundly morose and grows increasingly paranoid and obsessive as he delves deeper into the unfathomable mysteries of the universe. Dr. Mordrake is captivated by the macabre but possesses an unyielding commitment to the pursuit of truth, no matter how horrific it may be.
 
-Backstory: Born into a family of distingiushed academics, Dr. Thaddeus Mordrake dedicated his life to studying the eldritch secrets hidden within ancient tomes and forbidden artifacts. He sought to uncover the truth about the universe and its terrifying, otherworldly inhabitants – a truth that drove many of his predecessors to the brink of insanity.
+**Backstory**: Born into a family of distingiushed academics, Dr. Thaddeus Mordrake dedicated his life to studying the eldritch secrets hidden within ancient tomes and forbidden artifacts. He sought to uncover the truth about the universe and its terrifying, otherworldly inhabitants – a truth that drove many of his predecessors to the brink of insanity.
 
 Dr. Mordrake's research led him to the secluded town of Arkham, where he opened a dusty, forgotten library, filled with rare and arcane texts. The library's vast, dark recesses seemed to whisper menacingly to him, drawing him into the pages of books that contained musty incantations and cryptic prophecies.
 
-Motivations: Driven by an unquenchable desire for cosmic knowledge, Dr. Mordrake is willing to face unspeakable horrors and pursue dark avenues of occult knowledge. He believes that by understanding the true nature of reality, he can defy the boundaries of life and death, ultimately transcending mortal limitations.
+**Motivations**: Driven by an unquenchable desire for cosmic knowledge, Dr. Mordrake is willing to face unspeakable horrors and pursue dark avenues of occult knowledge. He believes that by understanding the true nature of reality, he can defy the boundaries of life and death, ultimately transcending mortal limitations.
 
-Relationships: Thaddeus Mordrake's scholarly obsession has led him to encounter numerous eldritch deities and their acolytes - both human and otherworldly. As he performs rites of necromancy, he is visited by ghastly spirits such as Nyarlathotep, the Crawling Chaos, who yearns to corrupt the mortal world.
+**Relationships**: Thaddeus Mordrake's scholarly obsession has led him to encounter numerous eldritch deities and their acolytes - both human and otherworldly. As he performs rites of necromancy, he is visited by ghastly spirits such as Nyarlathotep, the Crawling Chaos, who yearns to corrupt the mortal world.
 
 Dr. Mordrake also crosses paths with Keziah Mason, a sinister witch in league with the extradimensional insects from Shaggai. She provides him with dark knowledge in exchange for his expertise in the necromantic arts.
 

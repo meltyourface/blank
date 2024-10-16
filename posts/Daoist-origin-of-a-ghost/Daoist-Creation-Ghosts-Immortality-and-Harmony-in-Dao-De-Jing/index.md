@@ -28,7 +28,7 @@ The three begets the myriad creatures.
 
 The myriad creatures carry yin on their backs and embrace yang in their bosoms. With their breath, they blend qi and thereby achieve harmony.
 
-Exegesis:
+**Exegesis**:
 
 This verse from the Dao De Jing delves into the fundamental cosmogony of the universe in Daoist philosophy. It outlines the sequence of creation, starting with the Dao, and then progressing through a series of numerical stages that culminate in the myriad creatures, which represent all existence. The interplay between ghosts, immortality, and Daoist principles is inherent in this description, as ghosts are considered part of the myriad creatures and immortality can be seen as the ultimate goal of embracing and harmonizing the principles espoused here.
 

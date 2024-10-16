@@ -24,7 +24,7 @@ excerpt: >
 ---
 The correct answer is: Mummification was a physical and spiritual transformation for the dead to ensure their successful transition into the afterlife.
 
-Explanation:
+**Explanation**:
 
 The beliefs and practices of the Ancient Egypt Death Cult centered on the idea of the afterlife and the necessity for an individual to successfully transition from the world of the living to the realm of the dead. Mummification was a key component of this process, as it was believed to physically and spiritually transform the deceased in order to ensure their safe passage to the afterlife.
 

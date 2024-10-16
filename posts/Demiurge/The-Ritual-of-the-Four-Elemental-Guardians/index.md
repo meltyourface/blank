@@ -23,7 +23,7 @@ excerpt: >
 
 ## Title: The Ritual of the Quaternary Guardians
 
-Objective: To invoke and harness the energies of the four cardinal directions' guardians - the enigmatic beings of the East, South, West, and North.
+**Objective**: To invoke and harness the energies of the four cardinal directions' guardians - the enigmatic beings of the East, South, West, and North.
 
 Required Materials:
 
@@ -38,7 +38,7 @@ Required Materials:
 9. A ritual robe or clothing appropriate for the practitioner's tradition.
 10. ****Four candles****: yellow (East), red (South), blue (West), and green (North).
 
-Preparation:
+**Preparation**:
 
 1. Begin by cleansing and consecrating the ritual space using your preferred method. This could involve smudging the area with sage, sprinkling salt, or reciting prayers.
 2. Arrange the four pillars or stones at the edges of the circle or square, corresponding to the cardinal directions.

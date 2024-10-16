@@ -28,7 +28,7 @@ excerpt: >
 ---
 - Rubedo: The reddening stage, where the Philosopher's Stone is finally created and the true spiritual transformation occurs
 
-Explanation:
+**Explanation**:
 
 In the study of Alchemical Aviary, alchemists sought to transmute base metals into noble metals, such as turning lead into gold. This process was believed to hold the key to spiritual transformation and ultimate knowledge, ultimately symbolized by the legendary Philosopher's Stone.
 

@@ -64,6 +64,6 @@ Ethical guidelines within the Adeptus Minor stage are vital to ensure responsibl
 3. Adhering to the ethical principles of balance, non-harm, and spiritual evolution, avoiding the misuse of power for personal gain or the manipulation of others.
 4. A commitment to ongoing self-examination, reflection, and self-improvement in order to truly embody the wisdom and spiritual enlightenment of the Adeptus Minor.
 
-Conclusion: Embracing the Adeptus Minor
+**Conclusion**: Embracing the Adeptus Minor
 
 By engaging with these teachings, the Adeptus Minor embraces the responsibility of wielding occult knowledge wisely and ethically while guiding others on their spiritual path. Undertaking such a profound spiritual journey cultivates deeper understanding, enlightenment, and empathy, allowing the practitioner to enact meaningful transformation within themselves and the world around them.

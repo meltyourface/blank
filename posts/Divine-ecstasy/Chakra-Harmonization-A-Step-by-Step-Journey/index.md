@@ -23,7 +23,7 @@ excerpt: >
 
 ## Title: The Symphony of Divine Ecstasy: A Chakra Harmonization Journey
 
-Preparation:
+**Preparation**:
 1. Find a comfortable seated position, either on the floor or in a chair. Ensure that your spine is straight and shoulders are relaxed. Close your eyes gently.
 2. Begin with grounding yourself to the Earth. Imagine a vibrant, red energy emanating from the Earth and entering your base, the Root chakra.
 3. Take a few deep, cleansing breaths, inhaling positivity and exhaling negativity.

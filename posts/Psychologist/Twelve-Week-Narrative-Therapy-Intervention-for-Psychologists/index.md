@@ -23,11 +23,11 @@ excerpt: >
 
 ## Reauthoring Life's Pages: A 12-Week Narrative Therapy Intervention for Psychologists
 
-Objective: To assist clients in deconstructing and reconstructing their life stories through the examination of their psychosocial perspectives, utilizing techniques such as externalizing conversations, unique outcome identification, and letter-writing activities, with the incorporation of creative elements to enhance the therapeutic experience.
+**Objective**: To assist clients in deconstructing and reconstructing their life stories through the examination of their psychosocial perspectives, utilizing techniques such as externalizing conversations, unique outcome identification, and letter-writing activities, with the incorporation of creative elements to enhance the therapeutic experience.
 
 Week 1 - Introduction and Mapping the Landscape of Action
 
-Objective: Establish rapport and gain an overview of the client's presenting problem.
+**Objective**: Establish rapport and gain an overview of the client's presenting problem.
 
 - Introduce narrative therapy concepts and principles
 - Use externalizing conversations to help the client describe their problem
@@ -35,7 +35,7 @@ Objective: Establish rapport and gain an overview of the client's presenting pro
 
 Week 2 - Mapping the Landscape of Identity
 
-Objective: Explore the impact of the problem on the client's self-concept and relationships.
+**Objective**: Explore the impact of the problem on the client's self-concept and relationships.
 
 - Investigate the landscape of identity (beliefs, values, and meanings)
 - Discuss how the problem affects the client's identity
@@ -43,68 +43,68 @@ Objective: Explore the impact of the problem on the client's self-concept and re
 
 Week 3 - Discovering Unique Outcomes
 
-Objective: Identify moments when the problem's influence is lessened or absent, representing "unique outcomes."
+**Objective**: Identify moments when the problem's influence is lessened or absent, representing "unique outcomes."
 
 - Encourage the client to recall instances where they resisted the problem's influence
 - Work on a timeline of unique outcomes
 
 Week 4 - Deconstructing Dominant Narratives
 
-Objective: Challenge the dominant narratives that contribute to the problem.
+**Objective**: Challenge the dominant narratives that contribute to the problem.
 
 - Explore the origins and basis of these narratives
 - Examine how these narratives became dominant and influential
 
 Week 5 - Reconnecting with Values and Beliefs
 
-Objective: Reconnect the client with their core values and beliefs.
+**Objective**: Reconnect the client with their core values and beliefs.
 
 - Assist the client in identifying and articulating their values and beliefs
 - Discuss how these values and beliefs can be activated in their current life
 
 Week 6 - Developing Alternative Narratives
 
-Objective: Encourage the client's active engagement in constructing alternative, empowering narratives.
+**Objective**: Encourage the client's active engagement in constructing alternative, empowering narratives.
 
 - Collaborate with the client in creating empowering narratives that align with their values and beliefs
 - Discuss potential obstacles and opportunities to enact these narratives
 
 Week 7 - Letter-writing Activity: Past Self
 
-Objective: Reflect on personal growth by writing a letter to a younger self.
+**Objective**: Reflect on personal growth by writing a letter to a younger self.
 
 - Facilitate a letter-writing session, encouraging the client to offer support and wisdom to their past self
 
 Week 8 - Letter-writing Activity: Future Self
 
-Objective: Imagine future possibilities in a letter to their older self.
+**Objective**: Imagine future possibilities in a letter to their older self.
 
 - Assist the client in writing a letter to their future self, outlining hopes, dreams, and goals
 
 Week 9 - Art Therapy: Visualizing Narratives
 
-Objective: Create visual representations of the client’s alternative narratives.
+**Objective**: Create visual representations of the client’s alternative narratives.
 
 - Engage the client in art-making activities that represent their newly constructed narratives
 - Facilitate discussion around the created artwork
 
 Week 10 - Music Therapy: Exploring Emotional Expression
 
-Objective: Use music as a tool to express emotions and connect with alternative narratives.
+**Objective**: Use music as a tool to express emotions and connect with alternative narratives.
 
 - Invite the client to identify a song, piece, or genre that resonates with their alternative narratives
 - Discuss the emotional impact of the chosen music and its connection to their newly constructed stories
 
 Week 11 - Role-play: Enacting Change
 
-Objective: Strengthen the connection between alternative narratives and associated actions.
+**Objective**: Strengthen the connection between alternative narratives and associated actions.
 
 - Engage the client in role-playing exercises to rehearse or embody their new narratives
 - Reflect on the experience and identify any barriers that may arise
 
 Week 12 - Closure and Path Forward
 
-Objective: Review progress and discuss the maintenance of alternative narratives post-therapy.
+**Objective**: Review progress and discuss the maintenance of alternative narratives post-therapy.
 
 - Recap the intervention process and overall progress
 - Discuss strategies for maintaining alternative narratives in the future

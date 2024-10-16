@@ -22,7 +22,7 @@ excerpt: Compare and contrast the roles and relationships of Titania, Queen of t
 ---
 To fully compare and contrast the roles and relationships of Titania, Queen of the Fairies, in Shakespeare's "A Midsummer Night's Dream," and Mab, Queen of the Fairies, in ancient British folklore, we must first delve into the contexts of these two characters and their respective realms. We will then examine their interactions with humankind and derive lessons from their actions present in both literature and folkloric traditions.
 
-Context: Titania and Mab
+**Context**: Titania and Mab
 
 Titania appears as the queen of the fairies in Shakespeare's comedy "A Midsummer Night's Dream" (1595/96), whereas Queen Mab is a figure rooted in ancient British folklore. Although there is no single literary source for Mab, the character appears in various works throughout history, such as in English poet Michael Drayton's "Nymphidia" (1627) and in Shakespeare's "Romeo and Juliet" (1597).
 

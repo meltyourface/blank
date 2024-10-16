@@ -22,7 +22,7 @@ excerpt: Design an elaborate ritual invocation to summon and pay homage to Salwa
 
 ## The Sacred Rite of Salwarística
 
-Introduction:
+**Introduction**:
 The Sacred Rite of Salwarística is an elaborate ritual invocation to summon and pay homage to Salwar, Lord of the Forests. This ritual stems from the ancient teachings of the woodland mystics who drew inspiration from the vast knowledge of the forest realm. Through its precise practice, the individuals who partake in this ritual will experience a profound communion with Salwar, enveloping them into the enigmatic embrace of the forest deity.
 
 Components and Tools:
@@ -63,5 +63,5 @@ Once a spiritual connection is established, express your gratitude and reverence
 **Step 8**: The Ritual's Closing
 To conclude the ritual, recite Lokrou Salwaris one final time, thanking Salwar for their presence and wisdom. Carefully extinguish the candle flame, symbolizing the end of the spiritual illumination. Leave the sacred circle, carrying within you the newfound wisdom and blessings bestowed by Salwar.
 
-Conclusion:
+**Conclusion**:
 Throughout The Sacred Rite of Salwarística, each component serves a vital purpose in enhancing the spiritual connection with Salwar. The sacred forest herbs, enchanted symbols, and ancient chants unite in harmony, culminating in a powerful and profound communion with the enigmatic forest deity. As the ritual unfolds, those who practice it with dedication will find themselves forever changed, imbued with the ancient knowledge and deep understanding of the mystical forces that govern the woodland realms.

@@ -23,9 +23,9 @@ excerpt: >
 
 ## The Sacred Union of Carnal Divinity
 
-Purpose: This Sex magick ritual is designed to invoke and establish a profound connection with sexual spirit guides and deities, enhancing self-awareness, deepening intimate connections, and providing spiritual guidance to the practitioner.
+**Purpose**: This Sex magick ritual is designed to invoke and establish a profound connection with sexual spirit guides and deities, enhancing self-awareness, deepening intimate connections, and providing spiritual guidance to the practitioner.
 
-Materials:
+**Materials**:
 
 1. **Offerings**:
     - Herbs: Damiana, Yohimbe, Rose petals
@@ -41,7 +41,7 @@ Materials:
 
 3. **Step-by-Step Process**:
 
-Preparation:
+**Preparation**:
     - Cleanse the ritual space by burning sage or palo santo, passing the smoke over objects and areas.
     - Place the selected offerings on the altar.
     - Dress in loose, comfortable, and sensual clothing, or choose to work skyclad (naked).
@@ -51,7 +51,7 @@ Meditation and Visualization:
     - Close your eyes and spend a few moments breathing deeply and focusing on your intention, visualizing the energy you want to connect with.
     - Begin to chant softly, "Sacred spirits of divine love, passion, and pleasure, fill my heart, my body, my soul."
 
-Evocation:
+**Evocation**:
     - Combine a few drops of the chosen oils with the herbs mentioned and burn them as incense.
     - Hold your chosen crystal in your hands and meditate on the concept of sexual divinity.
     - Chant: "By the power of (name of spirits and deities invoked), I invite your wisdom, guidance, and energy into my sacred space and soul."
@@ -62,7 +62,7 @@ Raising Sexual Energy:
     - Chant or sing a series of breathy, sensual tones to intensify the atmosphere and resonate with the invoked energies.
     - As the energy reaches its peak, visualize it spiraling upwards and merging with the energies of the sexual spirit guides and deities being evoked.
 
-Closing:
+**Closing**:
     - Once the connection has been established and the energy work completed, thank the spirits and deities for their guidance and blessings.
     - Drink the red wine from the chalice and consume the fruits and chocolates as a symbolic sharing of energies.
     - Extinguish the candles, slowly and intentionally, expressing gratitude for the energies present in the ritual.

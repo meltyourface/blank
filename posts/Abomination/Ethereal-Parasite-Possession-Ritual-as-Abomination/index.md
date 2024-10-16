@@ -22,7 +22,7 @@ excerpt: >
 ---
 The answer is: Utilizing a forbidden ritual to unleash an ethereal parasite to possess and control innocent bystanders, forcing them to commit unspeakable acts.
 
-Explanation:
+**Explanation**:
 
 Abomination in the context of esoteric and occult practices usually refers to acts that are deeply and inherently immoral, unethical, and against the natural order of both the mundane and spiritual realms. There are many aspects to consider when determining whether a particular act or ritual constitutes an abomination, including the intention behind the act, the methods used, and the consequences that result from it.
 

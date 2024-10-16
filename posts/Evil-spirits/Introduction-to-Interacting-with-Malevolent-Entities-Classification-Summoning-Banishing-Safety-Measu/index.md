@@ -22,7 +22,7 @@ excerpt: Generate a detailed lesson plan for a grimoire that focuses on the vari
 ---
 Lesson Plan: Unraveling the Mysteries of Evil Spirits: Origins, Characteristics, Classifications & Interactions
 
-Objective: By the end of this lesson, students will be able to demonstrate a deep understanding of the nature of evil spirits, their classifications, and safe practices in summoning and banishing them. They will have gained skills in practical techniques to enhance their interaction with these entities.
+**Objective**: By the end of this lesson, students will be able to demonstrate a deep understanding of the nature of evil spirits, their classifications, and safe practices in summoning and banishing them. They will have gained skills in practical techniques to enhance their interaction with these entities.
 
 ### I. Introduction to Evil Spirits
    A. Definition and Origin

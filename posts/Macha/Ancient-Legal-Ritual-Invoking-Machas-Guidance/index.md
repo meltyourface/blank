@@ -22,7 +22,7 @@ excerpt: Design a ceremonial invocation for the mystical Macha to seek her divin
 
 ## Macha's Labyrinth of Law
 
-Preparation:
+**Preparation**:
 1. Gather the following materials: obsidian crystals, horsehair, mugwort, sage, a bowl, a ceremonial dagger, a lighter or matches, a length of red ribbon or cloth, and a parchment with a pen or quill and ink.
 2. Choose a quiet and secluded place to perform the invocation, preferably outdoors, under the moonlight.
 3. Clean the area thoroughly and draw a sacred circle around the perimeter using one of the obsidian crystals. Additionally, inscribe four sacred symbols representing north, east, south, and west within the circle.

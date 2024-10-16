@@ -23,7 +23,7 @@ excerpt: >
 
 ## The Ritual of Pure Ascension
 
-Purpose: To purify and cleanse an individual's mind, body, and spirit using a potent natural cleansing spray composed of a bespoke blend of essential oils.
+**Purpose**: To purify and cleanse an individual's mind, body, and spirit using a potent natural cleansing spray composed of a bespoke blend of essential oils.
 
 Ingredients for Natural Cleansing Spray:
 1. Rosemary essential oil - for mental clarity and protection

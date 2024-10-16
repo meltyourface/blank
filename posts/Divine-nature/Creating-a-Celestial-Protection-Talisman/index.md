@@ -21,12 +21,12 @@ excerpt: Design a sacred talisman utilizing divine materials and intricate sigil
 ---
 To design a sacred talisman harnessing the ethereal energies of the celestial planes for metaphysical protection, we must combine divine materials and intricate sigils, attuning the wearer to benevolent spirits and repelling malevolent ones.
 
-Materials:
+**Materials**:
 1. Celestial Silver: A rare metal of divine origin, celestial silver is known to resonate with higher vibrational frequencies and has a natural affinity for connecting with celestial entities. This material serves as the base of the talisman.
 2. Enchantment Inks: These inks are imbued with divine blessings by high priests, shamans, or spiritual masters, ensuring that the sigils we inscribe possess potent spiritual power.
 3. Moonstones: These gemstones, charged with lunar energies, possess strong connections to the spiritual realm and support psychic awareness. Embed moonstones into the talisman to amplify its protective qualities.
 
-Sigils:
+**Sigils**:
 1. The Seal of Solomon: This sigil represents the balance of opposites and Divine wisdom. It symbolizes the connection between Heaven and Earth, ensuring the harmony and safety of the wearer.
 2. The Seal of Archangel Michael: Drawing from the power of the celestial warrior, this sigil invokes protection and strength, shielding the wearer from malevolent energies.
 3. A Personalized Glyph: Incorporate a unique symbol that represents the wearer's spiritual guide or guardian. This adds a layer of personalized protection from entities targeting the wearer specifically.

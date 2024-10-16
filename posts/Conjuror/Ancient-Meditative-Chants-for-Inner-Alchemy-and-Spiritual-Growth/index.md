@@ -28,13 +28,13 @@ Adept Conjuror, below lies a compendium of ancient and mystical chants gathered 
 
 Originating from the Rigveda, the Gayatri Mantra is one of the oldest and most powerful chants in the Vedic tradition.
 
-Invocation:
+**Invocation**:
 ॐ भूर् भुवः स्वः
 तत् सवितुर् वरेण्यं
 भर्गो देवस्य धीमहि
 धियो यो नः प्रचोदयात्॥
 
-Translation:
+**Translation**:
 Om Bhur Bhuvah Svah
 Tat Savitur Varenyam
 Bhargo Devasya Dhimahi
@@ -50,10 +50,10 @@ During sunrise or sunset, ideally facing east. Regular recitation of this mantra
 
 The Emerald Tablet, or the Smaragdine Tablet, is a foundational document in Hermeticism and alchemy. It contains essential teachings in the realm of esoteric knowledge.
 
-Invocation:
+**Invocation**:
 Visita Interiora Terrae Rectificando Invenies Occultum Lapidem
 
-Translation:
+**Translation**:
 Visit the interior of the earth, and through rectification, you will discover the hidden stone.
 
 Intended Effects:
@@ -66,10 +66,10 @@ In a meditative session, visualize journeying to the center of the earth while r
 
 Ain Soph Aur symbolizes the limitless light in Kabbalistic teachings. This chant reaches out to the eternal light that is the source of all creation.
 
-Invocation:
+**Invocation**:
 אין סוף אור
 
-Translation: 
+**Translation**: 
 Ain Soph Aur
 
 Intended Effects:
@@ -82,10 +82,10 @@ In a ritual or ceremonial setting, surrounded by candles to represent the light 
 
 Translated as the "Supreme Unity Generating Water," this Taoist chant invites the flow of vital energy and life force to the practitioner.
 
-Invocation:
+**Invocation**:
 太一生水
 
-Translation: 
+**Translation**: 
 Taiyi Shengshui
 
 Intended Effects:

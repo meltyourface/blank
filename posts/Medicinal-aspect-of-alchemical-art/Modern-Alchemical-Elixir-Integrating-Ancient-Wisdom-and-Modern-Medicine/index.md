@@ -22,9 +22,9 @@ excerpt: Develop a comprehensive adaptation of a traditional alchemical elixir t
 
 ## Comprehensive Adaptation of Elixir Vitae
 
-Objective: Develop a modernized alchemical elixir combining ancient principles with state-of-the-art pharmacology to enhance immune system, mental clarity, and physiological balance.
+**Objective**: Develop a modernized alchemical elixir combining ancient principles with state-of-the-art pharmacology to enhance immune system, mental clarity, and physiological balance.
 
-Ingredients:
+**Ingredients**:
 1. Ashwagandha (Withania somnifera) - Adaptogen, supports immune system.
 2. Ginseng (Panax ginseng) - Adaptogen, enhances mental clarity and cognitive function.
 3. Reishi mushroom (Ganoderma lucidum) - Immune modulator, assists in restoration of physiological balance.

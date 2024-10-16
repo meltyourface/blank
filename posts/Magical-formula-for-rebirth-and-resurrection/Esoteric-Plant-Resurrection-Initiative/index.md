@@ -22,7 +22,7 @@ excerpt: Develop a comprehensive plan to resurrect an extinct plant species usin
 
 ## The Crypto-Botanical Rebirth Initiative
 
-Objective: To successfully resurrect an extinct plant species through the integration of esoteric herbalism, ancient mystical rituals, and occult-based magical formulas for rebirth and resurrection.
+**Objective**: To successfully resurrect an extinct plant species through the integration of esoteric herbalism, ancient mystical rituals, and occult-based magical formulas for rebirth and resurrection.
 
 Phase 1: Species Selection and Plant Catalyst Identification
 

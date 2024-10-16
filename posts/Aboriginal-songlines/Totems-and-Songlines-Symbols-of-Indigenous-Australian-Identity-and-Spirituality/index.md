@@ -43,6 +43,6 @@ Comparison between Different Cultural Groups:
 
 The Kimberley region in Western Australia showcases the wide range of totemic connections and songlines present among Indigenous cultures. The Gwion Gwion rock art depicts Wandjina and Gwion Gwion figures, which are primary totems for the Ngarinyin, Worrorra, and Wunambal peoples. These figures represent ancestral beings and hold immense significance in the region's songlines.
 
-Conclusion:
+**Conclusion**:
 
 The intricate relationship between totems and Aboriginal songlines highlights the vital role that totems play in elevating cultural identity and linking Indigenous peoples to their land, ancestors, and surrounding communities. Through their symbolic representations and functions, totems help preserve and transmit ancient knowledge, navigate through vast landscapes, and ensure the continuity and transformation of traditional storytelling.

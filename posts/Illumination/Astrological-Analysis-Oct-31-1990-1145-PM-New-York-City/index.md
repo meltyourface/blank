@@ -28,10 +28,10 @@ Sun, the core identity, is in the powerful and transformative sign of Scorpio. T
 Moon Sign: Capricorn
 Moon in Capricorn bestows a strong sense of discipline and practicality. Capricorn is ruled by Saturn, the planet of karmic responsibilities, limitations, and structure, reinforcing the occult connection between this individual’s spiritual growth, life choices, and karmic debt. With the moon moving through the eighth house, this person's abilities in the psychic and intuitive realms are heightened and their emotions deeply intertwined with their pursuit of spiritual wisdom.
 
-Ascendant: Leo
+**Ascendant**: Leo
 Leo ascendant gifts this person with innate strength and charisma, which can be directed towards leadership and self-expression. Ruled by the Sun, Leo harmonizes with the Scorpio Sun, igniting this person's occult potential. The Sun in conjunction with Mercury in the fourth house adds intellectual and communicative abilities, intertwined with the intuitive powers of Scorpio, enhancing the individual’s capability to access hidden knowledge.
 
-Midheaven: Taurus
+**Midheaven**: Taurus
 With the Midheaven in Taurus, this individual is destined to build a stable and secure future, utilizing their occult wisdom and spiritual prowess. Venus, the ruling planet of Taurus, is in the mystical sign of Scorpio as well, creating a unique resonance between the realm of material security and spiritual depth.
 
 Karmic Aspects:

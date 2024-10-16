@@ -26,17 +26,17 @@ In the heart of the Otherworld, surrounded by an eternal twilight, a sacred gath
 
 Manannan mac Lir: "Morrigan, it is said that the Aisling's Eye can unveil the unseen and bring forth wisdom from the shadows. We must find it to hold balance within the Otherworld and beyond."
 
-Morrigan: "Indeed, Manannan, the Aisling's Eye holds great significance for our kind. However, finding it shall be no easy feat. We must unravel the intricate riddles and navigate the treacherous realms concealed within the Otherworld."
+**Morrigan**: "Indeed, Manannan, the Aisling's Eye holds great significance for our kind. However, finding it shall be no easy feat. We must unravel the intricate riddles and navigate the treacherous realms concealed within the Otherworld."
 
 Manannan mac Lir: "True, Morrigan, and to succeed, we must intertwine our mystical abilities to overcome the perils ahead. Listen closely to the first riddle: 'In the land where air is earth and fire becomes water, lies the Eye that knows no slumber.'"
 
 Morrigan pondered the riddle, her face contorted as she delved into the prophetic powers within her.
 
-Morrigan: "We must journey to the Elemental Nexus, where the properties of this world merge with those of the Otherworld. Only there can we decipher the meaning of the riddle."
+**Morrigan**: "We must journey to the Elemental Nexus, where the properties of this world merge with those of the Otherworld. Only there can we decipher the meaning of the riddle."
 
 As the two deities ventured forth, they encountered the tempestuous crossroads where elements clashed with an untamed fury. Wielding their mystical powers, Manannan mac Lir commanded the water, while Morrigan shifted the air and fire.
 
-Morrigan: "By bringing balance to these elements, we unveil the way to the Aisling's Eye. Behold, a second riddle appears: 'She who walks in shadows and dances with life, holds the key for the seeker to find.'"
+**Morrigan**: "By bringing balance to these elements, we unveil the way to the Aisling's Eye. Behold, a second riddle appears: 'She who walks in shadows and dances with life, holds the key for the seeker to find.'"
 
 Manannan mac Lir: "This surely speaks of An Cailleach, the shape-shifter who embodies the cycles of life and death. We must gain her favor to proceed. I shall appease her with the gift of the enchanted Slumbering Wave."
 
@@ -48,7 +48,7 @@ Manannan mac Lir: "This place is known to me. The Echoing Halls of Time – real
 
 They entered the Echoing Halls, where all sound was swallowed into oblivion. Morrigan transformed into a raven, soaring above while Manannan walked the hallowed ground. As they neared the end of the hall, a final riddle emerged.
 
-Morrigan: "Only when the seeker embraces darkness and light, shall the gateway open, and the Eye meet the sight."
+**Morrigan**: "Only when the seeker embraces darkness and light, shall the gateway open, and the Eye meet the sight."
 
 Manannan mac Lir: "Morrigan, as the embodiment of dark and light, it falls to you. Take my hand, and together, we shall unlock the Eye's resting place."
 

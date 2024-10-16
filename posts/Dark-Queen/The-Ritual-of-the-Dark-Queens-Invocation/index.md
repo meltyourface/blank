@@ -21,9 +21,9 @@ excerpt: Design a multifaceted, ceremonious ritual to invoke and harness the pot
 ---
 The Ritual of the Dark Queen's Embrace
 
-Setting: The ritual should be performed in a dimly-lit, moonlit sanctuary adorned with sacred relics, sinister engravings, and aromatic offerings. A central altar should be erected, draped with a cloth of black velvet and illuminated by encircling candles of dark crimson wax. Burn incense of myrrh and dragon's blood to honor and attract the Dark Queen's essence.
+**Setting**: The ritual should be performed in a dimly-lit, moonlit sanctuary adorned with sacred relics, sinister engravings, and aromatic offerings. A central altar should be erected, draped with a cloth of black velvet and illuminated by encircling candles of dark crimson wax. Burn incense of myrrh and dragon's blood to honor and attract the Dark Queen's essence.
 
-Preparation: 
+**Preparation**: 
 
 1. Bathe in a mixture of salt water and nightshade extracts under the light of the waning moon to cleanse yourself of impurities and to align your intentions with the energies of the Dark Queen.
 

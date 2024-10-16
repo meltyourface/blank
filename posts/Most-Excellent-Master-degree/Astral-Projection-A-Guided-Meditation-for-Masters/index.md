@@ -23,7 +23,7 @@ excerpt: >
 
 ## Title: Astral Projection - A Guided Meditation for Most Excellent Masters
 
-Introduction:
+**Introduction**:
 Welcome, Most Excellent Master. Take a moment to prepare your space for this sacred journey. Ensure that you are seated in a comfortable position, in a location where you will not be disturbed. Take deep breaths, inhaling through your nose and exhaling through your mouth, as you allow your mind and body to relax.
 **Step 1**: Setting the Environment:
 In order to establish a safe and secure environment for your astral journey, begin by visualizing a brilliant, golden sphere of protective energy surrounding your entire being. Feel the warmth of this sphere as it pulsates and resonates with the lost word, the ineffable name of the divine architect. As you visualize this powerful and sacred energy, call upon the protection and guidance of archangels, who serve as your astral guardians.

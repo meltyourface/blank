@@ -60,7 +60,7 @@ Through primal force, the truth revealed.
 
 Cryptic Numerological Codes:
 
-Earth: 592
+**Earth**: 592
 Air: 718
 Fire: 983
 Water: 461
@@ -68,7 +68,7 @@ Water: 461
 Deciphering the Codes:
 These codes aren't ordinary numbers; they symbolize the distance, direction, and the correct order of quadrants to be followed. **To decode, seekers must apply the Pythagorean numerology method**:
 
-Earth: 5+9+2 = 16 ➔ 1+6= 7
+**Earth**: 5+9+2 = 16 ➔ 1+6= 7
 Air: 7+1+8 = 16 ➔ 1+6 = 7
 Fire: 9+8+3 = 20 ➔ 2+0 = 2
 Water: 4+6+1 = 11 ➔ 1+1 = 2

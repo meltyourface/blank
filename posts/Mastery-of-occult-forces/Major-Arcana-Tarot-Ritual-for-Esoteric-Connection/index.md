@@ -21,7 +21,7 @@ excerpt: Develop an intricate ritual to invoke the energies and esoteric connect
 ---
 To complete the task, I'll outline an intricate ritual incorporating various aspects and associations of the Major Arcana cards. This ritual aims to invoke the esoteric connections and energies of each Major Arcana tarot card.
 
-Preparation:
+**Preparation**:
 
 1. Choose a suitably quiet and sacred space for the ritual, ideally one where you feel a strong connection with the energies of the universe. Cleanse the area with sage or incense to remove any negative energies.
 

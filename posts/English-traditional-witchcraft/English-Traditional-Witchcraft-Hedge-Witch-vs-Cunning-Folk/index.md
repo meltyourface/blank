@@ -33,7 +33,7 @@ The term "Hedge Witch" comes from the Old English word "haegtessa," which means 
 
 Also known as “Wise Men” and “Wise Women,” Cunning Folk were skilled healers, fortune-tellers, and folk magic practitioners who often lived in communities or villages. They were known for their ability to perform various magical and healing tasks such as casting spells, divination, curing ailments, and in some cases, removing curses and identifying witches. Cunning Folk operated within the social, religious, and economic frameworks of their communities, often having a dual role as spiritual advisors and local healers.
 
-Practices:
+**Practices**:
 
 While Hedge Witches and Cunning Folk both practiced forms of folk magic, their specific rituals and techniques varied.
 

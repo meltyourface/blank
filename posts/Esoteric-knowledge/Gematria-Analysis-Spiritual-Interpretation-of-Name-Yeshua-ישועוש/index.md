@@ -23,7 +23,7 @@ For the purpose of this analysis, I have chosen to examine the name "ישועו�
 
 The Hebrew alphabet, or Aleph-Bet, is deeply intertwined with qabalistic principles, numerology, Gematria and Notarikon. Each letter is associated with a numerical value, and these values can be used to draw connections between words, phrases, and ideas.
 
-Numerology:
+**Numerology**:
 1. Yud (י) = 10
 2. Shin (ש) = 300
 3. Vav (ו) = 6
@@ -31,13 +31,13 @@ Numerology:
 
 The total of these numerical values is 10 + 300 + 6 + 70 = 386. This numerical value is significant, as it can be tied back to spirituality and divine powers.
 
-Gematria:
+**Gematria**:
 In qabalistic tradition, Gematria is a method of assigning numerical values to words and phrases based on their letters. This helps in revealing hidden meanings and connections. In the case of ישועוש, its Gematria value is 386, which when analyzed, can be found to share connections with several other Hebrew words and phrases.
 
 1. עץ החיים (Etz haChayim) = 233, the Tree of Life, which is a core element in Kabbalah.
 2. מלך שלם (Melech Shalem) = 386, which translates to the "Perfect King" or "King of Peace," which can be inferred as a reference to the Messiah.
 
-Notarikon:
+**Notarikon**:
 Notarikon is a method of creating a word or phrase by taking the initial or final letters of the words in a sentence. In this instance, it can further reveal insights into ישועוש:
 
 1. Yud (י) - Yod is also the initial letter in the Tetragrammaton (יהוה), which represents the name of God in Hebrew, often pronounced as Yahweh or Jehovah.
@@ -53,5 +53,5 @@ When considering the Tree of Life, each letter in the name ישועוש can be l
 3. Vav (ו) - Connects Tiferet (Beauty) to Yesod (Foundation)
 4. Ayin (ע) - Associated with the Sephirah of Hod (Splendor)
 
-Conclusion:
+**Conclusion**:
 Through numerology, Gematria, Notarikon and the connections to the Tree of Life, the name ישועוש can be interpreted in various ways. This analysis shows a link between the name and the concepts of spiritual transformation, divine wisdom, and the eternal search for truth. Furthermore, one can infer that the name Yeshua (ישועוש), as Jesus, signifies the embodiment of divine wisdom, the connection between the physical and spiritual realms, and the ultimate representation of the "King of Peace."

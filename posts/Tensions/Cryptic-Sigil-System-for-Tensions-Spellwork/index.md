@@ -28,7 +28,7 @@ Tensions Tradition Concepts and Components:
 3. ****Nodus****: The center point where all energies converge and disperse, representing both stillness and movement.
 4. ****Nexia****: The interconnected web of energy pathways that connect all things within Tensions.
 
-Sigils:
+**Sigils**:
 1. ****Quadratum Sigil****: A square divided into four equal sections, with each section containing one of the elemental symbols – a mountain for Earth, a feather for Air, a flame for Fire, and a wave for Water.
 2. ****Dualitas Sigil****: A circle containing two intertwined serpents, one light and one dark, representing the balance and interdependence of contrasting forces.
 3. ****Nodus Sigil****: A radial pattern of expanding and contracting spiral pathways converging at a central point, illustrating the continuous flux of energy and the potential for infinite connections.

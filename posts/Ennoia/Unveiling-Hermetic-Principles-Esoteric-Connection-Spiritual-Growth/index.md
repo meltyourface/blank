@@ -22,7 +22,7 @@ excerpt: Compose an elaborate treatise elucidating the seven Hermetic principles
 
 ## The Ennoia Codex: Unveiling the Hermetic Principles of the Ancient Mysteries
 
-Prelude:
+**Prelude**:
 
 Ennoia, derived from Greek thought, denotes the power of transcendent perception, a faculty of the mind that grants the possessor an intuitive understanding of the universe and its mystical properties. Stemming from the esoteric and occult realms, the philosophy of Ennoia encompasses the seven Hermetic principles attributed to Hermes Trismegistus, a legendary sage known as the synthesizer of Egyptian and Greek wisdom.
 
@@ -70,7 +70,7 @@ The Principle of Gender acknowledges the complementary duality of masculine and 
 
 Historical context: The ubiquitous presence of masculine and feminine deities in ancient religions reflects the profound influence of this principle upon cultural consciousness, shaping spiritual paradigms and the quest for inner balance.
 
-Epilogue:
+**Epilogue**:
 
 The Ennoia Codex unveils the veiled intricacies of the seven Hermetic principles, demonstrating their significance within the esoteric and occult realms. By deconstructing these tenets for a wider audience, this humble work aspires to ignite a renewed sense of wonder, inciting the yearning for truth innate within every human spirit.
 

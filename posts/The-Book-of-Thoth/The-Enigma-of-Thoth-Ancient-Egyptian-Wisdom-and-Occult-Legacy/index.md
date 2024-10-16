@@ -21,7 +21,7 @@ excerpt: Examine and delineate the historical and mythological evolution of Thot
 ---
 Thoth: Historical and Mythological Evolution and The Book of Thoth
 
-Origins:
+**Origins**:
 Thoth, also known by his Greek name Hermes Trismegistus, is a complex and enigmatic figure in ancient Egyptian mythology. Originally associated with the moon, wisdom, and writing, Thoth played an essential role in maintaining the balance and harmony of the cosmos as the inventor of language, mathematics, and astronomy. Thoth's origins can be traced back to the earliest periods of Egyptian civilization, as one of the gods residing in Hermopolis, a city devoted to the worship of various deities involved in the creation myth.
 
 Development of Symbolism:

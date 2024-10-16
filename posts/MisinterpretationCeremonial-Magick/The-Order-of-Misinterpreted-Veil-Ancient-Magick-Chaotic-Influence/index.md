@@ -22,17 +22,17 @@ excerpt: Construct a compelling mythos for a secret society rooted in the practi
 
 ## The Order of Misinterpreted Veil
 
-Origins:
+**Origins**:
 In the depths of our ancient past, an enigmatic figure known as Erróneus, the Eternal Mistake, discovered unconventional ways of tapping into and manipulating the unseen forces of the universe. This became the foundation of Misinterpretation Ceremonial Magick. Erróneus gathered a group of faithful followers, and thus, The Order of Misinterpreted Veil was born.
 
 The order devoted itself to the study and practice of these arcane arts, carefully protecting their secrets and accumulating influence over the course of centuries. Though their existence remained well-hidden, their impact on history was pervasive. Wars were swayed, kings and empires fell, and entire civilizations rose under the invisible hand of The Order of Misinterpreted Veil.
 
-Hierarchy:
+**Hierarchy**:
 At the helm of the order is The Supernal Erróneus, a reincarnation of the original Erróneus, whose identity is known only by the inner circle. The Supernal Erróneus governs the Grand Council, comprised of twelve esteemed Archons who preside over various aspects of the society's operations, from recruitment to magical research.
 
 Below the Archons, the order is organized into concentric circles. The outermost, The Acolytes of the Mistaken Path, consists of new members learning the foundations of Misinterpretation Ceremonial Magick. As they progress and demonstrate their dedication, they rise through the ranks as Scholars of Errant Runes, Conjurers of Perplexed Shades, and eventually Masters of the Distorted Veil.
 
-Symbols:
+**Symbols**:
 The primary symbol of the order is The Interwoven Enigma, representing the union of chaos and order inherent in Misinterpretation Ceremonial Magick. It consists of a perfectly symmetrical hexagram inscribed within a circle, with intricate spirals branching outward from each of the hexagram's vertices, depicting the unpredictable and chaotic powers harnessed within a structured magical framework.
 
 Other symbols include: The Discordant Chalice (representing knowledge misinterpreted but still wielded), The Twisted Serpent (symbolizing the cyclical nature of truth and falsehood), and The Shattered Pillar (denoting the order’s ability to dismantle and reconstruct societal structures).

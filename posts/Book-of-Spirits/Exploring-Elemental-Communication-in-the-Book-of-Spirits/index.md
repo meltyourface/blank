@@ -44,15 +44,15 @@ This comprehensive compendium unveils the secrets behind the elemental signs in 
 
 ### 2.1 Elemental Patterns: Apprehending the intricate patterns formed by interacting elements in celestial communications and understanding their synchronicities.
 
-Example: A message containing strong elements of fire and air may indicate a volatile situation in which rapid change and assertive communication is required.
+**Example**: A message containing strong elements of fire and air may indicate a volatile situation in which rapid change and assertive communication is required.
 
 ### 2.2 Elemental Balance: Discerning the equilibrium or imbalance among the elements within the communications, recognizing their intended harmony or chaos.
 
-Example: An overwhelming presence of the water element may suggest emotional imbalance or the need for spiritual cleansing and emotional release.
+**Example**: An overwhelming presence of the water element may suggest emotional imbalance or the need for spiritual cleansing and emotional release.
 
 ### 2.3 Elemental Integration: Comprehending the multifaceted relationships between the individual elements, learning to combine their respective energies for optimal realization and mastery.
 
-Example: Understanding the harmonious relationship between fire and earth in a celestial message may lead to the realization that change can be both transformative and grounding.
+**Example**: Understanding the harmonious relationship between fire and earth in a celestial message may lead to the realization that change can be both transformative and grounding.
 
 ### Chapter 3: Practical Exercises for Elemental Mastery
 

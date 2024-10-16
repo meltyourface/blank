@@ -22,7 +22,7 @@ excerpt: Design and outline a comprehensive ritual that incorporates the cultiva
 
 ## Ritual of the Graveyard Flora Ancestral Smoke
 
-Introduction:
+**Introduction**:
 The Ritual of the Graveyard Flora Ancestral Smoke is a powerful and intricate practice that facilitates profound communication with ancestral spirits and otherworldly beings through the use of a specially prepared smoking blend. This blend is derived from flora native to Balkan graveyards, utilizing the potent energies of these plants at optimal lunar phases to enhance the connection between the spirit realm and our world.
 
 Cultivation, Harvesting, and Preparation:

@@ -22,9 +22,9 @@ excerpt: Design an intricate, contemporary occult ceremony that synthesizes the 
 
 ## The Invocation of the Neither-Neither State: A Ritual of Zos Kia Cultus Synthesis 
 
-Objective: To create a powerful, immersive ritual that synthesizes Austin Spare's principles of Zos Kia Cultus, sigil magic, automatic drawing, and the Neither-Neither state, challenging traditional ritual structure and opening participants to new realms of consciousness.
+**Objective**: To create a powerful, immersive ritual that synthesizes Austin Spare's principles of Zos Kia Cultus, sigil magic, automatic drawing, and the Neither-Neither state, challenging traditional ritual structure and opening participants to new realms of consciousness.
 
-Preparation:
+**Preparation**:
 
 1. ****Ritual space****: Select a quiet, private indoor or outdoor space. Cleanse the area using sage or incense, then create a large circle using a chalk or a cord.
 

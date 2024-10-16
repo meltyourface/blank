@@ -22,7 +22,7 @@ excerpt: Design an intricate ceremonial rite to be executed at the nexus of the 
 
 ## The Rite of Dissolution at the Crossroads
 
-Objective: To perform an intricate ceremonial rite at the nexus of the Crossroads, allowing for the relinquishing of undesirable mystical artifacts and their subsequent dissolution, ensuring they can cause no further harm or disturbance to the world.
+**Objective**: To perform an intricate ceremonial rite at the nexus of the Crossroads, allowing for the relinquishing of undesirable mystical artifacts and their subsequent dissolution, ensuring they can cause no further harm or disturbance to the world.
 
 Preparatory Steps:
 

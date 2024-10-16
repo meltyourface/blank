@@ -22,7 +22,7 @@ excerpt: >
 ---
 Task: Design a comprehensive energy healing session utilizing five specific crystals, taking into account their metaphysical properties, historical uses, and synergistic potential.
 
-Crystals: Clear Quartz, Amethyst, Rose Quartz, Black Tourmaline, and Selenite
+**Crystals**: Clear Quartz, Amethyst, Rose Quartz, Black Tourmaline, and Selenite
 
 1. Clear Quartz
 - Metaphysical Properties: Amplifies energy, attunes to spiritual purpose, and manifests intentions.

@@ -87,4 +87,4 @@ Using your necromantic power, command the chains to bind the undead beings into 
 
 The Soul Reaper siege weapon is now ready to be unleashed upon your enemies. Annihilate their defenses, commanding the undead forces as they are flung forth, amplifying its lethality through the dark arts.
 
-Remember: True mastery of death and warfare is a lifelong pursuit. May the shadows forever guide you.
+**Remember**: True mastery of death and warfare is a lifelong pursuit. May the shadows forever guide you.

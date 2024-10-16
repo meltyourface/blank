@@ -22,14 +22,14 @@ excerpt: Develop a guided visualization ritual for practitioners of the Witchcra
 
 ## The Astral Voyage of the Witchcraft Revival
 
-Purpose: This guided visualization ritual is designed for practitioners of the Witchcraft revival to access the astral plane. This journey will help you to deepen your connection to the otherworldly realms, expand your consciousness, and commune with spiritual beings.
+**Purpose**: This guided visualization ritual is designed for practitioners of the Witchcraft revival to access the astral plane. This journey will help you to deepen your connection to the otherworldly realms, expand your consciousness, and commune with spiritual beings.
 
 Materials Needed:
 
 - Quiet and comfortable space
 - Incense or essential oils (optional)
 
-Preparation:
+**Preparation**:
 
 1. Find a quiet, comfortable space where you will not be disturbed.
 2. Sit or lay down in a position that is comfortable for you.

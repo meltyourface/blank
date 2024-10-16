@@ -64,5 +64,5 @@ Putting theory into practice, this section will provide practical scenarios and 
 
 By completing this comprehensive manual on respecting diverse gender identities, readers will gain a deeper understanding and compassion for people of all gender identities. You will be able to interact confidently with anyone you meet, knowing that your language is respectful, inclusive, and empowering.
 
-Addendum: Resources for Continued Learning and Advocacy
+**Addendum**: Resources for Continued Learning and Advocacy
 This addendum will include supplementary resources and tools to help readers continue their journey of understanding and supporting diverse gender identities. Some resources may encompass organizations, videos, books, podcasts, and various outlets to stay up-to-date and contribute to a more inclusive society.

@@ -21,14 +21,14 @@ excerpt: Design a mystical artifact or enchanted weapon specifically tailored to
 ---
 Artifact Name: The Amulet of Divine Sovereignty
 
-Design:
+**Design**:
 The Amulet of Divine Sovereignty is a meticulously crafted talisman, featuring a combination of ancient symbols, sacred materials, and latent with protective enchantments. The centerpiece of the amulet is a large, polished clear quartz crystal, held in place by a circular frame of pure, untarnished silver. Etched upon the silver frame is the powerful and ancient Leviathan Cross, representing both spiritual protection and the unity of the celestial and terrestrial realms.
 
 Surrounding the central quartz crystal, eight smaller stones are set equidistant, each corresponding to an essential element: Fire (Garnet), Earth (Agate), Air (Angelite), Water (Aquamarine), Spirit (Amethyst), Light (Citrine), Shadow (Obsidian), and Time (Moonstone). These stones harmoniously balance the natural forces and prevent the dark energies of The Lord of Possession from prevailing.
 
 Interwoven in the amulet's chain is a strand of golden silk, which has been consecrated in a sacred ritual invoking the blessings and protection of benevolent divine entities. This consecration makes the Amulet of Divine Sovereignty anathema for any malevolent spirits in its proximity.
 
-Functionality:
+**Functionality**:
 Upon activation, the Amulet of Divine Sovereignty projects a powerful, protective aura that spans a radius of approximately 30 feet, encompassing all those within and making them immune to corrupting influences and possession attempts by The Lord of Possession and other malevolent spirits. The barrier also works to dispel any existing possessions and corrupt energies within the radius, gradually cleansing those afflicted.
 
 The amulet's enchantments can be activated through a simple ritual that can be learned and performed by diverse wielders, regardless of their previous experience or magical ability. The ritual involves placing the amulet over the heart, reciting an ancient incantation, and visualizing a cascade of protective light enveloping everyone within the intended radius.
@@ -36,7 +36,7 @@ The amulet's enchantments can be activated through a simple ritual that can be l
 Range and Portability:
 The Amulet of Divine Sovereignty is designed to be portable and worn as a necklace, making it easy to carry and ready to use when needed. While the protective barrier it generates is limited to a 30-foot radius, its portable nature enables the possessor to strategically reposition and protect larger areas in a methodical manner.
 
-Usability:
+**Usability**:
 The Amulet of Divine Sovereignty is designed to be accessible and usable by a wide variety of individuals. The ritual to activate its powers is straightforward and easy to learn, even for those with no prior knowledge of esoteric arts or artifacts. The talisman itself is adjustable to fit most neck sizes and can be worn discreetly as a necklace or openly displayed as a symbol of strength and protection.
 
 In conclusion, the Amulet of Divine Sovereignty is a potent countermeasure against the corrupting influence and possession abilities of The Lord of Possession. Its intricate design, incorporating ancient symbols, sacred materials, and protective enchantments, ensures that wielders of this mystical artifact can effectively combat dark energy and prevent possession while maintaining portability and usability for a diverse array of individuals.

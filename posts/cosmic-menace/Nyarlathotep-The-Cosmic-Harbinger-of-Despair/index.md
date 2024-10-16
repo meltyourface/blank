@@ -21,7 +21,7 @@ excerpt: Examine the role of the cosmic menace entity Nyarlathotep in H.P. Lovec
 ---
 Answer:
 
-Introduction:
+**Introduction**:
 Nyarlathotep, an enigmatic and malevolent cosmic deity in H.P. Lovecraft's literary oeuvre, is a prominent figure in the author's interconnected web of cosmic horror tales. Known for its multifaceted forms, the entity is notable for its overt interactions with both human and non-human characters in Lovecraft's works, engendering mind-shattering dread and reinforcing humankind's insignificance in the face of an indifferent and unfathomable cosmos.
 
 ### I. **Multifaceted Manifestations**:
@@ -45,5 +45,5 @@ A. **The Revelation of the Cosmos**: Nyarlathotep's interactions with humanity o
 
 B. **Incomprehensible Scale**: Nyarlathotep's presence emphasizes the overwhelming scope of the cosmos and its hidden horrors, overwhelming conventional notions of human agency and infusing a deep sense of existential dread in both characters and readers.
 
-Conclusion:
+**Conclusion**:
 Nyarlathotep, a cosmic menace of H.P. Lovecraft's fiction, serves as a nexus for understanding the dreadful interconnectedness of the cosmos, humankind's inconsequentiality, and the psychological devastation wrought by the revelation of these truths. Through various manifestations and the capacity to influence human and non-human consciousness, the entity leads humanity inexorably towards despair, madness, and abject fear, thus reinforcing the central themes of existential dread and cosmic insignificance prevalent in Lovecraft's works.

@@ -25,7 +25,7 @@ excerpt: >
 
 Theosophy, a philosophy which combines mystical, spiritual, and occult elements, has captivated scholars and seekers throughout different time periods and cultural contexts. The underlying tenet of Theosophy is the pursuit of wisdom and the knowledge of the divine. Spanning across various traditions, its teachings attempt to unveil the secrets of the universe and the nature of our relation to it. This section aims to provide Theosophical initiates with a comprehensive understanding of the origins, core beliefs, and key figures that have shaped this rich and intriguing tradition.
 
-Origins:
+**Origins**:
 
 Theosophy finds its roots in the great civilizations and philosophies of the world, imbibing teachings from ancient Egypt, India, and Greece. The term "theosophy" itself, derived from the Greek 'theos' (god) and 'sophia' (wisdom), suggests a divine and all-encompassing wisdom. Though many of the ideas and principles of Theosophy can be traced back to these ancient sources, it was in the 19th century, with the establishment of the Theosophical Society by Helena Petrovna Blavatsky (HPB), Henry Steel Olcott, and William Quan Judge, that Theosophy took on its modern form.
 

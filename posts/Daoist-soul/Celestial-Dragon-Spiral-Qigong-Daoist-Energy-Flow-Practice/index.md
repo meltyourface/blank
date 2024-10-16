@@ -29,17 +29,17 @@ Posture and Preparation:
 1. Stand with your feet shoulder-width apart and allow your body to relax. Slightly bend your knees, allowing your pelvis to tuck under and your spine to lengthen. Gently drop your shoulders and keep your chin slightly tucked in to elongate your neck.
 2. Place your tongue on the roof of your mouth behind your upper front teeth, creating a qi circuit within your body.
 
-Breathing:
+**Breathing**:
 
 1. Utilizing abdominal breathing, inhale deeply and slowly through your nose, expanding your abdomen as you do so.
 2. Exhale slowly and completely through your nose, contracting your abdomen gently to press out all the air.
 3. Ensure that your breath remains even and relaxed throughout the entire practice.
 
-Visualization:
+**Visualization**:
 
 For this visualization, envision a celestial dragon, a symbol of transformative qi energy within your body. As you perform the movements and breathwork, imagine this dragon gracefully spiraling around your body, guiding the flow of qi to accumulate power.
 
-Movements:
+**Movements**:
 
 1. As you stand in the preparatory posture, raise your hands to chest level with palms facing upwards. Inhale as you slowly lift your hands and, upon reaching your forehead, exhale as you gently push your hands outwards, extending your arms fully. Keep your hands at the height of your forehead as you do this.
 

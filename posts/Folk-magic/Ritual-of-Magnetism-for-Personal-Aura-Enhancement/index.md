@@ -23,14 +23,14 @@ Base Ritual: Ritual of Magnetism
 
 The Ritual of Magnetism is an esoteric folk-magic ritual designed to enhance one's personal magnetism. This base ritual incorporates various mystic hand gestures, an enchanting incantation, and specific rare ingredients such as vervain and amethyst crystal.
 
-Ingredients:
+**Ingredients**:
 1. Vervain
 2. Amethyst crystal
 3. A silver chalice filled with moon water
 4. A white candle
 5. Lavender oil
 
-Instructions:
+**Instructions**:
 1. Begin the ritual by setting up a sacred space aligned with your magical intentions. Anoint the white candle with lavender oil and light it.
 2. Take a seat in front of the candle while holding the amethyst crystal in your left hand, and the sprig of vervain in your right hand.
 3. Close your eyes and take deep, cleansing breaths while focusing your energy on your aura.

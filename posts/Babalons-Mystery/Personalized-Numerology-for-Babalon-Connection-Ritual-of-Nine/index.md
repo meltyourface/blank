@@ -22,17 +22,17 @@ excerpt: Devise a ritualistic method for numerologically deciphering personal na
 
 ## The Ritual of Nine for Babalon's Mystery
 
-Introduction:
+**Introduction**:
 The Ritual of Nine is a personalized Babalonian numerological method that takes personal names, key life events, and sacred symbols into account, providing the practitioner with a tool for decoding and understanding their place within Babalon's Mystery. The numerical connection will be made through the use of sacred symbols, arcane sigils, planetary influences, elemental forces, and Tarot cards to gain profound insight into an individual's spiritual journey through the mysteries of the Babalonian path.
 
-Preparation:
+**Preparation**:
 1. Find a quiet, dimly lit space that is free from distractions and consecrate it for this ritual.
 2. The practitioner should bathe and wear clothing that is associated with the colors of the elements; Red for Fire, Blue for Water, Yellow for Air, and Green for Earth.
 3. Prepare a notebook to record your findings, along with a pen or other writing instrument.
 4. Light a red or black candle and have incense or essential oil of patchouli, frankincense, or myrrh burning to create a suitable atmosphere.
 5. Have a diagram of the Tree of Life from the Kabalistic tradition handy for reference.
 
-Procedure:
+**Procedure**:
 
 1. Begin by drawing a circle in the air around yourself and the entire area using your fingers, a wand, or athame. This circle represents the Numerological Sphere of Nine; it safeguards you from any negative energy and encircles the area within Babalon's embrace.
 

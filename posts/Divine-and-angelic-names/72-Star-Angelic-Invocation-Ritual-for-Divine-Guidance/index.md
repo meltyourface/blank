@@ -23,9 +23,9 @@ excerpt: >
 
 ## Ritual of the 72-Star Angelic Invocation
 
-Objective: To invoke the 72 Shemhamphorasch angel names, their individual attributes, and Hebrew letters, in order to achieve a deep connection with Divine guidance and assistance in various aspects of life.
+**Objective**: To invoke the 72 Shemhamphorasch angel names, their individual attributes, and Hebrew letters, in order to achieve a deep connection with Divine guidance and assistance in various aspects of life.
 
-Preparation:
+**Preparation**:
 
 1. Prepare a sacred space or altar, facing East, cleaned, and purified with incense (preferably frankincense and myrrh).
 2. Ensure that you are dressed in clean, white clothing.
@@ -66,4 +66,4 @@ Ritual Outline:
 1. Record your experiences in a journal, noting any insights, messages, or visualizations received during the ritual.
 2. Contemplate how the specific attributes and qualities of the 72-Shemhamphorasch angel names can be incorporated into your daily life, aiding in your spiritual growth and development.
 
-Note: It is important to personalize the ritual according to your needs and spiritual beliefs while ensuring that you are maintaining respect and reverence for the angelic and Divine energies being invoked.
+**Note**: It is important to personalize the ritual according to your needs and spiritual beliefs while ensuring that you are maintaining respect and reverence for the angelic and Divine energies being invoked.

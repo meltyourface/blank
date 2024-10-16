@@ -28,7 +28,7 @@ excerpt: >
 ---
 - Sulfur, representing the soul, corresponds to Fire and Hot and Dry properties, and is linked with the Mind component of the human body; Salt, symbolizing the body, corresponds to Earth and Cold and Dry properties, and is associated with the Physical; Mercury, as a catalyst, represents Spirit and is associated with Air and Water, Hot and Moist properties, as well as connected to the Soul.
 
-Explanation:
+**Explanation**:
 In the realm of Alchemy, the three primes, also known as the Tria Prima, are Sulfur, Salt, and Mercury. These primes are essential components in Alchemy and are considered the foundation of understanding how substances interact and change.
 
 Sulfur is traditionally considered representing the soul and is associated with the element of Fire. Fire, in turn, has Hot and Dry properties. In the context of the human body, Sulfur is linked with the Mind component, signifying the essence and ideas of a person. This association comes from the belief that the soul or consciousness resides in the mind and is fueled by the fire of passion, creativity, and enthusiasm.

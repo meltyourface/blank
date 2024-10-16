@@ -49,5 +49,5 @@ A common thread between Eastern and Western interpretations of Lesser Lotuses is
 
 In order to unify these contrasting concepts, practitioners ought to concentrate on the underlying principle of self-awareness, personal development, and spiritual growth. Acknowledging the diverse representations of Lesser Lotuses grants an opportunity to draw upon a wider range of techniques and methods to engage with one's subtle energy body.
 
-Summary:
+**Summary**:
 Lesser Lotuses refer to the energy centers in the subtle body found in both Eastern and Western occultism. Eastern occultism primarily uses the chakra system, where each chakra is associated with distinct qualities and symbols. Western occultism tends to incorporate modified versions of the chakra system and unique Western esoteric symbols. Though the specific interpretations and symbols may differ, the underlying focus is on harnessing the subtle energies for spiritual growth and well-being. By synthesizing the concepts and practices from both traditions, practitioners can develop a holistic approach to spiritual growth, ultimately transcending the differences in representation and symbolism.

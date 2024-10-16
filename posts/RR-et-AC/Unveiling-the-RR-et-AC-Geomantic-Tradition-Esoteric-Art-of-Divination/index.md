@@ -37,7 +37,7 @@ excerpt: >
 
 ## Geomancy in the R.R. et A.C. **Tradition**: An Unveiling of Earthly Mysteries and The Celestial Art
 
-Introduction: The Veils of Geomancy
+**Introduction**: The Veils of Geomancy
 
 Geomancy, derived from the Greek words "ge" (earth) and "manteia" (divination), is, at its core, a method of understanding the sacred geometry at play in our Universe. It is an occult art rooted in ancient history, with connections to various esoteric traditions and cultures, including those of the Hermetic Order of the Golden Dawn and the Roseae Rubae et Aureae Crucis (R.R. et A.C.). Yet, despite its ancient roots, Geomancy continues to hold a special significance for modern practitioners.
 
@@ -85,6 +85,6 @@ Geomancy, like any esoteric practice, faces misconceptions, criticisms, and chal
 
 By engaging in dialogue, study, and continued practice, geomancers can overcome these hurdles, reinstating Geomancy's rightful place within the esoteric landscape and providing valuable insights for generations to come.
 
-Conclusion: Unearthing the Mysteries of Geomancy
+**Conclusion**: Unearthing the Mysteries of Geomancy
 
 As we have traversed the rich and multifaceted world of Geomancy, it is evident that its power, relevance, and influence within the R.R. et A.C. tradition remain undiminished. Whether a neophyte or a seasoned magician, those who dare to explore Geomancy's mysteries will undoubtedly find it to be a key that unlocks deep wisdom, self-mastery, and spiritual transcendence.

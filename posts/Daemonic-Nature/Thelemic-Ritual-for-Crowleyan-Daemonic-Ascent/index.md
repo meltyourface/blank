@@ -23,14 +23,14 @@ excerpt: >
 
 ## Title: Unveiling the Crowleyan Daemonic Ascent
 
-Setting: A secluded room or outdoor space, adorned with a blend of intricate Thelemic tapestries representing the works of Aleister Crowley. The room is dimly lit by flickering candles placed strategically in a circle enclosing the ceremonial area. A central altar is set, covered with a deep indigo cloth, and faces the East.
+**Setting**: A secluded room or outdoor space, adorned with a blend of intricate Thelemic tapestries representing the works of Aleister Crowley. The room is dimly lit by flickering candles placed strategically in a circle enclosing the ceremonial area. A central altar is set, covered with a deep indigo cloth, and faces the East.
 
-Preparation: 
+**Preparation**: 
 1. Cleanse and consecrate the ritual area using a traditional banishing ritual, such as the Lesser Banishing Ritual of the Pentagram.
 2. Create a unique incense blend, incorporating specific correspondences with Crowley's life and practice, which shall be used throughout the ritual.
 3. Design a unique sigil that combines key elements of Thelemic symbols with Aleister Crowley's personal magical motto and emblem. This sigil shall be inscribed in a circle on the floor, with the altar situated at its center.
 
-Ritual:
+**Ritual**:
 1. Begin by sitting in the circle with the sigil, focusing your mind on the intention of the ritual: to pay homage to Aleister Crowley and his contributions to the occult, as well as to invoke the transformative power of Daemonic Nature embodied in Thelemic practices.
 
 2. Slowly rise to your feet, facing East. Visualize yourself as an embodiment of Crowley's archetype, filled with Daemonic power, and authority over the elements.

@@ -37,7 +37,7 @@ Similarities:
 2. Both objects have been associated with miracles, healing, and rejuvenation.
 3. Their roles as sacred vessels emphasize the importance of receptivity, be it to divine grace, intuitive insights, or spiritual wisdom.
 
-Differences:
+**Differences**:
 1. The Grail's origins are rooted in Arthurian and Christian mythology, while the Chalice is a staple of ceremonial magick and various western esoteric traditions.
 2. The Grail is primarily linked to the quest for enlightenment, whereas the Chalice serves as a functional ceremonial tool.
 

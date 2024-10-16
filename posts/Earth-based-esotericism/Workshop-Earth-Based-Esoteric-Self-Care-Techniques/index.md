@@ -22,11 +22,11 @@ excerpt: Design a workshop on merging Earth-based esoteric principles and practi
 
 ## Earth's Embrace: Merging Esoteric Wisdom and Modern Self-Care
 
-Description: In this transformative workshop, participants will discover the profound connections between ancient Earth-based esoteric principles and practices and modern self-care techniques. By merging these powerful approaches, attendees will learn to navigate daily life challenges, align their chakras, harness the power of lunar cycles, and unlock the secrets of sacred geometry to achieve personal growth and fulfillment.
+**Description**: In this transformative workshop, participants will discover the profound connections between ancient Earth-based esoteric principles and practices and modern self-care techniques. By merging these powerful approaches, attendees will learn to navigate daily life challenges, align their chakras, harness the power of lunar cycles, and unlock the secrets of sacred geometry to achieve personal growth and fulfillment.
 
-Duration: Two days (Saturday & Sunday, 9 am to 5 pm)
+**Duration**: Two days (Saturday & Sunday, 9 am to 5 pm)
 
-Schedule:
+**Schedule**:
 
 Day 1:
 1. **Introduction (9 am – 9**:30 am)

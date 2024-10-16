@@ -40,7 +40,7 @@ Gnostic Satanism:
 2. Baphomet - Composite figure representing balance between opposing forces and the dual nature of existence.
 3. Sigil of Lucifer - Represents the binding of the spiritual and the material, the divine wisdom contained in the figure of Satan.
 
-Luciferianism:
+**Luciferianism**:
 1. The Regular Pentagram - Symbolizes the five elements (earth, air, fire, water, and spirit) and their connection to the individual.
 2. The Lightbearer's Torch/Fire - Represents spiritual enlightenment and growth within the practitioner.
 3. Sigil of Lucifer - Represents the divine awakening in the individual and their aspiration toward self-sovereignty.
@@ -52,7 +52,7 @@ Gnostic Satanism:
 2. **Sabbath**: A celebration of the self, rebellion, and earthly desires, symbolizing the transgression of religious limitations.
 3. **Rites of Passage**: Transformational ceremonies aimed at breaking chains of forced conformity or societal dogma.
 
-Luciferianism:
+**Luciferianism**:
 1. **Invocation of the Morning Star**: Rituals to invoke the light and wisdom of Lucifer, aiding in spiritual pursuits and self-improvement.
 2. **Elemental and Astrological Magic**: Practices to establish a more profound connection to natural cycles and universal forces.
 3. **Philosophical Discussions and Contemplation**: Deepening the understanding of existence, cosmic order, and the individual's purpose.
@@ -63,7 +63,7 @@ Gnostic Satanism:
 1. Anton LaVey - Founder of the Church of Satan and author of "The Satanic Bible," popularizing modern Satanism.
 2. Michael W. Ford - A prominent Gnostic Satanist and author who established the Order of Phosphorus.
 
-Luciferianism:
+**Luciferianism**:
 1. H.P. Blavatsky - Theosophist who presented Lucifer as the bringer of light in contrast to the Christian portrayal.
 2. Michael W. Ford - Author and practitioner who contributed significantly to modern Luciferianism, defining its mystic and magical aspects.
 

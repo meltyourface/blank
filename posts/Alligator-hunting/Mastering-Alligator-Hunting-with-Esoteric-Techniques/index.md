@@ -28,7 +28,7 @@ excerpt: >
 ---
 Answer: Timing the hunt with astrological alignments, calling upon the spirits of the bayou, and creating a sacred circle around the hunting area.
 
-Explanation: Although all the given options will certainly provide varying degrees of assistance in the successful capture of an alligator through metaphysical means, timing the hunt with astrological alignments, calling upon the spirits of the bayou, and creating a sacred circle around the hunting area would be the most effective choice.
+**Explanation**: Although all the given options will certainly provide varying degrees of assistance in the successful capture of an alligator through metaphysical means, timing the hunt with astrological alignments, calling upon the spirits of the bayou, and creating a sacred circle around the hunting area would be the most effective choice.
 
 The first option, conducting the hunt during the full moon, wearing talismans with protective sigils, and using bait infused with a ritual blessing, relies mostly on protection and passive means of attracting the alligator. Although it may provide some minor enhancements, it does not actively work toward the goal of capturing the creature.
 

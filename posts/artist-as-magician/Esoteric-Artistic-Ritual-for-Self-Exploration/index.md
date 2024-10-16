@@ -24,14 +24,14 @@ excerpt: Design an esoteric method utilizing automatic drawing that embraces the
 
 The Veil of Uraeus is an inventive esoteric method involving automatic drawing, meditation, and rituals for self-exploration, which harmonizes the mystical and occult properties of artistic creation. This method combines various artistic mediums, such as charcoal, ink, and wax, to provide an intricately layered experience of personal revelation.
 
-Materials:
+**Materials**:
 1. Large sheets of paper
 2. Charcoal, ink, and wax
 3. Candles
 4. Incense (such as frankincense or sandalwood)
 5. A sacred space for practice
 
-Procedure:
+**Procedure**:
 
 1. **Preparation of the Sacred Space**:
 Select a designated area for your artistic creation, preferably a quiet, undisturbed place. Arrange the materials needed in a circular pattern, securing ample space to move around and create art. Light the candles and incense to create a meditative atmosphere, conducive to attuning the mind and spirit.

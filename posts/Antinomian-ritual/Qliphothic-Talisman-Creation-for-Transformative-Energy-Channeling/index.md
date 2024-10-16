@@ -35,9 +35,9 @@ Consecrate the talisman by placing it within the center of an inverted pentagram
 5. **Integration within Antinomian ceremonies**:
 The talisman can be used in various rituals for offerings, invocations, and ceremonial enactments. Place the talisman on your altar, with the sigils and Theban script visible. Ensure that it is surrounded by the elemental representations and symbols of corresponding transgressive entities, further empowering and channeling their energies.
 
-Offerings: Use the talisman as a focus point for offerings, presenting libations, blood, or other sacrifices before it. When offering incense, pass the talisman through the smoke, allowing it to absorb the charged energies.
+**Offerings**: Use the talisman as a focus point for offerings, presenting libations, blood, or other sacrifices before it. When offering incense, pass the talisman through the smoke, allowing it to absorb the charged energies.
 
-Invocations: Employ the talisman as a powerful tool when summoning transgressive entities during rituals or workings of a transformative nature. Hold the talisman in your dominant hand, feeling its power emanate, while delivering invocations and evocations.
+**Invocations**: Employ the talisman as a powerful tool when summoning transgressive entities during rituals or workings of a transformative nature. Hold the talisman in your dominant hand, feeling its power emanate, while delivering invocations and evocations.
 
 Ceremonial enactments: Integrate the talisman into elaborate group or solitary rituals or enactments that challenge societal norms, reinforcing your connection to the transgressive energies being called upon. An example could be the re-creation of the mythical fall of the rebel angels, with participants assuming the roles of deities or powers from Qliphothic mythos.
 

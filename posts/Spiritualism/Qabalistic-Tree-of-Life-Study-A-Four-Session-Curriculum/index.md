@@ -24,7 +24,7 @@ Lesson Plan: Exploring the Intricacies of Spiritualism through the Study of Qaba
 
 Target Audience: Adult learners with an interest in the esoteric, occult, or spiritual fields.
 
-Duration: Four 2-hour sessions, held weekly.
+**Duration**: Four 2-hour sessions, held weekly.
 
 Materials needed:
 1. Whiteboard or large paper sheets.

@@ -21,13 +21,13 @@ excerpt: Compose an intricate rite for the invocation and evocation of the Black
 ---
 To perform the intricate rite for the invocation and evocation of the Black Dragon Series entities, follow these detailed instructions while adhering to the sacred practices of the Black Dragon path.
 
-Preparation:
+**Preparation**:
 1. Choose a suitable location for the ritual – a quiet and secluded space, preferably outdoors, where the energy of nature can be harnessed and enhanced for the ceremony.
 2. Prepare a circular altar that represents the balance of the five elements – Earth, Air, Fire, Water, and Spirit – of the Black Dragon Series.
 3. Gather the following items for the ceremony: five candles in colors that represent the elements (green, yellow, red, blue, and white), a chalice filled with water, a censer with incense for air, an offering dish with soil for earth, an offering dish of herbs or spices for fire, and a crystal representing spirit. Include any personal objects or items that resonate with the Black Dragon path or the entities to be invoked.
 4. Inscribing specific sigils on a parchment that represents the entities to be called upon during the ceremony. Place the parchment on the altar.
 
-Purification:
+**Purification**:
 5. Take a ritual bath in water infused with salt and purifying herbs, concentrating on cleansing your physical body, your mind, and your aura. Visualize any impurities or negative energies being washed away, leaving you purified and prepared for the ceremony.
 
 The Ritual:

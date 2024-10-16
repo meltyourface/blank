@@ -27,7 +27,7 @@ With the mastery of magical papyri, I have created a comprehensive design for an
 Amulet Description:
 The enchanted amulet will be triangular in shape, representing the sacred geometry of the trinity. Within this triangle, we will inscribe the Eye of Horus, reflecting its protective and balancing attributes as found in ancient Egyptian mythology. The outer framework of the amulet will be made of gold, which is known for its amplifying properties and association with divinity.
 
-Gemstones:
+**Gemstones**:
 At each corner of the triangle, a gemstone will be placed to amplify the protective powers of the amulet. **For our design, the selected gemstones are**:
 
 1. ****Lapis Lazuli****: A symbol of protection and power.

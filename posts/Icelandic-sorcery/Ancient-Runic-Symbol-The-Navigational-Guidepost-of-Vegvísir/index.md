@@ -22,7 +22,7 @@ excerpt: >
 ---
 The Vegvísir symbol is an ancient Icelandic magical stave, often referred to as the "Runic Compass" or "Wayfinder." It is a complex, intricate symbol made up of eight rune staves that branch out from a central point. Vegvísir translates to "guidepost" or "signpost," implying that the symbol provides clear guidance and direction for the person who utilizes it.
 
-Origins:
+**Origins**:
 The first mention of the Vegvísir can be traced back to the Icelandic Huld Manuscript, a collection of Icelandic magical staves and symbols compiled in the 19th century. The true origins of the symbol, however, remain enigmatic and uncertain. Many scholars theorize that it shares common roots with Nordic runes, and its design may have been influenced by ancient star navigation techniques and measurements of the cardinal directions.
 
 Key components:

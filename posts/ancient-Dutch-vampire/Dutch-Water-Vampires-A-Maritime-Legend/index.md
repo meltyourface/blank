@@ -29,7 +29,7 @@ The correct answer is:
 
 Dutch vampires possess the ability to control water elements, reflecting their origin as water spirits, while also sharing common vampire traits such as aversion to sunlight and need for sustenance on blood.
 
-Explanation:
+**Explanation**:
 
 Ancient Dutch vampire mythology reflects a unique fusion of traditional European vampire traits and local folklore. Dutch vampires are believed to be water spirits who transition into vampires, carrying with them the ability to manipulate and control water elements. This distinct power further manifests in their association with the sea, exemplified in legends where they summoned storms and controlled the tides.
 

@@ -23,7 +23,7 @@ excerpt: >
 
 ## Title: The Homunculus Manifesto: A Practical Spagyricist's Guide to Noble Inception
 
-Introduction:
+**Introduction**:
 
 As a Spagyricist, the birth of new life through alchemy and occult practices is no foreign concept. Distilling the essence of the mundane into the extraordinary, the homunculus stands as the embodiment of the alchemical axiom "Solve et Coagula." The Homunculus Manifesto serves as an elaborate guide for fellow Spagyricists to create life through intricate methods whilst ensuring safety and ethical considerations.
 
@@ -63,6 +63,6 @@ As a Spagyricist, the birth of new life through alchemy and occult practices is 
 ### 6.2 Responsible stewardship: Examining the ethical aspects of homunculus creation
 ### 6.3 Embracing the Philosopher's Stone of life: Releasing a completed homunculus into the world
 
-Conclusion:
+**Conclusion**:
 
 The Homunculus Manifesto aims to imbue its adepts with the advanced principles of alchemy and occult methodologies. This journey of creation comes with a warning: the power to create life demands a firm grasp of the underlying ethical responsibilities and the weight of such a venture. Armed with this knowledge, true Spagyricists are prepared to embark on this most esoteric and profound pursuit: the birth of a homunculus.

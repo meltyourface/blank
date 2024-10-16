@@ -28,14 +28,14 @@ In the context of European necromancy and its relation to magical traditions, it
 
 To fully grasp their significance, we need to analyze their similarities and distinctions, while understanding the historical and cultural backgrounds that contributed to their creation.
 
-Similarities:
+**Similarities**:
 First and foremost, all three books share the fundamental premise of interacting with or manipulating spirits for personal gain or the invocation of arcane knowledge. Necromantic practices often revolve around communicating with the dead, controlling demons, binding spirits, or influencing other-worldly energies.
 
 These texts display a Christian and Hebrew influence, incorporating elements of the Kabbalah, angelic hierarchies, and Christian mysticism. This demonstrates the blending of various cultural and religious views that were occurring throughout the development of European magical traditions.
 
 Additionally, all three books essentially concern the development and mastery of the practitioner's will, determination, and knowledge. Constantly recurring themes are the importance of learning, discipline, and dedication to the magical arts. Advanced practice, guidance, and adherence to strict rituals are essential to the art of necromancy, as detailed in these books.
 
-Differences:
+**Differences**:
 Although sharing similar fundamental themes, each text has its own unique qualities and methodological approaches to necromancy.
 
 "The Munich Handbook of Necromancy" is primarily a collection of various magical spells and techniques, focusing on controlling and manipulating spirits or elemental forces. This book serves as a practical guide, covering a wide range of rituals and methods used in necromantic workings, with less emphasis on theory and philosophical constructs.

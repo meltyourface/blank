@@ -23,7 +23,7 @@ excerpt: >
 
 ## Cosmic Whispers - Celestial Messages from Beyond
 
-Introduction:
+**Introduction**:
 This anthology compiles cryptic communications originating from celestial entities, carefully acquired through the practice of cultic assimilation. As you delve into these cosmic messages, you embark on a journey of higher understanding and transcendental connections, transcending dimensions and lifetimes. Pay close attention to the intricate layers of symbolism, cultural practices, and philosophical undertones that weave through the proceeding narratives.
 
 1. The Celestial Hierarchy:
@@ -58,5 +58,5 @@ Within these communications, the reader will encounter rich symbolism alluding t
 
 Through the collection, one will witness an array of personal experiences from these celestial entities: voyages across dark energy vortices, encounters with beings of unfathomable nature, and revelations exposing the intricate tapestry linking all dimensions and timelines. The anthology highlights the incredible depth of connection and the shared synchronicities amongst every being in this vast cosmic narrative.
 
-Conclusion:
+**Conclusion**:
 Cosmic Whispers is an invitation to embark on an unprecedented journey, immersing oneself in the cryptic communications of celestial entities. As you traverse the many dimensions, witness the vast interconnectivity of existence, and ponder the enigmatic wisdom presented herein, may these messages instigate a profound shift in your consciousness and an expansion of your understanding of the universe that surrounds you.

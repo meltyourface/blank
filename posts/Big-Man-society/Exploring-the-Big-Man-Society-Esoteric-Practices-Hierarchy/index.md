@@ -23,7 +23,7 @@ excerpt: >
 
 ## Title: Section IV: The Big Man Society: A Deep Dive into Its Secrets and Wisdom
 
-Introduction:
+**Introduction**:
 
 The elusive Big Man Society has been an enigma for those seeking knowledge and wisdom in the realm of the esoteric, occult, and spiritualism. Providing a comprehensive understanding of its history, structure, practices, and rituals can help guide a student of the occult in their journey for a deeper understanding of this secretive group. In this section, we will delve into the core beliefs, ranks, roles, and esoteric knowledge passed down within the society, and offer insights on how an aspiring occultist might approach learning more about this mysterious organization.
 

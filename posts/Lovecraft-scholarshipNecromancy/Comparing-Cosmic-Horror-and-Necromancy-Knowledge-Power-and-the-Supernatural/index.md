@@ -28,12 +28,12 @@ Necromancy, on the other hand, is an ancient practice and a branch of the occult
 
 Now that we have established the definitions of Lovecraft's cosmic horror and necromancy, let us delve into the similarities and contrasts between them, as well as the connections between their themes, techniques, and underlying philosophies.
 
-Similarities:
+**Similarities**:
 1. ****Perception of forbidden knowledge****: Both Lovecraft's cosmic horror and traditional necromancy revolve around the pursuit of knowledge deemed forbidden or dangerous. In Lovecraft's universe, protagonists and scholars typically perish or descend into madness as a result of their attempts to unravel the secrets of the cosmos, such as deciphering the ancient text "The Necronomicon." Similarly, necromancers seek forbidden knowledge by trying to communicate with the dead, even when confronted with the risks of dabbling in the supernatural.
 
 2. ****Supernatural elements****: Both disciplines involve paranormal, supernatural, or otherworldly components that offer a sense of mystery and intrigue. Lovecraft's cosmic horror stories delve into the existence of unspeakable creatures and cosmic entities, while necromancy often features spirits, ghosts, and the afterlife.
 
-Contrasts:
+**Contrasts**:
 1. ****Scope and scale of the cosmic context****: While both cosmic horror and necromancy grapple with eldritch and macabre realities, the scope of the cosmic horror is vastly larger, both in literal geography and in philosophical terms. Cosmic horror focuses on humanity's cosmic insignificance amid an incomprehensible universe, while necromancy is rooted primarily in the earthly realm, dealing with the deceased and their connection to the living.
 
 2. ****Human agency****: In cosmic horror, humans are often powerless against the overwhelming malevolence of unfathomable cosmic forces. In contrast, necromancers in traditional practices possess a degree of control and agency in their work, manipulating the dead and spirits through their rituals and willpower.

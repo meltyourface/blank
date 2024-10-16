@@ -23,13 +23,13 @@ excerpt: >
 
 ## Journey into Chesed - A Guided Meditation for IX° of the ORDO TEMPLI ORIENTIS
 
-Introduction:
+**Introduction**:
 Welcome, fellow initiate of the IX° of the ORDO TEMPLI ORIENTIS. This guided meditation is designed to facilitate your journey into the mystical Sephirah of Chesed, the fourth emanation on the Tree of Life. We will encounter esoteric symbols, Qabalistic concepts, and evoke the guiding presence of the archangel Zadkiel. As we delve into the depths of Chesed and its energies of mercy and compassion, we shall expand our spiritual growth within the framework of Thelemic teachings. 
 
-Preparation:
+**Preparation**:
 Sit or lie down in a comfortable position, ensuring you have enough room to move and breathe freely. Close your eyes and take a few deep breaths, grounding yourself in the present moment. As you inhale, visualize a radiant sphere of brilliant white light descending upon you, purifying and energizing your body and spirit. As you exhale, release any tensions or negative energies from within you.
 
-Meditation:
+**Meditation**:
 
 1. Settling into the Sephirah of Chesed:
 As your mind grows quiet, visualize yourself standing at the entrance to a great, ancient temple. This is the Temple of Chesed, where mercy, compassion, and loving-kindness abound. With each step you take into this sacred space, feel yourself becoming lighter, more open to receiving the wisdom and energies that Chesed offers.
@@ -53,5 +53,5 @@ Allow yourself to be immersed in the wisdom and teachings of Thelema. Invoke the
 6. Cultivating Mercy, Compassion, and Empowerment:
 As you bask in the energies of Chesed, feel a growing sense of empowerment, fueled by the lessons and experiences gained throughout your journey. Know that when you carry these energies within you, you radiate mercy, compassion, and loving-kindness to all those whom you encounter.
 
-Closing:
+**Closing**:
 As your meditation draws to a close, express your gratitude to the archangel Zadkiel for his guidance and wisdom. Begin to ground yourself in the present moment, breathing deeply as you bring awareness back to your physical body. When you feel ready, open your eyes, knowing that you have truly experienced the transformative power of the Sephirah of Chesed within your spiritual practice.

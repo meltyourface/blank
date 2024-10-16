@@ -21,15 +21,15 @@ excerpt: Which strategic deployment and utilization of a Griffin, a Basilisk, an
 ---
 To thoroughly address this knowledge challenge, we first need to understand the inherent characteristics of each magical creature in question – the Griffin, the Basilisk, and the Phoenix, as well as the adversaries – the powerful mage and the Hydra.
 
-Griffin: A Griffin is a majestic creature with the body of a lion and the head and wings of an eagle. They are known for their incredible strength, speed, and agility. Their superior aerial abilities and keen eyesight make them excellent scouts and maneuverable warriors.
+**Griffin**: A Griffin is a majestic creature with the body of a lion and the head and wings of an eagle. They are known for their incredible strength, speed, and agility. Their superior aerial abilities and keen eyesight make them excellent scouts and maneuverable warriors.
 
-Basilisk: The Basilisk, commonly referred to as the King of Serpents, is a highly venomous snake that possesses an infamous deadly gaze. Any living being that directly looks into the Basilisk's eyes would be petrified or killed instantly. Additionally, it has lethal venom in its fangs that would kill anyone within a matter of minutes if bitten.
+**Basilisk**: The Basilisk, commonly referred to as the King of Serpents, is a highly venomous snake that possesses an infamous deadly gaze. Any living being that directly looks into the Basilisk's eyes would be petrified or killed instantly. Additionally, it has lethal venom in its fangs that would kill anyone within a matter of minutes if bitten.
 
-Phoenix: The Phoenix is a mythical bird that is bathed in flames and reborn from its own ashes. This miraculous creature is known for its healing powers and ability to resurrect itself upon death. Its tears contain powerful healing properties, while its fiery aura is capable of warding off any creature susceptible to fire.
+**Phoenix**: The Phoenix is a mythical bird that is bathed in flames and reborn from its own ashes. This miraculous creature is known for its healing powers and ability to resurrect itself upon death. Its tears contain powerful healing properties, while its fiery aura is capable of warding off any creature susceptible to fire.
 
 Powerful Mage: A potent spellcaster with various magical abilities that may include, but are not limited to, elemental spells, summoning, and barriers. This individual will be a calculated and formidable foe with a deep understanding of magical arts.
 
-Hydra: This multi-headed serpent possesses regenerative capabilities. When one head is cut off, multiple heads will grow in its place. It’s also worth noting that the Hydra’s blood is poisonous, a vital aspect to consider during combat.
+**Hydra**: This multi-headed serpent possesses regenerative capabilities. When one head is cut off, multiple heads will grow in its place. It’s also worth noting that the Hydra’s blood is poisonous, a vital aspect to consider during combat.
 
 To maximize the combined potential and complementary abilities of the Griffin, Basilisk, and Phoenix against the powerful mage and Hydra, we must leverage their individual strengths in a coordinated manner.
 

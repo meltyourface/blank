@@ -34,7 +34,7 @@ Materials required for the ritual:
 9. A white or gold candle to represent the sun's light.
 10. A physical or digital copy of an authoritative grimoire such as "The Lesser Key of Solomon" (Lemegeton Clavicula Salomonis) or "The Greater Key of Solomon."
 
-Calculations:
+**Calculations**:
 
 1. ****Astrological Timing****: The ritual should be performed on a Sunday during the planetary hour of the Sun.
 2. ****Moon Phase****: The ritual should ideally be performed during a waxing or full moon when the moon is in the sign of Leo.

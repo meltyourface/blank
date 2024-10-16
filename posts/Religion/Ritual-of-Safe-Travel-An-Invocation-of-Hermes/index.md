@@ -22,7 +22,7 @@ excerpt: Compose an intricate religious script for a safe travel blessing, incor
 
 ## The Rite of Safe Passage with the Guidance of Hermes
 
-Introduction:
+**Introduction**:
 The Rite of Safe Passage is a ritual dedicated to Hermes, the ancient Greek god of travelers, boundaries, transitions, and communication. Hermes is known for guiding travelers safely on their journeys, ensuring their protection from harm, and blessing them with a swift and expedient path. By invoking the powers of Hermes and the Homeric Hymns, the ritual affirms the deity's guidance, seeks divine intercession, and cultivates an atmosphere of reverence—providing the traveler with protection and confidence as they embark.
 
 Materials required:

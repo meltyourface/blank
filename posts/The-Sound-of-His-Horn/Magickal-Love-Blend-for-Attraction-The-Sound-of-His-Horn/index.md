@@ -21,7 +21,7 @@ excerpt: Craft a potent, magickal herbal blend specifically tailored to evoke th
 ---
 To craft a potent, magickal herbal blend specifically tailored to evoke the essence of The Sound of His Horn and harness its occult energies to enhance love and attraction, follow this detailed recipe:
 
-Ingredients:
+**Ingredients**:
 1. 2 parts Damiana
 2. 1 part Orris Root
 3. 1 part Jasmine flowers
@@ -31,7 +31,7 @@ Ingredients:
 7. ½ part Dragon's Blood resin (ground)
 8. A few drops of Ambergris oil
 
-Preparation:
+**Preparation**:
 
 Before beginning, ensure the work area is clean and free from distractions. Light candles and incense, preferably rose or jasmine, to create a suitable atmosphere for the work.
 

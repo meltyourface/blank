@@ -27,66 +27,66 @@ The harmonization and attunement of the seven primary chakras is essential for m
 
 1. Root Chakra (Muladhara)
 
-Element: Earth
+**Element**: Earth
 Astrological Correlation: Capricorn, Taurus, Virgo
 Symbols & Sigils: Square, downward-pointing triangle, Swastika
 Deities & Entities: Ganesha, Archangel Michael, Gaia
 
-Ritual: Begin by drawing the sigils associated with the root chakra in red on a square piece of parchment. Place a piece of black tourmaline or garnet at the center. Light a red candle while invoking the energy of Ganesha, Archangel Michael, and Gaia. Chant the ancient mantra "Lam" (pronounced lum) and visualize your root chakra being activated and stabilized.
+**Ritual**: Begin by drawing the sigils associated with the root chakra in red on a square piece of parchment. Place a piece of black tourmaline or garnet at the center. Light a red candle while invoking the energy of Ganesha, Archangel Michael, and Gaia. Chant the ancient mantra "Lam" (pronounced lum) and visualize your root chakra being activated and stabilized.
 
 2. Sacral Chakra (Svadhishthana)
 
-Element: Water
+**Element**: Water
 Astrological Correlation: Cancer, Scorpio, Pisces
 Symbols & Sigils: Circle, crescent moon, Lingham
 Deities & Entities: Aphrodite, Archangel Gabriel, Parvati
 
-Ritual: Inscribe a circle with the sigils associated with the sacral chakra in orange on a parchment. Place a piece of semi-precious stone such as carnelian at the center. Light an orange candle and invoke the energy of Aphrodite, Archangel Gabriel, and Parvati. Chant the ancient mantra "Vam" (pronounced vum) and visualize your sacral chakra being activated and balanced.
+**Ritual**: Inscribe a circle with the sigils associated with the sacral chakra in orange on a parchment. Place a piece of semi-precious stone such as carnelian at the center. Light an orange candle and invoke the energy of Aphrodite, Archangel Gabriel, and Parvati. Chant the ancient mantra "Vam" (pronounced vum) and visualize your sacral chakra being activated and balanced.
 
 3. Solar Plexus Chakra (Manipura)
 
-Element: Fire
+**Element**: Fire
 Astrological Correlation: Aries, Leo, Sagittarius
 Symbols & Sigils: Triangle, Ram’s Head, Enneagram
 Deities & Entities: Apollo, Archangel Uriel, Lakshmi
 
-Ritual: Draw a triangle and the sigils associated with the solar plexus chakra in yellow on parchment. Place a piece of yellow citrine or amber at the center. Light a yellow candle and invoke the energy of Apollo, Archangel Uriel, and Lakshmi. Chant the ancient mantra "Ram" (pronounced rum) and visualize your solar plexus chakra being activated and strengthened.
+**Ritual**: Draw a triangle and the sigils associated with the solar plexus chakra in yellow on parchment. Place a piece of yellow citrine or amber at the center. Light a yellow candle and invoke the energy of Apollo, Archangel Uriel, and Lakshmi. Chant the ancient mantra "Ram" (pronounced rum) and visualize your solar plexus chakra being activated and strengthened.
 
 4. Heart Chakra (Anahata)
 
-Element: Air
+**Element**: Air
 Astrological Correlation: Gemini, Libra, Aquarius
 Symbols & Sigils: Hexagram, Two Triangles, Yin Yang
 Deities & Entities: Eros, Archangel Raphael, Kuan Yin
 
-Ritual: Inscribe the sigils associated with the heart chakra in green on a parchment paper. Place a piece of rose quartz or green aventurine at the center. Light a green candle and invoke the energy of Eros, Archangel Raphael, and Kuan Yin. Chant the ancient mantra "Yam" (pronounced yum) and visualize your heart chakra being activated and restored.
+**Ritual**: Inscribe the sigils associated with the heart chakra in green on a parchment paper. Place a piece of rose quartz or green aventurine at the center. Light a green candle and invoke the energy of Eros, Archangel Raphael, and Kuan Yin. Chant the ancient mantra "Yam" (pronounced yum) and visualize your heart chakra being activated and restored.
 
 5. Throat Chakra (Vishuddha)
 
-Element: Ether
+**Element**: Ether
 Astrological Correlation: Taurus, Virgo, Capricorn
 Symbols & Sigils: Inverted Triangle, Eagle, Pentacle
 Deities & Entities: Saraswati, Archangel Gabriel, Mercury
 
-Ritual: Draw the sigils associated with the throat chakra in blue on a parchment. Place a piece of sodalite or blue lace agate at the center. Light a blue candle and invoke the energy of Saraswati, Archangel Gabriel, and Mercury. Chant the ancient mantra "Ham" (pronounced hum) and visualize your throat chakra being activated and aligned.
+**Ritual**: Draw the sigils associated with the throat chakra in blue on a parchment. Place a piece of sodalite or blue lace agate at the center. Light a blue candle and invoke the energy of Saraswati, Archangel Gabriel, and Mercury. Chant the ancient mantra "Ham" (pronounced hum) and visualize your throat chakra being activated and aligned.
 
 6. Third Eye Chakra (Ajna)
 
-Element: Light (Archetypal)
+**Element**: Light (Archetypal)
 Astrological Correlation: Aries, Leo, Sagittarius
 Symbols & Sigils: Eye of Horus, Eye of Ra, Om
 Deities & Entities: Horus, Archangel Uriel, Sophia
 
-Ritual: Inscribe the sigils associated with the third eye chakra in indigo on parchment. Place a piece of lapis lazuli or amethyst at the center. Light an indigo candle and invoke the energy of Horus, Archangel Uriel, and Sophia. Chant the ancient mantra "Om" (pronounced aum) and visualize your third eye chakra being activated and awakened.
+**Ritual**: Inscribe the sigils associated with the third eye chakra in indigo on parchment. Place a piece of lapis lazuli or amethyst at the center. Light an indigo candle and invoke the energy of Horus, Archangel Uriel, and Sophia. Chant the ancient mantra "Om" (pronounced aum) and visualize your third eye chakra being activated and awakened.
 
 7. Crown Chakra (Sahasrara)
 
-Element: Divine Spirit
+**Element**: Divine Spirit
 Astrological Correlation: Pisces, Cancer, Scorpio
 Symbols & Sigils: Lotus, Thousand-Petaled Lotus, Infinity
 Deities & Entities: God/Goddess, Archangel Metatron, Brahma
 
-Ritual: Draw the sigils associated with the crown chakra in violet on a piece of parchment. Place a piece of clear quartz or lepidolite at the center. Light a violet candle and invoke the energies of the God/Goddess, Archangel Metatron, and Brahma. Chant the ancient mantra "Ah" (pronounced ah) and visualize your crown chakra being activated and connected to the divine.
+**Ritual**: Draw the sigils associated with the crown chakra in violet on a piece of parchment. Place a piece of clear quartz or lepidolite at the center. Light a violet candle and invoke the energies of the God/Goddess, Archangel Metatron, and Brahma. Chant the ancient mantra "Ah" (pronounced ah) and visualize your crown chakra being activated and connected to the divine.
 
 ### III. Overarching Ritual
 

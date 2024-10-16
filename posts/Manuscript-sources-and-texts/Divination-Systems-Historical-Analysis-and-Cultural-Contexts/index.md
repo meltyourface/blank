@@ -49,17 +49,17 @@ Obscure Texts and Oral Traditions:
 
 2. **Patterns and Variations in Divination Methods**:
 
-Tarot:
+**Tarot**:
 - Variations in the number of cards, suits, and their arrangement, reflecting cultural and historical influences.
 - Emergence of the major and minor arcana in European occult circles in the 18th and 19th centuries.
 - The influence of Qabalah and hermetic symbolism on the development of tarot.
 
-Runes:
+**Runes**:
 - Development of various runic alphabets throughout Northern Europe.
 - Use of runes for both mundane communication and magical purposes.
 - Cultural significance and interpretations of individual runes, dependent on geographic location and historical context.
 
-Geomancy:
+**Geomancy**:
 - Diverse methods of generating geomantic figures, including coins, sand, and seeds.
 - Cross-cultural influences, particularly between West African and European practitioners.
 - The incorporation of astrological symbolism in the interpretation of geomantic charts.

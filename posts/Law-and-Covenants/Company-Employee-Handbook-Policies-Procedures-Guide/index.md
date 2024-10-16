@@ -70,7 +70,7 @@ Table of Contents
 
 [Employee Details should be expanded upon to provide detailed instructions, protocols, and guidance on each of the topics listed within the Table of Contents.]
 
-Example:
+**Example**:
 
 ### Section 4.1: Personal Conduct & Workplace Behavior
 
@@ -98,7 +98,7 @@ Dispute Resolution:
 
 Any employee who encounters a dispute or disagreement should first try to resolve the issue through open communication with the concerned party. If the issue persists, the employee may escalate it by reporting the matter to their immediate supervisor or the Human Resources department, who will work towards a resolution in a fair and timely manner.
 
-Confidentiality:
+**Confidentiality**:
 
 Employee privacy is of utmost importance. Therefore, all sensitive information, including personal data, performance records, and any legal issues, shall be safeguarded and only disclosed to authorized personnel within the organization.
 

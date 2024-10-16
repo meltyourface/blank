@@ -22,7 +22,7 @@ excerpt: Devise a comprehensive ritual utilizing the principles of White Darknes
 
 ## Ritual of the Luminous Shadow
 
-Purpose: To harmonize and balance the seven primary chakras using principles of White Darkness and facilitate spiritual growth, self-discovery, and the alignment of light and shadow aspects.
+**Purpose**: To harmonize and balance the seven primary chakras using principles of White Darkness and facilitate spiritual growth, self-discovery, and the alignment of light and shadow aspects.
 
 Materials needed:
 
@@ -32,7 +32,7 @@ Materials needed:
 4. A black candle to represent the shadow aspects
 5. A quiet and undisturbed space for performing the ritual
 
-Preparation:
+**Preparation**:
 
 1. Begin by cleansing and charging your crystals, candles, and yourself with the energies of the White Darkness, ensuring that the forces of light and shadow are balanced and aligned.
 2. Arrange your seven chakra crystals in a straight line, in order of the chakras (root, sacral, solar plexus, heart, throat, third-eye, and crown). Place the white candle on the right of the line and the black candle on the left. Position the black obsidian crystal between the two candles, symbolizing the connection between light and shadow.

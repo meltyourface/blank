@@ -50,7 +50,7 @@ To activate the crystal configuration, connect each crystal by visualizing a flo
 6. Detailed Visualization Technique:
 The individual should be seated or lying down comfortably within or near the crystal configuration. Ask them to close their eyes and breathe deeply. Guide them through a visualization technique that is tailored to their specific needs.
 
-Examples:
+**Examples**:
 - For physical healing, ask the individual to visualize a golden light emanating from the Carnelian crystal and enveloping their body.
 - For emotional healing, have them imagine a soothing pink light from the Rose Quartz surrounding their heart and dissolving any emotional blockages.
 - For spiritual healing, suggest they visualize a vibrant purple light from the Amethyst activating their crown chakra and connecting them with the divine source.

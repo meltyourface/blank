@@ -22,9 +22,9 @@ excerpt: Design a sacred ritual for the consecration of ceremonial tools, drawin
 
 ## The Ritual of Consecration of the Sacred Tools
 
-Purpose: To consecrate and empower ceremonial tools with the intention of connecting one's personal will to the true magical purpose of the tools. This ritual draws upon the esoteric teachings of Moina Mathers and the Hermetic Order of the Golden Dawn.
+**Purpose**: To consecrate and empower ceremonial tools with the intention of connecting one's personal will to the true magical purpose of the tools. This ritual draws upon the esoteric teachings of Moina Mathers and the Hermetic Order of the Golden Dawn.
 
-Preparation:
+**Preparation**:
 1. Choose a suitable time for the ritual, preferably during a New Moon or when the Moon is waxing to enhance the energies of growth and manifestation. Additionally, consider astrological correspondences that align with the intention of the tools. For example, Mars for a ritual dagger or Venus for a chalice.
 
 2. Carefully clean the space where the ritual will be performed, ensuring a clear and clean environment for the flow of magical energies.

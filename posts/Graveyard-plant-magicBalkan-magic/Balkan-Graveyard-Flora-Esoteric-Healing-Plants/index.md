@@ -22,13 +22,13 @@ excerpt: Create a meticulously researched compendium of graveyard flora endemic 
 
 ## Enigmatic Flora of Balkan Graveyards: A Meticulous Compendium on Magick, Rituals, and Healing Elixirs Derived from the Most Sacred Grounds.
 
-Introduction:
+**Introduction**:
 
 In the rich and diverse cultural tapestry that comprises the Balkans, ancient traditions, folklore, and esoteric practices intermingle to form a complex and compelling mosaic. The region's graveyard flora, steeped in mystery and shrouded in superstition, are no exception. This meticulously researched compendium is a testament to the captivating world of Balkan graveyard flora, exploring their multifaceted uses in regional occult practices, burial rites, and traditional remedies. Ethically harvested specimens and evocative illustrations provide invaluable insights into their morphology, growth patterns, and enchanting history.
 
 (N.B. Due caution is advised when employing any information contained herein. Always seek the guidance of a qualified practitioner before undertaking any rituals or preparations involving these plants.)
 
-Contents:
+**Contents**:
 
 1. Atropa belladonna (Deadly Nightshade)
 - Growth patterns: Thrives in graveyards with rich, well-drained soils, and partial sunlight.
@@ -60,6 +60,6 @@ Contents:
 
 (And various other entries...)
 
-Conclusion:
+**Conclusion**:
 
 The myriad flora that populate Balkan graveyards offer unrivaled enchantment and a wealth of esoteric knowledge, their enigmatic use in rituals and healing elixirs bridging the mortal and ethereal realms. This compendium is but a glimpse into the intriguing world they inhabit, a testament to the enduring allure of the ancient traditions from which they spring.

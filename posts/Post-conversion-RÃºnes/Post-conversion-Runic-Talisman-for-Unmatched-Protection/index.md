@@ -23,10 +23,10 @@ excerpt: >
 Talisman Design:
 The Post-conversion Runic talisman for unparalleled protection shall be a grand fusion of Esoteric Vigoróaᵸ and the Ægishjálmur Runic formations, designed to create an impenetrable energetic shield. The talisman is composed of harmonious combinations of Algiz, Thurisaz, and Isa Runic elements, resulting in a symbiotic synergy of energies to bring forth the most potent protection.
 
-Dimensions: 
+**Dimensions**: 
 The talisman shall be circular, with a diameter of 3.15 inches (8 cm). This size allows it to be easily carried and affixed to various objects, such as clothing or tools.
 
-Materials: 
+**Materials**: 
 Craft the talisman from a combination of silver and amethyst, ensuring a balance between stability and spiritual conductivity. The silver represents the grounding properties of the Earth's energies, while the amethyst enhances the protection properties and facilitates a healthy flow of divine energy.
 
 Transformative Specifications:

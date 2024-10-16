@@ -50,7 +50,7 @@ Major Arcana:
 
 Minor Arcana:
 
-Note: The Minor Arcana cards are divided into four suits: Cups, Wands, Swords, and Pentacles. Each suit is associated with an element (Water, Fire, Air, and Earth respectively), and has numbered cards (Ace to Ten) as well as Court cards (Page, Knight, Queen, and King).
+**Note**: The Minor Arcana cards are divided into four suits: Cups, Wands, Swords, and Pentacles. Each suit is associated with an element (Water, Fire, Air, and Earth respectively), and has numbered cards (Ace to Ten) as well as Court cards (Page, Knight, Queen, and King).
 
 The Minor Arcana cards represent the challenges and experiences we face in daily life. Their meanings are influenced by the Major Arcana cards they're connected to, and they can provide additional insights into the esoteric context of a reading.
 

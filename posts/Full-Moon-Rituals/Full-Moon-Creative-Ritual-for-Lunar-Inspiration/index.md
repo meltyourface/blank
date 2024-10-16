@@ -23,7 +23,7 @@ excerpt: >
 
 ## Title: The Scribe's Lunar Muse
 
-Objective: To capture the full moon's energy and channel it into creative endeavors, specifically focusing on artistic projects, writing, and other forms of self-expression.
+**Objective**: To capture the full moon's energy and channel it into creative endeavors, specifically focusing on artistic projects, writing, and other forms of self-expression.
 
 Key Themes: Creativity, inspiration, self-expression, lunar energy
 

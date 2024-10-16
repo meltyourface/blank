@@ -22,15 +22,15 @@ excerpt: Develop a comprehensive ritual for the enhancement of clairvoyance abil
 
 ## Ritual of Necrosophic Clairvoyance Enhancement
 
-Purpose: To enhance clairvoyance abilities through the harnessing of necromantic shadows, invocation of spectral entities, and amplification of necromantic energies.
+**Purpose**: To enhance clairvoyance abilities through the harnessing of necromantic shadows, invocation of spectral entities, and amplification of necromantic energies.
 
-Preparation:
+**Preparation**:
 
 1. Choose an appropriate location, ideally a place where powerful spectral entities reside or where death holds a strong presence (like a graveyard or abandoned building).
 2. Cleanse the area with a mixture of salt, water, and sage, to purify the surroundings and create a suitable environment for performing the ritual.
 3. Erect a protective circle using salt or chalk around the perimeter to prevent unwanted entities from entering or interfering with the ritual.
 
-Materials:
+**Materials**:
 
 1. A personal item or a token representing the physical body (e.g., lock of hair or photograph)
 2. Three black candles
@@ -74,4 +74,4 @@ As I walk the shadow realm, with your guidance divine."
 13. Extinguish the candles and incense, and take down the protective circle.
 14. Wear the shadow-infused talisman regularly, so that the energies of the spectral entities and the necromantic shadows continue to enhance your clairvoyance abilities.
 
-Note: This ritual can be adapted and modified for different purposes or personalized elements. Be sure to give credit and reverence to the spectral entities and approach this ritual with respect for their powers and domains.
+**Note**: This ritual can be adapted and modified for different purposes or personalized elements. Be sure to give credit and reverence to the spectral entities and approach this ritual with respect for their powers and domains.

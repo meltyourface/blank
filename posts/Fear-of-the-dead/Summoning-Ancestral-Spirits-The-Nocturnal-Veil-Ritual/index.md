@@ -21,11 +21,11 @@ excerpt: Design a sinister yet respectful ritual to summon the spirits of ancien
 ---
 Ritual Name: The Nocturnal Veil
 
-Purpose: To summon the spirits of ancient burial grounds while intensifying the fear of the dead.
+**Purpose**: To summon the spirits of ancient burial grounds while intensifying the fear of the dead.
 
-Participants: The Conjuror (main practitioner), The Sentinel (protector), The Psychopomp (intermediary)
+**Participants**: The Conjuror (main practitioner), The Sentinel (protector), The Psychopomp (intermediary)
 
-Preparation:
+**Preparation**:
 
 1. Choose a burial ground steeped in history and local lore, preferably with tales of malevolent spirits and a mysterious past.
 2. Identify the most sinister tombstone or monument within the burial ground as the central focus point for the ritual.

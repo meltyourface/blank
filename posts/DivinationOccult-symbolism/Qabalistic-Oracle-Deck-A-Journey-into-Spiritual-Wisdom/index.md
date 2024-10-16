@@ -26,7 +26,7 @@ Oracle Deck: Qabalistic Journey
 
 1. ****Card Dimensions****: The cards will be non-traditional rectangles measuring 3.25" x 5.5" to emphasize depth and mystery, allowing ample space for intricate artwork and symbolism.
 
-Cards:
+**Cards**:
 
 Ten Sephirot Cards:
 
@@ -45,7 +45,7 @@ Twenty-two Path Cards:
 
 1-22: Each of the 22 cards will represent one of the 22 Paths found within the Qabalah. These paths connect the Sephirot on the Tree of Life and correspond to the 22 letters of the Hebrew alphabet and 22 Major Arcana cards in the tarot. Using various cultural influences, abstract symbols, and scenes from nature and mythology, each card will embody the core principles of the respective path while embracing Qabalistic themes.
 
-Guidebook:
+**Guidebook**:
 
 The guidebook accompanying the oracle deck will provide explanations for each card's Qabalistic significance, as well as the cultural and esoteric symbolism incorporated into the artwork. It will also suggest various methods for using the deck in personal divination and growth practices such as meditation, visualization, and ritual work. Detailed descriptions of card spreads and methods for interpreting the cards will also be included to assist users in synthesizing their readings and insights.
 

@@ -33,15 +33,15 @@ The process of alchemical transmutation, specifically to produce the Philosopher
 
 The option Mercury, Sulfur, Salt, Calcination, Dissolution, Separation, Conjunction, Fermentation, Distillation, Coagulation is the accurate combination as it encompasses the essential elements, principles, and stages necessary for the Philosopher's Stone.
 
-Elements:
+**Elements**:
 1. Mercury: Representing the spirit or volatility, Mercury is the life force, often ascribed to the animating principle.
 2. Sulfur: Representing the soul, Sulfur is the aspect of binding and stabilizing. It is connected to the essence of the thing being transmuted.
 3. Salt: Representing the body and the principles of form and matter, Salt hosts the operation carried out on it. It acts as a receptacle for the process.
 
-Principles:
+**Principles**:
 - The Triad of Unity: The interplay of Mercury, Sulfur, and Salt constitutes the triad of unity that maintains a balance between opposing forces, allowing the alchemical process to proceed.
 
-Stages:
+**Stages**:
 1. Calcination: The first stage, involving heating a substance to reduce it to ashes or powder. It symbolizes the purification and burning away of impurities.
 2. Dissolution: This stage dissolves the remaining residues in liquid, allowing for a deeper level of purification by breaking down and releasing the substance's hidden essence.
 3. Separation: The process of isolating the vital components from the purified material, letting go of the unneeded parts.

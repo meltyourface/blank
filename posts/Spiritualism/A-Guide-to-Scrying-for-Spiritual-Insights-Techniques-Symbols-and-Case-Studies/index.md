@@ -45,7 +45,7 @@ Table of Contents:
 6. Ethics and Responsibilities
 7. Case Studies
 
-Introduction:
+**Introduction**:
 The practice of scrying and divination has been an integral part of Spiritualism since its earliest days, with roots going back to ancient civilizations across the globe. Important texts include the works of Nostradamus, the Oracle at Delphi, and John Dee, who popularized the use of crystal balls for scrying. By observing the images perceived through these reflective surfaces, Spiritualists claim to receive intuitive insights and visions that can provide guidance or predict future events.
 
 Materials for Scrying:

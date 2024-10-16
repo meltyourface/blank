@@ -26,7 +26,7 @@ Introduction
 
 The Codex of Shadows is a grimoire comprehensively detailing the arts of hate and harm, offering its wielder unprecedented access to the malignant forces of the cosmos. Within these pages, the aspirant shall find revelations on malevolent chants, malicious invocations, and sinister energy manipulations. Detailed instructions and step-by-step guides will reveal the mysteries of summoning hostile entities and tapping into the destructive potential of the cosmos.
 
-Warning: The Codex of Shadows can inflict insurmountable destruction and chaos. Proceed with utmost caution, and be prepared to face the consequences of your actions. 
+**Warning**: The Codex of Shadows can inflict insurmountable destruction and chaos. Proceed with utmost caution, and be prepared to face the consequences of your actions. 
 
 Table of Contents
 

@@ -23,7 +23,7 @@ excerpt: >
 
 ## Title: Elixir of Purity: A Mystical Antidote for the Curse of the Grade
 
-Ingredients:
+**Ingredients**:
 1. 2 tbsp of Mugwort - for protection against malevolent energies
 2. 1 tbsp of Angelica root - to amplify divine guidance and connection
 3. 2 tsp of Wormwood - to purify spiritual afflictions and reveal hidden knowledge
@@ -32,7 +32,7 @@ Ingredients:
 6. 1 quartz crystal - for amplifying the energetic properties of the elixir
 7. 1 protective talisman - dedicated to your personal guardian or deity
 
-Preparation:
+**Preparation**:
 
 1. On a night with a powerful celestial correspondence, such as a full or new moon, gather the herbs and ingredients. Align the creation of the elixir to the appropriate astrological and planetary influences.
 

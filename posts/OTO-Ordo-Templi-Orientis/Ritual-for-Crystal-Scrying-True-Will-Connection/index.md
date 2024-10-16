@@ -23,9 +23,9 @@ excerpt: >
 
 ## Rite of the Revealing Crystal
 
-Purpose: To establish a deep connection with the True Will and the inner self, utilizing the tools of a consecrated crystal ball, invocations, and visualization techniques.
+**Purpose**: To establish a deep connection with the True Will and the inner self, utilizing the tools of a consecrated crystal ball, invocations, and visualization techniques.
 
-Preparation:
+**Preparation**:
 
 1. Prepare the ritual space with a clean and stable altar, facing east.
 2. Place the consecrated crystal ball at the center of the altar. Surround it with a circle of lit candles, representing the Light of the Divine or the True Will.

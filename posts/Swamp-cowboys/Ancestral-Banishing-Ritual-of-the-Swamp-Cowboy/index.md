@@ -21,7 +21,7 @@ excerpt: Conjure a ritual imbued with the essence of Swamp cowboys to banish mal
 ---
 I call upon the ancient wisdom of the Swamp cowboys to guide me in the creation of this powerful and complex ritual for the banishment of malevolent ghostly entities found lurking in the haunted swamps of the deep south. To perform this ritual with the utmost skill and mastery, I will call upon the elements and ingredients native to these forsaken lands, channeling the spiritual essence of the cowboy archetype.
 
-Ingredients:
+**Ingredients**:
 1. Gator teeth
 2. Spanish moss
 3. Cypress tree bark

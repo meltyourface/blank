@@ -27,27 +27,27 @@ Introduction
 
 Metals and alloys have played a significant role in the history of human spirituality and mysticism. Their unique physical properties, cultural symbolism, and esoteric associations have made them particularly potent tools for the practitioner of magic and the occult. This guide serves as an introduction to the spiritual, symbolic, and magical properties of the most commonly used metals – gold, silver, copper, iron, lead, and tin. It also provides practical advice on how to harness and utilize their energies effectively in rituals, charms, and talismans.
 
-Gold: The Metal of the Sun
+**Gold**: The Metal of the Sun
 
 Gold is often associated with the Sun due to its radiant and luminous quality. This precious metal symbolizes purity, abundance, and prosperity, making it a powerful tool in rituals concerning wealth, success, and personal power. As a spiritual conductor, gold can be used to increase one's vibration and facilitate communication with higher realms. In charms and talismans, gold amplifies the properties of the stones and other materials it is combined with, enhancing their overall potency.
 
-Silver: The Metal of the Moon
+**Silver**: The Metal of the Moon
 
 The reflective nature of silver has led to its association with the Moon, making it a conduit for lunar energy. Silver represents intuition, psychic ability, and emotional balance. It can be a powerful tool for protection, especially during times of spiritual vulnerability. In magical practices, silver is used to enhance psychic awareness, promote emotional healing, and strengthen connections to the divine feminine. As a component in charms and talismans, silver aids in deepening one's intuition and improving receptivity to subtle energies.
 
-Copper: The Metal of Venus
+**Copper**: The Metal of Venus
 
 Copper's reddish-orange hue and malleability associate it with the planet Venus and the divine feminine. It symbolizes love, beauty, and artistic expression. In esoteric practices, copper is used as a grounding force, helping to channel and balance one's personal energy. Incorporating copper into rituals and charms can attract love, enhance creativity, and promote harmony within relationships.
 
-Iron: The Metal of Mars
+**Iron**: The Metal of Mars
 
 Iron is aligned with the planet Mars, embodying strength, willpower, and protection. Its magnetic properties make it an ideal medium for repelling negative energies and shielding oneself from psychic attacks. Iron is commonly used in talismans for courage, victory, and personal transformation. In spellwork, iron can be used to invoke resolution, break down obstacles, and assert one's will.
 
-Lead: The Metal of Saturn
+**Lead**: The Metal of Saturn
 
 Lead, a dense and heavy metal, is associated with Saturn, the planet of structure, discipline, and karmic lessons. In the occult, lead signifies transformation, as it can be refined and purified into valuable materials such as silver and gold. Its weight is considered grounding and stabilizing, allowing one to confront deep-seated fears and limitations. Lead is often utilized in alchemical processes, rituals for self-discovery, and practices involving banishing and binding.
 
-Tin: The Metal of Jupiter
+**Tin**: The Metal of Jupiter
 
 Tin, a malleable and ductile metal, is linked to Jupiter, the planet of expansion, growth, and wisdom. It is said to bring luck, success, and protection. In esoteric practices, tin is utilized to amplify one's knowledge, attract abundance, and assist in spiritual growth. Incorporating tin into magical workings can help one achieve their goals and foster personal development.
 

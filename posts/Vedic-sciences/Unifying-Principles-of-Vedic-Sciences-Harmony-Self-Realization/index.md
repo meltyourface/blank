@@ -21,7 +21,7 @@ excerpt: What overarching principle unifies the Vedic sciences, such as astrolog
 ---
 Answering the knowledge challenge: The overarching principle that unifies the Vedic sciences, namely astrology, sacred geometry, yoga, and Ayurveda, is the concept of cosmic harmony, or the interconnectedness of all existence. These disciplines collectively illustrate the harmony of inner and outer worlds, as well as the yogic path to self-realization, through their shared purpose of attaining balance, spiritual growth, and alignment with the greater forces at work in the universe.
 
-Context: Before delving into the answer, it is essential to understand the Vedic culture's origins and worldview. The Vedic sciences stem from the ancient Indian tradition, where sacred texts like the Vedas and Upanishads convey divine knowledge and wisdom. Vedic culture perceives the universe as an integrated whole, where every aspect of life has a spiritual dimension. Thus, the various Vedic disciplines draw upon the same underlying principles to exemplify balance, interconnectedness, and the ultimate goal of self-realization.
+**Context**: Before delving into the answer, it is essential to understand the Vedic culture's origins and worldview. The Vedic sciences stem from the ancient Indian tradition, where sacred texts like the Vedas and Upanishads convey divine knowledge and wisdom. Vedic culture perceives the universe as an integrated whole, where every aspect of life has a spiritual dimension. Thus, the various Vedic disciplines draw upon the same underlying principles to exemplify balance, interconnectedness, and the ultimate goal of self-realization.
 
 Interconnectedness in Vedic Sciences:
 
@@ -33,6 +33,6 @@ Interconnectedness in Vedic Sciences:
 
 4. Ayurveda: Ayurveda is an ancient system of medicine that emphasizes prevention and wellness through balancing the three bio-energetic forces (doshas) in the human body: Vata, Pitta, and Kapha. These doshas govern all aspects of physical, mental, and spiritual health. Ayurveda promotes harmony between the inner and outer worlds by considering the interconnectedness of the self, environment, and the cosmos. It encourages individuals to follow an appropriate lifestyle, diet, and herbal medicines to balance their energy and foster self-healing, thus embarking on a path to self-realization.
 
-Summary:
+**Summary**:
 
 In conclusion, the overarching principle that unifies the Vedic sciences - astrology, sacred geometry, yoga, and Ayurveda - is the concept of cosmic harmony. Each of these disciplines collectively illustrates the harmony of inner and outer worlds, as well as the yogic path to self-realization, through their shared purpose of attaining balance, spiritual growth, and an alignment with the greater forces at work in the universe. By embracing these Vedic disciplines, individuals are offered the opportunity to progress on a path towards self-discovery and realization of their true spiritual nature, integrated within the cosmic whole.

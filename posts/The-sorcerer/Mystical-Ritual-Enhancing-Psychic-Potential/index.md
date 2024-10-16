@@ -45,7 +45,7 @@ Sacred Runes needed:
 - Sowilo (ᛋ) for the light of knowledge and self-realization
 - Perthro (ᛈ) to tap into hidden wisdom and unlock latent psychic power
 
-Instructions:
+**Instructions**:
 
 1. Arrange the herbs around the sacred circle, focusing on their combined energies.
 2. Place the silver chalice in the center of the circle and light the candle.

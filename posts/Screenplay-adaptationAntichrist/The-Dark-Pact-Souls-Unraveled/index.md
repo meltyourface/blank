@@ -23,13 +23,13 @@ excerpt: >
 
 ## The Pact
 
-Genre: Horror, Thriller
+**Genre**: Horror, Thriller
 
-Logline: When the lines between good and evil blur, a desperate writer seeking fame and fortune strikes a Faustian pact with a seductive Antichrist figure. Trapped in a whirlpool of manipulation and deception, he spirals down the abyss of his own torment and must face the true nature of his soul when a series of chilling events culminate in a psychological battle of wills.
+**Logline**: When the lines between good and evil blur, a desperate writer seeking fame and fortune strikes a Faustian pact with a seductive Antichrist figure. Trapped in a whirlpool of manipulation and deception, he spirals down the abyss of his own torment and must face the true nature of his soul when a series of chilling events culminate in a psychological battle of wills.
 
-Setting: The story takes place in a small, remote town surrounded by a dense fog-shrouded forest. The town has a rich history of occult practices carried down over generations, which form its dark underbelly.
+**Setting**: The story takes place in a small, remote town surrounded by a dense fog-shrouded forest. The town has a rich history of occult practices carried down over generations, which form its dark underbelly.
 
-Characters:
+**Characters**:
 1. ****Arthur Caldwell - The Protagonist****: A struggling writer seeking glory and recognition for his work. Driven by an insatiable ambition, his morality is slowly eroded by his craving for influence.
 
 2. ****Lilith Nazari - The Antichrist Figure****: A seductive and cunning individual who ensnares Arthur into a dark pact. She possesses powerful occult knowledge and psychologically manipulates her targets, exploiting their darkest desires.

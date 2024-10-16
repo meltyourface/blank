@@ -23,7 +23,7 @@ excerpt: >
 ---
 Task: Compose a potent mantra for invoking the forces of Reclaimed retribution in situations requiring occult interference, incorporating ancient symbols, sacred phrases, and the use of esoteric power words while ensuring the mantra aligns with the specific intent of banishing malevolent energies or attracting positive cosmic forces. Tailor it to resonate deeply with the practitioner's inner strength and resolve and provide instructions for preparation and recitation.
 
-Mantra: "Exodium Recludas Lux Kyanite Ekaheira Seraphis"
+**Mantra**: "Exodium Recludas Lux Kyanite Ekaheira Seraphis"
 
 Instructions for Preparation and Recitation:
 

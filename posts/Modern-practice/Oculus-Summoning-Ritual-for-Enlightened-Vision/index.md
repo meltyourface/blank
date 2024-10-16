@@ -22,9 +22,9 @@ excerpt: Design an intricate invocation ceremony tailored to the Modern esoteric
 
 ## The Invocation of Oculus, the Entity of Enlightened Vision
 
-Objective: To summon a definitive entity, Oculus, who represents enlightened vision, clarity, and insight for the practitioner.
+**Objective**: To summon a definitive entity, Oculus, who represents enlightened vision, clarity, and insight for the practitioner.
 
-Preparation:
+**Preparation**:
 
 1. Determine the purpose: The practitioner must establish a clear intention for summoning Oculus. Common purposes include gaining insight into a specific situation, enhancing one's intuitive abilities, and obtaining knowledge of the unseen or hidden.
 

@@ -31,7 +31,7 @@ Santa Muerte:
 
 Santa Muerte, or "Saint Death," is a revered figure in Mexican folk religion, venerated primarily in Mexico and Central America. She is depicted as a female skeletal figure, often carrying a scythe and an orb, symbolizing both death and life. Santa Muerte is associated with healing, protection, and safe delivery into the afterlife, and her devotees pray to her for various favors and protection.
 
-Similarities:
+**Similarities**:
 
 1. **Deity status**: Both African death-related deities and Santa Muerte are venerated as powerful figures, capable of wielding influence over life and death.
 
@@ -41,7 +41,7 @@ Similarities:
 
 4. **Syncretism**: Both religious systems have been influenced and shaped by other religious beliefs. For example, African death deities were adapted and syncretized with Catholicism in Haitian Vodou, while the veneration of Santa Muerte blends aspects of Catholicism and indigenous beliefs.
 
-Differences:
+**Differences**:
 
 1. **Geographical origin**: African death-centered deities trace their origins to various regions across Africa, while Santa Muerte is primarily a Mexican and Central American phenomenon.
 

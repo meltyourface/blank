@@ -27,19 +27,19 @@ Geometrical Significance:
 
 Sacred architecture abides by a set of geometrical rules that mirror the order and mathematical precision found in nature and the cosmos. A cornerstone is the first stone set in the construction of a masonry foundation. It is essential that this stone is accurately placed for the correct alignment and structure of the entire building. The cornerstone serves as the reference point for the rest of the building, metaphorically grounding the sacred space in harmony with the natural and celestial world.
 
-Example: The use of the Golden Ratio (also known as Phi or the divine proportion, approximately 1.618) is prevalent in many religious structures, such as the Parthenon in Greece. The cornerstone in this temple ensures the accurate application of the Golden Ratio throughout its design, creating harmonious proportions that evoke a sense of balance and beauty.
+**Example**: The use of the Golden Ratio (also known as Phi or the divine proportion, approximately 1.618) is prevalent in many religious structures, such as the Parthenon in Greece. The cornerstone in this temple ensures the accurate application of the Golden Ratio throughout its design, creating harmonious proportions that evoke a sense of balance and beauty.
 
 Astronomical Significance:
 
 In addition to its geometrical importance, the cornerstone placement in sacred architecture is closely connected to the astronomical alignments. The placements typically correspond to celestial events, such as the solstices, equinoxes, or specific constellations, to symbolize the sacred connection between the earthly plane and the cosmos.
 
-Example: The Great Pyramid of Giza, a masterpiece of ancient Egyptian sacred architecture, has its cornerstone aligned to the cardinal points (North, South, East, and West), which allows it to accurately reflect the movements of celestial bodies. As a result, the corners of the pyramid align perfectly with specific stars, and its sides are illuminated during equinoxes.
+**Example**: The Great Pyramid of Giza, a masterpiece of ancient Egyptian sacred architecture, has its cornerstone aligned to the cardinal points (North, South, East, and West), which allows it to accurately reflect the movements of celestial bodies. As a result, the corners of the pyramid align perfectly with specific stars, and its sides are illuminated during equinoxes.
 
 Symbolic Significance:
 
 The cornerstone is also a symbol of spiritual initiation, as it marks the entrance to sacred spaces and delineates the boundary between the profane world and the divine. It represents the first step in a spiritual journey and the foundational principles upon which further wisdom can be built.
 
-Example: In Masonic tradition, the cornerstone ceremony is an essential ritual where the participants spiritually prepare themselves for growth and enlightenment. The cornerstone represents the higher principles that guide them through their development process as they seek wisdom and understanding.
+**Example**: In Masonic tradition, the cornerstone ceremony is an essential ritual where the participants spiritually prepare themselves for growth and enlightenment. The cornerstone represents the higher principles that guide them through their development process as they seek wisdom and understanding.
 
 Connections to the Cosmic Order, Harmonious Proportions, and Spiritual Initiation:
 

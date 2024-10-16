@@ -21,7 +21,7 @@ excerpt: Design an intricate and mystifying ritual to invoke the spirits of the 
 ---
 Ritual Title: The Veil of Time - Ancestral Communion
 
-Objective: To invoke ancestral spirits and engage in communication with them.
+**Objective**: To invoke ancestral spirits and engage in communication with them.
 
 Preliminary Preparations:
 

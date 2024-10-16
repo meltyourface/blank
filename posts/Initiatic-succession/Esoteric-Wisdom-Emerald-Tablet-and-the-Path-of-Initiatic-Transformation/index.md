@@ -42,15 +42,15 @@ Key Passages and Interpretations
 
 1.	"As above, so below; as below, so above."
 
-Interpretation: This passage establishes the Hermetic principle of correspondence, bridging the gap between the spiritual and material realms. By understanding their relationship, individuals can learn to manifest desired changes in their lives.
+**Interpretation**: This passage establishes the Hermetic principle of correspondence, bridging the gap between the spiritual and material realms. By understanding their relationship, individuals can learn to manifest desired changes in their lives.
 
 2.	"Its father is the Sun; its mother the Moon. The Wind carried it in its womb; the Earth is its nurse."
 
-Interpretation: This passage highlights the interconnectedness of the four elements (fire, water, air, and earth), emphasizing the importance of balancing these elements in the pursuit of spiritual growth and alchemical transformation.
+**Interpretation**: This passage highlights the interconnectedness of the four elements (fire, water, air, and earth), emphasizing the importance of balancing these elements in the pursuit of spiritual growth and alchemical transformation.
 
 3.	"Separate the Earth from the Fire, the subtle from the gross, gently and with great ingenuity."
 
-Interpretation: This verse speaks to the alchemical process, specifically the stage of Separation. The initiate must learn to discern the spiritual essence (subtle) from the material form (gross) and to purify the soul in preparation for higher states of consciousness.
+**Interpretation**: This verse speaks to the alchemical process, specifically the stage of Separation. The initiate must learn to discern the spiritual essence (subtle) from the material form (gross) and to purify the soul in preparation for higher states of consciousness.
 
 Conclusion
 

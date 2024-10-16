@@ -28,16 +28,16 @@ Choose a small table or surface that can be dedicated specifically to this purpo
 Primary focal point:
 Select a mirror with a beautiful and unique frame, preferably antique or made of wood, to serve as the primary focal point of the altar. The mirror should be consecrated by cleansing it with salt or moon water and then charging it with your intention of connecting with your ancestors.
 
-Candles:
+**Candles**:
 Select seven candles in white, silver, and black. These colors represent the connection between the physical and spiritual worlds. Arrange the candles around the mirror in a circle or other formation that resonates with you.
 
-Crystals:
+**Crystals**:
 Choose crystals that aid in ancestral communication, such as amethyst, clear quartz, and obsidian. Place these crystals on the altar or around the base of the mirror. Additional crystals, such as rose quartz or black tourmaline, can be placed around the altar to create a sacred geometry grid.
 
-Incense:
+**Incense**:
 Use incense that connects with the ancestral realm, such as sandalwood, frankincense, or myrrh. Light the incense before beginning your invocation to create a sacred atmosphere.
 
-Offerings:
+**Offerings**:
 Prepare offerings for your ancestors, like flowers, fruits or breads, a small glass of water or wine, and a small dish of salt. An additional offering, such as a family heirloom, can also be placed on the altar to symbolize your lineage.
 
 Ancestral Invocation:

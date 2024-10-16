@@ -33,9 +33,9 @@ Historical Origins: The Philosopher's Stone is perhaps the most famous alchemica
 
 Key Ingredients: While the actual composition of the Philosopher's Stone was a closely guarded secret, many texts allude to the use of multiple substances in the transmutation process. General ingredients include lunar and solar aspects, which respectively correlate to the metals lead and gold, as well as red and white compounds called tinctures.
 
-Significance: The Philosopher's Stone is the ultimate goal of alchemists, as it is believed to grant the ability to transmute base metals into gold and produce the Elixir of Life, granting longevity and even immortality. This recipe signifies a deep understanding of the spiritual and physical realms, embodying the unity of opposites and the alchemical axiom "As above, so below."
+**Significance**: The Philosopher's Stone is the ultimate goal of alchemists, as it is believed to grant the ability to transmute base metals into gold and produce the Elixir of Life, granting longevity and even immortality. This recipe signifies a deep understanding of the spiritual and physical realms, embodying the unity of opposites and the alchemical axiom "As above, so below."
 
-Symbols: The Ouroboros, a snake or a dragon devouring its own tail, represents the eternal cycle of creation and destruction, renewal, and perfection, associated with the Philosopher’s Stone. The alchemical marriage of the sun (gold) and the moon (silver) is another significant symbol for the Stone.
+**Symbols**: The Ouroboros, a snake or a dragon devouring its own tail, represents the eternal cycle of creation and destruction, renewal, and perfection, associated with the Philosopher’s Stone. The alchemical marriage of the sun (gold) and the moon (silver) is another significant symbol for the Stone.
 
 ### II. Azogue (Mercury) Purification Recipe
 
@@ -43,9 +43,9 @@ Historical Origins: Mercury's role in alchemy can be traced back to Egyptian, Gr
 
 Key Ingredients: The main ingredient in this recipe is cinnabar, a naturally occurring mineral composed of mercury sulfide. By heating and condensing it through processes called sublimation and precipitation, alchemists could extract purified mercury.
 
-Significance: Mercury, known as quicksilver, plays a unique role in alchemy as both a substance and a symbol. Its fluid and transformative properties make it an important ingredient in many alchemical endeavors. In a mystical sense, it represents the primordial chaos from which life emerges, the mind, and the spirit.
+**Significance**: Mercury, known as quicksilver, plays a unique role in alchemy as both a substance and a symbol. Its fluid and transformative properties make it an important ingredient in many alchemical endeavors. In a mystical sense, it represents the primordial chaos from which life emerges, the mind, and the spirit.
 
-Symbols: The symbol for mercury consists of a crescent moon atop a circle, representing its volatile and philosophical nature. Serpents and other chthonic creatures are also associated with mercury in the alchemical tradition due to its fluidity and propensity for change.
+**Symbols**: The symbol for mercury consists of a crescent moon atop a circle, representing its volatile and philosophical nature. Serpents and other chthonic creatures are also associated with mercury in the alchemical tradition due to its fluidity and propensity for change.
 
 ### III. Stephan’s Quintessence Recipe
 
@@ -53,9 +53,9 @@ Historical Origins: Stephan's Quintessence, derived from the Latin word "quinta 
 
 Key Ingredients: The primary material for acquiring Stephan's Quintessence is wine, specifically its distilled components. The process entails multiple rounds of distillation and purification to yield a potent elixir, long thought to have exceptional medicinal and mystical properties.
 
-Significance: Beyond the four fundamental elements of earth, air, fire, and water, Stephan's Quintessence suggests the existence of an ethereal fifth element capable of imbuing substances with remarkable curative powers. The recipe also symbolizes the spiritual realm and the divine essence permeating the cosmos.
+**Significance**: Beyond the four fundamental elements of earth, air, fire, and water, Stephan's Quintessence suggests the existence of an ethereal fifth element capable of imbuing substances with remarkable curative powers. The recipe also symbolizes the spiritual realm and the divine essence permeating the cosmos.
 
-Symbols: An upward triangle bisected by a crossed line with a circle at the center is typically used to symbolize the Quintessence. The circle represents the union of the upper and lower realms, while the triangle signifies the transformation of matter into an ethereal substance.
+**Symbols**: An upward triangle bisected by a crossed line with a circle at the center is typically used to symbolize the Quintessence. The circle represents the union of the upper and lower realms, while the triangle signifies the transformation of matter into an ethereal substance.
 
 Conclusion
 

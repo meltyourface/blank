@@ -23,7 +23,7 @@ Elixir Formula: Invigorating Dew Tonic
 
 The Invigorating Dew Tonic is a potent elixir, meticulously crafted from the mystical properties of morning dew gathered during the waxing moon phase, and a thoughtfully selected blend of regional herbs known for their magical qualities. This elixir is designed to invigorate energy levels, bolster vitality, and promote overall well-being.
 
-Ingredients:
+**Ingredients**:
 1. Morning dew collected during the waxing moon phase (100ml)
 2. Fresh ginseng root (Panax quinquefolius) (20g)
 3. Fresh basil leaves (Ocimum basilicum) (15g)
@@ -42,7 +42,7 @@ Auspicious timing for herb collection:
 - Collect ginseng, basil, rosemary, lemon balm, and mint during the dawn hours, as these are associated with the start of the day and new beginnings.
 - Collect the herbs on a Wednesday morning, as this day is ruled by Mercury – the planet of communication and intellect – which enhances the overall effectiveness of the elixir.
 
-Preparation:
+**Preparation**:
 
 Step 1: Dew Collection
 - Collect the morning dew from fresh, healthy leaves, utilizing a soft cloth or sponge. Squeeze and filter the collected dew into a dark glass jar to ensure the preservation of its mystical properties.

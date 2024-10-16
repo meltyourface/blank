@@ -30,7 +30,7 @@ excerpt: >
 ---
 The Tarot de Marseille Spiritual Growth Major Arcana Spread:
 
-Layout:
+**Layout**:
 1. Past Influences
 2. Present Challenges
 3. Hidden Strengths

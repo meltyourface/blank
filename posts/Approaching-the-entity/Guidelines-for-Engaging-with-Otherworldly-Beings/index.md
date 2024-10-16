@@ -28,7 +28,7 @@ excerpt: >
 ---
 The correct answer is: Thorough research on the entity's characteristics, preparing an appropriate ritual space, offering suitable offerings, and showing humility and respect.
 
-Explanation:
+**Explanation**:
 
 Approaching an entity in occult practice entails engaging with otherworldly beings. Occultism practitioners believe that there are various levels of existence, including various deities, spirits, and other non-physical entities. Interacting with these entities requires respect, knowledge, and adherence to established protocols.
 

@@ -28,7 +28,7 @@ excerpt: >
 ---
 Answer: Blackwood often uses an atmospheric tone and emphasis on the psychological experience of the characters to create a sense of awe and terror, as they delve into the mysteries of the natural world.
 
-Explanation: Algernon Blackwood, a British writer, is renowned for his extensive exploration of the occult and the supernatural in his works of fiction. His unique approach to combining these mystical elements with an emphasis on the mysterious forces of nature can be best described using the third option, where his stories employ atmospheric tones and character psychology to evoke feelings of awe and terror.
+**Explanation**: Algernon Blackwood, a British writer, is renowned for his extensive exploration of the occult and the supernatural in his works of fiction. His unique approach to combining these mystical elements with an emphasis on the mysterious forces of nature can be best described using the third option, where his stories employ atmospheric tones and character psychology to evoke feelings of awe and terror.
 
 Blackwood's literature frequently delves into the exploration of hidden forces within the natural world – often drawing on his personal experiences and encounters with nature throughout his life. By emphasizing humanity's limited comprehension of these forces, Blackwood is able to tap into the innate fear of the unknown and successfully create an eerie atmosphere in his stories.
 

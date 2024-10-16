@@ -23,7 +23,7 @@ excerpt: >
 
 ## Abyssal Compendium: Intricate Connections Between Abyssal Entities, Elemental Affinities, and Astrological Signs
 
-Introduction:
+**Introduction**:
 This grimoire seeks to unveil the shrouded knowledge of the Gates of the Abyss, delving deeply into the entities and forces that dwell within. These chthonic beings are intimately connected with elemental forces and celestial movements, and harnessing this understanding may grant the ambitious practitioner untold power.
 
 ### Chapter 1: Abyssal Entities, Their Dominion, and The Hierarchy
@@ -64,5 +64,5 @@ The power of Thrazgul wanes during the astrological reign of Libra and waxes dur
 
 ... [remaining entries for other abyssal entities and the rituals necessary to invoke them] ...
 
-Epilogue: Mastery of the Abyss
+**Epilogue**: Mastery of the Abyss
 Having detailed the abyssal entities, their elemental affinities, and their connections to the celestial sphere, this grimoire should only be wielded by the most devoted and knowledgeable practitioners. Those who are reckless or naive may find themselves consumed by the very forces they seek to command. Tread cautiously, for the Gates of the Abyss are not for the faint of heart.

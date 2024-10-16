@@ -36,7 +36,7 @@ This tarot spread is designed to delve into the querent's spiritual evolution by
 
 Elements from the Tree of Life (Kabbalah), Golden Dawn, and Hermeticism are incorporated into the spread, alongside tarot correspondence in accordance with esoteric traditions.
 
-Layout:
+**Layout**:
 
 Card positions in ascending spiral:
 1. Foundation: The bottom of the spiral, situated in Malkuth (9 o'clock direction)
@@ -49,7 +49,7 @@ Card positions in ascending spiral:
 8. Wisdom: Upwards and slightly to the right, at Chokmah (5 o'clock)
 9. Transcendence: The peak of the spiral, at Keter (3 o'clock)
 
-Interpretations:
+**Interpretations**:
 
 1. Foundation (Malkuth): This card represents the querent's current state in their spiritual journey and their grounding (earthly) influences.
 
@@ -79,6 +79,6 @@ Tracking Progress:
 
 Using the "Esoteric Evolution" tarot spread regularly (every 3-6 months) will allow the querent to track the evolution of their spiritual development. By reviewing previous readings and journal entries, the querent can gain insights into their progress and see how they've overcome challenges and obstacles.
 
-Visualization:
+**Visualization**:
 
 [Visual representation of the spread in the form of an ascending spiral, starting with the Foundation card at the base (9 o'clock), leading to the Transcendence card at the peak (3 o'clock). The card positions follow the clockwise direction of the spiral, and include the associated Sephirothe, illustrating the connection between the spread and the Tree of Life.]

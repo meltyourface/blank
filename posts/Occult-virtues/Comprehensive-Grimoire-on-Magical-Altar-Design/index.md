@@ -23,7 +23,7 @@ excerpt: >
 
 ## Title: The Sanctum: A Comprehensive Grimoire on Magical Altar Creation and Consecration
 
-Introduction:
+**Introduction**:
 The Sanctum is devoted to providing a meticulously detailed and all-encompassing guide on the intricate process of constructing and consecrating a potent magical altar. By incorporating occult virtues, esoteric symbolism, and various mystical traditions, this grimoire shall serve as an invaluable resource for practitioners of diverse paths, aiding in the achievement of their magical intentions through the power of a well-crafted altar.
 
 Table of Contents:
@@ -67,7 +67,7 @@ Table of Contents:
    D. The Hoodoo/Voodoo Altar
    E. Additional Examples for Unique Magical Intentions
 
-Conclusion:
+**Conclusion**:
 Closing Remarks and Final Encouragement
 
 By providing a comprehensive guide on altar construction and consecration, The Sanctum intends to enlighten and empower the reader in their pursuit of magical mastery. Through detailed discussions of sacred tools, enchanted objects, and ritual offerings, as well as the integration of elemental correspondences, astrological timing, and invocation of deities or spiritual entities, the practitioner will be equipped to create an altar tailored to their unique path and purpose. With illustrative examples spanning various magical traditions, this grimoire shall serve as an invaluable resource for those seeking to elevate their practice through the power and efficacy of a well-crafted altar.

@@ -44,4 +44,4 @@ As the incantation resonates, close your eyes and envision the silvery essence o
 
 With the final reiteration of the Lunaria Aetherius, bring your hands above the Crucible of Chimerae. Release the potent lunar energies now intertwined with your ethereal form, directing them into the obsidian vessel. Stand witness to the wondrous alchemical transmutation - a dazzling spectacle of shimmering, liquid life.
 
-Remember: within you dwells the mastery and resonance of the Moon's eternal dance. In times of need, call forth these sacred energies, imbued with the wisdom of Chemia as the highest science. May they illuminate the shadows, awaken the arcane, and guide your astral vessel through this world and beyond.
+**Remember**: within you dwells the mastery and resonance of the Moon's eternal dance. In times of need, call forth these sacred energies, imbued with the wisdom of Chemia as the highest science. May they illuminate the shadows, awaken the arcane, and guide your astral vessel through this world and beyond.

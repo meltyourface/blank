@@ -41,9 +41,9 @@ Secondary Sources:
 
 ### II. **Translation of Galileo's Sidereus Nuncius (excerpts provided here due to length limitations)**:
 
-Title: The Starry Messenger (Sidereus Nuncius)
+**Title**: The Starry Messenger (Sidereus Nuncius)
 
-Preface:
+**Preface**:
 "To the Most Serene Cosimo II, Grand Duke of Tuscany: There are innumerable natural phenomena that have never yet been seen by mortals, and that demand the perceptive powers of a fresh observer; these phenomena will reveal themselves to those who carefully and diligently seek the truth. Among these phenomena, I have recently observed four wandering stars, never before seen, which I have discovered with the assistance of a telescope."
 
 First observations of the Moon:
@@ -54,6 +54,6 @@ The discovery of Jupiter's satellites:
 
 "As I observed the stars surrounding Jupiter, I made the startling discovery that four of them seemed to be orbiting around the planet. This astonishing fact provided evidence against the geocentric model of the universe and reinforced the idea of a heliocentric solar system."
 
-Conclusion:
+**Conclusion**:
 
 "Glorious discoveries and celestial apparitions provide strong evidence for the Copernican model. It is a testament to the greatness of the human mind that we are capable of perceiving and understanding the workings of the cosmos. May our thirst for knowledge continue to drive us forward in our exploration of the celestial wonders that God has so graciously provided."

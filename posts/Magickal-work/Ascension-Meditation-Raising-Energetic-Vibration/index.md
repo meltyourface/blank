@@ -22,7 +22,7 @@ excerpt: Develop a guided meditation ritual for raising one's energetic vibratio
 
 ## Ascension of Vibrational Essence - A Guided Meditation Ritual
 
-Objective: To raise one's energetic vibration through Magickal work, incorporating visualization, breathwork, and elemental associations.
+**Objective**: To raise one's energetic vibration through Magickal work, incorporating visualization, breathwork, and elemental associations.
 
 ### I. Ritual Preparation:
 

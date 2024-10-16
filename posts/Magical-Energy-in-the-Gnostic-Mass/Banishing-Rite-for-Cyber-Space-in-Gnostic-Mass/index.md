@@ -22,11 +22,11 @@ excerpt: Design a novel banishing ritual, specifically tailored for the Magical 
 
 ## The Banishing Rite of the Cyber Nucleus
 
-Introduction:
+**Introduction**:
 
 The Banishing Rite of the Cyber Nucleus is a novel banishing ritual designed exclusively for the Magical Energy domain in the Gnostic Mass. Drawing from the powerful fusion of ancient Gnostic wisdom and modern symbolism, this ritual ensures a cleansed and purified ceremonial space, strengthens the practitioner's spiritual connection, and enhances the manifestation of the desired intent within the Gnostic Mass.
 
-Components:
+**Components**:
 
 1. Ritual Tools:
   - A ceremonial dagger or wand

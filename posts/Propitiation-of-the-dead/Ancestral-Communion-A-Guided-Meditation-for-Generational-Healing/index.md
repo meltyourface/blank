@@ -22,13 +22,13 @@ excerpt: Establish a guided meditation ritual specifically designed to delve int
 
 ## Ancestral Embrace - A Guided Meditation Ritual for Communing with Departed Loved Ones and Healing Generational Trauma
 
-Preparation:
+**Preparation**:
 1. Create a sacred space in a quiet, comfortable room free from distractions.
 2. Light white candles to purify the energy and create a serene ambiance.
 3. Set up a small altar with photographs of your ancestors, along with any ancestral relics or items that hold sentimental value.
 4. Create offerings based on your cultural lineage or personal family traditions, such as food, flowers, incense, or culturally significant objects.
 
-Note: Before beginning the meditation, cleanse yourself with a ritual bath or smudging to remove any negativity and enhance receptivity. It is crucial to enter the guided meditation with a calm and focused mindset.
+**Note**: Before beginning the meditation, cleanse yourself with a ritual bath or smudging to remove any negativity and enhance receptivity. It is crucial to enter the guided meditation with a calm and focused mindset.
 
 The Guided Meditation Ritual:
 

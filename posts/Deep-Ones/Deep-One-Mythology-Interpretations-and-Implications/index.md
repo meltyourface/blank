@@ -21,7 +21,7 @@ excerpt: Examine the intricate lore and mythology of the Deep Ones, paying parti
 ---
 The Deep Ones are a race of amphibious humanoid beings, often associated with H.P. Lovecraft's Cthulhu Mythos. Their origins, religious practices, and interactions with humans have been a source of fascination for writers, scholars, and those interested in the occult. In this analysis, we will examine the Deep Ones' lore, compare it with contemporary legends, and consider the sociocultural implications and influences connecting their domain with current beliefs and mythos.
 
-Origins:
+**Origins**:
 
 The Deep Ones are said to have originated from a cataclysmic event that sunk their island city deep beneath the ocean. Some believe they were created by the Elder Gods, an ancient race of deities who dominated the cosmos before the known universe. Their exact origins remain ambiguous, with some theories suggesting an extraterrestrial origin, while others insist they evolved in Earth's oceans. Nonetheless, it is clear that the Deep Ones' origins lie in the murky depths of ancient history and pre-human existence.
 

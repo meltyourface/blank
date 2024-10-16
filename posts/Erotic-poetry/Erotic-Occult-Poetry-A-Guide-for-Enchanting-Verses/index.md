@@ -23,7 +23,7 @@ excerpt: >
 
 ## Title: Crafting Erotic Poetry for the Occult Grimoire
 
-Introduction:
+**Introduction**:
 Erotic poetry has played a significant role in the world of the occult for centuries, providing a connection between the spiritual and carnal planes. This guide aims to offer a comprehensive understanding of the history, significance, and process of creating and incorporating erotic poetry in occult practices. We will explore the core components and techniques needed to write and charge these powerful verses with magical energy.
 
 ### I. History and Significance of Erotic Poetry in Occult Practices
@@ -79,7 +79,7 @@ In sacred rapture, we shall twist,
 Sublime transformation, divine ecstasy,
 United in power, our hearts set free.
 
-Analysis:
+**Analysis**:
 
 This poem exemplifies the fusion of eroticism and spirituality, conjuring images of divine transformation and passionate longing. The intent is focused on a powerfully intimate union, while employing symbols of the serpent and chalice – embodying male and female energies – and invoking the presence of the moon and Eros to fuse the carnal and divine dimensions.
 

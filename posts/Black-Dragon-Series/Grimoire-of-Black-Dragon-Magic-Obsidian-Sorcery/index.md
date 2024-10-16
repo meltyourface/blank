@@ -58,7 +58,7 @@ Table of Contents:
     c. Draconic Omniscience through Astral Projection
 9. Epilogue: The Master's Secrets
 
-Prologue: The Power of the Black Dragon Series
+**Prologue**: The Power of the Black Dragon Series
 
 Darkness is power, and the Black Dragon Series delves into the esoteric and unequivocal understanding of this eldritch force. Few have possessed the ability to master the depths of its secrets, and even fewer have emerged from the abyss unchanged. To harness the power of the Black Dragon Series is to embark upon a journey of discovery, transcending that which is known and embracing the vast cosmos of Draconic potential.
 

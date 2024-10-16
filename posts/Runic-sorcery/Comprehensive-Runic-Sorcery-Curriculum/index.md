@@ -23,9 +23,9 @@ excerpt: >
 
 ## Esoteric Runic Sorcery: Art, Lore and Mastery
 
-Objective: To create a comprehensive curriculum for a deep dive study into Runic sorcery, integrating ancient texts, etymology, and practical applications of Runes. Students will gain expertise in enchantment, divination, and the intricate connection between tradition and innovation.
+**Objective**: To create a comprehensive curriculum for a deep dive study into Runic sorcery, integrating ancient texts, etymology, and practical applications of Runes. Students will gain expertise in enchantment, divination, and the intricate connection between tradition and innovation.
 
-Prerequisites: Introductory knowledge of Runic alphabets, mythology, and symbolism.
+**Prerequisites**: Introductory knowledge of Runic alphabets, mythology, and symbolism.
 
 Course Duration: 18 months (Three semesters, with 6 modules in each)
 

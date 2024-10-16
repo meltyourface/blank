@@ -22,23 +22,23 @@ excerpt: >
 ---
 Ritual Title: The Illumination of Gaia
 
-Purpose: Deciphering hidden meanings within biological phenomena present in the complex interplay of living beings and their environment.
+**Purpose**: Deciphering hidden meanings within biological phenomena present in the complex interplay of living beings and their environment.
 
-Symbols:
+**Symbols**:
 
 1. ****Spiral****: Represents growth, evolution, and the interconnectedness of life.
 2. ****Circle****: Symbolizes balance, unity, and the cyclic nature of existence.
 3. ****Tree****: Represents rootedness, stability, and interdependence.
 4. ****Eye****: Symbolizes intuition, clarity, and the ability to perceive hidden meanings.
 
-Materials:
+**Materials**:
 
 - A journal for recording observations and interpretations
 - A compass to determine cardinal directions
 - A pendulum (crystal, metal, or bone) for divination
 - Offerings for the living beings/elements involved (e.g. seeds, water, etc.)
 
-Procedure:
+**Procedure**:
 **Step 1**: Preparation
 - Find a location in nature which radiates an abundance of life.
 - Set up a sacred space by marking a circle with natural objects (e.g. stones, sticks).

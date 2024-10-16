@@ -22,7 +22,7 @@ excerpt: >
 ---
 Cuneiform tablets provide evidence of the use of magical incantations and rituals in ancient Mesopotamia.
 
-Explanation:
+**Explanation**:
 Ancient Mesopotamia, a region historically considered to be the cradle of civilization, was home to some powerful ancient civilizations such as the Sumerians, Akkadians, Babylonians, and Assyrians. It is well-documented that these civilizations had a rich history of magical practices, religious rituals, and occult beliefs. Cuneiform tablets are among the primary sources of evidence supporting the prevalence of such practices in ancient Mesopotamia.
 
 Cuneiform is one of the earliest known systems of writing, initially developed by the Sumerians around 3400 BCE. This writing system was later adopted and modified by other Mesopotamian cultures. Cuneiform tablets, typically made of clay, often contain inscriptions of religious texts, rituals, incantations, and magical spells.

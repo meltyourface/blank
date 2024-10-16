@@ -23,7 +23,7 @@ excerpt: >
 
 ## The Ensorcelled Veil: A Grimoire for Crafting a Potent Talisman of Crooked Path Sorcery
 
-Introduction:
+**Introduction**:
 Within the following pages lies the detailed guide for creating a powerful talisman designed to amplify one's preternatural powers, specifically clairvoyance and telepathy. The Ensorcelled Veil, as it is known, is a masterpiece of Crooked path sorcery, drawing upon the intricacies of both day-side and night-side emanations to achieve its full potential.
 
 1. Materials:

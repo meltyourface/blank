@@ -23,7 +23,7 @@ excerpt: >
 
 ## Title: Masters of the Goetia: Pivotal Conjurers and their Contributions to the Forbidden Arts
 
-Introduction:
+**Introduction**:
 Goetic magic is an ancient and obscure system of demonology, focusing on the invocation and control of supernatural entities, particularly demons, to achieve various magical ends. Throughout history, several pivotal individuals have made significant contributions to the knowledge and practice of Goetic magic. This in-depth biography will explore the lives, personal journeys, rituals, specific contributions to Goetic lore, and lasting legacies of these influential figures, highlighting underappreciated practitioners and potential future developments within the study of Goetia.
 
 ### I. Solomon the King
@@ -41,5 +41,5 @@ Master magician Lon Milo DuQuette (1948-present) is an influential modern occult
 Underappreciated figures:
 While the above individuals are well-known for their contributions to Goetic lore, it is essential to acknowledge lesser-known practitioners who have significantly impacted the field. Among these unsung heroes are women who practiced Goetic magic in secret, due to the oppressive social norms and the heightened risk of accusations of witchcraft. Moreover, scholars of African, Asian, and Indigenous traditions have also made essential contributions to the development of Goetia, incorporating their unique spiritual worldviews and techniques.
 
-Conclusion:
+**Conclusion**:
 The study of Goetia is diverse, complex, and ever-evolving, encompassing centuries of history and the contributions of numerous practitioners from varied cultural backgrounds. From ancient wisdom to modern adaptations, this enigmatic and enduring magical tradition has undeniably left a profound impact on the fields of occultism and spirituality. As we continue to explore this dark and mysterious domain, we honor the dedication and mastery of the pivotal individuals who have shaped the knowledge and practice of Goetic magic throughout history.

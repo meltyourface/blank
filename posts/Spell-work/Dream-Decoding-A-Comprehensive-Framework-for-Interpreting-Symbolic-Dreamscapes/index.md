@@ -21,9 +21,9 @@ excerpt: Create an intricate, multidimensional spell-based framework for unravel
 ---
 Spell Name: Dreamweaver's Lexiconium Realityculus
 
-Objective: To create a comprehensive, multidimensional framework that can enable a user to decode messages, symbols, and hidden meanings within the dreamscape using arcane dream magicks, deciphering glyphs, and otherworldly symbology.
+**Objective**: To create a comprehensive, multidimensional framework that can enable a user to decode messages, symbols, and hidden meanings within the dreamscape using arcane dream magicks, deciphering glyphs, and otherworldly symbology.
 
-Components:
+**Components**:
 
 1. Dreamcatcher's Orb: A magical item designed to capture and record the details of dreams in real-time. The Orb stores dream sequences as ethereal memories that can be viewed, analyzed, and organized for further study. This powerful artifact is the primary tool for extracting the raw data to be deciphered through the framework.
 
@@ -33,7 +33,7 @@ Components:
 
 4. Dreamweaving Threads: Ethereal threads of pure magical essence created to bind the elements of the framework together. These threads connect the Orb, Codex, and Essence and synchronize them into a unified system. By manipulating these threads, the user can exercise greater control over the dreamscape, which is crucial for understanding its inner workings.
 
-Framework:
+**Framework**:
 **Step 1**: Cast the Dreamcatcher's Orb spell upon entering a dream or during dream recall soon after awakening. The Orb's enchantment records the dream and stores it for later analysis, preserving all elements and details weaved within the dreamscape.
 **Step 2**: Once the dream has been successfully captured, consult the Astral Codex. Use the grimoire's guidance to begin identifying arcane dream magicks, glyphs, and otherworldly symbols within the dream. This process may require multiple iterations, as dreams often layer multiple elements and meanings.
 **Step 3**: Ingest the Introspective Essence. This elixir will heighten your cognitive abilities, allowing you to delve deeper into the dream's encoded meanings, symbols, and messages with greater clarity and understanding.
@@ -43,7 +43,7 @@ Example Dream Scenario:
 
 In this dream, the dreamer finds themselves in a dense forest with high, impenetrable walls of ivy and thorns. The sky is purple, and the ground is littered with shining golden coins. The coins are marked with unfamiliar glyphs. A serpentine creature with a human face slithers through the trees, whispering strange riddles.
 
-Interpretation:
+**Interpretation**:
 
 - The dense forest symbolizes the dreamer's unconscious mind and their emotional barriers.
 - The impenetrable walls suggest the dreamer's difficulty accessing deeper emotions or memories.

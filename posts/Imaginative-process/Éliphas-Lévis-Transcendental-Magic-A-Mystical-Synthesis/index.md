@@ -55,7 +55,7 @@ Conclusion
 
 Providing a comprehensive literary analysis of "Transcendental Magic" by Éliphas Lévi illuminates the myriad symbols, motifs, and metaphysical principles woven throughout the text. As the reader delves into this enigmatic work, they are confronted with the intricate tapestry of esoteric thought that spans across various cultures and traditions. This unique synthesis, as found in Lévi's work, stands as a testament to the enduring allure and importance of the occult and the imaginative process in shaping humanity's quest for meaning and understanding.
 
-References:
+**References**:
 
 Crowley, A. (1944). **The Book of Thoth**: A Short Essay on the Tarot of the Egyptians. O.T.O.
 

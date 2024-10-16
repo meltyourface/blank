@@ -22,11 +22,11 @@ excerpt: Design a detailed ritualistic practice dedicated to both a divine and i
 
 ## The Dualistic Devotion of the Divine and Infernal Path
 
-Pantheon: Norse Mythology
+**Pantheon**: Norse Mythology
 Divine Being: Odin, Chief of the Æsir (associated with wisdom, war, battle, and death)
 Infernal Being: Loki, Trickster God (associated with mischief, shape-shifting, and deception)
 
-Introduction:
+**Introduction**:
 The Dualistic Devotion of the Divine and Infernal Path is a unique and comprehensive approach to Norse spirituality, focusing on both the divine and infernal aspects of the faith. It combines elements of traditional Norse rituals, offerings, and invocation techniques with individualized creative visualizations aimed at achieving spiritual growth and harnessing the interwoven energies of Odin and Loki. 
 
 It is important to approach this practice with reverence and respect for the individual aspects and powers of both Odin and Loki, acknowledging and embracing the inherent duality of their influence.
@@ -52,10 +52,10 @@ Appropriate Times of Day:
 - Afternoon Offering: Between noon and 2 pm
 - Evening Meditation: After sunset, before bedtime
 
-Attire:
+**Attire**:
 - Clothing should be comfortable, yet respectful. Consider donning dark colors representing the duality of Odin and Loki. Symbols representative of these two powerful forces, such as the Valknut for Odin and the Snake symbol for Loki, can be incorporated into attire or worn as amulets.
 
-Location:
+**Location**:
 - Practice can be performed indoors or outdoors but should be in a quiet, sacred space free of distractions. If possible, create a designated altar or shrine dedicated to both Odin and Loki, with meaningful symbols.
 
 Instruments and Symbols:

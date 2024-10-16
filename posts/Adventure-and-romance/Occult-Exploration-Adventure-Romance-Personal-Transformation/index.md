@@ -61,5 +61,5 @@ excerpt: >
 ### 7.2 Recognizing the power within to shape one's own destiny
 ### 7.3 Harnessing the potent energies of adventure and romance to reach spiritual enlightenment
 
-Description:
+**Description**:
 This textbook explores the mystical connections between adventure and romance within a framework of the esoteric and occult. It delves into their powerful influence on personal transformation and spiritual development and provides practical guidance on harnessing these energies using symbols, rituals, and spells. Students will develop a deep understanding of the role adventure and romance play in spiritual growth and gain valuable tools to navigate their own path of self-discovery and enlightenment.

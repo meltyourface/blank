@@ -22,9 +22,9 @@ excerpt: Design a comprehensive yoga workshop centered around the mastery of inv
 
 ## Inversions Mastery: A Comprehensive Yoga Workshop for Empowering Body, Mind, and Spirit
 
-Duration: This workshop will span over a weekend, with four sessions on each day, totaling 16 hours.
+**Duration**: This workshop will span over a weekend, with four sessions on each day, totaling 16 hours.
 
-Objective: To impart a well-rounded curriculum to participants that enables them to master inversions in Yoga - from beginner asanas to the advanced ones, encompassing anatomical, philosophical, and energetic aspects, while promoting concentration, stability, trust, and energetic balance for a sustainable practice.
+**Objective**: To impart a well-rounded curriculum to participants that enables them to master inversions in Yoga - from beginner asanas to the advanced ones, encompassing anatomical, philosophical, and energetic aspects, while promoting concentration, stability, trust, and energetic balance for a sustainable practice.
 
 Workshop Outline:
 

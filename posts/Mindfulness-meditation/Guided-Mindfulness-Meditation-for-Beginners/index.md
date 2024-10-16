@@ -23,10 +23,10 @@ excerpt: >
 
 ## Title: Mindfulness Meditation for Novices - Journey to Inner Peace
 
-Introduction:
+**Introduction**:
 Welcome to this guided mindfulness meditation, tailored specifically for novices. As you embark on this journey to inner peace, let us explore progressive muscle relaxation, focused attention on the breath, and the cultivation of non-judgmental awareness of thoughts and emotions. Find a comfortable and quiet space, where you can sit or lie down without any distractions.
 
-Body:
+**Body**:
 1. **Progressive Muscle Relaxation**:
 To begin, close your eyes gently and take a few slow, deep breaths. As you inhale, fill your lungs completely, expanding your chest and belly. As you exhale, release any tension or stress from your body.
 
@@ -56,7 +56,7 @@ To deepen your meditation practice, begin to notice the intricate details of you
 
 As your practice progresses, you may find yourself becoming more in tune with the present moment, cultivating a sense of inner peace and stillness.
 
-Closing:
+**Closing**:
 Gradually, bring your newfound awareness back to your physical surroundings. Wiggle your fingers and toes and gently stretch your arms and legs. When you are ready, open your eyes and slowly reorient yourself to the room.
 
 Know that you can always return to this practice, using the power of your breath and non-judgmental awareness to find stillness and inner peace in the midst of your daily life. Namaste.

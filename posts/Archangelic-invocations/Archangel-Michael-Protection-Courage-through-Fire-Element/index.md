@@ -24,7 +24,7 @@ The accurate combination of Archangel, associated element, and corresponding int
 
 - Archangel Michael, Fire, Protection and Courage
 
-Explanation:
+**Explanation**:
 
 Within the realm of Archangelic invocations, different Archangels are associated with specific elements, intentions, and purposes that they serve. In the case of Archangel Michael, his associations lie with the element of Fire and the intentions of Protection and Courage.
 

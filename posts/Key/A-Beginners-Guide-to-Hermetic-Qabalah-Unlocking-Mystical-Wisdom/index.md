@@ -23,7 +23,7 @@ excerpt: >
 
 ## Title: Unlocking the Gates of Hermetic Qabalah: A Beginner's Guide
 
-Introduction:
+**Introduction**:
 
 Welcome, seeker of wisdom, to the intricate realm of Hermetic Qabalah. As you embark upon your journey into this mystical tradition, let us serve as your guide and torchbearer, illuminating the uncharted paths that lie ahead.
 
@@ -59,7 +59,7 @@ Over time, Sarah begins practicing rituals and meditation techniques designed to
 
 In essence, the practical application of Hermetic Qabalah enables Sarah to live a more spiritually-centered life, attuned to the underlying forces and wisdom concealed within the fabric of existence.
 
-Conclusion:
+**Conclusion**:
 
 As you, the novice reader, continue to delve deeper into the realm of Hermetic Qabalah, you will discover a spiritual practice that offers profound insights into the nature of reality and the interconnectedness of the Universe. Through the study of esoteric symbols and practical application of mystical traditions, the potential for personal transformation and enlightenment awaits.
 

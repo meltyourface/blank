@@ -24,16 +24,16 @@ Task: Develop a comprehensive Shamanic-style ritual for the secure expulsion of 
 
 Ritual Name: The Rite of Purification and Rebalancing
 
-Objective: To expel detrimental and undesirable energies from a person, place, or object, and restore balance to the surrounding energies while ensuring the practitioner's safety.
+**Objective**: To expel detrimental and undesirable energies from a person, place, or object, and restore balance to the surrounding energies while ensuring the practitioner's safety.
 
-Components:
+**Components**:
 1. Sacred Herbs - White Sage, Cedar, and Sweetgrass
 2. Crystals - Black Tourmaline, Selenite, and Hematite
 3. Sigils - Sigil of Banishment, Sigil of Elemental Protection, Sigil of Balance
 4. Chanted Incantations - The Call of the Elements, The Incantation of Expulsion, The Song of Harmony and Protection
 5. Ritual Tools - Feather Wand, Smudge Bowl, and Ritual Drum
 
-Preparation:
+**Preparation**:
 **Step 1**: Cleanse the area and yourself physically and spiritually. Sweep and wash the floor, bathe, and wear clean, loose clothing. This opens the pathway for change.
 **Step 2**: Place the Sigil of Elemental Protection in each of the four cardinal directions (north, south, east, and west) to create a protective barrier.
 **Step 3**: Arrange the crystals in their respective positions. Place Black Tourmaline and Selenite at the entrance to create a protective boundary. Distribute Hematite around the perimeter to ground the energies.
@@ -69,7 +69,7 @@ In peace and harmony, we are now bound."
 
 Beat the ritual drum to signal the end of the ceremony and the sealing of the energetic space.
 
-Aftercare:
+**Aftercare**:
 **Step 1**: Ground yourself by touching the earth, eating a small meal, or performing a grounding visualization.
 **Step 2**: Thank the elements for their assistance and release them from the ritual space.
 **Step 3**: Discard or bury the ashes from the sacred herbs, symbolizing the release of the expelled energies back to the earth.

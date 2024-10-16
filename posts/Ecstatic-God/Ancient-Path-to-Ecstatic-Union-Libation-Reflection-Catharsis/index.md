@@ -32,7 +32,7 @@ Original text:
 Το κνοω τηε μυστεριεσ, πυρσυε τηε ωαψ:
 Οφ Λιβατιον, Ρεφελεχτιον, ανδ Χαταρσισ."
 
-Translation:
+**Translation**:
 
 In the abundant shadows of mist,
 The Ecstatic God resides,
@@ -40,20 +40,20 @@ Revelations seeking the path to light.
 To know the mysteries, pursue the way:
 Of Libation, Reflection, and Catharsis.
 
-Interpretation:
+**Interpretation**:
 
 Through this ancient fragment, we can discern the path to understanding and engaging with the divine realm of the Ecstatic God. In the text, the god is said to dwell within the mists, representing the obscurities and uncertainties in our minds. In order to lift the veil and reveal the truths and riches of the god's domain, one must follow the threefold path outlined in the text: Libation, Reflection, and Catharsis.
 
 1. Libation - The offering of sacred fluids, such as wine, oil, or even one's own blood, symbolically represents an act of devotion and giving. This physical representation of tribute to the gods signifies a deep spiritual understanding of the connection between material and immaterial worlds and cultivates an open relationship with the divine. By pouring out a libation, practitioners open themselves to the flow of divine knowledge and blessings.
 
-Example: Pouring wine over a statue or altar of the Ecstatic God as a demonstration of commitment to the path and a request for guidance in spiritual matters.
+**Example**: Pouring wine over a statue or altar of the Ecstatic God as a demonstration of commitment to the path and a request for guidance in spiritual matters.
 
 2. Reflection - This step represents the discipline of self-awareness and understanding of one's thoughts, feelings, and actions. In engaging with reflection, practitioners delve into their inner worlds, confronting their shadows and fears to gain a profound perspective on their spiritual journey. By observing and contemplating the self, one moves closer to the divine wisdom.
 
-Example: Spending time each day in meditation or journaling to explore personal beliefs, emotions, and experiences, seeking truth and inner harmony.
+**Example**: Spending time each day in meditation or journaling to explore personal beliefs, emotions, and experiences, seeking truth and inner harmony.
 
 3. Catharsis - The final step in the path is the act of releasing pent-up emotions, energy, and trauma as a means of purification and renewal. This process often involves engaging in activities that evoke strong feelings, such as ritual dance, music, or artistic expression. Through catharsis, practitioners achieve a profound sense of ecstatic union with the divine, experiencing the transformative power of the Ecstatic God firsthand.
 
-Example: Participating in a ritualistic drum circle or engaging in ecstatic dance to release repressed feelings, connecting with the divine energy of the Ecstatic God.
+**Example**: Participating in a ritualistic drum circle or engaging in ecstatic dance to release repressed feelings, connecting with the divine energy of the Ecstatic God.
 
 As we immerse ourselves in these ancient practices, we are invited to delve deep into the mysteries of the Ecstatic God and access the hidden knowledge and transformative power of this mystical tradition. By reconnecting with this ancient wisdom, we can unlock the potential to enhance our modern spiritual lives, finding deeper meaning and understanding, and ultimately achieving new levels of personal growth and transcendence.

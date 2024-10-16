@@ -23,7 +23,7 @@ excerpt: >
 
 ## The Rite of the Crimson Oculus
 
-Objective: To evoke the Instrument of Redemption, guiding practitioners on a journey through the depths of their Third Eye, and thus strengthening their psychic abilities and connection to the cosmic realm.
+**Objective**: To evoke the Instrument of Redemption, guiding practitioners on a journey through the depths of their Third Eye, and thus strengthening their psychic abilities and connection to the cosmic realm.
 
 Materials needed:
 1. A quiet, dimly lit room
@@ -33,7 +33,7 @@ Materials needed:
 5. A candle (preferably black or purple)
 6. Incense (frankincense or myrrh) 
 
-Preparation:
+**Preparation**:
 1. Cleanse the chosen space of any negative energies, burning incense as you visualize any impurities dissolving into the cosmic abyss.
 2. Place the cushion at the center of the room and sit comfortably with an aligned spine.
 3. With the chalk or charcoal, draw the ancient symbol of the Crimson Oculus (a circle with an elongated diamond shape at its center, encircled by a serpent biting its own tail) on a wall or surface within your line of sight.

@@ -23,33 +23,33 @@ excerpt: >
 
 ## Title: A Chance Meeting Between Worlds
 
-Setting: A bustling 18th-century London coffeehouse. Imagine the scent of brewed coffee beans and the rattling of teacups on saucers amidst heated debates and hushed conversations.
+**Setting**: A bustling 18th-century London coffeehouse. Imagine the scent of brewed coffee beans and the rattling of teacups on saucers amidst heated debates and hushed conversations.
 
-Characters: Confucius, a great Chinese philosopher and influencer of Chinese thought, and Voltaire, one of the most significant Enlightenment thinkers in France.
+**Characters**: Confucius, a great Chinese philosopher and influencer of Chinese thought, and Voltaire, one of the most significant Enlightenment thinkers in France.
 
 [Confucius enters the coffeehouse, looks around hesitantly, and spies Voltaire sitting by the window, bathed in light, engrossed in writing. He approaches the table.]
 
-Confucius: Excuse me, This place seems to teem with intellectual discussions, would you mind if I joined you at your table?
+**Confucius**: Excuse me, This place seems to teem with intellectual discussions, would you mind if I joined you at your table?
 
-Voltaire: (looking up) Ah, a fellow philosopher! I have heard much about you. You must be Confucius, the great Chinese moral thinker. Please, be my guest. I am Voltaire.
+**Voltaire**: (looking up) Ah, a fellow philosopher! I have heard much about you. You must be Confucius, the great Chinese moral thinker. Please, be my guest. I am Voltaire.
 
-Confucius: (sits down with a smile) Thank you, Monsieur Voltaire. I must admit, it is fascinating to observe the exchange of ideas in this place. It is reminiscent of the discussions in the Imperial Court, yet it seems more accessible to all.
+**Confucius**: (sits down with a smile) Thank you, Monsieur Voltaire. I must admit, it is fascinating to observe the exchange of ideas in this place. It is reminiscent of the discussions in the Imperial Court, yet it seems more accessible to all.
 
-Voltaire: Indeed, that is the beauty of the Enlightenment. Reason and debate should be open to everyone, not just the nobility, and these coffeehouses provide the perfect milieu for such discourse. 
+**Voltaire**: Indeed, that is the beauty of the Enlightenment. Reason and debate should be open to everyone, not just the nobility, and these coffeehouses provide the perfect milieu for such discourse. 
 
-Confucius: I agree, but while your culture values these virtues, our Eastern philosophy puts more emphasis on moral self-discipline and harmony with societal rules.
+**Confucius**: I agree, but while your culture values these virtues, our Eastern philosophy puts more emphasis on moral self-discipline and harmony with societal rules.
 
-Voltaire: A noble pursuit, but I must confess that I find some of your teachings too rigid. Can a society truly function smoothly when people are expected to conform so strictly?
+**Voltaire**: A noble pursuit, but I must confess that I find some of your teachings too rigid. Can a society truly function smoothly when people are expected to conform so strictly?
 
-Confucius: But Voltaire, the discipline I speak of is rooted in benevolence, righteousness, and filial piety. By adhering to these principles, we cultivate moral virtues that lead to a harmonious society.
+**Confucius**: But Voltaire, the discipline I speak of is rooted in benevolence, righteousness, and filial piety. By adhering to these principles, we cultivate moral virtues that lead to a harmonious society.
 
-Voltaire: While noble, it leaves little room for individual freedom. The Enlightenment champions individual liberty and reason above all. What would Western society be like if we all lived according to a prescribed set of rules?
+**Voltaire**: While noble, it leaves little room for individual freedom. The Enlightenment champions individual liberty and reason above all. What would Western society be like if we all lived according to a prescribed set of rules?
 
-Confucius: I acknowledge your concerns but consider this: without moral guidance, do individuals not run the risk of straying into selfish desires and creating chaos in society?
+**Confucius**: I acknowledge your concerns but consider this: without moral guidance, do individuals not run the risk of straying into selfish desires and creating chaos in society?
 
-Voltaire: (pauses) You raise an intriguing point. Perhaps, then, there is merit in balancing individual freedoms with moral sincerity. 
+**Voltaire**: (pauses) You raise an intriguing point. Perhaps, then, there is merit in balancing individual freedoms with moral sincerity. 
 
-Confucius: And likewise, I concede that our Eastern philosophy can benefit from embracing some of the Enlightenment's tenets on reason and progress.
+**Confucius**: And likewise, I concede that our Eastern philosophy can benefit from embracing some of the Enlightenment's tenets on reason and progress.
 
 [Suddenly, a heated argument erupts among patrons nearby.]
 
@@ -59,12 +59,12 @@ Patron 2: (countering) The government needs the revenue for the development of o
 
 [Both Confucius and Voltaire observe the altercation.]
 
-Confucius: (sighs) Despite our best intentions, discord and conflict are inescapable.
+**Confucius**: (sighs) Despite our best intentions, discord and conflict are inescapable.
 
-Voltaire: Quite so. But perhaps, by blending the moral virtues of your philosophy with the rational and individualist principles of mine, we can create a more balanced and just society.
+**Voltaire**: Quite so. But perhaps, by blending the moral virtues of your philosophy with the rational and individualist principles of mine, we can create a more balanced and just society.
 
-Confucius: Agreed. And so, may our two worlds collaborate in pursuit of understanding, wisdom, and harmony.
+**Confucius**: Agreed. And so, may our two worlds collaborate in pursuit of understanding, wisdom, and harmony.
 
-Voltaire: To that, Confucius, let us raise our cups and toast. To the merging of our philosophies, for the betterment of humankind.
+**Voltaire**: To that, Confucius, let us raise our cups and toast. To the merging of our philosophies, for the betterment of humankind.
 
 [They clink their cups together, and the scene fades out as they continue their conversation, a symbolic meeting of East and West that transcends time and space.]

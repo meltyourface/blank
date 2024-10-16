@@ -24,7 +24,7 @@ The Ritual of the Four Archangels
 
 Before beginning the ritual, ensure you have a quiet and comfortable space where you can remain undisturbed. Clean and energetically purify the space by burning sage or other cleansing herbs. Prepare a dedicated altar space with necessary ritual symbols, tools, and supplies required for invoking each of the four Archangels – Michael, Gabriel, Raphael, and Uriel. Wear clean, comfortable clothing and abstain from intoxicants for at least 24 hours before the ritual.
 
-Preparation:
+**Preparation**:
 
 1. Begin by collecting the following materials and placing them on your altar:
 

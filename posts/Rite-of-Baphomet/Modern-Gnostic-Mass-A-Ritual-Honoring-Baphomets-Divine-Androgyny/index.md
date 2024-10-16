@@ -23,7 +23,7 @@ excerpt: >
 
 ## The Enigmatic Rite of Baphomet
 
-Introduction:
+**Introduction**:
 In this contemporary reimagining of the Gnostic Mass, we focus on the enigmatic figure of Baphomet, the divine, androgynous symbol of hidden wisdom and the union of opposites. Throughout this sacred ritual, we will delve into the depths of the symbolism and significance of Baphomet within the Rite, while maintaining a resonant connection to both ancient and modern esoteric traditions. 
 
 Setting and Altar:

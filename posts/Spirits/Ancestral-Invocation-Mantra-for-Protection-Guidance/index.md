@@ -24,7 +24,7 @@ Om Ancestribus Invoco, Aeterni Sapientia et Tutela Nobis
 
 (Translation: In the name of the Ancestors, I invoke eternal wisdom and protection for us)
 
-Mantra:
+**Mantra**:
 
 Om Ancestribus Invoco (3 times) - Invocation of Ancestral Spirits
 

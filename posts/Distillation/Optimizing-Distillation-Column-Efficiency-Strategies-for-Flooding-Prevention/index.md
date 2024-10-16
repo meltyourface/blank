@@ -22,7 +22,7 @@ excerpt: Design innovative strategies to optimize the functioning of a distillat
 
 ## Innovative Optimization Strategies for Distillation Columns
 
-Introduction:
+**Introduction**:
 
 This proposal aims to design innovative strategies for optimizing the functioning of a distillation column. The focus will be on addressing prevalent challenges such as flooding, weeping, tray damage, and temperature fluctuations. This approach will involve column internals redesign, advanced control algorithms, and enhanced energy management methods. The proposal will be backed by simulated performance metrics and real-world case studies to demonstrate the effectiveness of these solutions in improving distillation efficiency and process safety.
 
@@ -70,6 +70,6 @@ This proposal aims to design innovative strategies for optimizing the functionin
 - Present case studies of industrial distillation columns that have successfully incorporated the proposed innovative optimization strategies.
 - Detail how the implementation of the discussed techniques has led to improvements in terms of distillation efficiency and process safety.
 
-Conclusion:
+**Conclusion**:
 
 The proposed innovative optimization strategies will pave the way for a new era in distillation column technology. The combination of column internals redesign, advanced control algorithms, and enhanced energy management methods will significantly improve the prevailing challenges faced by distillation columns. These advancements will lead to safer, more efficient, and more energy-conserving systems, positively impacting industrial distillation processes.

@@ -21,7 +21,7 @@ excerpt: Construct a comprehensive system for comprehending and interpreting the
 ---
 The Celestial Oracle of Fixed Stars: A Comprehensive System for the Circle of Celestial NamesCultus Sabbati
 
-Introduction:
+**Introduction**:
 The system outlined here is designed to facilitate comprehensive insight into an individual's spiritual growth and alchemical development by interpreting the influences of fixed stars within the Circle of Celestial NamesCultus Sabbati framework. By incorporating esoteric correspondences and detailed astrological nuances, this system allows for the assessment of natal charts and celestial movements with precision and depth.
 
 The Four Pillars:
@@ -63,5 +63,5 @@ Each of the 36 fixed stars is associated with a unique set of esoteric correspon
 ### IV. Initiatory Revelations
 As individuals progress in their understanding of the fixed stars and their associated correspondences, they will experience personal insights and revelations which deepen their connection to the divine. These ongoing initiatory experiences pave the way for genuine spiritual growth and serve to integrate the numerous facets of the individual's being.
 
-Conclusion:
+**Conclusion**:
 The Celestial Oracle of Fixed Stars provides a comprehensive system for the Circle of Celestial NamesCultus Sabbati, enabling practitioners to navigate their spiritual journey with clarity and purpose. By diligently studying the fixed stars, their relationships with the Alchemical Planets, and the vast web of esoteric correspondences, seekers can unlock the hidden knowledge and transformative potential that lies waiting within themselves.

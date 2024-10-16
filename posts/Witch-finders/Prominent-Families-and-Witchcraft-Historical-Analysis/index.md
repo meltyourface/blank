@@ -22,7 +22,7 @@ excerpt: Investigate and compile an in-depth report about notorious instances of
 
 ## Witchcraft Allegations Involving Prominent Families: Analyzing Accusations, Witch-finding Methods, and Consequences
 
-Abstract: This report examines the history of witchcraft allegations involving prominent families, focusing on specific cases and accusations, methods of witch-finding employed, and consequences faced by the accused. Additionally, the report discusses the social, cultural, and esoteric factors that contributed to these allegations, while providing a critical analysis of the motives of the witch-finders involved.
+**Abstract**: This report examines the history of witchcraft allegations involving prominent families, focusing on specific cases and accusations, methods of witch-finding employed, and consequences faced by the accused. Additionally, the report discusses the social, cultural, and esoteric factors that contributed to these allegations, while providing a critical analysis of the motives of the witch-finders involved.
 
 1. Introduction
 

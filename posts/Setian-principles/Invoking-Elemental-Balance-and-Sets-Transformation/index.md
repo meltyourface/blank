@@ -22,7 +22,7 @@ excerpt: Compose a Setian-inspired ritual script, incorporating invocations for 
 
 ## Invocation of the Tetrahedral Balance and Set’s Transformation
 
-Introduction:
+**Introduction**:
 Welcome, seekers of the hidden knowledge, gatherers of the esoteric wisdom, and practitioners of the Setian arts. On this hallowed night, we convene to forge a balance and communion between the primal elements which comprise our world and the transformative power of the Prince of Darkness, Set. Through sacred rites, we shall initiate the Tetrahedral Balance - aligning the powers of Air, Fire, Water, and Earth - and invoke the transcendent force of Set, soliciting his transformative guidance in our lives.
 
 (Ritual Preparation)
@@ -49,5 +49,5 @@ With the forces of the elements intertwined, we reach out for your guidance and 
 
 By the agency of the elements and the power of Set, may our lives be awakened to the extraordinary, leading us to the paths of our truest potential, breaking the chains of conformity, and embracing the transcendent illumination of the Black Flame!
 
-Conclusion:
+**Conclusion**:
 Now, our invocations complete, let us give thanks to the elements and the presiding spirit of Set. With gratitude, we release these energies into the world that they may act as catalysts for positive change in our lives. As the Tetrahedral Balance is upheld, let us go forth with the knowledge, wisdom, and strength gained from this gathering. May you be ever guided and transformed by Set's divine empowerment! Xeper and Remanifest!

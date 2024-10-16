@@ -81,6 +81,6 @@ Exercise 3: The Armor Shield
 - Challenges: Building and maintaining a complex, multi-layered shield structure
 - Benefits: Advanced psychic boundaries and refined control over psychic sensitivities
 
-Assessment:
+**Assessment**:
 
 Throughout the course, students will maintain a journal to record their experiences, observations, and personal growth. Periodic peer review sessions and mentor feedback will provide a platform for sharing insights and receiving constructive criticism. Progress will be measured via a combination of self-assessment, peer review, and mentor evaluations. Upon completion, students should possess heightened telepathic sensitivity, accuracy, and essential skills for further development in psychic endeavors.

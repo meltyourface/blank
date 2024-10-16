@@ -71,7 +71,7 @@ Developing clairvoyance is a gradual process that demands patience and dedicatio
 
 Beginner-Friendly Clairvoyant Exercise
 
-Exercise: Psychic Color Perception
+**Exercise**: Psychic Color Perception
 
 1. Choose a quiet space where you can sit comfortably without distractions.
 2. Close your eyes and take several deep breaths to center yourself.

@@ -22,7 +22,7 @@ excerpt: Compose a meticulous ritual outline for the consecration of a ceremonia
 
 ## "The Ritual of the Sanctified Tetrahedron"
 
-Purpose: To create a ceremonial space using sacred geometry and elemental correspondences, with the invocation of related deities and spirits, thus forming an energetically potent atmosphere for advanced magical workings.
+**Purpose**: To create a ceremonial space using sacred geometry and elemental correspondences, with the invocation of related deities and spirits, thus forming an energetically potent atmosphere for advanced magical workings.
 
 Tools and Materials:
 1. Salt, representing Earth.
@@ -31,9 +31,9 @@ Tools and Materials:
 4. Water, representing Water.
 5. A Tetrahedron model or diagram.
 
-Participants: One primary operator and any number of assistants, if desired.
+**Participants**: One primary operator and any number of assistants, if desired.
 
-Preparation:
+**Preparation**:
 - Prepare the ritual space by ensuring its cleanliness and clearing away any unnecessary items. 
 - Mark the corners of the space with a small pile of salt. 
 - Set up a central altar with the Tetrahedron, the four elemental representations (salt, incense, candles, water), and any other necessary tools or materials. 

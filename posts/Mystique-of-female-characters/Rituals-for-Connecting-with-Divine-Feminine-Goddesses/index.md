@@ -23,7 +23,7 @@ excerpt: >
 
 ## Title: Whispers of the Divine Feminine
 
-Introduction: The Whispers of the Divine Feminine is a collection of prayers, invocations, and rituals dedicated to invoking the awe-inspiring essence and mystique of female deities and archetypal energies from a variety of mythology, folklore, and esoteric traditions.
+**Introduction**: The Whispers of the Divine Feminine is a collection of prayers, invocations, and rituals dedicated to invoking the awe-inspiring essence and mystique of female deities and archetypal energies from a variety of mythology, folklore, and esoteric traditions.
 
 Invocation of Isis, the Egyptian Goddess of Fertility and Healing:
 When the moon is waning crescent, light three white candles and place them in a triangle formation. **Sprinkle myrrh incense on a charcoal disc and recite the following prayer**:
@@ -77,4 +77,4 @@ Empower my spirit, remove despair.
 I open my heart to your golden grace,
 Let your guidance strengthen my embrace."
 
-Conclusion: This compilation aspires to showcase the rich, diverse, and powerful energies of the divine feminine, honoring the myriad expressions of these goddesses. May the rituals, prayers, and invocations contained within serve as a map, guiding you on your journey to connect with the divine feminine within, unfolding the mysteries of these enigmatic beings and their powerful presence.
+**Conclusion**: This compilation aspires to showcase the rich, diverse, and powerful energies of the divine feminine, honoring the myriad expressions of these goddesses. May the rituals, prayers, and invocations contained within serve as a map, guiding you on your journey to connect with the divine feminine within, unfolding the mysteries of these enigmatic beings and their powerful presence.

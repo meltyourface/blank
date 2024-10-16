@@ -22,7 +22,7 @@ excerpt: Craft a comprehensive compendium on Stellar enchantments, delving into 
 
 ## Stellar Enchantments: A Comprehensive Compendium of Planetary Magick
 
-Preface:
+**Preface**:
 
 The art of Stellar Enchantments delves into the ancient wisdom and cosmic power of the celestial bodies, unlocking the secrets of planetary magick that have been passed down through the ages. This compendium aims to provide a complete and thorough guide to understanding and harnessing the energies of the cosmos in order to enact positive change, both spiritually and tangibly, in the practitioner's life.
 

@@ -34,7 +34,7 @@ Possible Parallels:
 
 3. Both prophecies touch upon the theme of spiritual awakening, reflecting a desire to understand the nature of existence and the role of cosmic divine forces in shaping life and destiny.
 
-Differences:
+**Differences**:
 1. The Three Holy Virgins center around fate and destiny, enforcing the inescapable end that awaits all life, whereas the Woman Clothed with the Sun focuses on redemption and hope of salvation amid the apocalyptic narrative.
 
 2. The Woman Clothed with the Sun is a more overtly religious symbol, tied to Christian beliefs and the New Testament, while the Three Holy Virgins have their roots in Greek mythology and thus represent a more diverse religious spectrum.

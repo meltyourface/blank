@@ -22,11 +22,11 @@ excerpt: Compose a comprehensive dissertation that delves into the omnipresent i
 
 ## The Omnipresent Impact of Hermetic Principles in the Freemasonic Works of Albert Pike: A Comprehensive Analysis of "Morals and Dogma" and the Scottish Rite
 
-Abstract:
+**Abstract**:
 
 This dissertation aims to explore the omnipresent impact of Hermetic principles and concepts within the writings and ideologies of Albert Pike, particularly focusing on "Morals and Dogma" and his involvement in Freemasonry. We examine the interconnections between Pike's interpretations of Hermeticism and his contributions to the Scottish Rite, while also providing a thorough analysis of the major themes, symbols, and allegories present in his works that reflect Hermetic thought. Additionally, we explore the cultural and historical context within which Pike operated, and investigate how the infiltration of Hermeticism into his writings may have influenced the broader esoteric community during his time. We conclude the dissertation with a discussion of the long-term significance of Pike's Hermetic teachings and their continuing impact within the world of the occult and Masonic traditions.
 
-Introduction:
+**Introduction**:
 
 Albert Pike, an American author, and prominent Freemason is best known for his works on Masonic rituals and his interpretations of esoteric symbolism. His most famous work, "Morals and Dogma," is considered a pivotal text within the Freemasonic tradition. One of the key aspects of Pike's writings is his interpretation of Hermetic principles and their integration into his understanding of the Masonic tradition. This dissertation investigates the extent to which Hermetic thought permeates Pike's works, with a particular focus on "Morals and Dogma" and his involvement with the Scottish Rite.
 
@@ -50,6 +50,6 @@ Understanding the cultural and historical context within which Pike operated is 
 
 Finally, this dissertation concludes with a discussion of the long-term significance of Pike's Hermetic teachings and their continuing impact within the world of the occult and Masonic traditions. We analyze the ways in which Hermetic thought remains highly influential within modern esotericism and identify the lasting legacy of Pike's scholarship in both Masonic and Hermetic circles.
 
-Conclusion:
+**Conclusion**:
 
 Through a comprehensive analysis of the major themes, symbols, and allegories present in his works, this dissertation demonstrates the omnipresent impact of Hermetic principles within Albert Pike's writings on Freemasonry. By contextualizing Pike's insights within the broader historical and cultural landscape of the esoteric tradition, we reveal the lasting significance of his Hermetic teachings and their continuing influence on the world of the occult and Masonic traditions.

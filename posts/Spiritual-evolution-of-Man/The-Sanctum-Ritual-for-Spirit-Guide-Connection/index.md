@@ -22,7 +22,7 @@ excerpt: Compose an elaborate invocation ritual for establishing a profound conn
 
 ## The Sanctum Ritual of Evocative Guidance
 
-Objective: Establishing a profound connection with a spirit guide to assist in the spiritual evolution of Man.
+**Objective**: Establishing a profound connection with a spirit guide to assist in the spiritual evolution of Man.
 
 Phase 1: Preparatory Steps
 

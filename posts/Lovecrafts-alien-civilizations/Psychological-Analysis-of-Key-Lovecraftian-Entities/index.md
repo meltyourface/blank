@@ -44,6 +44,6 @@ Tsathoggua, a lethargic, toad-like deity, epitomizes idleness and indulgence in 
 
 Azathoth, a powerful yet incomprehensible being, resides at the center of the universe. Its chaotic essence serves as the origin of all cosmic creation, destruction, and mutation. Azathoth's absence of a distinct psychological profile stems from its sheer omnipotence and unfathomable nature. As a deity wholly removed from human understanding, it is an entity that merely exists, unconcerned and unaware of cosmic relationships. Communicating or finding commonalities with Azathoth is an impossibility, leaving human beings with nothing more than the knowledge of its unfathomable existence.
 
-Conclusion:
+**Conclusion**:
 
 Each Lovecraftian cosmic entity presents a unique psychological profile, transcending human understanding. Commonalities among them are few, but some align in their governing domains and disinterest in human existence. It is important to note that, within the cosmic horror genre, comprehending these entities' motivations or rationalizing their behavior remains elusive. Attempting to communicate or align oneself with their inconceivable nature may only bring forth further madness or despair, ironically reinforcing the genre's central theme. However, understanding their psychological intricacies provides invaluable insights into the Lovecraftian mythos and a deeper appreciation for the cosmic horror that H.P. Lovecraft masterfully crafted.

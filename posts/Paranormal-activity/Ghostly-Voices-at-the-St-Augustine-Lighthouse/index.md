@@ -47,5 +47,5 @@ Interactive Elements:
 • During the moment at 00:09:12, investigators felt a sudden temperature drop in conjunction with the wind, aligning with previous accounts related to paranormal experiences within the lighthouse.
 • The cigar smoke odor at 00:11:32 wafted throughout the lighthouse, manifesting a strong connection to the spirit of Peter Rasmussen.
 
-Analysis:
+**Analysis**:
 Through meticulous analysis of the EVP evidence gathered, several emotional tones and distinct vocal characteristics of the spirits residing in the St. Augustine Lighthouse were captured. The presence of the young girls, Eliza and Mary, conveyed fear, sadness, and a desire for protection. The spirit of lighthouse keeper Peter Rasmussen demonstrated a protective and watchful presence. This investigation highlighted the rich and eerie history of the St. Augustine Lighthouse, with the gathered EVP evidence supporting the claims of paranormal activity that have persisted for over a century.

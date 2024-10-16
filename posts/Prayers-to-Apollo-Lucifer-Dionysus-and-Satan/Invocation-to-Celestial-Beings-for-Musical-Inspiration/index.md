@@ -32,7 +32,7 @@ Grant creativity in true ascension.
 For in this union of force and desire,
 A musical project takes flight afire.
 
-APOLLO:
+**APOLLO**:
 
 Oh, radiant Apollo
 God of music and song,
@@ -43,7 +43,7 @@ Raise a symphony with soul,
 As my heart orchestrates
 Manifested dreams, my goal.
 
-LUCIFER:
+**LUCIFER**:
 
 Lucifer, morning star, of spirit daring,
 Rebel amongst heavens, the beacon wearing,
@@ -52,7 +52,7 @@ And in the furnace of creation, be immersed.
 May art, unchained from celestial chains,
 Birth wings of defiance and conquer pain.
 
-DIONYSUS:
+**DIONYSUS**:
 
 Wild Dionysus, revels your creation,
 Intoxicate the sound with grand ovations,
@@ -62,7 +62,7 @@ Let its vibrant nature connect our hearts,
 Bestow indulgent energy
 To my musical work of art.
 
-SATAN:
+**SATAN**:
 
 Shadowed fire, transformative and wise
 Lord Satan, hear these ambitious cries

@@ -27,7 +27,7 @@ Interconnecting these four key components of the sigil, you can find looming aro
 
 As a final touch, the sigil is enclosed within a circle of fire, signifying Agrat Bat Mahlat's infernal influence upon those who dare to harness her power.
 
-Backstory:
+**Backstory**:
 
 The sigil was created eons ago by the dark sorceress Aradia, who sought to strengthen her own dark powers by forming a pact with Agrat Bat Mahlat. Aradia knew that a mere incantation or ritual would not suffice; thus, she ventured into the depths of Hell to gather the knowledge and materials necessary to create such an intricate sigil. It took Aradia decades to complete her work, but her determination fueled by the promise of unrivaled power never waned.
 

@@ -22,7 +22,7 @@ excerpt: Create a comprehensive bestiary specifically for the Monster thriller g
 
 ## The Dark Bestiary - A Compendium of Nightmares
 
-Introduction:
+**Introduction**:
 The Dark Bestiary is a collection of sinister supernatural creatures deeply rooted in horror and terror. Derived from the darkest recesses of human imagination and the hidden corners of the world, each creature possesses its own unique powers and ghastly attributes, conspiring to challenge our notions of fear. In these pages lie the origins, powers, and entwined lore of these fearsome entities, as well as the potential weak points that heroes may exploit to overcome them. Venture forth, but take heed, for the darkness runs deep.
 
 1. The Soulstrip Wraiths

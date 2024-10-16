@@ -23,9 +23,9 @@ excerpt: >
 
 ## Title: The Rite of the Boundless Mind
 
-Purpose: This ceremonial rite draws upon the Cunning craft and occult teachings to channel energies and increase the potency of one's intuition, clairvoyance, and telepathy. It will unlock the mind's hidden potentials by utilizing specific ritual preparations, consecrated tools, and sacred symbols.
+**Purpose**: This ceremonial rite draws upon the Cunning craft and occult teachings to channel energies and increase the potency of one's intuition, clairvoyance, and telepathy. It will unlock the mind's hidden potentials by utilizing specific ritual preparations, consecrated tools, and sacred symbols.
 
-Preparations:
+**Preparations**:
 
 1. **Choose a suitable location**: A place imbued with natural energy, such as a forest, a cave, or the meeting point of ley lines will enhance the potency of the ritual. The location should be free from distractions and any negative energies to allow proper focus and concentration.
 
@@ -41,7 +41,7 @@ Preparations:
    - Four candles (green, yellow, red, and blue) to represent the elements
    - A sizable quartz crystal to amplify psychic energy
 
-Procedure:
+**Procedure**:
 
 1. Step into the prepared space and stand before the altar, aligned with the sacred symbols and talismans. Close your eyes, take deep cleansing breaths, and enter a state of relaxation and receptivity to attune yourself with the energies present.
 

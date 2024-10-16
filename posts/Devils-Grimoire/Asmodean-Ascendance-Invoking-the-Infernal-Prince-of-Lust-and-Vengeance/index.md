@@ -22,15 +22,15 @@ excerpt: >
 ---
 Ritual Name: The Asmodean Ascendance
 
-Objective: Invoke the formidable demon, Asmodeus, to seek his guidance in matters of lust and vengeance.
+**Objective**: Invoke the formidable demon, Asmodeus, to seek his guidance in matters of lust and vengeance.
 
-Preparation:
+**Preparation**:
 
 1. Choose an isolated location free from distractions and interruptions.
 2. Cleanse the area with black salt mixed with dried mugwort and wormwood.
 3. Place a black altar cloth on a table or platform to serve as your ritual space.
 
-Time: The ritual must be conducted during the night of a full moon. **The most powerful hour is the Witching Hour—midnight to 1**:00 am.
+**Time**: The ritual must be conducted during the night of a full moon. **The most powerful hour is the Witching Hour—midnight to 1**:00 am.
 
 Sigils and symbols:
 
@@ -44,7 +44,7 @@ Potestatem tuam invoco, Magister Libidinis et Ultionis. (Po-tes-taht-em too-am i
 Per tenebras lunae plenae, te advoco. (Pair ten-ay-brahs loo-nigh play-neh, teh ad-vo-koh)
 Sic fiat voluntati tuae, ab imis ad summa. (Seek fee-aht vo-lun-tah-tee too-ay, aab i-mis ad soom-mah)"
 
-Translation:
+**Translation**:
 
 "Come forth, Asmodeus, Infernal Prince.
 I invoke your power, Master of Lust and Vengeance.
@@ -68,10 +68,10 @@ Ritual steps:
 5. Wait and observe. As the incense smoke swirls and dances, stay vigilant for Asmodeus's presence. He may choose to manifest himself in a variety of forms or speak through divinely inspired thoughts and ideas.
 6. When you feel his presence, address your desires or questions and await his guidance.
 
-Closure:
+**Closure**:
 
 1. Once you have obtained his assistance and wisdom, humbly thank Asmodeus for his audience.
 2. **Bid him farewell with the words**: "Vale, Asmodeus, Princeps Infernalis. Revertetur ad abyssos. (Farewell, Asmodeus, Infernal Prince. Return to the abyss.)"
 3. Extinguish the candles, then close the protective circle by sprinkling a mixture of black salt and holy water or wine upon the circle's perimeter, repeating the words: "By my will, this circle is closed."
 
-Caution: There is no guarantee for personal safety while dealing with these forces, always proceed with the utmost care and respect.
+**Caution**: There is no guarantee for personal safety while dealing with these forces, always proceed with the utmost care and respect.

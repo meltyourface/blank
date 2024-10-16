@@ -30,7 +30,7 @@ The correct answer is:
 
 - A temporary boundary between the mundane world and the realm of the supernatural
 
-Explanation:
+**Explanation**:
 
 In the context of advanced magical rites, the sacred circle holds great significance as it acts as a temporary boundary between the mundane world and the realm of the supernatural. The sacred circle acts as a protective barrier, separating the practitioner from potentially harmful energies or entities while they perform their ritual or invocation.
 

@@ -22,7 +22,7 @@ excerpt: >
 ---
 Historical Figure: John Dee
 
-Born: July 13, 1527 (Julian calendar), Mortlake, England
+**Born**: July 13, 1527 (Julian calendar), Mortlake, England
 
 As a prominent historical figure within the realm of Secret Chiefs, John Dee's life and work are deeply intertwined with esoteric traditions and the occult. A renowned mathematician, astronomer, alchemist, and advisor to Queen Elizabeth I, Dee was a polymath who studied and practiced various mystical disciplines, notably Enochian Magick. He significantly impacted the evolution of the occult, leaving a lasting legacy that continues to influence modern esotericism.
 

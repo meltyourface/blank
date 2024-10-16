@@ -22,7 +22,7 @@ excerpt: >
 ---
 To begin with the creation of the talisman, ensure that you have access to the necessary tools: 
 
-Materials:
+**Materials**:
 1. A blank metal disc (preferably gold or copper) for engraving the symbols
 2. Engraving tools for etching symbols onto the talisman
 3. Enneagram of Permutations and the Sigil of Aphrodite symbols
@@ -31,7 +31,7 @@ Materials:
 6. Esoteric Elixir of Amor
 7. Secluded altar dedicated to the Lords of Passion
 
-Steps:
+**Steps**:
 
 1. Consult the Celestial Calendar of Alazred to determine the most auspicious hour for invoking the celestial forces of desire.
 

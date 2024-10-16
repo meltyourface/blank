@@ -22,7 +22,7 @@ excerpt: Design a singular banishing ceremony, specifically centered on the prin
 
 ## The Ritual of Ethereal Transcendence
 
-Objective: To purge and neutralize detrimental forces within an individual's surroundings, ushering in an era of heightened spiritual harmony and sacred sanctuary.
+**Objective**: To purge and neutralize detrimental forces within an individual's surroundings, ushering in an era of heightened spiritual harmony and sacred sanctuary.
 
 Materials Needed:
 
@@ -35,11 +35,11 @@ Materials Needed:
    b) The Pentacle of Protection, acting as a shield against negative forces.
 6. A Tibetan singing bowl or crystal bowl for generating ethereal vibrations.
 
-Preparation:
+**Preparation**:
 
 Begin by thoroughly cleansing your sacred space, physically and energetically. Burn incense or sage to purify the atmosphere, while envisioning any stagnant or harmful energies dissipating. Adorn your ceremonial attire and meditate on your intentions before the ritual.
 
-Instructions:
+**Instructions**:
 
 1. Place the seven candles in a circle around the sacred space, arranging them in the order of the chakras (red being the base and violet being the crown).
 

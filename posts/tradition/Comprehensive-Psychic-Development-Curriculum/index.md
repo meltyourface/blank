@@ -85,10 +85,10 @@ Assessment and Proficiency:
 - Group assessments and peer feedback
 - Presentation of findings and experiences to the cohort
 
-Resources:
+**Resources**:
 - A comprehensive library of esoteric texts, including works by historical occult figures
 - Access to recorded lectures, workshops, and conferences by modern psychic practitioners
 - Community networking opportunities to meet and learn from fellow practitioners
 - Online resources, including forums, instructional videos, and articles on psychic development
 
-Note: This curriculum can be further customized and expanded by including supplementary modules specific to other psychic abilities (such as remote viewing, channeling, and astral projection) as needed.
+**Note**: This curriculum can be further customized and expanded by including supplementary modules specific to other psychic abilities (such as remote viewing, channeling, and astral projection) as needed.

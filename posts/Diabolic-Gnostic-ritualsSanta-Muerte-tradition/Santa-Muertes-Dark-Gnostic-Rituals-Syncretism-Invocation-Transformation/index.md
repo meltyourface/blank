@@ -35,11 +35,11 @@ The tradition of venerating Santa Muerte dates back to the 18th century, althoug
 
 Diabolic Gnostic rituals in the Santa Muerte tradition revolve around several key concepts:
 
-Invocation: To invoke is to call upon a higher power, such as Lucifer, to aid the practitioner in their magical workings. In this tradition, invocations are used to awaken and unite the energies of the invoked entities and Santa Muerte, creating a powerful union between the light and darkness.
+**Invocation**: To invoke is to call upon a higher power, such as Lucifer, to aid the practitioner in their magical workings. In this tradition, invocations are used to awaken and unite the energies of the invoked entities and Santa Muerte, creating a powerful union between the light and darkness.
 
 Pact-making: Pacts are agreements made between the practitioner and the invoked dark entities. These agreements may involve the exchange of services or favors, which can provide the practitioner with knowledge, guidance, or access to new magical abilities.
 
-Transformation: At the core of diabolic Gnostic rituals is the idea of transformation, both within the practitioner and the world around them. Through the exploration of the dark aspects of Santa Muerte, the practitioners can better understand themselves and the duality of the human experience.
+**Transformation**: At the core of diabolic Gnostic rituals is the idea of transformation, both within the practitioner and the world around them. Through the exploration of the dark aspects of Santa Muerte, the practitioners can better understand themselves and the duality of the human experience.
 
 3. Symbolism
 
@@ -53,11 +53,11 @@ In a diabolic Gnostic ritual, practitioners often use a variety of symbols to cr
 
 The following are some common practices that a student of diabolic Gnostic rituals in the Santa Muerte tradition can engage in:
 
-Purification: Before engaging in a diabolic Gnostic ritual, a practitioner must purify their body, mind, and spirit to create a clean foundation for their magical work.
+**Purification**: Before engaging in a diabolic Gnostic ritual, a practitioner must purify their body, mind, and spirit to create a clean foundation for their magical work.
 
 Setting the stage: Create a sacred space for the ritual, choosing an altar with representations of the invoked entities and Santa Muerte, along with any other offerings or tools needed for the working.
 
-Invocation: The practitioner must intone the invocations, mantras, or prayers that connect them with the invoked entities and the energies of Santa Muerte.
+**Invocation**: The practitioner must intone the invocations, mantras, or prayers that connect them with the invoked entities and the energies of Santa Muerte.
 
 Engaging with the energies: During the ritual, the practitioner may perform acts of devotion, such as burning incense, offering food, or making proclamations of loyalty and commitment to the invoked forces.
 

@@ -22,7 +22,7 @@ excerpt: Design a comprehensive and intricate ritual that facilitates an unbroke
 
 ## The Ritual of Celestial Communion
 
-Objective: To establish an unbroken communion with one's guardian angel and to delve into the nuances of angelic communication.
+**Objective**: To establish an unbroken communion with one's guardian angel and to delve into the nuances of angelic communication.
 
 Phase 1: Preparation
 ### 1.1 Setting the intentions: Clearly define the purpose of the ritual, perhaps to seek guidance, protection, or understanding.

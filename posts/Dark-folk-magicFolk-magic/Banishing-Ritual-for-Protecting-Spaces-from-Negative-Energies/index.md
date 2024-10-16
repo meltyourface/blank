@@ -22,7 +22,7 @@ excerpt: Construct a dark folk magic ritual to expel and transmute malicious ene
 
 ## The Obscura Expulsion
 
-Objective: The purpose of this dark folk magic ritual is to expel and transmute malicious energies from a chosen space using esoteric symbols, ingredients such as black salt, banishing candles, and obscure incantations. 
+**Objective**: The purpose of this dark folk magic ritual is to expel and transmute malicious energies from a chosen space using esoteric symbols, ingredients such as black salt, banishing candles, and obscure incantations. 
 
 Ingredients and tools:
 

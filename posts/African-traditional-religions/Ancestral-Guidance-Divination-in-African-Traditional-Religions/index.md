@@ -28,7 +28,7 @@ excerpt: >
 ---
 Answer: Divination is a communication method that provides deep insights into a person's life by bridging the gap between the physical world and the spiritual realms, often involving contact with ancestors and spiritual beings.
 
-Explanation: In African traditional religions, divination is a significant practice that allows for communication and connection with the spiritual world. It helps provide understanding, guidance, and advice by interpreting messages from ancestors, spirits, and the divine. This process bridges the gap between the physical world and the spiritual realms, making it an essential aspect of many African traditional religions.
+**Explanation**: In African traditional religions, divination is a significant practice that allows for communication and connection with the spiritual world. It helps provide understanding, guidance, and advice by interpreting messages from ancestors, spirits, and the divine. This process bridges the gap between the physical world and the spiritual realms, making it an essential aspect of many African traditional religions.
 
 African traditional religions consider the spiritual world to be intricately tied to the physical world, and divination acts as a medium to navigate this connection. Diviners, often called priests or priestesses, are specialists who possess the abilities to interpret the signs and offer solutions for various issues in life.
 

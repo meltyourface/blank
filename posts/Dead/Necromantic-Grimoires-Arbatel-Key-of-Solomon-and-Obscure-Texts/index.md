@@ -28,7 +28,7 @@ Magical System: The Arbatel's system centers on invoking the seven Olympic Spiri
 
 Conjuration Methods: The Arbatel employs invocations, prayers, and self-preparatory rituals to conjure these spirits. 
 
-Sigils: The grimoire provides sigils for each Olympic Spirit.
+**Sigils**: The grimoire provides sigils for each Olympic Spirit.
 
 Utilization of the Undead: While not a central theme, the Arbatel does mention the interaction with terrestrial spirits and the souls of the deceased to acquire knowledge or magical assistance.
 
@@ -39,7 +39,7 @@ Magical System: The Key of Solomon's system emphasizes the use of precise ritual
 
 Conjuration Methods: The grimoire features complex rituals, invocations, and the use of magical tools such as a wand, knife, and chalice.
 
-Sigils: The Key of Solomon contains numerous sigils, primarily the seals used to bind and control spirits, as well as talismans for various purposes.
+**Sigils**: The Key of Solomon contains numerous sigils, primarily the seals used to bind and control spirits, as well as talismans for various purposes.
 
 Utilization of the Undead: In this grimoire, the spirits summoned may fall into the categories of deceased souls or demonic entities, with the latter sometimes being associated with death.
 
@@ -50,7 +50,7 @@ Magical System: Obscure grimoires often present unique magical systems, emphasiz
 
 Conjuration Methods: These texts may adopt a variety of conjuration methods—such as invocations, evocations, or use of fetishes—with an emphasis on experimentation and adaptability.
 
-Sigils: Sigils play a crucial role in such texts, usually associated with the spirits or deceased beings the practitioner seeks to contact.
+**Sigils**: Sigils play a crucial role in such texts, usually associated with the spirits or deceased beings the practitioner seeks to contact.
 
 Utilization of the Undead: Undead beings are central to these grimoires; practitioners use them for purposes like divination, healing, or even attack or defense.
 

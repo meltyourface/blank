@@ -24,9 +24,9 @@ Introducing the Zylithian Language
 Phonetic System:
 The Zylithian language has 25 consonants and 8 vowels, including clicks and guttural sounds due to the unique biology of the Zylithian species. They have a beak-like mouth structure with a bifurcated tongue, enabling them to produce complex sounds.
 
-Consonants: b, p, d, t, g, k, q, f, v, th, z, s, x, zh, sh, h, m, n, ñ, r, l, w, y, ! (click), and * (guttural)
+**Consonants**: b, p, d, t, g, k, q, f, v, th, z, s, x, zh, sh, h, m, n, ñ, r, l, w, y, ! (click), and * (guttural)
 
-Vowels: a, e, i, o, u, ae, ui, ou
+**Vowels**: a, e, i, o, u, ae, ui, ou
 
 Grammar and Syntax Rules:
 1. Zylithian is a Subject-Verb-Object (SVO) language, similar to English.
@@ -65,20 +65,20 @@ Zylithian language guide:
 
 Sample conversation:
 
-Kalaera: Quantae, Tholvi. Fythluaro nashet jarguul oumzor zodu vaela?
+**Kalaera**: Quantae, Tholvi. Fythluaro nashet jarguul oumzor zodu vaela?
 (Hello, Tholvi. Have you heard about the Jarguul festival happening tonight?)
 
-Tholvi: Yth. Kipadaq-treth ruldan og hirata velnax, zun?
+**Tholvi**: Yth. Kipadaq-treth ruldan og hirata velnax, zun?
 (Yes. I'm teleporting there with Hirata later, and you?)
 
-Kalaera: Graezun yxefin en mireth, quinzem-kael yxuubaz oumzor tinlan.
+**Kalaera**: Graezun yxefin en mireth, quinzem-kael yxuubaz oumzor tinlan.
 (I'm joining the energy shield demonstration and entering the Quinzem competition tonight.)
 
-Tholvi: Tylurian qaelik ouzmil?
+**Tholvi**: Tylurian qaelik ouzmil?
 (Will you perform the Tylurian dance too?)
 
-Kalaera: Uxlaen! Yth, hiruu namshi grek ouzmil. Xamba!
+**Kalaera**: Uxlaen! Yth, hiruu namshi grek ouzmil. Xamba!
 (Definitely! By the way, thank you for reminding me. Goodbye!)
 
-Tholvi: Mithaera zelaetha, Kalaera. Xamba!
+**Tholvi**: Mithaera zelaetha, Kalaera. Xamba!
 (May the stars guide you, Kalaera. Goodbye!)

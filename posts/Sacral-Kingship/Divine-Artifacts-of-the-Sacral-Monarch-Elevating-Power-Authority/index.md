@@ -31,7 +31,7 @@ To establish an intricate collection of divine artifacts and ceremonial attire f
 
 5. **The Orb of Spiritual Harmony**: This luminous crystal orb, imbued with powerful, mystical energy, sits atop an altar at the heart of the monarch's sacred sanctuary. The orb serves as a conduit through which the ruler can connect with the spiritual realms, receiving guidance and wisdom from their otherworldly advisors.
 
-Narrative: The legend of these artifacts begins with the birth of the monarch's ancestor, a divine progenitor who emerged from the celestial realm to guide humankind through its nascent stages. Bestowed upon the progenitor by the higher beings were the Enchanted Scepter, the Crown of Celestial Ascendance, and the Talisman of Psychic Heritage to lead humanity with divine wisdom.
+**Narrative**: The legend of these artifacts begins with the birth of the monarch's ancestor, a divine progenitor who emerged from the celestial realm to guide humankind through its nascent stages. Bestowed upon the progenitor by the higher beings were the Enchanted Scepter, the Crown of Celestial Ascendance, and the Talisman of Psychic Heritage to lead humanity with divine wisdom.
 
 Over generations, the Sacred Robes were woven by the Fates themselves as a testament to the monarch's divine purpose, while the Orb of Spiritual Harmony was a gift from the ethereal guardians, acknowledging the monarch's progression in spiritual mastery.
 

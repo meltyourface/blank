@@ -24,7 +24,7 @@ excerpt: Devise a complex and arcane ritual intended for seasoned practitioners 
 
 The Galdurblót of Grothuk is an arcane ritual, reserved only for the most seasoned practitioners of the esoteric arts. It is said to unveil a secret method of crafting a potent elixir, known as 'The Elixir of Gigantic Might,' which imbues a dwarf with the temporary might of a giant. This transformation enables the dwarf to perform extraordinary feats of strength and combat, comparable to the legendary Giants of ancient tales.
 
-Ingredients:
+**Ingredients**:
 1. Giant's Bone Dust (100 grams)
 2. Enchanted Dwarf Iron (500 grams)
 3. Blood of a Celestial Beast (50 milliliters)

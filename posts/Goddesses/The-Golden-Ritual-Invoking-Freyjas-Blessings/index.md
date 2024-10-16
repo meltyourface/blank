@@ -23,7 +23,7 @@ excerpt: >
 
 ## The Golden Ritual of Freyja
 
-Objective: To honor and venerate the Goddess Freyja, invoking her divine presence and blessings in the areas of love, fertility, and warrior prowess.
+**Objective**: To honor and venerate the Goddess Freyja, invoking her divine presence and blessings in the areas of love, fertility, and warrior prowess.
 
 Elements & Associative Symbols:
 1. Amber: Signifying Freyja's connection to the sun, warmth, and light

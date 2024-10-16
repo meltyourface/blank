@@ -56,7 +56,7 @@ The wielder can invoke the artefact's magical abilities through a series of inca
 
 3. Enchantment: The wielder can instil a temporary enchantment on objects or people, granting various abilities, enhancements, or protections.
 
-Ramifications:
+**Ramifications**:
 
 However, wielding the Serpent's Scale comes with potential consequences:
 

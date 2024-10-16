@@ -22,7 +22,7 @@ excerpt: >
 ---
 Character Name: Aislinn Mortlake
 
-Background:
+**Background**:
 Aislinn Mortlake was once a plain and unassuming woman in her twenties, living a mundane life in a quiet English village. One fateful day, her life took a dark turn when she stumbled upon an abandoned mansion on the outskirts of the village. The locals had long whispered about strange occurrences taking place in that forsaken place, and Aislinn was not one to ignore such rumors.
 
 In the forsaken mansion, hidden within the darkest depths of its chambers, Aislinn discovered an ancient, iron-bound tome, tightly sealed, and bearing a bone-chilling, eldritch emblem. Tearing off the worn wax seal triggered an otherworldly event, as a gateway between dimensions seemed to tear open right before her eyes. Aislinn, consumed by her insatiable curiosity, stepped into the portal that welcomed her with a heart-stopping chill.

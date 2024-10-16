@@ -39,6 +39,6 @@ The Hierarchy of Spirits in the Abramelin working serves multiple purposes and g
 
 Throughout the Abramelin journey, the initiate must confront and integrate all parts of their being, including the darkest corners of their psyche. This is symbolized by the control of demonic forces. By facing these darker aspects, the practitioner gains self-mastery and understanding, leading to greater wisdom and spiritual growth.
 
-Conclusion:
+**Conclusion**:
 
 In summary, the Hierarchy of Spirits in the Abramelin working plays a crucial role in the psychological and spiritual transformation of the initiate. It provides a clear structure for understanding the spiritual realms and serves as a metaphor for the human psyche. The phases and operations of the Abramelin journey involve preparation, purification, invocation of the Holy Guardian Angel, and control of demonic forces, transforming the practitioner into an individual of greater wisdom, self-mastery, and spiritual growth.

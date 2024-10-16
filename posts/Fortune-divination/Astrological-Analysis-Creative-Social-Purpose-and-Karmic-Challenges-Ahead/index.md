@@ -41,7 +41,7 @@ In this birth chart, the Ascendant (or Rising Sign) is in Libra, and the astrolo
 2. **Planetary Positions**:
 The positions of the planets in the birth chart are as follows:
 
-Sun: Pisces (10th house)
+**Sun**: Pisces (10th house)
 Moon: Gemini (9th house)
 Mercury: Pisces (Retrograde, 6th house)
 Venus: Aquarius (5th house)

@@ -22,7 +22,7 @@ excerpt: Write a short but dense treatise on the topic of Gothic influence withi
 
 ## Title: Gothic Influence within the Occult: Origins, Characteristics, and Practices
 
-Introduction:
+**Introduction**:
 
 The Gothic influence within the occult has long entwined itself with the mystique, aesthetic, and practices of esotericism. Its historical origins can be traced to medieval Europe, particularly within the religious and architectural contexts. As the occult branched out and developed, the Gothic influences have continued to shape its practices, evident in various rituals, spells, and symbolism used today. In this treatise, we will explore the historical origins, key characteristics, impact on the development of esoteric practices, and relevant examples of Gothic-inspired rituals, spells, and symbolism.
 
@@ -58,6 +58,6 @@ Relevant Examples of Gothic-Inspired Rituals, Spells, and Symbolism:
 
 3. **Symbolism**: The inverted pentagram, a symbol of opposition to established power and norms, is frequently used within Gothic-inspired occult practices. This powerful emblem is often inscribed on ritual tools, seals, and talismans to signal the practitioner's alignment with the darker aspects of esotericism.
 
-Conclusion:
+**Conclusion**:
 
 The Gothic influence within the occult has been a driving force in shaping the aesthetics, themes, and practices of esotericism as we know it today. Over the centuries, it has challenged norms and pushed boundaries, resulting in the formation of diverse multidisciplinary practices that continue to captivate and intrigue students of the occult. By understanding and embracing its inherent characteristics and historical origins, one can gain a deeper appreciation for the role it plays in the ever-evolving landscape of esoteric knowledge.

@@ -22,7 +22,7 @@ excerpt: Write a brief and comprehensive lesson on 18th-century Gothic Revival a
 
 ## 18th-century Gothic Revival Architecture: Foundations, Key Features, Influential Architects, and Esoteric Elements
 
-Introduction:
+**Introduction**:
 As a student of the occult interested in understanding the architectural style and its connection to esotericism and the spiritual dimensions, it is vital to gain a comprehensive understanding of 18th-century Gothic Revival architecture. In this lesson, we will delve into the key features of this style, the reasons behind its revival, the prominent architects associated with it, and the influence of occult and esoteric elements in its design and aesthetics.
 
 Key Features:
@@ -65,5 +65,5 @@ Understanding the influence of occult and esoteric elements in Gothic Revival ar
 
 3. Neoplatonism: Gothic Revival architects drew inspiration from neoplatonism, a philosophical and mystical framework that emphasizes transcendence, the inherent beauty of spiritual structures, and the quest for the divine.
 
-Conclusion:
+**Conclusion**:
 An understanding of 18th-century Gothic Revival architecture and its connection to esotericism and the spiritual dimensions provides students of the occult with a rich context for further exploration. By examining the key features, reasons for revival, prominent architects, and the influence of occult and esoteric elements, the student gains a deeper appreciation for the complex and multifaceted dimensions of this architectural style.

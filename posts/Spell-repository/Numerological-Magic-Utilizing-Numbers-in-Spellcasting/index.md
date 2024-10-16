@@ -54,9 +54,9 @@ To incorporate numerology into a spell, combine the number's energies with appro
 
 Number Combination 3-4-8: Enhancing creative expression, with a strong foundation leading to manifestation of success:
 
-Incantation: "With the union of creativity, structure, and wealth, I summon the power of three, four, and eight to manifest my desires forthwith."
+**Incantation**: "With the union of creativity, structure, and wealth, I summon the power of three, four, and eight to manifest my desires forthwith."
 
-Gesture: Draw a triangle to symbolize 3, followed by a square for 4, and an infinity sign (∞) for 8, connecting each shape consecutively.
+**Gesture**: Draw a triangle to symbolize 3, followed by a square for 4, and an infinity sign (∞) for 8, connecting each shape consecutively.
 
 3. Talismans, Amulets, and Artifacts:
 

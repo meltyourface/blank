@@ -23,9 +23,9 @@ excerpt: >
 
 ## Title: Enūma Anū Bel – The Ritual of the Heavens and the Earth
 
-Objective: To purify and consecrate a designated sacred area using the AssyriologyCrooked Path ritual system, with authentic Sumerian invocations, archaic symbols, artifacts, and arranging the ceremonial space according to ancient Mesopotamian practices.
+**Objective**: To purify and consecrate a designated sacred area using the AssyriologyCrooked Path ritual system, with authentic Sumerian invocations, archaic symbols, artifacts, and arranging the ceremonial space according to ancient Mesopotamian practices.
 
-Preparations:
+**Preparations**:
 1. Define the sacred area's boundaries using white chalk or stones. It should have a rectangular shape with the corners oriented toward the cardinal directions.
 2. Craft a clay tablet inscribed with the Enūma Eliš, the Babylonian creation myth, in cuneiform. Alternatively, obtain a pre-made replica.
 3. Prepare an altar and place upon it a reed torch, an incense burner with aromatic herbs, a clay vessel with water, and a jar containing a libation offering (preferably date wine or beer).

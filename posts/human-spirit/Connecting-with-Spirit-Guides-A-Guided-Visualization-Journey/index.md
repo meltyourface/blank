@@ -22,7 +22,7 @@ excerpt: Compose an intricate guided visualization script tailored for fostering
 
 ## Embracing Ethereal Wisdom: A Guided Visualization Journey to Connect with Your Spirit Guides
 
-Introduction:
+**Introduction**:
 
 Welcome, dear one, to this guided visualization journey to help you connect with your spirit guides and access the profound wisdom they offer. It's an honor to assist you on this voyage through the mystical realms of the human spirit. Find a comfortable and quiet space where you can relax and be undisturbed. Allow yourself to sit or lie down in a position that supports your journey inward.
 
@@ -64,6 +64,6 @@ Upon reaching the portal door on the other side, take a deep breath, then step t
 
 When you're ready, begin to gently wiggle your fingers and toes, slowly bringing your awareness back to the physical world. Take a few deep breaths to ground yourself and, when you're ready, open your eyes.
 
-Conclusion:
+**Conclusion**:
 
 You have now completed this guided visualization journey, connecting with your spirit guides and enriching your spiritual self. Embrace the wisdom you've gained, knowing that the bond with your guides will positively impact your daily life and guide you on your spiritual path.

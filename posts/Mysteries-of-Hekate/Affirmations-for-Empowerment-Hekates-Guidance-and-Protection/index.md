@@ -21,43 +21,43 @@ excerpt: Compose a series of potent affirmations influenced by the various aspec
 ---
 1. "I am guided by the wisdom of Hekate, the torchbearer, illuminating the path before me with her sacred fire."
 
-Symbol: Twin torches
+**Symbol**: Twin torches
 Sacred plant: Cypress
 Elemental correspondence: Fire
 
 2. "Boundaries are no obstacle to me, for I hold the keys to transformation, granted by Hekate, the key bearer."
 
-Symbol: Key
+**Symbol**: Key
 Sacred plant: Yew
 Elemental correspondence: Earth
 
 3. "At the crossroads of life, I am protected and guided by Hekate, the guardian of the crossroads and the liminal spaces in-between."
 
-Symbol: Triple crossroads
+**Symbol**: Triple crossroads
 Sacred plant: Dandelion
 Elemental correspondence: Air
 
 4. "Empowered by Hekate, the mistress of spirits, I wield psychic abilities, honing my intuition and sharpening my senses."
 
-Symbol: Skull
+**Symbol**: Skull
 Sacred plant: Mugwort
 Elemental correspondence: Water
 
 5. "With the support of Hekate, the cosmic world soul, I am eternally connected to the universal essence and divine knowledge."
 
-Symbol: The Ouroboros
+**Symbol**: The Ouroboros
 Sacred plant: Willow
 Elemental correspondence: Spirit
 
 6. "As Hekate is the goddess of birth, life, and death, I embrace the cyclic nature of existence and welcome change with fortitude and grace."
 
-Symbol: Triple moon
+**Symbol**: Triple moon
 Sacred plant: Pomegranate
 Elemental correspondence: Earth
 
 7. "I invoke Hekate's fiery aspect to imbue me with the courage and assertiveness I need to overcome obstacles and achieve my goals."
 
-Symbol: Serpent
+**Symbol**: Serpent
 Sacred plant: Wormwood
 Elemental correspondence: Fire
 

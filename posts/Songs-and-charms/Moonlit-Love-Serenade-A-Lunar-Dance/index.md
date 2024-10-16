@@ -30,7 +30,7 @@ Summoned from the ocean floor,
 With embers painting starlit skies,
 A tale of love shall harmonize.
 
-Chorus:
+**Chorus**:
 Eclipsed, our hearts in lunar dance,
 Moonlit rendezvous, a mystic trance,
 Bound by the art of flame and bloom,
@@ -47,13 +47,13 @@ By sacred runes and eldritch dreams,
 Impart the secrets passion hides,
 Two souls collide as worlds align.
 
-Chorus:
+**Chorus**:
 Eclipsed, our hearts in lunar dance,
 Moonlit rendezvous, a mystic trance,
 Bound by the art of flame and bloom,
 Love's alchemy, entwined in fumes.
 
-Bridge:
+**Bridge**:
 Penetrate the veil unknown,
 In hallowed circles, love is sewn,
 Vulnerability and strength, as one,
@@ -64,13 +64,13 @@ Sublime enchantments never end,
 For in this sonic spell I cast,
 Two hearts resound in bliss steadfast.
 
-Chorus:
+**Chorus**:
 Eclipsed, our hearts in lunar dance,
 Moonlit rendezvous, a mystic trance,
 Bound by the art of flame and bloom,
 Love's alchemy, entwined in fumes.
 
-Outro:
+**Outro**:
 And as the stars shall intertwine,
 This tapestry of fate and time,
 Our love, a testament divine,

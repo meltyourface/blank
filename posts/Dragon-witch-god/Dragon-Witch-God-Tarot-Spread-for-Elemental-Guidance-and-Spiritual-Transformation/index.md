@@ -21,7 +21,7 @@ excerpt: Design a tarot spread that incorporates the ancient principles and myst
 ---
 The Dragon Witch God Tarot Spread consists of 18 cards, divided into 5 positions representing the five Dragon Clans and their ruling Dragon Deities, along with a central position for the querent to tap into the sacred energy of the Dragon Witch God. Below is the layout and meaning of each position:
 
-Layout:
+**Layout**:
 ```plaintext
       C1      C2      C3
 D1  W1 D2  W2 D3  W3 D4  W4 D5

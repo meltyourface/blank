@@ -22,10 +22,10 @@ excerpt: Devise a comprehensive strategy for a clandestine alliance between two 
 
 ## The Shadow Union
 
-Introduction:
+**Introduction**:
 The Shadow Union is a comprehensive strategy for a clandestine alliance between the nations of Umbra and Penumbra. With a diverse set of objectives and collaboration methods, the Shadow Union aims at utilizing the shared mastery in esoteric and occult arts for achieving unparalleled power and dominance in the global arena. This alliance will, while preserving a facade of adversarial relationships in public, work in tandem secretly to influence supernatural forces for their mutual benefit.
 
-Objectives:
+**Objectives**:
 1. Consolidate and share power by unifying the esoteric and occult resources of both nations.
 2. Exploit supernatural forces, entities, and artifacts by leveraging the combined knowledge and expertise.
 3. Influence and manipulate global events and strengthen the secret influence of both nations in the global community.

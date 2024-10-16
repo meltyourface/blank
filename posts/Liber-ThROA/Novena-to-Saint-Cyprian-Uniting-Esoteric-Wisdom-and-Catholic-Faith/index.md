@@ -21,7 +21,7 @@ excerpt: Craft an intricate nine-day prayer sequence, known as a novena, dedicat
 ---
 Saint: Saint Cyprian of Antioch - Patron Saint of Occultists, Magicians, and Sorcerers
 
-Background: 
+**Background**: 
 Saint Cyprian of Antioch was a pagan sorcerer who converted to Christianity after encountering the teachings of Christ and witnessing the divine power of the faith. He renounced his former life and was later martyred for his new-found faith. He remains an enigmatic figure, connected to occult knowledge, magic, and esotericism, making him the perfect subject for this novena which combines the sacred mysteries of the Liber ThROA with Catholic tradition.
 
 Day 1: Invocation of the Holy Trinity and Saint Cyprian

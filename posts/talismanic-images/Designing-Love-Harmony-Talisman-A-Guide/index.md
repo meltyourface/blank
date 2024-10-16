@@ -23,7 +23,7 @@ Design: The Love & Harmony Talisman
 
 Base shape: The talisman will be in the form of a circular pendant, representing unity, wholeness, and infinity. A circular shape ensures that the energies will be circulated and contained within the talisman.
 
-Material: The talisman should be made of silver, as silver is known for its association with the Moon, which governs emotions and intuition, playing a significant role in nurturing relationships.
+**Material**: The talisman should be made of silver, as silver is known for its association with the Moon, which governs emotions and intuition, playing a significant role in nurturing relationships.
 
 Symbols & Elements:
 
@@ -44,7 +44,7 @@ Craft the talisman during the waxing Moon phase, particularly when the Moon is i
 - Taurus: This Earth sign ruled by Venus is associated with love, sensuality, and loyalty, promoting stability and commitment.
 - Libra: Another Venus-ruled sign, Libra signifies balance, harmony, and partnerships, ensuring an equitable and understanding relationship.
 
-Activation:
+**Activation**:
 To activate and utilize the talisman, the couple should follow these steps:
 **Step 1**: Cleanse the Talisman: Before using, cleanse the talisman of any residual energies, either by immersing it in saltwater or exposing it to the smoke of sage or sandalwood incense.
 **Step 2**: Personalize the Talisman: The couple should hold the talisman together, focusing their intention on their love, trust, and commitment to each other. Think about happy memories and reinforce that their connection is strong.

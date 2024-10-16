@@ -52,5 +52,5 @@ Phase 5: Ongoing evaluation and continuous improvement
 - Collect feedback from towpath users and stakeholders following project completion, identifying areas for improvement and potential best practices.
 - Analyze project performance, using learnings to inform future towpath repair and improvement efforts.
 
-Conclusion:
+**Conclusion**:
 By following this comprehensive strategy, the Inland Waterways Association can effectively prioritize and address towpath repairs while minimizing ecological impacts, engaging stakeholders, and complying with regional regulations. Ultimately, this will promote optimal canal operation efficiency and enhance the overall towpath experience for both boaters and pedestrians.

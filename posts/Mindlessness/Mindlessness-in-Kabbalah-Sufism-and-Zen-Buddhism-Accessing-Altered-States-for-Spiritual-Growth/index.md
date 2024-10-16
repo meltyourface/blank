@@ -41,7 +41,7 @@ Zen Buddhism is a branch of Mahayana Buddhism that emphasizes the practice of me
 
 Koans, which are paradoxical questions or statements often presented during meditation, play a substantial role in the Zen tradition's approach to Mindlessness. Koans are designed to foster a state of mental impasse that compels practitioners to abandon rational thinking and directly experience reality through a process known as "breaking through the barrier" (kensho). This breakthrough ultimately leads to the experience of the inherent nature of reality, or satori (enlightenment).
 
-Comparison:
+**Comparison**:
 
 Kabbalah, Sufism, and Zen Buddhism share a common theme: the importance of cultivating Mindlessness to access altered states of consciousness and foster spiritual growth. All three traditions use specific rituals, practices, and symbols to induce mindless states and altered consciousness to allow practitioners to transcend ordinary modes of thought and experience direct communion with divine or ultimate reality.
 

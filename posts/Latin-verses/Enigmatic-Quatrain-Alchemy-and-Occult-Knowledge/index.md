@@ -24,7 +24,7 @@ Ignis flammae, in silentium amóris, resolvuntur arcána,
 Leges panduntur, fascinus nectit, in fecúnditáte terrae,
 Quadrivium, in Orbe templi, ad sacrificium in tenebris venít.
 
-Annotatio:
+**Annotatio**:
 
 (1) "Sub rosa, Gnosis penetralem, occultórum tenebrae profúndae" - "Divina sub rosa, sciéntia profúnda occultórum, penetrat" Sub rosa (sub rosa) - metaphoram ducit a roseae corónæ in arcanis consíliis suspensæ, quae silentium et tácrina significat. Gnosis - a græco (γνῶσις) derivatur et sciéntiam divínam seu occultam denotat. Occultórum tenebrae - secretum, quod latet et obscurum est.
 

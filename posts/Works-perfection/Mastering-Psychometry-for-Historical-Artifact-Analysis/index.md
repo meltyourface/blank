@@ -31,7 +31,7 @@ Esoteric Tools:
 2. Divination Aids: Tarot cards or runes may complement the reading, providing additional insights into the connected energies.
 3. Pendulum: This tool enables the practitioner to detect and measure the energy field surrounding the object, indicating the intensity and nature of the energy.
 
-Methodology:
+**Methodology**:
 1. Holding the Object: The practitioner must hold the object with their receptive hand (usually the non-dominant hand) for an ideal connection.
 2. Entering a Trance State: A light, meditative trance allows the practitioner to become more attuned to the object's energy.
 3. Observations and Impressions: Sensations such as images, sounds, emotions, or even physical feelings will arise as the practitioner connects with the object's energy. These impressions should be carefully noted and analyzed later.

@@ -54,6 +54,6 @@ Growth and understanding in the Hidden Cult of Death come not only through ritua
 
 3. Service to the Cycle: The Hidden Cult of Death encourages the active role of initiates in ensuring the continuation of the life-death-rebirth cycle. This can take several forms, such as assisting others with their grief, participating in funerals and burials, or guiding individuals through the afterlife and their eventual rebirth.
 
-Conclusion: The Journey Continues
+**Conclusion**: The Journey Continues
 
 As you endeavor to explore the esoteric aspects of the Hidden Cult of Death, know that the journey is one of constant transformation and discovery. The profound truths contained within this grimoire serve not only as a foundation for your path, but also as a gateway to unlock further mysteries yet unseen. May you embrace the sacred knowledge and wisdom within these pages and forge your unique connection to life, death, and rebirth.

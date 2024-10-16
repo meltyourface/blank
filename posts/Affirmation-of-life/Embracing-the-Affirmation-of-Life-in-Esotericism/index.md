@@ -28,7 +28,7 @@ excerpt: >
 ---
 Answer: Embracing and celebrating one's existence, purpose, and connection to the universe.
 
-Explanation: In the study of esoteric and occult systems, the concept of the Affirmation of life is an underlying and overarching principle that unites many different strands of thought. This dynamic concept pertains to the celebration of life, acknowledging one's purpose, and recognizing the interconnectedness of all beings within the universe.
+**Explanation**: In the study of esoteric and occult systems, the concept of the Affirmation of life is an underlying and overarching principle that unites many different strands of thought. This dynamic concept pertains to the celebration of life, acknowledging one's purpose, and recognizing the interconnectedness of all beings within the universe.
 
 Practicing rituals that result in the harm or manipulation of others goes against the very essence of life affirmation. Such activities contradict the fundamental principle of interconnectedness and instead plant seeds of discord and suffering, which weakens the harmony and balance within the cosmic order.
 

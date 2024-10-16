@@ -21,7 +21,7 @@ excerpt: Conduct an in-depth I Ching divination ritual, utilizing the sacred pra
 ---
 To complete this task, I will first provide an overview of the steps involved in conducting an in-depth I Ching divination ritual using the sacred practices of esoteric occultism.
 
-Preparation:
+**Preparation**:
 1. Cleanse and purify the ceremonial space, which should be quiet and free from distractions.
 2. Place a small table or altar in the center of the space, set with a ceremonial cloth.
 3. Assemble the essential divinatory tools, including yarrow stalks or coins, I Ching text, a pen, and a notepad.

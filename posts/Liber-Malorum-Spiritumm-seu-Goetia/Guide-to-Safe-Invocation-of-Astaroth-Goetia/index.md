@@ -21,9 +21,9 @@ excerpt: Outline a comprehensive guide to the step-by-step process of invoking A
 ---
 Disclaimer: The contents here are for purely informational and educational purposes only. Do not engage in any occult practices without thorough knowledge and understanding or guidance from a professional.
 
-Title: Conjuring Astaroth – A Comprehensive Guide
+**Title**: Conjuring Astaroth – A Comprehensive Guide
 
-Introduction:
+**Introduction**:
 This guide aims to outline the step-by-step process for invoking Astaroth, a feared demon famously mentioned in the Liber Malorum Spirituum seu Goetia. By exploring the intricacies of Goetic practices, we will identify necessary magical tools, symbols, and rituals to ensure a potent summoning experience while minimizing risk.
 
 Table of Contents:

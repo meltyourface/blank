@@ -24,7 +24,7 @@ excerpt: Devise a ritual for your coven that effectively harnesses the energies 
 
 Intended Purpose: To harness the energies of coven members, honor the four classical elements (Earth, Air, Water, and Fire), and pay tribute to the unity of the divine masculine and feminine principles embodied in the concept of the Universal Life Force.
 
-Overview: The Elemental Convergence Ritual is a group practice designed to bring coven members together in harmonious unity, channel their energies for collective spiritual growth and awaken the awareness of their interdependence with the cycles of the natural world. The ritual pays homage to the four classical elements as foundations of life and the Universe, while also celebrating the unity of the divine masculine and feminine energies as the driving force of creation and spiritual evolution.
+**Overview**: The Elemental Convergence Ritual is a group practice designed to bring coven members together in harmonious unity, channel their energies for collective spiritual growth and awaken the awareness of their interdependence with the cycles of the natural world. The ritual pays homage to the four classical elements as foundations of life and the Universe, while also celebrating the unity of the divine masculine and feminine energies as the driving force of creation and spiritual evolution.
 
 Ritual Preparation:
 1. Choose a suitable location: The ritual should be conducted outdoors, preferably in a natural setting with access to manifestations of the four elements (e.g., a clearing with earth and stones, flowing water nearby, a fire pit, and open air for air).

@@ -22,7 +22,7 @@ excerpt: Develop an intricate divination system based on Andrew Chumbley's "The 
 
 ## The Labyrinthine Key: Divination via The Oracle of Lost Houses
 
-Introduction:
+**Introduction**:
 Drawing inspiration from Andrew Chumbley's "The Oracle of Lost Houses," The Labyrinthine Key is a comprehensive divination system that seeks hidden insights and guidance through mysticism and occult practices. This system includes a palette of symbolic elements, correspondences, and rituals, staying true to the aesthetics and principles found in Chumbley's works.
 
 Symbolic Elements:
@@ -37,7 +37,7 @@ Symbolic Elements:
 
 5. **Guardian Figures**: Derived from Chumbley's work invoking magical familiars and entities, Guardian Figures aid the seeker in uncovering mysteries, protecting them from potential dangers in the unseen world.
 
-Correspondences:
+**Correspondences**:
 
 1. **Elemental Associations**: Earth, air, water, and fire correspond to particular Lost Houses, thus determining the forces that influence specific areas of one's life.
 
@@ -47,7 +47,7 @@ Correspondences:
 
 4. **Incenses and Oils**: Used to purify the ritual space and aid in setting intentions, each essential oil or incense blend corresponds to the elemental energies or characteristics of the Lost Houses.
 
-Rituals:
+**Rituals**:
 
 1. **Casting the Serpentine Circle**: To delineate the boundaries of the sacred space for divination, the seeker creates a circle with a serpentine path, inviting divine energies to unravel the mysteries of the Lost Houses.
 

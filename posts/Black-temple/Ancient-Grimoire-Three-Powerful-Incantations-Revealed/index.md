@@ -28,7 +28,7 @@ Original transcription:
 Wu'tha immeros rak'nar dhuul
 Isska'ta coth'nyar sinthuul"
 
-Translation:
+**Translation**:
 "From the darkest abyss I summon thee,
 O' Shadow Serpent, coil and bind,
 Ensnare the enemy that dares to impede"
@@ -42,7 +42,7 @@ Original transcription:
 Thal'sha veranis del'lohmin
 Uth'ra quimalis feythani"
 
-Translation:
+**Translation**:
 "Invisible watchers of the great beyond,
 Bear witness and record eternal truths,
 To carry secrets safe into the night"
@@ -56,7 +56,7 @@ Original transcription:
 Nythra'os zemith coth'zolan
 Wev'androth qa'lazum dar'mor"
 
-Translation:
+**Translation**:
 "Unyielding spirit, torn from the void,
 Rise and manifest in this mortal plane,
 Serve your master, until the debt is repaid"

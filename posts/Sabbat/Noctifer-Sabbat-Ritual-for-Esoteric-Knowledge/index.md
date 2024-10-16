@@ -22,7 +22,7 @@ excerpt: Compose an intricate Sabbat ritual to evoke and commune with a chosen e
 
 ## The Rite of the Nocturnal Assembly
 
-Purpose: The purpose of this ritual is to evoke and commune with the chosen entity, one of the dark pantheon known as Noctifer, the Bringer of Night and Shadows. Through this intricate Sabbat ritual, the practitioner seeks to gain esoteric knowledge, guidance, and establish a powerful connection with Noctifer.
+**Purpose**: The purpose of this ritual is to evoke and commune with the chosen entity, one of the dark pantheon known as Noctifer, the Bringer of Night and Shadows. Through this intricate Sabbat ritual, the practitioner seeks to gain esoteric knowledge, guidance, and establish a powerful connection with Noctifer.
 
 Ceremonial Preparations:
 
@@ -54,7 +54,7 @@ The Invocation:
     To walk with you in the shadows,
     Noctifer, accept my call and manifest."
 
-Note: The chant should be repeated three times, in a trance-like state, ensuring the evocation of Noctifer's presence.
+**Note**: The chant should be repeated three times, in a trance-like state, ensuring the evocation of Noctifer's presence.
 
 Offering and Ethereal Manipulation Techniques:
 

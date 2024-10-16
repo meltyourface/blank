@@ -36,5 +36,5 @@ A purported cursed mirror hangs in a hotel room in London, where guests have wit
 5. The Floating Lady of Redcap Castle (Japan)
 Located at Redcap Castle in Japan, a famous haunted mirror reportedly displays the apparition of a floating lady from the Edo Period. This case has strong cultural ties and is deeply rooted in local folklore surrounding the location. Observations may be influenced by the cultural belief in supernatural occurrences and the suggestive nature of the intriguing story.
 
-Conclusion:
+**Conclusion**:
 Systematic analysis of these cases reveals a pattern of inconsistencies, contradictions, and the enduring influence of cultural, psychological, and environmental factors. While it is challenging to definitively disprove every one of these instances, the overall lack of verifiable, objective evidence suggests that the plausibility of actual supernatural mirror phenomena is low. However, the ongoing fascination with mirror apparitions is a testament to the power of human imagination, superstition, and the desire to explore the unknown.

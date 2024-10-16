@@ -63,5 +63,5 @@ Lesson 6: Safety Measures and Precautions for Novice Practitioners
 - Recognizing signs of astral exhaustion or attachment, and knowing when to retreat
 - Grounding and recovering after an intense astral experience
 
-Conclusion:
+**Conclusion**:
 This advanced course on spirit communication through astral projection provides the tools and techniques necessary for practitioners to safely explore the esoteric realms beyond our waking consciousness. Through evocative guided imagery, invocations of spiritual entities, and the incorporation of occult symbolism, students will unlock the secrets of the astral world and its spiritual inhabitants. With a strong emphasis on safety measures and precautions, this course leaves students well-prepared for their journey into the hidden dimensions of the mystic universe.

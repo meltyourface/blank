@@ -33,11 +33,11 @@ Symbolic Significance
 
 Colors, patterns, and materials used in altar cloths vary widely and carry different symbolic meanings depending on the specific intention of the ritual or esoteric path in question.
 
-Colors: Color symbolism plays an essential role in the composition of altar cloths. Each color represents a specific energy or attribute that the practitioner may wish to channel, whether it be the elements – earth, air, fire, and water – or different associated psychological or spiritual qualities such as love, protection, purification, healing, and prosperity.
+**Colors**: Color symbolism plays an essential role in the composition of altar cloths. Each color represents a specific energy or attribute that the practitioner may wish to channel, whether it be the elements – earth, air, fire, and water – or different associated psychological or spiritual qualities such as love, protection, purification, healing, and prosperity.
 
-Materials: The choice of material for an altar cloth can also carry symbolic meaning. Natural materials, such as linen, cotton, and silk, are often preferred due to their connection to the earth and the natural world. Sometimes, materials with specific associations with the desired intention – for instance, wool for protection or silk for manifesting – are used.
+**Materials**: The choice of material for an altar cloth can also carry symbolic meaning. Natural materials, such as linen, cotton, and silk, are often preferred due to their connection to the earth and the natural world. Sometimes, materials with specific associations with the desired intention – for instance, wool for protection or silk for manifesting – are used.
 
-Patterns: Altar cloths may feature various patterns or symbols that hold particular significance within the esoteric path the practitioner follows. These patterns may include sacred geometry, sigils, inscriptions, or symbols from various magical systems like the kabbalah, runes, or tarot.
+**Patterns**: Altar cloths may feature various patterns or symbols that hold particular significance within the esoteric path the practitioner follows. These patterns may include sacred geometry, sigils, inscriptions, or symbols from various magical systems like the kabbalah, runes, or tarot.
 
 Usage, Cleansing, and Consecration
 

@@ -35,7 +35,7 @@ excerpt: >
 
 ## Theses de Magia: A Comprehensive Guide to the Lesser Banishing Ritual of the Pentagram
 
-Introduction:
+**Introduction**:
 The Lesser Banishing Ritual of the Pentagram (LBRP) is a foundational technique in Western esotericism, specifically in Theses de magia to cleanse and purify the practitioner's sacred space. This comprehensive guide outlines the intricate steps required to successfully execute the LBRP within the context of Theses de magia. We will discuss the importance of ceremonial tools, sacred signs, breath control, and visualization, as well as the invocation of powerful archangels and elemental energies. 
 
 1. Preparing the Sacred Space:
@@ -66,5 +66,5 @@ The Qabalistic Cross is pivotal in the Theses de magia tradition, serving as bot
 7. Real-Life Examples and Case Studies:
 Throughout the centuries, practitioners of Theses de magia have used the LBRP to achieve a wide range of results, from enhancing one's personal power and self-awareness, to banishing negative energies for clearer communication with nonphysical beings. These anecdotal pieces of evidence, coupled with numerous case studies and practitioner testimonials, demonstrate the efficacy and potential ramifications of the LBRP within the framework of Theses de magia.
 
-Conclusion:
+**Conclusion**:
 The Lesser Banishing Ritual of the Pentagram, as outlined within the Theses de magia, is a ritual of purification and transformation that serves as a cornerstone for many occult practitioners. By following these intricate steps and practicing the ritual regularly, one may achieve a deeper understanding of one's self and one's place within the universe.

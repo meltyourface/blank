@@ -24,7 +24,7 @@ Summoning & Communication with Esoteric Entities: A Solitary Practitioner's Step
 
 The following ritual framework is designed specifically for solitary practitioners who wish to summon and communicate with esoteric entities found in Le livre des esperitz. This guide will provide meticulous instructions to ensure safe and effective summonings through protection, purification, offerings, and dedicated ritual spaces. 
 
-Preparation:
+**Preparation**:
 1. Choose the entity you wish to summon - Carefully study the descriptions and qualities of entities within Le livre des esperitz and pick one that aligns with your purpose.
 
 2. Acquire the entity's sigil - Every entity has its unique seal or sigil, where their essence and energy reside.
@@ -51,7 +51,7 @@ Summoning & Binding:
 
 4. Binding the entity - As the entity manifests itself, visualize a binding pattern or thread around the sigil to ensure the entity's co-operation and prevention of harmful actions.
 
-Communication:
+**Communication**:
 1. Addressing the entity - Speak directly to the entity, stating your purpose, intent, and request. Remember to speak respectfully and clearly.
 
 2. Listening and receiving - Stay focused and calm, opening yourself to receive messages or inspiration from the entity.

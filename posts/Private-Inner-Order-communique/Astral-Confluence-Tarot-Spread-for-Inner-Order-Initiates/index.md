@@ -25,7 +25,7 @@ excerpt: >
 
 The innovative tarot spread, known as the Astral Confluence, is designed to bring forth hidden knowledge and direction for initiates within the Private Inner Order. This spread is composed of nine card positions, three clusters with each cluster containing three cards, symbolizing the triad nature of our Order. 
 
-Setup: 
+**Setup**: 
 1. Arrange the three card clusters in a triangular pattern, to form a larger triangle.
 2. Within each smaller triangle, place the cards in a mini triangle formation.
 3. Ensure the three mini triangles are interconnected, signifying the unity of esoteric disciplines.
@@ -46,7 +46,7 @@ Cluster III - The Converging Triangle (Intersection of Realms)
 8. The Unveiled Secrets - Signifies the hidden knowledge, messages, or warnings from the guardian spirits.
 9. The Astral Confluence - The summation of all card influences, denoting the optimal path to achieving spiritual and material balance.
 
-Interpretations:
+**Interpretations**:
 When interpreting the card positions, take the following elements into consideration:
 - Major Arcana: Direct influence of the esoteric disciplines, key transitions, and spiritual milestones within the seeker's journey.
 - Minor Arcana: Situational conditions, subtle shifts in energy, and practical applications of esoteric knowledge.

@@ -68,18 +68,18 @@ For example, an entry may appear as:
 
 ### 1.2 - February 20th, 2023 - Evocation of Spirit X
 
-Method:
+**Method**:
 - Preparations: Cleansing, casting the circle, and invocation of spiritual protection
 - Tools: Wand, ritual dagger, brass chalice, and sigil of Spirit X
 - Incantation: (Provide specific wording of incantations utilized)
 
-Results:
+**Results**:
 - Outcome: Success
 - Intensity: Moderate
 - Duration: 30 minutes
 - Congruence with Intentions: High
 
-Reflection:
+**Reflection**:
 - Insights: Improved concentration and connection to Spirit X
 - Questions: Is there a more effective time or astrological alignment to evoke Spirit X?
 - Improvement: Further study on gestures and vibrations associated with the incantation

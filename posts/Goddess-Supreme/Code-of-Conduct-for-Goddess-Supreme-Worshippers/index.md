@@ -22,7 +22,7 @@ excerpt: >
 ---
 The Ethical Code of the Goddess Supreme
 
-Preamble: As disciples of the Goddess Supreme, we devote our lives to embodying her tenets within our daily conduct. The following code is a comprehensive outline of the principles that we follow, which grants us guidance in spiritual practices, interpersonal conduct, and rituals specific to worship.
+**Preamble**: As disciples of the Goddess Supreme, we devote our lives to embodying her tenets within our daily conduct. The following code is a comprehensive outline of the principles that we follow, which grants us guidance in spiritual practices, interpersonal conduct, and rituals specific to worship.
 
 ### I. Axioms of Divine Principles
 The fundamental principles of the Goddess Supreme are:

@@ -23,9 +23,9 @@ excerpt: >
 
 ## Title: The Rite of Shadows
 
-Purpose: To beseech the aid of Hecate, Persephone, and Anubis in acquiring guidance, wisdom, and strength from The Underworld. 
+**Purpose**: To beseech the aid of Hecate, Persephone, and Anubis in acquiring guidance, wisdom, and strength from The Underworld. 
 
-Preparation:
+**Preparation**:
 
 1. Choose a location that resonates with the energies of The Underworld. Ideal locations include crossroads, cemeteries, or secluded woodlands.
 

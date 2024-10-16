@@ -25,7 +25,7 @@ The purpose of this Vama Marga guided meditation ritual is to invoke and initiat
 
 The Ritual: Facing and Embracing the Shadow Self
 
-Preparation:
+**Preparation**:
 1. Set up a sacred space in a dimly lit room, away from distractions. Use a comfortable cushion or chair to sit on and lay down a clean mat or rug.
 2. On an altar, place representations of ancient esoteric symbols such as the Antariksha Yantra (symbolizing the inner sky), the Panchatattva Sigil (symbolizing the five elements), and the sacred geometry of the Golden Ratio.
 3. Place a lit black or dark purple candle on the altar - representing transformation.

@@ -23,11 +23,11 @@ excerpt: >
 
 ## Title: Investigating Ducking Phenomena: Sigils, Symbols, and Rituals in the Physical Realm
 
-Objective: To design an experiment investigating the interaction of Ducking-related phenomena, such as sigils, rituals, and symbols, with tangible objects and occurrences in the physical domain while maintaining scientific validity through controls and quantitative assessments.
+**Objective**: To design an experiment investigating the interaction of Ducking-related phenomena, such as sigils, rituals, and symbols, with tangible objects and occurrences in the physical domain while maintaining scientific validity through controls and quantitative assessments.
 
-Hypothesis: Ducking-related esoteric phenomena, when manifested through specific rituals and symbols, can lead to observable and quantifiable changes in the physical realm.
+**Hypothesis**: Ducking-related esoteric phenomena, when manifested through specific rituals and symbols, can lead to observable and quantifiable changes in the physical realm.
 
-Materials:
+**Materials**:
 1. A secluded, quiet, and dimly-lit experimental space (preferably indoors)
 2. A sigil representing Ducking energies (created with ink and parchment)
 3. A ritual table for sigil placement
@@ -39,7 +39,7 @@ Materials:
 9. A camera with the capacity for HD recording and slow-motion playback
 10. Tools for data analysis (statistical software, notebook, pen)
 
-Procedure:
+**Procedure**:
 **Step 1. Preparation
 1.1. Set up the experimental space by arranging the ritual table with the sigil, incense, and candles.
 1.2. **Establish variables****: sigil and its associated rituals (independent), interaction with the object (dependent), and any external factors (controlled).

@@ -30,7 +30,7 @@ Sacred Geometry:
 
 The Fibonacci sequence has been widely associated with nature, art, and aesthetics, with the occurrences of its numbers appearing throughout the natural world. One notable appearance in sacred geometry is the Golden Ratio (φ), which is roughly equal to 1.618. This ratio can be observed in various aspects of art, architecture, and nature – such as the spirals of shells, the arrangement of seeds in sunflowers, and the proportions of the Great Pyramids. As the Fibonacci sequence progresses, the ratio between two consecutive Fibonacci numbers increasingly approaches the Golden Ratio. This is significant because the Golden Ratio is thought to represent a divine or perfect proportion in sacred geometry, symbolizing harmony and balance.
 
-Numerology:
+**Numerology**:
 
 Numerology is the study of the mystical significance of numbers, attributing specific meanings and energies to them. With regards to the Fibonacci sequence, certain numbers within the sequence have their own symbolic meanings:
 

@@ -21,7 +21,7 @@ excerpt: Conceive an intricate choreography for "The Witches Dance" aimed at enh
 ---
 To fully achieve an intricate choreography of "The Witches Dance" aimed at enhancing psychic powers, we must consider every step, gesture, and element carefully. Keeping in mind that the ultimate goal is to invoke ancient incantations, incorporate symbolic gestures, and utilize magical instruments such as athames, wands, and chalices, I present the following ritualistic instructions and choreography.
 
-Setup:
+**Setup**:
 
 1. Choose an isolated, preferably outdoor location, where the energy of the earth and sky can be harnessed. The location should be a sacred space, ideally in the woods or near a natural element like a lake, river, or mountain.
 
@@ -29,7 +29,7 @@ Setup:
 
 3. Inside the circle, delineate four quadrants, representing the four elements: earth in the north, air in the east, fire in the south, and water in the west.
 
-Choreography:
+**Choreography**:
 
 (Note: The following choreography is designed for a group of thirteen witches, symbolic of the number of lunar months, but can be adapted to fit any number of participants.)
 

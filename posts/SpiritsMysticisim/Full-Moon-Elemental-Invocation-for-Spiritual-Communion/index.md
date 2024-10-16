@@ -77,7 +77,7 @@ To ensure the success of the summoning ceremony, the following conditions are re
 
       - Ritual: Gently stir the bowl of sea water with one of the seashells, setting the intention at the western part of the circle.
 
-IV: Harmonious Connection and Transcendent Experience:
+**IV**: Harmonious Connection and Transcendent Experience:
 
 Now that the elemental spirits are present, meditate and visualize their energies merging with your own. Feel the symbiotic connection, your awareness expanding beyond normal perception. Listen for their guidance and wisdom, and absorb their teachings. Commune with them for as long as necessary, allowing for a truly transcendent experience.
 

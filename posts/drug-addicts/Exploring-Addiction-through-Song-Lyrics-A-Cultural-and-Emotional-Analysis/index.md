@@ -83,7 +83,7 @@ Key substance: Cannabis
 Key substance: Cannabis
 
 
-Analysis:
+**Analysis**:
 
 Many of the lyrics in these songs reveal the emotional turmoil experienced by addicts, such as loneliness, self-loathing, and desperation for escape. Cognitive distortions, such as rationalizing drug use or portraying it as "normal," are evident in some songs, which may serve to minimize the risks associated with addiction.
 

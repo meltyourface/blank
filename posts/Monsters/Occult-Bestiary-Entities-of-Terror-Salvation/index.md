@@ -22,11 +22,11 @@ excerpt: Develop an extensive bestiary compendium featuring newly unearthed mons
 
 ## The Dark Compendium: Sinister Beings of the Occult Realms
 
-Introduction: The Dark Compendium serves as a comprehensive guide to the monstrous entities that have haunted humanity's nightmares since time immemorial. Contained within these pages are chilling accounts, vivid illustrations, and hidden secrets of various creatures that lurk in the deepest shadows.
+**Introduction**: The Dark Compendium serves as a comprehensive guide to the monstrous entities that have haunted humanity's nightmares since time immemorial. Contained within these pages are chilling accounts, vivid illustrations, and hidden secrets of various creatures that lurk in the deepest shadows.
 
 1. The Tormenting Shade
 
-Classification: Ethereal Apparition
+**Classification**: Ethereal Apparition
 Abilities: Soul Drain, Insidious Infiltration, Psychic Torture
 Weaknesses: Purifying Light, Exorcisms, Sacred Incantations
 Habitat: Places of great suffering and despair
@@ -36,7 +36,7 @@ The Tormenting Shade is a malevolent being born out of intense suffering and ang
 
 2. The Gallows Walker
 
-Classification: Undead Horror
+**Classification**: Undead Horror
 Abilities: Unyielding Strength, Noose Manifestation, Unholy Persistence
 Weaknesses: Fire, Penance Rites, Decapitation
 Habitat: Execution sites, abandoned prisons, blood-soaked battlefields
@@ -46,7 +46,7 @@ The Gallows Walker is a vengeful undead entity, forever seeking retribution agai
 
 3. The Shrieking Seraph
 
-Classification: Corrupted Celestial
+**Classification**: Corrupted Celestial
 Abilities: Ear-Piercing Wail, Mind-Controlled Flight, Angelic Visage
 Weaknesses: Blessed Weapons, True Names, Sacred Seals
 Habitat: Heights of power, sites of grandiose ambition
@@ -56,7 +56,7 @@ The Shrieking Seraph was once an angel of the highest order, but now corrupts an
 
 4. The Blood-Smothering Swarm
 
-Classification: Hive-Minded Monstrosity
+**Classification**: Hive-Minded Monstrosity
 Abilities: Suffocating Embrace, Regeneration, Reanimated Corpses
 Weaknesses: Divine Salt, Consecrated Barriers, Mass Exorcism
 Habitat: Ancient Graveyards, Mass Burial Grounds

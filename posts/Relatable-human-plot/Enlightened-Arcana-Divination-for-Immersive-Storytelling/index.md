@@ -23,7 +23,7 @@ Introducing the Enlightened Arcana Divination System
 
 Innovatively designed for a relatable human plot within a fictional setting, the Enlightened Arcana Divination System uses a combination of dice and playing cards to generate detailed and immersive symbolic interpretations. This method ensures that the mystical insight provided sufficiently impacts the characters' emotions and actions in the narrative.
 
-Components:
+**Components**:
 
 1. A standard 52-card deck of playing cards
 2. A six-sided die (numbered 1 to 6)
@@ -38,7 +38,7 @@ How to Perform the Divination:
 
 Playing Card Interpretations:
 
-Hearts: Represent emotions and relationships.
+**Hearts**: Represent emotions and relationships.
 - Ace: New beginning
 - 2: Balance
 - 3: Creativity
@@ -53,7 +53,7 @@ Hearts: Represent emotions and relationships.
 - Queen: Sensitivity
 - King: Clarity
 
-Diamonds: Represent material wealth and worldly matters.
+**Diamonds**: Represent material wealth and worldly matters.
 - Ace: Opportunity
 - 2: Partnership
 - 3: Growth
@@ -68,7 +68,7 @@ Diamonds: Represent material wealth and worldly matters.
 - Queen: Luxury
 - King: Stability
 
-Spades: Represent challenges, obstacles, and intellectual pursuits.
+**Spades**: Represent challenges, obstacles, and intellectual pursuits.
 - Ace: Conquest
 - 2: Decision
 - 3: Ingenuity
@@ -83,7 +83,7 @@ Spades: Represent challenges, obstacles, and intellectual pursuits.
 - Queen: Resilience
 - King: Authority
 
-Clubs: Represent intuition, spirituality, and personal growth.
+**Clubs**: Represent intuition, spirituality, and personal growth.
 - Ace: Inspiration
 - 2: Balance
 - 3: Intuition
@@ -115,7 +115,7 @@ Six-sided die result: 2 (external)
 Twelve-sided die result: 8 (moderate intensity)
 Drawn card: 9 of Clubs (enlightenment)
 
-Interpretation:
+**Interpretation**:
 Sophia faces moderate external pressure to embrace the journey, promising her potential spiritual growth and enlightenment. This mystical insight informs her decision-making as she weighs the impact on her relationships and worldly pursuits.
 
 The Enlightened Arcana Divination System ensures that the provided mystical insight influences the characters' emotions and actions. As such, the scene evolves in an unexpected direction as Sophia encounters new challenges and grapples with the consequences of her decision. These twists and turns captivate readers, adding depth and intrigue to an already captivating story.

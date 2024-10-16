@@ -23,7 +23,7 @@ excerpt: >
 
 ## Elemental Equilibrium: A Kirke Guided Visualization Ritual
 
-Introduction: Welcome, dear practitioners of Kirke. ****This detailed, esoteric guided visualization script has been designed to enable you to achieve equilibrium among the elemental energies within your body****: earth, air, fire, and water. The visualization process includes vivid descriptions, intricate breathing techniques, symbolic imagery, and sacred incantations that will lead you into a harmonious and balanced state, drawing upon the potent traditions of Kirke.
+**Introduction**: Welcome, dear practitioners of Kirke. ****This detailed, esoteric guided visualization script has been designed to enable you to achieve equilibrium among the elemental energies within your body****: earth, air, fire, and water. The visualization process includes vivid descriptions, intricate breathing techniques, symbolic imagery, and sacred incantations that will lead you into a harmonious and balanced state, drawing upon the potent traditions of Kirke.
 **Step 1**: Preparing the Sacred Space
 
 Ensure you are in a comfortable and quiet environment, free from distraction. **Light candles at north, east, south, and west positions to represent the four elements and say the following incantation**:
@@ -57,4 +57,4 @@ By the power of Kirke, my sacred journey's begun."
 
 Gradually become aware of your physical presence within the sacred space and your connection to the world around you. Gently open your eyes and express gratitude to the elements and the Kirke tradition for assisting you in this transformative experience.
 
-Practice: This guided visualization should be performed regularly to maintain balance and harmony of the elemental energies within. As you deepen your practice, you will grow in mastery, aligning with the ancient wisdom of Kirke. May your journey bring you enlightenment and inner peace.
+**Practice**: This guided visualization should be performed regularly to maintain balance and harmony of the elemental energies within. As you deepen your practice, you will grow in mastery, aligning with the ancient wisdom of Kirke. May your journey bring you enlightenment and inner peace.

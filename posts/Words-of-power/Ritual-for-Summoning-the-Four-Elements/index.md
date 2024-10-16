@@ -23,7 +23,7 @@ excerpt: >
 Incantation:
 "Ex terrae corde, ventus infinitus, ignis fulgurans, aqua vivifica, elementa kareth'lor comitatus venire. Archaon sententia viam, voulgeir kython osseous, garamantis triptychon aethereus. Per vos deitas, eaedae ûlrên contrendo - elementorum quadriga surgite!"
 
-Translation:
+**Translation**:
 From the heart of earth, boundless wind, flashing fire, and life-giving water, I call forth the elements' sacred breath. By ancient words of power, the serpent's secret bones, the oracle's path beyond the veil. Through your divine accord, I bend the forces unseen - arise, elemental steeds!
 
 Ceremonial Steps:

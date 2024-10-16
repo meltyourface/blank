@@ -27,22 +27,22 @@ Sympathetic magic is a type of magical practice primarily rooted in the belief t
 1. The Law of Contagion
 The law of contagion posits that objects that were once connected to a person maintain a link to that person even after the connection is severed. This could be a physical item, like a lock of hair, a piece of clothing, or a photograph. In the context of a ritual, such objects are referred to as "links" or "tags." This principle is widely employed in various magical practices and traditions.
 
-Strengths:
+**Strengths**:
 - The law of contagion offers a profound connection between the practitioner and the target individual, making the magic potentially more potent.
 - It allows for a strong focus on specific individuals, ensuring that the intended effects are directed with precision.
 
-Limitations:
+**Limitations**:
 - Obtaining a meaningful object connected to the target can be difficult, particularly if the target is a distant loved one.
 - There could be ethical concerns around taking personal items without consent from the individual.
 
 2. The Law of Similarity
 The law of similarity operates on the idea that "like attracts like," suggesting that mimicking an outcome or recreating specific circumstances will result in the enactment of the desired outcome. It is the foundation of various practices like image magic, where the representation or likeness of the target serves as a conduit between the practitioner and the person. Common examples include the creation of effigies or using symbolic objects within rituals.
 
-Strengths:
+**Strengths**:
 - The law of similarity allows for creativity and flexibility, making it more accessible to different practitioners.
 - It is a more indirect approach, which can protect the practitioner from ethical concerns related to using personal items taken without consent.
 
-Limitations:
+**Limitations**:
 - Relying on symbolism may dilute the potency of the magic, as the magical connection to the target may not be as strong as with contagion.
 - There is a possibility of symbolism being incorrectly interpreted or misused, causing unintended consequences.
 

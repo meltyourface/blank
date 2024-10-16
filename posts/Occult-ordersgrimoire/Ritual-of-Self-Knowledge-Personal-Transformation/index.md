@@ -29,11 +29,11 @@ Regarding the grimoires, the Clavicula Salomonis, or The Key of Solomon, is a fo
 
 To devise an original ritual that incorporates elements from at least two distinct grimoires, we shall focus on the Clavicula Salomonis and the Lesser Key of Solomon. We shall examine the intersection of these grimoires with the Hermetic Order of the Golden Dawn and the Ordo Templi Orientis, as both orders draw on these works for different purposes.
 
-Title: Ritual of the Ascending Will
+**Title**: Ritual of the Ascending Will
 
-Objective: To attain self-knowledge, elevate one's spiritual and mental state, and direct one's willpower towards personal transformation.
+**Objective**: To attain self-knowledge, elevate one's spiritual and mental state, and direct one's willpower towards personal transformation.
 
-Components:
+**Components**:
 1. Circle of Invocation: Following the tradition of the Clavicula Salomonis, draw or inscribe a circle on the ground or floor, with appropriate protective sigils and symbols from both the Golden Dawn and OTO systems, such as the Hexagram and Unicursal Hexagram.
 2. Preliminary Invocation: Standing within the circle, perform the Lesser Banishing Ritual of the Pentagram (from the Golden Dawn system) to purify the space and assert one's dominion over the elements.
 3. Invocation of the Higher Self: Borrowing from the OTO Thelemic practices, recite Aleister Crowley's "Liber Samekh," invoking one's Holy Guardian Angel or Higher Self.

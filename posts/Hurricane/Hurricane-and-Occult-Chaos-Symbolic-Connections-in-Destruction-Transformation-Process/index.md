@@ -34,12 +34,12 @@ Let us first define key concepts in the context of the esoteric and occult world
 
 Now that we have a foundational understanding of these concepts, let's dive into the connections between the Hurricane and examples from occultist texts, such as Typhon, Loki, and the Tower card.
 
-Similarities:
+**Similarities**:
 - By their nature, all these symbols represent chaos, change, and destruction on various levels, both physically and metaphorically.
 - They all challenge established order, structures, or beliefs, whether it is divine order (Typhon, Loki) or the perceived stability of life (The Tower card, Hurricane).
 - Each symbol forces individuals to confront their fears, weaknesses, and limitations and push them towards growth and transformation.
 
-Differences:
+**Differences**:
 - While the Hurricane is a natural force of destruction and transformation, Typhon and Loki represent mythical figures with intentions and motivations.
 - The destruction wrought by a Hurricane is usually unintentional or indiscriminate, whereas Typhon and Loki's chaotic acts are driven by their rebellious nature or desire for change.
 - The Tower card in the Tarot represents transformation within individual lives or situations, while Typhon and Loki bring chaos on a larger scale, affecting the cosmos or all of humanity.

@@ -30,7 +30,7 @@ The tale of terror, written in blood,
 By ancient scribes, hopelessly shaken
 By Mor'grathis' fell deeds and boundless power.
 
-Chorus:
+**Chorus**:
 Mor'grathis, Lord of Shadows, we entreat,
 Infernal master, bind us with your will,
 In the blackest hour of deepest night,
@@ -46,7 +46,7 @@ Crumbled 'neath his wrath, where none had fathomed,
 And titans trembled in their celestial seats,
 As the malevolent Mor'grathis sought to usurp the world.
 
-Chorus:
+**Chorus**:
 Mor'grathis, Lord of Shadows, we entreat,
 Infernal master, bind us with your will,
 In the blackest hour of deepest night,
@@ -62,7 +62,7 @@ We surrender all, our souls, to you,
 Devil's Chest heir, be thou Mor'grathis,
 Our infernal lord, forevermore.
 
-Chorus:
+**Chorus**:
 Mor'grathis, Lord of Shadows, we entreat,
 Infernal master, bind us with your will,
 In the blackest hour of deepest night,

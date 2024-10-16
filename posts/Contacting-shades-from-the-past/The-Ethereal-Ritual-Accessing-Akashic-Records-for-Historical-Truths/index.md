@@ -22,9 +22,9 @@ excerpt: Develop a detailed ritual for communing with the ethereal realm, enabli
 
 ## Ritual of the Ethereal Archive
 
-Purpose: To commune with the ethereal realm and invoke access to the Akashic Records to uncover the hidden truths of a specific historical figure's existence, while incorporating esoteric and occult elements and ensuring effective spiritual safeguards.
+**Purpose**: To commune with the ethereal realm and invoke access to the Akashic Records to uncover the hidden truths of a specific historical figure's existence, while incorporating esoteric and occult elements and ensuring effective spiritual safeguards.
 
-Preparation:
+**Preparation**:
 1. Choose a suitable space for the ritual that is clean, quiet, and free of distractions. The space should be large enough to create a ritual circle and have room for the necessary ceremonial items.
 
 2. Determine the specific historical figure you wish to connect with. Research their life, including their birth date, death date, and significant events, in order to understand their life story and the symbols connected to them.
@@ -33,7 +33,7 @@ Preparation:
 
 4. Analyze the astrological conditions necessary for the ritual by consulting the natal chart of the historical figure and current astrological alignments. The ritual should ideally be performed when the planets are in similar positions as the chosen individual's birth chart.
 
-Ritual:
+**Ritual**:
 
 1. Begin by meditating and grounding yourself. Clear your mind and focus on your intention to contact the desired historical figure.
 
@@ -49,7 +49,7 @@ Ritual:
 
 7. Focusing on your intended historical figure, visualize a book containing their life story. Open the book and absorb its contents, uncovering the hidden truths about their existence.
 
-Safeguards:
+**Safeguards**:
 
 1. To ensure an unambiguous connection to the intended shade from the past, maintain a clear and continuously focused intent on the desired historical figure.
 

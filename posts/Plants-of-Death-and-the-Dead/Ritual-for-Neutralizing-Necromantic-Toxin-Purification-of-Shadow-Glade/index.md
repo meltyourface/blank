@@ -21,7 +21,7 @@ excerpt: Design a ritual to counteract the lethal effects of a toxin derived fro
 ---
 Ritual Name: Purification of the Shadow Glade
 
-Objective: To counteract the lethal effects of a toxin derived from a necromantic plant, known for its ties to the realm of the deceased.
+**Objective**: To counteract the lethal effects of a toxin derived from a necromantic plant, known for its ties to the realm of the deceased.
 
 Botanical Ingredients and Ratios:
 1. Vitae Mysterium Flower (5 petals): A rare blossom that contains rejuvenating energies to support the shedding of negative influences.
@@ -59,7 +59,7 @@ Metaphysical Properties:
 4. Solaris Marigold: Purifying solar energy, dispelling darkness, restoration of balance.
 5. Spirit Willow: Spiritual protection, communication with the spirit world, equilibrium.
 
-Synergy:
+**Synergy**:
 The components work together to draw strength and cleansing energies, binding them to the victim's physical and spiritual selves. The purifying powers of the sun and moon are harnessed through the Tears of Luna and Solaris Marigold, while the rejuvenating properties of the Vitae Mysterium and Spirit Willow aid the restoration of balance in both realms. The Phylactery Root ensures a strong connection between these realms and the energies exerted upon the victim.
 
 Side Effects and Necessary Precautions:

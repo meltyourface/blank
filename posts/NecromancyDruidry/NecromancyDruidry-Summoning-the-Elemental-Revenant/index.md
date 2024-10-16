@@ -22,10 +22,10 @@ excerpt: Develop a comprehensive NecromancyDruidry ritual that combines the myst
 
 ## The Ritual of the Elemental Revenant
 
-Purpose:
+**Purpose**:
 To harmonize the elemental forces of nature with necromantic energy to create a powerful spiritual ally, the Elemental Revenant. This entity will offer guidance and protection to the practitioner. The ritual aims to establish a balanced and ethical relationship with both the natural world and the spirits from the beyond.
 
-Setting:
+**Setting**:
 The ritual should be performed outside, preferably at a location where different natural elements are present (e.g., a clearing within a forest, a shoreline, or a mountain).
 
 Altar Display:
@@ -38,7 +38,7 @@ Tools & Elemental Representations:
 4. **Fire**: Red candle, fireproof bowl with ash, and a lantern or torch.
 5. **Spirit**: A human skull, a representative relic of a deceased relative or friend, and a small mirror.
 
-Layout:
+**Layout**:
 Place the elemental representations clockwise around the altar, starting with Air in the East, followed by Earth in the South, Water in the West, and Fire in the North.
 
 Ritualistic Chants, Gestures, and Offerings:

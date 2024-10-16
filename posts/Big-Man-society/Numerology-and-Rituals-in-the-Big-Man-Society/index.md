@@ -23,7 +23,7 @@ excerpt: >
 
 ## Title: The Numerological Riddles of the Big Man Society
 
-Foreword:
+**Foreword**:
 The intricate system of numerology presented in this manual is the result of years of exploration, experimentation, and intuitive discovery within the 'Big Man' society. Embark on this esoteric journey to delve into the arcane knowledge and symbolism unique to our society. Gain insight into the numerical patterns governing our rituals, ceremonies, and sacred objects, and use this knowledge to further your spiritual ascent within the ranks of the 'Big Man' society.
 
 ### Chapter 1: Basic Numeric Associations
@@ -51,5 +51,5 @@ The intricate system of numerology presented in this manual is the result of yea
 2. ****Ascension Numerology****: Align with the powerful energy of significant numbers to accelerate your spiritual journey and elevate your status within the society.
 3. ****The Language of Numbers****: Learn to interpret the numerological messages encrypted within your dreams and daily life to gain clarity, insight, and mastery over your spiritual progress.
 
-Conclusion:
+**Conclusion**:
 The esoteric wisdom contained within the pages of this manual is a treasure trove of spiritual knowledge, uniquely tailored to the 'Big Man' society. With diligent study and practice, this numerological system will empower you to harness the hidden power of numbers and ascend to new heights within our clandestine order. Embrace the mysteries of the 'Big Man' society and unlock the secrets of the ancient numerical language that permeates all aspects of our existence.

@@ -21,11 +21,11 @@ excerpt: Design an arcane sigil-imbued talisman, as befits the Crown Prince at t
 ---
 As the Crown Prince at the Sabbat of Witchflame, I shall create a powerful talisman infused with the arcane sigils of our lineage to ward off malevolent spiritual beings, demons, and malefic spirits. Here, I present a meticulous design that encapsulates these formidable forces.
 
-Shape: The talisman takes the form of a dodecahedron, a symbol of the universe and higher realms, enclosing the user in its protective energies.
+**Shape**: The talisman takes the form of a dodecahedron, a symbol of the universe and higher realms, enclosing the user in its protective energies.
 
-Material: Utilizing an amalgamation of bloodied obsidian for its grounding and protective properties, cursed silver for its ability to ward off evil and promote spiritual purity, and fires from the eternal Witchflame to amplify its mystical powers.
+**Material**: Utilizing an amalgamation of bloodied obsidian for its grounding and protective properties, cursed silver for its ability to ward off evil and promote spiritual purity, and fires from the eternal Witchflame to amplify its mystical powers.
 
-Sigils: Etched upon each of the twelve faces of the talisman are the sacred and obscure symbols of the Witchflame lineage. These sigils are carefully scribed using the blood of sorcerers, imbuing them with profound potency.
+**Sigils**: Etched upon each of the twelve faces of the talisman are the sacred and obscure symbols of the Witchflame lineage. These sigils are carefully scribed using the blood of sorcerers, imbuing them with profound potency.
 
 Elemental Power: The talisman is charged with the four cardinal elements – Earth, Air, Fire, and Water – represented in each corner of the sacred sigils, creating a robust elemental network of protection and purification.
 
@@ -33,6 +33,6 @@ Celestial Influence: Aligning with the cycles of the waning moon, the talisman h
 
 Abyssal Bonds: The talisman draws upon the boundless abyss, imbuing it with protection against the darkest and most malevolent forces. The arcane sigils scribed into the cursed silver material seal these abyssal energies, ensuring balance and control within the talisman.
 
-Enchantment: The talisman must be forged in the darkness of the unholy eve to ensure its maximal effectiveness and complex spiritual protection. Bathing the talisman in the glow of witchfire, the unique pyre sacred to the Sabbat of Witchflame, shall lock in its formidable energies.
+**Enchantment**: The talisman must be forged in the darkness of the unholy eve to ensure its maximal effectiveness and complex spiritual protection. Bathing the talisman in the glow of witchfire, the unique pyre sacred to the Sabbat of Witchflame, shall lock in its formidable energies.
 
 Upon completion, the arcane sigil-imbued talisman will provide the bearer with extensive spiritual protection and serve as an impenetrable barrier against the malicious intent of malevolent spiritual beings, demons, and malefic spirits. The potency of this talisman is unrivaled, safeguarding the wearer and honoring the sacred practices of the Witchflame lineage.

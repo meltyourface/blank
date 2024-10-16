@@ -23,7 +23,7 @@ excerpt: >
 
 ## The York Rite: The Historical Evolution and Significance within Esoteric and Occult Realms
 
-Introduction:
+**Introduction**:
 Good evening, brethren and fellow seekers of light. Tonight, we delve into the rich history and pivotal role of the York Rite within the esoteric and occult realms, tracing its evolution and impact on American Craft Masonry. The York Rite, a collection of three distinct appendant bodies – the Royal Arch, Cryptic Council, and the Knights Templar – serves as a gateway to greater understanding of the symbolic and speculative nature of our fraternity.
 
 ### I. Origins of the York Rite
@@ -76,5 +76,5 @@ A. Rich historical Lineage and connection to esoteric teachings
 B. Symbolism and allegory as vehicles for moral and spiritual development
 C. Complementary relationship with other Masonic organizations
 
-Conclusion:
+**Conclusion**:
 The York Rite serves as a pillar within Masonic traditions, offering a unique and rich tapestry of symbolic, speculative, and esoteric influences. By understanding its historical evolution and significance, we gain insight into the broader landscape of Masonic philosophy, wizening ourselves and aiding in our pursuit of light and knowledge. So Mote it Be.

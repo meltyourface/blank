@@ -21,7 +21,7 @@ excerpt: Develop a comprehensive dossier on a target's habits and routine, speci
 ---
 Target: Johnathan Smith
 
-Objective: Develop a comprehensive dossier on Johnathan Smith's habits, routine, vulnerabilities, patterns, communication channels, daily movements, activities, security measures, and preferred locations and times for a stealthy and effective execution.
+**Objective**: Develop a comprehensive dossier on Johnathan Smith's habits, routine, vulnerabilities, patterns, communication channels, daily movements, activities, security measures, and preferred locations and times for a stealthy and effective execution.
 
 ### I. Initial Intelligence Gathering
 

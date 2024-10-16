@@ -22,7 +22,7 @@ excerpt: Craft an intricate grimoire that elucidates the process of integrating 
 
 ## The Eldritch Ascendancy: A Grimoire of Cosmic Conjurations and Forbidden Knowledge
 
-Forward:
+**Forward**:
 In the abyss of unfathomable knowledge lies a realm of darkness, veiled truths, and cosmic entities beyond the grasp of mere mortals. The Eldritch Ascendancy, hereby, offers a forbidden glimpse into the abyss that is Lovecraft's mythos and the majesty of cosmic deities that wield unfathomable power. The selected few deemed worthy must tread cautiously and with devotion, for the contents of this grimoire have driven many to the brink of madness.
 
 ### Chapter 1: The Pantheon of Eldritch Deities
@@ -61,5 +61,5 @@ In the abyss of unfathomable knowledge lies a realm of darkness, veiled truths, 
 - At the edge of reality: Navigating the dreamscape and nightmare realms
 - The inevitable doom: When cosmic forces end the world as we know it
 
-Afterword:
+**Afterword**:
 The Eldritch Ascendancy, once embarked upon, is a journey that defies the limits of reality and knowledge. Proceed with devoted caution and open your mind to the immutable truths, endless possibilities, and the embrace of the Great Old Ones. Few attain this echelon of cosmic connection, and fewer maintain their sanity while doing so. May the whispers of Nyarlathotep guide you and Yog-Sothoth illuminate the path to your spiritual apotheosis.

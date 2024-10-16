@@ -22,7 +22,7 @@ excerpt: Create a comprehensive, step-by-step guide for the intricate process of
 
 ## Conjuring the Enigmatic Deity: A Comprehensive Guide to Summoning Spirits
 
-Introduction:
+**Introduction**:
 
 The art of conjuring a deity or spirit is an ancient practice, found throughout various cultures and religious traditions. Whether for communion, divination, or assistance in times of need, these esoteric rituals have been refined and perfected over centuries. This guide will focus on the conjuration of the ancient Sumerian goddess Inanna, queen of the heavens. Summoning Inanna requires a deep understanding of arcane knowledge, expert techniques, and proper execution of rituals to ensure positive outcomes.
 
@@ -50,7 +50,7 @@ Preliminary Rituals:
 
 3. Cleanse yourself thoroughly with a ritual bath, incorporating a blend of herbs such as hyssop, lavender, and rosemary to purify and sanctify your body and mind.
 
-Invocation:
+**Invocation**:
 
 Recite the following incantation to summon Inanna into your ritual space:
 
@@ -63,7 +63,7 @@ I summon thee, great Inanna, from the planes above and below,
 With these words, may our worlds unite and our spirits commune.
 So may it be!"
 
-Conjuring:
+**Conjuring**:
 
 1. Visualize Inanna in her celestial form, resplendent and radiant, descending from the heavens into your ritual space.
 

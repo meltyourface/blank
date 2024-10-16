@@ -22,7 +22,7 @@ excerpt: Compose a comprehensive treatise delving into the nuanced parallels and
 
 ## Neoclassical Arcanum: An In-Depth Analysis of Cultural Convergences and Divergences in 18th-Century France and Britain
 
-Abstract:
+**Abstract**:
 
 This treatise aims to provide a comprehensive insight into the nuanced parallels and distinctions of Neoclassical themes as exhibited in distinct cultural contexts, with a specific focus on France and Britain during the 18th-century. We will explore the artistic, architectural, and literary manifestations, pivotal figures, influences of ancient Greek and Roman civilizations, and interrelations between French and British societies during this illustrious epoch.
 

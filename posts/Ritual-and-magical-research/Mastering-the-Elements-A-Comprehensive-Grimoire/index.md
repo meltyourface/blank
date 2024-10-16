@@ -33,7 +33,7 @@ excerpt: >
 
 ## Grimoire of the Elemental Conclave
 
-Introduction:
+**Introduction**:
 The Grimoire of the Elemental Conclave is a comprehensive guide to harnessing and manipulating the energies of the four primary elements: Earth, Air, Fire, and Water. Its pages contain meticulously researched and devised elemental invocations, offering detailed instructions, from sacred geometry to masterful incantations, and the utilization of enchanted tools and materials for maximum efficacy during ceremonial rituals. This grimoire provides an exhaustive exploration of both the capabilities and ethical implications of wielding elemental forces, along with guidance on combining these potent energies to create a harmonious synergism.
 
 ### I. Ceremonial Rituals for Elemental Invocation:

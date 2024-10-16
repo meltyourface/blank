@@ -21,7 +21,7 @@ excerpt: Delve into the arcane knowledge of Traditional Craft Sorcery and Sabbat
 ---
 Spell: The Consecration of the Circle of Art
 
-Source: The Key of Solomon, Book I, Chapter IX
+**Source**: The Key of Solomon, Book I, Chapter IX
 
 Original Transcription:
 
@@ -29,14 +29,14 @@ Original Transcription:
 2. Within this circle, two hexagrams should be drawn, one within the other.
 3. Around this Circle of Art and on the outer circle, sacred divine names, pentagrams and other symbols are inscribed.
 
-Instructions:
+**Instructions**:
 
 1. Choose an isolated and quiet location to draw the Circle of Art.
 2. Mark the outer circle with a diameter of nine feet using powdered lime, chalk or lamp-black.
 3. Draw two hexagrams within the circle – one inscribed within the other.
 4. On the outer circle, inscribe sacred divine names, pentagrams and other symbols.
 
-Timing: This ritual should be performed at the beginning of any magical working to consecrate the space and protect the sorcerer from any possible negative influences.
+**Timing**: This ritual should be performed at the beginning of any magical working to consecrate the space and protect the sorcerer from any possible negative influences.
 
 Tools and Correspondences:
 

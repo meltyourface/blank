@@ -38,7 +38,7 @@ Smith Family Lineage Tree:
    Marriage between Robert Smith and Emily Smith (m. Feb 14, 1980)
    - Significant Celestial Event: Solar eclipse occurring on the same day, signifying a union of complementary opposites
 
-Issue:
+**Issue**:
 
 3. Thomas Smith (b. Dec 21, 1980)
    - Life Path Number: 9

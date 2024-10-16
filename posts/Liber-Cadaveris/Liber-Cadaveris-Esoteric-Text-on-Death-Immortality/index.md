@@ -22,60 +22,60 @@ excerpt: >
 ---
 English Translation of Liber Cadaveris
 
-Foreword:
+**Foreword**:
 
 Herein lies the mystic and ancient text of the Liber Cadaveris, a rare and potent work of esoteric wisdom, hidden away by shadowed societies for centuries. Let its secrets unfold before your mind's eye, the poetic essence and enigmatic nuances of dark knowledge imbued within its Latin origin. With great care and mastery, we have translated its cryptic script, preserving the essence that makes it one of the most sought-after occult manuscripts.
 
-I: The Veil of Life
+**I**: The Veil of Life
 
 As mortal coils wind around our souls,
 We journey forth with naught but hope.
 Behind the veil, the hidden truth unfolds,
 In death's embrace, we shall find scope.
 
-II: The Secrets of the Flesh
+**II**: The Secrets of the Flesh
 
 This vessel, a temple of bone and sinew,
 Conceals the secrets of the ageless ones.
 To learn their ways, we must delve within,
 To touch the core of the primeval sun.
 
-III: The Whispering Shadows
+**III**: The Whispering Shadows
 
 Within the darkness, beyond the light,
 Lies a realm of whispering shades.
 Together they share secrets of the past,
 Their voices echo with timeless wisdom age.
 
-IV: The Transcendence of Mortality
+**IV**: The Transcendence of Mortality
 
 Embrace the knowledge beyond the grave,
 Release the chains of earthly desire.
 Unto our minds, the realm opens wide,
 Revealing secrets that can never tire.
 
-V: The Gnosis of the Necromancer
+**V**: The Gnosis of the Necromancer
 
 To rise above our transient state,
 We must unlock the hidden powers.
 Forego the path of the righteous many,
 And walk amongst the midnight flowers.
 
-VI: The Infernal Pact
+**VI**: The Infernal Pact
 
 Revel in the depths of the abyss,
 Unearth the sigils that shall control.
 Summon forth the ancient demons,
 Their secrets bind our immortal soul.
 
-VII: The Alchemical Transition
+**VII**: The Alchemical Transition
 
 Of blood and bone and mortal decay,
 A new form rises from death's embrace.
 The alchemist's art shall set us free,
 By transmuting our essence to divinity.
 
-VIII: The Pathway to Eternity
+**VIII**: The Pathway to Eternity
 
 No longer bound by the wheel of fate,
 We stride forth upon the winding path.

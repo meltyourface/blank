@@ -49,7 +49,7 @@ Illuminating Luna’s wax and wane,
 We invoke your presence, ethereal and strong,
 To bless us with your wisdom, guiding our arcane.
 
-Chant: Tetragrammaton, Io Hecate Io,
+**Chant**: Tetragrammaton, Io Hecate Io,
 Ancient one, let thy secrets unfold,
 From Earth, Sea, and Sky, your essence flows,
 Through the threshold, we invite your sacred soul.

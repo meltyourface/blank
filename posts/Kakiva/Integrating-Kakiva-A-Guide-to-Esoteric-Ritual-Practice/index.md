@@ -26,11 +26,11 @@ To demonstrate the integration of the esoteric principles of Kakiva in a rituali
 **Step 1**: Understanding the three primary aspects of Kakiva
 To begin with, we must gain an in-depth knowledge of the three primary aspects of Kakiva: creation, dissolution, and transformation.
 
-Creation: This aspect is associated with the initiation of new projects, ideas, and intentions, as well as the manifestation of tangible results. Practitioners are encouraged to channel creative energy into their pursuits, recognizing that the act of creation is an inherent human trait that reaches beyond physical existence.
+**Creation**: This aspect is associated with the initiation of new projects, ideas, and intentions, as well as the manifestation of tangible results. Practitioners are encouraged to channel creative energy into their pursuits, recognizing that the act of creation is an inherent human trait that reaches beyond physical existence.
 
-Dissolution: The dissolution aspect represents the breaking down and dismantling of established structures, beliefs or thought patterns. This process is necessary for growth and change, as it ultimately clears a path for new opportunities and perspectives to emerge.
+**Dissolution**: The dissolution aspect represents the breaking down and dismantling of established structures, beliefs or thought patterns. This process is necessary for growth and change, as it ultimately clears a path for new opportunities and perspectives to emerge.
 
-Transformation: The principle of transformation underscores the importance of personal metamorphosis and adaptation to change. In Kakiva, transformation is a powerful force that enables practitioners to transcend perceived limitations and evolve in their spiritual and practical pursuits.
+**Transformation**: The principle of transformation underscores the importance of personal metamorphosis and adaptation to change. In Kakiva, transformation is a powerful force that enables practitioners to transcend perceived limitations and evolve in their spiritual and practical pursuits.
 **Step 2**: Designing a ritual that embodies the three aspects
 A well-rounded Kakiva ritual should incorporate elements that cater to each of the three primary aspects. An example of such a ritual might involve the following steps:
 

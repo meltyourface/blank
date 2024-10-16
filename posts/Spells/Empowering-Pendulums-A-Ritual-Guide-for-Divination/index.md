@@ -29,7 +29,7 @@ Materials required:
 4. Incense or essential oil of choice (such as frankincense, sandalwood, or lavender)
 5. A small cloth or mat to place the pendulum on when not in use
 
-Procedure:
+**Procedure**:
 **Step 1**: Cleansing and purifying the space
 Select a quiet, comfortable space where you can focus on your ritual. Burn your chosen incense or essential oil to cleanse the area and create a sacred atmosphere. Light the candle to invite positive energy.
 **Step 2**: Connecting with the pendulum

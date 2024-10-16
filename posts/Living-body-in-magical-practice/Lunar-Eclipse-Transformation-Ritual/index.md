@@ -21,11 +21,11 @@ excerpt: Compose an original spell that harnesses the power of a lunar eclipse w
 ---
 Spell Title: Whisper of the Shadow Moon
 
-Intent: This spell aims to bring forth personal transformation and healing by harnessing the power of a lunar eclipse within the context of Living body in magical practice. It will address emotional wounds, past traumas, and physical imbalances, nurturing one's well-being and growth.
+**Intent**: This spell aims to bring forth personal transformation and healing by harnessing the power of a lunar eclipse within the context of Living body in magical practice. It will address emotional wounds, past traumas, and physical imbalances, nurturing one's well-being and growth.
 
-Timing: This spell should be performed during a lunar eclipse when the moon enters totality. The ideal astrological alignment for this spell would be when the Sun or Moon is in alignment with the planet of change and rebirth, Pluto. The energies of transformation, renewal, and regeneration are heightened during these astrological conditions, contributing to the efficacy of the spell.
+**Timing**: This spell should be performed during a lunar eclipse when the moon enters totality. The ideal astrological alignment for this spell would be when the Sun or Moon is in alignment with the planet of change and rebirth, Pluto. The energies of transformation, renewal, and regeneration are heightened during these astrological conditions, contributing to the efficacy of the spell.
 
-Materials:
+**Materials**:
 - A vial or bowl of lunar eclipse-charged water
 - Moonstone or labradorite crystals, cleansed and charged
 - A strand of the practitioner’s hair
@@ -36,9 +36,9 @@ Materials:
 - A piece of black or dark blue cloth for covering the items during the ritual
 - A moon- and star-themed silver or white candle
 
-Incantation: "Bownd in eclipse'n shadow, ethereal moon's embrace. Take heed in transformation, a-birthing self in grace. Cradled by the scarlet veil, upon celestial throne, bear down thy gift and through me manifest, whisp'ring lunar tone."
+**Incantation**: "Bownd in eclipse'n shadow, ethereal moon's embrace. Take heed in transformation, a-birthing self in grace. Cradled by the scarlet veil, upon celestial throne, bear down thy gift and through me manifest, whisp'ring lunar tone."
 
-Instructions:
+**Instructions**:
 1. Choose an appropriate, quiet location preferably under the open sky during the lunar eclipse.
 2. Arrange the materials in a circle, representing the Moon in its full and eclipsed state, and then light the silver or white candle in the center.
 3. Hold the moonstone or labradorite crystals in your hands, and visualize the energy of the lunar eclipse washing over you.

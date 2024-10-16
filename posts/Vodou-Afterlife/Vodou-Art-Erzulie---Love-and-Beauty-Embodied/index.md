@@ -22,11 +22,11 @@ excerpt: Create an intricate Vodou-inspired masterpiece, honoring the spirit rea
 
 ## Erzulie - The Enchanting Veve of Love and Beauty
 
-Description: 
+**Description**: 
 
 This Vodou-inspired masterpiece pays homage to Erzulie, the powerful Loa of love, beauty, and femininity. Erzulie manifests in many forms, but her most popular representation is that of Erzulie Freda, the embodiment of love and passion. As the protector of romantic love, femininity, and beauty, she possesses an enchanting presence and her rich, vivid colors of pink and gold hold sway over the hearts of her followers, bringing blessings of love, prosperity, and happiness.
 
-Medium: Mixed Media on Canvas (24" x 36")
+**Medium**: Mixed Media on Canvas (24" x 36")
 
 Techniques and Elements:
 

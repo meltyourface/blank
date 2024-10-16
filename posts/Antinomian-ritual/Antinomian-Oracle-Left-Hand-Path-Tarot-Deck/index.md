@@ -72,6 +72,6 @@ Gnostic Wisdom Suit:
 11. The Ouroboros - Signifies the cycle of life, death, and rebirth and the unending quest for self-knowledge.
 12. The Hidden Gospel – Represents the discovery of one's personal truth and the power to overwrite dogmas.
 
-Guidebook:
+**Guidebook**:
 
 The accompanying guidebook will feature an introduction to Antinomianism, an overview of Left-Hand Path traditions, and detailed meanings for each card, including their historical and mythological contexts. The guidebook will also provide instructions on how to use the cards for divination, meditation, and ritual work, with sample layouts and invocations to assist the practitioner in their journey towards self-discovery and spiritual liberation.

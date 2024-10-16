@@ -22,7 +22,7 @@ excerpt: Design an intricate ritual to beckon and communicate with benevolent sp
 
 ## The Ritual of Astral Communion
 
-Objective: To beckon and communicate with benevolent spirits from the astral realm.
+**Objective**: To beckon and communicate with benevolent spirits from the astral realm.
 
 ### I. Preparations
  A. Location

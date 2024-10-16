@@ -38,7 +38,7 @@ Within the context of an esoteric grimoire, Sat-Chit-Ananda represents the ultim
 
 In the study of Sat-Chit-Ananda, existence is understood as the foundation upon which reality is built. To recognize existence in its purest form, the seeker must go beyond the physical and tangible aspects of the world, reaching a state of consciousness that transcends the limits of space, time, and the senses.
 
-Practices:
+**Practices**:
 
 - Contemplation: Regularly reflect on the nature of existence and how it forms the foundation of reality. With time, your understanding will deepen, and you'll move closer to the essence of Sat.
 
@@ -48,7 +48,7 @@ Practices:
 
 Consciousness, in the context of Sat-Chit-Ananda, refers to both the individual awareness and the universal awareness that permeates all of existence. It is the key to unlocking the deeper mysteries of life and the divine forces that govern the universe. By expanding one's consciousness, the seeker can gain a deeper understanding of themselves and their place in the cosmos.
 
-Practices: 
+**Practices**: 
 
 - Mindfulness: Develop an ongoing practice of mindfulness, paying attention to your thoughts, emotions, and physical sensations without judgment. Over time, this will increase your level of self-awareness and help you expand your consciousness.
 
@@ -58,7 +58,7 @@ Practices:
 
 Bliss is the experience of unbounded happiness, joy, and inner peace that arises when one discovers their true nature and attains a state of unity with the cosmos. It represents the culmination of spiritual fulfillment, symbolizing the integration of existence and consciousness in a state of unbroken harmony.
 
-Practices:
+**Practices**:
 
 - Loving-Kindness Meditation: Practice radiating unconditional love and compassion towards yourself and all living beings, cultivating a sense of bliss in your heart and mind.
 

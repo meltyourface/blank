@@ -29,7 +29,7 @@ Ingredients for Ritual:
 4. A crystal, preferably clear quartz or amethyst
 5. A sacred text, specifically tailored to the ethereal beings you wish to summon
 
-Preparation:
+**Preparation**:
 
 1. Begin by setting up the space for your ritual. Seek a quiet, serene location for your work. Cleanse the area by smudging with sage or burning incense.
 
@@ -41,7 +41,7 @@ Preparation:
 
 5. Fill a small pouch with sacred herbs and place it on the bottom left-hand point of the pentagram. This will represent the physicality and the connection to the earth.
 
-Incantation:
+**Incantation**:
 
 In solemn silence, stand at the center of the pentagram and recite the incantation in a composed, melodic tone:
 
@@ -61,7 +61,7 @@ Belliam in tempore nostro reperiam,
 Tu consortium astris prospiciamus, invehi
 Et tenebris multiplicemur, in luce revelabitur."
 
-Translation:
+**Translation**:
 
 "By the powers and the eternities, I call upon your aid,
 Arkanis, lord and lady of the Celestial spirits

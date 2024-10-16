@@ -32,7 +32,7 @@ Place the Awen symbol at the center of your altar to represent divine creative i
 **Step 5**: Incorporating the elements
 To represent the four elements (earth, water, air, and fire), place corresponding objects in the cardinal directions around the Awen symbol.
 
-Earth: Place a small dish of salt or soil in the north.
+**Earth**: Place a small dish of salt or soil in the north.
 Water: Place a vial or bowl of water in the west.
 Air: Place a feather, incense, or bell in the east.
 Fire: Place a candle or a symbol of the sun in the south.

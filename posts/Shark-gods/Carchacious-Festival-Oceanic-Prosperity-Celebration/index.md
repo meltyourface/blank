@@ -23,7 +23,7 @@ excerpt: >
 
 ## Carchacious Festival: A Celebration of the Shark God of Abundance and Prosperity
 
-Duration: 1 Week
+**Duration**: 1 Week
 
 Day 1:
 

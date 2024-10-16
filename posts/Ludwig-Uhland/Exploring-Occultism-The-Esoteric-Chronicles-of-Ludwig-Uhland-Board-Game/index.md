@@ -23,13 +23,13 @@ excerpt: >
 
 ## The Esoteric Chronicles of Uhland
 
-Overview:
+**Overview**:
 The Esoteric Chronicles of Uhland is a brilliantly designed board game that immerses players in the mystifying world of Ludwig Uhland. Players will delve into Uhland's life, his occult beliefs, and esoteric interests. The game uses unique mechanics allowing players to explore the depths of esotericism, intertwining it with key events from Uhland's biography. The game offers three distinct playing modes catering to a variety of playstyles, such as cooperative, competitive, and role-playing formats.
 
-Objective:
+**Objective**:
 Travel through Uhland's life, collecting mystical artifacts and symbols associated with his esoteric pursuits while acquiring knowledge of the occult and esoteric practices. Successfully navigate through the key events in his life and rise to achieve mastery in the arcane arts, ultimately becoming the ultimate occultist. 
 
-Components:
+**Components**:
 1. Gameboard – Depicting Uhland's life timeline and esoteric locations associated with his interests.
 2. Player tokens – Representing each player's character on the board.
 3. Artifact cards – Containing mystical artifacts and symbols linked to Uhland's pursuits.

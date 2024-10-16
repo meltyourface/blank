@@ -24,7 +24,7 @@ excerpt: Outline a comprehensive self-initiation rite for a chosen tradition wit
 
 Chosen Tradition: The Sevenfold Path is a syncretic esoteric tradition where practitioners seek to harness and balance their inner energies in order to attain spiritual enlightenment, self-mastery, and connection to the divine. The tradition intertwines elements of Hermeticism, Qabalah, Eastern mysticism, and modern witchcraft practices. 
 
-Objective: To facilitate a comprehensive self-initiation rite that will awaken the practitioner's inner energies, attune them to the forces of the universe, and create a lasting bond with the divine through 7 distinct stages.
+**Objective**: To facilitate a comprehensive self-initiation rite that will awaken the practitioner's inner energies, attune them to the forces of the universe, and create a lasting bond with the divine through 7 distinct stages.
 
 Stage 1: Preparation
 1. Choose a time and date that corresponds with a new moon for the self-initiation rite.

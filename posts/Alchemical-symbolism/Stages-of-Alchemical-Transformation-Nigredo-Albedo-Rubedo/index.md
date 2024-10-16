@@ -28,7 +28,7 @@ excerpt: >
 ---
 1. Nigredo represents the initial blackening and decay of matter, while albedo symbolizes the purifying and spiritualisation process, ultimately leading to rubedo, the stage of ultimate perfection through the union of opposites.
 
-Explanation:
+**Explanation**:
 
 In the realm of alchemical symbolism, the concepts of nigredo, albedo, and rubedo represent stages in the Magnum Opus, or the Great Work, which is the process of transmutation and self-improvement that alchemists believed could lead to the philosopher's stone, an object of great power that grants wisdom, spiritual elevation, and even eternal life. These stages are illustrated through symbols and allegories to express spiritual and personal transformations.
 

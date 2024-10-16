@@ -23,10 +23,10 @@ excerpt: >
 
 ## Title: "Labyrinth of the Subconscious"
 
-Concept:
+**Concept**:
 The Labyrinth of the Subconscious is an immersive, site-specific theater performance that delves into the depths of the human psyche to explore complex and often taboo psychological themes. By incorporating elements of surrealism and dreamlike imagery, this interdisciplinary performance will spark self-reflection and facilitate emotional exploration for the audience.
 
-Storyline:
+**Storyline**:
 The central plot revolves around the protagonist, Alex, as they navigate through the labyrinth—a visual representation of the human psyche. Along the journey, Alex encounters key emotional experiences, fragmented memories, and suppressed desires. Through this progression, the audience is drawn into the emotional rollercoaster that lies beneath the surface of everyday life.
 
 Interdisciplinary Performance Techniques:
@@ -42,13 +42,13 @@ Interdisciplinary Performance Techniques:
 Atmospheric Set:
 The performance space will be transformed into a physical representation of the human psyche, with each room representing a different layer of the labyrinth. Evocative set pieces will include reflective water, mirrors, and warped perspectives to emphasize the surreal nature of the environment.
 
-Lighting:
+**Lighting**:
 Ethereal, dramatic, and high-contrast lighting schemes will accentuate the dreamlike nature of the performance. The use of vivid and saturated colors, coupled with strategic shadow play, will create a sense of disorientation and mystery.
 
-Soundscapes:
+**Soundscapes**:
 The original score composed for this performance will feature oscillating tempos and unconventional sound combinations, eliciting unease and enchantment. Additionally, ambient noise, whispers, and distorted voices will be layered to further evoke the complex emotions within the human psyche.
 
-Costumes:
+**Costumes**:
 Performers will wear costumes that blend any notion of time and place. Elements from various eras and cultures will be combined to create a timeless, otherworldly aesthetic. Each character's costume will also reflect their emotional state, utilizing color, texture, and silhouette as visual representations of their inner turmoil.
 
 Audience Engagement:

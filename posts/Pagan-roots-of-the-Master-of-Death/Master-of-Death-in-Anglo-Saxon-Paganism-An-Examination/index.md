@@ -31,7 +31,7 @@ The spirits' command, to give the unknown,
 The ancient eastern sacrifice, the lord of creation,
 Descending once more to join."
 
-Interpretation:
+**Interpretation**:
 
 This particular passage is an excerpt from an ancient manuscript originating in Anglo-Saxon England. The text appears to be part of a ritual surrounding the concept of the "Master of Death." Within this specific Pagan tradition, the Master of Death is portrayed as the lord of creation, capable of descending into the realm of the living and wielding control over life and death. The dark one, possibly a reference to a powerful spirit or deity, is said to speak on behalf of the Master of Death and enforce the spirits' command.
 

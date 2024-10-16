@@ -22,9 +22,9 @@ excerpt: Design a comprehensive ritual for consecrating and casting a protective
 
 ## The Rite of the Guardian Circle
 
-Objective: Consecrate and cast a protective circle using a ceremonial sword, following traditional witchcraft practices, while incorporating elemental energies and symbolic correspondences. 
+**Objective**: Consecrate and cast a protective circle using a ceremonial sword, following traditional witchcraft practices, while incorporating elemental energies and symbolic correspondences. 
 
-Materials:
+**Materials**:
 1. Ceremonial sword
 2. Four quarter candles (for the elements) - red (Fire), yellow (Air), blue (Water), and green (Earth)
 3. Incense and incense burner
@@ -32,7 +32,7 @@ Materials:
 5. Salt and water (in separate containers)
 6. A chalice or cup
 
-Preparations:
+**Preparations**:
 1. Cleanse and purify the ceremonial sword by washing it with saltwater.
 2. Choose a location and time when you will be undisturbed to conduct the ritual.
 3. Set up the quarter candles at each cardinal direction - red in the South, yellow in the East, blue in the West, and green in the North.

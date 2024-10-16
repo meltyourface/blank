@@ -22,11 +22,11 @@ excerpt: Design a comprehensive divination system centered around the intricate 
 
 ## Draconian Divination
 
-Overview:
+**Overview**:
 
 The Draconian Divination system is an intricate and comprehensive practice that uses dragon symbolism, mythology, and lore to interpret signs, omens, and provide spiritual guidance. With influences drawn from various cultures, including Eastern and Western dragon depictions, this unique system incorporates various elements such as dragon colors, associated gemstones, and astrological aspects to give multi-dimensional insights into future events and interpersonal dynamics. 
 
-Components:
+**Components**:
 
 1. **Dragon Archetypes**: In this system, dragons are categorized into ten primary archetypes based on the characteristics of dragons from different mythological and cultural backgrounds. Each archetype represents specific qualities, energies, and attributes that allow for a deeper understanding and accurate interpretation of signs. **The ten archetypes include**: Celestial, Elemental, Guardian, Serpentine, Leviathan, Abyssal, Luminescent, Shadow, Chimeric, and Wyvern.
 
@@ -36,7 +36,7 @@ Components:
 
 4. **Astrological Aspects**: The Draconian Divination system integrates celestial wisdom by incorporating astrological aspects and corresponding associations (e.g., Zodiac signs, planetary influence, lunar phases) as an integral part of the process. This enables practitioners to gain a comprehensive understanding of the celestial influences at play during divination sessions.
 
-Methodology:
+**Methodology**:
 
 1. Begin by setting up an altar or sacred space with the appropriate gemstones, incense, and candles that resonate with the energies of the dragon archetype, color, and astrological aspects relevant to the current situation.
 

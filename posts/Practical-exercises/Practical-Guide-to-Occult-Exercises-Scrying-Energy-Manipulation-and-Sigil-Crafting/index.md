@@ -29,14 +29,14 @@ Within this chapter, we will delve into three practical exercises aimed to enhan
 
 Exercise 1: Developing Intuition With Scrying
 
-Purpose:
+**Purpose**:
 The purpose of this exercise is to enhance one's intuitive abilities by utilizing the ancient practice of scrying. Scrying is an occult technique employed to access the hidden dimensions of the spiritual realm and one's inner psyche. This exercise uses the process of staring into a reflective surface to induce deeper states of consciousness and unveil hidden insights.
 
 Materials and Preparations:
 - A bowl or shallow dish filled with water or another reflective surface (such as a crystal ball or mirror)
 - A dimly lit, quiet, and comfortable space
 
-Instructions:
+**Instructions**:
 1. Settle into a comfortable seated position before the reflective surface.
 2. Relax your body and mind with slow, deep breaths, and allow your gaze to focus solely on the surface.
 3. Consciously release any expectations and preconceived notions, opening yourself to receive messages from your intuition.
@@ -45,13 +45,13 @@ Instructions:
 
 Exercise 2: Elemental Energy Manipulation
 
-Purpose:
+**Purpose**:
 The objective of this exercise is to familiarize the practitioner with the energies of the four classical elements - Earth, Water, Fire, and Air - and enhance their ability to manipulate these energies for various occult purposes.
 
 Materials and Preparations:
 - Four objects to represent each element, for example: a stone (Earth), a cup of water (Water), a candle (Fire), and a fan or feather (Air). Feel free to use alternatives that resonate with your practice.
 
-Instructions:
+**Instructions**:
 1. Arrange the elemental objects on a table or surface before you in the shape of a square, assigning each element to a cardinal direction (North, East, South, and West). Take a moment to connect with each object and the energies they represent.
 2. Close your eyes and take several deep breaths, centering yourself in the present moment.
 3. Begin by focusing on the Earth element, envisioning a flow of energy emanating from the object and entering your body, allowing you to feel grounded and stable. Stay with this energy for a few minutes before proceeding to the next element.
@@ -61,7 +61,7 @@ Instructions:
 
 Exercise 3: Sigil Crafting for Manifestation
 
-Purpose:
+**Purpose**:
 This exercise aims to teach the practitioner how to create and charge sigils, which are symbolic representations of one's intention, to manifest desired outcomes and develop focus and concentration.
 
 Materials and Preparations:
@@ -69,7 +69,7 @@ Materials and Preparations:
 - A pen or pencil
 - A method for charging the sigil (such as meditation, dance, or the use of elemental symbols)
 
-Instructions:
+**Instructions**:
 1. Write down a specific, concise intention or desire on the sheet of paper.
 2. Remove all vowels, duplicate letters, and spaces from the written intention, leaving a series of individual consonant letters.
 3. Use these letters as the building blocks to create a unique graphic symbol that represents your intention. Allow your creativity to flow freely as you craft your sigil.

@@ -52,7 +52,7 @@ As you follow this thread, it forms a bridge that leads to the crystalline porta
 
 Once more, you find yourself ascending the spiral staircase within that sacred chamber, shadows dissipating with each step as you rise towards the surface. Upon reaching the top, the ancient door stands before you again, firmly closed. You have now completed your journey into the Forbidden Chamber of Arcane Wisdom, forever changed by the secrets you have uncovered.
 
-Conclusion:
+**Conclusion**:
 
 Breathe deeply, allowing the energy of your experience to integrate with your being. Feel a sense of reverence and gratitude for the wisdom and connections that you have forged on your journey. Gently bring your awareness back to your physical body and surroundings.
 

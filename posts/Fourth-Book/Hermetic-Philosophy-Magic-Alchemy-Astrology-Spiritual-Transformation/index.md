@@ -23,17 +23,17 @@ To fully comprehend the interrelatedness of Magic, Alchemy, and Astrology within
 
 Magic, Alchemy, and Astrology are three core branches of the Hermetic Tradition, interwoven and interconnected, sharing goals and deeper meanings that contribute collectively towards the individual's spiritual journey. Let us delve deeper into each of these branches to decipher their underlying connections and significance.
 
-Magic:
+**Magic**:
 
 Magic, in the context of Hermetic Philosophy, refers to the art of understanding, harnessing, and impacting the subtle energies that permeate the Universe. This is achieved through manipulation of natural forces, symbols, and rituals, allowing the practitioner to align themselves and influence their environment with their Will. It is important to note that magic can be divided into two branches, High (Theurgy) and Low (Thaumaturgy). High Magic focuses on the spiritual aspects and communion with higher beings, whereas Low Magic deals with practical applications and immediate effects. In essence, magic is the practice of mastering one's inner and outer worlds through the power of intentionality and shaping reality according to the practitioner's Will.
 
-Alchemy:
+**Alchemy**:
 
 Alchemy is a multifaceted discipline that encompasses various sciences, philosophies, and practices. Historically perceived as the transmutation of base metals into gold, its essence lies in the pursuit of the Philosopher's Stone - the agent of transformation. Alchemy deals with the processes of purification, refinement, and transformation of substances and the self. The ultimate aim is the attainment of spiritual enlightenment, often characterized by the union of opposites (e.g. Male and Female, Spirit and Matter).
 
 This pursuit mirrors an individual's spiritual journey, symbolizing the refinement and purification of one's consciousness to attain spiritual perfection or Wholeness. The three main stages of alchemical transformation - Nigredo (Blackening), Albedo (Whitening), and Rubedo (Reddening) – metaphorically represent stages of spiritual development in the practitioner's journey toward a harmonious existence.
 
-Astrology:
+**Astrology**:
 
 Astrology, a critical element of Hermetic Philosophy, is the study of celestial bodies and their influences on human existence. It revolves around the understanding of the microcosm-macrocosm principle, stating that the individual (microcosm) is a reflection of, and influenced by, the Universe as a whole (macrocosm). The key tenets of Astrology are the nativity chart, planetary transits, aspects, and predictive techniques, providing insight into a person's nature, destiny, and potential spiritual growth.
 

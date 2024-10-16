@@ -24,7 +24,7 @@ Course Title: Introduction to Esoteric and Occult Correspondence
 
 Course Objective: To prepare the novice to explore and understand the foundations of esoteric and occult Correspondence, develop skills in deciphering symbology, and apply knowledge in spiritual practices and rituals.
 
-Duration: 6 months
+**Duration**: 6 months
 
 Course Format: Weekly lessons, assignments, and assessments
 

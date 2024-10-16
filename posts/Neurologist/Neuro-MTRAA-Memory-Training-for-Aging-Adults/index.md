@@ -22,7 +22,7 @@ excerpt: Design a neurologically-informed cognitive training regimen specificall
 
 ## Neuroplasticity-Based Memory Training Regimen for Aging Adults (Neuro-MTRAA)
 
-Objective: Enhance memory function in aging adults by employing a multimodal approach tailored to stimulate neuroplasticity, optimize training schedules, provide guidelines for measuring progress, and offer bespoke recommendations for overcoming memory challenges common to older adults.
+**Objective**: Enhance memory function in aging adults by employing a multimodal approach tailored to stimulate neuroplasticity, optimize training schedules, provide guidelines for measuring progress, and offer bespoke recommendations for overcoming memory challenges common to older adults.
 
 1. Regimen Overview
 
@@ -77,4 +77,4 @@ C. Rest and recovery
 D. Continuous improvement and challenge
 - Gradually increase the difficulty of cognitive exercises and introduce new activities to minimize cognitive plateaus and promote sustained neuroplasticity.
 
-Note: This is a general outline, and individual results may vary. Always consult your healthcare professional before making significant changes to your physical and cognitive activity.
+**Note**: This is a general outline, and individual results may vary. Always consult your healthcare professional before making significant changes to your physical and cognitive activity.

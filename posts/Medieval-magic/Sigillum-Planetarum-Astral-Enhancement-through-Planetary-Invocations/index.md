@@ -25,9 +25,9 @@ excerpt: >
 
 Enchantment Category: Astral Enhancement
 
-Description: The Sigillum Planetarum is a unique enchantment rooted in medieval Hermetic mysticism that combines arcane symbols and incantations to harness the hidden forces of the cosmos. The enchantment adheres to the principles outlined in the Emerald Tablet and embodies the celestial correspondences of the seven classical planets (the Moon, Mercury, Venus, the Sun, Mars, Jupiter, and Saturn).
+**Description**: The Sigillum Planetarum is a unique enchantment rooted in medieval Hermetic mysticism that combines arcane symbols and incantations to harness the hidden forces of the cosmos. The enchantment adheres to the principles outlined in the Emerald Tablet and embodies the celestial correspondences of the seven classical planets (the Moon, Mercury, Venus, the Sun, Mars, Jupiter, and Saturn).
 
-Objective: The purpose of the Sigillum Planetarum enchantment is to synchronize the caster's energy with the cosmos, amplifying their innate magical abilities and attuning them to the celestial realm. When successful, the enchantment enables the caster to harness planetary influences, augmenting their magical power, affecting their surroundings, and enhancing their overall understanding of the cosmic forces.
+**Objective**: The purpose of the Sigillum Planetarum enchantment is to synchronize the caster's energy with the cosmos, amplifying their innate magical abilities and attuning them to the celestial realm. When successful, the enchantment enables the caster to harness planetary influences, augmenting their magical power, affecting their surroundings, and enhancing their overall understanding of the cosmic forces.
 
 Magical Ingredients:
 
@@ -63,6 +63,6 @@ Ritual Procedure:
 
 8. Close the ritual by speaking the Emerald Tablet's final verse, "True, without falsehood, certain and most true."
 
-Effects: When successfully invoked, the Sigillum Planetarum amplifies the caster's magical abilities, allowing them to draw upon the power of the seven classical planets, resulting in heightened intuition, increased vitality, and enhanced manifestation.
+**Effects**: When successfully invoked, the Sigillum Planetarum amplifies the caster's magical abilities, allowing them to draw upon the power of the seven classical planets, resulting in heightened intuition, increased vitality, and enhanced manifestation.
 
 Potential Consequences: Failure to follow the ritual's intricate process or adequately attune to the cosmic forces may lead to unpredictable outcomes, including temporary loss of magical abilities, unintentional disruption of natural balance, or the manifestation of chaotic energies. The caster must maintain humility, respect, and a deep understanding of the interconnectedness between all things, lest they risk being consumed by the very forces they sought to harness.

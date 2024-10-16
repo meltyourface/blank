@@ -22,7 +22,7 @@ excerpt: Develop an immersive and persuasive advertising campaign to attract pot
 
 ## Embrace the Enigma: Unlock the Secrets of a Universal Catalyst
 
-Objective:
+**Objective**:
 To attract potential members to a visionary L. Ron Hubbard-inspired organization using persuasive advertising campaign elements that emphasize the teachings, core beliefs, and transforming potential of Hubbard's esoteric and occult works.
 
 Campaign Elements:

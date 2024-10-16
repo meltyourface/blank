@@ -39,7 +39,7 @@ Dr. Hildebrandt is known to have communicated with a wide variety of Daemonic en
 
 3. Auralia: A Daemon governed by Venus, Auralia is thought to have taught Dr. Hildebrandt ways to invoke all aspects of love and desire in both magical and mundane matters.
 
-Consequences:
+**Consequences**:
 
 While Dr. Hildebrandt reaped significant benefits from his interactions with Daemonic forces, there were dark consequences as well. Reports suggest that he experienced frequent episodes of misfortune, physical sickness, and mental distress. It is believed that a bargain was struck with more malevolent entities, exacting a heavy toll on his personal life and relationships.
 

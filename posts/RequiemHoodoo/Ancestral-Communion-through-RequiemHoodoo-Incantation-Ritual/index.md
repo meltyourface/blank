@@ -21,7 +21,7 @@ excerpt: Craft a RequiemHoodoo incantation, steeped in esoteric language and sym
 ---
 As a master of RequiemHoodoo and the esoteric arts, I present to you a powerful incantation and ritual to forge an intricate communion with a practitioner's ancestral spirits. This incantation combines the arcane knowledge of RequiemHoodoo with whispering chants and ritualistic elements to create a potent connection to the ancestral realm.
 
-Incantation:
+**Incantation**:
 
 From the shadows, from the murk,
 Eternal knowledge do we seek.

@@ -24,12 +24,12 @@ excerpt: Compose a meticulously detailed guided meditation script that facilitat
 
 [Begin with ambient background music, preferably soft, subtle, mystical tones, to set the atmosphere for the meditation.]
 
-Introduction:
+**Introduction**:
 Welcome, seeker of the Furious Host. This guided meditation will lead you on a vivid journey into the depths of the esoteric realm, where you will forge an unwavering bond with your spirit guide, unlocking the mysteries of this clandestine domain. Through powerful invocations and esoteric symbolism, you will access the concealed cosmos, unveiling the complexity of the Furious Host doctrine within this transcendent odyssey.
 **Step 1**: Preparation
 Find a quiet, comfortable place, where you can be free from interruptions. Sit or lie down, ensuring that your spine is straight and aligned. Close your eyes and take a moment to relax your entire body. Take a deep breath in, and as you exhale, let go of any tension or worries. Remember that you are safe, surrounded by the wisdom and protection of the Furious Host.
 
-Invocation:
+**Invocation**:
 "Furious Host, Masters of the sacred realm,
 Guide me through the elemental veil,
 Reveal to me the hidden world beyond,

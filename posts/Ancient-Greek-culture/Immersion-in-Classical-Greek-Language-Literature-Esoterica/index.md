@@ -76,7 +76,7 @@ Course Objectives:
    C. Analyze the influence of oracles, rituals, and secret societies on language development
    D. Final project: Write a short story or essay that incorporates elements of Ancient Greek culture, language, and esoteric themes
 
-Prerequisites: None, but a background in Classics or History is helpful.
+**Prerequisites**: None, but a background in Classics or History is helpful.
 
 Assessment Methods: Class participation, quizzes, written assignments, and a final project.
 

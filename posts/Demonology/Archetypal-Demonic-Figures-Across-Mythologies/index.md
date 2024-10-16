@@ -25,25 +25,25 @@ In the study of demonology, we find that many archetypal demonic figures span va
 
 Lilith is a female demon figure originating in Mesopotamian mythology and later becoming part of Jewish folklore. She is often depicted as a night demon, associated with sexual temptation and child mortality.
 
-Characteristics: Lilith is typically portrayed as a beautiful woman with long, dark hair, and wings that enable her to fly in the night. She is often conflated with the lilitu, female demons known for their sexual allure and ability to cause harm to infants.
+**Characteristics**: Lilith is typically portrayed as a beautiful woman with long, dark hair, and wings that enable her to fly in the night. She is often conflated with the lilitu, female demons known for their sexual allure and ability to cause harm to infants.
 
-Symbolism: The figure of Lilith represents the dangers of uncontrolled female sexuality and serves as a warning against succumbing to temptation. She also embodies the dichotomy of a woman who defies patriarchal norms, being both feared and respected for her independence.
+**Symbolism**: The figure of Lilith represents the dangers of uncontrolled female sexuality and serves as a warning against succumbing to temptation. She also embodies the dichotomy of a woman who defies patriarchal norms, being both feared and respected for her independence.
 
 2. **Astaroth (Western Occultism)**:
 
 Astaroth is a male demon figure found in Western occultism, mainly associated with the Christian tradition as one of the fallen angels and a member of the infernal hierarchy.
 
-Characteristics: Depicted as a man of great stature and crowned with a diadem, Astaroth is known for his persuasive speech and vast knowledge. He rides a dragon-like beast, holding a serpent or viper in his left hand.
+**Characteristics**: Depicted as a man of great stature and crowned with a diadem, Astaroth is known for his persuasive speech and vast knowledge. He rides a dragon-like beast, holding a serpent or viper in his left hand.
 
-Symbolism: Astaroth encompasses the seduction of worldly knowledge and power, being associated with both temptations of the flesh and aspirations for material wealth. He also represents the dangers of unchecked ambition and the potential for self-destruction.
+**Symbolism**: Astaroth encompasses the seduction of worldly knowledge and power, being associated with both temptations of the flesh and aspirations for material wealth. He also represents the dangers of unchecked ambition and the potential for self-destruction.
 
 3. **Mara (Buddhist Cosmology)**:
 
 Mara is a demonic figure found in Buddhist cosmology, commonly known as the personification of evil and desire that hinders spiritual progress.
 
-Characteristics: Mara is often portrayed as an incredibly tempting and deceptive figure, attempting to seduce followers of the Buddha path. ****While the exact depictions may vary, Mara's ultimate goal remains the same****: to keep individuals bound to the cycle of suffering and rebirth.
+**Characteristics**: Mara is often portrayed as an incredibly tempting and deceptive figure, attempting to seduce followers of the Buddha path. ****While the exact depictions may vary, Mara's ultimate goal remains the same****: to keep individuals bound to the cycle of suffering and rebirth.
 
-Symbolism: Mara embodies the obstacles and temptations that individuals face in their pursuit of enlightenment. In that sense, Mara serves as a reminder of the perpetual struggle between spiritual growth and worldly attachments.
+**Symbolism**: Mara embodies the obstacles and temptations that individuals face in their pursuit of enlightenment. In that sense, Mara serves as a reminder of the perpetual struggle between spiritual growth and worldly attachments.
 
 Upon comparison, these archetypal demonic figures share a number of key characteristics: they all symbolize temptation and falsehoods that lead individuals astray from their paths, whether it be moral, spiritual, or intellectual. The similarities between these figures may be attributed to the universal nature of human fears, desires, and challenges faced by the respective societies.
 

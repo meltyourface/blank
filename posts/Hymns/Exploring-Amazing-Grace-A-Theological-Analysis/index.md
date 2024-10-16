@@ -26,7 +26,7 @@ Written by: John Newton (1725-1807)
 
 Composition Date: 1779
 
-Introduction: 
+**Introduction**: 
 "Amazing Grace" is renowned as one of the most popular and powerful hymns in the Christian tradition. Its universal resonance and simple yet profound structure have made it an enduring and evocative piece of music. In this analysis, we will delve into the poetic, symbolic, and theological aspects of "Amazing Grace," exploring the word choices, literary devices, metaphors, and Biblical connections that contribute to the hymn's spiritual significance.
 
 Linguistic Analysis:

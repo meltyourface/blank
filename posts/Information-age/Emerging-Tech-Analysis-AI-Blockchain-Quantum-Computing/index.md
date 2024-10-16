@@ -28,7 +28,7 @@ Task: Investigate emerging technologies in the Information Age and analyze three
 Current capabilities:
 GPT-4, the successor of the highly successful GPT-3, is an advanced language model capable of understanding and generating human-like text based on the given input. Compared to GPT-3, GPT-4 has increased capability for natural language understanding, task-based dialogue comprehension, multi-turn conversation context, and advanced domain-specific expertise. These improvements allow for stronger performance in tasks such as customer support, content summarization, translation, and more.
 
-Challenges:
+**Challenges**:
 Despite its capabilities, GPT-4 still faces issues like maintaining consistency within conversations, handling ambiguous queries, ensuring accuracy in domain-specific knowledge generation, and mitigating biases in responses. Additionally, computing resources and costs associated with training and deploying GPT-4 can be significant, making widespread access a challenge.
 
 Future implications:
@@ -42,7 +42,7 @@ Ensuring that GPT-4 is utilized ethically involves addressing algorithmic biases
 Current capabilities:
 SSI leverages blockchain technology to provide a decentralized and secure method for individuals to own and control their digital identities. With SSI, individuals can store their data on a distributed ledger, ensuring privacy and security while eliminating the need for centralized identity providers.
 
-Challenges:
+**Challenges**:
 Widespread adoption of SSI faces several obstacles, including lack of standardization, public awareness and understanding, interoperability between different SSI systems, and regulatory frameworks to govern their use.
 
 Future implications:
@@ -56,7 +56,7 @@ To ensure ethical implementation of SSI, regulatory and legal frameworks need to
 Current capabilities:
 Quantum error correction is an essential component of quantum computing, focusing on detecting and correcting errors caused by environmental factors affecting qubits, the building blocks of quantum systems. Quantum error correction helps maximize the performance of quantum computers and maintains accuracy in computations.
 
-Challenges:
+**Challenges**:
 Developing practical, large-scale quantum error correction schemes remains challenging due to the fragility of qubits, the demanding resource requirements, and the necessity for high error thresholds to advance computation capabilities.
 
 Future implications:

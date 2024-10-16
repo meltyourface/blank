@@ -27,7 +27,7 @@ Preparatory Steps:
 
 3. **Gather materials**: Carefully gather the required materials for the ritual. Each item contributes to the consecration of the athame and integration of the All-Seeing Eye energy.
 
-Materials:
+**Materials**:
 
 - Athame: The focal point of the ritual, an athame is a double-edged ceremonial dagger used for directing energies in magical workings.
 - Eye of Providence symbol: The All-Seeing Eye, represented by a triangle surrounding an eye, should be inscribed on a piece of paper or crafted object.
@@ -40,7 +40,7 @@ Materials:
 - Small dish of sea salt: A symbol of protection and cleansing.
 - Incense: Choose a blend that resonates with you, such as sandalwood or patchouli, to set the ritual atmosphere and further cleanse the area.
 
-Ritual:
+**Ritual**:
 
 1. **Prepare the space**: Place the black or deep purple altar cloth on a table or other surface, and arrange the candles in a triangle formation. Put the Eye of Providence symbol in the center, surrounded by the crystals, bowl of water, and dish of salt.
 

@@ -29,25 +29,25 @@ Materials required:
 4. A sacred geometric pattern (Flower of Life)
 5. Chalk or natural paint for drawing the geometric pattern
 
-Preparation:
+**Preparation**:
 1. Choose an area of land that holds personal significance or is known for its rich resources.
 2. Cleanse and purify the area by burning sage and wafting the smoke throughout the space to dispel negativity.
 3. With the chalk or natural paint, draw the sacred geometric pattern (Flower of Life) on the ground.
 4. In the center of the pattern, place the Clear Quartz crystal.
 
-Spell:
+**Spell**:
 1. Within the geometric pattern, arrange the mineral-laden soil around the crystal to form a circle.
 2. Create a second circle using the iron-rich stones, surrounding the soil and the quartz crystal.
 
 Incantation of Ancient Language (Phonetic Pronunciation):
 [Note: This incantation should be chanted according to the lunar phases as follows: New Moon - softly, Waxing Moon - progressively louder, Full Moon - at the peak of your voice, Waning Moon - decrease volume and finally releasing it during a Dark Moon]
 
-Transcription: "Ah-rahm tah-rih, vohr-tehr-nohss,
+**Transcription**: "Ah-rahm tah-rih, vohr-tehr-nohss,
               Mahr-belloh, ah-leh-men-tun,
               Graht-yahm, rih-fee-dee-yeh-tus,
               Ab-boon-dan-ti, ah-dee ay-ah-noom."
 
-Translation: "Mighty earth, eternal vortex,
+**Translation**: "Mighty earth, eternal vortex,
               Marble, elemental seal,
               Grant us, rejuvenation,
               Abundance, until eons."

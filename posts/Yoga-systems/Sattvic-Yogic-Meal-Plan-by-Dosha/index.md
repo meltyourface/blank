@@ -32,7 +32,7 @@ To promote proper digestion and assimilation of nutrients, establish a routine a
 
 Meal Plan:
 
-Breakfast: Options for all doshas:
+**Breakfast**: Options for all doshas:
 1. Sattvic porridge with fruits (cooked in appropriate oil/ghee for each dosha)
 2. Vegetable poha (flattened rice)
 3. Idli (steamed rice cake) and sambar (South Indian lentil soup)
@@ -46,13 +46,13 @@ Vata:
 4. Whole grain flatbread
 5. Almond chutney
 
-Pitta:
+**Pitta**:
 1. Cooling cucumber, avocado, and quinoa salad
 2. Hummus
 3. Cooling coconut curry with basmati rice
 4. Leafy greens
 
-Kapha:
+**Kapha**:
 1. Roasted vegetable, tofu, and brown rice Buddha bowl
 2. Spicy lentil soup
 3. Sauteed bitter greens
@@ -65,17 +65,17 @@ Vata:
 3. Mixed greens salad
 4. Cumin coriander flatbread
 
-Pitta:
+**Pitta**:
 1. Buckwheat noodles with steamed vegetables
 2. Avocado and tomato gazpacho
 3. Veggie sushi rolls
 
-Kapha:
+**Kapha**:
 1. Grilled portobello mushrooms
 2. Quinoa, spinach, and lemon salad
 3. Braised Swiss chard
 
-Snacks: 
+**Snacks**: 
 Vata: Dates, soaked almond/raisins
 Pitta: Sweet fruits, coconut water
 Kapha: Rice cake, apple slices

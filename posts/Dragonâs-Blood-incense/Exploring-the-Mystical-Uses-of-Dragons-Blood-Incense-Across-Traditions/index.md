@@ -26,12 +26,12 @@ Predominantly found in Western Hermetic traditions, ceremonial magic relies heav
 
 In ceremonial magic, Dragon's Blood incense is often blended with other herbs and resins specific to the desired outcome. For example, when aiming to enhance spiritual protection, it may be combined with frankincense and myrrh to create an energetically potent barrier.
 
-Wicca:
+**Wicca**:
 Dragon's Blood incense is a key element in Wiccan practices, where it is known to purify and consecrate sacred spaces and magical tools. It is often used in conjunction with other natural elements – such as water, salt, and earth – to represent and invoke the four classical elements. As a symbol of Fire, Dragon's Blood incense emphasizes the transformative and passionate aspects of the element.
 
 Wiccans use Dragon's Blood incense to heighten their spiritual connection and enhance divination, as the distinctive red resin is thought to tap into the hidden, subconscious aspects of the self. It may also be employed in preparation for rituals pertaining to love, passion, and overcoming obstacles, as the incense bolsters courage and resolve.
 
-Hoodoo:
+**Hoodoo**:
 The African American folk-magic tradition of Hoodoo places strong emphasis on the use of Dragon's Blood incense to enhance the potency of spells and rituals. A defining characteristic of Hoodoo practice is the incorporation of Bible verses and scripture into spellwork, which extends to the use of Dragon's Blood incense. The practice often prescribes its use in tandem with Psalm 23, to facilitate protection, abundance, and an open path for blessings.
 
 Within the Hoodoo tradition, Dragon's Blood incense is often mixed with other herbs, roots, and animal curios, all of which play a role in influencing the desired outcome. For instance, burning Dragon's Blood incense alongside High John the Conqueror root can produce powerful spells for success, luck, and strength.

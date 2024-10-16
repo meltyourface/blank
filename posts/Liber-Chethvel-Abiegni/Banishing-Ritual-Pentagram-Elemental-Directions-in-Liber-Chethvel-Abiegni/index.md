@@ -30,7 +30,7 @@ excerpt: >
 ---
 The Liber Chethvel Abiegni Banishing Ritual of the Pentagram (LCABRP)
 
-Introduction:
+**Introduction**:
 
 The purpose of the LCABRP is to create a purified and protected space by invoking the power of the pentagram and the four elemental directions within the context of the Liber Chethvel Abiegni. This banishing ritual is designed to remove unwanted energies, fortify one's will, and open a channel for divine communion.
 

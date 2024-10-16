@@ -75,4 +75,4 @@ Introduction
 ### 5.4 Body-Based Practices: Grounding and Embodiment of Boundaries
 ### 5.5 Routines and Rituals for Nurturing Self-Awareness and Boundaries
 
-Conclusion: The Lifelong Journey of Self-Discovery and Boundary Alchemy
+**Conclusion**: The Lifelong Journey of Self-Discovery and Boundary Alchemy

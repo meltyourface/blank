@@ -22,7 +22,7 @@ excerpt: >
 ---
 Translation of the Qabalistic Manuscript: "Sepher Yetzirah" (Book of Formation)
 
-Preface:
+**Preface**:
 The Sepher Yetzirah, a foundational text of the Jewish mystical tradition known as Kabbalah, presents a complex and esoteric understanding of the creation of the universe through the manipulation of Hebrew letters and numbers. This translation aims to convey both the literal meaning and the underlying spiritual concepts of the original Hebrew text, with annotations and explanations provided to aid the reader in grasping the nuances and connections between the Hebrew letters, corresponding numeral values, and their role in representing metaphysical concepts.
 
 [Translation begins]

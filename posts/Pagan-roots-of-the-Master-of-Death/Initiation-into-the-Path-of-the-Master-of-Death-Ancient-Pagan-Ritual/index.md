@@ -22,7 +22,7 @@ excerpt: Design an intricate initiation ritual incorporating the deep-rooted Pag
 
 ## The Ritual of Shadows: Initiation into the Path of the Master of Death
 
-Preparation:
+**Preparation**:
 1. Gather ritual tools and items, including a black-themed altar cloth, a black-handled dagger, a cup of wine, a plate of bread or cake, a chalice of water, a censer with incense, a pentacle, and candles in colors corresponding to death deities (e.g., black, white, and red).
 2. Choose a secluded outdoor location with a natural boundary, such as a grove of trees or a circle within a stone arrangement.
 3. Invite the initiates and other members of the tradition, emphasizing the need for mental, emotional, and spiritual readiness.

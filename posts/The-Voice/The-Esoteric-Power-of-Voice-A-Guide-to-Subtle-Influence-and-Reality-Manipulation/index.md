@@ -23,7 +23,7 @@ excerpt: >
 
 ## Title: The Voice - An Arcane Guide to Subtle Reality and Influence
 
-Introduction:
+**Introduction**:
 
 The Voice, a term steeped in mystery and intrigue, has captured the imagination of countless individuals throughout human history, particularly within various occult traditions and secret societies. Known by various names, such as the Logos, the Word, or the Sacred Sound, The Voice is believed to be a potent tool or method for influencing subtle reality—beyond the physical world—through the specific application of vocalized sounds, vibrations, and intention.
 

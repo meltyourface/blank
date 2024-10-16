@@ -26,7 +26,7 @@ The Thirteen Divisions of the Nightside in the Qliphothic Tree of Life
 
 The Thirteen Divisions of the Nightside in the Qliphothic Tree of Life is the aspect most associated with the overarching belief system that aims to return to a state of chaos or uncreation in the context of Anti-cosmic occultism. 
 
-Explanation:
+**Explanation**:
 
 Anti-cosmic occultism is a form of spiritual practice that opposes the material world's cosmic order and strives to return to a state of primordial chaos. The movement's core belief is that the material world is inherently flawed and created by a malevolent or ignorant demiurge, which is why adherents demonstrate opposition to the cosmic order and alignment with chaotic, anti-cosmic, and entropic aspects of reality.
 

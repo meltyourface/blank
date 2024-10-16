@@ -42,10 +42,10 @@ c. ****Raptor Feather****: Feathers from birds of prey, such as eagles or hawks,
 
 3. **Purification and Consecration Techniques**:
 
-Purification:
+**Purification**:
 After crafting the pendulum, purify it with the four elements. Pass the pendulum through incense smoke (Air), a candle flame (Fire), a bowl of water (Water), and finally, sprinkle with salt (Earth). This purification process ensures that the pendulum is cleared of any residual energies it may have absorbed during its creation.
 
-Consecration:
+**Consecration**:
 During a full moon or a significant date in the lunar cycle, hold the pendulum and recite a consecration ritual or prayer, dedicating the pendulum to the purpose of divination and wisdom. Focus your intention on imbuing the pendulum with this specific purpose, and visualize a white light surrounding and permeating the pendulum.
 
 4. **Incorporating Symbols, Sigils, and Inscriptions**:

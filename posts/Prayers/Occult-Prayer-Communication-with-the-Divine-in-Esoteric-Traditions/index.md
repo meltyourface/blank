@@ -38,19 +38,19 @@ Prayer plays a central role in various aspects of the occult and esoteric, from 
 A. Invocatory Prayers
 These forms of prayer call upon specific deities, spirits, or cosmic forces to bear witness, provide guidance, or take an active role in the practitioner's magical workings. Used as an opening or closing to a ritual, invocatory prayers set the stage for the work at hand and establish a connection with the forces being invoked.
 
-Example:
+**Example**:
 The Qabalistic Invocation: A ceremonial prayer invoking the divine names of God and the Archangels, used in Hermetic and Qabalistic practice to establish a connection with the divine forces of the Tree of Life.
 
 B. Petitionary Prayers
 These prayers request assistance, guidance, or intervention from higher powers in support of the practitioner's intentions or desires. Often employed in conjunction with magical spells, rituals, or other operations, petitionary prayers amplify the power and focus of the working, aligning it with the energetic resonance of the cosmos.
 
-Example:
+**Example**:
 The Lesser Banishing Ritual of the Pentagram: Used in ceremonial magic, this prayer is employed to purify and protect sacred space from unwanted energies or entities.
 
 C. Meditative Prayers
 These prayers are centered on quieting the mind, focusing the practitioner's awareness, and facilitating a state of deep communion with the divine. Delving into the realm of mystical and contemplative experience, meditative prayers offer a means of exploring the inner landscape of consciousness and connecting with the true, divine nature of the self.
 
-Example:
+**Example**:
 The Jesus Prayer: A traditional Christian practice, this simple but powerful prayer ("Lord Jesus Christ, Son of God, have mercy on me, a sinner") serves as an anchor to center the practitioner and draw their mind toward contemplative awareness of the divine.
 
 ### IV. Adapting and Personalizing Prayers for the Practitioner's Spiritual Journey

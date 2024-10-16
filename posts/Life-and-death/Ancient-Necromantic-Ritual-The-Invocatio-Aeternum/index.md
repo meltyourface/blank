@@ -21,11 +21,11 @@ excerpt: Develop a multilayered necromantic incantation, incorporating ancient l
 ---
 To complete this task, I present the Invocatio Aeternum, a multilayered necromantic incantation that incorporates ancient languages, symbolic gestures, and powerful magick to protect the caster and enable an open dialogue between our realm and the afterlife:
 
-Invocation:
+**Invocation**:
 1. Stand in the center of a circle drawn with a salt mixture to ensure protection. Light candles made of beeswax at the four cardinal points within the circle (North, South, East, West). Each candle represents an ancient elemental guardian (Earth, Fire, Air, and Water).
 2. Hold a staff made of yew wood in your left hand, symbolizing your mastery over life and death, and a bell in your right hand to signal your intention to communicate with the deceased.
 
-Incantation:
+**Incantation**:
 3. **Chant the following in Latin to summon the protective forces that will guard you during the invocation**:
 
 "Voco te tutela, custodes elementorum
@@ -33,12 +33,12 @@ Terrae, Ignis, Aer, et Aqua, protegite me
 Ab omni malo, et periculo spirituum.
 Hanc artem facio sub invocationis vestrae."
 
-Translation: "I call upon you, guardians of the elements, Earth, Fire, Air, and Water, protect me from all evil and spiritual harm. I perform this art under your invocation."
+**Translation**: "I call upon you, guardians of the elements, Earth, Fire, Air, and Water, protect me from all evil and spiritual harm. I perform this art under your invocation."
 
-Gestures:
+**Gestures**:
 4. While chanting, raise your staff, pointing it towards the sky, and the bell up high, signaling your intentions to the guardians. Then lower your staff to the ground in a sweeping motion to form a protective barrier, and ring the bell three times. The connection is now established and protected.
 
-Incantation:
+**Incantation**:
 5. Invoke the spirit you wish to communicate with by chanting the following in Aramaic, while visualizing their face in your mind:
 
 "Ruha d'qudshta men abbā qādīshā
@@ -46,12 +46,12 @@ Incantation:
 Āmārēh yā āduqār, bānāman šama'īnim malkūtā.
 Chawtām fīnāyā. Ītāwal u 'īt kathārēt bānāman."
 
-Translation: "Holy spirit from the divine father, grant me the sacred vision, to see the one who has passed. Speak to me through eternity's veil, revealing truth and clarity in their name."
+**Translation**: "Holy spirit from the divine father, grant me the sacred vision, to see the one who has passed. Speak to me through eternity's veil, revealing truth and clarity in their name."
 
-Gestures:
+**Gestures**:
 6. Slowly swirl the staff clockwise in front of your body, gradually transitioning to counter-clockwise motion as you chant, forming spirals in the air. This motion channels the energies to open the metaphysical connection to the spirit world.
 
-Closing:
+**Closing**:
 7. Once communication is complete, thank the spirit and the guardians for their assistance, verbally expressing gratitude and acknowledging the privilege of the connection.
 8. **Chant the following Latin phrase to break the connection to the spirit world safely**:
 
@@ -59,9 +59,9 @@ Closing:
 Redeo ad meum mundum, vos redite ad vestrum.
 Nexus dissolvatur, et pax semper nobiscum."
 
-Translation: "I thank you, guardians and spirits, I return to my world as you return to yours. Let the connection dissolve, and peace remain between us."
+**Translation**: "I thank you, guardians and spirits, I return to my world as you return to yours. Let the connection dissolve, and peace remain between us."
 
-Gestures:
+**Gestures**:
 9. To finalize the disconnection, tap the yew staff firmly on the ground three times and blow out the candles. This action signifies the return to our realm and the sealing off of the spirit world.
 
 Remember, only those with a profound understanding of the occult arts should attempt the Invocatio Aeternum, as misuse can lead to spiritual and metaphysical consequences.

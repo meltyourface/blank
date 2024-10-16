@@ -22,7 +22,7 @@ excerpt: Investigate and compile a comprehensive report on the lives of five les
 
 ## Title: The Radiant Five: A Comprehensive Study of the Lives & Legacies of Lesser-known Saintly Queens and Princesses
 
-Introduction:
+**Introduction**:
 
 This report delves into the lives of five lesser-known saintly Queens and princesses, carefully studying their unique deeds and contributions to the spiritual developments of their subjects and the kingdoms they governed. The aim of this investigation is to highlight these remarkable women's stories, leaving no stone unturned as we uncover their histories and reveal their significance.
 
@@ -46,6 +46,6 @@ St. Elisabeth was the daughter of King Andrew II of Hungary. At age 14, she marr
 
 St. Jadwiga, also known as Hedwig, was the first female monarch of the Kingdom of Poland. She was married to the Grand Duke of Lithuania, Jogaila, and played an instrumental role in his conversion to Christianity, leading to Poland and Lithuania's lasting alliance and the eventual formation of the Polish-Lithuanian Commonwealth. Jadwiga was not only a skilled diplomat but also a great benefactress of arts, letters, and religion. Her patronage led to the foundation of the Jagiellonian University in Kraków, and she was known for her personal acts of charity for the poor and infirm. Her strong devotion to the Church and intercession in times of trouble led to canonization in 1997.
 
-Conclusion:
+**Conclusion**:
 
 The lives of these lesser-known saintly Queens and princesses demonstrate their unwavering devotion to both their faith and their subjects. Their exceptional contributions to their respective kingdoms, whether through the establishment of institutions promoting education and healthcare or through the tireless engagement in charitable works, inspire admiration and reverence. These radiant historical figures have left lasting legacies, enhancing society's spiritual well-being for generations.

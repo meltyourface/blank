@@ -23,7 +23,7 @@ excerpt: >
 
 ## The Necronomicon: Authentic Origins, Cryptic Contents and Credibility Within Theorica Thanatos and Occult Literature
 
-Abstract:
+**Abstract**:
 
 The Necronomicon, a mysterious and controversial grimoire, has piqued the interest and skepticism of occultists and scholars for centuries. This dissertation delves into the authentic origins of the Necronomicon, its cryptic contents from the perspective of Theorica Thanatos, and its credibility amongst other prominent works of occult literature. A comparative analysis is drawn between the Necronomicon and additional influential texts, along with an examination of the correlating practices that bind together the complex web of occultism.
 

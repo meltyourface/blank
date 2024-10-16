@@ -23,20 +23,20 @@ excerpt: >
 
 ## Title: Planetary Alignment and Chakra Attunement Ritual
 
-Purpose: To align and attune the practitioner's chakras, meridians, and subtle energy pathways with the selected planetary energies.
+**Purpose**: To align and attune the practitioner's chakras, meridians, and subtle energy pathways with the selected planetary energies.
 
 Primary Planetary Correspondence: Venus (For love, harmony, and inner balance)
 
 Associated Elements: Earth & Water
 
-Materials:
+**Materials**:
 
 1. Planetary sigil of Venus
 2. **Incense**: Sandalwood, Jasmine, or Rose
 3. **Colors**: Green and Pink cloth/ribbons
 4. **Crystals**: Rose Quartz, Emerald, Amethyst
 
-Preparation:
+**Preparation**:
 
 1. Choose a suitable date and time that corresponds with Venusian energies. Optimal choices include a Friday, during the hour of Venus, and when Venus is in a favorable astrological position (ideally when Venus is in Libra or Taurus).
 
@@ -54,7 +54,7 @@ Preparation:
 
 4. Light the incense at each corner of your ritual space.
 
-Ritual:
+**Ritual**:
 
 1. Stand or sit in a comfortable posture in the center of your ritual space, close to the Venus sigil.
 

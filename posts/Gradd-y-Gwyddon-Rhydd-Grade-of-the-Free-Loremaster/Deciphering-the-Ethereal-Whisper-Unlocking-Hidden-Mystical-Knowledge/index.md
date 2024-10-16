@@ -23,7 +23,7 @@ excerpt: Compose an in-depth exegesis on a previously undiscovered passage from 
 
 ## The Enigmatic Tract of the Ethereal Whisper
 
-Passage: "Drona'sparcana torinthae, aknobe mistoriath gravenor. Nascient ystred falthom, xaphenon uxthul thravear."
+**Passage**: "Drona'sparcana torinthae, aknobe mistoriath gravenor. Nascient ystred falthom, xaphenon uxthul thravear."
 
 In-depth Exegesis:
 

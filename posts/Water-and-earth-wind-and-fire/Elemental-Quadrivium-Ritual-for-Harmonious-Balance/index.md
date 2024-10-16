@@ -23,9 +23,9 @@ excerpt: Devise an elaborate ritual incorporating the manipulation of the four e
 
 ## Title: The Ritual of the Elemental Quadrivium
 
-Purpose: To manifest a harmonious balance among the four elements and synergize their powers for a highly effective and captivating enchantment. This ritual is ideal for initiation, personal growth, and strengthening the connection to the elemental energies within and around us.
+**Purpose**: To manifest a harmonious balance among the four elements and synergize their powers for a highly effective and captivating enchantment. This ritual is ideal for initiation, personal growth, and strengthening the connection to the elemental energies within and around us.
 
-Preparation:
+**Preparation**:
 1. Choose a suitable location outdoors, where all four elements can be safely accessed and utilized. A location near a body of water, with woodlands or open fields, and plenty of room to move about is ideal.
 2. **Gather tools to represent each element**:
    - Water: A chalice filled with water collected from a natural source

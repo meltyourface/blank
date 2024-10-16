@@ -22,7 +22,7 @@ excerpt: Design and execute a comprehensive ceremonial rite dedicated to venerat
 
 ## Rite of the Four Raven Guardians
 
-Purpose: To venerate the four mythical raven guardians, each representing a cardinal direction, and invoke their protection and guidance.
+**Purpose**: To venerate the four mythical raven guardians, each representing a cardinal direction, and invoke their protection and guidance.
 
 ### I. Preparations
 

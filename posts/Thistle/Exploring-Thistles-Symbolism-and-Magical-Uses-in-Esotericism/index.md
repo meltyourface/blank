@@ -23,7 +23,7 @@ excerpt: >
 
 ## Thistle - The Enigmatic Herb of Esoteric Wisdom
 
-Introduction:
+**Introduction**:
 Thistle, a resilient and sharp-leaved plant, has long been associated with the realm of mysticism and the occult. Boasting a storied history, Thistle has ties to various cultures and belief systems, making it a versatile and powerful tool for magicians, alchemists, and those aspiring in the esoteric arts. This chapter will explore Thistle as a key symbol, its significance in rituals, correspondences with elements, celestial bodies, and deities, and provide guidance on incorporating Thistle into your own practices.
 
 ### I. **Symbolism of the Thistle**:
@@ -46,5 +46,5 @@ Elementally, Thistle corresponds to fire, symbolizing its fierce and protective 
 
 3. **Offerings**: As an offering to deities, particularly those associated with war, protection, or healing, place fresh Thistle flowers or a bowl of Thistle-infused water upon your altar. This act shows respect, deep reverence, and an understanding of the powers for which the gods and goddesses are known.
 
-Conclusion:
+**Conclusion**:
 Thistle, with its rich and complex symbolism, offers valuable insights and understanding for those seeking to deepen their esoteric practices. By learning about and engaging with the plant's various correspondences and uses, initiates can unlock the potent and transformative power of Thistle. Incorporate this enigmatic herb into your ritual work to better comprehend the mysteries of the occult, enhancing your resilience, strength, and spiritual growth along your journey.

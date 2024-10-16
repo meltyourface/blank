@@ -34,7 +34,7 @@ Key Concepts
 
 Enochian Language: One of the most significant contributions of John Dee's Angelic work is the Enochian language, which constitutes an intricate and highly-structured linguistic system. It was believed to be the language of Angels and was revealed to Dee and Kelley during their scrying sessions. The Enochian language consists of 21 letters, governed by corresponding rules of syntax and grammar, making it a distinct magical language with its unique alphabet, called the "Enochian script."
 
-Scrying: Scrying refers to the art of gazing into a reflective or translucent surface, such as a crystal ball or pool of water, to access visions, symbols, or spiritual insights. Dee and Kelley utilized these methods to communicate with Angels, who, in turn, provided guidance, knowledge, and the ability to interpret complex systems like the Enochian language.
+**Scrying**: Scrying refers to the art of gazing into a reflective or translucent surface, such as a crystal ball or pool of water, to access visions, symbols, or spiritual insights. Dee and Kelley utilized these methods to communicate with Angels, who, in turn, provided guidance, knowledge, and the ability to interpret complex systems like the Enochian language.
 
 Dee-Kelley Collaboration: The relationship between John Dee and Edward Kelley was instrumental in the development of Angelic practices. While Dee possessed the academic foundation, Kelley served as the medium of communication, claiming to possess the power of scrying, which facilitated their celestial interactions. Though fraught with occasional conflicts and ethical dilemmas, their collaboration led to the unveiling of previously unknown mystical realms.
 

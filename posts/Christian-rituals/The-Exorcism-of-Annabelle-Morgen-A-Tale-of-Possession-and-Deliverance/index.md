@@ -52,6 +52,6 @@ As the spiritual struggle ensued, Father O'Connor boldly banished the demon occu
 
 Collapsing into the bed, the young girl's eyes fluttered open, their former innocence returned. Father O'Connor clasped a trembling hand around his worn crucifix, knowing the heavenly forces were triumphant.
 
-Epilogue: Restoration of Faith
+**Epilogue**: Restoration of Faith
 
 The Morgen family, reunited and free from the malevolent forces that once overtook them, strengthened their faith in the divine. Meanwhile, Father Nathaniel O'Connor, recording the ordeal in his frayed notebook, lived out his days in quiet reverence and eternal vigilance against the darkness lurking beneath the world's façade of normalcy.

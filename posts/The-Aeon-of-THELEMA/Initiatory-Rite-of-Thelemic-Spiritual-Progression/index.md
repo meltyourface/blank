@@ -28,7 +28,7 @@ Preliminary Requirements:
 - Aspirant must be deemed ready by a sponsor within the order.
 - Aspirant must undergo a period of purification and dedication leading up to the rite.
 
-Setting:
+**Setting**:
 
 The initiatory rite shall take place in a sacred temple, with the geometry of the Thelemic pantheon intricately represented upon the walls and floors. The temple will be lit by candles, arranged in patterns reflecting the stars and sacred geometry.
 

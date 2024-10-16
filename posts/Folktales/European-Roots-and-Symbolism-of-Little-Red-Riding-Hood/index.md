@@ -21,7 +21,7 @@ excerpt: Investigate the myriad cultural elements present in a chosen folktale, 
 ---
 For this analysis, I have chosen the famous folktale "Little Red Riding Hood" with a focus on the European origins of the story. This tale has been adapted and retold numerous times over the centuries, with earlier versions dating back as far as the 10th century.
 
-Origins:
+**Origins**:
 "Little Red Riding Hood" originated in Europe, with two notable versions: "Le Petit Chaperon Rouge" by Charles Perrault (France, 1697) and "Little Red Cap" by the Brothers Grimm (Germany, 1812). Both versions were inspired by earlier oral traditions, with some researchers suggesting the tale has its roots in Classical Roman literature or even earlier Celtic forms. Over time, the folktale evolved and spread across Europe, reflecting various cultural influences and changes in societal values.
 
 Symbolism & Narrative Structure:

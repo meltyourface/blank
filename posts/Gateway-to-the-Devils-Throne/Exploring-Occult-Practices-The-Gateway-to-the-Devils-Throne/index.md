@@ -40,7 +40,7 @@ The Blood Key: As is true with many occult practices, the life force contained w
 
 Symbols and Key Figures
 
-Baphomet: A vital symbol in the realm of the occult, Baphomet represents the androgynous embodiment of balance, both in the material and metaphysical realms. Often depicted as a goat-headed being, Baphomet serves as a potent conduit for the energies sought by those venturing towards the Devil's Throne.
+**Baphomet**: A vital symbol in the realm of the occult, Baphomet represents the androgynous embodiment of balance, both in the material and metaphysical realms. Often depicted as a goat-headed being, Baphomet serves as a potent conduit for the energies sought by those venturing towards the Devil's Throne.
 
 The Horned King: A recurring figure in the annals of occult history, the Horned King embodies the essence of the Devil's power. Seen as the lord and protector of the infernal domains, the Horned King is a necessary figure to invoke when traversing the Gateway.
 

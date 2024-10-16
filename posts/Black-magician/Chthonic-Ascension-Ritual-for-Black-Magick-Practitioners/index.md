@@ -23,7 +23,7 @@ excerpt: >
 
 ## Title: The Chthonic Ascension Ritual
 
-Objective: 
+**Objective**: 
 To deepen the meditative trance of a Black Magician, facilitating the strengthening of their connection to the darkest energies of the universe.
 
 Materials Needed:
@@ -45,7 +45,7 @@ Ritual Preparation:
 4. Arrange the 5 black candles around the chalice, positioning them at the points of an inverted pentagram.
 5. Place the ritual dagger and the sigil representing the inner darkness next to the chalice.
 
-Ritual:
+**Ritual**:
 
 1. Light the incense and let it fill the area with its scent.
 2. Sit or kneel comfortably in front of the altar.

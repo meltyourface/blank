@@ -22,7 +22,7 @@ excerpt: Develop a comprehensive and eco-friendly waste management plan specific
 
 ## High-Altitude Mountaineering Eco-Friendly Waste Management Plan
 
-Objective: To develop and implement a comprehensive waste management plan addressing unique challenges and requirements of remote mountain environments, aiming to minimize waste generation, promote efficient transport and disposal, and optimize waste-to-resource initiatives.
+**Objective**: To develop and implement a comprehensive waste management plan addressing unique challenges and requirements of remote mountain environments, aiming to minimize waste generation, promote efficient transport and disposal, and optimize waste-to-resource initiatives.
 
 ### I. Waste Reduction Measures
 1. Minimize packaging: Request supplies and food providers to use minimal and, if possible, biodegradable or reusable packaging.

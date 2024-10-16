@@ -21,7 +21,7 @@ excerpt: Devise a ritualistic procedure tailored to the Midnight Emissary domain
 ---
 Task: Devise a ritualistic procedure tailored to the Midnight Emissary domain for invoking and banishing the energies of sacred space, incorporating esoteric symbols, incantations, and offerings for heightened spiritual potency and protection.
 
-Ritual: The Veil of Nightfall
+**Ritual**: The Veil of Nightfall
 
 The Veil of Nightfall is a sacred ritual designed to invoke and banish the spiritual energies of a sacred space, providing both spiritual potency and protection within its confines. It is a series of actions based on the esoteric symbols, incantations, and offerings that harness the mysterious powers of the Midnight Emissary domain.
 **Step 1**: Prepare the Altar

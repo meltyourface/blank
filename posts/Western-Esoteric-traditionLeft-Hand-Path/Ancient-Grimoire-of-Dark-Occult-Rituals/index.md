@@ -22,7 +22,7 @@ excerpt: Design an intricate, dark grimoire deeply rooted in the Western Left Ha
 
 ## The Tome of Obsidian Shadows
 
-Introduction:
+**Introduction**:
 
 The Tome of Obsidian Shadows is an ancient and dark grimoire that dates back to the early days of Western esotericism. Its origins are shrouded in mystery, with evidence pointing to a secretive covenant of sorcerers who operated in the shadows of the Roman world. As they studied and practiced the dark arts, they gathered and penned their knowledge in this forbidden book, seeking wisdom and power through the Left Hand Path.
 
@@ -50,6 +50,6 @@ The final chapter of the Tome of Obsidian Shadows reveals the enigmatic authors 
 
 Through their descent, the Covenant of Shadows sought to wield this power, but the forces of darkness demand payment. Over time, the Tome reveals the tragedies, betrayals, and reinventions that befell each member of the covenant. Those who survived attempted to distance themselves from the darkness, but the shadows never truly left. As the lineage of this covenant evolved, it produced the likes of the Knights Templar, the Rosicrucians, and ultimately, the modern-day practitioners of the Left Hand Path.
 
-Conclusion:
+**Conclusion**:
 
 The Tome of Obsidian Shadows weaves together a rich tapestry of dark arts, sinister rituals, and evocative symbols that are inseparably tied to the Western Left Hand Path. Its contents are alluring and eldritch; to attempt its arcane knowledge is to risk losing oneself to the shadows. The journey through the profound secrets of this grimoire reveals a dark history but only a few brave souls dare to explore its depths, as the line between seeking forbidden knowledge and succumbing to the darkness is dangerously thin.

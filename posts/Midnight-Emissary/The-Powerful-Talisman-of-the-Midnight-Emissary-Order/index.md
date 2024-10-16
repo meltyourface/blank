@@ -24,7 +24,7 @@ Upon receiving the ancient talisman belonging to the Midnight Emissary order, I 
 Description of the Talisman: 
 The talisman is a blackened oval device made of obsidian, measuring approximately 7 centimeters in length and 4 centimeters wide. On its surface, faint etchings of silver depict a serpent coiled around a crescent moon, its tail pointing to the center, representing infinity, and unity.
 
-CREATOR:
+**CREATOR**:
 Through extensive research and with my mastery in the occult, I have found that the talisman was created by Thaldran the Wise, a reputed mystic and high-ranking member of the Midnight Emissary order during the early dark ages (circa 600 AD) in Europe.
 
 INTENDED PURPOSE:

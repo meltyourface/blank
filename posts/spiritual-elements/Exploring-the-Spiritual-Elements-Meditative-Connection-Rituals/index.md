@@ -37,13 +37,13 @@ Over the centuries, the spiritual elements have been incorporated into various s
 
 Each of the four spiritual elements possesses unique characteristics and properties, which can be understood through their symbolic and energetic expressions.
 
-Earth: Earth represents the solid, stable aspect of nature and corresponds to qualities such as patience, persistence, and practicality. In a spiritual context, Earth is associated with the material realm, grounding energy, and bodily senses.
+**Earth**: Earth represents the solid, stable aspect of nature and corresponds to qualities such as patience, persistence, and practicality. In a spiritual context, Earth is associated with the material realm, grounding energy, and bodily senses.
 
-Air: Air signifies the ever-changing, unpredictable energy of the wind and sky, representing qualities such as intelligence, communication, and adaptability. It corresponds with the mental realm, governing thoughts, ideas, and logical reasoning.
+**Air**: Air signifies the ever-changing, unpredictable energy of the wind and sky, representing qualities such as intelligence, communication, and adaptability. It corresponds with the mental realm, governing thoughts, ideas, and logical reasoning.
 
-Water: Water is fluid, adaptable, yet powerful, representing the emotional realm, intuition, and the subconscious mind. It embodies qualities of receptivity, reflection, and inner wisdom, and often deals with feelings, dreams, and psychic abilities.
+**Water**: Water is fluid, adaptable, yet powerful, representing the emotional realm, intuition, and the subconscious mind. It embodies qualities of receptivity, reflection, and inner wisdom, and often deals with feelings, dreams, and psychic abilities.
 
-Fire: Fire represents the transformative energy of ignition, heat, and light, embodying passion, willpower, and determination. In the spiritual context, Fire corresponds with the domain of action, creativity, and spiritual inspiration.
+**Fire**: Fire represents the transformative energy of ignition, heat, and light, embodying passion, willpower, and determination. In the spiritual context, Fire corresponds with the domain of action, creativity, and spiritual inspiration.
 
 ### 1.3 Harnessing the Powers of the Spiritual Elements
 

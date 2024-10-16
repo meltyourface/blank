@@ -21,7 +21,7 @@ excerpt: Devise a comparative analysis between two distinct adagia, elucidating 
 ---
 To address this knowledge challenge, I will provide a comparative analysis between the adagia "As above, so below" and "Know thyself," elucidating their origin, core principles, and cultural implications. Additionally, I'll examine the potential interconnections that may foster transcendent insights into the nature of esoteric wisdom.
 
-Origin:
+**Origin**:
 1. "As above, so below": This adage is derived from the ancient Hermetic texts, specifically the Emerald Tablet, a short work attributed to Hermes Trismegistus. It is believed to have originated in Hellenistic Egypt, where Greek and Egyptian cultural influences blended. The text is foundational for the Western esoteric tradition.
 
 2. **"Know thyself"**: This adage is attributed to the Greek philosopher Socrates, a key figure in the development of Western philosophy. It was inscribed at the entrance of the Temple of Apollo at Delphi and was one of the three maxims carved in the pronaos (forecourt).

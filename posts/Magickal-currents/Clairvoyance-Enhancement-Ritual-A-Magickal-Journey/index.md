@@ -22,9 +22,9 @@ excerpt: Devise an intricate ritual to amplify one's innate clairvoyant talents 
 
 ## Ritual of the All-Seeing Eye
 
-Objective: To amplify one's innate clairvoyant talents.
+**Objective**: To amplify one's innate clairvoyant talents.
 
-Ingredients:
+**Ingredients**:
 1. Moonstone crystal: For enhancing psychic abilities and intuition.
 2. An amethyst crystal: For spiritual growth and wisdom.
 3. Mugwort: Known to enhance psychic abilities during dream state.

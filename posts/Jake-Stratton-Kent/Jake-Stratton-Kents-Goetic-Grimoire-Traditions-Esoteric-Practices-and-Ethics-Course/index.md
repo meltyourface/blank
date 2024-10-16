@@ -23,7 +23,7 @@ excerpt: >
 ---
 Course Title: The Esoteric World of Jake Stratton-Kent: Unveiling the Secrets of Goetic Practice and Grimoire Traditions
 
-Objective: This course aims to provide students with a comprehensive understanding of Jake Stratton-Kent's unique approach to occultism and esoteric traditions, particularly his emphasis on Goetic practice and the grimoire tradition.
+**Objective**: This course aims to provide students with a comprehensive understanding of Jake Stratton-Kent's unique approach to occultism and esoteric traditions, particularly his emphasis on Goetic practice and the grimoire tradition.
 
 Syllabus Overview:
 

@@ -22,7 +22,7 @@ excerpt: Design a bespoke sacred circle invocation for a wedding rite that incor
 
 ## The Union of Celestial Harmony
 
-Introduction:
+**Introduction**:
 The Union of Celestial Harmony is a unique and deeply intimate wedding ceremony designed to celebrate the love, passion, and spiritual connection between the couple. Drawing upon the rich esoteric and occult traditions of marriage, this bespoke ceremony incorporates the couple's astrological signs, personal relationship history, and shared cultural and spiritual beliefs, weaving together a tapestry of symbols, rituals, and blessings that resonate with their deepest desires and aspirations.
 
 Sacred Circle Invocation:

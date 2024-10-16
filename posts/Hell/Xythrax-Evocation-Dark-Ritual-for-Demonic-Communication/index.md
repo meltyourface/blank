@@ -48,7 +48,7 @@ Ulk'ath dor en'athch, Morgh'tha vuul Draal,
 Yrth'nah Kro'el, rahsh'tor voth yrel'shul,
 K'al Azrath, Xythrax, Luu'gor amoth'ul."
 
-Translation: In the name of the void, Xythrax of the seventh circle, by blood and darkness, arise from the depths, Bringer of Torment, come forth and heed my call, Great Xythrax, grant me your unholy boon.
+**Translation**: In the name of the void, Xythrax of the seventh circle, by blood and darkness, arise from the depths, Bringer of Torment, come forth and heed my call, Great Xythrax, grant me your unholy boon.
 
 5. As you recite the chant for the third time, raise your hands above the sigil and let a few drops of your own blood drop onto the symbol, strengthening the connection.
 
@@ -61,7 +61,7 @@ Yrn'rach Xythrax, Shan'rath nak tor druul,
 Zan'thathgor, Uhk'ratho hyth Morak gruul,
 Vrath'yl Makrath, Xythrax, yer'nul fhoor."
 
-Translation: Shadows arise, scions of darkness, empower me, Immortal Xythrax, grant me strength in my infernal pursuits; by the depths of the abyss, I pledge my devotion, Lord Xythrax, enslave my soul.
+**Translation**: Shadows arise, scions of darkness, empower me, Immortal Xythrax, grant me strength in my infernal pursuits; by the depths of the abyss, I pledge my devotion, Lord Xythrax, enslave my soul.
 
 8. Maintain a deep meditation, opening yourself to Xythrax's presence, and await his response. He may manifest as a vision, a whisper, or an infernal presence.
 

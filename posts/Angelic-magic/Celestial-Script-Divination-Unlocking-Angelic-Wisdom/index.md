@@ -32,7 +32,7 @@ excerpt: >
 ---
 The Celestial Script Divination System
 
-Introduction:
+**Introduction**:
 
 The Celestial Script Divination System is an innovative method of divination that invokes the sacred script of the angelic alphabet derived from ancient esoteric sources. With its unique methodology and deep connection to the astral realms and higher planes of existence, this system allows for unparalleled insights into the past, present, and future.
 

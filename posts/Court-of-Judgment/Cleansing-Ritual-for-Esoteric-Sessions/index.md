@@ -22,13 +22,13 @@ excerpt: Outline a comprehensive preparatory cleansing ritual to be performed pr
 
 ## The Ritual of the Veil of Stars
 
-Objective: To outline a comprehensive cleansing ritual, to be performed prior to initiating a session within the esoteric and occult domain of the Court of Judgment, encompassing:
+**Objective**: To outline a comprehensive cleansing ritual, to be performed prior to initiating a session within the esoteric and occult domain of the Court of Judgment, encompassing:
 
 1. Purification of the sacred space
 2. Purification of the spiritual practitioners
 3. Purification of the ritual tools and symbols
 
-Components: 
+**Components**: 
 
 1. Black salt
 2. White salt

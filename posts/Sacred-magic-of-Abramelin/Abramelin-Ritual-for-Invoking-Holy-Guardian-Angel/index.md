@@ -21,7 +21,7 @@ excerpt: Develop a comprehensive list of supplementary materials, tools, and adv
 ---
 Ritual: Invocation of the Holy Guardian Angel
 
-Objective: To establish a strong and continuous connection with one's personal Holy Guardian Angel (HGA) for the purpose of attaining spiritual guidance, heightened awareness, and mastering one's True Will.
+**Objective**: To establish a strong and continuous connection with one's personal Holy Guardian Angel (HGA) for the purpose of attaining spiritual guidance, heightened awareness, and mastering one's True Will.
 
 Supplementary materials:
 

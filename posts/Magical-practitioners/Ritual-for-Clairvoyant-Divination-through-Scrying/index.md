@@ -22,7 +22,7 @@ excerpt: Design an intricate ritual for clairvoyant divination, specifically tai
 
 ## The Rite of the Veiled Mirror
 
-Objective: Clairvoyant Divination through Scrying using a Consecrated Crystal Ball
+**Objective**: Clairvoyant Divination through Scrying using a Consecrated Crystal Ball
 
 Ideal Lunar Phase: Full Moon or Waxing Gibbous (this will provide a strong lunar energy to enhance divination abilities)
 

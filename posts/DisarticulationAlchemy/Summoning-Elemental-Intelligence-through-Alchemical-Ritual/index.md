@@ -22,7 +22,7 @@ excerpt: Design an intricate DisarticulationAlchemy ceremony for summoning the q
 
 ## The Cerulean Echoes
 
-Objective: Summoning the quintessential-elemental consciousness residing within an artifact's alchemic core
+**Objective**: Summoning the quintessential-elemental consciousness residing within an artifact's alchemic core
 
 PREPARATION
 1. **Resource Gathering**: Gather the necessary resources for the ritual, including a Vyreum Crystal, sacred salt, a golden sacrificial knife, an elemental artifact, pure silver threads, candles encased in amethyst crystals, and a parchment with ink for drawing symbols.
@@ -38,7 +38,7 @@ CEREMONY
 
 2. **Elemental Calling**: Raise your arms above your head and call upon the elements to assist in the summoning process. Visualize the elemental energies converging into the ritual's space. **Recite this invocation for each element**:
 
-Air: "Anaryah pael, ancira tu'um vael."
+**Air**: "Anaryah pael, ancira tu'um vael."
 Fire: "Firael pyros, feir enkara nu'bereum."
 Water: "Wyvera undel, ushira naroom de'lym."
 Earth: "Terraera chorum, talum rae na'bragum."
@@ -58,7 +58,7 @@ COMPLETION
 
 3. **Thanking the Elements**: Thank the four elements for their presence and guidance, releasing them in reverse order (earth, water, fire, and air) by reciting their respective verses:
 
-Earth: "Terraera chorum, solym rae nara'bav."
+**Earth**: "Terraera chorum, solym rae nara'bav."
 Water: "Wyvera undel, delara nata'wen."
 Fire: "Firael pyros, korbel en'valenti."
 Air: "Anaryah pael, sarum ver tal."

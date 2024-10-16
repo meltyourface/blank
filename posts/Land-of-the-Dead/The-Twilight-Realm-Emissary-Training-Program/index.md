@@ -33,7 +33,7 @@ excerpt: >
 
 ## The Twilight Ascendancy Program (TAP)
 
-Duration: 2 years (including 3 months of assessment and evaluation)
+**Duration**: 2 years (including 3 months of assessment and evaluation)
 
 Phase I: Initiation and Language Acquisition (6 months)
 

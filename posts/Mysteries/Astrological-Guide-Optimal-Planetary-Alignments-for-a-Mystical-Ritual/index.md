@@ -23,7 +23,7 @@ To prepare an in-depth astrological electoral chart for a sacred ritual ceremony
 
 After careful analysis, I suggest the following date, time, and planetary alignments for the sacred ritual:
 
-Date: March 20th, 2023
+**Date**: March 20th, 2023
 Time: 11:00 PM (local time)
 Location: Anywhere with a clear view of the sky, preferably in a natural environment
 

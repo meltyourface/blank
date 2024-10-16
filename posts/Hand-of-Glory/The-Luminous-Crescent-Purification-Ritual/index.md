@@ -21,7 +21,7 @@ excerpt: Compose a detailed purification ritual to cleanse and consecrate object
 ---
 The Purification Ritual of the Luminous Crescent
 
-Purpose: To cleanse and consecrate objects or areas affected by the malevolent powers of the Hand of Glory and to restore balance by counteracting its energies.
+**Purpose**: To cleanse and consecrate objects or areas affected by the malevolent powers of the Hand of Glory and to restore balance by counteracting its energies.
 
 Materials required:
 
@@ -35,7 +35,7 @@ Materials required:
 8. Olive oil
 9. Sacred symbols and sigils, depending on personal faith
 
-Preparation:
+**Preparation**:
 
 1. Clean the area where the ritual will be performed.
 2. Place the four circle-inscribed candles in each cardinal direction (north, east, south, west).

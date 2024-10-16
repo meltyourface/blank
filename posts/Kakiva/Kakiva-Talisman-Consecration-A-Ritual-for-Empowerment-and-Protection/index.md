@@ -21,7 +21,7 @@ excerpt: Design and execute a comprehensive Kakiva consecration ceremony to imbu
 ---
 Task: Design and execute a comprehensive Kakiva consecration ceremony to imbue a sigil-adorned talisman with the protective and empowering energies of the Five Esoteric Pillars. Account for the appropriate lunar phase, ceremonial attire, and sacred geometry in the ritual space. Incorporate the invocation of deities or primordial forces and the utilization of potent incenses, anointing oils, and crystals to enhance the talisman's efficacy. Document the protocol for preserving the talisman's integrity and suggest potential applications in various occult practices.
 
-Design:
+**Design**:
 Before we start the consecration ceremony, we need to ensure the appropriate conditions for the ritual space, materials, and participants.
 
 1. Lunar Phase: To maximize the protective qualities of the talisman, the ceremony should be conducted during the full moon, which is the peak of the lunar energy, and suitable for rituals related to protection, power, and manifestation.
@@ -30,7 +30,7 @@ Before we start the consecration ceremony, we need to ensure the appropriate con
 
 3. Sacred Geometry: An altar shall be arranged at the center of the ritual space, and a sacred circle will be drawn around it according to the principles of sacred geometry. The circle embodies the protective energies of the Five Esoteric Pillars, and the altar represents the gateway between the physical and spiritual realms.
 
-Execution:
+**Execution**:
 Following the design, the Kakiva consecration ceremony proceeds as follows:
 
 1. Begin by cleansing the ritual space and participants using a sage smudge stick. This rids the area of any negative energies or entities that may be present.

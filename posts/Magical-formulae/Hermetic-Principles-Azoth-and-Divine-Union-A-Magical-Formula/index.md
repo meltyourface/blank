@@ -35,9 +35,9 @@ At their core, the seven Hermetic principles, the concept of Azoth, and the axio
 
 A magical formula that embodies these themes can be designed as follows:
 
-Formula: YHVH _A_O_T_H
+**Formula**: YHVH _A_O_T_H
 
-Explanation:
+**Explanation**:
 
 - YHVH: The Tetragrammaton encapsulates the various aspects of divinity and the creative force behind all existence. It sets the foundation for this magical formula.
 - _A_O_T_H: This string represents the process of Azoth as the transformative essence that unites physical matter with spiritual reality. The spaces between the letters signify how the transformative process always remains incomplete and inherently fluid, with room for further development.

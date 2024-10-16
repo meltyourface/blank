@@ -23,7 +23,7 @@ excerpt: >
 
 ## Title: Debunking Misconceptions: Mandrake Root in Witchcraft
 
-Abstract:
+**Abstract**:
 This comprehensive report aims to debunk prevalent misconceptions surrounding the utilization of Mandrake root in witchcraft. Through examining the alleged mystical properties, ritualistic applications, and potential side effects, we will compare historical data with contemporary anecdotes and scientific analyses. Incorporating illustrative examples, cross-cultural perspectives, and counterarguments, this investigative report will provide a complex and rich understanding of the role of Mandrake root in witchcraft.
 
 Table of Contents:

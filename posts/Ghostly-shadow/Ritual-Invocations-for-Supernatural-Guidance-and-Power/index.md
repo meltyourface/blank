@@ -24,7 +24,7 @@ Invocation I: The Earthbound Spirits
 Tenebras voco, vincula rumpo,
 Ad lapidem terrae, invocamus vos spiritus terrae!
 
-Directions:
+**Directions**:
 1. Stand barefooted upon the soil of the desired location's earth.
 2. Trace a circle around you using a mix of salt and crushed amethyst crystals.
 3. Speak the incantation mentioned above, thrice.
@@ -37,7 +37,7 @@ Invocation II: The Elementals
 Aqua, Ignis, Terra et Aer,
 Elementorum reges, ad summonet, et potentia tua adveniens!
 
-Directions:
+**Directions**:
 1. Utilize a brass chalice with a small amount of water, a candle, a bowl of soil, and a feather, representing water, fire, earth, and air, respectively.
 2. Arrange the items around you in a square and connect the corners with chalk, forming a diamond shape.
 3. Recite the incantation mentioned above seven times.
@@ -50,7 +50,7 @@ Invocation III: Ancestral Ghosts
 Antiqui sanguinis, progenitores, ad me venias scriptorum rerum et arcanum,
 Nunc ego vos invoco, sicut sanguis, et cinis commiscetur!
 
-Directions:
+**Directions**:
 1. Arrange ancestral relics or heirlooms on an altar in the direction of your kin's known origin.
 2. Light two candles, one on either side of the altar.
 3. Speak the incantation mentioned above, nine times, with deep reverence.
@@ -63,7 +63,7 @@ Invocation IV: Shadowy Apparitions
 Obscurum umbra praeteriit, quod gliscit in auroram,
 Adveho vos, umbrarum figuras, in isto loco revelare!
 
-Directions:
+**Directions**:
 1. Dim the room's lights or perform the invocation at dusk.
 2. Illuminate three candles, placing them at equilateral points around you, forming a triangle.
 3. Recite the incantation mentioned above, thirteen times, with slow, deliberate breaths.
@@ -76,7 +76,7 @@ Invocation V: Otherworldly Entities
 Essentia extraneus, oriens ex stellarum,
 Vos exordior, o potestates, qui apud transmundani altitudo!
 
-Directions:
+**Directions**:
 1. Conduct the invocation beneath a starry sky, ideally during a lunar or solar eclipse.
 2. Create a hexagram using silver dust around yourself.
 3. Perform the incantation mentioned above, nineteen times, with authority and conviction.
@@ -84,4 +84,4 @@ Directions:
 
 Upon their manifestation, delve into their otherworldly knowledge, astral travel, metaphysics, or cosmic secrets.
 
-Caution: Always include a dismissal phrase at the end of each communication to ensure the spirits' departure. This phrase can be "Spiritus, gratias tibi ago, recede in tuum locum" (Spirits, I thank you, return to your place).
+**Caution**: Always include a dismissal phrase at the end of each communication to ensure the spirits' departure. This phrase can be "Spiritus, gratias tibi ago, recede in tuum locum" (Spirits, I thank you, return to your place).

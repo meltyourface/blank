@@ -25,7 +25,7 @@ The Celestial Triad Protection Ritual
 
 This protection ritual taps into the energies of Mars, Saturn, and Mercury to create a powerful shield for a chosen individual, location, or object. By combining the bold energy and courage of Mars, the steadfast discipline of Saturn, and the agile adaptability of Mercury, this ritual provides robust protection against both physical and spiritual harm.
 
-Preparation:
+**Preparation**:
 
 1. Choose a time when Mars, Saturn, and Mercury are in favorable positions in the sky, creating a supportive triangle. This will usually occur during a clear night when these planets are visible, and the moon is either waxing or full.
 

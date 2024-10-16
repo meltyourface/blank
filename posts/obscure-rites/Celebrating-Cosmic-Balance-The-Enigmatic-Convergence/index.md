@@ -29,7 +29,7 @@ The Enigmatic Convergence is an annual occult holiday celebrating the reunion of
 Date and Time:
 The Enigmatic Convergence takes place on the night of the first New Moon of Spring at midnight, marking the beginning of a new cycle, and resonating with the themes of rebirth and renewal. The astrological significance of Aries, signifying new beginnings and boldness, serves as the backdrop for this event.
 
-Rituals:
+**Rituals**:
 1. **Prelude to the Serpents**: The ceremony commences with an opening invocation to summon the ethereal presence of the Celestial Serpents. The congregation holds candles, forming a double helix pattern that represents the entwining of the serpents. With the lead officiants initiating the chant, the congregation echoes their words in an undulating chorus.
 
 2. **Conflux of Balance**: Participants disrobe to symbolically shed their worldly attachments and don tunics depicting the cosmic dance. In a circle, they initiate a ritualistic dance, representing the struggle between chaos and order.

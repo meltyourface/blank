@@ -23,9 +23,9 @@ excerpt: >
 
 ## Cosmic Ancestral Meditation Plan
 
-Objective: Establish a profound connection with ancestors through the esoteric realms of the Cosmos.
+**Objective**: Establish a profound connection with ancestors through the esoteric realms of the Cosmos.
 
-Duration: 21 days (Developing a habit requires consistency and 21 days is considered a good starting point.)
+**Duration**: 21 days (Developing a habit requires consistency and 21 days is considered a good starting point.)
 **Step 1**: Preparation
 1. Create a sacred space for meditation, cleanse it by burning sage or incense, and maintain it throughout the 21 days.
 2. Prepare a small altar with photographs, mementos, or symbols representing your ancestors.

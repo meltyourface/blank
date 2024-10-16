@@ -25,7 +25,7 @@ To fully respond to the knowledge challenge of interconnecting Preto Velho and E
 Preto Velho:
 Preto Velho, or "Old Black," refers to a group of spirit entities from the African diaspora that manifest wisdom, humility, and healing. They are often considered the representation of African slaves from colonial Brazil who have reached spiritual enlightenment. Preto Velho spirits are known for their kindness, and they provide guidance, protection, and resolution of conflicts and personal issues.
 
-Exus:
+**Exus**:
 Exus are a type of spirit entity that serve as the gatekeepers and messengers between the spiritual and material worlds. They are associated with the crossroads, gates, and pathways, and are considered powerful allies in magic and witchcraft. Exus are often portrayed as trickster figures, and their energy can be unpredictable. They hold the power to create and remove obstacles and have profound knowledge of the secrets of life and death.
 
 Interconnection and Ritual Application:
@@ -43,5 +43,5 @@ To effectively manifest a desired outcome using both Preto Velho and Exus, a pra
 
 6. ****Closing the ritual****: After the energy work is completed, close the ritual by offering thanks to Preto Velho and Exu for their presence, guidance, and support. Seal the working by blowing out candles and clearing each sacred space.
 
-Summary:
+**Summary**:
 In conclusion, although Preto Velho and Exus are distinct spirit entities with unique attributes, they can be interconnected and applied within the ritual context of Macumba to achieve a desired outcome. By honoring their roles, making appropriate offerings, and taking precautions, an individual can create a potent ritual that effectively manifests their intention, simultaneously benefiting from the wisdom and healing of Preto Velho and the transformative power and pathway-opening abilities of Exus.

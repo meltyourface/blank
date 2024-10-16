@@ -23,7 +23,7 @@ excerpt: >
 
 ## The Mercurial Elixir of Profound Connection
 
-Ingredients:
+**Ingredients**:
 1. Mercury sigil – representing the planetary energy of Mercury
 2. Caduceus symbol – the archaic symbol of communication and connection
 3. ****Enchanted herbs****: lavender, fennel, and marjoram
@@ -51,7 +51,7 @@ A richer bond, I shall find,
 Connection deep, across dimensions vast,
 May the spell upon me be cast."
 
-Instructions:
+**Instructions**:
 1. Begin by cleansing your ritual area and meditating to focus your intent on enhancing interpersonal communication and forming profound connections.
 
 2. Light a candle representing the energy of Mercury (silver or light blue) and recite the Preliminary Incantation.

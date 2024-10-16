@@ -22,10 +22,10 @@ excerpt: >
 ---
 The Azoëtian Rite of the Elemental Incantation
 
-Introduction:
+**Introduction**:
 This intricate Azoëtian ritual harmonizes the Three Pillars of Zoa (Salt, Sulfur, and Mercury), the Sigil of the Black Toad, and the elemental correspondences of Air, Fire, Water, and Earth. It incorporates invocations in the Azoëtian language dedicated to the Spirits of the Nightside Tree, with the primary intention of inducing a deep meditative state for the practitioner. 
 
-Materials:
+**Materials**:
 - A small glass container to hold the Three Pillars of Zoa (Salt, Sulfur, and Mercury)
 - A piece of parchment with the Sigil of the Black Toad drawn upon it
 - Four candles, each representing one of the elements (Air, Fire, Water, and Earth)

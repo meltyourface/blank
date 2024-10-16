@@ -22,9 +22,9 @@ excerpt: >
 ---
 The Opening of the Mouth ceremony (Wepet-er) was a significant ritual in Ancient Egyptian funerary practices, aimed at reanimating the deceased's body, rejuvenating their senses, and preparing them for the afterlife.
 
-Origins: The origins of the Opening of the Mouth ceremony can be traced back to the early dynastic period of Egypt. It is believed to have been based on the myth of Osiris, the god of the afterlife, who was resurrected by Isis and their son Horus. The ritual carried the belief that the deceased would also be resurrected, enabling them to exist in the afterlife.
+**Origins**: The origins of the Opening of the Mouth ceremony can be traced back to the early dynastic period of Egypt. It is believed to have been based on the myth of Osiris, the god of the afterlife, who was resurrected by Isis and their son Horus. The ritual carried the belief that the deceased would also be resurrected, enabling them to exist in the afterlife.
 
-Rituals: The Opening of the Mouth ceremony was highly elaborate, involving multiple steps to restore and revitalize the deceased's corpse. **These steps included**:
+**Rituals**: The Opening of the Mouth ceremony was highly elaborate, involving multiple steps to restore and revitalize the deceased's corpse. **These steps included**:
 
 1. **Purification**: The body was sprinkled with water infused with various herbs and incense to cleanse it from impurities. Purification was important in those covens of the Sabbatic Mythos that derived their spiritual understanding from Egyptian practices.
 

@@ -22,10 +22,10 @@ excerpt: Design a comprehensive Quimbanda Kingdoms ritual that intricately detai
 
 ## The Sealing Rite of the Veiled Pathways
 
-Objective:
+**Objective**:
 To close and seal interdimensional gateways to the spirit realm through an intricate and comprehensive Quimbanda Kingdoms ritual that addresses the involvement of Exus and Pombagiras, utilizing ritual tools such as tridentes, pontos riscados, and offerings, with sequential invocations and evocations of deities and spiritual entities.
 
-Preparations:
+**Preparations**:
 1. Ensure the ritual area is clean and purified with the sacred smoke of a Palo Santo stick. Arrange the altar with a white cloth, candles, incense, and offering plates.
 2. Prepare the Tridents (tridentes), a symbol of power and authority over spirits. Ensure three tridentes are crafted from iron, wood, and gold respectively, each decorated and embellished with sigils, pontos riscados and stones.
 3. Craft the Pontos Riscados associated with the specific Exus and Pombagiras involved in the ritual. Provide ample parchment, ink, and drawing tools.

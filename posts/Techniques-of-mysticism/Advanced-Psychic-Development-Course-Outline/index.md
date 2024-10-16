@@ -76,7 +76,7 @@ Week 11-12: Astral Projection
 3. Navigating and exploring the astral realms
 4. Safety guidelines and precautions when practicing astral projection
 
-Assessment:
+**Assessment**:
 
 1. Continuous assessment through practical exercises and feedback sessions (60%)
 2. ****Written assignment****: Case study analyzing the ethical implications of using psychic abilities (20%)

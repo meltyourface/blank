@@ -21,7 +21,7 @@ excerpt: Craft a powerful incantation for profound mystical advancement by emplo
 ---
 Incantation of the Luminous Ascension
 
-Materials:
+**Materials**:
 
 1. Sacred texts and manuscripts (e.g., the Emerald Tablet, the Torah, the Book of Shadows)
 2. Chalk or natural pigment for drawing sigils
@@ -29,7 +29,7 @@ Materials:
 4. A peaceful, isolated ritual space free from interruptions
 5. A clear, full moon night
 
-Instructions:
+**Instructions**:
 
 1. Prepare your sacred space by cleansing it with sage or incense and arranging the sacred objects according to your chosen esoteric tradition.
 

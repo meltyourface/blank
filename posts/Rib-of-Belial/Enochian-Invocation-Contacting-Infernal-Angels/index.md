@@ -22,9 +22,9 @@ excerpt: Design a comprehensive and intricate Rib of Belial ceremony, thoroughly
 
 ## The Dark Conclave of Enochian Rib of Belial
 
-Objective: To establish communication with the select cohort of infernal angels mentioned in the Enochian Keys.
+**Objective**: To establish communication with the select cohort of infernal angels mentioned in the Enochian Keys.
 
-Preparation:
+**Preparation**:
 -Ensure an isolated, undisturbed location for the ceremony, preferably indoors with a clean and consecrated space.
 -Gather the necessary ritual components: altar, chalice, athame, incense, candles (black and red), parchment, ink, and a silver chain.
 -Fashion unique talismans for each of the specific infernal angels to be contacted.
@@ -56,7 +56,7 @@ Once the communication has concluded, the practitioner shall respectfully dismis
 8. Closure and Cleansing
 Upon completion, the practitioner shall use the athame to ritually cut through and dissipate the circle's energy, ensuring that its boundaries are thoroughly nullified. Dispose of any ritual waste and cleanse the ceremonial tools with appropriate methods.
 
-Precautions:
+**Precautions**:
 
 - Never attempt to seize control or manipulate the infernal angels. Maintain the utmost respect and humility in their presence.
 - Ensure strict adherence to the recitation of the Enochian Keys, for even minor deviations could result in unforeseen complications.

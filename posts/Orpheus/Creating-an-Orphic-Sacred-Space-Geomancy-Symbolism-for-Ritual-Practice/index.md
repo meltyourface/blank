@@ -33,7 +33,7 @@ Next, draw a pentagram (a five-pointed star) within the hexagram, symbolizing th
 **Step 5**: Place elemental representations at the five points of the pentagram
 Using stones or other natural objects to represent each element, place an object at each of the five points of the pentagram.
 
-Earth: A smooth or rough stone, soil, or sand.
+**Earth**: A smooth or rough stone, soil, or sand.
 Air: A feather, incense, or fragrant herbs.
 Fire: A candle or a piece of flint.
 Water: A small dish of water or a seashell.

@@ -22,7 +22,7 @@ excerpt: Develop a comprehensive Daoist ritual guide for self-purification and s
 
 ## Comprehensive Daoist Ritual Guide for Self-Purification and Spiritual Shielding after Establishing Communion with a Spirit
 
-Objective: This guide is intended for practitioners of Daoist rituals who seek self-purification and spiritual shielding after establishing communion with a spirit. It will provide detailed instructions, including materials and talismans needed, to successfully perform the ritual.
+**Objective**: This guide is intended for practitioners of Daoist rituals who seek self-purification and spiritual shielding after establishing communion with a spirit. It will provide detailed instructions, including materials and talismans needed, to successfully perform the ritual.
 
 Materials Needed:
 1. A quiet and secluded space for conducting the ritual

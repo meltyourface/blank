@@ -23,7 +23,7 @@ excerpt: >
 
 ## Title: The Hallowed Arcana of the Household
 
-Introduction: The Hallowed Arcana of the Household is a comprehensive divination system that utilizes a deck of ordinary playing cards. Each suit and card has its own magical meaning and significance. The system incorporates complex shuffling patterns, precise card arrangements, and a detailed interpretation guide to lead Magicians on a path of self-discovery, personal growth, and guidance.
+**Introduction**: The Hallowed Arcana of the Household is a comprehensive divination system that utilizes a deck of ordinary playing cards. Each suit and card has its own magical meaning and significance. The system incorporates complex shuffling patterns, precise card arrangements, and a detailed interpretation guide to lead Magicians on a path of self-discovery, personal growth, and guidance.
 
 The Deck: The elements of the standard 52-card playing deck are reinterpreted for the purpose of divination. Four suits represent the four elements, major themes, and aspects of life:
 
@@ -36,25 +36,25 @@ Card Meanings:
 
 Each card within the four suits holds a specific significance in this system:
 
-Aces: New beginnings, potential, and seeds of future growth.
+**Aces**: New beginnings, potential, and seeds of future growth.
 
-Two: Balance, harmony, partnerships, and duality.
+**Two**: Balance, harmony, partnerships, and duality.
 
-Three: Growth, creativity, expansion, and social connections.
+**Three**: Growth, creativity, expansion, and social connections.
 
-Four: Stability, structure, foundations, and order.
+**Four**: Stability, structure, foundations, and order.
 
-Five: Conflict, challenges, setbacks, and changes.
+**Five**: Conflict, challenges, setbacks, and changes.
 
-Six: Harmony, cooperation, success, and unity.
+**Six**: Harmony, cooperation, success, and unity.
 
-Seven: Inner work, reflection, personal growth, and challenges.
+**Seven**: Inner work, reflection, personal growth, and challenges.
 
-Eight: Movement, action, change, and progression.
+**Eight**: Movement, action, change, and progression.
 
-Nine: Completion, fulfillment, achievements, and rewards.
+**Nine**: Completion, fulfillment, achievements, and rewards.
 
-Ten: Endings, cycles, culmination, and renewal.
+**Ten**: Endings, cycles, culmination, and renewal.
 
 Face cards:
 

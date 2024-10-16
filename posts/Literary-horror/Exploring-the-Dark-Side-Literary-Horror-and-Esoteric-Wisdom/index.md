@@ -22,11 +22,11 @@ excerpt: Write a short but informationally dense passage from a grimoire that di
 
 ## Literary Horror in the Occult Domain
 
-Introduction:
+**Introduction**:
 
 Literary horror has always been closely intertwined with the world of the occult, serving as a means to explore the hidden and unknown realms that lie beyond our mundane reality. This exploration allows initiates to delve into the complex and darker facets of human experience, shedding light on the mysteries of the universe and the nature of our own consciousness. In order to understand the significance and representation of Literary horror in occult practices, it is necessary to trace its origins, investigate key figures and works of this genre, and examine its role within the broader esoteric cosmos.
 
-Origins:
+**Origins**:
 
 The roots of Literary horror can be traced back to ancient civilizations, where myths, legends, and morality tales often depicted otherworldly creatures and supernatural occurrences. As societies advanced, religious and philosophical ideas concerning the nature of good and evil, life and death, and the divine and demonic began to exert a powerful influence over the popular imagination. Literary horror emerged as a means of expressing and exploring these themes, evolving alongside the growth of esoteric knowledge.
 

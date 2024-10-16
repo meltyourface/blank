@@ -24,7 +24,7 @@ excerpt: >
 ---
 Answer: Azoth - Fermentation
 
-Explanation:
+**Explanation**:
 The philosopher's stone, a powerful symbol in alchemy, represents the ultimate quest of transforming base metals into nobler elements, such as gold, as well as the attainment of immortality. Throughout the history of alchemy, there are several key elements and processes associated with the creation of the philosopher's stone.
 
 In the context of this question, Azoth is not utilized in a traditional alchemical recipe for the philosopher's stone, although it does play an essential role in the alchemical tradition.

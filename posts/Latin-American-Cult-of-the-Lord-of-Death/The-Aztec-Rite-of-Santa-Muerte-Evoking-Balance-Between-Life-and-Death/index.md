@@ -22,7 +22,7 @@ excerpt: Design an intricate necromantic ceremony dedicated to the Latin America
 
 ## The Ritual of the Sacred Requiem
 
-Objective: To evoke the blessings and wisdom of Santa Muerte and harmonize the powers of life and death in accordance with the Latin American Cult of the Lord of Death.
+**Objective**: To evoke the blessings and wisdom of Santa Muerte and harmonize the powers of life and death in accordance with the Latin American Cult of the Lord of Death.
 
 Altar Setup:
 

@@ -24,7 +24,7 @@ excerpt: >
 ---
 Answer: An overwhelming sense of cosmic insignificance
 
-Explanation: Algernon Blackwood was an English author who is best known for his ghost stories and supernatural fiction. In his works, a recurring theme that frequently affects the characters' understanding of reality is an overwhelming sense of cosmic insignificance.
+**Explanation**: Algernon Blackwood was an English author who is best known for his ghost stories and supernatural fiction. In his works, a recurring theme that frequently affects the characters' understanding of reality is an overwhelming sense of cosmic insignificance.
 
 Blackwood's approach to the occult and supernatural in his literary works primarily revolved around invoking a sense of awe, terror, and humility in the face of vast, powerful, and often unknowable forces of nature or the supernatural. This theme of cosmic insignificance reflects humanity's small and often powerless position in the vast cosmos of existence.
 

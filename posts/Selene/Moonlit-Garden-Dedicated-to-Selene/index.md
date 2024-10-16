@@ -21,9 +21,9 @@ excerpt: Design a detailed blueprint for a moonlit sanctuary dedicated to Selene
 ---
 Moonlit Sanctuary Blueprint for Selene
 
-Location: A secluded, tranquil spot with ample moonlight exposure, ideal for spiritual connection.
+**Location**: A secluded, tranquil spot with ample moonlight exposure, ideal for spiritual connection.
 
-Climate: Mild, temperate climate suitable for a diverse range of nocturnal plants.
+**Climate**: Mild, temperate climate suitable for a diverse range of nocturnal plants.
 
 Soil Type: Rich, well-draining soil to accommodate various plant species.
 

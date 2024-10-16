@@ -22,7 +22,7 @@ excerpt: >
 ---
 Answer: Initiator and guide of mystic experiences in ancient rites
 
-Explanation: Ariadne as protomystes, or "first mystagogue," plays the role of an initiator and guide of mystic experiences in ancient rites within the context of the occult and esoteric. This role encompasses leading individuals on a journey of transformation, where they learn and experience the mysteries of the occult firsthand.
+**Explanation**: Ariadne as protomystes, or "first mystagogue," plays the role of an initiator and guide of mystic experiences in ancient rites within the context of the occult and esoteric. This role encompasses leading individuals on a journey of transformation, where they learn and experience the mysteries of the occult firsthand.
 
 The term "protomystes" refers to a person who initiates and guides others in the mystic arts and practices, particularly within secretive or initiatory societies. As Ariadne, she represents both the embodiment of spiritual wisdom and a figure who presides over the rites, rituals, and ordeals that allow individuals to acquire such wisdom.
 

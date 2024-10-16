@@ -30,7 +30,7 @@ The Hermit, Temperance, and Death, they gleam,
 Embodied forces vast, incisive and divine,
 A tapestry of archetypes, they weave and sing.
 
-I: The Hermit - Solemn keeper of the flame,
+**I**: The Hermit - Solemn keeper of the flame,
 Ascends the peak with lantern gleaming bright,
 An inner light reveals the hidden plane,
 A solace sought in his eternal night.
@@ -40,7 +40,7 @@ He walks alone, a spectral life he wields,
 And in his anthroponic gaze, he reaps,
 The bounty of the world concealed.
 
-II: Temperance; Alchemist of celestial sways,
+**II**: Temperance; Alchemist of celestial sways,
 With wings outstretched, she treads the water's edge,
 Resplendent in her glory and her grace,
 Uniting opposites, she finds her place.
@@ -50,7 +50,7 @@ Zeal tempered by her touch, and passion cooled,
 A fusion of the soul and earthly binds,
 The art of harmony, she breathes and rules.
 
-III: Capricious Death, the indomitable force,
+**III**: Capricious Death, the indomitable force,
 Defying mortal odds, on spectral steed,
 A harvester of souls and of remorse,
 Against his fearsome power, no heart can plead.

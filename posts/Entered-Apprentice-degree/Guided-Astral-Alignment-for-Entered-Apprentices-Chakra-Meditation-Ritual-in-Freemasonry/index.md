@@ -23,10 +23,10 @@ excerpt: Develop a detailed guided meditation ritual, tailored to the Entered Ap
 
 ## The Entered Apprentice's Guided Astral Alignment 
 
-Introduction:
+**Introduction**:
 Welcome, Entered Apprentice, to the guided astral alignment, a meditation ritual specifically tailored for your current degree and development. This ritual will allow you to align your chakras, deepen your connection with Masonic symbols, and strengthen your bond to the astral plane within the esoteric framework of Freemasonry. 
 
-Preparation:
+**Preparation**:
 Find a quiet space where you will not be disturbed, and settle yourself into a comfortable seated position. Ensure you have properly purified yourself by washing your hands and face, symbolizing the cleansing of your soul. Begin by taking three deep breaths, inhaling through your nose and exhaling through your mouth. As you breathe, visualize all thoughts and worries leaving your body, preparing your mind for the journey ahead.
 
 Alignment of Chakras:
@@ -60,7 +60,7 @@ Now that your chakras have been aligned and your connection to Masonic symbols h
 Obligations and Duties Reflection:
 Before concluding your meditation, take a moment to reflect upon your obligations and duties as an Entered Apprentice. Consider your behavior towards your lodge brothers, your commitment to acquiring knowledge, and your dedication to self-improvement within the Masonic framework.
 
-Closing:
+**Closing**:
 As your meditation journey comes to an end, focus on your breath, taking three deep breaths, inhaling through your nose and exhaling through your mouth. Feel the divine energy from your aligned chakras radiating throughout your entire being. Gently bring your awareness back to your physical self, and when you are ready, slowly open your eyes.
 
 May your journey through the Entered Apprentice degree and your bond with the astral plane be ever rewarding and enlightening. So mote it be.

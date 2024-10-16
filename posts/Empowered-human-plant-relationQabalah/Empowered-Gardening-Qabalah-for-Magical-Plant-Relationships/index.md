@@ -37,7 +37,7 @@ excerpt: >
 
 ## "The Green Qabalah: A Grimoire for Enchanted Gardening in the Sacred Cosmos"
 
-Contents:
+**Contents**:
 1. Introduction: The Roots of Empowered Human-Plant RelationQabalah
    1.1. Qabalistic Tree of Life and Its Significance
    1.2. Principles of Empowered Human-Plant RelationQabalah
@@ -77,6 +77,6 @@ Contents:
    8.2. Alchemical Elixirs and Rituals for Restoring Garden Health
    8.3. Learning from the Ever-Changing Tapestry of the Cosmos
 
-Conclusion: Blooming into the Cosmic Gardener
+**Conclusion**: Blooming into the Cosmic Gardener
 
 By following this comprehensive grimoire's methodologies and mystical practices, you will create and sustain an enchanted garden designed to enhance your understanding and practice of Empowered human-plant relationQabalah. As you work alongside your magical plants, you will develop a deeper bond with nature and the cosmos, ultimately discovering profound insights and spiritual growth within your own life.

@@ -22,7 +22,7 @@ excerpt: Design a comprehensive Sympathetic-cure-based ritual to establish a pro
 
 ## The Ritual of Profound Light
 
-Goal: To establish a profound connection with one's personal spirit guides through a Sympathetic-cure-based ritual
+**Goal**: To establish a profound connection with one's personal spirit guides through a Sympathetic-cure-based ritual
 
 Ritual Components:
 

@@ -22,7 +22,7 @@ excerpt: >
 ---
 **Code of Conduct for Proficient Demonologists and Occult Practitioners Engaged in Demonic Summoning and Collaboration**
 
-Preamble: This code of conduct is designed to serve as a comprehensive guide for responsible and proficient demonologists and occult practitioners engaged in the summoning, communication, and collaboration with demonic entities. Adherence to the principles and guidelines presented herein is crucial to maintain the integrity, safety, and reputation of the practices in question.
+**Preamble**: This code of conduct is designed to serve as a comprehensive guide for responsible and proficient demonologists and occult practitioners engaged in the summoning, communication, and collaboration with demonic entities. Adherence to the principles and guidelines presented herein is crucial to maintain the integrity, safety, and reputation of the practices in question.
 
 1. *Ethical and Moral Responsibilities*: Practitioners must understand the inherent dangers related to the summoning and control of demonic entities and acknowledge their moral responsibility to protect both themselves and innocent bystanders from any potential harm. 
 

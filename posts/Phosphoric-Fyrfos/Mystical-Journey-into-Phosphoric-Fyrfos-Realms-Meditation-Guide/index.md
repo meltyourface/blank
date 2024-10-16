@@ -23,7 +23,7 @@ excerpt: >
 
 ## Journey into the Astral Realms of Phosphoric Fyrfos
 
-Preparation:
+**Preparation**:
 Before commencing the meditative visualization, ensure that you are seated comfortably in a quiet space with minimal distractions. Close your eyes and take a few deep breaths, inhaling through the nose and exhaling through the mouth, to relax your body and mind. As you continue breathing, begin to shift your focus toward your intention for this session: to deepen your connection with the mystical and esoteric aspects of Phosphoric Fyrfos.
 **Step 1**: Invocation of the Three Pillars
 With your intention set, begin to mentally invoke the Three Pillars of Phosphoric Fyrfos:
@@ -62,5 +62,5 @@ As your mastery of Phosphoric Fyrfos grows, deepen your experience by:
 - Engaging with more advanced breathing techniques, refining your ability to harness and manipulate inner energies.
 - Incorporating additional layers of complexity and nuance within the visualization process, inviting a more profound immersion into the practice.
 
-Conclusion:
+**Conclusion**:
 As your journey through the Astral Realms comes to an end, allow yourself to be gently guided back to your physical body. Take several deep breaths, feeling revitalized and enriched by your experience. Gradually open your eyes and carry the wisdom and insights gained through your Phosphoric Fyrfos journey with you, as you return to your daily life.

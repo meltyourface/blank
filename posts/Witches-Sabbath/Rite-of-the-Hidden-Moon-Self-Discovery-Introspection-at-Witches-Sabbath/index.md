@@ -22,9 +22,9 @@ excerpt: >
 ---
 Ritual Name: The Rite of the Hidden Moon
 
-Purpose: To facilitate self-discovery and introspection for practitioners during the Witches Sabbath by harnessing lunar and elemental energies and invoking deities or spirits.
+**Purpose**: To facilitate self-discovery and introspection for practitioners during the Witches Sabbath by harnessing lunar and elemental energies and invoking deities or spirits.
 
-Preparation:
+**Preparation**:
 
 1. Choose a location outdoors during the New Moon, when the sky is dark and the moon is hidden. Ensure it is a quiet and private place where you can feel at peace.
 

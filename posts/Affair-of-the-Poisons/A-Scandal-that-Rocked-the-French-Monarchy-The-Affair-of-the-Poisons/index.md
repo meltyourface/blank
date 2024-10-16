@@ -24,7 +24,7 @@ excerpt: >
 ---
 Answer: Madame de Brinvilliers's high-profile poisoning spree directly influenced the exposure and investigation of a network of poisoners, fortune tellers, and abortion providers.
 
-Explanation: The Affair of the Poisons was an extensive scandal involving multiple instances of poisoning and other nefarious activities which took place in the latter half of the 17th century in France. It began with the high-profile case of Madame de Brinvilliers, who was accused of using poison to murder her father and brothers in order to inherit their estates. This case sparked a widespread investigation, which uncovered a series of interconnected plots and schemes involving many prominent individuals.
+**Explanation**: The Affair of the Poisons was an extensive scandal involving multiple instances of poisoning and other nefarious activities which took place in the latter half of the 17th century in France. It began with the high-profile case of Madame de Brinvilliers, who was accused of using poison to murder her father and brothers in order to inherit their estates. This case sparked a widespread investigation, which uncovered a series of interconnected plots and schemes involving many prominent individuals.
 
 The first option is not correct, as King Louis XIV's increased paranoia was not solely based on isolated incidents. His paranoia was fueled by discoveries of a larger network of criminal activities linked to individuals close to his court. 
 

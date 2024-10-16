@@ -21,7 +21,7 @@ excerpt: Develop an intricate battle plan illustrating the strategic utilization
 ---
 Battle Plan: Operation Phantasmal Reconnaissance
 
-Objective:
+**Objective**:
 Enable the strategic utilization of invisible magical beasts, such as phantasmal stalkers and spectral scouts, to gather crucial intelligence on enemy movements, strengths, and weaknesses during an intense confrontation between rival magical forces.
 
 Phase 1: Preliminary Reconnaissance

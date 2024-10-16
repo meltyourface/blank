@@ -22,7 +22,7 @@ excerpt: Design an intricately detailed Winter Solstice Yule log ceremony that i
 
 ## The Ancestral Awakening - A Winter Solstice Yule Log Ceremony
 
-Objective: 
+**Objective**: 
 To create a deeply profound and moving Winter Solstice Yule Log ceremony that embodies ancestral traditions, symbolism, and connection to the spirits.
 **Step 1**: Preparation
 

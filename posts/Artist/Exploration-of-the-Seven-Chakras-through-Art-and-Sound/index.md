@@ -22,9 +22,9 @@ excerpt: Explore an astral odyssey as an adept occultist, traversing the intrica
 
 ## The Astral Odyssey of the Seven Chakras
 
-Medium: Acrylic and mixed media on canvas
+**Medium**: Acrylic and mixed media on canvas
 
-Description:
+**Description**:
 
 Our journey begins at the Root Chakra or Muladhara, the glowing red orb of energy pulsating at the base of the spine, anchoring our astral form to Mother Earth. The element of Earth, represented by a square, encompasses the vortex, assuring us of our physical existence and grounding us in this pranic exploration. The swirling sacred symbol, a yellow square with four red petals, echoes the roots of a tree intertwining with our subtle body, fortifying our life force. Deep vibrations of the 'Lam' chant become the orchestra for our visualization.
 

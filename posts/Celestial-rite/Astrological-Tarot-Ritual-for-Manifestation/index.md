@@ -32,7 +32,7 @@ Some common associations are as follows:
 For this, you can create a table or chart where you input all the aforementioned correspondences. Your chart could include columns such as Tarot Card, Major/Minor Arcana, Zodiac Sign, Planet, Decan, Element, and Celestial Hierarchy.
 **Step 3**: Develop an intricate diagram that visually represents these relationships. The diagram can be a circular or spiral design with Major Arcana on the outer circle and Minor Arcana on the inner circle for easy reference.
 
-Ritual:
+**Ritual**:
 **Step 1**: Prepare the ritual space by cleansing it with sage or incense and drawing elemental symbols or zodiac signs in the air as you move clockwise around the area.
 **Step 2**: Cast a circle to create a sacred space in which to perform the ritual. This can be done by calling upon the elements, celestial beings, or divine energies with whom you feel a connection.
 **Step 3**: Arrange the Tarot cards on your altar or ritual surface, following the diagram you created in the research phase. Be sure to have additional tools at hand, such as candles in corresponding colors, crystals, and incense.

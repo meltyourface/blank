@@ -21,7 +21,7 @@ excerpt: >
   Design a detailed three-step evocation ritual for summoning the ancient deity Lilith, incorporating the intricacies of Initiatrix teachings and guidelines. ****The ceremony should consist of the following components****: \n\n1. ****Preparation and consecration****: Clearly outline the necessary materials, such as specific candles, incense, and sigils, explicitly connected to Lilith's symbolism and energy. ****Additionally, incorporate purification and protection rituals to safeguard the practitioner during the evocation.\n\n2. Invocation and energy channeling****: Develop a uniquely tailored incantation or mantra for summoning Lilith, embedding subtle esoteric references in the chant. ****Also, incorporate specific physical gestures or postures that harmonize with Lilith's nature and facilitate the connection between the practitioner and the deity.\n\n3. Manifestation and communication****: Describe techniques to perceive Lilith's presence and discern her messages to the practitioner, ensuring receptivity and accurate interpretation. Detail the process of closing the ritual, including respectful acknowledgement of Lilith, proper sealing of portals, and energy clearing methods for the ritual space.\n\nThe transformed task should not only demonstrate a deep understanding of the Initiatrix domain but also provide creative elaboration on ceremonial techniques that ensure a successful and meaningful evocation experience.
 ---**Step 1**: Preparation and Consecration
 
-Materials:
+**Materials**:
 - Black candles: Represent Lilith's association with night and her seductive yet powerful energy.
 - Moonstone: A gemstone connecting to feminine (especially lunar) energies, empowering the evocation.
 - Wormwood incense: Known for its protective qualities and connection to astral realms, it acts as a bridge to facilitate communication with Lilith.
@@ -33,7 +33,7 @@ Purification and Protection:
 Begin by creating a sacred space in which the ritual will be performed. Cleanse the area with saltwater, sprinkling it around the perimeter. Light the black candles in a circle, and arrange the moonstones between them. Place the Sigil of Lilith in the center of the space. Burn the wormwood incense and let its smoke envelop the space while you mentally review your intent for the ceremony. Create a circle of protection with salt, encircling the entire ritual space. Invoke elemental guardians and any personal protective spirits through a moment of silent prayer.
 **Step 2**: Invocation and Energy Channeling
 
-Incantation:
+**Incantation**:
 "Lilith, Queen of Night and Shadow,
 Dark Mother, Enchantress of the Moon,
 In your name as Initiatress do I call,

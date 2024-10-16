@@ -23,7 +23,7 @@ excerpt: >
 
 ## Title: Karmic Balance, Planetary Essence, and Ritualistic Realms: The Esoteric Significance of the Indian Cult of Saturn in Vedic Astrology
 
-Abstract:
+**Abstract**:
 The Indian cult of Saturn bears a profound esoteric significance in Vedic astrology, particularly concerning its substantial influence on karmic balance, planetary essence, and the intricate rituals orchestrated to appease the deity and promote spiritual growth. By carefully examining textual sources, historical testimonies, and contemporary practices, this thesis not only sheds light on the compelling facets of this ancient occult tradition but also underscores its continuing relevance in consorting with both the cosmic and human realm.
 
 ### Chapter 1: Introduction

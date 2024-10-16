@@ -50,7 +50,7 @@ Materials needed for the ritual:
 6. A photograph, artifact, or symbol representing your ancestors
 7. A journal and writing instrument to record any messages or insights you receive during the ritual
 
-Instructions:
+**Instructions**:
 **Step 1**: Begin by setting up your altar in your sacred space, ensuring it is clean and well-organized. Cover the altar with the white cloth to symbolize purity and truth, as well as providing a blank canvas upon which you will call forth the spirits of your ancestors.
 **Step 2**: Place the offering of food or drink at the center of your altar, signifying your gratitude for the support, wisdom, and spiritual guidance provided by your ancestors.
 **Step 3**: Place the photograph, artifact, or symbol representing your ancestors on the altar, ensuring it is clearly visible.

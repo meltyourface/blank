@@ -35,7 +35,7 @@ Celtic Cross Spread:
 9. Hopes and Fears - Knight of Swords
 10. Final Outcome - The Magician
 
-Interpretation:
+**Interpretation**:
 
 1. **Present Situation**: Two of Cups
 - The Two of Cups represents an initial partnership or connection. In your current situation, there might be collaboration or a joint partnership that offers promise for the future. The card signifies emotional support and balance, which may be beneficial on this new career path.

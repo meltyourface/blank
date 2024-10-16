@@ -22,7 +22,7 @@ excerpt: Craft a detailed and immersive Lunar MeditationRewilding Witchcraft ini
 
 ## The Rite of Lunar Embrace
 
-Introduction:
+**Introduction**:
 The Rite of Lunar Embrace is a Lunar MeditationRewilding Witchcraft initiation rite designed for a collective gathering, to align participants with the energies of the moon, invoke elemental forces, and integrate sacred rewilding symbols and practices. This ceremony is ideal for a Full Moon night and should take place in a secluded natural setting, away from city lights and distractions.
 
 Participant roles and attire:

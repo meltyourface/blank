@@ -22,7 +22,7 @@ excerpt: Design a comprehensive and intricate curriculum for delving into the Ma
 
 ## Title: Kabbalistic Mysteries: An In-Depth Journey into the Magnum Opus
 
-Objective: This curriculum will guide students on a comprehensive and intricate exploration of the Magnum opus through the mystical teachings of the Kabbalah. By the end of this course, students will have developed an in-depth understanding of the Tree of Life, the ten Sefirot, and the Zohar's influence on modern esoteric practices.
+**Objective**: This curriculum will guide students on a comprehensive and intricate exploration of the Magnum opus through the mystical teachings of the Kabbalah. By the end of this course, students will have developed an in-depth understanding of the Tree of Life, the ten Sefirot, and the Zohar's influence on modern esoteric practices.
 
 Course Overview:
 
@@ -64,7 +64,7 @@ Course Materials:
 - A journal for recording insights, dreams, and experiences during the course
 - Multimedia resources will be provided during the course for group and individual study
 
-Assessment:
+**Assessment**:
 
 - Students will be assessed through a combination of written reflections, group projects, and quizzes to test their understanding of the material.
 - At the end of the course, learners will present a final project in which they apply their understanding of the Kabbalistic teachings to their own spiritual journey and personal development.

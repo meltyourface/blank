@@ -23,7 +23,7 @@ excerpt: >
 
 ## The Contributions of Anna Bonus Kingsford to Occultism and Esotericism
 
-Introduction:
+**Introduction**:
 Anna Bonus Kingsford, born on September 16, 1846, in England, was an influential figure in the world of occultism and esotericism throughout the 19th century. As a spiritual leader, writer, and initiate of various esoteric orders, Kingsford's teachings and ideas had a lasting effect on the development and popularization of the occult tradition. This section of our grimoire will discuss Kingsford's key beliefs, notable works, and significant accomplishments, along with the impact of her teachings on her students and initiates seeking a profound understanding of the occult.
 
 Theosophy and Hermeticism: Foundations of Kingsford's Teachings:

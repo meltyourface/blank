@@ -22,7 +22,7 @@ excerpt: >
 ---
 Enchanted Arcane Ink Recipe
 
-Ingredients:
+**Ingredients**:
 1. 1/4 oz dragon's blood resin
 2. 1/2 tsp powdered moonstone
 3. 1/2 tsp powdered alexandrite gemstones

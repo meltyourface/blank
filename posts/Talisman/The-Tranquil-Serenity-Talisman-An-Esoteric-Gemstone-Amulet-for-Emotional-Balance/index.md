@@ -23,7 +23,7 @@ excerpt: >
 ---
 The Tranquil Serenity Talisman
 
-Design:
+**Design**:
 
 The Tranquil Serenity Talisman is a masterpiece of esoteric, occult craftsmanship, designed to alleviate anger and promote patience and tranquility. Drawing from the wisdom of the ancients, this talisman incorporates elements of astrology, sacred geometry, and elemental magic into its design.
 
@@ -58,7 +58,7 @@ The Tranquil Serenity Talisman should be worn close to the heart and be in conta
 
 When not in use, the talisman should be stored in a velvet pouch infused with calming herbs like lavender or chamomile, ensuring its continued protection and potency.
 
-Backstory:
+**Backstory**:
 
 The Tranquil Serenity Talisman is believed to have been crafted by an ancient order of mystics, the Keepers of Celestial Harmony, who sought to bring balance and peace to the world through their mastery of elemental energies and astrology. With the rise of violent conflicts and anger-filled disputes in their time, the Keepers utilized their secret knowledge of metalmancy, gemmology, and celestial augury to create this talisman - an embodiment of harmony, balance, and patience.
 

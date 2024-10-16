@@ -23,7 +23,7 @@ excerpt: >
 
 ## Title: Scriptorian Oracle
 
-Introduction:
+**Introduction**:
 The Scriptorian Oracle is a unique divination practice rooted in Scriptural teachings, offering insights and spiritual guidance by tapping into the wisdom of sacred texts. Drawing inspiration from the I Ching, rune stones, and other ancient systems, the Scriptorian Oracle incorporates characters or symbols from the Scriptures, mapping them to precise passages. The divination process involves a ritualistic casting method and a comprehensive guide for interpreting the results, providing users with deep spiritual significance and connections to Scripture.
 
 To create the Scriptorian Oracle, we begin with selecting 64 passages from the sacred texts of various spiritual traditions. Each passage will be assigned a unique symbol from their respective tradition. The selection of passages and symbols can be customized to the practitioner and their spiritual background.

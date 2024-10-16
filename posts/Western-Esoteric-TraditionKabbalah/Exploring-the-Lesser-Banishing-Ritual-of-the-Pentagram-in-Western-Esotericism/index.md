@@ -30,7 +30,7 @@ Practical Aspects:
 
 The LBRP consists of several key components, including the Qabalistic Cross, the formulation of the pentagrams, the invocation of the Archangels, and the repetition of the cross. The ritual begins with the magician drawing energy from the divine, known as Kether in the Kabbalistic Tree of Life, and grounding themselves in the material world (Malkuth). The magician then draws elemental pentagrams in the air at each cardinal direction while vibrating the sacred names of God associated with each direction (YHVH, ADNI, AHIH, AGLA). Following the pentagrams' formation, the magician invokes the Archangels: Raphael, Gabriel, Michael, and Uriel, each representing a cardinal direction and elemental force. The ritual concludes with a reiteration of the Qabalistic Cross, sealing the protective energy.
 
-Symbolism:
+**Symbolism**:
 
 The LBRP is rich in symbolism, incorporating elements of Jewish mysticism and Kabbalah. The four sacred names of God (YHVH, ADNI, AHIH, AGLA) are derived from the Tetragrammaton, a sacred name of God, and each has a unique vibrational frequency that activates the energies associated with it. The pentagram itself represents the divine unfolding into the manifest world, with the four classical elements (earth, air, fire, water) surrounding the spirit.
 

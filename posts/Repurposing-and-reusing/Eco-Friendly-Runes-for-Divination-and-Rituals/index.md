@@ -22,10 +22,10 @@ excerpt: Develop an innovative approach to create and utilize a set of runes for
 
 ## EcoRunes - A Green Approach to Ancient Divination
 
-Introduction:
+**Introduction**:
 EcoRunes is an innovative approach to rune casting that focuses on repurposing and recycling materials to create a set of runes for divination or ritual purposes. This system ensures the preservation of traditional rune symbolism while incorporating environmentally-friendly techniques and processes. Novel elements and materials are also introduced to enhance the complexity and creativity of the rune system without compromising the integrity of the original meanings and associations.
 
-Materials:
+**Materials**:
 1. Recycled glass, metals, or porcelain
 2. Natural, biodegradable binding agents (such as wheat paste or rice glue)
 3. Organic dyes or pigments derived from plants or earth minerals (for example, indigo or ochre)

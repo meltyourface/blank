@@ -22,7 +22,7 @@ excerpt: >
 ---
 The Triangle of Manifestation: Olympic SpiritWitches' Sabbat Goetia Rite
 
-Introduction:
+**Introduction**:
 The Triangle of Manifestation for the Olympic SpiritWitches' Sabbat takes inspiration from the Triangle of Art in traditional Goetic practice but incorporates specific symbols, sigils, and elements representing the Olympic SpiritWitches' Sabbat. This elaborate ritual triangle aims to summon and communicate with the spirits of the Goetia while paying homage to the unique elements of the Witch's Sabbat.
 
 Triangle Description:

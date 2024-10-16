@@ -35,6 +35,6 @@ Relationship between the Conscious and Unconscious Mind in Mythology, Folklore, 
 
 2. The Briar Rose: This symbol also stands for the barriers that separate conscious and unconscious realms. The impenetrable thicket of briar rose signifies the resistance to confronting the unconscious self, reflecting fears, traumas, or personal inconsistencies. In Jungian psychology, the hero's journey through the briars to awaken the sleeping princess parallels the journey of self-discovery and individuation, which requires overcoming internal obstacles and integrating the shadow aspects of the psyche.
 
-Summary:
+**Summary**:
 
 The Briar Rose, as a symbol of alchemical transformation and the relationship between the conscious and unconscious mind, holds significant importance in the context of mythology, folklore, and Jungian psychology. The tale of Sleeping Beauty carries various layers of meaning, from the alchemical marriage and cycles of death and rebirth to the journey of self-discovery and individuation. Throughout this exploration, the Briar Rose remains a potent representation of the process of merging opposites, breaking through barriers, and ultimately achieving a transcendent state of consciousness and wholeness.

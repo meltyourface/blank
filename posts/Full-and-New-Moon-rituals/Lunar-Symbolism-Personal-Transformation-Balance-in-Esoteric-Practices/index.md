@@ -25,11 +25,11 @@ In order to analyze the symbolic significance of the Full and New Moon in the co
 
 The Moon as a celestial body holds significant symbolic meaning in various esoteric and occult traditions. These meanings not only stem from the Moon's constant changing phases but also from its association with several elements, namely water, emotions, intuition, and the feminine principle.
 
-Water: A predominant element associated with the Moon is water, which represents the ebb and flow of emotions. The Moon governs the tides on Earth and, in a similar fashion, is believed to influence the emotional and psychological states of individuals. Full and New Moon rituals often involve water as a symbolic medium to access deeper emotional levels and gain spiritual insight.
+**Water**: A predominant element associated with the Moon is water, which represents the ebb and flow of emotions. The Moon governs the tides on Earth and, in a similar fashion, is believed to influence the emotional and psychological states of individuals. Full and New Moon rituals often involve water as a symbolic medium to access deeper emotional levels and gain spiritual insight.
 
-Emotions: The Moon has long been associated with emotional responses and sensitivity. The Full Moon is believed to amplify emotions and intuitive abilities, while the New Moon signifies emotional rebirth, making it an ideal moment for practitioners to set intentions and embark on new beginnings.
+**Emotions**: The Moon has long been associated with emotional responses and sensitivity. The Full Moon is believed to amplify emotions and intuitive abilities, while the New Moon signifies emotional rebirth, making it an ideal moment for practitioners to set intentions and embark on new beginnings.
 
-Intuition: As the ruler of the night, the Moon represents the intuitive, subconscious aspects of the mind, which can be accessed through rituals, meditation, and other practices. Harnessing and trusting intuition is a core concept of many esoteric and occult practices, and the Moon serves as a conduit to tap into these hidden aspects of the psyche.
+**Intuition**: As the ruler of the night, the Moon represents the intuitive, subconscious aspects of the mind, which can be accessed through rituals, meditation, and other practices. Harnessing and trusting intuition is a core concept of many esoteric and occult practices, and the Moon serves as a conduit to tap into these hidden aspects of the psyche.
 
 Feminine principle: The Moon is often linked to feminine energy, representing the receptive, nurturing, and compassionate side of human nature. In many esoteric and occult systems, the Moon is seen as a divine feminine force, embodying qualities such as intuition, healing, and fertility.
 

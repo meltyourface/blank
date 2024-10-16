@@ -36,7 +36,7 @@ Now, let us examine the interrelationships between these elements and their pote
 A. Relationship between Planetary Magic Squares and the Tree of Life:
 The Tree of Life contains a total of 22 paths connecting the 10 Sefirot. Interestingly, the sum of magic constants for the seven planetary squares is 175, which is divisible by a significant number in Kabbalistic numerology, 7:
 
-Saturn: (3 × 15)  = 45
+**Saturn**: (3 × 15)  = 45
 Jupiter: (4 × 34) = 136
 Mars: (5 × 65)    = 325
 Sun: (6 × 111)    = 666

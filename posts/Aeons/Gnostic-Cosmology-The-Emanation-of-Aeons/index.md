@@ -28,7 +28,7 @@ excerpt: >
 ---
 The correct answer is: The emanation of the Aeons occur as a series of descending self-reflections, culminating in the creation of the physical universe.
 
-Explanation:
+**Explanation**:
 In Gnostic cosmology, Aeons are considered as divine beings or entities that embody different aspects of the divine nature. They are often described as a series of emanations that originated from the ultimate source of divinity, known as the Pleroma or the Fullness. The Aeons of emanation represent various stages or eras of cosmic progression and are interconnected in a hierarchical manner.
 
 The process of emanation is characterized by the unfolding of the primordial divine essence into multiple aspects, creating a cascading series of divine beings or Aeons. This symbolic unfolding occurs in a descending order, with each Aeon representing a specific aspect or quality derived from the source. As a result, the Aeons hold varying degrees of divine power or wisdom, and each of them helps shape specific aspects of the created universe.

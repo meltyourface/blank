@@ -53,5 +53,5 @@ Focus on uniting the energies of the three cultural sources and connecting with 
 Step 4: Receiving Knowledge
 Remain still in the sacred space, allowing your mind to open to the wisdom flowing from the deities, spirits, and elements invoked. When you are ready, thank them for the gift of their wisdom. This gratitude represents the synthesis of all three cultures, appreciating the interconnectedness of life.
 
-Summary:
+**Summary**:
 By integrating the elemental approaches and lore of Egyptian, Celtic and Native American cultures, this harmonious ritual unites diverse perspectives to facilitate the acquisition of esoteric knowledge. From the invocation of Thoth, the connection to the sacred Celtic trees, and the embodiment of the Native American Great Spirit, the seeker draws upon these ancient sources of wisdom to empower their quest for deeper understanding.

@@ -22,7 +22,7 @@ excerpt: Develop a comprehensive bestiary devoted to the study of the most formi
 
 ## The Hunter's Bestiary: Chronicles of the Formidable and Elusive
 
-Introduction:
+**Introduction**:
 The Hunter's Bestiary is a comprehensive guide to the most formidable and elusive creatures within the realm of Hunters. This invaluable resource offers a glimpse into the unknown world of these creatures, delving deep into their appearances, habitats, behaviors, and weaknesses. With detailed illustrations and accounts of their terrifying abilities, this bestiary will aid hunters in their pursuit of tracking, understanding, and combating these formidable beings.
 
 Creature 1: The Wendigo
@@ -46,5 +46,5 @@ Creature 3: The Chupacabra
 - Weaknesses: Conventional weaponry is moderately effective against the Chupacabra, while traps baited with livestock can be utilized to capture the creature.
 - Folklore: The Chupacabra gained notoriety in the mid-1990s and has become a popular subject in Latin American legends, with many believing it to be a government-engineered experiment gone awry.
 
-Conclusion:
+**Conclusion**:
 The Hunter's Bestiary is not limited to the three creatures detailed above but serves as an ever-growing repository of knowledge on the formidable and elusive beings that occupy the realm of Hunters. By understanding their appearances, habitats, behaviors, and weaknesses, hunters can better prepare themselves for the challenges that lie ahead. Armed with this knowledge, they can navigate the complexities of folklore and mythology, uncovering correlations and possible origins that aid in their pursuit of these terrifying adversaries. The Hunter's Bestiary serves as an indispensable tool in the ongoing battle against the unknown.

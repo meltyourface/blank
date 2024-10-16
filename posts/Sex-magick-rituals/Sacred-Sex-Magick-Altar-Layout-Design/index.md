@@ -24,7 +24,7 @@ In designing a sacred sex magick altar layout, it's essential to balance both th
 Layout and Geometry:
 The overall shape of the altar layout will be a hexagon, representing the union of the masculine, upward-pointing triangle, and the feminine, downward-pointing triangle. This reflects the balance and interplay of these energies during sexual rituals.
 
-Centerpiece:
+**Centerpiece**:
 The centerpiece of the altar is a beautifully sculpted representation of the divine union, such as a statue or image depicting figures in sexual embrace or a symbolic representation of the lingam and yoni. This serves as the central focus for directing sexual energy and intentions.
 
 Ritual Tools:

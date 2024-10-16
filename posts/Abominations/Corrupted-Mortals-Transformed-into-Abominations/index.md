@@ -28,7 +28,7 @@ excerpt: >
 ---
 The correct answer is: Corrupted mortals drawn to forbidden powers that lead to physical and spiritual torment.
 
-Explanation: Occult Abominations are creatures that are the result of corrupted mortals being drawn to forbidden powers that eventually lead to their physical and spiritual torment. There are multiple aspects to consider while exploring the rationale behind this conclusion.
+**Explanation**: Occult Abominations are creatures that are the result of corrupted mortals being drawn to forbidden powers that eventually lead to their physical and spiritual torment. There are multiple aspects to consider while exploring the rationale behind this conclusion.
 
 1. In the study of the esoteric and occult, it is widely acknowledged that the desire for power and knowledge often leads practitioners to explore dangerous and forbidden territories. This intense drive to uncover hidden arcane secrets makes one susceptible to corruption, transforming their mind, spirit, and body as they delve deeper into these mysteries. This progression of corruption alters their essence, eventually leading to the formation of an Abomination.
 

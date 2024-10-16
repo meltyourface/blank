@@ -23,7 +23,7 @@ Answer to the Knowledge Challenge:
 
 To analyze and interpret the verse "The Khabs is in the Khu, not the Khu in the Khabs" (AL I:8) within the context of the New Aeon as proclaimed by the reception of Liber Lvel Legis, we must start by understanding some of the essential concepts and background information about Thelemic paradigm and ancient Egyptian esoteric systems.
 
-Background:
+**Background**:
 
 The reception of Liber Lvel Legis, also known as The Book of the Law, marked the beginning of the New Aeon in the Thelemic paradigm. The book was allegedly communicated to Aleister Crowley in 1904 by a praeter-human intelligence known as Aiwass. The content of Liber Lvel Legis serves as the foundation of the Thelemic philosophy, centered around the idea of discovering and fulfilling one's true will.
 
@@ -33,9 +33,9 @@ Thelema is an esoteric spiritual and philosophical movement, with principles roo
 
 Key Concepts:
 
-Khabs: Derived from the ancient Egyptian term for 'star,' Khabs, within the context of Thelema, represents the divine spark or inner light present within an individual. It refers to one's innermost essence and spiritual core.
+**Khabs**: Derived from the ancient Egyptian term for 'star,' Khabs, within the context of Thelema, represents the divine spark or inner light present within an individual. It refers to one's innermost essence and spiritual core.
 
-Khu: Khu is another concept with roots in ancient Egyptian belief systems. It represents the spirit, often thought of as the immortal aspect of the being, the spiritual body or "substance" that disintegrates after death.
+**Khu**: Khu is another concept with roots in ancient Egyptian belief systems. It represents the spirit, often thought of as the immortal aspect of the being, the spiritual body or "substance" that disintegrates after death.
 
 Analysis and Interpretation:
 

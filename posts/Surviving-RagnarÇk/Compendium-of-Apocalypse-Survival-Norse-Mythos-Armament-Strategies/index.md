@@ -23,7 +23,7 @@ excerpt: >
 
 ## The Ragnarök Resilience: A Compendium of Accoutrements, Provisions, and Strategies for Surviving the Apocalypse
 
-Introduction:
+**Introduction**:
 In this compendium, we shall delve into the necessary items and strategies required to withstand and endure the trials and tribulations of the apocalyptic event known as Ragnarök. The focus will be on essential armaments, sacred relics, mystical potions, enigmatic contrivances, and innovative strategies to optimize the survival of those who face the cataclysmic Norse mythological event.
 
 ### I. **Essential Armaments**:
@@ -52,5 +52,5 @@ In this compendium, we shall delve into the necessary items and strategies requi
 3. Dedicate offerings to the Norse gods to garner their favor and support, demonstrating reverence for their struggle against the forces of destruction.
 4. Employ the Veizla strategy – the art of blending into the surroundings, maintaining silence and mindfulness to conserve energy, and waiting for the opportune moment to strike or evade danger.
 
-Conclusion:
+**Conclusion**:
 In conclusion, this compendium provides the knowledge, tools, and strategies required to ensure survival against the perils and challenges presented by Ragnarök. By utilizing essential armaments, sacred relics, mystical potions, enigmatic contrivances, and innovative survival methods, one can successfully adapt and prevail amidst the chaos and destruction wrought by this apocalyptic Norse mythological event.

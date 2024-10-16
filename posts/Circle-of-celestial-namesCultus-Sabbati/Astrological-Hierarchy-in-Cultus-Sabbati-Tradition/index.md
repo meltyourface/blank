@@ -30,7 +30,7 @@ excerpt: >
 ---
 1. Ten Astrological Signs Relevant to the Practice of Cultus Sabbati 
 
-Aries: The Ram, representing spiritual leadership and initiation.
+**Aries**: The Ram, representing spiritual leadership and initiation.
 Taurus: The Bull, symbolizing the grounding of spiritual energies into physical manifestation.
 Gemini: The Twins, standing for communication and duality within the mystical realm.
 Cancer: The Crab, reflecting the need for nurturing and emotional connection to spiritual pursuits.

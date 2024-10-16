@@ -22,7 +22,7 @@ excerpt: Devise an intricate, multi-layered meditation and visualization regimen
 
 ## Path of the Savage Moon
 
-Introduction: The Path of the Savage Moon is an intricate, multi-layered meditation and visualization regimen tailored specifically to Wolf warriors, designed to strengthen their already ferocious ethos and savage combat prowess. The regimen contains elements that focus on concentration, heightened reflexes, and intensified predatory instincts while also addressing the importance of lunar influences, mental landscapes, and connections with their lupine brethren. 
+**Introduction**: The Path of the Savage Moon is an intricate, multi-layered meditation and visualization regimen tailored specifically to Wolf warriors, designed to strengthen their already ferocious ethos and savage combat prowess. The regimen contains elements that focus on concentration, heightened reflexes, and intensified predatory instincts while also addressing the importance of lunar influences, mental landscapes, and connections with their lupine brethren. 
 
 Phase One: The Lupine Mindscape
 
@@ -54,7 +54,7 @@ Phase Three: Pack Dynamics and Tactical Enhancement
 
 4. Coordinate with your pack, practicing the art of silent communication, ensuring flawless execution of tactics and maintaining dominance over any battlefield.
 
-Conclusion: The Transcendence of the Savage Moon
+**Conclusion**: The Transcendence of the Savage Moon
 
 1. Bring your mental journey to a close, allowing the lunar-enhanced instincts and predatory prowess of your lupine form to combine with your unique skills as a Wolf warrior.
 

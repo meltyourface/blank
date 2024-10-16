@@ -24,10 +24,10 @@ Throughout history, the practices of witchcraft associated with The Mark of the 
 Scrying Using Crystal Balls:
 Among the most iconic methods of witchcraft divination is scrying using crystal balls. This technique involves gazing into a clear, polished sphere, often made of quartz or other crystalline materials, to induce visions or receive messages. The practice of scrying has ancient roots, dating back to the likes of the Celts, ancient Egyptians, and Mesopotamians. In medieval Europe, scrying using crystal balls became popular among witches, seers, and the spiritually inclined. The crystal ball acts as a focal point for the practitioner's intuitive and psychic energies, allowing them to tap into the flow of information hidden within the fabric of reality.
 
-Tasseography:
+**Tasseography**:
 Reading tea leaves, or tasseography, is a form of divination that interprets the patterns formed by tea leaves, coffee grounds, or other sediment in a cup. This meticulous practice has ancient roots in China, where it began with the reading of patterns in wine. It was later adopted in the Middle East and eventually became popular in Europe, particularly within Victorian society. Tasseography demands a high degree of intuitive interpretation, as each individual may see different images in the shapes of the leaves. To prepare for a reading, the querent typically drinks from the cup, leaving a small amount of liquid and sediment behind. The practitioner then swirls the liquid, inverts the cup, and reads the resulting patterns.
 
-Osteomancy:
+**Osteomancy**:
 Osteomancy, or bone casting, is an ancient method of divination that uses animal bones, shells, or other small objects to gain insight into future events and hidden truths. Rooted in divination practices of indigenous cultures worldwide, including African, Native American, and ancient European societies, osteomancy's process may vary in terms of the number, types, and arrangement of bones. The bones are ritually cleansed, imbued with personal intentions, and often inscribed with symbols or markings. They are then cast onto a cloth or flat surface, and their positions are interpreted.
 
 Similarities and Differences:

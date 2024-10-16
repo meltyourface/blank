@@ -32,7 +32,7 @@ excerpt: >
 ---
 To concoct an Eroto-Magical love potion that satisfies the requirements, we will synergize the aphrodisiac properties of commonly available herbs, creating an enchanting, multi-sensory experience for the imbiber. **The potion will consist of the following elements**:
 
-Ingredients:
+**Ingredients**:
 1. Damiana (Turnera diffusa) - A known aphrodisiac and energy stimulant.
 2. Mugwort (Artemisia vulgaris) - Enhances dream states and intuition.
 3. Rose petals (Rosa spp.) - Symbolizes love and passion.

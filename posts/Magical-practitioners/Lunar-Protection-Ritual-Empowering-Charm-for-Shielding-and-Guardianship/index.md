@@ -21,7 +21,7 @@ excerpt: Plan a comprehensive lunar ritual tailored for magical practitioners wi
 ---
 Task: Plan a comprehensive lunar ritual tailored for magical practitioners with the objective of manifesting a specific intention.
 
-Objective:
+**Objective**:
 The ritual's objective is to manifest a powerful protection charm for the practitioner, shielding them and their loved ones from harm and negativity.
 
 Ceremony Outline:

@@ -29,7 +29,7 @@ The best option would be:
 
 Incorporating a statuette to represent personal deity, a bowl of saltwater for the blending of Earth and Water energies, crystals for grounding, and a pendulum for divination purposes.
 
-Explanation:
+**Explanation**:
 
 In the context of altar setups within occult practices, the goal is to represent and incorporate various elemental energies and symbols that resonate with the practitioner, allowing them to focus and manifest their intent most effectively. In this scenario, the practitioner is looking to blend Earth energies, Water energies, and their personal connection to the divine realm.
 

@@ -28,7 +28,7 @@ Tarot is a centuries-old practice that began as a card game in the early 15th ce
 Qabalah Tree of Life:
 The Qabalah, a form of Jewish mysticism, predates Tarot by several centuries and explores the nature of the divine and the pathway of spiritual ascent and descent through the Tree of Life. The Tree of Life, depicted as a diagram composed of ten interconnected spheres (Sephiroth), represents various aspects of the divine, and 22 paths connecting those spheres, symbolizing the interactions between them. These 22 paths correspond to the 22 Hebrew letters and, interestingly, the 22 Major Arcana cards of the Tarot. The Tree of Life provides a cosmic map for personal and spiritual growth, offering a means to understand the relationship between the individual and divine consciousness.
 
-Astrology:
+**Astrology**:
 Astrology, another ancient system of divination and personal insight, is based on the belief that the position and movement of celestial bodies can provide valuable clues into human experiences, relationships, and underlying psychological patterns. Rooted in Babylonian celestial observations, astrology developed into a complex system of attributing meaning to planetary movements and birth charts, ultimately providing insight into personal and collective archetypes.
 
 Holistic Integration:

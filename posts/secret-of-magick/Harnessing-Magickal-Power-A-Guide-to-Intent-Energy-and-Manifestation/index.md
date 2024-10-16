@@ -27,11 +27,11 @@ The secret of magick lies within the delicate balance of the interconnectedness 
 
 At its core, magick is based on three fundamental principles - intent, energy, and manifestation. Here is a brief look at each principle and how it contributes to the delicate art of magick.
 
-Intent: The first and foremost principle of magick is intent, meaning the purpose or desired outcome of a spell or ritual. When you set a clear and precise intention, you allow your thoughts and energies to focus and attain that specific goal.
+**Intent**: The first and foremost principle of magick is intent, meaning the purpose or desired outcome of a spell or ritual. When you set a clear and precise intention, you allow your thoughts and energies to focus and attain that specific goal.
 
-Energy: Every living being, object, and even the mind itself is comprised of energy. Magickal practice involves channeling and manipulating these various forms of energy to create the desired outcome.
+**Energy**: Every living being, object, and even the mind itself is comprised of energy. Magickal practice involves channeling and manipulating these various forms of energy to create the desired outcome.
 
-Manifestation: Once the intent is set and energies are harnessed, the desired outcome becomes a reality through manifestation. Through proper visualization, concentration, and persistence, the practitioner turns the intangible intent and energy into a tangible result.
+**Manifestation**: Once the intent is set and energies are harnessed, the desired outcome becomes a reality through manifestation. Through proper visualization, concentration, and persistence, the practitioner turns the intangible intent and energy into a tangible result.
 
 ### 1.2 Practical Steps to Harness Magick
 

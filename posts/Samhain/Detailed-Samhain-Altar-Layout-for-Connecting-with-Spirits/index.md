@@ -34,10 +34,10 @@ Sacred Items and Symbols:
 1. Pentacle: Place a pentacle in the center of the altar, as it symbolizes the unity of the five elements (earth, air, fire, water, and spirit). This central position allows the pentacle to function as an energetic focal point and maintains balance throughout the ritual.
 2. Triquetra: Position a triquetra on the left side of the pentacle, representing the triple Goddess aspect (maiden, mother, and crone) and the trinity of life, death, and rebirth.
 
-Candles:
+**Candles**:
 Place three large candles in the colors of black, white, and orange on the right side of the pentacle, arranged in a triangle. Black symbolizes the darker aspects of the season, white represents purity and protection, and orange embodies the vitality of the harvest and the warmth of the remaining light.
 
-Crystals:
+**Crystals**:
 Arrange crystals, such as smoky quartz, obsidian, and black tourmaline, along the outer edges of the altar to amplify protective energies and encourage spiritual connections.
 
 Divination Tools:

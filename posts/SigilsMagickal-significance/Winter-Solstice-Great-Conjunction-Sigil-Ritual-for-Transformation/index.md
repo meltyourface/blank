@@ -21,7 +21,7 @@ excerpt: Design and consecrate a sigil harnessing the energies of a specific cel
 ---
 Journal Entry: 
 
-Date: December 21st, 2020
+**Date**: December 21st, 2020
 Time: 9:30 PM, local time
 
 Astrological Conditions: Winter Solstice, conjunction of Jupiter and Saturn (the 'Great Conjunction')

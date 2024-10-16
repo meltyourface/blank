@@ -27,7 +27,7 @@ Introductory Notes:
 
 The Rite of Ancestral Shadows is a guided necromantic meditation ritual that aids the seeker in connecting with the energies of the departed and tapping into their ancestral past life memories. This ritual utilizes esoteric symbolism, sacred chants, and potent incense blends to facilitate deeper resonance with the spirit realm, enabling the seeker to delve into transcendent states of being.
 
-Materials:
+**Materials**:
 
 1. Black altar cloth, embroidered with silver esoteric symbols such as the Ankh, the Sigil of Baphomet, and the Eye of Horus, to represent the connection between life, death, and eternal knowledge.
 2. Candles (preferably one black, one white, and one purple) as symbolic representations of the three realms of existence: the physical, the spirit, and the realm of ancestors and past lives.
@@ -36,7 +36,7 @@ Materials:
 5. Incense burner with a blend of myrrh, frankincense, and copal, to purify the space, facilitate contact with the spirit realm, and heighten the senses during the ritual.
 6. Meditation cushion or a comfortable seat.
 
-Preparation:
+**Preparation**:
 
 1. Set up the altar in a quiet, dimly lit space, preferably facing east (the direction of new beginnings).
 2. Place the black altar cloth on the surface, arranging the candles in a triangle formation with the black candle at the top, the white candle to the left, and the purple candle to the right.

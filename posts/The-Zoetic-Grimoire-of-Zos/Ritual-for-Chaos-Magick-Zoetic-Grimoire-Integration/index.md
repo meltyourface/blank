@@ -23,7 +23,7 @@ excerpt: >
 
 ## Title: The Rite of Zosian Chaos
 
-Objective: This ritual aims to merge the concepts of Austin Osman Spare's Zoetic Grimoire of Zos with contemporary chaos magick techniques. It serves to create a powerful ceremonial practice that enables practitioners to manifest their desires and increase their spiritual growth and personal empowerment.
+**Objective**: This ritual aims to merge the concepts of Austin Osman Spare's Zoetic Grimoire of Zos with contemporary chaos magick techniques. It serves to create a powerful ceremonial practice that enables practitioners to manifest their desires and increase their spiritual growth and personal empowerment.
 
 Materials needed:
 

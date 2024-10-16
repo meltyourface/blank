@@ -30,7 +30,7 @@ Required Materials:
 
 Step-by-Step Process:
 
-Preparation:
+**Preparation**:
 1. Choose a serene and clutter-free location for the scrying ritual. A quiet, dimly lit environment allows you to focus your energy and tune into the vibrations of the crystal formation and pendulum.
 
 2. Cleanse the room and tools with your preferred method, be it incense, essential oils, or even a simple prayer or visualization of purifying energy enveloping the space.
@@ -64,7 +64,7 @@ Closing the Ritual:
 
 2. Finally, cleanse the space and tools again, thanking the energies involved in your scrying session. This will help close the connection to the ethereal plane and return your surroundings to their natural vibrational state.
 
-Variations:
+**Variations**:
 - Experiment with different pendulum materials, as each offers unique properties and affinities; bronze, gold, copper, or crystal pendulums may evoke different outcomes.
 - Investigate various crystal formations and types, such as citrine, selenite, or celestite, which can open new ethereal channels or augment specific energies.
 - Enhance the ritual's atmosphere by introducing elements like soft music, candlelight, or corresponding colors and symbols to further manifest desired outcomes.

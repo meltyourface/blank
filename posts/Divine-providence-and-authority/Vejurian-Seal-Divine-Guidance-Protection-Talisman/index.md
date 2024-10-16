@@ -22,9 +22,9 @@ excerpt: >
 ---
 The Talisman of Divine Providence and Authority: Vejurian Seal
 
-Intention: To imbue the user with confidence, protection, and guidance from Divine sources while navigating through important decisions and manifesting their true purpose.
+**Intention**: To imbue the user with confidence, protection, and guidance from Divine sources while navigating through important decisions and manifesting their true purpose.
 
-Design: The Vejurian Seal is a circular talisman, crafted from a silver and gold alloy. **It features the following sacred symbols and numerology**:
+**Design**: The Vejurian Seal is a circular talisman, crafted from a silver and gold alloy. **It features the following sacred symbols and numerology**:
 
 1. In the center lies the All-Seeing Eye, representing Divine Providence and surveillance.
 2. Surrounding the Eye are the four Elemental triangles, corresponding to Fire, Water, Earth, and Air.

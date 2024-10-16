@@ -22,13 +22,13 @@ excerpt: >
 ---
 Amulet Design: Noctuorum
 
-Description:
+**Description**:
 The Noctuorum amulet represents a harmonious union of sacred geometric and occult symbolism, meticulously crafted to reflect the profound wisdom of the Nightwings, and the mysteries concealed within the esoteric realm. Each intricately detailed element interweaves to form an exquisite synthesis of power and knowledge.
 
-Materials:
+**Materials**:
 The amulet is primarily composed of black obsidian, imbued with minuscule particles of hematite, which enhances both its grounding capacities and the potency of its protective energies. Minute threads of silver, inscribed with glyphs, interconnect the various components, further amplifying the amulet's celestial powers.
 
-Dimensions:
+**Dimensions**:
 The amulet measures 5cm x 5cm (roughly 2in x 2in) and is moderately lightweight. This size allows the pendant to comfortably rest against the wearer’s chest, providing optimal proximity to fully experience its radiant essence.
 
 Design Elements:

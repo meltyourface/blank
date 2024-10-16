@@ -26,7 +26,7 @@ Cultural syncretism refers to the blending of elements from different cultures a
 
 The ancient Egyptian goddess Isis is an excellent example of a deity that underwent a process of cultural syncretism and reappropriation. Isis was one of the most important goddesses in the Egyptian pantheon, closely associated with motherhood, fertility, love, healing, and magic. She was particularly venerated for her role in the myth of Osiris – her husband and brother – whom she resurrected from the dead, ensuring the continuity of the cycles of life and rebirth.
 
-Symbolism:
+**Symbolism**:
 Isis was often depicted as a woman with a throne-shaped headdress (symbolizing her role as a queen), a solar disk between cow horns, or carrying her son Horus in her lap. These visual representations affirmed her status as a mother, protector, and healer. As her cult spread throughout the Greco-Roman world, she began to be portrayed with features of Greek and Roman goddesses such as Demeter, Hera, and Aphrodite – highlighting the syncretic nature of her worship.
 
 Influence of Other Deities:

@@ -51,7 +51,7 @@ excerpt: Devise a specialized invocation ritual for summoning a spirit guide wit
     Yuliari brasta fylgja,
     Verthandi skratla spirati."
 
-Translation:
+**Translation**:
    "Winds of wisdom, carry my call,
     Tides of knowledge, in you I fall,
     Guide of secrets, heed my plea,

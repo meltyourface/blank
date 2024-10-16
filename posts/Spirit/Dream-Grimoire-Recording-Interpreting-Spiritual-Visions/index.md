@@ -31,7 +31,7 @@ excerpt: >
 
 ## Nocturnal Visions & Spirit Whispers – A Dream Grimoire
 
-Frontispiece: An intricate representation of the dreamer's spiritual landscape and core sigil, acting as a gateway into the realm of dreams.
+**Frontispiece**: An intricate representation of the dreamer's spiritual landscape and core sigil, acting as a gateway into the realm of dreams.
 
 **Table of Contents**
 

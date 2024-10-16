@@ -62,7 +62,7 @@ It is important to remain mindful of the outcomes, challenges, and potential dan
 
 Expected Outcomes: Successful engagement with the Reformation of Flesh and Soul can lead to profound personal transformation, heightened magical powers, and a deeper connection with The Morrigan. You may experience increased self-awareness, clarity of purpose, and newfound abilities to navigate the challenges and obstacles you encounter in life.
 
-Challenges: The journey of Reformation may push you to confront deeply ingrained fears, insecurities, and beliefs. This process often requires immense dedication, discipline, and growth as a practitioner. You may be tested by The Morrigan herself to prove your worthiness and commitment.
+**Challenges**: The journey of Reformation may push you to confront deeply ingrained fears, insecurities, and beliefs. This process often requires immense dedication, discipline, and growth as a practitioner. You may be tested by The Morrigan herself to prove your worthiness and commitment.
 
 Potential Dangers: Working with powerful deities like The Morrigan and engaging in transformative practices like the Reformation of Flesh and Soul should not be taken lightly. There are risks involved in attempting to access this level of esoteric wisdom. If not properly prepared or guided, practitioners risk harming themselves or attracting negative energies, manifestations, or situations.
 

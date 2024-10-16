@@ -22,7 +22,7 @@ excerpt: Compose an in-depth manual elucidating the meticulous process of constr
 
 ## Consecrating the Atavistic Death - A Guide to Constructing a Ritualistic Sanctuary
 
-Introduction:
+**Introduction**:
 The Rite of the Atavistic Death is an ancient and arcane art, requiring mastery in both the manipulation of shadowy energies and employment of intricate rituals. The purpose of this manual is to provide practitioners with a comprehensive guide to constructing a consecrated sanctuary or sacrificial altar, ultimately allowing them to perform the Rite to its utmost efficacy. This manual delineates the selection of mystical artifacts, incorporation of enigmatic symbols and sigils, as well as the invocation of primordial forces associated with the Rite. Moreover, it illustrates vital preparatory steps required to attune oneself to the otherworldly essence of the Atavistic Death.
 
 ### Chapter 1: Selecting the Sacred Site
@@ -52,5 +52,5 @@ In solitude, fast for three days to purge oneself of impurities. Meditate upon t
 ### Chapter 7: Purification and Sanctification
 To cleanse the sacred space, cast a circle with a purified salt mixture, encompassing the entire sanctuary. Perform the Ritual of Shadows to dispel malevolent entities. Light the black candles, reciting powerful incantations to imbue the space with protection and renew the primordial energies of the Atavistic Death.
 
-Conclusion:
+**Conclusion**:
 This manual provides a systematic, in-depth guide to constructing a consecrated sanctuary or sacrificial altar. It encompasses the selection and arrangement of occult artifacts, the incorporation of enigmatic symbols, and the invocation of archaic energies. Ultimately, it enables the practitioner to master the Rite of the Atavistic Death, reaching beyond the mortal plane and delving into the mysteries of life, death, and rebirth.

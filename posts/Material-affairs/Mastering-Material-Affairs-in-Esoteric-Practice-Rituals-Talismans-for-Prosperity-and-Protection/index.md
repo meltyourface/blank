@@ -36,14 +36,14 @@ Examples of Rituals and Spells to Enhance Material Affairs
 
 This ritual attracts prosperity and abundance into one's life, opening up new doors of opportunity and growth. Perform the ritual during the waxing moon phase to amplify its effects.
 
-Materials:
+**Materials**:
 - A green or gold altar cloth
 - Three candles (green for growth, gold for wealth, and white for purity)
 - A small bowl filled with coins and currency
 - Incense (preferably frankincense or patchouli)
 - A plant or flowers symbolizing growth
 
-Procedure:
+**Procedure**:
 1. Prepare your space by placing the altar cloth, candles, currency, incense, and plant or flowers on the table.
 2. Take a few moments to ground and center yourself, focusing on the purpose of the ritual.
 3. Light the incense as an offering to attract prosperity.
@@ -62,14 +62,14 @@ Prosperity, wealth, and peace of mind."
 
 This talisman protects the individual from negative energies and ward off malicious intentions in their material and spiritual existence.
 
-Materials:
+**Materials**:
 - A small pouch made of black or white cloth
 - A piece of black tourmaline or obsidian
 - Salt
 - A white or black candle
 - Incense (preferably myrrh or sandalwood)
 
-Procedure:
+**Procedure**:
 1. Begin by setting up a clean and comfortable space, lighting the incense as an offering.
 2. Hold the black tourmaline or obsidian in your hands and imbue it with your intention to protect yourself from negativity and harm.
 3. Light the candle and place the stone in the pouch.

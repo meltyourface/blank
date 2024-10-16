@@ -33,7 +33,7 @@ The multifaceted sigil, named "Hrafna-Hamingja" (Raven-Hamingja), consists of se
 
 5. Bind Runes – Combining various runes from the Elder Futhark (Algiz, Gebo, Sowilo, and Wunjo), these bind runes attract luck, wealth, and protection. They radiate outward from the Helm of Awe, interwoven with the Triple Spiral.
 
-Guide:
+**Guide**:
 
 Each component carries a significant purpose:
 

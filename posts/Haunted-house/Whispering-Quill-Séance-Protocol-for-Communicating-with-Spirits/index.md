@@ -23,7 +23,7 @@ excerpt: >
 
 ## The Whispering Quill - A Masterfully Crafted Séance Protocol for Haunted Houses
 
-Objective: Establish a deep and clear connection with the resident spirits of haunted houses, employing a prestigious automatic writing technique for clear and rich communication.
+**Objective**: Establish a deep and clear connection with the resident spirits of haunted houses, employing a prestigious automatic writing technique for clear and rich communication.
 
 Phase 1: Setting the Atmosphere
 

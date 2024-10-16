@@ -24,7 +24,7 @@ excerpt: Design a Chiasmata-focused tarot spread that intricately integrates kab
 
 The Chiasmata-Tree Tarot Spread is a complex layout, intricately integrating the ten Sephiroth and the 22 paths of the Tree of Life, offering a comprehensive guide for divination, self-reflection, and esoteric growth. This spread covers multiple aspects of a seeker's life, providing detailed insights into their spiritual journey.
 
-Layout:
+**Layout**:
 Place the cards in the shape of the Tree of Life, starting at the top with Kether and going down the tree in order of the Sephiroth, ending with Malkuth. Then, place additional cards on each of the 22 paths that connect the Sephiroth. You will need a total of 32 cards for this spread.
 
 Card Placement and Interpretation:

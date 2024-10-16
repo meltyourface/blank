@@ -28,7 +28,7 @@ excerpt: >
 ---
 Answer: Knowledge of Babylonian star cults and their celestial associations
 
-Explanation: In the study of Akkadian liturgical texts, the knowledge of Babylonian star cults and their celestial associations is crucial to understanding the intended purpose, symbolism, and expected outcomes of these ancient rituals.
+**Explanation**: In the study of Akkadian liturgical texts, the knowledge of Babylonian star cults and their celestial associations is crucial to understanding the intended purpose, symbolism, and expected outcomes of these ancient rituals.
 
 The Akkadian culture was heavily influenced by the Sumerians, with whom they shared many religious ideas and practices. However, one key distinctive aspect of the Akkadians was their strong connection to celestial bodies and their worship of the stars and planets. By understanding the Babylonian star cults and the associations they had with various deities and cosmic forces, one can better interpret the rituals and the intended outcomes within the Akkadian liturgical texts.
 

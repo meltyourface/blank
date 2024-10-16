@@ -73,6 +73,6 @@ Aiegadálo (From ancestral times),
 Máilmmi ráhkisvuohta (A world's love),
 Vuosttažettiin (Forever united).
 
-Explanation:
+**Explanation**:
 
 This traditional Sámi joik, "Luondu Guovssahasat" (Nature's Aurora), conveys the strong connection between the Sámi people and their natural surroundings, with a focus on the northern lights symbolizing the presence of the ancestors. The intricate melodic structure and linguistic rhythm evoke imagery of vast landscapes, mysterious forests, and the harmony between nature and Sámi cultural identity. Thematically, the joik centers around the connection to ancestors and the passing of their wisdom through generations. It also demonstrates the importance of the Sámi people staying rooted in their traditional knowledge. The language used reflects regional variants from the Utsjoki region of the Northern Sámi area. As with many traditional oral art forms, there are different interpretations and versions of this joik throughout Sámi culture.

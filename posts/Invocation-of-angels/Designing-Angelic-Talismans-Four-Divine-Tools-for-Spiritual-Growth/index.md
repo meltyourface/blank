@@ -23,33 +23,33 @@ In order to create a comprehensive collection of intricately-crafted talismans a
 
 1. The Archangelic Talisman:
 
-Design: This talisman will be shaped like a nine-pointed star, reflecting the nine major archangels. Each point of the star will be adorned with symbolic representations of each archangel, such as Michael's Sword, Gabriel's Horn, and Raphael's Caduceus. Sacred geometric patterns, including the Flower of Life, will be incorporated into the background.
+**Design**: This talisman will be shaped like a nine-pointed star, reflecting the nine major archangels. Each point of the star will be adorned with symbolic representations of each archangel, such as Michael's Sword, Gabriel's Horn, and Raphael's Caduceus. Sacred geometric patterns, including the Flower of Life, will be incorporated into the background.
 
-Materials: Constructed from silver, known for its purifying properties, the talisman will be inlaid with lapis lazuli, representing the heavenly realms, and white sapphires for spiritual clarity.
+**Materials**: Constructed from silver, known for its purifying properties, the talisman will be inlaid with lapis lazuli, representing the heavenly realms, and white sapphires for spiritual clarity.
 
 Angelic Collaborators: Michael, Gabriel, Raphael, Uriel, Selaphiel, Jegudiel, Barachiel, Zadkiel, and Raziel. Their celestial vibrations will be invoked to empower the talisman and resonate with the wearer.
 
 2. The Seraphic Talisman:
 
-Design: The talisman will take the shape of a six-winged seraph, with the wings crafted to form a hexagon, a symbol of harmony and unity. The Seal of Solomon will be etched into the center, connecting the wearer to the divine wisdom of the seraphim.
+**Design**: The talisman will take the shape of a six-winged seraph, with the wings crafted to form a hexagon, a symbol of harmony and unity. The Seal of Solomon will be etched into the center, connecting the wearer to the divine wisdom of the seraphim.
 
-Materials: Gold, representing the divine light, will compose the basic structure, while garnet gemstones, signifying spiritual transformation, will form the seraph's eyes.
+**Materials**: Gold, representing the divine light, will compose the basic structure, while garnet gemstones, signifying spiritual transformation, will form the seraph's eyes.
 
 Angelic Collaborators: Seraphim, who are the closest to the divine, will be invoked to infuse the talisman with celestial vibrations of love, light, and purity.
 
 3. The Cherubic Talisman:
 
-Design: This talisman will represent the four faces of a cherub: human, lion, ox, and eagle. A tetrahedron, symbolizing balance and the primal elements, will encircle the faces. Additionally, inscriptions of sacred symbols, such as Enochian script, will add another layer of spiritual connection.
+**Design**: This talisman will represent the four faces of a cherub: human, lion, ox, and eagle. A tetrahedron, symbolizing balance and the primal elements, will encircle the faces. Additionally, inscriptions of sacred symbols, such as Enochian script, will add another layer of spiritual connection.
 
-Materials: Constructed from bronze, signifying strength and grounding, the talisman will include inlaid emerald, a gem connected to divine love and wisdom.
+**Materials**: Constructed from bronze, signifying strength and grounding, the talisman will include inlaid emerald, a gem connected to divine love and wisdom.
 
 Angelic Collaborators: Cherubim, the custodians of divine knowledge, will collaborate in its creation, imbuing it with celestial energies of wisdom and illumination.
 
 4. The Ophanic Talisman:
 
-Design: A circular talisman, signifying the Ophanim's connection to movement and cycles, will feature a Merkabah (a three-dimensional Star of David) surrounded by concentric circles engraved with angelic script and symbols.
+**Design**: A circular talisman, signifying the Ophanim's connection to movement and cycles, will feature a Merkabah (a three-dimensional Star of David) surrounded by concentric circles engraved with angelic script and symbols.
 
-Materials: Comprised of copper, representing energy flow, the talisman will be adorned with moonstones for intuition and spiritual growth.
+**Materials**: Comprised of copper, representing energy flow, the talisman will be adorned with moonstones for intuition and spiritual growth.
 
 Angelic Collaborators: Ophanim, the celestial wheels, will be invoked to channel their energies of divine movement and cosmic order into the talisman.
 

@@ -32,7 +32,7 @@ The moon has always held a significant place in the occult, esoteric, and magica
 3. **Full Moon**: Represents power, culmination, and celebration. This phase is best for harnessing the peak energy of the lunar cycle and performing powerful rituals.
 4. **Waning Moon**: Represents release, healing, and reflection. This phase is conducive to letting go of what no longer serves and focusing on inner healing.
 
-Elements:
+**Elements**:
 In many esoteric and occult traditions, the four elements (Earth, Water, Air, and Fire) are considered fundamental building blocks of reality, each with its unique qualities and attributes. By connecting with and harmonizing these elements within the practitioner themselves, they can create a balance that supports and enhances their astral journey.
 
 Symbolic Anchors:
@@ -41,7 +41,7 @@ Symbolic anchors, also known as talismans, tokens, or fetishes, are physical obj
 Liminal Spaces:
 Liminal spaces are moments or locations of transition, existing between two states or worlds. This concept is integral to many occult and esoteric practices, as they represent the 'in-between,' which allows easier access to the astral realms. Examples of liminal spaces include doorways, twilight, and the boundary between sleeping and waking states.
 
-Timing:
+**Timing**:
 Timing is crucial in esoteric and occult practices, as it is believed that specific times, dates, and astrological alignments can have a considerable impact on the outcome of rituals and practices. As such, practitioners often choose to perform their astral journeys during specific lunar phases, planetary alignments, or hours of the day/night that are most conducive to success.
 
 Now that we have broken down these components, let's explore how they intertwine to impact and enhance the astral journey in Nocturnal spirit-flight.

@@ -26,7 +26,7 @@ Underlying Assumptions:
 2. Belief in God is beneficial if He exists, while disbelief incurs infinite costs if He exists and no costs if He does not exist.
 3. Humans are assumed to be logical actors who should prioritize maximizing expected utility.
 
-Implications:
+**Implications**:
 1. It is more rational to believe in God regardless of the evidence since the potential benefits outweigh potential costs.
 2. Pascal's Wager suggests that one should live according to theist principles even if uncertain of God's existence.
 

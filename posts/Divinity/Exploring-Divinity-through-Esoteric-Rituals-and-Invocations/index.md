@@ -33,13 +33,13 @@ Divinity, a concept emphasizing the transcendent and supreme power within the un
 
 Hermeticism, influenced by the writings attributed to Hermes Trismegistus, posits a hierarchical conception of Divinity. In this tradition, God is seen as the source from which everything emanates. Students of Hermeticism work to achieve divine union by following the Hermetic axiom, "As above, so below," signifying the interconnectedness between the human experience and the divine realm.
 
-Invocation: A common Hermetic invocation calls upon the divine presence of Hermes Trismegistus by reciting, "Hermes, the Thrice-Greatest, be here present and reveal the hidden wisdom of your teachings."
+**Invocation**: A common Hermetic invocation calls upon the divine presence of Hermes Trismegistus by reciting, "Hermes, the Thrice-Greatest, be here present and reveal the hidden wisdom of your teachings."
 
 2. Kabbalah
 
 Kabbalah, a Jewish mystical tradition, emphasizes the sefirot, or ten branches of God's Divine emanations. Each sefirah represents a specific aspect of God's nature, and through studying these qualities, students can better understand the nature of Divinity and their place within creation.
 
-Ritual: A central practice in Kabbalah is the meditation on the sefirot, envisioning their cosmic arrangement on the Tree of Life and how each sefirah interacts with the others to form the entire fabric of existence.
+**Ritual**: A central practice in Kabbalah is the meditation on the sefirot, envisioning their cosmic arrangement on the Tree of Life and how each sefirah interacts with the others to form the entire fabric of existence.
 
 ### III. Divinity in Eastern Esotericism
 
@@ -47,13 +47,13 @@ Ritual: A central practice in Kabbalah is the meditation on the sefirot, envisio
 
 Hindu Tantra offers a diverse range of interpretations of Divinity through the worship and realization of the interconnectedness of Shiva, the supreme principle, and Shakti, the active force. By experiencing the Divine union of these two cosmic forces, practitioners gain a deep understanding of Divine reality.
 
-Ritual: A Tantra-focused practice such as the Sri Yantra meditation visualizes the sacred geometric diagram, composed of triangles representing both Shiva and Shakti, as a means of bringing the mind into alignment with the Divine.
+**Ritual**: A Tantra-focused practice such as the Sri Yantra meditation visualizes the sacred geometric diagram, composed of triangles representing both Shiva and Shakti, as a means of bringing the mind into alignment with the Divine.
 
 2. Daoism
 
 In Daoism, the Supreme Divinity is found in the Dao, an all-encompassing, non-personal cosmic force governing the flow of reality. Exploring the Dao aids in understanding the rhythm of the universe and recognizing the self's connection with the Divine.
 
-Invocation: Daoist practitioners may recite the phrase "Wu Wei Wu," signifying "action through inaction," to emphasize harmonizing with the natural flow of the Dao and releasing illusions of egoic control.
+**Invocation**: Daoist practitioners may recite the phrase "Wu Wei Wu," signifying "action through inaction," to emphasize harmonizing with the natural flow of the Dao and releasing illusions of egoic control.
 
 ### IV. Practical Applications
 

@@ -30,46 +30,46 @@ excerpt: >
 ---
 1. Origins of the Cults
 
-Amun:
+**Amun**:
 The cult of Amun, the god of the sun and air, emerged during the 11th dynasty (2134-1991 BCE) in the Theban area. Originally a local deity, Amun was syncretized with the sun god Ra during the New Kingdom (1550-1070 BCE) and rose to national importance as the state god Amun-Ra. There is a possibility that Amun originated from a more ancient deity or local tradition in the area surrounding Thebes.
 
-Ptah:
+**Ptah**:
 Ptah, the god of creation and craftsmen, dates back to the Old Kingdom (2686-2181 BCE), with its center in Memphis. Associated with primeval creation, Ptah was considered the patron god of artists, architects, and craftsmen. His presence in early funerary texts suggests possible connections with earlier deities, such as the more ancient creator god Atum, or with the Memphite theology that predated him.
 
-Hathor:
+**Hathor**:
 Hathor, the goddess of love, fertility, and childbirth, has origins dating back to the Predynastic Period (6000-3100 BCE). Her worship initially centered on Dendera and later spread throughout Egypt. Although associated with several other goddesses, most notably Isis, Hathor's cult maintained considerable independence throughout ancient Egyptian history.
 
 2. Roles of Deities & Religious Practices
 
-Amun:
+**Amun**:
 Within the Amun cult, the god was revered as the supreme creator deity in the New Kingdom. Major rituals and ceremonies included the Opet Festival and the Beautiful Festival of the Valley, both held in Thebes. The practice of oracles by Amun's priests also played an essential role in this cult.
 
-Ptah:
+**Ptah**:
 Ptah's cult centered around his role as the divine craftsman and patron of skilled laborers. Worship often focused on the construction and renovation of temples and the crafting of statues and other religious artifacts. Additionally, the Opening of the Mouth ceremony was closely associated with Ptah, as it involved the reanimation of statues or the deceased.
 
-Hathor:
+**Hathor**:
 The worship of Hathor involved rites centered on fertility, love, and childbirth. Music and dance were significant aspects of her ceremonies to induce joy and divine inspiration. Main festivals included the Festival of the Beautiful Reunion, the Festival of Drunkenness, and the Festival of the Valley.
 
 3. Architectural & Artistic Expressions
 
-Amun:
+**Amun**:
 Notable architectural and artistic expressions of the Amun cult are found in the temples of Karnak and Luxor in Thebes. Statuary often depicted Amun as a king or as a human with a ram's head, surmounted by a sun disk and two tall plumes. Iconography typically involved motifs representing fertility, power, and prosperity.
 
-Ptah:
+**Ptah**:
 The chief temple dedicated to Ptah was located in Memphis. Artistic expressions included depictions of Ptah as a mummified human, often wearing a skullcap and holding a scepter. Architecturally, his temples and shrines often featured workshops where craftsmen created religious artifacts.
 
-Hathor:
+**Hathor**:
 Hathor's primary temple was located in Dendera. Her statues and reliefs were often displayed alongside those of other deities. Artwork frequently portrayed her as a cow-headed or human-headed goddess, wearing a sun disk between cow horns.
 
 4. Influence of Political & Social Factors
 
-Amun:
+**Amun**:
 The cult of Amun expanded when the Theban pharaohs of the New Kingdom successfully reunified Egypt. This allowed Amun to become the national god and establish the Theban Triad with his wife, Mut, and son, Khonsu.
 
-Ptah:
+**Ptah**:
 The prominence of the Ptah cult in Memphis during the Old Kingdom was tied to the city's political importance as the capital. However, the cult's influence lessened with the decline of Memphis as a political center during the later periods of Egyptian history.
 
-Hathor:
+**Hathor**:
 As a fertility goddess, Hathor was adored by people from diverse social strata. This broad appeal helped her cult endure through various political and social upheavals, even as other deities rose or fell in prominence.
 
 5. Synthesis & Interactions

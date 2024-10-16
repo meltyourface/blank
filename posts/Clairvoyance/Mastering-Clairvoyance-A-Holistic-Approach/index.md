@@ -30,7 +30,7 @@ Key Factors:
 
 3. **Holistic Wellness**: Achieving a balanced and healthy lifestyle is essential for developing clairvoyance, as our physical, emotional, and mental well-being can directly impact our spiritual receptivity and sensitivity. Cultivating an intentional approach to diet, sleep, exercise, and mental wellness can make a significant difference in one's clairvoyant experiences.
 
-Practices:
+**Practices**:
 
 1. **Daily Meditation**: Cultivating a daily meditation practice allows the practitioner to tap into their inner awareness while also connecting with external energies. Developing meditation skills encompasses focusing on breathwork, visualization exercises, and techniques from a diverse spectrum of meditation traditions.
 

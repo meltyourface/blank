@@ -48,6 +48,6 @@ Now that we have gained sufficient knowledge about the key components of our cha
 - The Rosicrucian manifestos played a more subversive role due to their anonymous nature, hidden authorship, and targeted call for reformation. They triggered debates between the religious and intellectual communities and inspired the formation of other secret societies.
 - Robert Fludd, while not an unquestioned member of the Rosicrucian Brotherhood, was a public figure, and his personal works provided an intellectual framework for esoteric thought. His contributions to various branches of natural philosophy, and the defense of the Rosicrucian ideals, made his works valued among occult circles.
 
-Conclusions:
+**Conclusions**:
 
 In summary, the 17th-century Rosicrucian manifestos and the esoteric and alchemical works of Robert Fludd both played significant roles in spreading the concepts of hidden knowledge transmission and promoted the intersection of science, spirituality, and hermetic philosophy. Despite their differences in origins and approach, their joint impact on the intellectual landscape of the 17th century allowed for the propagation of esoteric and hermetic ideas that facilitated a better understanding of the world and challenged existing norms.

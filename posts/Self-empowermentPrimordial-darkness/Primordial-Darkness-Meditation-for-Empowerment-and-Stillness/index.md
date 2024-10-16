@@ -23,7 +23,7 @@ excerpt: >
 
 ## Primordial Darkness Stillness Exercise
 
-Objective: To cultivate stillness and mindfulness in daily life while integrating elements of primordial darkness and self-empowerment.
+**Objective**: To cultivate stillness and mindfulness in daily life while integrating elements of primordial darkness and self-empowerment.
 
 Exercise Duration: 20-30 minutes per day
 

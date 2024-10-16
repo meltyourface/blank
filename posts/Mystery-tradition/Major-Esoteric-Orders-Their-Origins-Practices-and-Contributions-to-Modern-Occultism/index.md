@@ -30,19 +30,19 @@ Rosicrucian Order (RC): Dating back to the early 17th century, the Rosicrucian O
 
 Distinct Practices:
 
-HOGD: Working primarily through a series of graded initiations, the HOGD focused on the individual's spiritual development, utilizing techniques such as ceremonial magic, astral projection, and Tarot divination. The order emphasized theurgic practices and the importance of gaining knowledge and conversation with one's Holy Guardian Angel.
+**HOGD**: Working primarily through a series of graded initiations, the HOGD focused on the individual's spiritual development, utilizing techniques such as ceremonial magic, astral projection, and Tarot divination. The order emphasized theurgic practices and the importance of gaining knowledge and conversation with one's Holy Guardian Angel.
 
-OTO: Building upon the ideas and practices of the HOGD, the OTO centered its teachings on the Law of Thelema and emphasized the importance of "promulgating the Law of Liberty." Central to their practices were sex magick, the Gnostic Mass, and Crowley's Thoth Tarot.
+**OTO**: Building upon the ideas and practices of the HOGD, the OTO centered its teachings on the Law of Thelema and emphasized the importance of "promulgating the Law of Liberty." Central to their practices were sex magick, the Gnostic Mass, and Crowley's Thoth Tarot.
 
-RC: With a focus on alchemical and Hermetic wisdom, the Rosicrucian Order taught the transformation of the individual through various spiritual disciplines. Their practices include meditation, study of sacred geometry, and the pursuit of universal wisdom.
+**RC**: With a focus on alchemical and Hermetic wisdom, the Rosicrucian Order taught the transformation of the individual through various spiritual disciplines. Their practices include meditation, study of sacred geometry, and the pursuit of universal wisdom.
 
 Contributions and Influences:
 
-HOGD: The HOGD greatly shaped modern occultism by blending various traditions and providing a structured practical system for spiritual development. Its teachings influenced many notable figures, such as Dion Fortune, Israel Regardie, and Gerald Gardner, who in turn shaped contemporary Western esotericism.
+**HOGD**: The HOGD greatly shaped modern occultism by blending various traditions and providing a structured practical system for spiritual development. Its teachings influenced many notable figures, such as Dion Fortune, Israel Regardie, and Gerald Gardner, who in turn shaped contemporary Western esotericism.
 
-OTO: The OTO's most significant contribution to contemporary occultism is undoubtedly the widespread dissemination of Crowley's philosophy of Thelema. The order continues to function to this day, attracting those interested in Thelemic magick and related practices.
+**OTO**: The OTO's most significant contribution to contemporary occultism is undoubtedly the widespread dissemination of Crowley's philosophy of Thelema. The order continues to function to this day, attracting those interested in Thelemic magick and related practices.
 
-RC: Although the historicity of the Rosicrucian Order remains ambiguous, it has inspired numerous groups claiming lineage from it. The RC provided a symbolic and allegorical approach to the esoteric path, influencing modern orders such as the Hermetic Order of the Golden Dawn and the Ancient Mystical Order Rosae Crucis (AMORC).
+**RC**: Although the historicity of the Rosicrucian Order remains ambiguous, it has inspired numerous groups claiming lineage from it. The RC provided a symbolic and allegorical approach to the esoteric path, influencing modern orders such as the Hermetic Order of the Golden Dawn and the Ancient Mystical Order Rosae Crucis (AMORC).
 
 Modern Occult Landscape:
 

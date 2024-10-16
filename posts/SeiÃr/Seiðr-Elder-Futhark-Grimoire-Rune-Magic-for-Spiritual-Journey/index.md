@@ -23,7 +23,7 @@ excerpt: >
 
 ## Seiðr & The Elder Futhark: A Comprehensive Grimoire for Runes, Rituals, and Revelations
 
-Foreword:
+**Foreword**:
 This manual is an extensive exploration of the Elder Futhark runes within the practice of Seiðr. It seeks to provide a deeper understanding of the mystical meanings and associations of each rune, delve into their historical context and contemporary applications, and detail complex rituals and invocation methods. By following the guidance within, may you gain mastery in the mysterious art of Seiðr and unleash the powerful potency of the Elder Futhark runes in your spiritual journey.
 
 Table of Contents:
@@ -78,5 +78,5 @@ Table of Contents:
    4. Community and Connection: Rune Magic as a Bridge to Others
    5. Navigating Change: Runes for Life's Great Crossroads
 
-Conclusion:
+**Conclusion**:
 The insights provided in this grimoire serve only as a foundation for the eternal quest toward the mastery of Seiðr and the Elder Futhark runes. Practice and experimentation, coupled with unwavering dedication, are the ultimate keys to unlocking the potential of this ancient system. May you find wisdom, power, and transformation with each rune etched into the core of your being.

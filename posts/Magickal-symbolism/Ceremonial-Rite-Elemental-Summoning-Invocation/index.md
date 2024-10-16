@@ -32,7 +32,7 @@ excerpt: >
 ---
 Ceremonial Rite for Summoning the Quintessential Forces of the Elemental Realms
 
-Preparation:
+**Preparation**:
 
 1. Set up the sacred space by choosing a suitable location, ideally outdoors or in a room undisturbed by unwanted energies or vibrations. Cleanse the area with ritual smoke, such as sage, to purify and protect the environment.
 

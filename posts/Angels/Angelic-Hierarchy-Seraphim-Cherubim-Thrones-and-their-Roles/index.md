@@ -30,7 +30,7 @@ The most accurate description from the options is:
 
 - Seraphim are the highest-ranking angels who radiate divine love, Cherubim maintain celestial knowledge, and Thrones support the foundation of God's divine will.
 
-Explanation:
+**Explanation**:
 
 In the study of angelology, there are various hierarchies and classifications of angels that have been proposed by theologians, mystics, and scholars. **One of the most widely recognized and cited hierarchies is the one proposed by the 5th-century Christian philosopher Pseudo-Dionysius the Areopagite, who categorized angels into three triads or spheres, each consisting of three orders**:
 

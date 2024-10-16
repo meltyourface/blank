@@ -32,7 +32,7 @@ excerpt: >
 ---
 Answer: All of the above
 
-Explanation: The aftermath of a nuclear strike is characterized by a multitude of detrimental effects that impact both the environment and human society. These factors are interconnected and amplify the overall damage caused by the nuclear event. **The primary factors include**:
+**Explanation**: The aftermath of a nuclear strike is characterized by a multitude of detrimental effects that impact both the environment and human society. These factors are interconnected and amplify the overall damage caused by the nuclear event. **The primary factors include**:
 
 1. **Radioactive fallout and widespread contamination**: The explosion of a nuclear weapon releases vast amounts of radiation into the atmosphere, which descends as "fallout" particles. These radioactive contaminants can contaminate air, water, soil, and ultimately enter the food chain. Exposure to fallout can cause acute and chronic health issues, such as radiation sickness, cancers, and birth defects.
 

@@ -55,4 +55,4 @@ Activating the Talisman:
 **Step 6**: Emergence from the Ritual
 - Once the ritual is complete, gently bring your awareness back to your physical surroundings, maintaining an awareness of the potent bond with your Spirit-double. Wear the talisman whenever you wish to enhance the connection with your Spirit-double.
 
-Note: It is recommended to regularly cleanse and recharge the talisman after use to maintain its effectiveness.
+**Note**: It is recommended to regularly cleanse and recharge the talisman after use to maintain its effectiveness.

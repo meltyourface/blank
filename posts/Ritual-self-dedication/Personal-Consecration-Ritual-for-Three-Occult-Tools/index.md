@@ -28,17 +28,17 @@ For this ritual, I have chosen the following three occult tools that hold person
 3. **Wand**: A ritual tool used for directing energies, embodying the element of fire and willpower.
 **Step 2**: Acquire in-depth knowledge of the symbols, elements, and spiritual energies associated with each tool.
 
-Athame:
+**Athame**:
 - Symbols: Swords and daggers
 - Element: Air
 - Spiritual Energies: Intellect and clarity of thought
 
-Chalice:
+**Chalice**:
 - Symbols: Cups and cauldrons
 - Element: Water
 - Spiritual Energies: Emotions and intuition
 
-Wand:
+**Wand**:
 - Symbols: Staffs and scepters
 - Element: Fire
 - Spiritual Energies: Willpower and transformation

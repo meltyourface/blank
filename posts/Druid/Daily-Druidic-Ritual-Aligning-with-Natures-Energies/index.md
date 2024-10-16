@@ -26,17 +26,17 @@ Select a tranquil location within a forest, near a body of water or a serene nat
 
 Adorn the altar with representations of the four elements - Earth, Air, Fire, and Water. Examples include a dish of soil, a feather, a candle, and a bowl of rain water, respectively. Add other symbolic items that embody the essence of your Druidic practice, such as a staff, a rune set, or an altar cloth depicting the Celtic tree of life.
 
-Meditation:
+**Meditation**:
 
 Begin the daily ritual by grounding and centering yourself in quiet contemplation. Close your eyes and take several deep breaths. Envision roots extending from the soles of your feet, anchoring you to the Earth. Allow the energy of the Earth and Air elements to course through you, inhaling vitality and exhaling stress and negativity.
 
 Peer inward and embark on a guided visualization journey. Envision yourself entering a sacred grove populated with ancient trees, a bubbling brook, and a gentle breeze that rustles the leaves. Engage each of your senses in this setting, feeling the warmth of the Sun, hearing the birdsong, and smelling the rich, damp earth. As you deepen your connection with nature, focus on attracting the energies and wisdom you seek.
 
-Chanting:
+**Chanting**:
 
 Transition from meditating to chanting by taking a few deep, centered breaths. Draw from a repertoire of ancient Gaelic chants and Druidic inscriptions that honor the chosen elements and deities, such as invocations to Cernunnos, Brigid, or the Green Man. Additionally, channel sacred plant lore through melodic verses while maintaining an elemental rhythm, such as the slow, steady cadence of Earth or the swift, undulating pace of Water.
 
-Offerings:
+**Offerings**:
 
 End the ritual by presenting mindful offerings to the spirits and energies you have invoked. Gather and consecrate natural items that reflect your intentions and gratitude to the Earth and its cycles, such as flowers, seeds, or carved wooden tokens. Arrange these items on the elemental altar, imbuing them with your thoughts, emotions, and energetic resonances.
 
@@ -44,7 +44,7 @@ Seasonal Rituals:
 
 Throughout the year, incorporate creative rituals that align with the eight main observances of the Druidic Wheel of the Year. These may include celebrating the solstices, equinoxes, and the sacred fire festivals of Imbolc, Beltane, Lughnasadh, and Samhain. Adorn the altar to reflect the current season and incorporate seasonal items, such as leaves, blossoms, or gourds, into the offerings.
 
-Closing:
+**Closing**:
 
 To complete the daily Druidic ritual, express your gratitude to the elements, the spirits, and the energies that have guided and supported you. Request their continued presence and protection in your life. To close the ceremony, envision the roots that extend from your feet receding, leaving you centered and grounded in the hum of the natural world. Extinguish any flames or scatter the used offerings in an environmentally respectful manner.
 

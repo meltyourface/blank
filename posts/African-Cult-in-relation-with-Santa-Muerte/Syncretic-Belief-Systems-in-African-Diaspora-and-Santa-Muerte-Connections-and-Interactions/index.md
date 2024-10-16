@@ -50,6 +50,6 @@ For example, in Santería, the orishas (divine beings) are often identified with
 
 In the Santa Muerte tradition, the veneration of this folk-saint often coexists with other religious practices, both traditional and non-traditional, making it an eclectic and adaptive spirituality.
 
-Conclusion:
+**Conclusion**:
 
 In conclusion, the interconnection of the syncretic belief systems in the African Diaspora and the Santa Muerte tradition is grounded in their shared origins in colonialism and subjugation. Both share common themes of resistance, adaptation, and transformation in response to oppressive conditions. They have both developed a complex understanding of death as a transformative force and see their practices as empowering, offering protection and support to those who have been marginalized. These belief systems have forged unique mythologies and rituals that reflect the fusion of disparate cultures, forming heterodox spiritual traditions that continue to evolve and adapt to changing circumstances.

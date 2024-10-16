@@ -22,7 +22,7 @@ excerpt: Decipher and interpret an arcane grimoire, specifically rooted in Occul
 
 ## Liber Occultus Arcanorum
 
-Introduction: The Liber Occultus Arcanorum, penned by an enigmatic and mystically-dedicated oracle named Semident Wistahm, is a significant tome within traditional occult lore for its powerful, esoteric delineations of ancient theurgical rites and magical practices. Through a thorough examination of this arcane manuscript's Latin contents, this modernized English translation captures its symbolic essence and provides elucidatory context to lighten the path of contemporary occultists, imbued with the clarity of Orthodox tradition.
+**Introduction**: The Liber Occultus Arcanorum, penned by an enigmatic and mystically-dedicated oracle named Semident Wistahm, is a significant tome within traditional occult lore for its powerful, esoteric delineations of ancient theurgical rites and magical practices. Through a thorough examination of this arcane manuscript's Latin contents, this modernized English translation captures its symbolic essence and provides elucidatory context to lighten the path of contemporary occultists, imbued with the clarity of Orthodox tradition.
 
 ### Chapter I: The Four Elements
 
@@ -44,4 +44,4 @@ The Liber Occultus Arcanorum delves into astral projection, a practice where the
 
 In this final chapter, the grimoire expounds upon the significance of Sacred Geometry in the Occult orthodoxy. The Flower of Life pattern, composed of overlapping circles, is key to understanding the interconnectedness of all living things and the universe's energetic fabric. This chimes with the spiritual understandings of Kabbalistic, Pythagorean, and Hermetic thought.
 
-Conclusion: Through the meticulous translation of the grimoire's Latin contents, a contemporary digest has been rendered, preserving the nuances and symbolism intrinsic to the Liber Occultus Arcanorum. By enlightening modern students with its esoteric intricacies and historical significance, this grimoire continues to hold immense value in the Orthodox Occult domain.
+**Conclusion**: Through the meticulous translation of the grimoire's Latin contents, a contemporary digest has been rendered, preserving the nuances and symbolism intrinsic to the Liber Occultus Arcanorum. By enlightening modern students with its esoteric intricacies and historical significance, this grimoire continues to hold immense value in the Orthodox Occult domain.

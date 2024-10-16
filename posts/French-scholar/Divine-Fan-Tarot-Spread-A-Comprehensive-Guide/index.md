@@ -23,7 +23,7 @@ excerpt: >
 
 ## L'Éventail Divinatoire or The Divine Fan Spread
 
-Description:
+**Description**:
 The Divine Fan Spread is an intricate and comprehensive Tarot spread, inspired by the esoteric knowledge of 18th century French cartomancy. This spread makes use of all 78 Tarot cards, consisting of 22 major arcana cards and 56 minor arcana cards. It includes key principles and symbolism championed by Antoine Court de Gébelin and Etteilla, as well as takes into account historical, cultural, and occult significance of French cartomancy practices. 
 
 The Layout:

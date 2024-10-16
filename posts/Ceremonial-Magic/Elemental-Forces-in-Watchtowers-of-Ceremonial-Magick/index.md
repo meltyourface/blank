@@ -25,11 +25,11 @@ Ceremonial Magic: Ceremonial Magic, also known as High Magic or Ritual Magic, is
 
 Elemental Forces: In the context of Ceremonial Magic, the four elemental forces are considered to be the foundational energies that make up the universe, namely, Fire, Water, Air, and Earth. Each element is associated with specific qualities, attributes, and symbolism that are essential for understanding and working with the magical forces.
 
-Watchtowers: The Watchtowers are a central concept in Ceremonial Magic and refer to the four cardinal points in a magical circle, which are associated with the four elemental forces. They represent the protective boundaries of the circle and are considered to be portals that enable the magician to channel and communicate with the elemental and spiritual forces with a balanced and harmonious approach.
+**Watchtowers**: The Watchtowers are a central concept in Ceremonial Magic and refer to the four cardinal points in a magical circle, which are associated with the four elemental forces. They represent the protective boundaries of the circle and are considered to be portals that enable the magician to channel and communicate with the elemental and spiritual forces with a balanced and harmonious approach.
 
 Elemental Kings: The Elemental Kings are personifications of the raw elemental forces and are considered to be powerful spiritual entities within the system of Ceremonial Magic. They are responsible for governing and controlling the elemental energies and are usually invoked and honored during magical rituals to maintain harmony and equilibrium within the elemental forces.
 
-Equilibrium: In the context of the philosophy of Ceremonial Magic, equilibrium refers to the harmonious balance between the elemental forces and the individual's experience of reality. It emphasizes the importance of achieving a stable balance between the different aspects of one's life and spiritual practice, and it is considered a necessary condition for the successful execution of magical work.
+**Equilibrium**: In the context of the philosophy of Ceremonial Magic, equilibrium refers to the harmonious balance between the elemental forces and the individual's experience of reality. It emphasizes the importance of achieving a stable balance between the different aspects of one's life and spiritual practice, and it is considered a necessary condition for the successful execution of magical work.
 
 Now, let's discuss the roles and relationships of the four elemental forces in the construction and application of the Watchtowers within a Ceremonial Magical circle and their connection to the Elemental Kings and the philosophical concept of equilibrium.
 

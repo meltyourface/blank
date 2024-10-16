@@ -25,7 +25,7 @@ I will design an elaborate self-initiation ritual within the realm of Radical th
 Stage 1: Calcination
 The purpose of Calcination is to break the ego and old habits. 
 
-Incantation: "O, Ancient Fire, purify my soul, lest it be calcined by ashes!"
+**Incantation**: "O, Ancient Fire, purify my soul, lest it be calcined by ashes!"
 
 Altar setup:
 - A wooden or stone table decorated with Hermetic symbols
@@ -34,14 +34,14 @@ Altar setup:
 - Alchemical fire symbol on a piece of parchment
 - Pyrite or black tourmaline crystal
 
-Offering: Pass a written list of personal habits through the flame of the candle.
+**Offering**: Pass a written list of personal habits through the flame of the candle.
 
 Ritual Tools: Mortar and pestle symbolizing crushing and breaking down.
 
 Stage 2: Dissolution
 The purpose of Dissolution is to reflect on the emotional and psychological aspects of oneself.
 
-Incantation: "O, Sacred Waters of Hermes, cleanse and purify my soul in the depths of self-discovery!"
+**Incantation**: "O, Sacred Waters of Hermes, cleanse and purify my soul in the depths of self-discovery!"
 
 Altar setup:
 - Maintain the Hermetic symbols from the first stage
@@ -49,14 +49,14 @@ Altar setup:
 - Replace the pyrite or black tourmaline with a clear quartz or selenite crystal
 - Bowl of water with flower petals in it
 
-Offering: Submerge the ashes of the list of habits in the bowl of water.
+**Offering**: Submerge the ashes of the list of habits in the bowl of water.
 
 Ritual Tools: A chalice or cup to represent emotional purification.
 
 Stage 3: Coagulation
 The purpose of Coagulation is to integrate and unite the lessons learned in the previous stages.
 
-Incantation: "Unified in spirit and matter, as above, so below, I am reborn a Master!"
+**Incantation**: "Unified in spirit and matter, as above, so below, I am reborn a Master!"
 
 Altar setup:
 - Maintain the Hermetic symbols from the first two stages
@@ -64,7 +64,7 @@ Altar setup:
 - Replace the clear quartz or selenite with a lapis lazuli or amethyst crystal
 - A ritual dagger to symbolize the power of the will
 
-Offering: Bury the ashes of the list in the earth or release them into the wind.
+**Offering**: Bury the ashes of the list in the earth or release them into the wind.
 
 Ritual Tools: A wand or staff to symbolize the uniting of personal power.
 

@@ -22,7 +22,7 @@ excerpt: Develop a comprehensive proposal for a multi-day virtual conference ded
 
 ## Global Resurgence of Indigenous Shamanistic Practices: A Multi-Day Virtual Conference
 
-Objective: To foster a global understanding of indigenous shamanistic practices, their historical context, contemporary challenges, and innovative methods of preservation and promotion through a multi-day virtual conference hosting renowned keynote speakers, themed breakout sessions, and immersive symposiums. 
+**Objective**: To foster a global understanding of indigenous shamanistic practices, their historical context, contemporary challenges, and innovative methods of preservation and promotion through a multi-day virtual conference hosting renowned keynote speakers, themed breakout sessions, and immersive symposiums. 
 
 Conference Overview:
 Duration: 5 days
@@ -84,6 +84,6 @@ Budget Proposal:
 6. Conference coordination and administration: $4,000
 7. Miscellaneous expenses: $2,000
 
-Total: $52,000
+**Total**: $52,000
 
 In Summary, the Global Resurgence of Indigenous Shamanistic Practices conference is designed to provide an interactive and immersive experience for participants while promoting understanding, preserving traditions, and fostering collaboration between indigenous communities. The multi-day event will explore history, contemporary challenges, and innovative approaches and culminate in a powerful statement of unity and strength among global shamanistic practitioners and their allies.

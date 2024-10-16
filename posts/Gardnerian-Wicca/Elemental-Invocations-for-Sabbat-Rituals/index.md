@@ -22,11 +22,11 @@ excerpt: Compose a series of Gardnerian Wiccan invocations for each of the four 
 ---
 Invocations:
 
-Element: Earth
+**Element**: Earth
 Phase of the Moon: Full Moon
 Sabbat: Yule
 
-Beseech:
+**Beseech**:
 
 Hail, Guardians of the North, Spirits of Earth!
 We stand at the heart of Winter’s embrace,
@@ -42,11 +42,11 @@ Stand with us, Guardians of Earth, in this sacred rite,
 That we may celebrate the season and the full moon's light.
 So mote it be!
 
-Element: Air
+**Element**: Air
 Phase of the Moon: Waxing Moon
 Sabbat: Imbolc
 
-Beseech:
+**Beseech**:
 
 Hail, Guardians of the East, Spirits of Air!
 We tread the path of the rising sun, as the waxing moon ascends,
@@ -62,11 +62,11 @@ Join us, Guardians of Air, in this transformative rite,
 As we celebrate the waxing moon and the seasons’ change.
 So mote it be!
 
-Element: Fire
+**Element**: Fire
 Phase of the Moon: New Moon
 Sabbat: Beltane
 
-Beseech:
+**Beseech**:
 
 Hail, Guardians of the South, Spirits of Fire!
 In the newness of the moon, we come to the heart of Spring,
@@ -82,11 +82,11 @@ Stand with us, Guardians of Fire, in this exalted rite,
 To celebrate the new moon and the joyous Beltane height.
 So mote it be!
 
-Element: Water
+**Element**: Water
 Phase of the Moon: Waning Moon
 Sabbat: Samhain
 
-Beseech:
+**Beseech**:
 
 Hail, Guardians of the West, Spirits of Water!
 We wander amid the waning moon,

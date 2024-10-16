@@ -41,7 +41,7 @@ Phase 2: Invocation
 
 Invoke the dark aspects of the Silvaticae pantheon. Request their guidance and assistance in confronting the practitioner's shadow self and illuminating their unconscious patterns.
 
-Prayer:
+**Prayer**:
 
 "Dark ones, guardians of the hidden realm,
 I call upon thee to aid me in my quest.

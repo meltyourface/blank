@@ -22,9 +22,9 @@ excerpt: Design a comprehensive training regimen to bolster the astral form with
 
 ## Beyond AkashaLife - Astral Projection Training Regimen
 
-Objective: Enhance astral projection capabilities within the realm of Beyond Akasha - Life after death through deepened connection and mastery of the ethereal being.
+**Objective**: Enhance astral projection capabilities within the realm of Beyond Akasha - Life after death through deepened connection and mastery of the ethereal being.
 
-Structure:
+**Structure**:
 1. Mental Exercises
 2. Physical Exercises
 3. Spiritual Exercises

@@ -24,7 +24,7 @@ excerpt: >
 ---
 C. Having elemental representations in the order of Air, Fire, Water, and Earth clockwise, starting from the east.
 
-Explanation:
+**Explanation**:
 In occult practices, altar setups play a crucial role in performing rituals and establishing a connection with the energies and forces at work. The arrangement of elements on an altar embodies the principles of balance and unity, both of which are essential in creating harmony and promoting successful outcomes.
 
 The association between cardinal directions and elements is based on various esoteric and magical traditions, but one of the most widely accepted combinations is the one derived from the Western tradition:

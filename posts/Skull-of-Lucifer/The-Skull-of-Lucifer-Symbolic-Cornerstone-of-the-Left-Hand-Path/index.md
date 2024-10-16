@@ -22,7 +22,7 @@ excerpt: Compose an in-depth dissertation investigating the significance and fun
 
 ## The Skull of Lucifer: Emblematic Artifact of the Left-Hand Path and Shaper of Occult Ideologies
 
-Abstract:
+**Abstract**:
 The present dissertation examines the significance and function of the Skull of Lucifer as a principal artifact within the Left-Hand Path. By investigating its historical roots, symbolic meanings, associated rituals, and influences on contemporary practitioners and ideologies, we aim to provide a comprehensive and critical analysis of its multifaceted role in shaping the Left-Hand Path as a distinct belief system and practice. Drawing from a wealth of occult writings, artistic representations, and ceremonial practices, this study further scrutinizes its connections to notable figures in the Left-Hand Path and the legacy they bestowed upon modern occultism.
 
 ### I. Introduction

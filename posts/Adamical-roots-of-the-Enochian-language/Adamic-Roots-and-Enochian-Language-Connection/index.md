@@ -24,7 +24,7 @@ The correct answer is:
 
 - Adamical roots directly influenced the Enochian language, as it is often considered the "recovered" language of Adam, used to communicate with God and angels, and serves as a foundation for numerous occult practices and rituals.
 
-Explanation:
+**Explanation**:
 
 In the occult tradition, the Enochian language holds a rich and complex history, with deep connections to the Adamic language, or the language spoken by Adam and Eve. As the first humans, the original language of Adam and Eve is considered the root of all languages and remains a subject of fascination for those who study the occult and esoteric knowledge.
 

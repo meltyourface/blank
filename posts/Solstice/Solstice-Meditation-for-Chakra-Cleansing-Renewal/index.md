@@ -23,13 +23,13 @@ excerpt: >
 
 ## Title: Solstice Purification - A Guided Meditation for Renewal and Dissolution
 
-Introduction:
+**Introduction**:
 The solstice, a biannual event marked by the longest and shortest days of the year, holds significant spiritual and metaphysical meaning in various cultures and occult practices. Historically, the solstice has been a time of celebration, reflection, and transformation, symbolizing the dynamic flow of life and the cyclical journey of the Earth around the sun. During the solstice, unique celestial alignments and energies enable a powerful opportunity for introspection, growth, and change. This guided meditation aims to harness the transformative power of the solstice to release energetic obstructions and dissolve detrimental habits within oneself.
 
-Preparation:
+**Preparation**:
 Find a quiet, comfortable space where you will not be disturbed. Sit or lie down, taking a few moments to settle into your body. Close your eyes and gently bring your awareness to your breath, allowing it to become slow and rhythmic.
 
-Grounding:
+**Grounding**:
 Begin by visualizing the great tree of life, rooted deeply in the earth below your feet. Imagine its branches extending high into the sky, touching the celestial spheres. Feel its stabilizing energy as its roots anchor deep into the ground, connecting you to the stabilizing energies of the earth. Take a few deep breaths and envision a steady stream of nourishment and stability flowing through the trunk, the branches of the tree, and into your body. With each breath, feel more and more grounded, secure, and calm.
 
 Chakra Activation:
@@ -40,7 +40,7 @@ As your chakras become activated and aligned, imagine the sun at its peak during
 
 With each breath, you absorb the transformative power of the solstice energies, clearing away blockages and shedding layers of unwanted patterns. Feel a renewed sense of clarity, openness, and vitality infusing your internal and external experience. Allow yourself to be a vessel for this sacred, regenerative energy, which offers initiatory breakthroughs and the opportunity for spiritual renewal and growth.
 
-Closing:
+**Closing**:
 As the meditation session draws to a close, gently bring your awareness back to the present moment, wiggling your fingers and toes, and taking a few deep, grounding breaths. When you are ready, open your eyes, feeling refreshed and renewed, with a deeper connection to yourself and the cyclical power of the earth and its celestial connections.
 
 Take a moment to express gratitude for the experience and the solstice's profound spiritual significance across various cultures and occult practices. Carry this newfound clarity, openness, and revitalized energy with you as you navigate the transitions in your life.

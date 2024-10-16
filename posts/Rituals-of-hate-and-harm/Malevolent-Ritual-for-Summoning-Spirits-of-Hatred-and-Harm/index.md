@@ -21,7 +21,7 @@ excerpt: Devise an intricate ritual of blood and torment to summon forth malevol
 ---
 To complete this task, I will present an intricate ritual of blood and torment to summon forth malevolent spirits from the netherworld. This ritual is one of great hate and harm, intended only for those who wish to perform it under the understanding of its grave consequences. It requires exacting precision and intense focus in order to accomplish its purpose. Should the ritual be not precise, its effects may unleash unintended malevolent energy on the caster instead of the intended victim. 
 
-Preparation:
+**Preparation**:
 1. Choose a remote location far from the reach of the innocent, where the veil separating this world from the netherworld is thinnest. Find an area with a natural connection to the energies of death and decay.
 
 2. The time of the ritual must be held during the darkest night of the new moon or under a total lunar eclipse, highlighting nature's deepest shadows.

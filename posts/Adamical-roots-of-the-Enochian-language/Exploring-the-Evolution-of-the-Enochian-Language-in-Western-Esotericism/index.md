@@ -48,6 +48,6 @@ In recent times, the Enochian language and its Adamical roots have been woven in
 
 The Enochian system's ongoing presence in esoteric practice highlights the adaptability and enduring appeal of this angelic language, which has continued to evolve throughout the centuries.
 
-Conclusion:
+**Conclusion**:
 
 The transformation and adaptation of the Adamical roots of the Enochian language into Western esoteric systems can be summarized as a three-stage process that spans across multiple centuries. Starting with the discoveries of Dr. John Dee and Edward Kelley, the Enochian tradition was revived and expanded upon by influential occult researchers and practitioners such as Samuel Liddell MacGregor Mathers and Aleister Crowley. Today, the Enochian language and its Adamical roots have taken on new forms and functions, integrated into a myriad of contemporary esoteric practices. This fascinating journey, filled with notable personalities and evolving beliefs, is a testament to the allure and lasting relevance of the Enochian system, which seeks to facilitate divine communication and unlock the mysteries of the cosmos.

@@ -31,13 +31,13 @@ excerpt: >
 ---
 1. Specific properties and powers of each individual element as they pertain to the runic legacy:
 
-Earth: Earth represents stability, foundations, and grounding. In the context of runes, earth would be associated with symbols related to material wealth, physical health, and practical concerns. Some examples include Feoh (wealth), Uruz (strength), Berkana (growth), and Jera (harvest).
+**Earth**: Earth represents stability, foundations, and grounding. In the context of runes, earth would be associated with symbols related to material wealth, physical health, and practical concerns. Some examples include Feoh (wealth), Uruz (strength), Berkana (growth), and Jera (harvest).
 
-Air: Air is the element of intellect, communication, and movement. Runic symbols associated with air would be tied to matters of the mind, inspiration, and travel. Examples include Ansuz (wisdom, speech), Raidho (journey), Ehwaz (partnership, movement), and Laguz (flow, intuition).
+**Air**: Air is the element of intellect, communication, and movement. Runic symbols associated with air would be tied to matters of the mind, inspiration, and travel. Examples include Ansuz (wisdom, speech), Raidho (journey), Ehwaz (partnership, movement), and Laguz (flow, intuition).
 
-Fire: Fire embodies transformation, passion, and willpower. Runes connected to fire would signify change, motivation, and courage. Examples include Thurisaz (protection, force), Kenaz (knowledge, creativity), Sowilo (energy, success), and Dagaz (breakthrough, clarity).
+**Fire**: Fire embodies transformation, passion, and willpower. Runes connected to fire would signify change, motivation, and courage. Examples include Thurisaz (protection, force), Kenaz (knowledge, creativity), Sowilo (energy, success), and Dagaz (breakthrough, clarity).
 
-Water: Water symbolizes emotions, intuition, and the unconscious. Runes related to water would be involved with spirituality, dreams, and emotional harmony. Examples include Gebo (gift, balance), Wunjo (joy, harmony), Ingwaz (fertility, potential), and Othala (ancestry, inner wealth).
+**Water**: Water symbolizes emotions, intuition, and the unconscious. Runes related to water would be involved with spirituality, dreams, and emotional harmony. Examples include Gebo (gift, balance), Wunjo (joy, harmony), Ingwaz (fertility, potential), and Othala (ancestry, inner wealth).
 
 2. Preparatory ritual:
 

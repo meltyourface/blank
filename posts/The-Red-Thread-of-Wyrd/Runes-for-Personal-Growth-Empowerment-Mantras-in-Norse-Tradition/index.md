@@ -21,64 +21,64 @@ excerpt: Develop an intricate series of mantras for invoking the power of the Ru
 ---
 ## I. ᚠ - Fehu: Wealth, Prosperity, and New Beginnings
 
-Mantra: "Vefr fehu awyrd, grennji gullaur Grímnir sunda."
+**Mantra**: "Vefr fehu awyrd, grennji gullaur Grímnir sunda."
 
-Translation: "Weave Fehu's thread, spark golden fire of Grímnir's depths."
+**Translation**: "Weave Fehu's thread, spark golden fire of Grímnir's depths."
 
-Intent: This mantra invokes the power of Fehu, connecting the practitioner with the energies of wealth, prosperity, and abundance, sparking the flames of new opportunities and beginnings. It calls on Grímnir, the hooded aspect of Odin, the Norse god associated with knowledge and wisdom.
+**Intent**: This mantra invokes the power of Fehu, connecting the practitioner with the energies of wealth, prosperity, and abundance, sparking the flames of new opportunities and beginnings. It calls on Grímnir, the hooded aspect of Odin, the Norse god associated with knowledge and wisdom.
 
 ### II. ᚢ - Uruz: Strength, Stamina, and Health
 
-Mantra: "Breid uruz nid wyrd, eldaj örugg stendr Ymir bloð."
+**Mantra**: "Breid uruz nid wyrd, eldaj örugg stendr Ymir bloð."
 
-Translation: "Bind Uruz's thread, stand firmly encircled by Ymir's blood."
+**Translation**: "Bind Uruz's thread, stand firmly encircled by Ymir's blood."
 
-Intent: This mantra invokes the power of Uruz, enhancing the physical strength, stamina, and health of the practitioner. It refers to the primordial giant Ymir, whose body formed the physical world, emphasizing a strong foundation and elemental connection.
+**Intent**: This mantra invokes the power of Uruz, enhancing the physical strength, stamina, and health of the practitioner. It refers to the primordial giant Ymir, whose body formed the physical world, emphasizing a strong foundation and elemental connection.
 
 ### III. ᚦ - Thurisaz: Protection, Thresholds, and Chaos
 
-Mantra: "Spinna Þurs fer milröst, skyrga hlym ráðr Mimir eski."
+**Mantra**: "Spinna Þurs fer milröst, skyrga hlym ráðr Mimir eski."
 
-Translation: "Spin Thurisaz's thread, shield my path with Mimir's counsel."
+**Translation**: "Spin Thurisaz's thread, shield my path with Mimir's counsel."
 
-Intent: This mantra summons the power of Thurisaz to protect the practitioner from chaotic forces and obstacles. It invokes Mimir, the wise being who guards the well of wisdom, ensuring that the practitioner receives clear guidance and remains centered amidst chaos.
+**Intent**: This mantra summons the power of Thurisaz to protect the practitioner from chaotic forces and obstacles. It invokes Mimir, the wise being who guards the well of wisdom, ensuring that the practitioner receives clear guidance and remains centered amidst chaos.
 
 ### IV. ᚬ - Ansuz: Wisdom, Communication, and Inspiration
 
-Mantra: "Rista ansuz skyn, orða vetr stær Yggdrasil askr."
+**Mantra**: "Rista ansuz skyn, orða vetr stær Yggdrasil askr."
 
-Translation: "Carve Ansuz's insight, speak the ancient words upon Yggdrasil's ash."
+**Translation**: "Carve Ansuz's insight, speak the ancient words upon Yggdrasil's ash."
 
-Intent: This mantra connects the practitioner with the wisdom of the runes, empowering their communication and creative abilities. It invokes Yggdrasil, the World Tree, grounding intentions and inspiring purposeful action to manifest desired outcomes.
+**Intent**: This mantra connects the practitioner with the wisdom of the runes, empowering their communication and creative abilities. It invokes Yggdrasil, the World Tree, grounding intentions and inspiring purposeful action to manifest desired outcomes.
 
 ### V. ᚱ - Raido: Journey, Destiny, and Transformation
 
-Mantra: "Gefa þrek reið veikr, hverfa veg kinja Yngvi hest."
+**Mantra**: "Gefa þrek reið veikr, hverfa veg kinja Yngvi hest."
 
-Translation: "Grant strength with Raido's stride, shift the path with Yngvi's horse."
+**Translation**: "Grant strength with Raido's stride, shift the path with Yngvi's horse."
 
-Intent: This mantra invokes the power of Raido, guiding the practitioner through transformative journeys and aligning with their true destiny. It asks Yngvi, a name for the Norse god Freyr, to help shape these journeys with his divine steed Blótihófi, symbolizing swiftness and adaptability.
+**Intent**: This mantra invokes the power of Raido, guiding the practitioner through transformative journeys and aligning with their true destiny. It asks Yngvi, a name for the Norse god Freyr, to help shape these journeys with his divine steed Blótihófi, symbolizing swiftness and adaptability.
 
 ### VI. ᚲ - Kaunan: Fire, Purification, and Illumination
 
-Mantra: "Elsta keni levsim, róa ljós eldr valkyrja Surt."
+**Mantra**: "Elsta keni levsim, róa ljós eldr valkyrja Surt."
 
-Translation: "Awaken Kaunan's rekindling, row the fiery chariot of Surt's valkyries."
+**Translation**: "Awaken Kaunan's rekindling, row the fiery chariot of Surt's valkyries."
 
-Intent: This mantra summons the power of Kaunan, igniting inner fire and purifying the spirit. It incorporates the fire giant Surt, calling upon the fierce, purifying energies of his valkyries to guide and illuminate the practitioner's path.
+**Intent**: This mantra summons the power of Kaunan, igniting inner fire and purifying the spirit. It incorporates the fire giant Surt, calling upon the fierce, purifying energies of his valkyries to guide and illuminate the practitioner's path.
 
 ### VII. ᚷ - Gebo: Gifts, Balance, and Sacrifice
 
-Mantra: "Knyytja gipta gard, vinda vixlaur Njörðr fitja."
+**Mantra**: "Knyytja gipta gard, vinda vixlaur Njörðr fitja."
 
-Translation: "Knot Gebo's graciousness, balance Njörðr's varying gifts."
+**Translation**: "Knot Gebo's graciousness, balance Njörðr's varying gifts."
 
-Intent: This mantra taps into the energy of Gebo, fostering generosity, gratitude, and balance. It invokes Njörðr, the Norse god of sea and wealth, encouraging the proper exchange and appreciation of gifts and sacrifices in all aspects of life.
+**Intent**: This mantra taps into the energy of Gebo, fostering generosity, gratitude, and balance. It invokes Njörðr, the Norse god of sea and wealth, encouraging the proper exchange and appreciation of gifts and sacrifices in all aspects of life.
 
 ### VIII. ᚹ - Wunjo: Joy, Harmony, and Fellowship
 
-Mantra: "Skrid wunjo hjol, blidari tröm Baldr draumr skini."
+**Mantra**: "Skrid wunjo hjol, blidari tröm Baldr draumr skini."
 
-Translation: "Stride Wunjo's wheel, spread Baldr's warm dreamlight."
+**Translation**: "Stride Wunjo's wheel, spread Baldr's warm dreamlight."
 
-Intent: This mantra invokes Wunjo's power, promoting joy, harmony, and fellowship within oneself and with others. It incorporates the light of Baldr, the beloved Norse god, urging the practitioner to share their inner joy and radiance with the world.
+**Intent**: This mantra invokes Wunjo's power, promoting joy, harmony, and fellowship within oneself and with others. It incorporates the light of Baldr, the beloved Norse god, urging the practitioner to share their inner joy and radiance with the world.

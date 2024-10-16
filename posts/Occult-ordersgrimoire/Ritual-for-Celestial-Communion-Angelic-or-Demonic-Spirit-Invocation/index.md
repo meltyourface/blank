@@ -22,7 +22,7 @@ excerpt: Compose a detailed grimoire entry for a ritual designed to establish co
 
 ## The Ritual of Celestial Communion
 
-Objective: Establish communication with a chosen angelic or demonic spirit from the realm of the Occult ordersgrimoire for guidance, knowledge, or power.
+**Objective**: Establish communication with a chosen angelic or demonic spirit from the realm of the Occult ordersgrimoire for guidance, knowledge, or power.
 
 Materials Required:
 1. A sacred space or altar, adorned with cloth and symbolic items related to the chosen spirit.

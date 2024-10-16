@@ -22,13 +22,13 @@ excerpt: Devise an immersive archetype-based storytelling game that fully embrac
 
 ## Enigmas of the Sacred Elements
 
-Overview:
+**Overview**:
 Enigmas of the Sacred Elements is an immersive archetype-based storytelling game set in the intricate and enigmatic world of Hymns of Fire and WineSpare's Book of Pleasure. Players take on distinct archetypes, embodying the attributes of Hymns of Fire and their counterparts from WineSpare's Book. With a comprehensive narrative that challenges players to solve mystifying riddles, perform elaborate rituals, and navigate their character's intricate relationships, Enigmas of the Sacred Elements fosters an environment of creative expression and self-discovery.
 
-Objective:
+**Objective**:
 The game aims to give players a deeper understanding of the esoteric knowledge presented in Hymns of Fire and WineSpare's Book of Pleasure by requiring them to intertwine their character's goals and motivations with the broader context of an ongoing struggle between the forces of Fire and Wine. Players seek to unveil hidden truths that align with their character's goals, ultimately uncovering the grand mystery hidden within the enigmatic world.
 
-Setting:
+**Setting**:
 The game takes place in an alternate reality, in a world populated by distinct spiritual societies, each dedicated to the practice of sacred Fire and Wine rituals. **The societies are separated into two factions**: the Keepers of the Flame and the Connoisseurs of the Grape. Throughout the story, players will traverse the vast, mystifying landscapes of this world, encountering potent symbols that guide or hinder their path, and characters who may aid or challenge their progress.
 
 Character Archetypes:
@@ -39,7 +39,7 @@ Each player chooses or is assigned an archetype to embody for the duration of th
 3. **Elementalist**: A being born of both Fire and Wine, possessing the unique ability to commune with each element directly and balance their powers.
 4. **Mystic Scholar**: A seeker of knowledge who yearns for truth, guided by books of esoteric wisdom, including Hymns of Fire and WineSpare's Book of Pleasure.
 
-Gameplay:
+**Gameplay**:
 Enigmas of the Sacred Elements relies on collaborative storytelling and improvisation, as players progress through a series of scenarios involving rituals, riddles, and interpersonal turmoil. Each scenario is designed to engage players in weaving their character's narrative, encouraging deep understanding and identification with their chosen archetype. To move forward, players must use their esoteric knowledge and creative problem-solving skills to uncover the hidden truths within each challenge.
 
 Victory Conditions:

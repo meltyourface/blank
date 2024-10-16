@@ -21,7 +21,7 @@ excerpt: Design an intricate timetable for mastering the ceremonial rites linked
 ---
 Week 1: The Sun
 
-Monday:
+**Monday**:
 - Morning: Study the solar symbols, correspondences, and astrological aspects related to the Sun.
 - Afternoon: Consecrate a solar talisman/amulet to enhance your connection to the Sun.
 - Evening: Perform a solar invocation, focusing on vital energy, creativity, and success.
@@ -33,7 +33,7 @@ Tuesday through Sunday:
 
 Week 2: The Moon
 
-Monday:
+**Monday**:
 - Morning: Study lunar symbols, correspondences, and astrological aspects connected to the Moon.
 - Afternoon: Consecrate a lunar talisman/amulet to enhance your connection to the Moon.
 - Evening: Perform a lunar invocation, focusing on intuition, dreams, and psychic abilities.
@@ -45,7 +45,7 @@ Tuesday through Sunday:
 
 Week 3: Mars
 
-Monday:
+**Monday**:
 - Morning: Study martial symbols, correspondences, and astrological aspects related to Mars.
 - Afternoon: Consecrate a Mars talisman/amulet for strength, courage, and protection.
 - Evening: Perform a Mars invocation, focusing on martial energies, assertion, and action.
@@ -57,7 +57,7 @@ Tuesday through Sunday:
 
 Week 4: Mercury
 
-Monday:
+**Monday**:
 - Morning: Study Mercurial symbols, correspondences, and astrological aspects.
 - Afternoon: Consecrate a Mercury talisman/amulet for intellect, communication, and travel.
 - Evening: Perform a Mercury invocation, focusing on the exchange of ideas, connections, and versatility.
@@ -69,7 +69,7 @@ Tuesday through Sunday:
 
 Week 5: Jupiter
 
-Monday:
+**Monday**:
 - Morning: Study Jovian symbols, correspondences, and astrological aspects.
 - Afternoon: Consecrate a Jupiter talisman/amulet for abundance, growth, and expansion.
 - Evening: Perform a Jupiter invocation, focusing on prosperity, wisdom, and spiritual growth.
@@ -81,7 +81,7 @@ Tuesday through Sunday:
 
 Week 6: Venus
 
-Monday:
+**Monday**:
 - Morning: Study Venusian symbols, correspondences, and astrological aspects.
 - Afternoon: Consecrate a Venus talisman/amulet for love, beauty, and pleasure.
 - Evening: Perform a Venus invocation, focusing on harmony, artistic expression, and sensuality.
@@ -93,7 +93,7 @@ Tuesday through Sunday:
 
 Week 7: Saturn
 
-Monday:
+**Monday**:
 - Morning: Study Saturnian symbols, correspondences, and astrological aspects related to Saturn.
 - Afternoon: Consecrate a Saturn talisman/amulet for discipline, stability, and boundaries.
 - Evening: Perform a Saturn invocation, focusing on structure, limits, and perseverance.

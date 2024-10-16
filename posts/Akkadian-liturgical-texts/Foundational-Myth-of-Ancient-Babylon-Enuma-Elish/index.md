@@ -28,7 +28,7 @@ excerpt: >
 ---
 Answer: The Enuma Elish served as a foundational myth, strengthening the role and authority of Babylonian deities in religious ceremonies.
 
-Explanation: The Enuma Elish, also known as the Babylonian Epic of Creation, is one of the most significant texts in the context of Akkadian liturgical literature. It is a foundational myth that serves to reinforce the Babylonian religious beliefs and the importance of their deities in religious practices of the time.
+**Explanation**: The Enuma Elish, also known as the Babylonian Epic of Creation, is one of the most significant texts in the context of Akkadian liturgical literature. It is a foundational myth that serves to reinforce the Babylonian religious beliefs and the importance of their deities in religious practices of the time.
 
 This epic primarily revolves around the story of the creation of the world and the gods, and the rise of Marduk, the chief deity of Babylon, to the position of supreme authority among all other gods. The Enuma Elish was not merely a cultural narrative but was deeply embedded in the religious ceremonies of the time. It provided a context for the establishment and consolidation of the authority of the Babylonian pantheon, particularly Marduk, and the legitimacy of the Babylonian rulers, who were considered to be the human representatives of the gods.
 

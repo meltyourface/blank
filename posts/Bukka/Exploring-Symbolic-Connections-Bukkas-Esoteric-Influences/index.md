@@ -33,11 +33,11 @@ Key Symbols and Interpretations of Bukka:
 
 Comparison with Occult Principles and Practices:
 
-Resonance:
+**Resonance**:
 - Both Bukka and occult teachings emphasize the importance of personal spiritual development and self-mastery. Initiates are encouraged to delve deeply into their own psyche, attaining a heightened state of self-awareness, self-discipline, and understanding of the universe.
 - The symbols of Bukka and their associated meanings are often similar to those found within the occult, such as the concept of the three pillars (wisdom, courage, and compassion), which can also be represented by the kabbalistic sephiroth, or the Hermetic principles (mentalism, correspondence, and vibration).
 
-Contrasts:
+**Contrasts**:
 - While occult principles and practices often focus on the direct manipulation of reality through the use of ritual and magic, Bukka teachings emphasize a more internal, transformative approach through self-cultivation and personal growth.
 - Additionally, Bukka teachings adopt a more holistic approach to spiritual development, encouraging initiates to live in harmony with their environment and fellow beings, whereas occult teachings may prioritize individual attainment or power.
 

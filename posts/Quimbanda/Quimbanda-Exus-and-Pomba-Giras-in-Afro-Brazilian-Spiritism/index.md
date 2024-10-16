@@ -24,7 +24,7 @@ excerpt: >
 ---
 The correct answer is: Exus are often associated with crossroads, trickery, and transformation, while Pomba Giras embody sensuality, desire, and female mysteries.
 
-Explanation:
+**Explanation**:
 
 Quimbanda is an Afro-Brazilian religion that emerged in the early 20th century, primarily practiced in Brazil. It blends elements of African traditional religions, such as Umbanda, Candomblé, and Macumba, with Catholicism, Kardecist Spiritism, and indigenous spirituality. Quimbanda is a spirit-centered practice with a focus on working with spiritual beings called Exus and Pomba Giras to achieve personal growth, healing, and success in various aspects of life.
 

@@ -24,7 +24,7 @@ Introduction
 ---------------
 In the realm of esoteric knowledge and the occult, the use of herbs for protection has withstood the test of time. As plants possess unique properties that can be harnessed for various purposes, some possess innate energies that are ideal for promoting a safe environment and warding off negativity. In this response, I will discuss the attributes and applications of three powerful protective herbs: Angelica, Rue, and Vervain. I will delve into their historical, geographical, and symbolic significance, along with their practical uses, and demonstrate the surprising connections that align these seemingly disparate herbs, highlighting their unified origins.
 
-Angelica: The Elemental Marvel
+**Angelica**: The Elemental Marvel
 -----------------------------------
 
 Historical context: Angelica, scientifically known as 'Angelica archangelica,' can trace its history back to the medieval era when it was first valued as a healing remedy. Some legends suggest that angelica received its name because the archangel Michael revealed the plant's divine benefits to humans. In European folklore, this versatile plant has been regarded as a powerful protectant against evil spirits and is commonly associated with the celebration of St. Michael's Day.
@@ -35,7 +35,7 @@ Symbolic context: Often representing protection, healing, and strength, Angelica
 
 Practical Applications: Traditionally, Angelica has been used to create amulets, powders, and teas for protection. Root and seeds can be added to talismans or placed around one's home to protect against negative energies. A tea brewed from the leaves can purify a space or fortify protective circles during rituals.
 
-Rue: The Mighty Ward
+**Rue**: The Mighty Ward
 ------------------------
 
 Historical context: Rue, or 'Ruta graveolens,' boasts a storied past: from ancient Roman rites to early Christian purification ceremonies, this powerful herb has traversed continents and faiths. In medieval Europe, witches were said to utilize Rue in their magical practices, which later gave way to the plant's role in repelling malevolent influences.
@@ -46,7 +46,7 @@ Symbolic context: Commonly associated with clarity, vision, and protection from 
 
 Practical Applications: To benefit from Rue's warding powers, one might place dried leaves in sachets or use them to create protective talismans. Additionally, oil extracted from the plant can be applied to an amulet or blended into incense to purify negative energies.
 
-Vervain: The Enchantress Bane
+**Vervain**: The Enchantress Bane
 -----------------------------------
 
 Historical context: Vervain, also known as 'Verbena officinalis,' has an ancient lineage stretching back to the time of Druids, who considered the plant to be holy with potent magical properties. Early Christians also revered vervain as it was believed to halt the advance of witches and their enchantments.

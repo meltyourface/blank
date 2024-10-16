@@ -23,10 +23,10 @@ excerpt: >
 
 ## Purging Negativity and Channeling Inner Peace with Santa Muerte
 
-Introduction:
+**Introduction**:
 This intricate Santa Muerte ritual is specifically tailored to the individual for the purpose of purging negativity and channeling inner peace. It incorporates a blend of traditional elements, such as offerings, prayers, and candle colors, along with personalized symbols and intentions. The complexity of this ritual is further enhanced by incorporating unique celestial alignments and employing various forms of divination for guidance, ultimately producing a rich, multidimensional spiritual experience within the Santa Muerte tradition.
 
-Preparation:
+**Preparation**:
 1. Choose a date when the Moon is in its waning phase, close to the New Moon. This will provide the energy needed for the process of clearing and releasing negativity from your life. Consult an astrological calendar to find the most desirable celestial alignments for your intention.
 
 2. Set up a sacred space or altar dedicated to Santa Muerte. Cleanse the space using sage or incense, and then consecrate it with blessed water.

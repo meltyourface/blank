@@ -48,5 +48,5 @@ Their approaches to self-determination differ as well, with Radical this-worldli
 Intersection and shared principles:
 Despite their differences, both philosophies share an emphasis on empowering individuals and fostering their abilities to determine and shape their own destinies. They value critical thinking and the pursuit of knowledge as tools for human betterment.
 
-Summary:
+**Summary**:
 In conclusion, Radical this-worldliness and Transcendental idealism have contrasting perspectives on the nature of reality and self-determination, with the former prioritizing the physical world and individual autonomy, while the latter emphasizes ideal concepts and reason. However, both philosophies share a common ground in advocating for human empowerment through the acquisition of knowledge and critical thinking to shape one's own fate.

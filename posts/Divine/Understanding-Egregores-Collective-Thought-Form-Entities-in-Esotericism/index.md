@@ -22,7 +22,7 @@ excerpt: >
 ---
 Egregores, deriving from the Latin word "egregius" and Greek word "ἔγρηγορος," are thought-form entities or collective consciousnesses that are brought into existence when a group of individuals focuses their energy, thoughts, and emotions on a single idea, concept, or goal. Within the Divine domain, egregores are considered powerful and enigmatic, possessing a unique connection to both the human and the spiritual worlds.
 
-Origin:
+**Origin**:
 Egregores have their roots in ancient civilizations and religions, spanning across various cultures, such as the Gnostics, the Kabbalists, and even early Christian mysticism. As early as the Neolithic era, examples of collective conscious energy can be found in group rituals, tribal dances, and the worship of natural forces. As societies evolved, so did the understanding of these forces, eventually manifesting as the concept of "egregores."
 
 Underlying Mechanics:

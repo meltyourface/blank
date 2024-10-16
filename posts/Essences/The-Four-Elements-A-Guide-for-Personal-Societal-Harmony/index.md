@@ -25,13 +25,13 @@ The Four Classical Elements:
 
 Ancient belief systems from various cultural and historical contexts posited that the four classical elements—Earth, Air, Fire, and Water—formed the basis of all matter. In the Western tradition, originating from Greek philosophy and later adopted by alchemists and occultists, these elements are seen as fundamental archetypes, each playing a significant role in shaping the physical, mental, and spiritual dimensions of existence.
 
-Earth: Representing solidity, stability, and grounding, Earth is a symbol of the physical form, material world, and our connection to nature. It governs the body, our basic needs for survival, and the foundation of our existence.
+**Earth**: Representing solidity, stability, and grounding, Earth is a symbol of the physical form, material world, and our connection to nature. It governs the body, our basic needs for survival, and the foundation of our existence.
 
-Air: Corresponds to intellect, communication, and the realm of thought. It is associated with the mind, knowledge, and learning. Air signifies the flow of ideas, creativity, and exchange between individuals and groups.
+**Air**: Corresponds to intellect, communication, and the realm of thought. It is associated with the mind, knowledge, and learning. Air signifies the flow of ideas, creativity, and exchange between individuals and groups.
 
-Fire: An emblem of transformation, passion, and energy, Fire purveys the creative spirit and the will to act. It drives motivation, ambition, and inner strength, with an emphasis on personal power and determination.
+**Fire**: An emblem of transformation, passion, and energy, Fire purveys the creative spirit and the will to act. It drives motivation, ambition, and inner strength, with an emphasis on personal power and determination.
 
-Water: Represents the emotional and spiritual aspects of our being. It governs intuition, matters of the heart, memories, and our connection to the collective unconscious and the divine. Water enables adaptation, fluidity, and empathy in our relationships with others and the world around us.
+**Water**: Represents the emotional and spiritual aspects of our being. It governs intuition, matters of the heart, memories, and our connection to the collective unconscious and the divine. Water enables adaptation, fluidity, and empathy in our relationships with others and the world around us.
 
 Essence and the Four Elements:
 

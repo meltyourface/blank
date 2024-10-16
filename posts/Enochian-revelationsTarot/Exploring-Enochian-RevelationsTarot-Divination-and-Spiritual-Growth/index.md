@@ -23,7 +23,7 @@ excerpt: >
 
 ## Enochian RevelationsTarot: An In-Depth Guide
 
-Introduction: Unveiling the Enochian Script and the Essence of Tarot
+**Introduction**: Unveiling the Enochian Script and the Essence of Tarot
 
 The Enochian RevelationsTarot is a widely appreciated and intricate domain within the realm of the occult. Its roots can be traced back to the fascinating intersection of Enochian magick and Tarot symbolism. This guide aims to introduce readers to the historical background, key symbols, and meanings of the major and minor arcana found in Enochian RevelationsTarot. Furthermore, it delves into how this knowledge can be applied for personal spiritual growth and elevated divination.
 

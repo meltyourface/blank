@@ -31,7 +31,7 @@ excerpt: >
 
 ## The Arcane Astrologer's Grimoire
 
-Introduction:
+**Introduction**:
 The Arcane Astrologer's Grimoire is a compendium of mystical secrets and wisdom encompassing the Zodiac's twelve signs. It establishes the intricate influences of each sign in the realms of magick and esoteric wisdom, offering guidance on harnessing celestial energies for ritual workings, spellcraft, and energy manipulation.
 
 1. Zodiac Sign Qualities, Strengths, and Weaknesses

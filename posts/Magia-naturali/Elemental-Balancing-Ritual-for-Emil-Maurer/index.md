@@ -24,7 +24,7 @@ Target Individual: Emil Maurer
 Preliminary Evaluation:
 Emil has an overwhelming affinity for the element of fire, while the elements of earth and air are underrepresented in his energetic composition. He has a moderate affinity for water.
 
-Objective:
+**Objective**:
 The purpose of this elemental balancing ritual is to harmonize the four elements within Emil's being, by increasing the presence of earth and air elements, ensuring the stability of water, and soothing the excess fire.
 
 Ritual Components:

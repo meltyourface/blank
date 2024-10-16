@@ -22,7 +22,7 @@ excerpt: >
 ---
 To create a powerful, intricate curse that will accomplish these goals, we will need to gather the following esoteric components and follow the steps outlined below:
 
-Components:
+**Components**:
 1. An item belonging to the target (preferably something they wear often, like a piece of jewelry or clothing)
 2. A parchment made of sheepskin
 3. Ink infused with powdered black obsidian and essence of deadly nightshade

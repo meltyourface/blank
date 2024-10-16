@@ -21,7 +21,7 @@ excerpt: Develop a comprehensive recipe for a magical herbal bath that focuses o
 ---
 A Magical Herbal Bath for Enhancing Self-Love and Self-Care
 
-Ingredients:
+**Ingredients**:
 1. Rose petals - for love, self-acceptance, and emotional healing.
 2. Chamomile flowers - for relaxation, peace, and tranquility.
 3. Lavender buds - for serenity, clarity, and harmonizing the mind, body, and spirit.
@@ -41,7 +41,7 @@ Unite your powers for this rite.
 To heal, to calm, to balance, we pray,
 Return us whole and keep sorrow at bay."
 
-Preparation:
+**Preparation**:
 
 1. Prepare a quiet, sacred space in your bathroom. Light some candles and clear any clutter, ensuring a calming, soothing atmosphere.
 
@@ -52,7 +52,7 @@ Preparation:
 Ideal lunar phase for optimal potency:
 Perform this magical herbal bath during the Waxing Moon, a time when the moon is growing fuller. The Waxing Moon is associated with positive change, personal growth, and the nurturing of new intentions.
 
-Ritual:
+**Ritual**:
 
 1. Begin by setting the intention for your bath. Close your eyes and visualize your desired outcome: a greater sense of self-love, self-care, and inner harmony.
 

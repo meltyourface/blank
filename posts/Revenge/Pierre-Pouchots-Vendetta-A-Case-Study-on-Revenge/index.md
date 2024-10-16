@@ -22,7 +22,7 @@ excerpt: Analyze a historical act of revenge, focusing on the intricacies of the
 
 ## The Vendetta of Pierre Pouchot's Family
 
-Introduction:
+**Introduction**:
 The historical act of revenge I have chosen to analyze revolves around the murder of a man named Pierre Pouchot and the subsequent vendetta that his family embarked upon during the late 18th century in France. This case of revenge is a powerful example of how the desire for justice can lead to moral dilemmas, complex strategies, and both personal and societal consequences stretching far beyond the immediate actions.
 
 ### I. Avenger's Strategy
@@ -40,5 +40,5 @@ The historical act of revenge I have chosen to analyze revolves around the murde
 2. Justifiable Harm: In executing their revenge plot, Pierre Pouchot's family inflicted harm not only upon the targets but also on bystanders and innocent relatives. They had to weigh the potential "success" of their vendetta against the collateral damage it caused.
 3. Escalation of Conflict: The act of revenge perpetuated a cycle of violence launching a prolonged blood feud between Pierre Pouchot's family and their adversaries. The morality of continuing this feud and its consequences on the community posed a complex ethical question for the family and surrounding society.
 
-Conclusion:
+**Conclusion**:
 The vendetta of Pierre Pouchot's family is an exemplary case in examining the various strategic tactics, legal implications, and moral dilemmas surrounding acts of revenge. The calculated and relentless pursuit of vengeance by Pierre's family raises questions about the right to seek justice when the state fails to deliver it, while also highlighting the potential danger of perpetuating cycles of violence and destabilizing communities. The case of Pierre Pouchot's family is a poignant reminder of the myriad complexities and consequences inherent in the act of revenge.

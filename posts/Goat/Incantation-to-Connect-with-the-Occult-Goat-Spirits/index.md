@@ -34,17 +34,17 @@ Nal qrowûl muldirrac fen, Ghôas ekrüûl amnûliû drôzhen!
 
 (Chants and Gestures)
 
-Chant: Hailû-ghorrah Thoùrüs Kerrgovûl
+**Chant**: Hailû-ghorrah Thoùrüs Kerrgovûl
 
-Gesture: Raise both arms upward to form a V, with elbows bent and palms facing upward, as if offering tribute to the sky above
+**Gesture**: Raise both arms upward to form a V, with elbows bent and palms facing upward, as if offering tribute to the sky above
 
-Chant: Gozanûülm Skovvûl Khrîn Briûgund
+**Chant**: Gozanûülm Skovvûl Khrîn Briûgund
 
-Gesture: Bend knees slightly, arms outstretched to the sides, palms facing the earth, as if receiving ancestral forces of the ground below
+**Gesture**: Bend knees slightly, arms outstretched to the sides, palms facing the earth, as if receiving ancestral forces of the ground below
 
-Chant: Gûloûm Terraskrüûl Rhûkzûm Yshêllarû
+**Chant**: Gûloûm Terraskrüûl Rhûkzûm Yshêllarû
 
-Gesture: Place both hands above the heart, palms together, as if connecting the earthly forces to the spiritual realm
+**Gesture**: Place both hands above the heart, palms together, as if connecting the earthly forces to the spiritual realm
 
 Lûviûn chambûradan kaskarrûv De'lûzhentûn, Ghôas Karnûn!
 (Commence the eternal conversation, with the all-powerful Occult Goats!)

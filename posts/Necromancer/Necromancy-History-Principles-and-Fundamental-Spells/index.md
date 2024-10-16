@@ -59,9 +59,9 @@ As with any potent form of magic, necromancy carries certain ethical challenges.
 1. **Sphere of Communion**:
 Purpose: Establishes a temporary, transparent zone within the Veil to facilitate communication with spirits.
 
-Materials: Chalk, silver mirror, incense (preferably frankincense), and a white candle.
+**Materials**: Chalk, silver mirror, incense (preferably frankincense), and a white candle.
 
-Instructions:
+**Instructions**:
 a. Prepare an area devoid of distractions or negative energies.
 b. Draw a circle on the floor with chalk, large enough for the mirror to fit inside.
 c. Light the candle and incense, placing them at opposing points within the circle.
@@ -74,9 +74,9 @@ Risks and Precautions: Avoid breaking the circle during communion and always con
 2. **Summoning an Unseen Guardian**:
 Purpose: Summons a benevolent spirit to protect and guard the practitioner or their dwelling.
 
-Materials: Salt, iron nails, lavender, small clay or stone figurine, and an item belonging to a deceased loved one.
+**Materials**: Salt, iron nails, lavender, small clay or stone figurine, and an item belonging to a deceased loved one.
 
-Instructions:
+**Instructions**:
 a. Create a mixture of salt, iron nails, and crushed lavender.
 b. Place the item belonging to the deceased within the figurine.
 c. Bury the figurine in an unmarked grave near a tree or other natural point of power.
@@ -87,9 +87,9 @@ Risks and Precautions: Respect the spirit's autonomy and avoid calling upon the 
 3. **Spirit-binding Enchantment**:
 Purpose: Binds a willing spirit to an object, such as a pendant or amulet, for various purposes.
 
-Materials: Silver or gold chain, clear quartz crystal, and a drop of blood.
+**Materials**: Silver or gold chain, clear quartz crystal, and a drop of blood.
 
-Instructions:
+**Instructions**:
 a. Choose a willing spirit by engaging in astral communication or guardian summoning.
 b. With the chain and crystal, fashion a pendant.
 c. Apply a drop of the blood to the crystal while reciting an incantation.

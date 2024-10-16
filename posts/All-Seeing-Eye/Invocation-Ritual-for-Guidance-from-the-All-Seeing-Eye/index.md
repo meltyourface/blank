@@ -23,9 +23,9 @@ excerpt: >
 
 ## Title: The Ritual of the All-Seeing Eye's Guidance and Wisdom
 
-Objective: To invoke the guidance and wisdom of the All-Seeing Eye during times of personal tribulation and seeking enlightenment.
+**Objective**: To invoke the guidance and wisdom of the All-Seeing Eye during times of personal tribulation and seeking enlightenment.
 
-Preparation:
+**Preparation**:
 
 1. **Gather the ceremonial objects**:
    a. A pentagram inscribed in a circle (drawn on parchment or etched on a metal disc)
@@ -80,7 +80,7 @@ Outcomes and Benefits:
 - Increased ability to deal with complex issues
 - Personal growth and transformation
 
-Precautions:
+**Precautions**:
 
 - Always perform the ritual with sincerity and respect for the ancient powers.
 - Ensure your sacred space is clean and undisturbed during the ceremony.

@@ -22,7 +22,7 @@ excerpt: Draft a comprehensive research paper that investigates the evolution, s
 
 ## Fortifying Medieval Europe: The Evolution and Impact of Moats in Defence and Society
 
-Abstract:
+**Abstract**:
 
 This research paper investigates the evolution, strategic importance, and engineering challenges of moats within the context of medieval European fortifications. Key historical case studies such as the Battle of Crécy (1346) and Siege of Harlech Castle (1461-1468) are used to assess their effectiveness in deterring enemy forces. Further analysis is conducted on the tactical benefits of employing various moat designs and incorporating auxiliary defensive features, as well as examining the influence of advancements in siege warfare technology on moat construction. Lastly, the cultural and symbolic significance of moats in medieval European society and their impact on architectural trends and urban planning are explored.
 

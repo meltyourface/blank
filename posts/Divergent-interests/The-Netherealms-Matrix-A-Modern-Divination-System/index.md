@@ -34,7 +34,7 @@ Arcanum Rays:
 6. Terrethean: Symbolizing the elements of earth, nature, cycles of life, and physical manifestations.
 7. Syzygium: Involving duality, balance, and the fusion of opposing forces.
 
-Illuminants:
+**Illuminants**:
 1. Luxsol: The embodiment of cosmic enlightenment, spiritual awakening, and the soul's purpose.
 2. Noxendium: Represents the hidden depths of the self, understanding one's shadow aspect, and conquering fears.
 

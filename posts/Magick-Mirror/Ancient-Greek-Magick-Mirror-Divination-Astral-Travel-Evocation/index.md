@@ -35,7 +35,7 @@ Deities and Entities:
 
 3. **Hermes**: In his capacity as a psychopomp, Hermes is invoked in conjunction with the Magick Mirror to facilitate communication with spirits and otherworldly beings. He is also connected to the practice of evoking daimones, who serve as guides and allies for the practitioner.
 
-Rituals:
+**Rituals**:
 Several rituals and incantations found within the PGM involve the Magick Mirror. **These can be divided into specific categories**:
 
 1. **Divination**: The Magick Mirror is often used for scrying, a method of divination that involves gazing into a reflective surface to gain knowledge or insight. Rituals related to divination usually involve the practitioner invoking a deity, like Selene, who assists in the process of revealing hidden knowledge.

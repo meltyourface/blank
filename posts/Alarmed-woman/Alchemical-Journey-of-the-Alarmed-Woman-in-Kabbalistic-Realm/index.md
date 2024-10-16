@@ -29,7 +29,7 @@ Each interaction of the Alarmed Woman with the Jungian archetypes symbolizes a d
 
 However, the Shadow poses a significant obstacle in her journey. Representing her suppressed fears, traumas, and dark thoughts, she must face the Shadow in order to progress on the path of self-realization. The story culminates when the Alarmed Woman, through her experiences, successfully navigates these encounters and integrates aspects of the Tree of Life and alchemical symbolism, thus achieving a transcendental state of equanimity and spiritual enlightenment.
 
-Kabbalah: Sephirotic interactions: Along her journey, the Alarmed Woman experiences moments of interaction with the kabbalistic Sephiroth, which maps the spiritual landscape in which she navigates her own psyche. Each Sephira represents a specific attribute of divine emanation, serving as a station of spiritual transformation for the protagonist.
+**Kabbalah**: Sephirotic interactions: Along her journey, the Alarmed Woman experiences moments of interaction with the kabbalistic Sephiroth, which maps the spiritual landscape in which she navigates her own psyche. Each Sephira represents a specific attribute of divine emanation, serving as a station of spiritual transformation for the protagonist.
 
 Alchemical symbolism: As she confronts her fears, the Alarmed Woman undergoes the different stages of the alchemical process, which symbolizes the transformative journey of her own psyche:
 1. Nigredo – The initial state of chaos and fear

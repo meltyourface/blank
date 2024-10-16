@@ -31,7 +31,7 @@ Materials needed:
 6. A ritual dagger or athame
 7. Salt for protection
 
-Instructions:
+**Instructions**:
 **Step 1**: Prepare the sacred space
 Cleanse the designated area with sage or incense, allowing the smoke to purify the air. Create a circle of salt around the area to create a protective barrier or sanctified ground.
 **Step 2**: Engrave the sigils

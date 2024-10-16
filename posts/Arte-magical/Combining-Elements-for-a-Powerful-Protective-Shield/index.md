@@ -28,7 +28,7 @@ excerpt: >
 ---
 Answer: Earth and Water
 
-Explanation: In the context of Arte magical, the connection between elements and their properties has a direct influence on the effectiveness of a spell. To manifest a powerful protective energy shield, the practitioner must consider elements that embody stability, defense, and a nurturing force. In this case, Earth and Water are the most appropriate combination.
+**Explanation**: In the context of Arte magical, the connection between elements and their properties has a direct influence on the effectiveness of a spell. To manifest a powerful protective energy shield, the practitioner must consider elements that embody stability, defense, and a nurturing force. In this case, Earth and Water are the most appropriate combination.
 
 Elemental attributes and rationale:
 - Earth: Stability, grounding, and protection. The element of Earth is known to create a strong foundation and, in this context, a sturdy defensive barrier. It provides the shield with steadiness, solidity, and unwavering support.

@@ -25,7 +25,7 @@ excerpt: >
 
 The Synergetic Path to Samadhi is an innovative spiritual methodology that synergistically combines components of Kabbalah, Sufism, and Taoism, aiming to facilitate profound Samadhi trance states. This methodology builds a comprehensive framework for inducing altered states of consciousness while offering clear, actionable steps for practitioners.
 
-Introduction:
+**Introduction**:
 The Synergetic Path to Samadhi is centered on three primary sources: the mystical Jewish teachings of Kabbalah, the spiritual practices of Sufism, and the philosophical principles of Taoism. By synthesizing these traditions, we construct a unique path to traverse the realms of consciousness and experience transcendental states.
 
 1. **Preparation**:

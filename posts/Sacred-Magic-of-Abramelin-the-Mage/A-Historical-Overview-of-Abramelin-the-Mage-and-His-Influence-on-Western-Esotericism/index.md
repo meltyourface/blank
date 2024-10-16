@@ -21,7 +21,7 @@ excerpt: Explore and analyze the intricate development of the Sacred Magic syste
 ---
 Abramelin the Mage, or Abra-Melin, is the titular character of a grimoire known as "The Book of the Sacred Magic of Abramelin the Mage," a text composed in the 15th century by an anonymous author. The book details an elaborate ritual process aimed at achieving "knowledge and conversation with one's Holy Guardian Angel." At its core, the Abramelin system represents a shift from the summoning and control of external entities to a focus on achieving an internal transformation through a direct communication with one's divine self. The following paragraphs will elucidate its development, influences, and impact on contemporary magical practices.
 
-Inception:
+**Inception**:
 The Book of Abramelin, originally composed in Middle French, is divided into three books. The first book comprises of a narrative describing the life and travels of Abramelin, while the second and third books delve into the instructions of the rituals and their necessary preparations. The manuscript was likely written during the early 15th century and is thought to have originated in Cairo. It spread to Europe, where it was translated into several languages like English and German, significantly shaping the Western esoteric traditions.
 
 Evolution and Adaptations:

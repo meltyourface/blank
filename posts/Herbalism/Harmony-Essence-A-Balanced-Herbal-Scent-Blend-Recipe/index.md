@@ -21,7 +21,7 @@ excerpt: Conceptualize and formulate a distinctive signature herbal scent blend 
 ---
 I have conceptualized and formulated a distinctive signature herbal scent blend called "Harmony Essence," which synergizes five potent medicinal and aromatherapeutic herbs. This blend is specifically tailored for use in bespoke candles, perfumes, or essential oil diffusers, and offers a balanced sensory experience with various notes.
 
-Ingredients: 
+**Ingredients**: 
 1. Lavender (Lavandula angustifolia) – Top note
 2. Rosemary (Rosmarinus officinalis) – Middle note
 3. Frankincense (Boswellia sacra) – Middle note

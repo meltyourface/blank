@@ -22,10 +22,10 @@ excerpt: Conduct in-depth workshops on the artful techniques and ethical conside
 
 ## The Art and Ethics of Acquiring Gravesite Soil – A Comprehensive Workshop
 
-Objective: 
+**Objective**: 
 The goal of this workshop will be to instruct participants in the artful techniques, ethical considerations, and historical practices of acquiring gravesite soil from the deceased, exploring cultural differences and negotiation strategies with supernatural entities.
 
-Outline:
+**Outline**:
 
 ### I. Introduction and Overview (30 minutes)
     A. Welcome and icebreaker activity

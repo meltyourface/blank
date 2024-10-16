@@ -22,9 +22,9 @@ excerpt: Compose a meticulously crafted ritual for the Conjunction, outlining th
 
 ## Ritual of Confluent Ascendance
 
-Purpose: To unite an individual with their Higher Self through the Conjunction and the Pact
+**Purpose**: To unite an individual with their Higher Self through the Conjunction and the Pact
 
-Introduction: The Ritual of Confluent Ascendance is a powerful rite known only to the most adept practitioners of the Conjunction and the Pact. Drawing upon esoteric knowledge and intricate workings of the occult, the seeker embarks on a transcendent journey through the elemental planes to attain wisdom, knowledge, and unification with their Higher Self.
+**Introduction**: The Ritual of Confluent Ascendance is a powerful rite known only to the most adept practitioners of the Conjunction and the Pact. Drawing upon esoteric knowledge and intricate workings of the occult, the seeker embarks on a transcendent journey through the elemental planes to attain wisdom, knowledge, and unification with their Higher Self.
 
 Before commencing the ritual, ensure the seeker is familiar with the fundamentals of the Conjunction and the Pact, having reached an advanced level of spiritual and esoteric competence. The seeker must be prepared to face inner and outer challenges as they essay this mystical quest.
 

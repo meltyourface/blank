@@ -22,7 +22,7 @@ excerpt: Design a comprehensive and intricate ceremony, emphasizing the reverenc
 
 ## The Ceremony of the Scorpio Vermilion
 
-Objective: To pay homage and propitiate the spirit of a powerful sorcerer from an ancient bloodline of necromancers, the Scorpio Vermilion.
+**Objective**: To pay homage and propitiate the spirit of a powerful sorcerer from an ancient bloodline of necromancers, the Scorpio Vermilion.
 
 ### Part 1: Preparation
 1. Choose a secluded location with a rich connection to the Earth, such as a cave, an ancient burial site, or ancestral grounds of the Scorpio Vermilion bloodline.

@@ -23,9 +23,9 @@ excerpt: >
 
 ## The Stellar Revelation Ritual
 
-Objective: To unveil the arcane properties of unknown cosmic elements found across the astral plane, decode their mystical bonds and intergalactic frequencies, and unearth their potential in shaping cosmic destinies and transcendent crafts. 
+**Objective**: To unveil the arcane properties of unknown cosmic elements found across the astral plane, decode their mystical bonds and intergalactic frequencies, and unearth their potential in shaping cosmic destinies and transcendent crafts. 
 
-Preparation:
+**Preparation**:
 1. Choose an appropriate location, preferably an elevated, remote, and open outdoor space where the night sky is visible and free from light pollution. 
 2. **Gather the following interstellar ingredients and objects**:
    a. Celestial crystals, such as moldavite, tektite, and meteorite
@@ -72,7 +72,7 @@ The Ritual:
 
 10. Close the circle, leaving the ritual space energetically cleansed and balanced.
 
-Aftercare:
+**Aftercare**:
 1. Record any insights or revelations in a journal or grimoire, detailing the arcane properties and potential of the unveiled cosmic elements.
 2. Cleanse and recharge your ritual tools, crystals, and sigil.
 3. Reflect on the ritual's results, incorporating newfound cosmic knowledge into your space witchcraft practices and transcendent crafts.

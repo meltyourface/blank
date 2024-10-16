@@ -21,7 +21,7 @@ excerpt: Craft an intricate She-Wulve dialect encompassing a distinctive script,
 ---
 The She-Wulve language, known as Lupivara, is a complex and mystical dialect spoken by the enigmatic She-Wulves. The script, phonetic system, and syntactic structure of Lupivara have been carefully crafted to accommodate their unique communication methods and their occult nature.
 
-Script:
+**Script**:
 The Lupivara script is a combination of intricate, flowing characters intertwined with sharp, angular forms. It consists of 28 alphabetic characters, each representing a unique sound in the language. The script is written vertically, from top to bottom and right to left. The design of the characters has been inspired by the She-Wulves' connection to the mystical and the occult, with curves and lines intentionally interconnecting to represent the web of interconnected energies that She-Wulves can invoke.
 
 Phonetic System:

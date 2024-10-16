@@ -23,13 +23,13 @@ excerpt: >
 
 ## Intersecting Identities: A Support Group Session
 
-Objective: To provide individuals with a safe space for open dialogue and introspection, focused on understanding the complexities and challenges of intersecting social identities like race, gender, sexual orientation, and cultural backgrounds.
+**Objective**: To provide individuals with a safe space for open dialogue and introspection, focused on understanding the complexities and challenges of intersecting social identities like race, gender, sexual orientation, and cultural backgrounds.
 
-Participants: 8 individuals representing varied social identities (fictional but representing real-life experiences).
+**Participants**: 8 individuals representing varied social identities (fictional but representing real-life experiences).
 
-Scenario: The group is in a comfortable, informal setting oozing a casual and accepting ambiance. The moderator begins the session.
+**Scenario**: The group is in a comfortable, informal setting oozing a casual and accepting ambiance. The moderator begins the session.
 
-Moderator: Welcome, everyone, to our Intersecting Identities support group session. Our goal today is to discuss the unique experiences and challenges we face as individuals with multiple social identities. We encourage honesty, empathy, and respect while we share our thoughts and listen to others'.
+**Moderator**: Welcome, everyone, to our Intersecting Identities support group session. Our goal today is to discuss the unique experiences and challenges we face as individuals with multiple social identities. We encourage honesty, empathy, and respect while we share our thoughts and listen to others'.
 
 Introduction (15 minutes)
 
@@ -41,15 +41,15 @@ The moderator presents a few case studies involving intersectionality and deep e
 
 Case Study 1: Maria, a Latina first-generation immigrant, faces discrimination both for her gender and her race. Her colleagues often discredit her achievements and make patronizing remarks.
 
-Question: How does Maria's experience illustrate the interplay between multiple forms of discrimination, and what coping strategies might she use to deal with such situations?
+**Question**: How does Maria's experience illustrate the interplay between multiple forms of discrimination, and what coping strategies might she use to deal with such situations?
 
 Case Study 2: John, a Black gay man, experiences homophobia from his Black community and racism from the broader LGBTQ+ community.
 
-Question: How can John navigate these challenges and leverage his intersecting identities as strengths? Can he build bridges between the two communities?
+**Question**: How can John navigate these challenges and leverage his intersecting identities as strengths? Can he build bridges between the two communities?
 
 Case Study 3: Aisha, a Muslim American woman wearing a hijab, faces cultural and religious bias. She feels excluded from conversations where other women discuss feminist issues.
 
-Question: How can Aisha reconcile her religious beliefs with her identity as a feminist, and how can her peers better include her in dialogues about women's rights?
+**Question**: How can Aisha reconcile her religious beliefs with her identity as a feminist, and how can her peers better include her in dialogues about women's rights?
 
 Confronting Stereotypes (15 minutes)
 
@@ -67,4 +67,4 @@ Reflection and Closure (15 minutes)
 
 The moderator asks the participants to reflect on the input and stories from the session and share one thing they learned or takeaway they'll carry forward.
 
-Moderator: Thank you all for your openness and vulnerability during our discussion. Remember, understanding and navigating our intersecting identities can be challenging, but together we can grow stronger and more empathetic towards each other.
+**Moderator**: Thank you all for your openness and vulnerability during our discussion. Remember, understanding and navigating our intersecting identities can be challenging, but together we can grow stronger and more empathetic towards each other.

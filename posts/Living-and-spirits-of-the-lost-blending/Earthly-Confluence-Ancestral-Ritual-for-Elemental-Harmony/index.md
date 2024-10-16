@@ -23,9 +23,9 @@ excerpt: >
 
 ## Title: The Ritual of Harmonious Earthly Confluence
 
-Goal: To harmonize with the ethereal energies of the earth and connect oneself to the mystical pulse of forgotten spirits and the living essence of the earth.
+**Goal**: To harmonize with the ethereal energies of the earth and connect oneself to the mystical pulse of forgotten spirits and the living essence of the earth.
 
-Setting: A quiet, natural location with earth, organic objects, and access to open sky. Ideal conditions are during a new moon or a full moon phase when spiritual energies are most potent.
+**Setting**: A quiet, natural location with earth, organic objects, and access to open sky. Ideal conditions are during a new moon or a full moon phase when spiritual energies are most potent.
 
 Materials Needed:
 1. A representation of each of the five elements (Earth, Air, Fire, Water, and Spirit)
@@ -36,9 +36,9 @@ Materials Needed:
 6. Rhythmic percussion instrument (such as a drum or a rainstick)
 7. A blanket or cushion for sitting or kneeling
 
-Procedure:
+**Procedure**:
 
-Preparation:
+**Preparation**:
 1. Determine the appropriate date for the ritual by referring to the lunar calendar and selecting either a new moon or a full moon phase.
 2. Choose a location that is close to nature and blends with the environment. Ensure the space is serene, secure and suitable for setting up the altar.
 

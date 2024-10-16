@@ -22,7 +22,7 @@ excerpt: >
 ---
 Ritual name: The Binding Rose Enchantment
 
-Preparation:
+**Preparation**:
 
 1. Choose a time when the moon is waxing or full to ensure that love is growing and strong. Select a private space where you can perform the ritual, ideally outdoors in the presence of roses, wildflowers, or orange blossoms.
 

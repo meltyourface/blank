@@ -35,11 +35,11 @@ The Doppelgänger, a concept from European folklore, is the apparition of a livi
 
 Intersections and Divergences:
 
-Similarities:
+**Similarities**:
 - All three concepts represent some form of doubled existence of a living being and imply a connection between the physical and metaphysical.
 - The Ka and Jiva involve deeper spiritual aspects, as they embody the life force and consciousness of individuals, respectively.
 
-Differences:
+**Differences**:
 - The Ka is limited to the individual's lifespan and afterlife, while the Jiva represents an eternal soul, undergoing the cycle of birth and rebirth.
 - The Doppelgänger is mainly perceived as a negative or supernatural occurrence, whereas the Ka and Jiva encapsulate essential spiritual aspects of life.
 

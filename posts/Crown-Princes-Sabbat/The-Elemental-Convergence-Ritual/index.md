@@ -23,15 +23,15 @@ excerpt: >
 
 ## The Ritual of the Elemental Convergence
 
-Purpose: To call upon the four elemental powers—earth, air, fire, and water—within the Crown Prince's Sabbat gathering, forging a deep connection between the practitioners and the elements through intricate ritual.
+**Purpose**: To call upon the four elemental powers—earth, air, fire, and water—within the Crown Prince's Sabbat gathering, forging a deep connection between the practitioners and the elements through intricate ritual.
 
-Preparation:
+**Preparation**:
 1. Gather the following ceremonial tools and symbols:
  a. An earthen chalice filled with soil (symbolizing Earth) b. A silver athame (ritual dagger) with air symbols engraved on it (representing Air) c. A golden brazier containing hot coals, around which the Sabbat participants will dance (representing Fire) d. A basin of blessed water with a moonstone submerged within (representing Water) 
 
 2. Prepare the ritual space in a remote outdoor location, ideally at a crossroads or within a dense forest.
 
-Consecration:
+**Consecration**:
 1. Trace a circle in the ground with a wand made of Ash wood, and mark the four cardinal directions with the elemental tools. Place the chalice in the North, the athame in the East, the brazier in the South, and the basin in the West.
 
 2. Light candles around the circle, black for Earth, white for Air, red for Fire, and blue for Water.

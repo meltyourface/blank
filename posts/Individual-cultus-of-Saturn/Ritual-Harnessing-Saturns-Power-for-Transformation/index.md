@@ -22,9 +22,9 @@ excerpt: Develop a comprehensive ritual for the Individual cultus of Saturn, out
 
 ## The Ritual of Saturn's Enigmatic Embrace
 
-Purpose: To effectively channel the primal energies of Saturn during its planetary hours, with the incorporation of ceremonial tools, astrological correspondences, and esoteric invocations tailored to the enigmatic nature of this celestial titan.
+**Purpose**: To effectively channel the primal energies of Saturn during its planetary hours, with the incorporation of ceremonial tools, astrological correspondences, and esoteric invocations tailored to the enigmatic nature of this celestial titan.
 
-Note: Saturn has planetary hours both during the day and at night. Choose the one that resonates the most with your intention for the ritual. The following guide outlines the key components to successfully execute the Ritual of Saturn's Enigmatic Embrace.
+**Note**: Saturn has planetary hours both during the day and at night. Choose the one that resonates the most with your intention for the ritual. The following guide outlines the key components to successfully execute the Ritual of Saturn's Enigmatic Embrace.
 
 ### I. **Preparations**:
 

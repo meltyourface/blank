@@ -38,13 +38,13 @@ Phase 2: Elemental Invocation
 
 With each breath, visualize the four elements converging within the sacred space of your meditation.
 
-Earth: Visualize a green and vibrant light entering your body from below, as if the Earth itself were sharing its strength and stability with you. Begin chanting "Kreem," invoking the power of the Earth element.
+**Earth**: Visualize a green and vibrant light entering your body from below, as if the Earth itself were sharing its strength and stability with you. Begin chanting "Kreem," invoking the power of the Earth element.
 
-Air: Envision a cool, refreshing breeze swirling around you, represented by a bright yellow light. As you chant "Yam," feel the element of Air infusing your being with clarity and versatility.
+**Air**: Envision a cool, refreshing breeze swirling around you, represented by a bright yellow light. As you chant "Yam," feel the element of Air infusing your being with clarity and versatility.
 
-Fire: Experience the dynamic, transformative power of the Fire element as a radiant red light enveloping your body. Evoke its intense energy by chanting the sacred sound "Ram."
+**Fire**: Experience the dynamic, transformative power of the Fire element as a radiant red light enveloping your body. Evoke its intense energy by chanting the sacred sound "Ram."
 
-Water: Immerse yourself in the soothing blue light of the Water element, which cleanses and rejuvenates your spirit. Chant "Vam" as you harness the intuitive, adaptable energy of Water.
+**Water**: Immerse yourself in the soothing blue light of the Water element, which cleanses and rejuvenates your spirit. Chant "Vam" as you harness the intuitive, adaptable energy of Water.
 
 Phase 3: Equinox Energy Activation
 

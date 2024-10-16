@@ -24,7 +24,7 @@ excerpt: >
 ---
 The highest rank in the hierarchy of Sufi saints, also referred to as the "pole" or "axis" around which spiritual energies revolve.
 
-Explanation:
+**Explanation**:
 The concept of Qutub (also spelled as Qutb) is primarily rooted in Islamic mysticism, particularly within the spiritual tradition of Sufism. In this context, Qutub pertains to the highest rank or spiritual authority in the hierarchy of Sufi saints, who are regarded as intermediaries between the divine and the human realms.
 
 Qutub, derived from the Arabic word meaning "pole" or "axis," holds metaphysical significance in Sufi cosmology. Much like the axis around which the Earth revolves, the Qutub is believed to be the center or pivotal point of spiritual energy, connecting the spiritual and physical worlds in a harmonious balance.

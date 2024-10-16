@@ -21,7 +21,7 @@ excerpt: Create an intricately detailed fortune-telling Tarot spread, tailored s
 ---
 Introducing the Lady Fortune Tarot Spread: a 13-card spread designed to uncover the intricacies of Lady Fortune's esoteric and mystical influences. This distinctive spread connects the Tarot with astrological alignments, numerology, and other historical divination systems. Keep reading for a comprehensive guide on how to use this exclusive spread, complete with symbolic interpretations and potential scenarios.
 
-Layout:
+**Layout**:
 1. The Core (center card)
 2. Past (left of The Core)
 3. Present (right of The Core)

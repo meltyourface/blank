@@ -46,7 +46,7 @@ Seeking to break the ever-building crescendo of darkness, a coalition of virtuou
 
 Joined by the remnants of the Order of the Stalwart Shield, a knightly brotherhood sworn to protect the innocent, and the Silent Veil, a secretive guild of hunters proficient in vanquishing supernatural evils, the coalition dove into an intricate and perilous journey.
 
-Epilogue: The Hourglass Unending
+**Epilogue**: The Hourglass Unending
 
 The motley band's perseverance prevailed, leading them to decipher the metaphysical intricacies of the Obsidian Phylactery. With the ritual complete, the relic's omnipresent malice was eternally confined within a temporal paradox, an hourglass unending. 
 

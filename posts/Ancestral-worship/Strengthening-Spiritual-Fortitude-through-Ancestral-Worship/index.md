@@ -28,7 +28,7 @@ excerpt: >
 ---
 Answer: Strengthening one's spiritual fortitude and protection against external forces
 
-Explanation: Ancestral worship has been practiced in various cultures and occult traditions across the globe for centuries. It is essential for many reasons, one of the foremost being strengthening one's spiritual fortitude and protection against external forces. 
+**Explanation**: Ancestral worship has been practiced in various cultures and occult traditions across the globe for centuries. It is essential for many reasons, one of the foremost being strengthening one's spiritual fortitude and protection against external forces. 
 
 Ancestral worship is the veneration of deceased relatives, honoring their memory and recognizing their continued influence in our lives. It aims to maintain their connection to the living and preserve their memory. While some may argue that wealth attraction, negative interference prevention, and guidance toward goals are essential aspects of ancestral worship, they are not its primary purpose within most occult traditions.
 

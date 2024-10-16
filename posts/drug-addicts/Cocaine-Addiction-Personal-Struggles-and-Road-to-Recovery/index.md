@@ -30,7 +30,7 @@ excerpt: >
 ---
 Entry 1: Experimentation
 
-Date: July 14th
+**Date**: July 14th
 
 Today was... different. I tried cocaine for the first time. It all started at Steven's party. At first, I hesitated, but everyone was doing it, and I didn't want to feel left out. So, I took a deep breath and snorted that white powder. An electric feeling surged through my body.
 
@@ -38,7 +38,7 @@ It was... unreal. I felt this incredible energy, like I could do anything. I was
 
 Entry 2: Regular use
 
-Date: September 2nd
+**Date**: September 2nd
 
 I can't believe it, but my cocaine use has become more frequent. Instead of just using it at parties or social gatherings, I've started using it to get through the workday. At first, I thought it was helping me, keeping me focused and alert, but now, things are getting out of control.
 
@@ -46,7 +46,7 @@ I'm fighting with my family and friends and ignoring my responsibilities at work
 
 Entry 3: Risky use
 
-Date: October 21st
+**Date**: October 21st
 
 My life is falling apart. I'm doing things I never thought I would do. I've stolen money from my family and friends. I've been in more physical altercations than I can count. I even drove under the influence last night, knowing full well the danger I was putting myself and others in. 
 
@@ -54,7 +54,7 @@ The guilt is overwhelming, but it doesn't seem to stick. I can't seem to care en
 
 Entry 4: Dependence
 
-Date: November 30th
+**Date**: November 30th
 
 I hate what I've become. I'm physically and mentally addicted to cocaine. My body craves it constantly, and the withdrawal symptoms are unbearable: headaches, nausea, depression, anxiety, and more.
 
@@ -64,7 +64,7 @@ My body is a wreck. I'm constantly tired, my skin looks terrible, and I've lost 
 
 Entry 5a: Recovery
 
-Date: December 15th
+**Date**: December 15th
 
 After hitting rock bottom, I knew something had to change. I finally let my loved ones in and told them about my addiction. They were hurt, understandably so, but they wanted to help me get better. With their support, I checked myself into rehab.
 
@@ -74,7 +74,7 @@ OR
 
 Entry 5b: Regression
 
-Date: December 15th
+**Date**: December 15th
 
 I tried. I really did. I attended a few AA meetings, and I even managed to stay clean for a couple of weeks. But, one day, the cravings became too strong. I ran into my old dealer, and before I knew it, I had relapsed.
 

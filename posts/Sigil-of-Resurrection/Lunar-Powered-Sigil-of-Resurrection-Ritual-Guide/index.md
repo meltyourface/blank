@@ -21,7 +21,7 @@ excerpt: Develop a comprehensive procedure to harness the lunar cycles for the p
 ---
 Procedure to Energize the Sigil of Resurrection using Lunar Cycles:
 
-Overview:
+**Overview**:
 The lunar cycles play a significant role in energizing the Sigil of Resurrection. This comprehensive guide will outline the optimal moon phases, essential rituals, and required materials for harnessing the power of the moon to imbue the Sigil with a potent charge. 
 
 1. Optimal Moon Phases:

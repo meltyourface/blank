@@ -23,7 +23,7 @@ excerpt: >
 
 ## Title: The Adept's Compendium of the Magnum Opus
 
-Introduction: The Philosopher's Stone and the Path of Mastery
+**Introduction**: The Philosopher's Stone and the Path of Mastery
 
 - Introduce the Philosopher's Stone as the object of desire for alchemists
 - Discuss the quest for its discovery as a spiritual journey, the Magnum Opus
@@ -71,7 +71,7 @@ Introduction: The Philosopher's Stone and the Path of Mastery
 - Present a selection of esoteric rituals designed to facilitate deeper connection to the work
 - Describe various meditative practices for heightening spiritual awareness and fostering inner transformation
 
-Conclusion: The Eternal Search for the Philosopher's Stone
+**Conclusion**: The Eternal Search for the Philosopher's Stone
 
 - Reflect upon the ongoing pursuit of the Philosopher's Stone, both as a tangible substance and an inner state of enlightenment
 - Reiterate that the Magnum Opus serves as a lifelong journey towards spiritual evolution

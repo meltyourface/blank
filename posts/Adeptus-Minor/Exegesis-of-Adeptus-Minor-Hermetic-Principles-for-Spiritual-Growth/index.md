@@ -22,7 +22,7 @@ excerpt: Outline an in-depth exegesis of the Adeptus Minor Hermetic principles, 
 
 ## An In-Depth Exegesis of Adeptus Minor Hermetic Principles
 
-Introduction: The Adeptus Minor grade is a crucial stage in the Hermetic Order of the Golden Dawn, where the individual begins to uncover the deeper mysteries of spiritual wisdom and become more proficient in applying their knowledge. This exegesis will illuminate the Adeptus Minor principles within the framework of the Qabalistic Tree of Life and the Golden Dawn initiatory system, highlighting their practical applications in ritual, meditation, and daily life for aspiring neophytes.
+**Introduction**: The Adeptus Minor grade is a crucial stage in the Hermetic Order of the Golden Dawn, where the individual begins to uncover the deeper mysteries of spiritual wisdom and become more proficient in applying their knowledge. This exegesis will illuminate the Adeptus Minor principles within the framework of the Qabalistic Tree of Life and the Golden Dawn initiatory system, highlighting their practical applications in ritual, meditation, and daily life for aspiring neophytes.
 
 ### I. Adeptus Minor Principles in the Context of the Qabalistic Tree of Life
     A. Understanding the Adeptus Minor Grade and its symbolic associations with Tiphareth on the Tree of Life
@@ -59,4 +59,4 @@ Introduction: The Adeptus Minor grade is a crucial stage in the Hermetic Order o
         2. Developing intuition and psychic abilities
         3. Cultivating conscious awareness and self-reflection
 
-Conclusion: Embracing the Adeptus Minor principles and integrating them into one's spiritual journey is essential for profound personal transformation and achieving mastery in the esoteric arts. The Qabalistic Tree of Life and the Golden Dawn initiatory system provide a solid foundation to guide the aspirant towards spiritual enlightenment. By diligently practicing rituals, meditation, and incorporating wisdom into daily life, the neophyte can ascend the Spheres and embody the ideal of the Adeptus Minor.
+**Conclusion**: Embracing the Adeptus Minor principles and integrating them into one's spiritual journey is essential for profound personal transformation and achieving mastery in the esoteric arts. The Qabalistic Tree of Life and the Golden Dawn initiatory system provide a solid foundation to guide the aspirant towards spiritual enlightenment. By diligently practicing rituals, meditation, and incorporating wisdom into daily life, the neophyte can ascend the Spheres and embody the ideal of the Adeptus Minor.

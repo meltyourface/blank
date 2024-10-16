@@ -22,7 +22,7 @@ excerpt: >
 ---
 Ritual Name: The Five Dragon Aspects Metamorphosis
 
-Goal: To harness the energies of the five revered Dragon aspects (Earth, Fire, Water, Air, and Spirit) and catalyze profound personal metamorphosis.
+**Goal**: To harness the energies of the five revered Dragon aspects (Earth, Fire, Water, Air, and Spirit) and catalyze profound personal metamorphosis.
 
 Essential components:
 1. Symbolic items
@@ -91,4 +91,4 @@ Thank each of the Dragons individually, starting from the center with Anima Drac
 
 Integrate the energies and insight from the ritual into your daily life as you undergo transformation. Remember that growth is a process and to honor the changes as they unfold.
 
-Note: This ritual can be adapted or expanded to include additional details or symbolism that resonate with your personal journey. Just ensure the harmony between the five Dragon aspects is preserved.
+**Note**: This ritual can be adapted or expanded to include additional details or symbolism that resonate with your personal journey. Just ensure the harmony between the five Dragon aspects is preserved.

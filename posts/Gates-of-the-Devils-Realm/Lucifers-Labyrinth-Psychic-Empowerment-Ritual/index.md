@@ -21,9 +21,9 @@ excerpt: Devise an intricate meditation ritual, specifically tailored for practi
 ---
 Meditation Ritual: The Labyrinth of Lucifer
 
-Purpose: Amplify psychic prowess within practitioners, specifically those who work within the Gates of the Devil's Realm, focusing on enhancing telepathy, clairvoyance, and precognition.
+**Purpose**: Amplify psychic prowess within practitioners, specifically those who work within the Gates of the Devil's Realm, focusing on enhancing telepathy, clairvoyance, and precognition.
 
-Requirements: 
+**Requirements**: 
 1. Quiet, undisturbed space, preferably within the darker realms
 2. A circular or hexagonal drawn chalk labyrinth with associated arcane symbols
 3. Black candles with sulfur-infused wax and Ceremonial dagger

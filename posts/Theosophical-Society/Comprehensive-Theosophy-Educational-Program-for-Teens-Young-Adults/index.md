@@ -22,7 +22,7 @@ excerpt: Design a comprehensive educational program that delves into the intrica
 
 ## The Young Theosophist's Journey: A Comprehensive Educational Program
 
-Objective: To provide adolescents and young adults with a thorough understanding of Theosophical principles, history, and teachings, fostering critical thinking and spiritual development.
+**Objective**: To provide adolescents and young adults with a thorough understanding of Theosophical principles, history, and teachings, fostering critical thinking and spiritual development.
 
 Target Audience: Adolescents and young adults aged 15-25
 

@@ -56,7 +56,7 @@ Conclusion
 
 In conclusion, by examining primary sources from the Elizabethan era, we are able to unravel the complex political motivations that guided influential figures such as Sir Francis Drake and the Earl of Essex. Through content analysis, we discern their loyalty or opposition to the monarch, their stances on religious and international issues, and the resulting repercussions in the historical events that transpired. This meticulous inquiry enables us to better understand and appreciate the sociopolitical intricacies of the Elizabethan era and the motivations that propelled their actions.
 
-References:
+**References**:
 
 Dunn, R. (2003). **Elizabeth and Essex**: A Tragic History. Pimlico.
 

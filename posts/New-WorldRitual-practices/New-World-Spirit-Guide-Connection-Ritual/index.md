@@ -22,7 +22,7 @@ excerpt: Devise an intricate New WorldRitual ceremony, incorporating the utiliza
 
 ## Spirit Guide Invocation - An Arcane New WorldRitual Ceremony
 
-Objective: To establish a profound connection with one's spirit guides using an intricate New WorldRitual ceremony.
+**Objective**: To establish a profound connection with one's spirit guides using an intricate New WorldRitual ceremony.
 
 ### I. Preparation
 

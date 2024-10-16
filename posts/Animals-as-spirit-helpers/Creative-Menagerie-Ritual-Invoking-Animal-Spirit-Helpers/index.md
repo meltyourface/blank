@@ -22,7 +22,7 @@ excerpt: >
 ---
 Ritual Name: The Creative Menagerie
 
-Purpose: To summon the animal spirit-helpers Sparrow of Inspiration, Chameleon of Adaptation, and Bison of Endurance, for the purpose of enhancing creativity, innovation, and overcoming artistic obstacles.
+**Purpose**: To summon the animal spirit-helpers Sparrow of Inspiration, Chameleon of Adaptation, and Bison of Endurance, for the purpose of enhancing creativity, innovation, and overcoming artistic obstacles.
 
 ### I. Introduction to the Animal Spirit-Helpers:
 

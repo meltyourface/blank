@@ -22,7 +22,7 @@ excerpt: Develop a guided meditation ritual rooted in the esoteric principles of
 
 ## Journey to the Akashic Records through Historiolae
 
-Preparation:
+**Preparation**:
 
 1. Choose a quiet and comfortable space where you can sit or lie down undisturbed for the duration of the meditation.
 2. Light a white candle and place it in front of you to symbolize the purity of the knowledge you seek.

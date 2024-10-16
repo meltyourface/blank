@@ -21,7 +21,7 @@ excerpt: Devise a potent elixir recipe, utilizing rare and sacred ingredients, t
 ---
 Elixir of Ethereal Communion: Amplifying Connection with the Left-Handed Reaper
 
-Ingredients:
+**Ingredients**:
 1. 3 ounces of Nightshade Essence, extracted from the deadly Atropa belladonna
 2. 2 ounces of Aconite Nectar, harvested from the toxic Aconitum napellus
 3. 1 ounce of Distilled Whisper, captured from the breath of one who has gazed upon the Left-Handed Reaper

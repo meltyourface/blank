@@ -65,4 +65,4 @@ D S V F L
 B M C W Z
 P T G X E
 
-Translation: "In the midnight hour, beneath the cloak of shadows, the raven whispers its ancient wisdom, guiding those willing to listen on their journey through life and beyond."
+**Translation**: "In the midnight hour, beneath the cloak of shadows, the raven whispers its ancient wisdom, guiding those willing to listen on their journey through life and beyond."

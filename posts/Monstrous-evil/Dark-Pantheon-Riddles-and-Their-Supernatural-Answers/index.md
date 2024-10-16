@@ -26,7 +26,7 @@ Clandestine secrets once brought kings to their knees.
 Twisted languages unknown to man,
 What must one summon to begin the dark plan?
 
-Answer: A malevolent spirit or demon, such as a djinn or succubus.
+**Answer**: A malevolent spirit or demon, such as a djinn or succubus.
 
 Riddle 2: The Path of Torment
 
@@ -35,7 +35,7 @@ In agony it serves to bind and encase.
 The circle it surrounds with blood as decree,
 A pact eternal, what path must you see?
 
-Answer: The Sigil of Suffering, inscribed with the blood of the pact-maker.
+**Answer**: The Sigil of Suffering, inscribed with the blood of the pact-maker.
 
 Riddle 3: The Cursed Gift
 
@@ -44,7 +44,7 @@ A treasure waits with intentions so foul.
 Accept the offering and embrace a stone heart,
 What cursed gift shall forevermore impart?
 
-Answer: The Malefic Amulet of Despair, imbued with the power to corrupt.
+**Answer**: The Malefic Amulet of Despair, imbued with the power to corrupt.
 
 Riddle 4: Lurking in the Ghastly Depths
 
@@ -53,7 +53,7 @@ Its sinister gaze doth wander and prowl.
 A keeper of lost souls, ever vigilant and cryptic,
 Where prey becomes hunter, which entity shall rest?
 
-Answer: The aquatic Leviathan of the Phantom Seas, an eldritch entity that feasts on terror.
+**Answer**: The aquatic Leviathan of the Phantom Seas, an eldritch entity that feasts on terror.
 
 Riddle 5: Retribution's Final Fetters
 
@@ -62,4 +62,4 @@ Unruly disciples, a wicked cabal revel.
 The name they invoke as they delve into the dark,
 What lies in the last, a secret scorned by the heart?
 
-Answer: Necrosanguim, the ultimate spell of destruction and vengeance, found only within the arcane pages of the grimoire.
+**Answer**: Necrosanguim, the ultimate spell of destruction and vengeance, found only within the arcane pages of the grimoire.

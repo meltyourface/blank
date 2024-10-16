@@ -62,9 +62,9 @@ Saturn-Sahasrara: Emphasizes spiritual awakening, cosmic understanding, and karm
 
 3. **Additional Celestial Bodies**:
 
-Pluto: Deep transformation and rebirth, especially related to kundalini awakening.
+**Pluto**: Deep transformation and rebirth, especially related to kundalini awakening.
 
-Moons: Emotional fluctuations and reflections of inner realms.
+**Moons**: Emotional fluctuations and reflections of inner realms.
 
 Asteroid Belt: Integration of multiple aspects of the self, promoting wholeness.
 

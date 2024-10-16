@@ -28,7 +28,7 @@ excerpt: >
 ---
 The answer is: A well-rounded understanding of the universe evolves from both mystical experiences and rational analysis, with each informing the other.
 
-Explanation:
+**Explanation**:
 
 Rational mysticism is an approach that seeks to integrate mystical experience with logical reasoning and empirical evidence. It maintains that while mystical experiences provide valuable insights into the nature of reality, they also need to be subjected to the critical scrutiny of logical reasoning and empirical evidence to establish a well-rounded understanding of the universe.
 

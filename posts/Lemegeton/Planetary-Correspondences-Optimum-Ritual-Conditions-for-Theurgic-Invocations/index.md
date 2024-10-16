@@ -23,7 +23,7 @@ excerpt: >
 
 ## Planetary Correspondences and Optimum Ritual Conditions in Ars Theurgia Goetia
 
-Introduction:
+**Introduction**:
 This comprehensive guide outlines the planetary correspondences and associations of each spirit within the Ars Theurgia Goetia section of the Lemegeton. It provides a thorough understanding of these spirits' roles in summoning, invocation, and theurgy. Furthermore, the guide details the specific times, lunar phases, and optimum ritual conditions required for effective communication with the spirits, carefully researched using historical and esoteric sources to guarantee the highest level of accuracy.
 
 Planetary Correspondences:

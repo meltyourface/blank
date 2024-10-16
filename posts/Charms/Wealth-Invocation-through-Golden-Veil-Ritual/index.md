@@ -22,13 +22,13 @@ excerpt: Compose a detailed charm-infused ceremony for summoning an abundance of
 
 ## Title: Ceremony of the Golden Veil
 
-Goal: To summon an abundance of wealth and prosperity through the utilization of ancient occult symbols, gemstone correspondences, and the recitations of enchanted incantations.
+**Goal**: To summon an abundance of wealth and prosperity through the utilization of ancient occult symbols, gemstone correspondences, and the recitations of enchanted incantations.
 
 Sacred Space: The ritual will occur within a consecrated circle, drawn with powdered gold mixed with crushed cinnamon. Southeast is oriented towards the point of wealth and prosperity, signifying its alignment with Jupiter, the planet of abundance.
 
 Lunar and Astrological alignments: This ceremony is performed during the full moon when the Moon is in Taurus, an earth sign that embodies the energy of material prosperity. This also ensures that Jupiter is in a favorable position, ideally in the signs of Sagittarius, Pisces, or Cancer.
 
-Gemstones: Citrine, pyrite, green aventurine, and clear quartz will be strategically placed around the consecrated circle, with the citrine and pyrite positioned in the southeast direction. Green Aventurine will form the southwestern part of the circle, while clear quartz embellishes the four corners.
+**Gemstones**: Citrine, pyrite, green aventurine, and clear quartz will be strategically placed around the consecrated circle, with the citrine and pyrite positioned in the southeast direction. Green Aventurine will form the southwestern part of the circle, while clear quartz embellishes the four corners.
 
 The Altar:
 
@@ -62,4 +62,4 @@ Ceremonial Actions:
 
 10. Blow out the candle and carefully dismantle the altar. The ritual is complete.
 
-Note: Dispose of the honey and mint leaves in a respectful manner and store the candle, sigil, and stones in a safe and sacred space.
+**Note**: Dispose of the honey and mint leaves in a respectful manner and store the candle, sigil, and stones in a safe and sacred space.

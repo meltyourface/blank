@@ -25,7 +25,7 @@ The Ephesia Grammata, or the "Ephesian Letters," is a series of magical words us
 
 Ασκι, Κατασκι, Λίξ, Τετράς, Δαμναμενεύς, Αϊσιόν
 
-Transliteration:
+**Transliteration**:
 
 Aski, Kataski, Lix, Tetrax, Damnameneus, Aision
 
@@ -33,7 +33,7 @@ Translation and Purpose:
 
 While the words of the Ephesia Grammata do not directly translate to any concrete phrases in contemporary language, they can be broadly interpreted as evoking protection, strength, and spiritual guidance. The words were used in various magical inscriptions and amulets for these purposes. In mythological and occult practices, the Ephesia Grammata was sometimes associated with the Orphic mysteries and the worship of the Great Mother Goddess (Cybele).
 
-Effectiveness:
+**Effectiveness**:
 
 As with many esoteric and occult practices, the effectiveness of the Ephesia Grammata is primarily rooted in the belief and conviction of its practitioners. The words themselves are likely to have been effective as mnemonic devices and focus aids for those who held faith in their power.
 

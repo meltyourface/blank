@@ -22,7 +22,7 @@ excerpt: Design an evocative ritual centered around the concepts of Hope and fri
 
 ## The Circle of Light and Remembrance
 
-Objective: To uplift and console a grieving companion through the exploration of stages of grief and shared memories, interconnected with symbols and gestures illustrating unity, hope, and friendship.
+**Objective**: To uplift and console a grieving companion through the exploration of stages of grief and shared memories, interconnected with symbols and gestures illustrating unity, hope, and friendship.
 
 Materials needed:
 1. A comfortable, quiet space
@@ -33,7 +33,7 @@ Materials needed:
 6. Tokens of friendship (e.g., bracelets or small gifts)
 7. Pen and paper or other writing materials
 
-Participants: Grieving companion, supportive friends, and/or loved ones
+**Participants**: Grieving companion, supportive friends, and/or loved ones
 
 The Ritual:**Step 1**: Preparation
 Create a safe and serene environment by arranging the seating in a circular formation. Place the table or altar at the center and lay the photo or cherished item upon it. Arrange the two candles beside the image.

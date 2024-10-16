@@ -22,7 +22,7 @@ excerpt: >
 ---
 Grimoire of the Abyssal Gates
 
-Foreword:
+**Foreword**:
 
 In this grimoire, you will uncover the complex nature of the abyssal entities that reside within the Gates of the Abyss. Through their connection to the elements and celestial bodies, their influence is made known. Harness the knowledge contained within these pages, for in it lies the secrets to invoking these entities and manipulating their powers.
 

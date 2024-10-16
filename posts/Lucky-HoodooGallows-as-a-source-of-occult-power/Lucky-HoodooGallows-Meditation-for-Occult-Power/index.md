@@ -22,7 +22,7 @@ excerpt: Construct a meditation technique centered on harnessing the mystical en
 
 ## Lucky HoodooGallows Transcendent Meditation Technique
 
-Objective: Harnessing the mystical energies of Lucky HoodooGallows as a source of occult power.
+**Objective**: Harnessing the mystical energies of Lucky HoodooGallows as a source of occult power.
 **Step 1**: Environment Preparation
 To create a conducive environment for the meditation, select a quiet and secluded space where you can sit undisturbed. Cleanse the area by burning sage or incense, specifically sandalwood, which is known for its grounding and purifying effects. Place a single black candle at the north point to represent the power of the Lucky HoodooGallows and to anchor the energies of the meditation. Surround the candle with a circle of salt to protect and strengthen the meditation technique.
 **Step 2**: Posture

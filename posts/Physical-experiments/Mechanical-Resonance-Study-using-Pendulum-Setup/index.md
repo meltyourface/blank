@@ -22,7 +22,7 @@ excerpt: Design a comprehensive experiment to investigate the principles of reso
 
 ## Comprehensive Study of Mechanical Resonance using a Pendulum-Style Swing Setup
 
-Objective:
+**Objective**:
 The experiment aims to investigate the principles of resonance within the realm of physical phenomena, specifically focusing on mechanical oscillations. Various oscillation frequencies will be observed to study their impact on resonance, using a pendulum-style swing setup.
 
 Experimental Setup:

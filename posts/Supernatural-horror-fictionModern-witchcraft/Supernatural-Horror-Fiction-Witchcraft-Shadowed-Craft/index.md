@@ -48,13 +48,13 @@ a. Invoking the Supernatural Muse
 
 This ritual is designed to harness the power of supernatural horror fiction as inspiration for your own magical workings. By opening oneself up to this enigmatic current, one can channel dark visions into personal practice.
 
-Components:
+**Components**:
 - A quiet space
 - Candle (preferably black)
 - Influential piece of horror fiction or film
 - Pen and paper
 
-Steps:
+**Steps**:
 1. Light the candle, allowing your mind to enter a calm and receptive state.
 2. Immerse yourself in the chosen horror fiction or film, allowing the story's atmosphere and characters to infiltrate your psyche.
 3. When you have finished engaging with the work, sit with pen and paper and begin channeling your newfound inspiration into writing your own supernatural tale, incorporating elements of witchcraft and your intentions.
@@ -64,13 +64,13 @@ b. Nightmare Conjuration
 
 Shadowed Craft practitioners can utilize the power of nightmares to release subconscious fears and tap into hidden strengths. This spell summons nightmares to an individual, creating a transformative experience of growth.
 
-Components:
+**Components**:
 - Dreamcatcher or other dream-affirming artifact
 - Lavender (use sparingly)
 - Peppermint oil
 - Petition paper with the intention
 
-Steps:
+**Steps**:
 1. Empower the dreamcatcher with your intention for the nightmare conjuration by writing your desire on the petition paper.
 2. Anoint the dreamcatcher with a mixture of lavender and peppermint oil, to both beckon and repel the energies needed.
 3. Place the dreamcatcher near your sleeping space or under your pillow, allowing it to work its magic in the realm of dreams.

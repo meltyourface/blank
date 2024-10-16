@@ -28,7 +28,7 @@ To examine the interconnections between ancient Gnostic thought, Hermetic philos
 
 3. **Eleusinian Mysteries**: These were initiation rites of the ancient Greek world, held in Eleusis, dedicated to the goddesses Demeter and Persephone. The detailed nature of the ceremonies and rituals remains mostly unknown, as initiates pledged to maintain secrecy. The Mysteries aimed at conferring a transformative experience or spiritual awakening, related to Persephone's annual descent into the underworld and her subsequent return, symbolizing the rebirth and renewal of life.
 
-Interconnections:
+**Interconnections**:
 
 A) Esoteric Knowledge: The Gnostic, Hermetic, and Eleusinian traditions each offer exclusive contentions of acquiring wisdom and spiritual awareness, concealed from the uninitiated. In Gnostic thought, it is the revelation of hidden texts and teachings, while Hermetic philosophy unfolds universal laws. The Eleusinian Mysteries achieved similar ends by bestowing initiates with direct, divine experience.
 

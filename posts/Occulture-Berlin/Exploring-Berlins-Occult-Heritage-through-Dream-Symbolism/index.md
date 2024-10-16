@@ -25,7 +25,7 @@ In the dream, the dreamer finds themselves within the historic and enigmatic rea
 
 The dreamer enters the building and is immediately enveloped in an atmosphere saturated with deep understanding and knowledge. The walls are lined with timeless books and scrolls containing the secrets and history of Berlin's occult underbelly.
 
-Interpretation:
+**Interpretation**:
 
 The cobblestone streets and gas lamps are symbolic of Berlin's rich history and tradition. As a city that has gone through immense cultural and political changes, it represents the ever-evolving nature of esoteric and occult practices within the area.
 
@@ -35,7 +35,7 @@ The atmosphere within the building embodies the depth of Berlin's esoteric and o
 
 The walls lined with books and scrolls are symbolic of the vast knowledge and wisdom contained within the city's esoteric practices. The dreamer's journey through the dream holds the potential to uncover vital connections between various historical events, secret societies, and key figures of Occulture Berlin.
 
-Connections:
+**Connections**:
 
 Examining key aspects of Occulture Berlin, we can identify meaningful connections to illuminate the dreamer's experience in the dream. 
 

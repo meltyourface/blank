@@ -21,7 +21,7 @@ excerpt: Explain the symbolic significance of the balance between light and dark
 ---
 The Equinox Rituals: Symbolic Significance of Balance Between Light and Darkness
 
-Introduction:
+**Introduction**:
 The Equinox is a unique astronomical event that occurs twice a year when the sun crosses the celestial equator, causing day and night to be of equal length. It represents a point of balance between light and darkness, a concept that holds deep meaning in various esoteric and occult traditions. These rituals performed during the equinoxes aim to tap into the energies of this sacred time, invoking both the solar and lunar aspects within a singular ceremony.
 
 Symbolic Significance of Balance Between Light and Darkness:

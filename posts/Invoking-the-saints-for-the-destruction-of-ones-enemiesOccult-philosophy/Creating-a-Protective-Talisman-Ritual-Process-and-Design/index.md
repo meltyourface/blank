@@ -29,7 +29,7 @@ The talisman takes the form of a hexagonal medallion engraved with an intricate 
 4. Along the hexagonal border, inscribe the 72 names of God in Hebrew, a powerful symbol in sacred geometry, believed to evoke spiritual strength and divine protection.
 5. Etch a series of protective runes encircling the central design to bind and amplify the talisman's energies.
 
-Material:
+**Material**:
 
 Choose your material from the following list of substances known for their occult properties, selecting the one that resonates most strongly with the talisman's purpose.
 

@@ -22,7 +22,7 @@ excerpt: Design an unparalleled method utilizing the art of Ecstasy, incorporati
 
 ## The Rite of Cosmic Unity
 
-Objective: To enhance one's grasp on the mystical interconnectedness of all entities in the cosmos through the art of Ecstasy, intricate ceremonies, and mind-altering experiences.
+**Objective**: To enhance one's grasp on the mystical interconnectedness of all entities in the cosmos through the art of Ecstasy, intricate ceremonies, and mind-altering experiences.
 
 ### I. Preparatory Phase
 

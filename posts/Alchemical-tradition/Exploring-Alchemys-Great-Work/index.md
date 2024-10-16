@@ -26,7 +26,7 @@ excerpt: >
 Course Overview:
 This immersive course delves into the enigmatic history, mystical theories, and practical applications of the revered esoteric art of Alchemy. Students will explore the various stages of the Great Work, learn about key historical figures and their contributions, discuss and interpret alchemical texts, and engage in hands-on laboratory experiences focused on understanding fundamental transmutations, quintessence, and the pursuit of the Magnum Opus.
 
-Duration: 12 weeks, meeting twice weekly for 3-hour sessions
+**Duration**: 12 weeks, meeting twice weekly for 3-hour sessions
 
 Course Outline:
 
@@ -88,7 +88,7 @@ Week 12: Course Review and Final Project Presentation
 - Review of the course highlights and key learnings
 - Presentation of students' final projects incorporating elements of Alchemy learned throughout the course
 
-Assessment:
+**Assessment**:
 - Active participation in class discussions (20%)
 - Laboratory practicum reports (30%)
 - Final project incorporating learned elements of Alchemy into a creative or practical application (50%)

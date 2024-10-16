@@ -22,7 +22,7 @@ excerpt: Develop a comprehensive grimoire delineating the infernal tenets and co
 
 ## The Infernal Codex: A Grimoire of Diabolical Arts and Tenets
 
-Introduction: The Infernal Codex is a comprehensive grimoire that provides acolytes with the foundation and guidance necessary to traverse the treacherous realms of demonology, necromancy, and maleficium. Within these pages, aspirants will find a chronological exploration of the infernal tenets, codes of conduct, potential ramifications, and mitigation strategies required for true mastery of the diabolical arts. 
+**Introduction**: The Infernal Codex is a comprehensive grimoire that provides acolytes with the foundation and guidance necessary to traverse the treacherous realms of demonology, necromancy, and maleficium. Within these pages, aspirants will find a chronological exploration of the infernal tenets, codes of conduct, potential ramifications, and mitigation strategies required for true mastery of the diabolical arts. 
 
 ### I. Diabolical Tenets and Codes of Conduct
 The key to unlocking the secrets of the dark arts lies in understanding the principles that govern them. **The foremost tenets and codes of conduct to be observed by the acolyte are as follows**:

@@ -34,7 +34,7 @@ excerpt: >
 ---
 Lesson 1: Introduction to Enochian Magic and Its Historical Context
 
-Objective: Provide students with a foundational understanding of Enochian magic's origins and its influence on contemporary occult practices.
+**Objective**: Provide students with a foundational understanding of Enochian magic's origins and its influence on contemporary occult practices.
 
 A. History of Enochian Magic
    i. **The Origins**: John Dee and Edward Kelley
@@ -48,7 +48,7 @@ C. **Reflection**: Students will write a brief reflection on how Enochian magic 
 
 Lesson 2: Understanding the Enochian Magical System
 
-Objective: Introduce the fundamental concepts and structure of the Enochian magical system.
+**Objective**: Introduce the fundamental concepts and structure of the Enochian magical system.
 
 A. The Enochian Cosmology
    i. The World of Aethyrs
@@ -66,7 +66,7 @@ D. **Reflection**: Consider the broader structure of the Enochian magical system
 
 Lesson 3: Enochian Magical Tools and Proper Usage
 
-Objective: Introduce the essential tools of Enochian magic and provide guidance for consecration and use.
+**Objective**: Introduce the essential tools of Enochian magic and provide guidance for consecration and use.
 
 A. Introduction to Enochian Magical Tools
    i. Sigillum Dei Aemeth
@@ -84,7 +84,7 @@ D. **Reflection**: Students will write about a tool they created or consecrated 
 
 Lesson 4: Enochian Script, Language, and Pronunciation
 
-Objective: Teach students the basics of Enochian script, language, and pronunciation.
+**Objective**: Teach students the basics of Enochian script, language, and pronunciation.
 
 A. Learning the Enochian Alphabet
    i. The Letters and their meanings
@@ -100,7 +100,7 @@ D. **Reflection**: Reflect on the process of learning Enochian script and langua
 
 Lesson 5: Enochian Scrying Techniques and Interpretation
 
-Objective: Explore Enochian scrying, providing students with the groundwork for achieving contact with angelic entities and interpreting messages received.
+**Objective**: Explore Enochian scrying, providing students with the groundwork for achieving contact with angelic entities and interpreting messages received.
 
 A. Theories on Enochian Visions
    i. Psychological interpretations
@@ -122,7 +122,7 @@ E. **Reflection**: Discuss the scrying experience and challenges faced when atte
 
 Lesson 6: Foundational Enochian Rituals and Customization
 
-Objective: Provide students with a curated selection of Enochian rituals, guidance, and sample invocations for practice and personalization.
+**Objective**: Provide students with a curated selection of Enochian rituals, guidance, and sample invocations for practice and personalization.
 
 A. The Opening of the Watchtowers Ritual
    i. Background and purpose

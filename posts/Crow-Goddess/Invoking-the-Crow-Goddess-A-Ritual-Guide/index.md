@@ -51,7 +51,7 @@ Crón Bandia, taispeáin do neart dúinn
 Wis i ngách rún, fáistine agus rua
 Tabhair slí agus eolas dúinn, a Bhandidia"
 
-Translation: (Morrigan, listen to me, my love
+**Translation**: (Morrigan, listen to me, my love
 Goddess of the Crow, reveal your power to us
 Be in every secret, prophecy, and red
 Grant us a way and knowledge, O Great Goddess)

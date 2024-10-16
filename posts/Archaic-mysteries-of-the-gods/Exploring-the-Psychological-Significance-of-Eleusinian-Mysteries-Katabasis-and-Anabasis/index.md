@@ -29,7 +29,7 @@ The two major aspects of the psychological significance of the sacred katabasis 
 1. The esoteric concept of theurgy.
 2. The cosmological aspect of the cycles of nature.
 
-One: The Esoteric Concept of Theurgy
+**One**: The Esoteric Concept of Theurgy
 
 Theurgy, an ancient esoteric practice, can be understood as a series of spiritual and ritual practices aimed at achieving a divine or mystical union with the gods. In the context of the Eleusinian Mysteries, this divine communion constitutes a journey of the psyche, similar to that of Demeter and Persephone.
 
@@ -37,7 +37,7 @@ The initiates would symbolically undergo a katabasis, metaphorically descending 
 
 Upon reaching the depth of their katabasis, the initiates would experience the anabasis - a transformation and ascension towards the Upper World, the realm of divine light and enlightenment. This ascent culminated in a theurgical communion with the goddesses Demeter and Persephone, granting the initiates a profound, transformative spiritual awakening.
 
-Two: The Cosmological Aspect of the Cycles of Nature
+**Two**: The Cosmological Aspect of the Cycles of Nature
 
 The myth of Demeter and Persephone also represents the natural cycles of life, death, and rebirth, effectively mirroring the agricultural cycle of the earth. Persephone's descent to the Underworld corresponds with the barren, cold months of winter when the earth seems lifeless. The period of Demeter's grief and mourning for her lost daughter reflects the state of nature and agriculture during this time.
 

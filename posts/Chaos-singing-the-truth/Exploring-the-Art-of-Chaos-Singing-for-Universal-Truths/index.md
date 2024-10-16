@@ -30,7 +30,7 @@ Origin and Historical Overview
 
 Chaos singing the truth traces its roots to ancient civilizations that thrived upon the confluence of cosmic energies, often hidden in the shadows of history. While the original sources remain obscure, it is believed that these ancients, in their pursuit of understanding the universe, developed the Chaos realm's harmonic access—a dimension where time, space, and consciousness interweave in a spiral dance of ever-shifting patterns. Over time, mystical traditions across the globe embraced this knowledge, incorporating specific elements of Chaos singing into their ritualistic practices, thus shaping its essence for the modern world.
 
-Principles: Embracing the Chaos
+**Principles**: Embracing the Chaos
 
 To proficiently comprehend Chaos singing the truth, students must first grasp the underlying principles that govern its practice:
 

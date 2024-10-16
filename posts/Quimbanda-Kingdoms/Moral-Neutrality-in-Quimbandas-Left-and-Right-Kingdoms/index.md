@@ -28,7 +28,7 @@ excerpt: >
 ---
 Answer: - Both Kingdoms are morally neutral, with the Left focusing on material pursuits and the Right on spiritual ones.
 
-Explanation: In the context of Quimbanda Kingdoms, the distinction between the Kingdoms of Left and Right lies in their focus and purpose, not in the moral alignment. Both Kingdoms are considered morally neutral, as it is the intentions of the practitioners that determine the outcome of their magical workings. 
+**Explanation**: In the context of Quimbanda Kingdoms, the distinction between the Kingdoms of Left and Right lies in their focus and purpose, not in the moral alignment. Both Kingdoms are considered morally neutral, as it is the intentions of the practitioners that determine the outcome of their magical workings. 
 
 The Left Kingdom focuses on material pursuits, such as wealth, health, and love, and its spirits and entities can be called upon for assistance in these matters. The Left Kingdom represents the earthly and physical aspects of life, and its workings may be perceived as more accessible and immediate. In contrast, the Right Kingdom is concerned with spiritual pursuits, including connecting with higher spiritual realms, seeking enlightenment, and understanding the mysteries of existence. The Right Kingdom emphasizes the importance of learning, spiritual growth, and development.
 

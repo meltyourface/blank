@@ -22,7 +22,7 @@ excerpt: >
 ---
 Ritual of the Crossroads: Consecrating and Cleansing a Sanctum to Hecate
 
-Preparation:
+**Preparation**:
 Gather the following items and materials:
 
 1. Three black candles to represent Hecate's triple aspects

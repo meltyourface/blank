@@ -30,7 +30,7 @@ excerpt: >
 Answer:
 - Ancient grimoires placed equal importance on all four domains, emphasizing their necessity in achieving a unified understanding of the universe.
 
-Explanation:
+**Explanation**:
 Ancient grimoires, which are collections of texts filled with mystical knowledge, often approached the subjects of magic, alchemy, astrology, and demonology as interconnected disciplines that were necessary in achieving a unified understanding of the universe.
 
 Magic, the practice of influencing one's environment and fate through the use of rituals and symbolism, is closely integrated with the other three domains. It can be seen as the fundamental way to interact with and manipulate the forces of the universe.

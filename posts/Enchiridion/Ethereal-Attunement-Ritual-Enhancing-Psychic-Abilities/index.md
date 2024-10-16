@@ -22,9 +22,9 @@ excerpt: Design an Enchiridion-based ritual to attune oneself with the ethereal 
 
 ## The Ethereal Attunement Ritual
 
-Objective: To attune oneself with the ethereal realm and enhance psychic faculties and intuitive prowess.
+**Objective**: To attune oneself with the ethereal realm and enhance psychic faculties and intuitive prowess.
 
-Preparations:
+**Preparations**:
 
 1. Choose an appropriate location. The designated space should be quiet, secluded, and free from disturbances. Cleanse and consecrate the area beforehand.
 

@@ -43,6 +43,6 @@ The psychological impact of these rituals on both the practitioner and the targe
 
 Socioculturally, hate and harm rituals serve as tools for establishing a sense of social order and control. These rituals, particularly within the context of occultism, can act as deterrents by demonstrating the potential consequences of violating the established hierarchy or challenging individuals who possess esoteric knowledge and power. Practitioners of these rituals may also see themselves as avenging perceived injustices or meting out punishment in line with a particular moral code or ideology.
 
-Summary:
+**Summary**:
 
 Hate and harm rituals have existed throughout history and continue to be practiced in various forms today. By utilizing potent symbols and focusing on specific intentions, these rituals seek to cause harm to their intended targets. The psychological impacts on both practitioners and victims are significant, with the former gaining a sense of power and control, while the latter experiences fear and vulnerability. Socioculturally, these rituals function as a form of social order maintenance and can serve to deter potential challengers or opponents within occult and esoteric communities.

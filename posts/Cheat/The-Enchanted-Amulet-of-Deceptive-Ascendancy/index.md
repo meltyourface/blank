@@ -43,7 +43,7 @@ Tier 1: The Serpent's Eye, paired with "Yuthura thol’arh, nay'dras yi'bol"
 Tier 2: The Web of Intrigue, adjoined with "Xaladar nas'tholik, krath'ar yi'thi"
 Tier 3: The Shifting Shadows, intertwined with "Nythasar'dakh, b'reval jh'anor"
 
-Backstory:
+**Backstory**:
 
 The Amulet of Fallacious Ascendancy first emerged from the clandestine gatherings of an ancient cabal of tricksters and illusionists. Legends claim it was transmuted from an illusory gemstone, spirited away from the very depths of the Underworld. Covertly passed down from master to apprentice, the amulet embodies the essence of deception, enabling its wielder to bend and distort reality to their whim.
 

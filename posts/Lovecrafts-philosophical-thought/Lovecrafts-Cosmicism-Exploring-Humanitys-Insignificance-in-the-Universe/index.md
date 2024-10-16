@@ -24,7 +24,7 @@ Overview of Lovecraft's Philosophical Thought: Cosmicism and The Role of Humanit
 
 H.P. Lovecraft was a prominent American writer of weird fiction and horror, whose works have had a significant impact on both literature and philosophical thought. Chief among his ideas is the concept of cosmicism, a philosophical paradigm that emphasizes the insignificance of humanity in the vast, indifferent universe. Lovecraft's cosmicism offers a poignant exploration of the human condition and serves as a driving force behind the development of modern esoteric and occult practices. This discussion will provide essential insights into Lovecraft's key concepts and principles that can pave the way for a more profound understanding of his ideas and their contemporary applications in occult teachings.
 
-Cosmicism: A Philosophy of the Indifferent Universe
+**Cosmicism**: A Philosophy of the Indifferent Universe
 
 Cosmicism is the central philosophical standpoint in Lovecraft's writings. It posits that human beings, as well as their beliefs, hopes, and fears, are fundamentally irrelevant in the grand scheme of the universe. According to cosmicism, outer space is vast, mysterious, and indifferent to human existence, whereas Earth's history and human achievements are merely fleeting moments in cosmic time.
 

@@ -21,10 +21,10 @@ excerpt: Compose a ritual for summoning a specific spirit or deity within the ar
 ---
 Ritual for Summoning the Goddess Isis
 
-Introduction:
+**Introduction**:
 In this ritual, we will focus on invoking the ancient Egyptian Goddess Isis, known as the mother of all magic and keeper of mysteries, healing, and rebirth. Drawing from her powerful mythos and extensive symbolism, we will craft a potent ritual for establishing a connection to this divine figure.
 
-Materials:
+**Materials**:
 - A white or silver altar cloth
 - An image or statue of Isis
 - Sand or earth from Egypt (alternatively, any material that symbolizes the land of Egypt)
@@ -34,17 +34,17 @@ Materials:
 - A bowl of water
 - A silver or white candle
 
-Preparation:
+**Preparation**:
 1. Begin by thoroughly cleansing your ritual space, ensuring it is free from clutter and distractions.
 2. Physically and energetically cleanse yourself through a salt bath or by smudging with sacred herbs like sage or blue lotus.
 3. Lay out your altar cloth and arrange your ritual materials upon it in a manner that holds significance for you.
 
-Invocation:
+**Invocation**:
 1. Light the candle and say, "I invoke the Goddess Isis, mother of magic, mistress of mysteries, and healer of the world. Hear my call and join me in this sacred space."
 2. Meditate on the flame, visualizing the light of Isis illuminating your surroundings and infusing your spirit.
 3. Chant the following hymn to establish an even deeper connection: "Isis Auset, Mistress of Heaven, Earth, and the Ocean, guide my heart, mind, and spirit, and empower me with your ancient wisdom."
 
-Communication:
+**Communication**:
 1. Anoint yourself with the oil or water, focusing on your third eye chakra, throat chakra, and heart chakra, while saying, "With the waters of Isis, I open my inner eye, awaken my voice, and connect my heart to the divine."
 2. Offer the blue lotus flowers or incense to the image or statue of Isis, asking for her blessing and guidance.
 3. Using your ankh symbol, trace a sigil in the air that resonates with your intentions and purpose.

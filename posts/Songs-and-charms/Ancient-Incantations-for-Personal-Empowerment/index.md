@@ -23,96 +23,96 @@ excerpt: Compose a collection of mystical incantations and melodic chants, speci
 
 1. Aether's Embrace
 
-Lyrics:
+**Lyrics**:
 With Aether's embrace I soar,
 Through astral plains I explore,
 Robed in the light of wisdom's lore,
 Girded by confidence galore.
 
-Chant:
+**Chant**:
 O Astra, o Prudentia, o Virtus, in tua luce sumus.
 
 2. Sovereign Spell
 
-Lyrics:
+**Lyrics**:
 I wield the scepter of my soul,
 Each thought, each act, under my control,
 With regal spirit, I console;
 I am the sovereign of my role.
 
-Chant:
+**Chant**:
 Impero Sui, Imperium meum, in Imperando sum.
 
 ### II. Incantations and Chants for Public Speaking
 
 1. Eloquent Muse
 
-Lyrics:
+**Lyrics**:
 O muse of words that dance and glide,
 Empower my voice to turn the tide,
 Rich syllables that won't divide,
 Eloquent speech, be my guide.
 
-Chant:
+**Chant**:
 O Musa, o Lorelei, o Vates, in tua eloquio sumus.
 
 2. Harmony's Whisper
 
-Lyrics:
+**Lyrics**:
 Let each phrase flow with graceful sound,
 Harmonious whispers that astound,
 No trace of fear shall keep me bound,
 For in the cadence, strength is found.
 
-Chant:
+**Chant**:
 O Concordia, o Vox, o Cantus, in tua harmonia sum.
 
 ### III. Incantations and Chants for Decision-Making
 
 1. Emerald Judgement
 
-Lyrics:
+**Lyrics**:
 With emerald-eyed precision weigh,
 Each choice to tread a wiser way,
 Forge my path come what may,
 Judgement clear, not led astray.
 
-Chant:
+**Chant**:
 O Prudentia, o Emeraude, o Regula, in tua sapientia sum.
 
 2. Navigator's Mark
 
-Lyrics:
+**Lyrics**:
 By compass rose or mystic sign,
 Guide my hand to the course divine,
 In the realm of choices mine,
 Navigator, choice enshrine.
 
-Chant:
+**Chant**:
 O Navigatio, o Divinus, o Sapiens, in tua diremptio sum.
 
 ### IV. Incantations and Chants for Self-Love
 
 1. Inner Radiance
 
-Lyrics:
+**Lyrics**:
 From deep within, a light will gleam,
 A beacon bright, a loving theme,
 Embrace my worth, my essence beam,
 In inner radiance, I'll redeem.
 
-Chant:
+**Chant**:
 O Lux, o Intus, o Amor, in tua radientia sum.
 
 2. Acceptance and Grace
 
-Lyrics:
+**Lyrics**:
 I release the chains that bind,
 Embrace the grace within I find,
 No merit or flaw left behind,
 In self-love, my soul, I'll wind.
 
-Chant:
+**Chant**:
 O Accepto, o Gratia, o Serenitas, in tua amor sum.
 
 ### V. Ritual for Amplifying Potency

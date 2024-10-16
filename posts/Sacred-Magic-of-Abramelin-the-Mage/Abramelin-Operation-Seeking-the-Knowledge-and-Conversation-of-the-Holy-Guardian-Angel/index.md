@@ -22,7 +22,7 @@ excerpt: In the context of the Sacred Magic of Abramelin the Mage, analyze the m
 ---
 In the context of the Sacred Magic of Abramelin the Mage, the operation to attain the Knowledge and Conversation of the Holy Guardian Angel (K&C of the HGA) is a pivotal and transformative enterprise in which the practitioner seeks to establish a direct and conscious link with a higher aspect of themselves, often referred to as the Holy Guardian Angel or HGA. This mystical pursuit involves a series of methods, intentions, and potential consequences that hold deep ethical and philosophical implications when viewed against the backdrop of broader esotericism and spiritual development, which this essay will attempt to reconcile while demonstrating the main themes, ideas, and conclusions of this profound spiritual journey.
 
-Methods:
+**Methods**:
 The operation to attain the K&C of the HGA, as described in Sacred Magic of Abramelin the Mage, follows a highly structured and disciplined course of action that lasts for six to 18 months. The process can be divided into three main phases:
 
 1. Preparation: The practitioner must purify their lifestyle, environment, and intentions through rigorous routines such as daily prayers, meditations, and fasting. The purpose of this purification is to create a sacred space wherein the practitioner can concentrate on their spiritual aspirations and distance themselves from worldly distractions.
@@ -31,7 +31,7 @@ The operation to attain the K&C of the HGA, as described in Sacred Magic of Abra
 
 3. Communion with the HGA: The culmination of the operation is the actual contact with the HGA in a visionary or ecstatic state. This union may appear as a vision, an inner voice, or an overwhelming sense of divine presence, leading to a transformative initiation into a higher state of consciousness.
 
-Intentions:
+**Intentions**:
 The primary intention of pursuing the K&C of the HGA is for the individual to gain a deep understanding and harmonization with their divine purpose, which supports their eventual attainment of spiritual enlightenment. By achieving this communion, the practitioner can draw upon the wisdom, inspiration, and guidance of the HGA to navigate the vicissitudes of life with increased grace, resilience, and understanding. Furthermore, this operation aims to facilitate the practitioner's ability to work effectively with spiritual energies, symbols, and beings, thus unlocking the potential to perform advanced magical operations that may be of service to others and the larger spiritual community.
 
 Potential Consequences:

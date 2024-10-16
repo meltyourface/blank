@@ -22,7 +22,7 @@ excerpt: Compose an in-depth critique of the enigmatic Prophecy of Lumos, utiliz
 
 ## An In-Depth Critique of the Enigmatic Prophecy of Lumos: Insights into the Arkonian Temple Scriptures
 
-Abstract: The Prophecy of Lumos is a prime example of the complex, mystifying literature that underpins the teachings and practices of the Arkonian Temple. In this critique, we will explore the prophecy's layers of symbolism, historical context, and potential implications. Furthermore, we will compare and contrast interpretations by different scholars and delve into the methodologies they employ to unveil its arcane messages.
+**Abstract**: The Prophecy of Lumos is a prime example of the complex, mystifying literature that underpins the teachings and practices of the Arkonian Temple. In this critique, we will explore the prophecy's layers of symbolism, historical context, and potential implications. Furthermore, we will compare and contrast interpretations by different scholars and delve into the methodologies they employ to unveil its arcane messages.
 
 1. Introduction
 

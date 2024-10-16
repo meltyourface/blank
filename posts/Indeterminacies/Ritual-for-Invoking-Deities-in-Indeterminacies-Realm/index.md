@@ -31,7 +31,7 @@ excerpt: >
 
 ## The Rift Nexus Ceremony
 
-Introduction:
+**Introduction**:
 The Rift Nexus Ceremony is a ritualistic practice dedicated to venerate one's chosen patron deity or spirit guide within the realm of Indeterminacies, occult, and esoteric practices. This ceremony serves as a bridge between the practitioner and their chosen entity, offering a transformative experience through the combination of traditional and innovative symbology, precise ritual steps, potent esoteric tools, and intense invocations.
 
 1. **Symbology**:

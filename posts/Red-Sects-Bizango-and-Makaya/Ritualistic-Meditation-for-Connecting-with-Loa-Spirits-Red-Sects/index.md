@@ -33,7 +33,7 @@ Preparatory Procedures:
 Mete men nan men mwen, fè'm traversé.
 Ou ki konesans Loa yo, mennen mwen nan chimen moun sa yo."
 
-Translation: "Papa Legba, great road, open the gate for me. Hold my hand, guide me through. You who know the Loa, lead me on the path of these people."
+**Translation**: "Papa Legba, great road, open the gate for me. Hold my hand, guide me through. You who know the Loa, lead me on the path of these people."
 
 4. **Personal Protection**: Perform a personal protection ritual to protect oneself from any spiritual harm. This may involve smudging oneself with sacred herbs, anointing with protective oils such as palm oil, or using a personal talisman.
 
@@ -56,7 +56,7 @@ Meditation Practice:
 "Gran Papa Legba, mèsi pou sèvis ou, fèmen bayè-a ak tout pwoteksyon.
 Bay egid divin nan tout sa m'ap fè ak chemen mwen."
 
-Translation: "Great Papa Legba, thank you for your services, close the gate with your protection. Grant divine guidance in all I do and my paths."
+**Translation**: "Great Papa Legba, thank you for your services, close the gate with your protection. Grant divine guidance in all I do and my paths."
 
 Interpreting Messages:
 

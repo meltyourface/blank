@@ -24,10 +24,10 @@ Introducing the language of Threskantia, an eldritch and chaotic form that binds
 Alphabet and Symbols:
 Threskantia's script comprises 23 unworldly symbols, each representing the unfathomable aspects of the anomalous beings it strives to communicate with. Half-formed shapes merge with unnerving patterns in an endless loop – a glimpse of it drives one close to the brink, forcing them to tear their gaze away.
 
-Phonetics:
+**Phonetics**:
 The phonetics of Threskantia are haunting and disturbing, incorporating unnatural hisses, guttural growls, and unnervingly sustained vowels that seem to reverberate through the very fabric of consciousness. To speak this language is to push one's vocal cords to the edge of limits, perhaps even tearing at the delicate tissue that produces these torturous sounds.
 
-Grammar:
+**Grammar**:
 Threskantia's grammar exists within a labyrinthine structure where the immutable rules of other languages prove malleable. The sentences in Threskantia fold in on themselves like a Moebius strip, causing subject and object to converge until they are indistinguishable. This inversion of the conventional enables the summoning of the beings from beyond by disrupting the existing order of reality.
 
 Poetry and Forbidden Knowledge:
@@ -39,7 +39,7 @@ Fla'grenth shuun fiirû y'thlång
 Grev-reska v'lok'k vin-túrgoth
 I'ekhra il'ghûnn sei'shar, dely'buranth tuk
 
-Translation:
+**Translation**:
 
 In the dark void where silence lay,
 We call upon powers festering deep.

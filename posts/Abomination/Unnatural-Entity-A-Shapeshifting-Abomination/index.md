@@ -30,7 +30,7 @@ The answer that most accurately represents an instance of Abomination is:
 
 - A shapeshifting creature born through the illicit union of a human and a supernatural entity, able to cause great destruction and chaos.
 
-Explanation:
+**Explanation**:
 
 The term Abomination, particularly within the context of the esoteric and occult, is often used to describe beings or phenomena that defy the natural order and disrupt the balance of the universe. This can refer to any number of entities or occurrences, ranging from forbidden rituals and spells to creatures born of unnatural couplings.
 

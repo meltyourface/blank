@@ -22,7 +22,7 @@ excerpt: Describe a comprehensive lesson on the key beliefs and practices of Afr
 
 ## Key Beliefs and Practices of African Traditional Religions: Cosmology, Deities, Ancestors, and Rituals
 
-Introduction:
+**Introduction**:
 
 African traditional religions represent a diverse and complex system of spiritual practices and beliefs that have existed on the African continent since time immemorial. These traditions are deeply rooted in the culture, history, and socio-political organization of the communities that practice them. The key focus of this lesson will be on the cosmology, pantheon of deities, the role of ancestors, and the importance of rituals and ceremonies in these spiritual systems.
 
@@ -52,6 +52,6 @@ Rituals often involve the use of sacred objects, symbols, and prayers accompanie
 
 Through the performance of these rituals and ceremonies, adherents of African traditional religions are able to nurture their spiritual relationships with the cosmos, deities, and ancestors, and play an active role in shaping their own lives and communities.
 
-Conclusion:
+**Conclusion**:
 
 African traditional religions offer a rich tapestry of spiritual beliefs and practices, grounded in the diverse cosmologies, diverse pantheon of deities, ancestral veneration, and the importance of rituals and ceremonies. Recognizing and apprecending the intricacies of these beliefs and practices will deepen students' understanding of the complex interplay between culture, spirituality, and community life in African societies.

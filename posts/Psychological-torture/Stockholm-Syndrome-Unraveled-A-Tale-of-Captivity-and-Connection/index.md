@@ -22,7 +22,7 @@ excerpt: Compose a detailed and intricate script that outlines the careful orche
 
 ## The Shattered Mirror
 
-Setting: A remote, fortified location with limited access to the outside world.
+**Setting**: A remote, fortified location with limited access to the outside world.
 
 Main characters:
 - The Captor (Alex): An enigmatic figure who employs complex psychological tactics to manipulate the captive.

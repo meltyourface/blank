@@ -22,7 +22,7 @@ excerpt: Compile a comprehensive anthology of obscure and mystifying folktales f
 
 ## The Ephemeral Garden: An Anthology of Plant Phoenix Folktales
 
-Foreword: The mythical Plant Phoenix is a transcendent flora shrouded in mystery and symbolism. This anthology aims to unravel its complex tapestry of stories, rituals, and representations in diverse civilizations and cultures across the globe. Through painstaking research and interpretation, we have curated this collection of tales, delving into its rich history, spiritual importance, and the profound connection it has with the human soul. 
+**Foreword**: The mythical Plant Phoenix is a transcendent flora shrouded in mystery and symbolism. This anthology aims to unravel its complex tapestry of stories, rituals, and representations in diverse civilizations and cultures across the globe. Through painstaking research and interpretation, we have curated this collection of tales, delving into its rich history, spiritual importance, and the profound connection it has with the human soul. 
 
 Table of Contents:
 1. Introduction

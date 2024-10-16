@@ -41,18 +41,18 @@ The deity's presence inspires those on spiritual paths to transcend material con
 
 To establish a bond with the God of Both Living and Dead, the seeker must first approach them with genuine reverence and willingness to learn. A cleansed and consecrated space invites the deity's energies and sets the stage for devotion and communion.
 
-Rituals:
+**Rituals**:
 1. **Purification**: Begin by cleansing yourself and the ritual space with sage, incense, or any purifying herbs. This removes negative energies, making it conducive for divine connection.
 2. **Dedication**: Light a candle, preferably black or white, as a token of your commitment to the deity and to symbolize the eternal cycle of life and death.
 
-Invocations:
+**Invocations**:
 An incantation to the deity must contain sincere expressions of respect, as well as a clear statement of your intent. Invoke their wisdom and seek guidance on your spiritual journey. **Example**:
 "God of Both Living and Dead, 
 Mighty guardian, wise and dread, 
 Illuminate my spiritual quest, 
 Guide me through the darkest tests."
 
-Offerings:
+**Offerings**:
 Offerings made to the deity generally represent life's transient nature or constitute tokens of respect. Consider flowers, incense, or fruits. Alternatively, offer your time and energy through charitable acts or community service, symbolizing your commitment to the higher purpose.
 
 ### Chapter 4: Strengthening the Bond with the Deity

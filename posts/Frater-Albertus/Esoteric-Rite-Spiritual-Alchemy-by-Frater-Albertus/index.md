@@ -23,9 +23,9 @@ excerpt: >
 
 ## Title: The Rite of the Opus Magnum
 
-Objective: To perform a deeply esoteric and occult ritual ceremony aligned with the teachings of Frater Albertus, focusing on spiritual alchemy, transformation, and the enhancement of sacred tools and spaces.
+**Objective**: To perform a deeply esoteric and occult ritual ceremony aligned with the teachings of Frater Albertus, focusing on spiritual alchemy, transformation, and the enhancement of sacred tools and spaces.
 
-Preparation:
+**Preparation**:
 1. Select an appropriate date and time for the ceremony, ensuring it takes place during an astrologically favorable period, preferably during a new moon for new beginnings or full moon for heightened energy.
 2. Cleanse the chosen space with consecrated saltwater and sage, drawing banishing pentagrams in the four directions to rid the area of any discordant energies.
 3. Create a sacred altar, adorned with the symbols of the seven classical planets (Sun, Moon, Mars, Mercury, Jupiter, Saturn, and Venus), alchemical glyphs, and sigils specific to Frater Albertus' teachings.

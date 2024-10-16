@@ -22,7 +22,7 @@ excerpt: Create a detailed and informationally dense section of a grimoire focus
 
 ## Murky Swamps - A Portal to the Occult
 
-Introduction:
+**Introduction**:
 
 Swamps, those mystifying domains of nature, have captivated the human imagination for centuries. Long regarded as the birthplace of dark magic, swamps possess unique energies and hidden powers that serve as vital components for many occult practices. As an aspiring practitioner seeking to harness the power of the swamp, this section will provide essential knowledge, understanding, and practical applications to help you unveil its secrets while observing necessary precautions.
 
@@ -70,6 +70,6 @@ When entering any mystical or magical space, safety must always be considered. *
 - Know the potency and effects of the plants and other materials used in rituals.
 - Employ grounding techniques and cleanse yourself (physically and energetically) after swamp work to release any accumulated energies.
 
-Conclusion:
+**Conclusion**:
 
 The murky swamps of the world harbor a wealth of esoteric wisdom, potent energies, and transformative power. As a diligent practitioner, embracing the hidden wonders of the swamp augments your deeper understanding of the occult forces and enkindles a sense of oneness with the natural world.

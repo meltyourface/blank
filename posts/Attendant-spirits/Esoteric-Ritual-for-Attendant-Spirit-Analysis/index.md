@@ -22,9 +22,9 @@ excerpt: Develop a comprehensive ritual to accurately decipher the intrinsic cha
 
 ## The Ritual of the Attendant Spirit's Revelation
 
-Objective: To accurately decipher the intrinsic characteristics and underlying intentions of an unfamiliar attendant spirit.
+**Objective**: To accurately decipher the intrinsic characteristics and underlying intentions of an unfamiliar attendant spirit.
 
-Preparation:
+**Preparation**:
 
 1. Set up a sacred space: Thoroughly clean and purify the area in which the ritual will be performed, casting a protective circle around the perimeter and invoking positive energies to assist you.
 

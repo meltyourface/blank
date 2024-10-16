@@ -27,7 +27,7 @@ A beacon of individual expression, spiritual progress, and exploration, the Abbe
 Historical Context:
 The roots of the Abbey can be traced back to the early 20th century, when a new wave of occult exploration and spiritual revitalization swept across the world. It is believed that the Abbey's founding was heavily influenced by the teachings of Aleister Crowley, the preeminent British occultist and mystic whose revolutionary ideas regarding self-discovery and cosmic order reshaped the esoteric landscape. As a result, many aspects of his Thelema philosophy echo throughout the Abbey's core principles and practices.
 
-Philosophy: The True Will and the Law of Thelema
+**Philosophy**: The True Will and the Law of Thelema
 
 At the heart of the Abbey lies the concept of the True Will. It is the driving force of every individual, the essence of their life's purpose, and the guiding beacon for their spiritual journey. Through the discovery and realization of one's True Will, a practitioner paves their own unique path towards spiritual enlightenment and unity with the divine. The Law of Thelema reinforces this pursuit with the maxim "Do what thou wilt shall be the whole of the Law," encouraging adherents to embrace their True Will wholly and embrace self-realization.
 
@@ -35,7 +35,7 @@ Core Tenets: Love, Knowledge, and Inner Balance
 
 The Abbey of Do What Thou Wilt places a strong emphasis on the cultivation of three interrelated aspects of the spiritual aspirant's life: love, knowledge, and inner balance. Love is the cornerstone of spiritual progress, as it fosters understanding, compassion, and deep connections with the self, others, and the universe. Knowledge enables the practitioner to peel back the layers of illusion and uncover the hidden truths of existence. And finally, the pursuit of inner balance harmonizes the various aspects of one's being, creating a fertile ground for the full expression of the True Will.
 
-Practices: Ritual, Magick, and Meditation
+**Practices**: Ritual, Magick, and Meditation
 
 In order to realize the True Will and attain spiritual enlightenment, the Abbey offers a rich tapestry of practices intertwining ritual, magick, and meditation. Rituals serve to anchor the practitioner's intentions and facilitate communication with the divine. Magick, in its various forms, is a transformative tool that empowers the individual to work consciously and creatively with the underlying energies and forces that govern the universe. Meditation, in its myriad of techniques, fosters self-awareness and cultivates the quiet space within from which the True Will can be discerned.
 

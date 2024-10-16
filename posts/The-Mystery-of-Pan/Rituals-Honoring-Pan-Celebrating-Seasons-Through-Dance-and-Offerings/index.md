@@ -23,7 +23,7 @@ excerpt: Craft an intricate sequence of four seasonal ceremonies, honoring the e
 
 The Spring ceremony celebrates Pan's influence on the reawakening flora that bursts forth from the slumber of winter. It honors the fertility of nature and the wild zest of life.
 
-Rituals:
+**Rituals**:
 
 1. **Traditional**: Begin with a procession of dancers adorned in garlands of freshly blooming flowers. Drums beat rhythmically to simulate the pulse of the earth as it reawakens.
 
@@ -50,7 +50,7 @@ Sacred Tools and Offerings:
 
 The Summer ceremony honors Pan's vibrant essence and the fullness of nature. It pays tribute to the abundant greenery and the balanced forces of growth and decay.
 
-Rituals:
+**Rituals**:
 
 1. **Traditional**: Circle dances performed around a great bonfire to symbolize the sun's journey through the warm summer skies.
 
@@ -77,7 +77,7 @@ Sacred Tools and Offerings:
 
 The Autumn ceremony celebrates the harvest, recognizing the beauty and peace found in balance and transformation.
 
-Rituals:
+**Rituals**:
 
 1. **Traditional**: A procession of masked revelers symbolizing the unique faces of nature, as each must change with the approach of winter.
 
@@ -104,7 +104,7 @@ Sacred Tools and Offerings:
 
 The Winter ceremony honors the quietude of the season, while embracing the wild heartbeat that persists beneath the surface of the earth. It also invites the anticipation of Pan's vital essence returning in spring.
 
-Rituals:
+**Rituals**:
 
 1. **Traditional**: A circle of candlelight, each flame representing a promise of warmth and life amidst the cold.
 

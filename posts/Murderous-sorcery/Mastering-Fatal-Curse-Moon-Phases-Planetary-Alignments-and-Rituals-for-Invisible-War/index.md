@@ -46,5 +46,5 @@ Murderous sorcery relies heavily on preparatory rituals that involve summoning a
 4. **Conducting personal purification rites**: Cleansing the sorcerer's spirit to ensure the channeling of the dark energies without personal backlash.
 5. **Performing offerings and sacrifices**: Offering appropriate sacrifices to the dark forces to amplify the strength of the curse.
 
-Summary:
+**Summary**:
 To successfully conduct a fatal curse invoking the nine forbidden seas of darkness and subvert adept practitioners' typical protective and divinatory countermeasures, one must consider the intricate interconnectedness of moon phases, planetary symbolism, and preparatory rituals of murderous sorcery. Properly timing the waning gibbous phase, harnessing the energies of Mars, Saturn, Neptune, and Pluto, and adhering to the preparatory rituals will maximize the curse's efficacy and allow the sorcerer to bypass normal defenses in the invisible war.

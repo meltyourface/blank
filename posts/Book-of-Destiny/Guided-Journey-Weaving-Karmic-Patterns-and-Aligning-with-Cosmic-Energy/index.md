@@ -22,9 +22,9 @@ excerpt: Design an intricate guided meditation rooted in the esoteric Book of De
 
 ## The Destiny's Loom: A Guided Meditation Journey
 
-Duration: 30 minutes
+**Duration**: 30 minutes
 
-Setting: Find a quiet, dimly lit space where you won't be disturbed. Ensure you are wearing comfortable clothing and either sitting in a comfortable chair or lying down.
+**Setting**: Find a quiet, dimly lit space where you won't be disturbed. Ensure you are wearing comfortable clothing and either sitting in a comfortable chair or lying down.
 
 Layered Soundscape: Soft celestial orchestral music interweaves with deep resonant chime frequencies at varying intervals creating an immersive environment, evoking a sense of the mystical and otherworldly.
 

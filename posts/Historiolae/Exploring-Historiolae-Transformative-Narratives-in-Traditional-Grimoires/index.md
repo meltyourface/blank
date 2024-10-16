@@ -23,7 +23,7 @@ The Challenge:
 
 Analyze the key role that historiolae play in traditional grimoires and their rituals, considering the importance of accessing collective unconscious archetypes and mythological narratives while crafting a comprehensive historiola as a transformative tool for occult practitioners.
 
-Answer:
+**Answer**:
 
 Introduction
 

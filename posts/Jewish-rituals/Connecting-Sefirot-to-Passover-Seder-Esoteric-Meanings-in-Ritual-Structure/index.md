@@ -45,6 +45,6 @@ Tiferet represents the harmonious balance of divine attributes and can be linked
 
 7. Malchut (Sovereignty or Kingdom): Malchut, the final Sefirah, embodies God's reign and presence in the world. It is linked to the Passover Seder by connecting the theme of divine sovereignty over history and the participants' recognition and acknowledgment of God's role in their salvation.
 
-Summary:
+**Summary**:
 
 The hidden, esoteric meanings of the Sefirot in the Kabbalistic Tree of Life can be connected to the structure and spiritual significance of the Passover Seder in various ways. By exploring the roles and attributes of each Sefirah, we uncover the deeper layers of meaning ingrained within the Seder and enhance our understanding of the integral relationship between the esoteric and the practical aspects of Jewish rituals and practices. This holistic perspective allows us to appreciate the profound interconnectedness between the cosmic and earthly dimensions of Jewish spirituality.

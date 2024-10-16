@@ -27,7 +27,7 @@ In order to architect a novel and comprehensive system within the framework of R
 
 3. Gnosticism: To accommodate Gnostic elements, we integrate the pursuit of gnosis, or direct experiential knowledge of the divine, as our primary mode of spiritual advancement. Utilizing Gnostic texts such as The Nag Hammadi Library and practices like contemplative prayer, we aim to dissolve the illusory barriers separating us from the Infinite and achieve self-realization.
 
-Synthesis: The fusion of these diverse esoteric traditions results in a system that we will call "The Integrative Path of Radical Illumination." This system encompasses the following:
+**Synthesis**: The fusion of these diverse esoteric traditions results in a system that we will call "The Integrative Path of Radical Illumination." This system encompasses the following:
 
 Ritual Practices: 
 - Rituals and ceremonies involving elements, colors, and symbols corresponding to the different modalities (e.g., Kabbalistic Sefirot, Hermetic alchemy, and Gnostic divine sparks).
@@ -39,7 +39,7 @@ Metaphysical Principles:
 - The Hermetic principle of "As above, so below" fosters an ongoing dynamic exchange between spiritual and material dimensions.
 - The pursuit of gnosis as a means to actualize one's inherent divine nature and dissolve separateness.
 
-Symbols:
+**Symbols**:
 - The Tree of Life serves as a unifying symbol for our system, echoing the Kabbalistic, Hermetic, and Gnostic influences.
 - Alchemical symbols (e.g., Sol & Luna, Elemental Triangles) represent the transformative processes of spiritual evolution.
 - Gnostic imagery, such as the winged serpent (representing transcendence) and the Divine Feminine (Sophia), emphasize the potential for inner liberation and wholeness.

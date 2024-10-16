@@ -29,15 +29,15 @@ Arcanum finds its roots in the ancient world, with civilizations across differen
 
 ### Section 2: Important Terminologies
 
-Adept: An individual who has mastered the principles and practices of Arcanum to such an extent that they can skillfully perform and teach the esoteric arts. 
+**Adept**: An individual who has mastered the principles and practices of Arcanum to such an extent that they can skillfully perform and teach the esoteric arts. 
 
-Divination: The practice of seeking knowledge about the future or the unknown through supernatural means, often via various systems or rituals, such as Tarot, astrology, or runes. 
+**Divination**: The practice of seeking knowledge about the future or the unknown through supernatural means, often via various systems or rituals, such as Tarot, astrology, or runes. 
 
-Invocation: The act of intentionally evoking a spiritual or supernatural being or force to establish direct communication or gain assistance in carrying out a magical working. 
+**Invocation**: The act of intentionally evoking a spiritual or supernatural being or force to establish direct communication or gain assistance in carrying out a magical working. 
 
-Sigil: A symbolic emblem or representation of a specific concept, intention, or entity, often used in ritual context to focus and manifest the energies associated with it. 
+**Sigil**: A symbolic emblem or representation of a specific concept, intention, or entity, often used in ritual context to focus and manifest the energies associated with it. 
 
-Correspondences: The set of relationships between different elements, objects, or symbols in the esoteric realm, based on their inherent qualities, traits, and associations. 
+**Correspondences**: The set of relationships between different elements, objects, or symbols in the esoteric realm, based on their inherent qualities, traits, and associations. 
 
 ### Section 3: Essential Practices for Developing Arcanum Skills
 

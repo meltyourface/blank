@@ -36,7 +36,7 @@ Hermetic Principles:
 
 7. Gender: The Cup signifies the merging and balancing of masculine and feminine energies for spiritual development.
 
-Symbology:
+**Symbology**:
 The Cup embodies myriad symbolic meanings, reflecting the complexity of its mystical powers. Some key symbols include:
 1. Chalice: The containment and preservation of wisdom and spiritual essence.
 2. Water: Emotional insight, intuition, and adaptability.

@@ -22,7 +22,7 @@ excerpt: Design an intricate and enigmatic artwork that embodies the essence of 
 
 ## "Aequilibria: The Dance of Duality"
 
-Description: 
+**Description**: 
 
 The artwork, Aequilibria, is a breathtaking display of the Equinox's essence, masterfully using visuals, geometry, and symbolism to depict the interplay between contrasting forces. This piece, measuring 36 inches wide by 48 inches tall, is divided into two halves that converge subtly in the middle, blending beautifully with one another. It is composed of oil and acrylic paints, as well as gold and silver leaf detailing, executed on a wooden panel.
 
@@ -46,4 +46,4 @@ These mythological entities serve to prompt introspection and deep contemplation
 
 Final Thoughts:
 
-Aequilibria: The Dance of Duality successfully captures the mystical essence of the Equinox, embodying the powerful symbolism and polarities within its mesmerizing design. The attentive fusion of contrasting colors, intricate patterns, and thought-provoking symbolism make this artwork a true testament to the celestial event's significance, evoking reflection and a reverence for the harmonious duality inherent in the cosmos.
+**Aequilibria**: The Dance of Duality successfully captures the mystical essence of the Equinox, embodying the powerful symbolism and polarities within its mesmerizing design. The attentive fusion of contrasting colors, intricate patterns, and thought-provoking symbolism make this artwork a true testament to the celestial event's significance, evoking reflection and a reverence for the harmonious duality inherent in the cosmos.

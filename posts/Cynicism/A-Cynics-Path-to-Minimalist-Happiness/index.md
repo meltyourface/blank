@@ -23,7 +23,7 @@ excerpt: >
 
 ## The Cynic's Guide to Minimalist Living
 
-Introduction:
+**Introduction**:
 This all-encompassing guide to minimalist living rooted in Cynic philosophy will provide valuable insights and practical steps to help you embody the teachings of Diogenes, Antisthenes, and Crates of Thebes in your daily life. By embracing the core Cynic principles of simplicity, self-sufficiency, and rejecting material wealth, you can achieve eudaimonia (happiness).
 
 1. Core Cynic Teachings:

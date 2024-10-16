@@ -23,7 +23,7 @@ excerpt: >
 
 ## Title: A Master's Guide to Astral Projection in the Demiurge Realm
 
-Introduction:
+**Introduction**:
 In this guide, you will learn the crucial steps and techniques to access distinct dimensions within the Demiurge realm through astral projection. This includes preparatory measures, rituals, and the knowledge required to navigate through various spiritual planes such as the Abyss, the Pleroma, and the Empyrean. By following this guide, you will be fully prepared to embark on an astral adventure unlike any other.
 
 ### I. Preparations

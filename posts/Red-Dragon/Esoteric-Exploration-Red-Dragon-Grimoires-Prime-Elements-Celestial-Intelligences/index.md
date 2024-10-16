@@ -45,6 +45,6 @@ The grimoire delves into the darker side of the occult, specifically in the infa
 
 The Red Dragon's origins and authorship remain shrouded in mystery, with possible sources ranging from the 16th to the 18th century. The book has been associated with the legendary magician Honorius the Theurgist and the archetype of Faust, the tragic figure who bargained his soul with the devil. There are various adaptations of this grimoire, including the Black Dragon and the Black Pullet, which reflect different cultural influences, practices, and languages in the magical tradition.
 
-Summary:
+**Summary**:
 
 In essence, the Red Dragon grimoire explores the interconnected symbolism of the prime elements, celestial intelligences, and moral implications. Its foundation lies in the harmonious balance of the classical elements, while the invocation of celestial intelligences highlights the aspiration for spiritual guidance. However, gaining command over hidden forces introduces moral challenges that question the practitioner's ethics and integrity. The tome's historical origins and adaptations, enveloped in mystery, contribute to its enigmatic nature, attracting the interest of initiates and students of the esoteric and occult.

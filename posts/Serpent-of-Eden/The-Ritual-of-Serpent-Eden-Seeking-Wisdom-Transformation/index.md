@@ -33,7 +33,7 @@ excerpt: >
 
 ## The Rite of the Serpent of Eden
 
-Objective: To petition the Serpent of Eden for otherworldly wisdom and forge a lasting bond with this enigmatic being.
+**Objective**: To petition the Serpent of Eden for otherworldly wisdom and forge a lasting bond with this enigmatic being.
 
 ### I. Preparations:
 

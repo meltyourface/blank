@@ -24,7 +24,7 @@ Introduction
 
 To analyze the connections between the core principles of radical philosophy and esotericism, we must first understand these two domains individually. Radical philosophy refers to a school of thought that challenges the fundamental assumptions of the dominant worldview and seeks transformative change in society. Esotericism, on the other hand, is a collection of spiritual, religious, and philosophical traditions that aim to communicate secret or hidden knowledge to a select group of initiates.
 
-Connection: Change, Liberation, and Direct Experience
+**Connection**: Change, Liberation, and Direct Experience
 
 Change is a fundamental principle in both radical philosophy and esotericism. Radical thinkers actively critique existing power structures and norms in society, aiming to enact social, political, and economic changes. Similarly, esoteric traditions often emphasize personal transformation through altered states of consciousness, mystical experiences, or the acquisition of hidden knowledge. In both paradigms, change serves as the driving force for human development and the attainment of a higher state of existence.
 

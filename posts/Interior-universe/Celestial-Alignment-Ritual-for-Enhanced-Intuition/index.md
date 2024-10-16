@@ -23,7 +23,7 @@ excerpt: >
 
 ## The Ritual of Celestial Alignment
 
-Purpose: To invite and channel the potent influences of distinct celestial bodies from the Interior universe, and to manifest the specific desired outcome of enhanced intuition, spiritual growth, and deeper connection to the cosmic energies.
+**Purpose**: To invite and channel the potent influences of distinct celestial bodies from the Interior universe, and to manifest the specific desired outcome of enhanced intuition, spiritual growth, and deeper connection to the cosmic energies.
 
 Celestial Bodies Involved:
 1. Nevalis - The planet of intuition and psychic abilities
@@ -36,7 +36,7 @@ Ritual Space Preparation:
 3. Cast a protective circle around the ritual space using salt or a ritual knife
 4. In the center of the circle, place a triangular altar, with each corner representing Nevalis, Cosmaria, and Telaphar
 
-Sigils:
+**Sigils**:
 1. Draw the sigil of Nevalis at the first corner of the altar - a crescent moon interwoven with a trident symbolizes the mysteries of the psyche and the flowing nature of intuition
 2. Draw the sigil of Cosmaria at the second corner, represented by a spiraling galaxy encircled with ascending flames, to evoke the transformative powers of spiritual growth
 3. Draw the sigil of Telaphar at the third corner of the altar, depicting interconnected stars forming an infinite loop, as a visual representation of cosmic interconnectedness

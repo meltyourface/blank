@@ -23,7 +23,7 @@ excerpt: >
 
 ## The Stellar Purpose Tarot Spread
 
-Introduction:
+**Introduction**:
 This unique esoteric tarot spread is designed for guided contemplation exercises, aiming to unveil profound insights into an individual's life purpose. The Stellar Purpose Tarot Spread consists of 7 carefully chosen card positions, each representing distinct aspects of one's purpose, challenges, and potential growth. The spread incorporates symbolism from various esoteric traditions such as astrology, numerology, and alchemical elements to provide a multi-layered and comprehensive experience for self-discovery and introspection.
 
 Tarot Spread Layout:
@@ -59,5 +59,5 @@ Numerological correspondence: The Maturity number
 Astrological correspondence: Your Midheaven sign
 Numerological correspondence: The Destiny number
 
-Interpretation:
+**Interpretation**:
 When interpreting the cards, pay attention not only to the individual card meanings but also to the connections and interactions among them. Consider the relationships between astrological and numerological associations, and reflect on how they intersect in your life. Lastly, find the synergies between cards' interpretations, and embrace your newfound understanding of your life purpose with confidence and clarity. Remember to trust your intuition and inner wisdom as you embrace your path towards self-discovery and personal growth.

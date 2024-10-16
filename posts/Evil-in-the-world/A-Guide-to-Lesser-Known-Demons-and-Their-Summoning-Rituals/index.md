@@ -23,7 +23,7 @@ excerpt: >
 
 ## Title: Infernalis Arcanum - A Compendium of Hidden Demons
 
-Introduction:
+**Introduction**:
 This tome, Infernalis Arcanum, contains a detailed exposition of the lesser-known demonic entities and malignant forces that dwell in the obscure recesses of the nether realms. The contents have been painstakingly compiled through years of research and experimentation to provide the discerning practitioner of the dark arts with unprecedented insights into the beings and powers that lie hidden from the casual observer.
 
 ### I. **Demonic Hierarchy**:

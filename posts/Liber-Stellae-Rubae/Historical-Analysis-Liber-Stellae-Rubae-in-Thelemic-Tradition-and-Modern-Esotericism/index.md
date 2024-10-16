@@ -24,7 +24,7 @@ excerpt: >
 
 ## Title: Liber Stellae Rubae: An Exploration of Ancient Wisdom, Thelemic Tradition and Contemporary Esoteric Thought
 
-Abstract:
+**Abstract**:
 This paper investigates the historical context and significance of Liber Stellae Rubae, focusing on its profound connections to ancient wisdom and sacred practices, while also highlighting its distinguished position within the Thelemic tradition. In order to understand its impact on modern esoteric thought and practice, the paper examines the text's evolution, key principles, and prevailing interpretations by renowned occultists.
 
 ### I. Introduction

@@ -29,7 +29,7 @@ Materials Required:
 4. A small wooden box or a leather pouch to hold the charm.
 5. Paper (preferably handmade with natural fibers) and natural ink (such as blackberry ink) to draw the Celtic symbols.
 
-Instructions:
+**Instructions**:
 
 1. Begin by cleansing and consecrating the materials. This can be done by exposing them to the light of a full moon, smudging with sage, or employing any other purification method in line with Druidic practices.
 

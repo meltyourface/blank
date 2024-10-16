@@ -21,7 +21,7 @@ excerpt: Elucidate a pragmatic application of I Ching divination within the deci
 ---
 In order to elucidate a pragmatic application of I Ching divination within the decision-making process, we will first establish a specific scenario that requires guidance on personal or professional choices. 
 
-Scenario: A young entrepreneur, Alex, is at a crossroads whether to accept a partnership offer from another company or to continue independent growth for their startup business.
+**Scenario**: A young entrepreneur, Alex, is at a crossroads whether to accept a partnership offer from another company or to continue independent growth for their startup business.
 
 Step 1: Frame the question
 Alex formulates their question as follows: "What is the best course of action for my business - accepting the partnership or continuing with independent growth?"

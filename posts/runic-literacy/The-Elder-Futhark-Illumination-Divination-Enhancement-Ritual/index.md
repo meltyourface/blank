@@ -23,7 +23,7 @@ Ritual Name: The Elder Futhark Illumination
 
 Primary Objective: To enhance divination and clairvoyance prowess
 
-Preparations:
+**Preparations**:
 
 1. **Gather the following critical artefacts**:
 

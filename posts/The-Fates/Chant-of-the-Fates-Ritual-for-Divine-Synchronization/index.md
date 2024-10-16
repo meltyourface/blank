@@ -21,7 +21,7 @@ excerpt: Devise an intricate ritualistic chant or mantra to invoke the ancient p
 ---
 CHANT OF THE FATES: SYMPHONY OF SYNCHRONICITY
 
-Chant:
+**Chant**:
 
 Aostra, Leshrak, Urmendi Fein
 Gharzhum, Tremno, Vortifen Smein
@@ -57,4 +57,4 @@ Repeat the chant thrice more, with increasing intensity and rising vocal pitch, 
 5. Closing the ritual
 After completing the chant, allow the energy to dissipate slowly, grounding yourself as the ethereal frequencies return to their natural state. Extinguish the candle, and carry the residual energy of the ritual with you into your daily life. Take a moment to give gratitude to The Fates and honor the sacred connection established during the ritual.
 
-Note: It is advisable to perform this chant during auspicious celestial events, such as solar and lunar eclipses, solstices, and equinoxes, to enhance its potency further.
+**Note**: It is advisable to perform this chant during auspicious celestial events, such as solar and lunar eclipses, solstices, and equinoxes, to enhance its potency further.

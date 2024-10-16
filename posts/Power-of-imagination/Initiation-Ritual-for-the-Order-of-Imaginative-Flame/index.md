@@ -23,9 +23,9 @@ excerpt: >
 
 ## Initiation Ritual of the Order of the Imaginative Flame
 
-Objective: To attune initiates' minds to the power of their imagination and provide a foundation for personal growth and development within the Order.
+**Objective**: To attune initiates' minds to the power of their imagination and provide a foundation for personal growth and development within the Order.
 
-Preparation:
+**Preparation**:
 
 1. Choose an isolated location, preferably a naturally enclosed space with the presence of the four elements—Earth (stones), Water (a stream or body of water), Air (open sky in the space), and Fire (a natural, controlled fire).
 
@@ -39,7 +39,7 @@ Preparation:
 
 6. Conduct the ritual under a full moon—the zenith of creativity.
 
-Performance:
+**Performance**:
 
 1. Begin by lighting the candles on the altar in a clockwise direction, invoking the mantra: "I kindle the flame of the creative spirit, weaving together the elements, forging a connection to the cosmic tapestry."
 
@@ -62,7 +62,7 @@ By the elements and the cosmos, I stand ready."
 
 7. When the energies have settled, the High Priest/ess welcomes the newly initiated member into the Order with a ritual embrace, marking their forehead with a small, crescent-shaped emblem of dedication using fragrant oil.
 
-Interpretation:
+**Interpretation**:
 
 1. After the ritual, gather with the initiate to discuss their experiences, visions, and emotions. The interpretation of these events is crucial to the initiate's personal growth and development within the Order.
 

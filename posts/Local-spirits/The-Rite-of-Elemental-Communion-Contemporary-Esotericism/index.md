@@ -21,9 +21,9 @@ excerpt: Decipher and interprets a 15th-century grimoire focusing on the invocat
 ---
 After meticulously studying the 15th-century grimoire, I have deciphered and interpreted its contents, focusing on the invocation and communion with local spirits and elemental forces. Here is a comprehensive, modern-day ritualistic practice that respects the tradition's lineage and integrates culturally relevant symbols, materials, and techniques tailored for contemporary seekers of esoteric wisdom.
 
-Title: The Rite of Elemental Communion
+**Title**: The Rite of Elemental Communion
 
-Objective: To establish a connection with local spirits and the elemental forces of Earth, Air, Fire, and Water, drawing upon their wisdom, guidance, and power.
+**Objective**: To establish a connection with local spirits and the elemental forces of Earth, Air, Fire, and Water, drawing upon their wisdom, guidance, and power.
 
 Materials required:
 
@@ -34,7 +34,7 @@ Materials required:
 5. A ritual knife or wand
 6. Culturally relevant symbols and objects to connect with local spirits. These may include ancestral items or tokens, images of tutelary spirits, protective amulets, or charms.
 
-Procedure:
+**Procedure**:
 
 1. Find a suitable space for the ritual, ideally outdoors, surrounded by nature.
 

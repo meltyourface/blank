@@ -29,13 +29,13 @@ This chapter offers a detailed analysis of various altar symbols, their historic
 
 ### Section 4.2: Types of Altar Symbols and Their Meanings
 
-Pentacle: One of the most well-known occult symbols, the pentacle represents the unity of the five elements – Earth, Air, Fire, Water, and Spirit. Historically, the symbol has been used for protection and as a means to invoke elemental energies. The pentacle is often incorporated into ritual tools such as the chalice and the altar cloth.
+**Pentacle**: One of the most well-known occult symbols, the pentacle represents the unity of the five elements – Earth, Air, Fire, Water, and Spirit. Historically, the symbol has been used for protection and as a means to invoke elemental energies. The pentacle is often incorporated into ritual tools such as the chalice and the altar cloth.
 
-Ankh: The Ankh, originating from ancient Egypt, symbolizes eternal life and the union of masculine and feminine energies. This symbol is primarily used for healing and working with divine energies.
+**Ankh**: The Ankh, originating from ancient Egypt, symbolizes eternal life and the union of masculine and feminine energies. This symbol is primarily used for healing and working with divine energies.
 
 Triple Moon: The Triple Moon symbol represents the three phases of the moon (waxing, full, and waning) and the Goddess in her aspects as Maiden, Mother, and Crone. The symbol connects the practitioner with the lunar cycle and feminine energy.
 
-Sigils: Sigils are powerful, personalized symbols created by the practitioner to represent their specific intention or desire. They are charged with energy and activated during rituals to manifest their purpose.
+**Sigils**: Sigils are powerful, personalized symbols created by the practitioner to represent their specific intention or desire. They are charged with energy and activated during rituals to manifest their purpose.
 
 ### Section 4.3: Harnessing the Powers of Altar Symbols
 

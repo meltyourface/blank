@@ -22,7 +22,7 @@ excerpt: Compose a ritual for invoking the Ghostly shadow to delve into the dept
 
 ## Ritual of the Ghostly Shadow's Veil
 
-Objective: To invoke the Ghostly shadow to delve into the depths of past life memories.
+**Objective**: To invoke the Ghostly shadow to delve into the depths of past life memories.
 
 Items required:
 
@@ -33,7 +33,7 @@ Items required:
 5. A talisman crafted from soul-binding materials, such as obsidian, quartz, or moonstone.
 6. A celestial map or astrology software to determine the precise alignment of celestial bodies.
 
-Instructions:
+**Instructions**:
 **Step 1**: Prepare the Sacred Space
 Cleanse the chosen area thoroughly, ensuring it is free from any negative energy. Set up a small altar in the center, with space for the personal artifact, talisman, and mirror.
 **Step 2**: Draw Mystical Symbols

@@ -59,12 +59,12 @@ Conclusion
 2. The Enchiridion's Influence on Modern Occultism and Magic
 3. Implications for Further Study and Exploration
 
-Bibliography:
+**Bibliography**:
 - Primary Sources
 - Secondary Sources
 - Tertiary Sources
 
-Appendix:
+**Appendix**:
 - Tables and Charts
 - Comparative Symbol Glossary
 - Occult Lineage Trees

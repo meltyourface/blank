@@ -24,7 +24,7 @@ excerpt: Develop a comprehensive, in-depth written manual for constructing and i
 
 Table of Contents
 
-Introduction: The Cosmic Dance of the Chorus of the Stars
+**Introduction**: The Cosmic Dance of the Chorus of the Stars
     - Importance of Celestial Maps and Charts
     - Interstellar alignments and their role
     - Spiritual and metaphysical dimensions
@@ -79,7 +79,7 @@ Introduction: The Cosmic Dance of the Chorus of the Stars
     - The impact of space travel on our understanding of the cosmos
     - The future of cosmic exploration and understanding
 
-Conclusion: Harmonizing with the Chorus of the Stars
+**Conclusion**: Harmonizing with the Chorus of the Stars
     - Personal integration and application of celestial knowledge
     - Collective consciousness and the evolution of humanity
     - The ongoing journey in the cosmic dance

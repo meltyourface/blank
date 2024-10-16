@@ -21,7 +21,7 @@ excerpt: Design an intricate and powerful exorcism talisman with the specific pu
 ---
 The Exorcism Talisman: "Malakh Ha-Shem"
 
-Design:
+**Design**:
 To create an intricate and powerful exorcism talisman, we will draw upon ancient symbols, sacred texts, and ritualistic elements from various cultures and occult traditions. Let's work with three essential symbols for comprehensive protection: 
 
 1. The Eye of Horus (Egyptian): A symbol of protection, royal power, and good health.

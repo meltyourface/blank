@@ -21,7 +21,7 @@ excerpt: Compare and analyze the artistic and philosophical dynamics of the rela
 ---
 To fully grasp the artistic and philosophical dynamics between Frieda Harris and Aleister Crowley during the creation of the Thoth Tarot deck, and their influence on contemporary occult and esoteric systems, we must look at their backgrounds, their collaborative process, and the ideas that emerged as a result of their interactions.
 
-Background:
+**Background**:
 
 Frieda Harris (1877-1962) was an artist and member of the Women's Social and Political Union, an organization advocating women's suffrage. Coming from an aristocratic background, Harris was a passionate artist who developed interests in various esoteric systems, particularly Tarot.
 

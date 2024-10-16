@@ -23,9 +23,9 @@ excerpt: >
 
 ## Title: The Ritual of the Ascending Serpent
 
-Objective: To engage the energies of the seven primary chakras, invoking deities, elements, symbols, and using guided visualization, to provide practitioners with a deepened connection to their chakra system, spiritual awareness, and inner harmony.
+**Objective**: To engage the energies of the seven primary chakras, invoking deities, elements, symbols, and using guided visualization, to provide practitioners with a deepened connection to their chakra system, spiritual awareness, and inner harmony.
 
-Preparation:
+**Preparation**:
 1. Find a quiet space free from distractions.
 2. Sit or lie down in a comfortable position.
 3. Light seven candles in different colors representing the seven chakras (red, orange, yellow, green, blue, indigo, and violet).

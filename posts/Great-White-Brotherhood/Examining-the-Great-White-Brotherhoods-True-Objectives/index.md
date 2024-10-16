@@ -23,7 +23,7 @@ excerpt: >
 
 ## Title: Dispelling the Shadows: Clarifying Misconceptions Surrounding the Great White Brotherhood's Esoteric Teachings and Spiritual Objectives
 
-Abstract: The Great White Brotherhood has long been an enigmatic and misunderstood organization, with numerous misconceptions surrounding its esoteric teachings and spiritual pursuits. Through examination of primary sources, including ancient manuscripts and firsthand accounts, this essay seeks to deconstruct these misconceptions and provide a comprehensive view of the Great White Brotherhood's tenets, principles, and objectives, as well as examining the influences of historical and sociocultural contexts on its evolution.
+**Abstract**: The Great White Brotherhood has long been an enigmatic and misunderstood organization, with numerous misconceptions surrounding its esoteric teachings and spiritual pursuits. Through examination of primary sources, including ancient manuscripts and firsthand accounts, this essay seeks to deconstruct these misconceptions and provide a comprehensive view of the Great White Brotherhood's tenets, principles, and objectives, as well as examining the influences of historical and sociocultural contexts on its evolution.
 
 ### I. Introduction
 

@@ -30,7 +30,7 @@ Instruments required:
 4. Incense with a scent associated with Air (e.g., lavender, lemongrass, or sandalwood)
 5. Feather, symbolizing the connection with Air
 
-Preparation:
+**Preparation**:
 1. Bathe and cleanse oneself, putting on the yellow or light blue robe.
 2. Arrange the ritual space in a quiet, well-ventilated area with fresh air.
 3. Set up the altar with the Ceremonial Sword or Dagger, Sigil of Air, Incense, and Feather.

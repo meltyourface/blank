@@ -23,7 +23,7 @@ excerpt: >
 
 ## Title: The Sojourn through Yesod - The Lunar Realms of Elusive Synchronicities
 
-Introduction: 
+**Introduction**: 
 Welcome, dear aspirant, to a mystical pathworking session that will guide your spirit through the enigmatic realm of Yesod, the ninth sphere upon the sacred Tree of Life in Kabbalistic tradition. Brace yourself for a journey into the depths of your subconscious mind, as we explore the ethereal lunar landscape and uncover the mysteries that lie within.
 
 Preliminary Preparations:
@@ -47,5 +47,5 @@ Your sojourn through the realm of Yesod reveals the spiritual tests and initiati
 ### VI. **Return to the Mundane World**:
 The time arrives for you to bid farewell to the enigmatic guardians of Yesod and begin your ascent back to the terrestrial plane. Revisit the shimmering silver portal that first brought you into the lunar realms. Step forward and allow its ethereal embrace to transport you back to the sacred space you have created in the physical world.
 
-Completion:
+**Completion**:
 Slowly, return to the awareness of your surroundings. Open your eyes and allow the wisdom of your journey within Yesod to settle into your spirit. Integrate this esoteric knowledge into your daily life, staying ever mindful of the archetypal figures, magical gateways, and cosmic tides that weave the fabric of your existence.

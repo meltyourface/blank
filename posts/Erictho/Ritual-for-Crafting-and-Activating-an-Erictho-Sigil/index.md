@@ -40,7 +40,7 @@ Combine all the elements with precise geometric patterns. Be mindful of their al
 Ritual for Consecration and Activation:
 Before performing the ritual, choose a significant lunar phase or astrological event that amplifies the purpose of the sigil. An ideal time would be during a new moon (representing new beginnings) or a full moon (for heightened power).
 
-Supplies:
+**Supplies**:
 - The completed sigil (drawn on parchment or inscribed on a talisman)
 - A consecrated ritual space (e.g. a cleared room or outdoor area)
 - Representation of the elements (earth, air, fire, water)
@@ -48,7 +48,7 @@ Supplies:
 - Incense (such as frankincense)
 - An offering (e.g., wine, food, or an object of personal value)
 
-Steps:
+**Steps**:
 
 1. Cleanse and purify your ritual space with incense, removing any unwanted energies.
 

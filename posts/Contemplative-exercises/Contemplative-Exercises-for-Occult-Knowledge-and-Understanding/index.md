@@ -28,9 +28,9 @@ In this section, we explore three distinct contemplative exercises that have bee
 1. Hermetic Visualization
 Historical Origins: The Hermetic Tradition, originating in ancient Egypt and further developed during the Renaissance period, provides a powerful foundation for those wishing to develop higher levels of understanding in the occult. A central practice in this tradition is the art of visualization, which is used to connect with archetypal energies and unlock inner wisdom.
 
-Purpose: Hermetic Visualization aims to establish a rapport between the practitioner and the living symbols of the spiritual realm. This connection can facilitate the flow of wisdom, power, and inspiration, empowering the practitioner to access deeper levels of knowledge.
+**Purpose**: Hermetic Visualization aims to establish a rapport between the practitioner and the living symbols of the spiritual realm. This connection can facilitate the flow of wisdom, power, and inspiration, empowering the practitioner to access deeper levels of knowledge.
 
-Practice:
+**Practice**:
 a. Find a quiet, comfortable space where you can sit or lie down without being disturbed.
 b. Focus on a specific symbol, archetype, or deity, drawn from the rich tapestry of the Hermetic Tradition.
 c. Begin to breathe deeply and evenly, entering a meditative state.
@@ -41,9 +41,9 @@ f. When you feel ready, gently bring the visualization to a close and return to 
 2. The Lesser Banishing Ritual of the Pentagram (LBRP)
 Historical Origins: Developed within the framework of the Golden Dawn, a late 19th-century esoteric order, the LBRP is a vital practice used for protection and purification.
 
-Purpose: The LBRP serves to cleanse the practitioner's energetic field and the surrounding environment, creating a balanced and protective space in which the student can conduct further occult work.
+**Purpose**: The LBRP serves to cleanse the practitioner's energetic field and the surrounding environment, creating a balanced and protective space in which the student can conduct further occult work.
 
-Practice:
+**Practice**:
 a. Stand upright, facing east, arms at your sides.
 b. Perform the Qabalistic Cross, drawing energy from above, below, and the four cardinal directions to center and ground yourself.
 c. Starting at your left hip, trace a pentagram in the air using your right hand, invoking the divine names in each cardinal direction (YHVH, Adonai, Eheieh, and AGLA).
@@ -53,9 +53,9 @@ e. Once again, perform the Qabalistic Cross to complete the ritual.
 3. Scrying
 Historical Origins: Scrying, or the art of looking into a reflective or translucent surface to receive messages and visions, has an ancient lineage and can be traced back to early shamanic practices.
 
-Purpose: Scrying is a powerful tool for accessing hidden knowledge, unveiling what is concealed, and receiving intuitive guidance. It can also serve to develop the practitioner's clairvoyant abilities and enhance spiritual insight.
+**Purpose**: Scrying is a powerful tool for accessing hidden knowledge, unveiling what is concealed, and receiving intuitive guidance. It can also serve to develop the practitioner's clairvoyant abilities and enhance spiritual insight.
 
-Practice:
+**Practice**:
 a. Prepare a scrying tool, such as a crystal ball, mirror, or bowl of water.
 b. Dim the lights in your space and ensure that you are free from distractions.
 c. Position yourself comfortably with your scrying tool at eye level.

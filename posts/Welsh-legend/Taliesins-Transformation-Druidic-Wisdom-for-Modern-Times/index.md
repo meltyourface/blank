@@ -64,7 +64,7 @@ Let the sacred wisdom temper modern souls.
 
 ---
 
-Analysis: 
+**Analysis**: 
 
 The poem explores the powerful themes of transformation, adapted from the legend of Taliesin and Ceridwen, to address the modern challenges faced by humanity. By interweaving these ancient myths, the narrative establishes relationships between Druidic wisdom, contemporary issues, and personal growth. 
 

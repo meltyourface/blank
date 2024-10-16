@@ -22,11 +22,11 @@ excerpt: Craft a meticulously detailed grimoire page, dedicated to conjuring a d
 
 ## Grimoire of Anzarkûl
 
-Description:
+**Description**:
 
 This page of the grimoire is dedicated to conjuring Anzarkûl, the Demon Lord of the Abyssal Shadows. Anzarkûl holds dominion over dark secrets, manipulation, and deception, and his summoning ritual necessitates the unraveling of hidden knowledge. Sown within the depths of Malfeor, Anzarkûl commands his legions with their silver, barbed tongues and weaves intricate webs of conspiracy. Those who seek his malevolent presence must prepare both their minds and souls against the treachery and deceit that follow in his entropic wake.
 
-Sigil:
+**Sigil**:
 
 Anzarkûl's sigil resembles an inverted, blackened, pentagram, its star points elongated and twisted like sinister thorned vine. Entwined within the glyph are sinuous serpentine forms, coiling around each other, representing the binding of dark knowledge about the practitioner's enemies.
 
@@ -56,7 +56,7 @@ Tools required:
 - An obsidian mirror or polished black surface
 - A parchment with the names of one's enemies or the intent of the summoning
 
-Procedure:
+**Procedure**:
 
 1. Choose a secluded location devoid of light or earthly distractions.
 2. Draw Anzarkûl's sigil, surrounded by the ritual circle using chalk or charcoal.

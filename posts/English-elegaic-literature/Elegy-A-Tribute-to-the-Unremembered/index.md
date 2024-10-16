@@ -23,7 +23,7 @@ For my adaptation, I have chosen Thomas Gray's "Elegy Written in a Country Churc
 
 [Scene: A desolate churchyard, drenched in the evening twilight. The narrator, an old, stooped gentleman with a love for poetry and the esoteric, enters the scene with sorrowful grace.]
 
-Narrator: (With a doleful voice) The curfew tolls the knell of parting day,
+**Narrator**: (With a doleful voice) The curfew tolls the knell of parting day,
 (Slowly) Leaving behind, creeping shadows, their shadows sway.
 The cattle from their ploughs are withdrawn;
 And drowsy flight marks the path of the beaten fawn.

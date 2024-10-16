@@ -24,7 +24,7 @@ excerpt: >
 ---
 Answer: Enochian was a language that the angels taught Dee and Kelley to facilitate a deeper understanding of celestial knowledge.
 
-Explanation: John Dee, a 16th-century English mathematician, astrologer, and occultist, along with his medium, Edward Kelley, worked together to contact angelic entities through the process of scrying. Scrying refers to a technique in which an individual gazes into a reflective or translucent medium, such as a crystal ball or a mirror, to gain inspiration, insight, or information.
+**Explanation**: John Dee, a 16th-century English mathematician, astrologer, and occultist, along with his medium, Edward Kelley, worked together to contact angelic entities through the process of scrying. Scrying refers to a technique in which an individual gazes into a reflective or translucent medium, such as a crystal ball or a mirror, to gain inspiration, insight, or information.
 
 During their scrying sessions with these angelic entities, Dee and Kelley were reportedly taught a complex system of communication, which came to be known as the Enochian language. This language is named after the biblical figure Enoch – the great-grandfather of Noah – who is said to have walked with God and been taken into heaven without experiencing physical death. 
 

@@ -22,7 +22,7 @@ excerpt: Design a chilling narrative within the realm of supernatural horror fic
 
 ## The Wired Shadows
 
-Setting:
+**Setting**:
 The story takes place in the near future, in a sprawling and technologically advanced city called Hyperiona. The city is divided into two contrasting sections: the gleaming skyscrapers of the Upper City and the mysterious, fog-shrouded cobblestone streets of the Lower City. Hidden behind the facade of progress and prosperity are the dark forces of ancient witchcraft. The Wired Coven, a powerful group of modern witches, uses technology as a conduit to amplify their metaphysical powers.
 
 Plot Points:
@@ -39,12 +39,12 @@ Plot Points:
 Magical System/Rituals:
 The fusion of witchcraft and technology allows the Wired Coven to perform their spells through digital means. Their rituals often take place in abandoned or hidden locations throughout the city, surrounded by a network of interconnected screens, servers, and various electronic devices. The witches use a language of runes called "Dark Code" to cast their technomancy. They can manipulate the flow of information, augmenting surveillance, and induce the Hex-Bots to perform sorcery at a molecular level.
 
-Climax:
+**Climax**:
 The climax takes place in the heart of the Lower City, within the Wired Coven's secret lair. Morgan and his allies face off against Dr. Blackwood and the members of the Wired Coven, including the treacherous Serena. As the battle rages on, Aurora is forced to confront her dark past and harness her technologies abilities for the final showdown.
 
 In a desperate race against time, Morgan, Aurora, and their allies manage to disrupt the Hex-Bot network. As the dark magic infused within them is destroyed, the Hex-Bots crumble into dust. With their plans thwarted and their source of power diminished, the remaining members of the Wired Coven retreat into the shadows.
 
 The story ends with a subtle hint that the remaining members of the Wired Coven are still active, plotting their revenge from the darkest recesses of the digital realm.
 
-Themes:
+**Themes**:
 Technological corruption, the misuse of power, redemption, and the eternal struggle between science and mysticism.

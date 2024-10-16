@@ -24,7 +24,7 @@ excerpt: >
 ---
 The resonance between the adept's vibration and that of the object of their focus.
 
-Explanation:
+**Explanation**:
 
 In the practices of supernatural and occult traditions, the most crucial concept for understanding and manipulating energies, entities, and realms lies in the resonance between the adept's vibration and that of the object of their focus. This is the key to forging a connection and allowing the transfer of energy to occur, whether within the adept's own realm or across other planes.
 

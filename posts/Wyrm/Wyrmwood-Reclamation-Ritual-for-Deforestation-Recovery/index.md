@@ -22,7 +22,7 @@ excerpt: Create a detailed design for a Wyrm-based arcane ritual to harness myst
 
 ## The Wyrmwood Reclamation Ritual
 
-Objective:
+**Objective**:
 To harness mystical forces in resolving the pressing environmental crisis of deforestation. The blueprint will detail the necessary invocations, magical components, and an explanation of the Wyrm's otherworldly abilities as they pertain to the reforestation of affected areas, and to how their spirits will interact while healing the ecosystems.
 
 The Ritual:

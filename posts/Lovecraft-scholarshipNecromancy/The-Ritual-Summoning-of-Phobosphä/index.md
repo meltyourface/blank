@@ -23,7 +23,7 @@ excerpt: >
 
 ## The Ritual of Phobosphä
 
-Background: The Ritual of Phobosphä is a dreaded and forbidden rite practiced by a cult of necromancers, known as the Veiled Brethren, who seek to unearth the eldritch horrors lurking within the cosmic crevices of the Lovecraftian pantheon. The ritual's purpose is to summon Phobosphä, a grotesque entity whose existence is a living testament to despair, fear, and anguish. It is believed that Phobosphä was spawned in the darkest corners of Nyarlathotep's twisted imagination and escaped to thrive in the Anomalous Expanse, a region where reality and the Outer Void merge. The Veiled Brethren aim to bring Phobosphä into our world to extend its influence of fear, thereby consolidating their power and control over hapless victims.
+**Background**: The Ritual of Phobosphä is a dreaded and forbidden rite practiced by a cult of necromancers, known as the Veiled Brethren, who seek to unearth the eldritch horrors lurking within the cosmic crevices of the Lovecraftian pantheon. The ritual's purpose is to summon Phobosphä, a grotesque entity whose existence is a living testament to despair, fear, and anguish. It is believed that Phobosphä was spawned in the darkest corners of Nyarlathotep's twisted imagination and escaped to thrive in the Anomalous Expanse, a region where reality and the Outer Void merge. The Veiled Brethren aim to bring Phobosphä into our world to extend its influence of fear, thereby consolidating their power and control over hapless victims.
 
 Materials Required:
 1. An ancient tome, bound in the flesh of the previous Master of the Veiled Brethren.

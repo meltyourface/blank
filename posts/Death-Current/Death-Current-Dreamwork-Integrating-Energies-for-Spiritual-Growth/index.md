@@ -44,29 +44,29 @@ The Death Current Dreamwork System (DCDS)
 
 ### II. In-depth Analysis of Effects, Risks, and Countermeasures
 
-Effects:
+**Effects**:
 1. Enhanced intuitive abilities
 2. Heightened spiritual perception
 3. Connection with deceased entities
 
-Risks:
+**Risks**:
 1. Psychological distress or confusion
 2. Unwanted or malevolent entity interaction
 3. Energy depletion
 
-Countermeasures:
+**Countermeasures**:
 1. Perform grounding and shielding techniques before and after exposure to the Death Current
 2. Develop a personal energetic protection sigil
 3. Incorporate healing and grounding crystals, such as hematite and obsidian
 
 ### III. Example Scenarios
 
-Positive:
+**Positive**:
 1. Gaining insight into the nature of mortality and the eternal soul
 2. Overcoming fears of death and the unknown
 3. Facilitating communication and closure with deceased loved ones
 
-Negative:
+**Negative**:
 1. Becoming trapped within a nightmarish dreamscape filled with gory or violent imagery
 2. Facing confrontations with shadowy or hostile beings
 3. Experiencing feelings of suffocation or constriction representing the fear of death
@@ -81,6 +81,6 @@ Negative:
 
 ### V. Incorporation into Existing Dream Practices and Traditions
 
-Synergies: The DCDS can easily be integrated into existing dream practices, such as Tibetan dream yoga, Native American dream journeying, and traditional Western dream work. Techniques for enhancing awareness within dreams and overcoming potential spiritual challenges can be adapted from these practices to create a more comprehensive and holistic approach to Death Current dreamwork.
+**Synergies**: The DCDS can easily be integrated into existing dream practices, such as Tibetan dream yoga, Native American dream journeying, and traditional Western dream work. Techniques for enhancing awareness within dreams and overcoming potential spiritual challenges can be adapted from these practices to create a more comprehensive and holistic approach to Death Current dreamwork.
 
 Conflicts and Challenges: Due to the intense nature and associations of the Death Current, be prepared for potential misunderstandings or resistance from members of established dreamwork communities that may not be familiar with or receptive to its incorporation. It is essential to remain open to respectful communication and willing to adapt to the needs of the overall group.

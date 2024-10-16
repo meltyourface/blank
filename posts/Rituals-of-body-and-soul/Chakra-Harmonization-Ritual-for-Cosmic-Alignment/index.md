@@ -30,7 +30,7 @@ Materials required:
 - Crystals associated with each chakra
 - A space free of distractions
 
-Preparation:
+**Preparation**:
 
 1. Choose a quiet, peaceful location where you can perform the ritual without disturbances.
 

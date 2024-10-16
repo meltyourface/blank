@@ -22,7 +22,7 @@ excerpt: Generate a brief but informationally dense overview of a grimoire, less
 
 ## The Skeletal Path - A Comprehensive Guide to the Cult of the Skeletal Lord
 
-Introduction:
+**Introduction**:
 
 The Cult of the Skeletal Lord, an enigmatic sect that has captivated the minds of many, is renowned for its profound arcane knowledge and mysterious rituals. In this comprehensive guide, we will delve into its illustrious history, core beliefs, symbolism, and ceremonial practices. As a student, novice, or curious follower, this guide aims to provide you with a rich understanding of the subject, enabling you to appreciate and engage with the cult's complex, esoteric traditions.
 
@@ -38,7 +38,7 @@ Rituals and Practices:
 
 The Cult of the Skeletal Lord has a rich array of rituals and practices centered on establishing a bond with the Skeletal Lord. One such ritual involves the preparation of an altar adorned with skulls, bones, and other symbols of mortality. The initiate, dressed in a robe signifying their commitment to the Skeletal Lord, recites incantations and prayers in order to forge a connection with the deity. Through this process, the initiate seeks to gain insight and power from beyond the realm of the living.
 
-Symbolism:
+**Symbolism**:
 
 Central to the Cult of the Skeletal Lord is the potent symbolism associated with bones, skulls, and the passage from life to death. The skull, in particular, represents the seat of knowledge and wisdom and serves as a reminder of the fleeting nature of mortal existence. The use of bone in ritual tools and attire signifies one's dedication to the study and application of the cult's esoteric knowledge.
 
@@ -46,6 +46,6 @@ Advice for the Seeker:
 
 For those interested in delving further into the mysteries of the Cult of the Skeletal Lord, it is essential to approach the subject with an open mind and a genuine desire to understand the teachings. Respect, reverence, and humility should be observed when engaging with the complex rituals and symbolism found within the cult's practices. The inherent power of this ancient knowledge must not be underestimated, and therefore, only those who are truly committed to learning and growing should embark on this exploration of the unknown.
 
-Conclusion:
+**Conclusion**:
 
 With this overview of the Cult of the Skeletal Lord, we hope to have provided the student or initiate with a firm foundation for further study. The understanding gained from this guide will enable the reader to approach the intriguing world of the Skeletal Lord with the necessary reverence, respect, and commitment. In doing so, one may find the path to unlocking the ancient wisdom and power that lies at the heart of this enigmatic and alluring occult tradition.

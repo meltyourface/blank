@@ -22,7 +22,7 @@ excerpt: >
 ---
 Knowledge Challenge: Describe the multifaceted implications and interconnections that can arise from exploring the principle of "Do what thou wilt shall be the whole of the Law" in relation to the Great Work, the Highest Self, and the Qabalah within the context of Aleister Crowley's Abbey of Thelema and Thelemic ethics.
 
-Answer:
+**Answer**:
 
 To address this knowledge challenge, let's begin by breaking down each concept individually before examining the interconnections and implications that arise when considering these concepts together within the framework of Thelemic ethics.
 

@@ -22,9 +22,9 @@ excerpt: Formulate a meticulously detailed grimoire entry for a potent enchantme
 
 ## Sanctum Sanctorum of Solace
 
-Objective: Alleviate and mend emotional afflictions during the Phantasmagoric Sabbath of the Witches through a potent enchantment.
+**Objective**: Alleviate and mend emotional afflictions during the Phantasmagoric Sabbath of the Witches through a potent enchantment.
 
-Materials:
+**Materials**:
 
 1. Arcane language scroll or grimoire to recite the incantation.
 2. Sacred herbs gathered under a blood moon - yarrow, vervain, and mugwort.

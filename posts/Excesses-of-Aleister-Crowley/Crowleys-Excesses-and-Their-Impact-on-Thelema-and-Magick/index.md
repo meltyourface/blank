@@ -23,7 +23,7 @@ excerpt: >
 
 ## Title: The Excesses of Aleister Crowley and their Influence on His Occult Practices
 
-Introduction: Understanding the Enigmatic Figure of Aleister Crowley
+**Introduction**: Understanding the Enigmatic Figure of Aleister Crowley
 
 Aleister Crowley (1875-1947), an English occultist, mystic, and ceremonial magician, is one of the most controversial and enigmatic figures in the history of Western esoteric and occult thought. He founded and propagated the spiritual philosophy of Thelema and authored numerous books and treatises on magick, mysticism, and ceremonial rituals. A key component in understanding Crowley's teachings and beliefs is an examination of his excesses and how they influenced his approach to magick and the development of Thelema.
 

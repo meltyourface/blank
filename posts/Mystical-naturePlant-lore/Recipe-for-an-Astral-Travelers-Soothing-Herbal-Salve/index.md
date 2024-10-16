@@ -22,7 +22,7 @@ excerpt: Create a comprehensive recipe for a potent, mystical salve specifically
 
 ## Astral Traveler's Soothing Salve
 
-Ingredients:
+**Ingredients**:
 - 3 oz of fresh mandrake root, finely chopped
 - 2 oz of fresh yarrow flowers and leaves, finely chopped
 - 1 oz of dried wormwood, finely ground
@@ -36,7 +36,7 @@ Optimal Harvesting:
 - Yarrow: Harvest it during the full moon with the moon in the sign of Cancer or Sagittarius to amplify its protective and visionary qualities.
 - Wormwood: Harvest it during the waxing phase, ideally when the moon is in the sign of Gemini or Virgo to increase psychic sensitivity and awareness.
 
-Instructions:
+**Instructions**:
 
 1. Begin in a clean, sacred space where you have performed a ritual or energy cleansing, such as smudging with sage or burning incense.
 

@@ -22,7 +22,7 @@ excerpt: Contrast a selection of Goddesses from at least three distinct pantheon
 
 ## Contrasting the Goddesses: A Comparative Analysis of Athena, Kali, and Isis
 
-Introduction:
+**Introduction**:
 This paper aims to contrast three Goddesses from distinct pantheons: Athena from Greek mythology, Kali from Hinduism, and Isis from Ancient Egyptian mythology. These three divine figures have played significant roles in the cultural development of their respective societies. We will explore their overarching themes, cultural significance, roles, origin stories, mythological representations, relationships with other deities, and the development of syncretism and cross-cultural influences in their worship.
 
 1. Athena (Greek Mythology)
@@ -48,5 +48,5 @@ Over time, these Goddesses have evolved and developed through cross-cultural inf
 5. Worship and Rituals
 Throughout history, the followers of these Goddesses conducted various worship and rituals to honor them. Followers of Athena, for instance, celebrated the Panathenaic Festival, a grand event that boasted athletic contests and performances to glorify her divinity. Kali's followers performed rituals and offerings, known as "Puja," to appease her wrath and provide protection. Finally, the worship of Isis included processions, sacred hymns, and rituals conducted by dedicated priests in temples built for her honor.
 
-Conclusion:
+**Conclusion**:
 Athena, Kali, and Isis, as Goddesses from Greek, Hindu, and Egyptian pantheons, showcase a remarkable diversity in their roles, characteristics, and cultural significance. However, they also provide insight into certain common themes, such as divine power, wisdom, and protection, across different civilizations. Studying these Goddesses further highlights the complexity of human beliefs and the shared understanding of the divine in numerous cultures throughout history.

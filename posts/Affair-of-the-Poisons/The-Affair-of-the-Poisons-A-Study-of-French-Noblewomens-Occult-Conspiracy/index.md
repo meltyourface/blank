@@ -29,7 +29,7 @@ Key Figures:
 3. Adam Lesage, Marie Bosse, and Marie Vigoreaux, associates of La Voisin. They played significant roles in the distribution of poisons and were involved in black masses and other occult activities.
 4. Father Étienne Guibourg, a priest who participated in the black masses conducted by La Voisin, including those involving Madame de Montespan.
 
-Motivations:
+**Motivations**:
 The motivations for the conspirators varied from personal gain to desperation. Madame de Montespan wanted to ensure her position as Louis XIV's mistress, while La Voisin and her associates were driven by financial gain and a desire for influence among the nobility. The involvement of clergy like Father Étienne Guibourg likely stemmed from disillusionment with the church and attraction to the occult's forbidden nature. Many of those lesser-involved in the network turned to the occult or poisonous solutions to their problems due to societal pressure and personal desperation.
 
 Sources of Esoteric Techniques:

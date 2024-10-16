@@ -66,11 +66,11 @@ Today, occult orthodox interpretations continue to shape modern esoteric thought
 
 ### Chapter 3: Sample Lesson Plan – Introduction to the Qabalistic Tree of Life
 
-Objective: To introduce the initiate to the basic concepts and symbolism of the Qabalistic Tree of Life, a central component of Kabbalah and Western occultism.
+**Objective**: To introduce the initiate to the basic concepts and symbolism of the Qabalistic Tree of Life, a central component of Kabbalah and Western occultism.
 
-Materials: Tree of Life diagram, candles, and incense.
+**Materials**: Tree of Life diagram, candles, and incense.
 
-Activities:
+**Activities**:
 
 1. ****Lecture****: Provide an overview of the Tree of Life, its purpose, and its components (the Sephiroth and the paths). Discuss the relationship between the Tree of Life and the Hebrew alphabet, as well as the Four Worlds and their correspondence to the four elements.
 2. ****Visualization exercise****: Lead the initiate in a guided meditation to visualize the Tree of Life, with focus on each Sephira and its associated colors, symbols, and divine energies.

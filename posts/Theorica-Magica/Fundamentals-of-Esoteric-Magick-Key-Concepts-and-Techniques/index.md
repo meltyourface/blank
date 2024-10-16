@@ -33,25 +33,25 @@ The study of Theorica Magica encompasses a wide range of magical theories and pr
 
 Theorica Magica: A comprehensive term that refers to the study and understanding of esoteric theories, magical techniques, and occult practices. It is the theoretical foundation of magical practices across various mystical traditions.
 
-Magick: A term often used to differentiate occult and mystical practices from stage magic and illusions. Magick involves the manipulation of energies, forces, and consciousness in accordance with the practitioner's will and intentions.
+**Magick**: A term often used to differentiate occult and mystical practices from stage magic and illusions. Magick involves the manipulation of energies, forces, and consciousness in accordance with the practitioner's will and intentions.
 
-Adept: A person who is highly proficient or knowledgeable in Theorica Magica or related practices.
+**Adept**: A person who is highly proficient or knowledgeable in Theorica Magica or related practices.
 
-Occult: Hidden or secret knowledge, typically pertaining to the metaphysical, mystical, or paranormal.
+**Occult**: Hidden or secret knowledge, typically pertaining to the metaphysical, mystical, or paranormal.
 
-Esoteric: Of knowledge and practices meant for or understood by only a small number of people with specialized understanding or interest.
+**Esoteric**: Of knowledge and practices meant for or understood by only a small number of people with specialized understanding or interest.
 
 2. Fundamental Practices and Core Techniques
 
-Meditation: A foundational practice in Theorica Magica, meditation cultivates mental discipline, focus, and inner tranquility, thereby enhancing the practitioner's ability to operate and channel magickal energies effectively.
+**Meditation**: A foundational practice in Theorica Magica, meditation cultivates mental discipline, focus, and inner tranquility, thereby enhancing the practitioner's ability to operate and channel magickal energies effectively.
 
-Visualization: The imaginative process of creating and sustaining mental images, often used to facilitate magickal workings by establishing a strong connection to the intended outcome.
+**Visualization**: The imaginative process of creating and sustaining mental images, often used to facilitate magickal workings by establishing a strong connection to the intended outcome.
 
 Energy Manipulation: The ability to sense, direct, and utilize the natural energies, forces, and vibrations within oneself and the environment for various magickal purposes.
 
-Rituals: Ceremonial acts performed with intention, symbolism, and specific procedures to attune with and harness magickal energies or seek communion with spiritual entities.
+**Rituals**: Ceremonial acts performed with intention, symbolism, and specific procedures to attune with and harness magickal energies or seek communion with spiritual entities.
 
-Sigils: Symbolic representations of intentions, desires, or concepts, charged with magickal energy to bring about change in accordance with the practitioner's will.
+**Sigils**: Symbolic representations of intentions, desires, or concepts, charged with magickal energy to bring about change in accordance with the practitioner's will.
 
 3. Major Aspects to Consider While Studying
 

@@ -22,7 +22,7 @@ excerpt: Compose an informative section of a grimoire discussing the significanc
 
 ## The Moon, Symbolism, and the Occult
 
-Introduction: Moon Symbolism in the Esoteric and Occult Traditions
+**Introduction**: Moon Symbolism in the Esoteric and Occult Traditions
 
 The Moon has long been a potent and significant symbol in the occult and esoteric traditions. Representing mystery, transformation, and hidden knowledge, the Moon has played an essential role within various magical practices. As the celestial body that governs the night and exerts its defined influence through its varied cycles, the Moon encapsulates an enormous array of meanings and powers that can be understood and harnessed by those delving into the esoteric arts.
 

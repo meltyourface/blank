@@ -23,7 +23,7 @@ Intricate Energetic Effects of Various Black Bull Incenses on Ceremonial Ambianc
 
 1. **Rare Infernal Dragon's Blood Incense**:
 
-Attributes: This incense is known for its potent and fiery energy, which is often linked to transformation, power, and protection.
+**Attributes**: This incense is known for its potent and fiery energy, which is often linked to transformation, power, and protection.
 
 Correlations with entities or forces: Infernal Dragon's Blood has strong connections with dragons, fire elementals, and also Mars, the planet of war and aggression.
 
@@ -33,7 +33,7 @@ Interaction with other esoteric tools: This incense works well with sigils or cr
 
 2. **Potent Midnight Graveyard Essence Incense**:
 
-Attributes: This incense carries a dark, earthy, and mysterious energy, often associated with connecting to the underworld, spirits of the deceased, and shadow work.
+**Attributes**: This incense carries a dark, earthy, and mysterious energy, often associated with connecting to the underworld, spirits of the deceased, and shadow work.
 
 Correlations with entities or forces: Midnight Graveyard Essence resonates with necromantic energies, ghosts, ancestral spirits, and the darker aspects of lunar magic.
 
@@ -43,7 +43,7 @@ Interaction with other esoteric tools: Midnight Graveyard Essence synchronizes w
 
 3. **Enigmatic Serpent's Kiss Incense**:
 
-Attributes: Serpent's Kiss incense holds an energy of seduction, transformation, and deep wisdom. It is often used in workings related to sexuality, regeneration, and knowledge.
+**Attributes**: Serpent's Kiss incense holds an energy of seduction, transformation, and deep wisdom. It is often used in workings related to sexuality, regeneration, and knowledge.
 
 Correlations with entities or forces: This incense is tied to serpent and reptilian entities, as well as deities associated with snakes, such as Lilith, Hekate, or Quetzalcoatl.
 

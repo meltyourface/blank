@@ -27,7 +27,7 @@ Across various world mythologies, snakes and dragons often represent elements of
 
 Greek Mythology: The serpent in the myth of Cadmus and the Oracle of Delphi represents wisdom, prophecy, and transformation. Cadmus slays the serpent, but he is later transformed into a serpent himself. This exemplifies the duality of snakes as both divine and malevolent creatures. The Hydra, a dragon-like creature, represents fear and chaos; however, its defeat symbolizes the triumph of order and reason.
 
-Hinduism: In Hindu mythology, serpents like Shesha and Vasuki represent eternity and cosmic order. They also embody transformation in the Churning of the Ocean of Milk story, with Vasuki acting as the churning rope. In contrast, dragons represent chaos, embodied in Vritra, who is vanquished by Indra to restore balance.
+**Hinduism**: In Hindu mythology, serpents like Shesha and Vasuki represent eternity and cosmic order. They also embody transformation in the Churning of the Ocean of Milk story, with Vasuki acting as the churning rope. In contrast, dragons represent chaos, embodied in Vritra, who is vanquished by Indra to restore balance.
 
 Chinese Mythology: In Chinese mythology, dragons are symbols of wisdom, strength, and balance. They are the divine rulers of the elements and are associated with the emperor and the male principle of yang. Snakes, however, are often associated with yin, the female principle, and are both feared and revered—reflecting their duality.
 
@@ -37,7 +37,7 @@ Norse Mythology: Jormungandr, the world serpent, symbolizes the fear of chaos an
 
 In occult traditions, snakes and dragons often represent initiation and spiritual transformation, as well as duality, with both light and dark aspects.
 
-Alchemy: In Western alchemical traditions, the Ouroboros (a serpent or dragon eating its own tail) symbolizes the cyclical nature of existence and the unity of opposites. The Ouroboros also represents the process of individuation and self-realization, as the union of opposites brings about a higher level of consciousness.
+**Alchemy**: In Western alchemical traditions, the Ouroboros (a serpent or dragon eating its own tail) symbolizes the cyclical nature of existence and the unity of opposites. The Ouroboros also represents the process of individuation and self-realization, as the union of opposites brings about a higher level of consciousness.
 
 Kundalini Yoga: In the East, the Kundalini serpent energy in the human body represents spiritual awakening and transformation. By the awakening of Kundalini, the individual experiences self-realization, a state of an enlightened being, bridging the duality of the microcosm(mortal) and macrocosm(divine) selves.
 

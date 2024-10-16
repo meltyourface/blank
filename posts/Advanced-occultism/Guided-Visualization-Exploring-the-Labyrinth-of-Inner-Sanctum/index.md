@@ -22,7 +22,7 @@ excerpt: Compose an advanced occultism guided visualization exercise that delves
 
 ## The Labyrinth of Inner Sanctum
 
-Preparation:
+**Preparation**:
 
 1. Choose a time and place where you will be uninterrupted and feel relaxed.
 

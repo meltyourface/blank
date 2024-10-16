@@ -82,6 +82,6 @@ Component 8: Supplemental Resources and Further Readings (Duration: 30 minutes)
 - Provide a curated list of books, articles, websites, and documentaries to participants to deepen their understanding of the Evil eye.
 - Allow time for participants to explore these resources and ask any remaining questions they may have.
 
-Conclusion: 
+**Conclusion**: 
 
 Close the workshop by summarizing the key points discussed and thanking participants for their engagement in the lesson. Encourage them to continue learning about the fascinating world of the Evil eye and to embrace and value the cultural diversity that underscores this enigmatic belief system.

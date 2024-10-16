@@ -21,7 +21,7 @@ excerpt: Design an elaborate purification ritual for a new acolyte entering the 
 ---
 The Elaborate Purification Ritual for a New Acolyte - The Rite of Spiritual Rebirth
 
-Preparation:
+**Preparation**:
 - The entire ritual must be performed during a full moon, symbolizing the intense and illuminated energy that the acolyte will receive.
 - Conduct a 7-day preparatory period, called the "Week of Introspection," during which the acolyte partakes in daily meditation, fasting, and sensory deprivation to intensify their spiritual receptivity to the ritual. Seven days represent the seven traditional chakras, seen as the pillars of spiritual development.
 - Construct an intricate altar with seven sacred steps to represent the spiritual ascent towards divinity that the acolyte undertakes.

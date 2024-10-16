@@ -22,7 +22,7 @@ excerpt: >
 ---
 Technique Name: The Sinister Sigil Spiral for Astral Transcendence
 
-Introduction:
+**Introduction**:
 The Sinister Sigil Spiral technique is a tailored visualization practice for Crooked path practitioners to enhance their astral travel experiences. By incorporating sinister sigils, arcane symbols, and eldritch energies, this method guides the astral traveler through a rich, immersive environment filled with sensory elements. The practitioner will explore various states of consciousness, including trance and deep meditation, to increase the effectiveness of the technique.
 
 Step-by-Step Guide:

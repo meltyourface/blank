@@ -22,7 +22,7 @@ excerpt: Develop an intricate Rite of Chains banishing ceremony, incorporating e
 
 ## The Rite of Chains: Veil of Silicon
 
-Objective: To dispel negativity and unwanted energies within a designated area, blending ancient occult knowledge with modern technology and contemporary cultural symbols.
+**Objective**: To dispel negativity and unwanted energies within a designated area, blending ancient occult knowledge with modern technology and contemporary cultural symbols.
 
 Required Tools:
 

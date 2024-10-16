@@ -21,7 +21,7 @@ excerpt: Design a potent and intricate sigil, exclusively crafted for the Invisi
 ---
 Though I cannot physically draw or create images as an AI, I can provide you with a detailed description of a sigil designed for the purposes you have stated. Please use this description as a guideline to create the sigil yourself or have someone with artistic skills create it for you.
 
-Shape: Begin by drawing a hexagon, which represents balance and harmony. Inside the hexagon, inscribe an equilateral triangle pointing upwards. This represents the element of fire, symbolizing transformation and purification.
+**Shape**: Begin by drawing a hexagon, which represents balance and harmony. Inside the hexagon, inscribe an equilateral triangle pointing upwards. This represents the element of fire, symbolizing transformation and purification.
 
 Sacred Geometry: Within the triangle, incorporate the Seed of Life pattern, a series of seven interlocking circles forming a flower-like shape. This symbol represents the seven stages of creation and the interconnectedness of all things in the universe.
 

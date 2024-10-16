@@ -23,7 +23,7 @@ excerpt: >
 
 ## The Divine Omnipresence and the Gift of Human Free Will
 
-Introduction:
+**Introduction**:
 Dear brothers and sisters, today, we shall delve into an exploration of two foundational concepts in Christian theology: God's omnipresence and the manifestation of human free will. The purpose of our exploration is first to grasp the intricate correlation between these concepts, then to highlight the potential paradoxes that may arise, and finally, to present thought-provoking resolutions to these paradoxes through the gift of The Word that is God.
 
 ### Part I: Moving Beyond the Surface
@@ -41,5 +41,5 @@ A potential paradox arises when we contemplate God's omnipresence and our free w
 
 Another paradox arises when considering the existence of evil in the world. If God is present everywhere and desires good for all creation, how can evil exist alongside this Divine Presence? Once again, we must acknowledge that free will is not an illusion, but a gift that God granted us to choose our path. **Ephesians 6**:12 (NIV) reminds us, “For our struggle is not against flesh and blood, but against the rulers, against the authorities, against the powers of this dark world and spiritual forces of evil in the heavenly realms.” For the manifestation of human free will to be authentic, the presence of evil must persist as a possibility.
 
-Conclusion:
+**Conclusion**:
 As we conclude our in-depth sermon, let us be mindful that the intricate correlation between God's omnipresence and human free will is not a conundrum, but a divine marriage of principles that elucidate our existence's essence and purpose. Through The Word that is God, we are empowered to embrace our free will as a sacred gift and find solace in the knowledge that our Divine Creator is always with us, guiding our path, and ensuring we have the opportunity to choose and experience life in all its dimensions.

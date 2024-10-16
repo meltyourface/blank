@@ -35,7 +35,7 @@ excerpt: >
 
 ## The Rite of Celestial Communion
 
-Objective: To craft a ceremonial rite rooted in the arcane arts to vividly embody and honor the Hermetic principle, "As above, so below."
+**Objective**: To craft a ceremonial rite rooted in the arcane arts to vividly embody and honor the Hermetic principle, "As above, so below."
 
 Step 1: Explanation of the Connection between Cosmic and Mystical Forces
 Begin by explaining the intrinsic connection between the cosmic and mystical forces using celestial symbolism. Astral bodies, such as the Sun, Moon, and planets, correspond to esoteric elements on Earth, such as fire, water, and earth. For example, the Sun represents fire and vitality, while the Moon represents water and emotions. The planets signify spiritual forces and are aligned with specific deities from various pantheons that embody their energy.

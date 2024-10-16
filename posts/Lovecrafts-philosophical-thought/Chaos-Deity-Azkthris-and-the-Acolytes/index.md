@@ -35,7 +35,7 @@ Throughout history, cults and secret societies have paid homage to Azk'thris, se
 Existential Crisis Triggered:
 As humanity continues to delve into the depths of its own existence, uncovering ever more incomprehensible secrets of the cosmos, the revelation of Azk'thris is all but inevitable. Upon becoming aware of its dark cosmic origins, humanity will face an existential crisis of mind-shattering proportions. Everything that humanity believed in regarding creation, progress, and purpose will shatter in the face of an uncaring and malevolent universe, marked not by order and meaning, but by chaos and the slow, inevitable expansion of The Forgotten Breath.
 
-Narrative:
+**Narrative**:
 Within the depths of the earth, in a hidden chamber untouched by time, a group of Acolytes of the Final Exhalation carried out their dark ritual. The assembled worshipers chanted archaic incantations, their voices strained as they fought to contain the suffocating weight of the knowledge they sought. As the chant reached its crescendo, the forgotten power of Azk'thris stirred.
 
 Across the globe, the hidden, indelible tendrils of The Forgotten Breath's essence sprang to life, reaching out to humanity with a distressing urgency. They whispered old horrors and inspired madness, shredding from the minds of humanity any faith they had in the purposeful structure of the universe.

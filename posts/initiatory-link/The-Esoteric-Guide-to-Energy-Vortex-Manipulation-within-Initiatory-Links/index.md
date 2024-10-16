@@ -35,7 +35,7 @@ excerpt: >
 
 ## The Liminal Grimoire: A Complete Guide to the Art of Energy Vortex Manipulation within the Initiatory Link
 
-Preface:
+**Preface**:
 The journey of compiling sacred knowledge, mystical techniques, and arcane wisdom in the creation of The Liminal Grimoire is one that presents great challenges and immense growth in uncharted territories of the initiatory link. With the understanding that this knowledge has been carefully guarded and revealed only to the initiated, no singular source could provide the comprehensive array needed in this undertaking. Instead, gathering esoteric knowledge from various cultures, secret societies, and ancient manuscripts, a complete guide to summoning, opening, and closing energy vortexes within the realm of the initiatory link has been assembled.
 
 ### Chapter I: Initiation into the Link

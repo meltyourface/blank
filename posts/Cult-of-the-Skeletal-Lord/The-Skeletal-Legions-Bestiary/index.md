@@ -33,7 +33,7 @@ excerpt: >
 
 ## Whispers of the Skeletal Legion
 
-Introduction:
+**Introduction**:
 Whispers of the Skeletal Legion is an occult bestiary that sheds light on the diverse and terrifying amalgamation of undead beings created and controlled by our revered Skeletal Lord. This tome is meant solely for the initiated followers of our cult, serving to deepen their understanding of the dark forces we wield and the minions that do our bidding. Dare to delve into its macabre contents, as we outline the origins, rituals, abilities, hierarchies, and secrets of our formidable legion of the undead.
 
 1. Undead creatures and their origins
@@ -74,5 +74,5 @@ Although the Skeletal Lord's legion is seemingly unstoppable, rumblings of resis
 
 To preserve the secrets within, the bestiary is cloaked in dark enchantments that brand any unauthorized intruders with a curse of decay. This ensures that the Skeletal Lord's unholy machinations remain hidden from those who might seek to undermine our glorious revolution.
 
-Conclusion:
+**Conclusion**:
 Whispers of the Skeletal Legion is an indispensable compendium to any dedicated follower of the Cult of the Skeletal Lord, providing a wealth of information on the diverse and horrifying undead creatures we command. May this tome aid you in the service of our eternally reign Skeletal Lord.

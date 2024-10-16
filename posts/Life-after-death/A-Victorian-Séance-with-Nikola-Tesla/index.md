@@ -34,27 +34,27 @@ Madame Lavinia: (Barely audible) Spirits of the æther, guardians of the twiligh
 
 *Suddenly, the room chills as the séance reaches a heightened state of awareness.*
 
-Tesla: (Emanating from Madame Lavinia) Good evening, I am Nikola Tesla... I sensed a strong pulse within the ether... a gathering of inquisitive souls seeking answers.
+**Tesla**: (Emanating from Madame Lavinia) Good evening, I am Nikola Tesla... I sensed a strong pulse within the ether... a gathering of inquisitive souls seeking answers.
 
 Dr. Alwyn: Mr. Tesla! It is an honor to make contact with you. Can you describe the afterlife environment surrounding you?
 
-Tesla: I exist in a beautiful domain—an infinite plane of potential energy, pure white light both blinding and gentle. The very essence of existence vibrates in every particle. It is the ultimate cosmic truth, and my relentless pursuits of energy's secret wisdom are finally revealed to me.
+**Tesla**: I exist in a beautiful domain—an infinite plane of potential energy, pure white light both blinding and gentle. The very essence of existence vibrates in every particle. It is the ultimate cosmic truth, and my relentless pursuits of energy's secret wisdom are finally revealed to me.
 
 Lady Somerset: Mr. Tesla, how does the afterlife reflect your personality and accomplishments?
 
-Tesla: I am surrounded by the creative force that drove my inventions. My thoughts manifest tangible wonders in this ethereal world. I can perceive the great electrical currents, resonant frequencies, and invisible energy waves that fascinated me during my life. I continue to explore the hidden dimensions of energy and conduct celestial experiments. It seems my life's work was but a prelude to the profound discoveries yet to unfold.
+**Tesla**: I am surrounded by the creative force that drove my inventions. My thoughts manifest tangible wonders in this ethereal world. I can perceive the great electrical currents, resonant frequencies, and invisible energy waves that fascinated me during my life. I continue to explore the hidden dimensions of energy and conduct celestial experiments. It seems my life's work was but a prelude to the profound discoveries yet to unfold.
 
 Ms. Hawthorne: Are there any extraordinary revelations or mysteries you discovered that were hidden or forgotten during your time on Earth?
 
-Tesla: Yes, indeed. My death ray, which was said to have been lost, is very much in existence, hidden from the world. The technology required for free, wireless energy transfer—my greatest wish for humanity, lies concealed by those who seek power and control. Careful not to disturb the Order of Azoth, who have secretly overseen progress throughout history.
+**Tesla**: Yes, indeed. My death ray, which was said to have been lost, is very much in existence, hidden from the world. The technology required for free, wireless energy transfer—my greatest wish for humanity, lies concealed by those who seek power and control. Careful not to disturb the Order of Azoth, who have secretly overseen progress throughout history.
 
 Mr. Huxley: Sir, what about your beliefs? Are they altered or reinforced in the afterlife?
 
-Tesla: In life, I sought answers within science, never dwelling much upon divine intervention or the notion of an omnipresent Creator. Now, my beliefs are both refuted and affirmed. The natural laws that I revered in life remain true. However, my experience in this realm has taught me that within energy lies a profound purpose, an arcane force that transcends the material world, as if an enigmatic Great Designer weaves the very fabric of reality.
+**Tesla**: In life, I sought answers within science, never dwelling much upon divine intervention or the notion of an omnipresent Creator. Now, my beliefs are both refuted and affirmed. The natural laws that I revered in life remain true. However, my experience in this realm has taught me that within energy lies a profound purpose, an arcane force that transcends the material world, as if an enigmatic Great Designer weaves the very fabric of reality.
 
 Madame Lavinia: (visibly exhausted) I fear our connection falters... the æther wanes...
 
-Tesla: Farewell, my friends. Continue to seek the radiant secrets of our universe. The truth remains eternal.
+**Tesla**: Farewell, my friends. Continue to seek the radiant secrets of our universe. The truth remains eternal.
 
 *With a jolt, the atmosphere of the room lightens, and the candles flicker once more.*
 

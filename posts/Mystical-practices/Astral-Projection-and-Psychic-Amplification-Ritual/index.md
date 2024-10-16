@@ -22,9 +22,9 @@ excerpt: Design an intricate ceremonial rite dedicated to amplifying one's innat
 
 ## The Rite of Psychic Genesis
 
-Objective: To amplify innate psychic talents through an intricate ceremonial rite of mystical symbols, herbs, incantations, and diverse esoteric disciplines.
+**Objective**: To amplify innate psychic talents through an intricate ceremonial rite of mystical symbols, herbs, incantations, and diverse esoteric disciplines.
 
-Preparation:
+**Preparation**:
 
 1. Purification Ritual:
    a. Cleanse the ritual space with sage or palo santo, walking clockwise around the perimeter, allowing the smoke to permeate the area.

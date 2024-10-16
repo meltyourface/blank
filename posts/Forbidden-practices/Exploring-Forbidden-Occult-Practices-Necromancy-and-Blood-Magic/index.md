@@ -26,19 +26,19 @@ In the realm of the esoteric and occult, the pursuit of hidden knowledge has alw
 
 1. Blood Magic
 
-Purpose: Blood magic, also known as sanguimancy or hematokinesis, is the use of blood as a medium to channel and amplify the caster's magical powers, usually for manipulation, binding, or visualization upon the life force of oneself or others. 
+**Purpose**: Blood magic, also known as sanguimancy or hematokinesis, is the use of blood as a medium to channel and amplify the caster's magical powers, usually for manipulation, binding, or visualization upon the life force of oneself or others. 
 
-Dangers: The most significant danger lies in the innate connection between the caster's blood and their life force. Any damage dealt to this blood, once externalized and imbued with power, can negatively affect the caster. Moreover, excessive use of blood magic can diminish the practitioner's vitality and cause severe, often irreversible, physical harm and spiritual degeneration.
+**Dangers**: The most significant danger lies in the innate connection between the caster's blood and their life force. Any damage dealt to this blood, once externalized and imbued with power, can negatively affect the caster. Moreover, excessive use of blood magic can diminish the practitioner's vitality and cause severe, often irreversible, physical harm and spiritual degeneration.
 
-Precautions: It is paramount that the practitioner works within a protective ritual circle, purified and consecrated. The use of blood should be minimal, usually no more than a few drops. The blood is typically drawn from a harmless cut on the finger or other minimal sources. Additionally, a clear intention must be set before commencing the ritual to avoid any unintended consequences.
+**Precautions**: It is paramount that the practitioner works within a protective ritual circle, purified and consecrated. The use of blood should be minimal, usually no more than a few drops. The blood is typically drawn from a harmless cut on the finger or other minimal sources. Additionally, a clear intention must be set before commencing the ritual to avoid any unintended consequences.
 
 2. Necromancy
 
-Purpose: Necromancy is an ancient and feared practice, one that seeks to communicate with and manipulate spirits of the departed, effectively transcending the boundaries between life and death. It can be used to gain knowledge, harness the power of the deceased, or even resurrect the dead. 
+**Purpose**: Necromancy is an ancient and feared practice, one that seeks to communicate with and manipulate spirits of the departed, effectively transcending the boundaries between life and death. It can be used to gain knowledge, harness the power of the deceased, or even resurrect the dead. 
 
-Dangers: Engaging with the plane of the dead generally opens the practitioner to malevolent entities that may not have the best intentions. Moreover, resurrecting the dead often yields unnatural and abhorrent results, with the potential to unleash an uncontrollable force into the world. Stepping beyond the veil may establish a permanent spiritual tether to the underworld, leading to the deterioration of mental health and spiritual integrity of the caster.
+**Dangers**: Engaging with the plane of the dead generally opens the practitioner to malevolent entities that may not have the best intentions. Moreover, resurrecting the dead often yields unnatural and abhorrent results, with the potential to unleash an uncontrollable force into the world. Stepping beyond the veil may establish a permanent spiritual tether to the underworld, leading to the deterioration of mental health and spiritual integrity of the caster.
 
-Precautions: Similar to blood magic, a protective circle is crucial in the practice of necromancy to safeguard the caster. Ensure the ritual begins with a respectful invocation, approaching the spirits with humility and reverence. The practitioner must also have a solid understanding of spirit communication and discernment of intent, as well as spiritual cleansing techniques for both the location and themselves.
+**Precautions**: Similar to blood magic, a protective circle is crucial in the practice of necromancy to safeguard the caster. Ensure the ritual begins with a respectful invocation, approaching the spirits with humility and reverence. The practitioner must also have a solid understanding of spirit communication and discernment of intent, as well as spiritual cleansing techniques for both the location and themselves.
 
 Ethical Considerations
 

@@ -28,7 +28,7 @@ Contemporary translation:
 
 "From this point, the most hidden and mysterious aspects of the art of magic emerge. These elements will form the foundation of the Kabbalah. Every ailment that affects the human body originates from the core essence of that body; unity exists in the identity itself. If identity is lost, then everything disappears, and we cease to exist."
 
-Analysis:
+**Analysis**:
 
 Within this passage, Francis Barrett delves into the esoteric concept of unity in identity and its connection to the art of magic and Kabbalah. In the original archaic language, the passage may seem dense and convoluted for modern readers, however, updating it to contemporary language makes it easier to understand and appreciate.
 

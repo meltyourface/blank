@@ -21,7 +21,7 @@ excerpt: Craft a potent ritual, tailored to the Entered Apprentice degree of eso
 ---
 Ritual Name: The Gazing of the Prophetic Pillars
 
-Introduction:
+**Introduction**:
 The Gazing of the Prophetic Pillars is a potent, immersive ritual exclusive to the Entered Apprentice degree of esoteric and occult knowledge. It aims to bestow the practitioner with heightened psychic foresight and precognitive mastery. The ritual integrates the practitioner's core values, aspirations, and utilizes the symbolism of the square, compass, and associated Masonic tools. Ancient resonant frequencies, sigils, and invocations are employed throughout the process.
 
 Supplies needed:

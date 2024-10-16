@@ -28,7 +28,7 @@ excerpt: >
 ---
 Answer: Properly identifying the entity and clarifying your intentions
 
-Explanation:
+**Explanation**:
 
 In the context of approaching an entity in occult practices, it is crucial to consider properly identifying the entity and clarifying your intentions in order to establish a successful and insightful connection. **There are several reasons behind this conclusion, which I will explain below**:
 

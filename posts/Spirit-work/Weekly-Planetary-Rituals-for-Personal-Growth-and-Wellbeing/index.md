@@ -22,14 +22,14 @@ excerpt: >
 ---
 Day 1: Sunday – The Day of the Sun
 
-Symbolism: Sun, Solar disk, Lion, Phoenix
+**Symbolism**: Sun, Solar disk, Lion, Phoenix
 Planetary Association: Sun
 Elemental Energy: Fire
 
-Sigil: A circle with a dot in the center, surrounded by sun rays
+**Sigil**: A circle with a dot in the center, surrounded by sun rays
 Invocation: "Hail to thee, Solaris, Master of Radiance! Illuminate my path and grant me your wisdom."
 
-Offerings: Golden candles, sunflower petals, honey, frankincense incense
+**Offerings**: Golden candles, sunflower petals, honey, frankincense incense
   
 Ritual:
 
@@ -41,16 +41,16 @@ Ritual:
 
 Day 2: Monday – The Day of the Moon
 
-Symbolism: Moon, Tides, Silver Chalice, Intuition
+**Symbolism**: Moon, Tides, Silver Chalice, Intuition
 Planetary Association: Moon
 Elemental Energy: Water
 
-Sigil: A crescent moon with an eye in the center
+**Sigil**: A crescent moon with an eye in the center
 Invocation: "Hail to thee, Luna, Maiden of the Night! Bestow upon me your intuition and grace."
 
-Offerings: Moonstone, white candles, jasmine flowers, sandalwood incense
+**Offerings**: Moonstone, white candles, jasmine flowers, sandalwood incense
 
-Ritual:
+**Ritual**:
 
 1. Begin at moonrise, lighting the white candles and incense.
 2. Fill a silver chalice with water and place it in the center of the sigil.
@@ -60,16 +60,16 @@ Ritual:
 
 Day 3: Tuesday – The Day of Mars
 
-Symbolism: Mars, Sword, Dragon, Courage
+**Symbolism**: Mars, Sword, Dragon, Courage
 Planetary Association: Mars
 Elemental Energy: Fire
 
-Sigil: A circle intersected by an arrow pointing outward
+**Sigil**: A circle intersected by an arrow pointing outward
 Invocation: "Hail to thee, Martialis, Guardian of Battlegrounds! Grant me courage and bless my endeavors."
 
-Offerings: Red candles, iron filings, dragon's blood incense, basil
+**Offerings**: Red candles, iron filings, dragon's blood incense, basil
 
-Ritual:
+**Ritual**:
 
 1. Begin at noon, lighting the red candles and incense.
 2. Place an iron sword or dagger next to the sigil.
@@ -79,16 +79,16 @@ Ritual:
 
 Day 4: Wednesday – The Day of Mercury
 
-Symbolism: Mercury, Winged Staff, Owl, Communication
+**Symbolism**: Mercury, Winged Staff, Owl, Communication
 Planetary Association: Mercury
 Elemental Energy: Air
 
-Sigil: A glyph combining a crescent, a circle, and a cross
+**Sigil**: A glyph combining a crescent, a circle, and a cross
 Invocation: "Hail to thee, Mercurius, Messenger of the Gods! Unveil hidden knowledge and expand my understanding."
 
-Offerings: Green candles, lavender, clear quartz, bergamot incense
+**Offerings**: Green candles, lavender, clear quartz, bergamot incense
 
-Ritual:
+**Ritual**:
 
 1. Begin at twilight, lighting the green candles and incense.
 2. Arrange books or puzzles around the sigil.
@@ -98,16 +98,16 @@ Ritual:
 
 Day 5: Thursday – The Day of Jupiter
 
-Symbolism: Jupiter, Lightning Bolt, Eagle, Abundance
+**Symbolism**: Jupiter, Lightning Bolt, Eagle, Abundance
 Planetary Association: Jupiter
 Elemental Energy: Air
 
-Sigil: A glyph combining a crescent with a cross at bottome and two small lines above
+**Sigil**: A glyph combining a crescent with a cross at bottome and two small lines above
 Invocation: "Hail to thee, Jovis, Ruler of the Heavens! Bestow upon me abundance and prosperity."
 
-Offerings: Blue candles, amethyst, nutmeg, cedarwood incense
+**Offerings**: Blue candles, amethyst, nutmeg, cedarwood incense
 
-Ritual:
+**Ritual**:
 
 1. Begin at sunrise, lighting the blue candles and incense.
 2. Arrange coins or symbols of wealth around the sigil.
@@ -117,16 +117,16 @@ Ritual:
 
 Day 6: Friday – The Day of Venus
 
-Symbolism: Venus, Rose, Dove, Love
+**Symbolism**: Venus, Rose, Dove, Love
 Planetary Association: Venus
 Elemental Energy: Earth
 
-Sigil: A circle with a cross extending below it
+**Sigil**: A circle with a cross extending below it
 Invocation: "Hail to thee, Venusa, Goddess of Love! Awaken my heart and guide my relationships."
 
-Offerings: Pink candles, rose petals, emerald, ylang-ylang incense
+**Offerings**: Pink candles, rose petals, emerald, ylang-ylang incense
 
-Ritual:
+**Ritual**:
 
 1. Begin at sunset, lighting the pink candles and incense.
 2. Place an image of a dove or a rose on the sigil.
@@ -136,16 +136,16 @@ Ritual:
 
 Day 7: Saturday – The Day of Saturn
 
-Symbolism: Saturn, Hourglass, Raven, Transformation
+**Symbolism**: Saturn, Hourglass, Raven, Transformation
 Planetary Association: Saturn
 Elemental Energy: Earth
 
-Sigil: A glyph of a scythe or hourglass
+**Sigil**: A glyph of a scythe or hourglass
 Invocation: "Hail to thee, Saturnus, Keeper of Time! Grant me transformation and mastery over my destiny."
 
-Offerings: Black candles, garnet, heartwood, patchouli incense
+**Offerings**: Black candles, garnet, heartwood, patchouli incense
 
-Ritual:
+**Ritual**:
 
 1. Begin at midnight, lighting the black candles and incense.
 2. Place a symbol of time, such as an hourglass or clock, near the sigil.

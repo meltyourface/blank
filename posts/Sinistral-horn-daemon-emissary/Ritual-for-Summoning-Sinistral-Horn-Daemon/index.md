@@ -24,7 +24,7 @@ excerpt: Design a detailed ritual for summoning a Sinistral horn daemon emissary
 
 The Ritual of the Sinistral Emissary is a meticulously designed ceremony intended to conjure a Sinistral horn daemon emissary, a powerful entity with deep esoteric knowledge and mastery over the darker aspects of life. The following steps outline the intricacies required to successfully complete the ritual.
 
-Preparation:
+**Preparation**:
 
 1. Choose the appropriate location for the ritual: a place imbued with dark energies such as a haunted house, abandoned church, or crossroads often serve as effective settings.
 

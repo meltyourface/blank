@@ -21,9 +21,9 @@ excerpt: Design a ritual to invoke the ancient power of the Cult of the Skeletal
 ---
 Task: Design a ritual to invoke the ancient power of the Cult of the Skeletal Lord, specifically tailored to appease the vengeful Wrathbones lineage.
 
-Ritual: The Requiem of Rebonding 
+**Ritual**: The Requiem of Rebonding 
 
-Overview: This ritual incorporates six complex ceremonial steps that utilize rare and powerful artifacts sacred to the Cult of the Skeletal Lord, aiming to weaken the Wrathbones' fury and bolster the devotion and allegiance of followers, culminating in a grand spectacle of dark triumph.
+**Overview**: This ritual incorporates six complex ceremonial steps that utilize rare and powerful artifacts sacred to the Cult of the Skeletal Lord, aiming to weaken the Wrathbones' fury and bolster the devotion and allegiance of followers, culminating in a grand spectacle of dark triumph.
 **Step 1**: The Gathering of Shadows
 The ritual begins with a procession of Cult members, each carrying a fragment of the Prophet's Skull. These fragments are arranged around the Cursed Chalice of the Shadowed Veil, placed at the central altar. As each piece is placed, the members chant ancient incantations to summon the spirits of the Wrathbones lineage.
 **Step 2**: The Sanguine Offering

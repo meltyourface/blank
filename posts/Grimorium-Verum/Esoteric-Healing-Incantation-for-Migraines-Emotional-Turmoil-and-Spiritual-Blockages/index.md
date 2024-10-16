@@ -39,7 +39,7 @@ Ankh vitae, coeat spiritus, transmutatio debeat.
 In nomine [Person's Name], 
 Sanatus erit, corpora menteque, animarum restaurandi."
 
-Translation:
+**Translation**:
 
 "Rahu, who afflicts the moon, let the migraine be healed,
 Deep Scorpio, pacify the disturbed spirit,

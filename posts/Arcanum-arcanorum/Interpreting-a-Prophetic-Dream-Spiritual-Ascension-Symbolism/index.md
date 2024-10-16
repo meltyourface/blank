@@ -21,10 +21,10 @@ excerpt: Interpret the significance of a prophetic dream within the context of t
 ---
 To interpret the significance of a prophetic dream within the context of the esoteric, occult, Arcanum arcanorum, I shall first present a detailed analysis of the dream's elements and symbols:
 
-Dream:
+**Dream**:
 The dreamer finds themselves in a vast desert at twilight, surrounded by a circle of illuminated stones, each with a unique symbol. They pick up a stone with a trident symbol and suddenly the night sky is filled with shooting stars. A whirlwind appears, transforming into a giant figure with the head of a lion adorned with three crowns. The figure points at a constellation resembling a balance and the dreamer levitates before waking up.
 
-Analysis:
+**Analysis**:
 1. Vast Desert: Represents a spiritual journey, searching for wisdom and truth. The desert also symbolizes isolation, trial, and purification.
 
 2. Twilight: Indicates the liminal space between the conscious and subconscious, light and darkness, or the known and the unknown. Twilight is associated with spiritual transition and awakening.

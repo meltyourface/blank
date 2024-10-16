@@ -55,7 +55,7 @@ Materials needed:
 - Incense or offerings appropriate to the entity
 - A protective circle or sacred space
 
-Steps:
+**Steps**:
 
 1. Begin by creating a protective circle or sacred space for the ritual, ensuring that you are thoroughly cleansed and protected from any potential negative influences.
 

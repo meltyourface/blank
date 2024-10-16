@@ -22,9 +22,9 @@ excerpt: Design a practice or ritual incorporating the Sixteen Figures of Renais
 
 ## The Ritual of the Sixteen Stars
 
-Objective: Personal growth, self-awareness, and spiritual enhancement
+**Objective**: Personal growth, self-awareness, and spiritual enhancement
 
-Introduction:
+**Introduction**:
 
 The Ritual of the Sixteen Stars is a powerful, transformative process that fuses the Sixteen Figures of Renaissance European geomancy with tarot, alchemy, and astrology. This ritual is designed to provide self-awareness, personal growth, and spiritual enhancement. By uniting these esoteric tools, the Ritual of the Sixteen Stars creates a spiritual map to lead you through personal transformation and progress.
 

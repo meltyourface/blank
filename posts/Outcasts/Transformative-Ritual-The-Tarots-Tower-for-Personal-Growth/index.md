@@ -26,7 +26,7 @@ The Tarot Card: The Tower
 
 Main Themes: Sudden upheaval, chaos, transformation, breaking of foundations, the opportunity for growth, and change.
 
-Invocation:
+**Invocation**:
 
 Before beginning the ritual, cleanse and consecrate the space and objects associated with the ritual.
 
@@ -38,7 +38,7 @@ The thunderbolt, and the mighty crash of the Tower,
 I invoke your presence,
 So mote it be!"
 
-Visualization:
+**Visualization**:
 
 Choose the Tarot card of the Tower, place it on the altar or before you. Light a red or black candle, representing the breaking down of obstacles and the energy of transformation that follows.
 
@@ -48,7 +48,7 @@ Incorporate specific scents that resonate with the energy of The Tower. You may 
 
 As you gaze at the card, imagine yourself standing before a crumbling tower, lightning striking and everything around you falling apart. Envision your personal obstacles as pieces of the tower, breaking and falling away. The destruction leads to a newfound sense of freedom, clearing the way for growth and transformation.
 
-Affirmation:
+**Affirmation**:
 
 Repeat the following affirmation as many times as you feel necessary:
 

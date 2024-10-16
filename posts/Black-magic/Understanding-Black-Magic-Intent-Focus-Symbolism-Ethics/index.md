@@ -27,13 +27,13 @@ To begin with, personal intent plays a crucial part in black magic rituals. The 
 
 The role of intent also extends to its impact on the energies being manipulated for the desired results. The practitioner's intent must be precise and well-defined, as vague desires or weak intentions produce minimal or, in some cases, unpredictable effects. A strong intent is the driving force of successful black magic rituals, and the practitioner must be entirely unwavering in their desires.
 
-Focus:
+**Focus**:
 
 Focus is another significant aspect of black magic rituals, as it involves the practitioner's ability to concentrate their energy and willpower during the performance of a ritual. A keen focus on one's intent is essential to channel the requisite energies and establish the necessary connections between the physical and spiritual planes.
 
 In black magic, this focus is often achieved through intense concentration, meditation, and visualization of the desired outcome. The practitioner must be able to maintain this mental discipline throughout the ritual to ensure successful results. Distractions, lack of focus, or interruptions in the ritual process can lead to undesirable consequences or even backfire, causing harm to the practitioner.
 
-Symbolism:
+**Symbolism**:
 
 Symbolism is a vital component of black magic, as it allows practitioners to communicate with, summon, and control various entities or forces associated with their rituals. Symbols used in black magic are deeply imbued with meaning, and they can serve as a bridge between the physical and spiritual planes, facilitating the manifestation of the practitioner's desires.
 

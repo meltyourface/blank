@@ -22,7 +22,7 @@ excerpt: Create an intricate and subversive artistic manifesto that meticulously
 
 ## The Modern Neoclassical Renaissance Manifesto
 
-Preamble:
+**Preamble**:
 
 In an era suffused with abstraction and modernism, a reinvigorated embrace of the Neoclassical tradition beckons us to seek harmony between the past and present, bridge the chasm between reason and emotion, and affirm the power of artistic innovation entrenched in our history. Heeding this call, we declare the inception of the Modern Neoclassical Renaissance, a manifesto uniting the spirit of Neoclassicism and contemporary art.
 

@@ -26,21 +26,21 @@ Ideally, the altar should be placed in a quiet and serene space, providing a cle
 Use a sturdy table or a specific altar stand as a base. On top of the surface, place an altar cloth (preferably in colors corresponding with the new moon such as black, silver, or dark purple). This cloth should be clean and consecrated for the purpose of healing.
 **Step 3**: Traditional ritual elements
 
-Candles: Arrange at least four candles in the colors representing Earth, Air, Fire, and Water (green, yellow, red, and blue, respectively). Place an additional larger white or silver candle in the center to symbolize the new moon. These candles will be used to call in the elements and to anchor the energy of the new moon.
+**Candles**: Arrange at least four candles in the colors representing Earth, Air, Fire, and Water (green, yellow, red, and blue, respectively). Place an additional larger white or silver candle in the center to symbolize the new moon. These candles will be used to call in the elements and to anchor the energy of the new moon.
 
-Incense: Select an incense blend composed of herbs that resonate with the new moon, such as mugwort, myrrh, or lavender. This will be used to purify the space and create a calming atmosphere.
+**Incense**: Select an incense blend composed of herbs that resonate with the new moon, such as mugwort, myrrh, or lavender. This will be used to purify the space and create a calming atmosphere.
 
 Sacred texts: Incorporate healing texts, sacred scriptures, or prayer books relevant to your spiritual practice on the altar. These texts will serve as a source of inspiration and guidance during the ritual.
 **Step 4**: Modern healing tools
 
-Crystals: Arrange key healing crystals that amplify manifestation and transformational energy, such as labradorite, black moonstone, and clear quartz. These can be positioned in a grid formation or intuitively placed where they feel energetically aligned.
+**Crystals**: Arrange key healing crystals that amplify manifestation and transformational energy, such as labradorite, black moonstone, and clear quartz. These can be positioned in a grid formation or intuitively placed where they feel energetically aligned.
 
 Essential oils: Incorporate essential oils like sage, lemongrass, or frankincense to purify the space and promote healing. Use a diffuser or oil burner to disperse the fragrance throughout the room.
 
 Energy healing devices: If employing Reiki or another energy healing modality, include related tools like Reiki-charged stones or healing wands on the altar.
 **Step 5**: Technological integration
 
-Amplification: Use Bluetooth speakers to play a binaural beats or solfeggio frequencies audio track during the ritual. This will help to synchronize the brainwaves of those participating and align their energies with the new moon's frequencies.
+**Amplification**: Use Bluetooth speakers to play a binaural beats or solfeggio frequencies audio track during the ritual. This will help to synchronize the brainwaves of those participating and align their energies with the new moon's frequencies.
 
 Synchronizing energies: Utilize a digital lunar cycle tracking app or software to monitor the new moon's phase and exact timing. This ensures the alignment of the altar's energies with the celestial vibrations.
 

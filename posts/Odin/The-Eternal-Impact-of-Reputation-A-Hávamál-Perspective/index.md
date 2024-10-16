@@ -29,7 +29,7 @@ En orðstír
 deyr aldregi,
 hveim er sér góðan getur."
 
-Translated:
+**Translated**:
 
 "Cattle die,
 kinsmen die,

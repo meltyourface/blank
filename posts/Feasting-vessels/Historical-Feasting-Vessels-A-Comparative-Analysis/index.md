@@ -37,7 +37,7 @@ The Qing Dynasty (1644-1911) marked a flourishing period for Chinese art and cra
 
 Feasting vessels from the Qing Dynasty featured symbolic motifs that signified wealth, blessings, and longevity. Common themes included dragons, representing imperial power and authority; flowers, symbolizing natural beauty and harmony; and scenes from literature and mythology. The use of intricate patterns and vibrant colors in these artifacts reflects the high level of craftsmanship during this period.
 
-Comparison:
+**Comparison**:
 
 Feasting vessels from Ancient Rome, Medieval Europe, and the Chinese Qing Dynasty differ in materials, techniques, and decorative motifs, but all reflect the socio-economic and cultural values of their respective periods. Higher-quality materials and elaborate designs indicated the owner's wealth and power, while the depicted motifs provided insights into each culture's religious beliefs, social values, and artistic sensibilities.
 

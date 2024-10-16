@@ -31,7 +31,7 @@ Translated passage:
 
 "Jhov'ghr thaglokh eh'nahk, yrhk'nah nohk shlibaroth, fhtagn'nd thul'nepenthe. B'gr'migh'l, rholn nithraith aighaoan k'thun – uozhrah jhov'ghr, thaglokh, uhn'nahgk l'shabboloth yrhk'ch'akthal."
 
-Glossary:
+**Glossary**:
 - Jhov'ghr: cosmos
 - Thaglokh: balm
 - Eh'nahk: bitterness

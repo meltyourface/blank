@@ -22,24 +22,24 @@ excerpt: Craft a comprehensive and intricate ritual for a Master Mason's initiat
 
 ## The Ritual of the Master Mason's Initiation - The Path of the Winding Staircase
 
-Purpose: To initiate a Fellowcraft Mason into the Master Mason degree, immerse them in sacred geometry and ancient symbols, and provide transformative experiences that adhere to the esoteric principles of the degree.
+**Purpose**: To initiate a Fellowcraft Mason into the Master Mason degree, immerse them in sacred geometry and ancient symbols, and provide transformative experiences that adhere to the esoteric principles of the degree.
 
-Preparation:
+**Preparation**:
 1. Ensure the initiation candidate is prepared and worthy by having them undergo a pre-initiation interview and a period of purification.
 2. Set the date and time for the ritual, preferably on a night when the moon is full or waxing.
 3. Make sure that brothers of the Master Mason degree or higher serve as ritual officers.
 
 Ritualistic Elements:
 
-Setting: A ritual chamber with a stone floor, adorned with symbols of the Craft such as the square and compasses, plumb, and level.
+**Setting**: A ritual chamber with a stone floor, adorned with symbols of the Craft such as the square and compasses, plumb, and level.
 
-Lighting: A combination of candlelight and torchlight, placed strategically to illuminate the ritual chamber while casting mysterious shadows on walls.
+**Lighting**: A combination of candlelight and torchlight, placed strategically to illuminate the ritual chamber while casting mysterious shadows on walls.
 
-Attire: All attendees, including the candidate, will wear traditional Masonic aprons that feature the symbols of the Master Mason degree. Officers will also wear collars reflective of their positions.
+**Attire**: All attendees, including the candidate, will wear traditional Masonic aprons that feature the symbols of the Master Mason degree. Officers will also wear collars reflective of their positions.
 
 Ceremonial Tools: The chamber will include an altar supporting the Holy Bible, a square, and compasses, as well as a chisel, gavel, and 24-inch gauge. Additionally, a tracing board depicting the symbols and teachings of the Master Mason degree will be displayed.
 
-Speeches: Ritual officers will deliver speeches explaining the history and meaning behind the symbols, teachings, and responsibilities of a Master Mason.
+**Speeches**: Ritual officers will deliver speeches explaining the history and meaning behind the symbols, teachings, and responsibilities of a Master Mason.
 
 Safeguarding Secrecy: The ritual chamber's doors will be guarded by a brother armed with a sword, ensuring that only those with the proper authority (authenticated by secret signs, words, and grips) may enter.
 

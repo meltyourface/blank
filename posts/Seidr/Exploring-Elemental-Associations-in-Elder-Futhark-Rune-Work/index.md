@@ -30,7 +30,7 @@ Elemental Associations:
 6. Ice: Associated with stillness, reflection, and preservation. Runes like Hagalaz (disruption and change) and Isa (ice and stillness) symbolize the ice element.
 7. Lightning: Associated with sudden change, power, and innovation. Runes such as Thurisaz (thunder and force) and Eihwaz (the gateway between worlds) encompass the essence of lightning.
 
-Interconnections:
+**Interconnections**:
 Understanding the interconnections between these elements and the specific runes within the Elder Futhark enables us to create more potent rune-casting and divination rituals. By working with complimentary elements and associated runes, we can enhance the efficacy of our Seidr practices and develop innovative techniques for manifesting our intentions.
 
 Elemental Invocations:

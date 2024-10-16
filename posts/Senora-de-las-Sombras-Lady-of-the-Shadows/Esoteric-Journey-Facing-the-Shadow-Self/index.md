@@ -23,7 +23,7 @@ excerpt: >
 
 ## Title: The Whispering Veil
 
-Introduction:
+**Introduction**:
 
 The allegorical narrative that we will explore weaves the complex themes of esoteric symbolism, spiritual evolution, and the enigmatic attributes of Senora de las Sombras into a tapestry of self-discovery. In this story, the protagonist, Alba, undergoes a transformative journey to unravel the veil of the Lady of the Shadows and confront her own inner darkness. The narrative embodies both the external and internal planes of existence, serving as a multi-layered metaphor for the initiate's quest towards unveiling hidden knowledge and achieving inner harmony.
 
@@ -55,11 +55,11 @@ The Revelation:
 
 Facing Senora de las Sombras, Alba receives the enigmatic deity's wisdom. **The shrouded goddess unveils the key to understanding her enigma**: that by exploring the depths of their own shadow self, one can unveil the hidden knowledge and reconcile the darkness within with the light of consciousness. Alba learns that the illumination of her own shadow empowers her to integrate her spiritual growth and evolve beyond her perceived limitations.
 
-Conclusion:
+**Conclusion**:
 
 Alba's transformative journey is a potent allegorical narrative embodying esoteric symbolism, spiritual evolution, and the enigmatic attributes of Senora de las Sombras. By facing her own shadow self and gaining wisdom, Alba transcends her limitations and achieves a sense of inner harmony, setting an example for those who seek similar enlightenment.
 
-Themes: 
+**Themes**: 
 
 1. **Esoteric symbolism**: Alba's journey is laden with symbols that hold deep esoteric meanings, helping her understand her spiritual evolution.
 

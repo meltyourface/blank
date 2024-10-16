@@ -29,7 +29,7 @@ excerpt: >
 Answer:
 - Erotic desires and the transgression of societal norms through magical practices
 
-Explanation:
+**Explanation**:
 
 Aleister Crowley, born Edward Alexander Crowley, was an influential English occultist, mystic, poet, and ceremonial magician who was known for his provocative and controversial works. One of his most famous poetry collections, "White Stains," delves predominantly into the exploration of erotic desires and the transgression of societal norms through magical practices.
 

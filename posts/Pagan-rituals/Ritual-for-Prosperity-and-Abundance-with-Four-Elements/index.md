@@ -23,7 +23,7 @@ excerpt: >
 
 ## Title: Ritual of the Four Elements for Prosperity and Abundance
 
-Objective: To summon a potent charm for amplifying prosperity and abundance by incorporating the powerful energies of Earth, Water, Fire, and Air.
+**Objective**: To summon a potent charm for amplifying prosperity and abundance by incorporating the powerful energies of Earth, Water, Fire, and Air.
 
 Materials and tools required:
 
@@ -59,7 +59,7 @@ Materials and tools required:
 
 8. A piece of parchment paper and a pen
 
-Procedure:
+**Procedure**:
 
 1. Prepare the ritual space by cleansing the area using sage or another preferred method.
 

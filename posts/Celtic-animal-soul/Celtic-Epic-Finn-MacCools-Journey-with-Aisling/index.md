@@ -29,11 +29,11 @@ Scene 1: A dimly lit stage with a backdrop mural of Ireland's natural landscapes
 
 (Finn MacCool enters, dressed in traditional Celtic warrior garb. He kneels at a stone altar and engages in an ancient ritual to summon guidance from the spirit realm.)
 
-Finn: O great spirits, I seek thee in my time of need. The weight of my people and my country lies heavy upon my shoulders. Fill me with the strength and wisdom required of a noble warrior.
+**Finn**: O great spirits, I seek thee in my time of need. The weight of my people and my country lies heavy upon my shoulders. Fill me with the strength and wisdom required of a noble warrior.
 
 (A creature materializes on stage with its supernatural essence. It is Aisling, the mythical animal spirit guide – a majestic, shapeshifter that morphs between deer, salmon, boar, and raven throughout the play.)
 
-Aisling: Finn MacCool, I am Aisling, your spirit guide. Awoken by your calling, I shall accompany you on this journey.
+**Aisling**: Finn MacCool, I am Aisling, your spirit guide. Awoken by your calling, I shall accompany you on this journey.
 
 Act 2: The Lessons
 
@@ -43,9 +43,9 @@ Scene 1: The duo traverses the Irish landscape, acting as a montage of time. A d
 
 Scene 2: Finn and Aisling engage in overlapping dialogues on Celtic mythology, delving into tales of heroism and mysticism as they shed light on the complexity of Finn's destiny.
 
-Finn: As I journey, the shadows of the past accompany me. A legacy beyond mortal comprehension.
+**Finn**: As I journey, the shadows of the past accompany me. A legacy beyond mortal comprehension.
 
-Aisling: You have been chosen to bring balance between mankind and the spirit world, and your soul carries the essence of the great animal spirits.
+**Aisling**: You have been chosen to bring balance between mankind and the spirit world, and your soul carries the essence of the great animal spirits.
 
 Act 3: The Trials
 
@@ -57,7 +57,7 @@ Act 4: The Unison
 
 Scene 1: Reeling from his struggles, Finn returns to the stone altar, seeking solace. Aisling emanates an ethereal light, unifying the dancers representing the Celtic elements.
 
-Aisling: You have prevailed, Finn. Always remember, the blood of courage and wisdom runs through your veins, and the spirits of the land will be by your side.
+**Aisling**: You have prevailed, Finn. Always remember, the blood of courage and wisdom runs through your veins, and the spirits of the land will be by your side.
 
 Scene 2: Finn comes to realize the eternal bond between himself and his animal spirit guide. Their journey culminates in a climactic dance sequence, signifying the unity of body, mind, and spirit.
 

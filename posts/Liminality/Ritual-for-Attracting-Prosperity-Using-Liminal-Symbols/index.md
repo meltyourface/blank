@@ -27,7 +27,7 @@ Esoteric Symbols:
 2. **The Rune of Feoh**: An ancient symbol resembling the letter "F," it represents property and wealth.
 3. **The Clefs of Liminality**: Two intertwined treble clefs symbolizing the harmony of energies drawn from liminal realms.
 
-Incantations:
+**Incantations**:
 Recite the following incantation thrice while focusing on the symbols:
 "Through realms unseen and powers divine,
 By Liminality, wealth be mine.

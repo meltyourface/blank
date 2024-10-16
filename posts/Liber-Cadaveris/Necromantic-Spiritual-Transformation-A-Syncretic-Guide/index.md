@@ -23,7 +23,7 @@ excerpt: >
 
 ## Title: The Syncretic Path of Liber Cadaveris: A Comprehensive Guide to Spiritual Transformation through Necromancy
 
-Introduction:
+**Introduction**:
 The Syncretic Path of Liber Cadaveris aims to provide a comprehensive plan for spiritual transformation by integrating necromantic rituals, esoteric lore, and occult methodologies from diverse traditions, including the Egyptian Book of the Dead, the Tibetan Bardo Thodol, and Aztec practices. The plan includes detailed instructions for every step involved in summoning and communing with spirits, creating protective talismans and sigils, and daily meditations to attune oneself to the frequencies of the spectral realm.
 
 ### Part 1: Preliminary Practices

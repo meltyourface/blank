@@ -22,7 +22,7 @@ excerpt: Craft a ceremonial rite of consecration for a custom sorcerer's staff b
 
 ## The Rite of the Emerald Staff
 
-Preparation:
+**Preparation**:
 
 1. Choose an appropriate day and time to perform the ceremonial rite. The most auspicious timing would be during the Full Moon or when the Sun is in the astrological sign of Taurus, the Emerald Tablet's attributed zodiacal sign.
 

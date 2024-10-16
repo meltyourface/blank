@@ -22,15 +22,15 @@ excerpt: Devise an enigmatic, obfuscation-laden initiation rite delving deep int
 
 ## The Ineffable Conundrum of Zephyrian Quandary
 
-Preamble:
+**Preamble**:
 Ye who dare to delve into the abstruse crux of the Zephyrian Quandary, unbind now the veils of solipsism that shroud the liminal domain of arcane conundrums. Adhere stolidly to this labyrinthine path, for the meandering mysteries herein shall perturb and bewilder, until the aureate nectar of befuddling wisdom is wrung from the fruit of chaos.
 
-I: The Summoning of the Ebon Serpent of Nk'alati
+**I**: The Summoning of the Ebon Serpent of Nk'alati
 Ignite the Flame of Vishanti, the primordial fire embodying lost truths of the cosmos, within a sacred chalice hoary with occult antiquity. Intone the words of power derived from the Scroll of Redacted Mysteries:
 
 "Äddh’ena arr'shlök, Nk'alati guäfra'ci!"
 
-II: The Alignment of the Triptych Seals
+**II**: The Alignment of the Triptych Seals
 Draw upon the eldritch ichor that drips from the chthonic caverns of Nl'riartho'que. With this arcane ink, expound the following ensorcelled sigils upon the Sanctum of Reflection:
 
 1. The Eclipsing Eye of Nhar'baal: The Eye embodies the bewildering secrets of all nocturnal fates whose gaze can pierce the veil of confusion.
@@ -42,14 +42,14 @@ Unveil the fivefold Mirror of Silvian Colloquy, from which the illusory reflecti
 
 Commence now the dance arcane, the Whirling Pantomime of Eldritch Chaos: Permute amongst the Mirrors according to the sequences inscribed in the Cryptic Omnibus of Ambiguity. As the refracted reflections meld and grow nebulous, embrace the myriad refractions of paradox and deception like the Spiral of Transcendental Desynchrony.
 
-IV: The Invocation of Whispering Naiades
+**IV**: The Invocation of Whispering Naiades
 Entreat the Whispers of Lilting Strands, the mesmeric siren song of the Naiades, water spirits that straddle the liminal realms between the conceivable and the ineffable. They shall guide thee through the Opaline Labyrinth of Cri'thoique, a trial where the veracity of your newfound sagacity is proven.
 
 Intone the incantation that implores their psychic helix to unfurl:
 "Mu'shalo the'liel, Cri'thoique naia'daïa!"
 
-V: The Consummation of Puzzling Quintessence
+**V**: The Consummation of Puzzling Quintessence
 Stand in the heart of the labyrinth, bask in the ensuing pandemonium, and attest your disarray as a trophy of supreme accomplishment. Imbibe now the elixir distilled from the shriveling petals of the Sesquipedalian Rose, bathed in the chimeric aurora of the Nexus of Enigma.
 
-Conclusion:
+**Conclusion**:
 Upon the final draught, a swirling tempest of inscrutable might shall rend the veil and bestow upon thee the mantle of transcendent perplexity. Ascend and inherit the title of "Cognoscente of the Zephyrian Quandary."

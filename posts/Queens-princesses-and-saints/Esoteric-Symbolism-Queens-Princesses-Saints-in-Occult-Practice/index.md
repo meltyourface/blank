@@ -30,19 +30,19 @@ Historical Context
 
 Throughout history, women have held powerful positions within both temporal and spiritual realms. They have been worshipped as goddesses, revered as queens and princesses, and sanctified as saints. The awe-inspiring presence and sacredness of these figures transcend the physical realm, taking on spiritual and symbolic importance.
 
-Queens: The Sovereignty of Power & Wisdom
+**Queens**: The Sovereignty of Power & Wisdom
 
 Queens have long symbolized the absolute power of feminine sovereignty, embodying the qualities of wisdom, authority, and grace. They are seen as both rulers of the earthly and spiritual domains. As such, the archetypal queen often permeates esoteric practices as a guide for channeling the divine feminine in rituals or as a symbol of the practitioner's own spiritual attainment.
 
 In many magical systems, queens are also closely linked to the natural world, embodying the qualities of Mother Earth, or Gaia. Therefore, rituals and spells that seek to invoke divine feminine energy, protection, or blessings often rely on the symbolism of queens to manifest these intentions.
 
-Princesses: The Potency of Innocence & Transformation
+**Princesses**: The Potency of Innocence & Transformation
 
 Princesses represent the potential for growth and transformation, which is critical for personal spiritual development. As heirs to the throne, they symbolize the transformation of innocence into wisdom, constantly evolving and growing.
 
 In esotericism, princesses are often associated with mystical experiences and initiation rites. They serve as symbolic guides to accessing the divine within the self, revealing the limitless potential that lies dormant within each individual. Many rituals and spells focus on the transformative power of the princess archetype, using her image to evoke not only personal growth but also the renewal and rebirth of the spirit.
 
-Saints: The Embodiment of Purity & Sanctity
+**Saints**: The Embodiment of Purity & Sanctity
 
 Throughout history, various religious traditions have sanctified women who performed miraculous acts or led lives of exceptional virtue. Saints represent the epitome of spiritual purity and devotion, embodying qualities such as sacrifice, humility, and faith. In occult practices, saints often serve as intermediaries between mortals and the divine.
 

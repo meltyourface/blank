@@ -51,6 +51,6 @@ Decriminalization has contributed to the financial stability and social inclusio
 
 The most effective framework for promoting safety and public health for prostitutes differs across jurisdictions due to varying social and cultural contexts. However, a common trend suggests that full decriminalization, where both the buying and selling of sexual services are legal, has resulted in better health, safety, and social outcomes for prostitutes.
 
-Conclusion:
+**Conclusion**:
 
 The decriminalization of sex work has had clear positive effects on the safety and well-being of prostitutes. It contributes to lower rates of physical and mental health issues, violence and abuse, and sexually transmitted infections. Furthermore, the decriminalization framework has improved relationships with law enforcement and increased financial stability and social inclusion for prostitutes. Countries and jurisdictions must adapt their local context for decriminalization to obtain the best outcomes for sex workers and society at large.

@@ -33,7 +33,7 @@ excerpt: >
 
 ## The Korybantic Nexus: Communion and Collaboration with Celestial, Infernal, and Ethereal Beings
 
-Preface:
+**Preface**:
 
 The Korybantic Nexus is a comprehensive manual, exploring the intricate steps involved in invoking celestial beings, infernal creatures, and ethereal spirits. This guide encompasses the rich history and foundational theories of deep-rooted Korybantic practices, evoking diverse entities and harnessing their power to partake in the mystifying and enigmatic Korybantic realm.
 
@@ -79,7 +79,7 @@ The Korybantic Nexus is a comprehensive manual, exploring the intricate steps in
 ### 6.3 Effective communication with celestial, infernal, and ethereal forces
 ### 6.4 Nurturing and maintaining the acquired Korybantic connection
 
-Conclusion: Embarking on Your Korybantic Journey
+**Conclusion**: Embarking on Your Korybantic Journey
 
 Appendix A: Glossary of Terms and Entities
 Appendix B: Recommended Further Reading and Resources

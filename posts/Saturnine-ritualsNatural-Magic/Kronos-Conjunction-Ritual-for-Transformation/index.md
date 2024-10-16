@@ -23,9 +23,9 @@ excerpt: >
 
 ## Title: The Kronos Conclave: A Saturnine Ritual for the Saturn-Pluto Conjunction
 
-Objective: To pay homage to the planetary deity Kronos and harness the energies released at a significant astrological event, such as the Saturn-Pluto Conjunction.
+**Objective**: To pay homage to the planetary deity Kronos and harness the energies released at a significant astrological event, such as the Saturn-Pluto Conjunction.
 
-Preparation:
+**Preparation**:
 
 1. Determine the precise date and time of the Saturn-Pluto Conjunction using an astrological calendar or consulting an astrologer.
 

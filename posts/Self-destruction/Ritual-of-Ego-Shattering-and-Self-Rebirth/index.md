@@ -22,11 +22,11 @@ excerpt: Design a ritualistic self-sabotage exercise that systematically dismant
 
 ## The Rite of Shattered Mirrors
 
-Objective: To allow an individual to undergo a process of self-directed deconstruction and reconstruction for the purposes of shedding a fragmented ego and emerging with a renewed sense of self. 
+**Objective**: To allow an individual to undergo a process of self-directed deconstruction and reconstruction for the purposes of shedding a fragmented ego and emerging with a renewed sense of self. 
 
-Duration: Three days and nights.
+**Duration**: Three days and nights.
 
-Warning: This ritual is designed for individuals who have a deep understanding of the esoteric arts and have prepared themselves for intense transformative experiences. Proceed with caution and at your own risk. 
+**Warning**: This ritual is designed for individuals who have a deep understanding of the esoteric arts and have prepared themselves for intense transformative experiences. Proceed with caution and at your own risk. 
 
 Required elements:
 
@@ -70,4 +70,4 @@ Day 3: Reconstruction
 
 5. Conclude the ritual by reigniting the candles and exiting the chamber, stepping back into the world with a rejuvenated spirit and transformed identity.
 
-Note: The Rite of Shattered Mirrors is an intense self-destruction and rebirth experience. It is crucial to provide oneself with ample time for rest and integration following the completion of the ritual.
+**Note**: The Rite of Shattered Mirrors is an intense self-destruction and rebirth experience. It is crucial to provide oneself with ample time for rest and integration following the completion of the ritual.

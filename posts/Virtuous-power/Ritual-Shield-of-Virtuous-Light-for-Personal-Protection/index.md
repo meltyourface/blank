@@ -22,7 +22,7 @@ excerpt: >
 ---
 Ritual Name: The Shield of Virtuous Light
 
-Objective: To fortify one's personal boundaries against external negativity and strengthen their inner resilience.
+**Objective**: To fortify one's personal boundaries against external negativity and strengthen their inner resilience.
 
 Ingredients and Tools:
 1. A circle of salt or white chalk (for creating a sacred space)
@@ -37,11 +37,11 @@ Sacred Symbols:
 2. The ouroboros (symbolizing cycles, renewal, and resilience)
 3. The lotus flower (representing spiritual growth and creativity)
 
-Chants:
+**Chants**:
 1. Om Mani Padme Hum (the mantra for compassion and attuning oneself to positive energy)
 2. A personal mantra or affirmation (to amplify the potency of the ritual)
 
-Instructions:
+**Instructions**:
 1. Choose a quiet, peaceful location where you won't be disturbed. Ensure the space is clean and uncluttered.
 2. Begin by creating a circle with salt or white chalk large enough for you to sit comfortably within. This circle will serve as your sacred space and protective barrier.
 3. Place the white candle at the center of the circle, and light it as a symbol of purity and positive energy. Place the incense nearby and light it to begin purifying the space.

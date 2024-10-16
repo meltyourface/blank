@@ -22,7 +22,7 @@ excerpt: Create a short but informationally dense grimoire section that provides
 
 ## Angel Names in the Occult: Invocations and Communications
 
-Introduction:
+**Introduction**:
 
 Angelic names hold an important and central position in esoteric and occult practices. Trusted as sources of guidance, protection, and inspiration, angels are believed to possess vast knowledge, divinity, and power. This grimoire section focuses on the significance of angel names in the occult, provides examples of commonly invoked angels, and elucidates the methods that practitioners employ to invoke and communicate with these celestial beings. 
 

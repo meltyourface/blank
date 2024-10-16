@@ -21,7 +21,7 @@ excerpt: Design and create an intricate ceremonial robe that closely adheres to 
 ---
 In order to design and create an intricate ceremonial robe that closely adheres to Frank Bennett's esoteric principles and occult knowledge regarding ritual attire, we will take into account the importance he placed on symbolism, color correspondences, and incorporating various designs throughout the garment. The final robe will not only honor Bennett's philosophy but also serve as an aesthetically captivating interpretation of his teachings on ritual attire.
 
-Materials:
+**Materials**:
 
 1. Pure silk fabric in deep indigo as the base for the robe, representing spiritual power and psychic abilities.
 2. Gold and silver embroidery thread to create various astrological glyphs, runic designs, and other esoteric symbols.

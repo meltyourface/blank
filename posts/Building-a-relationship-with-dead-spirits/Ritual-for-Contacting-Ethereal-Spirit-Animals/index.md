@@ -23,11 +23,11 @@ excerpt: >
 
 ## The Ritual of the Ethereal Spirit Animal
 
-Introduction:
+**Introduction**:
 
 The Ritual of the Ethereal Spirit Animal is an ancient practice of necromancy, used for the purpose of establishing contact and forging a connection with a deceased spirit animal. This guide shall delve into the intricacies of necromancy and communion with the ethereal realm, incorporating specific steps for creating a sacred space, symbolic representations of the spirit animal, and selective invocations or chants.
 
-Preparation:
+**Preparation**:
 
 1. ****Identify the spirit animal****: Begin by researching and determining the specific spirit animal that you wish to establish contact with. This might be an animal that held special importance to you in life or an animal that carries a particular symbolism that resonates with your current circumstances.
 

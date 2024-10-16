@@ -21,7 +21,7 @@ excerpt: Utilizing your mastery in the Arte, perform an in-depth analysis and pr
 ---
 As a master of the esoteric, I will perform an in-depth analysis and prediction of upcoming global or personal events by employing a combination of advanced divination techniques. Below is the documentation of the process and findings from the different methods used, as well as a comprehensive interpretation of the outcome. Keep in mind that divination results are subject to interpretation and cosmic influences.
 
-Geomancy:
+**Geomancy**:
 Geomancy involves divining the future through the interpretation of figures formed by randomly generated dots. Twelve geomantic figures are produced, which are then combined to create a geomantic chart. Through this method, the following figures manifested:
 
 1. Acquisitio

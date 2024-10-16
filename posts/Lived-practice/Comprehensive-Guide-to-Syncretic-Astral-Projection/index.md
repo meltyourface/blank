@@ -22,7 +22,7 @@ excerpt: Develop a comprehensive methodology for astral projection that integrat
 
 ## The Syncretic Method of Astral Projection
 
-Overview: The Syncretic Method of Astral Projection combines elements of Western and Eastern astral projection practices while incorporating energy work, guided visualizations, and breath control. This comprehensive methodology addresses every stage of the process from preparation to integration.
+**Overview**: The Syncretic Method of Astral Projection combines elements of Western and Eastern astral projection practices while incorporating energy work, guided visualizations, and breath control. This comprehensive methodology addresses every stage of the process from preparation to integration.
 
 ### I. Preparation A. Physical Environment
     1. Choose a quiet, comfortable space meant for relaxation and meditation.

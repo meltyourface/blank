@@ -24,13 +24,13 @@ excerpt: >
 
 ## Title: Stay Safe, Stay Sensual: The Ultimate STD Prevention Guide
 
-Subtitle: Empower Yourself with Knowledge and Protect Your Sexual Health
+**Subtitle**: Empower Yourself with Knowledge and Protect Your Sexual Health
 
 Color Scheme: Bright and pleasant shades of teal, purple, and yellow to create a visually appealing and engaging brochure.
 
 Cover Page Image: Dark silhouettes of couples in different poses, with bright graphical icons of condoms, dental dams, and a plus sign to represent regular STD testing.
 
-Introduction:
+**Introduction**:
 
 Dear reader, thank you for embarking on a journey to protect and maintain your sexual health. This brochure aims to empower individuals aged 18 to 25 like you with the necessary knowledge to live a healthy, responsible, and fulfilling sexual life. Read on to learn about the diseases that can threaten your well-being, how to prevent them, and where you can find support.
 
@@ -64,7 +64,7 @@ Dear reader, thank you for embarking on a journey to protect and maintain your s
 
 • Quotes from healthcare professionals highlighting the importance of sexual health awareness and reinventing our approach towards STDs.
 
-Conclusion: The More You Know, The Safer You'll Be!
+**Conclusion**: The More You Know, The Safer You'll Be!
 
 Main takeaway: The key to a healthy sexual life lies in the power of awareness, communication, and precaution. Embrace your sensuality while prioritizing your well-being.
 

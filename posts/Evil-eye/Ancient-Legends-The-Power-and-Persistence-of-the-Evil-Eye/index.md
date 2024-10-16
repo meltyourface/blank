@@ -26,25 +26,25 @@ INT. LIBRARY STUDY – NIGHT
 
 Investigative Journalist Ava Hamilton (AH) sits in an austere Victorian study, where she meets renowned historian, Professor Malcolm Renfield (MR). The walls are lined with dusty books documenting the world's secret knowledge. Ava nervously fingers her recorder, curious about learning the truth behind the ancient belief in the Evil eye. Malcolm's eyes sparkle with excitement as they delve into the untold history of this mysterious phenomenon.
 
-AH: Professor Renfield, thank you for agreeing to this interview. The Evil eye is a widely recognized yet mysterious symbol in many cultures, dating back to ancient times. Could you give me an overview of its origins?
+**AH**: Professor Renfield, thank you for agreeing to this interview. The Evil eye is a widely recognized yet mysterious symbol in many cultures, dating back to ancient times. Could you give me an overview of its origins?
 
-MR: Of course, Ms. Hamilton. The concept of the Evil eye dates back to at least the Sumerians, around 3000 BCE. It's believed that the symbol represents negative energy or ill-intent that's transmitted through a malevolent gaze. Every known civilization has a term and symbol for it—such as malocchio in Italy, nazar in Turkey, and ayin hara in Judaism. One of the earliest accounts can be traced to the Epic of Gilgamesh, wherein the titular character wards off the gaze of the goddess Ishtar after rejecting her advances.
+**MR**: Of course, Ms. Hamilton. The concept of the Evil eye dates back to at least the Sumerians, around 3000 BCE. It's believed that the symbol represents negative energy or ill-intent that's transmitted through a malevolent gaze. Every known civilization has a term and symbol for it—such as malocchio in Italy, nazar in Turkey, and ayin hara in Judaism. One of the earliest accounts can be traced to the Epic of Gilgamesh, wherein the titular character wards off the gaze of the goddess Ishtar after rejecting her advances.
 
-AH: Fascinating... Why do you think this idea has persisted throughout history and across diverse cultures?
+**AH**: Fascinating... Why do you think this idea has persisted throughout history and across diverse cultures?
 
-MR: Well, humans have always been captivated by the concept of the unseen. The Evil eye represents an unseen force—whether it's envy, animosity, or even just suspicion. It also serves as an explanation for otherwise inexplicable misfortunes. Many ancient cultures believed that a malevolent gaze could cause illness, injury, or even death, and to this day, some people still attribute misfortune to the Evil eye.
+**MR**: Well, humans have always been captivated by the concept of the unseen. The Evil eye represents an unseen force—whether it's envy, animosity, or even just suspicion. It also serves as an explanation for otherwise inexplicable misfortunes. Many ancient cultures believed that a malevolent gaze could cause illness, injury, or even death, and to this day, some people still attribute misfortune to the Evil eye.
 
-AH: It's incredible how pervasive this belief remains. Are there any documented cases in history where the Evil eye has played a significant role?
+**AH**: It's incredible how pervasive this belief remains. Are there any documented cases in history where the Evil eye has played a significant role?
 
-MR: Absolutely, Ms. Hamilton. Let me give you a few examples. The Pseudomonarchia Daemonum, written in 1583 by Johann Weyer, a Dutch physician and occultist, contains a list of 69 demons. It asserts that some of these entities could cast the Evil eye upon unsuspecting individuals. Moving on to more recent times, during the Salem Witch Trials in the late 1600s, many of the accused were suspected of possessing the power to inflict pain and suffering through their gaze.
+**MR**: Absolutely, Ms. Hamilton. Let me give you a few examples. The Pseudomonarchia Daemonum, written in 1583 by Johann Weyer, a Dutch physician and occultist, contains a list of 69 demons. It asserts that some of these entities could cast the Evil eye upon unsuspecting individuals. Moving on to more recent times, during the Salem Witch Trials in the late 1600s, many of the accused were suspected of possessing the power to inflict pain and suffering through their gaze.
 
-AH: That's deeply unsettling. Some critics argue that the fear of the Evil eye has led to biased judgment and social discrimination over the centuries. What are your thoughts on that?
+**AH**: That's deeply unsettling. Some critics argue that the fear of the Evil eye has led to biased judgment and social discrimination over the centuries. What are your thoughts on that?
 
-MR: It's hard to deny that the idea of the Evil eye has been somewhat weaponized throughout history. When people believe in a force that can bring harm to others by merely looking at them, it's only natural that they become distrustful or afraid. This has led to social discrimination, seclusion, and even persecution in extreme cases. 
+**MR**: It's hard to deny that the idea of the Evil eye has been somewhat weaponized throughout history. When people believe in a force that can bring harm to others by merely looking at them, it's only natural that they become distrustful or afraid. This has led to social discrimination, seclusion, and even persecution in extreme cases. 
 
-AH: As we conclude, what do you think the enduring appeal of the Evil eye tells us about ourselves and our understanding of the unknown?
+**AH**: As we conclude, what do you think the enduring appeal of the Evil eye tells us about ourselves and our understanding of the unknown?
 
-MR: The persistence of the Evil eye in our collective consciousness shows that human beings have an inherent longing to validate the existence of forces beyond our control. It's a reminder that we're all vulnerable and that fate is often unpredictable. This symbol will continue to spark our curiosity and challenge our rational minds, driving us to question the bounds of our power and the true extent of the Evil eye's influence over our lives.
+**MR**: The persistence of the Evil eye in our collective consciousness shows that human beings have an inherent longing to validate the existence of forces beyond our control. It's a reminder that we're all vulnerable and that fate is often unpredictable. This symbol will continue to spark our curiosity and challenge our rational minds, driving us to question the bounds of our power and the true extent of the Evil eye's influence over our lives.
 
 FADE OUT.
 

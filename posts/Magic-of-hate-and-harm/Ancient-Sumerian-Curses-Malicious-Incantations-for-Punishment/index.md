@@ -27,7 +27,7 @@ Translation and Empowerment of Malignant Cursing Incantations:
 Original Sumerian Text:
 "Utuk-la ilu-ta urru-namtilla, veh-zha namshub-bho ushkak-zha."
 
-Translation:
+**Translation**:
 "From the demon's grasp, I summon unending torment, echoing its malicious words."
 
 This incantation invokes a demon that inflicts unbearable mental and physical pain upon its target. Historically, this curse was used in ancient Sumer to punish enemies of the state and individuals deemed evil by the community.
@@ -47,7 +47,7 @@ The most infamous use of this curse was against the Sumerian official Kishar, wh
 Original Sumerian Text:
 "Gallu-zha irši, lugal-šu muur, eškiriš. Etemmu-zha dallu, bala-kutalla!"
 
-Translation:
+**Translation**:
 "By the dark night, I summon the shadows. Rise, ancient spirits, and crush my enemies!"
 
 This incantation calls upon nefarious supernatural entities from the underworld to bring about chaos, confusion, and destruction to the caster's enemies. 
@@ -67,7 +67,7 @@ A notable use of this curse was during a conflict between the cities of Ur and L
 Original Sumerian Text:
 "Enki-ta, pašiu namtar! Zalag-eš kušum-zha!"
 
-Translation:
+**Translation**:
 "From Enki's wrath, I command the forces of doom! Unleash devastation upon my foes!"
 
 This incantation unleashes chaotic and destructive energies akin to a cataclysmic natural disaster, targeting the caster's enemies with overwhelming force.

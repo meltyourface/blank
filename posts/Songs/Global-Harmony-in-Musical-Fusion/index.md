@@ -23,11 +23,11 @@ excerpt: >
 
 ## Title: Voices of the World
 
-Dialects: Mandarin Chinese, Yoruba (Nigeria), and Scottish Gaelic
+**Dialects**: Mandarin Chinese, Yoruba (Nigeria), and Scottish Gaelic
 
 Time Signatures: 4/4, 6/8, and 9/8
 
-Tempo: Allegro moderato (110 BPM), Andante (60 BPM), and Vivace (140 BPM)
+**Tempo**: Allegro moderato (110 BPM), Andante (60 BPM), and Vivace (140 BPM)
 
 ### I. Introduction
 The piece begins with a soft, haunting drone in the background, using strings to create a sense of anticipation. After a few seconds, traditional instruments relevant to each dialect are introduced one by one. 

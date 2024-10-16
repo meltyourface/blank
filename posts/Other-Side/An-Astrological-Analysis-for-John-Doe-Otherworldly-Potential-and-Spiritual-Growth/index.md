@@ -22,7 +22,7 @@ excerpt: Decipher the intricate connections within a specific birth chart by del
 ---
 To complete the task, I begin by analyzing the individual's birth chart and delving into their astrological influences with the help of my mastery of the Other Side. The reported birth information is as follows:
 
-Individual: John Doe
+**Individual**: John Doe
 Date of Birth: March 3, 1990
 Time of Birth: 12:15 PM local time
 Place of Birth: London, United Kingdom

@@ -22,73 +22,73 @@ excerpt: Design a comprehensive, experiential workshop or retreat program center
 
 ## Unveiling the Mysteries of the Dagda: A Journey into the Ancient Occult and Mystical Practices
 
-Duration: 5 Days
+**Duration**: 5 Days
 
 Day 1: Arrival and Welcoming Ceremony
 
-Morning:
+**Morning**:
 - Arrival of participants and registration
 - Welcoming refreshments and orientation
 
-Afternoon:
+**Afternoon**:
 - Opening circle: Individual & group intention setting
 - Introduction to the Dagda: Mythology, Significance, and Historical Context
 - Storytelling session: Tales of the Dagda and the Tuatha Dé Danann
 
-Evening:
+**Evening**:
 - Group dinner and mingling
 
 Day 2: Embracing the Dagda's Mystical Connections
 
-Morning:
+**Morning**:
 - Meditation session: Connecting to the Source and the Dagda's Energy
 - Seminar: The Dagda's Sacred Symbols and Talismans
 
-Afternoon:
+**Afternoon**:
 - Workshop: Crafting Your Own Dagda Talisman
 - Ritual: Activation and Consecration of the Talisman
 
-Evening:
+**Evening**:
 - Fireside storytelling: The Dagda's Triumphs and Struggles
 
 Day 3: Exploring the Dagda's Ancient Wisdom and Practices
 
-Morning:
+**Morning**:
 - Seminar: The Dagda's Magic - Healer, Protector, and Provider
 - Interactive activity: The Cauldron of Plenty - Manifestation and Abundance
 
-Afternoon:
+**Afternoon**:
 - Guided tour: Sacred Sites and Ley Lines
 - Meditation: Connecting to the Earth Energies and Ley Lines 
 
-Evening:
+**Evening**:
 - Group dinner at a sacred site
 - Ritual: Honoring the Ancestors and Aligning with the Dagda's Powers
 
 Day 4: Delving Deeper into the Occult Arts
 
-Morning:
+**Morning**:
 - Workshop: Divination Methods and Techniques
 - Hands-on activity: Ogham Readings and Omens
 
-Afternoon:
+**Afternoon**:
 - Seminar: The Dagda's Bardic & Poetic Traditions
 - Interactive workshop: Incantations & Chanting for Healing and Empowerment
 
-Evening:
+**Evening**:
 - Community bonding and sharing of personal insights 
 
 Day 5: Integration and Closing Circle
 
-Morning:
+**Morning**:
 - Deep-dive discussion: Reflection on Key Learnings and Experiences
 - Workshop: Integrating Dagda's Wisdom into Daily Life
 
-Afternoon:
+**Afternoon**:
 - Creating a Personalized Dagda Affirmation
 - Group meditation: Accessing Inner Guidance and Embodying Dagda's Wisdom
 
-Evening:
+**Evening**:
 - Closing circle: Sharing Gratitude and Final Reflections
 - Farewell dinner and celebration
 

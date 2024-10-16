@@ -33,7 +33,7 @@ Phonetic Features:
 3. Sibilants and affricates are prevalent, akin to Polish and Czech.
 4. The stress is predominantly mobile and follows a trochaic pattern.
 
-Alphabet:
+**Alphabet**:
 Zemlyaraz employs a unique script incorporating elements of Cyrillic, Glagolitic, and Old Church Slavonic alphabets while adding unique characters for specific phonemes. 
 
 Morphological Features:

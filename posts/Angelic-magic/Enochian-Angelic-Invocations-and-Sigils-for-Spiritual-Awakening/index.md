@@ -23,7 +23,7 @@ excerpt: >
 
 ## Title: Liber Angelorum - The Book of Angels
 
-Introduction:
+**Introduction**:
 The Liber Angelorum, a transcendent grimoire of celestial wisdom, is designed to unveil the vast realm of angelic beings, their divine attributes, powers, and mystical connections. This sacred compendium offers a series of powerful invocations, prayers, and meticulously crafted sigils specifically dedicated to celestial entities within the various hierarchies. By utilizing the Enochian language– a potent angelic script, each supplication resonates with immense spiritual potential and esoteric depth, guiding the aspirant towards inner awakening and divine communion.
 
 ### I. **Seraphim**: The Burning Ones
@@ -134,5 +134,5 @@ Invocation: “Zorta Angelum Custodem, zera ahorna talas”
 Sigil: A personal sigil, unique to the individual aspirant
 Divine gift: Constant guidance, support, and protection throughout one's life
 
-Closing:
+**Closing**:
 The Libar Angelorum provides the aspirant with a powerful and comprehensive guide to connecting with celestial beings. As you engage with the divine hierarchy through sincere practice and devotion, your path will increasingly align with that of the angels, bringing forth profound spiritual growth, metaphysical insight, and a transcendent awareness of your true nature.

@@ -22,7 +22,7 @@ excerpt: Script a divination ritual that harnesses the spectral energies of the 
 
 ## The Shadowed Gaze - A Spectral Divination Ritual
 
-Objective: To harness the spectral energies of the ethereal plane and invoke ancient shadow spirits for divination purposes, using a consecrated obsidian scrying mirror.
+**Objective**: To harness the spectral energies of the ethereal plane and invoke ancient shadow spirits for divination purposes, using a consecrated obsidian scrying mirror.
 
 Ceremonial Attire:
 1. A long, hooded black robe
@@ -30,21 +30,21 @@ Ceremonial Attire:
 3. An obsidian amulet or pendant, worn about the neck
 4. Silver or pewter rings on each finger, bearing elemental or spiritual symbols representative of the shadow spirits being invoked
 
-Offerings:
+**Offerings**:
 1. Fine sandalwood incense
 2. A blend of oils, including wormwood, mugwort, and yarrow
 3. A chalice of pomegranate juice, sweetened with honey
 4. A platter of dates, figs, and almonds
 
-Incantations:
+**Incantations**:
 
-Prelude: (To be chanted before the initiation of the ritual)
+**Prelude**: (To be chanted before the initiation of the ritual)
 "Shadowed spirits, old and wise,
 From the spectral realm arise,
 Grant us sight beyond our view,
 Through the darkness, let truth ensue."
 
-Invocation: (To be spoken to summon the shadow spirits)
+**Invocation**: (To be spoken to summon the shadow spirits)
 "Spirits ancient, bound by shade,
 Come to us, your presence bade,
 By whisper, smoke, and mirrored sheen,
@@ -78,4 +78,4 @@ Step-by-Step Guide:
 
 13. Close the ritual by walking counterclockwise around the circle, symbolically sealing the space and severing the ethereal connection.
 
-Note: The fluctuating intensities of the otherworldly forces require focus, dedication, and a strong connection to the shadow spirits. Ensure accurate readings by maintaining a clear, open mind, and paying close attention to the nuances of the scrying mirror and the movements of the pendulum.
+**Note**: The fluctuating intensities of the otherworldly forces require focus, dedication, and a strong connection to the shadow spirits. Ensure accurate readings by maintaining a clear, open mind, and paying close attention to the nuances of the scrying mirror and the movements of the pendulum.
