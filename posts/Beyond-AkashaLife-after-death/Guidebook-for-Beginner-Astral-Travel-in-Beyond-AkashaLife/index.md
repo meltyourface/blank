@@ -26,13 +26,13 @@ Introduction
 Welcome to the world of Beyond AkashaLife, a realm of existence that transcends our physical plane, tethering our souls to an ethereal interconnectedness that transcends time and space. This guidebook is designed to help novices embark upon their inaugural astral voyages, fostering an understanding of post-mortem existence and the intricacies of soul-to-soul connections.
 
 Table of Contents:
-1. Concepts and Terminology
-2. Journey Preparation
+1. **Concepts and Terminology**
+2. **Journey Preparation**
 3. Navigating the Post-Mortem Realm
-4. Ethereal Interconnectivity and Soul Recognition
-5. The Soul Family and Karmic Ties
-6. Reintegration of the Astral Self
-7. Conclusion and Further Exploration
+4. **Ethereal Interconnectivity and Soul Recognition**
+5. **The Soul Family and Karmic Ties**
+6. **Reintegration of the Astral Self**
+7. **Conclusion and Further Exploration**
 
 ### Chapter 1: Concepts and Terminology
 Before you embark on your astral voyage, it is essential to understand key concepts and terminology within the realm of Beyond AkashaLife. This chapter will introduce novices to fundamental ideas and lexicon within the post-mortem existence and astral travel sphere.

@@ -22,7 +22,7 @@ excerpt: >
 ---
 To develop a comprehensive series of fortification and protection rituals designed to counteract psychic attacks and intrusive thoughts, we will first divide the task into three main components: rituals, empowering affirmations, and integration into everyday life.
 
-1. Rituals 
+1. **Rituals **
 
 A. Cleansing and Shielding Ritual
 Perform this ritual in the morning or before engaging in any activities that might expose you to psychic attacks or intrusive thoughts.
@@ -61,7 +61,7 @@ Develop thought-forms (imaginary psychic constructs) to serve as guardians again
 - Visualize an entity, such as a protective animal or a warrior, and imbue it with the purpose of defending you from psychic threats.
 - Regularly maintain and reinforce this thought-form through meditation and visualization.
 
-3. Integration into Everyday Life
+3. **Integration into Everyday Life**
 
 - Adopt a regular meditation practice to enhance mental resilience and reinforce spiritual defenses.
 - Practice mindful breathing to remain centered amidst potential psychic threats.

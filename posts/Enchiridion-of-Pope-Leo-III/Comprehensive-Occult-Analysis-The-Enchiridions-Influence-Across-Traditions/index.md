@@ -26,38 +26,38 @@ excerpt: >
 Table of Contents:
 
 Introduction
-1. Overview of the Enchiridion of Pope Leo III
-2. Historical Context of the Enchiridion and its Influence
-3. Purpose and Intention of the Enchiridion
+1. **Overview of the Enchiridion of Pope Leo III**
+2. **Historical Context of the Enchiridion and its Influence**
+3. **Purpose and Intention of the Enchiridion**
 
 ### Chapter I: Alchemy and the Enchiridion
-1. Principles of Alchemy
+1. **Principles of Alchemy**
 2. **The Alchemical Quest for Insight**: Philosophical Aspects
-3. Alchemical Symbols and Connections to the Enchiridion
+3. **Alchemical Symbols and Connections to the Enchiridion**
 4. **Case Study**: The Philosopher's Stone and its Relation to the Enchiridion
 
 ### Chapter II: Hermeticism and the Enchiridion
-1. Origins and Principles of Hermeticism
-2. The Hermetic Corpus and its Tenets
-3. Hermetic Rituals and Praxis in Relation to the Enchiridion
+1. **Origins and Principles of Hermeticism**
+2. **The Hermetic Corpus and its Tenets**
+3. **Hermetic Rituals and Praxis in Relation to the Enchiridion**
 4. **Case Study**: The Emerald Tablet and its Parallels with the Enchiridion
 
 ### Chapter III: The Kabbalah and the Enchiridion
 1. **Jewish Mysticism**: Origins and Development of Kabbalah
 2. The Sephirot, Tree of Life, and Kabbalistic Cosmology
-3. Kabbalah Practices and Themes in the Enchiridion
+3. **Kabbalah Practices and Themes in the Enchiridion**
 4. **Case Study**: Ein Sof, the Infinite, & The Enchiridion's God-concept
 
 ### Chapter IV: Comparative Occult Analysis
-1. Esoteric Principles Across Traditions
+1. **Esoteric Principles Across Traditions**
 2. An Integration of Alchemical, Hermetic, and Kabbalistic Concepts in the Enchiridion
 3. **Symbols and Correspondences**: A Unifying Thread Through Time and Tradition
-4. The Evolution of Occult Thought and the Continuing Relevance of the Enchiridion
+4. **The Evolution of Occult Thought and the Continuing Relevance of the Enchiridion**
 
 Conclusion
 1. **Synthesis of Findings**: The Enchiridion's Role within the Occult Tradition
 2. The Enchiridion's Influence on Modern Occultism and Magic
-3. Implications for Further Study and Exploration
+3. **Implications for Further Study and Exploration**
 
 **Bibliography**:
 - Primary Sources

@@ -19,7 +19,6 @@ tags:
   - overview bornless
 description: You are a master of the esoteric, occult, Rituals and grades of the Golden Dawn, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Contextual background information on the significance and purpose of divine invocation within the Golden Dawn system.
   
   2. A comprehensive overview of The Bornless Ritual, including the historical origins, purpose, and key elements of the Ritual.
@@ -31,8 +30,8 @@ excerpt: >
   5. In-depth explanations of the invocations, chants, and gestures employed during The Bornless Ritual, along with practical guidance on proper pronunciation and technique.
   
   6. Examples of personalization options, to enrich the ritual experience and align it with individual practitioners' goals and spiritual paths.
-  
 ---
+
 1. Contextual Background Information:
 Divine invocation within the Golden Dawn system holds a prominent significance as it allows practitioners to connect with and draw upon the power and wisdom of divine beings or forces. This practice serves as a means of spiritual growth, self-transformation, and attainment of higher states of consciousness. Invoking divine forces was a central aspect of the Golden Dawn's original teachings, and remains a fundamental element of the esoteric curriculum for modern practitioners.
 

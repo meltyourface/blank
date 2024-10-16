@@ -18,7 +18,6 @@ tags:
   - epithets persephone
 description: You are a master of the esoteric, occult, Persephone, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Expound upon her mythological background and her dual role in the realms of life and death, specifically her captivation in Hades and involvement with the Eleusinian Mysteries.
   
   2. Examine her diverse pantheon of symbols, such as the pomegranate, narcissus, and torch, explaining the esoteric meanings and relevance to her divine essence.
@@ -28,8 +27,8 @@ excerpt: >
   4. Scrutinize the influence of Persephone's energy on various aspects of divination, including the tarot, pendulum oracles, and scrying techniques.
   
   5. Elucidate any potential associations between Persephone and lesser-known deities or entities, elucidating the shared elements and contrasting characteristics.
-  
 ---
+
 
 ## The Mysteries of Persephone: The Dual Queen of Life and Death
 

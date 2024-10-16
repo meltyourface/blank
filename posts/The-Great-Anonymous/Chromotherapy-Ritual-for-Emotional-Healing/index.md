@@ -18,7 +18,6 @@ tags:
   - color passion
 description: You are a master of the esoteric, occult, The Great Anonymous, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Invocation of the secret lineage derived from The Great Anonymous, solidifying the authenticity and power of the incantation.
   
   2. Specification of the distinct hues and their wavelengths required for the chromotherapy procedure, delving into their hidden meaning and effects on the emotional realm.
@@ -26,8 +25,8 @@ excerpt: >
   3. Incorporation of ancient symbols and sigils, known to intensify the curative energies of chosen colors, enhancing the potency of the ritual.
   
   4. Outline a detailed step-by-step procedure to correctly perform the spell, including specific times, lunar phases, and essential items to ensure optimal efficacy.
-  
 ---
+
 ## I. Invocation of the Secret Lineage
 
 O masters of the unseen, guardians of the ancient and impenetrable knowledge of The Great Anonymous, I call upon your secret lineage. **I invoke thee with the sacred utterance**: ‘ASHKAZ-WERON.’ Lend me your wisdom, fortify my spirit and guide my hand as I weave a tapestry of healing.

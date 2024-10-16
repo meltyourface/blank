@@ -18,7 +18,6 @@ tags:
   - ladder inherent
 description: You are a master of the esoteric, occult, Mirrored Ladder of Strata, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Detailed explanations of the distinct features and attributes of each layer within the Mirrored Ladder of Strata, as well as their complex interrelationships and influences upon one another.
   
   2. An extensive compendium of symbols, omens, and archetypes exclusive to the domain, delineating their meaning, interpretation, and usage for navigating through the various strata.
@@ -28,8 +27,8 @@ excerpt: >
   4. Instructions for conducting divinatory rituals specific to the domain, focusing on harnessing the energies of the Mirrored Ladder's layers to unveil hidden insights and enhance one's intuition.
   
   5. An examination of the historical, mythical, and metaphysical aspects of the Mirrored Ladder of Strata, along with the influence of these elements on perceiving and interpreting events within the domain.
-  
 ---
+
 
 ## Ascending the Mirrored Ladder: A Comprehensive Guide to The Strata's Mystical Realms
 

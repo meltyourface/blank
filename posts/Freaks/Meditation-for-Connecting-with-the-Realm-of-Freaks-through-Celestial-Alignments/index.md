@@ -23,10 +23,10 @@ excerpt: >
 
 To maximize the power of the meditative practice for the realm of Freaks, it is crucial to choose a time when the planetary alignments favor dark energies. **Planetary positions that are ideal for this practice include**:
 
-1. Moon in the Scorpio sign
-2. Mars in opposition to Pluto
-3. Uranus conjunct Neptune
-4. Saturn in the twelfth astrological house
+1. **Moon in the Scorpio sign**
+2. **Mars in opposition to Pluto**
+3. **Uranus conjunct Neptune**
+4. **Saturn in the twelfth astrological house**
 
 These celestial occurrences create a heightened potential for tapping into the energy of the Freaks.
 **Step 2**: Set up the meditative space

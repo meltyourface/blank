@@ -21,19 +21,19 @@ excerpt: Analyze and delineate the significance and functions of particular symb
 ---
 In Aleister Crowley's Book of the Law, various symbols, such as the Eye of Horus, the Unicursal Hexagram, and allegorical representations like Nuit and Hadit, play significant roles in expressing the key concepts and doctrines of Thelema. The following analysis aims to shed light on their functions and connections to Thelemic practices, expanding our understanding and interpretation of the book.
 
-1. The Eye of Horus
+1. **The Eye of Horus**
 
 The Eye of Horus, an ancient Egyptian symbol, represents protection, royal power, and good health. In the context of the Book of the Law, it signifies the divine all-seeing eye, which symbolizes the active role of magick in the Thelemic tradition and serves to illustrate the concept of "Every man and every woman is a star." By invoking the Eye of Horus in rituals and visualization practices, Thelemites accept empowerment by Horus, the crowned and conquering child, who represents the realized potential and assertiveness of the individual's True Will.
 
-2. The Unicursal Hexagram
+2. **The Unicursal Hexagram**
 
 The Unicursal Hexagram, a six-pointed star that can be drawn in one continuous movement, was adopted by Crowley as a symbol for Thelema. It represents the union of the macrocosm and microcosm, aligning with the central Thelemic doctrine "As above, so below." This integration speaks to the fundamental principle of true will, in which the individual's will should act in harmony with the universe. By employing the Unicursal Hexagram in ritual work and symbolism, Thelemites emphasize the importance of finding their true will and unifying it with that of the cosmos.
 
-3. Nuit
+3. **Nuit**
 
 Nuit is an allegorical figure representing infinite space, the ultimate divine feminine principle, and the potential for all existence. As the first speaker in the Book of the Law, Nuit calls upon the reader to see themselves as a star within her vast body, implying that each individual carries a unique purpose and spiritual essence in accordance with their true will. Nuit's teachings emphasize the importance of recognizing and embracing one's potential, as well as encouraging devotion to the discovery of one's true purpose within the boundless universe.
 
-4. Hadit
+4. **Hadit**
 
 Contrasting Nuit, Hadit represents the infinitesimal point, the ultimate divine masculine principle, and the active will of the individual. As the second speaker in the Book of the Law, Hadit urges people to fearlessly embrace their true nature and rejoice in their worldly experiences as expressions of their divine essence. Hadit embodies the ever-moving essence of life and the fire that exists within each person, corresponding to the "Fire of the Spirit" and the vital force needed to manifest one's true potential.
 

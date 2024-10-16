@@ -18,7 +18,6 @@ tags:
   - extensive esoteric
 description: You are a master of the esoteric, occult, North Western Library, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Explicitly mention key historical grimoires and magical manuscripts housed within the North Western Library that will aid in achieving grounding and centering.
   
   2. Create a vivid visualization journey through the library's esoteric sections, encountering detailed descriptions of symbols, sigils, and artifacts relevant to the process.
@@ -26,8 +25,8 @@ excerpt: >
   3. Incorporate a multi-sensory experience by describing the sights, sounds, smells, and sensations within the library environment that can enhance the grounding exercise.
   
   4. Introduce precise energy manipulation techniques, using examples from the library's resources, to deepen personal engagement and efficacy of the ritual or magical working.
-  
 ---
+
 
 ## Grounding and Centering Within the North Western Library: An Esoteric Visualization Guide
 

@@ -18,7 +18,6 @@ tags:
   - circles
 description: You are a master of the esoteric, occult, Magical consciousness, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Elucidate on the historical and cultural significance of magical circles within various esoteric traditions.
   
   2. Clearly delineate the purpose and function of such circles in the context of harnessing and directing magical energies.
@@ -34,8 +33,8 @@ excerpt: >
   7. Explain the methodology for inviting and working with spiritual entities and energies within the boundaries of the circle while maintaining control and safety.
   
   8. Provide guidance on the dismantling and deactivation process, emphasizing the importance of properly releasing energies and expressing gratitude towards invited entities.
-  
 ---
+
 A Comprehensive Guide to Conjuring and Disassembling Sacred Circles
 
 ### I. Historical and Cultural Significance of Magical Circles

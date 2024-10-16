@@ -18,14 +18,13 @@ tags:
   - dance spread
 description: You are a master of the esoteric, occult, Yearning for spirit, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. A specific number of card positions, varied and unique to each archetype, creating complexity and diversity among the spreads.
   
   2. A comprehensive explanation of the correlation between the chosen archetype and the design of the spread, delving into the intricate workings of the Yearning for Spirit domain.
   
   3. Detailed interpretations relating individual card positions within each spread to the elements and energies of the corresponding universal archetypes, to facilitate profound spiritual insights and self-discovery.
-  
 ---
+
 ## I. The Cosmic Dance Spread (Universal Archetype: The Dance of Life)
 
 The Cosmic Dance Spread represents the Universal Archetype of the Dance of Life with 9 card positions, ordered and arranged in a spiral pattern. The spiral signifies the eternal cycle of creation and destruction, growth and decay, and the continuous flow of energy between the physical and spiritual realms.

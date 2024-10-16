@@ -31,7 +31,7 @@ excerpt: >
 
 **Materials**:
 
-1. Planetary sigil of Venus
+1. **Planetary sigil of Venus**
 2. **Incense**: Sandalwood, Jasmine, or Rose
 3. **Colors**: Green and Pink cloth/ribbons
 4. **Crystals**: Rose Quartz, Emerald, Amethyst

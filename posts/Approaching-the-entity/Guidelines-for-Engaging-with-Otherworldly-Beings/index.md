@@ -18,14 +18,13 @@ tags:
   - ritual space
 description: You are a master of the esoteric, occult, Approaching the entity and education, you have written many textbooks on the subject. Respond to the multiple choice question first with the answer, then, fully explain the context of your rational, reasoning, and chain of thought in coming to the determination you have for that answer. Explain related concepts, formulas, or historical context relevant to this conclusion, giving a lesson on the topic to explain the reasoning afterwards.
 excerpt: >
-
   - Just thinking about the entity and directly demanding its attention without any preparation
   
   - Relying only on your emotions and mood without any sort of ritual or knowledge of the entity
   
   - Thorough research on the entity's characteristics, preparing an appropriate ritual space, offering suitable offerings, and showing humility and respect
-  
 ---
+
 The correct answer is: Thorough research on the entity's characteristics, preparing an appropriate ritual space, offering suitable offerings, and showing humility and respect.
 
 **Explanation**:

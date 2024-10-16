@@ -49,10 +49,10 @@ Spells and Practices for Deeper Understanding
 
 The following spells and practices can provide students with the means to achieve a stronger connection to the power and insights associated with the All-Seeing Eye:
 
-1. Third Eye Meditation
+1. **Third Eye Meditation**
 Practice focused meditation on the area between your eyebrows, traditionally known as the third eye chakra. This practice will enhance your connection to the All-Seeing Eye and open you up to heightened intuition, clairvoyant abilities, and spiritual insight.
 
-2. Candle Visualization Ritual
+2. **Candle Visualization Ritual**
 Light a candle and focus entirely on its flame. As your concentration grows, visualize the All-Seeing Eye within the flame, absorbing its power and wisdom into your being. Contemplate the Eye's significance and feel its protective energies surrounding you.
 
 3. Create an All-Seeing Eye Talisman

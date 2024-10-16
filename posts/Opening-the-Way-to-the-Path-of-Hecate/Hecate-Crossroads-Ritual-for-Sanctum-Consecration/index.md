@@ -27,12 +27,12 @@ Gather the following items and materials:
 
 1. Three black candles to represent Hecate's triple aspects
 2. A key, symbolizing the unlocking of wisdom and doors
-3. A small torch or lantern for illuminating the path through darkness
+3. **A small torch or lantern for illuminating the path through darkness**
 4. An offering of a black dog figurine or image, honoring Hecate's sacred animal
 5. A bowl of earth, to represent the element of earth
-6. A censer with smoldering incense for the element of air
-7. A chalice or cup with water for the element of water
-8. A ceremonial knife or wand to represent the element of fire
+6. **A censer with smoldering incense for the element of air**
+7. **A chalice or cup with water for the element of water**
+8. **A ceremonial knife or wand to represent the element of fire**
 
 Ritual Structure:
 

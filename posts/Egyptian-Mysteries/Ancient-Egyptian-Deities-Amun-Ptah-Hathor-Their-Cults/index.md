@@ -26,8 +26,8 @@ excerpt: >
   3. Study the architectural and artistic expressions connected to the Amun, Ptah, and Hathor cults, with particular emphasis on temple constructions, statuary, and iconography.
   
   4. Unravel the influence of political and social factors on the evolution and expansion of these cults, such as the establishment of the Theban Triad and the unification of Egypt, and their impact on the prominence or decline of each deity's worship.
-  
 ---
+
 1. Origins of the Cults
 
 **Amun**:

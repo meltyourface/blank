@@ -63,7 +63,7 @@ excerpt: Develop a comprehensive ritual for the creation, maintenance, and disso
 
 ### III. Dissolution of Thoughtforms and Servitors
 
-1. Recall the Thoughtform or Servitor and Thank It for Its Service
+1. **Recall the Thoughtform or Servitor and Thank It for Its Service**
 2. **Perform the following chant**: "Kre't'nashae rik'kaal fenathare, thrak'k'taara t'yentha za'halam."
 3. Visualize white energy from the Spirit crystal unbinding the energy of the thoughtform or servitor, and absorb it back into the crystal.
 4. Dismantle the sacred space by extinguishing the candles and clearing the circle.

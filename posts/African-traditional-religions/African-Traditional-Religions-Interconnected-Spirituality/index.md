@@ -18,14 +18,13 @@ tags:
   - traditions interconnectedness
 description: You are a master of the esoteric, occult, African traditional religions and education, you have written many textbooks on the subject. Respond to the multiple choice question first with the answer, then, fully explain the context of your rational, reasoning, and chain of thought in coming to the determination you have for that answer. Explain related concepts, formulas, or historical context relevant to this conclusion, giving a lesson on the topic to explain the reasoning afterwards.
 excerpt: >
-
   - Ancestor veneration, where deceased relatives are honored and asked for guidance
   
   - Rituals involving the use of sacred objects, such as amulets or charms, to invoke spiritual assistance
   
   - The belief in a supreme being or creator who governs natural phenomena and human affairs
-  
 ---
+
 - All of the above
 
 In African traditional religions, the interconnectedness of the spiritual, natural, and human worlds is demonstrated through various practices and beliefs. These connections are not only visible through individually focused beliefs, but also through community-based rituals and traditions. The interconnectedness is evident in the following three practices:

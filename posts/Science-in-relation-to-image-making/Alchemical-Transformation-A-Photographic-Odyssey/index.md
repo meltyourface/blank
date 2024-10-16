@@ -28,27 +28,27 @@ The Sacred Alchemical Journey is a visually captivating photographic series that
 
 Sequence of Photographs and Techniques:
 
-1. The Prima Materia
+1. **The Prima Materia**
 Technique: Macro and Infrared Photography
 Description: A close-up of a raw, crystalline structure emerging from darkness, illuminated by spectral colors from infrared light. This photograph symbolizes the beginning of the alchemical journey, representing the raw material of creation in its purest form.
 
-2. The Nigredo
+2. **The Nigredo**
 Technique: Long Exposure and Black and White Photography
 Description: A long exposure shot of decaying organic matter engulfed by shadow and dark textures. This photograph signifies the stage of decomposition and putrefaction, emphasizing the dark and morbid aspects of transformation.
 
-3. The Albedo
+3. **The Albedo**
 Technique: High-key Photography and Photogrammetry
 Description: A bright, ethereal image of interlocked geometric shapes, reminiscent of sacred geometry, suspended in infinite space. This photograph stands for the stage of purification and represents the emergence of spiritual light from the darkness of matter.
 
-4. The Citrinitas
+4. **The Citrinitas**
 Technique: Macro and Selective Coloring
 Description: A macro photography depicting metallic nanoparticles, with a focal point on the golden particles that emerge in contrast to the monochromatic environment. This photograph signifies the manifestation of spiritual gold - the stage of wisdom and enlightenment that follows the integration of material and spiritual aspects.
 
-5. The Rubedo
+5. **The Rubedo**
 Technique: Long Exposure and Light Painting
 Description: A long exposure shot capturing swirling patterns of vibrant light, creating a rhythmic dance between order and chaos. This photograph represents the final stage of the alchemical transformation, connoting the union of opposites and the creation of the Philosopher's Stone.
 
-6. The Transcendence
+6. **The Transcendence**
 Technique: HDR and Infrared Photography
 Description: A monumental landscape bathed in otherworldly colors and surreal energy, where an enigmatic, luminescent figure ascends, symbolizing the completion of the alchemical journey and the attainment of higher consciousness.
 

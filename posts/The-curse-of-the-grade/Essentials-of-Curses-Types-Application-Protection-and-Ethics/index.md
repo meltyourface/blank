@@ -26,11 +26,11 @@ excerpt: Write a detailed section for a grimoire on the occult topic, 'The Curse
 
 The Curse of the Grade is an intricate subject in the study of the esoteric and occult arts, delving into the complexities of curses and their applications. Students venturing into this territory must approach this knowledge with caution and responsibility, as the misuse or mishandling of curses can lead to unwanted and severe consequences. Throughout history, practitioners of the occult have employed curses to manipulate, harm, or seek retribution. This chapter will provide students with a comprehensive understanding of the Curse of the Grade, its origins, various types of curses, their effects, methods of application, protection and reversal techniques. Additionally, we shall address the ethical considerations and precautions that must be adhered to when engaging with this esoteric domain.
 
-1. History of the Curse of the Grade
+1. **History of the Curse of the Grade**
 
 The history of curses dates back to ancient times, with the earliest known instances of curses found in Mesopotamia. As civilizations developed, so too did the practice and understanding of curses. The Egyptians, Greeks, and Romans all incorporated curses into their magical practices, often inscribing them on tablets or incorporating them into rituals. As time went on, diverse forms of curses evolved from various cultural traditions, including European witchcraft, African diasporic religions, and Asian magical practices. The Curse of the Grade, as an overarching field of study, seeks to identify, categorize, and teach the most potent curses passed down through time and across different cultural traditions.
 
-2. Types of Curses and Their Effects
+2. **Types of Curses and Their Effects**
 
 **Curses can be broadly categorized into two main types**: targeted curses and area-of-effect curses. Targeted curses are directed towards specific individuals; area-of-effect curses focus on a given location or a multitude of subjects.
 
@@ -44,7 +44,7 @@ d) Love Curse: This curse involves manipulating the emotions of the targeted ind
 
 e) Generational Curse: This potent curse affects not only the targeted individual but also their lineage, plaguing future generations with misfortune or other ill effects.
 
-3. Methods of Application
+3. **Methods of Application**
 
 Curses can be cast using a variety of means, each with its unique process and requirements. **Common methods of curse application include**:
 
@@ -54,7 +54,7 @@ b) Incantations: The spoken word can prove potent when imbued with the intention
 
 c) Tokens: Curses can be attached to objects, which are then given or placed near the intended target. These tokens provide a physical conduit between the curse and the individual.
 
-4. Protection and Reversal Techniques
+4. **Protection and Reversal Techniques**
 
 To defend against or reverse curses, practitioners can use various methods, such as:
 
@@ -66,7 +66,7 @@ c) Counter-curses: Designing and employing spells or rituals specifically aimed 
 
 d) Amulets and Talismans: Crafting or acquiring protective charms that hold the power to deflect or negate the influence of curses.
 
-5. Ethical Considerations and Precautions
+5. **Ethical Considerations and Precautions**
 
 When delving into the cursing arts, one must remain conscious of the potential consequences of their actions. The misuse of curses can lead to unintended harm, ethical dilemmas, or the potential for curses to rebound upon the practitioner. It is essential to remember the guiding principle, "Cause no harm," ensuring that any curse is administered only when absolutely necessary and with just cause.
 

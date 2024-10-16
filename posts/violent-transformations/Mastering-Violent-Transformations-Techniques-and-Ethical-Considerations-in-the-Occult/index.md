@@ -19,7 +19,6 @@ tags:
   - physical transformations
 description: You are a master of the esoteric, occult, violent transformations and education, you have written many textbooks on the subject in ways that provide students with rich and deep understanding of the subject. You are being asked to write textbook-like sections on a topic and you do it with full context, explainability, and reliability in accuracy to the true facts of the topic at hand, in a textbook style that a student would easily be able to learn from, in a rich, engaging, and contextual way. Always include relevant context (such as formulas and history), related concepts, and in a way that someone can gain deep insights from.
 excerpt: >
-
   1. **Introduction**: Explain the significance of violent transformations in the world of the occult, including historical context and how this knowledge can empower a practitioner.
   
   2. **Types of violent transformations**: Elaborate on the different categories of violent transformations, such as physical, mental, or spiritual alterations, and highlight their unique characteristics.
@@ -33,8 +32,8 @@ excerpt: >
   6. **Ethical considerations**: Discuss the moral and ethical implications of harnessing violent transformations for personal gain or power, and provide guidance on responsible usage.
   
   7. **Continuing growth and mastery**: Offer advice on further developing one's skill in the art of violent transformations and how a practitioner can progress on their path to becoming a true master of this dark and potent craft.
-  
 ---
+
 Introduction: The Power and Significance of Violent Transformations
 
 In the realm of the occult, the concept of violent transformations holds great allure and significance. The ability to alter one's being, whether it be physically, mentally, or spiritually, has captivated practitioners for centuries. It is believed that mastering these techniques can unlock unparalleled power and unparalleled knowledge. Throughout history, various cultures have devised methods to harness such transformations, including shapeshifting, possession, and aligning oneself with dark energies.

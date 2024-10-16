@@ -35,7 +35,7 @@ Throughout history, various belief systems such as Egyptian mysteries, Gnosticis
 
 Key Symbols in Esoteric and Occult Practices
 
-1. The Pentagram
+1. **The Pentagram**
 
 One of the most well-known esoteric symbols, the pentagram is a five-pointed star enclosed within a circle. It represents the four elements (earth, air, fire, and water) as well as the quintessence or spirit. In occult practices, the upright pentagram symbolizes balance and connection to the divine, while an inverted one may represent the material world or darker aspects of humanity.
 
@@ -43,11 +43,11 @@ One of the most well-known esoteric symbols, the pentagram is a five-pointed sta
 
 This symbol, which features an eye enclosed within a triangle, represents divine omniscience and watchfulness. It is often associated with the Masonic tradition as well as traditions like Hermeticism and Alchemy. The All-Seeing Eye serves as a reminder that the actions and intentions of the practitioner are observed, not only by worldly powers but also by the transcendent.
 
-3. The Hexagram
+3. **The Hexagram**
 
 The hexagram or six-pointed star is composed of two interlaced triangles and is another powerful esoteric symbol. It represents the balance and harmony between opposing forces - the ascending triangle symbolizes the spiritual realm, while the descending triangle represents earthly existence. The hexagram is also commonly known as the Star of David, a symbol of Judaism. In occult contexts, it has been linked to theurgical practices such as the invocation and binding of spirits.
 
-4. The Ouroboros
+4. **The Ouroboros**
 
 This ancient symbol features a serpent or a dragon eating its tail, forming a circle. The Ouroboros signifies the eternal cycle of life, death, and rebirth, as well as the concept of eternal return and self-reflection. In alchemical contexts, it signifies the process of transformation and the pursuit of spiritual growth.
 

@@ -18,7 +18,6 @@ tags:
   - demon preferences
 description: You are a master of the esoteric, occult, Demon summoning, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Specific demon summoning rituals, complete with ancient chants and sigils, tailored to the demon's unique characteristics and powers.
   
   2. Required ingredients and materials for the ritual, exploring the significance of each element as well as potential substitutes when necessary.
@@ -32,8 +31,8 @@ excerpt: >
   6. Instructions for sealing any pacts or agreements with the demon, considering potential consequences and ensuring that the agreed terms are not manipulable by the demon's cunning.
   
   7. A comprehensive overview of the banishment process, highlighting traditional exorcism rites, incantations, and the utilization of sacred or enchanted objects to ensure the demon's complete removal from the mortal realm.
-  
 ---
+
 Step-by-Step Guide to Summoning and Banishing a Demon
 
 1. Specific demon summoning rituals:

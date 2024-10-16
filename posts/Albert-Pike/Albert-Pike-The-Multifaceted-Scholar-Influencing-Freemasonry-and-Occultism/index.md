@@ -18,7 +18,6 @@ tags:
   - pike work
 description: You are a master of the esoteric, occult, Albert Pike and education, you have written many textbooks on the subject. Respond to the multiple choice question first with the answer, then, fully explain the context of your rational, reasoning, and chain of thought in coming to the determination you have for that answer. Explain related concepts, formulas, or historical context relevant to this conclusion, giving a lesson on the topic to explain the reasoning afterwards.
 excerpt: >
-
   - Author of "Morals and Dogma," which is still considered a fundamental text for the Scottish Rite of Freemasonry
   
   - Prominent Freemason who achieved the highest level of Sovereign Grand Commander of the Scottish Rite's Southern Jurisdiction
@@ -26,8 +25,8 @@ excerpt: >
   - An influential figure in the creation of the Ku Klux Klan, though later distanced himself from the organization
   
   - An eclectic scholar of several subjects, including law, literature, and Native American languages and culture, which informed his work in Freemasonry and the occult
-  
 ---
+
 - An eclectic scholar of several subjects, including law, literature, and Native American languages and culture, which informed his work in Freemasonry and the occult
 
 Albert Pike was a highly influential and multifaceted figure in the realms of Freemasonry, occultism, and education. His contributions spanned across a range of subjects and disciplines, including law, literature, Native American languages and culture, and higher education.

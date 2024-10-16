@@ -28,27 +28,27 @@ The art of Spagyric tinctures is an esoteric practice that traces its roots back
 
 ### Part I: The Significance of Sacred Geometry in Spagyric Tinctures
 
-1. Geometric Patterns and Tincture Organization
+1. **Geometric Patterns and Tincture Organization**
   - Circles: Representing the purified essence of matter
   - Squares: Symbolizing the four elements of alchemy – Earth, Water, Fire, and Air
   - Hexagons: Relating to the macrocosm-microcosm concept
 
-2. The Connection between Geometry and Potency
+2. **The Connection between Geometry and Potency**
   - The increased efficacy of tinctures due to the harmonization of geometric patterns
   - The use of Fibonacci sequence and its impact on the potency of tinctures
 
-3. Sacred Geometry as a Guide for Tincture Creation
+3. **Sacred Geometry as a Guide for Tincture Creation**
   - The influence of sacred geometry on the formulation of Spagyric tinctures
   - The organization of key recipes within grimoires and manuscripts
 
 ### Part II: Exploring Historical Texts
 
-4. Notable Works in Spagyrical Tincture History
+4. **Notable Works in Spagyrical Tincture History**
   - The Emerald Tablet of Hermes Trismegistus
   - The Ripley Scrolls
   - The Mutus Liber
 
-5. Lessons Derived from Historical Texts
+5. **Lessons Derived from Historical Texts**
   - Analyzing the texts for key patterns, symbols, and principles of Spagyric tinctures
   - How sacred geometry has shaped the development of the Spagyrical tradition
 

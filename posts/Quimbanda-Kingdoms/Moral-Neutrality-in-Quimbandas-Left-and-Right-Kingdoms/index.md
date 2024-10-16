@@ -18,14 +18,13 @@ tags:
   - right kingdom
 description: You are a master of the esoteric, occult, Quimbanda Kingdoms and education, you have written many textbooks on the subject. Respond to the multiple choice question first with the answer, then, fully explain the context of your rational, reasoning, and chain of thought in coming to the determination you have for that answer. Explain related concepts, formulas, or historical context relevant to this conclusion, giving a lesson on the topic to explain the reasoning afterwards.
 excerpt: >
-
   - The Left Kingdom is solely associated with white magic, while the Right Kingdom is linked to black magic.
   
   - Both Kingdoms are morally neutral, with the Left focusing on material pursuits and the Right on spiritual ones.
   
   - The Kingdoms are based on geographical locations, with the Left in South America and the Right in Africa.
-  
 ---
+
 Answer: - Both Kingdoms are morally neutral, with the Left focusing on material pursuits and the Right on spiritual ones.
 
 **Explanation**: In the context of Quimbanda Kingdoms, the distinction between the Kingdoms of Left and Right lies in their focus and purpose, not in the moral alignment. Both Kingdoms are considered morally neutral, as it is the intentions of the practitioners that determine the outcome of their magical workings. 

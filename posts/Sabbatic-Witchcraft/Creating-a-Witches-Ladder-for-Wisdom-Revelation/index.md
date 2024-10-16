@@ -27,7 +27,7 @@ To craft an intricate Witches' Ladder specific to the realm of Sabbatic Witchcra
 2. Nine or thirteen semi-precious stones, each representing a specific correspondence to ancient wisdom (such as lapis lazuli, labradorite, amethyst, and serpentine)
 3. Traditional witchcraft symbols related to the acquisition of knowledge (such as owl feathers, keys, book charms, and skull beads)
 4. Silver, gold, or copper wire to create sigils related to wisdom and occult mysteries (create these sigils based on the chosen symbolism from ancient sources or lost lineages)
-5. Sandalwood or sage incense for purification and consecration
+5. **Sandalwood or sage incense for purification and consecration**
 
 **Instructions**:
 

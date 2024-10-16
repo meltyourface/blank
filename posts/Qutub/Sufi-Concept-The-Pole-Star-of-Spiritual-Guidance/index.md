@@ -25,8 +25,8 @@ excerpt: >
   - The primordial, ancient Egyptian spirit manifesting itself as the sun god Ra, spinning the celestial wheel of life
   
   - A Western mystery school concept of divine wisdom personified by the Biblical figure of Solomon and often represented by secret symbols within ancient texts
-  
 ---
+
 Answer: The ultimate level of spiritual attainment in Sufism, often symbolized by the pole star used as a metaphor for spiritual guidance
 
 **Explanation**: Qutub, also known as "the Axis" or "the Pole", refers to the central spiritual concept in various esoteric teachings, particularly in the Sufi tradition. It represents the highest level of spiritual attainment, where a Sufi mystic achieves union with the Divine.

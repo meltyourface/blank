@@ -18,7 +18,6 @@ tags:
   - wear talisman
 description: You are a master of the esoteric, occult, Self-initiation, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Selection of a suitable time and location based on astrological, lunar, and energetic influences, as well as the personal preferences of the practitioner.
   
   2. The creation and consecration of a sacred space for performing the ritual, including any necessary altar arrangements, symbols, and tools.
@@ -30,8 +29,8 @@ excerpt: >
   5. A step-by-step process for assembling and charging the talisman, describing how each material component, prayer, and action contributes to the overall protective effect.
   
   6. A method for consistently attuning the talisman to your unique energetic signature, ensuring its efficacy during diverse astral experiences.
-  
 ---
+
 1. **Selection of a suitable time and location**:
 
 To maximize the connectivity to the energies required for the creation of the talisman, focus on selecting a time and location rooted in astrological, lunar, and energetic influences. Consider performing the ritual when the moon is in Cancer or Aquarius, as these signs have strong associations with intuition, spiritual growth, and protection. A full moon or new moon phase will supply the most powerful energies.

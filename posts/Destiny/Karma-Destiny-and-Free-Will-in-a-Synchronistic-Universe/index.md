@@ -22,11 +22,11 @@ excerpt: >
 ---
 To address this knowledge challenge, we will have to examine the following concepts:
 
-1. Synchronicity
-2. The Butterfly Effect
+1. **Synchronicity**
+2. **The Butterfly Effect**
 3. Individual's Free Will
-4. Cyclic Nature of Karma
-5. Destiny and True Purpose
+4. **Cyclic Nature of Karma**
+5. **Destiny and True Purpose**
 
 Firstly, let us ensure an accurate understanding of these concepts.
 

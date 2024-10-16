@@ -33,10 +33,10 @@ At its core, the 13 Days Ritual embodies the belief that through the process of 
 **Materials**:
 1. A personal item from each enemy, such as a photograph, hair, or clothing item
 2. A representation of each enemy, such as a clay or wax figurine, paper doll, or drawing
-3. A black candle to represent your intention of banishing their negative influence
+3. **A black candle to represent your intention of banishing their negative influence**
 4. A larger, white candle to represent cleansing and protection
-5. A parchment paper and ink for inscribing the symbols and intentions
-6. A fireproof container or cauldron for burning the representations
+5. **A parchment paper and ink for inscribing the symbols and intentions**
+6. **A fireproof container or cauldron for burning the representations**
 
 **Symbols**:
 During the ritual, specific sigils and symbols should be employed to focus the power and intention of the work. These may include personal symbols related to the specific enemies or negative energies, as well as universal symbols such as the Pentacle of Invoking the Fires of Destruction.

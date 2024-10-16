@@ -18,7 +18,6 @@ tags:
   - using lavender
 description: You are a master of the esoteric, occult, Eroto-Magical systems, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Amplify the metaphysical love energy vibrations between individuals through the harmonious selection of herbs that enhance each other's properties.
   
   2. Incorporate the use of specific colors, symbols, and incantations to activate and infuse the potion with Eroto-Magical intent, ensuring optimal potency.
@@ -28,8 +27,8 @@ excerpt: >
   4. Include a stimulating scent profile, derived from the natural aromatic properties of the chosen herbs, to tantalize and evoke an alluring atmosphere.
   
   5. Implement a multi-step brewing process that incorporates the lunar calendar's transformational energies and respects the sacred order of herb integration.
-  
 ---
+
 To concoct an Eroto-Magical love potion that satisfies the requirements, we will synergize the aphrodisiac properties of commonly available herbs, creating an enchanting, multi-sensory experience for the imbiber. **The potion will consist of the following elements**:
 
 **Ingredients**:

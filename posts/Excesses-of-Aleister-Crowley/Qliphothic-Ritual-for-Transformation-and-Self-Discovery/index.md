@@ -28,13 +28,13 @@ excerpt: >
 Required Resources:
 
 1. A secluded, quiet ritual space
-2. Black robes or garments 
+2. **Black robes or garments **
 3. Candles (preferably black, red, or violet)
-4. Chalice filled with sacramental wine
+4. **Chalice filled with sacramental wine**
 5. Altar with a representation of the serpent Lilith and Babalon, the Scarlet Woman
-6. Athame or dagger
+6. **Athame or dagger**
 7. Ritual incense (sandalwood or dragon's blood)
-8. Bowl of water and salt
+8. **Bowl of water and salt**
 9. A parchment with one's personal Sigil of Transformation 
 
 Ritual Instructions:

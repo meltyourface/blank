@@ -35,13 +35,13 @@ The potency of Angelic Fire lies in its inherently divine nature, transcending t
 
 ### II. Practical Applications of Angelic Fire
 
-1. Cleansing and Purification
+1. **Cleansing and Purification**
 Angelic Fire purifies energies by eradicating negative influences and amplifying positive ones. It is highly effective in banishing unwanted spirits, purifying sacred spaces, and consecrating tools used in esoteric practices. Rituals incorporating Angelic Fire facilitate regeneration and alignment with one's higher self.
 
-2. Healing and Restoration
+2. **Healing and Restoration**
 The restorative properties of Angelic Fire make it an essential component in spiritual healing, promoting balance and rejuvenation at physical, emotional, and spiritual levels. By channeling Angelic Fire energy, practitioners can dissolve blockages, remove limiting beliefs, and enhance their innate healing abilities.
 
-3. Empowerment and Manifestation
+3. **Empowerment and Manifestation**
 With its transformative essence, Angelic Fire can also be employed to charge talismans and amulets, boosting their power and effectiveness. Practitioners can use Angelic Fire to manifest their desires, by inviting the creative potential of divine energy to nurture their intentions into fruition.
 
 ### III. Developing Understanding and Abilities

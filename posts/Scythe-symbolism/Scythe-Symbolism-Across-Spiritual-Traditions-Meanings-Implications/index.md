@@ -18,7 +18,6 @@ tags:
   - depicted scythe
 description: You are a master of the esoteric, occult, Scythe symbolism, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Identify and meticulously analyze the commonalities and differences in Scythe symbolism across at least five diverse spiritual traditions, highlighting their unique perspectives on mortality and cyclic existence.
   
   2. Examine the historical evolution of the Scythe as a symbolic representation of death, emphasizing its transformation over time among various cultures.
@@ -26,8 +25,8 @@ excerpt: >
   3. Explore the interplay between Scythe symbolism and specific ritualistic practices, including rites of passage that embody death and rebirth elements, within mystical traditions.
   
   4. Provide a comprehensive interpretation of Scythe iconography, showcasing artistic depictions and their nuanced meanings in the context of spiritual beliefs related to life cycles and renewal.
-  
 ---
+
 1. Commonalities and Differences in Scythe Symbolism Across Spiritual Traditions:
 Scythe symbolism is prevalent in multiple mystical traditions, representing various aspects of death and rebirth. Five diverse spiritual traditions are examined below:
 

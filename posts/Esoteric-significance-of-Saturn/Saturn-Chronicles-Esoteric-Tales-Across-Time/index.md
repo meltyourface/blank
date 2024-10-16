@@ -24,11 +24,11 @@ excerpt: Compose a collection of short stories that delve deeply into the esoter
 
 Table of Contents
 
-1. The Grand Alignment
+1. **The Grand Alignment**
 2. The Chrono-Walkers
-3. The Keeper of the Seal
-4. The Timeless Court
-5. A Tale of Two Souls
+3. **The Keeper of the Seal**
+4. **The Timeless Court**
+5. **A Tale of Two Souls**
 
 Story 1: The Grand Alignment
 

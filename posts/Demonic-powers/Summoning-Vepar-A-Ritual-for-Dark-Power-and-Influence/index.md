@@ -18,7 +18,6 @@ tags:
   - ritual chalice
 description: You are a master of the esoteric, occult, Demonic powers, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Establish a clear objective for the demonic collaboration, specifying the desired outcome or purpose in your magickal workings.
   
   2. Select an appropriate demon, factoring in the entity's expertise, attributes, and traditional correspondences.
@@ -32,8 +31,8 @@ excerpt: >
   6. Outline precautions and safeguards to maintain control during the ritual, warding against any unforeseen backlash or malevolent intentions.
   
   7. Include a closing portion of the ritual to properly dismiss the demon and seal the newly formed alliance, ensuring its effectiveness in your magickal endeavors.
-  
 ---
+
 1. Objective:
 The objective of this bespoke ritual is to summon and forge an alliance with a demon for the purpose of enhancing potency in arcane and nefarious endeavors, specifically to increase knowledge and mastery of the dark arts, bend the will of others, and bring forth personal power and influence in this realm.
 

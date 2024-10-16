@@ -18,7 +18,6 @@ tags:
   - altar
 description: You are a master of the esoteric, occult, Folk-magical armaments, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Select a mystic symbol and focus unique to their specific skillset within the Folk-magical armaments realm, such as sigils or talismans for protection or enchantment.
   
   2. **Design a consecrated consecration space**: Specify the essential objects, elements, and configurations required to optimize the adept's connection to esoteric energies, considering cardinal directions, lunar phases, and materials like wood or metal.
@@ -26,8 +25,8 @@ excerpt: >
   3. **Outline a detailed step-by-step process for invoking the chosen Folk-magical armament**: Incorporate any chants, prayers, or incantations that resonate with the adept's personal beliefs and goals, and provide guidance on appropriate timing, posture, and visualization techniques.
   
   4. **Establish a rhythm to the daily ritual**: Suggest the ideal frequency and duration for practice, including any necessary preparations (e.g., meditation, fasting) and aftercare (e.g., journaling, cleansing) measures.
-  
 ---
+
 1. **Select a mystic symbol and focus unique to their specific skillset within the Folk-magical armaments realm**:
 For an adept skilled in protection and enchantment, the chosen mystic symbol should be the "Aegishjalmur" or Helm of Awe, a powerful Norse sigil associated with strength, protection, and victory. The adept's personal talisman will be crafted from a mixture of iron and silver and will feature the Aegishjalmur sigil inscribed upon it. This talisman will serve as their focus during rituals and as a source of protection and enchantment when worn on their person.
 

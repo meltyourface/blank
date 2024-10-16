@@ -27,11 +27,11 @@ Disclaimer: The contents here are for purely informational and educational purpo
 This guide aims to outline the step-by-step process for invoking Astaroth, a feared demon famously mentioned in the Liber Malorum Spirituum seu Goetia. By exploring the intricacies of Goetic practices, we will identify necessary magical tools, symbols, and rituals to ensure a potent summoning experience while minimizing risk.
 
 Table of Contents:
-1. Preparations and considerations before the ritual
-2. Required magical tools and symbols
+1. **Preparations and considerations before the ritual**
+2. **Required magical tools and symbols**
 3. Step-by-step process for invoking Astaroth
-4. Methods to maintain control and minimize risk
-5. Potential benefits and strategies to negotiate agreements
+4. **Methods to maintain control and minimize risk**
+5. **Potential benefits and strategies to negotiate agreements**
 
 1. Preparations and considerations before the ritual:
   1.1 Study and familiarize yourself with the nature of Astaroth

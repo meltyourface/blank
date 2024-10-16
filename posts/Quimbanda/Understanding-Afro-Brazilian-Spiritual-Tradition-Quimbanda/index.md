@@ -27,11 +27,11 @@ Introduction
 
 Quimbanda is an Afro-Brazilian spiritual tradition with roots in the Bantu and European beliefs, particularly from the Congo, Angola, and the Iberian Peninsula. As an important part of the Brazilian religious landscape, Quimbanda emphasizes the worship of deities and spirits, the use of rituals, and the importance of moral balance. This lesson aims to provide a comprehensive overview of Quimbanda's principal concepts, allowing students to grasp its significance and cultivate personal growth within the tradition.
 
-1. Historical Roots of Quimbanda
+1. **Historical Roots of Quimbanda**
 
 The development of Quimbanda began when African slaves brought their traditional practices to Brazil during the Trans-Atlantic slave trade period. As they interacted with the native and European settlers, these practices evolved and blended with the indigenous American and European beliefs to create a unique spiritual tradition. The Bantu people, originally from Central Africa, contributed significantly to the formation of Quimbanda, along with European influences such as Catholicism and other Christian denominations.
 
-2. Key Deities and Spirits
+2. **Key Deities and Spirits**
 
 At the heart of Quimbanda are the deities and spirits revered by its practitioners. The major entities in this tradition are Exus and Pomba Giras, which represent various aspects of life, including love, wealth, and spiritual development. These spirits are often closely associated with Catholic saints, displaying the syncretic nature of Quimbanda.
 
@@ -39,11 +39,11 @@ A. **Exu**: Exus are spirits known for their dual natures, embodying both positi
 
 B. **Pomba Gira**: Similar to Exus, Pomba Giras are female spirits that embody complex qualities. They represent sensuality, strength, and wisdom, and they play crucial roles in various aspects of life, such as relationships and emotional growth.
 
-3. The Role of Exus and Pomba Giras
+3. **The Role of Exus and Pomba Giras**
 
 In Quimbanda, Exus and Pomba Giras are essential for achieving spiritual balance and growth. As primary spiritual helpers, they assist practitioners in attaining their goals, whether they are material, emotional, or spiritual. The relationship between these spirits and the devotee is deeply personal and cultivated through offerings, rituals, and ongoing communication.
 
-4. Rituals in Quimbanda
+4. **Rituals in Quimbanda**
 
 Rituals are fundamental to the Quimbanda tradition. They can be performed for various purposes, such as spiritual protection, improving relationships, or attracting prosperity. These rituals usually involve offerings, candle lighting, prayers, music, and dancing.
 
@@ -53,11 +53,11 @@ B. **Candle Lighting and Prayers**: Candles hold symbolic significance in Quimba
 
 C. **Music and Dancing**: Music and dance are important aspects of Quimbanda rituals, providing a means of communication between the practitioner and the spirits. Rhythms and movements help create a powerful connection, allowing the manifestation of spiritual energy.
 
-5. The Importance of Moral Balance
+5. **The Importance of Moral Balance**
 
 Quimbanda emphasizes the importance of moral balance as central to spiritual growth and development. Achieving harmony between the positive and negative aspects of life leads to a state of equanimity, allowing the practitioner to evolve on their spiritual path.
 
-6. Practical Advice for Studying Quimbanda
+6. **Practical Advice for Studying Quimbanda**
 
 To foster a deep understanding and respect for Quimbanda, students are encouraged to:
 

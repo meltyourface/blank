@@ -28,33 +28,33 @@ The study of the occult and esoteric knowledge encompasses a vast array of manus
 
 ### I. Key Manuscript Sources and Texts
 
-1. The Emerald Tablet
+1. **The Emerald Tablet**
 
 The Emerald Tablet is an enigmatic document with origins shrouded in mystery. It's an essential text in the field of alchemy and has informed occultists such as Isaac Newton, Cornelius Agrippa, and Paracelsus. Believed to have been authored by the legendary figure Hermes Trismegistus, this concise yet profound document offers insights into the process of spiritual and material transformation through the alchemical maxim: "As above, so below." Studying this text can offer a foundational understanding of the interconnectedness of the cosmos and how to harness its inherent powers.
 
-2. The Corpus Hermeticum
+2. **The Corpus Hermeticum**
 
 As a collection of philosophical and theological dialogues, the Corpus Hermeticum explores the themes of divine wisdom, celestial influences, and spiritual transformation. Attributed to Hermes Trismegistus, this compilation of texts was highly influential to the development of the Hermetic tradition, which encompasses alchemy, astrology, and theurgy. Delving into these texts will provide you with insights into the philosophical underpinnings of various branches of the occult and serve as a precursor to more advanced study.
 
-3. The Key of Solomon
+3. **The Key of Solomon**
 
 Attributed to King Solomon, this influential grimoire provides a detailed account of the various rituals, spells, and knowledge necessary for the practice of ceremonial magic. It contains extensive instruction on the construction of talismans, the invocation of spirits, and the use of astrological timing for magical operations. By studying this text, you are equipped with a solid foundation in ceremonial magic to help you develop your mastery over the astral and physical planes.
 
-4. The Book of Enoch
+4. **The Book of Enoch**
 
 Though it is not an occult text in the strictest sense, the Book of Enoch holds great historical significance for esoteric thinkers as it details the interactions between humans and fallen angels. This Apocryphal work, attributed to the biblical patriarch Enoch, is essential to understanding the cosmological drama that has influenced many occult traditions. By acquainting yourself with this work, you will gain context for the mythological undercurrents that permeate esoteric thought and practice.
 
 ### II. Deepening Your Understanding and Practice
 
-1. Develop a Systematic Approach
+1. **Develop a Systematic Approach**
 
 To gain deep insights from these foundational texts, approach them systematically. Create a study plan that includes reading and note-taking to help clarify your thought process and reveal patterns that may be obscured in a casual reading.
 
-2. Connect with Related Concepts
+2. **Connect with Related Concepts**
 
 As you read, notice the recurring themes, symbols, and concepts that are common to different texts. Examining these connections can help you synthesize the material and understand the underlying principles that govern the esoteric universe.
 
-3. Apply Your Knowledge
+3. **Apply Your Knowledge**
 
 The insights gleaned from your studies can be applied to practical endeavors, such as meditation, divination, and magical operations. This process of experiential learning can help you internalize the wisdom from these texts and gain a deeper understanding of your spiritual and material reality.
 

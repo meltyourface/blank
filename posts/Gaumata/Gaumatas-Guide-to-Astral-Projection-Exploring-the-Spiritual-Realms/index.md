@@ -18,7 +18,6 @@ tags:
   - troubling astral
 description: You are a master of the esoteric, occult, Gaumata, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Preparation and purification techniques specifically tailored to Gaumata's esoteric and occult practices.
   
   2. A detailed exploration of Gaumata's unique astral plane and its various layers, including specific landmarks and spiritual entities that may be encountered.
@@ -26,8 +25,8 @@ excerpt: >
   3. Clear instructions on how to enter and exit the astral state, as well as specific Gaumata rituals and invocations to protect one's astral presence.
   
   4. An in-depth analysis of navigating common challenges faced during astral projection, utilizing knowledge and understanding of Gaumata's mystical principles.
-  
 ---
+
 Achieving Astral Projection within the Realm of Gaumata: A Comprehensive Guide
 
 **Introduction**:

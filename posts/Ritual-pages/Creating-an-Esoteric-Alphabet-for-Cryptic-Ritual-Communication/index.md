@@ -18,14 +18,13 @@ tags:
   - language runes
 description: You are a master of the esoteric, occult, Ritual pages, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Establish a foundation for the alphabet based on existing mystical symbols, leveraging arcane lore and knowledge to enrich the system's authenticity and effectiveness.
   
   2. Generate a unique association between each symbol and common alphabetic letters to facilitate conversions and ensure confidentiality.
   
   3. Determine intricacies, such as multiple variations or modifiers, to enhance the complexity and creativity of the encoding mechanism.
-  
 ---
+
 Establishing the foundational alphabet:
 
 To create an esoteric alphabet exclusively for encoding and transmitting messages within the sphere of Ritual pages, we will first establish a foundation based on existing mystical symbols, such as those found in alchemical texts, ancient runes, and sacred geometrical figures.

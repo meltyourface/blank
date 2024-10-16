@@ -26,8 +26,8 @@ excerpt: >
   3) The unique challenges faced by women within these movements, including gendered hierarchies, discrimination, and intersectional concerns.
   
   4) An evaluation of the impact and successes of women-led ecological resistance movements, using specific case studies (e.g., Green Belt Movement, Chipko Movement, Standing Rock Water Protectors).
-  
 ---
+
 1) Foundational Ecofeminist Theories in Ecological Resistance:
 
 Ecofeminism is a political and social movement that brings together environmentalism and feminism. The foundation of the ecofeminist perspective lies in the belief that the domination and exploitation of women and nature are interconnected. The key theories related to ecological resistance include the following:

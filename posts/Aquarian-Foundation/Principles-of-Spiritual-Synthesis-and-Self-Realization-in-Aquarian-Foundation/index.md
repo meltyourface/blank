@@ -24,8 +24,8 @@ excerpt: >
   - Declaration of Spiritual Independence
   
   - Sevenfold Path of Spiritual Unfoldment
-  
 ---
+
 - Principle of Spiritual Synthesis
 
 The Principle of Spiritual Synthesis represents the core belief of the Aquarian Foundation that every individual must seek enlightenment through exploring the depths of their own consciousness and understanding the interconnectivity of all aspects of the universe.

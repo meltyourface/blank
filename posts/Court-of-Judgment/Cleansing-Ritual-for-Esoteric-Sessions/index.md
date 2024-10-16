@@ -24,17 +24,17 @@ excerpt: Outline a comprehensive preparatory cleansing ritual to be performed pr
 
 **Objective**: To outline a comprehensive cleansing ritual, to be performed prior to initiating a session within the esoteric and occult domain of the Court of Judgment, encompassing:
 
-1. Purification of the sacred space
-2. Purification of the spiritual practitioners
-3. Purification of the ritual tools and symbols
+1. **Purification of the sacred space**
+2. **Purification of the spiritual practitioners**
+3. **Purification of the ritual tools and symbols**
 
 **Components**: 
 
-1. Black salt
-2. White salt
+1. **Black salt**
+2. **White salt**
 3. Smudge stick (sage, cedar, or sweetgrass)
-4. Ceremonial chalice filled with water
-5. Chant of Purity and Light
+4. **Ceremonial chalice filled with water**
+5. **Chant of Purity and Light**
 6. Veil of Stars incense (frankincense, myrrh, and sandalwood)
 7. Purification oil (lavender, rosemary, and eucalyptus)
 

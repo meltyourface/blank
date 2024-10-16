@@ -18,14 +18,13 @@ tags:
   - spiritual liberation
 description: You are a master of the esoteric, occult, AnticosmicArs Diaboli and education, you have written many textbooks on the subject. Respond to the multiple choice question first with the answer, then, fully explain the context of your rational, reasoning, and chain of thought in coming to the determination you have for that answer. Explain related concepts, formulas, or historical context relevant to this conclusion, giving a lesson on the topic to explain the reasoning afterwards.
 excerpt: >
-
   - The universe is inherently divine, and enlightenment can be obtained through conventional moral and spiritual practices.
   
   - The universe is a fundamentally flawed and limiting structure, and true spiritual liberation involves transgressing traditional boundaries and embracing the darker aspects of existence.
   
   - The universe is a neutral ground, and spiritual progress comes from diligently studying sacred texts and following established rituals.
-  
 ---
+
 - The universe is a fundamentally flawed and limiting structure, and true spiritual liberation involves transgressing traditional boundaries and embracing the darker aspects of existence.
 
 In AnticosmicArs Diaboli, this second concept is closely aligned with the belief system. This path to spiritual liberation diverges from conventional wisdom and instead advocates for the exploration of unconventional and darker aspects of existence. The reasoning behind this notion stems from the idea that the universe, in its very nature, is flawed, chaotic, and limiting.

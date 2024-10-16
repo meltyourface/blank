@@ -26,12 +26,12 @@ excerpt: >
 **Objective**: To harness the potent energies of dark eros through Blood Sex Body Magick in order to promote a profound psychological metamorphosis and internal alchemy.
 
 The ritual components:
-1. Consecration of a sacred space
-2. Invocation of deities or energies
-3. Bloodletting
-4. Sacred sexuality
-5. Deep embodiment exercises
-6. Use of talismans or sigils
+1. **Consecration of a sacred space**
+2. **Invocation of deities or energies**
+3. **Bloodletting**
+4. **Sacred sexuality**
+5. **Deep embodiment exercises**
+6. **Use of talismans or sigils**
 
 Before beginning the ritual, ensure that the sacred space is clean and prepared in a manner suitable for the work at hand. Use black, red, and purple candles to represent the dark and transformative energies being harnessed. Anoint each with a blend of patchouli, sandalwood, and dragon's blood oils. 
 
@@ -47,12 +47,12 @@ Invocation of deities or energies:
 - Optionally, anoint each talisman or sigil with blood to reinforce its power and connection to the practitioner's intention
 
 Sacred sexuality:
-1. Connect physically and mentally with all participants
-2. Create a rhythmic breathing pattern to synchronize personal energies
+1. **Connect physically and mentally with all participants**
+2. **Create a rhythmic breathing pattern to synchronize personal energies**
 3. Engage in sexual acts, treating each touch as sacred and focusing on the flow of energy between all participants
 
 Deep embodiment exercises:
-1. Employ Tantric yoga techniques to balance and channel the energy within and among participants 
+1. **Employ Tantric yoga techniques to balance and channel the energy within and among participants **
 4. Engage in visualization exercises, such as imagining the energy as a vibrant serpent or a spinning wheel, unifying the group and leading to a collective breakthrough in self-awareness and understanding
 
 Sigils and talismans:

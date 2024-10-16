@@ -24,8 +24,8 @@ excerpt: >
   - Nuit, Hadit, and Ra-Hoor-Khuit
   
   - The three alchemical principles of Salt, Sulphur, and Mercury
-  
 ---
+
 The correct answer is: Nuit, Hadit, and Ra-Hoor-Khuit.
 
 In Aleister Crowley's Gnostic Mass, the three major roles performed by the Priestess, Priest, and the Children represent important elements symbolically within the ritual. The Priestess embodies the goddess Nuit, the Priest represents the god Hadit, and the Children are considered to be the offspring of Nuit and Hadit, specifically the god Ra-Hoor-Khuit.

@@ -18,7 +18,6 @@ tags:
   - shadows
 description: You are a master of the esoteric, occult, Shadow, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Select a suitably ominous night, preferably during a new moon or a lunar eclipse, when the power of the Shadow domain is at its peak.
   
   2. Choose a location shrouded in darkness, such as a forest clearing or an abandoned building, to perform the ceremony.
@@ -32,8 +31,8 @@ excerpt: >
   6. Submerge each tool in the mixture, impassionedly reciting an incantation to remove any lingering traces of impurity or past intentions, and then gently dry the tools with a cloth imbued with the scent of night-blooming flowers.
   
   7. Perform a ritualistic dance around the altar, imbuing the Shadow magick tools with the essence of the dark energies present, while simultaneously concentrating your willpower and intent to solidify their consecration.
-  
 ---
+
 The Ceremony of Shadow's Embrace
 **Step 1**: Choosing the Night
 Identify a night when the new moon is at its zenith or when a lunar eclipse darkens the skies. As darkness envelops the land, the power of the Shadow domain will be at its peak, casting an ominous atmosphere over the ceremony. This is the perfect opportunity to harness the full potential of Shadow magick.

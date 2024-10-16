@@ -28,7 +28,7 @@ The Friedrich NietzscheSupernatural (abbreviated from here on as FNS) paradigm i
 
 ### I. Philosophical Foundations
 
-1. The Will to Power
+1. **The Will to Power**
 
 At the core of Nietzsche's philosophy lies the concept of the Will to Power, that is, the innate drive of all beings to exert their influence, achieve dominion, and manifest their full potential. In the FNS paradigm, the Will to Power takes on an even greater significance, serving as the key to unlocking supernatural abilities.
 
@@ -36,21 +36,21 @@ At the core of Nietzsche's philosophy lies the concept of the Will to Power, tha
 
 The Übermensch (or "overman") is central to Nietzsche's thought as a vision of humanity's highest potential, transcending limitations, values, and morals. Within the FNS paradigm, the Übermensch is a highly powerful supernatural being, capable of wielding occult knowledge and energies to achieve their full potential as a human.
 
-3. The Eternal Recurrence
+3. **The Eternal Recurrence**
 
 Nietzsche's concept of Eternal Recurrence posits that time and the universe are cyclical, with each moment recurring eternally. FNS builds upon this notion by integrating metaphysical cycles within the supernatural realm, allowing for unique possibilities of reincarnation, elemental and alchemical manipulation, and manipulation of the fabric of reality itself.
 
 ### II. Supernatural Elements
 
-1. Psychic Abilities
+1. **Psychic Abilities**
 
 FNS proposes that humans possess latent psychic abilities that can be awakened through the Will to Power. These abilities include telepathy, clairvoyance, and precognition – all of which become integral to practitioners' self-actualization and transcending mundane borders.
 
-2. Magical Practices
+2. **Magical Practices**
 
 Rooted in traditional occult practices and rituals, FNS incorporates magical elements such as ceremonial magic, divination, and alchemy. These practices are augmented by Nietzsche's philosophy, providing a sophisticated and transformative approach to personal growth and the actualization of the Will to Power.
 
-3. Mythological and Symbolic Imagery
+3. **Mythological and Symbolic Imagery**
 
 The FNS paradigm draws heavily from mythological and symbolic interpretations of Nietzsche's works, incorporating archetypes and symbols into its esoteric framework. This establishes a unique, metaphysical language that enriches the paradigm's understanding of the supernatural.
 
@@ -60,11 +60,11 @@ The FNS paradigm draws heavily from mythological and symbolic interpretations of
 
 Central to FNS is the idea of personal transformation. By employing its philosophical and supernatural concepts, practitioners can engage in a process of self-overcoming, realizing their individual Wills to Power, and potentially developing psychic abilities in the pursuit of becoming the Übermensch.
 
-2. Occult Knowledge and Ritual
+2. **Occult Knowledge and Ritual**
 
 The integration of occult knowledge and rituals within the FNS framework offers students a dynamic and powerful approach to esoteric study. By applying philosophical principles to traditional magical techniques, FNS practitioners can create innovative and unique rituals, spells, and divination methods that resonate with the Nietzschean themes of personal growth and individualism.
 
-3. Therapeutic and Spiritual Development
+3. **Therapeutic and Spiritual Development**
 
 Grounded in both philosophy and the supernatural, FNS offers a rich and sophisticated path for psychological, emotional, and spiritual development. By engaging with this paradigm, students can explore the depths of their psyche, unlock latent potential, and create profound personal change.
 

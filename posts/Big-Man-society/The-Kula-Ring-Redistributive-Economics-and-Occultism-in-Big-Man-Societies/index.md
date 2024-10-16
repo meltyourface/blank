@@ -25,12 +25,12 @@ To understand and fully respond to this knowledge challenge, we must first provi
 1. **Context**: Big Man society
 Big Man society refers to a type of social structure often found in tribal communities, specifically in Melanesia and the Pacific Islands. In this setting, a charismatic and influential figure known as the "Big Man" leads and mediates disputes. His power relies on his aptitudes and capacity to obtain resources, redistribute wealth, and establish social and political connections rather than using formal authority.
 
-2. Kula Ring and its economic significance
+2. **Kula Ring and its economic significance**
 The Kula Ring is a ceremonial exchange system practiced in the Milne Bay Province of Papua New Guinea, wherein communities engage in reciprocal gift-giving involving valuable marine shells (red spondylus shells called "soulava" and white Conus shells called "mwali"). The purpose of this exchange system, which is based on trust and mutual support, is to establish an intricate web of relationships and alliances among various tribes and individuals.
 
 The Kula Ring functions as a cohesive force among these communities by reinforcing the mutual obligations and dependencies that keep the societal structure united. Importantly, these exchanges occur through non-market mechanisms, which contrast with capitalistic, market-based economies.
 
-3. Redistribution in the Kula Ring
+3. **Redistribution in the Kula Ring**
 The redistributive economic practices in the context of the Big Man society and the Kula Ring can be understood at both micro and macro levels. At the micro level, the Big Man is responsible for the redistribution of wealth through the circulation of these valuable gifts among his followers, allies, and neighboring chiefs. This redistribution of wealth aids in maintaining his status and influence in the community.
 
 On a macro level, the Kula Ring operates as a large-scale redistribution system, where participants continuously circulate these prestigious gifts in a clockwise or counterclockwise direction across the islands. This system serves to maintain social relationships among different communities and ensure that resources remain within the larger societal network, reinforcing their interdependence.

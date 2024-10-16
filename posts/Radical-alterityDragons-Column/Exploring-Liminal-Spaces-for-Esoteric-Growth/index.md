@@ -23,8 +23,8 @@ excerpt: >
   The unification of diverse esoteric worldviews in an attempt to create a singular spiritual framework
   
   The deep exploration of liminal spaces to tap into unknown and powerful energies
-  
 ---
+
 The answer is:
 
 A careful focus on traditional astrological symbols found within Western horoscopes

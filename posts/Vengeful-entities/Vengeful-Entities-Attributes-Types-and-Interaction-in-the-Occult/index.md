@@ -31,12 +31,12 @@ Attributes of Vengeful Entities:
 
 Vengeful entities possess certain distinct characteristics that set them apart from other spiritual beings. **Some common attributes include**:
 
-1. Willingness to exact retribution
+1. **Willingness to exact retribution**
 2. Ability to influence the thoughts, emotions, or actions of others
-3. May manifest as spectral or physical appearances
-4. Function as intermediaries between the human and spiritual realms
-5. Possess knowledge beyond mortal understanding
-6. May require ritual offerings or sacrifices
+3. **May manifest as spectral or physical appearances**
+4. **Function as intermediaries between the human and spiritual realms**
+5. **Possess knowledge beyond mortal understanding**
+6. **May require ritual offerings or sacrifices**
 
 Types of Vengeful Entities:
 

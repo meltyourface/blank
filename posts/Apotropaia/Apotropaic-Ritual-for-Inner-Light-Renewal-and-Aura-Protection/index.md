@@ -18,7 +18,6 @@ tags:
   - moon energy
 description: You are a master of the esoteric, occult, Apotropaia, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Select a specific moon phase, such as the full moon or new moon, that best resonates with the intent of inner light renewal.
   
   2. Determine the optimal astrological aspects and celestial alignments that enhance the potency of Apotropaic practices.
@@ -28,8 +27,8 @@ excerpt: >
   4. Compose a series of incantations, chants, or hymns in a sacred tongue or enigmatic code to invoke the energies of protection and illumination.
   
   5. Establish a step-by-step ritual framework that includes purification, casting a protective circle, evoking spiritual guardians or deities, performing the Apotropaic rite, and sealing the process with a banishing technique.
-  
 ---
+
 1. Moon Phase: Waxing Gibbous Moon
 The Waxing Gibbous Moon phase is chosen for the ceremony as it represents growth, transformation, and the accumulation of energy. This phase directly precedes the Full Moon, symbolizing an increase in inner light and the amplification of mystical defenses, making it most suitable for the intent of inner light renewal.
 

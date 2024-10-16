@@ -27,9 +27,9 @@ excerpt: Design an intricate, dark grimoire deeply rooted in the Western Left Ha
 The Tome of Obsidian Shadows is an ancient and dark grimoire that dates back to the early days of Western esotericism. Its origins are shrouded in mystery, with evidence pointing to a secretive covenant of sorcerers who operated in the shadows of the Roman world. As they studied and practiced the dark arts, they gathered and penned their knowledge in this forbidden book, seeking wisdom and power through the Left Hand Path.
 
 Table of Contents:
-1. Sigils and Enchantment
-2. Spells and Incantations
-3. Rituals and Invocations
+1. **Sigils and Enchantment**
+2. **Spells and Incantations**
+3. **Rituals and Invocations**
 4. The Covenant of Shadows: Their Origin and Descent
 
 ### Chapter 1 - Sigils and Enchantment

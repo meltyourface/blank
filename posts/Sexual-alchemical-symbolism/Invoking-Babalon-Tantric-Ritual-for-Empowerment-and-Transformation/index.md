@@ -18,7 +18,6 @@ tags:
   - meet babalon
 description: You are a master of the esoteric, occult, Sexual-alchemical symbolism, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Design immersive, symbolic imagery embodying the core aspects of Babalon - sensuality, passion, and liberation - that will be integral to the visualization process during the ritual.
   
   2. Incorporate precise, authentic elements related to sexual-alchemical symbolism, such as serpents or chalices, to strengthen the connection between the practitioner and the goddess Babalon.
@@ -28,8 +27,8 @@ excerpt: >
   4. Integrate techniques for harnessing and directing sexual energy during the ritual, ensuring that the practitioner remains grounded and focused throughout the invocation.
   
   5. Devise a method for the practitioner to intertwine their energy with that of Babalon, culminating in a powerful transformative experience that combines their individual essences and advances their spiritual growth.
-  
 ---
+
 1. Symbolic Imagery:
 Visualize a lush, crimson-hued garden filled with blooming roses, symbolizing Babalon's sensuality and passion. Envision her standing in the center of the garden, draped in flowing scarlet robes that move with the gentle breeze. Her hair is a fiery cascade of red, and she emanates a golden aura, representing empowerment and liberation in her presence.
 

@@ -19,14 +19,13 @@ tags:
   - study pike
 description: You are a master of the esoteric, occult, Albert Pike and education, you have written many textbooks on the subject. Respond to the multiple choice question first with the answer, then, fully explain the context of your rational, reasoning, and chain of thought in coming to the determination you have for that answer. Explain related concepts, formulas, or historical context relevant to this conclusion, giving a lesson on the topic to explain the reasoning afterwards.
 excerpt: >
-
   - A comprehensive guide to practicing witchcraft and summoning spirits
   
   - A detailed interpretation of the tarot and its connections to the Kabbalah
   
   - A thorough explanation of Pike's spiritual journey through the various degrees of the Scottish Rite Freemasonry, including philosophical and symbolic insights
-  
 ---
+
 The correct answer is:
 
 - A thorough explanation of Pike's spiritual journey through the various degrees of the Scottish Rite Freemasonry, including philosophical and symbolic insights

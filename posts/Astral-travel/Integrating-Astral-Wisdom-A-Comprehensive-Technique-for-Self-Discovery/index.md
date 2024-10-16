@@ -18,7 +18,6 @@ tags:
   - learned astral
 description: You are a master of the esoteric, occult, Astral travel, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Cultivate a method to accurately record the details of your astral travels, such as employing a dedicated astral journal or utilizing an audio recording device to capture your experiences upon reentry to the physical realm.
   
   2. Establish a system to analyze and categorize the information gathered during your astral excursions, specifically differentiating between levels of importance and relevance to your personal growth and spiritual development.
@@ -28,8 +27,8 @@ excerpt: >
   4. Create a personalized ritual or ceremony to honor and integrate the lessons learned during your astral travels, incorporating relevant symbols, affirmations, or gestures connecting to the unique experiences gained within the astral plane.
   
   5. Develop a feedback loop to assess the effectiveness of the integration process over time, and adjust the techniques employed accordingly to maximize the benefits and growth opportunities yielded from your astral ventures.
-  
 ---
+
 To achieve a comprehensive integration technique for synthesizing acquired wisdom and insights from your astral journeys, proceed with the following:
 
 1. **Accurate Recording**:

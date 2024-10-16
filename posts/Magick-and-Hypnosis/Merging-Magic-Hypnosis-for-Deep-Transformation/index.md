@@ -48,13 +48,13 @@ Utilizing both Magick and Hypnosis enables you to create a more potent and preci
 
 Drawing on combined principles of Magick and Hypnosis offers a powerful approach to casting spells and performing rituals. Here are some examples of how to integrate the two concepts:
 
-1. Candle Ritual for Emotional Healing
+1. **Candle Ritual for Emotional Healing**
 Utilize color correspondences and intentions in selecting a candle. As the candle burns, guide yourself into a hypnotic state, focusing on releasing emotional pain. Use visualization techniques to imagine the smoke carrying away the pain and clearing space for healing.
 
-2. Sigil Creation and Activation through Trance
+2. **Sigil Creation and Activation through Trance**
 Craft a sigil representing a specific goal or desire. Enter a hypnotic state and intensely focus on the sigil, allowing it to become deeply embedded within your subconscious. The sigil acts as a direct suggestion to the unconscious mind, subtly working to manifest your intention.
 
-3. Guided Meditation for Astral Travel
+3. **Guided Meditation for Astral Travel**
 Combine the magickal practice of astral travel with the depth of hypnosis. As you lead yourself through a hypnotic process to relax your body and mind, use guided visualization to journey into the astral realm. Explore the various planes of existence, encounter spiritual guides, and gain insight and wisdom.
 
 Conclusion

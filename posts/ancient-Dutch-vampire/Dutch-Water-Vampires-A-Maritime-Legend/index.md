@@ -23,8 +23,8 @@ excerpt: >
   Dutch vampires possess the ability to control water elements, reflecting their origin as water spirits, while also sharing common vampire traits such as aversion to sunlight and need for sustenance on blood.
   
   During the Golden Age of Dutch exploration, sailors who were lost at sea were believed to become ancient Dutch vampires if their bodies weren't recovered.
-  
 ---
+
 The correct answer is:
 
 Dutch vampires possess the ability to control water elements, reflecting their origin as water spirits, while also sharing common vampire traits such as aversion to sunlight and need for sustenance on blood.

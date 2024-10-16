@@ -48,7 +48,7 @@ The contents of a grimoire may include, but are not limited to:
 1. The practitioner's intentions and goals in practicing Grimoire Magic
 2. Symbols, sigils, and designs that hold personal significance
 3. Records of observations, experiences, and insights from magical practices
-4. Information on spiritual entities and their associated powers
+4. **Information on spiritual entities and their associated powers**
 5. Magical rituals, spells, and invocations
 6. Astral charts, talismans, or planetary glyphs
 7. Recipes for potions, incenses, and ointments

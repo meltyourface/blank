@@ -18,14 +18,13 @@ tags:
   - raleigh honour
 description: You are a master of the esoteric, occult, 17th-century prose, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. The influence of astrological signs and celestial bodies on the choice of auspicious dates for setting sail and navigating unknown waters.
   
   2. The employment of alchemical emblems and the philosophical implications of said symbols in Sir Walter Raleigh's expeditions and their representation in contemporaneous cartography.
   
   3. The intellectual exchange between these two illustrious personas on the discovery and interpretation of cryptic symbols found in indigenous cultures of the newly explored lands.
-  
 ---
+
 Letter the First: from John Dee to Sir Walter Raleigh
 
 To the Honour of my esteemed Friend, Sir Walter Raleigh,

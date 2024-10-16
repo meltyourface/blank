@@ -18,7 +18,6 @@ tags:
   - ritual
 description: You are a master of the esoteric, occult, Negation of systems, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Develop a system of esoteric symbols and sigils specifically tailored to weaken the grasp of ego and encourage self-dissolution.
   
   2. Craft a set of intricate incantations, drawing from ancient languages and mystical paradigms, to amplify the power of the rituals.
@@ -28,8 +27,8 @@ excerpt: >
   4. Outline specific phases and progression points within the ritual series to facilitate gradual, measurable shifts in one's self-awareness and perception.
   
   5. Integrate tools, objects, and substances known to possess properties that support the goals of the ritual, such as gemstones, herbs, and sacred geometry.
-  
 ---
+
 Negation of Systems: The Pathway to Ego Dissolution
 
 The following occult rituals are designed to systematically deconstruct and disassociate one's ego and sense of self. Centered around the Negation of systems, they encourage self-dissolution through five key elements:

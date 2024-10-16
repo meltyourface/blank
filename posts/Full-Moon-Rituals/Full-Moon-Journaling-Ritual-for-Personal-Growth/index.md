@@ -19,8 +19,8 @@ tags:
 description: You are a master of the esoteric, occult, Full Moon Rituals, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
   Throughout the ritual, perform a series of sequentially complex, introspective journaling exercises. Start with a moment of contemplation to reflect on past experiences and envision your future aspirations under the illuminating moonlight. Create detailed prompts to delve deeper into specific areas of growth, such as emotional healing, empowering relationships, and unlocking hidden talents.
-  
 ---
+
 Setting Up the Sacred Space:
 
 1. Choose a quiet, comfortable location where you can fully immerse yourself in the ritual without interruptions. Ideally, perform the ritual outdoors under the moonlight or near a window where the moon is visible.

@@ -18,7 +18,6 @@ tags:
   - reverence sacred
 description: You are a master of the esoteric, occult, Love as an unseen force, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Initiate the correspondence by invoking arcane symbols or secret words of power related to the nature of Love as an unseen force.
   
   2. Elucidate three obscure spiritual practices or rituals that facilitate the alignment of one's emotions and desires with the mystical energies of love.
@@ -26,8 +25,8 @@ excerpt: >
   3. Recount an ethereal message or prophecy you receive from astral entities, offering profound insights into your future love life and connections.
   
   4. Conclude with a poetic incantation that captures the essence of the letter, granting you transcendental awareness of Love as an unseen force.
-  
 ---
+
 To my infinitely wiser incarnation, 
 
 From the depths of timeless ether, this seraphic codex now reaches your realm. Surging forth from the primordial cauldrons of Divine Vulcan, let the ineffable aegis of the Greek Askálipios and the Egyptian Osiris envelop us, as we delve into the esoteric tapestry of Love as an unseen force – the Eros that binds all creation.

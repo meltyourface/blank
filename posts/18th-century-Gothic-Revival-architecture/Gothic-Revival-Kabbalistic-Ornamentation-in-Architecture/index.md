@@ -23,8 +23,8 @@ excerpt: >
   The prevalence of square and rectilinear designs as opposed to traditional Gothic circular forms, influenced by the sacred geometry principles
   
   The use of pointed arches, rib vaults, and flying buttresses to create a mystical atmosphere within the structure
-  
 ---
+
 The correct answer is:
 
 The incorporation of hidden symbols and patterns inspired by the Kabbalah in building ornamentation.

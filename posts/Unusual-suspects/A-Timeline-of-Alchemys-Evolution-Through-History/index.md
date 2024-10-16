@@ -31,8 +31,8 @@ excerpt: >
   5. Rosicrucianism
   
   6. Theosophy
-  
 ---
+
 For this comprehensive exploration, I have chosen to delve into the world of Alchemy.
 
 Alchemy, the ancient art of transmuting base elements into more precious ones, contains rich and complex historical roots. Its origins are usually traced back to Hellenistic Egypt, but its influence has spanned centuries and numerous civilizations. In this annotated timeline, I detail the critical moments of Alchemy's history, from its foundations and evolution to its modern resurgence.

@@ -18,7 +18,6 @@ tags:
   - death dream
 description: You are a master of the esoteric, occult, Death divination, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. The central symbol of death present in the dream (e.g., Grim Reaper, skulls, or corpses) and its correlation with specific necromantic traditions.
 
   2. The deceased individuals, animals, or objects, focusing on their relationship to the dreamer and their potential spiritual significance in the context of Death divination.
@@ -30,8 +29,8 @@ excerpt: >
   5. Any associated symbols or recurring motifs that may relate to the intricate web of birth, death, and rebirth doctrines across diverse cultures.
 
   6. Any prophetic insight or cryptic warnings that the dream may be communicating in terms of the dreamer's future encounters with Death, suggesting potential ways to prepare or mitigate such encounters.
-  
 ---
+
 1. **Central Symbol of Death**:
 In the oneiric vision, the central symbol of death is a shrouded figure wielding a ceremonial dagger. This symbol correlates with ancient Egyptian necromantic traditions, as the dagger represents the sacred instrument used to protect the spirit of the deceased during the process of mummification. Similarly, the shrouded figure could be interpreted as Anubis, the god of death and embalming, guiding the dead to the afterlife.
 

@@ -60,11 +60,11 @@ Essential tools and materials required for Transcendental rituals include:
 
 Transcendental rituals offer a wide range of benefits when carried out correctly, including:
 
-1. Profound spiritual enlightenment
-2. Heightened intuition and psychic abilities
-3. Personal transformation and inner healing
-4. Manifestation of intentions and desires
-5. Deepened connection with higher realms
+1. **Profound spiritual enlightenment**
+2. **Heightened intuition and psychic abilities**
+3. **Personal transformation and inner healing**
+4. **Manifestation of intentions and desires**
+5. **Deepened connection with higher realms**
 
 However, there are certain risks involved, especially for beginners:
 

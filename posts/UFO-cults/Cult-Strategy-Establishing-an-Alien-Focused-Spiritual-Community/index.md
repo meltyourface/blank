@@ -18,7 +18,6 @@ tags:
   - understand cult
 description: You are a master of the esoteric, occult, UFO cults, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Research and document the cult's foundational principles, extraterrestrial encounters, and occult practices to establish a comprehensive and authoritative guide for members.
   
   2. Design immersive rituals and ceremonies highlighting the UFO cult's esoteric beliefs and fostering deeper connections among members.
@@ -32,8 +31,8 @@ excerpt: >
   6. Seek opportunities to collaborate with other fringe UFO and paranormal groups, building alliances that promote the longevity and cross-pollination of unique ideologies.
   
   7. Outline a succession plan for the cult's leadership, ensuring a seamless transition in the event of unforeseen changes.
-  
 ---
+
 1. Research and documentation:
 To establish a comprehensive and authoritative guide for cult members, extensive research and documentation will be conducted in the following areas:
 a. Origins and history of the cult's extraterrestrial encounters

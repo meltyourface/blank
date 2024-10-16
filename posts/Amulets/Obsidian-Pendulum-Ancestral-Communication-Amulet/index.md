@@ -18,14 +18,13 @@ tags:
   - amulet optimal
 description: You are a master of the esoteric, occult, Amulets and education, you have written many textbooks on the subject. Respond to the multiple choice question first with the answer, then, fully explain the context of your rational, reasoning, and chain of thought in coming to the determination you have for that answer. Explain related concepts, formulas, or historical context relevant to this conclusion, giving a lesson on the topic to explain the reasoning afterwards.
 excerpt: >
-
   - Iron amulet placed in a child's crib to ward off negative spirits while the protection spell is charged by the moon's energy
   
   - An obsidian pendulum used to communicate with ancestors and spirits, strengthened by being in contact with burial grounds
   
   - A silver talisman engraved with sigils to attract wealth, drawing power from the rays of the morning sun
-  
 ---
+
 The most accurate answer would be: An obsidian pendulum used to communicate with ancestors and spirits, strengthened by being in contact with burial grounds.
 
 **Explanation**:

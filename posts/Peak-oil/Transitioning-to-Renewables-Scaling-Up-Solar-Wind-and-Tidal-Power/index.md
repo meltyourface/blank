@@ -21,7 +21,7 @@ excerpt: Conduct an in-depth analysis on the feasibility of large-scale implemen
 ---
 In the context of peak oil, the large-scale implementation of renewable energy systems such as solar, wind, and tidal power become essential to maintain the global energy demands currently met by fossil fuels. Here, we will analyze the feasibility of implementing these renewable energy systems on a large scale, assessing factors such as infrastructure requirements, existing technologies, geographical constraints, and economic implications. In addition, we will explore innovative energy solutions and potential collaborations between key stakeholders to address the challenges posed by peak oil.
 
-1. Solar Power
+1. **Solar Power**
 
 **Infrastructure requirements**: Solar power infrastructure primarily includes large-scale solar farms, rooftop solar installations, energy storage systems, and efficient transmission and distribution systems. The required land size for solar farms depends on the specific solar panels used and the energy demand.
 
@@ -31,7 +31,7 @@ In the context of peak oil, the large-scale implementation of renewable energy s
 
 **Economic implications**: Costs for solar power systems have plummeted over recent years, making them competitive with conventional energy sources. Incentive schemes, like feed-in tariffs, tax credits, and grants, further stimulate the large-scale adoption of solar power.
 
-2. Wind Power
+2. **Wind Power**
 
 **Infrastructure requirements**: Wind power infrastructure requires large land or offshore areas for the installation of wind turbines, as well as transmission lines to distribute the generated energy.
 
@@ -41,7 +41,7 @@ In the context of peak oil, the large-scale implementation of renewable energy s
 
 **Economic implications**: Over the past decades, wind power technology costs have decreased, making wind energy cost-competitive with conventional energy sources. Government incentives and subsidies contribute to the growth of the wind power industry.
 
-3. Tidal Power
+3. **Tidal Power**
 
 **Infrastructure requirements**: Tidal power infrastructure includes tidal barrage systems, tidal stream generators, and tidal lagoons. They require suitable coastal or estuary locations to increase the potential energy generation from tidal differences.
 

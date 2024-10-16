@@ -18,14 +18,13 @@ tags:
   - spells athame
 description: You are a master of the esoteric, occult, Alexandrian Witchcraft and education, you have written many textbooks on the subject. Respond to the multiple choice question first with the answer, then, fully explain the context of your rational, reasoning, and chain of thought in coming to the determination you have for that answer. Explain related concepts, formulas, or historical context relevant to this conclusion, giving a lesson on the topic to explain the reasoning afterwards.
 excerpt: >
-
   - Athame, God and Goddess in balance, Drawing down the Moon
   
   - Wand, Horned God predominance, Blood sacrifice
   
   - Chalice, Goddess superiority, Sexual rituals only
-  
 ---
+
 - Athame, God and Goddess in balance, Drawing down the Moon
 
 In Alexandrian Witchcraft, the combination of ritual tools, deity aspects, and magical practices crucial for practicing the tradition effectively is using the Athame (a ceremonial dagger), honoring both the God and Goddess in balance, and the practice of Drawing down the Moon.

@@ -18,7 +18,6 @@ tags:
   - enlightenment
 description: You are a master of the esoteric, occult, Devil's Grimoire, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Selection of three specific passages from the Devil's Grimoire that resonate with your objectives and explain their relevance to your pursuits.
   
   2. Crafting an original incantation, inspired by the chosen passages, to invoke the powers of the arcane in your daily life and describe its working mechanism.
@@ -28,8 +27,8 @@ excerpt: >
   4. Integration of daily meditative practices, adopting techniques from the Grimoire designed to increase your psychic and intuitive abilities.
   
   5. Concoction of a personalized potion or elixir incorporating ingredients and recipes found within the Devil's Grimoire, specifying the desired goals and intended effects.
-  
 ---
+
 1. Selection of Three Specific Passages
 
 a. **Passage 1**: "For indeed, there is great power within us all, hidden in the shadows, revealed only to the daring and determined seeker." - This passage resonates with the goal of unlocking personal potential and harnessing inner power.

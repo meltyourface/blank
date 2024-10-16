@@ -25,18 +25,18 @@ Target: Johnathan Smith
 
 ### I. Initial Intelligence Gathering
 
-1. Social Media Analysis
+1. **Social Media Analysis**
 - Facebook, Instagram, Twitter, LinkedIn, etc.
 - Identify close friends, family members, and work relationships
 
-2. Employment Information
+2. **Employment Information**
 - Employer, position, work hours, and routines
 - Access to employee database (records, colleagues, management)
 
-3. Home Address and Layout
+3. **Home Address and Layout**
 - Floor plans, security system measures, and weak points (entrances/exits)
 
-4. Financial Records
+4. **Financial Records**
 - Bank account details, habitual spending, frequented locations (restaurants/bars/shops)
 
 ### II. Detailed Habits and Routine Analysis
@@ -55,13 +55,13 @@ Target: Johnathan Smith
 
 ### III. Vulnerabilities and Patterns
 
-1. Physical Weaknesses
+1. **Physical Weaknesses**
 - Health issues, injuries, or vices (e.g., smoking, drinking)
 
-2. Emotional Weaknesses
+2. **Emotional Weaknesses**
 - Traumatic events, loss, relationships that can be exploited for manipulation
 
-3. Psychological Weaknesses
+3. **Psychological Weaknesses**
 - Anxiety, stress, fears, phobias, any predictable reactions under certain circumstances
 
 ### IV. Communication Channels
@@ -69,32 +69,32 @@ Target: Johnathan Smith
 1. Phone Calls (mobile/landline)
 - Monitor calls, especially those with intimate partners, friends, and colleagues
 
-2. Email and Messaging Apps
+2. **Email and Messaging Apps**
 - Intercept communication for real-time data or history analysis, such as WhatsApp, iMessage, and Gmail
 
-3. Social Media Direct Messages
+3. **Social Media Direct Messages**
 - Monitor Facebook Messenger, Twitter DMs, Instagram messages, etc.
 
 ### V. Daily Movements and Activities
 
-1. Regular Locations
+1. **Regular Locations**
 - Work, home, gym, bars, restaurants, and other frequented establishments
 
-2. Transportation Methods
+2. **Transportation Methods**
 - Car (make, model, license plate), public transport, rideshare accounts, etc.
 
-3. Travel Patterns
+3. **Travel Patterns**
 - Business trips, vacations, visits to family and friends out of town
 
 ### VI. Security Measures
 
-1. Personal Security
+1. **Personal Security**
 - Bodyguards, self-defense training, concealed carry permit
 
 2. Home/Work Security
 - Security systems, cameras, alarms, codes, guards, etc.
 
-3. Cybersecurity
+3. **Cybersecurity**
 - Antivirus, firewalls, VPN usage, strong password habits
 
 ### VII. Preferred Assassination Locations and Times

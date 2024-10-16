@@ -27,13 +27,13 @@ excerpt: >
 
 The Korybantic scene, often shrouded in mystery and intrigue, represents a branch of esotericism that has roots in ancient civilizations and has evolved over time into a complex system of rituals, practices, and symbolic frameworks. With its origins in the worship of the Phrygian deity Cybele, the Korybantic rites have been adopted and adapted by various cultures throughout history, including the Greeks and Romans, creating a rich and intricate tapestry of beliefs and practices that still resonates with practitioners of the occult today.
 
-1. Historical and Cultural Significance of the Korybantic Scene
+1. **Historical and Cultural Significance of the Korybantic Scene**
 
 The Korybantic scene emerged from the religious cult surrounding the worship of the goddess Cybele in ancient Phrygia, present-day Turkey. Cybele was a powerful mother goddess who embodied fertility, nature, and the cycle of life and death. The Korybantes, her attendant spirits or deities, were believed to be wild and ecstatic beings who served and protected Cybele through dance, music, and frenzied states of altered consciousness. 
 
 In Greece, these rituals infiltrated the cult of Dionysus, taking on a new dimension as participants merged the ecstatic dance and trance-like states with Dionysian mystery traditions, incorporating symbolism, esoteric lore, and initiatory practices associated with the god of wine, fertility, and mysticism. Later, in Roman times, the Korybantic rites were introduced as a part of the wider mystery religions, which focused on transformative experiences leading to spiritual rebirth and transcendence.
 
-2. Spirits and Deities of the Korybantic Scene
+2. **Spirits and Deities of the Korybantic Scene**
 
 The Korybantic pantheon primarily revolves around the goddess Cybele, a symbol of the Earth Mother and cosmic womb from which all life emerges and returns. Her consort, Attis, represents both divine love and the self-sacrifice necessary for spiritual rebirth, while Dionysus possesses the transformative energies of divine ecstasy, transcending mortal limitations.
 
@@ -63,7 +63,7 @@ e) Ritual Tools and Symbols
 
 Korybantic rituals also utilize an array of physical items, such as knives, wands, and sacred garments, which represent various symbolic, spiritual, and energetic principles vital to the working. These objects draw upon the practitioner's personal and collective spiritual history, channeling the energy and potency embedded within their archetypal resonance.
 
-4. Safety Precautions and Ethical Considerations in Korybantic Practices
+4. **Safety Precautions and Ethical Considerations in Korybantic Practices**
 
 Engaging in Korybantic rituals requires careful preparation, attention, and reverence, as the energies invoked and unleashed can be overwhelming and transformative. Therefore, it is essential to approach these practices with the utmost respect, adhering to established safety and ethical guidelines:
 

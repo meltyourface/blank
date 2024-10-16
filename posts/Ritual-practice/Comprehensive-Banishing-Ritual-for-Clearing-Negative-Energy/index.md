@@ -18,7 +18,6 @@ tags:
   - post ritual
 description: You are a master of the esoteric, occult, Ritual practice, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Determine the specific sources and manifestations of the unwanted negative energies within the domain, such as illness, emotional turmoil, or psychic disturbance.
   
   2. Choose a symbolic focal point for the ritual, like a talisman or sigil, that accurately embodies the energies to be banished.
@@ -28,8 +27,8 @@ excerpt: >
   4. Detail the purifying and protective measures to be performed before and after the banishing, including, but not limited to, the cleansing of ritual tools, marking of sacred boundaries, and invocation of guardian entities.
   
   5. Develop an effective grounding and centering technique to be carried out by all participants before, during, and after the banishing ritual, promoting internal balance and fortitude.
-  
 ---
+
 
 ## The Rite of Expulsion
 

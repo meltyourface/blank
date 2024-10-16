@@ -18,14 +18,13 @@ tags:
   - freemasons
 description: You are a master of the esoteric, occult, Anti-Masonry and education, you have written many textbooks on the subject. Respond to the multiple choice question first with the answer, then, fully explain the context of your rational, reasoning, and chain of thought in coming to the determination you have for that answer. Explain related concepts, formulas, or historical context relevant to this conclusion, giving a lesson on the topic to explain the reasoning afterwards.
 excerpt: >
-
   - The death of Mozart, a known Freemason, leading to rumors of his murder by the secret society
   
   - The publication of the Taxil hoax, which falsely accused Freemasons of devil worship
   
   - The release of the movie "National Treasure," which popularized conspiracies about the Knights Templar and Freemasons
-  
 ---
+
 The publication of the Taxil hoax, which falsely accused Freemasons of devil worship.
 
 The Taxil hoax, perpetrated by French author Léo Taxil in the late 19th century, is a significant event in the history of Anti-Masonry, as it contributed to the wide dissemination of conspiracy theories and intensified opposition to the Freemasonry. Taxil published a series of books and articles that falsely accused Freemasons of engaging in Satanic rituals and devil worship.

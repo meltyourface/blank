@@ -18,7 +18,6 @@ tags:
   - skull divination
 description: You are a master of the esoteric, occult, Creation and use of fetish-skulls, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Invocation of ancestral spirits or deities associated with the fetish-skull, providing their names, epithets, and any unique invocations or offerings crucial for their assistance.
 
   2. Precise instructions on the arrangement and consecration of the ritual space, detailing the required occult symbols, sigils, candles, and other items essential for fetish-skull divination.
@@ -28,8 +27,8 @@ excerpt: >
   4. A designated section outlining the complex procedure for interpreting the fetish-skull's responses, including any specific signs, symbols, or omens revealed during the divination session, and how to discern their meanings in relation to the querent's career concerns.
 
   5. A closing ritual to express gratitude to the invoked spirits or deities, ensuring their safe return to their respective realms and the proper sealing of any energetic connections established during the session. This may also include any necessary cleansing or protective rituals to safeguard the querent after the divination.
-  
 ---
+
 
 ## The Ritual of Obsidian Insight – A Fetish-Skull Divination for Career Trajectory
 

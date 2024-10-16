@@ -18,7 +18,6 @@ tags:
   - water moon
 description: You are a master of the esoteric, occult, Avalon Working, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Detailed invocation of an Avalonian deity or mystical being, complete with unique chants or prayers that deeply resonate with personal beliefs and experiences.
   
   2. Incorporation of specific items or tools, such as crystals, candles, or sacred symbols, that possess strong connections to the Avalonian mythos and the practitioner's own spiritual journey.
@@ -28,8 +27,8 @@ excerpt: >
   4. Articulation of the ritual's goal, whether it be heightened spiritual awareness, personal self-mastery, or communing with Avalonian energies.
   
   5. Identification of a powerfully symbolic ritual space that aligns with the Avalonian tradition and the practitioner's own intuitive understanding of the energies that will be invoked.
-  
 ---
+
 
 ## The Rite of the Silver Moon
 

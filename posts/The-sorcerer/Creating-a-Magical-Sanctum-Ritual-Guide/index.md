@@ -18,7 +18,6 @@ tags:
   - empower sanctum
 description: You are a master of the esoteric, occult, The sorcerer, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Identify the specific location, dimensions, and orientation of the sacred space, taking into account any existing ley lines, power nodes, or spiritual energies that may enhance or inhibit its effectiveness.
   
   2. Select and gather essential occult materials and artifacts, such as ceremonial tools, sacred texts, talismans, and enchanted objects, paying particular attention to the symbolic significance and magical properties of each item.
@@ -30,8 +29,8 @@ excerpt: >
   5. Consecrate and empower the sanctum by invoking the presence of one's patron deities, spirit guides, ancestral spirits, or other benevolent entities who will act as overseers and custodians, ensuring their continued aid and connection through offerings, meditations, or rituals.
   
   6. Regularly perform magical maintenance within the space to maintain its spiritual potency and cleanliness, including periodic recharging of energy through rituals, refreshing of protective barriers, and updating the altar or other focal points with fresh offerings and symbols.
-  
 ---
+
 Ritual for the Creation, Consecration, and Preservation of a Mystical Sanctum
 **Step 1**: Identify the sacred space
 Choose a suitable location within your dwelling for your mystical sanctum. The ideal area should be away from common living spaces and have a positive energy flow. Use dowsing rods or a pendulum to ascertain the presence of ley lines, power nodes, or spiritual energies that can enhance the sanctum's effectiveness. **Consider the following**:

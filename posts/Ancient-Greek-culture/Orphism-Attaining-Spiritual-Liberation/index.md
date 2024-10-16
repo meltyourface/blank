@@ -18,14 +18,13 @@ tags:
   - soul orphists
 description: You are a master of the esoteric, occult, Ancient Greek culture and education, you have written many textbooks on the subject. Respond to the multiple choice question first with the answer, then, fully explain the context of your rational, reasoning, and chain of thought in coming to the determination you have for that answer. Explain related concepts, formulas, or historical context relevant to this conclusion, giving a lesson on the topic to explain the reasoning afterwards.
 excerpt: >
-
   - Sophism
   
   - Orphism
   
   - Epicureanism
-  
 ---
+
 The correct answer is Orphism.
 
 Orphism was a religious and philosophical movement in Ancient Greece that was primarily concerned with the attainment of inner spiritual knowledge and the ultimate transcendence of the material world. Orphism can be distinguished from the other philosophical and religious movements mentioned in the question - Sophism, Epicureanism, and Stoicism - by its unique emphasis on the mystical experience and the quest for salvation through the soul's detachment from the physical world.

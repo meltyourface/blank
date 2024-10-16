@@ -31,8 +31,8 @@ excerpt: >
 
 1. **Challenge Cards (four categories**: Sensual, Erotic, Kinky, and Wild)
 2. **Reward Cards (two types**: Sensational and Intimate)
-3. Bonus Cards
-4. Stop Card
+3. **Bonus Cards**
+4. **Stop Card**
 
 **Set Up**: Shuffle the three different decks (Challenge, Reward, and Bonus) separately and place them face down in the center of the playing area. Place the Stop Card within easy reach of all players. Each player should start the game with nothing but the Stop Card in their hand.
 

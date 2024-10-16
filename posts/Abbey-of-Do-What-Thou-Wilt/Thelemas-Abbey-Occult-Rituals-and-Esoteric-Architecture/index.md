@@ -33,7 +33,8 @@ The Abbey of Do What Thou Wilt is built upon the foundation of Thelema, a philos
 
 1. **"Do what thou wilt shall be the whole of the Law"**: This central axiom signifies that one's true will is the essential force in life and should not be inhibited or restricted by cultural, social, or religious constraints.
 
-2. "Love is the Law, Love under will": This tenet complements the first, emphasizing that Love - in its purest, most divine form - should be guided by an individual's true will.
+
+2. **"Love is the Law, Love under will": This tenet complements the first, emphasizing that Love - in its purest, most divine form - should be guided by an individual's true will.**
 
 3. **The Great Work**: The central pursuit of those studying within the Abbey is the realization and recognition of one's true will, enabling their personal mastery of Magick, and achieving the supreme state of spiritual awakening.
 

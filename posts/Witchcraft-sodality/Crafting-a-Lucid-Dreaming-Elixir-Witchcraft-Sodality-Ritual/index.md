@@ -18,7 +18,6 @@ tags:
   - oils chosen
 description: You are a master of the esoteric, occult, Witchcraft sodality, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Determine a harmonious astrological window for optimal potion potency by consulting the lunar and planetary phases associated with vivid dreams.
   
   2. Specify six essential oils that possess entheogenic properties and are historically associated with dream enhancement or psychic experiences in various mystical traditions.
@@ -26,8 +25,8 @@ excerpt: >
   3. Compose incantations and symbolic sigils to be used throughout the ritual to invoke potent spiritual energies that magnify the elixir's effectiveness.
   
   4. Detail the step-by-step process of blending and consecrating the oils, including the meticulous crafting of a witch's circle, the utilizations of a ritual athame, and any preferred divination tools for guiding the process.
-  
 ---
+
 Task: Craft an elixir that enhances lucid dreaming within the Witchcraft sodality using essential oils and arcane ingredients.
 
 1. Astrological Window for Optimal Potion Potency:

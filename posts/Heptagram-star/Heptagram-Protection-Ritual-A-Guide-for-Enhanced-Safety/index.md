@@ -18,7 +18,6 @@ tags:
   - ritual maintaining
 description: You are a master of the esoteric, occult, Heptagram star, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Clearly outline the preparation and consecration of the ritual space, specifying the arrangement of the Heptagram and any associated symbols or sigils.
   
   2. Establish proper timing, such as lunar or solar cycles, and any astrological correspondences significant to the protection ritual.
@@ -30,8 +29,8 @@ excerpt: >
   5. Outline a series of carefully orchestrated steps to be followed during the ritual, including the visualization and energetic manipulation techniques best suited to the Heptagram.
   
   6. Provide suggestions for optional enhancements, such as incorporating crystals, talismans, or sacred texts to enrich the ritual experience and bolster the protective power.
-  
 ---
+
 Heptagram Protection Ritual
 
 1. **Preparation and Consecration of the Ritual Space**:

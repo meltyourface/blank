@@ -18,7 +18,6 @@ tags:
   - occult practice
 description: You are a master of the esoteric, occult, Individual revelation, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Analyze the varying roles of these entities in different mystical belief systems, such as Hermeticism, Gnosticism, and Thelema.
   
   2. Investigate the ways in which practitioners of these occult disciplines perceive, evoke, and utilize the guidance and influence of angels and demons in their personal spiritual journeys.
@@ -26,8 +25,8 @@ excerpt: >
   3. Explore historical examples where spiritual seekers had life-altering experiences after invoking these entities, either through ritualistic practices, meditation, or dream work.
   
   4. Assess the intersectionality between cultural and religious context, and how this impacts one's perception of angels and demons in their individual revelation.
-  
 ---
+
 1. Angels and Demons in Hermeticism, Gnosticism, and Thelema:
 
 In Hermeticism, a tradition based on the teachings of the mythic figure Hermes Trismegistus, angels and demons are often considered intermediaries between the material and divine realms. In this context, they help bridge the gap between the human and the divine in order to facilitate communication and spiritual growth. Similarly, Gnosticism posits a hierarchy of spiritual beings, known as aeons, which includes both angelic and demonic figures. These beings play a significant role in the Gnostic quest for self-discovery and gnosis (knowledge). In Thelema, founded by the English mystic Aleister Crowley, angels and demons take on a more symbolic role. They can act as representations of the practitioner's higher self or as manifestations of their subconscious energies and drives.

@@ -28,18 +28,18 @@ Alexandrian Witchcraft is a tradition of Wicca originating in the 1960s by Engli
 
 ### Chapter 2: Historical Overview of Alexandrian Witchcraft
 
-1. Origin and Growth
+1. **Origin and Growth**
 In the early 1960s, Alex Sanders began working with various ceremonial magical groups and teaching witchcraft in London. His wife, Maxine Sanders, was a powerful psychic and talented medium. Together, they formed the core of what became the Alexandrian tradition of witchcraft. They were influenced primarily by Gardnerian Wicca, which is an earlier form of Witchcraft founded by Gerald Gardner. The Alexandrian tradition was also inspired by other sources such as ceremonial magic, Qabalah, and various pagan practices.
 
-2. Modern Developments
+2. **Modern Developments**
 Over the years, the tradition has evolved and several offshoots have emerged from the teachings of Alex and Maxine Sanders. Though the core practices and rituals have remained, innovations and adaptations have been made to further improve the tradition. Alexandrian Witchcraft is now practiced in various countries, with a noticeable presence in Europe, North America, and South America.
 
 ### Chapter 3: Central Alexandrian Witchcraft Beliefs
 
-1. Deity and Duality
+1. **Deity and Duality**
 Alexandrian Witchcraft is a duotheistic tradition, acknowledging and revering the Goddess and the God as the two primary manifestations of divinity. The tradition is marked by the veneration of the Triple Goddess (Maiden, Mother, and Crone) and the Horned God, who represent the feminine and masculine energies respectively.
 
-2. Reincarnation and Karma
+2. **Reincarnation and Karma**
 In Alexandrian Witchcraft, the concepts of reincarnation and karma play significant roles. They believe that each individual soul undergoes a series of lifetimes, learning valuable lessons and experiencing growth. Alexandra Wiccans affirm that the actions and intentions of each life directly affect the experiences of the next.
 
 3. The Witches' Rede and Threefold Law
@@ -47,13 +47,13 @@ Central to the Alexandrian Witchcraft belief system is the Witches' Rede, statin
 
 ### Chapter 4: Core Alexandrian Witchcraft Practices
 
-1. Covens and Initiation
+1. **Covens and Initiation**
 The Alexandrian tradition is primarily a coven-based system, wherein a group of practitioners gather for magical work and worship. Initiation into covens is essential and usually follows three degrees, with each degree imparting specific knowledge and responsibilities. Solitary practitioners may follow Alexandrian teachings, but would not be deemed as officially part of the tradition.
 
-2. Magical Tools and Sacraments
+2. **Magical Tools and Sacraments**
 Alexandrian rituals involve the use of magical tools including the athame, wand, chalice, and pentacle, each representing an element. Additionally, the anointing oil, incense, and water are used as sacraments, serving as intermediaries between the mundane world and the divine realms.
 
-3. Sabbats and Esbats
+3. **Sabbats and Esbats**
 Following the Wheel of the Year, Alexandrians celebrate eight Sabbats encompassing the solstices, equinoxes, and cross-quarter days. Esbats, gatherings held in honor of the full moon, are dedicated to the celebration and worship of the Goddess and the strengthening of coven bonds.
 
 ### Chapter 5: A Common Alexandrian Ritual: The Drawing Down of the Moon

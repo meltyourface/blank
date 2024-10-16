@@ -23,21 +23,21 @@ excerpt: Create an in-depth instructional manual or guidebook focused on the Six
 ## Geomantic Mastery: Renaissance European Geomancy and the Sixteen Figures
 
 Table of Contents
-1. Introduction
-2. The Sixteen Geomantic Figures and Their Interpretations
-3. The Geomantic Reading Process
+1. **Introduction**
+2. **The Sixteen Geomantic Figures and Their Interpretations**
+3. **The Geomantic Reading Process**
 4. Witnesses, Judge, and Charts Explained
-5. Interpreting the Charts
-6. Sample Readings
-7. Troubleshooting and Refining Your Practice
-8. Conclusion
-9. Glossary
+5. **Interpreting the Charts**
+6. **Sample Readings**
+7. **Troubleshooting and Refining Your Practice**
+8. **Conclusion**
+9. **Glossary**
 10. Further Reading
 
-1. Introduction
+1. **Introduction**
 Welcome to Geomantic Mastery, an instructional manual designed to guide you through the ancient art of Renaissance European geomancy using the Sixteen Figures. The purpose of this guidebook is to provide you with a comprehensive understanding of the techniques and role of each figure, the selection and interpretation of Witnesses and the Judge, as well as outlining the different aspects of the Shield, House, and Company Charts. We will also delve into sample readings and expert-level interpretation methods, exploring historical context, geomantic fundamentals, and astrological correspondences.
 
-2. The Sixteen Geomantic Figures and Their Interpretations
+2. **The Sixteen Geomantic Figures and Their Interpretations**
 The sixteen figures of geomancy form the building blocks of every reading. Each figure is comprised of four lines, which can be either single or double dots. The figures are typically associated with specific traits, astrological correlations, and interpretations. The sixteen figures are:
 
 1. Via (The Way)
@@ -57,7 +57,7 @@ The sixteen figures of geomancy form the building blocks of every reading. Each 
 15. Fortuna Minor (The Lesser Fortune)
 16. Populus (The People)
 
-3. The Geomantic Reading Process
+3. **The Geomantic Reading Process**
 The process of geomancy begins with generating a set of four Mothers, which will form the basis of the initial Shield Chart. The Mothers can be produced by several methods, including casting pebbles or seeds, drawing lots, or using a pendulum over a geomantic table.
 
 Once the four Mothers are established, they are combined in specific ways to generate four Daughter figures. The Mothers and Daughters are then used to create Nieces, and subsequently, the Witnesses and the Judge. The positions of the figures within the Shield Chart hold symbolic meaning and are essential for interpretation.
@@ -69,21 +69,21 @@ The process of generating these figures allows for the formation of the Judge, w
 
 **Two additional charts can be generated from the Shield Chart figures**: The House Chart, which links the geomantic figures to the twelve astrological houses, and the Company Chart, which associates specific figures to each other and helps provide deeper insight.
 
-5. Interpreting the Charts
+5. **Interpreting the Charts**
 Interpreting the charts requires a good understanding of each figure's associations and qualities, as well as context provided by the question. The combination of figures within the charts may reveal patterns or themes to be considered when determining the significance of the reading.
 
 Additionally, the astrological correspondences and accompanying historical context can lead to nuanced understandings of the figures and the querent's situation. Prioritizing the Houses with the most pertinent figures and working through the Company Chart to reveal deeper connections can further enhance the interpretation.
 
-6. Sample Readings
+6. **Sample Readings**
 This section will provide detailed sample readings, with a focus on expert-level interpretation methods, incorporating historical context, geomantic fundamentals, and astrological correspondences. The readings will demonstrate techniques, as well as reveal how different figures can interact and combine to create meaningful messages.
 
-7. Troubleshooting and Refining Your Practice
+7. **Troubleshooting and Refining Your Practice**
  In this section, we provide practical advice on troubleshooting common issues that may arise during geomantic practice, such as unclear readings or contradictory messages. Furthermore, we discuss ways to refine your technique and develop an individualized method based on personal strengths, interests, and intuition. Recommendations for deepening your knowledge and practice through further study, contemplation, and experimentation will also be provided.
 
-8. Conclusion
+8. **Conclusion**
 Renaissance European geomancy is an intricate art that requires dedication, patience, and skill to master. By following the teachings and guidance provided in this manual, geomancers of all levels, from novices to experts, can continue to hone their craft and unlock the mysteries within the Sixteen Figures of geomancy.
 
-9. Glossary
+9. **Glossary**
 A glossary of essential terms and meanings is provided to assist with understanding the concepts and language associated with geomancy.
 
 10. Further Reading

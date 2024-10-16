@@ -27,11 +27,11 @@ excerpt: Develop a detailed ritual to create a potent talisman that harnesses th
 Materials required:
 
 1. A circular flat stone or piece of metal with a diameter of 3-4 inches
-2. A ritual dagger or sharp instrument for inscribing symbols
-3. Salt
+2. **A ritual dagger or sharp instrument for inscribing symbols**
+3. **Salt**
 4. Incense: sage, lavender, and frankincense
-5. A small bowl
-6. A white candle
+5. **A small bowl**
+6. **A white candle**
 7. Implement for burning incense (censer or charcoal plate)
 
 Ritual components:

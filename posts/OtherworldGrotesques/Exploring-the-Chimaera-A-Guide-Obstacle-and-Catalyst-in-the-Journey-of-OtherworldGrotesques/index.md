@@ -24,8 +24,8 @@ In the realm of OtherworldGrotesques, a fascinating field that focuses on explor
 
 To thoroughly address the challenge, we will analyze three major aspects of the Chimaera:
 
-1. Cultural and mythological connections
-2. Symbolic associations
+1. **Cultural and mythological connections**
+2. **Symbolic associations**
 3. Relations to the inner transformative aspects of an initiate's journey
 
 Cultural and Mythological Connections:

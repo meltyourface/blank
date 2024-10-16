@@ -18,7 +18,6 @@ tags:
   - recognition
 description: You are a master of the esoteric, occult, runic inscriptions, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Recognize and record distinct runes from multiple runic alphabets, such as Elder Futhark, Younger Futhark, and Anglo-Saxon Futhorc.
   
   2. Analyze and compare the collected inscriptions to identify patterns, hidden messages, and possible cultural connections.
@@ -28,8 +27,8 @@ excerpt: >
   4. Develop a user-friendly interface that enables researchers in the field of runology to input, process, and visualize the inscription data effectively.
   
   5. Create an adaptable database infrastructure that allows for the continuous expansion and updating of the analyzed inscriptions, ensuring a constantly evolving and comprehensive resource in the study of runes and their historical significance.
-  
 ---
+
 To design and develop a comprehensive method for the transcription, analysis, and interpretation of runic inscriptions using advanced computational techniques, we propose the following approach:
 
 Phase 1: Data Collection and Preprocessing

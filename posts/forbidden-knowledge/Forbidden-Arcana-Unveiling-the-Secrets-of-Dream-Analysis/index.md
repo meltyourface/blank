@@ -18,14 +18,13 @@ tags:
   - mystical occultist
 description: You are a master of the esoteric, occult, forbidden knowledge, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. The incorporation of forbidden symbology and arcane iconography, as well as their associations with the collective unconscious, to enhance the understanding of dream imagery.
   
   2. The examination of alchemical, mystical, and occultist traditions, showcasing their influence on the development of the dream interpretation process.
   
   3. A thorough analysis of dream elements, delving into shadow work and the confrontation of suppressed desires and fears, as they pertain to the darkest recesses of one's psyche.
-  
 ---
+
 Introducing the Forbidden Arcana Dream Analysis Technique:
 
 The Forbidden Arcana Dream Analysis Technique is an intricate process that combines elements of Jungian psychology, esoteric archetypes, alchemical symbolism, and access to higher planes of consciousness. Developed through deep exploration and mastery of hidden knowledge, it allows for a comprehensive understanding of dreams, connecting them to the mysteries of the collective unconscious.

@@ -26,13 +26,13 @@ The four classical elements have been a central concept in various spiritual and
 
 Earth represents stability, grounding, fertility, materiality, and the physical body; Air represents intellect, communication, spiritual breath, and movement; Fire represents transformation, passion, willpower, and the creative force; and Water represents emotions, intuition, the subconscious, and the flow of energy.
 
-2. Sacred Geometry
+2. **Sacred Geometry**
 Sacred geometry refers to the study of geometrical shapes and patterns that have spiritual, philosophical, and symbolic significance. It is believed that these shapes embody certain energies or ideas and that by integrating them into one's spiritual practice, one can attune oneself to those energies and deepen one's understanding of reality. Examples of sacred geometry include the Flower of Life, the Tree of Life, and the Platonic solids.
 
-3. Color Correspondences
+3. **Color Correspondences**
 Throughout various cultural and esoteric traditions, colors have been associated with specific energies, qualities, or concepts. These associations may derive from the natural world (e.g., the color green representing growth and vitality), cultural symbolism (e.g., the color white representing purity in some cultures), or even personal experiences (e.g., associating a certain color with a feeling or event).
 
-4. Cultural Heritage
+4. **Cultural Heritage**
 Cultural heritage refers to the various beliefs, practices, icons, symbols, and even art forms that have emerged from specific cultural or geographical contexts and have been transmitted across generations. In terms of esotericism and spirituality, cultural heritage may influence how individuals approach and construct their personal spiritual practices and what elements or symbols they may incorporate into those practices.
 
 Now, let us explore how these components intertwine and contribute to the overall efficacy and purpose of an altar cloth.

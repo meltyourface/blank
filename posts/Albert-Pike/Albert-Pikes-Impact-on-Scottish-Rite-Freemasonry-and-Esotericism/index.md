@@ -18,14 +18,13 @@ tags:
   - pike legacy
 description: You are a master of the esoteric, occult, Albert Pike and education, you have written many textbooks on the subject. Respond to the multiple choice question first with the answer, then, fully explain the context of your rational, reasoning, and chain of thought in coming to the determination you have for that answer. Explain related concepts, formulas, or historical context relevant to this conclusion, giving a lesson on the topic to explain the reasoning afterwards.
 excerpt: >
-
   - He founded the Hermetic Order of the Golden Dawn, which heavily influenced modern Western occultism.
   
   - As a Freemason, he rewrote the rituals of the Scottish Rite and authored "Morals and Dogma," emphasizing esotericism and mysticism.
   
   - His primary focus was on astrology, using his deep understanding of celestial movements to make predictions about world events.
-  
 ---
+
 - As a Freemason, he rewrote the rituals of the Scottish Rite and authored "Morals and Dogma," emphasizing esotericism and mysticism.
 
 Albert Pike's views and contributions were primarily focused on Freemasonry, with a special emphasis on the Scottish Rite branch of the organization. Pike was a Sovereign Grand Commander of the Supreme Council of the Scottish Rite's Southern Jurisdiction, which allowed him to make significant contributions to its development.

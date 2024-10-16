@@ -26,23 +26,23 @@ Introduction
 The Rite of the Evergreen Ancestors is a Yule tree blessing ceremony that honors the spirits of the ancestors and the ever-renewing cycle of life represented by evergreens during the winter solstice. It is a fusion of ancient folklore, symbolism, and Yuletide customs that aims to create a connection between the participants and the timeless mystique of Yule.
 
 Materials
-1. A live or artificial evergreen Yule tree
+1. **A live or artificial evergreen Yule tree**
 2. Natural adornments (such as pinecones, holly, ribbons, etc.)
 3. Ancestral relics or keepsakes (such as photographs, trinkets, or written names)
 4. Ritual candles of red, green, and white
-5. Small slips of paper and a pen or pencil
-6. An offering plate with seasonal fruits or other offerings
-7. A bell
-8. Water for purification
+5. **Small slips of paper and a pen or pencil**
+6. **An offering plate with seasonal fruits or other offerings**
+7. **A bell**
+8. **Water for purification**
 
 Ritual Outline
-1. Purification
-2. Sacred space and tree preparation
-3. Ancestral invocation
-4. Adorning the Yule tree
-5. Lighting the candles
-6. Offerings and reflections
-7. Closing the ceremony
+1. **Purification**
+2. **Sacred space and tree preparation**
+3. **Ancestral invocation**
+4. **Adorning the Yule tree**
+5. **Lighting the candles**
+6. **Offerings and reflections**
+7. **Closing the ceremony**
 **Step 1**: Purification
 Begin the ritual by cleansing the room with water. Sprinkle water in the four cardinal directions while saying the following chant:
 

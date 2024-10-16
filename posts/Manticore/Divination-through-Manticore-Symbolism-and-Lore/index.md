@@ -28,22 +28,22 @@ The Manticore's Gaze is an intricate and powerful divination system that promine
 System Elements
 There are several key components to this divination system:
 
-1. Manticore Bones Casting Lots
+1. **Manticore Bones Casting Lots**
 2. Scrying with a Manticore's Eye
-3. Omens of the Ethereal Manticore
-4. Integration of Manticore Lore from Varied Cultural Perspectives
+3. **Omens of the Ethereal Manticore**
+4. **Integration of Manticore Lore from Varied Cultural Perspectives**
 5. Harnessing the Manticore's Hybrid Nature and Poisonous Qualities
 
-1. Manticore Bones Casting Lots
+1. **Manticore Bones Casting Lots**
 The first part of this divination system involves casting lots with Manticore bones. Specifically, the bones used in this practice include the Manticore's hybrid skeletal structure (lion's body, human face, and dragon wings). Each bone carries unique significance and is intricately engraved with runes that symbolize different life events and energies. When the bones are cast, the divinator interprets the arrangement of runes and the positioning of the bones in relation to one another as answers or guidance regarding the question at hand.
 
 2. Scrying with a Manticore's Eye
 The second aspect of the Manticore's Gaze divination system involves scrying with a Manticore's eye as the focus item. When removed and carefully prepared, the Manticore's eye serves as a powerful scrying tool, fostering visions of potential futures and hidden truths. The eye's hybrid nature augments the potency of the seer's visions, as they blend the planes of existence, connecting the divinator with the wisdom of the Manticore spirit.
 
-3. Omens of the Ethereal Manticore
+3. **Omens of the Ethereal Manticore**
 As the divinator delves into the depths of the mystic arts, they might encounter the Ethereal Manticore, manifesting across diverse ethereal planes. They must learn to decipher the omens associated with the presence of this enigmatic being and understand how these omens intersect with their divination practice to provide unique insights into the forces at play and the paths that lie ahead.
 
-4. Integration of Manticore Lore from Varied Cultural Perspectives
+4. **Integration of Manticore Lore from Varied Cultural Perspectives**
 To enhance the richness of this divination system, it is essential to explore and incorporate the stories, traditions, and beliefs regarding Manticores from diverse cultural perspectives. Such integration lends additional dimensions and complexity to the practitioner's understanding of the creatures and, by extension, the divinatory process. The divinator may expand their knowledge through personal study, seeking out the wisdom of other experts, or communing with the Manticore spirits.
 
 5. Harnessing the Manticore's Hybrid Nature and Poisonous Qualities

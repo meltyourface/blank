@@ -24,10 +24,10 @@ After being contacted by a distressed client, I made my way to the haunted locat
 
 Upon arrival, I inquired about the specific nature of the apparitions and manifestations experienced by the client. They reported a series of unexplained phenomena, including:
 
-1. Shadowy figures lurking in the corners of the rooms
-2. Muffled whispers echoing throughout the house at night
-3. Unexplained gusts of cold wind in the absence of any drafts
-4. Objects moving on their own accord
+1. **Shadowy figures lurking in the corners of the rooms**
+2. **Muffled whispers echoing throughout the house at night**
+3. **Unexplained gusts of cold wind in the absence of any drafts**
+4. **Objects moving on their own accord**
 5. A sudden, oppressive atmosphere in specific areas of the house
 
 Drawing from my expertise in occult practices, I conducted a meticulous investigation of each phenomenon, employing spectral classification methods and reviewing historical incidents to establish potential links. My analysis indicates that the manor is inhabited by a class IV poltergeist, characterized by its mischievous behavior and ability to interact with the physical environment.

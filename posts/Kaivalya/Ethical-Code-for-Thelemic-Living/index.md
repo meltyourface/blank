@@ -22,31 +22,31 @@ excerpt: >
 ---
 The Ethical Code of Kaivalya-Thelemites
 
-1. Embrace your True Will
+1. **Embrace your True Will**
 Discover and align yourself with your True Will - the purpose and destiny of your innermost Being. Strive to act in harmony with this Will in every thought, word, and deed. Understand that your True Will is an expression of the Higher Self, your connection to the cosmic order, and the key to spiritual power.
 
-2. Respect the will of others
+2. **Respect the will of others**
 Honor the True Will of others no less than your own, valuing their sovereignty and independence. Recognize that every individual is a Star, pursuing their unique path and purpose. Avoid infringing upon the freedom of others or imposing your will upon them.
 
-3. Develop spiritual wisdom
+3. **Develop spiritual wisdom**
 Dedicate yourself to the study and practice of spiritual wisdom, exploring both the esoteric and exoteric aspects of existence. Cultivate intuition, discernment, and critical thinking, refining your understanding of the universe, the self, and the metaphysical realms.
 
-4. Engage in the Great Work
+4. **Engage in the Great Work**
 Pursue the Great Work of personal transformation, seeking enlightenment, inner balance, and union with the Divine. Utilize spiritual practices such as meditation, ritual, and contemplation to cultivate gnosis and deepen your connection to the Higher Self.
 
-5. Commit to authenticity
+5. **Commit to authenticity**
 Strive for authenticity in all areas of your life, expressing your true nature without fear, shame, or self-deception. Approach relationships and interactions with honesty, vulnerability, and sincerity, fostering genuine connections with others.
 
 6. Practice self-discipline and self-mastery
 Develop self-discipline and mastery over your thoughts, emotions, and actions. Employ restraint, discernment, and moderation in the pursuit of worldly desires and sensual pleasures, understanding that temporal attachments can distract from the True Will.
 
-7. Accept personal responsibility
+7. **Accept personal responsibility**
 Acknowledge your role as the architect of your reality and the shaper of your destiny. Embrace responsibility for your actions, understanding that you are the ultimate authority in your life.
 
-8. Honor the natural order
+8. **Honor the natural order**
 Respect the cycles and systems of the natural world, recognizing their intricate interdependence and essential place in the cosmic order. Strive to live in harmony with nature, taking only what is needed and giving back to the Earth in gratitude and reverence.
 
-9. Uphold justice and fairness
+9. **Uphold justice and fairness**
 Act with justice and fairness in your dealings with others, considering the needs, desires, and rights of all parties involved. Respond to transgressions against you and others through appropriate means, seeking restitution, resolution, or redemption.
 
 10. Pursue compassion and empathy

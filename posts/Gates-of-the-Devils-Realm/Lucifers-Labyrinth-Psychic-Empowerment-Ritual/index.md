@@ -25,11 +25,11 @@ Meditation Ritual: The Labyrinth of Lucifer
 
 **Requirements**: 
 1. Quiet, undisturbed space, preferably within the darker realms
-2. A circular or hexagonal drawn chalk labyrinth with associated arcane symbols
+2. **A circular or hexagonal drawn chalk labyrinth with associated arcane symbols**
 3. Black candles with sulfur-infused wax and Ceremonial dagger
-4. A polished obsidian scrying mirror
+4. **A polished obsidian scrying mirror**
 5. Incense (preferably patchouli or dragon's blood)
-6. Chalice filled with a blend of sacred herbs and blessed wine
+6. **Chalice filled with a blend of sacred herbs and blessed wine**
 
 Step-by-step Instructions:
 

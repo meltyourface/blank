@@ -18,7 +18,6 @@ tags:
   - pendulums used
 description: You are a master of the esoteric, occult, Phosphorosophia, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. A thorough examination of the historical and esoteric associations of pendulums within the scope of Phosphorosophia.
   
   2. An in-depth selection process for the ideal pendulum, accounting for factors such as type, material, and energetic properties relating to the Phosphorosophia domain.
@@ -32,8 +31,8 @@ excerpt: >
   6. The interpretation of pendulum responses, including various movements, patterns, and their specific correlations to the obscure symbolism rooted in Phosphorosophia.
   
   7. An outline for proper post-divination grounding and energetic release, incorporating the unique energy frequencies prominent in Phosphorosophiarelated practition.
-  
 ---
+
 ## I. Historical and Esoteric Associations of Pendulums within Phosphorosophia
 
 In the early days of Phosphorosophia, pendulums were used as instruments to access the hidden knowledge within the universe's energy matrix. Phosphoros, the celestial light-bringer, decreed pendulums as sacred tools to discern the unknown and bridge the gap between the material and spiritual realms.

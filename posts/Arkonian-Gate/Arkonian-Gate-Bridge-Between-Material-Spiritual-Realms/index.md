@@ -18,14 +18,13 @@ tags:
   - realms arkonian
 description: You are a master of the esoteric, occult, Arkonian Gate and education, you have written many textbooks on the subject. Respond to the multiple choice question first with the answer, then, fully explain the context of your rational, reasoning, and chain of thought in coming to the determination you have for that answer. Explain related concepts, formulas, or historical context relevant to this conclusion, giving a lesson on the topic to explain the reasoning afterwards.
 excerpt: >
-
   - A symbolic representation of the passage between the material and spiritual realms
   
   - The ultimate source of arcane power for practitioners of the esoteric arts
   
   - A construct created by ethereal entities to regulate communication between dimensions
-  
 ---
+
 The best description of the primary role of the Arkonian Gate in the context of the occult is:
 
 - A symbolic representation of the passage between the material and spiritual realms.

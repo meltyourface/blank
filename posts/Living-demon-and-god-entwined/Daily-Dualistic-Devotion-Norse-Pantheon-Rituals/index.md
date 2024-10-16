@@ -59,10 +59,10 @@ Appropriate Times of Day:
 - Practice can be performed indoors or outdoors but should be in a quiet, sacred space free of distractions. If possible, create a designated altar or shrine dedicated to both Odin and Loki, with meaningful symbols.
 
 Instruments and Symbols:
-1. Drinking horn for offering mead to Odin
-2. Quill and parchment for writing poetry to Odin
-3. Small metal tokens for offering to Odin
-4. Spicy foods or small stones for offerings to Loki
+1. **Drinking horn for offering mead to Odin**
+2. **Quill and parchment for writing poetry to Odin**
+3. **Small metal tokens for offering to Odin**
+4. **Spicy foods or small stones for offerings to Loki**
 5. The Valknut symbol, representing Odin's connection to the departed
 6. The Snake symbol, embodying Loki's deceptive nature
 

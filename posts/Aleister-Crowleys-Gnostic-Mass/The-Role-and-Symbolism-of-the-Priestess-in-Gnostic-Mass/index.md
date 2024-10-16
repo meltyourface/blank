@@ -18,14 +18,13 @@ tags:
   - xv priestess
 description: You are a master of the esoteric, occult, Aleister Crowley's Gnostic Mass and education, you have written many textbooks on the subject. Respond to the multiple choice question first with the answer, then, fully explain the context of your rational, reasoning, and chain of thought in coming to the determination you have for that answer. Explain related concepts, formulas, or historical context relevant to this conclusion, giving a lesson on the topic to explain the reasoning afterwards.
 excerpt: >
-
   1. She exclusively represents the masculine aspect of divinity and remains stationary throughout the entire ceremony.
   
   2. Her primary responsibility is to assist the Deacon in delivering the ritual's various recitations and invocations.
   
   3. She embodies the feminine divine, playing an integral role in the consecration of the Eucharist and the enactment of the divine union.
-  
 ---
+
 3. She embodies the feminine divine, playing an integral role in the consecration of the Eucharist and the enactment of the divine union.
 
 In Aleister Crowley's Gnostic Mass, also known as Liber XV, the Priestess personifies the feminine aspect of divinity, known as Nuit, the goddess of the night sky. In contrast, the Priest represents the masculine aspect, Hadit, the point at the center of all possible experiences. Together, they symbolize the union of opposites, embodying the divine creative power that brings forth new life.

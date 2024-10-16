@@ -18,7 +18,6 @@ tags:
   - names qliphothic
 description: You are a master of the esoteric, occult, Qliphotic necromancy, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. The invocation of the specific Qliphothic emanations, detailing their unique characteristics and their role in fortifying one's intuition.
   
   2. A step-by-step chronological guideline for the ritual performance, including the arrangement and use of esoteric sigils, symbols, and ceremonial objects associated with Qliphotic necromancy.
@@ -28,8 +27,8 @@ excerpt: >
   4. Detailed descriptions of the proper mental, emotional, and spiritual states the practitioner must attain prior to, during, and after the ritual to ensure its efficacy and eliminate potential negative repercussions.
   
   5. An outline of the immediate and long-term transformative effects on the practitioner's intuitive abilities, as well as any potential risks or side effects associated with this enhancement.
-  
 ---
+
 1. Invocation of Specific Qliphothic Emanations:
 
 Invoke the following Qliphothic emanations, which are vital for augmenting intuition:

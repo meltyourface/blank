@@ -22,7 +22,7 @@ excerpt: In the context of grimoire spirits, compare and contrast the roles and 
 ---
 In order to address the comparison and contrast of King Paimon and Cimeries, it is essential to first outline their origin and attributes in their respective grimoires, the Goetia and Liber Juratus. After establishing these foundations, we will delve into their respective roles in the lives of practitioners, the symbolism behind their animal associations, and the potential influence of mythological figures on their characters.
 
-1. Origins and Attributes
+1. **Origins and Attributes**
 
 a) King Paimon:
 
@@ -34,7 +34,7 @@ b) Cimeries:
 
 Cimeries is a demon described in the Liber Juratus, an influential grimoire dating back to the 13th century. This grimoire is also known as the Sworn Book of Honorius. As a demon, Cimeries is known for his ability to locate lost objects, teach grammar, logic, and rhetoric, and help practitioners learn new languages. He is depicted as a mighty and powerful warrior riding a black horse and is said to have command over 20 legions of spirits.
 
-2. Roles and Influences on Practitioners
+2. **Roles and Influences on Practitioners**
 
 a) King Paimon:
 
@@ -44,7 +44,7 @@ b) Cimeries:
 
 Similarly, practitioners turning to Cimeries can seek guidance in discovering hidden knowledge, particularly in the realm of languages and linguistics. His prominence as a warrior promotes the development of discipline in the practitioner, fostering the courage needed to delve into the mysteries of the esoteric. Furthermore, his ability to find lost objects also denotes an ability to uncover hidden truths, thus enabling the practitioner to tap into knowledge that is otherwise inaccessible.
 
-3. Animal Associations and Symbolism
+3. **Animal Associations and Symbolism**
 
 a) King Paimon:
 
@@ -54,7 +54,7 @@ b) Cimeries:
 
 The black horse associated with Cimeries symbolizes power, nobility, and fierceness. This association emphasizes the warrior aspect of Cimeries and reflects the necessity of strong willpower and determination in order to succeed in esoteric practices. It also highlights the importance of harnessing one's inner strength to overcome obstacles on the journey towards acquiring knowledge and enlightenment.
 
-4. Mythological Origins and Influences
+4. **Mythological Origins and Influences**
 
 Both King Paimon and Cimeries may have their roots in ancient mythological figures, such as deities or celestial beings. King Paimon is sometimes connected with the ancient Mesopotamian god Dagan, who represented fertility, agriculture, and storm, though there is a lack of concrete evidence for this association. Similarly, Cimeries might have links to ancient warrior figures or gods of war in various mythologies, but again, there is a lack of definitive proof to support this connection.
 

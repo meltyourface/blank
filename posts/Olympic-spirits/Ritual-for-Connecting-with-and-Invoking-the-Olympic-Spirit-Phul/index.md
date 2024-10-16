@@ -29,13 +29,13 @@ Timing & Conditions: Perform the ritual during a Monday, preferably at nighttime
 
 Tools Required:
 
-1. Silver or light blue altar cloth
-2. A white or silver candle
+1. **Silver or light blue altar cloth**
+2. **A white or silver candle**
 3. Sigil representing Phul and its planetary symbol (Moon)
 4. Incense (preferably jasmine or sandalwood)
-5. A chalice filled with fresh water
+5. **A chalice filled with fresh water**
 6. A talisman bearing Phul’s name and sigil
-7. Ceremonial robe or other appropriate attire
+7. **Ceremonial robe or other appropriate attire**
 
 **Precautions**: Do not perform this ritual with negative intentions or ill will, as it may backfire on the practitioner. Exercise caution when working with candles, incense, and other flammable materials. Adhere to standard safety protocols while conducting the ritual.
 

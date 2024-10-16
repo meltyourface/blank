@@ -18,7 +18,6 @@ tags:
   - symbols grimoirium
 description: You are a master of the esoteric, occult, Sabbatic CurrentGrimorium Verum, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Dedicate rituals and invocations to invoke the guidance of the spirits, demons, and other entities from the Grimoirium Verum during each stage of the pathworking process.
 
   2. Elaborate on the distinct qualities and attributes of each sphere (Sephirot) and pathway within the Tree of Life, specifically within the Sabbatic Current context, to deepen the magician's connection and understanding during the pathworking.
@@ -28,8 +27,8 @@ excerpt: >
   4. Design a structured system of meditations, visualizations, and astral projection techniques to facilitate exploration of the Tree of Life and enhance the magician's ability to harness the energies and wisdom of each sphere.
 
   5. Develop a series of initiatory rites honoring the spirits, demons, and entities of the Grimoirium Verum, enabling the practitioner to fully commune and engage with the forces and mysteries of the Sabbatic Current. These rites shall mark milestones within the pathworking journey, signifying the completion and mastery of each sphere.
-  
 ---
+
 The following is an intricate method for navigating and interacting with the Tree of Life within the realm of the Sabbatic Current and the Grimoirium Verum tradition, incorporating the required elements:
 
 1. **Dedicate rituals and invocations**:

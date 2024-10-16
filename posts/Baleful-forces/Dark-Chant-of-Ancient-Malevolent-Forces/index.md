@@ -18,14 +18,13 @@ tags:
   - breath shadows
 description: You are a master of the esoteric, occult, Baleful forces, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Incorporate archaic and esoteric language, such as ancient dead tongues, to deepen the connection with the maleficent forces and amplify the evocation's potency.
   
   2. Invoke at least three malevolent deities or entities, famous in dark mythologies and occult practices, to ensure a powerful and unwavering impact on the surroundings.
   
   3. Structure the chant with a repetitive refrain that amplifies its binding effect, ensuring the negative energies are replaced with baleful forces and an ominous presence enduringly.
-  
 ---
+
 In the name of the ancient and forgotten, I call upon the maleficent forces to bind this dark chant. Hark, as I conjure the words of sinister power!
 
 Brezh’gūl hanash akto’qhor, Oth’gra dath revalkor,

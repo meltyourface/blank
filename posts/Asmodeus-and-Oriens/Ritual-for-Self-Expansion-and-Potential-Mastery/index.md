@@ -26,15 +26,15 @@ excerpt: Craft an intricate ceremonial rite to amplify one's bond with the poten
 
 **Materials**:
 
-1. An altar table
+1. **An altar table**
 2. Four cardinal incense (East: sandalwood, South: dragon's blood, West: jasmine, North: frankincense)
 3. Asmodeus's Sigil
 4. Oriens's Sigil
-5. One compass to lay out the sacred space
-6. One chalice filled with red wine
+5. **One compass to lay out the sacred space**
+6. **One chalice filled with red wine**
 7. Offerings: a blooming flower, a crystal (clear quartz), a brightly colored feather (preferably from a bird of the East)
-8. A red or black ceremonial robe
-9. A ritual dagger or athame
+8. **A red or black ceremonial robe**
+9. **A ritual dagger or athame**
 10. Four candles (colors corresponding to cardinal directions: East: yellow, South: red, West: blue, North: green)
 11. A parchment paper to write the desired self-expansion manifestation
 

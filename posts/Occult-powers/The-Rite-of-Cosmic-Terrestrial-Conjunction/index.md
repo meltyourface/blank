@@ -18,7 +18,6 @@ tags:
   - spiritual forces
 description: You are a master of the esoteric, occult, Occult powers, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. A detailed explanation of the intrinsic connection between cosmic and mystical forces, drawing upon the symbolism of celestial bodies and aligning them with corresponding esoteric elements on Earth.
   
   2. Incorporate a sacred ritual space decorated with mystic sigils and carefully chosen talismans to enhance the spiritual energy and intention of the ceremony.
@@ -30,8 +29,8 @@ excerpt: >
   5. Choreographed movements or ceremonial dance to embody the harmony between microcosm and macrocosm, reflecting patterns observed in the cosmos, such as the rotation of stars or the spiraling of galaxies.
   
   6. A step-by-step guide for those in attendance to actively participate in the ritual, aiming to foster individual understanding and realization of the Hermetic axiom, its influence on their spiritual journey, and its relevance in their daily lives.
-  
 ---
+
 
 ## The Rite of Celestial Communion
 

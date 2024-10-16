@@ -18,7 +18,6 @@ tags:
   - visualization practice
 description: You are a master of the esoteric, occult, Christian magic, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Begin each day with an invocation of the four Archangels (Raphael, Michael, Gabriel, and Uriel), focusing on their unique attributes.
   
   2. Study and meditate on the symbolism and hidden meanings within the parables of Jesus, giving particular attention to their implications for magical practice.
@@ -36,8 +35,8 @@ excerpt: >
   8. Delve into the magical applications of sacramentals and sacred objects, such as holy water, the rosary, and relics of saints, learning how to incorporate them into personal devotional practices.
   
   9. Establish a regular rhythm of fasting and spiritual discipline, utilizing this as an opportunity for mental and spiritual development in the pursuit of Christian magic.
-  
 ---
+
 ## I. Invocation of the Four Archangels
 
 **Begin each day by invoking the four Archangels**: Raphael, the healer and patron of travelers; Michael, the protector and warrior of light; Gabriel, the messenger and revealer of divine mysteries; and Uriel, the illuminator and guide in spiritual understanding. Focus on each Archangel's unique attributes, and ask for their guidance and protection throughout the day.

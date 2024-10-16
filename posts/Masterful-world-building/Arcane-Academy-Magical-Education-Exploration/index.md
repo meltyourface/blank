@@ -18,7 +18,6 @@ tags:
   - various magical
 description: You are a master of the esoteric, occult, Masterful world-building, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Delve into the nuances of various mystical traditions and magical practices, taking into account the different cultural and racial backgrounds of the students to foster an inclusive learning environment.
   
   2. Identify the key stages of a student's journey in the arcane academy, from introductory lessons to advanced mastery, establishing a clear progression of abilities and magical knowledge.
@@ -28,11 +27,11 @@ excerpt: >
   4. Assess the educational resources available within the academy, such as enchanted libraries, magical tools, and training grounds tailored for practicing diverse spellcraft.
   
   5. Incorporate extracurricular activities that encourage interdisciplinary exploration, creative problem-solving, and collaborative spell-casting, ensuring students develop well-rounded magical skills within the academy.
-  
 ---
+
 Arcane Academy Curriculum
 
-1. Mystical Traditions and Magical Practices
+1. **Mystical Traditions and Magical Practices**
 
 The curriculum recognizes the importance of offering a myriad of magical pathways for students to explore. As such, the academy offers the following courses, taught by diverse faculty members hailing from all corners of the realm, tailoring the content to best suit students from various cultural and racial backgrounds:
 
@@ -72,7 +71,7 @@ Stage 4 – Final Trials and Graduation:
 - Comprehensive magical examination
 - Successful completion of a final project demonstrates students' mastery of their chosen tradition(s)
 
-3. Specialized Faculty Members
+3. **Specialized Faculty Members**
 
 The academy is home to an elite faculty of exceptional skills and expertise across the various branches of magic, comprising accomplished necromancers, enchanters, and elementalists. **A few notable professors include**:
 
@@ -82,7 +81,7 @@ The academy is home to an elite faculty of exceptional skills and expertise acro
 - Lady Thistle Whisperwood (Halfling Wild Magic Specialist)
 - Master Shal'Karos the Mindbender (Gith Psionicist)
 
-4. Educational Resources
+4. **Educational Resources**
 
 The academy is equipped with numerous resources designed to enhance student learning and exploration. **These include**:
 
@@ -93,7 +92,7 @@ The academy is equipped with numerous resources designed to enhance student lear
 - Various magical creatures and elemental manifestations to observe and interact with
 - Workshops for the creation and enchantment of magical implements and artifacts
 
-5. Extracurricular Activities
+5. **Extracurricular Activities**
 
 The academy offers a diverse range of extracurricular activities designed to encourage interdisciplinary exploration and cooperation, creative problem-solving, and collaborative spell-casting:
 
@@ -104,7 +103,7 @@ The academy offers a diverse range of extracurricular activities designed to enc
 - Internships with master craftsmen, artisans, and magical researchers
 - Alliances with other schools and magical organizations for collaborative projects
 
-6. Potential Challenges and Solutions
+6. **Potential Challenges and Solutions**
 
 The academy recognizes several potential challenges it may face. **These include**:
 

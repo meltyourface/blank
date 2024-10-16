@@ -26,13 +26,13 @@ excerpt: >
 **Introduction**:
 As an adept of the esoteric and occult, it is essential to maintain balance and reciprocity when invoking the saints for destructive purposes. Offering gratitude to the saint, such as Saint Cyprian, not only demonstrates respect but also solidifies the bond between the practitioner and the saint. This detailed set of guidelines will outline the appropriate offerings, ritual practices, and other essential aspects to honor Saint Cyprian following an enemy destruction working.
 
-1. Ideal Time
+1. **Ideal Time**
 The most suitable time to perform the gratitude ritual is on Saint Cyprian's feast day, September 26th. Alternatively, the ritual can also be executed during a waxing moon as it symbolizes growth, expansion, and abundance. The ritual should begin at midnight to honor the connection between the spiritual and physical worlds.
 
-2. Location
+2. **Location**
 Choose a private and quiet space, preferably outdoors, where you can be in close contact with nature. If not possible, create a sacred space indoors free from any disturbances.
 
-3. Necessary Materials
+3. **Necessary Materials**
 - A purple or black altar cloth
 - Two purple candles ($Pc1, $Pc2)
 - A white candle ($Wc)
@@ -45,7 +45,7 @@ Choose a private and quiet space, preferably outdoors, where you can be in close
 - A silver or pewter offering plate
 - Holy water or protective salt
 
-4. Ritual Procedure
+4. **Ritual Procedure**
 a. Set up the altar:
 - Place the altar cloth on a table or other flat surface.
 - Position the image or statue of Saint Cyprian at the center.

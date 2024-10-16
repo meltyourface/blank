@@ -56,21 +56,21 @@ Señora de las Sombras (Lady of the Shadows) is a mystical practice that involve
 
 ### III. Proper Sequencing, Timings, and Etiquette
 
-1. Preparation
+1. **Preparation**
 - Cleanse yourself physically and mentally before engaging in the ritual.
 - Create a sacred space by cleansing it using sage, salt, or other purifying elements.
 - Set up an altar with the appropriate tools, symbols, and offerings for the specific deity or mystical energy being invoked.
 
-2. Invocation
+2. **Invocation**
 - Stand or sit before the altar and take several deep breaths to center yourself.
 - Light the appropriate candles or incense and hold the sacred tool (if applicable) for the entity being invoked.
 - Chant or recite the traditional invocation chant three times, focusing on your intention and desire to connect with the deity or energy.
 
-3. Offerings
+3. **Offerings**
 - Present the offerings one by one, placing them on the altar while verbally expressing your gratitude and the purpose of the offering. Example: "I offer these sunflowers as a symbol of my devotion and to honor your radiant energy, Señor del Sol."
 - Allow for a moment of silent meditation after each offering presentation, feeling the energy of the item connecting with the deity.
 
-4. Closing the Ritual
+4. **Closing the Ritual**
 - Thank the entity for their presence and assistance, and ask them to continue to guide and protect you.
 - Gently blow out any candles or incense to symbolically release the energy.
 - Close the sacred space by cleansing it once more and expressing gratitude for the experience.

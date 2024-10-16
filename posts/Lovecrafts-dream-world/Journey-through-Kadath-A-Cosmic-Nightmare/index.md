@@ -18,7 +18,6 @@ tags:
   - randolph trapped
 description: You are a master of the esoteric, occult, Lovecraft's dream world, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Incorporate elements of the ghastly landscapes, defying the limits of human imagination, filled with non-Euclidean geometric shapes and structures that evoke an otherworldly architectural aura.
   
   2. Introduce treacherous encounters with bizarre, cosmic entities that test the limits of Carter's sanity and resolve, engaging him in mental and metaphysical battles.
@@ -28,8 +27,8 @@ excerpt: >
   4. Subtly weave in layers of allegorical symbolism that connects to the dreamer's metaphysical existence and poses significant moral dilemmas as he deepens his quest.
   
   5. Create critical turning points within the narrative and reveal revelations that enhance the portrayal of the world's inherent complexity while setting up opportunities for Carter's resourcefulness and cunning.
-  
 ---
+
 In the throes of a fever dream, Randolph Carter found himself drawn towards the forbidden and enigmatic heights of unknown Kadath. With dreams as his compass, Carter embarked on an ominous journey that would forever change his grasp on reality.
 
 His first steps into this realm of forgotten mysteries led him to the ghastly landscape of the Plateau of Leng. Here, the very earth beneath his feet pulsed and quivered, warped by inexplicable bio-geometries. Alien towers and nameless cities punctuated the horizon, beckoning with a malign allure. Every corner and angle seemed to whisper madness in the language of unspeakable cosmic horrors. Carter felt a shudder of terror at the thought that he would dare to venture through a land unbound by the reason of waking reality.

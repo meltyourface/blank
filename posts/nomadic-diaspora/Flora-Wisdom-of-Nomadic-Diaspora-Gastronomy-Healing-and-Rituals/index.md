@@ -18,14 +18,13 @@ tags:
   - varieties flora
 description: You are a master of the esoteric, occult, nomadic diaspora, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Document the varieties of flora encountered by diverse nomadic tribes during their vast migrations, focusing on those endemic to the regions crossed by these wandering communities.
   
   2. Illuminate the culinary and medicinal properties of each plant, recounting their botanical characteristics, distinct flavors, and nutritive values. Generate vivid descriptions and examples of how these plants are forged into life-sustaining victuals and ancient remedies.
   
   3. Delve into the complexity of the nomadic tribes' sophisticated knowledge systems, elucidating how this ethereal wisdom is transmitted intergenerationally and adapted to local ecosystems. Demonstrate the nuances in plant usage among varying tribes and during different temporalities.
-  
 ---
+
 
 ## Ethereal Flora: Gastronomy, Healing, and Wisdom of the Nomadic Diaspora
 

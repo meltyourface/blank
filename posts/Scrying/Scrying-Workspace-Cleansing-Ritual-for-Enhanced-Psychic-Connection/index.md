@@ -25,52 +25,52 @@ excerpt: Design an elaborate and intricate cleansing ritual for maintaining the 
 **Purpose**: To cleanse, purify, and maintain the sanctity of a scrying workspace, ensuring its optimal effectiveness in subsequent scrying sessions.
 
 Tools and Materials:
-1. Sage bundle
-2. Frankincense and myrrh incense mix
-3. Charcoal discs for burning incense
-4. Ceremonial dagger or athame
-5. Chalice filled with spring water
-6. White or silver candles
-7. Sea salt
-8. Quartz crystals
-9. Purple or black cloth for an altar
+1. **Sage bundle**
+2. **Frankincense and myrrh incense mix**
+3. **Charcoal discs for burning incense**
+4. **Ceremonial dagger or athame**
+5. **Chalice filled with spring water**
+6. **White or silver candles**
+7. **Sea salt**
+8. **Quartz crystals**
+9. **Purple or black cloth for an altar**
 10. A pendulum, crystal ball, or other preferred scrying tool
 11. A compass
 
 **Procedure**:
 
-1. Preparation
+1. **Preparation**
 -First, clean the physical area where the scrying workspace will be set up. This simple act primes and harmonizes the energy within the workspace.
 -Place the altar cloth on a flat surface. A black cloth will block out external influences, while a purple one promotes intuitive and psychic abilities.
 -Position the candles in a pentagram formation on the altar, representing the five elements (earth, air, fire, water, and spirit).
 -Place the scrying tool at the center of the pentagram.
 
-2. Casting the Circle
+2. **Casting the Circle**
 -Use a compass to find true North. Align yourself and the workspace accordingly.
 -Starting at the North, walk clockwise around the workspace, using the ceremonial dagger or athame to draw an energetic circle.
 -Declare the intention of creating a sacred space. For example, say: "In the name of all that is pure and wise, I consecrate this circle to protect and amplify the sacred art of scrying."
 
-3. Elemental Cleansing
+3. **Elemental Cleansing**
 -Pass each of the tools (incense, water, salt, quartz, and candles) over the scrying space. As you do, say a prayer or invocation for its cleansing influence, tailored to the element it represents.
 Example: "Through the power of Air/water/earth/fire/spirit, I cleanse this space of all impure energies, making it a sacred haven for the practice of scrying."
 
-4. Smudging
+4. **Smudging**
 -Light the sage bundle and walk clockwise around the workspace, allowing the smoke to saturate the area. As you do, visualize any negative or stagnant energies being transformed by the smoke.
 -Say a prayer for spiritual purification. Example: "By the power of Sage, I cleanse and purify this space. May any negativity and impurities dissolve in its sacred smoke."
 
-5. Incense Purification
+5. **Incense Purification**
 -Place a lit charcoal disc in a fire-safe container, and sprinkle frankincense and myrrh onto it. Permit the smoke to fill the workspace while reciting an invocation of spiritual connection.
 Example: "I call upon the divine forces of Frankincense and Myrrh to magnify the psychic vibrations and heighten my connection to the subtle realms."
 
-6. Crystal Amplification
+6. **Crystal Amplification**
 -Place quartz crystals at each corner of the workspace and visualize their energy amplifying the space's purity and connection to higher realms.
 -Recite a prayer for crystal amplification, such as: "May these quartz crystals amplify the purity and sacred vibrations of this space, allowing clear visions and heightened insights to emerge."
 
-7. Activation and Sealing of the Space
+7. **Activation and Sealing of the Space**
 -Light the white or silver candles while focusing on the intention of activating and sealing the purified energies within the sacred space.
 -Recite a prayer for activation and protection. Example: "I now activate and seal this sacred scrying space. May only the truth, wisdom, and love of higher realms enter herein."
 
-8. Workspace Maintenance
+8. **Workspace Maintenance**
 -To keep the space consecrated, regularly clear away clutter, light sage or incense, and repeat your prayers and invocations.
 -Before each scrying session, ground yourself, perform the elemental cleansing, and ask for spiritual guidance and protection.
 

@@ -45,7 +45,7 @@ Isis' relationships with other Ancient Egyptian deities are central to many myth
 4. Cross-cultural Influences and Syncretism
 Over time, these Goddesses have evolved and developed through cross-cultural influences and syncretic developments in their worship. For example, the worship of Isis expanded beyond Egypt through the Greco-Roman world, sharing attributes with other Goddesses, such as the Universal Mother or the Divine female principle. Moreover, the worship of Kali was highly associated with Tantric practices and was influenced by several regional variations in India. Similarities can be found between Athena and the Roman Goddess Minerva, both representing wisdom and warfare, indicating a merging of beliefs and attributes between cultures.
 
-5. Worship and Rituals
+5. **Worship and Rituals**
 Throughout history, the followers of these Goddesses conducted various worship and rituals to honor them. Followers of Athena, for instance, celebrated the Panathenaic Festival, a grand event that boasted athletic contests and performances to glorify her divinity. Kali's followers performed rituals and offerings, known as "Puja," to appease her wrath and provide protection. Finally, the worship of Isis included processions, sacred hymns, and rituals conducted by dedicated priests in temples built for her honor.
 
 **Conclusion**:

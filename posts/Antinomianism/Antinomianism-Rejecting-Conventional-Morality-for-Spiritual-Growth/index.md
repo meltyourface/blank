@@ -23,8 +23,8 @@ excerpt: >
   The idea that religious authority is derived solely from within the individual, often disregarding traditional teachings and societal norms in favor of personal insight and experiences.
   
   The assertion that individual morality can be disregarded or even subverted in order to transcend conventional limitations, leading to spiritual growth and understanding through opposition to societal mores.
-  
 ---
+
 The assertion that individual morality can be disregarded or even subverted in order to transcend conventional limitations, leading to spiritual growth and understanding through opposition to societal mores.
 
 Antinomianism, from the Greek "anti-" (against) and "nomos" (law), is a broad term that generally refers to a belief that moral laws and conventional standards do not apply, or can even be disregarded, in the pursuit of spiritual growth, understanding, and personal transcendence. This idea has been particularly controversial throughout history as it often challenges the established moral and behavioral norms of religious and social institutions.

@@ -25,13 +25,13 @@ Introduction
 
 The Cult of Thelema is a modern religious and philosophical movement that emerged from the early 20th century, based primarily on the teachings and writings of the infamous British occultist, Aleister Crowley. Aspiring to unlock the hidden potential of the human soul and to synthesize ancient wisdom with modern scientific understanding, Thelema paves a path for spiritual growth through the exploration of one's True Will. In this chapter, we delve into the core tenets, central beliefs, and symbology that underpin this fascinating doctrine.
 
-1. Core Tenets and Central Beliefs
+1. **Core Tenets and Central Beliefs**
 
 Rooted in the idea that every individual possesses an inherent and unique divine purpose called the True Will, Thelema encourages each person to seek self-discovery and mastery over their destiny. The primary directive of Thelema is encapsulated in the phrase "Do what thou wilt shall be the whole of the Law", which asserts the importance of unearthing and actualizing one's True Will.
 
 The companion phrase "Love is the law, love under will" underscores the central role love plays in the philosophy of Thelema. Love, in this context, represents total alignment with one's True Will and the harmonious interaction of the individual's personal will with that of the entire universe. In essence, the ultimate goal of every Thelemite is to express love for the universe by carrying out their True Will in concert with the cosmic order.
 
-2. Symbology in Thelema
+2. **Symbology in Thelema**
 
 The Thelemic tradition draws upon a wealth of rich esoteric and religious symbols which work to unveil hidden truths about the nature of existence. **Key symbolic elements include**:
 
@@ -41,13 +41,13 @@ The Thelemic tradition draws upon a wealth of rich esoteric and religious symbol
 
 - The Rose Cross: A blending of the Christian cross and the symbol of the rose, the Rose Cross encapsulates the transformation, divine love, and spiritual regeneration central to the Thelemic journey. In Thelema, it underscores the importance of blending diverse spiritual traditions to attain new levels of understanding and personal power.
 
-3. Aleister Crowley and the Formation of Thelema
+3. **Aleister Crowley and the Formation of Thelema**
 
 Aleister Crowley (1875-1947) was an influential figure in the development of modern occultism and the founding prophet of the Thelemic faith. Through his diverse writings, magical practices, and spiritual explorations, Crowley sought to create a comprehensive system of occult knowledge and techniques that would empower the individual to discover and express their True Will.
 
 The philosophy of Thelema was devised primarily through the reception of The Book of the Law, a sacred text transcribed by Crowley in 1904 during a spiritual experience in Cairo, Egypt. The Book of the Law contains the core tenets and beliefs of Thelema, and propounds that the ultimate aim of human life is to harness one's unique, divine purpose—True Will—by cultivating a deep understanding of and communion with the universe.
 
-4. Ritual Practices and the Path to Enlightenment
+4. **Ritual Practices and the Path to Enlightenment**
 
 The magic and rituals of Thelema borrow elements from ancient mystery traditions, such as the Kabbalah, Hermeticism, and Eastern mysticism, as well as the Freemasons and the Ordo Templi Orientis (OTO), a secret society Crowley was deeply involved with.
 

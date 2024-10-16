@@ -30,11 +30,11 @@ excerpt: Design a mystic ceremony focused on the concept of Idea to Form, specif
 2. White candles (5 to 7)
 3. Incense (frankincense and myrrh)
 4. Anointing oil (olive oil infused with rosemary or lavender)
-5. A crystal or item of personal significance
+5. **A crystal or item of personal significance**
 6. A chalice with blessed water (spring water charged under a full moon)
-7. A compass for direction
-8. A notebook and pen
-9. Any desired sacred texts or symbols
+7. **A compass for direction**
+8. **A notebook and pen**
+9. **Any desired sacred texts or symbols**
 
 **Setup**:
 

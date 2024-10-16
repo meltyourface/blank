@@ -22,9 +22,9 @@ excerpt: Design and establish a novel mystical organization rooted in the arcane
 Name of the Mystical Organization: Arcana Ordinis
 
 Foundational Grimoire Texts:
-1. The Lesser Key of Solomon
-2. The Picatrix
-3. The Book of Abramelin the Mage
+1. **The Lesser Key of Solomon**
+2. **The Picatrix**
+3. **The Book of Abramelin the Mage**
 
 Core Doctrines:
 

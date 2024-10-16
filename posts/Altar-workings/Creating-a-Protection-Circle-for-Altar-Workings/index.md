@@ -28,14 +28,14 @@ A circle of protection is a sacred space that shields those inside it from negat
 Materials and tools:
 
 1. Chalk, salt, or other materials for drawing the circle
-2. Incense and censer
-3. An altar cloth
-4. A bell or chime
+2. **Incense and censer**
+3. **An altar cloth**
+4. **A bell or chime**
 5. **Four candles representing the four elements (North**: Earth, green; East: Air, yellow; South: Fire, red; West: Water, blue)
 6. **Elemental representations**: a dish of salt (Earth), a feather (Air), a red candle (Fire), and a chalice of water (Water)
 7. A ritual dagger (athame) or wand
-8. A pentacle or other significant occult symbol
-9. A compass
+8. **A pentacle or other significant occult symbol**
+9. **A compass**
 10. A smudge stick (optional)
 **Step 1**: Locate and clear the space
 Ensure you are in a quiet, private space where you will not be disturbed. Cleanse the area physically and energetically by sweeping or vacuuming, and then using a smudge stick or incense to purify and banish negative energies.

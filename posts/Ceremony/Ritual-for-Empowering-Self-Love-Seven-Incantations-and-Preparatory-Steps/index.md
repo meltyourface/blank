@@ -18,7 +18,6 @@ tags:
   - create mystically
 description: You are a master of the esoteric, occult, Ceremony, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Include a total of seven powerful, domain-specific incantations that draw from ancient wisdom and mystical symbolism associated with self-love and personal empowerment.
   
   2. Involve the utilization of ceremonial elements, such as sacred geometry, candles, crystals or talismans, to reinforce the potency and energetic resonance of each affirmation.
@@ -26,8 +25,8 @@ excerpt: >
   3. Engage multiple senses, including auditory (chants or mantras), visual (sigil or mandala creation), and olfactory (aromatic herbs or incense), to deepen the immersive experience and heighten the subconscious impact of the ritual.
   
   4. Provide a suggested order and timing for the affirmations, indicating any specific planetary hours, moon phases, or astrological alignments believed to enhance the efficacy of the self-love cultivation process.
-  
 ---
+
 Ritualistic Sequence of Ceremonial Affirmations for Self-Love
 
 Before beginning the ritual, prepare by cleansing yourself and the space where the ritual will be performed. Ensure a harmonious and receptive energetic environment by following these preparatory steps:

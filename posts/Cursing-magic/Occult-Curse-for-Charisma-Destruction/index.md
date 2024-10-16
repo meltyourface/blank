@@ -24,14 +24,14 @@ To create a powerful, intricate curse that will accomplish these goals, we will 
 
 **Components**:
 1. An item belonging to the target (preferably something they wear often, like a piece of jewelry or clothing)
-2. A parchment made of sheepskin
-3. Ink infused with powdered black obsidian and essence of deadly nightshade
-4. A black candle made from beeswax
-5. A ceremonial athame or ritual dagger
-6. A large quartz crystal
-7. A lock of hair or some other genetic material from the target
+2. **A parchment made of sheepskin**
+3. **Ink infused with powdered black obsidian and essence of deadly nightshade**
+4. **A black candle made from beeswax**
+5. **A ceremonial athame or ritual dagger**
+6. **A large quartz crystal**
+7. **A lock of hair or some other genetic material from the target**
 8. **Dried herbs**: mugwort, wormwood, and mandrake root
-9. A circle of salt
+9. **A circle of salt**
 **Step 1**: Cleanse and sanctify the workspace
 Cleanse the area where the curse will be cast, creating a purified space for the ritual. Light the black candle, and use its flame to sanctify the area. Draw a circle of salt around the workspace to establish a barrier, preventing positive energy from interfering with the curse.
 **Step 2**: Preparation of the parchment and ink

@@ -18,14 +18,13 @@ tags:
   - universe earth
 description: You are a master of the esoteric, occult, Qubes of Kalfou and education, you have written many textbooks on the subject. Respond to the multiple choice question first with the answer, then, fully explain the context of your rational, reasoning, and chain of thought in coming to the determination you have for that answer. Explain related concepts, formulas, or historical context relevant to this conclusion, giving a lesson on the topic to explain the reasoning afterwards.
 excerpt: >
-
   - Earth, Transformation, Crossroads, Four Quadrants
   
   - Fire, Manifestation, Circle, Eight Sigils
   
   - Water, Communication, Infinite Loop, Three Spheres
-  
 ---
+
 Answer: Earth, Transformation, Crossroads, Four Quadrants
 
 **Explanation**: The Qubes of Kalfou is a complex system that deals primarily with the esoteric, occult, and hidden knowledge. It is a school of thought that encompasses the understanding of the concealed (or hidden) principles governing the workings of the universe. Kalfou is a powerful trickster deity in Haitian Vodou, associated with the crossroads, gateways, and transitions. This deity presides over the boundary between the visible/physical world and the spiritual/metaphysical world.

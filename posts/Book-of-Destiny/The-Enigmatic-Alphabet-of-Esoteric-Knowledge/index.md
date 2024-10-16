@@ -18,7 +18,6 @@ tags:
   - letters symbols
 description: You are a master of the esoteric, occult, Book of Destiny, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Include at least 26 unique symbols, each representing a common letter in the English alphabet.
   
   2. Incorporate sigils and mystical runes that invoke the secret powers of the Book of Destiny.
@@ -28,8 +27,8 @@ excerpt: >
   4. Provide a detailed explanation of the characteristics and cultural influences of each symbol, and how they connect to the principles of the Book of Destiny.
   
   5. Include at least three sample encoded messages using your magical alphabet, along with the corresponding decoded messages, showcasing its effectiveness in concealing and revealing esoteric knowledge.
-  
 ---
+
 Introducing the Mystical Alphabet of Destiny, designed to encode and decode esoteric knowledge based on the principles of the Book of Destiny. This enigmatic language contains 26 unique symbols, which correspond to the English alphabet and are inspired by various mystical and arcane sources.
 
 1. The 26 unique symbols of the Mystical Alphabet of Destiny correspond to the following English letters:

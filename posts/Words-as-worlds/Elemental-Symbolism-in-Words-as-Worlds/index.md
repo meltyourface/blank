@@ -18,7 +18,6 @@ tags:
   - symbol illustrates
 description: You are a master of the esoteric, occult, Words as worlds, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Earth: Incorporate the concepts of grounding and stability into the design of the symbol, while using intricate patterns derived from the portrayal of earth in ancient texts and sacred geometry. Consider the qualities of soil, rocks, and plant life as influential elements in this symbol's formation.
 
   2. Water: Utilize the fluidity and adaptability of water, drawing inspiration from its connection to emotions and the subconscious mind. The symbol should echo the ever-changing nature of water in its various forms (e.g., rain, rivers, oceans, and mist) as described in esoteric literature throughout the ages.
@@ -26,8 +25,8 @@ excerpt: >
   3. Fire: Capture the intensity and transformative power of fire in your symbol, referencing its associations with passion, life force, and energy in occult works. The design should allude to the duality of fire as both a creative and destructive force, using imagery found in alchemical manuscripts or ancient mythologies.
 
   4. Air: Integrate the dynamic and free-flowing essence of air into your symbol, attending to the element's ties with the intellect, communication, and movement. The symbol should incorporate symbols or patterns depicting clouds, wind, and breath, as they have appeared in esoteric writings and systems of symbolism.
-  
 ---
+
 1. Earth Symbol: The Earth symbol is composed of an equilateral triangle pointing downwards, with interwoven tendrils of roots sprouting from the triangle's corners. At the triangle's center lies a hexagon, referencing the six-sided structure of crystalline minerals. This symbol embodies grounding and stability through the strong, interconnected network of roots, while the hexagon mirrors the sacred geometry often associated with Earth. Soil, rocks, and plant life are exemplified by the intricate patterns of roots, the crystalline structure, and the nurturing energy of the Earth element.
 
 In the Words as Worlds domain, this symbol is akin to ancient depictions of Earth in various spiritual traditions such as the Indian "prithvi" element. The design also takes inspiration from the symbol for Taurus, an Earth sign in the Western zodiac, reflecting its grounding and stable qualities.

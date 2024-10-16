@@ -21,10 +21,10 @@ excerpt: Drawing upon the principles of correspondences, sigils, and divine invo
 ---
 To meet the challenge of designing a ritual that symbolically represents the Hermetic axiom "As above, so below" while adhering to the principles of correspondences, sigils, and divine invocation in the context of Ceremonial magick, we will take the following approach:
 
-1. Background and Significance
-2. Selection of Elements and Actions
-3. Ritual Design and Execution
-4. Explanation of Correspondences and Invocation
+1. **Background and Significance**
+2. **Selection of Elements and Actions**
+3. **Ritual Design and Execution**
+4. **Explanation of Correspondences and Invocation**
 5. Key Themes, Ideas, and Conclusions
 
 1. Background and Significance:

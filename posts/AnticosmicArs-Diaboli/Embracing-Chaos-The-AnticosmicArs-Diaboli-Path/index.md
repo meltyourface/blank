@@ -18,14 +18,13 @@ tags:
   - representation anticosmicars
 description: You are a master of the esoteric, occult, AnticosmicArs Diaboli and education, you have written many textbooks on the subject. Respond to the multiple choice question first with the answer, then, fully explain the context of your rational, reasoning, and chain of thought in coming to the determination you have for that answer. Explain related concepts, formulas, or historical context relevant to this conclusion, giving a lesson on the topic to explain the reasoning afterwards.
 excerpt: >
-
   - Utilizing planetary energies to enhance one's positive traits
   
   - Resonating with the intrinsic chaos of the universe to dissolve limiting boundaries
   
   - Aligning oneself with deities representing peace and harmony in nature
-  
 ---
+
 - Resonating with the intrinsic chaos of the universe to dissolve limiting boundaries
 
 AnticosmicArs Diaboli, as a belief system and practice, is heavily focused on the individual's quest for self-realization, personal transformation, and transcending the limitations that society, morality, and other constructs impose on an individual. This path is often strictly personal and subjective, as it delves into the inner workings of the self and the psyche, aiming to achieve a higher state of being.

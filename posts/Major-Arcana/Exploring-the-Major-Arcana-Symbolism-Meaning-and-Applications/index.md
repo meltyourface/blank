@@ -30,31 +30,31 @@ The Major Arcana can be viewed as symbolic representations of life's deepest tru
 
 ### II. Symbolism and Meaning Behind Each Major Arcana Card
 
-1. The Fool
+1. **The Fool**
 The Fool symbolizes the beginning of a journey, spontaneity, and infinite potential. It represents the naive spirit, taking leaps of faith and embarking on a new adventure with an open heart.
 
-2. The Magician
+2. **The Magician**
 The Magician embodies the archetype of manifesting reality through focus and intention. It signifies desire, creativity, and personal power.
 
-3. The High Priestess
+3. **The High Priestess**
 The High Priestess symbolizes intuition, mystery, and the subconscious. It signifies deep wisdom, spirituality, and the balance between the conscious and unconscious mind.
 
-4. The Empress
+4. **The Empress**
 The Empress represents nurturing, abundance, and fertility. It symbolizes the feminine, creation, and motherhood.
 
-5. The Emperor
+5. **The Emperor**
 The Emperor embodies authority, structure, and stability. It signifies masculinity, leadership, and rationality.
 
-6. The Hierophant
+6. **The Hierophant**
 The Hierophant represents spiritual guidance, tradition, and religious beliefs. It signifies mentorship, moral values, and conformity.
 
-7. The Lovers
+7. **The Lovers**
 The Lovers symbolize love, union, and partnership. It signifies relationships, choice, and balance between the heart and mind.
 
-8. The Chariot
+8. **The Chariot**
 The Chariot embodies triumph, control, and determination. It signifies personal strength, willpower, and overcoming obstacles.
 
-9. Strength
+9. **Strength**
 The Strength card represents inner strength, courage, and patience. It signifies resilience, discipline, and the power of gentle persuasion.
 
 10. The Hermit

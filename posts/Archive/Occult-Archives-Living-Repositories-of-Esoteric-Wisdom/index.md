@@ -23,8 +23,8 @@ excerpt: >
   In occult practices, Archives are considered impure sources that must be cleansed before they can be accessed for accurate knowledge.
   
   In the context of the occult, Archives are living repositories that facilitate the acquisition of esoteric knowledge and understanding for seekers, connecting information and experiences across time and space.
-  
 ---
+
 The correct answer is: In the context of the occult, Archives are living repositories that facilitate the acquisition of esoteric knowledge and understanding for seekers, connecting information and experiences across time and space.
 
 **Explanation**:

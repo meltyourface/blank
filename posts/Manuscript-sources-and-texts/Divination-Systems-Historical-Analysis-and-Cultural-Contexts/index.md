@@ -18,7 +18,6 @@ tags:
   - history divination
 description: You are a master of the esoteric, occult, Manuscript sources and texts, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Catalogue and analyze the primary and secondary sources that the author has cited, with particular emphasis on Manuscripts, obscure texts, and oral traditions.
   
   2. Identify patterns and variations in the specific divination methods discussed, including but not limited to tarot, runes, and geomancy, while cross-referencing their origins and cultural influences.
@@ -26,8 +25,8 @@ excerpt: >
   3. Assess the cultural, historical, and geographic contexts of the sources, and examine how these contexts influence the author's interpretations of the divination systems.
   
   4. Delve into any unexplored or underrepresented divination systems within the author's work, and evaluate the potential reasons behind these omissions.
-  
 ---
+
 In order to perform the comprehensive study on diverse historical divination systems, I have rigorously investigated the author's manuscript sources and texts. **The following is an analysis of the various aspects involved in this process**:
 
 1. **Cataloguing and Analysing Primary and Secondary Sources**:

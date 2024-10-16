@@ -23,8 +23,8 @@ excerpt: >
   The representation of Yggdrasil's nine realms as various stages of human consciousness
   
   Utilizing Yggdrasil's branches and roots to explore past, present, and future possibilities through divination practices
-  
 ---
+
 The representation of Yggdrasil's nine realms as various stages of human consciousness.
 
 In the context of the Re-interpretation of Yggdrasil, the aspect that best demonstrates the interconnectedness of the cosmos in contemporary esoteric beliefs is the representation of Yggdrasil's nine realms as various stages of human consciousness. This interpretation connects the ancient Norse concept of Yggdrasil, the World Tree, to modern spiritual and psychological understandings of personal growth and development.

@@ -18,7 +18,6 @@ tags:
   - bourbon long
 description: You are a master of the esoteric, occult, Wild Turkey bourbon, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. **Appearance**: Describe the bourbon's color, clarity, and viscosity, comparing it to other bourbons in the Wild Turkey lineup.
 
   2. **Aroma**: Identify the various notes present in the whiskey's nose, highlighting any distinctive or unusual scents. Consider the influences of the oak barrels, mash bill, and aging process.
@@ -30,8 +29,8 @@ excerpt: >
   5. **Finish**: Detail the bourbon's finish, assessing its length, warmth, and complexity. Identify any particularly notable or distinctive aftertastes.
 
   6. **Comparison**: Provide a comparison between Wild Turkey Rare Breed Barrel Proof and other barrel proof offerings in the market, discussing how the Wild Turkey expression either distinguishes itself or fits into the overall landscape.
-  
 ---
+
 1. **Appearance**: Wild Turkey Rare Breed Barrel Proof bourbon exhibits a deep, rich amber color, demonstrating its time spent aging in charred oak barrels. The clarity of the bourbon is exceptional, with no haze or cloudiness to be seen. In comparison to other bourbons in the Wild Turkey lineup, its viscosity appears thicker and more viscous, indicating a higher concentration of oils and sugars extracted from the oak during the aging process.
 
 2. **Aroma**: The nose of the Wild Turkey Rare Breed Barrel Proof bourbon is complex and inviting. Dominant notes include vanilla, caramel, and a robust oakiness, characteristic of Wild Turkey's signature high-rye mash bill and extended aging process. Dark fruits such as cherries, raisins, and figs are present offering a pleasant contrast, while hints of baking spices, like cinnamon and nutmeg, bring a warm, earthy depth.

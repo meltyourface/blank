@@ -19,7 +19,6 @@ tags:
   - winged creatures
 description: You are a master of the esoteric, occult, Beast masters and mothers, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Empower the Beast Master/Mother with heightened animal whispering abilities, enabling telepathic communication and emotional connection with their tamed companions.
 
   2. Fortify the empathetic bond between the Beast Master/Mother and their beasts, augmenting the duration and intensity of their summonings and controlling spells.
@@ -29,8 +28,8 @@ excerpt: >
   4. Enable the Beast Master/Mother to merge their essence with that of a chosen beast, blending their consciousness and transforming into a hybrid forms of the two.
 
   5. Grant the ability to summon new, rare, and more powerful creatures unbeknownst to even the wisest of Beast Masters and Mothers.
-  
 ---
+
 Scroll of the Celestial Falcon
 
 **Materials**: Parchment made from the bark of a sacred oak tree, ink infused with powdered sapphire, and the feather of a celestial falcon.

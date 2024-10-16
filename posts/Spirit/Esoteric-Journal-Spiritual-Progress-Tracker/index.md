@@ -26,22 +26,22 @@ excerpt: >
 ### I. Daily Rituals Section
 
 1. Ritual Name/Type
-2. Date and Time
-3. Duration
+2. **Date and Time**
+3. **Duration**
 4. Purpose/Intention
-5. Materials Used
-6. Outcomes
-7. Ritual Space details
+5. **Materials Used**
+6. **Outcomes**
+7. **Ritual Space details**
 8. Efficiency Rating (1-10)
-9. Additional Notes
+9. **Additional Notes**
 
 ### II. Spell Workings Section
 
 1. Spell Name/Type
-2. Date and Time
-3. Duration
+2. **Date and Time**
+3. **Duration**
 4. Purpose/Intention
-5. Materials Used
+5. **Materials Used**
 6. Success Rating (1-10)
 7. Correspondences (Astrological, Planetary, Elemental, etc.)
 8. Environmental factors (e.g., weather, lunar phase)
@@ -50,27 +50,27 @@ excerpt: >
 
 ### III. Divination Readings Section
 
-1. Divination Method
-2. Date and Time
+1. **Divination Method**
+2. **Date and Time**
 3. Question/Intention
 4. Spread/Layout
 5. Details of each symbol/card
-6. Interpretation
+6. **Interpretation**
 7. Accuracy Rating (1-10)
-8. Influencing Factors
-9. Insights Gained
+8. **Influencing Factors**
+9. **Insights Gained**
 10. Additional Notes
 
 ### IV. Spirit Entity Interactions Section
 
-1. Entity Name or Type
-2. Date and Time
-3. Location
-4. Method of Communication
-5. Purpose of Contact
-6. Information Exchanged
+1. **Entity Name or Type**
+2. **Date and Time**
+3. **Location**
+4. **Method of Communication**
+5. **Purpose of Contact**
+6. **Information Exchanged**
 7. Strength of Connection (1-10)
-8. Perceived Outcome
+8. **Perceived Outcome**
 9. Ongoing Relationship? (Yes/No)
 10. Additional Notes
 

@@ -18,14 +18,13 @@ tags:
   - york rituals
 description: You are a master of the esoteric, occult, American Craft and York rituals and education, you have written many textbooks on the subject. Respond to the multiple choice question first with the answer, then, fully explain the context of your rational, reasoning, and chain of thought in coming to the determination you have for that answer. Explain related concepts, formulas, or historical context relevant to this conclusion, giving a lesson on the topic to explain the reasoning afterwards.
 excerpt: >
-
   - To test the candidate's memorization skills
   
   - To increase the candidate's financial wealth
   
   - To impart esoteric teachings and moral lessons through allegory and symbolism
-  
 ---
+
 The correct answer is: To impart esoteric teachings and moral lessons through allegory and symbolism.
 
 The American Craft and York rituals, which are part of Freemasonry, are centered on the purpose of the degree ceremonies to impart esoteric teachings and moral lessons through allegory and symbolism. Freemasonry is a fraternal organization with a rich history of symbolism, allegory, and moral teachings. It has roots dating back to the medieval stonemasons and operative Masonic lodges and has since evolved into a modern, speculative organization focused on philosophical and moral exploration.

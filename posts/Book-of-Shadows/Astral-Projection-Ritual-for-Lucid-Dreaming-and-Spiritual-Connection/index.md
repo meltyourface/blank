@@ -18,7 +18,6 @@ tags:
   - ritual
 description: You are a master of the esoteric, occult, Book of Shadows, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. A step-by-step process involving the use of ancient symbols, sigils, and runes specific to the esoteric arts found in the Book of Shadows.
   
   2. The incorporation of a unique and powerful incantation, specifically crafted for this ritual, that aligns with the domain's mystical practices and intentions.
@@ -26,8 +25,8 @@ excerpt: >
   3. The inclusion of specific tools, materials, or talismans utilized in the Book of Shadows to amplify the success of the ritual, such as a ritual dagger, enchanted amulet, or specific altar setup.
   
   4. An explanation of how to use visualization, meditation, or breathwork practices according to the mystical principles of the Book of Shadows to prepare and guide the practitioner through the astral and lucid dream realms.
-  
 ---
+
 ## I. Preparation and Setup
 
 Begin by choosing a quiet and dimly lit room, where you won't be disturbed. Cleanse the space using sage or any other purifying incense of your choice, ensuring the energies within are suitable for the ritual.

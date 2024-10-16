@@ -18,7 +18,6 @@ tags:
   - saturn provide
 description: You are a master of the esoteric, occult, Saturnine magic, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Identifying the correspondence of Saturn's position within the twelve astrological houses by examining traditional and contemporary astrological texts.
   
   2. Unraveling the inherent qualities and challenges that arise when Saturn is present in each astrological house, with particular emphasis on the manifestation of Saturnine influences, such as discipline, limitations, and perseverance.
@@ -26,8 +25,8 @@ excerpt: >
   3. Exploring the manner in which the energies of the astrological houses and Saturn's position align with specific Saturnine magical practices, including sigil creation, hex removal, and karmic cleansing.
   
   4. Designing ritual frameworks tailored to enhance the potency of the Saturnine magical workings by taking into account the unique interplay between Saturn's varying house locations and the desired magical outcomes.
-  
 ---
+
 1. Identifying the correspondence of Saturn's position within the twelve astrological houses through traditional and contemporary astrological texts:
 
 Through examination of traditional and contemporary astrological sources, the correspondence of Saturn's position within the twelve astrological houses is as follows:

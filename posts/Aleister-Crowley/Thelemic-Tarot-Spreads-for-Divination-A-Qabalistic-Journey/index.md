@@ -21,7 +21,7 @@ excerpt: Design and incorporate specialized Thoth Tarot card spreads, influenced
 ---
 To complete this task, I have designed three specialized Thoth Tarot card spreads influenced by the teachings of Aleister Crowley, Thelemic philosophy, and the Tree of Life. These spreads incorporate astrological correspondences and Qabalistic symbolism to create innovative layouts that reveal profound insights during divination sessions.
 
-1. The Thelemic Star Spread
+1. **The Thelemic Star Spread**
 
 This spread consists of 11 cards and is meant to resemble a unicursal hexagram, which is a central symbol in Thelemic tradition. The cards are placed as follows:
 
@@ -35,7 +35,7 @@ This spread consists of 11 cards and is meant to resemble a unicursal hexagram, 
 
 To interpret this spread, read the cards clockwise from the top, with the surrounding influences being analyzed last. The analysis should incorporate astrological and Qabalistic correspondences related to the cards, for in-depth understanding.
 
-2. The Tree of Life Spread
+2. **The Tree of Life Spread**
 
 Based on the ten sephiroth from the Qabalistic Tree of Life, this spread involves placing ten cards, each corresponding to the sephiroth they are positioned on. 
 
@@ -53,20 +53,20 @@ The layout from top to bottom:
 
 Each card should be assessed in relation to its corresponding sephirah, and astrological and Qabalistic symbolism should be considered.
 
-3. The Zodiac Wheel Spread
+3. **The Zodiac Wheel Spread**
 
 This 12-card spread is arranged in the shape of a zodiac wheel. Each card represents one of the astrological houses and reveals subtle aspects of the querent's life.
 
 Starting from the left and clockwise, the cards represent the following:
-1. Self and identity
-2. Possessions and values
-3. Communication and learning
-4. Family and home
-5. Creativity and pleasure
-6. Work and health
-7. Partnerships and relationships
-8. Shared resources and transformations
-9. Expansion and exploration
+1. **Self and identity**
+2. **Possessions and values**
+3. **Communication and learning**
+4. **Family and home**
+5. **Creativity and pleasure**
+6. **Work and health**
+7. **Partnerships and relationships**
+8. **Shared resources and transformations**
+9. **Expansion and exploration**
 10. Career and social status
 11. Friendships and community
 12. Spirituality and inner growth

@@ -21,9 +21,9 @@ excerpt: Compare and contrast the significance of altar cloth materials and symb
 ---
 As we embark on this journey to understand the significance of altar cloth materials and symbols in various esoteric traditions, it's important to lay the groundwork by first delving into the underlying principles and practices that characterize these fascinating spiritual systems. For a young student who has never encountered these concepts before, the discussion will be organized in the following manner: 
 
-1. Introduction to altar cloths
-2. The importance of materials and symbols
-3. Comparison across various esoteric traditions
+1. **Introduction to altar cloths**
+2. **The importance of materials and symbols**
+3. **Comparison across various esoteric traditions**
 4. Influence on a practitioner's connection to a chosen sphere of consciousness
 5. Key themes, ideas, and conclusions
 

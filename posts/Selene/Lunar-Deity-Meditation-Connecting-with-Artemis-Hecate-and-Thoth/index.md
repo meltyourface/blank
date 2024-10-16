@@ -23,25 +23,25 @@ excerpt: Design a Selene visualization exercise to invoke and establish a connec
 ## "Lunar Embrace: Communing with Artemis, Hecate, and Thoth"
 
 Materials needed:
-1. A quiet and comfortable space away from distractions
+1. **A quiet and comfortable space away from distractions**
 2. Incense or essential oils (jasmine, sandalwood or myrrh)
 3. Candles, preferably white or silver
 4. Moonstones, selenite, or other crystals associated with lunar energy
-5. A bowl of water
+5. **A bowl of water**
 6. A representation of the lunar phase you're connecting to (poster, drawing or object)
 
 **Preparation**:
 1. Find a time when the energy of the moon is at its peak (full moon is especially powerful)
-2. Prepare your space by cleansing it with incense or an essential oil diffuser
-3. Arrange your materials in a manner that feels intuitive and sacred to you
+2. **Prepare your space by cleansing it with incense or an essential oil diffuser**
+3. **Arrange your materials in a manner that feels intuitive and sacred to you**
 4. Sit or lie down comfortably, facing the image, symbol or object representing the lunar phase
-5. Light the candles as an offering to the deities and to welcome their energies
+5. **Light the candles as an offering to the deities and to welcome their energies**
 
 Visualization and meditation sequence:
 
 Phase 1: Balancing your energy
 1. Begin with deep, calm breaths, inhaling for four counts and exhaling for six counts
-2. Close your eyes and visualize a silvery lunar energy surrounding you
+2. **Close your eyes and visualize a silvery lunar energy surrounding you**
 3. As you breathe in, draw this energy through the crown of your head and out through your feet, creating a loop
 4. Continue this cycle, feeling your energy balance and harmonize with the moon
 
@@ -52,12 +52,12 @@ Phase 2: Connecting with each lunar deity
 4. For Thoth: Imagine the waxing moon, and meditate on the wisdom and knowledge it signifies
 
 Phase 3: Inviting the deities
-1. Hold the moonstones or selenite crystals in your hands and continue to breathe deeply
-2. Recite a chant or prayer inviting the desired goddess or god to join you
+1. **Hold the moonstones or selenite crystals in your hands and continue to breathe deeply**
+2. **Recite a chant or prayer inviting the desired goddess or god to join you**
 Example: "Artemis, Hecate, Thoth, I call upon your lunar power, guide my spirit and enrich my soul in this sacred hour."
 
 Phase 4: Building the energetic bridge
-1. Imagine a beam of light radiating from the lunar representation towards you
+1. **Imagine a beam of light radiating from the lunar representation towards you**
 2. Feel the light encompass your entire body, forming a bridge between you and the deity
 3. Explore your connection with the deity: visualize their symbols, tools, or animals, sharing offerings and asking for their guidance
 

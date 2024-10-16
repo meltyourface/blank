@@ -18,7 +18,6 @@ tags:
   - step rune
 description: You are a master of the esoteric, occult, post-conversion runes, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Selection of a specific post-conversion rune set that aligns with the overall intention of the mindfulness exercise.
   
   2. Development of a step-by-step ritual that incorporates rune casting, runic meditation, and visualization within the framework of modern mindfulness techniques, such as breath awareness or body scanning.
@@ -26,8 +25,8 @@ excerpt: >
   3. Creation of an example 30-minute guided practice session that clearly demonstrates how to use the chosen rune set to facilitate a deep meditative state while maintaining focus on the present moment awareness.
   
   4. Designate specific runes to represent key aspects of mindfulness, such as attention, concentration, non-judgment, and acceptance, as well as ways to incorporate these runes into the ritual and visualization process.
-  
 ---
+
 Runic Ritual: Mindfulness in Motion
 
 The comprehensive runic ritual integrating post-conversion esoteric symbols with contemporary mindfulness methodologies is titled "Mindfulness in Motion." It combines the power of ancient runes with contemporary meditation techniques to enhance mental clarity, emotional balance, and present moment awareness.

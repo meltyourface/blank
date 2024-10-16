@@ -24,11 +24,11 @@ Introduction
 
 To delve into the connections between ancestral worship, the collective unconscious, and the esoteric principle of "As Above, So Below," it is crucial, firstly, to understand each concept individually. Once we have established a clear basis for each idea, we can then explore the ways in which they intersect and relate to one another. 
 
-1. Ancestral Worship
+1. **Ancestral Worship**
 
 Ancestral worship, a prominent spiritual and religious practice in various cultures across the globe, refers to the veneration and honor of our ancestors. This practice is rooted in the belief that our ancestors continue to exist in a spiritual realm after their physical death and can offer guidance, blessings, and protection to the living. Ancestral worship may involve rituals, offerings, prayers, or meditation aimed at connecting with the spirit of the ancestors and integrating their wisdom into our lives. 
 
-2. Collective Unconscious
+2. **Collective Unconscious**
 
 The collective unconscious, a psychological concept introduced by Swiss psychiatrist Carl Jung, is a reservoir of experiences, symbols, and cultural archetypes shared by all human beings throughout history. It contains the inherited psychic energy and unconscious memories present within the collective human mind, transcending individual consciousness. These inherited symbols or archetypes, referred to as primordial images, influence our thoughts, beliefs, and behaviors, providing a sense of continuity and connection to our ancestors.
 

@@ -18,7 +18,6 @@ tags:
   - bloodfire talisman
 description: You are a master of the esoteric, occult, Bloodfire and Dark Power, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Inscribe a circle of protection with the Bloodfire sigils, ensuring it is large enough to encase the practitioner and all ritual objects.
 
   2. Prepare and consecrate three Dark Power gemstones, specifically onyx, black obsidian, and jet, to amplify the banishing energy.
@@ -30,8 +29,8 @@ excerpt: >
   5. Incorporate the performance of a dance, chant, or meditation to attune the practitioner's energy with the Bloodfire and Dark Power currents during the ritual's climax.
 
   6. Conclude the ritual by sealing the circle and the talisman with a complex series of sigil formations followed by a purification process to cleanse and restore the surrounding energies to a state of balance.
-  
 ---
+
 The Bloodfire and Dark Power Banishing Ritual is designed to expel a malevolent presence or unwanted influence, harnessing the potent forces of Bloodfire and Dark Power. Before beginning the ritual, it is essential to be well-versed in the intricacies of magic and have a strong will to complete this demanding process. The following steps must be performed with the utmost precision and focus:
 
 1. Inscribe the Circle of Protection: Utilize a mix of ash and blood to trace the circle of protection on the ground. The circle must be large enough to encompass the practitioner and all ritual objects. Trace Bloodfire sigils on the outer edge of the circle, focusing on their purifying nature, and infusing the circle with energy to protect the space within from external interference.

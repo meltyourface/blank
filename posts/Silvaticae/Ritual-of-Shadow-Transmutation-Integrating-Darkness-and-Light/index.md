@@ -18,14 +18,13 @@ tags:
   - ritual outside
 description: You are a master of the esoteric, occult, Silvaticae, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Identification of specific traumatic experiences and their connection to spiritual stagnation within the esoteric energy system;
   
   2. Invocation of the dark aspects of the Silvaticae pantheon to confront the individual's shadow self and bring forth revelations about their unconscious patterns;
   
   3. Developing a personalized system of occult symbols, healing modalities, and meditative techniques to facilitate the integration of fragmented energies and create harmonious balance between light and dark forces within their psyche; and
-  
 ---
+
 
 ## The Ritual of Shadow Transmutation
 

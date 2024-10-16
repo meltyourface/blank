@@ -26,12 +26,12 @@ The Familiar in European witchcraft and folk magic tradition usually takes the f
 
 In terms of transformative attributes, the Witch's Familiar often morphs into different shapes or disguises to keep the practitioner safe or wage a psychic battle. Systematically aligned with the practitioner's intentions and energy, the Witch's Familiar contributes to the development of spiritual acumen and personal growth by fulfilling the practitioner's desires and objectives while navigating through challenges and moral dilemmas.
 
-2. Native American Spirit Animal
+2. **Native American Spirit Animal**
 In Native American tradition, the Spirit Animal, also called the Totem Animal or Power Animal, forms a spiritual connection and bond with an individual. It primarily functions as a guide, teacher, and protector, empowering the person with its inherent wisdom, qualities, and characteristics. Examples of Spirit Animals include: the wolf, bear, eagle, and deer.
 
 Rather than being the result of a contract, the Spirit Animal naturally connects with the practitioner at specific stages in life. The transformative attributes of the Spirit Animal involve internal growth and development, wherein an individual gradually acquires and embodies virtues of the associated animal. By embracing the Spirit Animal's essence, the practitioner follows a path of spiritual acumen and personal growth, forged through introspection, empathy, and understanding.
 
-3. Chinese Qi Lin
+3. **Chinese Qi Lin**
 In Chinese mythology and culture, Qi Lin (often spelled as "qilin") is a mythical creature regarded as a powerful and auspicious companion. The Qi Lin embodies qualities such as morality, benevolence, and wisdom. It typically appears during the reign of righteous rulers and auspicious events, representing prosperity and stability.
 
 The transformative attribute of the Qi Lin lies in its ability to manifest as a symbol of protection and prosperity for the practitioner. As a Familiar Companion, the Qi Lin guides the practitioner along a moral and ethical path, instilling values of wisdom, righteousness, and compassion. Consequently, the individual's spiritual acumen and personal growth evolve with an emphasis on consideration for others and the greater good.

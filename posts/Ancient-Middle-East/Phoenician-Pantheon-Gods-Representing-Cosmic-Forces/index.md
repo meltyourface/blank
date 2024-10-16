@@ -19,8 +19,8 @@ tags:
 description: You are a master of the esoteric, occult, Ancient Middle East, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
   In your synthesis, include detailed descriptions of their divine roles, symbolisms, and associations with rituals or ceremonies performed during that era. Complement this with well-crafted artistic representations, showcasing the deity's iconic appearances and symbols.
-  
 ---
+
 In the elaborate Phoenician pantheon that I have designed, the focus falls upon the city-states of Tyre and Sidon. The pantheon consists of a myriad of deities, each representing elemental forces, moral virtues, and celestial bodies, all with their unique attributes and spheres of influence.
 
 1. El-Baal: The Supreme God of the Phoenician pantheon, El-Baal represents the sky, thunder, and storms. Considered the father of all gods and the creator of the universe, he dwells in a heavenly palace. His symbols include a bull, which signifies his strength, and lightning bolts that display his prowess over weather. Temples dedicated to El-Baal stand grandly in the heart of Tyre and Sidon, where inhabitants worship him and offer sacrifices during times of need.

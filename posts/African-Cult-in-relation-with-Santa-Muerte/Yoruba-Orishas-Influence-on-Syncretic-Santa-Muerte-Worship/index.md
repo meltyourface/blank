@@ -18,14 +18,13 @@ tags:
   - african spirituality
 description: You are a master of the esoteric, occult, African Cult in relation with Santa Muerte and education, you have written many textbooks on the subject. Respond to the multiple choice question first with the answer, then, fully explain the context of your rational, reasoning, and chain of thought in coming to the determination you have for that answer. Explain related concepts, formulas, or historical context relevant to this conclusion, giving a lesson on the topic to explain the reasoning afterwards.
 excerpt: >
-
   - The incorporation of Yoruba Orishas and their attributes
   
   - The use of Vodou rituals and invocations
   
   - The integration of Palo Mayombe's spiritual practices
-  
 ---
+
 - The incorporation of Yoruba Orishas and their attributes
 
 In the context of African Cult practices and their relationship with Santa Muerte, the primary influence of African spirituality within the syncretic worship of Santa Muerte is the incorporation of Yoruba Orishas and their attributes.

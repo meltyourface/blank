@@ -18,7 +18,6 @@ tags:
   - necromancer perform
 description: You are a master of the esoteric, occult, Land of the Dead, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Establishing proper rites and rituals to summon and protect both the living and the deceased during the communion between the worlds.
   
   2. Outlining ethical guidelines to adhere to when navigating the dark realms, such as respecting the boundaries between life and death, avoiding malicious interference with the mortal plane, and ensuring honest communication between the living and the dead.
@@ -26,8 +25,8 @@ excerpt: >
   3. Describing potential hazards and entities a necromancer may encounter while traversing the Land of the Dead, including malevolent spirits and supernatural traps, and providing solutions to handle these encounters.
   
   4. Incorporating safeguards for maintaining the balance of the mortal and the astral realms by specifying the consequences of breaking the code, such as severing ties with otherworldly guardians or facing eternal banishment from the Land of the Dead.
-  
 ---
+
 Code of Conduct for a Necromancer Serving as an Intermediary Between the Living and the Deceased
 
 ### I. Establishing Proper Rites and Rituals

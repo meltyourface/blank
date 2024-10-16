@@ -23,8 +23,8 @@ excerpt: >
   Pan's Labyrinth (2006)
   
   Black Swan (2010)
-  
 ---
+
 Pan's Labyrinth (2006)
 
 "Pan's Labyrinth," directed by Guillermo del Toro, is a film that showcases occult and esoteric themes in both overt and subtle ways. The film weaves a dark, fantastical story, set against the backdrop of post-Civil War Spain, that presents layered symbolism and intricate imagery rooted in esoteric traditions and mythology.

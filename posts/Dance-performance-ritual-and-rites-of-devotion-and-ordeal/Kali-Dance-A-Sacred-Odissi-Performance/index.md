@@ -28,8 +28,8 @@ excerpt: >
   4. Integrate specific gestures, postures, and movements in your dance narrative that symbolize the deity's story or teachings, and the emotions they evoke in their devotees.
   
   5. Enrich the soundscape by incorporating live music, invocations, or chants that correspond with the chosen dance form and deity, highlighting the harmony between movement and sounds.
-  
 ---
+
 1. The specific deity chosen for this ceremonial dance is the Hindu goddess Kali, who is the embodiment of transformative power, time, destruction, and fierce compassion. Kali is often associated with fierce aspects of divine feminine energy, confronting and vanquishing evil forces and ignorance. Her history and symbolism are rich in the ancient traditions that form the basis for this performance.
 
 2. The dance style chosen for this performance is Odissi, one of the oldest surviving Indian classical dance forms. Originating from the temples of Odisha (Orissa), this dance form possesses the devotion and piety to convey Kali's fierce grace and sacredness.

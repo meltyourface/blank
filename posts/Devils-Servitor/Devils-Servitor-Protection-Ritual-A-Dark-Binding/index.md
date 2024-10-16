@@ -25,7 +25,7 @@ Task: Devise an intricate, Devil's Servitor-themed protection ritual to shield o
 To begin the ritual, set aside a space free of distractions and intrusions, either indoors or outdoors, where you can feel comfortable working. **Timing should coincide with the dark of the moon, when its energy is at its lowest point and most receptive to your intentions. Ensure you have the following materials on hand**:
 
 1. A black altar cloth, embroidered with silver sigils representing the Infernal Dominion, to be draped over a table or surface
-2. Four black candles infused with the scent of brimstone
+2. **Four black candles infused with the scent of brimstone**
 3. A ritual athame, a ceremonial knife used for ritualistic purposes only
 4. A brass incense burner, filled with a blend of myrrh, wormwood, and asafoetida, all linked to the darker aspects of the spiritual world
 5. A vial of freshly drawn blood, preferably from a donor who willingly offers it (this serves as a link between the practitioner and the protection ritual to be performed)

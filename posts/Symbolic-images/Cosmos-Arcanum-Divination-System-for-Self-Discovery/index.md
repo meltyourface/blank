@@ -31,7 +31,7 @@ Drawing upon a rich tapestry of symbolic influences, this system incorporates bo
 
 ### II. The Deck: The Star Courts
 
-1. Structure
+1. **Structure**
 
 The Cosmos Arcanum deck consists of 84 cards, divided into seven suits:
 
@@ -49,7 +49,7 @@ f) The Cosmic Crossroads (8 cards): Depicting the cardinal, fixed, and mutable m
 
 g) The Gateway Cards (4 cards): Comprised of the four primary compass points (North, South, East, West), these cards invoke portals to new realms of spiritual understanding.
 
-2. Symbolic Significance
+2. **Symbolic Significance**
 
 Each card within the deck showcases intricate artwork and symbolism, drawing upon diverse cultural and historical contexts to illustrate complex layers of meaning. For example:
 
@@ -57,17 +57,17 @@ a) The Celestial Luminaries: Jupiter, as the king of the gods, is depicted seate
 
 b) The Zodiac Court: The Aries card features a fire-breathing ram atop a mountain, evoking the pioneering and fearless spirit of this cardinal fire sign.
 
-3. Numerological Associations
+3. **Numerological Associations**
 
 Each suit contains numerical associations, with each card assigned a number that corresponds to its inherent energy. These numbers relate to various mystical concepts, such as the Tree of Life, numerology, possible personal and global events, timeframes, and the natural order.
 
 ### III. The Grid: Intuitive Constellations
 
-1. Structure
+1. **Structure**
 
 The Cosmos Arcanum grid, known as "Intuitive Constellations," is composed of 12 spaces, arranged in a circle to invoke the cyclic nature of the cosmos. These spaces correspond with the houses of the zodiac and allow for flexible readings based on the placement of cards within the grid.
 
-2. Interpretation
+2. **Interpretation**
 
 The Intuitive Constellations grid leads the practitioner to consider not only the individual cards but also the relationships between them, in the context of celestial alignments, elemental balances, and numerological harmonics.
 

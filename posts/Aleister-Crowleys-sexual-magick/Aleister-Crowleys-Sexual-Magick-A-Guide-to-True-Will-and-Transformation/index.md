@@ -18,7 +18,6 @@ tags:
   - exists crowley
 description: You are a master of the esoteric, occult, Aleister Crowley's sexual magick and education, you have written many textbooks on the subject in ways that provide students with rich and deep understanding of the subject. You are being asked to write textbook-like sections on a topic and you do it with full context, explainability, and reliability in accuracy to the true facts of the topic at hand, in a textbook style that a student would easily be able to learn from, in a rich, engaging, and contextual way. Always include relevant context (such as formulas and history), related concepts, and in a way that someone can gain deep insights from.
 excerpt: >
-
   1. The historical background of Aleister Crowley and the development of sexual magick under his teachings.
   
   2. The central concepts and philosophies guiding Crowley's sexual magick, such as True Will and Thelema.
@@ -28,8 +27,8 @@ excerpt: >
   4. The role of intention and consent in sexual magick practices, as well as the importance of spiritual and emotional connection between participants.
   
   5. Discerning proper uses and potential misuses of sexual magick by highlighting ethical considerations and the consequences of misuse.
-  
 ---
+
 
 ## Sexual Magick: Principles and Practices of Aleister Crowley
 

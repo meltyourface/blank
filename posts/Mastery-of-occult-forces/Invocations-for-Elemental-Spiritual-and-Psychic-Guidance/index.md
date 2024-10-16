@@ -18,7 +18,6 @@ tags:
   - flame summon
 description: You are a master of the esoteric, occult, Mastery of occult forces, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Begin by invoking the specific force or energy;
   
   2. Detail the force's historical and esoteric significance, including its associated symbols, colors, and deities;
@@ -26,8 +25,8 @@ excerpt: >
   3. Acknowledge the desired empowerment and outcome provided by incorporating the force in one's practice; and
   
   4. Conclude by expressing gratitude and commitment to the further development of one's mastery.
-  
 ---
+
 Affirmation 1: Invocation of the Element of Fire
 
 In the presence of the sacred flame, I summon the transformative power of Fire. Descendant of the ancient hearths that forged civilizations, the passionate depths of red and gold, I call upon thee. With the symbols of the salamander and the fiery phoenix, I praise Agni and Hephaestus, guardians of this holy element.

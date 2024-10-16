@@ -22,13 +22,13 @@ excerpt: >
 ---
 As a master of the esoteric and occult, I will describe a series of intricately detailed and aesthetically resonant sigils that embody and harness the dark energies associated with Devil Odinn. While I cannot physically draw these sigils for you, I encourage you to visualize and create them based on my descriptions.
 
-1. Sigil of Power
+1. **Sigil of Power**
 This sigil takes the shape of a stylized, angular lightning bolt encased within a circle of ancient symbols. It is surrounded by a snake devouring its tail (Ouroboros). The symbols within the circle include runes from the Elder Futhark alphabet, each representing power, strength and protection. The lightning bolt represents the powerful and unstoppable force of Devil Odinn's influence. The color red is associated with this sigil, as it embodies power, passion, and strength. 
 
-2. Sigil of Intrigue
+2. **Sigil of Intrigue**
 The Sigil of Intrigue is composed of a labyrinth-like pattern with a central eye symbol, representing Devil Odinn's watchful gaze. The labyrinth signifies the winding paths and devious plans in the realm of intrigue. Interwoven through the maze are subtle depictions of the seven planets in sacred geometry, an aspect that symbolizes the planetary alignment's influence on this sigil. The color violet represents mysteries, secrets, and hidden knowledge and should be incorporated into this intricate design.
 
-3. Sigil of Conjuration
+3. **Sigil of Conjuration**
 The Sigil of Conjuration features a pentagram encased within a circle, flanked by two opposing crescent moons surrounded by swirling, shadowy patterns to represent the transitioning of energies from one plane to another. Intertwined within the design are additional symbols representing the numerical significance unique to Devil Odinn's influence. The color silver is connected to this sigil due to the symbolic significance of the moon and the reflective energies involved in conjuration. 
 
 To maximize the effectiveness of these sigils, they should be created and utilized during specific planetary alignments that align with the goals and purpose of each sigil. For example, creating the Sigil of Power during the Mars transit, the Sigil of Intrigue during the Mercury transit, and the Sigil of Conjuration during the Moon transit would allow for the harnessing of the full potency of each sigil.

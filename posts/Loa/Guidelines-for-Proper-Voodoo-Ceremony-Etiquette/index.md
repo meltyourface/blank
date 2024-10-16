@@ -22,7 +22,7 @@ excerpt: >
 ---
 Adhering to ceremonial decorum during spiritual rituals involving the Loa is of utmost importance, as it shows reverence, respect, and understanding of the complex relationships between the practitioners and the divine entities. Here, we will delve into the intricacies of maintaining proper ceremonial etiquette, including appropriate offerings, respectful invocation techniques, and guidelines for maintaining harmonious interactions with the Loa.
 
-1. Appropriate Offerings
+1. **Appropriate Offerings**
 
 Offerings play a key role in building and maintaining relationships with the Loa. Each Loa has specific preferences, and it is crucial to understand and present the offerings accordingly. **Some general rules for offerings include**:
 
@@ -32,7 +32,7 @@ b. **Food and drink**: Presenting the preferred food and drink of a specific Loa
 
 c. **Objects**: Offer items that hold symbolic meaning or are traditionally associated with the particular Loa, such as weapons, jewelry, or musical instruments.
 
-2. Respectful Invocation Techniques
+2. **Respectful Invocation Techniques**
 
 When invoking the Loa, it is crucial to employ techniques that demonstrate your respect and honor their presence. **Adhere to the following practices**:
 
@@ -42,7 +42,7 @@ b. **Songs and prayers**: Utilize traditional voodoo songs and prayers to call u
 
 c. **Veves**: Draw intricate and accurate veves (sacred symbols) on the ground or on an object, representing a connection point between the physical and spiritual realms.
 
-3. Guidelines for Maintaining Harmonious Interactions
+3. **Guidelines for Maintaining Harmonious Interactions**
 
 It is important to follow certain guidelines to create a cohesive, respectful atmosphere and foster harmonious interactions with the Loa:
 

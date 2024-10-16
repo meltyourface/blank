@@ -24,8 +24,8 @@ excerpt: >
   2. Draw associations between the iconic symbols, such as the Tetractys, employed by the Pythagoreans and their possible correlations with the divinatory practices at the Oracle of Delphi.
   
   3. Investigate the influence of prominent philosophers, like Plato, on the amalgamation of Pythagorean ideas with esoteric thought, and the role it played in shaping the Greek Oracle Head.
-  
 ---
+
 1. Pythagorean Practices and Doctrines Resonating with Esoteric Philosophies:
 
 The Pythagoreans were a secretive organization founded by Pythagoras in the 6th century BCE. They believed in the idea of the cosmos being reducible to mathematical principles and that numbers were the building blocks of everything in existence. Certain Pythagorean practices and doctrines have resonances with esoteric thinking, including:

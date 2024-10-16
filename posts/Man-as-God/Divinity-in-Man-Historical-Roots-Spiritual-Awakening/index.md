@@ -28,21 +28,21 @@ The occult concept of "Man as God" presents a powerful and transformative worldv
 
 Historical and Esoteric Roots
 
-1. Hermeticism
+1. **Hermeticism**
 
 The seeds of the "Man as God" concept can be traced back to the Hermetic writings of ancient Egypt, specifically the Corpus Hermeticum. These esoteric texts proclaim the doctrine of "as above, so below," asserting that humans are microcosms of the divine macrocosm. In this view, man is viewed as a manifestation of God, intrinsically linked to the sacred cosmos.
 
-2. Neoplatonism
+2. **Neoplatonism**
 
 Building upon Hermetic thought, Neoplatonism further developed the idea of the inherent divinity of the human being. The philosopher Plotinus postulated a hierarchical union of the human soul with the divine One or the Good, effectively seeing humanity as potential conduits for God's transcendent energies.
 
-3. Gnosticism
+3. **Gnosticism**
 
 The Gnostic tradition presents the concept of "gnosis" or true spiritual knowledge as the key to understanding the human-God relationship. The Gnostic texts assert that mankind holds a divine spirit trapped within physical existence, and through enlightenment, one can reclaim this dormant divinity.
 
 Core Principles
 
-1. Inherent Divinity
+1. **Inherent Divinity**
 
 At the heart of the "Man as God" concept lies the belief that every individual houses an essential, divine core. This inner divinity is a part of a universal divinity which connects all beings to one another and the cosmos.
 
@@ -50,21 +50,21 @@ At the heart of the "Man as God" concept lies the belief that every individual h
 
 The process of self-realization is the journey of awakening one's latent divine potential. This often entails the exploration of esoteric knowledge, introspection, and personal transformation, leading to one's true identity as a divine being.
 
-3. Union with the Divine
+3. **Union with the Divine**
 
 Integration of the awakened divine consciousness within human consciousness enables an initiate to attain a state of spiritual union with the universal divine forces or Being. This union is marked by a heightened awareness, profound wisdom, and the ability to manifest one's higher will in the material world.
 
 Practical Applications
 
-1. Contemplative Meditation
+1. **Contemplative Meditation**
 
 Meditation methods that focus on self-inquiry and introspection can aid in the process of self-realization. Techniques like the Hermetic "Art of Knowing Thyself," or Eastern practices such as Vipassana or Jnana Yoga, can help initiates explore their inner divinity and foster a deeper understanding of their true nature.
 
-2. Ritual Practices
+2. **Ritual Practices**
 
 Rituals and ceremonies, both personal and group-oriented, can help initiates access and integrate their divine power effectively. Examples include the Lesser Banishing Ritual of the Pentagram or the Middle Pillar Exercise in modern Western esoteric practices.
 
-3. Ethical Living
+3. **Ethical Living**
 
 Adhering to a spiritual code of conduct, similar to the Golden Rule or the Wiccan Rede, can foster an awareness of the divine interconnectedness of all life and promote the development of one's divine potential. 
 

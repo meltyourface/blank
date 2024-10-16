@@ -18,7 +18,6 @@ tags:
   - appropriate demon
 description: You are a master of the esoteric, occult, Demonic magic, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Preparing a carefully guarded sacred space, adorned with demonic sigils and protective talismans.
   
   2. Selecting an appropriate demon, renowned for their knowledge and expertise within the realm of occult and dark spiritual growth.
@@ -28,8 +27,8 @@ excerpt: >
   4. Establishing a formidable psychic link and maintaining control over the possessed individual in order to effectively benefit from the demonic possession, without causing irreversible damage.
   
   5. Channeling the demon's wisdom and harnessing their power to advance one's dark spiritual practice, through exercises such as mastering malevolent spells, understanding forbidden texts, and enhancing psychic abilities.
-  
 ---
+
 1. **Preparing the sacred space**:
 To prepare a carefully guarded sacred space, it is essential to gather the necessary materials and create a powerful protective barrier. Begin by choosing a secluded location, preferably indoors, where you can work undisturbed and remain unseen by others. Cleanse the area thoroughly with saltwater or smudging with sage to eliminate any lingering energies. 
 

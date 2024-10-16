@@ -59,9 +59,9 @@ Exiting a trance state requires a balanced approach. These steps can help you re
 
 Trance states can be invaluable in occult practices by:
 
-1. Enhancing intuition and psychic abilities
-2. Facilitating communication with spiritual entities
-3. Empowering magical and ritual workings
+1. **Enhancing intuition and psychic abilities**
+2. **Facilitating communication with spiritual entities**
+3. **Empowering magical and ritual workings**
 4. Promoting personal growth and self-discovery
 
 To maximize safety and effectiveness, consider these tips and precautions:

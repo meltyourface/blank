@@ -22,7 +22,7 @@ excerpt: Craft a cabalistic magical charm utilizing esoteric sigils and enchante
 To craft this cabalistic magic charm for wealth and prosperity, we will first gather the necessary enchanted materials and set up the sacred space for the ritual. **The following materials will be required**:
 
 1. A parchment made from the skin of a lamb, washed in hyssop water and anointed with frankincense oil
-2. A quill fashioned from the flight feather of a golden eagle
+2. **A quill fashioned from the flight feather of a golden eagle**
 3. A mixture of powdered gold, powdered silver, and small, precious stones (diamond, emerald, and sapphire)
 4. A small wooden box made of cedar, crafted to hold the parchment and sealed with wax bearing the Key of Solomon
 

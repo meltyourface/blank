@@ -35,7 +35,7 @@ Significant Grimoires, Lessons, Spellbooks, and Treatises
 1. Azoëtia
 Perhaps Chumbley's most famous work, Azoëtia, is a comprehensive grimoire that expounds on the Sabbatic Craft's philosophies, ethics, and practical applications. This seminal text, also known as The Book of the Magical Quintessence, draws on varied esoteric disciplines, combining elements from Sufism, Neoplatonism, Gnosticism, and traditional witchcraft. Azoëtia is a collection of rites, invocations, spells, and rituals meant to guide the practitioner in cultivating a dynamic relationship with both the seen and unseen worlds.
 
-2. Qutub
+2. **Qutub**
 Qutub is another significant treatise authored by Chumbley, focused on tracing the essence behind the various magical currents and practices. It provides a symbolic and poetic map for manifesting one's desires through practical use of magical principles. Comprised of 72 verses, Qutub addresses multiple themes, including the concept of pilgrimage as a metaphor for the soul's journey towards understanding the nature of reality.
 
 3. **Lux Haeresis**: The Light Heretical

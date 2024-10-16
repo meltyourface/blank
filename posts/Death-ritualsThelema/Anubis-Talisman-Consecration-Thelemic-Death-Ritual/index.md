@@ -24,8 +24,8 @@ excerpt: >
   2. Compose a series of appropriate invocations and prayers, integrating aspects of both Thelemic and ancient Egyptian spiritual practices, to call upon Anubis' guidance and power.
   
   3. Outline the steps for a ritualistic performance, utilizing specific Thelemic laws, ancient Egyptian death customs, and incorporating the use of the talisman throughout. Emphasize aspects of transmutation in relation to the god Anubis and the talisman's purpose.
-  
 ---
+
 Ceremonial Thelemic Death Ritual for the Consecration of an Anubis Talisman
 
 1. Altar Setup:

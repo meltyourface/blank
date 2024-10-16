@@ -18,7 +18,6 @@ tags:
   - dark spell
 description: You are a master of the esoteric, occult, Malefic sorcery, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Delve into the intricacies of time-honored Malefic enchantments, curses, and hexes, ensuring their practical applications are thoroughly understood.
   
   2. Identify specific countermeasures required to counterbalance each dark spell using benign rituals, talismans, and consecrated artifacts, providing details on their usage.
@@ -30,8 +29,8 @@ excerpt: >
   5. Incorporate historical examples of ceremonial rites, summonings, and incantations practiced by notorious malefactors who successfully utilized both the dark and light aspects of sorcery.
   
   6. Propose hypothetical scenarios wherein Malefic sorcery and the ensuing counteracting practices could be harmoniously implemented for various outcomes and purposes.
-  
 ---
+
 
 ## Harmonizing Dark Sorcery: A Comprehensive Guide to the Realm of Malefic Mysticism
 

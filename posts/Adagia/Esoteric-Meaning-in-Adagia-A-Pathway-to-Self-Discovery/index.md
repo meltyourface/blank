@@ -23,8 +23,8 @@ excerpt: >
   Adagia are often structured as symbolic riddles that can unlock hidden aspects of oneself when deeply contemplated.
   
   The primary purpose of adages is to record historical events in a succinct and easily digestible form.
-  
 ---
+
 B. Adagia are often structured as symbolic riddles that can unlock hidden aspects of oneself when deeply contemplated.
 
 In the study of Adagia within the context of the occult, it is important to recognize their esoteric significance. Adagia, or aphorisms, are short statements that convey a deep meaning or philosophical concept. They can be considered as condensed forms of wisdom that can provide valuable insights into the nature of reality and the human experience.

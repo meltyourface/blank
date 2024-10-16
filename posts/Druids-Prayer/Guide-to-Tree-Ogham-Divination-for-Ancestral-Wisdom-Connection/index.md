@@ -24,8 +24,8 @@ Tree Ogham divination is a time-honored and mystical practice within the Druid's
 
 **Materials**:
 1. Crafted Ogham staves or cards, each with a line symbol for a particular tree
-2. Cloth to spread the staves or cards
-3. Notebook to record observations and insights
+2. **Cloth to spread the staves or cards**
+3. **Notebook to record observations and insights**
 4. **Optional**: Tree species corresponding to the Ogham symbols, should a practitioner wish to directly connect with the tree spirits
 
 Rituals and Meditations:

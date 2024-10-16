@@ -27,13 +27,13 @@ Introduction
 
 Quimbanda is a distinctive Afro-Brazilian esoteric tradition steeped in mysticism, magic, and spiritualism. It has its roots in Central and West African spiritual systems and was brought to Brazil during the colonial era by enslaved African people, predominantly from the Congo and Angola regions. Over time, it absorbed elements of the indigenous South American spiritual systems, along with Catholicism, Kardecist spiritism, and European witchcraft, evolving into a unique tradition that has captured the interest of numerous occult practitioners around the world.
 
-1. Origins of Quimbanda
+1. **Origins of Quimbanda**
 
 Quimbanda's development dates back to the 17th century when African slaves brought their spiritual systems and practices to Brazil. As they encountered new cultural and spiritual experiences, they syncretized aspects of Catholic mysticism, indigenous beliefs, and spiritualism, gradually shaping Quimbanda into its current form.
 
 The practice of Quimbanda emerged as a significant spiritual movement in Brazil by the 20th century, with unique deities, rituals, and practices distinctly different from other Afro-Brazilian traditions such as Umbanda and Candomblé.
 
-2. Main Beliefs
+2. **Main Beliefs**
 
 At its core, Quimbanda focuses on a close relationship between the practitioner and the spirits of the tradition – the Exus and Pomba Giras. It underscores the importance of personal responsibility, ethical behavior, and self-development in order to advance spiritually. Additionally, Quimbanda practitioners draw on their inherent power and the force of these spirits to perform magical acts and rituals to improve their lives, influence outcomes, and transcend ordinary existence.
 
@@ -43,11 +43,11 @@ a) The Exus and Pomba Giras: The Exus are powerful spirits known as "guardians o
 
 b) Syncretism: Quimbanda blends influences from various religious traditions while maintaining its distinct identity. This syncretism allows it to adapt and evolve within the shifting cultural landscape.
 
-3. Key Deities
+3. **Key Deities**
 
 Quimbanda recognizes a vast array of spirits, however, the primary deities are Exu and Pomba Gira, which have numerous manifestations or paths known as pontos. Some essential Exu manifestations are Exu Tranca Ruas, Exu Caveira, Exu Mor, and Exu Tiriri. Key Pomba Gira manifestations include Pomba Gira Rainha, Pomba Gira Cigana, Pomba Gira das Almas, and Pomba Gira Dama da Noite.
 
-4. Fundamental Rituals and Practices
+4. **Fundamental Rituals and Practices**
 
 a) Rituals for the Exus and Pomba Giras: Establishing a connection with these spirits is at the heart of Quimbanda practice. Rituals often involve offerings, affirmations, and invocations, accompanied by standard ritual elements such as candles, incense, and sacred symbols.
 
@@ -55,7 +55,7 @@ b) Divination: An essential practice in Quimbanda, divination is a means to comm
 
 c) Spiritual Cleansing: Quimbanda practitioners often perform cleansing rituals to remove negative energy and facilitate spiritual growth.
 
-5. Initiating the Spiritual Journey
+5. **Initiating the Spiritual Journey**
 
 For those who wish to delve deeper into Quimbanda, it is essential to develop a solid foundation in the tradition's rituals and practices. Initiating a spiritual journey within the Quimbanda tradition requires dedication, self-awareness, and discipline. **Here are steps to begin the process**:
 

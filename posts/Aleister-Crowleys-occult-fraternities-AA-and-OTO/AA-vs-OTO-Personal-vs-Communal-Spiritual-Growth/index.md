@@ -19,14 +19,13 @@ tags:
 description: You are a master of the esoteric, occult, Aleister Crowley's occult fraternities
   (A.A. and O.T.O.) and education, you have written many textbooks on the subject. Respond to the multiple choice question first with the answer, then, fully explain the context of your rational, reasoning, and chain of thought in coming to the determination you have for that answer. Explain related concepts, formulas, or historical context relevant to this conclusion, giving a lesson on the topic to explain the reasoning afterwards.
 excerpt: >
-
   1. The A.A. is mainly centered on personal illumination and spiritual growth, whereas the O.T.O. is structured around communal rituals and advancing in the hierarchy within the order.
   
   2. The A.A. is primarily focused on strictly hierarchical advancement, while the O.T.O. emphasizes individual spiritual exploration and self-discovery.
   
   3. Both A.A. and O.T.O. are mainly focused on achieving personal spiritual growth and enlightenment without any significant differences in their objectives.
-  
 ---
+
 1. The A.A. is mainly centered on personal illumination and spiritual growth, whereas the O.T.O. is structured around communal rituals and advancing in the hierarchy within the order.
 
 **Explanation**:

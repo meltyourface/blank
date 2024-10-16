@@ -18,7 +18,6 @@ tags:
   - celebrates isis
 description: You are a master of the esoteric, occult, Magical emanation, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Delve into the deity's historical background, including their divine attributes, mythological tales, and cultural significance, to establish a strong connection with their otherworldly essence.
   
   2. Examine the sacred tools, ritualistic paraphernalia, and symbolic offerings quintessential to the deity's veneration, and the appropriate consecration procedures for each.
@@ -30,8 +29,8 @@ excerpt: >
   5. Assess the essential mental, emotional, and spiritual preparations one must undergo to attune oneself with the deity's energy, exploring practices such as meditation, visualization, and invocation of the deity's presence.
   
   6. Reflect on the manifestation and amplification of the deity's power during the ritual, focusing on their particular sphere of influence and potential outcomes.
-  
 ---
+
 We will explore the intricate methodology for channeling the mystical energies of the Egyptian goddess Isis within the realm of Magical emanation. 
 
 1. **Historical background**: Isis is a powerful and revered goddess in ancient Egyptian mythology, associated with magical knowledge, healing, fertility, motherhood, and the protection of loved ones. She is frequently depicted as a woman bearing a throne on her head, symbolizing her role as the queen of the gods. The cult of Isis spread throughout Egypt and the Mediterranean world, and her worship endured into the early centuries of the Common Era.

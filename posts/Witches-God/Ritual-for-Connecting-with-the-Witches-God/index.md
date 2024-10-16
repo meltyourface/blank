@@ -18,7 +18,6 @@ tags:
   - ritual feel
 description: You are a master of the esoteric, occult, Witches' God, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Select a suitable location and time for the ritual, taking into account the deity's associations with the moon, darkness, and the elements; provide recommendations for optimal settings and celestial alignments.
   
   2. Propose an altar arrangement that honors the Witches' God, including the use of specific offerings, symbols, and items that resonate with the deity's domains of power and influence, such as a horned effigy, candle arrangement, and natural elements.
@@ -30,8 +29,8 @@ excerpt: >
   5. Incorporate a symbolic gesture or act to solidify the bond between the practitioner and the Witches' God, such as anointing oneself with a specially prepared oil, or inscribing a sigil or talisman.
   
   6. Outline a closing sequence that includes gratitude, acknowledgment, and the proper dismissal of the deity's presence, as well as suggestions for ongoing practice and ritual observances to maintain the newly formed relationship.
-  
 ---
+
 1. **Location and Time**:
 Choose a location outdoors, preferably in a secluded forest or near a natural body of water, like a lake or river. The Witches' God is associated with the moon, darkness, and elements, so arrange the ritual on a new moon or a dark moon night to harness its energies. In addition to this, conduct the ritual at the witching hour (midnight) for maximum potency of the spiritual energies.
 

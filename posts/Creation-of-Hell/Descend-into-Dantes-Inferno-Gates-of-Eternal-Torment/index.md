@@ -18,7 +18,6 @@ tags:
   - circles hell
 description: You are a master of the esoteric, occult, Creation of Hell, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Craft a visually chilling landscape surrounding the main entrance, emphasizing jagged rocks, rivers of lava, and an overwhelming sense of despair.
   
   2. Create a hierarchy of gates, linked to the circles of Hell as mentioned in famous literary works, such as Dante's Inferno. Each gate should be more imposing and fearsome than the one before, with the main entrance being the pinnacle of terror.
@@ -28,8 +27,8 @@ excerpt: >
   4. Devise various means of psychological torment at each gate. Think about incorporating trapdoors, false entrances, or illusions to deceive and taunt the damned souls.
   
   5. Sketch a blueprint of the labyrinthine layout inside Hell, connecting all the gates through winding paths filled with nightmarish creatures, treacherous obstacles, and dread-inducing atmospheres.
-  
 ---
+
 1. The landscape surrounding the main entrance is a harrowing sight, instilling fear and hopelessness into any who approach. Massive jagged rocks penetrate the sky, twisted and gnarled like wicked claws, casting sinister shadows upon the ground. Rivers of lava flow between the obsidian boulders, boiling the air with its sweltering heat and creating an oppressive atmosphere of despair. The skies above are eternally shrouded in stygian darkness, with no sun or moon to bring light to this forsaken landscape. Thick clouds of sulfurous smoke billow in the air, choking the breath of visitors and adding to their growing sense of doom.
 
 2. Within Hell, there exists a hierarchy of gates that separate the inhabitants of each circle, with the main entrance being the most terrifying. Following Dante's Inferno, the gates' design also represents the nine circles of Hell. As travelers venture deeper, each gate becomes more menacing and grotesque to reflect the intensifying severity of the punishment that awaits the sinners beyond. Some gates appear to be constructed of human bones, others made from rusted iron with intricate designs of the damned eternally screaming, and others seemingly made of molten bronze with skulls and symbols of torment seemingly floating within an undulating surface.

@@ -23,16 +23,16 @@ The ancient goblin ritual dance, known as Gruul'nak Tok, is a revered and comple
 
 The Gruul'nak Tok unfolds in four distinct stages, with each stage representing a different aspect of goblin history and society:
 
-1. The Ritual Initiation
+1. **The Ritual Initiation**
 The dance begins with the invocation of sacred incantations, known as the Zal'kruulz. As the goblin dancers, or Naz'gorush, form an intricate pattern of concentric circles, they utter these chants to summon the spirits of their ancestral forebears. It's believed that the precise tones and rhythms of the Zal'kruulz open a channel to the goblin spirit world, allowing the ancestors to enter and guide the ritual.
 
-2. The Dance of Struggle
+2. **The Dance of Struggle**
 Goblins are no strangers to adversity, and the second stage of the dance represents their eternal struggle for survival. In this stage, the Naz'gorush perform erratic and chaotic movements to illustrate the erratic and unpredictable nature of goblin life. As they stomp, leap, and twist, they tap into the energy and resilience of their ancestors, drawing strength from the spirits of those who came before them.
 
-3. The Dance of Communion
+3. **The Dance of Communion**
 In this crucial stage of the dance, the Naz'gorush engage in energetic and passionate movements, purposefully intertwining their bodies to symbolize the interconnectedness of the goblin community and their collective reliance on one another. It's during this stage that the spirits of the ancestral goblins are believed to truly enter the circle, joining in the dance and offering their wisdom and insight to the participants.
 
-4. The Dance of Departure
+4. **The Dance of Departure**
 As the ceremony reaches its climax, the Naz'gorush gradually disengage from the Dance of Communion, performing a series of elegant, sweeping movements designed to release the spirits of the ancestors back into their ethereal realm. Accompanied by a final crescendo of Zal'kruulz incantations, the Naz'gorush bid farewell to their forebears and close the doorway to the spirit world.
 
 The traditional attire and musical instruments used during the Gruul'nak Tok hold immense symbolic importance. Dancers don the Bri'ar'thoks robes, which consist of coarse cloth laced with amulets and trinkets belonging to their ancestors. These garments are said to bring the spirit of the ancestors closer to the dancers, allowing them to connect more deeply during the ritual.

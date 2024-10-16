@@ -41,7 +41,7 @@ In many occult practices, the Black Hen represents the processes of change, grow
 
 The summoning of the Black Hen requires dedication, focus, and patience. Before attempting to summon this powerful being, you must prepare yourself mentally and spiritually.
 
-1. Preparation
+1. **Preparation**
 
 First, create a sacred space for the ritual. Cleanse and consecrate the area, marking its boundaries with a circle of salt or stones. Light candles in the four cardinal directions, aligning them with the elements of earth, air, fire, and water.
 
@@ -51,7 +51,7 @@ Next, gather the necessary implements for the summoning. **These include**:
 - A gold or yellow-colored cloth to place upon your ritual altar
 - Incense associated with wealth and prosperity (e.g., frankincense, myrrh, or cinnamon)
 
-2. Invocation
+2. **Invocation**
 
 Place the cloth on the altar and put the cauldron with grains in the center. Place the lit candles safely around the perimeter, and burn the incense as an offering.
 
@@ -66,7 +66,7 @@ Unlock for me your truth unveiled.
 As I summon, heed my call,
 To these grains before us all."
 
-3. Summoning
+3. **Summoning**
 
 During the invocation, remain focused on your intentions and visualize the Black Hen materializing within the circle. Maintain a strong yet humble demeanor, and be patient. It may take several attempts or adjustments to your ritual for the Black Hen to manifest.
 

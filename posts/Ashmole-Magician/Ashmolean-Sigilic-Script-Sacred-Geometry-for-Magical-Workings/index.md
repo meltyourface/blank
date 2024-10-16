@@ -28,11 +28,11 @@ The Ashmolean Sigilic Script is an intricate symbolic code designed for use in t
 
 Symbols and Their Properties:
 
-1. The Primal Star
-2. The Arcane Crescent
-3. The Elemental Pentacle
-4. The Aetheric Eye
-5. The Intersecting Lotus
+1. **The Primal Star**
+2. **The Arcane Crescent**
+3. **The Elemental Pentacle**
+4. **The Aetheric Eye**
+5. **The Intersecting Lotus**
 
 Symbol Descriptions:
 

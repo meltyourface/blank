@@ -24,14 +24,14 @@ excerpt: Design a ritual utilizing Witchcraft Tools to meticulously dismantle an
 
 Materials and Tools:
 1. Altar (a small table or designated space)
-2. Purple or black cloth for the altar
+2. **Purple or black cloth for the altar**
 3. Four candles (Black for Banishing and Strength, White for Purification, Yellow for Mental Clarity and Intelligence, Red for Empowerment and Passion)
-4. Matches or lighter
-5. A small bell or singing bowl
-6. An image or symbol representing a deity or personification of power
-7. A journal and pen
+4. **Matches or lighter**
+5. **A small bell or singing bowl**
+6. **An image or symbol representing a deity or personification of power**
+7. **A journal and pen**
 8. Incense (sandalwood or sage for purification, and cinnamon or frankincense for empowerment)
-9. A lighter or matches to light the incense
+9. **A lighter or matches to light the incense**
 10. Various crystals (amethyst for spiritual growth, clear quartz for amplifying energies, hematite for grounding, and tiger's eye for courage and protection)
 11. A piece of paper and a pen to draw the specific sigil
 12. An offering (a glass of water or wine, sweets, or flowers)

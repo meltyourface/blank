@@ -18,7 +18,6 @@ tags:
   - esoteric works
 description: You are a master of the esoteric, occult, society, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. **Establishing foundational practices**: Describe daily rituals and techniques rooted in esoteric teachings to establish a strong foundation for incorporating these practices into one's lifestyle.
 
   2. **Identifying and exploring esoteric paths**: Address the in-depth exploration of various esoteric disciplines including, but not limited to, Kabbalah, Gnosticism, Tarot, and Thelema. Provide a comparative analysis of their core beliefs and practices.
@@ -30,8 +29,8 @@ excerpt: >
   5. **Building and sustaining an occult community**: Discuss the importance of fostering relationships with mentors, peers, and adepts within esoteric circles and offer guidelines for nurturing these connections.
 
   6. **Addressing ethical concerns and potential pitfalls**: Recognize the potential risks and challenges that come with delving into esoteric studies, and present responsible approaches for navigating these difficulties.
-  
 ---
+
 1. **Establishing foundational practices**:
 
 A strong foundation for incorporating esoteric practices into one's lifestyle begins with daily rituals and techniques. **Examples of foundational practices include**:

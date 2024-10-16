@@ -25,15 +25,15 @@ Renaissance Palazzos (15th-16th centuries) were characterized by a revival of cl
 
 Key elements that distinguished Renaissance Palazzos include:
 1. Simple, geometrical facades with minimal ornamentation 
-2. Use of classical columns and pilasters to support the structure 
+2. **Use of classical columns and pilasters to support the structure **
 3. Prominence of arches, particularly in the entrance portals 
-4. A layout that emphasized a central courtyard surrounded by a loggia 
+4. **A layout that emphasized a central courtyard surrounded by a loggia **
 5. Use of frescoes, sculptures, and other forms of artistic embellishment to accentuate the grandeur of the interiors
 
 Baroque Palazzos (late 16th-18th centuries) evolved as a reaction to the austerity of Renaissance architecture and embraced a more dynamic, grand, and complex aesthetic, influenced by the Counter-Reformation and the desire of the Catholic Church to impress and awe its followers. The Palazzo Carignano in Turin, designed by Guarino Guarini, is an excellent example of Baroque architecture.
 
 Key features distinguishing Baroque Palazzos include:
-1. Curving and undulating facades that created a sense of movement and energy
+1. **Curving and undulating facades that created a sense of movement and energy**
 2. Richly detailed ornamentation, including statues, friezes, and stucco work
 3. Complex spatial arrangements that played with the viewer's perception 
 4. A more theatrical approach to the exteriors, often incorporating theatrical illusions and trompe l'oeil techniques in the design 

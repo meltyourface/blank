@@ -18,14 +18,13 @@ tags:
   - esoteric christianity
 description: You are a master of the esoteric, occult, Abbe Boullan and education, you have written many textbooks on the subject. Respond to the multiple choice question first with the answer, then, fully explain the context of your rational, reasoning, and chain of thought in coming to the determination you have for that answer. Explain related concepts, formulas, or historical context relevant to this conclusion, giving a lesson on the topic to explain the reasoning afterwards.
 excerpt: >
-
   - His association with the Church of Carmel and advocacy for sexual rituals
   
   - His collaborative relationship with Stanislas de Guaita and work on alchemy
   
   - His role in founding the Johannite Church and alleged possession by demonic entities
-  
 ---
+
 The correct answer is:
 - His role in founding the Johannite Church and alleged possession by demonic entities
 

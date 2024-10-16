@@ -25,7 +25,7 @@ excerpt: >
 
 **Introduction**: This guide has been designed to equip aspiring Slayers with the necessary strategies, techniques, knowledge, and skills to excel in the shadowy profession of Slaying. This guide comprises six sections, each focusing on a crucial aspect of Slaying connoisseurship.
 
-1. Exercise Regimen for Slayers
+1. **Exercise Regimen for Slayers**
 a) Strength:
     - Deadlifts (3 sets of 6-8 reps)
     - Squats (3 sets of 8-10 reps)
@@ -44,7 +44,7 @@ c) Endurance:
     - Cycling (10 miles, 2 times a week)
     - Jump Rope (10 minutes, 5 times a week)
 
-2. Nutritional Requirements for Slayers
+2. **Nutritional Requirements for Slayers**
 a) Macronutrients:
     - Protein: 1.5 - 2.0 grams per kg of body weight
     - Carbohydrates: 5 - 7 grams per kg of body weight
@@ -63,7 +63,7 @@ c) Meal Planning Strategies:
     - Focus on nutrient-dense foods
     - Stay hydrated with water and electrolyte-enhancing beverages
 
-3. Essential Combat Skills and Tactics
+3. **Essential Combat Skills and Tactics**
 a) Core Techniques:
     - Stealth
     - Firearms Proficiency
@@ -80,7 +80,7 @@ c) Specialized Training Methods:
     - Enlisting the help of a skilled Slaying mentor
     - Incorporating CrossFit and martial arts training
 
-4. Mental Resilience and Cognitive Sharpening Practices
+4. **Mental Resilience and Cognitive Sharpening Practices**
 a) Advanced Meditation Techniques:
     - Transcendental Meditation
     - Loving-Kindness Meditation

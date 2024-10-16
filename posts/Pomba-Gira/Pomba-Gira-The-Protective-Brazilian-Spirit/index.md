@@ -44,7 +44,7 @@ When dealing with Pomba Gira, a respectful attitude is necessary; understanding 
 
 1. Establishing a dedicated altar or space adorned with her symbols and colors (red and black)
 2. Employing ritual songs, prayers, or invocations as a means to communicate or connect with the spirit
-3. Providing offerings as a demonstration of gratitude and commitment to Pomba Gira
+3. **Providing offerings as a demonstration of gratitude and commitment to Pomba Gira**
 
 ### Chapter 6: Offerings and Preferences
 

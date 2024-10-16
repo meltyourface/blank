@@ -18,7 +18,6 @@ tags:
   - symbol shielding
 description: You are a master of the esoteric, occult, Hedges against malevolent power, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Employ a combination of talismans, sigils, and sacred symbols known for their potent shielding properties in the realm of Hedges against malevolent power.
   
   2. Incorporate the invocation of protective deities or guardian spirits to strengthen the barrier and act as sentinels guarding the individual's mind and energy.
@@ -28,8 +27,8 @@ excerpt: >
   4. Detail the specific materials, such as crystals, herbs, or incense, known for their protective qualities in metaphysical practices, alongside their precise application and arrangement during the ritual.
   
   5. Outline a step-by-step procedure for the ritual, ensuring accuracy in its timing, sequence, and completion, to maximize the effectiveness of the psychic barrier.
-  
 ---
+
 Ritual for Constructing a Psychic Barrier against Malevolent Entities and Practitioners of the Occult:
 
 **1. Talismans, Sigils, and Sacred Symbols:**

@@ -37,15 +37,15 @@ One of the essential skills of a practitioner is the ability to evoke and commun
 
 Three Prominent Grimoire Spirits and Methods of Approach
 
-1. Astaroth
+1. **Astaroth**
 
 Astaroth, also known as Ashtaroth or Astarte, is a powerful demon with origins in Phoenician and Canaanite mythologies. Associated with love, fertility, and war, Astaroth is often depicted as a beautiful goddess, at times accompanied by a serpent. When working with this entity, practitioners may offer incense, such as frankincense or myrrh, while utilizing a parchment sigil inscribed with her name. A respectful and sincere attitude is critical to establishing a meaningful connection with Astaroth, who is rumored to bestow hidden knowledge, wisdom, and enchanting charisma.
 
-2. King Paimon
+2. **King Paimon**
 
 King Paimon, a prominent spirit in the Ars Goetia, is a master of the arts and philosophy. Portrayed as a regal figure, he is preceded by a cacophony of musical instruments, usually riding a dromedary (a one-humped camel). To evoke King Paimon, practitioners may consider incorporating precious metals, such as gold or silver, into their rituals. Music may also figure prominently as a method of communication or to enhance the ceremonious atmosphere. When approached respectfully, King Paimon may provide knowledge of various esoteric subjects and bolster the practitioner’s creative prowess.
 
-3. Bune
+3. **Bune**
 
 As one of the 72 spirits of the Goetia, Bune is a duke frequently associated with necromancy and wealth. He is often depicted as a three-headed dragon – a combination of a dog, griffin, and man. With his power to influence the dead and amass unlimited knowledge, Bune can play a vital role in rituals centered on ancestral communication and material prosperity. To approach this spirit, one must create a sigil or talisman reflecting Bune's ancient symbols, accompanied by offerings evocative of his areas of influence, such as precious stones or valued coins.
 

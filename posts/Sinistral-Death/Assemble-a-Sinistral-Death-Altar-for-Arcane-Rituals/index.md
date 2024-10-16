@@ -18,17 +18,17 @@ tags:
   - heart altar
 description: You are a master of the esoteric, occult, Sinistral Death, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-  
 ---
+
 Sinistral Death-Inspired Altar Setup Guide
 
 Follow this detailed guide to assemble the ultimate Sinistral Death-inspired altar, harnessing the energies of death, rebirth, and the arcane.
 
-1. Layout and symbolism
+1. **Layout and symbolism**
 
 Begin with an asymmetric and labyrinthine layout that reflects the duality and complexity of Sinistral Death. Position every element in such a way as to create a balance between chaos and order.
 
-2. Main Components
+2. **Main Components**
 
 - Human Bones: Use skulls or femurs arranged in an intricate pattern, symbolizing the impermanence of life and the constant cycle of death and rebirth.
 - Dark Crystals: Incorporate crystals such as obsidian and black tourmaline, which hold properties of protection, grounding, and transformation.
@@ -48,7 +48,7 @@ Disperse flickering candles throughout the altar, casting shadows and illuminati
 
 Create a custom incense blend with crushed obsidian, jasmine, and dragon's blood. Burn the incense on a charcoal tablet within a censer, allowing the intoxicating scent to permeate the space and soul of anyone near.
 
-6. Assembly Process
+6. **Assembly Process**
 
 - Establish a clean, sacred area where the altar will be assembled.
 - Lay down a custom-crafted, asymmetrical altar cloth with embroidered sigils and symbols.
@@ -57,11 +57,11 @@ Create a custom incense blend with crushed obsidian, jasmine, and dragon's blood
 - Place the candles strategically for adequate illumination and ambiance. 
 - Light the incense, making sure it is safely burning within a censer.
 
-7. Incantations and Rituals
+7. **Incantations and Rituals**
 
 Recite an incantation tailored to your specific intentions and desires while assembling the altar. It could be an invocation to the sinistral deity, a chant for protection and power, or a mantra focusing on transformation and rebirth.
 
-8. Maintenance
+8. **Maintenance**
 
 Keep your Sinistral Death altar clean and energized by regularly dusting, replacing candles and incense, and performing cleansing rituals such as smudging with sage or sprinkling with saltwater.
 

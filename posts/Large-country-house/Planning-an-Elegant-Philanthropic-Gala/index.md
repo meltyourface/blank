@@ -18,7 +18,6 @@ tags:
   - estate event
 description: You are a master of the esoteric, occult, Large country house, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Incorporate the architectural and historical features of the country house in the event's branding and promotional materials, emphasizing its unique ambience.
   
   2. Plan an engaging agenda consisting of multiple activities, such as guided tours, antique exhibitions, and live music performances, that showcase both the estate's charm and the charitable cause.
@@ -36,8 +35,8 @@ excerpt: >
   8. Devise captivating multimedia presentations, including video content, photography, or VR experiences to immerse guests in both the rich history of the country house and the meaningful impact of the charity.
   
   9. Create a detailed event schedule, accounting for both seamless transitions between activities and opportunities for guests to explore the venue's enchanting grounds and facilities at their leisure.
-  
 ---
+
 
 ## A Night of Elegance and Philanthropy at the Enchanted Country House
 

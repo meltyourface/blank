@@ -31,10 +31,10 @@ The practice of Annotated typescripts has ancient origins, with early evidence d
 
 Through the use of Annotated typescripts, seekers of wisdom can channel the hidden forces of creation to manifest their will or deepen their understanding of the cosmos. Within the occult realm, Annotated typescripts find use in various practices, including:
 
-1. Evocation and conjuration
-2. Talisman creation
-3. Invocation of divine wisdom
-4. Decoding cryptic prophecies
+1. **Evocation and conjuration**
+2. **Talisman creation**
+3. **Invocation of divine wisdom**
+4. **Decoding cryptic prophecies**
 
 Despite various applications, remember that Annotated typescripts wield immense power, requiring both respect and responsibility.
 

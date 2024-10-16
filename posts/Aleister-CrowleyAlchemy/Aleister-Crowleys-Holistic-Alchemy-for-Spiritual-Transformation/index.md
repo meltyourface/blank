@@ -18,14 +18,13 @@ tags:
   - aleister crowley
 description: You are a master of the esoteric, occult, Aleister CrowleyAlchemy and education, you have written many textbooks on the subject. Respond to the multiple choice question first with the answer, then, fully explain the context of your rational, reasoning, and chain of thought in coming to the determination you have for that answer. Explain related concepts, formulas, or historical context relevant to this conclusion, giving a lesson on the topic to explain the reasoning afterwards.
 excerpt: >
-
   - The primary goal was to transmute base metals into gold for material wealth.
   
   - Alchemy was merely a metaphor for personal transformation, with no basis in actual chemistry.
   
   - He rejected the idea of physical and spiritual alchemy, focusing only on ceremonial magic.
-  
 ---
+
 The correct answer is: The practice of Alchemy held both inner transformation and the physical manipulation of substances as interconnected aspects, with an ultimate aim of achieving a higher state of being.
 
 Aleister Crowley (1875-1947) was an influential British occultist, mystic, and writer who founded the religious philosophy of Thelema. He was highly knowledgeable in various esoteric subjects, including alchemy. Crowley's interpretation of alchemy encompassed both spiritual and physical components and was focused primarily on the Great Work, the ultimate goal of attaining spiritual enlightenment.

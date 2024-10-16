@@ -18,14 +18,13 @@ tags:
   - powerful spell
 description: You are a master of the esoteric, occult, Arcane magics and education, you have written many textbooks on the subject. Respond to the multiple choice question first with the answer, then, fully explain the context of your rational, reasoning, and chain of thought in coming to the determination you have for that answer. Explain related concepts, formulas, or historical context relevant to this conclusion, giving a lesson on the topic to explain the reasoning afterwards.
 excerpt: >
-
   - Verbal chant, clockwise energy circulation, reliance on elemental forces
   
   - Somatic gesture, focusing the energy inward, tapping into ancestral wisdom
   
   - Mental focus, following a spiral energy pattern, unlocking mysteries of cosmic entities
-  
 ---
+
 Mental focus, following a spiral energy pattern, unlocking mysteries of cosmic entities
 
 In the practice of Arcane magics, the correct combination of magical components, energy flow, and understanding of their intertwined relationships is crucial for executing a powerful spell. The optimal choice in this scenario is mental focus, following a spiral energy pattern, and unlocking mysteries of cosmic entities.

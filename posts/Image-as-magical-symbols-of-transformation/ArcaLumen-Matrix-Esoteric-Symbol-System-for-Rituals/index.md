@@ -18,14 +18,13 @@ tags:
   - arcalumen matrix
 description: You are a master of the esoteric, occult, Image as magical symbols of transformation, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Utilization of distinct colors and shapes, thoughtfully chosen to embody specific energies and influences, to empower and guide rituals and meditative journeys.
   
   2. Incorporation of sacred geometries and esoteric symbology to harmonize with universal principles, enhancing the transformative potential of the symbols and aiding in the resonance between the physical and astral planes.
   
   3. Design of a comprehensive, user-friendly matrix that categorizes and links the symbols, allowing practitioners to swiftly identify and activate the appropriate visual cues during ritual performance, thus maintaining a fluid and uninterrupted connection to the highest levels of consciousness.
-  
 ---
+
 In our intricate system of visually evocative symbols, let us first establish the foundation with attention to various colors and shapes, sacred geometries, and user interactivity. This system is to be known as the ArcaLumen Matrix.
 
 **1. Utilization of distinct colors and shapes**

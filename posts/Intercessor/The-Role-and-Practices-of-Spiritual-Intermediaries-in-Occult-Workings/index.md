@@ -33,10 +33,10 @@ Throughout the ages, Intercessors have shouldered the responsibility of serving 
 
 The participation of an Intercessor in spiritual operations often proves invaluable due to their vast knowledge and experience. In complex rituals or ceremonies, such as invocations, consecrations, or divinations, the Intercessor provides:
 
-1. Safe and controlled communication with supernatural beings
-2. Guidance on the ethical use of esoteric knowledge and power
-3. Channeling of energies to achieve desired outcomes
-4. Protection from potential harm by warding off malevolent influences
+1. **Safe and controlled communication with supernatural beings**
+2. **Guidance on the ethical use of esoteric knowledge and power**
+3. **Channeling of energies to achieve desired outcomes**
+4. **Protection from potential harm by warding off malevolent influences**
 
 Additionally, Intercessors preserve and share the esoteric knowledge accumulated throughout history, allowing future generations to build on and benefit from their wisdom.
 

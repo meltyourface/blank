@@ -23,7 +23,7 @@ Designing a visually appealing genealogical chart requires artistic skills and s
 
 Here is an outline for the genealogical chart covering the primordial deities, titans, Olympian gods, and notable demigods:
 
-1. Primordial Deities
+1. **Primordial Deities**
    a. Chaos
    b. Gaea (Earth)
    c. Tartarus

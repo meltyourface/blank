@@ -22,19 +22,19 @@ excerpt: >
 ---
 The intersection of Church practices and core principles and those of magicHekate can be understood through a thorough analysis of their shared beliefs and values, particularly as they pertain to divine feminine energy, transformation, and mystery. In order to thoroughly respond to this challenge, we will explore the key concepts and principles of both the Church and magicHekate, examine their similarities and differences, and discuss potential ways to harness these convergences to achieve a harmonious synthesis in one's spiritual development.
 
-1. Divine Feminine Energy
+1. **Divine Feminine Energy**
 
 In the Church, the divine feminine can be found predominantly in the figure of Mary, mother of Jesus. As Mary is exalted for her purity, compassion, and nurturing spirit, her role often encompasses both divine and human aspects, and she serves as an intercessor between humanity and the divine realm. Through prayer and devotion to Mary, worshippers seek her guidance, grace, and protection.
 
 In the practice of magicHekate, divine feminine energy is embodied in the figure of Hekate, a powerful goddess associated with crossroads, witchcraft, and the moon. She is often depicted as a three-fold goddess representing various stages of womanhood (maiden, mother, crone) and symbolizes transformation, wisdom, and protection. In magicHekate, practitioners often invoke Hekate for guidance, empowerment, and connection to the cycles of nature and the cosmos.
 
-2. Transformation
+2. **Transformation**
 
 In both Church and magicHekate practices, transformation plays an integral part in spiritual development. Within the Church, the concept of transformation is seen through conversion, spiritual rebirth, and gradual sanctification. Believers go through a process of recognizing their sinful nature, repenting, accepting salvation through Jesus Christ, and embarking on a life-long quest of spiritual growth and becoming more Christ-like.
 
 MagicHekate, on the other hand, focuses on personal transformation through connecting with the natural world and the divine realms. Practitioners often incorporate cycles, such as lunar and seasonal changes, into their practice and leverage these energies for spiritual growth, self-discovery, and healing. Hekate, as a goddess of transformation, provides guidance and support during periods of transition and personal growth.
 
-3. Mystery
+3. **Mystery**
 
 Both Church and magicHekate embrace the concept of mystery in their practices. In the Church, the concept of mystery is expressed through belief in the Holy Trinity, the Incarnation of Christ, and the Eucharist, among others. These mysteries are considered to be sacred truths, which surpass human understanding, yet draw believers closer to the divine.
 

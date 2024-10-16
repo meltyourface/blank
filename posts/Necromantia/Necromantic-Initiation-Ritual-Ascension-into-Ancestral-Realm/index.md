@@ -18,14 +18,13 @@ tags:
   - purified initiates
 description: You are a master of the esoteric, occult, Necromantia, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. **Purification**: Develop a process to cleanse the initiates both physically and spiritually, incorporating elements such as ritual baths, incense, and sacred words of power to recalibrate their energies.
 
   2. **Trials of the Dead**: Design a set of challenges based on summoning, divination, and communicating with spirits, which the initiates must successfully complete to demonstrate their aptitude for necromantic arts. Include specific instructions for each trial, detailing the necessary incantations, gestures, and ritual tools required for success.
 
   3. **Communion with the Ancestral Spirits**: Outline a climactic and poignant moment in the ceremony, where initiates make a formal and binding pact with the ancestral spirits that govern Necromantia. Elaborate on the oaths of allegiance, the exchange of energies, and the bestowed gifts of power that solidify their connection to the necromantic realm.
-  
 ---
+
 
 ## The Rite of Ascension into Necromantia
 

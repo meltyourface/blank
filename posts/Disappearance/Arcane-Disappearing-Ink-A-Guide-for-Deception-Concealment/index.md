@@ -34,9 +34,9 @@ Materials Required:
 3. 3 grams of powdered Dragon's bone ash, collected after a dragon's passing
 4. 5 ml of Fey spirits distilled from the essence of Will-o'-the-wisp
 5. 5 grams of ground, light-absorbing Midnight obsidian
-6. A glass mortar and pestle
-7. A silver stirring rod
-8. A glass container with a sealed stopper and label for storing the finished ink
+6. **A glass mortar and pestle**
+7. **A silver stirring rod**
+8. **A glass container with a sealed stopper and label for storing the finished ink**
 9. A fountain pen made of ebony wood and equipped with a moonstone-inlaid nib
 
 **Steps**:

@@ -18,7 +18,6 @@ tags:
   - enchanted gardening
 description: You are a master of the esoteric, occult, Empowered human-plant relationQabalah, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Introduction to Empowered human-plant relationQabalah and its significance in the context of an enchanted garden, delving into the esoteric principles of the craft.
   
   2. Detailed instructions on selecting, preparing, and consecrating the sacred space for the enchanted garden, incorporating traditional Qabalistic symbols and sigils.
@@ -32,8 +31,8 @@ excerpt: >
   6. Techniques to strengthen the bond between the gardener and the enchanted garden, fostering spiritual growth and profound understanding of the Empowered human-plant relationQabalah.
   
   7. Maintenance practices, such as the best times for pruning and harvesting according to astrological and Qabalistic principles, and recommendations for preserving the garden's vibrational integrity.
-  
 ---
+
 
 ## "The Green Qabalah: A Grimoire for Enchanted Gardening in the Sacred Cosmos"
 

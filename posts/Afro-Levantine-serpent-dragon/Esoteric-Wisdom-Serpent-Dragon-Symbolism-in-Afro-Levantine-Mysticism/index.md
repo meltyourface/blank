@@ -23,8 +23,8 @@ excerpt: >
   An Afro-Levantine serpent-dragon residing at the center of the world, guarding ancient secrets and granting mystical abilities to those who manage to communicate with it.
   
   Serpent-dragons symbolically representing the merging of earthly and celestial powers, with their appearance in dreams or visions signifying the awakening of one's spiritual gifts.
-  
 ---
+
 C. Serpent-dragons symbolically representing the merging of earthly and celestial powers, with their appearance in dreams or visions signifying the awakening of one's spiritual gifts.
 
 The Afro-Levantine serpent-dragon is a mythical creature deeply rooted in the esoteric traditions and practices of the region – particularly in the context of ancient religions and magic. Among its many important roles, the serpent-dragon is primarily associated with embodying esoteric wisdom and symbolizing the merging of earthly and celestial powers. This connection has been established and recognized throughout history, cementing its significance within various mystical systems of thought.

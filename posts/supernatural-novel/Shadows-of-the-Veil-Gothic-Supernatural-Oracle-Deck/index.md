@@ -28,10 +28,10 @@ Deck Components:
 2. Comprehensive guidebook (200+ pages)
 
 Deck Characteristics:
-1. Rich gothic and supernatural themes
-2. Intricate illustrations
-3. Air of mystery and dark elegance
-4. Designed for both experienced and novice readers
+1. **Rich gothic and supernatural themes**
+2. **Intricate illustrations**
+3. **Air of mystery and dark elegance**
+4. **Designed for both experienced and novice readers**
 
 Major Arcana (22 cards):
 1. The Prophet - Symbolizing intuition and psychic abilities

@@ -18,7 +18,6 @@ tags:
   - energy cernunnos
 description: You are a master of the esoteric, occult, Timing and tools for magic, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Identify the specific nature spirit or deity you wish to honor and study their associated mythos, correspondences, and traditional offerings.
   
   2. Determine the most auspicious date, time, and phase of the moon for the ritual, taking into consideration the nature spirit or deity's associations with seasonal or astrological events.
@@ -30,8 +29,8 @@ excerpt: >
   5. Incorporate the use of elemental tools, such as a chalice, wand, athame, and pentacle, to represent the four elements of earth, air, fire, and water.
   
   6. Design an elaborate, multi-step ritual that integrates an invocation, consecration, elaborate offering presentation, and closing statement, drawing upon esoteric symbols and ancient languages to enhance the ritual's potency.
-  
 ---
+
 1. Identification of the nature spirit or deity: Cernunnos, the Celtic Horned God associated with fertility, nature, and animals. Correspondences include oak trees, stag antlers, and ivy. Traditional offerings consist of fruits, grains, and wine.
 
 2. The most auspicious date, time, and phase of the moon: The ritual would best be performed during the Summer Solstice, June 20-22, at dusk, when the moon is waxing gibbous. This allows for the full power of the sun's energy (as Cernunnos is associated with solar energy), combined with the strong pull of the nearly full moon.

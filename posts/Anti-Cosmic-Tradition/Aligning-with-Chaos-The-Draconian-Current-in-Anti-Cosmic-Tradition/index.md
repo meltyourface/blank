@@ -24,8 +24,8 @@ excerpt: >
   - The duality of creation and destruction as a cosmic balance
   
   - The transformation of human consciousness through the sacred chaos of creation
-  
 ---
+
 - The Draconian current acting as the force of creation and evolution
 
 In the Anti-Cosmic Tradition, the Draconian current is central to understanding the nature of Chaos and its role in shaping human existence. This current represents the primordial force of Chaos, which is both creative and destructive in its nature. The Draconian current is believed to act as the catalyst for change, evolution, and the continuing cycle of creation and dissolution within the cosmos.

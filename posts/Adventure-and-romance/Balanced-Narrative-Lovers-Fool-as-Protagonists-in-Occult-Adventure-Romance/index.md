@@ -18,14 +18,13 @@ tags:
   - card protagonists
 description: You are a master of the esoteric, occult, Adventure and romance and education, you have written many textbooks on the subject. Respond to the multiple choice question first with the answer, then, fully explain the context of your rational, reasoning, and chain of thought in coming to the determination you have for that answer. Explain related concepts, formulas, or historical context relevant to this conclusion, giving a lesson on the topic to explain the reasoning afterwards.
 excerpt: >
-
   - Union of two soulmates manifesting an alchemical transformation
   
   - Moon phases representing the different stages of an epic journey
   
   - Tarot's Lovers card paired with the Fool card as protagonists
-  
 ---
+
 - Tarot's Lovers card paired with the Fool card as protagonists
 
 In the context of the occult, adventure, and romance, the best symbolic representation of the balance of these three aspects in a narrative would be the Tarot's Lovers card paired with the Fool card as protagonists. The reasoning behind this choice is that these two cards embody the essence of each of these aspects quite well.

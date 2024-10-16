@@ -20,14 +20,14 @@ description: You are a master of the esoteric, occult, Greco-Egyptian underworld
 excerpt: Create a comprehensive correspondence chart between Hekate's multifaceted aspects in Greco-Egyptian mythologies, including her roles as a liminal goddess, psychopomp, and sorceress, with modern psychological archetypes, such as the shadow, the trickster, and the caregiver, while highlighting differences, similarities, and unique elements within each aspect. Additionally, explore correlations between Hekate's mythological symbols, such as the torch, crossroads, and key, and their corresponding archetypal meanings within the context of the chart and provide an insightful interpretation of their relevance in contemporary understanding.
 ---
 Hekate's Multifaceted Aspects:
-1. Liminal Goddess
-2. Psychopomp
-3. Sorceress
+1. **Liminal Goddess**
+2. **Psychopomp**
+3. **Sorceress**
 
 Modern Psychological Archetypes:
-1. The Shadow
-2. The Trickster
-3. The Caregiver
+1. **The Shadow**
+2. **The Trickster**
+3. **The Caregiver**
 
 Comprehensive Correspondence Chart:
 

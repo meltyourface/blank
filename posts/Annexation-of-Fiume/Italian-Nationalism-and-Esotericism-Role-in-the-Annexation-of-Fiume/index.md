@@ -18,14 +18,13 @@ tags:
   - nationalistic esoteric
 description: You are a master of the esoteric, occult, Annexation of Fiume and education, you have written many textbooks on the subject. Respond to the multiple choice question first with the answer, then, fully explain the context of your rational, reasoning, and chain of thought in coming to the determination you have for that answer. Explain related concepts, formulas, or historical context relevant to this conclusion, giving a lesson on the topic to explain the reasoning afterwards.
 excerpt: >
-
   - The influence of Freemasonry in the diplomatic negotiations
   
   - The role of spiritualism in shaping Gabriele D'Annunzio's political ideology
   
   - The connection between Italian nationalism and esoteric secret societies
-  
 ---
+
 The connection between Italian nationalism and esoteric secret societies
 
 The Annexation of Fiume, otherwise known as the Impresa di Fiume, took place in 1919 and involved the capture of the city of Fiume (now Rijeka, Croatia) by Gabriele D'Annunzio, an Italian poet and adventurer, and his supporters. This event came at the end of World War I when the Kingdom of Italy sought to expand its territory despite inconclusive territorial settlements from the Treaty of Versailles.

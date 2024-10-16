@@ -18,7 +18,6 @@ tags:
   - energies sacred
 description: You are a master of the esoteric, occult, The Furies, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Establish a precise location symbolizing the wrathful aspect of The Furies, such as a volcanic cave or a remote forest clearing.
   
   2. Design an intricate sigil embodying the inherent traits of The Furies, specifically their vengeful nature, and imbue it with the intention to amplify psychic prowess.
@@ -29,8 +28,8 @@ excerpt: >
   (Alecto, Tisiphone, and Megaera) and detailing their connection to psychic enhancement.
   
   5. Specify a time of night that harnesses the wrathful energies of the moon, optimally during the waning crescent phase.
-  
 ---
+
 Ritual of Psychic Refinement: The Invocation of The Furies
 
 **Location**:

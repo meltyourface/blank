@@ -18,7 +18,6 @@ tags:
   - numbers crime
 description: You are a master of the esoteric, occult, Connection between crimes, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Analyze the full names, birth dates, and significant numbers of crime victims, pinpointing numerical correspondence in accordance with the principles of numerology.
   
   2. Examine specific cases where multiple crimes exhibit uncanny synchronicities and uncover any underlying linkages through numerical connections.
@@ -26,8 +25,8 @@ excerpt: >
   3. Implement advanced numerology methodologies, such as the Pythagorean and Chaldean systems, to discern patterns that might otherwise remain concealed.
   
   4. Determine if any numerically-linked groups of crime victims exist, potentially unveiling criminal motives, target preferences, or forecasting future crime trends.
-  
 ---
+
 To complete the task of investigating the underlying connections between crime victims utilizing esoteric numerology techniques and unearthing hidden patterns in their personal data, I will follow the steps outlined and provide a detailed analysis of my findings.
 
 1. Analyze the full names, birth dates, and significant numbers of crime victims, pinpointing numerical correspondence in accordance with the principles of numerology.

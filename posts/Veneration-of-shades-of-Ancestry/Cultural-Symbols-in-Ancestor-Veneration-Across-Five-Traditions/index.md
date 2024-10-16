@@ -22,35 +22,35 @@ excerpt: >
 ---
 The Veneration of Shades of Ancestry is a practice that spans across multiple cultures and traditions, focusing on the respect, honor, and remembrance of one's ancestors. This practice often involves various rituals, ceremonies, and offerings as a means of maintaining connection with ancestral spirits. Here, we will delve into five distinct cultural practices, analyzing their symbols, and observing the similarities and differences in ancestral veneration.
 
-1. Chinese Ancestor Worship
+1. **Chinese Ancestor Worship**
 
 In Chinese culture, the veneration of ancestors plays a significant role in daily life and during special occasions such as the Qingming Festival and Hungry Ghost Festival. **Symbols associated with Chinese ancestral worship include**:
 - Incense: Offered to ancestral spirits to maintain communication; incense smoke is believed to carry prayers to the heavens.
 - Ancestral tablets: inscribed with the names of deceased family members, these tablets serve as a physical representation of an ancestor's spirit.
 - Food and drink: Offered as sustenance for ancestral spirits, symbolizing the continued care and respect for the dead.
 
-2. African Ancestral Veneration
+2. **African Ancestral Veneration**
 
 African ancestral veneration is central to various African cultures, with ancestral spirits influencing the lives of the living. **Notable symbols related to African ancestral veneration include**:
 - Masks: Used in ceremonies to represent the presence of the ancestors, often embodying animal spirits and featuring intricate patterns.
 - Drums: Instrumental in calling the ancestors during rituals and ceremonies, producing powerful rhythms to evoke spiritual communication.
 - Shrines: Designed to house the spirits of the ancestors, these sacred spaces may contain bones, artifacts, and other items of significance.
 
-3. Native American Ancestor Veneration
+3. **Native American Ancestor Veneration**
 
 Native American cultures often maintain a deep respect for the wisdom of ancestors. **Symbolism in their veneration practices includes**:
 - Totem poles: Carved wooden poles featuring imagery of animal spirits and ancestors, illustrating family lineage, histories, and spiritual guidance.
 - Kachina dolls: Representing ancestral spirits in Pueblo culture, these dolls embody spirits that bring the living guidance, blessings, and protection.
 - Ancestral lands: The connection to land and nature is essential in Native American culture, with ancestors' spirits believed to reside in mountains, rivers, and forests.
 
-4. Celtic Ancestor Veneration
+4. **Celtic Ancestor Veneration**
 
 Celts held deep reverence for their ancestors, and their veneration practices were centered around the concept of the otherworld. **Key symbols of Celtic ancestral veneration include**:
 - Cairns: Mounds of stones constructed to honor the dead, believed to be portals between the world of the living and the otherworld.
 - Tree of Life: Depicting interconnectedness of life and ancestry, the Tree of Life represents the spiritual connection between the living and their ancestors.
 - Celtic Knots: Endlessly looping patterns symbolizing the eternal nature of life, death, and rebirth.
 
-5. Japanese Ancestor Worship
+5. **Japanese Ancestor Worship**
 
 In Japan, ancestor worship is closely tied to Buddhism and Shintoism. **Distinct symbols associated with Japanese ancestral veneration include**:
 - Kamidana: Miniature household shrines used to honor ancestral spirits, equipped with offerings and ritual implements.

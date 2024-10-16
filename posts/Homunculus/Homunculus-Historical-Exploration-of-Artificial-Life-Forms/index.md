@@ -18,7 +18,6 @@ tags:
   - depiction homunculus
 description: You are a master of the esoteric, occult, Homunculus, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Analyzing the initial emergence of Homunculus ideas in alchemical texts and practices of the early Middle Ages.
   
   2. Examining the influences and intersections of Homunculus lore with ancient Greek philosophy, particularly in the works of Plato and Aristotle.
@@ -36,8 +35,8 @@ excerpt: >
   8. Considering the role of Homunculus in pop culture, like Mary Shelley's "Frankenstein" or H.P. Lovecraft's literary universe, and the impact of these works on contemporary societal notions of the Homunculus.
   
   9. Contemplating the influence of Homunculus in modern scientific and ethical debates, such as genetic engineering, cloning, and artificial intelligence.
-  
 ---
+
 ## I. Early Middle Ages: Emergence of Homunculus Ideas in Alchemical Texts and Practices 
    A. Influences from early Greek alchemists like Zosimos of Panopolis
    B. Latin translations of Arabic alchemical texts

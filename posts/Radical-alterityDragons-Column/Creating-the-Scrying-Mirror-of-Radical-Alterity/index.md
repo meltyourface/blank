@@ -25,11 +25,11 @@ To craft the scrying mirror of Radical alterity.Dragon's Column, we shall follow
 Carefully acquire the following components:
 1. A sizable obsidian disk, polished until a reflective surface is achieved
 2. Dragon's blood resin
-3. Silver dust
-4. A wooden frame made from ancient oak
+3. **Silver dust**
+4. **A wooden frame made from ancient oak**
 5. Essential oils of frankincense, myrrh, and sandalwood
 6. Crystal dust from amethyst, blue kyanite, and moldavite
-7. Sigils known to enhance clairvoyance and astral projection crafted onto parchment
+7. **Sigils known to enhance clairvoyance and astral projection crafted onto parchment**
 **Step 2**: Frame Preparation
 Anoint the wooden frame with the mixture of essential oils. Then, grind dragon's blood resin and silver dust together, transforming them into a dark pigment. Carefully paint the sigils onto the frame with this powerful mixture. Ensure each sigil is placed precisely, activating their magical potential.
 **Step 3**: Assembly

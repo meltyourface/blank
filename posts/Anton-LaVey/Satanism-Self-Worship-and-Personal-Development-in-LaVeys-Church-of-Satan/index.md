@@ -25,8 +25,8 @@ excerpt: >
   - LaVey's Satanism was primarily focused on the worship of an external, literal figure of Satan, with the aim of obtaining supernatural powers and dominion over others.
   
   - LaVey's Satanism was based on a syncretic mixture of ancient pagan, Christian, and Gnostic beliefs, with a strong emphasis on the attainment of spiritual enlightenment.
-  
 ---
+
 Answer: Satanism, for LaVey, was primarily a form of self-worship and a celebration of humanity's carnal nature, with symbolic and theatrical elements employed to enhance its appeal.
 
 **Explanation**: Anton LaVey (1930-1997), the founder of the Church of Satan and the author of The Satanic Bible, was primarily influenced by his understanding of humanity's carnal nature and disbelief in supernatural beings. His approach to Satanism was not about worshiping an external, literal figure of Satan, but rather using Satan as a symbol of individualism, personal strength, and pride. In this sense, LaVeyan Satanism focused on the celebration of the self and the development of personal values that opposed conventional religious teachings.

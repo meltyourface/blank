@@ -18,7 +18,6 @@ tags:
   - light incense
 description: You are a master of the esoteric, occult, Self-empowermentPrimordial darkness, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. A detailed invocation to call forth the shadowy forces that dwell in the abyss, using ancient and enigmatic language that resonates with the domain of darkness.
   
   2. Specific examples of personal desires and goals to be manifested, including but not limited to commanding power, limitless knowledge, and transcending mortal limitations.
@@ -26,8 +25,8 @@ excerpt: >
   3. A carefully constructed visualization that immerses you in the immersive, boundless depths of the Primordial Darkness, where you will harness and direct its unimaginable energy towards actualizing those desires and goals.
   
   4. The inclusion of sacred symbols, artifacts, or talismans that resonate with the domain of darkness, intensifying the connection between you and the shadowy forces being called forth.
-  
 ---
+
 Ritual of the Primordial Darkness: The Shadow's Embrace
 
 Before embarking on this profoundly intense ritual, it is essential for you to prepare your mind, body, and environment. Cleanse your sacred space and gather the necessary items for the ritual, including black candles, incense, a mirror, a chalice, and a ritual dagger. Also, be sure to adorn yourself with dark clothing or robes, and gather any talismans or other sacred objects that hold deep personal importance to you.

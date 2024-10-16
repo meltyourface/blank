@@ -28,7 +28,7 @@ Materials Required:
 
 1. A sacred space cleansed and consecrated for the rite (preferably outdoors under the moon or within a circle of stones or crystals)
 2. Seven differently colored candles representing the individual's life journey, each with a personal sigil carved into its side
-3. Incense of sage and lavender for purification and spiritual awakening
+3. **Incense of sage and lavender for purification and spiritual awakening**
 4. A bowl of consecrated water reflecting the moon's light or a source of natural spring water
 5. A chalice of pure, unadulterated honey or maple syrup symbolizing the sweetness of self-realization and connection to nature
 **Step 1**: Mental Preparation

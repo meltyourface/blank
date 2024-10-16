@@ -18,14 +18,13 @@ tags:
   - animal form
 description: You are a master of the esoteric, occult, Animal form and education, you have written many textbooks on the subject. Respond to the multiple choice question first with the answer, then, fully explain the context of your rational, reasoning, and chain of thought in coming to the determination you have for that answer. Explain related concepts, formulas, or historical context relevant to this conclusion, giving a lesson on the topic to explain the reasoning afterwards.
 excerpt: >
-
   - An adept shape-shifter gaining insight into the secrets of flight through the study of birds.
   
   - A practitioner using the symbolism of a snake to transform and transmute negative energy into healing power.
   
   - A sorcerer maintaining control over their animal form by consistently studying and participating in the activities of that animal.
-  
 ---
+
 - A neophyte augmenting their spiritual abilities by internally embodying the characteristics of their animal form, rather than physically transforming.
 
 In the study of occultism, animal forms hold great importance due to their unique attributes and spiritual significance. Esoteric principles of Animal form place emphasis on the connection between a practitioner and their chosen animal. In the given options, the most accurate demonstration of the precise blending of energies and knowledge between a practitioner and their chosen animal is a neophyte augmenting their spiritual abilities by internally embodying the characteristics of their animal form, rather than physically transforming.

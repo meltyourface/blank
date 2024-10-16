@@ -23,8 +23,8 @@ excerpt: >
   The use of blood as a conduit for summoning and binding supernatural entities to specific locations or objects.
   
   The ability to manipulate the Quintessence of Blood in order to facilitate transformation, transcendence, or rejuvenation.
-  
 ---
+
 The interplay between blood alchemy and hermetic philosophies in shaping the course of magical practice and development.
 
 The rationale behind this answer lies in the fundamental understanding of the Quintessence of Blood and the occult or esoteric teachings. The Quintessence of Blood represents the life force and spiritual essence that flows within living beings. In the context of occultism, blood serves as a powerful symbol and medium for various magical practices. It is the life-giving force that connects and sustains all aspects of existence.

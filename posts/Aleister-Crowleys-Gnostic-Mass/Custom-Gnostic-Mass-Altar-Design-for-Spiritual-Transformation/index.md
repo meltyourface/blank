@@ -21,11 +21,11 @@ excerpt: Design an original altar for the Gnostic Mass that incorporates at leas
 ---
 To design an original altar for the Gnostic Mass, we must first understand the core tenets of Aleister Crowley's Gnostic Mass and the stages it embodies. The Gnostic Mass is a central ritual in Thelema, a spiritual philosophy established by Crowley, which aims to unite the individual with their divine nature by utilizing ceremonial magic, symbolism, and secret knowledge. The main stages of the Gnostic Mass are: 
 
-1. The Preparation of the Temple and the Altar
-2. The Purification and Consecration
-3. The Mass of the Catechumen
-4. The Mass of the Faithful
-5. The Final Benediction
+1. **The Preparation of the Temple and the Altar**
+2. **The Purification and Consecration**
+3. **The Mass of the Catechumen**
+4. **The Mass of the Faithful**
+5. **The Final Benediction**
 
 Bearing this understanding in mind, let's create an original altar design that incorporates at least five essential elements symbolizing key aspects of the ritual. 
 

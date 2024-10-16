@@ -18,7 +18,6 @@ tags:
   - dance ancient
 description: You are a master of the esoteric, occult, Sacred choral dance, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Origins and history of sacred choral dance across various cultures and religions, specifically focusing on the roles these dances played in spiritual rituals and ceremonies.
   
   2. Theoretical foundations and philosophical underpinnings of sacred choral dance, including influential thinkers and practitioners who have shaped the field.
@@ -30,8 +29,8 @@ excerpt: >
   5. An examination of the role sacred choral dance plays in modern society and its influence on contemporary dance forms, as well as its significance in preserving cultural heritage.
   
   6. Relevant interdisciplinary connections between sacred choral dance and disciplines such as religious studies, anthropology, musicology, and performance art.
-  
 ---
+
 1. Origins and history of sacred choral dance across various cultures and religions:
    a. Curt Sachs, "World History of the Dance"
    b. Cynthia Winton-Henry, "Choreographing the Sacred"

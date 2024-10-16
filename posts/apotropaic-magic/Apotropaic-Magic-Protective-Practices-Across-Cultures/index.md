@@ -23,8 +23,8 @@ excerpt: >
   The use of iron nails and horseshoes, sprinkling of salt or holy water, and belief in the power of one's own will and intention
   
   The crafting of talismans using rare gemstones, silent meditation on spiritual texts, and faith in a singular divine figure to provide protection
-  
 ---
+
 The use of iron nails and horseshoes, sprinkling of salt or holy water, and belief in the power of one's own will and intention.
 
 The practice of apotropaic magic involves the use of various materials, rituals, and beliefs to protect oneself or others from evil spirits, negative energies, and misfortune. This particular combination of elements is common across numerous cultures and spiritual practices, which lends itself to its widespread usage.

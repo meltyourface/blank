@@ -37,7 +37,7 @@ The first step in developing Emojimancy is identifying a set of core emoji arche
 Emoji Combinations:
 To interpret combinations of emojis, Emojimancy employs a three-step process:
 1. Determine the core/base emoji meaning
-2. Analyze how the emojis interact based on their placement or proximity
+2. **Analyze how the emojis interact based on their placement or proximity**
 3. Apply intuitive, cultural, and situational context
 
 Interpretation Example:

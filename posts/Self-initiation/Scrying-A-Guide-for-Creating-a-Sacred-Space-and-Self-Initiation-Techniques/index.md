@@ -18,7 +18,6 @@ tags:
   - scrying sessions
 description: You are a master of the esoteric, occult, Self-initiation, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Detail the selection of a suitable environment, considering factors such as ambiance, temperature, and potential distractions.
   
   2. Explain the preparation of the black mirror itself, including the purpose and significance of consecrating and cleansing the scrying tool.
@@ -28,8 +27,8 @@ excerpt: >
   4. Elaborate on the preparatory steps for the practitioner, emphasizing the importance of grounding, protection, and visualization exercises before commencing the scrying session.
   
   5. Illustrate the role of invocation and intention-setting, mentioning specific deity, ancestral, or elemental powers that can be invoked to assist with the session.
-  
 ---
+
 1. **Selection of a suitable environment**: 
    A conducive environment is crucial for successful scrying sessions. Select a quiet and private space, ideally a dedicated room or area that can be designated for spiritual work. Consider factors such as ambient lighting, which should be dim and non-distracting, comfortable temperature, and minimal external distractions, such as sounds from outdoors or adjacent rooms. Additionally, ensure the space has a comfortable seating arrangement and is cleansed of negative energies through sage smudging or a similar practice.
 

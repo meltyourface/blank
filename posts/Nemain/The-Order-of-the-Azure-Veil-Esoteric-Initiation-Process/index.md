@@ -18,7 +18,6 @@ tags:
   - esoteric concepts
 description: You are a master of the esoteric, occult, Nemain, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Develop a compelling backstory for the society, including its origins, purpose, and secret goals related to the Nemain domain.
   
   2. Specify the requirements and qualifications for prospective initiates, linking them to their commitment and aptitude for Nemain-driven studies and practices.
@@ -26,8 +25,8 @@ excerpt: >
   3. Design a multi-stage initiation process that combines elements of mystic rituals, tests of knowledge, and displays of skill within the realm of Nemain.
   
   4. Detail a final ceremony that symbolizes the initiate's transformation and acceptance into the society, embodying the core principles of the Nemain craft.
-  
 ---
+
 1. Compelling Backstory
 
 The Order of the Azure Veil, an enigmatic society dedicated to the mastery and application of Nemain's esoteric knowledge and occult powers, was founded over a millennium ago during the Dark Ages. The founder, a reclusive sage named Venarius, discovered an ancient manuscript on the fringe of a forgotten realm, detailing the secrets of Nemain. Realizing the potential power and transformative effects, Venarius decided to form a group dedicated to the understanding, preservation, and furthering of these mystical practices.

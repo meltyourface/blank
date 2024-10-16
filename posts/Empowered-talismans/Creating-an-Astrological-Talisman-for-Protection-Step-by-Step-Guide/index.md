@@ -18,7 +18,6 @@ tags:
   - talisman proceed
 description: You are a master of the esoteric, occult, Empowered talismans, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Detail the essential materials and tools required for crafting the talisman, including their significance and connections to specific planetary energies.
   
   2. Explain the ideal time and specific astrological factors to consider for optimal talisman creation, incorporating concepts like planetary hours and electional astrology.
@@ -28,8 +27,8 @@ excerpt: >
   4. Provide an overview of how to incorporate relevant symbols, sigils, or planetary glyphs onto the talisman to further strengthen its connection to the intended astrological event.
   
   5. Discuss proper handling, storage, and maintenance of the Empowered talisman to ensure its continued effectiveness in mitigating the targeted astrological transit's influence.
-  
 ---
+
 Creating an Empowered Talisman to Counteract Challenging Astrological Transits: A Comprehensive Step-by-Step Guide
 **Step 1**: Essential Materials and Tools
 Gather the following materials and tools, which have been carefully selected for their significance and connections to specific planetary energies:

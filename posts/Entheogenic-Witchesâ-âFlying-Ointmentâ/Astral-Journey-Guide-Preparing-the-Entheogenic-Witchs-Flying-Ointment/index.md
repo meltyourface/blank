@@ -18,7 +18,6 @@ tags:
   - outcomes astral
 description: "You are a master of the esoteric, occult, Entheogenic Witches\xE2\u20AC\u2122 \xE2\u20AC\u02DCFlying Ointment\xE2\u20AC\u2122, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task."
 excerpt: >
-
   1. Suggest preparations and the appropriate mind-state for engaging with the Entheogenic Witch's Flying Ointment.
   
   2. Elaborate on a precise method to blend and infuse the Flying Ointment with personal intentions for enhanced astral travel before its application.
@@ -30,8 +29,8 @@ excerpt: >
   5. Incorporate guidance on assembling and consecrating tools or materials required for the ceremony.
   
   6. Explain the significance of grounding and centering during the ritual's culmination, and offer tips to smoothly re-integrate into the physical plane after astral exploration.
-  
 ---
+
 Step 1: Preparation and Mind-State
 1.1. Begin by cleansing yourself physically and mentally. Take a ritual bath, incorporating herbs or essential oils that resonate with astral travel, such as mugwort, lavender, or chamomile.
 1.2. Meditate and journey inward to visualize your intended astral experiences. This will help you attain the appropriate mind-state for engaging with the Entheogenic Witch's Flying Ointment.

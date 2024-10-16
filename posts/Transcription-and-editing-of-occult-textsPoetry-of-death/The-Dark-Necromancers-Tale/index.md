@@ -26,8 +26,8 @@ excerpt: >
   3. The moment of realization as they harvest the life energies of their first victim.
   
   4. The triumphant culmination of their journey as they command legions of the undead and ascend to harrowing dominion over life and death.
-  
 ---
+
 ## I. In Pursuit of the Unholy Grimoire
 
 In the dusk of life where shadows linger,

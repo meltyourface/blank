@@ -30,13 +30,13 @@ The Enochian system of magic, also known as the language of the angels, is an es
 
 The Enochian system consists of several key components, which will be further elaborated upon in the sections that follow: Enochian script, language, calls, and the Watchtowers of light. It is important to approach the study of the Enochian system with the intent of establishing a solid foundation, as the intricate nature of its principles requires a deep understanding and respect for the source material.
 
-1. Enochian Script and Language
+1. **Enochian Script and Language**
 
 The Enochian script is composed of 21 unique characters based on a modified version of the Latin alphabet. While visually distinct, historical investigations suggest there may be subtle connections between Enochian script, Runic script, and other alphabetic systems. Each character of the Enochian script represents a phonetic sound that contributes to the beauty and complexity of the Enochian language.
 
 Enochian language, also called the "Angelical Language," is considered to be a divine tongue, constituting a series of phrases, syntax, and grammar rules that deviate considerably from those of recognizable modern languages. The language is believed to carry inherent power in its words, pronouncing them invokes specific magical effects. Studying and mastering the Enochian language and script requires dedication and discipline, as mispronunciation or improper use may lead to unintended or hazardous consequences.
 
-2. Enochian Calls
+2. **Enochian Calls**
 
 Enochian calls are the verses or invocations that form the basis of Enochian magic rituals. These calls are recited in the Enochian language and serve as the keys to unlocking the deeper mysteries encapsulated within Enochian practice. There are 19 calls in total, with the first 18 focusing on the elemental energies of Earth, Air, Fire, and Water, as well as specific celestial and angelic forces. The 19th call is reserved for opening the Aethyrs or the supreme worlds.
 

@@ -26,7 +26,7 @@ Introduction
 
 As one ventures into the realm of occult studies, the figure of Hecate is hard to miss. Hecate is an ancient goddess, commonly known as the Queen of Crossroads, the Mistress of Magic, and the Guardian of the Threshold. This section of the spellbook will introduce rituals, practices, and guidance for those seeking to deepen their knowledge of Hecate and her paths. Here, you will find detailed instructions intertwining symbolism, objectives, and necessary precautions to explore this ancient wisdom.
 
-1. Symbolism Involved in the Path of Hecate
+1. **Symbolism Involved in the Path of Hecate**
 
 Understanding the symbols associated with Hecate is crucial to comprehend her nature and power. **The most prominent symbols include**:
 
@@ -36,7 +36,7 @@ b) The Key: The key symbolizes Hecate's dominion over thresholds and borders. Sh
 
 c) The Serpent: Serpents are associated with wisdom, transformation, and healing. They signify Hecate's connection to chthonic energies, renewal, and the cycles of life, death, and rebirth.
 
-2. Primary Objectives of Rituals
+2. **Primary Objectives of Rituals**
 
 The primary objectives of the rituals in the Path of Hecate are as follows:
 
@@ -44,7 +44,7 @@ a) Creating a strong connection and bond with Hecate through invoking her presen
 b) Developing inner and outer transformation through embracing the cycles of life, understanding the mysteries of death, and pursuing personal rebirth.
 c) Enhancing one's magical abilities and psychic powers in alignment with Hecate's teachings and energy.
 
-3. Ritual and Practices
+3. **Ritual and Practices**
 
 ### I. **Establishing an Altar**: Dedicate a sacred space (altar) in your home in honor of Hecate. Include her symbols, such as a key, a torch or candle, and a representation of a serpent. Offerings can consist of pomegranates, garlic, honey, or incense to show your devotion.
 
@@ -54,7 +54,7 @@ c) Enhancing one's magical abilities and psychic powers in alignment with Hecate
 
 ### IV. **Shadow Work and Self-Knowledge**: Embrace the power of introspection in order to understand and integrate your shadow self. Accept the darker aspects of your being and recognize the lessons they bring. Work with Hecate to gain insights into your true nature, harness your personal power, and awaken your deepest potential.
 
-4. Precautions and Warnings
+4. **Precautions and Warnings**
 
 As with all occult practices, exploring the Path of Hecate requires dedication, respect, and caution. **Here are some precautions and warnings**:
 

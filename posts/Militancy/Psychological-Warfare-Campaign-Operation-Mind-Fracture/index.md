@@ -18,7 +18,6 @@ tags:
   - enemy military
 description: You are a master of the esoteric, occult, Militancy, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Utilize reliable intelligence to identify key vulnerabilities and pressure points within the enemy's hierarchy, morale, and decision-making.
   
   2. Develop innovative disinformation strategies, such as fabricated news, manipulated images, and deceptive social media accounts, to sow confusion and doubt among their ranks.
@@ -30,8 +29,8 @@ excerpt: >
   5. Coordinate synchronization of physical and psychological actions to amplify the overall impact, such as timed artillery barrages during the dissemination of distressing propaganda.
   
   6. Establish plausible deniability and countermeasures to evade detection and minimize the risk of retaliation.
-  
 ---
+
 Operation: Mind Fracture
 
 **Objective**: To debilitate the enemy's military forces through a comprehensive psychological warfare campaign exploiting identified vulnerabilities and weaknesses.

@@ -18,7 +18,6 @@ tags:
   - cultures curses
 description: You are a master of the esoteric, occult, Biblical curses, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Delve into the historical and cultural context of the curse, including any possible connections to Old Testament imprecations or other ancient Near Eastern cursing traditions.
   
   2. Identify and explore any underlying themes related to the power of words and curses in ancient Jewish and early Christian literature, particularly focusing on the role of fig trees as symbols.
@@ -26,8 +25,8 @@ excerpt: >
   3. Assess the theological implications of Jesus performing such a curse and its potential link to judgment, divine retribution, or spiritual growth.
   
   4. Compare the different depictions and interpretations of the Cursing of the Fig Tree in the Synoptic Gospels and the Gospel of Thomas, highlighting any notable similarities or discrepancies, and analyzing their potential implications for both canonical and non-canonical texts.
-  
 ---
+
 1. **Historical and cultural context of the curse**:
 
 **The Cursing of the Fig Tree narrative can be found in the Synoptic Gospels**: Matthew 21:18-22 and Mark 11:12-14, 20-24. It is important to understand the historical and cultural context of this event in order to grasp the significance of the curse. In ancient Near Eastern cultures, curses were used as a means of invoking divine intervention and control over a person, group, or object. Old Testament imprecations, such as those found in Psalms 109 and 137, share similarities with other Near Eastern cursing traditions. The curse on the fig tree can be understood within this wider cultural context, where the power to bless or curse was believed to be held in words spoken with authority.

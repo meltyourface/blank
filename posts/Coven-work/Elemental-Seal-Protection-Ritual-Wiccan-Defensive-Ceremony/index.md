@@ -25,15 +25,15 @@ excerpt: Draft a comprehensive Coven ritual for sealing and warding a sacred spa
 **Objective**: To create a sacred and protected space, warding off any harmful energies or malevolent entities. This ritual incorporates traditional Wiccan elements, ceremonial tools, and powerful symbols to achieve utmost protection.
 
 **Materials**:
-1. Altar cloth
-2. Athame or ritual knife
-3. Wand
-4. Chalice
-5. Pentacle
+1. **Altar cloth**
+2. **Athame or ritual knife**
+3. **Wand**
+4. **Chalice**
+5. **Pentacle**
 6. Anointing oils (frankincense, myrrh, sage, and cedar)
 7. Incense (frankincense, myrrh, sage, and cedar)
 8. Four candles: red (south), blue (west), yellow (east), and green (north)
-9. Feather or fan
+9. **Feather or fan**
 10. Small bowl or dish of water
 11. Salt
 12. A compass (to accurately determine the cardinal directions)

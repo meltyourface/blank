@@ -24,10 +24,10 @@ To empower and utilize a pendulum for divination or decision-making, follow this
 Materials required:
 
 1. A pendulum (crystal, metal, or wooden pendulum with a chain or string)
-2. A quiet space free from distractions
-3. A white or violet candle
+2. **A quiet space free from distractions**
+3. **A white or violet candle**
 4. Incense or essential oil of choice (such as frankincense, sandalwood, or lavender)
-5. A small cloth or mat to place the pendulum on when not in use
+5. **A small cloth or mat to place the pendulum on when not in use**
 
 **Procedure**:
 **Step 1**: Cleansing and purifying the space

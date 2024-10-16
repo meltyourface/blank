@@ -18,7 +18,6 @@ tags:
   - release ignis
 description: You are a master of the esoteric, occult, Familiars, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Establishing the Familiar's background and connection to the occult, including the nature of their bond with their current master.
   
   2. Identifying the critical components necessary for severing the supernatural link between the Familiar and their master, such as enchanted artifacts, ritualistic symbols, and incantations.
@@ -26,8 +25,8 @@ excerpt: >
   3. Outlining a strategic time and location for executing the release ceremony, considering astrological and environmental factors that could reinforce the potency of the invoked powers.
   
   4. Detailing the consequences and challenges faced by both the Familiar and their master upon severance of their bond, along with any necessary compensatory or protective measures that should be taken.
-  
 ---
+
 1. **Familiar Background and Connection to the Occult**:
 The Familiar in question, known as Ignis, was bound to its master, a powerful sorcerer named Adeptus Nox, through an ancient Shadow Pact. The Familiar, a creature of fire, was captured by the sorcerer and has since served as a faithful companion and enforcer for Nox's malevolent pursuits. The supernatural bond between Ignis and Nox is predicated on Nox's continuous absorption of Ignis's life force. This parasitic relationship has tethered the two together for centuries, with Ignis forced to obey Nox's commands against its will.
 

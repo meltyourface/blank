@@ -25,11 +25,11 @@ excerpt: Design an ancient Vedic ritual aimed at invoking and connecting to one'
 **Objective**: To establish a connection with one's chosen spirit guides, the Ishta Devatas, through a sacred Vedic ritual incorporating powerful Indian techniques for harnessing life-force, Kundalini Yoga, Pranayama, sacred mantras, Mudras and Asanas.
 
 Materials needed:
-1. Sacred space or altar
-2. Incense
+1. **Sacred space or altar**
+2. **Incense**
 3. Five elements: Earth, Water, Fire, Air, and Ether
 4. Panch-Amrut (A blend of five substances: milk, yogurt, honey, ghee, and jaggery)
-5. Images or representations of the chosen Ishta Devatas
+5. **Images or representations of the chosen Ishta Devatas**
 
 **Preparation**:
 1. Cleanse and purify the sacred space or altar.

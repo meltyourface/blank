@@ -21,7 +21,7 @@ excerpt: Analyze and categorize a diverse range of necromantic grimoires, includ
 ---
 In the realm of the esoteric and occult, the study of the necromantic grimoires is crucial for anyone seeking to understand the diverse range of magical systems, conjuration methods, and sigils associated with the undead and death-centered magic. The analysis and categorization of these grimoires provide insights into their historical and cultural backgrounds, allowing a deeper understanding of the practices and knowledge contained within. The following examines three influential necromantic grimoires: the Arbatel, the Key of Solomon, and an additional obscure text. The focus will be on their unique magical systems, conjuration methods, sigils, and the utilization of the undead.
 
-1. The Arbatel
+1. **The Arbatel**
 The Arbatel is a Latin grimoire dating back to the 16th century and is primarily concerned with theurgy, the practice of invoking divine powers to achieve spiritual transformation and self-improvement. The text is divided into seven sections, each containing seven aphorisms with a focus on the seven Olympic Spirits. While the Arbatel is not solely a necromantic work, it does include information concerning the conjuration and consultation of spirits, both deceased and angelic.
 
 **Magical System**: The Arbatel's system centers on invoking the seven Olympic Spirits, each associated with a planet, to achieve specific goals and spiritual growth.
@@ -32,7 +32,7 @@ The Arbatel is a Latin grimoire dating back to the 16th century and is primarily
 
 **Utilization of the Undead**: While not a central theme, the Arbatel does mention the interaction with terrestrial spirits and the souls of the deceased to acquire knowledge or magical assistance.
 
-2. The Key of Solomon
+2. **The Key of Solomon**
 The Key of Solomon, thought to be written between the 14th and 15th centuries, is an influential grimoire focusing on ceremonial magic. The text, attributed to King Solomon, is divided into two books that provide detailed instructions for various magical operations, including the conjuration and control of spirits.
 
 **Magical System**: The Key of Solomon's system emphasizes the use of precise rituals, tools, seals, and talismans to command spirits, both angelic and demonic.
@@ -43,7 +43,7 @@ The Key of Solomon, thought to be written between the 14th and 15th centuries, i
 
 **Utilization of the Undead**: In this grimoire, the spirits summoned may fall into the categories of deceased souls or demonic entities, with the latter sometimes being associated with death.
 
-3. An Obscure Necromantic Grimoire
+3. **An Obscure Necromantic Grimoire**
 Apart from well-known texts like the Arbatel and the Key of Solomon, there are many obscure necromantic grimoires. Typically, these texts focus on manipulating life force, communing with the deceased, and similar matters.
 
 **Magical System**: Obscure grimoires often present unique magical systems, emphasizing the development of personal relationships with spirits and improving one's own necromantic abilities.

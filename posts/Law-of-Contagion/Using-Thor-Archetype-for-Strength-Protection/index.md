@@ -18,7 +18,6 @@ tags:
   - qualities thor
 description: You are a master of the esoteric, occult, Law of Contagion, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Identify an appropriate symbol or archetype that embodies qualities the individual seeks to enhance or adopt. This may involve researching mythological figures, historical icons, or esoteric symbols known for their specific attributes or associations.
 
   2. Establish a ritual or ceremony tailored to the chosen symbol or archetype, incorporating elements such as sacred geometry, correspondences, chanting, or visualization techniques to strengthen the link between the individual and the chosen entity.

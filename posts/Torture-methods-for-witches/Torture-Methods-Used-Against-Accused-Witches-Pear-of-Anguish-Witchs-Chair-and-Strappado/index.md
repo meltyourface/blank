@@ -20,7 +20,7 @@ tags:
 description: You are a master of the esoteric, occult, Torture methods for witches, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: Investigate and elucidate three principal methods of torture specifically employed against accused witches throughout history, detailing the intricacies of their implementation, the modifications made to adapt these techniques to this unique context, and the complex psychological impacts on the victims as they endured the torment and the long-lasting effects on their psyche. Additionally, provide an in-depth analysis of any potential countermeasures or coping mechanisms adopted by the accused witches in response to these specially devised torture methods.
 ---
-1. The Strappado
+1. **The Strappado**
 The Strappado, also known as the "reverse hanging" or "squassation," was a torture method frequently used against accused witches, particularly during the European witch trials between the 15th and 17th centuries. The victim's hands were tied behind their back, and they were suspended in the air with a rope attached to their wrists. Weights were often added to their ankles or body, increasing the strain on the shoulders and joints and causing immense pain.
 
 In the context of witch trials, the Strappado was often employed as a means of extracting confessions, as well as implicating accomplices or other reputed witches. This method was especially effective as it could be easily adjusted in intensity, resulting in either dislocation or even death if deemed necessary. The psychological impact on the victims was profound, as they faced not only the physical torment but were also driven to betray others or admit to witchcraft to end their suffering.
@@ -34,7 +34,7 @@ The primary purpose of the Witch's Chair was to induce extreme pain and terror, 
 
 In response to this method, some accused witches attempted to dissociate from the physical sensation by focusing on their spirituality or personal beliefs. Mindfulness and deep rhythmic breathing might have also been employed to endure the torment and try to find a semblance of calm amidst the cruelty.
 
-3. The Pear of Anguish
+3. **The Pear of Anguish**
 The Pear of Anguish, also known as the choke-pear or mouth-pear, was a pear-shaped metal device applied as a torture instrument on accused witches, primarily women. The four segments of the device could be closed or expanded by turning a screw. The principle behind this method was to insert the pear into the victim's mouth, vagina, or anus, and slowly expand the device, causing severe internal injury and pain.
 
 Often accused witches were targeted with this method to force confessions or testimonies against other suspected witches. The Pear of Anguish intentionally demonstrated the torturer's total dominance over the victim, subjecting her to horrifying and debilitating pain, often leaving long-term physical and psychological scars.

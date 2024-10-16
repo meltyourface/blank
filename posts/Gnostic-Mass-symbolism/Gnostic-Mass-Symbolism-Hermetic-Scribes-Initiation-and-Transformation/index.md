@@ -18,7 +18,6 @@ tags:
   - symbols scribe
 description: You are a master of the esoteric, occult, Gnostic Mass symbolism, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Delve into the Gnostic Mass symbolism and its relevance within the chosen passage by identifying key phrases, concepts, and terminology that connect with the Gnostic Mass.
   
   2. Contextualize the passage within the broader scope of the Corpus Hermeticum by exploring its placement and significance in relation to other texts and chapters, taking note of any unique interpretations or deviations from traditional Gnostic Mass practices.
@@ -26,8 +25,8 @@ excerpt: >
   3. Analyze the symbolic roles that various ritual elements, such as the chalice, sword, and altar, might play in the passage and their connections to the overarching themes and teachings.
   
   4. Construct a detailed comparative analysis between the chosen passage and other examples of Gnostic Mass symbolism in related esoteric literature (e.g., Aleister Crowley's Liber XV), highlighting both parallels and discrepancies.
-  
 ---
+
 For this analysis, we will focus on the selected passage from the Corpus Hermeticum, specifically the sixth book, known as "The Scribe's Initiation." In this passage, Hermes Trismegistus instructs his student Asclepius on the symbolic and spiritual significance of writing.
 
 1. Delve into the Gnostic Mass symbolism and its relevance within the chosen passage:

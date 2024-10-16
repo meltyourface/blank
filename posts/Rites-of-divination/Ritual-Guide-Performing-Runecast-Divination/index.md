@@ -18,7 +18,6 @@ tags:
   - set rune
 description: You are a master of the esoteric, occult, Rites of divination, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. **Preparatory phase**: Elaborate on the procedure for selecting appropriate rune stones, consecrating one's sacred space, and invoking the guidance of deities or spiritual forces connected to the art of divination. Encompass the crafting of a sacred circle, purification techniques, and the employment of incense, candles, or crystals to amplify the potency of the reading.
 
   2. **Casting methodology**: Detail the various casting techniques specific to the Rite of Divination, such as employing a rune cloth, utilizing a casting grid or pattern, and incorporating any additional ritual tools. Discuss the significance of mental focus and question formulation, as well as the method for drawing and placing the rune stones within the chosen casting paradigm.

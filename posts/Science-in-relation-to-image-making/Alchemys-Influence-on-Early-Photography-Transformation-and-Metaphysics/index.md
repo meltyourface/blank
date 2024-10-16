@@ -22,16 +22,16 @@ excerpt: >
 ---
 To address the challenge of exploring the role of alchemy in influencing early photographic processes, let us break it down into smaller sections. **We will discuss**:
 
-1. Alchemical symbolism and the practice of alchemy
-2. The emergence of camera obscura and daguerreotype techniques
+1. **Alchemical symbolism and the practice of alchemy**
+2. **The emergence of camera obscura and daguerreotype techniques**
 3. The correlations between alchemical symbolism, metallurgy, chemistry, and early photography
 4. The metaphysical aspects of image-making and the quest to reveal hidden truths in the visual realm
 
-1. Alchemical symbolism and the practice of alchemy
+1. **Alchemical symbolism and the practice of alchemy**
 
 Alchemy is an ancient philosophical and protoscientific tradition aimed at purifying, perfecting, and transforming substances, usually with the ultimate goal of achieving the Philosopher's Stone, a substance that could grant immortality and turn base metals into gold. Practitioners of alchemy used intricate symbolism and allegory to represent their methodologies and concepts, incorporating elements from philosophy, mysticism, and spirituality.
 
-2. The emergence of camera obscura and daguerreotype techniques
+2. **The emergence of camera obscura and daguerreotype techniques**
 
 The camera obscura is an optical device that dates back to antiquity, wherein light enters a darkened chamber through a small aperture, projecting an inverted image of the scene outside onto a surface inside the chamber. This principle later contributed to pioneering the photographic process, specifically the daguerreotype technique. The daguerreotype was introduced by Louis Daguerre in 1839, utilizing silver-iodide coated copper plates. When exposed to light through a lens in a camera, the plate underwent a chemical transformation to produce a permanent image.
 

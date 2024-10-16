@@ -18,7 +18,6 @@ tags:
   - related devil
 description: You are a master of the esoteric, occult, Devil's crown, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Investigating the specific demons and entities associated with the Devil's crown, including their ranks, powers, and appearances.
 
   2. Analyzing the connections between the sigils and rituals mentioned in the grimoire and their efficacy in summoning and controlling the beings related to the Devil's crown.
@@ -28,8 +27,8 @@ excerpt: >
   4. Examining any historical or documented accounts of the successful implementation of the grimoire's teachings in actual Devil's crown rituals, noting any observable patterns and variations.
 
   5. Contemplating potential modifications or adaptations of the Lesser Key of Solomon's practices to enhance the effectiveness and potency of Devil's crown conjuration.
-  
 ---
+
 1. Investigating the specific demons and entities associated with the Devil's crown:
 
 The Lesser Key of Solomon, also known as Lemegeton Clavicula Salomonis, is a grimoire from the 17th century containing detailed information on demonology. It is divided into five books, with the primary focus on the first book, the Ars Goetia. There are 72 demons and entities listed in the Ars Goetia. Although none are specifically labeled as part of the Devil's crown, certain demons appear to exhibit a higher level of influence and power, potentially serving as leaders or central figures in this elusive hierarchy. Notable examples include:

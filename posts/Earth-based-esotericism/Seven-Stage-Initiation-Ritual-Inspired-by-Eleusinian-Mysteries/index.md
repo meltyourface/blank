@@ -18,7 +18,6 @@ tags:
   - ritual seeker
 description: You are a master of the esoteric, occult, Earth-based esotericism, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Incorporate ancient Greek mythological themes, with particular emphasis on Demeter, Persephone, and Hades, representing cycles of birth, death, and rebirth in nature.
   
   2. Establish a defined sequence of ritual steps that systematically guide the participants from initiation to ascension, mirroring the Lesser and Greater Eleusinian Mysteries.
@@ -30,8 +29,8 @@ excerpt: >
   5. Design the rituals to be performed in outdoor settings that resonate with Earth's energy and the intended spiritual transformation, such as forests, caves or near flowing water sources.
   
   6. Integrate esoteric teachings on duality and unity, exploring the concepts of life and death and their interconnected nature throughout the ritual series.
-  
 ---
+
 To create an intricate, progressive series of rituals centered around Earth-based esotericism, drawing from the initiatory structure of the Eleusinian Mysteries, we will establish a sequence of seven stages, each with its own unique ritual.
 
 Stage 1: Initiation – Seeking the Mysteries

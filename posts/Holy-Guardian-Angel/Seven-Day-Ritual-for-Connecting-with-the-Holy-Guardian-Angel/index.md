@@ -18,7 +18,6 @@ tags:
   - ritual pentagram
 description: You are a master of the esoteric, occult, Holy Guardian Angel, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. A unique combination of prayers, chants, or invocations to invoke the resonating frequency of the Holy Guardian Angel, by incorporating relevant Qabalistic, Enochian, or Thelemic sources.
   
   2. The incorporation of specific ritual tools, such as talismans, amulets, or ceremonial attire, that aid in heightening the connection to the guardian angelic presence.
@@ -32,8 +31,8 @@ excerpt: >
   6. The consideration of particular planetary hours, lunar phases, or astrological alignments as key factors in enhancing the potency of each day's ritual tasks and their influence on the ultimate objective.
   
   7. Elaborate on closing rituals, acknowledging and expressing gratitude towards the Holy Guardian Angel, and guidance on post-ritual integration for maintaining the established connection and incorporating the angelic wisdom into daily life.
-  
 ---
+
 **Day 1: Initiation and Consecration**
 
 1. Begin with the LBRP (Lesser Banishing Ritual of the Pentagram) to cleanse and consecrate the space, followed by chanting AHIH (Eheieh), the God-name associated with Kether on the Tree of Life. Incorporate Enochian calls to invite divine energy into the ritual space.

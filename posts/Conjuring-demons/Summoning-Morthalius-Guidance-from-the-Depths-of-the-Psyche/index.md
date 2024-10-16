@@ -18,7 +18,6 @@ tags:
   - morthalius wisdom
 description: You are a master of the esoteric, occult, Conjuring demons, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Specify the desired demon's attributes and realm of expertise.
   
   2. Design a unique sigil representing the demon with distinct symbolism.
@@ -28,8 +27,8 @@ excerpt: >
   4. Describe the ideal environment for performing the ritual, accounting for factors like location, timing, and atmosphere.
   
   5. Incorporate additional elements like incantations, offerings, or protective measures to enhance the effectiveness and safety of the conjuration process.
-  
 ---
+
 1. Desired Demon's Attributes and Realm of Expertise:
 
 The demon we seek to summon is Morthalius, an ancient entity specializing in wisdom, knowledge, and the uncovering of hidden secrets. Morthalius possesses profound insight into the depths of the psyche, offering guidance and inspiration to those who call upon it. However, Morthalius expects a fair exchange: its valuable guidance often requires relinquishing specific attachments or beliefs.

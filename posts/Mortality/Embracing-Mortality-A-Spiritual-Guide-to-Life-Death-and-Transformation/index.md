@@ -34,15 +34,15 @@ Metaphysically, mortality is considered a doorway to initiation – a passage in
 
 ### II. Rituals, Spells, and Meditations for Embracing Mortality
 
-1. Memento Mori Meditation
+1. **Memento Mori Meditation**
 
 The practice of "memento mori" or remembering one's inevitable death, is a potent meditation that cultivates a deeper connection with the ephemeral nature of human existence. Begin by sitting in a quiet space, grounding, and centering yourself with deep, slow breaths. Visualize your own death, as detailed as possible – its cause, location, and the emotions that come up with this image. Allow any thoughts to naturally arise and dissipate as you fully acknowledge your mortality. Over time, this practice can cultivate an increased awareness of life's transience and encourage living with intention and presence.
 
-2. The Death Posture Ritual
+2. **The Death Posture Ritual**
 
 The death posture ritual is an energy-generating technique that helps align oneself with the concept of mortality. Stand upright with arms outstretched while gazing into a reflective surface, such as a mirror or a pool of water. Hold your breath and begin to visualize yourself as a corpse in the process of decay. Maintain this visualization and breath-holding as long as possible, allowing the images of death and decay to imprint on your psyche. As you release your breath, feel the life force returning to your body, symbolically rebirthing yourself in a spiritually empowered state.
 
-3. Sigil Creation for Mortal Integration
+3. **Sigil Creation for Mortal Integration**
 
 Sigils, or magical symbols, can be used to invoke and channel the transformative energy of mortality. To create a sigil, first, write a statement of intent, such as "I embrace the transient nature of existence." Next, remove any duplicate letters from the statement and arrange the remaining characters in an aesthetically pleasing design – this will be your sigil. Once the sigil is drawn, meditate on it, channeling your energy and focus into the symbol. Finally, destroy the sigil, releasing and realizing your embrace of mortality into the universe.
 

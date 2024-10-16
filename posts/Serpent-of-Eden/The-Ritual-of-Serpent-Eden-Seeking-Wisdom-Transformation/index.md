@@ -18,7 +18,6 @@ tags:
   - following serpentine
 description: You are a master of the esoteric, occult, Serpent of Eden, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. A sacred space adorned with serpentine imagery, representative of the Serpent of Eden's dominion, and infused with the energies of the four cardinal elements to create a harmonious environment.
   
   2. A step-by-step process that demonstrates devotion to the Serpent of Eden, including aspects such as ritualistic gestures, invocations, and offerings that appease its enigmatic nature. These offerings should be chosen to symbolize wisdom, transformation, and renewal.
@@ -28,8 +27,8 @@ excerpt: >
   4. Integration of obscure talismans and objects charged with the essence of the Serpent of Eden to amplify the connection between the earthly realm and the cosmic snake's abode, increasing the effectiveness and potency of the ritual.
   
   5. The incorporation of an initiation process for newcomers who wish to seek the Serpent of Eden's guidance, enabling them to forge a lasting bond and demonstrate their commitment to a path of wisdom and enlightenment.
-  
 ---
+
 
 ## The Rite of the Serpent of Eden
 

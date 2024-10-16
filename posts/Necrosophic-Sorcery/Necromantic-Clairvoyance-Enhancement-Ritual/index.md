@@ -33,7 +33,7 @@ excerpt: Develop a comprehensive ritual for the enhancement of clairvoyance abil
 **Materials**:
 
 1. A personal item or a token representing the physical body (e.g., lock of hair or photograph)
-2. Three black candles
+2. **Three black candles**
 3. Incense (dragon's blood or frankincense)
 4. An obsidian or black onyx pendant, for the creation of the shadow-infused talisman.
 5. A quartz crystal to amplify the energies during the ritual.

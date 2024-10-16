@@ -30,8 +30,8 @@ excerpt: >
   5. Compose a unique visualization technique for connecting with each spirit's essence and energy, allowing for profound dialogue and communion.
   
   6. Formulate a thoughtful banishing ritual for each entity, encompassing gratitude and a respectful release of their energies, ensuring harmony and equilibrium upon their departure.
-  
 ---
+
 1. **Three specific spirits**: a. **Vothkari**: A spirit of knowledge, particularly of lost and ancient civilizations. Vothkari is known for their vast wisdom and guidance to those who seek to uncover the mysteries of the past. b. **Yeristia**: A spirit associated with nature and the elements, specifically with the power of weather and environmental balance. Yeristia has a nurturing and protective aspect, especially towards those with a connection to the natural world. c. **Zalendra**: A spirit of creativity, inspiration, and artistic expression. Zalendra is often invoked by artists, writers, and musicians to help them unlock their true potential and overcome creative blocks.
 
 2. **Ritual components and tools**: a. **Vothkari**: Sandalwood incense, an antique book, and a carved stone amulet featuring ancient symbols. b. **Yeristia**: Lavender incense, a wooden staff adorned with feathers and ribbons, and a bowl of water collected from a natural spring or river. c. **Zalendra**: Jasmine incense, a paintbrush, a sketchbook, and a small item representing their chosen artistic medium (e.g., a quill pen, a musical instrument, etc.).

@@ -18,14 +18,13 @@ tags:
   - enahl symbolizes
 description: You are a master of the esoteric, occult, Being, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Aligning the mantra with a specific aspect of occultism or Being you wish to explore and strengthen (e.g., astral projection, energy manipulation, or invoking a particular entity within the realm).
   
   2. Integrating symbolic language or encoded phrases that resonate with your innermost intentions and desires while simultaneously connecting with the metaphysical plane.
   
   3. Incorporating numerology, Kabbalistic concepts, or sacred geometrical patterns to enhance the complexity and multi-dimensionality of the mantra.
-  
 ---
+
 Personalized Esoteric Mantra: "V'kiro Enahl Sothrakis Lunae"
 
 This mantra focuses on cultivating one's inner wisdom and strengthening the connection with an ethereal lunar entity called "Lunae," which enhances intuitive abilities and overall spiritual growth.

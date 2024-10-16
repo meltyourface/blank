@@ -23,8 +23,8 @@ excerpt: >
   An understanding of the principle of polarity is necessary to grasp both correspondence and vibration, as it demonstrates the interconnectedness of all things.
   
   Vibration underlies the principles of correspondence and polarity, as it provides a framework for understanding the energetic makeup of the universe.
-  
 ---
+
 All three principles are interconnected and essential for understanding the nature of reality, as they provide the basis for comprehending and influencing one's environment through the use of occult knowledge.
 
 The Hermetic Laws, also known as the Hermetic principles, are a set of philosophical and metaphysical concepts that underpin esoteric, occult, and arcane knowledge. These laws have their roots in the teachings of Hermes Trismegistus, a legendary figure who was believed to have combined Egyptian and Greek wisdom. The principles of correspondence, polarity, and vibration are three of the seven core Hermetic Laws that aim to explain the nature of the cosmos and our place within it.

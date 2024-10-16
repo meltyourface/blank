@@ -31,25 +31,25 @@ The sacred space is defined by a circle inscribed with a pentagram within its ce
 
 Ritual Narrative and Actions:
 
-1. Preparation
+1. **Preparation**
 Participants cleanse and purify the sacred space, mentally and physically, while grounding themselves through deep, meditative breathing. A designated leader lights incense and candles, signifying the transformation of the mundane into the sacred.
 
-2. Invocation of the Four Elemental Directions
+2. **Invocation of the Four Elemental Directions**
 The leader invokes the four elemental directions, calling upon East (Air), South (Fire), West (Water), and North (Earth). Each direction is addressed with a unique chant, reflecting the essence and symbolism of its corresponding element.
 
 3. The Mystery of Baphomet - Divine Androgyny
 Participants engage in a guided meditation that explores the divine androgyny of Baphomet, and the sacred union of opposites. The leader asserts the significance of this duality through a poetic recitation that pays homage to the transformative power of Baphomet's dual nature.
 
-4. The Benediction of the Serpent
+4. **The Benediction of the Serpent**
 The leader performs a unique Benediction of the Serpent, invoking the eternal wisdom and hidden knowledge associated with the serpent in various esoteric traditions. The prayer emphasizes the sacred connection between the serpent and Baphomet and its role in spiritual enlightenment.
 
-5. The Synchronistic Union of Opposites
+5. **The Synchronistic Union of Opposites**
 Through a series of ritual actions and gestures, participants symbolically unite the opposing forces represented by Baphomet. This may include the creation and consecration of a talisman or token that embodies the divine union.
 
-6. Invocations and Prayers
+6. **Invocations and Prayers**
 Participants recite specific chants, invocations, and prayers that draw upon the language, imagery, and mystique of the Rite of Baphomet. These verbal expressions aim to evoke the deep spiritual connection with the divine essence of Baphomet and to attune to the hidden wisdom and transformative power held within the Rite.
 
-7. Closing and Dismissal
+7. **Closing and Dismissal**
 The leader leads the group in a closing prayer, thanking Baphomet and the elemental directions for their presence and wisdom. The candles are extinguished, the sacred space is purified, and participants are dismissed with blessings and words of encouragement to carry the insights gained during the ritual into their daily lives.
 
 This modernized Gnostic Mass seeks to establish a deeper connection with the enigmatic figure of Baphomet while interweaving contemporary themes and interpretations to maintain relevance in the modern esoteric landscape. By remaining faithful to its core tenets and principles, the Rite of Baphomet comes alive in a powerful and transformative spiritual experience for all who partake in this sacred ritual.

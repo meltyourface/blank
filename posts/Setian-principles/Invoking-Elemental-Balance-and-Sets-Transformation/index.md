@@ -28,16 +28,16 @@ Welcome, seekers of the hidden knowledge, gatherers of the esoteric wisdom, and 
 (Ritual Preparation)
 As we prepare to invoke these ancient powers, cleanse your hands symbolically with salt water, denoting the process of purification, rebirth, and initiation.
 
-1. Invocation of the Elemental Force of Air
+1. **Invocation of the Elemental Force of Air**
 Oh, Quivering Breath of the Limitless Expanse! Guardian of the East! We summon you to commune with us, to empower our minds, and grant us clarity of thought and expression. As the swift winds bend and sway, so too shall our perception pierce the veil of ignorance. Oh, majestic tempest, we call upon your vast intelligence and insight. By the power of the great Set, may our intellect be ever-ascending!
 
-2. Invocation of the Elemental Force of Fire
+2. **Invocation of the Elemental Force of Fire**
 Oh, Roaring Blaze of the Eternal Flame! Keeper of the South! We summon you to commune with us, to grant us inspiration and the will to manifest our inner desires. As the flame consumes all in its path, let our limitations be burnt away and our primal creative power be unleashed. Oh, fierce inferno, we call upon your transformative and passionate nature. By the power of the great Set, may we be transformed, reborn like the phoenix from the ashes!
 
-3. Invocation of the Elemental Force of Water
+3. **Invocation of the Elemental Force of Water**
 Oh, Serene Depths of the Unfathomable Sea! Guardian of the West! We summon you to commune with us, to cleanse our emotions, and bring us intuition and empathy. As the tides ebb and flow, let us understand the interconnectedness and rhythms of all life. Oh, vast oceans, we call upon your profound wisdom and healing energies. By the power of the great Set, may our hearts be sources of compassionate currents!
 
-4. Invocation of the Elemental Force of Earth
+4. **Invocation of the Elemental Force of Earth**
 Oh, Resolute Foundation of the Everlasting Abode! Keeper of the North! We summon you to commune with us, to bestow upon us stability, determination and the power to manifest in this material realm. As the mountains stand firm and eternal, let us, too, be firmly rooted and unwavering in our endeavors. Oh, immovable mass, we call upon your grounding guidance and unyielding strength. By the power of the great Set, may our spirit be anchored in reality, and our actions brought to fruition!
 
 5. Invocation of Set - The Prince of Darkness and Transformation

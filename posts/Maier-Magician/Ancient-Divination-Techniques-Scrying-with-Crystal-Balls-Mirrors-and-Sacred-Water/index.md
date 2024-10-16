@@ -23,7 +23,7 @@ excerpt: >
 ---
 Scrying, an ancient art of divination within the realm of Maier (Magician) practices, encompasses the act of gazing into a reflective, translucent, or luminescent surface to receive insights, guidance, or knowledge about the past, present, or future. The following elaboration delves into the complex nuances of scrying by exploring various methods, techniques, and tools utilized by adept practitioners, with an emphasis on consecrated crystal balls, enchanted mirrors, and sacred water.
 
-1. Consecrated Crystal Ball
+1. **Consecrated Crystal Ball**
 
 **Historical Significance**: Consecrated Crystal Balls have been employed as divinatory tools by myriad cultures throughout history, including the Celtic Druids, the Chinese, and the Romans. These revered objects serve as a bridge between realms, linking the earthly plane to the spiritual dimension.
 
@@ -40,7 +40,7 @@ Instructions for Harnessing Power:
 - Avoid using a crystal ball known to carry negative energies, as it can lead to inaccurate or harmful readings.
 - Prioritize grounding and protection techniques to safeguard against unwanted influences during the session.
 
-2. Enchanted Mirror
+2. **Enchanted Mirror**
 
 **Historical Significance**: Enchanted mirrors have been utilized in various religious, mythological, and mystical contexts, from the Greek myth of Narcissus to the African divination practice of Ifá. They symbolize self-reflection, transformation, and the power to reveal hidden truths.
 
@@ -57,7 +57,7 @@ Instructions for Harnessing Power:
 - Engage in protection rituals to repel any negative energies or entities.
 - Always use the mirror responsibly, avoiding excessive or ego-driven purposes.
 
-3. Sacred Water from a Primeval Source
+3. **Sacred Water from a Primeval Source**
 
 **Historical Significance**: Water scrying dates to ancient Mesopotamia and Egypt, where priests would interpret the ripples and reflections of water as messages from the gods. Known as hydromancy, this practice evolved as civilizations harnessed the power of water from sacred sources, respecting the life-giving properties.
 

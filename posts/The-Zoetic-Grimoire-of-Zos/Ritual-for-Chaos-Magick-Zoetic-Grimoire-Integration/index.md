@@ -29,11 +29,11 @@ Materials needed:
 
 1. A ritual space (private, safe, and undisturbed)
 2. An altar (table or surface to hold ritual objects)
-3. A black and a white candle
-4. A chalice or cup filled with water
-5. A ritual blade or dagger
+3. **A black and a white candle**
+4. **A chalice or cup filled with water**
+5. **A ritual blade or dagger**
 6. Sigil supplies (paper, pen, ink, or other preferred medium)
-7. A journal for automatic writing
+7. **A journal for automatic writing**
 
 Ceremonial Preparation:
 

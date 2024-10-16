@@ -18,7 +18,6 @@ tags:
   - talisman elements
 description: You are a master of the esoteric, occult, World Soul, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Selecting a symbol or sigil that embodies a particular aspect of the World Soul's essence, describe its significance and its relationship to the metaphysical force.
   
   2. Detailing the preparation of the physical talisman, including material selection, carving or engraving techniques, and any purification processes to align the talisman with the World Soul's energy.
@@ -26,8 +25,8 @@ excerpt: >
   3. Describing a step-by-step ritual for the charging process, incorporating elements such as lunar or planetary associations, invocation of specific spirits or deities connected to the World Soul, and the incorporation of natural elements or incantations.
   
   4. Providing instructions for employing the talisman in accordance with the World Soul's principles, discussing the balance between spiritual, mental, and physical dimensions, and potential uses for self-improvement, magical workings, and the connection with universal energies.
-  
 ---
+
 1. **Sigil Selection and Significance**:
 
 Choose a symbol that represents the interconnectedness of all living entities – a web that converges at its center, symbolizing the World Soul as the focal point. This sigil, called the Axis Mundi, holds a strong connection with cosmic forces and channels energies from various spiritual realms. The Axis Mundi embodies the essence of the World Soul, as it symbolizes the central point that unites all aspects of the cosmos, both physically and metaphysically.

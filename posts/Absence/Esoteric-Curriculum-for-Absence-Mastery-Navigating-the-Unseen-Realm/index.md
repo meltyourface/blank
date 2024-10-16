@@ -27,32 +27,32 @@ The Path of the Unseen is a comprehensive esoteric curriculum designed to assist
 
 Course Outline:
 
-1. Foundations of Absence
+1. **Foundations of Absence**
    - Understanding the realm of Absence
    - Principles and tenets of Absence mastery
    - Archetypes and mythological symbolism associated with Absence
    
-2. Navigating the Unseen
+2. **Navigating the Unseen**
    - Development of intuitive senses
    - Exploration of the Invisible Familiar and the Abyssal Key
    - Study of the Hushed Sentinel and the Vanishing Mentor archetypes
 
-3. Shadows of the Ego
+3. **Shadows of the Ego**
    - Identification and understanding of personal archetypal shadows
    - Transformation and integration of shadow aspects
    - The role of the Void Walker archetype in shadow work
 
-4. The Veiled Oath
+4. **The Veiled Oath**
    - Crafting a unique, personal commitment to Absence
    - Utilizing archetypes to build an Oath anchored in Absence mastery
    - Incorporating tools such as the Silent Dagger and the Intangible Seal
 
-5. Exercises in Creative Absence
+5. **Exercises in Creative Absence**
    - Ritual of the Dissolving Altar: Developing detachment from material possessions
    - The Vanishing Ritual: Enhancing one's ability to remain unseen and unnoticed
    - Merging with the Abyss: Deepening the connection to the realm of Absence
 
-6. Mastery of the Unseen
+6. **Mastery of the Unseen**
    - Practical applications of Absence mastery
    - Becoming a catalyst for personal and collective transformation
    - Ascending to the role of Absent Master or the Shadow Sovereign

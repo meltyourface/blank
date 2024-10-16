@@ -28,10 +28,10 @@ After meticulously studying the 15th-century grimoire, I have deciphered and int
 Materials required:
 
 1. A clean, quiet space to perform the ritual (preferably outdoors)
-2. A compass
+2. **A compass**
 3. Four small containers, each filled with a physical representation of the four elements (soil for Earth, incense for Air, a candle for Fire, and water for Water)
 4. A ritual circle made from natural materials (e.g., stones, sticks, or chalk)
-5. A ritual knife or wand
+5. **A ritual knife or wand**
 6. Culturally relevant symbols and objects to connect with local spirits. These may include ancestral items or tokens, images of tutelary spirits, protective amulets, or charms.
 
 **Procedure**:

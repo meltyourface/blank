@@ -27,11 +27,11 @@ Introduction
 
 The Santa Muerte tradition finds its roots in syncretism between indigenous Mesoamerican beliefs and Catholicism during the colonization of the Americas. The Holy Death, or Santa Muerte, is a powerful female saint-figure honored by many practitioners seeking protection, love, and guidance. However, a growing interest in the darker aspects of this tradition has given rise to the study of diabolic gnostic rituals. These rituals draw upon the energies of the darker forces embodied by entities such as Lucifer, Belial, and Asmodeus, integrating them with the veneration of Santa Muerte. In this section, we will explore the rich history, key concepts, symbolism, and ritual practices that are core to this occult tradition. 
 
-1. History
+1. **History**
 
 The tradition of venerating Santa Muerte dates back to the 18th century, although it has been said that the practice has Pre-Hispanic origins. While the Church denounced such practices, the followers continued to work with her image and attributed qualities of powerful female deities from the Aztec pantheon. The growing interest in diabolic gnostic rituals within the Santa Muerte tradition can be traced to the late 19th and early 20th centuries. Occultists and spiritual seekers looking for a syncretic blend of the dark arts and traditional indigenous beliefs were drawn to the mysterious figure of Santa Muerte and began to explore her darker aspects. This shift resulted in the emergence of diabolic Gnostic rituals that explore the union of the Holy Death with various dark entities.
 
-2. Key Concepts
+2. **Key Concepts**
 
 Diabolic Gnostic rituals in the Santa Muerte tradition revolve around several key concepts:
 
@@ -41,7 +41,7 @@ Pact-making: Pacts are agreements made between the practitioner and the invoked 
 
 **Transformation**: At the core of diabolic Gnostic rituals is the idea of transformation, both within the practitioner and the world around them. Through the exploration of the dark aspects of Santa Muerte, the practitioners can better understand themselves and the duality of the human experience.
 
-3. Symbolism
+3. **Symbolism**
 
 In a diabolic Gnostic ritual, practitioners often use a variety of symbols to create a potent energy field for their workings. **Some commonly used symbols include**:
 
@@ -49,7 +49,7 @@ In a diabolic Gnostic ritual, practitioners often use a variety of symbols to cr
 - Inverted pentagram: This iconic occult symbol represents the balance and embrace of forces of light and darkness, and the transgression of conventional morality.
 - Sigils: These are symbolic representations of the invoked entities that serve to connect the practitioner with their energies.
 
-4. Ritual Practices
+4. **Ritual Practices**
 
 The following are some common practices that a student of diabolic Gnostic rituals in the Santa Muerte tradition can engage in:
 

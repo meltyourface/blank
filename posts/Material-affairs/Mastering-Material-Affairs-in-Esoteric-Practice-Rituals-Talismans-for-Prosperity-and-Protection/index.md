@@ -32,7 +32,7 @@ While spiritual growth remains a cornerstone in esoteric practices, the importan
 
 Examples of Rituals and Spells to Enhance Material Affairs
 
-1. Prosperity Ritual
+1. **Prosperity Ritual**
 
 This ritual attracts prosperity and abundance into one's life, opening up new doors of opportunity and growth. Perform the ritual during the waxing moon phase to amplify its effects.
 
@@ -58,7 +58,7 @@ Prosperity, wealth, and peace of mind."
 6. Meditate on your intentions, visualizing the positive influence of abundance on your life and the lives of those around you.
 7. Once the candles have burnt out, give thanks for the prosperity that is entering your life, and close the ritual.
 
-2. Personal Protection Talisman
+2. **Personal Protection Talisman**
 
 This talisman protects the individual from negative energies and ward off malicious intentions in their material and spiritual existence.
 

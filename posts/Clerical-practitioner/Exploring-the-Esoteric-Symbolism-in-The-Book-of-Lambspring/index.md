@@ -23,10 +23,10 @@ Manuscript: The Book of Lambspring
 
 The Book of Lambspring, a renowned alchemical treatise from the Western esoteric tradition, is known for its emblematic illustrations and cryptic language. As a Clerical practitioner, my analysis takes into consideration the deeper, spiritual implications of this text and its myriad applications in modern practices.
 
-1. Context and Historical Background
+1. **Context and Historical Background**
 The Book of Lambspring, originating from the 16th century, belongs to the 'philosophical branch' of alchemy. Instead of focusing purely on laboratory work, this text blends spiritual and practical elements. The Book of Lambspring contains 15 illustrated emblems accompanied by enigmatic verses, which are designed to reveal the steps and inner workings of the alchemical process.
 
-2. Symbolism and Interpretation
+2. **Symbolism and Interpretation**
 The illustrated emblems and the accompanying verses in The Book of Lambspring can be deciphered by diligently exploring the symbolic connections within each illustration.
 
 Emblem 1: The Two Birds
@@ -38,7 +38,7 @@ The image of a winged serpent represents the sacred union of spiritual (wings) a
 Emblem 3: The Hermetic Vessel
 This emblem demonstrates the alchemical vessel containing the interaction of Sulphur and Mercury. The vessel symbolizes the practitioner's body, while the contained elements serve as a metaphor for transformation, purification, and self-realization through Clerical practices.
 
-3. Applications in Modern Clerical Practices and Metaphysics
+3. **Applications in Modern Clerical Practices and Metaphysics**
 The Book of Lambspring offers numerous insights applicable to the modern practitioner:
 
 - The duality of human nature (Sulphur and Mercury), presented in the form of the two birds, highlights the necessity of balancing and integrating one's spiritual and material aspects in daily life and personal growth.

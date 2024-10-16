@@ -23,8 +23,8 @@ excerpt: >
   The Abyss represents the unknown aspects of the self, and the magician must confront their own shadow in order to integrate it into their consciousness.
   
   The Abyss is a metaphor for the gap between the world of form and the world of spirit, and the magician must bridge this gap through achieving a state of gnosis.
-  
 ---
+
 The Abyss represents the unknown aspects of the self, and the magician must confront their own shadow in order to integrate it into their consciousness.
 
 Explanation and Context:

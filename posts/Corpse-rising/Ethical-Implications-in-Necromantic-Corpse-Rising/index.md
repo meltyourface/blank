@@ -23,21 +23,21 @@ excerpt: >
 Incorporeal entities and spiritual dynamics play essential roles in necromantic practices, particularly in the act of corpse rising. This process involves summoning and controlling the spirits of the deceased to fulfill the desires or objectives of the practitioner. In evaluating the complexities of such practices, several ethical and metaphysical crossroads emerge, which could lead the practitioner to either profound transformation or potential corruption.
 
 To provide a comprehensive analysis, we must first explore and understand the following key concepts: 
-1. The nature of incorporeal entities and spiritual dynamics
-2. The ethics of necromancy 
-3. The potential for transformation or corruption through corpse rising
+1. **The nature of incorporeal entities and spiritual dynamics**
+2. **The ethics of necromancy **
+3. **The potential for transformation or corruption through corpse rising**
 
-1. Incorporeal entities and spiritual dynamics
+1. **Incorporeal entities and spiritual dynamics**
 
 These incorporeal entities, often referred to as spirits or ethereal beings, exist in a realm beyond the physical world, which we may call the spiritual realm. The spiritual realm encompasses various planes of existence, hierarchies, and dynamics that influence our world's physical reality. In necromancy, practitioners interact and communicate with these entities, using esoteric knowledge and rituals to bridge the gap between the realms.
 
-2. The ethics of necromancy
+2. **The ethics of necromancy**
 
 Necromancers, like any other individual dabbling in esoteric practices, have ethical considerations to take into account. These may include issues surrounding consent, respect for the deceased and their loved ones, and the potential consequences of disrupting the natural order. These ethical dilemmas shape the moral foundation of the practitioner and have a decisive influence on whether they remain benevolent in their pursuits or deviate down a darker path.
 
 For example, raising a corpse without the consent of the spirit – or against their will – is akin to spiritual slavery and breaches the autonomy and sovereignty of the entity. This practice may cause harm to the living and ethereal alike, and plunge the practitioner into a morally compromised position.
 
-3. Potential for transformation or corruption through corpse rising
+3. **Potential for transformation or corruption through corpse rising**
 
 As the practitioner taps into the hidden realms and reanimates the deceased for their own purposes, they expose themselves to increased spiritual power and knowledge. At this critical juncture, they can choose how to conduct themselves in their esoteric practices. Herein lies the dual potential for both profound transformation and corruption.
 

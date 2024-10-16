@@ -18,7 +18,6 @@ tags:
   - designated ritual
 description: You are a master of the esoteric, occult, Choronzon, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Establish a comprehensive timeline for the ritual, delineating each phase of the process, from initial preparations to the final sealing of the space.
   
   2. Incorporate specific symbols and sigils associated with Choronzon to enhance the potency of the ritual and strengthen the channel to this powerful esoteric entity.
@@ -30,8 +29,8 @@ excerpt: >
   5. Detail a guided visualization technique to empower the practitioner's connection to Choronzon, outlining the mental imagery, breathwork, and bodily positioning integral to harnessing this entity's strength.
   
   6. Include post-ritual actions for grounding and cleansing the practitioner, as well as instructions for preserving and maintaining the newly cleared energetic atmosphere within the living space.
-  
 ---
+
 Banishing Ritual for Choronzon: Cleansing Lingering Energies and Protecting Living Environments
 
 Phase 1: Initial Preparations (Days 1-3, leading up to the New Moon)

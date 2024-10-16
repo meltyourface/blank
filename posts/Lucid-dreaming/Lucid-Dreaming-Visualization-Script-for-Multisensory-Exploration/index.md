@@ -23,7 +23,7 @@ excerpt: >
 
 ## Title: Multisensory Lucid Dreaming Visualization Script
 
-1. Preparation and Settling into Comfort
+1. **Preparation and Settling into Comfort**
 - Find a quiet, peaceful space to lie down comfortably. Set a gentle alarm to wake you up after 6-8 hours of sleep.
 - Close your eyes and relax all your muscles, calm your mind, and take deep, slow breaths.
 
@@ -34,7 +34,7 @@ excerpt: >
 - As you explore, reach out and touch the trees, feel the texture of the bark, and sense the damp, cool earth beneath your feet.
 - Taste the raindrops that linger on the leaves, savoring the slightly tangy flavor.
 
-3. Grounding and Dream Stability
+3. **Grounding and Dream Stability**
 - Throughout the dream, keep reminding yourself that you are dreaming.
 - To maintain better control and stability, gently rub your hands together, creating warmth and texture sensations.
 - If the dream begins to fade, spin around on the spot, imagine yourself sinking into the ground, or focus on a detail in the environment to restore the dream.
@@ -44,12 +44,12 @@ excerpt: >
 - Choose any location: a warm sandy beach, the cool summit of a mountain, or a magical floating city.
 - As you enter the new location, allow yourself to engage your senses again, taking in the sights, sounds, smells, tastes, and tactile sensations of each environment.
 
-5. Encounters with Dream Characters
+5. **Encounters with Dream Characters**
 - Interact with the dream characters you encounter by striking up a conversation, observing their appearance, and listening to their voices and stories.
 - Shake hands or hug the dream characters, noticing how their bodies and clothing feel.
 - Join dream characters in meals, actively tasting and smelling the dream food that is offered.
 
-6. Reality Checks and Dream Recall
+6. **Reality Checks and Dream Recall**
 - To enhance awareness during the dream, practice reality checks regularly. Try reading a text, flicking a light switch, or looking at your hands. If the texts are inconsistent or the light switch doesn't work, confirm that you're in a dream.
 - Keep a dream journal close to your bed and write down all your experiences as soon as you wake up. This will help to improve your dream recall.
 

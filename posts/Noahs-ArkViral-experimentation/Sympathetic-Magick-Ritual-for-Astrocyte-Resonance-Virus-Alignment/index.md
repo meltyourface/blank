@@ -30,8 +30,8 @@ excerpt: Design an intricate Noah's ArkViral experimentation-based sympathetic m
 
 **Materials**:
 1. A circular, heat-resistant glass container with a lid
-2. Sterilized water
-3. A controlled ARV sample
+2. **Sterilized water**
+3. **A controlled ARV sample**
 4. Silver wire (sacred to the Air element)
 5. Gold wire (sacred to the Fire element)
 6. Copper wire (sacred to the Earth element)

@@ -31,12 +31,12 @@ Tools and Ingredients:
 1. A sacred space, preferably outdoors, where the full moon is visible
 2. A personal item representing your creative endeavors (e.g. a pen for writing, a paintbrush for painting)
 3. Incense of choice for inspiration and creativity (e.g. jasmine, basil, or rosemary)
-4. An altar or work table where you can focus your energy and intentions
+4. **An altar or work table where you can focus your energy and intentions**
 5. LED candles in silver, white, and violet
 6. A piece of moonstone or labradorite (for their strong moon energy properties)
 7. A bowl of water (preferably collected from rain or a natural source)
-8. A ceremonial robe or clothing that signifies the purpose of the ritual
-9. A notebook and writing utensil to document the experience
+8. **A ceremonial robe or clothing that signifies the purpose of the ritual**
+9. **A notebook and writing utensil to document the experience**
 
 Ritual Steps:
 

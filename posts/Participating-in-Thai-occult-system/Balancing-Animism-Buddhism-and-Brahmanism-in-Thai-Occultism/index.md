@@ -23,17 +23,17 @@ In order to fully understand and dissect the knowledge challenge at hand, we mus
 
 The Thai occult system, also known as Thai esotericism, is a complex and diverse spiritual tradition that has been shaped by the interplay of these three major components. The unique blend of animism, Buddhism, and Brahmanism underscores the Thai occult system's distinctiveness and richness. The spiritual development of a practitioner or initiate seeks to acquire a deeper understanding of this system by balancing these elements in their personal and practical applications.
 
-1. Animistic Beliefs
+1. **Animistic Beliefs**
 
 The influence of animistic beliefs on Thai occult practices is apparent in the reverence for spirits, various supernatural entities, and the natural world. These beliefs form the foundation of many rituals, amulets, magical talismans, and other practices aimed at appeasing, invoking, or harnessing the powers of these spirits. For example, the "Kuman Thong," a popular Thai amulet in the form of a child spirit, is believed to bring good luck, protection, and prosperity to its owner. Practitioners can balance the animistic elements in their practice by paying respect to these spirits and learning to work with them harmoniously. This can involve regular offerings, rituals, and meditation practices aimed at fostering a deeper connection with the spirits.
 
-2. Buddhist Principles
+2. **Buddhist Principles**
 
 Buddhist principles play a significant role in Thai occult system, given that the majority of Thais identify as Buddhists. Concepts such as karma, rebirth, and the attainment of enlightenment shape and inform the esoteric practices of Thai occultists. In many cases, magical practices are used as a means to accelerate spiritual progress, overcome obstacles, or provide protection from negative influences.
 
 To balance the Buddhist principles in their practice, initiates should focus on developing mindfulness, ethical conduct, and compassion. This can involve studying the teachings of the Buddha, engaging in meditation practices, and applying Buddhist ethical principles to their daily lives. By cultivating these qualities, practitioners will be better equipped to navigate the often complex and challenging arenas of Thai occultism.
 
-3. Brahmanic Rituals
+3. **Brahmanic Rituals**
 
 Brahmanic rituals, integrated into Thai occult practices, often provide a structure and framework for various esoteric operations. Examples of this influence include the use of sacred mantras (chants), yantras (geometrical designs), and ceremonial offerings. The Brahmanic rituals often serve to amplify the power and effectiveness of the magical workings.
 

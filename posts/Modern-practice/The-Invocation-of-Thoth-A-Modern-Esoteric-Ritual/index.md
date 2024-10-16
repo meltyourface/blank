@@ -27,13 +27,13 @@ Task: Design an intricate invocation ceremony tailored to the Modern esoteric an
 
 Supplies needed:
 1. A dark, quiet, and private indoor space
-2. An altar
-3. A purple or indigo cloth for the altar
-4. A large brass or golden plate for offerings
+2. **An altar**
+3. **A purple or indigo cloth for the altar**
+4. **A large brass or golden plate for offerings**
 5. Offerings: candles, incense (frankincense and myrrh), papyrus scrolls, a quill, and ink
-6. A glass or chalice of water
-7. A figure or image of Thoth
-8. Sigil of Thoth
+6. **A glass or chalice of water**
+7. **A figure or image of Thoth**
+8. **Sigil of Thoth**
 9. An ankh, a symbol of life
 10. A white or silver robe to wear during the ritual
 11. A moonstone or clear quartz crystal

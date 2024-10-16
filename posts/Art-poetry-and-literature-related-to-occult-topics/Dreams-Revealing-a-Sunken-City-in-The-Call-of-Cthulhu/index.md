@@ -25,8 +25,8 @@ excerpt: >
   2. The deciphering of a hidden code within a sacred text
   
   3. The dream-induced revelation of a sunken city
-  
 ---
+
 3. The dream-induced revelation of a sunken city
 
 In H.P. Lovecraft's "The Call of Cthulhu," the dream-induced revelation of a sunken city serves as a central theme to connect the narrator's investigation to the cult's practices, dreams, and alien civilization. 

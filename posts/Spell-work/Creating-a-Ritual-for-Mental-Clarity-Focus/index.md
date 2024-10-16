@@ -33,7 +33,7 @@ The knowledge challenge at hand involves designing a comprehensive ritual that i
 
 ### II. Designing the Ritual
 
-1. Preparation
+1. **Preparation**
 
 Firstly, choose a time when Mercury's influence is at its peak, such as on a Wednesday or when the planet is in favorable astrological positions (e.g., well-aspected in an Air sign like Gemini, Libra, or Aquarius). Gather the following items:
 
@@ -43,7 +43,7 @@ Firstly, choose a time when Mercury's influence is at its peak, such as on a Wed
 - A parchment or paper to draw the sigil
 - A writing instrument
 
-2. The Ritual
+2. **The Ritual**
 
 a. Begin by casting a circle to delineate your sacred ritual space. Call upon the elemental powers of air to guide and assist you in attaining mental clarity and focus.
 

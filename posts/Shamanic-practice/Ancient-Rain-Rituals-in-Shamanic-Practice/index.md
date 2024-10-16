@@ -18,7 +18,6 @@ tags:
   - spirits headdress
 description: You are a master of the esoteric, occult, Shamanic practice, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. In-depth description of ceremonial attire, spiritual significance, and energetic properties attributed to each garment worn by the Shaman leading the ritual.
   
   2. Enumeration of sacred objects, such as fetishes, crystals, and amulets, which will be utilized within the ritual space to fortify the Shaman's connection with rain spirits and elemental forces.
@@ -28,8 +27,8 @@ excerpt: >
   4. Enumeration of ritualistic dance steps, accompanied by the sound of rattles and drums, that embody the fluid movement of rainfall and serve to heighten the collective energy of the ceremony's participants.
   
   5. Description of the offerings and sacrifices made to appease the spirits and gain their favor in showering the parched land with nurturing rain.
-  
 ---
+
 1. Ceremonial Attire:
 The Shaman leading the ritual wears an elaborate headdress adorned with feathers of various birds associated with water, such as herons and cranes, symbolizing their connection to the rain spirits. The headdress also displays polished stones like moonstones and labradorite to represent the water element. The Shaman is dressed in a ceremonial robe woven from plant fibers dyed in deep blues and greens, and decorated with patterns representing the journey of water through nature. They may wear a necklace of beads, which may include shells, crystals, and carved talismans, each notably empowering the Shaman's connection to the spiritual realm and ability to channel the elemental energies.
 

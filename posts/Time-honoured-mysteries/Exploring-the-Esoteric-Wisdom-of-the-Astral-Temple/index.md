@@ -18,7 +18,6 @@ tags:
   - ceremonies temple
 description: You are a master of the esoteric, occult, Time-honoured mysteries, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Delve into the architectural details and design elements that reflect the profound symbolism inherent in the temple's purpose, such as the arrangement of sacred geometry motifs or the incorporation of specific occult symbols.
   
   2. Elaborate on the temple's location within the astral plane and any potential connections to the physical world, including any notable geographical or celestial alignments.
@@ -26,8 +25,8 @@ excerpt: >
   3. Explore the historical and cultural significance of the astral temple by incorporating specific sources of ancient or contemporary wisdom that influenced its construction and use.
   
   4. Examine the key rituals and ceremonies performed within the temple, detailing the purpose, tools, and outcomes of these esoteric practices, while considering the temple's influence on various planes of existence.
-  
 ---
+
 The Astral Temple: A Time-honoured Mystery Revealed
 
 The astral temple is a magnificent structure found deep within the astral plane, designed with precise mastery to invoke a sense of significant cosmic power while embodying profound symbolism that alludes to the foundations of esoteric and occult practices.

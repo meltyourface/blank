@@ -29,51 +29,51 @@ Table of Contents
     - Interstellar alignments and their role
     - Spiritual and metaphysical dimensions
 
-1. Babylonian Astronomy
+1. **Babylonian Astronomy**
     - Origins and development
     - Celestial mapping techniques
     - Zodiac system and constellations
     - Predictions and astrological importance
 
-2. Mayan Cosmology
+2. **Mayan Cosmology**
     - Origins and evolution
     - Calendar systems and astronomical predictions
     - Relationship with spiritual world and rituals
     - Symbolic representations of the cosmos
 
-3. Egyptian Stellar Studies
+3. **Egyptian Stellar Studies**
     - Origins and growth
     - Decanal system and celestial mapping
     - Stellar deities and their influence
     - Astronomical events and their significance
 
-4. Indigenous Stargazing Traditions
+4. **Indigenous Stargazing Traditions**
     - Aboriginal Australian constellations and Dreamtime stories
     - Native American cosmic beliefs and celestial navigation
     - Polynesian and Micronesian star pathfinding techniques
     - African indigenous astronomers
 
-5. Eastern Astrological Systems
+5. **Eastern Astrological Systems**
     - Vedic Astrology (Jyotisha)
     - Chinese Astrology and the Lunar Calendar
     - Japanese Astrology (Shichijuunisuu)
 
-6. The Influence of Spiritual and Metaphysical Ideas
+6. **The Influence of Spiritual and Metaphysical Ideas**
     - Theosophy and the spiritual dimensions of stars
     - Kabbalah and the Tree of Life
     - Hermeticism and the philosophy of correspondences
 
-7. Celestial Beings and Cosmic Guides
+7. **Celestial Beings and Cosmic Guides**
     - Angels and Archangels
     - Ascended Masters and their cosmic connections
     - Star Beings and their role in the evolution of consciousness
 
-8. Innovative Approaches to Understanding Celestial Patterns
+8. **Innovative Approaches to Understanding Celestial Patterns**
     - Three-dimensional celestial mapping
     - Computer simulation and virtual reality
     - Multi-disciplinary approaches to cosmic exploration
 
-9. Navigating the Chorus of the Stars Today
+9. **Navigating the Chorus of the Stars Today**
     - Modern astrology techniques and applications
     - Technological advancements in celestial mapping
     - The impact of space travel on our understanding of the cosmos

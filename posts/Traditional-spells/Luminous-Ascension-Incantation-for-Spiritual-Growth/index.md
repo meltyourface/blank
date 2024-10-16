@@ -24,7 +24,7 @@ Incantation of the Luminous Ascension
 **Materials**:
 
 1. Sacred texts and manuscripts (e.g., the Emerald Tablet, the Torah, the Book of Shadows)
-2. Chalk or natural pigment for drawing sigils
+2. **Chalk or natural pigment for drawing sigils**
 3. A sacred object symbolic of spirituality and transcendence (e.g., a crystal, an amulet)
 4. A peaceful, isolated ritual space free from interruptions
 5. A clear, full moon night

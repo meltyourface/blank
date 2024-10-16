@@ -30,19 +30,19 @@ Big Man society is a social structure often found in Melanesian tribes, primaril
 
 ### II. Connections to Esoteric Wisdom
 
-1. Hermetic tradition
+1. **Hermetic tradition**
 
 The Hermetic tradition, based on the teachings attributed to Hermes Trismegistus, a legendary figure from ancient Egypt and Greece, establishes the underlying principle of personal transformation as the key to spiritual development. The most famous axiom of Hermeticism, "As above, so below," is a reflection of the idea that human beings can reach divine levels of wisdom and understanding by mirroring the actions and qualities found in the cosmos. The process of turning base metals into gold in alchemy, often perceived as purely physical, is in reality a metaphor for the transformation of the self – the refining of one's essential qualities.
 
 The journey to become a "Big Man" can then be seen as analogous to the Hermetic path leading to self-realization and an understanding of one's true potential. By nurturing virtues such as wisdom, integrity, and courage, an individual accelerates their transformation toward becoming an influential figure within the society.
 
-2. Chakra system
+2. **Chakra system**
 
 The Chakra system, originating from the ancient Indian tradition, is a framework that presents seven energy centers within the human body. Each Chakra represents a different level of consciousness and is associated with specific qualities that need to be nurtured to unlock one's full potential. 
 
 When examined from the perspective of personal transformation within the Big Man society, each Chakra can be seen as a step towards becoming a more influential and wise individual. By working through and balancing these energy centers, a person will awaken essential qualities such as self-confidence, creativity, compassion, and intuition, thus accumulating the characteristics essential for becoming a "Big Man."
 
-3. Jungian archetypes
+3. **Jungian archetypes**
 
 Swiss psychiatrist Carl Gustav Jung, in his theory of the collective unconscious, introduced the idea of archetypes – primordial symbols and themes that reside in the psyche of every human being. According to Jung, integrating these archetypes into one's conscious self is part of the process of achieving individuation or self-realization.
 

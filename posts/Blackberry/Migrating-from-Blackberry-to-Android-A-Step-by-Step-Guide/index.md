@@ -18,14 +18,13 @@ tags:
   - blackberry specific
 description: You are a master of the esoteric, occult, Blackberry, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Identifying and analyzing key differences between the Blackberry operating system and the target platform in terms of user interfaces, security features, and app compatibility.
   
   2. Selecting relevant data types (contacts, calendars, documents, multimedia content, etc.) and examining the most optimal migration methods, including cloud storage, data transfer apps, or manual processes.
   
   3. Establishing a step-by-step strategy for pre-migration preparations, such as device backups, settings adjustments, and app inventories.
-  
 ---
+
 
 ## Comprehensive Guide for a Seamless Migration from Blackberry Ecosystem to Android
 
@@ -62,8 +61,8 @@ Migration Methods:
 3. **Step-by-Step Pre-Migration Strategy**:
 
 1. Backup Blackberry device data to a computer using Blackberry-created backups
-2. Create a Google account if not already available
-3. Sync contacts and calendar events to Google Contacts and Google Calendar
+2. **Create a Google account if not already available**
+3. **Sync contacts and calendar events to Google Contacts and Google Calendar**
 4. Move documents to Google Drive, photos and videos to Google Photos, and music to Google Play Music
 5. Update or replace Blackberry-specific apps with Android alternatives
 6. Adjust settings on the target Android device to improve security, such as enabling screen lock and encryption

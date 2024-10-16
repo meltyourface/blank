@@ -18,7 +18,6 @@ tags:
   - blend incense
 description: You are a master of the esoteric, occult, Current 218, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Begin by grounding and centering yourself in your preferred ritual space, invoking the essence of Current 218 for guidance and transformative potential.
 
   2. Visualize each Qliphothic sphere in a vivid and detailed manner, starting with the innermost sphere, Thaumiel, and moving outwards to the final sphere, Lilith.
@@ -34,8 +33,8 @@ excerpt: >
   7. Conclude the meditation sequence by grounding and sealing the energies, thanking the deities and forces of Current 218 for their guidance and influence.
 
   8. Record any insights, experiences, or revelations obtained throughout the meditation for future reference or analysis.
-  
 ---
+
 1. Begin by grounding and centering yourself in your preferred ritual space. Light black candles and arrange them in a circle around you. Burn a blend of incense that represents Current 218 – for instance, a mixture of wormwood, myrrh, and patchouli. **Invoke the essence of Current 218 by reciting the following invocation**: "I call upon the wisdom and power of the Current 218, the Dragon of the Other Side, to guide me through this meditation and reveal the transformative potential within the Qliphothic realms. So it is."
 
 2. Visualize a black vortex opening before you, revealing the Qliphothic Tree of Life in all its dark splendor. Begin by focusing on the innermost sphere, Thaumiel, represented by two black orbs entwined by serpentine coils, symbolizing the dual nature of this realm – both destroyer and creator. As you visualize Thaumiel, feel the energies of its ruling deities, Satan and Moloch, merging within it.

@@ -18,14 +18,13 @@ tags:
   - sigil develop
 description: You are a master of the esoteric, occult, Daimons, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Specify the unique symbols, ingredients, and tools required to create the sigil, taking into consideration the significance of each element within the Daimonic realm.
   
   2. Elaborate on the precise methodology for drawing and constructing the sigil, focusing on the incorporation of sacred geometry and other esoteric principles to maximize potency.
   
   3. Incorporate a step-by-step guide to conducting a ritualistic ceremony that activates and charges the sigil with Daimonic energies, detailing the necessary invocations, offerings, and other gestures to engage the appropriate Daimonic forces.
-  
 ---
+
 1. **Symbols, Ingredients, and Tools**:
 To create the sigil, gather the following ingredients and tools:
 

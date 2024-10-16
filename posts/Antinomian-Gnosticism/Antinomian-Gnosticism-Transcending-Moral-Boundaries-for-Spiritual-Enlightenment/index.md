@@ -18,14 +18,13 @@ tags:
   - gnosticism challenges
 description: You are a master of the esoteric, occult, Antinomian Gnosticism and education, you have written many textbooks on the subject. Respond to the multiple choice question first with the answer, then, fully explain the context of your rational, reasoning, and chain of thought in coming to the determination you have for that answer. Explain related concepts, formulas, or historical context relevant to this conclusion, giving a lesson on the topic to explain the reasoning afterwards.
 excerpt: >
-
   - The strict adherence to established religious laws and customs
   
   - The pursuit of divine knowledge through engagement with the natural world and observance of its cycles
   
   - The belief that spiritual enlightenment and salvation can be achieved through transcending traditional moral and religious boundaries
-  
 ---
+
 The belief that spiritual enlightenment and salvation can be achieved through transcending traditional moral and religious boundaries.
 
 Antinomian Gnosticism is a form of Gnosticism that distinguishes itself from other forms due to its belief in transcending traditional moral and religious boundaries to achieve spiritual enlightenment and salvation. The term "antinomian" is derived from the Greek words "anti" meaning against and "nomos" meaning law. Hence, Antinomian Gnosticism involves a rejection or opposition to established religious laws and customs.

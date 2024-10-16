@@ -19,14 +19,13 @@ tags:
   - incantation
 description: You are a master of the esoteric, occult, Amentan Gates and education, you have written many textbooks on the subject. Respond to the multiple choice question first with the answer, then, fully explain the context of your rational, reasoning, and chain of thought in coming to the determination you have for that answer. Explain related concepts, formulas, or historical context relevant to this conclusion, giving a lesson on the topic to explain the reasoning afterwards.
 excerpt: >
-
   - Reciting a specific incantation and performing hand gestures before stepping through the gate's energetic barrier, after which one must carefully select the correct sigil to direct their journey
   
   - Aligning one's chakras and entering a meditative state until a vision appears, showing the gate's location, then using willpower to travel there instantly
   
   - Burning a special blend of herbs and focusing intent on a symbol while harmonizing with the gate's unique frequency, then verifying its stability and safety before entering
-  
 ---
+
 - Reciting a specific incantation and performing hand gestures before stepping through the gate's energetic barrier, after which one must carefully select the correct sigil to direct their journey
 
 The process of correctly opening and navigating an Amentan Gate involves a series of precise steps rooted in the esoteric and occult practices. The Amentan Gates are mystical pathways that connect different realms or planes of existence. They derive their power from the arcane knowledge wielded by their creators and practitioners.

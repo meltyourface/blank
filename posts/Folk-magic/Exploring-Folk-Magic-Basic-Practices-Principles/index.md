@@ -58,11 +58,11 @@ A wide variety of symbols, tools, and materials are used in folk-magic practices
 
 To gain a foundational understanding of folk-magic, beginners can practice the following simple spells and rituals:
 
-1. Protection Charm
+1. **Protection Charm**
 Ingredients: a small pouch, a piece of black tourmaline, three dried bay leaves, and a pinch of salt
 Instructions: Place the black tourmaline, bay leaves, and salt in the pouch and tie it securely. Consecrate the pouch by holding it in your hands and visualizing a protective energy surrounding it. Carry the pouch with you or hang it in your home to attract protection and ward off negativity.
 
-2. Prosperity Spell
+2. **Prosperity Spell**
 Ingredients: a green candle, a coin, and basil leaves
 Instructions: Cleanse the coin by washing it in running water, and then allow it to dry. Light the green candle and place the coin on top of the basil leaves in front of it, envisioning financial abundance and success. Meditate on this vision as the candle burns down, and then carry the coin with you as a token of prosperity.
 

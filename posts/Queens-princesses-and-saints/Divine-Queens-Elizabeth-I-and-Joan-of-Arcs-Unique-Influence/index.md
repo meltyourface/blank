@@ -18,14 +18,13 @@ tags:
   - princesses saints
 description: You are a master of the esoteric, occult, Queens, princesses, and saints and education, you have written many textbooks on the subject. Respond to the multiple choice question first with the answer, then, fully explain the context of your rational, reasoning, and chain of thought in coming to the determination you have for that answer. Explain related concepts, formulas, or historical context relevant to this conclusion, giving a lesson on the topic to explain the reasoning afterwards.
 excerpt: >
-
   - Queen Elizabeth I and Saint Joan of Arc: A merging of political influence with the divine connection to victory in battle
   
   - Princess Diana and Saint Dymphna: A unifying symbol of compassion to the marginalized and the significance of family
   
   - Queen Isabella of Castille and Saint Cecilia: A strategic partnership that emphasizes cultural development and the preservation of music
-  
 ---
+
 Queen Elizabeth I and Saint Joan of Arc: A merging of political influence with the divine connection to victory in battle.
 
 This pairing best represents the synthesis of roles and powers between queens, princesses, and saints, as it combines the political authority of Queen Elizabeth I with the divine connection and guidance in battle attributed to Saint Joan of Arc. 

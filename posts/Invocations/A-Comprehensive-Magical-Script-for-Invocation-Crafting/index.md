@@ -18,14 +18,13 @@ tags:
   - unified enchantment
 description: You are a master of the esoteric, occult, Invocations, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. A unique and mystifying alphabet comprised of 26 to 30 characters, with each character symbolizing various archetypal energies, elements, and intentions associated with the domain of Invocations.
   
   2. Incorporate a set of specialized glyphs and sigils, both for intensifying specific aspects of the enchantments and for creating synergistic links between multiple spells inscribed on the same object.
   
   3. Design a set of esoteric punctuation marks and diacritics to indicate spellcasting nuances, such as the duration of the enchantment, conditional activations, and bindings to specific entities or forces.
-  
 ---
+
 In creating this comprehensive and intricate magical script specifically for the practice of Invocations, I have incorporated the following elements:
 
 1. A unique and mystifying alphabet has been created, which is named "Eikthyrnal." It is comprised of 28 characters, each symbolizing various archetypal energies, elements, and intentions associated with the domain of Invocations. **Some examples include**:

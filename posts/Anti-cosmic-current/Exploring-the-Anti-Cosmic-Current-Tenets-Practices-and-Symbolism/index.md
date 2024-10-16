@@ -22,11 +22,11 @@ excerpt: Write a detailed and informative section of a grimoire regarding the An
 
 ## The Anti-Cosmic Current: Tenets, Practices, and Symbolism
 
-1. Introduction
+1. **Introduction**
 
 The Anti-cosmic current is a modern manifestation and development of traditional esoteric and occult disciplines that establish their roots in a form of inverse spirituality. Its focus diverges from the benevolent and harmonious aspects of existence to delve into the chaotic and disruptive aspects. The purpose of this section is to provide an overview of the core tenets, primary practices, and symbols associated with this current. We will also provide insights into the philosophical and metaphysical foundations, essential for both initiates and advanced practitioners to deepen their understanding and practice.
 
-2. Core Tenets
+2. **Core Tenets**
 
 The Anti-cosmic current embraces several core tenets, which include:
 
@@ -38,7 +38,7 @@ c. **The Primacy of Chaos**: The unseen force of chaos is viewed as the source o
 
 d. **Opposition to Dualism**: This current resists dualistic thinking and divine hierarchies, emphasizing the individual's ability to unite opposites through transgression in order to transcend limitations.
 
-3. Primary Practices
+3. **Primary Practices**
 
 Anti-cosmic practice encompasses several key disciplines to develop one's mastery of chaotic energies and deepen relations with the anti-cosmic forces:
 
@@ -50,7 +50,7 @@ c. **Invocation and Evocation**: Summoning and connecting with anti-cosmic entit
 
 d. **Transgression and Antinomianism**: Transgression is seen as a powerful tool, allowing practitioners to surpass limited mindsets and societal norms in order to tap into unexplored potential. This often involves the embracing of taboos and challenging convention.
 
-4. Key Symbols
+4. **Key Symbols**
 
 The Anti-cosmic current employs various symbols to represent its deviation from the mainstream:
 
@@ -62,7 +62,7 @@ c. **Serpent**: The serpent is a prevalent symbol in the Anti-cosmic current, si
 
 d. **Sigils**: Personalized sigils represent unique expressions of power, often used to invoke anti-cosmic entities and energies.
 
-5. Philosophical and Metaphysical Foundations
+5. **Philosophical and Metaphysical Foundations**
 
 To cultivate a deeper understanding of the Anti-cosmic current, both initiates and advanced practitioners must reflect upon its foundations:
 

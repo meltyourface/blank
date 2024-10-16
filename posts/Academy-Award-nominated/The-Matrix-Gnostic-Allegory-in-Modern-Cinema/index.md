@@ -23,8 +23,8 @@ excerpt: >
   Pan's Labyrinth (2006), where the protagonist navigates a fantastical world filled with mythical creatures, an allegory for inner transformation and self-discovery
   
   The Matrix (1999), presenting a virtual reality simulation controlled by machines, hinting at concepts of Gnosticism and the battle between free will and predestination
-  
 ---
+
 The Matrix (1999)
 
 The Matrix best exemplifies the use of symbolic imagery and narrative to convey deeper esoteric themes among the given options. This 1999 Academy Award-nominated film, directed by the Wachowski siblings, presents a virtual reality simulation controlled by machines, hinting at concepts of Gnosticism and the battle between free will and predestination.

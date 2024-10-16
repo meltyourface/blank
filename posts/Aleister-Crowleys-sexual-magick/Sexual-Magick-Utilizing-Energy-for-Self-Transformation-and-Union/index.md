@@ -18,14 +18,13 @@ tags:
   - magick concept
 description: You are a master of the esoteric, occult, Aleister Crowley's sexual magick and education, you have written many textbooks on the subject. Respond to the multiple choice question first with the answer, then, fully explain the context of your rational, reasoning, and chain of thought in coming to the determination you have for that answer. Explain related concepts, formulas, or historical context relevant to this conclusion, giving a lesson on the topic to explain the reasoning afterwards.
 excerpt: >
-
   - Achieving union with the divine through non-sexual rituals based on mystical practices.
   
   - Becoming a renowned occultist by learning and teaching various esoteric arts while rejecting sexual practices.
   
   - Creating elaborate spells for selfish desires, including wealth and manipulation of others.
-  
 ---
+
 - Utilizing sexual energy to attain self-transformation, enlightenment, and union with one's true will.
 
 In the context of Aleister Crowley's sexual magick, the concept of The Great Work is accurately described by the statement: "Utilizing sexual energy to attain self-transformation, enlightenment, and union with one's true will." Aleister Crowley was an influential occultist, mystic, and ceremonial magician who founded the religion of Thelema. Within this system, he developed a branch of magick that focuses on the power of sexuality, known as sex magick.

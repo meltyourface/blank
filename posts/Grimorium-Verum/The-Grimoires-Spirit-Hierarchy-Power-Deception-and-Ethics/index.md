@@ -22,15 +22,15 @@ excerpt: Explain the intricate relationship between the three main levels of pow
 ---
 The Grimorium Verum, or the “True Grimoire,” is a 17th-century grimoire primarily focused on the conjuration and manipulation of spirits to achieve the practitioner's desired goals. It is considered by many to be one of the most powerful and notorious grimoires within the realm of the esoteric and occult. The grimoire presents a complex hierarchical system of spirits, divided into three main levels of power: the Superior Spirits, the Inferior Spirits, and the False Monarch. To thoroughly comprehend the ethical and moral complexity found within the Grimorium Verum's framework, we must first explore the attributes and relationships between these three categories of spirits.
 
-1. Superior Spirits
+1. **Superior Spirits**
 
 At the top of the hierarchy, the Superior Spirits are the most powerful entities in the Grimorium Verum. These spirits are viewed as ruling figures that possess immense knowledge and authority over the lower entities within the grimoire's system. In the Grimorium Verum, these spirits are identified as Lucifer, Beelzebub, and Astaroth, who are believed to be the Princes of the spirit world. They serve as primary figures for practitioners to conjure in the pursuit of their goals.
 
-2. Inferior Spirits
+2. **Inferior Spirits**
 
 The Inferior Spirits, also referred to as subordinate spirits or simply "subordinates," are below the Superior Spirits in terms of power and authority. These spirits are numerous and perform various functions, ranging from providing knowledge and power to assisting in specific operations and conjurations. Although they may appear as lesser in power compared to the Superior Spirits, the Inferior Spirits hold a significant place in the grimoire's framework due to their availability and relative ease in manipulation.
 
-3. False Monarch
+3. **False Monarch**
 
 Lastly, the False Monarch is a unique and enigmatic figure within the Grimorium Verum's hierarchy. This spirit is depicted as a malevolent trickster, aiming to deceive practitioners by impersonating the likeness of a Superior Spirit. The False Monarch typically preys upon individuals who are inexperienced or easily swayed, seeking to exploit their weaknesses and ignorance.
 

@@ -18,14 +18,13 @@ tags:
   - thou wilt
 description: You are a master of the esoteric, occult, Aleister Crowley and education, you have written many textbooks on the subject. Respond to the multiple choice question first with the answer, then, fully explain the context of your rational, reasoning, and chain of thought in coming to the determination you have for that answer. Explain related concepts, formulas, or historical context relevant to this conclusion, giving a lesson on the topic to explain the reasoning afterwards.
 excerpt: >
-
   - The maxim is a personal directive for hedonism and indulgence, separate from the greater spiritual philosophy of Thelema.
   
   - The maxim encourages following one's own moral code, but it is unrelated to the central tenets of Thelema.
   
   - The maxim is synonymous with Thelema itself, serving as a concise expression of the complex, interconnected network of ritual, spiritual practice, and metaphysical thought within the system.
-  
 ---
+
 - The maxim is synonymous with Thelema itself, serving as a concise expression of the complex, interconnected network of ritual, spiritual practice, and metaphysical thought within the system.
 
 In the context of Aleister Crowley's work in the occult, his development of Thelema and its principles are deeply intertwined with the maxim "Do what thou wilt shall be the whole of the Law". This phrase is derived from his 1904 publication "The Book of the Law," which he believed was dictated to him by a higher being named Aiwass. Thelema is an elaborate spiritual system that combines elements of ceremonial magic, Eastern and Western mysticism, Gnosticism, astrology, tarot, and other esoteric disciplines.

@@ -29,7 +29,7 @@ Before we begin, find a quiet, safe space where you may comfortably sit or lay d
 
 The Journey Begins:
 
-1. A Forest of Knowledge
+1. **A Forest of Knowledge**
 
 Feel the cool breeze on your face as you find yourself standing amidst a magnificent, ancient forest. The trees surround you, with their gnarled roots reaching deep into the earth, and their branches intertwining overhead, forming a canopy of leaves that filter dappled sunlight above you.
 
@@ -37,7 +37,7 @@ Inhale the rich aroma of the damp earth and decomposing leaves. Listen to the so
 
 As you walk deeper into the forest, each step releasing a scent of fresh, green moss, notice a silvery-blue light shimmering in the distance, beckoning you to follow.
 
-2. Pathway of Initiation
+2. **Pathway of Initiation**
 
 Drawn by this ethereal light, you are led along a winding path through the forest. With every step, your connection to the natural world deepens. Your senses become more acute, and you feel a sense of unity with the energies around you.
 
@@ -47,7 +47,7 @@ Pause for a moment, and softly inquire:
 
 As the words resonate through the air, the silvery-blue light coalesces into a luminous sphere. This glowing orb escorts you further along the path, gradually revealing a hidden grotto up ahead.
 
-3. The Grotto of Revelation
+3. **The Grotto of Revelation**
 
 You enter the grotto, feeling its cool, damp walls adorned with moss and lichen. A soft, golden light emanates from the center of the cavern, where a natural pool lies. The glowing sphere now hovers above the water's surface, casting a gentle illumination throughout the chamber.
 
@@ -59,7 +59,7 @@ As you focus your intention on unveiling your primal soul-creature, the water in
 
 As the image stabilizes, you recognize the symbolic manifestations of your animal totem. Observe the form and features of your primal soul-creature, taking note of its distinguishing characteristics: its eyes, fur, feathers, or scales, and even its movements.
 
-5. Unveiling Divine Insights
+5. **Unveiling Divine Insights**
 
 Now, as you stand before your spirit-animal, acknowledge its presence, and offer your gratitude for the wisdom that this encounter reveals. Silently inquire:
 
@@ -67,7 +67,7 @@ Now, as you stand before your spirit-animal, acknowledge its presence, and offer
 
 Be receptive to any messages, emotions, or images that flood your consciousness. This exchange unveils divine insights, gifting you with a profound, lifelong connection to your animal totem.
 
-6. Fostering a Lifelong Bond
+6. **Fostering a Lifelong Bond**
 
 Having encountered your primal soul-creature and having received its guidance, it is time for you to return to the conscious realm. Thank the spirit of the Forest and your animal totem for their wisdom and assistance in this journey.
 

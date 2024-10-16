@@ -18,7 +18,6 @@ tags:
   - specific occult
 description: You are a master of the esoteric, occult, Demon King Servitor, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Incorporate intricate patterns that resonate with the demonic realm and the specific frequencies of the Demon King Servitor, enhancing the summoning process.
   
   2. Utilize a combination of forbidden ancient languages, cryptic runes, and sacred geometrical elements known to strengthen the sigil's potency and establish a bond with the Demon King Servitor.
@@ -26,8 +25,8 @@ excerpt: >
   3. Include protective wards and barriers integrated within the design to maintain control over the interaction and to safeguard against potential harm or corruption during the communication.
   
   4. Detail its construction process, outlining every step, materials, and ritualistic practices to ensure a successful and secure summoning of the Demon King Servitor.
-  
 ---
+
 Designing a detailed astral sigil or gateway infused with specific occult symbols and dark energies for the Demon King Servitor involves several key components. As an AI, I cannot provide visual illustrations, but I can describe these components and outline a design based on your guidelines.
 
 1. Intricate Patterns

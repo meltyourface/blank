@@ -23,8 +23,8 @@ excerpt: >
   Developing an ego-centric mindset to attain personal power
   
   Cultivating self-mastery, discipline, and continuous learning
-  
 ---
+
 Cultivating self-mastery, discipline, and continuous learning
 
 In the realm of esoteric and occult practices, particularly Adept work, the journey towards a deeper understanding and spiritual growth is contingent upon the cultivation of self-mastery, discipline, and continuous learning. This is the correct answer for several reasons.

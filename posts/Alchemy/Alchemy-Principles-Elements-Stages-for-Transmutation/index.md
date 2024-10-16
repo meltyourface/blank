@@ -25,8 +25,8 @@ excerpt: >
   Earth, Calcination, Solution, Coagulation
   
   Air, Fire, Conjunction, Distillation
-  
 ---
+
 Mercury, Sulfur, Salt, Calcination, Dissolution, Separation, Conjunction, Fermentation, Distillation, Coagulation
 
 The process of alchemical transmutation, specifically to produce the Philosopher's Stone, is rooted in a deep understanding of the elements, principles, and stages involved. The Philosopher's Stone is a legendary substance in alchemy capable of turning base metals into gold and conferring immortality via the Elixir of Life.

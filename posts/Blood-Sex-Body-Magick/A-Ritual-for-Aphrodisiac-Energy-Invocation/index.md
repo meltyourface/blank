@@ -30,12 +30,12 @@ excerpt: >
 1. Damiana leaves (Turnera diffusa)
 2. Maca root (Lepidium meyenii)
 3. Yohimbe bark (Pausinystalia johimbe)
-4. Mortar and pestle or grinder
-5. Wooden spoon
-6. Clay or earthenware bowl
-7. Anointing oil
+4. **Mortar and pestle or grinder**
+5. **Wooden spoon**
+6. **Clay or earthenware bowl**
+7. **Anointing oil**
 8. Ritualistic body art (using henna or non-toxic body paint)
-9. A variety of percussion instruments or prerecorded sacred sounds
+9. **A variety of percussion instruments or prerecorded sacred sounds**
 10. A trusted partner or partners, chosen based on resonance with the intention of the ritual
 
 **Celestial Alignments**: The optimal time to perform this ritual is during the waxing gibbous or full moon phases, when the moon’s energy is most potent for harnessing aphrodisiac properties. Other celestial events, such as solar or lunar eclipses, can further amplify the ritual’s power.

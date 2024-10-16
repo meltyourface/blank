@@ -21,13 +21,13 @@ excerpt: Divulge the hermetic correspondence between the arcane symbolism of the
 ---
 To begin answering this knowledge challenge, we must first break down and understand the key components involved: the seven classical planets, the pillars of Solomon's Temple, and the seven chakras. Next, we will explore the hermetic correspondence between these three components, and finally, we will establish their mystical interconnection through the harmonizing principles of macrocosm and microcosm.
 
-1. The Seven Classical Planets
+1. **The Seven Classical Planets**
 The seven classical planets, according to the astrological and cosmological perspective of the ancient world, consisted of the Sun, the Moon, Mars, Mercury, Jupiter, Venus, and Saturn. These celestial objects were revered by many civilizations throughout history and held mystical significance. Each planet was associated with specific divine energies or archetypes, providing a cosmic map for the spiritual and psychological understanding of the universe and its inhabitants. 
 
 2. Pillars of Solomon's Temple
 In Freemasonry and various esoteric traditions, the pillars of Solomon's Temple hold a significant symbolic meaning. These pillars, named Jachin and Boaz, represent the establishment and stability of heaven and earth, exemplifying the duality between strength and wisdom. They are often interpreted as doorways between the physical world and the spiritual plane.
 
-3. The Seven Chakras
+3. **The Seven Chakras**
 The seven major chakras, in Hinduism and yogic traditions, are vital energy centers within the human body that regulate life force energy (prana) and correspond to distinct spiritual qualities. Arranged along the spine, they are denoted as Muladhara, Svadhisthana, Manipura, Anahata, Vishuddha, Ajna, and Sahasrara.
 
 Now, let's examine the hermetic correspondence between these three components and link them through the principles of macrocosm (the universe) and microcosm (human existence).

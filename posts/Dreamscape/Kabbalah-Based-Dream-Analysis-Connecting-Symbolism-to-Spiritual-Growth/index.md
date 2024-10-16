@@ -18,7 +18,6 @@ tags:
   - dream interpretation
 description: You are a master of the esoteric, occult, Dreamscape, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Assign dream symbols to each of the ten Sephirot according to their spiritual significance and archetypal meaning.
   
   2. Create a dream-specific correspondence table for the 22 connecting pathways of the Tree of Life, incorporating esoteric dream symbols and their associated meanings.
@@ -26,8 +25,8 @@ excerpt: >
   3. Develop a methodology to map recurring dream themes onto the Tree of Life and trace their progression through the Sephirot, discovering potential insights into spiritual growth and personal development.
   
   4. Incorporate relevant aspects of color symbolism, numerology, and astrological associations within the context of dream interpretation on the Tree of Life.
-  
 ---
+
 1. **Assigning dream symbols to the ten Sephirot**:
 
 Keter (Crown) - Represents the divine will and the source of creation. **Dream symbols**: Eagle, divine light, celestial spheres, and crown.

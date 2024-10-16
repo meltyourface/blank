@@ -34,11 +34,11 @@ Scrying, also known as crystal gazing or hydromancy, is undoubtedly an ancient p
 
 The primary objective of Scrying is to attain knowledge that would otherwise remain concealed. The insights gained through this practice can pertain to an extensive range of topics, such as:
 
-1. Personal growth and spiritual development
-2. Divination of future events
+1. **Personal growth and spiritual development**
+2. **Divination of future events**
 3. Communication with deities, spirits, or ancestral guides
 4. Healing and self-discovery
-5. Solving problems or uncovering hidden truths
+5. **Solving problems or uncovering hidden truths**
 
 ### III. Common Scrying Mediums
 

@@ -31,9 +31,9 @@ Celestial Bodies Involved:
 3. Telaphar - The planet of cosmic connection and universal wisdom
 
 Ritual Space Preparation:
-1. Choose a location with a clear view of the night sky
-2. Cleanse the area with sage or any purifying incense
-3. Cast a protective circle around the ritual space using salt or a ritual knife
+1. **Choose a location with a clear view of the night sky**
+2. **Cleanse the area with sage or any purifying incense**
+3. **Cast a protective circle around the ritual space using salt or a ritual knife**
 4. In the center of the circle, place a triangular altar, with each corner representing Nevalis, Cosmaria, and Telaphar
 
 **Sigils**:
@@ -49,8 +49,8 @@ Sacred Tools:
 
 Orchestration of Vibrational Sounds, Scents, and Colors:
 1. Use a Tibetan singing bowl, tuned to the frequency of each celestial body (Nevalis - C, Cosmaria - D, Telaphar - F) to create an immersive soundscape embodying their planetary vibrations
-2. Burn the aforementioned incense blend throughout the ritual to invoke the essence of the celestial bodies
-3. Arrange the candles in correspondence to the chosen planets and the sigils on the altar
+2. **Burn the aforementioned incense blend throughout the ritual to invoke the essence of the celestial bodies**
+3. **Arrange the candles in correspondence to the chosen planets and the sigils on the altar**
 
 The Ritual:
 1. **Begin the ritual by announcing your intentions and invoking the presence of the celestial bodies**: "I call upon thee, Nevalis, Cosmaria, and Telaphar, potent architects of the Interior universe. Lend me your powers to enhance my intuition, elevate my spiritual growth, and deepen my connection to cosmic wisdom."
@@ -59,7 +59,7 @@ The Ritual:
 4. **Use the ritual knife, wand, or athame to direct the forces you've invoked and trace their sigils energetically. Chant**: "Align my being with your power. Grant me wisdom, growth, and intuition, by the grace of the cosmic energies I invoke."
 5. Drink from the chalice of infused water to symbolize internalizing the energy and wisdom of the celestial bodies. Visualize their power merging with your essence 
 6. **Thank the celestial bodies for their presence and assistance**:"I offer my deep and sincere gratitude, Nevalis, Cosmaria, and Telaphar, for your profound wisdom and illuminating influence."
-7. Close the ritual by extinguishing the candles and releasing the protective circle
+7. **Close the ritual by extinguishing the candles and releasing the protective circle**
 8. Ground yourself and be present, integrating the powerful celestial energies into your daily life
 
 Practice this ritual during astrologically significant dates or during times when each celestial body is most prevalent in the night sky for maximized potential and connection to the Interior universe.

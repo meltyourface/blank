@@ -18,14 +18,13 @@ tags:
   - enlightenment ariadne
 description: You are a master of the esoteric, occult, Ariadnes thread and education, you have written many textbooks on the subject. Respond to the multiple choice question first with the answer, then, fully explain the context of your rational, reasoning, and chain of thought in coming to the determination you have for that answer. Explain related concepts, formulas, or historical context relevant to this conclusion, giving a lesson on the topic to explain the reasoning afterwards.
 excerpt: >
-
   - A metaphysical guide to navigate through life's challenges by recognizing and connecting patterns
   
   - A physical labyrinth where one can practice meditation and balance
   
   - A cognitive process of achieving enlightenment by following a single, linear path of knowledge
-  
 ---
+
 The answer is:
 
 - A metaphysical guide to navigate through life's challenges by recognizing and connecting patterns

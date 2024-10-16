@@ -49,7 +49,7 @@ Nighttime rituals:
    b. Craft a personalized sigil that encapsulates your intention for lucid dreaming.
    c. Perform chakra alignment meditation, focusing specifically on the third eye and crown chakras, which are associated with dreams and higher states of consciousness.
 
-4. Obstacles and Safeguards
+4. **Obstacles and Safeguards**
    
    a. Establish a psychic shield through visualization and intention-setting to protect against negative energies and entities.
    b. Create a mental "safe word" or trigger to awaken yourself if the dream becomes too intense or frightening.
@@ -61,7 +61,7 @@ Nighttime rituals:
    b. Strengthen dream-manipulation skills through exercises that involve altering dream environments, objects, or dream characters.
    c. Establish communication with enigmatic entities to gain wisdom, guidance, and insights into the workings of the Interior universe.
 
-6. Documentation and Lessons Learned
+6. **Documentation and Lessons Learned**
    
    a. Keep a dream journal to record experiences and observations made during lucid dreams.
    b. Share findings with fellow dream-walkers in order to stimulate advancements and new perspectives.

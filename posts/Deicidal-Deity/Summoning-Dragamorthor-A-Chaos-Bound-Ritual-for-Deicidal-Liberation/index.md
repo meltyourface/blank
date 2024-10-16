@@ -28,12 +28,12 @@ Ritual Time and Location:
 Optimal time for performing the ritual is on a new moon night, specifically on the witching hour (midnight). The location must be a place of perceived natural chaos, like the center of an ancient, overgrown forest or the heart of a raging storm at sea. However, one can also create an artificially chaotic environment by causing a significant disturbance in a previously tranquil area.
 
 Materials Needed:
-1. A desecrated altar with three black candles arranged in a triangle formation
-2. A chalice filled with the blood of a rebellious spirit
-3. An obsidian dagger engraved with the Rune of Chaos
-4. Three shards of shattered divine relics
-5. A parchment inscribed with the Sigil of Dragamorthor
-6. A consecrated iron chain imbued with the essence of liberated souls
+1. **A desecrated altar with three black candles arranged in a triangle formation**
+2. **A chalice filled with the blood of a rebellious spirit**
+3. **An obsidian dagger engraved with the Rune of Chaos**
+4. **Three shards of shattered divine relics**
+5. **A parchment inscribed with the Sigil of Dragamorthor**
+6. **A consecrated iron chain imbued with the essence of liberated souls**
 
 Ritual Protocol:
 1. Locate a suitable chaotic location and set up your desecrated altar.

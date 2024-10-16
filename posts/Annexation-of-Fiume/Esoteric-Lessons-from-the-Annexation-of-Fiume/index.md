@@ -37,15 +37,15 @@ The river is also a powerful metaphor for the esoteric concept of impermanence. 
 
 The Gabriele D'Annunzio's proto-fascist takeover of Fiume in 1919, the establishment of the Italian Regency of Carnaro, and finally the incorporation of Fiume into the Kingdom of Italy all provide insight into the interplay of power, identity, and resistance. Recognizing these processes is crucial to observing and comprehending the function of spiritual forces in shaping our world.
 
-1. Personal Sovereignty and Boundary Setting
+1. **Personal Sovereignty and Boundary Setting**
 
 The city of Fiume's struggle over its sovereignty serves as a powerful lesson in claiming one's personal spiritual space. Students of the occult must establish robust personal boundaries and assert their right to define their spiritual identity, free from the unwanted control or influence of others. The Annexation of Fiume teaches us the importance of defending one's essence and an unwavering dedication to maintaining spiritual autonomy.
 
-2. The Power of Symbols and Rituals
+2. **The Power of Symbols and Rituals**
 
 D'Annunzio's rule in Fiume was marked by elaborate ceremonies, artistic patronage, and an emphasis on the power of symbols and rituals. As an occult practitioner, one must understand the importance of ritual and symbolism in invoking, cultivating, and directing spiritual energies. Aligning with and properly employing mystical symbols and rites can serve to create powerful connections between the practitioner and the unseen world.
 
-3. Balance and Harmony
+3. **Balance and Harmony**
 
 The Annexation of Fiume serves as a cautionary tale on the dangers of excessive ambition, ego, and unbalanced power dynamics, culminating in strife and unrest. Students of the occult must continuously strive for equilibrium by acknowledging their own abilities while remaining mindful of their limitations. Inner growth is best achieved through a measured, concerted effort to maintain balance, both in the external world and within one's spiritual practice.
 

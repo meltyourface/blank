@@ -22,10 +22,10 @@ excerpt: In what way does the practice of a Private witch incorporate the Four E
 To fully understand the way a Private witch incorporates the Four Elements, emblematic symbols, and intuitive techniques in their practice for personal spiritual growth, let's begin by exploring the core concepts within this question:
 
 1. **The Four Elements**: Earth, Air, Fire, and Water
-2. Emblematic symbols
-3. Intuitive techniques
-4. Personal spiritual growth
-5. Unique balance of secrecy and integration in global occult traditions
+2. **Emblematic symbols**
+3. **Intuitive techniques**
+4. **Personal spiritual growth**
+5. **Unique balance of secrecy and integration in global occult traditions**
 
 **The Four Elements**
 

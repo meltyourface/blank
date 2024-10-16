@@ -49,7 +49,7 @@ The Conjuration of Thoth, the Keeper of Wisdom:
     Suspended as the luminous eye over the Infinite Cosmos,
 3. The Sacred Papyrus, the Sanctum of Knowledge,
     Wrapped in the Ancient Scrolls of Time.
-4. Let these symbols empower me
+4. **Let these symbols empower me**
     and be joined with your cosmic energy.
 
 ### IV. Linguistic and Symbolic Augmentation:

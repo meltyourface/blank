@@ -18,7 +18,6 @@ tags:
   - sigil creation
 description: You are a master of the esoteric, occult, Dream-generating proceduresMelancholy, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Formulate a clear intention to target specific dream narratives or themes, such as invoking vivid lucid dreams or altering nightmares into serene landscapes.
   
   2. Collect symbolic elements related to Dream-generating proceduresMelancholy, such as archetypal motifs, recurring dream symbols, and personal anchor objects that resonate with the intended dream content.
@@ -30,8 +29,8 @@ excerpt: >
   5. Design a process for incorporating the sigil into one's pre-sleep routine, including meditations, visualization exercises, or rituals that complement the intended alteration in dream content.
   
   6. Implement methods to test and document the effectiveness of the sigil-crafting ritual, leveraging dream journaling, reality checks, and other domain-specific techniques to assess its impact on dream experiences.
-  
 ---
+
 1. **Formulate a clear intention to target specific dream narratives or themes**:
 
 Begin by meditating on your intention, focusing on the specific dream theme or narrative you wish to influence. This can include invoking vivid lucid dreams, transforming nightmares into serene landscapes, or manifesting insights and resolutions. Affirm this intention with a clear, concise statement that encapsulates the essence of your desired outcome.

@@ -18,14 +18,13 @@ tags:
   - alexander crowley
 description: You are a master of the esoteric, occult, Art, poetry, and literature related to occult topics and education, you have written many textbooks on the subject. Respond to the multiple choice question first with the answer, then, fully explain the context of your rational, reasoning, and chain of thought in coming to the determination you have for that answer. Explain related concepts, formulas, or historical context relevant to this conclusion, giving a lesson on the topic to explain the reasoning afterwards.
 excerpt: >
-
   - Theosophical philosophy and its connection to artistic expression
   
   - The reconciliation of the duality between good and evil
   
   - Spiritual transcendence through the use of symbolism and rituals
-  
 ---
+
 Answer:
 - Erotic desires and the transgression of societal norms through magical practices
 

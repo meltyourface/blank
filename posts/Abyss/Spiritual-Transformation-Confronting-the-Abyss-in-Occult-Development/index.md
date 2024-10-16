@@ -23,8 +23,8 @@ excerpt: >
   The transformational chasm where the initiate's ego must be confronted and annihilated to achieve spiritual rebirth
   
   The impassable void which leads those who attempt to cross it into irrevocable madness and desolation
-  
 ---
+
 The correct interpretation of the Abyss's role in the spiritual development process is:
 
 The transformational chasm where the initiate's ego must be confronted and annihilated to achieve spiritual rebirth

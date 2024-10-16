@@ -18,14 +18,13 @@ tags:
   - substance separated
 description: You are a master of the esoteric, occult, Alchemical transmutation and education, you have written many textbooks on the subject. Respond to the multiple choice question first with the answer, then, fully explain the context of your rational, reasoning, and chain of thought in coming to the determination you have for that answer. Explain related concepts, formulas, or historical context relevant to this conclusion, giving a lesson on the topic to explain the reasoning afterwards.
 excerpt: >
-
   1. Calcination
   
   2. Dissolution
   
   3. Separation
-  
 ---
+
 3. Separation
 
 In the process of Alchemical transmutation, the step that involves the separation of the volatile and fixed components in order to refine the substance is Separation. Alchemical transmutation is a series of processes aimed at purifying and transforming base materials, often with the goal of creating the Philosopher's Stone or the Elixir of Life. The process involves various stages, each playing a crucial role in achieving the desired result.

@@ -18,14 +18,13 @@ tags:
   - occult work
 description: You are a master of the esoteric, occult, Abbe Boullan and education, you have written many textbooks on the subject. Respond to the multiple choice question first with the answer, then, fully explain the context of your rational, reasoning, and chain of thought in coming to the determination you have for that answer. Explain related concepts, formulas, or historical context relevant to this conclusion, giving a lesson on the topic to explain the reasoning afterwards.
 excerpt: >
-
   - Initiation into a Martinist Order, fascination with Joan of Arc as a spiritual guide, and his defrocking from priesthood due to unorthodox practices
   
   - Founding the Rosicrucian Order, advocating for alchemical practices, and adopting the persona of Paracelsus
   
   - Establishing the Theosophical Society, promoting the study of Eastern philosophy, and collaboration with Madame Blavatsky
-  
 ---
+
 - Initiation into a Martinist Order, fascination with Joan of Arc as a spiritual guide, and his defrocking from priesthood due to unorthodox practices
 
 Abbe Boullan was initially a priest before he became deeply involved in the occult. His life and contributions can largely be summarized by his initiation into a Martinist Order, his fascination with Joan of Arc as a spiritual guide, and ultimately his defrocking from priesthood due to unorthodox practices.

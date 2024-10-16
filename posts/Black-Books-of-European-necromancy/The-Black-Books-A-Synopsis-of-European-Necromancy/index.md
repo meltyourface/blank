@@ -18,14 +18,13 @@ tags:
   - necromancers practitioners
 description: You are a master of the esoteric, occult, Black Books of European necromancy and education, you have written many textbooks on the subject. Respond to the multiple choice question first with the answer, then, fully explain the context of your rational, reasoning, and chain of thought in coming to the determination you have for that answer. Explain related concepts, formulas, or historical context relevant to this conclusion, giving a lesson on the topic to explain the reasoning afterwards.
 excerpt: >
-
   - The Black Books were entirely fictional creations without any connection to actual necromantic practices.
   
   - The Black Books were comprehensive, authoritative guides to necromancy that single-handedly shaped the development of the practice.
   
   - The Black Books were compilations of fragmented texts and oral traditions that actively synthesized various necromantic practices from different regions.
-  
 ---
+
 The answer is: The Black Books were compilations of fragmented texts and oral traditions that actively synthesized various necromantic practices from different regions.
 
 The Black Books of European necromancy were not singular, authoritative texts; rather, they were an ever-evolving collection of knowledge and traditions that mirrored the ever-changing field of necromancy. These books served as a conduit for the exchange of ideas and practices, bridging the gap between various regions and cultures in Europe, and later, beyond.

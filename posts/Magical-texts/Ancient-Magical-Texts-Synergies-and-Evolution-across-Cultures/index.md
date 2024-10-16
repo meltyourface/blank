@@ -24,9 +24,9 @@ The rich history of magical practices and esoteric philosophies can be traced ba
 
 We will begin analyzing these texts in terms of:
 
-1. Cultural influences and syncretism
-2. Magical techniques and rituals
-3. Philosophical and theoretical foundations
+1. **Cultural influences and syncretism**
+2. **Magical techniques and rituals**
+3. **Philosophical and theoretical foundations**
 
 Cultural Influences and Syncretism:
 Ancient magical texts, such as the Greek Magical Papyri and the Egyptian Book of the Dead, appear to have been influenced by both indigenous magical practices and ideas imported from other cultures. The Greek Magical Papyri, which function as a magical grimoire, incorporate elements from several different traditions, including Egyptian, Greco-Roman, and Jewish magical practices. Likewise, the Egyptian Book of the Dead, a funerary text, contains spells and rituals influenced by both indigenous Egyptian religion and other regional beliefs.

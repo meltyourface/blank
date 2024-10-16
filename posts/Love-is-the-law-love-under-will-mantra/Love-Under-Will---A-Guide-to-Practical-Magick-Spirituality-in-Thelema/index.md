@@ -30,15 +30,15 @@ Within Thelema, the mantra encapsulates the idea of conscious and deliberate man
 
 ### Section II: Application within Occult Practices
 
-1. Understanding True Will
+1. **Understanding True Will**
 Before incorporating the mantra into practice, one must first acquaint themselves with the notion of True Will. True Will is the unique, inherent purpose of an individual and must be discovered and followed through introspection, meditation, and ritual work. Understanding one's True Will is essential to manifesting love and willpower in accordance with one's path of spiritual development.
 
-2. Practicing Magick
+2. **Practicing Magick**
 Magick, as defined by Crowley, is "the Science and Art of causing Change to occur in conformity with Will." This entails that utilizing the mantra requires an understanding and mastery of magical techniques. Students should study and practice different magical systems (e.g., Golden Dawn, Enochian, and Goetic) and adapt elements that resonate with the individual for a personalized approach.
 
 ### Section III: Key Concepts and Associated Rituals
 
-1. The Invocation of Love
+1. **The Invocation of Love**
 An essential ritual within Thelema is the Invocation of Love. This ritual enhances the understanding of love and sets the stage for incorporating the mantra in your daily practice. The invocation involves creating a sacred space, meditating upon the concept of love, and inviting the energies of love into one's life. Such a ritual helps to refocus the mind and solidify one's intention of embracing love as a guiding force.
 
 2. The Lesser Banishing Ritual of the Pentagram (LBRP)
@@ -46,10 +46,10 @@ The LBRP is a crucial practice within Western esotericism, particularly when wor
 
 ### Section IV: Practical Exercises
 
-1. Daily Meditation on Love
+1. **Daily Meditation on Love**
 A daily regimen of meditating on love enables deeper connections with the mantra. Focus on different aspects of love: self-love, universal love, and the love of others. Contemplate over time how the mantra integrates further into personal beliefs, actions, and relationships.
 
-2. Journaling Personal Insights
+2. **Journaling Personal Insights**
 Keeping a journal to track spiritual progress and realizations plays a vital role in personal growth. Assess how the mantra's influence manifests within daily life, and identify its effects on shifting perspectives and actions towards embracing love and the pursuit of one's True Will.
 
 In conclusion, understanding and applying the mantra "Love is the law, love under will" within the framework of spiritual development and magical workings requires dedicated introspection, engaging in regular practice, and incorporating relevant rituals. By establishing a strong foundation in these areas, practitioners can manifest love and willpower in harmony with their True Will, unlocking their full potential within the rich tapestry of Esoteric and Thelemic traditions.

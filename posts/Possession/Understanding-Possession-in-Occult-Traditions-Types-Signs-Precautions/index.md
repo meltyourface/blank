@@ -51,9 +51,9 @@ Methods of possession vary depending on the type of possession and the intention
 
 Language, behavior, and physiological changes are commonly observed in possessed individuals, and may offer clues to the nature and severity of the possession. **It is crucial to remain vigilant for these signs and symptoms**:
 
-1. Sudden personality changes or mood swings
-2. History of paranormal or supernatural experiences
-3. Aversion to religious symbols or sacred texts
+1. **Sudden personality changes or mood swings**
+2. **History of paranormal or supernatural experiences**
+3. **Aversion to religious symbols or sacred texts**
 4. Display of extraordinary strength or knowledge beyond the individual's natural capacity
 5. The appearance of dissociative symptoms, such as memory gaps or the experience of being outside of one's own body
 

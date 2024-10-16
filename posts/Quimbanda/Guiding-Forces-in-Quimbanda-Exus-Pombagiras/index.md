@@ -18,14 +18,13 @@ tags:
   - intricacies spiritual
 description: You are a master of the esoteric, occult, Quimbanda and education, you have written many textbooks on the subject. Respond to the multiple choice question first with the answer, then, fully explain the context of your rational, reasoning, and chain of thought in coming to the determination you have for that answer. Explain related concepts, formulas, or historical context relevant to this conclusion, giving a lesson on the topic to explain the reasoning afterwards.
 excerpt: >
-
   - Exus and Pombagiras are solely focused on granting material desires and ignore spiritual growth.
   
   - Exus serve as protectors, while Pombagiras prioritize teaching and nurturing the practitioner's journey.
   
   - Both Exus and Pombagiras work in tandem to guide the practitioner through spiritual and material challenges, promoting self-discovery and growth.
-  
 ---
+
 - Both Exus and Pombagiras work in tandem to guide the practitioner through spiritual and material challenges, promoting self-discovery and growth.
 
 In Quimbanda, a Brazilian syncretic religion that combines elements of Catholicism, Afro-Brazilian spiritual practices, and indigenous beliefs, the relationships between its spiritual entities - Exus and Pombagiras - and the individual practitioner's spiritual development are complex and interconnected. Both Exu spirits and Pombagira spirits are revered as powerful guides and protectors in a practitioner's spiritual journey, working in tandem to assist in overcoming challenges, promoting growth, and self-discovery.

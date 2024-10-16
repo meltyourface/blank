@@ -18,7 +18,6 @@ tags:
   - undergoes ritual
 description: You are a master of the esoteric, occult, Klipot, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Outline a series of preparatory rituals for the initiate, including purification, meditation, and study of Klipot-related texts and symbols.
   
   2. Create a symbolic representation of the Klipot's inversion of the Tree of Life, and integrate it into the initiation ceremony's setting and design.
@@ -30,8 +29,8 @@ excerpt: >
   5. Develop a set of secret signs, words, or gestures that will serve as a means of recognition among the order's members, rooted in the themes and imagery of the Klipot.
   
   6. Script a climactic moment in the ceremony, during which the initiate fully embraces the knowledge and power of the Klipot, and is welcomed into the inner circle of the order.
-  
 ---
+
 1. **Preparatory Rituals**:
    a) Purification: The initiate undergoes a ritual bath, washing away impurities and symbolically cleansing their aura. This bath is scented with oils such as myrrh, sandalwood, and dragon's blood, with corresponding herbs like sage and rosemary burned as incense.
    b) Meditation: The initiate performs a series of guided meditations focused on the nature and energies of the Klipot. They will visualize the pathways between each sphere, exploring the dark aspects of their consciousness and confronting their inner shadow.

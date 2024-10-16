@@ -20,14 +20,13 @@ tags:
 description: You are a master of the esoteric, occult, Aleister Crowley's occult fraternities
   (A.A. and O.T.O.) and education, you have written many textbooks on the subject. Respond to the multiple choice question first with the answer, then, fully explain the context of your rational, reasoning, and chain of thought in coming to the determination you have for that answer. Explain related concepts, formulas, or historical context relevant to this conclusion, giving a lesson on the topic to explain the reasoning afterwards.
 excerpt: >
-
   - A.'.A.'. primarily focused on individual spiritual attainment through practices like Yoga and Magick while O.T.O. emphasized group ceremonial rituals and promoted the accomplishment of a New Aeon society
   
   - Both A.'.A.'. and O.T.O. exclusively held the goal of teaching Magick and bringing about personal transformation for their members
   
   - A.'.A.'. was regarded as a preparatory school for O.T.O., with initiates expected to eventually join the latter after mastering certain teachings and practices
-  
 ---
+
 - A.'.A.'. primarily focused on individual spiritual attainment through practices like Yoga and Magick while O.T.O. emphasized group ceremonial rituals and promoted the accomplishment of a New Aeon society
 
 The A.'.A.'. (Astrum Argenteum or Silver Star) and the O.T.O. (Ordo Templi Orientis or Order of Oriental Templars) are two separate occult organizations founded or restructured by Aleister Crowley. While both organizations share some similarities, they serve different purposes and have distinct objectives.

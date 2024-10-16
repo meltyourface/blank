@@ -18,7 +18,6 @@ tags:
   - awareness astral
 description: You are a master of the esoteric, occult, Donn, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Begin with a brief introduction on the theory and practice of astral projection, detailing its significance within the realm of esoteric and occult knowledge.
 
   2. Structure the meditation in distinct phases: relaxation, deepening, separation, exploration, and reintegration. Provide clear transitions between each phase to ensure seamless progression.
@@ -34,8 +33,8 @@ excerpt: >
   7. Guide the mediator towards a smooth reintegration of the astral body to the physical vessel by retracing the steps of the separation phase, grounding the energetic vibrations and sealing the experience with gratitude.
 
   8. Conclude the script with aftercare suggestions, such as journaling the experience, incorporating relaxation practices, and reflecting upon the insights gained during the astral projection.
-  
 ---
+
 
 ## The Esoteric Astral Projection Guided Meditation
 

@@ -18,12 +18,11 @@ tags:
   - syllables mantras
 description: You are a master of the esoteric, occult, Vibration of the word, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Integrate symbols and scripts inspired by ancient sacred texts or revered occult manuscripts, ensuring relevance to the individual's spiritual inclinations and beliefs.
   
   2. Develop a specialized vocabulary, incorporating complex vibrational patterns and subtle energetic expressions that specifically resonate with the individual's spiritual essence and soul path.
-  
 ---
+
 1. To design the personalized vibrational language cipher, we first need to understand the individual's spiritual inclinations, experiences, and beliefs, as well as their resonance with specific ancient sacred texts or revered occult manuscripts. **For example**:
 
 - If the person has an affinity for the Hermetic tradition and Kabbalah, we would incorporate symbols from the Tree of Life, Hebrew letters, and alchemical sigils, melding them into a uniquely tailored script.

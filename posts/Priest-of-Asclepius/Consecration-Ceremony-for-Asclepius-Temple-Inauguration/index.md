@@ -18,7 +18,6 @@ tags:
   - reverence asclepius
 description: You are a master of the esoteric, occult, Priest of Asclepius, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Incorporate the use of sacred herbs, such as sage or bay leaves, to cleanse the space of any negative energies, preparing it for Asclepius' divine presence.
 
   2. Erect a magnificent altar adorned with a marble or bronze statue of Asclepius, depicting him with his characteristic serpent-entwined rod. Include offerings of fresh fruits, healing herbs, and votive candles to pay homage to the deity.
@@ -30,8 +29,8 @@ excerpt: >
   5. Organize a procession composed of Asclepius' prominent symbols, such as staff-carrying serpent charmers and robed priestesses performing sacred dances. The procession should carry a symbolic representation of the Rod of Asclepius to the heart of the temple.
 
   6. To culminate the ceremony, conduct anointing rituals for all participants, marking them with a sigil of Asclepius using consecrated oil blended with potent medicinal herbs.
-  
 ---
+
 To design and execute an elaborate consecration ceremony for the inauguration of a newly constructed temple or sanctified sanctuary devoted to the veneration of Asclepius, incorporating the vital elements mentioned above, the following plan will be put into action:
 
 1. Firstly, prior to the ceremony, the entire temple will be thoroughly cleansed using a blend of sacred herbs, such as sage and bay leaves. The herbs will be burned in a ritualistic manner, and their smoke will fill the space, purifying it of any lingering negative energies. This will set the stage for Asclepius' divine presence to enter the temple.

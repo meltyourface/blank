@@ -26,8 +26,8 @@ excerpt: >
   - The Quintessence of Blood signifies the life force of an individual and bridges the gap between the physical and astral realms through its elemental associations.
   
   - The five elements within the Quintessence of Blood represent their interests in the physical world, but have no link with spiritual aspirations or energies.
-  
 ---
+
 The correct answer is:
 
 - The Quintessence of Blood signifies the life force of an individual and bridges the gap between the physical and astral realms through its elemental associations.

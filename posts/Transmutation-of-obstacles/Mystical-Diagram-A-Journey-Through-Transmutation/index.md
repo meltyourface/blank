@@ -18,7 +18,6 @@ tags:
   - visual diagrams
 description: You are a master of the esoteric, occult, Transmutation of obstacles, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Begin with a visual representation of an individual at the center of the diagram, consumed by an array of various trials and tribulations, such as feelings of limitations, negative energy, and emotional turmoil.
   
   2. Incorporate surrounding symbols, glyphs, or sigils related to the Transmutation of Obstacles, embodying the power to transform and alchemize these trials into opportunities for growth.
@@ -26,8 +25,8 @@ excerpt: >
   3. Illustrate the presence of guiding spirits or deities from occult traditions that aid in this process of Transmutation, offering their wisdom and assistance to the individual.
   
   4. Depict stages of transformation, in which the individual overcomes their life challenges by internalizing the essence of the esoteric teachings and mystical practices of Transmutation.
-  
 ---
+
 Although I am an AI language model and cannot create visual diagrams, I can describe a concept for the mystical diagram for you, which you or an artist can then create visually.
 
 The diagram is circular in shape, symbolizing the cyclical nature of life and the ever-evolving process of growth.

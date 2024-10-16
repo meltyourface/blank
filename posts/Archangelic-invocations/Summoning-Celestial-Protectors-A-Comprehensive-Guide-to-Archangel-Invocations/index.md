@@ -31,9 +31,9 @@ Archangelic invocations are a powerful practice in the esoteric and occult tradi
 
 Arising from the ancient roots of Judaeo-Christian mysticism, Archangelic invocations have always been a staple of connecting human consciousness with divine wisdom. Through the centuries, this practice has been adopted and adapted by a diverse range of spiritual and magical traditions, including Hermeticism, Kabbalah, and Western occultism. Archangelic invocations primarily serve as:
 
-1. An appeal for guidance and wisdom
-2. A manifestation of protection and defense
-3. A conduit for healing and balance
+1. **An appeal for guidance and wisdom**
+2. **A manifestation of protection and defense**
+3. **A conduit for healing and balance**
 
 Archangels, as intermediaries between the divine and human realms, are believed to be capable of bridging the gap between limited human understanding and transcendent, divine truth.
 
@@ -51,19 +51,19 @@ Before diving into the specifics of invoking each of the four main Archangels, i
 
 ### IV. The Four Main Archangels: Invocations, Characteristics, and Specialties
 
-1. Archangel Michael
+1. **Archangel Michael**
 Invocation: Archangel Michael, Protector of Light, I summon thee! Grant me courage, strength, and protection from all negative energies. Fill me with divine wisdom and guidance. 
 Specialties: Protection, vanquishing of negativity, courage, and justice
 
-2. Archangel Raphael
+2. **Archangel Raphael**
 Invocation: Archangel Raphael, Bringer of Healing, I call upon thee! Bring healing and balance to my body, mind, and spirit, as I walk on the path of wholeness and peace.
 Specialties: Healing, balance, harmony, and physical well-being
 
-3. Archangel Gabriel
+3. **Archangel Gabriel**
 Invocation: Archangel Gabriel, Herald of Truth, I invoke thy presence! Enlighten my mind, spark my creativity, and help me express my highest truth in this world and beyond.
 Specialties: Communication, creativity, inspiration, and spiritual growth
 
-4. Archangel Uriel
+4. **Archangel Uriel**
 Invocation: Archangel Uriel, Keeper of Wisdom, descend and take your presence here! Illuminate my consciousness, reveal the hidden, and guide me through the darkness of ignorance.
 Specialties: Wisdom, knowledge, divine insights, and spiritual transformation
 

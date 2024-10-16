@@ -67,17 +67,17 @@ Attributes: Each card features the phases of the moon and is made of reflective 
 - Invoke Bethor's presence and request divine guidance.
 - Perform a tarot reading using the Blessed Tarot deck, observing the Major Arcana cards for specific symbols of Bethor's influence.
 
-3. Rune Casting with the Guidance of Phaleg
+3. **Rune Casting with the Guidance of Phaleg**
 - On a red cloth, place the Warrior's Runes in a pouch.
 - Meditate on the question and bring forth the energy of Mars.
 - Invoke Phaleg's wisdom and draw three runes for a response.
 
-4. Solar Scrying with the Aid of Och
+4. **Solar Scrying with the Aid of Och**
 - Choose a sunny day and a comfortable, quiet space.
 - Place the Solar Scrying Sphere on a gold cloth and take a moment to connect with Och's presence.
 - Silently gaze into the sphere for insights as inspired by the sun's energy.
 
-5. Venus Love Spell with the Assistance of Hagith
+5. **Venus Love Spell with the Assistance of Hagith**
 - Cast a love-drawing spell using the Rose-Quartz Pendulum Board, calling upon Hagith to aid in attracting romantic energies.
 - Consider including elements such as copper, sweet scents, and romantic symbols.
 

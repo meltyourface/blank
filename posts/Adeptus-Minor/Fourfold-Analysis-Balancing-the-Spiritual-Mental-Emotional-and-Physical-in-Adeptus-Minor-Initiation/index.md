@@ -19,14 +19,13 @@ tags:
   - concept adeptus
 description: You are a master of the esoteric, occult, Adeptus Minor and education, you have written many textbooks on the subject. Respond to the multiple choice question first with the answer, then, fully explain the context of your rational, reasoning, and chain of thought in coming to the determination you have for that answer. Explain related concepts, formulas, or historical context relevant to this conclusion, giving a lesson on the topic to explain the reasoning afterwards.
 excerpt: >
-
   - The fourfold analysis serves merely as a philosophical framework to create multiple choice questions for the testing of adepts.
   
   - The fourfold analysis indicates stages through which an adept must progress to achieve a higher degree, with each part of the being perfected in sequence.
   
   - The fourfold analysis emphasizes the interconnectedness of the adept's being, and the importance of achieving balance and integration as part of the Adeptus Minor initiation.
-  
 ---
+
 - The fourfold analysis emphasizes the interconnectedness of the adept's being, and the importance of achieving balance and integration as part of the Adeptus Minor initiation.
 
 The fourfold analysis is a central concept in the Adeptus Minor, a grade within the Hermetic Order of the Golden Dawn's mystical system of spiritual development. It divides the adept's being into four aspects: spiritual, mental, emotional, and physical. The reasoning behind this division is rooted in the ancient philosophical and esoteric concept of the four classical elements (fire, air, water, and earth), which were believed to constitute all aspects of the universe and the human soul.

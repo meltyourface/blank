@@ -26,7 +26,7 @@ The Nexus Sanctuary Charm is a multi-layered dwelling protection ritual that tra
 
 ### I. Construction of the Nexus Sanctuary Charm
 
-1. Protective Layers
+1. **Protective Layers**
 
 a. Outer Layer: Based on the cardinal directions, place the four guardian symbols at North, East, West, and South corners of the dwelling. Incorporating regional and personal beliefs, the guardians serve as the first line of defense, repelling negative energies and influences.
 
@@ -34,7 +34,7 @@ b. Middle Layer: An intricate pattern of interconnected sigils, which combine th
 
 c. Inner Layer: The innermost layer consists of smaller charms or amulet-like objects, placed strategically throughout the dwelling based on the inhabitant's preferences. Their purpose is to absorb and neutralize any residual negativity and replenish positive energy.
 
-2. Activation Ceremony
+2. **Activation Ceremony**
 
 a. Timing: Schedule the ceremony during a night when the moon is in its waxing phase, symbolizing growth and increase in potency.
 

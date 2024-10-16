@@ -24,8 +24,8 @@ excerpt: >
   - Sulfur and Mercury combine to create the Philosopher's Stone, while Salt remains an isolated principle.
   
   - Sulfur is the nature of Matter, Mercury is the nature of Spirit, and Salt is the nature of the Manifestation in the Great Work.
-  
 ---
+
 - Sulfur is the nature of Matter, Mercury is the nature of Spirit, and Salt is the nature of the Manifestation in the Great Work. 
 
 The interconnected nature of the three principles of Alchemy - Sulfur, Mercury, and Salt - is best exemplified in their respective roles within the Great Work and the pursuit of the Philosopher's Stone. Sulfur, Mercury, and Salt are essential components of the alchemical process, and understanding their roles and relationships is fundamental to grasping the symbolism behind alchemical concepts.

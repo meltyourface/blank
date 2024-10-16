@@ -18,14 +18,13 @@ tags:
   - synchronicity term
 description: You are a master of the esoteric, occult, Randomness and education, you have written many textbooks on the subject. Respond to the multiple choice question first with the answer, then, fully explain the context of your rational, reasoning, and chain of thought in coming to the determination you have for that answer. Explain related concepts, formulas, or historical context relevant to this conclusion, giving a lesson on the topic to explain the reasoning afterwards.
 excerpt: >
-
   - Entropy, synchronicity, and fractal patterns
   
   - Tarot cards, Newton's laws, and probability
   
   - Jungian archetypes, quantum mechanics, and I Ching
-  
 ---
+
 - Entropy, synchronicity, and fractal patterns
 
 The correct answer is Entropy, synchronicity, and fractal patterns. These three concepts often interrelate with each other in chaos magic and metaphysical principles of randomness in occult rituals involving unpredictability.

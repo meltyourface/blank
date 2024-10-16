@@ -36,45 +36,45 @@ Course Outline:
 
 Week 1-2: Introduction and Fundamentals of Clairvoyance
 
-1. Foundations of mysticism and psychic abilities
-2. Exploration of aura reading and understanding energy fields
+1. **Foundations of mysticism and psychic abilities**
+2. **Exploration of aura reading and understanding energy fields**
 3. Scrying techniques and tools (crystal balls, mirrors, water, etc.)
-4. Developing visualizations and meditation practices to enhance clairvoyant skills
+4. **Developing visualizations and meditation practices to enhance clairvoyant skills**
 
 Week 3-4: Advanced Clairvoyance and Energy Work
 
-1. Remote viewing and psychic perception of distant locations
-2. Practices for deepening and refining aura reading skills
-3. Techniques for scanning and healing energy fields
+1. **Remote viewing and psychic perception of distant locations**
+2. **Practices for deepening and refining aura reading skills**
+3. **Techniques for scanning and healing energy fields**
 4. Hands-on activities and feedback sessions
 
 Week 5-6: Telepathic Communication
 
 1. Introduction to telepathy and the mind-matter connection
-2. Exercises for developing and strengthening telepathic abilities
-3. Examples and case studies of telepathic communication
-4. Developing an ethical framework for telepathic exchanges
+2. **Exercises for developing and strengthening telepathic abilities**
+3. **Examples and case studies of telepathic communication**
+4. **Developing an ethical framework for telepathic exchanges**
 
 Week 7-8: Psychometry
 
-1. The art of reading the energy of objects
-2. Exercises for developing psychometric skills
-3. Practical applications of psychometry in everyday life
+1. **The art of reading the energy of objects**
+2. **Exercises for developing psychometric skills**
+3. **Practical applications of psychometry in everyday life**
 4. Hands-on activities and feedback sessions
 
 Week 9-10: Remote Viewing
 
-1. Delving into remote viewing techniques and protocols
-2. Exercises for enhancing remote viewing abilities
-3. Case studies and practical examples of remote viewing applications
-4. Incorporating remote viewing ethics and responsibility
+1. **Delving into remote viewing techniques and protocols**
+2. **Exercises for enhancing remote viewing abilities**
+3. **Case studies and practical examples of remote viewing applications**
+4. **Incorporating remote viewing ethics and responsibility**
 
 Week 11-12: Astral Projection
 
 1. Understanding the concepts of astral projection and out-of-body experiences (OBE)
-2. Techniques and methods for inducing astral travel
-3. Navigating and exploring the astral realms
-4. Safety guidelines and precautions when practicing astral projection
+2. **Techniques and methods for inducing astral travel**
+3. **Navigating and exploring the astral realms**
+4. **Safety guidelines and precautions when practicing astral projection**
 
 **Assessment**:
 

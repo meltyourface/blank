@@ -31,7 +31,7 @@ a. The Circumambulation - This is the act of walking around the circle, signifyi
 b. The Qabalistic Cross - This act involves drawing energy from the divine (Kether) to the physical plane (Malkuth), linking the practitioner with universal forces.
 c. Elemental Forces - The Banishing Earth pentagram symbolizes the elemental powers of air, fire, water, and earth, which are associated with the cardinal directions and Archangels.
 
-2. Middle Pillar 
+2. **Middle Pillar **
 
 The Middle Pillar ritual is designed to bring about spiritual balance and facilitate personal transformation through the alignment and integration of the "Five Spheres" that correspond to distinct aspects of the practitioner's being.
 
@@ -40,7 +40,7 @@ a. The Five Spheres - These are the energy centers that correlate with the Tree 
 b. The Caduceus - The act of visualizing the central column along the spine as the Caduceus staff, intertwined with the Serpent energies, symbolizes Kundalini energy's awakening and rising through the energy centers.
 c. Divine Names - The vocalization of the divine names at each sphere serves to purify, align, and activate the corresponding energy center.
 
-3. Hexagram Ritual
+3. **Hexagram Ritual**
 
 The Hexagram Ritual is a more advanced practice that emphasizes the balance of male and female energies, as well as the integration of macrocosmic and microcosmic forces. It allows practitioners to connect with planetary forces and their correspondences.
 

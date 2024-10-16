@@ -18,7 +18,6 @@ tags:
   - wind ignites
 description: You are a master of the esoteric, occult, Pasiphae, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Begin each stanza with a reference to a unique esoteric symbol, such as an ancient rune or sigil, associated with each cardinal direction.
   
   2. Integrate the elemental energies of fire, water, air, and earth corresponding to the respective cardinal directions (south, west, east, and north).
@@ -26,8 +25,8 @@ excerpt: >
   3. Weave in mentions of lesser-known deities or spirits of the four cardinal directions from various mystical traditions, highlighting their roles in Pasiphae's domain.
   
   4. Utilize anapestic or dactylic meter to create a captivating, rhythmic flow throughout the invocation.
-  
 ---
+
 By Ansuz - whispering rune, South wind ignites the pyre,
 Sacred flame of Hestia, fueled by passion's fire,
 Within Pasiphae's grand embrace, life pulls like desire,

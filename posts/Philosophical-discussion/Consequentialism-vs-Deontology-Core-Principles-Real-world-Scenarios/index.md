@@ -18,7 +18,6 @@ tags:
   - consequentialism core
 description: You are a master of the esoteric, occult, Philosophical discussion, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Delve into the historical development of these ethical theories, including the works of key proponents such as John Stuart Mill and Immanuel Kant.
   
   2. Examine the principles, assumptions, and applications of consequentialism and deontology in various real-world scenarios.
@@ -26,8 +25,8 @@ excerpt: >
   3. Investigate the limitations and criticisms each theory faces, as well as potential counterarguments that their advocates might employ.
   
   4. Explore the compatibility or incompatibility of these ethical ideologies within diverse cultural, religious, and societal contexts.
-  
 ---
+
 1. Historical Development of Consequentialism and Deontology
 
 Consequentialism and deontology represent two major branches of normative ethics that seek to determine whether an action or decision is morally right or wrong. Consequentialism, primarily associated with the works of John Stuart Mill and Jeremy Bentham, emphasizes the outcomes or consequences of an action as the crux of its moral worth. Central to this theory is the notion of utility, which attempts to maximize pleasure or happiness while minimizing pain or suffering. Mill's utilitarianism and Bentham's hedonistic calculus are classic manifestations of consequentialist thought.

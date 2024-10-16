@@ -18,7 +18,6 @@ tags:
   - dream interpreting
 description: You are a master of the esoteric, occult, Contacting shades from the past, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Precisely outline the biochemical preparations, such as the ingestion of specific herbs or elixirs, to enhance the dreamer's receptivity and ability to remember the dream.
   
   2. Develop a sequence of chants or invocations, employing the mentor's name and key aspects of their life to create resonance with their spirit.
@@ -28,8 +27,8 @@ excerpt: >
   4. Craft a meditative pre-sleep practice, combining visualization techniques and breathing exercises that orient the dreamer's subconscious towards the intended communication with the mentor's shade.
   
   5. Integrate methods to encourage lucidity within the dream state, such as reality checks or the use of triggering talismans, for a more profound and controlled interaction with the mentor's spirit.
-  
 ---
+
 1. **Biochemical preparations**: To enhance the dreamer's receptivity and ability to remember the dream, prepare the following elixir: Combine equal parts dried mugwort, chamomile, and valerian root in a tea infuser. Steep in boiling water for 10-15 minutes. Drink this elixir an hour before the ceremony begins. Additionally, the dreamer should consume 1-2 tablespoons of raw honey, a natural sleep aid, 30 minutes before the ritual. These preparations will enhance the dream state and promote relaxation necessary for deep, vivid dreaming.
 
 2. **Chants and invocations**: Develop a chant that incorporates the mentor's name, their accomplishments, and their guiding values. For instance, "Oh, wise [mentor's name], guide of the [mentor's field of expertise], bearer of the light of [mentor's key value/principle], hear our call and join our dream, sharing your wisdom in the ethereal realm. As we sleep, whisper secrets from beyond, illuminating our minds and hearts with your eternal knowledge."

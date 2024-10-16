@@ -18,14 +18,13 @@ tags:
   - ensure elixir
 description: You are a master of the esoteric, occult, Potions, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Employ a base liquid, such as a waters of a moonlit sacred spring or the essence of a magical creature, that already possesses inherent psychokinetic defense properties.
   
   2. Incorporate at least three distinct active components, each hailing from a unique source, with the aim of reinforcing the elixir's power to repel unwanted psychic penetration. These ingredients might encompass ethereal flowers found only on mountaintops, powdered scales of enigmatic beasts, or relics extracted from the tombs of ancient seers.
   
   3. Experiment with various blending and infusion techniques to determine the most harmonious combination of elements and maximize the potion's efficacy. Keep in mind factors such as temperature, duration of heating, and even astrological alignments.
-  
 ---
+
 
 ## The Elixir of Aegis Mentis
 

@@ -18,7 +18,6 @@ tags:
   - astral location
 description: You are a master of the esoteric, occult, RitualsRitual space, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Selection and consecration of the astral location, taking into account the related astral planes and their specific attributes.
   
   2. Inclusion of symbolic elements, such as sigils, sacred geometry, or elemental correspondences, representing the purpose and function of the astral temple.
@@ -28,8 +27,8 @@ excerpt: >
   4. Guidance on disengaging from the physical body to navigate to the astral temple during OBEs, employing techniques such as visualization, vibrational state, or guided meditation.
   
   5. An outline of protective measures for the practitioner to maintain well-being and safeguard the astral temple, including the use of wards, guardians, or banishing rituals.
-  
 ---
+
 ## I. Selection and Consecration of the Astral Location:
 
 1. Begin by researching various astral planes and selecting one that resonates with your purpose and intentions for creating the astral temple. Consider the attributes, energies, and inhabitants of the chosen plane and how they can assist you in your work.

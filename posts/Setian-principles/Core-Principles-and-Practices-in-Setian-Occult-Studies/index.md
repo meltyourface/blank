@@ -26,7 +26,7 @@ Introduction
 
 In this section, we will explore the core teachings and practices of Setian principles in occult studies. Setianism, born from the ancient Egyptian god Set, places a central focus on individual existence, self-discovery, and personal transformation through magical and esoteric practices. The principles, beliefs, and practices of Setianism offer unique perspectives and methods for the student seeking to deepen their understanding of the Left Hand Path in occultism.
 
-1. Essential Concepts in Setianism
+1. **Essential Concepts in Setianism**
 
 Setianism revolves around several key concepts that form the foundational aspects of its occult practice:
 
@@ -36,7 +36,7 @@ b. Xeper: The term Xeper (pronounced "Kheffer") is derived from the ancient Egyp
 
 c. The Left Hand Path: Setianism advocates the Left Hand Path, a spiritual approach that emphasizes individual self-discovery, empowerment, and the attainment of personal godhood. This path contrasts with the Right Hand Path, which typically aims for conformity, submission to external deities, and a focus on cosmic unity.
 
-2. Setian Beliefs and Symbolism
+2. **Setian Beliefs and Symbolism**
 
 As a student delves deeper into Setian occult practice, it becomes essential to appreciate certain unique aspects of Setian beliefs and symbolism:
 
@@ -46,7 +46,7 @@ b. The Serpent: This powerful symbol embodies the transformative power of the Bl
 
 c. The Pentagram of Set: A unique symbol used by practitioners of Setianism, the Pentagram of Set inverts the traditional pentacle, representing the individual's ascent to self-deification. The symbol ties into the principles of Xeper, asserting the transformative power of the individual over external authority and dogma.
 
-3. Practices in Setian Occultism
+3. **Practices in Setian Occultism**
 
 Setianism is a highly individualistic path, but there are some practices that can be found across its diverse adherents:
 

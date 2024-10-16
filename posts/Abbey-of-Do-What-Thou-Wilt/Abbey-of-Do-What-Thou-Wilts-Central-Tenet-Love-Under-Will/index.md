@@ -18,14 +18,13 @@ tags:
   - love context
 description: You are a master of the esoteric, occult, Abbey of Do What Thou Wilt and education, you have written many textbooks on the subject. Respond to the multiple choice question first with the answer, then, fully explain the context of your rational, reasoning, and chain of thought in coming to the determination you have for that answer. Explain related concepts, formulas, or historical context relevant to this conclusion, giving a lesson on the topic to explain the reasoning afterwards.
 excerpt: >
-
   - "Love is the law, love under will."
   
   - "As above, so below."
   
   - "To dare, to know, to will, and to be silent."
-  
 ---
+
 The answer to this question is: "Love is the law, love under will."
 
 The Abbey of Do What Thou Wilt refers to teachings and philosophies found within Thelema, a spiritual and philosophical system founded by Aleister Crowley in the early 20th century. Thelema emphasizes the individual's pursuit of spiritual truth and liberation, primarily achieved through the realization and expression of one's True Will. 

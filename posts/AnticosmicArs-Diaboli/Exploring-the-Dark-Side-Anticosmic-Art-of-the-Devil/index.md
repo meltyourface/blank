@@ -27,11 +27,11 @@ excerpt: >
 
 Anticosmic Ars Diaboli, also known as the Anticosmic Art of the Devil, is an esoteric and occult path that explores the darker aspects of spirituality and seeks to challenge and deconstruct the prevailing cosmic order. Followers of this path, known as practitioners, see the cosmos and its divine architects as oppressive forces that stifle individuality and spiritual growth. Anticosmic Ars Diaboli aims to liberate souls from this cosmic order and enable practitioners to fully realize their inner potential.
 
-1. Principles
+1. **Principles**
 
 At the heart of Anticosmic Ars Diaboli lies the concept of Chaos, representing both the primordial void that predates existence and the creative, chaotic force inherent within all things. Chaos is seen as a catalyst for transformation and serves as a core principle guiding the path. Practitioners seek to harness chaos to dismantle limitations and disrupt the spectral manifestations that bind them to conventional ways of thinking.
 
-2. The Adversarial Spirit
+2. **The Adversarial Spirit**
 
 In Anticosmic Ars Diaboli, the adversarial spirit embodies the will to resist conformity and subvert the cosmic order. This spirit is personified in various forms, such as the Serpent, the Dragon, and the Dark One. These manifestations represent the intrinsic potential for transcendence and self-mastery. Embracing the adversarial spirit empowers practitioners to overcome perceived limitations and discover their true nature.
 
@@ -39,15 +39,15 @@ In Anticosmic Ars Diaboli, the adversarial spirit embodies the will to resist co
 
 Rituals within Anticosmic Ars Diaboli provide a means of connecting with the adversarial spirit, invoking chaotic energies, and establishing direct communication with non-cosmic entities and forces. **As such, practitioners often employ**:
 
-1. Invocations and Conjurations
+1. **Invocations and Conjurations**
 
 Invocations and conjurations are designed to summon non-cosmic entities and energies into the practitioner's consciousness. This creates a bridge between the individual and the hidden aspects of reality, allowing the practitioner to harness and wield cosmic and anti-cosmic energies.
 
-2. Sigils and Symbols
+2. **Sigils and Symbols**
 
 Symbols, such as the Anticosmic Sigil or Chaos Star, serve as representations of the concepts and forces inherent in Anticosmic Ars Diaboli. By meditating on these symbols or incorporating them into rituals and ceremonies, practitioners can attune their minds to the energies and intentions they represent.
 
-3. Offerings and Sacrifices
+3. **Offerings and Sacrifices**
 
 Offerings and sacrifices help build relationships with non-cosmic entities and demonstrate devotion to the adversarial path. These offerings might include dedicated ritualistic acts, personal sacrifices, or physical offerings, depending on the practitioner's goals and circumstances.
 

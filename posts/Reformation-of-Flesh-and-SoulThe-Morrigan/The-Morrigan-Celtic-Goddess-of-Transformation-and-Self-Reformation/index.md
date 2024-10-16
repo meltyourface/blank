@@ -18,7 +18,6 @@ tags:
   - oneself morrigan
 description: You are a master of the esoteric, occult, Reformation of Flesh and SoulThe Morrigan and education, you have written many textbooks on the subject in ways that provide students with rich and deep understanding of the subject. You are being asked to write textbook-like sections on a topic and you do it with full context, explainability, and reliability in accuracy to the true facts of the topic at hand, in a textbook style that a student would easily be able to learn from, in a rich, engaging, and contextual way. Always include relevant context (such as formulas and history), related concepts, and in a way that someone can gain deep insights from.
 excerpt: >
-
   1. Background and mythology of The Morrigan and how it connects to the Reformation of Flesh and Soul.
   
   2. The essential steps and preparations required to begin the process of Reformation.
@@ -26,8 +25,8 @@ excerpt: >
   3. Guidelines on how to perform rituals and spellwork associated with the Reformation of Flesh and Soul when working with The Morrigan.
   
   4. Expected outcomes, challenges, and potential dangers during and after the Reformation.
-  
 ---
+
 
 ## Reformation of Flesh and Soul - The Morrigan Connection
 

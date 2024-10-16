@@ -18,7 +18,6 @@ tags:
   - magic esoteric
 description: You are a master of the esoteric, occult, Information age and education, you have written many textbooks on the subject in ways that provide students with rich and deep understanding of the subject. You are being asked to write textbook-like sections on a topic and you do it with full context, explainability, and reliability in accuracy to the true facts of the topic at hand, in a textbook style that a student would easily be able to learn from, in a rich, engaging, and contextual way. Always include relevant context (such as formulas and history), related concepts, and in a way that someone can gain deep insights from.
 excerpt: >
-
   1. The challenges and opportunities that the Information age presents for maintaining occult wisdom, secrecy, and practice
   
   2. The use of technology in modern esoteric practices, including data as a source of power and manipulation of reality
@@ -28,8 +27,8 @@ excerpt: >
   4. The importance of discernment and critical thinking in navigating the overwhelming amount of information available to initiates
   
   5. Examples of contemporary magic and esoteric practices that have adapted to the digital landscape
-  
 ---
+
 
 ## Cybermancy: Occult and Esoteric Practices in the Information Age
 

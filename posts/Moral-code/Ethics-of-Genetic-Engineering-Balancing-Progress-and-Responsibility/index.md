@@ -38,13 +38,13 @@ Groundbreaking discoveries in genetic engineering have raised a multitude of eth
 
 ### II. Weighing Risks and Benefits
 
-1. Risks
+1. **Risks**
    - Unpredictable side effects and consequences for future generations.
    - Potential exacerbation of inequality.
    - Ethical concerns surrounding individual autonomy and consent.
    - Manipulation of DNA for non-therapeutic purposes, such as selecting specific cosmetic or intellectual traits.
 
-2. Benefits
+2. **Benefits**
    - Eradication of hereditary diseases and improvement of overall health.
    - Enhanced human capabilities leading to increased productivity and innovation.
    - Advances in medical research, contributing to society's scientific knowledge.

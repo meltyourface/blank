@@ -18,7 +18,6 @@ tags:
   - tempestuous
 description: You are a master of the esoteric, occult, Sturm und Drang, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Ominous symbolism reflecting the tumultuous forces of nature, such as tempests and raging torrents, embodying the drama and passion central to Sturm und Drang.
   
   2. Incorporate a sacred space adorned with artifacts and sigils, which showcases the contrast between Enlightenment rationality and artistic fervor.
@@ -28,8 +27,8 @@ excerpt: >
   4. Devise a series of ritualistic actions, such as incantations, chants, or physical gestures, which draw upon the raw power of emotions and vivid imaginations originating from the Sturm und Drang movement.
   
   5. Integrate unique sensory experiences, such as ritualistic music or fragrances, that encapsulate the essence of this intense philosophical domain and further immerse participants in the experience.
-  
 ---
+
 
 ## The Rite of Tempestuous Ascension
 

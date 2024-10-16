@@ -26,13 +26,13 @@ excerpt: Design a detailed step-by-step ritual for harnessing the power of occul
 
 Ritual Overview:
 
-1. Preparation and Purification
-2. Drawing of the Etheric Circle
-3. Invocation of the Artistic Guardians
-4. Establishing the Web of Affinity
-5. Weaving of the Aesthetic Barrier
-6. Anchoring the Shield
-7. Closing and Gratitude
+1. **Preparation and Purification**
+2. **Drawing of the Etheric Circle**
+3. **Invocation of the Artistic Guardians**
+4. **Establishing the Web of Affinity**
+5. **Weaving of the Aesthetic Barrier**
+6. **Anchoring the Shield**
+7. **Closing and Gratitude**
 
 **Materials**:
 
@@ -43,37 +43,37 @@ Ritual Overview:
 
 Step-By-Step Procedure:
 
-1. Preparation and Purification
+1. **Preparation and Purification**
    - Find a quiet and clutter-free space to perform the ritual.
    - Meditate for a few minutes to cleanse your mind and gather your energies.
    - Lay out the artistic tools and items related to your affinity.
    - Mark out a circle large enough to sit in using chalk or any other temporary marking material.
 
-2. Drawing of the Etheric Circle
+2. **Drawing of the Etheric Circle**
    - Stand at the eastern point of the circle.
    - Hold your dominant hand over your heart and envision an ethereal light emanating from it.
    - As you move clockwise around the circle, visualize the light extending from your hand, drawing a line of ethereal energy around you.
    - Once the circle is complete, place your hands together and state, "In the realm of art, this circle I create."
 
-3. Invocation of the Artistic Guardians
+3. **Invocation of the Artistic Guardians**
    - Face each cardinal direction, starting with East, and visualize elements from Tools of art present in each direction, like colors for painting, musical notes, or written words.
    - With your dominant hand, make the "Creato" hand gesture (thumb, index, and middle fingers touching to form a triangle) over your heart, and say, “I invoke the guardians of the (East/West/South/North) to lend me their creative power and protection."
 
-4. Establishing the Web of Affinity
+4. **Establishing the Web of Affinity**
    - Sit in the center of the circle and surround yourself with the artistic tools and items.
    - Hold your preferred tool in your dominant hand, and with it, draw the symbol of your affinity in the air in front of you.
    - Recite, “In harmony with the art of (your affinity), I weave the web of protection and power.”
 
-5. Weaving of the Aesthetic Barrier
+5. **Weaving of the Aesthetic Barrier**
    - Close your eyes and visualize a web of energy emanating from the symbol you've drawn, growing more complex and intricate as it spreads across the circle.
    - Envision your desired protective barrier (e.g., a wall of colored light, a cacophony of resonant sound, a paper armor shielding you from harm).
    - Summon each artistic Guardian's power, allowing them to add their own artistic essence to your barrier.
 
-6. Anchoring the Shield
+6. **Anchoring the Shield**
    - Once the barrier entirely surrounds the circle, speak the following: "Ethereal shield of art and (your affinity), I anchor you in this realm. Rise and shield me from all harm."
    - Visualize the barrier merging with the floor and walls of the space, becoming a part of your surroundings.
 
-7. Closing and Gratitude
+7. **Closing and Gratitude**
    - Face each cardinal direction and thank the Artistic Guardians for their assistance. Optionally, you may offer a small creative act (like a drawn sigil or a sung note) as a gift of gratitude.
    - Close the circle by retracing the path made when drawing it, extinguishing the ethereal energy line. Bid farewell to the space.
    

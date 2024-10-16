@@ -18,7 +18,6 @@ tags:
   - indigenous communities
 description: You are a master of the esoteric, occult, Cursed trees, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Investigate the mystical origins, attributes, and historical significance of the Cursed trees within the context of regional folklore, ancient practices, and supernatural occurrences.
   
   2. Assess the impact of Cursed trees on the geopolitical landscape, including potential power struggles, territorial claims, and underlying motivations of involved nations or factions.
@@ -28,8 +27,8 @@ excerpt: >
   4. Develop a detailed negotiation framework addressing the cultivation, containment, or potential eradication of the Cursed trees, incorporating international law, cultural sensitivities, and ethical concerns.
   
   5. Explore creative solutions for integrating the Cursed trees into collaborative initiatives, such as research expeditions, tourism attractions, or as focal points for peace-building ceremonies.
-  
 ---
+
 1. Investigating mystical origins, attributes, and historical significance of Cursed trees:
 
 To understand the origins of the Cursed trees, we will deploy a team of historians, folklorists, and anthropologists to research and document relevant ancient practices, regional folklore, and supernatural occurrences. Through this investigation, we will analyze various accounts, documents, and artifacts to piece together a comprehensive account of the Cursed trees' role in regional culture and beliefs.

@@ -58,19 +58,19 @@ Runes are employed in magickal practices to manifest desired outcomes by harness
 
 ### VI. Guide for Beginners
 
-1. Familiarize Yourself with the Runes
+1. **Familiarize Yourself with the Runes**
 
 Take time to study and meditate on each rune's meaning, symbolism, and associations. Developing a personal connection with the runes is critical for forming an intuitive understanding and interpretation during divination and magickal workings.
 
-2. Choose Your Runic System
+2. **Choose Your Runic System**
 
 Select a runic system (Elder Futhark or Younger Futhark) that resonates with your personal beliefs and practices, and craft or purchase your runic set accordingly.
 
-3. Practice Daily
+3. **Practice Daily**
 
 Develop a daily practice of meditation, drawing or casting runes, and journaling your insights to build a deeper understanding of their meanings and symbolism.
 
-4. Integrate Runes into Your Spiritual Practice
+4. **Integrate Runes into Your Spiritual Practice**
 
 Incorporate runes into your existing spiritual routines by including them in divination sessions, rituals, or spells. Keep an open mind, and remember that intuition and personal experience are vital when interpreting and applying the lessons runes offer.
 

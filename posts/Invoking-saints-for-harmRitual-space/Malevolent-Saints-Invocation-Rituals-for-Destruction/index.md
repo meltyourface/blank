@@ -18,7 +18,6 @@ tags:
   - tormentor associated
 description: You are a master of the esoteric, occult, Invoking saints for harm.Ritual space, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Research and enumerate a selection of five lesser-known malevolent saints with a notorious history for causing harm or misfortune.
   
   2. Create a detailed chronology regarding the order in which these saints should be invoked based on the intensity and nature of their malevolent abilities.
@@ -26,8 +25,8 @@ excerpt: >
   3. Develop specific chants, rituals, and offerings dedicated to each saint to amplify their destructive powers during the period of malignant activities.
   
   4. Elaborate on the potential consequences and ramifications of utilizing these malignant saints' energies, considering the risks and implications for both the invoker and the intended target.
-  
 ---
+
 1. **Research and enumeration of five lesser-known malevolent spirits**:
 
 a) Saint Renatus the Tormentor: Associated with severe physical pain, Saint Renatus inflicts debilitating suffering upon his victims. 

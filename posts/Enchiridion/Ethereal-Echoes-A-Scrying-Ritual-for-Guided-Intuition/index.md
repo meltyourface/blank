@@ -25,7 +25,7 @@ Required Materials:
 1. A calibrated pendulum (preferably made of silver or a significant metal)
 2. A crystal formation (quartz cluster or amethyst geode)
 3. A quiet, dimly lit space with minimal distractions
-4. A clean surface to arrange your materials
+4. **A clean surface to arrange your materials**
 5. Incense or essential oil for cleansing and enhancing concentration (optional)
 
 Step-by-Step Process:

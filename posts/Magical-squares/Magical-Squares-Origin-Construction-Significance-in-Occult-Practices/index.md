@@ -23,13 +23,13 @@ Introduction to Magical Squares within Occult Practices: Origin, Construction, a
 
 Magical squares have captivated the imagination of mystics, mathematicians, and philosophers throughout history. Dating as far back as ancient China and the Middle East, these intriguing mathematical configurations have been employed in various systems of esotericism and occultism. This introduction will delve into the origin, construction, and significance of magical squares in the world of occult practices, providing an understanding of how to create and use them for multiple magical purposes.
 
-1. Origin of Magical Squares
+1. **Origin of Magical Squares**
 
 Magical squares are believed to have originated in China around 2200 BCE. The most ancient magical square, known as the Lo Shu Square, was considered sacred and represents the Earth's energies. Later, magical squares appeared in ancient Indian and Middle Eastern cultures. By the Renaissance era, eminent figures such as astrologer Cornelius Agrippa and mathematician Albrecht Dürer propelled their popularity in Western esotericism.
 
 The transmission of magical squares from Eastern cultures to the Western world was facilitated by the encounters of Islamic scholars with ancient Greek and Indian sources, giving birth to original works on both math and occult practices.
 
-2. Construction of Magical Squares
+2. **Construction of Magical Squares**
 
 Magical squares are grids containing numbers arranged in such a manner that the sum of each column, row, and diagonal is constant. This constant sum, referred to as the "magic constant," is a crucial aspect of these squares.
 
@@ -37,7 +37,7 @@ Magical squares are classified by their "order" or size. For example, a 3x3 grid
 
 Different methods exist for constructing magical squares, from simple odd-ordered squares (e.g., using the Siamese method) to more complex cases (e.g., even-ordered and doubly even-ordered squares). The complexity of the construction methodology depends on the order of the squares and the desired symbolic properties.
 
-3. Significance and Applications in Esotericism
+3. **Significance and Applications in Esotericism**
 
 Magical squares possess deep symbolic significance, often related to their order, magic constant, and associated mathematical properties. These qualities have led to their incorporation in various occult systems, such as astrology, numerology, alchemy, and ceremonial magic.
 
@@ -51,7 +51,7 @@ Magical squares are often associated with specific celestial bodies, drawing upo
 
 Symbolism plays a vital role in the use of magical squares in the occult realm. The geometrical configuration, arrangement of numbers, and corresponding mathematical properties can all contribute to the power of these potent tools.
 
-4. Practical Applications for the Aspiring Occultist
+4. **Practical Applications for the Aspiring Occultist**
 
 Understanding the construction and properties of magical squares enables the aspiring occultist to harness their power for various purposes, including:
 

@@ -18,14 +18,13 @@ tags:
   - birdsmagic
 description: You are a master of the esoteric, occult, Queen of the BirdsMagic and education, you have written many textbooks on the subject. Respond to the multiple choice question first with the answer, then, fully explain the context of your rational, reasoning, and chain of thought in coming to the determination you have for that answer. Explain related concepts, formulas, or historical context relevant to this conclusion, giving a lesson on the topic to explain the reasoning afterwards.
 excerpt: >
-
   1. Elemental control of air and fire, ability to communicate with all bird species, and the role of guiding students toward transcendent wisdom.
   
   2. Mastery over earth and water, skilled in ancient runes, and the role of preparing students for confronting their innermost fears.
   
   3. Command over water and fire, can read the future in bird flight patterns, and the role of facilitating harmony between intellect and intuition in students.
-  
 ---
+
 1. Elemental control of air and fire, ability to communicate with all bird species, and the role of guiding students toward transcendent wisdom.
 
 In the Queen of the BirdsMagic tradition, the Queen embodies the cosmic powers of air and fire, has the unique ability to communicate with all bird species, and plays a central role in guiding students towards transcendent wisdom.

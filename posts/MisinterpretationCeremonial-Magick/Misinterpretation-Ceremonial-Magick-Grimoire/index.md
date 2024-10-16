@@ -18,7 +18,6 @@ tags:
   - grimoire practitioner
 description: You are a master of the esoteric, occult, MisinterpretationCeremonial Magick, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. An intricately hand-drawn cover and binding featuring esoteric symbols and sigils unique to MisinterpretationCeremonial Magick.
 
   2. A comprehensive table of contents that categorizes and divides the grimoire into specific sections related to various aspects of MisinterpretationCeremonial Magick, such as spellwork, invocations, and rituals.
@@ -34,8 +33,8 @@ excerpt: >
   7. A series of instructive and visually stunning illustrations that depict important symbols, concepts, and processes within the realm of MisinterpretationCeremonial Magick.
 
   8. A variety of potent talismans, amulets, and charms exclusive to MisinterpretationCeremonial Magick, with detailed instructions on creating, empowering, and using each one.
-  
 ---
+
 
 ## The Grimoire of MisinterpretationCeremonial Magick
 

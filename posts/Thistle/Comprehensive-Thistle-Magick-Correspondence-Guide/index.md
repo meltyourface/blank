@@ -24,59 +24,59 @@ Thistle Magick Correspondence Chart
 
 ### I. Elements and Thistle
 
-1. Earth
+1. **Earth**
 - Significance: Thistle's grounding properties connect the practitioner to the physical plane, enhancing stability and protection.
 - Energetic Properties: Strengthening, protection, stability, nourishment, and abundance.
 
-2. Fire
+2. **Fire**
 - Significance: Thistle's overt energy serves as a catalyst for transformation and facilitates the willpower needed to accomplish goals.
 - Energetic Properties: Motivation, transformation, passion, and courage.
 
-3. Air
+3. **Air**
 - Significance: Thistle has a strong affinity for the air element, allowing for clear communication and heightened creativity.
 - Energetic Properties: Intellect, communication, wisdom, and inspiration.
 
-4. Water
+4. **Water**
 - Significance: Thistle displays subtle, nurturing characteristics, promoting emotional healing and refining intuition.
 - Energetic Properties: Emotional healing, psychic abilities, love, and purification.
 
 ### II. Crystal Correspondences
 
-1. Amethyst
+1. **Amethyst**
 - Associations: Spiritual growth, higher consciousness, and increased intuition.
 - Uses: Enhancing psychic abilities, meditation, and spiritual protection.
 
-2. Malachite
+2. **Malachite**
 - Associations: Transformation, manifestation, and protection against negative energies.
 - Uses: Grounding, amplifying intentions, and emotional healing.
 
-3. Selenite
+3. **Selenite**
 - Associations: Clarity, spiritual activation, and access to higher realms.
 - Uses: Energy cleansing, channeling, and spiritual guidance.
 
-4. Smoky Quartz
+4. **Smoky Quartz**
 - Associations: Grounding, protection, and transmutation of negative energies.
 - Uses: Stress relief, shielding, and balancing energy fields.
 
-5. Black Obsidian
+5. **Black Obsidian**
 - Associations: Protection, psychic defense, and revealing hidden truths.
 - Uses: Scrying, energy cleansing, and shadow work.
 
 ### III. Colors and Thistle Magick
 
-1. Green
+1. **Green**
 - Vibrational Frequency: Heart chakra, healing, and growth.
 - Impact: Enhances spells of prosperity, abundance, and nurturing energy.
 
-2. Purple
+2. **Purple**
 - Vibrational Frequency: Third eye, intuition, and spiritual growth.
 - Impact: Amplifies psychic abilities, connection to higher realms, and transformation during rituals.
 
-3. White
+3. **White**
 - Vibrational Frequency: Purity, clarity, and spiritual connection.
 - Impact: Cleanses unwanted energies, evokes divine protection, and facilitates spiritual growth in talismans and sigil crafting.
 
-4. Black
+4. **Black**
 - Vibrational Frequency: Protection, banishing, and deep introspection.
 - Impact: Encourages shadow work, dispels negativity, and strengthens energetic boundaries in rituals and spell work.
 

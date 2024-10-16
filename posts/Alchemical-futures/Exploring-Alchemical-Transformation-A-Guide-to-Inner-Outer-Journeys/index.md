@@ -28,11 +28,11 @@ Alchemical Futures delves into the rich and complex tradition of alchemy as an e
 
 ### I. Core Concepts
 
-1. The Magnum Opus
+1. **The Magnum Opus**
 
 The Magnum Opus, or the Great Work, is the ultimate goal of the alchemist. This process of personal and spiritual transformation is often symbolized in the form of transmuting base metals, such as lead, into precious ones like gold. However, this metaphorical transformation reaches beyond the material realm, guiding the adept into figuring out the mysteries of the universe, self-discovery, and ultimately, spiritual enlightenment.
 
-2. The Four Stages of the Magnum Opus
+2. **The Four Stages of the Magnum Opus**
 
 The Magnum Opus is divided into distinct stages, each possessing its unique symbolism, challenges, and breakthroughs for the aspirant. These stages are:
 

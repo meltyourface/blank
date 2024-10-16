@@ -22,10 +22,10 @@ excerpt: >
 ---
 To properly examine and understand the multifaceted connections and underlying significance between the demon Asmodeus, his attribution to the Deadly Sin of Lust, his role in the grimoire the Lesser Key of Solomon, and his appearance in the apocryphal Book of Tobit, we need to delve into the following aspects:
 
-1. Historical and mythological origins of Asmodeus
-2. Asmodeus and the Deadly Sin of Lust
-3. The Lesser Key of Solomon and Asmodeus
-4. The Book of Tobit and Asmodeus
+1. **Historical and mythological origins of Asmodeus**
+2. **Asmodeus and the Deadly Sin of Lust**
+3. **The Lesser Key of Solomon and Asmodeus**
+4. **The Book of Tobit and Asmodeus**
 5. Broader implications on understanding demonic personages within the context of both the Judeo-Christian tradition and Western occultism
 
 1. **Historical and mythological origins of Asmodeus**:

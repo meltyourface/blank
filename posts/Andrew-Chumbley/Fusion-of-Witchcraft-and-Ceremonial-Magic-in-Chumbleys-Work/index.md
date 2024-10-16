@@ -24,8 +24,8 @@ excerpt: >
   - The development of technology through esoteric means
   
   - The fusion of traditional witchcraft with ceremonial magic
-  
 ---
+
 The fusion of traditional witchcraft with ceremonial magic.
 
 Andrew Chumbley was a British occultist, writer, and practitioner of traditional witchcraft, best known for his influential writings, which synthesized various strands of magical tradition and practice. Chumbley's work primarily centers around the fusion of traditional witchcraft with ceremonial magic. This theme is evident in his writings and the formation of his magical tradition known as the Cultus Sabbati. 

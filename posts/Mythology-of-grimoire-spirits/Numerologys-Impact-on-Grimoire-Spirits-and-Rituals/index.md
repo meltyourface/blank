@@ -21,19 +21,19 @@ excerpt: Investigate the intricate connections between numerology and the manife
 ---
 Numerology has played a significant role in the mythology of grimoire spirits, influencing various aspects such as incantations, summoning rituals, and spirit attributes. **To investigate the intricate connections between numerology and the manifestations of grimoire spirits, we will analyze three distinct grimoires**: The Ars Goetia (also known as The Lesser Key of Solomon), The Book of Abramelin, and The Picatrix.
 
-1. The Ars Goetia
+1. **The Ars Goetia**
 
 The Ars Goetia is a compendium of 72 spirits, which are divided into groups of nine, based on their ranking and abilities. The number 9 is considered a powerful number in numerology, signifying completion and wisdom.
 
 In The Ars Goetia, each group of nine spirits is ruled by a higher-ranking spirit, leading to a total of 81 (9x9) spirits when accounting for the nine ruling spirits. This numerical relationship can be observed in the summoning rituals, where practitioners often use incantations consisting of nine syllables or multiples thereof, following the belief that this specific number pattern enhances the efficacy of the ritual. The spirits themselves are assigned specific numbers, with their attributes and powers believed to be influenced by the numerological significance of their assigned number.
 
-2. The Book of Abramelin
+2. **The Book of Abramelin**
 
 The Book of Abramelin is a renowned grimoire that details the process of attaining knowledge and conversation with one's Holy Guardian Angel and commanding a host of spirits through a ritual known as the "Abramelin Operation." The core of this grimoire is centered around the number six, with the ritual consisting of 6 lunar months (approximately 180 days) split into two phases: the first 6 weeks for purification and the remaining time for invocation.
 
 In this grimoire, the spirits are organized into a hierarchy of eight demonic kings, sixteen dukes, and their respective lesser demons, emphasizing the recurrence of the number 8. In numerology, the number 8 is often associated with balance, karma, and transformation.
 
-3. The Picatrix
+3. **The Picatrix**
 
 The Picatrix is an ancient Arab work on astrological magic, consisting of four books that delve into various aspects of the cosmos and their relationships with earthly forces. The numerological theme within The Picatrix focuses heavily on the significance of the number 7, representative of divine wisdom and spiritual perfection.
 

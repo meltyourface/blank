@@ -18,7 +18,6 @@ tags:
   - occult practices
 description: You are a master of the esoteric, occult, Adept work and education, you have written many textbooks on the subject in ways that provide students with rich and deep understanding of the subject. You are being asked to write textbook-like sections on a topic and you do it with full context, explainability, and reliability in accuracy to the true facts of the topic at hand, in a textbook style that a student would easily be able to learn from, in a rich, engaging, and contextual way. Always include relevant context (such as formulas and history), related concepts, and in a way that someone can gain deep insights from.
 excerpt: >
-
   1. The history and origins of Adept work within occult traditions, and why it's considered an essential component for spiritual growth.
   
   2. The primary qualities, mental disciplines, and ethical principles that an Adept should cultivate in their daily life and occult practice, along with some exercises for developing these traits.
@@ -28,8 +27,8 @@ excerpt: >
   4. Advice for the aspiring Adept on how to engage with mentors, peers, and potential initiates within their tradition, and the responsibilities that come with being an advanced practitioner.
   
   5. Some common challenges, obstacles, and misconceptions to be aware of during one's progress on the Adept's path, and how to overcome them for continued growth.
-  
 ---
+
 
 ## The Adept's Ascension: Cultivating Mastery in the Occult Arts
 

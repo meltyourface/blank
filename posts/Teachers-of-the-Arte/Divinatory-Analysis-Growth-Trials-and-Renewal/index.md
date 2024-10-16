@@ -24,9 +24,9 @@ As a master of the esoteric, I will perform an in-depth analysis and prediction 
 **Geomancy**:
 Geomancy involves divining the future through the interpretation of figures formed by randomly generated dots. Twelve geomantic figures are produced, which are then combined to create a geomantic chart. Through this method, the following figures manifested:
 
-1. Acquisitio
-2. Tristitia
-3. Albus
+1. **Acquisitio**
+2. **Tristitia**
+3. **Albus**
 
 With these figures, the chart indicates potential growth and expansion, followed by a period of sorrow or hardship, and ultimately resulting in a sense of spiritual clarity and purification.
 
@@ -42,7 +42,7 @@ This combination of hexagrams suggests a phase where proper nurturing of the bod
 Thoth Tarot:
 Drawing three cards from the Thoth Tarot deck, I interpret the associations and meanings behind each card. **The cards drawn are**:
 
-1. The Empress
+1. **The Empress**
 2. The Ten of Swords (Ruin)
 3. The Two of Cups (Love)
 

@@ -18,7 +18,6 @@ tags:
   - runes detailed
 description: You are a master of the esoteric, occult, Sorcerous precepts, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Ensure the runic alphabet consists of at least 24 unique symbols, each representing a specific magical frequency that resonates with the entities' distinctive energies.
   
   2. Incorporate elemental attributes such as fire, water, earth, and air, into the design and origin of specific runes to enhance their effectiveness during the summoning rituals.
@@ -26,8 +25,8 @@ excerpt: >
   3. Develop a set of associated arcane gestures or rituals required to activate each individual rune effectively, heightening the potency of the magical workings.
   
   4. Craft a comprehensive guide detailing the proper pronunciation, intonation, and usage of the newly-created runes to optimize their power in a variety of spell combinations.
-  
 ---
+
 ## I. Runic Alphabet of the Arcane Summoner
 
 The Arcane Summoner's Runic Alphabet consists of 24 unique symbols, each representing a specific magical frequency resonating with the distinctive energies of otherworldly entities. The runes can be roughly divided into four groups, each group consisting of six symbols. The groups are associated with different elemental attributes, enhancing the potency of the energy during summoning rituals.

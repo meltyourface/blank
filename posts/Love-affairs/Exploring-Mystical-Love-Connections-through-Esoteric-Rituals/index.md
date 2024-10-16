@@ -18,14 +18,13 @@ tags:
   - affairs occult
 description: You are a master of the esoteric, occult, Love affairs and education, you have written many textbooks on the subject in ways that provide students with rich and deep understanding of the subject. You are being asked to write textbook-like sections on a topic and you do it with full context, explainability, and reliability in accuracy to the true facts of the topic at hand, in a textbook style that a student would easily be able to learn from, in a rich, engaging, and contextual way. Always include relevant context (such as formulas and history), related concepts, and in a way that someone can gain deep insights from.
 excerpt: >
-
   1. The role of symbolism and metaphors in love-related rituals and practices.
   
   2. The significance of various elements, such as candles, incense, and crystals, in enhancing romantic energy and connection.
   
   3. The importance of specific chants, incantations, and affirmations for establishing and maintaining a loving bond.
-  
 ---
+
 
 ## The Esoteric Art of Love Affairs: Unveiling Mystical Connections and Practices
 

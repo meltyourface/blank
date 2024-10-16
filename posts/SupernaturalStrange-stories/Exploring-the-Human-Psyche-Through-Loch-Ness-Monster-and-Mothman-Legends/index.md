@@ -21,7 +21,7 @@ excerpt: Compare and contrast the underlying themes in two distinct Supernatural
 ---
 To comprehensively address this knowledge challenge, I will analyze and compare two SupernaturalStrange stories involving cryptids - mythical or legendary creatures that have yet to be proven as real by science. **The chosen stories are**: 
 
-1. The Loch Ness Monster in Scottish folklore
+1. **The Loch Ness Monster in Scottish folklore**
 2. The Mothman in West Virginia, United States
 
 I will discuss the underlying themes in these stories, their cultural and historical contexts, and how they contribute to the initiates' understanding of the human psyche and fear of the unknown.

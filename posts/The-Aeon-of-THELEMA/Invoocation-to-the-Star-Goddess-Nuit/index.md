@@ -18,7 +18,6 @@ tags:
   - elaborating nuit
 description: You are a master of the esoteric, occult, The Aeon of THELEMA, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Incorporate references to Aleister Crowley's "The Book of the Law," specifically focusing on passages from Liber AL vel Legis that describe Nuit's characteristics and attributes.
   
   2. Integrate symbolism related to the domain of The Aeon of THELEMA such as the Unicursal Hexagram, the Sigil of Baphomet, and the Eye of Horus.
@@ -30,8 +29,8 @@ excerpt: >
   5. Develop a personal connection to the invocation by including examples of how Nuit's energy and influence have been experienced in the practitioner's own life or in the lives of noteworthy occultists from the Thelemic tradition.
   
   6. Ensure that the invocation delves deep into the complexity of Nuit's nature, exploring her dualities such as unity versus multiplicity, and the concepts of Hadit as her consort and their relationship to The Secret Serpent, Ra-Hoor-Khuit, and Babylon.
-  
 ---
+
 ## I. Opening Stanza: Evoking Nuit's Presence
 
 Oh Nuit, Star-dappled Sky, embrace us tight,

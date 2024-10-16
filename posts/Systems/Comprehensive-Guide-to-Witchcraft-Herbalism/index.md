@@ -51,7 +51,7 @@ The Master Grimoire of Witchcraft Herbalism is a compendium of the most obscure 
 
 ### III. Lost Knowledge and Cultural Influences
 
-1. Ancient Egypt
+1. **Ancient Egypt**
 - Role of herbs in Egyptian magic
 - Sacred plants in Egyptian mythology
 - Major herbs used: lotus, mandrake, frankincense
@@ -65,12 +65,12 @@ The Master Grimoire of Witchcraft Herbalism is a compendium of the most obscure 
 
 ### IV. Ritual Significance and Elemental Associations
 
-1. Ritual Uses
+1. **Ritual Uses**
 - Incense blends, potions, charms, and talismans
 - Anointing oils and spell ingredients
 - Casting circles and altar setup
 
-2. Elemental Correspondences
+2. **Elemental Correspondences**
 - Earth: grounding, prosperity, and fertility
 - Air: communication, intellect, and travel
 - Fire: passion, courage, and transformation
@@ -78,11 +78,11 @@ The Master Grimoire of Witchcraft Herbalism is a compendium of the most obscure 
 
 ### V. Synergies in Spells and Rituals
 
-1. Protection and Banishing
+1. **Protection and Banishing**
 - Combinations: basil, rosemary, and black pepper
 - Effect: Enhanced shielding and warding
 
-2. Love and Attraction
+2. **Love and Attraction**
 - Combinations: rose petals, vervain, and lavender
 - Effect: Potent emotional connection and desire
 
@@ -90,12 +90,12 @@ The Master Grimoire of Witchcraft Herbalism is a compendium of the most obscure 
 
 ### VI. Safety, Acquisition, and Storage
 
-1. Safety
+1. **Safety**
 - Recognizing toxic herbs and handling with care
 - Diluting potent herbs for safe consumption
 - Ensuring botanical specimen identification accuracy
 
-2. Acquisition
+2. **Acquisition**
 - Sourcing herbs from reputable suppliers
 - Growing and harvesting wild herbs ethically
 - Ensuring sustainability and environmental stewardship

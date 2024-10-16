@@ -27,10 +27,10 @@ A healer's spiritual development is akin to the foundation of a building. Just a
 2. Patient's Mindset
 The patient's mindset is of paramount importance to magical healing, as it influences how receptive they are to the healing energies and processes. A patient with a positive and trusting attitude will be more open to the healing work and likely have better outcomes compared to someone with skepticism or resistance. Essentially, the patient's mindset acts as the doorway through which healing energies must pass.
 
-3. Symbolism of Healing Rituals
+3. **Symbolism of Healing Rituals**
 The use of symbols in healing rituals helps to anchor and amplify the intention of the healer. These include tools, words, actions, and even clothing or ritual space, which carry their own meanings and energetics. Symbols act as a catalyst for accessing deeper levels of consciousness in both the healer and patient, thus promoting a more powerful connection and heightened receptivity to the healing energies.
 
-4. Energetic Transfer
+4. **Energetic Transfer**
 The energetic transfer is a fundamental aspect of magical healing where the healer channels energies from source or their own reserves, focuses and shapes those energies using their intention and healing techniques, and directs those energies to the patient. It is vital for the healer to understand how to effectively wield these healing energies, as well as the importance of compassionate detachment, to prevent themselves from absorbing the patient's energetic imbalances or ailment.
 
 With these interconnected roles in mind, we can now explore the potential ethical issues and outline the required precautions for ensuring an effective and harmonious healing outcome.

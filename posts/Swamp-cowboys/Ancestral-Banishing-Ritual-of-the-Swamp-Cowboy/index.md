@@ -22,13 +22,13 @@ excerpt: Conjure a ritual imbued with the essence of Swamp cowboys to banish mal
 I call upon the ancient wisdom of the Swamp cowboys to guide me in the creation of this powerful and complex ritual for the banishment of malevolent ghostly entities found lurking in the haunted swamps of the deep south. To perform this ritual with the utmost skill and mastery, I will call upon the elements and ingredients native to these forsaken lands, channeling the spiritual essence of the cowboy archetype.
 
 **Ingredients**:
-1. Gator teeth
-2. Spanish moss
-3. Cypress tree bark
-4. Mud from the swamp
-5. Moonshine
-6. Snakeskin
-7. Crushed dried crawfish
+1. **Gator teeth**
+2. **Spanish moss**
+3. **Cypress tree bark**
+4. **Mud from the swamp**
+5. **Moonshine**
+6. **Snakeskin**
+7. **Crushed dried crawfish**
 
 First, upon the hallowed and murky ground of the bewitched bayou, I shall use the sacred mud from the swamp to inscribe the sigils of our Swamp cowboy ancestors. These sigils shall represent protection, strength, resilience, and the unwavering vigor of the cowboy spirits.
 

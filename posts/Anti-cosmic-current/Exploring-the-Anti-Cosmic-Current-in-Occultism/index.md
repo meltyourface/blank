@@ -35,7 +35,7 @@ b. **The Spirit of Rebellion**: The practitioners of the Anti-cosmic current oft
 
 c. **Spiritual Liberation**: The ultimate goal for the Anti-cosmic practitioner is to attain spiritual liberation or transcendence from the boundaries imposed by the cosmic order. This pursuit entails embracing chaos, re-discovering the primordial essence, transgressing societal norms, and dismantling the constructed reality.
 
-3. Key Concepts and Practical Applications
+3. **Key Concepts and Practical Applications**
 
 The study and practice of the Anti-cosmic current involve several key concepts that define its knowledge base and practical implementations:
 
@@ -45,7 +45,7 @@ b. **Gnostic Elements**: Gnosticism is an esoteric tradition that shares several
 
 c. **Rituals and Practices**: The practitioners of the Anti-cosmic current often engage in rituals, invocations, and magical workings designed to harness the power of chaos, rebellion, and freedom. These may include sigil magic, invocation of deities or spirits, and even physical rites that aim to challenge conventional norms or social constructs.
 
-4. Interactions with Other Occult Traditions
+4. **Interactions with Other Occult Traditions**
 
 The Anti-cosmic current has influenced and been influenced by other occult practices and traditions. **Some examples include**:
 
@@ -53,6 +53,6 @@ a. **Chaos Magic**: Chaos magic and the Anti-cosmic current share the core princ
 
 b. **Left-Hand Path**: The left-hand path, an umbrella term for various esoteric, occult, and spiritual practices that defy societal norms and embrace individualism, shares many conceptual overlaps and mutual influences with the Anti-cosmic current.
 
-5. Concluding Remarks
+5. **Concluding Remarks**
 
 The Anti-cosmic current is a thought-provoking and complex aspect of occultism that challenges students to examine established cosmic notions critically. As we delve deep into the essence, significance, and history of the Anti-cosmic current, we uncover its dynamic connections to human spirituality and the pursuit of freedom from the limitations of cosmic order. Embracing the Anti-cosmic current provides the practitioner with a unique perspective and enriching understanding of the inherent chaos and limitless possibilities that lie beyond our known realities.

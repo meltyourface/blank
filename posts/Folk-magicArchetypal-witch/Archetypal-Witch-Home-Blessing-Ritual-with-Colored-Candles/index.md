@@ -18,7 +18,6 @@ tags:
   - candles
 description: You are a master of the esoteric, occult, Folk-magicArchetypal witch, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Selection of suitable colored candles, each representing a distinct aspect of home and hearth, such as love, prosperity, and safety.
   
   2. Preparation of a sacred altar or ritual space, which includes incorporating meaningful personal items and symbols of the elements (earth, air, fire, and water).
@@ -34,8 +33,8 @@ excerpt: >
   7. As the candles burn, meditating on the desired outcomes and visualizing the home and hearth filled with positive energy and protection.
   
   8. Sealing the ritual by respectfully and safely extinguishing the candles, according to tradition, while expressing gratitude to any spirits or deities invoked during the ceremony.
-  
 ---
+
 Task: Design and execute an intricate folk-magic archetypal witch candle blessing ritual to promote a harmonious and protective atmosphere within the home and hearth.
 
 Step 1: Selection of suitable colored candles

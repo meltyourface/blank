@@ -18,7 +18,6 @@ tags:
   - sigil raflifu
 description: You are a master of the esoteric, occult, Anti-cosmic current, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Select one of the twenty-two Tunnels of Set to concentrate on, such as Tunnel
   12, Niantiel, which encompasses fear, and the void.
   
@@ -33,8 +32,8 @@ excerpt: >
   6. Construct a chant or invocation to be utilized at specific moments throughout the ritual, concentrating on the desired outcomes and the forces that will be conjured.
   
   7. Describe the meditation and visualization techniques that must be mastered by the practitioner in order to venture further into the chosen Tunnel, highlighting how to maintain concentration and intent during the process.
-  
 ---
+
 1. **Tunnel Selection**: For this ritual, we will focus on Tunnel 19, Raflifu. This tunnel is associated with rot, decay, and the perpetual need for transformation.
 
 2. **Key Sigils**: The primary sigil required for this ritual is the Sigil of Raflifu, which takes the form of a serpent-like entity devouring its own tail. To draw this sigil, begin with a circle and draw a serpentine figure within it, ensuring the serpent's tail is in its mouth. The opportune moment to reveal this sigil is during the invocation.

@@ -23,8 +23,8 @@ excerpt: >
   Santa Muerte being a pan-African deity and holding no connection to any specific Afro-Caribbean tradition
   
   The opposition between African Cult practices and the worship of Santa Muerte in terms of rituals and beliefs
-  
 ---
+
 The syncretism of African spiritual practices and Catholic veneration of Santa Muerte
 
 The connection between African Cult practices and Santa Muerte is best described through the syncretism of African spiritual practices and Catholic veneration of Santa Muerte. Syncretism is the merging of beliefs, practices, or rituals from different religious or cultural systems, often resulting when cultures with distinct religious or spiritual backgrounds interact with one another.

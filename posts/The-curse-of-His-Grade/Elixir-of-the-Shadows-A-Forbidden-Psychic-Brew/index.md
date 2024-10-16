@@ -18,7 +18,6 @@ tags:
   - intensity elixir
 description: You are a master of the esoteric, occult, The curse of His Grade, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Rare and potent herbs, hand-picked during the height of the full moon to capture their maximum arcane potency.
   
   2. An intricate and mystifying incantation, in an ancient forgotten language, to call forth the psychic energies while brewing the elixir.
@@ -28,8 +27,8 @@ excerpt: >
   4. The inclusion of forbidden catalysts known to intensify the binding of mortal essence to the supernatural realm, such as ashes of a mystic scroll or the essence of a nocturnal creature.
   
   5. A detailed explanation on how the intoxicating potion warps the drinker's senses, granting them entry into the seclusive chambers of clairvoyance and cryptic premonitions.
-  
 ---
+
 Elixir of the Whispering Shadows: A Recipe
 
 **Ingredients**:

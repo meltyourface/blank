@@ -27,31 +27,36 @@ Course Title: The Esoteric World of Jake Stratton-Kent: Unveiling the Secrets of
 
 Syllabus Overview:
 
-1. Introduction to the Esoteric World of Jake Stratton-Kent
+
+1. **Introduction to the Esoteric World of Jake Stratton-Kent**
 
 - Historical context and background of Jake Stratton-Kent and his work
 - Overview of Grimoire traditions and the role of Goetic practice
 - Stratton-Kent’s approach to reconstructing these traditions
 
-2. Infernal Hierarchies and Working with Spirits
+
+2. **Infernal Hierarchies and Working with Spirits**
 
 - Stratton-Kent's views on infernal hierarchies
 - Innovative methods for engaging with spirits based on historical precedence
 - Importance of ritual and ceremonial magic in Stratton-Kent's practice
 
-3. Ethics and Practical Applications
+
+3. **Ethics and Practical Applications**
 
 - Ethical implications of Stratton-Kent's theories
 - Practical application of his work in the context of modern esotericism
 - Stratton-Kent's influence on contemporary occult studies
 
-4. Bibliographic Analysis of Jake Stratton-Kent's Corpus
+
+4. **Bibliographic Analysis of Jake Stratton-Kent's Corpus**
 
 - Overview of Stratton-Kent's contributions to academic journals and conferences
 - Influential publications and editions of historical grimoires
 - Stratton-Kent's impact on the broader field, intersections, and divergences with other authors and practitioners
 
-5. Practical Workshops and Personal Development
+
+5. **Practical Workshops and Personal Development**
 
 - Hands-on practice with Stratton-Kent's methods and techniques
 - Developing a personal connection to his approach
@@ -81,11 +86,16 @@ Lecture Outlines:
 
 Discussion Topics:
 
-1. Examining the historical context of grimoire traditions and Goetic practices
-2. Evaluating the ethics of working within Stratton-Kent's approach to occultism
-3. The importance of ritual and ceremonial magic in Stratton-Kent's work
-4. The intersections and divergences between Stratton-Kent's practice and those of his contemporaries
-5. Personal engagement with Stratton-Kent's methods and techniques, and exploring one's own esoteric practice
+
+1. **Examining the historical context of grimoire traditions and Goetic practices**
+
+2. **Evaluating the ethics of working within Stratton-Kent's approach to occultism**
+
+3. **The importance of ritual and ceremonial magic in Stratton-Kent's work**
+
+4. **The intersections and divergences between Stratton-Kent's practice and those of his contemporaries**
+
+5. **Personal engagement with Stratton-Kent's methods and techniques, and exploring one's own esoteric practice**
 
 Practical Workshops:
 

@@ -18,7 +18,6 @@ tags:
   - artistic process
 description: You are a master of the esoteric, occult, Feeling, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Establish the theoretical underpinnings for emotion-based art therapy, integrating concepts from Feeling psychology and various art therapy frameworks.
   
   2. Illustrate techniques that cater to specific emotional states, such as fear, anger, sadness, and joy, incorporating diverse artistic mediums like painting, drawing, clay work, and collage.
@@ -30,8 +29,8 @@ excerpt: >
   5. Provide guidelines for assessing an individual's emotional well-being and progress throughout the therapy program, including pre- and post-session writing reflections or observations of emotional changes in artworks.
   
   6. Outline strategies for fostering a supportive and nurturing environment that encourages vulnerable sharing and emotional growth, such as empathetic listening, constructive feedback, and positive reinforcements.
-  
 ---
+
 **A Comprehensive Guide to Emotion-Based Art Therapy**
 
 **1. Theoretical Underpinnings**

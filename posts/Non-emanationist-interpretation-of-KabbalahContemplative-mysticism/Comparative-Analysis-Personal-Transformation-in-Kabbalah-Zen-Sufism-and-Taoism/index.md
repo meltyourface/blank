@@ -27,8 +27,8 @@ excerpt: >
   3. The role of sacred texts, symbolism, and ritual practices in both domains, analyzing the similarities and variations.
   
   4. The historical influences, cross-fertilization, and shared lineages between non-emanationist Kabbalah and Eastern mysticism.
-  
 ---
+
 1. Different beliefs and interpretations of God or higher consciousness in each tradition:
 
 Non-emanationist Kabbalah: In the non-emanationist interpretation of Kabbalah, God is considered to be transcendent, infinitely beyond comprehension, and mostly interacting with the world through ten Sefirot or divine attributes. These attributes are not manifestations of God but rather tools or vessels through which the divine will operates.

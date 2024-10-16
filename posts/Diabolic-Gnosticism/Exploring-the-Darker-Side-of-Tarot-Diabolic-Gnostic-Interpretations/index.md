@@ -18,8 +18,8 @@ tags:
   - shadowy realms
 description: You are a master of the esoteric, occult, Diabolic Gnosticism, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-  
 ---
+
 The Major Arcana of the Tarot forms a complex tapestry of esoteric wisdom and symbolism, which becomes even more intricate when viewed through the lens of Diabolic Gnosticism. This darker interpretation provides a richer understanding of the Tarot and its inherent connections to sinister aspects of gnosis.
 
 1. **The Fool**: In Diabolic Gnosticism, the Fool symbolizes the first steps in embracing chaos and the random nature of the abyss. It signifies the cosmic jester, the trickster who dwells within the shadow of the qliphoth and initiates the journey towards infernal wisdom.

@@ -27,15 +27,15 @@ Catholic Mass and Ritualistic Practices of Occultism
 
 At first glance, the Catholic Mass may not seem like it has much in common with the rituals of occultism. However, closer examination reveals several striking similarities, particularly in the form of ritual, the use of sacred objects, and sacred language. 
 
-1. Importance of Ritual
+1. **Importance of Ritual**
 
 Both traditional Catholicism and occult practices place a significant emphasis on ritual. In the Catholic context, the Mass is the highest form of ritual and contains several elements that mirror the structure of occult rituals. For instance, the symbolism associated with the Eucharist (the consecration and consumption of bread and wine) can find parallels in occult rituals involving the invocation of divine energies and the transmutation of ordinary material into sacred substance. The process of ritual in both traditions ultimately aims to connect the individual with the divine, reinforcing the bonds of community and tradition.
 
-2. Roles of Sacred Objects
+2. **Roles of Sacred Objects**
 
 Sacred objects play a crucial role in both Catholicism and occult practices. In the Catholic Mass, objects such as the altar, chalice, and paten are considered essential components of the liturgy. Similarly, occult rituals often involve the use of ceremonial tools like wands, cups, swords, and pentacles. The significance of these objects is derived from their ability to act as conduits for spiritual energy and channels through which divine forces can be invoked and engaged.
 
-3. Use of Sacred Language
+3. **Use of Sacred Language**
 
 Catholicism and occultism also share a common ground in the utilization of sacred language. Latin, for instance, has been traditionally used in Catholic liturgy, giving the Mass a sense of antiquity and mystery. Occult practices often incorporate ancient languages (such as Hebrew, Greek, or Enochian) to access esoteric meaning and power. Sacred language in both traditions serves to elevate the ritual, setting it apart from mundane speech and fostering a deep connection to the spiritual realms.
 

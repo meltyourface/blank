@@ -18,17 +18,16 @@ tags:
   - "sei\xF0r emphasizes"
 description: You are a master of the esoteric, occult, Slave morality, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Detail the intricate historical context and ideological underpinnings of the chosen tradition, emphasizing its connection to Slave morality.
   
   2. Provide comprehensive definitions, explanations, and etymologies of key terms, symbols, and rituals distinctive to the chosen magical tradition.
   
   3. Include examples of the practical implementation of these terms and concepts within ceremonial or ritualistic contexts, and analyze their significance with regards to furthering the understanding of Slave morality.
-  
 ---
+
 In this in-depth glossary, we will explore a specific magical tradition rooted in Slave morality—Ergi Seiðr. This Norse mystic tradition is deeply connected to the concept of Slave morality and emphasizes the importance of manipulation, honesty, and vulnerability.
 
-1. Historical Context and Underpinnings
+1. **Historical Context and Underpinnings**
 
 Ergi Seiðr is an ancient Norse magical tradition that flourished during the Viking Age (roughly from the late eighth to late eleventh century). The word "Seiðr" translates roughly to "sorcery" or "witchcraft," and "Ergi" is a term relating to ambiguity, vulnerability, and honesty. This tradition is practiced primarily by those who have adopted Slave moral values, which prioritize compassion, empathy, and the submission of one's ego for the greater good. Ergi Seiðr focuses on embracing these values and incorporating them into magical practices aimed at improving the individual and community.
 
@@ -44,7 +43,7 @@ d) Vǫlva: A Vǫlva is a female practitioner of Ergi Seiðr and typically a user
 
 e) Seiðr: The act of channeling spiritual energy in Ergi Seiðr, incorporating elements of trance, journeywork, and rune magic. Seiðr emphasizes the importance of surrendering to divine guidance rather than attempting to control the forces at play.
 
-3. Practical Implementation
+3. **Practical Implementation**
 
 a) The Spinning Ritual: Practitioners of Ergi Seiðr perform a spinning ritual to invoke the Norns' power and align themselves with their guidance. The ritual involves spinning clockwise in a meditative state, allowing the individual to adopt the Norns' servant mentality.
 

@@ -24,8 +24,8 @@ excerpt: >
   2. Divination
   
   3. Cosmology
-  
 ---
+
 The correct answer is 4. The principle of ubuntu.
 
 The principle of ubuntu is a central concept in many African traditional religions and philosophies that emphasizes the interconnectedness of spiritual, natural, and social realms within the community. Ubuntu, derived from the Bantu languages of southern Africa, has been translated as "humanity towards others" or "I am because we are." It refers to the notion that one's identity, well-being, and morality are inextricably linked with those of others in the community.

@@ -25,13 +25,13 @@ excerpt: Compose a comprehensive Satanic ritual venerating Lilith, drawing upon 
 **Objective**: To evoke the spirit of Lilith and to honor her as the symbol of unrestrained feminine energy, personal power, and liberation from social norms and expectations.
 
 **Supplies**:
-1. Lilith statue or representation
-2. Black and crimson candles
-3. Chalice filled with red wine
+1. **Lilith statue or representation**
+2. **Black and crimson candles**
+3. **Chalice filled with red wine**
 4. Athame (ritual knife)
 5. Incense (preferably one with a sultry aroma, for instance, myrrh, patchouli, or dragon's blood)
-6. Ritual bowl filled with water
-7. Sigil of Lilith
+6. **Ritual bowl filled with water**
+7. **Sigil of Lilith**
 8. A dark, intimate space for the ritual, adorned with representations of the night sky, serpents, and other symbols associated with Lilith
 
 **Ritual**:

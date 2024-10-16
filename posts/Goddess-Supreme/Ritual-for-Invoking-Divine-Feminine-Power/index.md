@@ -18,7 +18,6 @@ tags:
   - illuminate
 description: You are a master of the esoteric, occult, Goddess Supreme, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. A detailed description of the sacred space or altar setup, including specific symbols and offerings associated with the Goddess Supreme.
   
   2. A list of essential ritual tools and their corresponding functions in the ceremony, such as a chalice, athame, or wand.
@@ -30,8 +29,8 @@ excerpt: >
   5. A means of channeling the Goddess Supreme's energy into a tangible manifestation or blessing, such as a talisman or charged object. Outline the methods used to direct and harness this divine energy.
   
   6. A thorough conclusion or closing of the ritual, including gratitude offerings and the proper dismissal of any invoked forces.
-  
 ---
+
 
 ## The Rite of Luminous Awakening
 

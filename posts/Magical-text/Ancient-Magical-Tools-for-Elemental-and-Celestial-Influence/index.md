@@ -18,7 +18,6 @@ tags:
   - object elemental
 description: You are a master of the esoteric, occult, Magical text, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. The materials and components of each magical implement, aligning them with the principles of elemental magic, celestial bodies, or alchemical symbolism.
   
   2. The unique purpose of each object within the ritual, elucidating their roles in the incantation, energetic channeling, or evocation of specific energies or entities.
@@ -28,8 +27,8 @@ excerpt: >
   4. The consecration and empowering process applied to the mystical instruments, ensuring their potency and purity for ceremonial usage.
   
   5. Establish the connections between these tools and renowned schools of magic, illustrious sorcerers, or historical landmarks in the evolution of the magical arts.
-  
 ---
+
 1. **Materials and Components of Magical Implements**:
 - The Elemental Athame: An intricately designed ritual dagger, forged from meteoric iron, with an obsidian handle. Its blade is etched with the symbols of the four elements alongside corresponding alchemical symbols, representing its ability to channel elemental energies.
 - The Celestial Compass: Crafted from polished silver, this compass features a central crystal lens etched with symbols for the sun, moon, and major planets. It is attuned to the harmonious vibrations of celestial bodies, enabling its user to draw upon their influences.

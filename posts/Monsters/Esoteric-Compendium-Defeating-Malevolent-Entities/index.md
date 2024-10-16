@@ -18,7 +18,6 @@ tags:
   - rituals warding
 description: You are a master of the esoteric, occult, Monsters, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Rituals designed to ward off various classes of malevolent Monsters, such as vampires, werewolves, demons, and restless spirits, with precise information on the unique attributes, vulnerabilities, and behaviors of each type to increase efficacy.
 
   2. Detailed descriptions and illustrations of the required esoteric artifacts, sacred geometry, sigils, and symbols integral to each ritual, as well as their origins, functions, and significance in the context of Monster lore and occult knowledge.
@@ -33,7 +32,7 @@ excerpt: >
 
 **Introduction**: This compendium serves as a comprehensive guide for practitioners of the esoteric and occult arts to protect themselves and others from malevolent Monsters and supernatural entities. The information enclosed has been meticulously researched and compiled from various sources, traditions, and disciplines to aid in safeguarding against the forces of darkness.
 
-1. Rituals for Warding Off Malevolent Monsters
+1. **Rituals for Warding Off Malevolent Monsters**
 
     A. Vampires
        - Unique attributes: Immortality, enhanced strength and senses, shape-shifting, and mind control
@@ -51,7 +50,7 @@ excerpt: >
        - Unique attributes: Intangibility, various manifestations, and haunting abilities
        - Vulnerabilities: Spiritual cleansing, sage, and resolving unfinished business
 
-2. Esoteric Artifacts and Sacred Symbols
+2. **Esoteric Artifacts and Sacred Symbols**
 
     A. Esoteric artifacts
        - Athames: Ritual knives
@@ -67,7 +66,7 @@ excerpt: >
        - Seal of Solomon: Hexagram invoking protection from malevolent entities
        - Sigil of Baphomet: Pentagram encircled by a serpent, invoking unity
 
-3. Ritual Preparation
+3. **Ritual Preparation**
 
    A. Material acquisition
        - Gathering necessary herbs, stones, candles, and other items for ritual use
@@ -81,7 +80,7 @@ excerpt: >
    D. Sacred space consecration
        - Purification and setting intentions to create a protected, blessed environment
 
-4. Ethics and Morality in Banishing Rituals
+4. **Ethics and Morality in Banishing Rituals**
 
    A. Respect for free will
        - The moral implications of imposing one's will over another
@@ -92,7 +91,7 @@ excerpt: >
    C. Balancing power dynamics
        - Recognizing the interconnectedness of the practitioner and the supernatural entity
 
-5. Historical Accounts and Case Studies
+5. **Historical Accounts and Case Studies**
 
     A. The Anneliese Michel exorcism (1976)
        - Details the tragic and controversial case of a young girl's demonic possession and exorcism

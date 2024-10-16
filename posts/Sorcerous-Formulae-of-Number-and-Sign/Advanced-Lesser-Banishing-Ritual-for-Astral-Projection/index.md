@@ -18,7 +18,6 @@ tags:
   - facilitate astral
 description: You are a master of the esoteric, occult, Sorcerous Formulae of Number and Sign, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Employ numerical sequences derived from the Sorcerous Formulae to strengthen the power of the ritual symbols and increase the effectiveness of the astral projection practice.
   
   2. Design a new series of signs and sigils to be inscribed during the ritual, drawing inspiration from the esoteric knowledge of the Sorcerous Formulae, to create a more potent astral gateway.
@@ -26,8 +25,8 @@ excerpt: >
   3. Establish a set of incantations or invocations based on the principles of the Sorcerous Formulae of Number and Sign, intended to harness the energies necessary for successful astral projection.
   
   4. Integrate the use of specific ritual tools or materials, in accordance with the Sorcerous Formulae, to channel the energies and enhance the overall experience of astral projection.
-  
 ---
+
 The Advanced Lesser Banishing Ritual of the Pentagram for Astral Projection (ALBRP-AP) incorporates elements from the Sorcerous Formulae of Number and Sign to enhance and facilitate astral projection. Follow the outlined steps to perform the ritual:
 
 Preparation:

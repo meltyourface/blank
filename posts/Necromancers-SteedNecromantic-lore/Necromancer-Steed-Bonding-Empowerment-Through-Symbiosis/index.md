@@ -23,9 +23,9 @@ To fully understand the symbiotic bond formation between a necromancer and their
 
 **The ritualistic preparation and bond formation between a necromancer and their steed is a process involving three crucial components**: 
 
-1. The Selection and Preparation of the Steed
-2. The Ritual of Bonding
-3. The Strengthening of the Symbiotic Connection
+1. **The Selection and Preparation of the Steed**
+2. **The Ritual of Bonding**
+3. **The Strengthening of the Symbiotic Connection**
 
 Let's dive into each component and understand how they work together to enhance the necromancer's abilities.
 

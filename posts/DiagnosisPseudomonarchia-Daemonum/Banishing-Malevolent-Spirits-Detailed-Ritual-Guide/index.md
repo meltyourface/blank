@@ -22,7 +22,7 @@ excerpt: Design a comprehensive and secure ritual, deeply rooted in the esoteric
 ## I. Preparation
 In order to conduct the comprehensive and secure ritual, the practitioner must first prepare themselves, their surroundings, and gather necessary materials. Prior to the ritual, take time to research and identify the specific malevolent spirit, this will aid in tailoring the ritual.
 
-1. Ritual Tools and Materials
+1. **Ritual Tools and Materials**
 - A protective amulet or talisman (preferably containing the practitioner's personal sigil)
 - Sigils, corresponding with the spirit and the sacred geometry involved in the ritual
 - Chalk or salt (for creating the ritual circle and sacred geometry)
@@ -32,7 +32,7 @@ In order to conduct the comprehensive and secure ritual, the practitioner must f
 - A purification and anointing oil (such as Holy water or a blend of essential oils)
 - A written incantation or invocation tailored to the abilities and nature of the spirit, including its summoning, confrontation, and banishment
 
-2. Ritual Area
+2. **Ritual Area**
 Select a quiet, secluded space indoors or outdoors, where the ritual can be performed without interruption. Ensure the area is clean and tidy.
 
 ### II. Constructing the Ritual Circle and Sacred Geometry

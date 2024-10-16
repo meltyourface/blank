@@ -42,16 +42,16 @@ A mezuzah, a small case affixed to doorposts within Jewish households, contains 
 
 ### III. Scribal Methods and Hebrew Calligraphy
 
-1. Formation of the letters
+1. **Formation of the letters**
 - Follow the specific tradition of the sacred Hebrew calligraphy (Ksav Ashurit).
 - Adhere to the precise dimensions, shapes, and spacing of each Hebrew letter.
 - Ensure that the letters do not touch each other and are legible.
 
-2. Writing the Shema Yisrael prayer
+2. **Writing the Shema Yisrael prayer**
 - Accurately inscribe the first two passages of the Shema (Deuteronomy 6:4-9 and 11:13-21) on the klaf.
 - Carefully position the verses within the limited space on the parchment, adhering to specified margins and spacing.
 
-3. Folding and sewing the parchment
+3. **Folding and sewing the parchment**
 - Properly fold the parchment to protect its content.
 - Securely sew the folded parchment using gidin (sinew) sourced from a kosher animal.
 
@@ -64,11 +64,11 @@ Some sofrim (scribes) may incorporate Kabbalistic elements through practices suc
 
 ### V. Validation by a Competent Rabbinical Authority
 
-1. Verification of the parchment
+1. **Verification of the parchment**
 - Submit the mezuzah parchment to a rabbinic authority or certified sofer, to ensure proper adherence to all halakhic laws.
 - The authority will meticulously examine the parchment for defects, incorrect letter formation, and precise spacing.
 
-2. Establishing sanctity and authenticity
+2. **Establishing sanctity and authenticity**
 - If validated, the rabbinic authority will assign a certificate attesting to the mezuzah parchment's sanctity and authenticity.
 - The mezuzah parchment can then be placed within its case and affixed to the appropriate doorpost according to Jewish law.
 

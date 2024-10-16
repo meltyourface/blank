@@ -18,7 +18,6 @@ tags:
   - hades remains
 description: You are a master of the esoteric, occult, Hades, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Analyze how the story reflects Hades' characteristics as the ruler of the underworld, the embodiment of death, and the holder of occult wisdom.
   
   2. Investigate the symbolic representations of Orpheus' descent into the underworld, such as the role of his lyre and the significance of his music within Hades as a domain.
@@ -26,8 +25,8 @@ excerpt: >
   3. Identify key motifs central to the myth, such as the theme of impossible love and the penalty for diverging from divine instructions, and how these themes strengthen the myth's esoteric and occult undertones.
   
   4. Assess the influence of the Hades and Orpheus myth on various occult practices, rituals, and philosophies throughout history. Elaborate on any specific examples if available.
-  
 ---
+
 The myth of Hades and Orpheus is a timeless tale that explores the limits of human endurance, the essence of death and the underworld, and the power of art and music to transcend worldly boundaries. Delving into the story from an esoteric and occult perspective, we can unpack a multitude of meanings and lessons this myth teaches us and explore its implications for the study of Hades as a domain.
 
 1. Hades' characteristics as the ruler of the underworld, the embodiment of death, and the holder of occult wisdom:

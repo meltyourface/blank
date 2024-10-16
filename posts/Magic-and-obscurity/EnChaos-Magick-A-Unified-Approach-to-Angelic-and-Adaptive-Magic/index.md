@@ -18,7 +18,6 @@ tags:
   - enchaos magick
 description: You are a master of the esoteric, occult, Magic and obscurity, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Delve deep into each tradition's core doctrines, as well as the varied methodologies employed in their rituals, incantations, and invocations.
   
   2. Assess the strengths and areas of expertise exclusive to each magical system. Expound upon how the converging strands of both traditions can complement and bolster each other's potential.
@@ -26,8 +25,8 @@ excerpt: >
   3. Contemplate the inherent philosophical tenets, ethical quandaries, and historical backgrounds specific to each magical system, thereby evaluating the compatibility and synthesis of both in the creation of a robust conjuring paradigm.
   
   4. Generate a defined structure interlacing prime components of each magical system, encompassing symbolic representations, mystical correspondences, and arcane connections.
-  
 ---
+
 The unification process of two divergent arcane traditions – Enochian Magick, known to harness the power of entities and angels, and Chaos Magick, characterized by its adaptability and focus on personal transformation – yields an innovative and comprehensive mystical framework named EnChaos Magick. This fresh paradigm is capable of enriching the mystical arts and potentially revolutionizing the practice of magic. Let us examine the facets of each magical system detailed in the prompt.
 
 1. Core Doctrines, Rituals, Incantations, and Invocations:

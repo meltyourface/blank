@@ -62,15 +62,15 @@ Raise your arms and declare:
 
 ### III. Itemized List of Consecrated Tools, Corresponding Demonic Patrons, and Anticipated Effects
 
-1. Wand of Fire
+1. **Wand of Fire**
 - Demonic Patron: Belial
 - Effect: Channel deep infernal energies to invoke powerful transformation and destruction in rituals.
 
-2. Chalice of Desires
+2. **Chalice of Desires**
 - Demonic Patron: Asmodeus
 - Effect: Strengthen the connection between the ritualist and the demonic forces, magnetizing manifestations of desired outcomes.
 
-3. Mirror of Shadow
+3. **Mirror of Shadow**
 - Demonic Patron: Lilith
 - Effect: Enhance divination rituals and access to hidden knowledge.
 
@@ -78,7 +78,7 @@ Raise your arms and declare:
 - Demonic Patron: Azazel
 - Effect: Infuse rituals with the raw power of the demonic hierarchy to direct energies with precision and mastery.
 
-5. Altar Cloth of the Abyss
+5. **Altar Cloth of the Abyss**
 - Demonic Patron: Leviathan
 - Effect: Protect the space during rituals, anchoring and amplifying the dark forces summoned throughout each working.
 

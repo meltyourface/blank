@@ -18,14 +18,13 @@ tags:
   - magick context
 description: You are a master of the esoteric, occult, Aleister Crowley's sexual magick and education, you have written many textbooks on the subject. Respond to the multiple choice question first with the answer, then, fully explain the context of your rational, reasoning, and chain of thought in coming to the determination you have for that answer. Explain related concepts, formulas, or historical context relevant to this conclusion, giving a lesson on the topic to explain the reasoning afterwards.
 excerpt: >
-
   - Mere physical sensations and pleasure
   
   - The unification and balance of the masculine and feminine energies
   
   - Visualization of specific deities for the duration of the act
-  
 ---
+
 - The unification and balance of the masculine and feminine energies
 
 In the context of Aleister Crowley's sexual magick practices, the primary focus to transform and channel sexual energy for the attainment of spiritual advancement is the unification and balance of the masculine and feminine energies.

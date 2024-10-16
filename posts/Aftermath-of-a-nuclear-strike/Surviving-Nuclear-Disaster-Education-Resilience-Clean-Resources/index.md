@@ -18,14 +18,13 @@ tags:
   - nuclear
 description: You are a master of the esoteric, occult, Aftermath of a nuclear strike and education, you have written many textbooks on the subject. Respond to the multiple choice question first with the answer, then, fully explain the context of your rational, reasoning, and chain of thought in coming to the determination you have for that answer. Explain related concepts, formulas, or historical context relevant to this conclusion, giving a lesson on the topic to explain the reasoning afterwards.
 excerpt: >
-
   - Radiation exposure, prevalence of occult practices, and international aid
   
   - Educational level, psychological resilience, and access to non-contaminated food and water sources
   
   - Knowledge on handling paranormal beings, societal morale, and successful evacuation strategies
-  
 ---
+
 The answer is: Educational level, psychological resilience, and access to non-contaminated food and water sources.
 
 In the aftermath of a nuclear strike, many factors can affect the long-term survival and recovery of the affected population. However, among the options presented, the combination of educational level, psychological resilience, and access to non-contaminated food and water sources plays an essential role.

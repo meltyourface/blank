@@ -22,12 +22,12 @@ excerpt: Analyze the role of the apkallu sages as intermediaries between humanit
 ---
 To address the knowledge challenge, we must first establish an understanding of the three primary concepts involved: apkallu sages, me, and Mesopotamian cosmology. We will then delve into the role played by apkallu sages in Akkadian liturgical texts as intermediaries between humans and the divine, and how their wisdom and their connection to the concept of me is reflected within the broader framework of Mesopotamian cosmology.
 
-1. Understanding of the Concepts
+1. **Understanding of the Concepts**
 a. Apkallu sages: These are half-human, half-fish creatures, originating from the Sumerian culture and prominently featured in Akkadian literature. Often depicted wearing fish outfits and being associated with the god of wisdom, Enki/Ea, these legendary sages are known for their great wisdom, often playing the role of teachers and advisors to human kings.
 b. Concept of me: Me refers to the divine attributes or universal laws that govern various aspects of existence and human society in Mesopotamian religion and mythology. They are most closely associated with the goddess Inanna and the god Enki/Ea, representing the foundations of order, culture, knowledge and civilization.
 c. Mesopotamian cosmology: This term encompasses the understanding of the universe, its creation, and structure according to ancient Mesopotamian myths and texts. Key stories such as the Enuma Elish explain the origins of the gods, the creation of humanity and the cosmos, and various heavenly and earthly domains.
 
-2. The Role of Apkallu Sages in Akkadian Liturgical Texts
+2. **The Role of Apkallu Sages in Akkadian Liturgical Texts**
 Apkallu sages play a significant role as intermediaries between humanity and the divine within the context of Akkadian liturgical texts. These texts often present the apkallu sages as divinely appointed advisors and instructors, responsible for imparting divine wisdom and knowledge to human kings. Their primary purpose is to ensure that the kings uphold and maintain order, balance, and prosperity, in accordance with the tenets of divine laws.
 
 3. Connection Between Apkallu Wisdom, Concept of Me, and Mesopotamian Cosmology
@@ -37,5 +37,5 @@ By imparting knowledge of me and divine wisdom to human kings through their teac
 
 The connection between the apkallu sages and Mesopotamian cosmology becomes evident when looking at their role in the creation of humanity and its various aspects. An important example is the way apkallu sages were said to have taught kingship and civil organization. It can be argued that their unique role of transferring divine knowledge contributes significantly to the harmony between heaven and earth within the Mesopotamian worldview.
 
-4. Summary
+4. **Summary**
 In conclusion, the role of the apkallu sages as intermediaries between humanity and the divine is central to the narrative presented in Akkadian liturgical texts. Their association with the god of wisdom, Enki/Ea, and their knowledge of me underscore their importance in maintaining the delicate balance between the human world and the cosmos. By imparting divine wisdom to human kings, the apkallu sages help uphold the proper functioning of civilization and offer a significant contribution to the overarching harmony within Mesopotamian cosmology.

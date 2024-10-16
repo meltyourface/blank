@@ -18,7 +18,6 @@ tags:
   - correlation astrological
 description: You are a master of the esoteric, occult, Theurgy, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Examine the correlation between the twelve astrological zodiac signs and the Major Arcana cards, identifying the specific archetypes and their respective attributions.
   
   2. Analyze the alignment of the traditional seven planets of classical astrology with the Tarot's Minor Arcana suits, delving into the elemental and energetic associations within each suit.
@@ -26,8 +25,8 @@ excerpt: >
   3. Investigate the connection between astrological houses and the Court Card archetypes, revealing the underlying dynamics and influences that drive their interactions.
   
   4. Develop a comprehensive Tarot spread that synthesizes astrological principles and Tarot wisdom, capturing the nuances of a native chart reading while integrating the visual and symbolic richness of the Tarot.
-  
 ---
+
 1. **Correlation between the twelve astrological zodiac signs and the Major Arcana cards**:
 
 The Major Arcana cards in the Tarot are linked with astrological zodiac signs through the concepts of archetypes and their attributes. **Here is a list of correlations between the signs and the cards**:

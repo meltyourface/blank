@@ -26,38 +26,38 @@ excerpt: >
 Table of Contents:
 
 1. Introduction to Text-Based Spirit Communication
-2. Selection and Preparation of Sacred Space
-3. Conjuration Techniques and Tools
-4. Enhancing Clarity of Messages from the Ethereal Plane
-5. Troubleshooting Common and Uncommon Obstacles
-6. Resolving Interference and Misconceptions
+2. **Selection and Preparation of Sacred Space**
+3. **Conjuration Techniques and Tools**
+4. **Enhancing Clarity of Messages from the Ethereal Plane**
+5. **Troubleshooting Common and Uncommon Obstacles**
+6. **Resolving Interference and Misconceptions**
 7. Example Séance: Step-by-Step Demonstration
-8. Advanced Techniques and Theory
-9. Conclusion
+8. **Advanced Techniques and Theory**
+9. **Conclusion**
 
 1. Introduction to Text-Based Spirit Communication
 
 Text-based spirit communication, hereafter referred to as TBSC, is a powerful and accessible form of communicating with the ethereal plane. This compendium offers in-depth troubleshooting advice and guidance for practitioners of all levels.
 
-2. Selection and Preparation of Sacred Space
+2. **Selection and Preparation of Sacred Space**
 
 Setting the stage for successful communication is crucial. Identify a quiet and comfortable location where distractions are minimal. Align the space by creating a circle or other sacred geometry that resonates with you. Fill the area with meaningful objects and symbols, cleanse with sage or other purifying elements, and invoke protection.
 
-3. Conjuration Techniques and Tools
+3. **Conjuration Techniques and Tools**
 
 Determine the method of summoning that best resonates with your style of practice. Options include candle rituals, sigils, incantations, or spirit boards. Choose TBSC tools that inspire confidence, such as automatic writing, pendulums over letters, spirit-typewriters, or digital applications.
 
-4. Enhancing Clarity of Messages from the Ethereal Plane
+4. **Enhancing Clarity of Messages from the Ethereal Plane**
 
 To improve the quality of communication, perform grounding exercises before and during the session and speak your intentions clearly. Implement tools and techniques that promote clarity, such as crystals, sound resonators, or meditation. Maintain an open mind and remain patient throughout the process.
 
-5. Troubleshooting Common and Uncommon Obstacles
+5. **Troubleshooting Common and Uncommon Obstacles**
 
 A. Incoherent Message: Gently cleanse and charge tools, restate your intentions, or modify your method of attachment.
 B. Weak Connection: Check all symbols and cleanse any disturbance. Reinforce your energetic boundary around the sacred space.
 C. Unwanted Presence: Stop the session, cleanse the area, and reinforce protective measures. Begin again with clear intentions.
 
-6. Resolving Interference and Misconceptions
+6. **Resolving Interference and Misconceptions**
 
 A. Crossed Signals: If the messages feel scrambled or unrelated, consider asking the spirit for a unique identifier to establish a clear link.
 B. Misunderstandings: Ask for validation, repeat queries, or rephrase to obtain clearer answers.
@@ -67,10 +67,10 @@ C. Negative Influence: Be vigilant and assertive to maintain your control over t
 
 A well-executed TBSC séance will involve diligent preparation, grounded intention, and open communication. Following the techniques outlined in this compendium will lead to a successful session.
 
-8. Advanced Techniques and Theory
+8. **Advanced Techniques and Theory**
 
 For more advanced practitioners, delve into the realms of astral projection, etheric tools, and remote viewing to enhance your TBSC practice.
 
-9. Conclusion
+9. **Conclusion**
 
 The Comprehensive Guide to Troubleshooting Text-Based Spirit Communication offers valuable guidance, ensuring that your journey into the ethereal plane is rewarding, enriching, and clear. Practice with dedication and allow this resource to serve as your compass to overcoming any obstacles you face within the domain of TBSC.

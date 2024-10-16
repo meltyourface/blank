@@ -28,16 +28,16 @@ In this grimoire, you will uncover the complex nature of the abyssal entities th
 
 Table of Contents:
 
-1. Introduction to the Abyssal Hierarchy
-2. Elemental Alignments and Celestial Correspondences
-3. Arcane Rituals and Incantations
-4. Tabulation of Abyssal Entities
+1. **Introduction to the Abyssal Hierarchy**
+2. **Elemental Alignments and Celestial Correspondences**
+3. **Arcane Rituals and Incantations**
+4. **Tabulation of Abyssal Entities**
 
-1. Introduction to the Abyssal Hierarchy
+1. **Introduction to the Abyssal Hierarchy**
 
 The abyssal entities dwell within the Gates of the Abyss, awaiting the call of knowledgeable summoners. Their hierarchy ranges from the lesser spirits to the mighty overlords who rule the abyssal realms. Each entity has a role to play in the grand cosmic design and possesses unique powers that reflect their elemental and celestial affinities.
 
-2. Elemental Alignments and Celestial Correspondences
+2. **Elemental Alignments and Celestial Correspondences**
 
 Every abyssal entity has an elemental alignment – fire, water, air, earth, or aether – which dictates the nature of their powers. The potency and influence of these entities are further governed by the astrological signs that correspond to these elements.
 
@@ -47,11 +47,11 @@ Air signs: Gemini, Libra, and Aquarius
 Earth signs: Taurus, Virgo, and Capricorn
 Aether signs: The Façade, the Eternal, and the Nexus
 
-3. Arcane Rituals and Incantations
+3. **Arcane Rituals and Incantations**
 
 To invoke and manipulate the abilities of the abyssal entities, one must master the arcane rituals and incantations that serve as a bridge between their realm and our own. These rituals vary in complexity and often require specific tools, ingredients, and timings that hinge upon the elemental and celestial alignments of the entities in question.
 
-4. Tabulation of Abyssal Entities
+4. **Tabulation of Abyssal Entities**
 
 Below, you will find a tabulation of abyssal entities, detailing their names, dominions, elemental alignments, and corresponding astrological signs.
 

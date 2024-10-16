@@ -18,7 +18,6 @@ tags:
   - saturn associated
 description: You are a master of the esoteric, occult, Saturn in religious and magical traditions, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Delve into the historical and mythological perspectives of Saturn in various cultures, such as its role in Roman and Greek mythology, and elucidate its connection to agriculture, fertility, and the cycles of time.
   
   2. Examine the symbology and astrological associations of Saturn, particularly its significant role in alchemy, and analyze the established links to the lead, a mineral connected to the planet.
@@ -28,8 +27,8 @@ excerpt: >
   4. Explore the animal kingdom's integration into Saturnian rituals and rites, particularly focusing on birds like the crow and the owl, which are often associated with wisdom, mystery, and nocturnal energies.
   
   5. Incorporate the teachings and systems of prominent Saturnian occultists, such as Heinrich Cornelius Agrippa and Aleister Crowley, in order to forge a robust understanding of the planet's significance within the esoteric and magickal framework.
-  
 ---
+
 ## I. Historical and Mythological Perspectives
 
 In Roman mythology, Saturn is the god of agriculture, fertility, and the passage of time. Similarly, in Greek mythology, the equivalent deity is Cronus, the father of Zeus and the ruler of the Titans. Both deities are known for their relationship to agriculture and harvest, representing cycles of growth, decay, and renewal.

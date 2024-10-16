@@ -30,7 +30,7 @@ Good evening, brethren and fellow seekers of light. Tonight, we delve into the r
 A. Transition from Operative to Speculative Masonry
 1. Emergence of speculative lodges and early rituals (16th and 17th century)
 2. The formation of the Premier Grand Lodge of England in 1717
-3. Incorporation of esoteric and occult influences from various sources
+3. **Incorporation of esoteric and occult influences from various sources**
 
 B. Formation of the York Grand Lodge
 1. The York legend and connections to York, England
@@ -40,16 +40,16 @@ B. Formation of the York Grand Lodge
 ### II. Key Figures in the Evolution of the York Rite
 A. Thomas Dunckerley
 1. Advocate for the Royal Arch degree in the 1760s
-2. Responsible for the spread of the Royal Arch throughout England
+2. **Responsible for the spread of the Royal Arch throughout England**
 
 B. Thomas Smith Webb
-1. Prominent Masonic author and ritualist
+1. **Prominent Masonic author and ritualist**
 2. Contribution to York Rite development in early America (circa 1810)
-3. Introduction of the Cryptic Council and the Knight Templar degrees
+3. **Introduction of the Cryptic Council and the Knight Templar degrees**
 
 C. Jeremy Ladd Cross
 1. Responsible for the dissemination of Webb's work and amplification of York Rite's influence
-2. Standardization and unification of the American York Rite
+2. **Standardization and unification of the American York Rite**
 
 ### III. The York Rite's Impact on American Craft Masonry
 A. Symbolism and meaning within degrees and rituals
@@ -64,12 +64,12 @@ B. The growth of York Rite Masonry in the United States
 
 ### IV. Case Studies of Prominent Members and Events
 A. The Morgan Affair (1826)
-1. Influential event leading to increased scrutiny and regulations
+1. **Influential event leading to increased scrutiny and regulations**
 2. Temporary decline in Masonic membership and impact on York Rite's progression
 
 B. Albert Pike and the Ancient and Accepted Scottish Rite
-1. Connections and influences between the York Rite and Scottish Rite
-2. The development of the American Rite and expansion of esotericism
+1. **Connections and influences between the York Rite and Scottish Rite**
+2. **The development of the American Rite and expansion of esotericism**
 
 ### V. The Role of the York Rite within Masonic Traditions
 A. Rich historical Lineage and connection to esoteric teachings

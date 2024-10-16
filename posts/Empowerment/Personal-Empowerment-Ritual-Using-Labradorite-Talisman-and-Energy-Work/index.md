@@ -18,7 +18,6 @@ tags:
   - ritual
 description: You are a master of the esoteric, occult, Empowerment, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Choose a talisman that resonates with the theme of personal empowerment, such as a pendant crafted from a stone known to boost confidence or promote self-awareness.
 
   2. Determine the best astrological timing for the ritual, taking into account lunar phases, planetary alignments, and astrological transits that will amplify the talisman's energy.
@@ -42,8 +41,8 @@ excerpt: >
   11. Conclude the ritual by grounding yourself, expressing gratitude to the invoked energies, and ceremoniously sealing the talisman's charged state.
 
   12. Maintain the charged talisman's energy by frequently recharging it, either by repeating the ritual or placing it in sunlight, moonlight, or on a selenite crystal.
-  
 ---
+
 1. Talisman: Choose a pendant made of a Labradorite stone, which is known to amplify self-discovery, enhance intuition, and promote inner strength.
 
 2. Astrological Timing: Plan the ritual during a waxing moon, when the Sun is in a fire sign (Aries, Leo, or Sagittarius), and Jupiter is in a favorable aspect to your Sun or Moon sign. This timing will promote growth, optimism, and enhanced self-knowledge.

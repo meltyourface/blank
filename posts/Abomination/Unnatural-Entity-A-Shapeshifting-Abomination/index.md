@@ -18,14 +18,13 @@ tags:
   - abomination particularly
 description: You are a master of the esoteric, occult, Abomination and education, you have written many textbooks on the subject. Respond to the multiple choice question first with the answer, then, fully explain the context of your rational, reasoning, and chain of thought in coming to the determination you have for that answer. Explain related concepts, formulas, or historical context relevant to this conclusion, giving a lesson on the topic to explain the reasoning afterwards.
 excerpt: >
-
   - A skilled alchemist creating a potion that grants enhanced strength and agility to those who consume it.
   
   - A shapeshifting creature born through the illicit union of a human and a supernatural entity, able to cause great destruction and chaos.
   
   - A gifted psychic using their powers of clairvoyance to aid in criminal investigations, ultimately helping to solve complex cases.
-  
 ---
+
 The answer that most accurately represents an instance of Abomination is:
 
 - A shapeshifting creature born through the illicit union of a human and a supernatural entity, able to cause great destruction and chaos.

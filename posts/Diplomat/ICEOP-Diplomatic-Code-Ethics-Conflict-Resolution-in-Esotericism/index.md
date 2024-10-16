@@ -18,7 +18,6 @@ tags:
   - occult knowledge
 description: You are a master of the esoteric, occult, Diplomat, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Cultivate a comprehensive set of ethical guidelines that apply specifically to occult diplomats, addressing the unique challenges and nuances of fostering relationships between diverse mystical traditions and secret societies.
   
   2. Formulate discreet communication protocols that tap into both ancient esoteric wisdom and modern encryption techniques to securely exchange classified occult knowledge among practitioners.
@@ -26,8 +25,8 @@ excerpt: >
   3. Design conflict resolution strategies that draw upon ritualistic peacemaking practices, invoking metaphysical arbitration methods to resolve disputes between parties and promote harmony within the ICEOP.
   
   4. Establish a set of criteria for elucidating and evaluating occult-based diplomatic actions, ensuring they align with the esoteric principles set forth by the ICEOP while serving the highest good of all involved parties.
-  
 ---
+
 International Council of Esoteric and Occult Practitioners (ICEOP) Diplomatic Code of Conduct:
 
 ### I. Ethical Guidelines for Occult Diplomats:

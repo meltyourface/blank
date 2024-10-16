@@ -21,9 +21,9 @@ excerpt: Delve into the symbolic depths of emblematic woodcuts featured in the H
 ---
 To embark on this thorough examination and analysis, I have chosen three emblematic woodcuts from the Hypnerotomachia Poliphili:
 
-1. The Fountain of Venus
-2. The Dream of Poliphilus and his encounter with the nymphs
-3. Poliphilus and Polia at the Temple of Venus
+1. **The Fountain of Venus**
+2. **The Dream of Poliphilus and his encounter with the nymphs**
+3. **Poliphilus and Polia at the Temple of Venus**
 
 The Fountain of Venus:
 

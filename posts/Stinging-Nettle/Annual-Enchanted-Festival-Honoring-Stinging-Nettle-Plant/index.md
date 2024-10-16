@@ -18,7 +18,6 @@ tags:
   - rituals festival
 description: You are a master of the esoteric, occult, Stinging Nettle, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Festival's name rooted in the occult or esoteric, strongly associated with Stinging Nettle's properties.
   
   2. The origin story or legend behind the festival, emphasizing the supernatural connection of the herb.
@@ -32,8 +31,8 @@ excerpt: >
   6. Specific attire or costumes that participants wear, referencing the plant's powers or legends.
   
   7. Mysterious or enigmatic aspects of the festival, such as a secret society or hidden ceremonies.
-  
 ---
+
 Festival Name: The Veiled Nettling Revelry
 
 The Veiled Nettling Revelry is an enigmatic annual festival that celebrates the magical and mystical properties of the Stinging Nettle plant. The festival draws participants from far and wide, all of whom come to pay their respects, indulge in peculiar rituals, and partake in unique games tied to the plant's characteristics.

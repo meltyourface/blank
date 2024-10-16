@@ -31,17 +31,17 @@ Despite the differences in origin, context, and language, the I Ching and Wester
 
 The fundamental concept of yin and yang in the I Ching can be related to the dualistic principles found in various Western Esoteric teachings. In alchemy, for example, there are opposing forces like Sol (sun) and Luna (moon), sulfur and mercury, and the classic elements of fire and water. Similarly, in Kabbalah, the sefirotic Tree of Life reflects the balance between opposing forces such as Chesed (mercy) and Gevurah (judgment). These polarities reflect the necessary interplay of opposing forces that create change and growth within the cosmos, a principle that is central to both the I Ching and Western Esoteric traditions.
 
-2. Triadic Structures
+2. **Triadic Structures**
 
 In addition to the binary principles of yin-yang and polarities, we can find deeper connections between the I Ching and Western Esotericism in their triadic structures. The eight trigrams of the I Ching are formed by combining three yin or yang lines, and these trigrams are further combined to create the 64 hexagrams. Each trigram symbolizes a fundamental aspect of reality, such as Heaven, Earth, Fire, Water, Wind, Mountain, Thunder, and Lake.
 
 In Western Esotericism, triadic structures are also significant. Alchemy is based on the threefold process of solving, coagulating, and transmuting matter; Kabbalah's Tree of Life features three pillars, which represent different aspects of divinity; and Rosicrucianism emphasizes the triad of Spirit, Soul, and Body. These triadic structures serve as a common organizing principle in both traditions.
 
-3. Transformation and Evolution
+3. **Transformation and Evolution**
 
 The I Ching's focus on change, transformation, and the evolution of situations is paralleled in several Western Esoteric practices. Alchemy's central goal is the transformation of base metals into gold, symbolizing spiritual maturation and the journey of the soul. Kabbalah's Tree of Life outlines the stages of change within the spiritual and material worlds, encouraging the practitioner to ascend the tree and achieve higher states of consciousness.
 
-4. Numerology and Symbolism
+4. **Numerology and Symbolism**
 
 Both the I Ching and Western Esoteric systems encode wisdom and meaning within their numbers and symbols. In the I Ching, the hexagram number and the specific arrangement of the yin and yang lines contain layers of meaning that can be deciphered by a knowledgeable practitioner. Similarly, Kabbalists have investigated the numerological and symbolic potential of Hebrew letters, while alchemists have deciphered profound meaning in their emblematic artwork.
 

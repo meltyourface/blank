@@ -25,11 +25,11 @@ The knowledge challenge at hand delves into the interplay between the Devil's cr
 
 The Devil's crown is an archetype that symbolizes the highest level of power, authority, and mastery over the material realm. It is distinct from the conventional depiction of the devil as an evil figure, meaning the archetype embodies transcendent power and mastery over the material illusion. The Devil's crown serves as a reminder of the potential dangers associated with the pursuit of knowledge and power, with the potential for corruption and an imbalance between materialism and spirituality standing out.
 
-2. Hermeticism
+2. **Hermeticism**
 
 Hermeticism is an ancient philosophical and religious tradition rooted in the teachings of Hermes Trismegistus, a mythical figure regarded as the embodiment of divine wisdom. The core principle behind Hermeticism is the belief that there exists an underlying unity amongst all things. This unity is considered as the divine essence, "The All," which is comprised of both material and immaterial realms. Hermetic teachings highlight the importance of self-mastery, the pursuit of ascension and integration with divine wisdom, and the understanding of natural laws.
 
-3. Gnosticism
+3. **Gnosticism**
 
 Gnosticism is a collection of various religious and belief systems that emphasize the importance of personal and direct access to divine knowledge. It advocates for the understanding of hidden spiritual truths and the belief in the importance of gnosis – divine wisdom – as the ultimate goal for personal evolution. The Gnostic teachings are rooted in the dualistic concept of the lower material world and the higher spiritual realm, with the salvation of the human soul being a key focus. Gnosticism teaches that the material world is a construct of the Demiurge, a malevolent deity, and that the human soul is entrapped within it, requiring gnosis and assistance from higher spiritual entities to achieve salvation.
 

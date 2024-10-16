@@ -18,7 +18,6 @@ tags:
   - ritual
 description: You are a master of the esoteric, occult, Plants to keep the Dark Prince at bay, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Carefully select and consecrate a dedicated ritual space during a new moon, amplifying the purifying and protective qualities of the ceremony.
   
   2. Craft a unique incantation or invocation, drawing upon the ancient lore and mystical symbolism of Artemisia vulgaris, to connect with its protective guardian spirits.
@@ -26,8 +25,8 @@ excerpt: >
   3. Devise a step-by-step process for the preparation, use, and solemn burning of dried Artemisia vulgaris, including the ideal organic blends for burning, specific smoke patterns to enhance its protective barriers, and proper disposal techniques of the remaining ashes.
   
   4. Create meaningful correspondences between the phases of the ritual and the natural rhythms of nocturnal time, such as incorporating twilight and midnight elements, as well as any significant celestial events.
-  
 ---
+
 ## I. Consecration of Ritual Space
 
 1. Select a quiet, outdoor area for the ritual, ideally surrounded by trees and other natural elements. Ensure that the ritual takes place on the night of a new moon.

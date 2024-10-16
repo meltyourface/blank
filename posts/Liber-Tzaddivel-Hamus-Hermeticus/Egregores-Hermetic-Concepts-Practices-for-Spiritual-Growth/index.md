@@ -18,7 +18,6 @@ tags:
   - egregore related
 description: You are a master of the esoteric, occult, Liber Tzaddivel Hamus Hermeticus, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Elucidate the fundamental principles of egregores and their intrinsic connection to the Hermetic teachings of Liber Tzaddivel Hamus.
   
   2. Demonstrate the role of egregores in various stages of spiritual development, citing specific examples and rituals within the Liber Tzaddivel Hamus system.
@@ -26,8 +25,8 @@ excerpt: >
   3. Detail the methods for harnessing the power of egregores to amplify personal spiritual growth, including meditations, incantations, and ritualistic ceremonies exclusive to the Hermetic tradition.
   
   4. Assess potential challenges and risks associated with utilizing egregores for spiritual advancement, citing case studies or anecdotal evidence from practitioners of Liber Tzaddivel Hamus.
-  
 ---
+
 Comprehensive Schema: Egregores in Liber Tzaddivel Hamus Hermeticus & Personal Spiritual Evolution 
 
 ### I. Fundamental Principles of Egregores & Connection to Liber Tzaddivel Hamus Hermeticus

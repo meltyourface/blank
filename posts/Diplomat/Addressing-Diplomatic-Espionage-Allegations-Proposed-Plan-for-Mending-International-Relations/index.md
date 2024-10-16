@@ -19,7 +19,6 @@ tags:
   - espionage
 description: You are a master of the esoteric, occult, Diplomat, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Acknowledge the gravity of the situation and its impact on international relations, while maintaining a neutral stance.
   
   2. Provide a detailed summary of the alleged incident, without breaching any confidentiality terms or exposing sensitive information.
@@ -29,8 +28,8 @@ excerpt: >
   4. Outline a comprehensive plan to rectify the situation and strengthen communication channels with affected diplomatic partners, including reform proposals for existing protocols.
   
   5. Address potential concerns of foreign diplomats and provide reassurance regarding the commitment to transparency and adherence to international diplomatic conventions.
-  
 ---
+
 Ladies and gentlemen, esteemed colleagues, and distinguished diplomatic partners,
 
 I stand before you with a heavy heart, as we address a matter of great significance and concern that has gripped the Diplomat community and threatens the delicate balance of our international relations. The gravity of the situation cannot be understated, and the ramifications of these events have the potential to impact every nation represented in this room. I assure you, we approach this situation with a neutral stance and a steadfast commitment to finding a resolution that serves the best interests of all parties involved.

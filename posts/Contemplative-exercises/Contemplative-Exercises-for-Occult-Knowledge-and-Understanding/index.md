@@ -25,7 +25,7 @@ excerpt: >
 
 In this section, we explore three distinct contemplative exercises that have been used for centuries by students of the occult to gain knowledge and understanding. These exercises are designed to help practitioners expand their spiritual and mental capacity, allowing them to tap into the hidden reservoirs of energy and wisdom that reside within their psyche. We will discuss the historical origins of these techniques, their specific purposes within the occult realm, and step-by-step instructions on how to practice each exercise. Lastly, we will provide guidance on recognizing and measuring progress as practitioners deepen their understanding and mastery of these techniques.
 
-1. Hermetic Visualization
+1. **Hermetic Visualization**
 Historical Origins: The Hermetic Tradition, originating in ancient Egypt and further developed during the Renaissance period, provides a powerful foundation for those wishing to develop higher levels of understanding in the occult. A central practice in this tradition is the art of visualization, which is used to connect with archetypal energies and unlock inner wisdom.
 
 **Purpose**: Hermetic Visualization aims to establish a rapport between the practitioner and the living symbols of the spiritual realm. This connection can facilitate the flow of wisdom, power, and inspiration, empowering the practitioner to access deeper levels of knowledge.
@@ -50,7 +50,7 @@ c. Starting at your left hip, trace a pentagram in the air using your right hand
 d. Perform a clockwise circumambulation around the space.
 e. Once again, perform the Qabalistic Cross to complete the ritual.
 
-3. Scrying
+3. **Scrying**
 Historical Origins: Scrying, or the art of looking into a reflective or translucent surface to receive messages and visions, has an ancient lineage and can be traced back to early shamanic practices.
 
 **Purpose**: Scrying is a powerful tool for accessing hidden knowledge, unveiling what is concealed, and receiving intuitive guidance. It can also serve to develop the practitioner's clairvoyant abilities and enhance spiritual insight.

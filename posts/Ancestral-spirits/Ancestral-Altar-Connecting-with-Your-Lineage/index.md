@@ -18,7 +18,6 @@ tags:
   - altar
 description: You are a master of the esoteric, occult, Ancestral spirits, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Selecting an appropriate location and space for the altar, taking into consideration spiritual significance and accessibility for regular offerings and communication with your ancestors.
   
   2. Gathering and consecrating essential items for the altar, such as ancestral photographs, heirlooms, and spiritual artifacts that resonate with your family's history or lineage.
@@ -32,8 +31,8 @@ excerpt: >
   6. Creating and incorporating prayers, chants, or invocations that call upon specific ancestral spirits or uphold the general connection with your lineage.
   
   7. Developing a system for maintaining and regularly tending to the altar, including the timely replacement of offerings, re-consecration of objects, and performance of connecting rituals.
-  
 ---
+
 1. Selecting an appropriate location and space for the altar:
 Choose a quiet and private area in your home where you can have regular access without being disturbed. It can be a corner of a room, a small table, or even a dedicated room if you have the space. Ensure the location has spiritual significance by being a place where ancestors' energies can be strongly felt, such as near a family heirloom or where family gatherings have taken place.
 

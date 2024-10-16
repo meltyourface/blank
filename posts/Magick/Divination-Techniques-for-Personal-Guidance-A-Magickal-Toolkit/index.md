@@ -18,7 +18,6 @@ tags:
   - detailed divination
 description: You are a master of the esoteric, occult, Magick, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Selection of suitable Magickal tools, such as tarot cards, pendulums, runes, or scrying mirrors, that resonate with the energy of the issue at hand and the practitioner's personal preferences.
   
   2. A step-by-step guide detailing the preparation of these Magickal instruments, including the consecration and charging processes to enhance their spiritual potency.
@@ -26,8 +25,8 @@ excerpt: >
   3. Instructions for casting an energetically-charged protective circle or sacred space, along with invocation of any deities, guides, or elemental forces that may aid in the pursuit of clarity.
   
   4. A comprehensive outline of the specific divination procedure, emphasizing the nuances of interpreting the subtle cues and symbolic omens presented through the chosen method, considering both traditional and innovative perspectives.
-  
 ---
+
 ## I. Selection of Suitable Magickal Tools
 
 To tailor the divination technique to the issue at hand and the practitioner's preferences, the following magickal tools are suggested:

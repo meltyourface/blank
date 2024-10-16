@@ -18,7 +18,6 @@ tags:
   - blessed wheel
 description: You are a master of the esoteric, occult, Sacrificial Wheels of Destiny, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. The core materials for the foundation and structural integrity: Specify their durability, conductivity, and resonance with the Wheel's energies.
 
   2. Gemstones, metals, or other elements for the Seven Sacred Spokes: Describe their traditional correspondences, vibrational properties, and affinity with the Wheel's purpose.
@@ -28,8 +27,8 @@ excerpt: >
   4. Sigils, runes, and sacred symbols to inscribe upon the Wheel's circumference: Explain their origin, inherent meanings, and the method to weave them as a coherent system of activating the Wheel.
 
   5. The consecration rituals and catalysts to charge and awaken the Wheel's destiny-altering powers: Detail the ceremonial steps, timeframes, and ethical guidelines to ensure the wielder's responsible use of the Wheel's potential.
-  
 ---
+
 1. Foundation and structural integrity core materials:
 - Obsidian: Durable and offering strong energetic protection, obsidian serves as an excellent base material for the Sacrificial Wheel of Destiny. Its grounding properties assist in channeling the Wheel's energies.
 - Quartz crystal: A powerful energetic amplifier and transformer, quartz enhances the resonance of the Wheel's energies. Its clarity ensures the conductivity of the Wheel's mystical powers.

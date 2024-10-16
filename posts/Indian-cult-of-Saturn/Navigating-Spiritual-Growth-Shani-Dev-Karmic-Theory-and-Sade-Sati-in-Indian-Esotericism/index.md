@@ -22,10 +22,10 @@ excerpt: In the Indian cult of Saturn, identify the significant connections betw
 ---
 Answering this knowledge challenge requires an exploration of the following aspects:
 
-1. An understanding of Shani Dev in the Indian mythology and tradition
-2. The concept of Karmic theory within Indian spirituality
+1. **An understanding of Shani Dev in the Indian mythology and tradition**
+2. **The concept of Karmic theory within Indian spirituality**
 3. The significance of the seven-and-a-half-year transit of Saturn (Sade-Sati) 
-4. The integration of these concepts within esoteric principles and practices for spiritual growth and liberation
+4. **The integration of these concepts within esoteric principles and practices for spiritual growth and liberation**
 
 1. Shani Dev in Indian Mythology and Tradition:
 

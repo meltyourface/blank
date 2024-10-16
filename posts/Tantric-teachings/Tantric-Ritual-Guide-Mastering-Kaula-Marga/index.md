@@ -28,15 +28,15 @@ Kaula Marga, also known as the Kaula tradition, is a profound and deeply transfo
 
 Table of Contents
 
-1. Overview of Kaula Marga
+1. **Overview of Kaula Marga**
 2. **The Foundations**: Mantras, Yantras, Mudras, and Sacred Geometry
-3. Preparations
-4. The Ritual
-5. Closing and Integration
-6. Individual and Group Dynamics
-7. Safety and Consent
-8. Potential Outcomes and Spiritual Evolution
-9. Conclusion
+3. **Preparations**
+4. **The Ritual**
+5. **Closing and Integration**
+6. **Individual and Group Dynamics**
+7. **Safety and Consent**
+8. **Potential Outcomes and Spiritual Evolution**
+9. **Conclusion**
 
 ### Chapter 1: Overview of Kaula Marga
 

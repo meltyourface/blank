@@ -21,17 +21,17 @@ excerpt: Investigate and elucidate the correlations between specific spells and 
 ---
 The Greek Magical Papyri (PGM) are a collection of texts from the 2nd century BCE to the 5th century CE containing spells, rituals, and other esoteric materials related to magical practices in the Mediterranean world, the majority of which are written in Greek. Central to these practices were the study of the stars and the influence of celestial bodies on the earthly realm. Many spells and rituals in the PGM reflect astrological phenomena such as planetary alignments, lunar phases, or zodiac signs, and their direct influence on the efficacy or purpose of the spells. In this investigation, we present several examples that demonstrate these links as well as notable patterns or trends within the Papyri and assess the role of celestial bodies on ancient Greek magical practices.
 
-1. Planetary Alignments and Magical Hours
+1. **Planetary Alignments and Magical Hours**
 
 In various spells within the PGM, specific planetary alignments are prescribed for the successful execution of a ritual. For instance, in PGM IV.1390-1495 (the Mithras Liturgy), the practitioner is instructed to perform the invocation when "the moon is passing through the mansion of her proper star" (PGM IV.1391-1393). This indicates an astrological alignment that enhances the potency of the ritual.
 
 Magical hours, tied to planetary motions, are also mentioned in the PGM, affecting the timing of certain spells. In PGM XII.270-350 (a love spell), the practitioner is instructed to perform the ritual during "the first hour of the night" (PGM XII. 344-345) – an hour of day which was likely associated with a specific planet.
 
-2. Lunar Phases and Rituals
+2. **Lunar Phases and Rituals**
 
 Lunar phases play a significant role in the PGM, with many spells taking into consideration the moon's state. **In PGM VII.795-845 (a divination ritual), the practitioner must "go out and look at the moon" (PGM VII.802) and recite their invocation during a specific phase**: the text suggests the best results occur when the moon is waxing or full. This principle is shared by many spells in the collection.
 
-3. Zodiac Signs and Magical Activities
+3. **Zodiac Signs and Magical Activities**
 
 The zodiac signs wield considerable influence in the PGM, shaping the timing and efficacy of rituals. For instance, PGM IV.1596-1715 (the "Heptagram Ritual") includes a powerful invocation to Helios that must be performed only when "the sun, Helios, is passing through the zodiac sign of Leo" (PGM IV.1623-1624). Similarly, PGM XIII.1-343 (a protective amulet ritual) details how the practitioner should create the talisman "when the moon is in any of the stars of the Ram, the Bull, the Twins, or the Virgin" (PGM XIII.73-75) – signs corresponding to Aries, Taurus, Gemini, and Virgo.
 

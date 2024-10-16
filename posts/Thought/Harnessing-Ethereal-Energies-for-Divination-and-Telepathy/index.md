@@ -18,14 +18,13 @@ tags:
   - qi prana
 description: You are a master of the esoteric, occult, Thought, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Identify and describe the specific types of energies to be harnessed (e.g., astral emanations, qi, or prana) along with their interactions with the realms of Thought.
   
   2. Elaborate a step-by-step process, including any rituals, symbols, and chants, to effectively capture and manipulate these environmental energies in compliance with esoteric laws.
   
   3. Explore potential applications for the channeled energy in various aspects of the Thought domain, such as divination, telepathic communication, or metaphysical research.
-  
 ---
+
 1. **Types of Energies and Interactions with the Realms of Thought**:
 
 The ethereal energies that we seek to harness in this occult method can be categorized into three primary types:

@@ -28,13 +28,13 @@ Terminating a spiritual pact can be a complex and delicate process that requires
 
 Preparing for Pact Termination:
 
-1. Identify the Type of Spiritual Pact
+1. **Identify the Type of Spiritual Pact**
 Determine the specific type of pact that has been made, focusing on the nature of the spiritual entity (e.g., angelic, demonic, elemental, ancestral spirits, etc.) and the agreement's goals or resolutions.
 
-2. Reflect on the Manifestation of the Intended Result
+2. **Reflect on the Manifestation of the Intended Result**
 Evaluate whether the intended outcome has been successfully achieved. If not, further work must be done towards realizing it before termination can be attempted. This may require additional rituals or meditative practices.
 
-3. Ensure Clarity and Consensus among All Parties
+3. **Ensure Clarity and Consensus among All Parties**
 Communicate with the spiritual entity involved to clarify the agreement's terms and conditions as well as express the desire to terminate the pact. Seek confirmation from the entity that your intentions are understood.
 
 Step-by-Step Instructions for Terminating Spiritual Pacts:

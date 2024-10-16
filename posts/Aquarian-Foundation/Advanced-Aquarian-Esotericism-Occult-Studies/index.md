@@ -18,7 +18,6 @@ tags:
   - introduction aquarian
 description: You are a master of the esoteric, occult, Aquarian Foundation, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. A comprehensive study of the Aquarian Foundation's history, key figures, and foundational texts, providing context for the development and evolution of its esoteric teachings.
   
   2. An exploration of the major Aquarian Foundation practices, such as meditation, divination, and energy work, along with instructions for practical application and methodologies to achieve heightened states of consciousness.
@@ -28,8 +27,8 @@ excerpt: >
   4. Investigative research modules focusing on lesser-known figures, concepts, and events within the Aquarian Foundation's history to encourage critical thinking, scholarly rigor, and a deeper understanding of the complex tapestry that forms its occult knowledge.
   
   5. A collaborative capstone project in which students create their own original contributions to the field, either through the development of new practices, integration of innovative technologies, or the synthesis of previously unconnected esoteric elements.
-  
 ---
+
 Course Title: Advanced Esoteric and Occult Studies within the Aquarian Foundation
 
 Course Description:

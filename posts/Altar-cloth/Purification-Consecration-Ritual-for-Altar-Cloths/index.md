@@ -18,7 +18,6 @@ tags:
   - consecration symbolizes
 description: You are a master of the esoteric, occult, Altar cloth, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Selection of appropriate materials and tools, such as incense, candles, and natural elements, tailored to the specific correspondences of the altar cloth's purpose and energetic resonance.
   
   2. Crafting a consecration prayer, mantra, or incantation to invoke divine guidance and protection during the ceremony, and to imprint the desired energies onto the altar cloth.
@@ -30,8 +29,8 @@ excerpt: >
   5. Integration of sacred symbols or sigils, either by embroidering, painting, or even visualizing them on the altar cloth, to further strengthen its protection and connection to the divine.
   
   6. A closing ceremony to seal the energies and express gratitude to any invoked deities or spiritual forces that assisted with the purification process.
-  
 ---
+
 Here is a comprehensive ritual for the purification and consecration of an altar cloth, with steps tailored to various spiritual paths:
 
 1. Selection of appropriate materials and tools:

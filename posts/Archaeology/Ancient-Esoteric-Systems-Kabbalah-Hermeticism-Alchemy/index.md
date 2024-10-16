@@ -21,7 +21,7 @@ excerpt: Analyze and interpret the archaeological evidence related to the symbol
 ---
 The Kabbalah, Hermeticism, and Alchemy are three distinctive yet interrelated esoteric systems, each possessing a rich historical background, geographical distribution, and cultural context. By examining the archaeological evidence related to the symbolism behind these ancient occult systems, we can gain a deeper understanding of their core principles, esoteric teachings, and lasting influence on contemporary practices.
 
-1. Historical Background
+1. **Historical Background**
 
 The Kabbalah - Originating in the Jewish mystical tradition, Kabbalah dates back to 12th-century Provence, France, before spreading to Spain and later the wider Jewish diaspora. The foundational text of the Kabbalah, the Zohar, was written by the Spanish-Jewish mystic Moses de León, incorporating mystical interpretations of the Hebrew Bible, speculations on divine emanations (Sefirot), and contemplations on the nature of God.
 
@@ -41,7 +41,7 @@ In the case of Hermeticism, key symbols include the caduceus (two serpents inter
 
 Alchemy's symbology involves coded images of metals, chemical processes, cosmic phenomena, and mythological creatures to illustrate different stages of the alchemical transmutation. We can witness these archetypes in illuminated manuscripts, laboratory equipment, and engraved emblems found in locations such as Khunrath's Amphitheater of Eternal Wisdom and 16th-century Prague Castle's alchemical laboratories.
 
-4. Influence on Contemporary Esoteric Practices
+4. **Influence on Contemporary Esoteric Practices**
 
 Through their explorations of divine existence, nature, and the human soul, these esoteric systems left a significant mark on Western esotericism's development. Modern disciplines such as theurgy, ceremonial magic, and chaos magic incorporate principles and practices from the Kabbalah, Hermeticism, and Alchemy. Additionally, these ancient systems continue to guide numerous contemporary spiritual and philosophical movements, including those associated with New Age thought and practices.
 

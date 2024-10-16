@@ -24,11 +24,11 @@ excerpt: >
 ## Title: The Comprehensive Manual to Respecting Diverse Gender Identities
 
 Table of Contents:
-1. Introduction
+1. **Introduction**
 2. **Language Foundations**: The Significance of Gender-Neutral Language
 3. **Understanding Gender Identities**: A Comprehensive Overview
 4. Gender-Neutral Terminology
-5. Practical Examples and Exercises
+5. **Practical Examples and Exercises**
 
 ### Section 1: Introduction
 This manual aims to educate readers about the art of respectful interaction with people of diverse gender identities. It offers a thorough understanding of gender-neutral language, its significance, and its appropriate usage. You will find detailed explanations, practical examples, and exercises to reinforce the principles and encourage creative thought in employing nonbinary terminology in various contexts and cultures.

@@ -18,7 +18,6 @@ tags:
   - invocation odin
 description: You are a master of the esoteric, occult, Chants, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. A reference to an arcane or mythological figure renowned for their decision-making prowess and sagely guidance.
   
   2. Use of a repetitive verse or mantra that focuses the mind and heightens the performer's intuitive abilities.
@@ -26,8 +25,8 @@ excerpt: >
   3. Integration of a unique rhythmic pattern to induce an altered state of consciousness, allowing the chanter to access deeper levels of understanding and perception.
   
   4. Incorporation of specific linguistic structures, such as rhyming schemes or alliterations, that will aid in the memorization and recitation of the chant during moments of uncertainty.
-  
 ---
+
 I present to you "The Litany of Luminous Insight," a potent chant designed to invoke the powers of higher discernment and wisdom when faced with complex dilemmas. Carefully crafted with esoteric symbolism and mystical language, this chant incorporates the requested elements within its sacred verse.
 
 Litany of Luminous Insight:

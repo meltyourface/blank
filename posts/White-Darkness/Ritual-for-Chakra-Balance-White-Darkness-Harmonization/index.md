@@ -28,9 +28,9 @@ Materials needed:
 
 1. Seven crystal stones, each corresponding to one of the seven chakras (e.g. red jasper for the root chakra, carnelian for the sacral chakra, etc.)
 2. A small black crystal for grounding and absorbing negative energy (e.g. black obsidian)
-3. A white candle to represent the light aspects
-4. A black candle to represent the shadow aspects
-5. A quiet and undisturbed space for performing the ritual
+3. **A white candle to represent the light aspects**
+4. **A black candle to represent the shadow aspects**
+5. **A quiet and undisturbed space for performing the ritual**
 
 **Preparation**:
 

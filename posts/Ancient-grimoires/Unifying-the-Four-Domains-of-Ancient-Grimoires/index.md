@@ -25,8 +25,8 @@ excerpt: >
   - Ancient grimoires placed equal importance on all four domains, emphasizing their necessity in achieving a unified understanding of the universe.
   
   - The focus on alchemy and demonology within ancient grimoires revolved around material gain and power, whereas magic and astrology facilitated spiritual enlightenment.
-  
 ---
+
 Answer:
 - Ancient grimoires placed equal importance on all four domains, emphasizing their necessity in achieving a unified understanding of the universe.
 

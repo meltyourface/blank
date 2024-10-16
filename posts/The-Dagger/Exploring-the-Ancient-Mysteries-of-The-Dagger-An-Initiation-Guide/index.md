@@ -18,7 +18,6 @@ tags:
   - dagger practice
 description: You are a master of the esoteric, occult, The Dagger, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Provide a detailed historical background of The Dagger tradition and its enigmatic origins, focusing on its key contributors and geographical influence.
   
   2. Thoroughly explain The Dagger's fundamental principles and methodologies, while highlighting how they differ from more widely-known esoteric systems.
@@ -26,8 +25,8 @@ excerpt: >
   3. Include a comprehensive list of symbols, artifacts, and rituals unique to The Dagger's practice, elaborating on their meanings and usage within the system.
   
   4. Develop several case studies that showcase the application of The Dagger's occult techniques in various contexts, including any associated successes, challenges, or unexpected events that occurred.
-  
 ---
+
 
 ## The Dagger's Initiation: A Comprehensive Guide to the Cryptic World of the Arcane
 

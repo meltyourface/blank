@@ -18,7 +18,6 @@ tags:
   - ritual invocation
 description: You are a master of the esoteric, occult, Blessing and curse, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Invocation and selection of metaphysical entities or occult forces (e.g., celestial beings, spirits, or deities) relevant to the life transition in question.
   
   2. Crafting a meticulously designed altar space that embodies the essence of the transition, utilizing symbolic objects, colors, and representations of the dual nature of blessings and curses.
@@ -28,8 +27,8 @@ excerpt: >
   4. Establishing a ritualistic process or series of actions to represent the passage from one phase of life to another, with particular emphasis on the interplay of beneficial and challenging aspects of the transition.
   
   5. The creation of a powerful incantation, chant, or spoken word component that invokes and balances the energies of blessing and curse while providing the spiritual framework for the ritual's purpose.
-  
 ---
+
 
 ## The Arcane Rite of Transformational Equilibrium
 

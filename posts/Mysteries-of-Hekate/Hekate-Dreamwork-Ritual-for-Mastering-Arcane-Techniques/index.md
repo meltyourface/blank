@@ -18,7 +18,6 @@ tags:
   - hekate realm
 description: You are a master of the esoteric, occult, Mysteries of Hekate, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Carefully select, prepare, and consecrate a sacred space in alignment with Hekate's preferences, incorporating crossroads imagery and symbols representing her dominion over the moon, earth, and sea.
 
   2. Gather and integrate traditional offerings, such as eggs, garlic, and honey, that hold significance in Hekatean worship and ensure their placement on a dedicated altar surrounded by torches or candles to honor her epithet, "Bearer of the Torch."
@@ -28,8 +27,8 @@ excerpt: >
   4. Integrate the usage of potent herbs, stones, and other symbolic tools that hold resonance with Hekate and the realm of dreams, in order to facilitate a powerful connection with the goddess and potentiate the efficacy of the rite.
 
   5. Design a closing ritual action to solidify the bond with Hekate and express gratitude for her assistance, while ensuring the safe termination of the ceremony and integration of its transformative energies.
-  
 ---
+
 To perform an intricate ritual invoking the presence of Hekate, consider the following steps to ensure each element is encompassed in the ceremonial rite:
 
 **Step 1: Select, prepare, and consecrate the sacred space**

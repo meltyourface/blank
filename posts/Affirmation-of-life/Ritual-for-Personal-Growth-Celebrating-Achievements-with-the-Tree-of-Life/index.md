@@ -18,14 +18,13 @@ tags:
   - tree life
 description: You are a master of the esoteric, occult, Affirmation of life, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. The selection of an emblematic symbol or talisman that represents the essence of the accomplishment and embodies positive energy.
   
   2. The incorporation of distinct colors, scents, and sounds that evoke the emotions related to the milestone and underscore the celebration of life.
   
   3. The integration of symbolic gestures or movements performed during the ceremony, signifying the advancement and embracing of life's vitality.
-  
 ---
+
 Ceremony: The Ritual of Flourishing
 
 **Objective**: The Ritual of Flourishing is designed to celebrate personal growth and self-awareness, as well as the overcoming of a significant obstacle or challenge in one's life, such as conquering a fear, completing a significant project, or achieving a long-sought goal.

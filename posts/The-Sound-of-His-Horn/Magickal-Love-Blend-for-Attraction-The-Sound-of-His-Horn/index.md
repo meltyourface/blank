@@ -29,7 +29,7 @@ To craft a potent, magickal herbal blend specifically tailored to evoke the esse
 5. ½ part Cinnamon bark
 6. ½ part Mugwort
 7. ½ part Dragon's Blood resin (ground)
-8. A few drops of Ambergris oil
+8. **A few drops of Ambergris oil**
 
 **Preparation**:
 

@@ -18,7 +18,6 @@ tags:
   - new moon
 description: You are a master of the esoteric, occult, Ritual Instructions, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Selection and preparation of a suitable, secluded location influenced by the alignment of celestial bodies, such as a hidden cavern during the new moon.
   
   2. Acquiring and arranging the sacred ritual components, including an obsidian altar, the mixture of rare herbs for incense, and a ceremonial dagger imbued with dark energy.
@@ -30,8 +29,8 @@ excerpt: >
   5. Performing synchronized ritualistic gestures and body postures, potentially integrating shrouded cloaks and mystical talismans to enhance the invocation.
   
   6. Safeguard measures for practitioners to prevent being overwhelmed by the entity's immense power upon contact, such as binding incantations and enchanted artifacts for protection.
-  
 ---
+
 1. Selecting and Preparing the Location:
 
 Choose a suitable, secluded location such as a hidden cavern during the new moon. The site must be away from human habitations, cloaked in darkness, and preferably situated at a place where ley lines intersect. Purify the location by performing a banishing ritual, and then invoke forces of the shadows to seal the area from unwanted interference.

@@ -18,7 +18,6 @@ tags:
   - incantation identification
 description: You are a master of the esoteric, occult, The invisible Order of Illuminated Adepts, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Integration of sacred symbols, sigils, colors, and incantations specific to the Order.
   
   2. Development of exclusive rituals for invoking and attuning to each elemental force (e.g., Earth, Water, Fire, Air, Aether) in alignment with the Order's esoteric teachings.
@@ -26,8 +25,8 @@ excerpt: >
   3. Identification of optimal planetary alignments, lunar phases, and solar cycles to maximize the effectiveness of elemental energies in daily practice.
   
   4. Creation of unique tools and artifacts designed for harnessing and directing the elemental energies, incorporating the Order's distinctive symbology and materials.
-  
 ---
+
 1. Integration of sacred symbols, sigils, colors, and incantations specific to the Order:
 
 The Invisible Order of Illuminated Adepts employs a set of Sacred Symbols for each elemental energy, as follows:

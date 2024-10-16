@@ -24,25 +24,25 @@ excerpt: Design an intricate handbook outlining strategic measures for mitigatin
 
 Table of Contents:
 
-1. Introduction
-2. Understanding Bat Behavior and Biology
-3. Preventative and Protective Measures
+1. **Introduction**
+2. **Understanding Bat Behavior and Biology**
+3. **Preventative and Protective Measures**
    3.1 Architectural and Environmental Considerations
    3.2 Protective Talismans and Rituals
-4. Containment Strategies for Erratic Flight Patterns
+4. **Containment Strategies for Erratic Flight Patterns**
    4.1 The Echo-Array System
    4.2 The Chaotic Mirror Net
-5. Harnessing Chaos Energy from Nocturnal Creatures
+5. **Harnessing Chaos Energy from Nocturnal Creatures**
    5.1 The Art of Chaos Transmutation
    5.2 Crafting and Using Chaos Batons
-6. Deploying Innovative Approaches to Control Ensuing Havoc
+6. **Deploying Innovative Approaches to Control Ensuing Havoc**
    6.1 The Bat Whisperer Method
    6.2 Utilizing Focused Sonic Waves
 7. Post-Invasion Reconstruction and Healing
    7.1 Purification Rituals and Spells
    7.2 Urban Renewal Through Nature Integration
 8. Legal and Ethical Implications of Bat-Related Chaos Management
-9. Conclusion
+9. **Conclusion**
 
 ### Chapter Summaries:
 

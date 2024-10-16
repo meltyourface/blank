@@ -21,9 +21,9 @@ excerpt: Devise a unique and coherent transliterated liturgical composition that
 ---
 In order to sufficiently respond to this challenging request, we must first analyze the core aspects of our devised liturgical composition. **The key components are**:
 
-1. Unique and coherent transliterated liturgical composition
-2. Comparative symbolism from three distinct esoteric traditions
-3. Unifying theme reflecting interconnectivity of human consciousness and divine purpose
+1. **Unique and coherent transliterated liturgical composition**
+2. **Comparative symbolism from three distinct esoteric traditions**
+3. **Unifying theme reflecting interconnectivity of human consciousness and divine purpose**
 
 To begin, let us first select three esoteric traditions that offer rich symbolism and concepts which can serve as the foundation for our liturgical composition. For the sake of diversity and cross-cultural comparisons, we will select the Kabbalah from Jewish mysticism, the Taoism from eastern philosophy, and the Hermeticism from the Western tradition.
 

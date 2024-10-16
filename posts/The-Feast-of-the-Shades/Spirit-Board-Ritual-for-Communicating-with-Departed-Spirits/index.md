@@ -18,7 +18,6 @@ tags:
   - spirit board
 description: You are a master of the esoteric, occult, The Feast of the Shades, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. **Assemble sacred materials**: Acquire a wooden board of substantial size, marking tools rich in dark pigment, and a planchette composed of precious materials, its shape crafted to enhance psychic sensitivity.
 
   2. Intimately familiarize yourself with the ancient symbology associated with The Feast of the Shades; carefully research arcane glyphs used to invoke the spirits during this abstruse event.
@@ -36,8 +35,8 @@ excerpt: >
   8. As a finishing touch, anoint the completed Spirit Board and planchette with a blend of sacred oils aligned with the intent of communing with shades during The Feast of the Shades.
 
   9. Prepare the ritual space by adorning it with artifacts, relics, and offerings that will appease the shades and ensure a harmonious exchange during the board's unveiling at The Feast of the Shades.
-  
 ---
+
 10. Before employing the Spirit Board during The Feast of the Shades, purify the ritual space by burning cleansing herbs such as sage, palo santo, or frankincense. Encircle the area with salt or protective crystals to create a barrier against malevolent entities.
 
 11. With the sacred space properly prepared, gather all participants around the board. Each participant should anoint themselves with the same sacred oils used on the Spirit Board and planchette, aligning their energies to those of the board.

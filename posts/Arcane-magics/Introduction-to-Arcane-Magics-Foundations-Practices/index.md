@@ -64,7 +64,7 @@ Casting Method:
 1. Hold your casting hand up, palm facing upwards
 2. Channel your focus through your mind-body-soul connection
 3. Softly recite or mentally express the words "plectrum lux"
-4. Observe as the light emanates from your palm and follows your intent
+4. **Observe as the light emanates from your palm and follows your intent**
 
 (B) Arcane Discharge
 
@@ -72,10 +72,10 @@ Arcane Discharge allows you to project a weak, harmless bolt of energy towards a
 
 Casting Method:
 
-1. Stand at a safe distance and point your casting hand towards the target
+1. **Stand at a safe distance and point your casting hand towards the target**
 2. Channel your focus through your mind-body-soul connection
 3. Softly recite or mentally express the words "arcus exspiravit"
-4. Observe the discharge of arcane energy towards your target
+4. **Observe the discharge of arcane energy towards your target**
 
 ### 1.5 Delving Deeper and Staying Safe
 

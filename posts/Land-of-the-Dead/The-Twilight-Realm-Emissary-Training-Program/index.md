@@ -18,7 +18,6 @@ tags:
   - interactions spirits
 description: You are a master of the esoteric, occult, Land of the Dead, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Develop an in-depth understanding of the ancient and otherworldly languages spoken by the denizens of the Land of the Dead, including specific dialects and nuanced gestures required for effective communication.
   
   2. Cultivate mastery over the arts of necromancy, allowing the living mediator to summon and control spirits while safeguarding their own essence from spiritual corruption.
@@ -28,8 +27,8 @@ excerpt: >
   4. Train the envoy in the use of sacred relics and protective talismans, essential tools for navigating and surviving the treacherous territory between life and death.
   
   5. Foster diplomatic prowess, empowering the emissary to forge uneasy alliances with spectral creatures and arbitrate disputes among the restless souls of the departed.
-  
 ---
+
 
 ## The Twilight Ascendancy Program (TAP)
 

@@ -24,8 +24,8 @@ excerpt: >
   The confluence of Christian eschatology, Hindu Kali Yuga, and the Mayan Long Count calendar in shaping apocalyptic beliefs.
   
   The incorporation of ancient Sumerian deities into Lovecraftian mythos giving birth to a new genre of horror.
-  
 ---
+
 The confluence of Christian eschatology, Hindu Kali Yuga, and the Mayan Long Count calendar in shaping apocalyptic beliefs.
 
 The convergence of various cultural, mystical, and prophetic influences within the Apocalyptic aeon is best exemplified by the confluence of Christian eschatology, Hindu Kali Yuga, and the Mayan Long Count calendar in shaping apocalyptic beliefs. This is because these belief systems, often stemming from different cultural backgrounds and historical contexts, all bear significant similarities in their prophecies and interpretations of an impending age of transformation and revelation.

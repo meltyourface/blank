@@ -25,8 +25,8 @@ excerpt: >
   The use of numerology and astrological systems for self-analysis
   
   The invocation of deities and spirits aligned with chaos and liberation
-  
 ---
+
 The correct answer is:
 
 The deliberate inversion of traditional symbols and rituals

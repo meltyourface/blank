@@ -25,22 +25,22 @@ excerpt: Devise an innovative and intricate magical ritual, Frater Achad, by met
 **Purpose**: To invoke the blessings and power of diverse esoteric traditions, harmonizing and channeling the energies towards spiritual enlightenment, wisdom, and personal transformation.
 
 Traditions to be synthesized:
-1. Hermeticism
-2. Kabbalah
-3. Gnosticism
-4. Alchemy
-5. Thelema
-6. Tantra
-7. Shamanism
+1. **Hermeticism**
+2. **Kabbalah**
+3. **Gnosticism**
+4. **Alchemy**
+5. **Thelema**
+6. **Tantra**
+7. **Shamanism**
 
 Materials required:
 1. A ritual circle, drawn on the ground or floor, with an altar at the center
-2. A ceremonial dagger or athame
-3. A chalice filled with a mixture of water and wine
-4. A consecrated wand
-5. A burning censer with sandalwood or frankincense incense
-6. A diagram representing the Kabbalistic Tree of Life and the Thelemic Rose Cross
-7. A representation of the Hermetic Caduceus
+2. **A ceremonial dagger or athame**
+3. **A chalice filled with a mixture of water and wine**
+4. **A consecrated wand**
+5. **A burning censer with sandalwood or frankincense incense**
+6. **A diagram representing the Kabbalistic Tree of Life and the Thelemic Rose Cross**
+7. **A representation of the Hermetic Caduceus**
 8. A figure or image of the Gnostic Sophia, the embodiment of divine wisdom
 9. A small crucible and a prepared philosopher's stone
 10. A Tantric dorje (ritual object) and bell

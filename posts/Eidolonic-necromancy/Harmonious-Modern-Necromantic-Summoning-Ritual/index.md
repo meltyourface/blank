@@ -18,7 +18,6 @@ tags:
   - summoning process
 description: You are a master of the esoteric, occult, Eidolonic necromancy, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Determine which modern esoteric symbols, practices, and methodologies you desire to implement, taking inspiration from the contemporary schools of chaos magick, Hermeticism, or Thelema.
   
   2. Delve into the ancient necromantic texts and lore, such as the Greek Magical Papyri, to incorporate the primeval methodologies of invoking and controlling the spirits of the dead.
@@ -32,8 +31,8 @@ excerpt: >
   6. Prepare a list of required ritual tools, combining both modern and ancient implements, such as ceremonial daggers, chalices, candles, and talismans, ensuring their compatibility with the newly-forged ritual.
   
   7. Test the devised summoning ritual for potency, intricacy, and effectiveness by performing a preliminary invocation of a less powerful Eidolonic spirit to assess and refine the merged methodologies.
-  
 ---
+
 1. For this summoning ritual, I will implement the following modern esoteric principles and symbols:
 
 - From Chaos Magick: the use of the "Sigil-focus technique," the personal empowerment symbol, and the mantra "Hail, Eris!"

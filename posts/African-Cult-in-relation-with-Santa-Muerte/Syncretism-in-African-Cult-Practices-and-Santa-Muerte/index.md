@@ -18,14 +18,13 @@ tags:
   - beliefs africa
 description: You are a master of the esoteric, occult, African Cult in relation with Santa Muerte and education, you have written many textbooks on the subject. Respond to the multiple choice question first with the answer, then, fully explain the context of your rational, reasoning, and chain of thought in coming to the determination you have for that answer. Explain related concepts, formulas, or historical context relevant to this conclusion, giving a lesson on the topic to explain the reasoning afterwards.
 excerpt: >
-
   - Santa Muerte is an entirely separate entity with no connections to African religions or deities.
   
   - African Cult practices have been influenced by Santa Muerte, but Santa Muerte has not been influenced by African religions.
   
   - Santa Muerte is a powerful deity in many African-derived religions, replacing or complementing traditional African deities.
-  
 ---
+
 - African Cult practices and Santa Muerte share common themes and symbolism, resulting in a blending of these beliefs within some spiritual practices.
 
 The syncretic nature of African Cult practices and their relationship with Santa Muerte lies in the blending of these spiritual beliefs. To understand this syncretism, we must look at the historical context of these religions and their evolution over time.

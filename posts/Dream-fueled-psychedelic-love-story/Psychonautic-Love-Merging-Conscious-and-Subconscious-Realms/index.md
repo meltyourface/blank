@@ -23,8 +23,8 @@ excerpt: >
 To address this knowledge challenge, let's first break it down into its core components. **The prompt deals with three primary aspects**: 
 
 1. Dream-fueled psychedelic love story 
-2. Merging of the conscious and subconscious realms 
-3. Altered states of perception 
+2. **Merging of the conscious and subconscious realms **
+3. **Altered states of perception **
 
 We will first explore these individual components and then will analyze how, when combined, they influence the characters' understanding of love and their unified spiritual growth. 
 

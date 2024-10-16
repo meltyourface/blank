@@ -21,7 +21,8 @@ excerpt: Construct an intricate natal horoscope based on Hermetic principles, in
 ---
 To complete this task, I will need a specified birth date, time, and location. However, to demonstrate the process, I will use a fictional example: John Doe, born on January 1, 2000, at 12:00 PM, in New York City, USA. Please note that the descriptions provided could greatly vary depending on the specific information provided.
 
-1. First, I calculate the positions of the celestial bodies at the time of birth, using an astrological software to ensure accuracy: 
+
+1. **First, I calculate the positions of the celestial bodies at the time of birth, using an astrological software to ensure accuracy: **
 
 **Sun**: 10° Capricorn
 Moon: 18° Pisces
@@ -37,10 +38,12 @@ Ascendant: 2° Cancer
 Descendant: 2° Capricorn
 Midheaven: 4° Pisces
 
-2. I create the natal chart:
+
+2. **I create the natal chart:**
 ![natal-chart](https://imgur.com/QwoTifC.png)
 
-3. Now, I will interpret the main aspects of John Doe's natal chart along with the integration of lesser-known astrological aspects such as fixed stars and Arabic Parts:
+
+3. **Now, I will interpret the main aspects of John Doe's natal chart along with the integration of lesser-known astrological aspects such as fixed stars and Arabic Parts:**
 
 **Sun in Capricorn**: John Doe has a strong drive for achievement and material success. He is practical, disciplined, and resourceful. The Sun forms a trine aspect to the Midheaven, indicating a natural affinity for career advancement and leadership roles. 
 
@@ -64,8 +67,10 @@ Jupiter in Aries in the 10th house: It indicates growth and blessing in the area
 
 **Arabic Part of Fortune**: Positioned in the 7th house, suggesting that happiness and fortune may be found through partnerships and collaboration.
 
-4. Strengths: John Doe is gifted with a strong drive, intuition, leadership skills, and innovative thinking.
 
-5. Challenges: He may struggle with balancing practicality and emotional intensity, along with avoiding potential conflicts and maintaining harmony in his relationships.
+4. **Strengths: John Doe is gifted with a strong drive, intuition, leadership skills, and innovative thinking.**
+
+
+5. **Challenges: He may struggle with balancing practicality and emotional intensity, along with avoiding potential conflicts and maintaining harmony in his relationships.**
 
 Remember that this reading is fictional and intended as an example. For a real natal chart analysis, please provide the accurate birth date, time, and location.

@@ -18,7 +18,6 @@ tags:
   - western esoteric
 description: You are a master of the esoteric, occult, Esoteric forms of major world religions, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Examine the key historical figures and movements within the Western Esoteric tradition, such as the Hermetic Order of the Golden Dawn, Aleister Crowley, and occultists associated with each major world religion.
   
   2. Investigate the theoretical and conceptual links between Esoteric beliefs and foundational psychological theories like Carl Jung's archetypes, Sigmund Freud's psychoanalysis, and their respective understandings of the collective unconscious.
@@ -28,8 +27,8 @@ excerpt: >
   4. Compare the shared methodologies for accessing and integrating the subconscious mind in Esoteric practices and modern psychology, such as meditation, visualization, and altered states of consciousness.
   
   5. Evaluate the potential ethical implications and challenges of incorporating Esoteric elements into mainstream psychological practices, considering the religious, cultural, and societal perspectives on the matter.
-  
 ---
+
 ## I. Introduction
     A. Definition and origins of the Western Esoteric tradition
     B. The influence of Esoteric forms of major world religions on Western Esotericism

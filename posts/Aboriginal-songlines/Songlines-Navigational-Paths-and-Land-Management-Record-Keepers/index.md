@@ -23,8 +23,8 @@ excerpt: >
   Songlines maintain records of encounters with ancestral spirits, while also tracking resources and laws regarding land management.
   
   The Dreamtime narratives of songlines reveal the intrinsic spiritual connection between the land and the Aboriginal people.
-  
 ---
+
 The correct answer is: 
 
 Songlines maintain records of encounters with ancestral spirits, while also tracking resources and laws regarding land management.

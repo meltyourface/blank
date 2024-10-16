@@ -21,13 +21,13 @@ excerpt: Investigate and elucidate the intricate involvement of Non-Being in the
 ---
 Non-Being in Theurgy: A Comprehensive Examination of Its Role and Significance
 
-1. Historical Perspective
+1. **Historical Perspective**
 
 The concept of Non-Being has its roots in various ancient spiritual traditions, including Hermeticism, Gnosticism, Neoplatonism, and various Eastern mystical philosophies. These schools of thought generally emphasize the importance of transcending ordinary reality and worldly concerns and focus on the pursuit of direct, experiential knowledge of the ultimate spiritual reality, which usually involves the notion of divine union or unification.
 
 In the history of theurgy, various occult practitioners have endeavored to unify with the divine by embracing the concept of Non-Being. This entails the act of dissolving distinctions and boundaries that separate the individual self from the divine, thus achieving a transcendental state of pure existence devoid of any limitations or constraints.
 
-2. Diverse Methodologies
+2. **Diverse Methodologies**
 
 The practice of theurgy has incorporated Non-Being through various methodologies. Some of these methods include:
 

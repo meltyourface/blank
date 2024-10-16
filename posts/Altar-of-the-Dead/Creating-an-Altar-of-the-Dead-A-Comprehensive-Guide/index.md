@@ -44,7 +44,7 @@ To set up an Altar of the Dead, the following materials and tools should be prep
 
 1. A suitable surface (e.g., table, desk, or shelf) away from direct sunlight and disturbances
 2. A cloth that symbolizes the foundation of the altar (typically black or white)
-3. Personal items or photos of the deceased to be honored
+3. **Personal items or photos of the deceased to be honored**
 4. Offerings such as flowers, incense, candles, and food or drink
 5. Ritual tools, such as a ceremonial dagger, chalice, or bell
 6. Relevant symbols or sigils specific to the practitioner's tradition
@@ -65,9 +65,9 @@ The specific rituals and ceremonies performed at the Altar of the Dead will vary
 
 1. Light candles and/or incense as an offering to the spirits
 2. Recite prayers, chants, or invocations to connect with the deceased
-3. Use ritual tools to direct energy or prepare oneself for spiritual communication
-4. Meditate or practice divination to receive messages and insights from the spirit world
-5. Leave offerings as a gesture of gratitude to the ancestors
+3. **Use ritual tools to direct energy or prepare oneself for spiritual communication**
+4. **Meditate or practice divination to receive messages and insights from the spirit world**
+5. **Leave offerings as a gesture of gratitude to the ancestors**
 
 ### V. Precautions and Taboos
 

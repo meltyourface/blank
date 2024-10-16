@@ -23,10 +23,10 @@ excerpt: >
 The Phoenix, a mythical and legendary bird often associated with alchemy, has long been a symbol of transformation, renewal, and rebirth. In this answer, I will elaborate on the four stages of the Phoenix's life cycle and how they correspond to the stages of the Magnum Opus, an alchemist's Great Work. In addition, I will discuss the elements and principles involved in the alchemical process as they pertain to the Alchemical Aviary.
 
 The four stages in the Phoenix's life cycle are:
-1. Birth and Growth
-2. Consummation by Fire
-3. Resurrection from Ashes
-4. Ascension
+1. **Birth and Growth**
+2. **Consummation by Fire**
+3. **Resurrection from Ashes**
+4. **Ascension**
 
 1. **Birth and Growth**:
 The first stage corresponds to the alchemical process known as Nigredo or the Black Phase. Here, the Phoenix is born from its ashes and begins its growth process. Similarly, in the alchemical practice, Nigredo is the stage of calcination, where impure substances are heated, and base metals are decomposed through exposure to air and heat. This stage represents purification, where the alchemist endeavors to separate the impure from the pure and to lay the groundwork for successive transformations.

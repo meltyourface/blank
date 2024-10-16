@@ -18,7 +18,6 @@ tags:
   - ritual performed
 description: You are a master of the esoteric, occult, Sacred horror, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. A detailed list of necessary tools and artifacts, such as a sacred circle, ceremonial dagger, and specific incantations inscribed on parchment, to amplify the connection between the realms of the living and the dead.
 
   2. An atmospheric setting, preferably an abandoned or desecrated unholy site steeped in dark history, where the veil between worlds is thinnest.
@@ -28,8 +27,8 @@ excerpt: >
   4. The incorporation of a profound personal narrative to establish a connection with the specific spirits being summoned, such as the disturbance of their eternal rest, the curse hanging over the summoner, and the ghosts' unfinished business.
 
   5. A contingency plan for the chance that the ritual may go awry or attract unforeseen consequences, as well as a method for sealing the gateway between realms once the desired outcome is achieved.
-  
 ---
+
 
 ## The Ritual of the Forgotten Shadows
 

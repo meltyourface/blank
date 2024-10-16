@@ -18,7 +18,6 @@ tags:
   - cleansing ritual
 description: You are a master of the esoteric, occult, Scripts, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Establish a sacred space and prepare ritual tools specific to Scripts, such as unique sigils, incantations, and objects infused with arcane knowledge.
   
   2. Include a sequence of steps to purify and prepare the practitioner for the initiation, such as cleansing rituals, fasting, and dedicated meditation sessions on the mysteries of Scripts.
@@ -32,8 +31,8 @@ excerpt: >
   6. Design a post-initiation consolidation phase, where the practitioner solidifies their bond with the energies of Scripts, fully integrating their newfound knowledge, power, and responsibility.
   
   7. Conclude the ceremony by delineating closing rituals and offering gratitude to the guiding forces that assisted in the initiation.
-  
 ---
+
 Element 1: Sacred Space and Ritual Tools
 To establish a sacred space, choose a quiet location where you can remain undisturbed. Begin by creating a circle with a diameter of at least 6 feet to define the boundaries of your working area. Place candles at each of the four cardinal points (north, east, south, and west), and light them to represent the elements: earth, air, fire, and water.
 

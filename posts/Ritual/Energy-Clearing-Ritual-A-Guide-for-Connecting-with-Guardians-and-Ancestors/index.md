@@ -18,7 +18,6 @@ tags:
   - ritual space
 description: You are a master of the esoteric, occult, Ritual, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Choose a suitable time and location for the ritual, ensuring that the area is imbued with the most potent occult energies.
   
   2. Determine specific metaphysical tools to strengthen the ritual, such as crystals, candles, sigils, or sacred incense.
@@ -32,8 +31,8 @@ excerpt: >
   6. Design a symbolic action sequence to solidify the intention behind the energy clearing ritual, such as the burning of a written intention, aligning chakra stones on a sacred shrine, or casting a series of runes.
   
   7. Conclude the ritual by expressing gratitude to the summoned entities and releasing their energy back to the ethereal plane, while sealing the ritual space and your own energetic boundaries.
-  
 ---
+
 1. Time and Location: 
 Choose dawn or dusk as the suitable time for the ritual, as these liminal periods represent the meeting of day and night, allowing access to powerful energies. The location should ideally be outdoors, surrounded by the elements, such as near a body of water, within a forest, or at the top of a hill. If outdoors is not possible, a room with large windows and natural light is also acceptable.
 

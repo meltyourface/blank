@@ -26,7 +26,7 @@ To perform a comprehensive astrological birth chart analysis, I will first need 
 Time of Birth: 12:00 PM (noon)
 Place of Birth: London, England
 
-1. Natal Chart Calculation
+1. **Natal Chart Calculation**
 
 First, we calculate the natal chart using the birth details provided while adhering to Hermetic astrology principles, geomantic symbols, and keeping an esoteric perspective. **In our example, we find the following planetary positions**:
 
@@ -41,7 +41,7 @@ First, we calculate the natal chart using the birth details provided while adher
 - Neptune: 2° Aquarius
 - Pluto: 10° Sagittarius
 
-2. House System and Aspects Calculation
+2. **House System and Aspects Calculation**
 
 In Hermetic astrology, the Whole Sign House system is generally used. **Thus, the individual's houses and prominent aspects are as follows**:
 
@@ -65,7 +65,7 @@ Notable aspects include:
 - Mars Square Jupiter
 - Saturn Trine Uranus
 
-3. Interpretation
+3. **Interpretation**
 
 Sun in Capricorn in the 1st House indicates a strong sense of responsibility and ambition for the individual, while the Sun conjunct Mercury enhances communication abilities. The individual's expression might be influenced by Earth's energy, making them practical and logical.
 
@@ -81,7 +81,7 @@ The esoteric aspects include:
 - Karmic Connections: Past lives revolving around self-mastery, responsibility, and service to others.
 - Soul Purpose: Evolutionary growth through overcoming material limitations and nurturing spiritual connections.
 
-4. Predictions
+4. **Predictions**
 
 By analyzing current and upcoming transits, as well as considering astrological cycles, the following predictions can be made:
 

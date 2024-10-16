@@ -43,9 +43,11 @@ Note that the planets must also be in harmonious aspects (trines, conjunctions, 
 
 ### II. **Meticulous Calendar (Upcoming Alignments and Historical Reference)**:
 
-1. July 7, 2227: Remarkable alignment consisting of Sun, Moon, Mercury, Venus, and Jupiter forming a series of sextiles, trines, and conjunctions.
 
-2. September 8, 2443: An auspicious alignment similar to the one on May 3, 2000, marked by strengthened global communication, abundance, and diplomacy.
+1. **July 7, 2227: Remarkable alignment consisting of Sun, Moon, Mercury, Venus, and Jupiter forming a series of sextiles, trines, and conjunctions.**
+
+
+2. **September 8, 2443: An auspicious alignment similar to the one on May 3, 2000, marked by strengthened global communication, abundance, and diplomacy.**
 
 3. **Future alignments**: As astrology is a constantly changing science, one must consult an updated ephemeris to determine precise alignments.
 

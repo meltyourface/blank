@@ -28,10 +28,10 @@ The map is divided into chronological segments that span through the ages, with 
 Key Occult Traditions Chronology:
 
 1. Prehistoric Shamanism & Animism
-2. Ancient Egyptian Mysticism
-3. Mesopotamian Magick
+2. **Ancient Egyptian Mysticism**
+3. **Mesopotamian Magick**
 4. Greco-Roman Mystery Cults
-5. Jewish Kabbalah
+5. **Jewish Kabbalah**
 6. Islamic Mysticism/Sufism
 7. Alchemy & Hermeticism
 8. Gnosticism & Christian Mysticism

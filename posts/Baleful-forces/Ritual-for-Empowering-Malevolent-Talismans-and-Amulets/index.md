@@ -18,7 +18,6 @@ tags:
   - energies ritual
 description: You are a master of the esoteric, occult, Baleful forces, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Selection of Maleficent lunar and planetary alignments for optimal power absorption.
   
   2. Preparation of an unhallowed altar adorned with dark, arcane symbols that resonate with the Baleful forces.
@@ -26,8 +25,8 @@ excerpt: >
   3. Suggestion of specific forbidden incense, herbs, and crystals to align the talismans and amulets with the mystic forces.
   
   4. Performance of a sacred incantation, preferably in an ancient, enigmatic language, to summon and imbue the objects with foreboding energies.
-  
 ---
+
 To begin this intricate ritual for the purification and recharging of talismans and amulets utilizing the Baleful forces, follow these steps:
 
 1. **Selection of Maleficent Lunar and Planetary Alignments**:

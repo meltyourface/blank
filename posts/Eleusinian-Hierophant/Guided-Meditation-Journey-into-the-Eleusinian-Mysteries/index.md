@@ -18,7 +18,6 @@ tags:
   - journey eleusinian
 description: You are a master of the esoteric, occult, Eleusinian Hierophant, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Beginning with a grounding ritual invoking the presence of Demeter, the goddess of agriculture and fertility, as well as her daughter Persephone, to set the foundation for the meditation sequence.
   
   2. Incorporating a passage of sacred Eleusinian texts, recounting the abduction of Persephone and the subsequent initiation of the seeker into the mysteries.
@@ -28,8 +27,8 @@ excerpt: >
   4. Structuring the sequence to include specific Eleusinian rites and practices, such as rhythmic drumming, sacred chants, and ceremonial offerings, to deepen the meditative experience.
   
   5. Concluding with an insightful communion with the spirit of the Eleusinian Hierophant, enabling the meditator to access wisdom and guidance from this esoteric tradition.
-  
 ---
+
 
 ## Journey into the Eleusinian Mysteries
 

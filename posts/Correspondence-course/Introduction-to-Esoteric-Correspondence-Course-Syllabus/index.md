@@ -30,11 +30,11 @@ Course Title: Introduction to Esoteric and Occult Correspondence
 
 ### Syllabus Overview
 
-1. Foundations of Esoteric and Occult Correspondence
-2. Key Historical Figures and Concepts
-3. Essential Literature and Texts
-4. Practical Techniques and Applications
-5. Ethical Considerations and Responsibilities
+1. **Foundations of Esoteric and Occult Correspondence**
+2. **Key Historical Figures and Concepts**
+3. **Essential Literature and Texts**
+4. **Practical Techniques and Applications**
+5. **Ethical Considerations and Responsibilities**
 
 ### Module 1: Foundations of Esoteric and Occult Correspondence (Weeks 1-4)
 Week 1: Introduction to Correspondence and Symbolism

@@ -38,4 +38,4 @@ There are many methods in which curses can be employed; these can vary significa
 2. **Sigils and Symbols**: Designing a curse using visual representations, either for direct exposure to the target or as part of a larger ritual.
 3. **Objects and Talismans**: Infusing physical items with the essence of a curse to act as a conduit for the spell's effects.
 4. **Binding and Knot Magic**: Using physical or symbolic ties as a means of affixing a curse to a person, place, or thing.
-5. Pop
+5. **Pop**

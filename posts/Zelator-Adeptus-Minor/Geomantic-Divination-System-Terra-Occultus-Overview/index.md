@@ -18,7 +18,6 @@ tags:
   - earth material
 description: You are a master of the esoteric, occult, Zelator Adeptus Minor, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Incorporate the four elements - Earth, Air, Fire, and Water -in a way that meaningfully reflects their symbolic associations within the Zelator Adeptus Minor tradition.
   
   2. Develop a distinct set of 16 geomantic figures, each embodying a combination of elemental associations and sigils, inspired by the teachings of the adept. Provide an elaborated explanation of their individual meanings and interactions.
@@ -28,8 +27,8 @@ excerpt: >
   4. Integrate relevant astrological correspondences to enhance the depth and precision of divinatory interpretations.
   
   5. Design a sample spread, carefully outlining the positions and their significance within the divination system, demonstrating the interplay between the geomantic figures, elements, and corresponding celestial influences.
-  
 ---
+
 Geomantic Divination System: Terra Occultus
 
 1. **Elemental Incorporation**:

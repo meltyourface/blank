@@ -25,8 +25,8 @@ To craft a distinctive dream pillow recipe inspired by Modern Witchcraft princip
 1. A soft, natural fabric (such as cotton, linen, or silk) for the pillowcase
 2. A sewing kit (including needle, thread, and scissors)
 3. At least five handpicked herbs with potent dream-enhancing properties
-4. A thoughtfully chosen crystal or talisman for guided energy flow
-5. A fabric pen or paint to design the sacred geometry patterns
+4. **A thoughtfully chosen crystal or talisman for guided energy flow**
+5. **A fabric pen or paint to design the sacred geometry patterns**
 
 Herbs Selection:
 Choose at least five of the following herbs known for their dream-enhancing properties.

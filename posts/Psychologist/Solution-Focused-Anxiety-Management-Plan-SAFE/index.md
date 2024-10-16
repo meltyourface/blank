@@ -28,11 +28,11 @@ Solution-Focused Brief Therapy (SFBT) is an evidence-based, strengths-based appr
 
 The first session will be centered on the client's exploration of their strengths, competencies, and successes. Start by asking the client to identify situations where they have successfully managed their anxiety in the past. This process should help the client develop an understanding of their coping mechanisms, which will then be used as a foundation for setting personalized goals. Encourage the client to establish short-term, specific, and achievable goals, such as reducing the frequency of panic attacks or improving their sleep quality.
 
-2. Progress Tracking Mechanisms
+2. **Progress Tracking Mechanisms**
 
 Develop a progress tracking system to monitor the client's achievements as they work through the SAFE intervention. This can include regular check-ins during sessions as well as a visual representation of progress (graphs, charts, etc). Encourage the client to journal or utilize a smartphone app that tracks potential triggers, successful coping strategies, and improvements in their anxiety symptoms. This documentation can serve as a form of self-reflection and a tool for measuring progress towards their goals.
 
-3. Addressing Resistance to Change
+3. **Addressing Resistance to Change**
 
 Resistance to change is not uncommon in the therapeutic process. It is essential to compassionately address any resistance the client may experience. Normalize their concerns and validate their feelings, while also helping them explore the benefits of embracing change. Build upon their identified strengths and previous successes to empower and motivate them as they work towards their goals.
 

@@ -24,7 +24,8 @@ In-depth analysis and interpretation of planetary stelliums within a natal chart
 
 To conduct an in-depth analysis and interpretation of planetary stelliums within a natal chart, we'll consider an example natal chart that features three stelliums—groups of three or more planets clustered together in a single zodiac sign or house. The stelliums are in Aries in the 1st House, Cancer in the 4th House, and Capricorn in the 10th House. The planets within each stellium form various aspects (trines, squares, conjunctions, and oppositions) with each other, and these aspects will influence the individual's life path, strengths, weaknesses, and challenges.
 
-1. Aries Stellium in the 1st House:
+
+1. **Aries Stellium in the 1st House:**
 
 **Planets**: Sun, Mercury, and Venus
 Aspects: Sun conjunct Mercury, Sun conjunct Venus, Mercury conjunct Venus
@@ -37,7 +38,8 @@ Aspects: Sun conjunct Mercury, Sun conjunct Venus, Mercury conjunct Venus
 
 **Challenges**: The individual may struggle with learning to take a more balanced, diplomatic approach in relationships and while pursuing personal goals, as well as cultivating patience and humility.
 
-2. Cancer Stellium in the 4th House:
+
+2. **Cancer Stellium in the 4th House:**
 
 **Planets**: Moon, Mars, and Jupiter
 Aspects: Moon square Mars, Moon trine Jupiter, Mars conjunction Jupiter
@@ -50,7 +52,8 @@ Aspects: Moon square Mars, Moon trine Jupiter, Mars conjunction Jupiter
 
 **Challenges**: The individual must learn to find a balance between emotional sensitivity and assertiveness, as well as develop more constructive ways of dealing with deep-seated fears and insecurities.
 
-3. Capricorn Stellium in the 10th House:
+
+3. **Capricorn Stellium in the 10th House:**
 
 **Planets**: Saturn, Uranus, and Neptune
 Aspects: Saturn square Uranus, Saturn trine Neptune, Uranus conjunction Neptune

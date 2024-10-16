@@ -18,7 +18,6 @@ tags:
   - based sephiroth
 description: You are a master of the esoteric, occult, Kabbalistic tradition, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Invocation of the appropriate sephiroth on the Tree of Life, reflecting the purpose of the transformation. Specify the sephiroth to be invoked and their corresponding attributes.
 
   2. Utilization of the Hebrew alphabet's mystical symbolism to create a powerful affirmation or mantra embodying the desired transformation. Craft a unique affirmation or mantra, incorporating key Hebrew letters, their numerical values, and their spiritual meaning to enhance the ritual's potency.
@@ -30,7 +29,7 @@ excerpt: >
 ---
 The ritual we will design is aimed at achieving profound personal transformation and ascending one's spirit to a higher level of consciousness through the Kabbalistic tradition. Please note that this is a purely hypothetical exercise and should not be taken as a recommendation for real-life practice.
 
-1. Sephiroth Invocation
+1. **Sephiroth Invocation**
 
 To facilitate personal transformation, we will focus on three key sephiroth on the Tree of Life:
 
@@ -48,7 +47,7 @@ Yesod - י (Yud, 10)
 
 **The affirmation could be**: "אני מתקדם ומתרומם באמצעות תפארת, נצח, ויסוד" (Ani mitkadem u'mitromem bemtzaut Tiferet, Netzach, veYesod), meaning "I advance and ascend through the power of Tiferet, Netzach, and Yesod."
 
-3. Merkabah Meditation
+3. **Merkabah Meditation**
 
 For a meditation tailored to this personal transformation, follow these steps:
 
@@ -57,7 +56,7 @@ b) Visualize the sephiroth of Tiferet, Netzach, and Yesod as glowing spheres of 
 c) Focus on each sephirah individually, intoning the corresponding Hebrew letters (Tav, Nun, Yud) and reflecting on their attributes.
 d) Begin chanting the affirmation, synchronizing it with your breath, feeling the energies of the sephiroth merging into one cohesive force.
 
-4. Kabbalistic Symbols and Talismans
+4. **Kabbalistic Symbols and Talismans**
 
 Create a talisman based on the sephiroth and Hebrew letters. Choose or design a sigil containing the three letters (Tav, Nun, Yud). This sigil will represent the combined energies of the sephiroth.
 
@@ -66,7 +65,7 @@ a) Hold the talisman, chanting the affirmation, and visualize the energy of each
 b) Anoint the talisman with a few drops of consecrated oil.
 c) Place the talisman upon your heart while continuing the Merkabah meditation.
 
-5. Ritual Outline
+5. **Ritual Outline**
 
 a) Preparation: Designate a quiet, sacred space for the ritual. Cleanse it with sage or incense. Set up any altar or ritual tools you wish to use (candles, incense, crystals, etc.).
 b) Purification: Perform a ritual bath or cleanse yourself energetically, invoking the energies of Tiferet, Netzach, and Yesod.

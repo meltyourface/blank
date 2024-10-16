@@ -27,13 +27,13 @@ Mirrors have long held a significant place in the world of esoteric knowledge, s
 
 Analysis of Historical Texts
 
-1. The Emerald Tablet
+1. **The Emerald Tablet**
 
 The Emerald Tablet, one of the most renowned texts in Western alchemy, is said to contain the foundational principles of the Great Work - the process of alchemical transformation. The term "as above, so below" can be traced back to this seminal document, which suggests that the microcosm (individual) reflects the macrocosm (cosmos).
 
 Mirrors can be connected to this principle, as they symbolize self-reflection, duality, and the correspondence between the internal and external realms. The reflective surface of a mirror can represent the boundary between the conscious and unconscious, serving as a gateway for personal and spiritual transformation.
 
-2. The Corpus Hermeticum
+2. **The Corpus Hermeticum**
 
 The Corpus Hermeticum, a collection of hermetic texts, delves into the philosophical system based on the teachings attributed to Hermes Trismegistus. These writings emphasize the importance of reaching a state of unity and harmony between the different aspects of one's self, as well as between humans and the divine.
 
@@ -41,15 +41,15 @@ In this context, a mirror can symbolize the pursuit of self-knowledge and unders
 
 Comparisons in Occult Artwork
 
-1. Medieval Europe
+1. **Medieval Europe**
 
 In medieval European art, mirrors were sometimes depicted with dual symbolism. They could represent both vanity and self-awareness, where the reflective surface served as a reminder of the transient nature of worldly beauty and the need for spiritual reflection.
 
-2. Renaissance Art
+2. **Renaissance Art**
 
 In Renaissance paintings, mirrors were used to emphasize allegory and symbolism. For instance, in Jan van Eyck's "The Arnolfini Portrait," a convex mirror is featured prominently, serving as a symbol of spiritual purity, a literal reflection of the divine, and a representation of the all-seeing eye of God.
 
-3. Eastern Perspectives
+3. **Eastern Perspectives**
 
 In Eastern cultures, mirrors play essential roles in esoteric symbolism as well. In Hindu mythology, the cosmic dance of Lord Shiva is often represented with a mirror encircling the scene, illustrating the inseparable duality of creation and destruction. In Chinese folklore, the endless knot symbol, which represents the interconnectedness of all things, is often depicted with a mirror image of itself.
 

@@ -23,7 +23,7 @@ Zmei Energies and Planetary Influences Correspondence Table
 
 Zmei Entity | Planetary Influence | Unique Qualities | Occult Symbol | Astrological Sign & House | Elemental Aspect | Lunar Phase | Invocation
 
-1. Algoros the Serpent Lord
+1. **Algoros the Serpent Lord**
 | Saturn
 | Grants wisdom, discipline, teaches patience
 | Serpent coiled around a staff
@@ -32,7 +32,7 @@ Zmei Entity | Planetary Influence | Unique Qualities | Occult Symbol | Astrologi
 | Waning Crescent
 | "Algoros, grant me the wisdom and discipline to overcome all obstacles, as I stand upon the earth beneath."
 
-2. Volaris the Wind Dancer
+2. **Volaris the Wind Dancer**
 | Mercury
 | Enhances communication, fluidity of thoughts, quick-wittedness
 | Feather intertwined with a rising wind
@@ -41,7 +41,7 @@ Zmei Entity | Planetary Influence | Unique Qualities | Occult Symbol | Astrologi
 | Waxing Crescent
 | "Volaris, let your subtle breath guide my thoughts to clarity and inspiration as I weave my own wind dance."
 
-3. Pyroz the Flame Bringer
+3. **Pyroz the Flame Bringer**
 | Mars
 | Imparts motivation, courage, and strength
 | Flaming sword
@@ -50,7 +50,7 @@ Zmei Entity | Planetary Influence | Unique Qualities | Occult Symbol | Astrologi
 | Full Moon
 | "Pyroz, kindle the fire within me, grant me the courage and strength to assert my will and passions, just like the blaze you command."
 
-4. Aquastra the Tidal Mistress
+4. **Aquastra the Tidal Mistress**
 | Venus
 | Encourages love, relationships, and emotional healing
 | Chalice filled with water and surrounded by waves
@@ -59,7 +59,7 @@ Zmei Entity | Planetary Influence | Unique Qualities | Occult Symbol | Astrologi
 | New Moon
 | "Aquastra, help me connect with the flow of emotions that bind us together, like the infinite ripples of a serene ocean's embrace."
 
-5. Terros the Stone Guardian
+5. **Terros the Stone Guardian**
 | Jupiter
 | Provides protection, expansion of consciousness, and growth
 | Shield with a mountain depiction
@@ -68,7 +68,7 @@ Zmei Entity | Planetary Influence | Unique Qualities | Occult Symbol | Astrologi
 | Waxing Gibbous
 | "Terros, as I strengthen my foundation, grant me the protection and guidance to forge a path towards abundance and growth."
 
-6. Lumina the Light Bringer
+6. **Lumina the Light Bringer**
 | Sun
 | Instills creativity, warmth, and joy
 | Radiating sun with outstretched hands
@@ -77,7 +77,7 @@ Zmei Entity | Planetary Influence | Unique Qualities | Occult Symbol | Astrologi
 | Full Moon
 | "Lumina, bless me with the radiant warmth that fuels growth, inspiration, and the light of creation."
 
-7. Selune the Moon Whisperer
+7. **Selune the Moon Whisperer**
 | Moon
 | Enhances intuition, dreams, and emotional openness
 | Crescent moon surrounded by stars

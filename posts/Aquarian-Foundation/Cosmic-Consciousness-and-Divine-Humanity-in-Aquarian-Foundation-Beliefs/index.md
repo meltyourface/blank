@@ -18,14 +18,13 @@ tags:
   - higher consciousness
 description: You are a master of the esoteric, occult, Aquarian Foundation and education, you have written many textbooks on the subject. Respond to the multiple choice question first with the answer, then, fully explain the context of your rational, reasoning, and chain of thought in coming to the determination you have for that answer. Explain related concepts, formulas, or historical context relevant to this conclusion, giving a lesson on the topic to explain the reasoning afterwards.
 excerpt: >
-
   - The human condition is bound by materialism, inhibiting spiritual growth and higher understanding.
   
   - Human souls originate from the collective cosmic consciousness and are destined to re-join this unity.
   
   - Physical and spiritual evolution can occur simultaneously through practicing practical and mystical wisdom.
-  
 ---
+
 Human souls originate from the collective cosmic consciousness and are destined to re-join this unity.
 
 The Aquarian Foundation, an esoteric and occult organization, bases its core beliefs on the Hermetic principles and the Age of Aquarius, which refers to a Golden Age of spiritual enlightenment, peace, and universal brotherhood. The statement "Human souls originate from the collective cosmic consciousness and are destined to re-join this unity" aligns with these foundational beliefs.

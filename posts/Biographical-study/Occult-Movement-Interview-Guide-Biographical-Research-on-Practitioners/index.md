@@ -18,7 +18,6 @@ tags:
   - occult movement
 description: You are a master of the esoteric, occult, Biographical study, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Establish a comprehensive list of open-ended questions that delves into their childhood background, formative years, and crucial events that may have sparked their interest in the occult.
   
   2. Identify key milestones or turning points within their involvement in the occult movement, such as initiations, advancement in ranking, or deepened connections with fellow practitioners.
@@ -28,8 +27,8 @@ excerpt: >
   4. Dedicate a section of the interview guide to discuss the impact of their occult beliefs on personal relationships, career, and overall life satisfaction.
   
   5. Gather information on their interpretation of key occult concepts, symbols, rituals, and practices, and how these may have evolved over time.
-  
 ---
+
 Interview Guide: In-Depth Biographical Research on Individuals Actively Involved in Esoteric or Occult Movements
 
 ### I. Introduction

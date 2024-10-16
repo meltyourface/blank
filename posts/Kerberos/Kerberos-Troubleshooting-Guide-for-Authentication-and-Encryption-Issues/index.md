@@ -22,10 +22,10 @@ excerpt: Design an in-depth troubleshooting manual detailing the diagnosis and r
 
 ## Kerberos Troubleshooting Manual
 
-1. Introduction
+1. **Introduction**
 This troubleshooting manual is aimed at providing guidance on diagnosing and resolving prevalent Kerberos-related setup and configuration challenges. This manual covers: authentication failures, encryption compatibility, key distribution issues, and realm management intricacies.
 
-2. Authentication Failures
+2. **Authentication Failures**
 ### 2.1 Diagnosing authentication failures
    - Verify the accuracy of the Kerberos configuration file (krb5.conf)
    - Check the network connectivity between the client and the Key Distribution Center (KDC)
@@ -38,7 +38,7 @@ This troubleshooting manual is aimed at providing guidance on diagnosing and res
    - Review and address issues identified in log files
    - Synchronize client and server clocks using the Network Time Protocol (NTP)
 
-3. Encryption Compatibility
+3. **Encryption Compatibility**
 ### 3.1 Diagnosing encryption compatibility issues
    - Review the encryption types in the krb5.conf file
    - Check for unsupported encryption types in the client or server
@@ -49,7 +49,7 @@ This troubleshooting manual is aimed at providing guidance on diagnosing and res
    - Update client or server software if outdated or lacking required encryption support
    - Consult vendor documentation for additional guidance on compatible encryption configurations
 
-4. Key Distribution Issues
+4. **Key Distribution Issues**
 ### 4.1 Diagnosing key distribution problems
    - Examine the KDC logs for errors related to key distribution
    - Inspect the keytab files on the client and server for discrepancies
@@ -60,7 +60,7 @@ This troubleshooting manual is aimed at providing guidance on diagnosing and res
    - Regenerate and securely distribute keytab files as necessary
    - Confirm proper service principal names (SPNs) and ensure keys are correctly maintained by the KDC
 
-5. Realm Management Intricacies
+5. **Realm Management Intricacies**
 ### 5.1 Diagnosing realm management challenges
    - Assess realm configurations in the krb5.conf file (i.e., realm settings, domain-to-realm mappings, etc.)
    - Confirm that trust relationships between realms are properly established and maintained

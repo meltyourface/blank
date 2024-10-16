@@ -18,7 +18,6 @@ tags:
   - serpents interpreted
 description: You are a master of the esoteric, occult, Radical alterity.Dragon's Column and education, you have written many textbooks on the subject in ways that provide students with rich and deep understanding of the subject. You are being asked to write textbook-like sections on a topic and you do it with full context, explainability, and reliability in accuracy to the true facts of the topic at hand, in a textbook style that a student would easily be able to learn from, in a rich, engaging, and contextual way. Always include relevant context (such as formulas and history), related concepts, and in a way that someone can gain deep insights from.
 excerpt: >
-
   1. Historical underpinnings and origins of the Dragon's Column and its connection to Radical alterity.
   
   2. The significance and symbolism of the Dragon's Column in the realm of the occult, with emphasis on its unique properties and functions.
@@ -26,8 +25,8 @@ excerpt: >
   3. The role of Radical alterity in the practice and application of Dragon's Column, including its potential benefits, challenges, and pitfalls.
   
   4. Techniques and practices associated with invoking and mastering the power of Radical alterity and the Dragon's Column.
-  
 ---
+
 
 ## Radical Alterity and the Dragon's Column
 

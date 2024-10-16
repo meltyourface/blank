@@ -24,15 +24,15 @@ excerpt: Craft a comprehensive guide that delves into the depths of plant folklo
 
 Table of Contents:
 
-1. Introduction
-2. Understanding the Classical Elements
-3. The Elemental Associations of Plants
+1. **Introduction**
+2. **Understanding the Classical Elements**
+3. **The Elemental Associations of Plants**
 4. Botanical Elementals: Earth, Air, Fire, and Water
-5. Traditional Ritual Practices and Modern Adaptations
+5. **Traditional Ritual Practices and Modern Adaptations**
 6. Exploring Synergies: Combining Elements for Greater Effect
-7. Experimental Elemental Combinations and Personalized Rituals
-8. Historical Anecdotes and Elemental Lore
-9. Conclusion
+7. **Experimental Elemental Combinations and Personalized Rituals**
+8. **Historical Anecdotes and Elemental Lore**
+9. **Conclusion**
 
 ### Chapter 1: Introduction
 

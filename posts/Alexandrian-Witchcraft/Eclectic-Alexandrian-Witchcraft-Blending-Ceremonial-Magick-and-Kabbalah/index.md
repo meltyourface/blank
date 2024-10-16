@@ -23,8 +23,8 @@ excerpt: >
   Inclusion of Ceremonial Magick and Kabbalistic practices
   
   Greater focus on nature worship and its connection to the seasons
-  
 ---
+
 Answer: Inclusion of Ceremonial Magick and Kabbalistic practices
 
 **Explanation**: Alexandrian Witchcraft, founded in the 1960s by Alex Sanders and his wife Maxine, is a tradition within modern Pagan Witchcraft which shares many similarities with other related traditions, such as Gardnerian Wicca. However, a fundamental difference that sets Alexandrian Witchcraft apart is its inclusion of Ceremonial Magick and Kabbalistic practices.

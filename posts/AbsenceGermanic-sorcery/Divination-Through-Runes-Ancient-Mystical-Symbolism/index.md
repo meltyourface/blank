@@ -24,8 +24,8 @@ excerpt: >
   - Chanting ancient incantations during a solar eclipse
   
   - Performing a ritualistic dance beneath a full moon
-  
 ---
+
 Answer: Utilizing runes as a divination tool
 
 In the practice of AbsenceGermanic sorcery, the method that allows practitioners to effectively discover hidden knowledge and navigate the complex network of esoteric symbolism is utilizing runes as a divination tool. Runes are an ancient script, typically associated with the Germanic-speaking peoples of northern Europe, and are known to have been used for various forms of communication, including magical and mystical practices.

@@ -21,7 +21,7 @@ excerpt: Design an encrypted communication inspired by archaic occult manuscript
 ---
 Encrypted Communication System: The Archaic Arcanum
 
-1. The Archaic Alphabet
+1. **The Archaic Alphabet**
 
 Start with creating an alphabet based on archaic symbols. For each letter of the modern alphabet, associate it with an esoteric symbol. Use a mixture of alchemical symbols, astrological signs, runes, and other occult symbols.
 
@@ -56,7 +56,7 @@ Write your message in plain text before veiling it with occult symbolism. Begin 
 
 **Encrypted Message**: (0,1),(1,2),(14,8),(3,6),(16,3),(8,11),… (using Tarot card row, column coordinates)
 
-4. Decoding the Archaic Arcanum
+4. **Decoding the Archaic Arcanum**
 
 To decipher the encrypted message, first reverse-engineer the message using the Mystic Matrix. Identify the Tarot card row and column coordinates to reveal the Archaic Alphabet encoded message. Next, decode the encoded message by replacing each occult symbol with its corresponding modern letter.
 
@@ -74,7 +74,7 @@ c. Replace the encrypted symbols with their modern letter counterparts.
 
 **Plain Text Message**: "Secret Meeting Tonight"
 
-5. Resources and Techniques
+5. **Resources and Techniques**
 
 For mastery in interpreting hidden meanings and unraveling cryptic narratives in the Archaic Arcanum, gather and study authentic sources on mysticism and the occult. Understanding the intricate symbolism behind the Tarot, alchemy, astrology, and runes empowers the user to see beyond the surface of the encoded message.
 

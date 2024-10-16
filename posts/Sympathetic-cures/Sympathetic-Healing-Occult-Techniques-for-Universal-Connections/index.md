@@ -43,7 +43,7 @@ At the heart of sympathetic cures is the understanding that everything in the un
 
 To perform sympathetic healing rituals, a practitioner should first attune themselves to the universal energies and be grounded in the principles of the occult. The following are three different sympathetic healing rituals, each with a unique focus and materials:
 
-1. Healing Candle Ritual
+1. **Healing Candle Ritual**
 
 **Materials**: Healing colored candle (e.g., green or blue), carving tool, essential oil of choice, parchment paper, and a pen.
 
@@ -54,7 +54,7 @@ c. Write the healing intention on parchment paper.
 d. Light the candle and recite the intention.
 e. Allow the candle to burn completely, releasing the energy for healing. Dispose of the remains respectfully.
 
-2. Herbal Healing Charm
+2. **Herbal Healing Charm**
 
 **Materials**: Small cloth pouch, healing herbs (e.g., lavender, chamomile, rosemary), a piece of the recipient's hair or an object belonging to them, and a length of string.
 
@@ -64,7 +64,7 @@ b. Add the hair or object to the pouch, invoking the Law of Contagion.
 c. Close the pouch and tie it securely with the string.
 d. Charge the charm with healing intent and give it to the recipient to wear or carry.
 
-3. Distance Healing Visualization
+3. **Distance Healing Visualization**
 
 **Materials**: A clear quartz crystal, a photograph or name of the person to be healed, and a quiet space for meditation.
 

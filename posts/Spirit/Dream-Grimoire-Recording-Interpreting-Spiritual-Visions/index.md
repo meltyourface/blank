@@ -18,7 +18,6 @@ tags:
   - correlating dream
 description: You are a master of the esoteric, occult, Spirit, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. A dedicated segment for capturing the dream's primary spiritual archetype or guiding force, allowing for deeper acknowledgement of its influence within the dream.
   
   2. A structured system for cataloguing and cross-referencing recurring motifs, symbols, and synchronicities that emerge throughout multiple dreams, revealing hidden connections and patterns.
@@ -26,8 +25,8 @@ excerpt: >
   3. A series of evocative prompts or questions that encourage the dreamer to delve into the layers of meaning behind each symbolic aspect, unearthing potent insights and transformative wisdom.
   
   4. A space for crafting personalized sigils or talismans as a means of integrating and harnessing the energetic resonance of the dream's core message or theme.
-  
 ---
+
 
 ## Nocturnal Visions & Spirit Whispers – A Dream Grimoire
 
@@ -36,7 +35,7 @@ excerpt: >
 **Table of Contents**
 
 1. Introduction & Instructions
-2. Dream Journal Entries
+2. **Dream Journal Entries**
    a. Spiritual Archetype
    b. Symbolic Analysis
    c. Transformational Insights

@@ -18,7 +18,6 @@ tags:
   - ritual dagger
 description: You are a master of the esoteric, occult, Magic of the grimoires, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Ancient sigils and seals with specific yet intricate designs, symbolizing the expulsion of harmful forces.
   
   2. Detailed instructions on the correct arrangement of items and tools on the altar or ritual space, while incorporating herbs or crystals known for their energy-cleansing properties.
@@ -26,8 +25,8 @@ excerpt: >
   3. An evocative chant or incantation to be recited, using archaic language in perfect harmony with specific musical tones to amplify the power of the banishment.
   
   4. Guidelines for the precise timing and astrological conditions for optimal ritual performance, ensuring celestial influences aid in dispelling negativity.
-  
 ---
+
 
 ## The Banishing Rite of the Stelliform Gateway
 
@@ -38,12 +37,12 @@ Materials Required:
 1. Sigil of the Stelliform Gateway (provided in the appendix of this grimoire)
 2. Altar cloth (preferably white or purple)
 3. Ritual dagger / athame
-4. Ceremonial chalice filled with water
+4. **Ceremonial chalice filled with water**
 5. Incense (preferably frankincense or sage)
 6. **Herbs**: Bundle of sage, pinch of salt, and rosemary sprigs
 7. **Crystals**: Black tourmaline, selenite, and clear quartz
 8. White or purple candles (one central and four smaller ones)
-9. Compass
+9. **Compass**
 10. A metronome or similar device for maintaining rhythm
 
 Ritual Setup:

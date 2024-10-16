@@ -27,13 +27,13 @@ Introduction
 
 The Numen of the Gallows is a studied and profound occult concept, rich with symbolism and historical significance. This enigmatic force has captured the imaginations of esoteric practitioners, standing as a testament to the limitless exploration of the unknown through ritual practices, spiritual journeys, and arcane wisdom. Within this chapter, we aim to illuminate the depths of this intriguing and complex subject, delving into its history, symbology, and related rituals or practices, all while emphasizing its connection to esoteric traditions and the power it wields in the realm of the occult.
 
-1. A Dark and Mysterious History
+1. **A Dark and Mysterious History**
 
 The Numen of the Gallows traces its origins to ancient civilizations across the globe, including Babylon, Egypt, and the Celtic druidic culture. While each culture had its specific interpretation of the concept, the overarching themes focused on the sacrificial offerings, connection with the spiritual realms, and divine revelation. In essence, the gallows represented a bridge between the mundane world and the higher planes of existence, enabling practitioners to draw upon otherworldly knowledge and power.
 
 Throughout the ages, the Numen of the Gallows has been associated with various deities that rule over the domains of death, rebirth, and transition. For example, the Norse god Odin is believed to have hung himself from the sacred tree Yggdrasil in search of divine wisdom. In this act of self-sacrifice, the mythic gallows became a conduit for divine revelation and the embodiment of transformation, as Odin transcended his mortal limits to obtain the esoteric knowledge he desired.
 
-2. Symbols and Symbology
+2. **Symbols and Symbology**
 
 In the context of the occult, the gallows is an ever-present symbol, appearing in both historical and contemporary esoteric traditions. **Three of the most significant symbols associated with the Numen of the Gallows are**:
 
@@ -43,7 +43,7 @@ b. **The Noose**: As an object designed to end life, the noose has become an emb
 
 c. **The Hanged Man**: This tarot card, depicting a man hanging upside down from a tree by his ankle, encapsulates the essence of the Numen of the Gallows. It represents the willing submission to sacrifice and transformation, a surrender that paves the way for spiritual growth and unseen wisdom.
 
-3. Rituals and Practices
+3. **Rituals and Practices**
 
 To forge a connection with the Numen of the Gallows, practitioners may engage in various rituals and practices that revolve around the concepts of self-sacrifice, surrender, and spiritual transformation. **The following is an overview of a few of these practices**:
 

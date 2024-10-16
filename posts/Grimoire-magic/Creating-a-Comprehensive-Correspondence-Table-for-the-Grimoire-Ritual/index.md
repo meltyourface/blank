@@ -18,7 +18,6 @@ tags:
   - astrological correspondences
 description: You are a master of the esoteric, occult, Grimoire magic, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Assign each of the 22 Major Arcana cards to the 22 paths on the Kabbalistic Tree of Life, detailing the relationship between the symbology of each card and its corresponding sephira or path.
 
   2. Establish associations between the four Tarot suits (Wands, Cups, Swords, and Pentacles) and the four Kabbalistic worlds (Atziluth, Briah, Yetzirah, and Assiah). Include the elemental correspondences (Fire, Water, Air, and Earth) for further precision.
@@ -28,8 +27,8 @@ excerpt: >
   4. Incorporate any relevant astrological correspondences found within the Tarot deck, such as zodiac signs and planetary influences, to deepen the understanding of their connection to the Kabbalistic Tree of Life.
 
   5. To further enrich the complexity and efficacy of the correspondence table, employ additional systems of occult wisdom such as alchemy, numerology, and sacred geometry, as well as the use of Grimoire techniques like sigil magic and invocation.
-  
 ---
+
 To create the comprehensive correspondence table and carry out the Grimoire ritual effectively, follow these steps:
 
 Step 1: Assign the Major Arcana and paths on the Tree of Life

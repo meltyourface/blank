@@ -18,7 +18,6 @@ tags:
   - invocation patron
 description: You are a master of the esoteric, occult, Black magic, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Select and outline the invocation of a powerful patron deity, demon, or supernatural force, detailing their connection to the realm of the entity to be banished.
   
   2. Describe the creation and consecration of a specialized sigil or symbol, capturing the essence of the spirit or force being barred from this plane of existence.
@@ -28,9 +27,9 @@ excerpt: >
   4. Elucidate a series of specific chants or incantations to be recited throughout the ritual, taking into account their impact on the target entity's metaphysical bonds.
   
   5. Detail the preparatory actions taken to fortify and purify the ceremonial space in order to ensure the unhindered flow of ethereal energies and to stave off potential retaliation from the malign force.
-  
 ---
-1. Invocation of a Patron Deity
+
+1. **Invocation of a Patron Deity**
 
 For the expulsion of an undesirable spirit or malevolent entity, the chosen patron deity to invoke for assistance is Hecate, the Greek goddess of witchcraft, crossroads, and necromancy. Hecate's expertise in commanding spirits and traversing the realms between the living and the dead make her an ideal ally in banishing the targeted entity.
 
@@ -41,13 +40,13 @@ Guide me through this rite tonight.
 Lend me your power, wisdom, and might,
 Help me banish this spirit from sight."
 
-2. Creation and Consecration of a Sigil
+2. **Creation and Consecration of a Sigil**
 
 To create a sigil representing the essence of the targeted spirit or force, utilize a combination of personal artistic skill and intention. Draw a symbol that visually encapsulates the essence of the entity, infusing your understanding of its origin and purpose into the design.
 
 Once the sigil is drawn, it must be consecrated to charge it with your intention. Light a black candle and anoint the sigil with oil or blood, whispering your intent. Pass the sigil through the flame of the candle to seal its power.
 
-3. Esoteric Implements
+3. **Esoteric Implements**
 
 The following implements are required for the expulsion ritual:
 
@@ -58,7 +57,7 @@ The following implements are required for the expulsion ritual:
 - Black candles to represent the banishing of the negative entity.
 - Incense, specifically chosen for banishing, such as dragon's blood or sage.
 
-4. Chants and Incantations
+4. **Chants and Incantations**
 
 Throughout the ritual, the following incantations can be recited to strengthen the practitioner's power and weaken the metaphysical bonds of the targeted entity:
 
@@ -71,7 +70,7 @@ Expel this dark spirit, set this space free.
 By fire, earth, water, and air,
 I command thee, dark force, to disappear."
 
-5. Preparatory Actions and Purification
+5. **Preparatory Actions and Purification**
 
 Before commencing the ritual, the ceremonial space must be purified to ensure unhindered flow of ethereal energies. Set up a protective circle of salt, surrounding the area where the ritual will take place. Light the banishing incense and waft it around the ritual space, envisioning an impenetrable barrier forming against negative forces.
 

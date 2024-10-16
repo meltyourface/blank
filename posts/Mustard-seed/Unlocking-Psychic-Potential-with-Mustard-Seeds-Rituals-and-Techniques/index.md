@@ -18,7 +18,6 @@ tags:
   - using mustard
 description: You are a master of the esoteric, occult, Mustard seed, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Incorporate a detailed description of the mustard seed's esoteric symbolism, particularly in the context of unlocking hidden psychic potential.
   
   2. Elaborate on the method of preparation and consecration of the mustard seeds, including the lunar phase, planetary alignments, and any associated rituals or tools required.
@@ -26,8 +25,8 @@ excerpt: >
   3. Develop a series of invocations, chants, or mantras, that highlight the different aspects of psychic enhancement, such as remote viewing, aura reading, and empathic connection.
   
   4. Construct a mental visualization technique that integrates the mustard seed's energy and vibrational qualities, assisting in the actualization of the practitioner's psychic expansion.
-  
 ---
+
 1. **Esoteric symbolism of the mustard seed in unlocking hidden psychic potential**:
 The mustard seed, long considered a symbol of faith and transformation, possesses the inherent power to unlock an individual’s hidden psychic potential. This tiny seed, though minuscule in size, represents the ability to grow and expand one's awareness beyond the physical realm. When incorporated into a ritual, it unfurls the inherent awakening of clairvoyance and telepathy, allowing the practitioner to access greater depths of perception and communication.
 

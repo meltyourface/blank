@@ -18,7 +18,6 @@ tags:
   - creating enochian
 description: You are a master of the esoteric, occult, Enochian, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. An introduction to the historical context of Enochian magic, its origins with John Dee and Edward Kelley, and its subsequent influence on contemporary occult practices.
   
   2. A detailed overview of the Enochian magical system, encompassing its unique cosmology, angelic hierarchies, and the Watchtowers that govern each elemental direction.
@@ -30,8 +29,8 @@ excerpt: >
   5. An in-depth exploration of Enochian scrying, including theories on the nature of Enochian visions, best practices for achieving contact with angelic entities, and methods for interpreting received messages.
   
   6. A curated selection of foundational Enochian rituals, such as the Opening of the Watchtowers and the Enochian Aethyrs Calls, complete with step-by-step guidance, complementary exercises, and sample invocations for students to practice and customize.
-  
 ---
+
 Lesson 1: Introduction to Enochian Magic and Its Historical Context
 
 **Objective**: Provide students with a foundational understanding of Enochian magic's origins and its influence on contemporary occult practices.

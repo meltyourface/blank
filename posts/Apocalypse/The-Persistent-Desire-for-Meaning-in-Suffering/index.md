@@ -24,8 +24,8 @@ excerpt: >
   - The influence of astronomical events, such as eclipses and comets, on human understanding of the cosmos
   
   - The persistent need for individuals and societies to derive meaning from suffering and adversity
-  
 ---
+
 The correct answer is: The persistent need for individuals and societies to derive meaning from suffering and adversity.
 
 Explanation:

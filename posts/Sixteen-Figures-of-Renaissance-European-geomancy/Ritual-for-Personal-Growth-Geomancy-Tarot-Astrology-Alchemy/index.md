@@ -31,8 +31,8 @@ The Ritual of the Sixteen Stars is a powerful, transformative process that fuses
 Ritual Materials:
 
 1. Sixteen Geomantic Figures (written or engraved on stones, wood, or metal)
-2. Tarot Deck
-3. Astrological Chart based on your natal chart and current transits
+2. **Tarot Deck**
+3. **Astrological Chart based on your natal chart and current transits**
 4. Alchemical Elements (Fire, Water, Air, Earth in the form of candles, a chalice, incense, and a bowl of salt or soil)
 5. A quiet, clean, and peaceful space for the ritual
 

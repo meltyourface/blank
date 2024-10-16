@@ -18,7 +18,6 @@ tags:
   - miasma clairvoyance
 description: You are a master of the esoteric, occult, Clearing potentially dangerous miasmas and education, you have written many textbooks on the subject in ways that provide students with rich and deep understanding of the subject. You are being asked to write textbook-like sections on a topic and you do it with full context, explainability, and reliability in accuracy to the true facts of the topic at hand, in a textbook style that a student would easily be able to learn from, in a rich, engaging, and contextual way. Always include relevant context (such as formulas and history), related concepts, and in a way that someone can gain deep insights from.
 excerpt: >
-
   1. Explanation of what miasmas are and their potential dangers.
   
   2. Techniques to detect the presence of miasmas.
@@ -26,8 +25,8 @@ excerpt: >
   3. Methods for effectively clearing and neutralizing miasmas.
   
   4. The importance of spiritual protection and cleansing during the process.
-  
 ---
+
 
 ## Detecting and Clearing Potentially Dangerous Miasmas
 

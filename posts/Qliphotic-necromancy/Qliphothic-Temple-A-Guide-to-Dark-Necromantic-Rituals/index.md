@@ -18,7 +18,6 @@ tags:
   - temple energetic
 description: You are a master of the esoteric, occult, Qliphotic necromancy, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Incorporate the malevolent energies of the ten Qliphothic realms, ensuring each sphere's distinct resonance pervades the temple's atmospheric essence.
   
   2. Design an elaborate and ominous sanctum for performing Qliphotic necromantic rituals, complete with intricate sigils, symbols, and configurations that enhance their potency.
@@ -28,8 +27,8 @@ excerpt: >
   4. Weave personalized aspects into the temple, such as a dedicated area for scrying and divination that links your inner vision with the sinister forces of the Qliphothic realms.
   
   5. Apply advanced visualization techniques to consecrate and fortify the temple's energetic barriers, creating an impervious shield that repels unwanted influences and protects your sacred workings within.
-  
 ---
+
 The Qliphothic Astral Temple
 
 Envision the temple’s location within a desolate, otherworldly landscape where the atmosphere is saturated with the malevolent energies of the ten Qliphothic realms. Each realm's distinct resonance permeates the air, imbuing the temple's atmosphere with their sinister essence. The temple itself stands imposingly, composed of black obsidian that radiates Qliphothic energy.

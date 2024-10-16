@@ -24,8 +24,8 @@ excerpt: >
   - The all-embracing nature of compassion
   
   - Balanced integration of opposites
-  
 ---
+
 The answer is: Union of the Microcosm and Macrocosm.
 
 In the context of Aleister Crowley's Gnostic Mass, the Priestess's transformation into the High Altar is laden with symbolism related to the union of the microcosm (the individual consciousness and personal experience) and the macrocosm (the cosmos, or the collective unconscious and universal experience). The Gnostic Mass, or Liber XV, is a central ritual of the Ordo Templi Orientis (OTO) and Thelema—a mystical, spiritual path founded by Crowley.

@@ -24,8 +24,8 @@ excerpt: >
   - The species and color of the animal being sacrificed
   
   - The astrological alignments at the time of sacrifice
-  
 ---
+
 The intention and emotional state of the practitioner during the ritual.
 
 The effectiveness of an animal sacrifice within occult practices is not primarily determined by the age and gender of the practitioner, the species and color of the animal, or the astrological alignments at the time of the sacrifice. Although these elements can influence the outcome, the key factor is the intention and emotional state of the practitioner during the ritual.

@@ -24,8 +24,8 @@ excerpt: >
   - The underlying principles of Enochian language directly originate from the Adamic language spoken by Adam and Eve
   
   - Enochian language is a derivative of ancient Hebrew intended to invoke celestial powers for magical purposes
-  
 ---
+
 The underlying principles of Enochian language directly originate from the Adamic language spoken by Adam and Eve.
 
 To understand the reasoning behind this answer, it is necessary to delve into the esoteric and occult foundations of the Enochian language and the concept of Adamical roots. The Enochian language, also known as the Angelical language, is a mystical and magical language that was revealed to Dr. John Dee, a 16th-century occultist, and his seer Edward Kelley. Dee believed it to be an angelic language delivered by angels during a series of scrying sessions.

@@ -18,7 +18,6 @@ tags:
   - rituals
 description: You are a master of the esoteric, occult, Creation of a ghost, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Select an appropriate location with a rich history of paranormal activity, specifically tied to hauntings and ghostly manifestations, to increase the likelihood of success.
   
   2. Expertly conduct a sequence of meticulously researched rituals, incantations, and utilize enchanted artifacts, tailored to summon the specific ghost whose insights about the future would be invaluable.
@@ -28,8 +27,8 @@ excerpt: >
   4. Devise a probing questionnaire, meticulously crafted to extract and decipher pertinent information about forthcoming events, while minimizing ambiguity or misconstruction.
   
   5. Ensure a step-by-step process for cautiously concluding the communion, incorporating techniques to respectfully but firmly sever all ethereal connections, and restore the location to its original state.
-  
 ---
+
 ## I. Selecting an Appropriate Location
 
 1. Conduct thorough research on historical locations with a documented history of paranormal activity and ghostly manifestations in the region.

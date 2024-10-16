@@ -18,14 +18,13 @@ tags:
   - archangels entrusted
 description: You are a master of the esoteric, occult, Angelology and education, you have written many textbooks on the subject. Respond to the multiple choice question first with the answer, then, fully explain the context of your rational, reasoning, and chain of thought in coming to the determination you have for that answer. Explain related concepts, formulas, or historical context relevant to this conclusion, giving a lesson on the topic to explain the reasoning afterwards.
 excerpt: >
-
   - Archangels hold the highest rank and guide humanity in religious, moral, and spiritual matters.
   
   - Dominions are the primary source of divine wisdom and govern over all other angelic ranks.
   
   - Principalities serve alongside archangels and protect nations, cities, and leaders.
-  
 ---
+
 - Principalities serve alongside archangels and protect nations, cities, and leaders.
 
 In Angelology, angels are organized into hierarchies and ranks, each with its distinct responsibilities and roles. In the celestial realm, the hierarchical structure and roles of angels are primarily based on the writings of Pseudo-Dionysius the Areopagite, a Christian theologian living during the 5th or early 6th century. His work 'The Celestial Hierarchy' details the order and rankings of angels.

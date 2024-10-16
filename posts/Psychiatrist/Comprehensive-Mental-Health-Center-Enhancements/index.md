@@ -18,7 +18,6 @@ tags:
   - therapy
 description: You are a master of the esoteric, occult, Psychiatrist, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Integrating complementary and alternative approaches such as meditation, energy work, and occult practices to foster a holistic approach to mental health and wellbeing.
   
   2. Developing a precise schedule for individual and group therapy sessions elaborating on theme-based activities, structured workshops, and diverse therapeutic approaches such as cognitive-behavioral therapy, dialectical behavior therapy, and psychodynamic therapy, ensuring relevance to the patient population.
@@ -26,8 +25,8 @@ excerpt: >
   3. Identifying and incorporating specialized programs tailored to specific patient demographics, such as adolescents, geriatric patients, or diverse cultural backgrounds, taking into account their unique needs and challenges.
   
   4. Evaluating the facility's approach to aftercare planning, ensuring continuity of care through strategic partnerships with community resources and occult practitioners experienced in mental health.
-  
 ---
+
 ## I. Integrating Complementary and Alternative Approaches
 
 1. Introduce meditation and mindfulness practices at the beginning and end of each therapy session, allowing patients to center themselves and process the therapeutic experience more effectively.

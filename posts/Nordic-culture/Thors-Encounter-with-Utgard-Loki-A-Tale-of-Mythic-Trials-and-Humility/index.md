@@ -18,7 +18,6 @@ tags:
   - king utgard
 description: You are a master of the esoteric, occult, Nordic culture, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Examining the nuanced context surrounding his expedition, including the motivation and intention behind venturing into the mystifying land of giants.
 
   2. Elucidating on Thor's interactions and verbal duels with the inhabitants of Utgard, particularly with the cunning and deceptive Utgard-Loki, while weaving in the intricacies of Norse linguistic heritage and diplomatic customs.
@@ -28,8 +27,8 @@ excerpt: >
   4. Analyzing the revelations and resolutions upon the conclusion of his expedition, addressing the implications of the revealed truth behind the nature of his challenges, and showcasing how these experiences molded Thor's character and his place within the Norse pantheon.
 
   5. Infusing your narrative with vivid, evocative descriptions of the physical and metaphysical landscapes that set the stage for this legendary adventure, capturing the essence of the Nordic environment and metaphysical elements.
-  
 ---
+
 1. Examining the nuanced context surrounding his expedition, including the motivation and intention behind venturing into the mystifying land of giants
 
 In the sublime tapestry of Norse mythology, one encounter stands out as a testament to the complexities of the Nordic cosmos: Thor's expedition to the enigmatic realm of Utgard-Loki. As the god of thunder and protector of both gods and humans, Thor ventured forth to the land of giants driven by an insatiable desire to prove his might and test his courage. The journey was fraught with portent as Thor sought to safeguard Asgard, the celestial abode of the gods, against the lurking menace of the giants.

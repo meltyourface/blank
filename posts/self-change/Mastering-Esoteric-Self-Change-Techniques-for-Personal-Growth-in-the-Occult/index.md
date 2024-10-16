@@ -23,7 +23,7 @@ excerpt: >
 
 ## Self-Change in the Occult: A Comprehensive Guide for Personal Development and Esoteric Mastery
 
-1. Introduction
+1. **Introduction**
 
 Self-change within the context of the occult is a specialized approach to personal development, with the ultimate goal of achieving a comprehensive understanding and mastery of esoteric arts. Occultists believe that certain hidden forces and energies within the universe can be harnessed to transform oneself and unlock untapped abilities. The techniques and exercises presented in this guide will help students gain a profound sense of self-awareness and unlock their potential.
 
@@ -59,7 +59,7 @@ C. Journaling
 
 Keeping a journal can help a student track their progress, record experiences, and gain insights into their thoughts and actions. It is a valuable tool for self-reflection, accountability, and introspection.
 
-4. Precautions for Spiritual Safety
+4. **Precautions for Spiritual Safety**
 
 A. Grounding
 

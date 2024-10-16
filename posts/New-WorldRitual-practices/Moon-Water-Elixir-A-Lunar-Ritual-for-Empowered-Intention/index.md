@@ -22,12 +22,12 @@ excerpt: Design a comprehensive New WorldRitual practice for concocting an encha
 The New WorldRitual practice for concocting an enchanted moon water elixir can be broken down into six key steps, designed to produce an elixir infused with potent lunar energies. This process must be performed during the Waxing Gibbous phase of the moon, when the night sky is nearly illuminated, symbolizing the growth and strengthening of intentions.
 
 Ingredients required:
-1. Pure spring water or rainwater
+1. **Pure spring water or rainwater**
 2. A clear quartz crystal, washed and cleansed
-3. A silver or ceramic bowl or chalice
-4. Freshly picked flowers or herbs that resonate with your intentions
-5. White silk cloth
-6. Silver coin
+3. **A silver or ceramic bowl or chalice**
+4. **Freshly picked flowers or herbs that resonate with your intentions**
+5. **White silk cloth**
+6. **Silver coin**
 **Step 1**: Mindful preparation
 Before beginning the ritual, cleanse your mind and body. Take a bath infused with salt or a relaxing, intention-setting blend of herbs. Focus on your specific spiritual purpose behind the elixir, visualizing the desired outcome.
 **Step 2**: Sanctify the space

@@ -29,14 +29,14 @@ Duration: 5 days
 Platform: Zoom (Webinars, Meeting Rooms)
 
 Day 1: Setting the Stage - Opening and Cultural Appreciation
-1. Opening ceremony and welcome by conference organizers
-2. Keynote speech by a respected indigenous elder
+1. **Opening ceremony and welcome by conference organizers**
+2. **Keynote speech by a respected indigenous elder**
 3. Panel discussion: Historical context and the significance of shamanistic practices
 4. Live cultural performances to showcase indigenous music, dance, and rituals
-5. Networking session
+5. **Networking session**
 
 Day 2: Pillars of Shamanism - A Deep Dive into Shamanistic Practices
-1. Keynote speech by an expert in indigenous shamanistic practices
+1. **Keynote speech by an expert in indigenous shamanistic practices**
 2. Breakout sessions (each participant can choose 2 out of 4 sessions):
    a. Sacred plants and their role in shamanistic practices
    b. Shamanistic healing: Traditional methods and contemporary adaptations
@@ -45,34 +45,34 @@ Day 2: Pillars of Shamanism - A Deep Dive into Shamanistic Practices
 3. Summary and wrap-up by conference organizers
 
 Day 3: Contemporary Challenges - The Struggle Toward Cultural Preservation
-1. Keynote speech by an indigenous leader on contemporary threats to indigenous cultures
+1. **Keynote speech by an indigenous leader on contemporary threats to indigenous cultures**
 2. Breakout sessions (participants can choose 2 out of 4 sessions):
    a. Land and resource exploitation: Impacts on shamanistic practices
    b. Legalizing and regulating the use of sacred plants
    c. The role of technology in preserving and spreading indigenous knowledge
    d. Cultural appropriation and its implications in shamanism
 3. Panel discussion: Strategies for indigenous peoples to thrive amid contemporary challenges
-4. Open forum
+4. **Open forum**
 
 Day 4: Innovative Approaches - Promoting and Preserving Shamanistic Practices
-1. Keynote speech by a leading anthropologist discussing innovative ways to preserve cultural heritage
+1. **Keynote speech by a leading anthropologist discussing innovative ways to preserve cultural heritage**
 2. Breakout sessions (participants can choose 2 out of 4 sessions):
    a. Shamanic tourism: Opportunities and pitfalls
    b. Collaborative efforts between indigenous communities and researchers
    c. Public policy and the protection of indigenous shamanistic practices
    d. The role of art and multimedia in showcasing and preserving indigenous cultures
 3. Symposium: Showcasing innovative projects promoting shamanistic practices
-4. Networking session
+4. **Networking session**
 
 Day 5: The Path Forward - Integration and Collaboration
-1. Keynote speech by a renowned activist on global indigenous rights
+1. **Keynote speech by a renowned activist on global indigenous rights**
 2. Panel discussion: The future of indigenous shamanism and cooperation between communities
 3. Concurrent workshops focusing on strategies for:
    a. Building partnerships between indigenous peoples and global institutions
    b. Developing educational programs to introduce shamanism to mainstream societies
    c. Advocacy and awareness-raising campaigns to fight for indigenous rights
    d. Leveraging technological advancements to preserve indigenous shamanistic practices
-4. Closing ceremony and summary by conference organizers
+4. **Closing ceremony and summary by conference organizers**
 
 Budget Proposal:
 

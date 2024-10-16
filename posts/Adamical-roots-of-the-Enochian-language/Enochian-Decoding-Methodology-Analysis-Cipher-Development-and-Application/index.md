@@ -18,7 +18,6 @@ tags:
   - decoding enochian
 description: You are a master of the esoteric, occult, Adamical roots of the Enochian language, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. A systematic approach to identify and categorize various Enochian symbols and glyphs, primarily focusing on their connection to the Adamical roots.
   
   2. Exploration of historical and mythological contexts surrounding the Enochian language to develop an understanding of its intricate semantic structure.
@@ -28,8 +27,8 @@ excerpt: >
   4. Development of a robust algorithm or cipher to decode Enochian scripts, taking into consideration the intricacies of the Adamical roots.
   
   5. Utilizing the developed methodology to decipher three distinct Enochian encodings or cryptograms as a means of validating the efficacy and accuracy of the method.
-  
 ---
+
 ## I. Identifying and Categorizing Enochian Symbols and Glyphs
 
 1. Compile a list of known Enochian symbols and glyphs from both primary and secondary sources, such as the works of John Dee, Edward Kelley, and the Golden Dawn.

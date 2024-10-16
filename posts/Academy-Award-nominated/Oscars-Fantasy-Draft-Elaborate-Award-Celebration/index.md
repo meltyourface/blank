@@ -25,8 +25,8 @@ excerpt: >
 
 Event Structure:
 1. Pre-Event Preparation
-2. Draft Night
-3. Oscar Night
+2. **Draft Night**
+3. **Oscar Night**
 
 Pre-Event Preparation:
 

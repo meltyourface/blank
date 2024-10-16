@@ -21,7 +21,7 @@ excerpt: Conduct an in-depth etymological analysis of the Hermetic lexicon, trac
 ---
 The Hermetic lexicon includes a rich vocabulary drawn from various esoteric, mystical, and alchemical texts and traditions. The etymological analysis of these terms provides a fascinating insight into the transmission and evolution of Hermetic thought from the Hellenistic period through the Renaissance era. In this analysis, we will trace the development of some key Hermetic terms and examine the significant linguistic shifts and cultural influences that impacted their meaning.
 
-1. Hermes Trismegistus
+1. **Hermes Trismegistus**
 
 The figure of Hermes Trismegistus, the purported author of the Hermetic Corpus, embodies the fusion of Greek and Egyptian wisdom. The name itself is a compound of Hermes, the Greek messenger god, and Thoth, the Egyptian god of wisdom and writing. The epithet "Trismegistus," which means "thrice-greatest," reflects the syncretic nature of the character – a combination of Greek and Egyptian philosophical systems and the mastery of multiple domains.
 
@@ -33,7 +33,7 @@ The term "alchemy" has its roots in the Greek words "ἄλλος" (allos) meanin
 
 Gnosis, a Greek term meaning "knowledge" or "insight," is another fundamental concept in Hermeticism. It refers to the direct, experiential understanding of the divine, transcending rational thought. This term, which originally stemmed from the philosophical and religious ideas of the Hellenistic period, acquired a mystical and esoteric dimension when embraced by faiths like Gnosticism. The Renaissance humanists further deepened the idea of gnosis as they began to explore ancient texts and attempted to rediscover the hidden wisdom of the ancients.
 
-4. Emerald Tablet
+4. **Emerald Tablet**
 
 The Emerald Tablet, a foundational text of Hermetic alchemy, offers a terse description of the process of spiritual transformation. The phrase "as above, so below" – which suggests the mirroring of the celestial and terrestrial realms – has its roots in the ancient Egyptian concept of "correspondence," where the earthly realm was understood to reflect the divine order. This concept ultimately became a central tenet in the Hermetic worldview and influenced the development of both alchemical and mystical thought.
 

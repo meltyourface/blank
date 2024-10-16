@@ -23,8 +23,8 @@ excerpt: >
   When analyzed in conjunction with numerology, Adagia reveal hidden mysteries, enabling accurate predictions.
   
   Utilizing Adagia in personal meditation practice aids in connecting with higher realms and unlocking spiritual wisdom.
-  
 ---
+
 The correct answer is:
 
 Utilizing Adagia in personal meditation practice aids in connecting with higher realms and unlocking spiritual wisdom.

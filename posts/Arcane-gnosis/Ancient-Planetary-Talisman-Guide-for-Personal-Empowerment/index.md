@@ -20,7 +20,7 @@ description: You are a master of the esoteric, occult, Arcane gnosis, you comple
 excerpt: > 
   Create an intricate collection of arcane talismans inspired by the seven planetary seals delineated in Agrippa's magnum opus, "Three Books of Occult Philosophy." Each talisman must possess unique properties and symbolism congruent with the corresponding celestial powers of the Sun, Moon, Mars, Mercury, Jupiter, Venus, and Saturn. Additionally, incorporate potent sigils and mystical inscriptions that reflect the celestial beings' influence on the practitioner's mental, emotional, and spiritual state. Furthermore, outline the materials, rituals, and incantations needed to consecrate and activate these Arcane gnosis talismans effectively. Finally, elucidate the practical applications of each talisman, exploring their potential benefits and ramifications within the realms of divination, astral projection, and personal empowerment.
 ---
-1. Sun Talisman
+1. **Sun Talisman**
 
 **Materials**: Gold or brass, tiger's eye gemstone, and amber
 
@@ -32,7 +32,7 @@ excerpt: >
 
 **Practical Applications**: The Sun Talisman enhances self-confidence, authority, and vitality. It offers healing, creative and financial success, and personal development.
 
-2. Moon Talisman
+2. **Moon Talisman**
 
 **Materials**: Silver, moonstone, and selenite
 
@@ -44,7 +44,7 @@ excerpt: >
 
 **Practical Applications**: The Moon Talisman amplifies intuition, emotional balance, and psychic abilities. It aids in dream work, divination, and connecting with the Lunar forces.
 
-3. Mars Talisman
+3. **Mars Talisman**
 
 **Materials**: Iron or steel, red jasper, and bloodstone
 
@@ -56,7 +56,7 @@ excerpt: >
 
 **Practical Applications**: The Mars Talisman enhances courage, physical prowess, and banishes negativity. It protects against enemies and assists in confronting adversity.
 
-4. Mercury Talisman
+4. **Mercury Talisman**
 
 **Materials**: Tin, bronze, or quicksilver; fluorite and labradorite
 
@@ -68,7 +68,7 @@ excerpt: >
 
 **Practical Applications**: The Mercury Talisman fosters clear communication, learning, and adaptability. It invigorates travel, networking, and commerce.
 
-5. Jupiter Talisman
+5. **Jupiter Talisman**
 
 **Materials**: Tin, lapis lazuli, and amethyst
 
@@ -80,7 +80,7 @@ excerpt: >
 
 **Practical Applications**: The Jupiter Talisman attracts wealth, success, and luck. Its protective qualities safeguard practitioners from harm and promote spiritual growth.
 
-6. Venus Talisman
+6. **Venus Talisman**
 
 **Materials**: Copper, rose quartz, and emerald
 
@@ -92,7 +92,7 @@ excerpt: >
 
 **Practical Applications**: The Venus Talisman cultivates love, sensuality, and artistic expression. It nurtures relationships and emotional healing.
 
-7. Saturn Talisman
+7. **Saturn Talisman**
 
 **Materials**: Lead, onyx, and obsidian
 

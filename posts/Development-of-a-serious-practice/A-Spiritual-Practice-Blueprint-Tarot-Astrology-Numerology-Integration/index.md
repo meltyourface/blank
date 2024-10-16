@@ -18,7 +18,6 @@ tags:
   - tarot astrology
 description: You are a master of the esoteric, occult, Development of a serious practice, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Formulating a step-by-step morning ritual that combines tarot card reading techniques, personal daily astrological insights, and numerology computations for life-altering decision making.
   
   2. Incorporating the usage of a specialized journal for documenting reflections, insights, and observations derived from the tarot, astrology, and numerology exercises.
@@ -30,8 +29,8 @@ excerpt: >
   5. Crafting a personalized monthly moon phase ritual that synchronizes moon cycles with tarot, astrological, and numerological wisdom, encouraging the practitioner to manifest intentions and release negativity.
   
   6. Elaborating on the practical and symbolic ways to create sacred spaces for daily practice, incorporating tarot, astrology, and numerology elements, such as deity representations, crystals, candles, and incense.
-  
 ---
+
 Blueprint for Cultivating a Profound Daily Spiritual Practice
 
 ### I. Step-by-Step Morning Ritual

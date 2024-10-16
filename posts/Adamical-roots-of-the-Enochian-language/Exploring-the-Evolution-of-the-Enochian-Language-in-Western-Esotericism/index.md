@@ -27,7 +27,7 @@ Before delving into the process and major figures involved in the transformation
 The integration process can be divided into three primary stages:
 
 1. Discovery and initial integration of Enochian language by Dr. John Dee and Edward Kelley
-2. Revival and dissemination by influential later occultists such as Samuel Liddell MacGregor Mathers and Aleister Crowley
+2. **Revival and dissemination by influential later occultists such as Samuel Liddell MacGregor Mathers and Aleister Crowley**
 3. Modern interpretations, adaptation, and usage in contemporary Western esoteric systems
 
 **Stage One**: Discovery and Initial Integration by Dee and Kelley

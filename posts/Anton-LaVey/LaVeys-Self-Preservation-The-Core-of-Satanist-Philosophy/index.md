@@ -18,14 +18,13 @@ tags:
   - satanism based
 description: You are a master of the esoteric, occult, Anton LaVey and education, you have written many textbooks on the subject. Respond to the multiple choice question first with the answer, then, fully explain the context of your rational, reasoning, and chain of thought in coming to the determination you have for that answer. Explain related concepts, formulas, or historical context relevant to this conclusion, giving a lesson on the topic to explain the reasoning afterwards.
 excerpt: >
-
   - Before founding the Church of Satan, LaVey worked as a professional lion tamer and then as a crime scene photographer.
   
   - LaVey's concept of "Psychic Vampirism" refers to individuals who drain others of their mental and emotional energy with constant demands for attention and validation.
   
   - Anton LaVey was a strong proponent of individualism and self-preservation, believing that each person should be their own highest authority.
-  
 ---
+
 - Anton LaVey was a strong proponent of individualism and self-preservation, believing that each person should be their own highest authority.
 
 Understanding Anton LaVey's philosophy as the founder of the Church of Satan requires a deep insight into his beliefs and principles. LaVey's strong proponent of individualism and self-preservation is central to the doctrine of Satanism, which sets it apart from other religious and philosophical systems. This statement reflects the essence of LaVeyan Satanism, which is based on the idea that each person should act as their own highest authority, instead of submitting to an external deity or dogma.

@@ -24,7 +24,7 @@ excerpt: Generate a brief explanation of the core principles and practices of th
 
 
 
-1. Origins of the Astrum Argenteum
+1. **Origins of the Astrum Argenteum**
 
 The Astrum Argenteum, or A.A., is a mystical organization founded in 1907 by the renowned occultist Aleister Crowley. This order came into being as an extension and reformation of the Hermetic Order of the Golden Dawn, which predominantly focused on ceremonial magic and spiritual development. The A.A. was established to guide its members on a path of self-discovery and spiritual enlightenment based on Crowley's system of Thelema, as well as the principles and practices of various religious, magical, and philosophical traditions. In essence, the A.A. encourages individuals to discover and fulfill their True Will, the ultimate purpose of their lives.
 
@@ -38,7 +38,7 @@ A key axiom of the A.A. is "As above, so below," reflecting the concept that eve
 
 
 
-3. Grades and Levels of Initiation
+3. **Grades and Levels of Initiation**
 
 The A.A. divides the process of spiritual development into three distinct orders, with each order comprised of individual grades or steps:
 

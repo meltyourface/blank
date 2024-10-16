@@ -18,7 +18,6 @@ tags:
   - esoteric occult
 description: You are a master of the esoteric, occult, Sorcerer, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. An introduction that sets the stage for the Sorcerer domain, providing a historical and theoretical context for evocation and invocation magick.
   
   2. A detailed analysis of the divergent methodologies employed in both evocation and invocation magick, delving into the nuances of ritual structure, incantations, and sigil usage.
@@ -30,8 +29,8 @@ excerpt: >
   5. The ethical and practical implications of harnessing these arcane forces, including potential benefits, risks, and responsibilities in the context of the Sorcerer's code of conduct.
   
   6. Examples and case studies of real-life practitioners or legendary sorcerers who have notably wielded evocation and invocation magick, along with an exploration of their achievements and challenges.
-  
 ---
+
 
 ## The Mystical Realm of Sorcerer: Evocation and Invocation Magick
 

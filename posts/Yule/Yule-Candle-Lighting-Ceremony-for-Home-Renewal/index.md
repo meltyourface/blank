@@ -29,11 +29,11 @@ Materials needed:
 2. Protective crystals (such as black tourmaline, smoky quartz, or amethyst)
 3. Sacred essential oils (such as frankincense, sandalwood, or myrrh)
 4. A white or silver candle (represented as the sun)
-5. Matches or a lighter
-6. A chalice of water 
-7. A bowl of salt
-8. A feather or fan
-9. A small cauldron of ignited charcoal
+5. **Matches or a lighter**
+6. **A chalice of water **
+7. **A bowl of salt**
+8. **A feather or fan**
+9. **A small cauldron of ignited charcoal**
 
 **Instructions**:
 

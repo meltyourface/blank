@@ -38,38 +38,38 @@ Course Modules
 Module 1: Foundations of Familiars
 
 1. Familiar Companions' Origins and Purpose
-2. The Boundaries Between Familiar and Master
-3. Ethereal Communication and Connection
+2. **The Boundaries Between Familiar and Master**
+3. **Ethereal Communication and Connection**
 
 Module 2: Elemental and Magical Proficiency
 
-1. Recognizing and Enhancing Elemental Affinities
-2. Fundamentals of Magical Rituals
-3. Skill Transference and Enhancement via Symbiosis
+1. **Recognizing and Enhancing Elemental Affinities**
+2. **Fundamentals of Magical Rituals**
+3. **Skill Transference and Enhancement via Symbiosis**
 
 Module 3: Physical, Mental, and Magical Conditioning
 
-1. Specialized Exercises for Enhanced Dexterity and Stamina
-2. Mental Conditioning Techniques for Improved Cognition and Focus
-3. Magical Rituals for Strengthening Connection and Augmenting Powers
+1. **Specialized Exercises for Enhanced Dexterity and Stamina**
+2. **Mental Conditioning Techniques for Improved Cognition and Focus**
+3. **Magical Rituals for Strengthening Connection and Augmenting Powers**
 
 Module 4: Familiar Specializations
 
-1. Assessment of Innate Talents and Chosen Area of Expertise
-2. Specific Techniques and Exercises to Hone Specialty Skills
+1. **Assessment of Innate Talents and Chosen Area of Expertise**
+2. **Specific Techniques and Exercises to Hone Specialty Skills**
 3. Case Studies: Familiar Companions as Spies, Healers, Protectors, and More
 
 Module 5: The Familiar Companion-Master Dynamic
 
-1. Building Trust and Confidence Between Familiar and Master
-2. Enhancing Collaboration in Magical Endeavors and Beyond
-3. Conflict Resolution and Maintaining a Balanced Partnership
+1. **Building Trust and Confidence Between Familiar and Master**
+2. **Enhancing Collaboration in Magical Endeavors and Beyond**
+3. **Conflict Resolution and Maintaining a Balanced Partnership**
 
 Module 6: Adapting to Challenges 
 
-1. Identifying and Overcoming Limitations
-2. Utilizing Versatility and Resourcefulness in Diverse Environments
-3. Preparing for Unexpected Obstacles and Situations
+1. **Identifying and Overcoming Limitations**
+2. **Utilizing Versatility and Resourcefulness in Diverse Environments**
+3. **Preparing for Unexpected Obstacles and Situations**
 
 Assessment and Progress
 

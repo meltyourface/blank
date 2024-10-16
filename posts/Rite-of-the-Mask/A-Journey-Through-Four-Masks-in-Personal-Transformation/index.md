@@ -22,10 +22,10 @@ excerpt: In the Rite of the Mask, identify the four primary masks representing d
 To thoroughly respond to this knowledge challenge, it is crucial first to identify the four primary masks representing different aspects of the human experience in the Rite of the Mask. Following their identification, we will analyze their roles in an individual's journey through self-discovery, personal transformation, and integration within both microcosm and macrocosm of the universe.
 
 The four primary masks within the Rite of the Mask are:
-1. The Mask of Innocence
-2. The Mask of Duality
-3. The Mask of Truth
-4. The Mask of Wholeness
+1. **The Mask of Innocence**
+2. **The Mask of Duality**
+3. **The Mask of Truth**
+4. **The Mask of Wholeness**
 
 1. The Mask of Innocence:
 This mask represents the pure, unadulterated state of being that exists before any social conditioning or external influence takes place. It embodies our original self – the pure, fundamental essence of who we were when we first came into existence. In self-discovery, it represents the journey to reclaim the innate wisdom, creativity, and spontaneity that has been lost through societal conditioning.

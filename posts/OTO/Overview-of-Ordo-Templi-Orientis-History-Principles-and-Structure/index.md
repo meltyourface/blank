@@ -26,7 +26,7 @@ excerpt: Generate a section of a grimoire that provides a comprehensive overview
 
 Ordo Templi Orientis (OTO) is a mystical and occult organization founded in the early 20th century. It has been associated with prominent figures such as Aleister Crowley and Karl Kellner, who were instrumental in establishing the key principles, beliefs, practices, and structures that define the organization to this day. OTO has its roots in the Western esoteric tradition, combining influences from Freemasonry, Rosicrucianism, Thelema, and various other spiritual systems. This section provides a comprehensive overview of OTO, serving as a foundation for deeper study for initiates.
 
-1. History of Ordo Templi Orientis
+1. **History of Ordo Templi Orientis**
 
 Ordo Templi Orientis was founded in the early 20th century by K. Kellner and Theodore Reuss. Kellner, an Austrian industrialist, and Reuss, a German occultist, sought to create an international fraternal organization integrating various esoteric systems. In the beginning, OTO was closely associated with Masonic and Rosicrucian traditions, and it maintained a particular interest in the study and practice of sexual magic.
 
@@ -34,7 +34,7 @@ One of the most famous figures in the history of OTO is Aleister Crowley, an Eng
 
 Over the years, OTO has undergone several changes in leadership, with the current Outer Head of the Order being William Breeze. Since its inception, OTO has experienced periods of growth and stagnation, but it has continued to remain an influential player in the global occult and esoteric landscape.
 
-2. Key Principles and Beliefs
+2. **Key Principles and Beliefs**
 
 The central belief of Ordo Templi Orientis and its associated religious system, Thelema, is based on the law of "Do what thou wilt shall be the whole of the Law. Love is the law, love under will." This principle, known as the Law of Thelema, emphasizes the importance of individual will, personal freedom, and the pursuit of one's true purpose in life. Thelemites believe that each person has a unique and divine purpose, known as their True Will, which they must discover and manifest.
 
@@ -45,7 +45,7 @@ In addition to the Law of Thelema, OTO is founded on several core principles and
 - The practice of ceremonial magick and initiation as a means of personal transformation and spiritual development
 - An emphasis on the study and practice of sexual magic as part of the spiritual path
 
-3. Practices and Rituals
+3. **Practices and Rituals**
 
 Ordo Templi Orientis incorporates various practices and rituals designed to facilitate spiritual growth and personal transformation. As members progress through the initiatory degrees, they engage in a range of ceremonial, magickal, and meditative practices aimed at helping them achieve mastery over themselves and their environment.
 
@@ -55,7 +55,7 @@ Some of the key practices within OTO include:
 - Initiation rituals: OTO's initiation ceremonies serve to introduce members to the organization's spiritual teachings, provide symbolic experiences of transformation, and represent stages of personal growth.
 - Sexual magic: Incorporating practices from both Eastern and Western spiritual traditions, sexual magic is a fundamental aspect of OTO's teachings and is closely linked to the development and fulfillment of individual will.
 
-4. Structure of Ordo Templi Orientis
+4. **Structure of Ordo Templi Orientis**
 
 The organization of OTO is based on a hierarchical system, with members progressing through a series of degrees as they gain deeper knowledge and skill in the organization's practices and philosophy. OTO's degree structure is heavily influenced by Freemasonry, but it has been adapted to incorporate the unique teachings and rituals associated with Thelema.
 

@@ -18,7 +18,6 @@ tags:
   - circles talismans
 description: You are a master of the esoteric, occult, Sortes, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Identify the specific ritual tools, such as a summoning circle or a talisman, that are integral to the Sortes practice.
   
   2. Integrate the significance of each tool within the context of Sortes and elaborate on their unique properties and symbolism.
@@ -26,8 +25,8 @@ excerpt: >
   3. Implement a multistep cleansing process that employs focused intention and visualizations to expel any impurities and negative energies from the tools.
   
   4. Incorporate the use of esoteric symbols, sigils, or mantras to enhance the potency of the visualization techniques during the consecration process.
-  
 ---
+
 1. **Identification of specific ritual tools**:
 
 Within the domain of Sortes, there are several essential tools that practitioners rely on to perform their rituals and connect with occult energies. These tools include summoning circles, talismans, a ritual dagger (athame), a chalice, a wand, a censer or incense burner, a representation of the elements (earth, air, fire, water), and a book of shadows (a personal journal for documenting rituals, spells, and experiences).

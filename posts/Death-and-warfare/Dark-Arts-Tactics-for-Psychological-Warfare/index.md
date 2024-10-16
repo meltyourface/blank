@@ -18,7 +18,6 @@ tags:
   - restless spirits
 description: You are a master of the esoteric, occult, Death and warfare, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Utilize dark arts and haunting illusions to manifest apparitions of the enemy's deceased ancestors or fallen comrades, undermining their mental fortitude.
   
   2. Fabricate prophetic dreams and ominous omens to instill a sense of dread and impending doom among the opposing troops. This may include utilizing blood rituals or cursed talismans.
@@ -28,8 +27,8 @@ excerpt: >
   4. Manipulate the environment to create an atmosphere of despair, employing unhallowed ground, eerie sounds, or the perpetual presence of ravens or other harbingers of death.
   
   5. Enlist the aid of spectral assassins or reanimated corpse-soldiers to carry out targeted attacks on key enemy personnel, further demoralizing their ranks through terrifying encounters with the forces of undeath.
-  
 ---
+
 To enact this plan, we will proceed in five overlapping phases that emphasize the interdependence of each terrifying element. The primary goal is to create an atmosphere of fear and helplessness, dismantling the enemy's will to fight and generating chaos within their ranks.
 
 Phase 1: Raising the Dead and Haunting Illusions

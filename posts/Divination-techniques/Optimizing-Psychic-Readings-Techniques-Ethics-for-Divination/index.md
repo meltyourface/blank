@@ -47,7 +47,7 @@ C. Pendulums
 - Asking focused questions: Formulate clear, concise questions that require simple and decisive answers.
 - Interpreting pendulum responses: Carefully interpret and analyze the pendulum's movements to understand the messages being conveyed.
 
-3. Advanced Methods for Shielding Against Interference
+3. **Advanced Methods for Shielding Against Interference**
 
 - Protection rituals and prayers: Use rituals or prayers to create a sacred space around your reading area. This can include the casting of circles or invoking spiritual guides.
 - Cleansing techniques: Utilize sage, palo santo, or other purifying tools to clear any unwanted energies from your immediate surroundings.

@@ -26,7 +26,7 @@ Introduction
 
 The field of Metaphysical psychology blends esoteric knowledge, mysticism and the human experience with the theories of modern psychology. This paper analyses the interconnectedness of Swiss psychoanalyst Carl Gustav Jung's The Red Book (2009) and ancient Gnostic texts. By synthesizing the parallels and divergences between these sources, we aim to underscore the metaphysical and esoteric aspects embedded within Jungian psychological theories.
 
-1. Parallels between the Red Book and Gnostic Texts
+1. **Parallels between the Red Book and Gnostic Texts**
 
 A. Archetypes and Symbolism
 
@@ -48,7 +48,7 @@ B. Jung's Active Imagination
 
 Jung's method of active imagination, a therapeutic approach of utilizing imagination, fantasy, and dreams for self-exploration, finds its roots in Gnostic meditation and visualization practices. By accessing the unconscious mind, these practices offered individuals a deeper understanding of their divine potential and connection with the Pleroma, the spiritual realm inhabited by the divine fullness of God.
 
-3. Broader Implications for Metaphysical Psychology
+3. **Broader Implications for Metaphysical Psychology**
 
 Understanding the overlapping themes between The Red Book, Gnostic texts and Jungian psychology extends the horizons of Metaphysical psychology by:
 

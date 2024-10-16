@@ -25,8 +25,8 @@ excerpt: >
   - Alu primarily refers to an alloy made from aluminum, which was believed to possess magical properties when used in rituals
   
   - While serving as a protective rune, Alu is also intrinsically linked to personal transformation and the integration of spiritual energy within the practitioner
-  
 ---
+
 The correct answer is: 
 
 - While serving as a protective rune, Alu is also intrinsically linked to personal transformation and the integration of spiritual energy within the practitioner.

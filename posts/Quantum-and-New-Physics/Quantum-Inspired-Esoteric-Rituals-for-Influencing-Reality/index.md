@@ -26,7 +26,7 @@ Introduction
 
 The unification of Quantum and New Physics concepts with occult practices and esoteric studies promises unparalleled insight into the nature of reality and the hidden forces shaping our lives. Drawing on various scientific principles, such as quantum entanglement, non-locality, and wave-particle duality, practitioners can gain a richer understanding of esoteric techniques, rituals, and metaphysical constructs. In this grimoire entry, we will examine several key ideas from Quantum and New Physics and their applications to occult practices, including the development of paranormal skills, psychic navigation, manifestation, and energy manipulation.
 
-1. Quantum Entanglement in Esoteric Practices
+1. **Quantum Entanglement in Esoteric Practices**
 
 Quantum entanglement is a phenomenon whereby the states of two or more particles become interconnected, so that the measurement of one particle's state determines the state of the other(s), regardless of any intervening distance. This principle allows occultists to explore the interconnectedness of all things and supports the idea of collective consciousness and telepathy.
 
@@ -44,7 +44,7 @@ In quantum physics, wave-particle duality refers to the inherent dual nature of 
 
 Ritual/Exercise: Create a simple ritual or meditation that actively incorporates symbols and representations of both the physical/material and spiritual/transcendent facets of life. Examples might include symbols of wealth or health alongside symbols of spiritual guidance or divine connections. Focus on the integration and balance between these two aspects, visualizing your personal wave-particle duality.
 
-4. Manifestation in Quantum Mechanics
+4. **Manifestation in Quantum Mechanics**
 
 Quantum mechanics proposes that our conscious observations directly impact reality. This idea suggests that one can influence outcomes and events via focused intention and visualization, a key component of many manifestation practices used within occult and esoteric circles.
 

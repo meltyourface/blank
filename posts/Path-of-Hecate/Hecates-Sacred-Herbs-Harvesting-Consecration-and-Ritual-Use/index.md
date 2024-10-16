@@ -18,7 +18,6 @@ tags:
   - appropriate herbs
 description: You are a master of the esoteric, occult, Path of Hecate, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Detail essential preparation, consecration, and preservation methods for each fundamental herb and plant.
   
   2. Identify the unique properties and symbolism of Hecate's sacred flora, such as mugwort, yew, or datura, as well as their associations with the Underworld, Crossroads, and Moon.
@@ -28,8 +27,8 @@ excerpt: >
   4. Explain advanced techniques for crafting personal talismans, potions, or incenses using Hecate's sacred herbs while considering planetary, lunar, and solar energies that can enhance their efficacy.
   
   5. Explore the historical and mythological significance of the herbs and plants within Hecate's lore, and suggest innovative ways to incorporate this wisdom into the creation of contemporary practices.
-  
 ---
+
 ## I. Essential Preparation, Consecration, and Preservation Methods for Hecate's Sacred Herbs and Plants
 
 1. **Harvesting**: Gather the herbs and plants respectfully during their peak potency, such as during a full moon or specific planetary alignments. Conduct a short blessing prior to harvest and consider leaving an offering of gratitude.

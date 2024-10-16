@@ -18,7 +18,6 @@ tags:
   - spare sexual
 description: You are a master of the esoteric, occult, Austin Osman Spare's erotic current of esoteric art, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Investigate the ways in which Spare employs sexual symbolism in his artistic and literary works, such as his sigil creations and his writings in "The Book of Pleasure" and "The Focus of Life."
   
   2. Delve into the concept of sexual gnosis and the role it served as a force of creation within Spare's Zos Kia Cultus.
@@ -26,8 +25,8 @@ excerpt: >
   3. Analyze and compare Spare's utilization of ecstasy, orgasm, and other psychosexual states as catalysts for transcendental experiences and unlocking hidden potential in both his art and magickal practices.
   
   4. Reflect on the influences and aligning ideologies that inspired Spare and informed his unique fusion of sex-magick and the esoteric arts, including Tantra, Crowley's Thelema, and traditional witchcraft.
-  
 ---
+
 Objective 1: Investigating Spare's use of sexual symbolism in his artistic and literary works
 
 Austin Osman Spare employed sexual symbolism extensively throughout his literary and artistic works. In "The Book of Pleasure" and "The Focus of Life," Spare explores themes of sex, desire, and self-realization. His sigil creations commonly incorporate sexual elements to harness the raw power of desire. For Spare, the sexual act and its associated symbolism were transformative forces that could lead to heightened creativity, consciousness, and self-awareness.

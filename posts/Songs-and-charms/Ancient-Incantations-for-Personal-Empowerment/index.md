@@ -32,7 +32,7 @@ Girded by confidence galore.
 **Chant**:
 O Astra, o Prudentia, o Virtus, in tua luce sumus.
 
-2. Sovereign Spell
+2. **Sovereign Spell**
 
 **Lyrics**:
 I wield the scepter of my soul,
@@ -45,7 +45,7 @@ Impero Sui, Imperium meum, in Imperando sum.
 
 ### II. Incantations and Chants for Public Speaking
 
-1. Eloquent Muse
+1. **Eloquent Muse**
 
 **Lyrics**:
 O muse of words that dance and glide,
@@ -69,7 +69,7 @@ O Concordia, o Vox, o Cantus, in tua harmonia sum.
 
 ### III. Incantations and Chants for Decision-Making
 
-1. Emerald Judgement
+1. **Emerald Judgement**
 
 **Lyrics**:
 With emerald-eyed precision weigh,
@@ -93,7 +93,7 @@ O Navigatio, o Divinus, o Sapiens, in tua diremptio sum.
 
 ### IV. Incantations and Chants for Self-Love
 
-1. Inner Radiance
+1. **Inner Radiance**
 
 **Lyrics**:
 From deep within, a light will gleam,
@@ -104,7 +104,7 @@ In inner radiance, I'll redeem.
 **Chant**:
 O Lux, o Intus, o Amor, in tua radientia sum.
 
-2. Acceptance and Grace
+2. **Acceptance and Grace**
 
 **Lyrics**:
 I release the chains that bind,

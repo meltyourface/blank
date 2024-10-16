@@ -35,19 +35,19 @@ Though the practice of alchemy can be traced back to Ancient Egypt, Greece, Chin
 1. The First Matter (Prima Materia)
 The process begins with identifying suitable materials, often derived from the mineral, plant, or animal kingdom. These are considered the First Matter, which embodies the raw potential for transformation.
 
-2. Calcination
+2. **Calcination**
 This step involves the heating and cleansing of the First Matter using fire or heat. The calcination process calcifies the substance, reducing it to a fine powder of essential minerals.
 
-3. Dissolution and Separation
+3. **Dissolution and Separation**
 Following calcination, the alchemist dissolves the calcined matter in water or other solvents to separate its components. Purifying the separated substances, the alchemist then sets aside the essential elements for further processing.
 
-4. Conjunction and Fermentation
+4. **Conjunction and Fermentation**
 In the conjunction phase, the separated and purified elements are recombined, resulting in the marriage of opposites that characterizes alchemical symbolism. Fermentation introduces living organisms, often yeasts or bacteria, to encourage the growth and amalgamation of energies within the substance.
 
-5. Distillation
+5. **Distillation**
 The substance is heated once more, allowing for the evaporation and condensation of volatile elements. This process intensifies the tincture's potency and readies it for the final phase.
 
-6. Coagulation and Fixation
+6. **Coagulation and Fixation**
 In the last stage, the distillate is recombined with the non-volatile components from the earlier stages, causing further transformations within the material. The previously volatile components now coagulate and become fixed within the matter, forming the final alchemical tincture.
 
 ### IV. Key Ingredients, Symbolism, and Associations

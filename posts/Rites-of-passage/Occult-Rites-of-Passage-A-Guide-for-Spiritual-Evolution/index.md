@@ -26,13 +26,13 @@ Introduction
 
 Rites of Passage are an integral aspect of human life and have been utilized by various traditions throughout history. In occult practice, these Rites of Passage facilitate an individual's transition from one stage of spiritual development to another. They serve as milestones that systematically guide the practitioner through levels of deeper understanding, expanded consciousness, and spiritual transformation. The following sections will outline, in detail, some of the vital Rites of Passage in the occult tradition, their significance in the spiritual growth and transformation of the practitioner, and the steps involved in performing them.
 
-1. The Rite of Purification
+1. **The Rite of Purification**
 
 The Rite of Purification is the very first rite that initiates must undergo in their foray into the occult mysteries. The significance of this rite lies in the cleansing and preparation of the individual to receive and embody higher spiritual energies. This rite ensures the release of negative energies, attachments, and destructive thought patterns, opening pathways for positive energies to flow and enabling deep understanding.
 
 The Rite of Purification may involve various practices such as water or fire rituals, fasting, meditation, and purification of one's living space. Precautions must be taken during this rite to ensure proper guidance from an experienced mentor, as it can be challenging to confront and let go of limiting beliefs and negative energies.
 
-2. The Rite of Initiation
+2. **The Rite of Initiation**
 
 The Rite of Initiation marks the official entry of the seeker into the sacred realms of the occult. This rite symbolizes the spiritual awakening and transformation of the individual from one who is bound by ego, material attachments, and worldliness, to a more self-aware and spiritually conscious being.
 
@@ -40,7 +40,7 @@ The Rite of Initiation usually involves the taking of vows or oaths, which reaff
 
 To avoid misuse of power and ensure the continuity of the tradition, aspiring initiates should be carefully observed and assessed by experienced mentors before being allowed to participate in this rite.
 
-3. The Rite of Attainment
+3. **The Rite of Attainment**
 
 The Rite of Attainment signifies the ongoing process of acquiring knowledge, wisdom, and spiritual insight. As the practitioner advances in their path, new doors of perception and realms of understanding are unveiled. Occult teachings, exercises, and experiences are continually deepening in complexity and intensity for the initiate.
 
@@ -48,7 +48,7 @@ The steps involved in the Rite of Attainment vary depending on the particular sc
 
 It is essential to maintain a healthy balance between spiritual practice and daily life during the Rite of Attainment so that the initiate does not succumb to spiritual bypassing or lose touch with their physical and emotional well-being.
 
-4. The Rite of Transcendence
+4. **The Rite of Transcendence**
 
 The Rite of Transcendence marks the culmination of the practitioner's spiritual journey and represents the achievement of the highest level of spiritual development within their path. This rite symbolizes the overcoming of all limiting beliefs, attachments, and illusions of duality, leading to a profound state of unity, wisdom, and spiritual liberation.
 

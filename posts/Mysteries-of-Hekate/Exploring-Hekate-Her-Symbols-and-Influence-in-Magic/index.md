@@ -34,29 +34,29 @@ Reflecting her multifaceted nature, Hekate played several roles in the pantheon 
 
 ### III. Symbols and Associations
 
-1. The Moon
+1. **The Moon**
 
 Hekate holds a strong connection with the moon, embodying its energy through her ever-changing nature. As the embodiment of the dark and waning moon, Hekate graced the nightly crossroads with her spectral illuminations. Her lunar connection links her to the tides of life, death, and rebirth, urging practitioners to embrace cycles of change and transformation.
 
-2. Crossroads
+2. **Crossroads**
 
 Known as the goddess of crossroads, Hekate watches over decision-making and transition points in our lives. Traditionally, shrines and offerings would be left at physical crossroads in her honor. As a liminal figure, she represents the space between worlds - offering guidance in navigating life's challenging paths.
 
-3. Witchcraft
+3. **Witchcraft**
 
 Through her association with nature, plants, magic, and night, Hekate has become synonymous with witchcraft. She is known to impart her wisdom of herbs and spells upon her followers, solidifying her as a potent figure within various magical traditions.
 
 ### IV. The Significance of Her Torches, Keys, and Serpents
 
-1. Torches
+1. **Torches**
 
 Hekate's torches symbolize illumination and guidance in both physical and spiritual darkness. By shining her light on the unknown, she helps us navigate our journey through life, death, and even the afterlife.
 
-2. Keys
+2. **Keys**
 
 The keys Hekate bears signify her role as the guardian of knowledge, mysteries, and hidden realms. With her keys, she unlocks doors of understanding and provides access to the sacred magic that lies beyond ordinary perception.
 
-3. Serpents
+3. **Serpents**
 
 Representatives of transformation and rebirth, serpents are another significant symbol of Hekate. They embody the cyclical nature of life, further emphasizing her connection to the magical and mysterious realms that hold the promise of personal growth and rejuvenation.
 
@@ -64,7 +64,7 @@ Representatives of transformation and rebirth, serpents are another significant 
 
 To build a deep connection with Hekate, practitioners can engage in acts of devotion and communion. This can involve rituals, offerings, and invocations aimed at aligning oneself with her energy and seeking her guidance.
 
-1. Rituals
+1. **Rituals**
 
 One example of a ritual that honors Hekate and petitions for her guidance and protection is the Deipnon. Traditionally practiced on the nights of the dark moon, this ritual takes place at a crossroads and involves the following steps:
 
@@ -75,11 +75,11 @@ One example of a ritual that honors Hekate and petitions for her guidance and pr
 - Meditate on your intentions, allowing her wisdom and illumination to guide you.
 - After the ritual, dispose of the offerings according to tradition or personal belief, then thank Hekate for her presence and guidance.
 
-2. Offerings
+2. **Offerings**
 
 Presenting offerings to Hekate is one way to honor her and build a relationship with her. Offerings that resonate with her energy include honey, eggs, garlic, pomegranates, and incense such as myrrh or frankincense.
 
-3. Invocations
+3. **Invocations**
 
 An example of an invocation for Hekate could be:
 

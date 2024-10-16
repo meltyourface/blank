@@ -18,7 +18,6 @@ tags:
   - magick elemental
 description: You are a master of the esoteric, occult, Hierophant, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Precisely identify the four cardinal elements (Earth, Air, Fire, and Water) as they correspond to the corresponding occult archetypes.
   
   2. Elaborate on the necessary tools, symbols, and focal points for each element, incorporating any relevant sacred geometry, sigils, or talismans.
@@ -30,8 +29,8 @@ excerpt: >
   5. Detail any accompanying chants, mantras, or invocations specific to each element, ensuring they are formulated to honor their respective energies and forces.
   
   6. Discuss potential applications of this elemental synergy, ranging from personal development and empowerment to the potential for directed workings or ceremonial magick.
-  
 ---
+
 Comprehensive Elemental Ritual for the Hierophant's Esoteric Domain
 
 **Overview**:

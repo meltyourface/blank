@@ -33,7 +33,7 @@ Curriculum Outline:
 - Overview of arcane symbols, sigils, and the Black Sun
 - The significance of the Black Sun in esoteric and occult practices
 
-2. Theoretical Foundations of Black Sun Fire
+2. **Theoretical Foundations of Black Sun Fire**
 - Principles that govern the Black Sun Fire energy
 - Astral awakening and the connection to other realms
 - The role of eldritch energies in Black Sun Fire mastery

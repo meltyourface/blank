@@ -30,8 +30,8 @@ excerpt: >
   5. Combine physical movements, such as standing firmly on the ground for a few minutes while visualizing the roots extending from the soles of your feet into the Earth, absorbing energy up through your legs and into your core.
   
   6. Enhance the ritual by integrating aromatherapy with essential oils like patchouli, vetiver, or cedarwood, known for their grounding and Earth element-affiliated properties.
-  
 ---
+
 In-depth Ritual for Grounding and Centering using Elemental Powers of Earth:
 
 1. Selection of Sacred Space: Search for a serene and undisturbed natural setting like a park or forest where you feel a strong connection to the Earth element. Look for an area with rich soil, rocks, or lush greenery. This space will be your anchor point, a location where the energy of Earth can envelop and ground you.

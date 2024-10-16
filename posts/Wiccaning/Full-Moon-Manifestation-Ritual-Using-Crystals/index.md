@@ -24,10 +24,10 @@ For this comprehensive Wiccan manifestation ritual, we will be harnessing the po
 To begin, here's a list of supplies you'll need for the ritual:
 1. Clear Quartz, Amethyst, and Citrine crystals
 2. Cleansing materials such as water or incense (sage, cedarwood, or frankincense)
-3. A white or silver candle
-4. A piece of paper or parchment
-5. A pen or quill and ink
-6. An altar or sacred space
+3. **A white or silver candle**
+4. **A piece of paper or parchment**
+5. **A pen or quill and ink**
+6. **An altar or sacred space**
 **Step 1**: Cleanse your sacred space
 Before the ritual, cleanse and consecrate the space where your altar is located. You can use water, incense, or any other preferred cleansing method to remove any negative energy and create a welcoming environment.
 **Step 2**: Set up the altar

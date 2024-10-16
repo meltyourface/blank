@@ -18,14 +18,13 @@ tags:
   - wiccan movement
 description: You are a master of the esoteric, occult, Alex Sanders and education, you have written many textbooks on the subject. Respond to the multiple choice question first with the answer, then, fully explain the context of your rational, reasoning, and chain of thought in coming to the determination you have for that answer. Explain related concepts, formulas, or historical context relevant to this conclusion, giving a lesson on the topic to explain the reasoning afterwards.
 excerpt: >
-
   - Alex Sanders is known for founding the Alexandrian tradition of Wicca, which draws upon both Gardnerian Wicca and ceremonial magic
   
   - Alex Sanders gained notoriety primarily due to authoring multiple bestselling books on witchcraft, which overshadowed his personal practices
   
   - Alex Sanders made his name solely because of being initiated into Gardnerian Wicca, and did not establish or contribute to any other traditions in the occult
-  
 ---
+
 Answer: Alex Sanders is known for founding the Alexandrian tradition of Wicca, which draws upon both Gardnerian Wicca and ceremonial magic.
 
 **Explanation**: Alex Sanders (1926-1988), also known as the "King of the Witches," was a prominent figure in the modern witchcraft and Wiccan movement. He is best known for founding the Alexandrian tradition of Wicca, which combines elements of both Gardnerian Wicca and ceremonial magic.

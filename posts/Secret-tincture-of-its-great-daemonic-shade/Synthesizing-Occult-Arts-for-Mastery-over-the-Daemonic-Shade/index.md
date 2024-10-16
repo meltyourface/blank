@@ -18,7 +18,6 @@ tags:
   - occult
 description: You are a master of the esoteric, occult, Secret tincture of its great daemonic shade, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Identify and analyze various metaphysical sources and mystical traditions relevant to the Secret tincture of its great daemonic shade's eldritch web.
   
   2. Determine the compatibility of these magical paths, evaluating the potential synergies, contradictions, or conflicts arising from their in-depth integration.
@@ -30,8 +29,8 @@ excerpt: >
   5. Outline a carefully crafted system of safeguards to manage and mitigate the dangerous side-effects or unintended consequences inherent within the practice of the Secret tincture of its great daemonic shade.
   
   6. Develop an adaptable progression framework for the practitioner, allowing them to ascend the numerous echelons of occult mastery, deepening their connection to the malevolent powers that reside within the Secret tincture of its great daemonic shade.
-  
 ---
+
 The intricate methodology for synthesizing divergent arcane arts and forbidden disciplines within the domain of the Secret tincture of its great daemonic shade comprises the following:
 
 1. Identifying and analyzing various metaphysical sources and mystical traditions relevant to the Secret tincture of its great daemonic shade:

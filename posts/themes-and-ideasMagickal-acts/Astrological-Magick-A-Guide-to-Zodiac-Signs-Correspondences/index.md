@@ -18,7 +18,6 @@ tags:
   - astrologer
 description: You are a master of the esoteric, occult, themes and ideasMagickal acts, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Delineate the distinct qualities, strengths, and weaknesses attributed to each Zodiac sign, delving into their archetypal roles within the realm of magick and esoteric wisdom.
   
   2. Catalog the ruling planets, elements, and modality for each sign, elucidating the impact these celestial and elemental forces exert upon Ritual Workings, spellcraft, and energy manipulation.
@@ -26,15 +25,16 @@ excerpt: >
   3. Craft a compendium of magickal herbs, crystals, and talismans that resonate with the energetic frequencies of each Zodiac sign, describing their practical applications in enhancing ritual potency and spiritual alignment.
   
   4. Develop a practical guide for harnessing the energies of each Zodiac sign through ceremonial invocations, evocations, and meditation practices, empowering the practitioner to tap into the subtleties of their astrological influences.
-  
 ---
+
 
 ## The Arcane Astrologer's Grimoire
 
 **Introduction**:
 The Arcane Astrologer's Grimoire is a compendium of mystical secrets and wisdom encompassing the Zodiac's twelve signs. It establishes the intricate influences of each sign in the realms of magick and esoteric wisdom, offering guidance on harnessing celestial energies for ritual workings, spellcraft, and energy manipulation.
 
-1. Zodiac Sign Qualities, Strengths, and Weaknesses
+
+1. **Zodiac Sign Qualities, Strengths, and Weaknesses**
 
 Aries
 Qualities: Courageous, energetic, independent, pioneering
@@ -96,7 +96,8 @@ Qualities: Compassionate, imaginative, intuitive, and introspective
 Strengths: Empathy, creativity, spirituality, adaptability
 Weaknesses: Escapism, vulnerability, gullibility, self-pity
 
-2. Ruling Planets, Elements, and Modalities:
+
+2. **Ruling Planets, Elements, and Modalities:**
 
 Aries - Mars, Fire, Cardinal
 Taurus - Venus, Earth, Fixed
@@ -161,7 +162,8 @@ Pisces - Herbs: Lotus, valerian, mugwort
 Crystals: Amethyst, moonstone, aquamarine
 Talismans: Fish, ocean waves, dreamcatcher
 
-4. Invocations, Evocations, and Meditation Practices:
+
+4. **Invocations, Evocations, and Meditation Practices:**
 
 Enriched by the descriptions of each zodiac sign and their magickal correspondences, the Arcane Astrologer’s Grimoire enumerates a series of invocations, evocations, and meditative practices attuned to harness each Zodiacal energy.
 

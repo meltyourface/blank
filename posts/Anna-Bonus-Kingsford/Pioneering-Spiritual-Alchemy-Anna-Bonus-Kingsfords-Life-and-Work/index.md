@@ -24,8 +24,8 @@ excerpt: >
   - Promoting spiritual alchemy and the idea of universal redemption as a result of her mystical experiences and collaboration with Edward Maitland in writing "The Perfect Way"
   
   - Advocating for women's rights in education and medicine exclusively, with no significant influence on the esoteric circles or contributions to metaphysical writings
-  
 ---
+
 The best answer is:
 - Promoting spiritual alchemy and the idea of universal redemption as a result of her mystical experiences and collaboration with Edward Maitland in writing "The Perfect Way"
 

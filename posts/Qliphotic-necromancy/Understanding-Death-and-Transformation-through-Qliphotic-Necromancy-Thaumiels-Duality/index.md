@@ -19,14 +19,13 @@ tags:
   - sephiroth tree
 description: You are a master of the esoteric, occult, Qliphotic necromancy and education, you have written many textbooks on the subject. Respond to the multiple choice question first with the answer, then, fully explain the context of your rational, reasoning, and chain of thought in coming to the determination you have for that answer. Explain related concepts, formulas, or historical context relevant to this conclusion, giving a lesson on the topic to explain the reasoning afterwards.
 excerpt: >
-
   - Thaumiel, the duality that encompasses both destructive and regenerative forces
   
   - Samael, the poison and venom used to induce altered states of consciousness
   
   - Gamaliel, the lunar energies that govern darkness, mystery, and the unknown
-  
 ---
+
 - Thaumiel, the duality that encompasses both destructive and regenerative forces
 
 In Qliphotic necromancy, Thaumiel represents the culmination of the practitioner's understanding of death and the process of transformation it entails, while also highlighting the interconnected nature of life and death forces. Thaumiel, also known as the "Twin Gods" or the "Antithetical Principle," signifies the duality of existence and the balance between opposing forces.

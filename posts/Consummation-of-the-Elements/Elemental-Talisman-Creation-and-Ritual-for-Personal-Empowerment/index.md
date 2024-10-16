@@ -18,7 +18,6 @@ tags:
   - talismans glowing
 description: You are a master of the esoteric, occult, Consummation of the Elements, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Clearly specify the materials and ingredients required for each elemental talisman, ensuring that they hold a strong connection to their respective elements (e.g., a quartz crystal for the Air talisman, a vial of seawater for the Water talisman, etc.).
 
   2. Provide step-by-step instructions for the preparation of the ritual space, including the arrangement of elemental representations (e.g., candles, incense, bowls of water), any required sigils, and the positioning of the talismans within the ceremonial area.
@@ -30,8 +29,8 @@ excerpt: >
   5. Outline the sealing and protective measures to be implemented at the conclusion of the ritual, ensuring that any residual energies are safely contained and that the talismans are secured from unwanted influences.
 
   6. Create a follow-up plan for the regular maintenance and recharging of the elemental talismans, incorporating elemental-specific cleansing and recharge techniques, such as exposure to moonlight for Water talismans or burying in the earth for Earth talismans.
-  
 ---
+
 1. Materials and Ingredients for Elemental Talismans:
 - Air Talisman: A quartz crystal, white feather, and a pouch made of light, breathable fabric.
 - Fire Talisman: A small piece of obsidian or flint, a red-orange candle, and a pouch made of heat-resistant material.

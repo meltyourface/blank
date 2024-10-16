@@ -25,9 +25,9 @@ Spell of Abundant Earth
 Materials required:
 1. Mineral-laden soil (preferably from a fertile land)
 2. Iron-rich stones (such as Hematite or Magnetite)
-3. A Clear Quartz crystal
+3. **A Clear Quartz crystal**
 4. A sacred geometric pattern (Flower of Life)
-5. Chalk or natural paint for drawing the geometric pattern
+5. **Chalk or natural paint for drawing the geometric pattern**
 
 **Preparation**:
 1. Choose an area of land that holds personal significance or is known for its rich resources.

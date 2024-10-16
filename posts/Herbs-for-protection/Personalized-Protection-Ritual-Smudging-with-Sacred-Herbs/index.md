@@ -18,7 +18,6 @@ tags:
   - herbal
 description: You are a master of the esoteric, occult, Herbs for protection, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. A comprehensive list of powerful herbs known for their metaphysical properties, such as sage, lavender, and cedar, to create an effective smoke-cleansing mixture.
   
   2. Detailed preparation instructions for arranging and combining the selected herbs, including the exact ratio of herbs, drying or grinding processes, as well as selected, non-toxic binding materials.
@@ -26,8 +25,8 @@ excerpt: >
   3. A step-by-step guide outlining the performance of the ritual, from the initial invocation of protective energies and spirits to the methodical journey through the specified location, with particular attention given to possible energy disturbance hotspots.
   
   4. Instructions for creating a sacred space during the ritual that focuses on offering gratitude to both the cleansing herbs and spiritual beings.
-  
 ---
+
 Task: Design an intricate, personalized ritual incorporating protective herbs and smudging techniques to effectively ward off negativity and purify the specified area or site.
 
 1. **Comprehensive list of powerful herbs**:

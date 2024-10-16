@@ -29,7 +29,7 @@ Materials Required:
 2. Herbs associated with each site: Oakmoss for Stonehenge, Blue Lotus for the Temple of Isis, and Bay Laurel for the Oracle of Delphi
 3. Candles of corresponding colors: Green for Stonehenge, Blue for Temple of Isis, and Gold for Oracle of Delphi
 4. Incense of corresponding scents: Earthy scent for Stonehenge, Egyptian Musk for Temple of Isis, and Frankincense for Oracle of Delphi
-5. A ritual circle setup or an altar
+5. **A ritual circle setup or an altar**
 6. A cleansing tool, preferably a bundle of sage
 **Step One**: Preparation
 

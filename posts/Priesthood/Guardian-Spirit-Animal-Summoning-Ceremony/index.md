@@ -18,7 +18,6 @@ tags:
   - ceremonial preparations
 description: You are a master of the esoteric, occult, Priesthood, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Ceremonial preparations and ritualistic purification.
   
   2. The utilization of potent, highly specific symbols and sigils that pertain to the guardian spirit animal and broaden the connection.
@@ -26,8 +25,8 @@ excerpt: >
   3. The incorporation of sacred chants, prayers, or ancient incantations aligned with the summoning of a spirit animal.
   
   4. Instructions on how to identify one's personal guardian spirit animal, decipher its messages, and integrate its wisdom to enhance spiritual growth.
-  
 ---
+
 Ceremony Title: The Bonding with the Guardian Spirit Animal
 
 ### I. **Ceremonial Preparations and Ritualistic Purification**:

@@ -30,15 +30,15 @@ Magical beliefs, in their myriad forms, have pervaded human cultures since our e
 
 The inception of magical beliefs can be traced back to prehistoric times when early humans attempted to influence their surroundings and fates through various practices, such as rituals and chants. As these individuals saw the effects of their actions, magical beliefs were born, often closely intertwined with religious notions. As civilizations developed, so too did these beliefs, eventually forming three primary schools of thought: animism, theurgy, and natural magic.
 
-1. Animism
+1. **Animism**
 
 Animism, one of the earliest forms of magical belief, posits that all things — including objects, places, and creatures — possess a distinct spiritual essence. This essence imbues the natural world with agency, allowing practitioners to interact with spirits in an attempt to affect change. The indigenous peoples of Australia, Africa, and the Americas have practiced variations of animism for millennia.
 
-2. Theurgy
+2. **Theurgy**
 
 Theurgy, the practice of invoking divine powers to achieve knowledge and transformation, emerged primarily in late antiquity. Its practitioners often sought communion with gods, angels, or other spiritual beings in hopes of transcending their mortal limitations. This school of magical belief later formed the underpinnings of Western esoteric traditions such as Hermeticism, Gnosticism, and Neoplatonism.
 
-3. Natural Magic
+3. **Natural Magic**
 
 Natural magic revolves around the manipulation of the world's inherent energies through a deep understanding of its properties. This branch of magical belief often intersects with practical knowledge of herbalism, alchemy, and astrology. Prominent figures such as Hermes Trismegistus and Paracelsus contributed significantly to the development of natural magic theory.
 
@@ -46,15 +46,15 @@ Natural magic revolves around the manipulation of the world's inherent energies 
 
 Throughout history, magical beliefs have interwoven with various cultural and religious practices, shaping the spiritual landscapes of civilizations around the world. The following examples illustrate the diverse ways in which magical beliefs have pervaded human culture.
 
-1. Ancient Egypt
+1. **Ancient Egypt**
 
 In ancient Egypt, magical practices were integral to everyday life. Priests possessed sacred knowledge of hieroglyphs, which they believed held magical powers. They used these glyphs and spells to influence the natural world, heal ailments, and ensure the proper progression of the afterlife.
 
-2. European Witchcraft
+2. **European Witchcraft**
 
 From the medieval period to the early modern era, witchcraft was a prevalent belief system in European culture. While varied by region, witchcraft typically encompassed both malevolent and benevolent practices, such as healing, divination, and cursing. The development of witch trials and the subsequent persecution of alleged witches demonstrates the far-reaching impact of magical beliefs on European society.
 
-3. African Diaspora
+3. **African Diaspora**
 
 The African diaspora brought several rich systems of magical beliefs to the New World, including Haitian Vodou, Brazilian Candomblé, and Cuban Santería. These syncretic belief systems often blended indigenous African religious practices with Catholicism, emphasizing the power of spirits, ancestors, and deities in shaping human existence.
 
@@ -62,15 +62,15 @@ The African diaspora brought several rich systems of magical beliefs to the New 
 
 The study and application of magical beliefs require an understanding of certain foundational principles and practices. **These include the following**:
 
-1. Correspondences
+1. **Correspondences**
 
 The principle of correspondences involves recognizing the intrinsic relationships between the various elements of the universe. As Above, So Below is a phrase often used to describe the principle of correspondences in the practice of magic. By manipulating these correspondences, practitioners aim to achieve desired outcomes on both the material and spiritual planes.
 
-2. Ritual and Symbolism
+2. **Ritual and Symbolism**
 
 Rituals and symbolism provide structure and focus for magical intentions. A ritual, whether simple or elaborate, may involve the use of incantations, gestures, and the arrangement of magical objects to concentrate one's energies and connect with spiritual forces.
 
-3. Will and Intention
+3. **Will and Intention**
 
 Central to all magical practices is the concept of the will and intention. It is the belief that one's focused thought, willpower, and desire can shape reality, acting as a conduit for the transmission of magical energies.
 

@@ -59,7 +59,7 @@ excerpt: >
   Commentary: In this stanza, Yngvi Freyr – the god of fertility and prosperity – is described as bringing bountiful harvests even during the winter months. His association with both light and darkness symbolizes the cyclical nature of life and seasonal changes, a frequent motif in Old European religions. 
   
   Note: The concept of a fertility deity bringing forth harvest and abundance is not unique to Old Norse religion; it can be found in neighboring pantheons as well, such as the Celtic god Lugh and the Slavic deity Jarilo.
-  
 ---
+
   
   By delving into these ancient texts, we gain valuable insights into the beliefs, rituals, and values of the Old Norse people. Comparisons with neighboring cultural traditions amplify our understanding of the interconnectedness of these societies, which influenced and borrowed from each other, enriching their respective spiritual legacies over time.

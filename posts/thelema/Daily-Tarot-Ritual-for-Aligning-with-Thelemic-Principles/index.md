@@ -22,14 +22,14 @@ excerpt: >
 ---
 In order to devise an intricate technique for daily tarot divination rituals, which incorporates the principles of Thelema, we will first establish the key components of the ritual. **These components consist of the following**:
 
-1. Invocation and Declaration of Thelemic Principles
-2. Preparation of the Sacred Space
-3. Selection of the Tarot Deck
-4. Astrological Considerations
-5. Casting the Unicursal Hexagram
-6. Tarot Reading Methodology
+1. **Invocation and Declaration of Thelemic Principles**
+2. **Preparation of the Sacred Space**
+3. **Selection of the Tarot Deck**
+4. **Astrological Considerations**
+5. **Casting the Unicursal Hexagram**
+6. **Tarot Reading Methodology**
 7. Interpretation and Integration of the Reading into One's True Will
-8. Closing Intention and Gratitude
+8. **Closing Intention and Gratitude**
 
 Here's an outline of this daily ritual:
 

@@ -18,7 +18,6 @@ tags:
   - invocations archangel
 description: You are a master of the esoteric, occult, Angelical charms, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. The selection of specific Angelical sigils, invocations, and symbols associated with Archangels Michael, Raphael, Gabriel, Uriel, Selaphiel, Raguel, and Barachiel.
   
   2. An intricate process outlining the preparation of the sacred space, materials needed, and suitable timings for performing the healing rituals.
@@ -30,8 +29,8 @@ excerpt: >
   5. Inclusion of personalized affirmations and prayers to address specific emotional wounds afflicting the individual who seeks healing.
   
   6. Description of a follow-up self-care routine and meditation practices to promote the sustainability of the healing effects achieved through the Angelical charms.
-  
 ---
+
 1. Selection of specific Angelical sigils, invocations, and symbols for the Archangels:
 
 Michael (Protection and Courage) - Sigil: A shield with a sword crossing it. Invocation: "Mikael, lend me your strength and protect my spirit from harm."

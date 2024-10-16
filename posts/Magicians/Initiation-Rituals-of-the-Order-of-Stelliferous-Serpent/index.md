@@ -36,15 +36,15 @@ b. Before entering the chamber, the candidate must traverse three elemental port
 
 c. The secret chamber is lit by the ethereal light of the seven-pointed Stelliferous Star, casting a shivering, otherworldly ambience. At the heart of the chamber, the mystic Serpent Stone awaits, surrounded by seven hooded figures – the Eminent Magi of the Order.
 
-4. Preparation Phase for the Initiate
+4. **Preparation Phase for the Initiate**
 
 The candidate is prepared for the initiation by a week-long seclusion, during which they study the esoteric history and tenets of the Order. They must also undergo a personal cleansing ritual that involves fasting and meditation. The candidate's attire consists of a plain, white robe symbolizing purity, and their forehead must bear the Mark of Serpent's Gaze, a temporary magical sigil applied in powdered silver.
 
-5. Sensory Experiences within the Rite
+5. **Sensory Experiences within the Rite**
 
 The chamber emanates an otherworldly scent of yew, incense, and serpentine musk. Flickering light dances upon the chamber walls, emanating from the celestial Star, intensifying the mystic atmosphere. The air vibrates with a melodic chant, rising and falling in pitch, performed by the Eminent Magi.
 
-6. Trials and Tribulations
+6. **Trials and Tribulations**
 
 To prove their worth, the initiate must overcome challenges that test their physical, mental, and spiritual mettle:
 
@@ -54,10 +54,10 @@ b. **The Hall of Mirrors**: The candidate enters a maze of reflective surfaces, 
 
 c. **The Ritual of Conjuration**: The initiate demonstrates their competence in the mystic arts by casting a spell of summoning, calling forth a minor servitor from the celestial realms. They must maintain control over the entity and use it to perform an act of benevolence.
 
-7. Grand Revelation
+7. **Grand Revelation**
 
 Once the trials are successfully overcome, the Eminent Magi shall bestow upon the candidate the sacred Tome of Serpent's Wisdom – an ancient grimoire containing spells, rituals, and arcane secrets. With this knowledge, the newly-initiated magician enters the ranks of the Order.
 
-8. Unbreakable Oaths and Vows
+8. **Unbreakable Oaths and Vows**
 
 Finally, the initiate swears a Binding Oath upon the Serpent Stone, vowing to uphold the virtues and tenets of the Order. They pledge to use their power for the greater good, protect the Order's secrets, and support their brethren in the continual pursuit of arcane knowledge and balance.

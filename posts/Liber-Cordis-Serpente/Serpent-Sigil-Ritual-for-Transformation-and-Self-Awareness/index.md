@@ -25,15 +25,15 @@ excerpt: Develop an intricate Liber Cordis Serpente ritual or working, concentra
 **Objective**: To harness the energies of the sacred serpent and achieve heightened self-awareness through transformational sigils, invocations, and multi-layered philosophical references.
 
 **Materials**:
-1. A designated ritual space
-2. Serpent effigy
+1. **A designated ritual space**
+2. **Serpent effigy**
 3. Candles (seven)
 4. Incense (preferably dragon's blood or olibanum)
-5. A ceremonial dagger or athame
-6. A chalice filled with holy water or wine
+5. **A ceremonial dagger or athame**
+6. **A chalice filled with holy water or wine**
 7. A sigil-designated parchment
-8. A black robe or ritual attire
-9. A compass for creating the circle
+8. **A black robe or ritual attire**
+9. **A compass for creating the circle**
 
 **Preparation**: 
 1. Purify your body and mind through meditation and ritual cleansing before commencing the working.

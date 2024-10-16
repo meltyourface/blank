@@ -43,9 +43,9 @@ Upon the very ground where thou doth stand, inscribe with thine wand a mighty ci
 
 Into the chalice of water, mix well the following:
 
-1. A pinch of salt from the depth of the sea
-2. Ashes from a wood struck by lightning
-3. Leaves of yarrow and petals of rue
+1. **A pinch of salt from the depth of the sea**
+2. **Ashes from a wood struck by lightning**
+3. **Leaves of yarrow and petals of rue**
 4. A drop of blood from the summoner's left finger
 
 Allow the wand to rest atop the chalice, absorbing the confluence of energies thus created.

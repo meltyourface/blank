@@ -36,11 +36,11 @@ Cut your wood block to the desired size with a smooth surface and even thickness
 
 A list of essential tools and materials include:
 
-1. Tracing paper or carbon paper
-2. Pencil or charcoal
-3. Ballpoint pen or stylus
-4. Gouges and chisels in various sizes and shapes
-5. Honing stone for sharpening tools
+1. **Tracing paper or carbon paper**
+2. **Pencil or charcoal**
+3. **Ballpoint pen or stylus**
+4. **Gouges and chisels in various sizes and shapes**
+5. **Honing stone for sharpening tools**
 6. Wood sealant (optional, for sealing the block's surface)
 7. Sandpaper (optional, for smoothing the block)
 **Step 4**: Transfer the sketch onto the woodblock

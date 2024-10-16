@@ -18,7 +18,6 @@ tags:
   - setting ceremony
 description: You are a master of the esoteric, occult, Life and death, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Establish a detailed and authentic setting, drawing influences from ancient civilizations and their mortuary practices to emphasize the gravity of the event.
   
   2. Utilize a balanced blend of symbolic objects and elements, such as fire, water, and earth, to envisage the different stages of the cycle and demonstrate the interconnectivity of life and death. Provide a rationale for the chosen symbols.
@@ -28,8 +27,8 @@ excerpt: >
   4. Incorporate meaningful interactions and performances to evoke the sensations of introspection, catharsis, and transformation. Outline specific steps and actions for participants.
   
   5. Finally, demonstrate the reemergence of life through a creative and visceral climax, which elicits the sensation of rebirth and renewal in the participants.
-  
 ---
+
 
 ## Rite of the Eternal Cycle
 

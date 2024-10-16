@@ -18,7 +18,6 @@ tags:
   - start enochian
 description: You are a master of the esoteric, occult, The Wild Adversary, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Establish a sacred space incorporating powerful Enochian symbols and sigils alongside Hermetic elements like the caduceus, hexagram, and the Ouroboros.
   
   2. Utilize specific Enochian invocations, such as the calls of the Aethyrs, interwoven with Hermetic prayers and petitions to achieve a harmonious connection with both systems.
@@ -26,8 +25,8 @@ excerpt: >
   3. Incorporate the use of Enochian visionary magic techniques, like scrying, to access various Enochian realms, while simultaneously embedding the Hermetic practice of mental alchemy to transmute thoughts into higher states of consciousness and spiritual development.
   
   4. Employ related tools and implements, such as the Enochian tablet, Dee's Monas Hieroglyphica, and mercury-based elixirs affiliated with Hermeticism, to facilitate a more potent interaction between these esoteric systems.
-  
 ---
+
 To execute this comprehensive ritual, follow these steps:
 **Step 1**: Establish a Sacred Space
 

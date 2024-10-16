@@ -26,39 +26,39 @@ In this in-depth comparative analysis, we will explore the ancestral spiritualis
 
 Native American ancestral spiritualism is deeply rooted in the belief that ancestors continue to exist as spiritual beings after death, guiding the living on their life journey. The concept of ancestral spirits encompasses the various traditions in different tribes, but some rituals and practices are shared across these cultures.
 
-1. Rituals
+1. **Rituals**
 As part of honoring their ancestors, Native Americans gather to celebrate the "Feast of the Dead" to remember and honor those who have passed away. The feast is an occasion for family members to gather, feast, and share memories of their departed loved ones. Ancestors are also invoked during important ceremonies, such as naming, marriage, and initiation rites, to solicit their blessings and guidance.
 
-2. Spirit Communication
+2. **Spirit Communication**
 Certain individuals within the tribes, typically shamans, communicate with the ancestral spirits through trance ceremonies to seek guidance and spiritual healing. As intermediaries, shamans are skilled at navigating the spiritual realm and forming connections with their ancestors.
 
-3. Sacred Objects
+3. **Sacred Objects**
 Sacred objects, like totems, are believed to house ancestral spirits or act as a vessel to communicate with them. These totems are respected and cared for to maintain a strong connection with the spirits.
 
 **Chinese Ancestral Spiritualism**
 
 Chinese ancestral spiritualism places emphasis on maintaining a harmonious relationship with your ancestors. The spirits of deceased ancestors are believed to protect and guide their living descendants.
 
-1. Rituals
+1. **Rituals**
 Ancestor veneration is an integral part of Chinese spirituality, with rituals performed at various significant times, like the Qingming Festival (Tomb-Sweeping Day). During this festival, family members pay respects to their ancestors by cleaning their tombstones, offering food, and burning incense.
 
-2. Spirit Communication
+2. **Spirit Communication**
 In Chinese culture, ancestral spirits are often consulted through the use of oracle bones. During a divination ceremony, questions are written or engraved on bones, which are then heated to reveal patterns that are interpreted as answers or guidance from the ancestors.
 
-3. Ancestral Shrines
+3. **Ancestral Shrines**
 Chinese families traditionally maintain an ancestral shrine in their homes, where they display ancestral tablets containing the names of departed relatives. This practice allows them to maintain a direct channel of communication with their ancestors through constant offerings and prayers.
 
 **African Yoruba Ancestral Spiritualism**
 
 The Yoruba people of West Africa see ancestral spirits, or "egun," as extremely influential beings who hold essential roles in the community.
 
-1. Rituals
+1. **Rituals**
 The annual "Egungun" festival is a prominent event to celebrate and honor the ancestral spirits. During this event, masqueraders adorned in elaborate costumes representing the egun perform dances and acrobatics, channeling the spirit and offering guidance to the community.
 
-2. Spirit Communication
+2. **Spirit Communication**
 Yoruba ancestral spirits can communicate with the living through dreams, visions, or possession during rituals performed by priests or priestesses. In these rituals, the egun can give advice, warnings, or share wisdom with the community.
 
-3. Art and Symbolism
+3. **Art and Symbolism**
 Yoruba art, particularly in sculpture, carvings, and textiles, often incorporates ancestral themes and symbols to honor the egun. These artistic expressions represent a powerful way of maintaining a connection with the ancestral realm.
 
 **Conclusion**

@@ -18,7 +18,6 @@ tags:
   - valthruun guidance
 description: You are a master of the esoteric, occult, Conjuration, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. The exact name and origin of the spirit or deity to be summoned, with a brief description of their attributes and abilities.
   
   2. The preparation of a summoning circle or sacred space, specifying the materials and symbols used for creating the circle, and any additional elemental requirements, such as fire or water.
@@ -34,8 +33,8 @@ excerpt: >
   7. A method for establishing clear communication and negotiation with the summoned spirit or deity, ensuring the terms of engagement are secure, and detailing any protective measures to avoid potential harm.
   
   8. The proper closing of the ritual, instructing how to respectfully dismiss the summoned entity and cleanse the sacred space to restore balance and harmony.
-  
 ---
+
 1. **Name and Origin of the Entity**: 
 The entity to be summoned is known as Valthruun the All-Knowing, originating from the distant plane of Sarnoth, a realm of unmatched arcane knowledge and lost secrets. Valthruun is an ancient, powerful being with unparalleled wisdom and a vast repository of esoteric knowledge. Their abilities include the manipulation of time and space, granting visions of the past and potential futures, and bestowing deep understanding upon those who seek their aid.
 

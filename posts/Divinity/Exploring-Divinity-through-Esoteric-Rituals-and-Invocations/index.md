@@ -29,13 +29,13 @@ Divinity, a concept emphasizing the transcendent and supreme power within the un
 
 ### II. Divinity in Western Esotericism
 
-1. Hermeticism
+1. **Hermeticism**
 
 Hermeticism, influenced by the writings attributed to Hermes Trismegistus, posits a hierarchical conception of Divinity. In this tradition, God is seen as the source from which everything emanates. Students of Hermeticism work to achieve divine union by following the Hermetic axiom, "As above, so below," signifying the interconnectedness between the human experience and the divine realm.
 
 **Invocation**: A common Hermetic invocation calls upon the divine presence of Hermes Trismegistus by reciting, "Hermes, the Thrice-Greatest, be here present and reveal the hidden wisdom of your teachings."
 
-2. Kabbalah
+2. **Kabbalah**
 
 Kabbalah, a Jewish mystical tradition, emphasizes the sefirot, or ten branches of God's Divine emanations. Each sefirah represents a specific aspect of God's nature, and through studying these qualities, students can better understand the nature of Divinity and their place within creation.
 
@@ -43,13 +43,13 @@ Kabbalah, a Jewish mystical tradition, emphasizes the sefirot, or ten branches o
 
 ### III. Divinity in Eastern Esotericism
 
-1. Hindu Tantra
+1. **Hindu Tantra**
 
 Hindu Tantra offers a diverse range of interpretations of Divinity through the worship and realization of the interconnectedness of Shiva, the supreme principle, and Shakti, the active force. By experiencing the Divine union of these two cosmic forces, practitioners gain a deep understanding of Divine reality.
 
 **Ritual**: A Tantra-focused practice such as the Sri Yantra meditation visualizes the sacred geometric diagram, composed of triangles representing both Shiva and Shakti, as a means of bringing the mind into alignment with the Divine.
 
-2. Daoism
+2. **Daoism**
 
 In Daoism, the Supreme Divinity is found in the Dao, an all-encompassing, non-personal cosmic force governing the flow of reality. Exploring the Dao aids in understanding the rhythm of the universe and recognizing the self's connection with the Divine.
 
@@ -59,11 +59,11 @@ In Daoism, the Supreme Divinity is found in the Dao, an all-encompassing, non-pe
 
 Several magical techniques draw upon Divinity to empower practitioners. These techniques may include invocations, where practitioners call upon the Divine by reciting sacred words or phrases, and talismanic magic, in which symbols are crafted to serve as reservoirs of Divine energy.
 
-1. Elemental Correspondences
+1. **Elemental Correspondences**
 
 In various esoteric systems, elements are used to further understand the concept of Divinity, as they represent foundational building blocks of the material realm. By studying the elemental correspondences, such as fire, water, air, and earth, students can perceive the layers of symbolism and meaning that lie behind the Divine's interactions with the physical world.
 
-2. Archetypal Symbolism
+2. **Archetypal Symbolism**
 
 Divinity can also be approached through the language of archetypes, a concept developed by Carl Jung. Relating to universal images, ideas, and symbols found across human cultures, archetypes hold deep psychological significance and can serve as a valuable tool for understanding the Divine from a mystical or esoteric perspective.
 

@@ -18,7 +18,6 @@ tags:
   - daemonic
 description: You are a master of the esoteric, occult, Daemonic Nature, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Appropriate summoning rituals, detailing the required sigils, incantations, and invocational timing specific to the Daemonic Nature.
   
   2. Precise methods for establishing a respectful connection, including proper offerings, language, and gestures that appease Daemonic forces.
@@ -28,8 +27,8 @@ excerpt: >
   4. Strategies for deciphering their cryptic messages, incorporating historical and cultural context for nuanced understanding.
   
   5. Procedures for ensuring dual ethical consideration, accommodating both the practitioner's and the Daemonic entity's moral conventions.
-  
 ---
+
 
 ## Daemonic Connections: A Comprehensive Grimoire
 

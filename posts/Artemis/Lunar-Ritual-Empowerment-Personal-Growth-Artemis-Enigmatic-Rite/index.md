@@ -23,13 +23,13 @@ Artemis' Enigmatic Lunar Ritual
 
 Materials and tools:
 
-1. Bow and arrow
+1. **Bow and arrow**
 2. Silver and white candles (at least 13)
 3. Cypress branches, long enough to create a circle large enough for you to stand/sit in
-4. Silver or white cloth large enough to lie within the sacred circle
+4. **Silver or white cloth large enough to lie within the sacred circle**
 5. A representation of a silver stag (a statue or artwork)
-6. Sage or incense
-7. A journal and pen
+6. **Sage or incense**
+7. **A journal and pen**
 8. Lunar Ritual Chant (lyrics)
 
 Step 1: Preparing the space

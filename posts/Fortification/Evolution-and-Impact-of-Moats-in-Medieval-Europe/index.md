@@ -26,14 +26,14 @@ excerpt: Draft a comprehensive research paper that investigates the evolution, s
 
 This research paper investigates the evolution, strategic importance, and engineering challenges of moats within the context of medieval European fortifications. Key historical case studies such as the Battle of Crécy (1346) and Siege of Harlech Castle (1461-1468) are used to assess their effectiveness in deterring enemy forces. Further analysis is conducted on the tactical benefits of employing various moat designs and incorporating auxiliary defensive features, as well as examining the influence of advancements in siege warfare technology on moat construction. Lastly, the cultural and symbolic significance of moats in medieval European society and their impact on architectural trends and urban planning are explored.
 
-1. Introduction
+1. **Introduction**
 
 2. Moats: Origin and Evolution
    2.1. Early Developments
    2.2. Moat Engineering Innovations and Construction Techniques
    2.3. Varying Designs: Width, Depth, and Layout
 
-3. Strategic Importance of Moats
+3. **Strategic Importance of Moats**
    3.1. Defence Against Infantry and Cavalry
    3.2. Multi-Functional Barrier: Deterrence, Delay, and Demoralization
    3.3. Complementary Defensive Features
@@ -41,7 +41,7 @@ This research paper investigates the evolution, strategic importance, and engine
       3.3.2. Watchtowers
       3.3.3. Fortified Gates
 
-4. Historical Case Studies
+4. **Historical Case Studies**
    4.1. Battle of Crécy (1346)
       4.1.1. Overview and Context
       4.1.2. Role of Moats in the Battle Outcome
@@ -49,19 +49,19 @@ This research paper investigates the evolution, strategic importance, and engine
       4.2.1. Overview and Context
       4.2.2. Moat Design and Effectiveness Against Sieges
 
-5. Advancements in Siege Warfare Technology
+5. **Advancements in Siege Warfare Technology**
    5.1. Battering Rams
    5.2. Trebuchets
    5.3. Impact on Moat Design and Countermeasures
 
-6. Cultural and Symbolic Significance of Moats
+6. **Cultural and Symbolic Significance of Moats**
    6.1. Representations of Power and Authority
    6.2. Moats as a Boundary Between Worlds
    6.3. Influence on Architectural Trends and Urban Planning
       6.3.1. Settlement Formation around Fortifications
       6.3.2. The Aesthetic Appeal of Moats and Their Influence on Landscape Design
 
-7. Conclusion
+7. **Conclusion**
 
 References
 

@@ -23,8 +23,8 @@ excerpt: >
   In Norse mythology, the raven as Odin's companion, representing the god's ability to gain new insights and wisdom, as well as his connection to the power of shape-shifting.
   
   The raven in Native American folklore as a trickster figure, symbolizing the secrets of creation, the dynamic balance of cosmic forces, and the thriving energies of nature.
-  
 ---
+
 The best answer is: In alchemy, the raven as the emblem of the nigredo stage, embodying the transformative process of entering the dark night of the soul to access deep, hidden knowledge, and later emerging into a higher state of being.
 
 **Explanation**:

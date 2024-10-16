@@ -25,14 +25,14 @@ excerpt: Develop a comprehensive Daoist ritual guide for self-purification and s
 **Objective**: This guide is intended for practitioners of Daoist rituals who seek self-purification and spiritual shielding after establishing communion with a spirit. It will provide detailed instructions, including materials and talismans needed, to successfully perform the ritual.
 
 Materials Needed:
-1. A quiet and secluded space for conducting the ritual
-2. A small table or altar for offerings
-3. Incense and incense burner
-4. Holy water or consecrated water
+1. **A quiet and secluded space for conducting the ritual**
+2. **A small table or altar for offerings**
+3. **Incense and incense burner**
+4. **Holy water or consecrated water**
 5. A white or yellow cloth for the altar/table
 6. Candles (preferably white or yellow)
-7. Rice
-8. Five types of grains
+7. **Rice**
+8. **Five types of grains**
 9. Fresh fruits and vegetables (for offerings)
 10. Small plates or bowls for individual offerings
 11. A symbol or representation of a pure Daoist deity (such as a statue, painting, or calligraphy)

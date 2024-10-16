@@ -18,7 +18,6 @@ tags:
   - sitri sigil
 description: You are a master of the esoteric, occult, Occult rituals, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Choose a specific entity or force from an ancient grimoire, such as the Goetia or The Lesser Key of Solomon, and provide a detailed background of its nature and abilities.
   
   2. Refine and update the magical tools, symbols, and materials traditionally used in the ritual, incorporating contemporary alternatives where necessary, while retaining the original essence and purpose.
@@ -28,8 +27,8 @@ excerpt: >
   4. Craft an original, evocative invocation, containing a mix of traditional phrasings and modern adaptations, designed to summon the chosen entity with respect to the practitioner's intent and the ritual's focus.
   
   5. Integrate advanced techniques, such as meditation, visualization, and energy manipulation, to deepen the connection between the practitioner and the summoned entity, thus enriching the overall ceremonial experience.
-  
 ---
+
 1. **Entity**: Sitri, from the Goetia, The Lesser Key of Solomon
 Sitri is the 12th spirit listed in the Goetia, a powerful prince who commands 60 legions of spirits. He often appears with the head of a leopard and the wings of a griffin but can change into a humanoid form at the practitioner's request. Sitri's primary abilities include inciting love and passion, igniting lust in others, and revealing the secrets of others. This entity is often sought to enhance one's romantic life, provide the power to influence desires, or uncover hidden truths about others' motivations.
 

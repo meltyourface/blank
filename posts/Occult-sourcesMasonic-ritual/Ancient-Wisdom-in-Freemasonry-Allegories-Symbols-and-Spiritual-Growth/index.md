@@ -23,9 +23,9 @@ excerpt: >
 To satisfactorily address this question, it is essential to first outline the primary degrees of Freemasonry, their related symbols, allegories, and rituals, before we delve into the connections with ancient wisdom traditions. Furthermore, we will analyze how these elements combine to usher the initiate towards self-understanding and spiritual growth. 
 
 The three primary degrees of Freemasonry are:
-1. Entered Apprentice
-2. Fellowcraft
-3. Master Mason
+1. **Entered Apprentice**
+2. **Fellowcraft**
+3. **Master Mason**
 
 In each of these degrees, the candidate goes through a sequence of teachings, using symbols, allegories, rituals, and tools—meant to ultimately unveil layers of insight, self-awareness, and spiritual understanding. 
 

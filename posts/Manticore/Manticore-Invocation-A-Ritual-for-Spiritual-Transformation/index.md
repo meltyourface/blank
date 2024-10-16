@@ -47,10 +47,10 @@ The following ritual serves as an example of invoking the Manticore's power for 
 
 Items and Preparation:
 
-1. A small clay or stone idol representing the Manticore
-2. A fireproof dish to hold burning herbs
+1. **A small clay or stone idol representing the Manticore**
+2. **A fireproof dish to hold burning herbs**
 3. A combination of sage, mugwort, and wormwood for burning
-4. A consecrated circle or designated sacred space
+4. **A consecrated circle or designated sacred space**
 5. A small drop of the practitioner's own blood
 
 Ritual Steps:

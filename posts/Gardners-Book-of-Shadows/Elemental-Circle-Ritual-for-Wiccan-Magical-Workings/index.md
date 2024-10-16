@@ -43,7 +43,7 @@ With the circle cast, consecrate each element as follows:
 
 - Earth: Hold the bowl or dish of salt or earth and say, "I bless and consecrate this salt (or earth), symbol of Earth. May it ground this sacred space with the power of stability and strength."
 
-2. Invoking the Elements
+2. **Invoking the Elements**
 
 Now that the space is purified and consecrated, invoke each element by standing before the appropriate colored candle and reciting its corresponding invocation:
 
@@ -55,7 +55,7 @@ Now that the space is purified and consecrated, invoke each element by standing 
 
 - North (Earth): "I call upon the powers of Earth, element of stability and strength, to join this circle and infuse it with your solidity. Hail and welcome, Earth!"
 
-3. Attuning Vibrations
+3. **Attuning Vibrations**
 
 After invoking the elements, stand in the center of the circle and begin chanting the traditional Gardnerian chant:
 

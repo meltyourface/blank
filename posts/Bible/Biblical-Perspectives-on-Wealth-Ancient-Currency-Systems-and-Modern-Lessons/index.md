@@ -18,7 +18,6 @@ tags:
   - value metals
 description: You are a master of the esoteric, occult, Bible, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Delve into the Old Testament, scrutinizing the economic practices, use of currency, and the significance of wealth among the ancient Israelites, detailing the roles of the shekel, talents, and other units of measurement.
 
   2. Analyze the New Testament, focusing on Jesus Christ's teachings on wealth and poverty, the evolving perspective on money within early Christian communities, and the role of Roman currency, such as denarii, in the narrative.

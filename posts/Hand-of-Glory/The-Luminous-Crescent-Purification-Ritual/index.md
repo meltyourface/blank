@@ -26,13 +26,13 @@ The Purification Ritual of the Luminous Crescent
 Materials required:
 
 1. Four white circle-inscribed candles
-2. Four onyx stones
-3. Sage or palo santo bundle for smudging
-4. Bell or chime
-5. Consecrated water in a glass bowl
-6. Athame or ritual knife
-7. Salt
-8. Olive oil
+2. **Four onyx stones**
+3. **Sage or palo santo bundle for smudging**
+4. **Bell or chime**
+5. **Consecrated water in a glass bowl**
+6. **Athame or ritual knife**
+7. **Salt**
+8. **Olive oil**
 9. Sacred symbols and sigils, depending on personal faith
 
 **Preparation**:

@@ -18,14 +18,13 @@ tags:
   - ritual moonlit
 description: You are a master of the esoteric, occult, Dark Lake Crossing, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Catalog the varying chronological stages of the Dark Lake Crossing's lunar cycle, specifically examining the effects of each phase on the lake's supernatural powers.
   
   2. Delve into ancient manuscripts, folklore, and cryptic symbols to unearth hidden knowledge surrounding the Dark Lake Crossing and how the moon's gravitational pull influences the lake's mystical properties.
   
   3. Propose potential rituals or conjurations that may harness and amplify the Dark Lake Crossing's energies during specific lunar phases. Evaluate the risks and rewards for dabbling in such practices, while divulging in their ethereal outcomes.
-  
 ---
+
 1. **Catalog of the Dark Lake Crossing's lunar cycle stages and their effects on its supernatural powers**:
 
 a) New Moon: During this phase, the energies within Dark Lake Crossing are weakened, and supernatural occurrences decrease in frequency. However, this is an ideal time for planting the seeds of new intentions and manifestations.

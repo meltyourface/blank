@@ -18,7 +18,6 @@ tags:
   - engaging tarot
 description: You are a master of the esoteric, occult, Shadow Paths, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Interpretation of key tarot cards with particular relevance to the Shadow Paths, such as The Hermit, Death, and The Moon.
   
   2. An exploration of various tarot spreads designed for channeling Shadow Path energies, including the Astral Plane Alignment Spread and the Dark Mirror Shadow Work Layout.
@@ -28,8 +27,8 @@ excerpt: >
   4. Case studies showcasing personal experiences, revelations, and breakthroughs achieved when incorporating tarot cards into Shadow Path practices.
   
   5. Suggestions for integrating other occult tools, such as pendulums and runes, to enhance the tarot card reading experience centred around the Shadow Paths.
-  
 ---
+
 
 ## Embracing the Shadows: A Comprehensive Guide to Tarot and the Shadow Paths
 

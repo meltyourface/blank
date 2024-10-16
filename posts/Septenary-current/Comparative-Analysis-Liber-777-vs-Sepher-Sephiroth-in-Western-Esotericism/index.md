@@ -18,7 +18,6 @@ tags:
   - symbolism texts
 description: You are a master of the esoteric, occult, Septenary current, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Explore the symbolism and associations in both texts, specifically pertaining to the esoteric representation of the Septenary system.
   
   2. Examine the roles of the qliphothic forces and the averse aspects of the Tree of Life in relation to the Septenary current within each work.
@@ -28,8 +27,8 @@ excerpt: >
   4. Delve into the practical applications of the knowledge presented in each text regarding the development of personal gnosis and advancement within the Septenary current.
   
   5. Assess the doctrines and historical influences that contributed to the formation of these works, emphasizing their connection to the Septenary tradition.
-  
 ---
+
 In order to conduct a comprehensive comparative analysis of "Liber 777" and "Sepher Sephiroth," it is crucial to examine these texts through the lens of the Septenary current. Both texts have a profound impact on Western esotericism and are notable for their rich symbolism and intricate correspondences.
 
 1. **Symbolism and Associations**:

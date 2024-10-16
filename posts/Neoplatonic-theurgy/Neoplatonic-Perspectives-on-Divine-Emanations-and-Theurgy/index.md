@@ -25,8 +25,8 @@ excerpt: >
   2. Their differing opinions on the role and efficacy of ritual practice and theurgical rites in achieving enlightenment and divine union.
   
   3. The impact of their respective ideas on the development of Neoplatonic theurgical thought and its connection to contemporary esoteric and occult practices.
-  
 ---
+
 1. Hierarchy and relationship between the One, the Intellect (Nous), and the World Soul:
 
 Porphyry, in his "Sententiae," presents a hierarchical view of the divine emanations, emanating from the One as the ultimate source and principle of all beings. The Intellect (Nous) emanates from the One and serves as the principle of thought. From the Intellect, the World Soul emanates, connecting the spiritual and material realms. According to Porphyry, the World Soul is indivisible and transcends individual souls.

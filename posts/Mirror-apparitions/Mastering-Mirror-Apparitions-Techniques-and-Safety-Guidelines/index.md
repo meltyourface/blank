@@ -31,37 +31,37 @@ The tradition of Mirror apparitions can be traced back to various cultures and e
 ### III. Techniques and Practices
 The techniques and practices associated with Mirror apparitions vary, though most methods rely on three main factors: overall ambiance, proper focus, and anchored intent.
 
-1. Ambiance
+1. **Ambiance**
 Create a comfortable and quiet space in which to practice. Dim the lights and use candles for optimal vision, as low lighting will help you to concentrate better on the mirror's surface.
 
-2. Focus
+2. **Focus**
 Position yourself before the mirror, maintaining a soft yet steady gaze. Relax your eyes and allow your peripheral vision to expand. This state of relaxed focus is crucial for achieving the desired outcome.
 
-3. Intent
+3. **Intent**
 State your intention clearly, either mentally or aloud, and ask for guidance, protection, or specific insights. This anchored intent ensures a focused and purposeful connection with the Mirror apparition.
 
 ### IV. Risks and Safety Measures
 Mirror apparition practices come with certain risks, such as involuntary contact with unfriendly entities or emotional disturbances. **To maintain safety, students are advised to follow these measures**:
 
-1. Protection
+1. **Protection**
 Create a protective boundary around your space, such as a circle of salt or a protective sigil. Additionally, ask for guidance and protection from higher powers, such as deities or guardian spirits, and envision yourself surrounded by a protective light.
 
-2. Mental Clarity
+2. **Mental Clarity**
 Maintain your mental and emotional well-being by practicing regular grounding, meditation, and self-care.
 
-3. Closing the Ritual
+3. **Closing the Ritual**
 After each apparition session, ensure you properly close the ritual by extinguishing candles, thanking any contacted entities, and cleansing the space with smudging or sound.
 
 ### V. Tools, Rituals, and Symbolism
 Essential tools for successful Mirror apparition practice include a suitable mirror or reflective surface, a comfortable space, and candles.
 
-1. The Mirror
+1. **The Mirror**
 Choose a mirror or reflective surface that resonates with you. Consider using a black mirror, which can be easily created by painting a glass surface black and framing it with natural materials.
 
-2. Rituals
+2. **Rituals**
 Follow a structured ritual to invoke and interact with the Mirror apparition. This may include opening and closing rituals, intention-setting, and specific invocations.
 
-3. Symbolism
+3. **Symbolism**
 Understand the various symbols that may appear during an apparition session. These may include complex geometric patterns, images of deities, or symbolic shapes. Study symbolism to enhance your understanding of the messages received.
 
 ### VI. Step-by-step Instructions for Beginners

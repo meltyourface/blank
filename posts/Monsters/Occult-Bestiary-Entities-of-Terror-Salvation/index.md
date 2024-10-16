@@ -24,7 +24,7 @@ excerpt: Develop an extensive bestiary compendium featuring newly unearthed mons
 
 **Introduction**: The Dark Compendium serves as a comprehensive guide to the monstrous entities that have haunted humanity's nightmares since time immemorial. Contained within these pages are chilling accounts, vivid illustrations, and hidden secrets of various creatures that lurk in the deepest shadows.
 
-1. The Tormenting Shade
+1. **The Tormenting Shade**
 
 **Classification**: Ethereal Apparition
 Abilities: Soul Drain, Insidious Infiltration, Psychic Torture
@@ -34,7 +34,7 @@ Notable Confrontations: The haunting of Blackwood Manor, The Mad King's downfall
 
 The Tormenting Shade is a malevolent being born out of intense suffering and anguish. Its primary goal is to spread misery and torment, feeding on the souls of those weakened by psychological distress. While seemingly untouchable as an ethereal apparition, it can be expelled from an area through sacred rituals conducted in the presence of powerful light, often involving divine intervention.
 
-2. The Gallows Walker
+2. **The Gallows Walker**
 
 **Classification**: Undead Horror
 Abilities: Unyielding Strength, Noose Manifestation, Unholy Persistence
@@ -44,7 +44,7 @@ Notable Confrontations: The March of the Dead at Coldridge Pass, The Noose Stran
 
 The Gallows Walker is a vengeful undead entity, forever seeking retribution against the living. Tales often link its origins to unjust executions, victims who died with defiance in their hearts. This terrifying creature can summon spectral nooses to choke its victims. While its unholy strength makes it a formidable foe, it can be banished by fire or penance rites that address the great injustice that birthed it.
 
-3. The Shrieking Seraph
+3. **The Shrieking Seraph**
 
 **Classification**: Corrupted Celestial
 Abilities: Ear-Piercing Wail, Mind-Controlled Flight, Angelic Visage

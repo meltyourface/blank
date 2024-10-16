@@ -23,11 +23,11 @@ To construct a comprehensive and well-defined hierarchy of values that transcend
 
 1. Preservation of Life and Well-being
 2. Pursuit of Knowledge, Wisdom, and Growth
-3. Social Cohesion and Collaboration
-4. Respect for Individuality and Diversity
-5. Equitable Distribution of Resources and Opportunities
-6. Responsible Stewardship of the Environment
-7. Aesthetic Expression and Creativity
+3. **Social Cohesion and Collaboration**
+4. **Respect for Individuality and Diversity**
+5. **Equitable Distribution of Resources and Opportunities**
+6. **Responsible Stewardship of the Environment**
+7. **Aesthetic Expression and Creativity**
 
 Now, let us explore three distinct, yet relatable, examples that illustrate the application of this hierarchy in decision-making scenarios and ethical dilemmas:
 

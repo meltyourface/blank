@@ -30,9 +30,9 @@ The concept of Negation of systems, rooted in the ancient practices of the esote
 
 The practice of Negation of systems involves the identification and analysis of structures that have become imbalanced, stagnant, or overly restrictive. **Suitable systems for negation may include**:
 
-1. Dogmatic or oppressive belief systems
-2. Energetic structures impeding spiritual growth
-3. Social constructs that foster inequality or disconnection
+1. **Dogmatic or oppressive belief systems**
+2. **Energetic structures impeding spiritual growth**
+3. **Social constructs that foster inequality or disconnection**
 
 To identify these systems, practitioners must heighten their awareness and perception, often utilizing practices such as meditation, scrying, and divination. Once identified, it is essential to evaluate the implications and consequences of negation to determine if this process aligns with the practitioner’s goals and intentions.
 

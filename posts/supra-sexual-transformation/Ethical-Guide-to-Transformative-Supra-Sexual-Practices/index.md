@@ -18,7 +18,6 @@ tags:
   - ritual creating
 description: You are a master of the esoteric, occult, supra-sexual transformation, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Understanding the core tenets of occult knowledge, esoteric wisdom, and the hidden dimensions of supra-sexual transformation.
   
   2. Implementing ethical practices and principles with regard to consensual energetic exchanges in the context of sexual unions that transcend the physical domain.
@@ -28,8 +27,8 @@ excerpt: >
   4. Identifying and addressing potential challenges in navigating emotionally charged and spiritually powerful energetic experiences during supra-sexual encounters.
   
   5. Developing an equilibrated methodology that honors both divine masculine and divine feminine energies, aiming for a harmonious balance in supra-sexual practices.
-  
 ---
+
 
 ## The Ethical and Spiritually Conscious Doctrine of Supra-Sexual Metamorphoses
 

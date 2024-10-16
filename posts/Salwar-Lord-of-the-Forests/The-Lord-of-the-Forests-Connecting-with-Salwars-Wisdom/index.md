@@ -23,19 +23,19 @@ Introduction to Salwar, Lord of the Forests
 
 Salwar, Lord of the Forests, is an enigmatic and powerful entity in the realm of the occult. As the overseer of harmony between the natural world and the mystical sphere, Salwar serves as a protector of the environment, drawing strength from the deep and ancient wisdom of the great forests. This section of the grimoire will focus on the mythos, powers, rituals, and essential symbols associated with Salwar, providing a student with the building blocks necessary to create a deep connection with this esteemed Lord.
 
-1. Key Aspects
+1. **Key Aspects**
 
 Salwar's essence is closely tied to the mysterious and untamed forces of nature. As such, communicating and developing a bond with this entity requires an understanding of certain sacred aspects and symbols. Salwar is represented by the Great Oak, a mighty tree embodying the resilience and patience required for wisdom to flourish within. The Green Man is also an essential aspect, symbolizing the mystic force of life that perpetually renews and rejuvenates the natural world.
 
-2. The Mythos of Salwar
+2. **The Mythos of Salwar**
 
 Ancient tales tell of a time when the veil between the corporeal and spiritual realms was at its thinnest, and the world was rich with untamed magic. Salwar was birthed from this environment, rising from the depths of great, sprawling forests, and tasked with maintaining the balance between the spiritual and the physical. As a guardian of nature's mysteries, Salwar has been revered by various Earth-centered traditions and pagan practices across history.
 
-3. Powers of the Lord of the Forests
+3. **Powers of the Lord of the Forests**
 
 Salwar wields remarkable powers derived from the collective knowledge of all living things, with abilities that extend beyond the confines of the forest. Working with Salwar grants practitioners access to ancient wisdom, powerful healing, enhanced intuition, and communion with the various spirits of the natural world. These powers can be used to create healing rituals, divinatory workings, and environmental restoration efforts.
 
-4. Rituals and Communion with Salwar
+4. **Rituals and Communion with Salwar**
 
 To connect with Salwar, practitioners must offer sincere intention and demonstrate a genuine respect for the natural world. **Immersing oneself in a forest or an area abundant with greenery enhances the bond with Salwar. The following outlines a simple ritual to establish communion with the Lord of the Forests**:
 
@@ -52,7 +52,7 @@ Bestow your gifts upon me, that I may honor your domain with reverence and grace
 
 f. Spend time in silent meditation, allowing yourself to receive any messages from Salwar or the surrounding spirits of the forest.
 
-5. Essential Symbols
+5. **Essential Symbols**
 
 To deepen a connection to Salwar in daily practice, become familiar with the essential symbols associated with this entity. The Great Oak and the Green Man are the most significant, and these images can be integrated into various rituals, talismans, or offerings. Additionally, incorporating plant and tree essences, such as oak, moss, or fern, into anointing oils or incense can further solidify one's bond with the Lord of the Forests.
 

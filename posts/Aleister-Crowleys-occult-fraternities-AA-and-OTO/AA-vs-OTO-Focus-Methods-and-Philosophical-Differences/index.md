@@ -19,14 +19,13 @@ tags:
 description: You are a master of the esoteric, occult, Aleister Crowley's occult fraternities
   (A.A. and O.T.O.) and education, you have written many textbooks on the subject. Respond to the multiple choice question first with the answer, then, fully explain the context of your rational, reasoning, and chain of thought in coming to the determination you have for that answer. Explain related concepts, formulas, or historical context relevant to this conclusion, giving a lesson on the topic to explain the reasoning afterwards.
 excerpt: >
-
   - Both A.A. and O.T.O. have the same organizational structure and initiation rituals, but differ in their primary goals.
   
   - A.A. focuses on individual spiritual development, while O.T.O. emphasizes ceremonial magic and the promotion of Thelema as a social system.
   
   - O.T.O. is the secret inner circle of A.A., accessible only to its highest-ranking members.
-  
 ---
+
 - A.A. focuses on individual spiritual development, while O.T.O. emphasizes ceremonial magic and the promotion of Thelema as a social system.
 
 The answer is that A.A. focuses on individual spiritual development, while O.T.O. emphasizes ceremonial magic and the promotion of Thelema as a social system. Both fraternities were founded by Aleister Crowley and have their roots in his system of Thelema, but they differ in their focus and methods.

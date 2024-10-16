@@ -36,12 +36,12 @@ B. Incantations
 2. **Call of the Summoned**: A specific verse to invoke either the Basilisk ("Serpens venenatum, oculus mortis, apparere") or Griffin ("Rex caelorum, ungula fulminis, evocare")
 
 C. Ritual implements
-1. A chalice made of obsidian to hold an offering of blood
-2. Candles of black wax inscribed with runes of power
+1. **A chalice made of obsidian to hold an offering of blood**
+2. **Candles of black wax inscribed with runes of power**
 3. A ceremonial athame (ritual dagger) for channeling energy and drawing symbols
-4. Salt for protection against unwanted influences
+4. **Salt for protection against unwanted influences**
 5. Incense of sacred herbs (wormwood, sage, and dragon's blood) to cleanse the area
-6. An offering of blood for the summoned creature
+6. **An offering of blood for the summoned creature**
 
 ### II. Preparing the summoner's body and mind
 

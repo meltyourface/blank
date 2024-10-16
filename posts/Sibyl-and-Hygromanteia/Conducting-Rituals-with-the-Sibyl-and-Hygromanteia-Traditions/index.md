@@ -18,7 +18,6 @@ tags:
   - potency ritual
 description: You are a master of the esoteric, occult, Sibyl and Hygromanteia, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Select an appropriate location in correspondence with Sibyl and Hygromanteia practices, preferably near a natural setting, like a cave, a secluded forest clearing, or a mountain precipice.
 
   2. **Prepare the altar with essential tools**: a ceremonial dagger, an earthenware chalice, a censer with incense, and an ancient parchment for inscriptions.
@@ -34,8 +33,8 @@ excerpt: >
   7. Employ your ceremonial dagger in the waving of an intricate energetic pattern above the seals to interweave their forces, manifesting a protective and consecrated space.
 
   8. As the final step, channel the energy accumulated towards the altar and consecrate the ritual space by sprinkling the remaining sacred water and invoking the overseers of Sybil and Hygromanteia to grant their blessings.
-  
 ---
+
 9. After consecrating the space and achieving harmony between the Eleven Elemental Seals, light the incense to further cleanse and purify the area. This allows a smooth flow of energies within the ritual space. Be sure to choose incense that corresponds to the Sibyl and Hygromanteia traditions, such as frankincense, myrrh, or other sacred resins.
 
 10. Inscribe the ancient parchment with talismans, prayers, or petitions as guided by the Sibyl and Hygromanteia texts. The enchantments inscribed on the parchment should reflect the purpose of your ritual and the energies invoked from the Eleven Elemental Seals.

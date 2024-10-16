@@ -30,13 +30,13 @@ Scrying, the ancient art of seeking hidden knowledge through focused meditation 
 Scrying practices extend through the annals of history, with references in various cultures and societies throughout the world. In AdorationMagical literature, you will find countless tales of seers and mystics using their intuitive gifts and innate knowledge gained through years of study and experimentation to view distant events, receive divine guidance, and interpret potential outcomes.
 
 ### Part II: Methods of Scrying
-1. Crystal Gazing
+1. **Crystal Gazing**
 Crystal gazing, or the use of a clear, polished ball to induce visionary experiences, is perhaps the most iconic method of scrying. Quartz, amethyst, and obsidian are popular crystals for this technique. Practitioners enter a meditative state and peer into the crystal, allowing their minds to become receptive to images or symbols.
 
-2. Mirror Scrying
+2. **Mirror Scrying**
 Also known as catoptromancy, mirror scrying involves the use of a darkened mirror to receive glimpses of other realms. Black mirrors, made from obsidian or black glass, are preferred due to their ability to minimize visual distractions. Like crystal gazing, the practitioner must enter a trance-like state, focusing on the depths of the mirror to reveal the secrets hidden inside.
 
-3. Lesser Known Techniques
+3. **Lesser Known Techniques**
 -Tephramancy: Using the ashes of a sacred fire
 -Aeromancy: Observing patterns within the clouds
 -Water Scrying: Gazing into the natural reflective surfaces of water 

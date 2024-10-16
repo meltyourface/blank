@@ -32,15 +32,15 @@ The Rosicrucian Order is an esoteric organization that has served as one of the 
 
 Primary Source Analysis
 
-1. Fama Fraternitatis
+1. **Fama Fraternitatis**
 
 The Fama, published in 1614, serves as the founding document of the Rosicrucian Order. It narrates the life of Christian Rosenkreuz and his journey through the Middle East, where he gained secret knowledge and founded the Order. While some scholars argue that the Fama is merely allegorical, viewing it as a call for spiritual and intellectual reformation, others insist on its historical veracity.
 
-2. Confessio Fraternitatis
+2. **Confessio Fraternitatis**
 
 Published in 1615, the Confessio further expands on the aims of the Rosicrucian Order. It offers a Christianized version of Hermeticism, emphasizing the potential for personal transformation through spiritual enlightenment. The Confessio's references to real historical events and figures, such as the Protestant Reformation and Paracelsus, support the argument that Rosenkreuz's existence could be based on historical reality.
 
-3. Chymical Wedding of Christian Rosenkreuz
+3. **Chymical Wedding of Christian Rosenkreuz**
 
 The Chymical Wedding, published in 1616, is an allegorical romance detailing the spiritual journey of Rosenkreuz. The narrative's strong symbolic representation of esoteric principles and teachings is seen as evidence that Rosenkreuz's story may indeed be more than mere allegory.
 

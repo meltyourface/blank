@@ -18,7 +18,6 @@ tags:
   - astrological aspects
 description: You are a master of the esoteric, occult, Teaching, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. An introduction to natal birth charts, their historical significance, and their continued relevance in contemporary astrology.
   
   2. Instructions on how to read and decode relevant elements within the chart, such as planetary positions, houses, and aspects.
@@ -28,8 +27,8 @@ excerpt: >
   4. Group activities to engage students in identifying and examining connections between important astrological aspects, such as conjunctions, oppositions, trines, and squares.
   
   5. A step-by-step guide for students to create and interpret their own natal birth charts, encouraging deeper personal connections and understanding.
-  
 ---
+
 Lesson Plan: Analyzing and Interpreting Natal Birth Charts
 
 **Lesson Title**: The Art of Natal Birth Chart Interpretation

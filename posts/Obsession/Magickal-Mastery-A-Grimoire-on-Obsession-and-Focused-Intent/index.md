@@ -18,7 +18,6 @@ tags:
   - obsession provide
 description: You are a master of the esoteric, occult, Obsession, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Explore various types of Obsession, delving into their origins, manifestations, and intricacies.
   
   2. Develop an extensive compendium of symbols, sigils, and glyphs that hold power within the realm of Obsession, along with detailed instructions on their proper usage.
@@ -28,8 +27,8 @@ excerpt: >
   4. Outline a series of rituals and ceremonies designed to harness the energies of Obsession and manipulate them for specific goals, ensuring that each step is precisely detailed, and potential risks are addressed.
   
   5. Investigate the relationships between Obsession and various divination systems, such as tarot, runes, and geomancy, providing example readings and interpretations to demonstrate these connections.
-  
 ---
+
 
 ## Grimoire of the Obsessed - The Arcane Art of Focused Will
 

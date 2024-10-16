@@ -18,7 +18,6 @@ tags:
   - holistic psychic
 description: You are a master of the esoteric, occult, Healing, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Elucidate on the distinct psychic healing techniques, such as energy cultivation, distant healing, and chakra balancing, providing step-by-step instructions to develop and refine these abilities.
   
   2. Incorporate real-life case studies and hypothetical scenarios to demonstrate potential practical applications of psychic healing in various situations, while addressing potential ethical concerns and challenges.
@@ -26,8 +25,8 @@ excerpt: >
   3. Offer guidance on assessing one's individual capacity for psychic healing, with instructions for self-evaluation and the development of a personalized training plan.
   
   4. Emphasize the importance of a holistic approach, detailing the role of meditation, visualization, and personal well-being in strengthening psychic healing abilities.
-  
 ---
+
 **A Comprehensive Guide to Psychic Healing**
 
 **Introduction**

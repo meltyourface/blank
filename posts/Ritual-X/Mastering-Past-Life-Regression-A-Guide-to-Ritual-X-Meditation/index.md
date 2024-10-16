@@ -18,7 +18,6 @@ tags:
   - rituals procedures
 description: You are a master of the esoteric, occult, Ritual X, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. A thorough introduction to the history and principles of Ritual X and its connection to past life regression.
   
   2. An analysis of multiple meditation methodologies tailored specifically for Ritual X practitioners, such as candle gazing, breath focus, and mantra repetition, with a discussion on their effectiveness in accessing past life memories.
@@ -28,8 +27,8 @@ excerpt: >
   4. The inclusion of tips and best practices for achieving a heightened state of relaxation, concentration, and receptivity necessary for successful past life regression.
   
   5. The development of preparatory rituals and procedures to perform before each meditation session, such as setting up a sacred space, invoking the elements, and establishing a protective energy field.
-  
 ---
+
 Framework for Ritual X: Mastering Past Life Regression through Specialized Meditation Techniques
 
 **Introduction**: The History and Principles of Ritual X and its Connection to Past Life Regression

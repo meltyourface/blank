@@ -22,23 +22,23 @@ excerpt: >
 ---
 As a master of the esoteric and occult, Frederick Hockley had a wide range of magical alphabets utilized in his manuscripts. These alphabets play a crucial role in Hockley's practices, as they often form the foundations of magical spells, incantations, and talismans. By examining the origins, applications, and contributions of these mystical symbols, we can gain a deeper understanding of Hockley's occult practices and their connections to historical or contemporary occult systems.
 
-1. Theban Alphabet
+1. **Theban Alphabet**
 
 Originating in the 16th century, the Theban alphabet is a popular script among modern Wiccans and practitioners of ceremonial magic. Also known as the Witch's Alphabet or the Runes of Honorius, Theban was first published by Agrippa von Nettesheim in his "Three Books of Occult Philosophy." Hockley adopted this writing system for encoding and preserving important magical information in his manuscripts to keep knowledge secret from the uninitiated.
 
-2. Enochian Alphabet
+2. **Enochian Alphabet**
 
 Introduced by Dr. John Dee and Edward Kelley during the 16th century, the Enochian alphabet emerged as a mythical language given to humanity by angels. Hockley was deeply interested in the work of Dee and Kelley and incorporated this powerful, divine script into his manuscripts, using it primarily for summonings and invocations.
 
-3. Celestial Alphabet
+3. **Celestial Alphabet**
 
 Attributed to 16th-century occultist Heinrich Cornelius Agrippa, the Celestial Alphabet (or Angelic Script) has its foundation in the idea of divine language. Comprising letters that combine mystical symbols and astrological elements, Hockley employed the Celestial Alphabet to create talismans, sigils, and other magical artifacts. Its use suggests a strong connection with angelic magic, making it an essential component of Hockley's practice.
 
-4. Malachim Alphabet
+4. **Malachim Alphabet**
 
 Another alphabet credited to Agrippa, the Malachim script appropriates Hebrew characters combined with mystical symbols. Used by Hockley primarily in the creation of talismans, sigils, and encoding magical information, the Malachim Alphabet strengthened the protective and empowering qualities of his works.
 
-5. Passages of the Qabalah
+5. **Passages of the Qabalah**
 
 Although not strictly an alphabet, the Qabalah is an essential component of many magical systems, including Frederick Hockley's practice. This mystical system, based on Hebrew numerology and astrology, contributes to the structure of incantations, talismans, and spells, forming a vital source of power and guidance in his work.
 

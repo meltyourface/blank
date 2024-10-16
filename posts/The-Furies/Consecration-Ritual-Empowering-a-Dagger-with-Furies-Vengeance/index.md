@@ -18,7 +18,6 @@ tags:
   - banishing ritual
 description: You are a master of the esoteric, occult, The Furies, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Select a specific location where the ritual will take place that holds significance within the realm of The Furies, such as a site of vengeance or retribution.
   
   2. Determine a set of preparatory steps the practitioner must undertake, including any purification and invocation of The Furies' energies.
@@ -28,8 +27,8 @@ excerpt: >
   4. Establish any specific offerings or symbolic actions required during the ritual, such as blood sacrifice or recitation of ancient oaths related to the domain of The Furies.
   
   5. Describe specific post-ritual actions needed to seal or balance the energies invoked, ensuring the practitioner remains protected and empowered as they wield the consecrated dagger.
-  
 ---
+
 Location: The ritual will take place in an abandoned courthouse or a similar site of justice, which has experienced a significant event where vengeance or retribution was prominent. This location holds the essence of The Furies and their pursuit of vengeance and the establishment of justice.
 
 Preparatory Steps:

@@ -18,7 +18,6 @@ tags:
   - card imagery
 description: You are a master of the esoteric, occult, Modes of visuality, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Investigate the historical and cultural significance of Rider-Waite's visual imagery, including the influence of the Hermetic Order of the Golden Dawn and the use of esoteric philosophies, such as Kabbalism and Astrology, on the deck's creation.
   
   2. Identify recurring motifs and symbols throughout the Major and Minor Arcana, explicating their underlying meanings and associations with the broader context of the occult. Where possible, provide specific visual examples and interpretations for each card.
@@ -26,8 +25,8 @@ excerpt: >
   3. Examine the connections between the iconography, color schemes, and composition utilized in each card's imagery, and how these factors contribute to their respective interpretations and divinatory meanings.
   
   4. Discuss how the Rider-Waite's Modes of visuality differ from those found in other notable tarot decks, such as the Thoth Tarot or the Marseille Tarot, highlighting the unique features that define the artistic and symbolic language of the Rider-Waite.
-  
 ---
+
 1. Historical and Cultural Significance of Rider-Waite's Visual Imagery
 The Rider-Waite Tarot Deck, designed by Arthur Edward Waite and illustrated by Pamela Colman Smith, was first published in 1909. It became a staple deck for those interested in cartomancy and esoteric symbolism. Waite was a member of the Hermetic Order of the Golden Dawn, which influenced the deck's creation by incorporating esoteric philosophies such as Kabbalism and Astrology. The Golden Dawn sought to merge various mystical systems, including Egyptian, Greek, and Christian spiritual practices, which are evident in the cards' intricate imagery.
 

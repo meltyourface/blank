@@ -18,7 +18,6 @@ tags:
   - emissions reduction
 description: You are a master of the esoteric, occult, Ecological and political environment, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Detail the carbon emission rates within the targeted jurisdiction and analyze their impact on local and regional ecological systems.
   
   2. Provide precise financial implications of the proposed carbon tax, such as specific tax rates and estimated revenue generation.
@@ -28,8 +27,8 @@ excerpt: >
   4. Assess the political landscape, addressing potential supporters and opponents, and suggest coalition-building strategies and tailored messaging tactics to ensure policy adoption.
   
   5. Propose innovative and equitable incentives for businesses and individual citizens to collaboratively facilitate the transition towards a low-carbon economy, contemplating the distinctions among various industry sectors.
-  
 ---
+
 
 ## Policy Brief for the Implementation of a Region-Specific Carbon Tax
 

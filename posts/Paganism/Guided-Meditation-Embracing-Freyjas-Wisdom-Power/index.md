@@ -18,7 +18,6 @@ tags:
   - freyja golden
 description: You are a master of the esoteric, occult, Paganism, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Select a specific god or goddess from a prehistoric Pagan tradition (e.g. Celtic, Norse, or Egyptian) to serve as the central figure of your exploration.
   
   2. Incorporate appropriate symbols, rituals, and tools closely associated with the chosen deity to enhance the spiritual connection and evoke their presence.
@@ -28,8 +27,8 @@ excerpt: >
   4. Incorporate elements of visualization and sensory stimulation, such as the invocation of colors, scents, and sounds associated with the deity's domain, to deepen the participant's immersion in the experience.
   
   5. Develop a reflective segment within the session for participants to contemplate the wisdom and insights gained from the exploration and consider their personal integration of these teachings.
-  
 ---
+
 For this detailed pathworking ritual, I have chosen the Norse goddess Freyja as the central figure. Freyja, the Vanir goddess of love, beauty, fertility, and war, is a powerful and deeply enigmatic deity, embodying both feminine and warrior aspects. 
 
 Gather the following symbols, rituals, and tools:

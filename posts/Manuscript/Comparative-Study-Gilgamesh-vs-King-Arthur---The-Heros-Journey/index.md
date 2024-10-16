@@ -31,12 +31,12 @@ The Hero's Journey, a concept popularized by Joseph Campbell, has been a consist
 A. Cultural, Historical, and Social Nuances:
 1. Originating in ancient Sumeria, circa 2100 BCE
 2. Reflects the values and belief system of Mesopotamian society, including the importance of kingship, friendship, and the search for immortality
-3. Includes a mixture of historical events and mythological elements
+3. **Includes a mixture of historical events and mythological elements**
 
 B. Belief System, Customs, and Rituals:
 1. Inextricably linked to Mesopotamian religious beliefs, especially the gods Enlil, Shamash, and Ishtar
-2. Ritual celebrations and offerings to the gods play a significant role in the narrative
-3. The epic explores human limitations and the nature of mortality
+2. **Ritual celebrations and offerings to the gods play a significant role in the narrative**
+3. **The epic explores human limitations and the nature of mortality**
 
 C. **Influence on Subsequent Cultural Expressions**:
 1. Integral to the development of epic poetry and heroic storytelling in Western literature, including Homer's Iliad and Odyssey

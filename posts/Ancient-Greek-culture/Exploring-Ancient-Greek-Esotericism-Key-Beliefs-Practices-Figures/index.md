@@ -28,43 +28,43 @@ Ancient Greek culture played a significant role in the development of occult kno
 
 ### I. Key Beliefs and Practices
 
-1. Theurgy
+1. **Theurgy**
 
 Theurgy, or the practice of "god-work," was central to the spiritual tradition of ancient Greece. Theurgists believed that through ritual invocation, they could establish direct communion with higher beings or gods. This practice was rooted in the idea that the human soul is divine, with the capacity to ascend and integrate with the divine realms. Deep contemplation and self-reflection were seen as the primary tools for catalyzing spiritual transformation.
 
-2. Astrology
+2. **Astrology**
 
 Astrology was a significant aspect of Ancient Greek occultism. Greek astrologers sought to understand the influence and interconnections between celestial bodies and human lives. They believed that the stars held keys to understanding the fate of individuals and nations and devoted their time to studying their positions and movements.
 
-3. Magic and Divination
+3. **Magic and Divination**
 
 Ancient Greek occult practices also encompassed the use of magic and divination. Practitioners would employ a variety of techniques such as numinous symbols, sigils, and talismans to harness supernatural forces and obtain desired outcomes. Divination methods such as scrying, Clairvoyance, and dream interpretation were also prevalent in Greek culture, as they sought to acquire knowledge hidden from the senses.
 
 ### II. Key Figures
 
-1. Pythagoras
+1. **Pythagoras**
 
 Pythagoras, a Greek philosopher and mathematician, contributed significantly to the realm of esotericism. His teachings on harmony and the sacred geometry of numbers played a crucial part in developing the ideologies associated with numerology. Furthermore, his concept of the "Music of the Spheres" has become a cornerstone of esoteric cosmology.
 
-2. Heraclitus
+2. **Heraclitus**
 
 Heraclitus, a pre-Socratic philosopher, made important contributions to esoteric thought by stressing the ever-changing nature of reality, a concept central to many occult beliefs. His idea that the universe is guided by an internal "Logos," or divine reason, became integral to later notions of cosmic order and harmony.
 
-3. Plato
+3. **Plato**
 
 Plato's philosophical teachings were foundational to both esotericism and Western thought in general. Through his dialogues, he introduced the concept of the eternal world of Forms, which influenced later occultists' views on the hidden nature of reality. Plato's writings on the immortality of the soul and the process of enlightenment were also significant influences on later esoteric traditions.
 
 ### III. Rituals, Symbols, and Concepts
 
-1. Eleusinian Mysteries
+1. **Eleusinian Mysteries**
 
 The Eleusinian Mysteries were a series of initiation rituals dedicated to Demeter and Persephone. Participants would engage in purification rites and reenactments of the myth of Demeter, offering them a profound, transformative experience that promised eternal life. For the modern student, the rituals of the Eleusinian Mysteries serve as a blueprint for personal transformation and spiritual awakening.
 
-2. The Ouroboros
+2. **The Ouroboros**
 
 The Ouroboros, a symbol depicting a serpent devouring its own tail, originated in ancient Greek culture and has become synonymous with esotericism. The symbol represents the cyclic nature of life and death, as well as the process of eternal renewal. In the context of everyday magical practice, the Ouroboros serves as a reminder of the continuity and rebirth inherent in existence.
 
-3. Theurgy as a Practical Concept
+3. **Theurgy as a Practical Concept**
 
 By engaging in theurgical practices, modern students can deepen their relationship with the divine and learn to harness divine energies in their life. This can involve the use of prayer, meditation, and rituals designed to invoke specific gods or spiritual entities – with the ultimate aim of effecting spiritual transformation and enlightenment.
 

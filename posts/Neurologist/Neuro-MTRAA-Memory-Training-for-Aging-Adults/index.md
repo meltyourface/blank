@@ -24,7 +24,7 @@ excerpt: Design a neurologically-informed cognitive training regimen specificall
 
 **Objective**: Enhance memory function in aging adults by employing a multimodal approach tailored to stimulate neuroplasticity, optimize training schedules, provide guidelines for measuring progress, and offer bespoke recommendations for overcoming memory challenges common to older adults.
 
-1. Regimen Overview
+1. **Regimen Overview**
 
 A. Multimodal training approach
 - Combination of targeted physical, cognitive, and lifestyle exercises.
@@ -39,7 +39,7 @@ C. Measuring progress
 - Milestones based on individual memory challenges and goals.
 - Progress tracking through a journal or digital app.
 
-2. Core Components
+2. **Core Components**
 
 A. Physical Activity
 - Aerobic Exercises: Walking, cycling, swimming, or dance classes for 15-30 minutes daily.
@@ -63,7 +63,7 @@ E. Bespoke Recommendations
 - Addressing Individual Memory Challenges: Personalized strategies for specific issues (e.g., mnemonic techniques, memory aids).
 - Cognitive Remediation Therapy (CRT): For individuals diagnosed with mild cognitive impairment (MCI) or early-stage dementia.
 
-3. Implementation Guidelines
+3. **Implementation Guidelines**
 
 A. Consultation with a qualified professional
 - Regular check-ins with a neurologist, geriatrician, or other related specialist to monitor progress and adjust the regimen as needed.

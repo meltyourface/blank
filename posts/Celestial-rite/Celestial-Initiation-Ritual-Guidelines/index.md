@@ -18,7 +18,6 @@ tags:
   - amplifying ceremony
 description: You are a master of the esoteric, occult, Celestial rite, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Select a date and time for the ceremony which aligns with auspicious celestial events, like a full moon or planetary alignment.
   
   2. Determine the location and setup of the ceremony space, ensuring it represents the four cardinal directions and harnesses the energies of earth, air, fire, and water.
@@ -32,8 +31,8 @@ excerpt: >
   6. Incorporate the use of uniquely crafted ritual tools, such as a wand, athame, or crystal sphere, and outline the manner in which they will be wielded during the ceremony.
   
   7. Detail the specific steps and stages of the ritual, including purification, invocation, meditation, and integration practices.
-  
 ---
+
 1. **Date and Time**:
 Select the date for the ceremony to coincide with the next full moon, which is known for its potent energy. Additionally, check for any relevant planetary alignments occurring that day, particularly an alignment involving Jupiter to amplify the transformative and expansive energies. Aim for the exact time of the full moon culmination or choose the hour of Jupiter on the planetary day for the initiation rite.
 

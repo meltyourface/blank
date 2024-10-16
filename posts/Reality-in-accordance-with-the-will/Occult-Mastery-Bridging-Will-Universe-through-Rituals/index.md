@@ -18,14 +18,13 @@ tags:
   - mystical practices
 description: You are a master of the esoteric, occult, Reality in accordance with the will and education, you have written many textbooks on the subject. Respond to the multiple choice question first with the answer, then, fully explain the context of your rational, reasoning, and chain of thought in coming to the determination you have for that answer. Explain related concepts, formulas, or historical context relevant to this conclusion, giving a lesson on the topic to explain the reasoning afterwards.
 excerpt: >
-
   - Manipulating reality through sheer force of will without any spiritual or mystical practices
   
   - Aligning one's will with the natural flow of the universe in order to create desired outcomes
   
   - Reality being determined solely by an individual's belief in a certain outcome
-  
 ---
+
 The act of employing magical rituals and practices to exert control over reality while having an underlying comprehension that aligning with the universe is essential.
 
 To understand why this answer is the most comprehensive and accurate in terms of occult understanding of Reality in accordance with the will, it's important to delve into some of the underlying concepts and historical context of the occult.

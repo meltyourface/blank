@@ -23,8 +23,8 @@ excerpt: >
   The development of eco-spiritual rituals that draw upon both ancient earth-based wisdom and contemporary environmental concerns
   
   An interdisciplinary exploration of ecofeminism, bioregionalism, and deep ecology, centered on the transformative power of the Great Work in alchemy
-  
 ---
+
 Answer: An interdisciplinary exploration of ecofeminism, bioregionalism, and deep ecology, centered on the transformative power of the Great Work in alchemy.
 
 Explanation and Context:

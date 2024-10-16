@@ -30,13 +30,13 @@ I trust this letter finds you in good health and an investigative state of mind.
 The Universal principles outlined in the Emerald Tablet, originating from Hermes Trismegistus, are of paramount importance to understanding the metaphysical world. Similar in depth, the Tree of Life, rooted in the Jewish mystical tradition of the Kabbalah, contains the blueprint for creation and the structure upon which emanations of Divine consciousness unfold.
 
 In examining the connections between these two systems, we cannot ignore the Seven Hermetic Principles and their potential analogies to the ten Sephirot—the emanations of Divine energy that shape reality on the Tree of Life. The Hermetic Principles are as follows: 
-1. The Principle of Mentalism
-2. The Principle of Correspondence
-3. The Principle of Vibration
-4. The Principle of Polarity
-5. The Principle of Rhythm
-6. The Principle of Cause and Effect
-7. The Principle of Gender
+1. **The Principle of Mentalism**
+2. **The Principle of Correspondence**
+3. **The Principle of Vibration**
+4. **The Principle of Polarity**
+5. **The Principle of Rhythm**
+6. **The Principle of Cause and Effect**
+7. **The Principle of Gender**
 
 These principles are seemingly mirrored in the Sephirot as well:
 1. Keter – The Crown, representing divine will and consciousness

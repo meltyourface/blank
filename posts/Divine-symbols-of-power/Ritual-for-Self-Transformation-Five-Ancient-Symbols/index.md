@@ -41,10 +41,10 @@ excerpt: Design an original ritual that harnesses the power of ancient Divine sy
    - Ankh: Myrrh (resilience, deepening awareness)
    - Caduceus: Lavender (balance, peace)
    - Triskelion: Sage (wisdom, cleansing)
-3. Unlit candle
-4. Charcoal disk for incense
-5. Paper and pen
-6. A vessel with water
+3. **Unlit candle**
+4. **Charcoal disk for incense**
+5. **Paper and pen**
+6. **A vessel with water**
 7. A sacred space for your ritual (indoor or outdoor)
 
 **Steps**:

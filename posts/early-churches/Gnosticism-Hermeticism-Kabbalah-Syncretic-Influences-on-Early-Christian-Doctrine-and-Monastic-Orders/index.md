@@ -40,7 +40,7 @@ Kabbalah is a collection of Jewish mystical texts, which originated in the 12th 
 
 Though Kabbalah emerged later than the formation of early Christian doctrines, it played a role in influencing Christianity via Jewish-Christian interactions. The deep allegorical and symbolic interpretation of holy texts in Kabbalah likely contributed to the similar exegetical approach in Christian mysticism. Additionally, central Kabbalistic concepts like the sefirot (divine emanations) bear resemblance to the Christian belief in the various divine attributes of God.
 
-4. Impact on the Development of Monastic Orders and Schisms
+4. **Impact on the Development of Monastic Orders and Schisms**
 
 The esoteric teachings of Gnosticism, Hermeticism, and Kabbalah had a significant impact on early Christian monastic orders. Monks often incorporated mystical practices from these traditions to facilitate a deeper connection with the divine, such as contemplative prayer and meditation. Early Christian mystics like Origen, Evagrius Ponticus, and Pseudo-Dionysius the Areopagite were particularly influenced by these esoteric teachings.
 

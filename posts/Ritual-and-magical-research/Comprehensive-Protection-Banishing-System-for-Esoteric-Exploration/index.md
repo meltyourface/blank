@@ -18,7 +18,6 @@ tags:
   - banishing ritual
 description: You are a master of the esoteric, occult, Ritual and magical research, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Expound upon the theoretical framework by integrating principles from various occult traditions, ensuring it adheres strictly to the domain of Ritual and magical research.
   
   2. Identify an array of invocations, sigils, and symbols used to fortify one's protection while delving into the metaphysical realm. Provide examples, sources, or design unique magical representations based on the chosen occult systems.
@@ -26,8 +25,8 @@ excerpt: >
   3. Design a detailed banishing ritual, accounting for the various entities, energies, and influences that one may encounter during esoteric research. Specify recommended tools, materials, and the precise structure for performing the ritual to ensure its efficacy.
   
   4. Elaborate on the significance of protective measures and banishing practices for both novice and experienced practitioners in the field of magical research, addressing potential challenges and dangers that may arise in the esoteric domain.
-  
 ---
+
 1. Theoretical Framework:
 
 In designing a comprehensive protection and banishing system, we will integrate principles from various occult traditions, with a focus on the Western and Eastern esoteric schools, such as Hermeticism, Kabbalah, Chaos Magick, and Taoist sorcery. The theoretical framework for this system is rooted in the understanding that all magical practices operate within specific mental, emotional, and cosmic energies and forces. By aligning with these energies and forces, one can create a stable yet fluid structure on which to build their protection and banishing rituals.

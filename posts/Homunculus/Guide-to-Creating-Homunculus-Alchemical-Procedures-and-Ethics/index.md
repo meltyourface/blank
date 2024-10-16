@@ -44,9 +44,9 @@ Required Materials
 
 To create a Homunculus, gather the following materials:
 
-1. The chosen Prime Matter
-2. A sealed and sterilized glass vessel
-3. A nourishing Matrix
+1. **The chosen Prime Matter**
+2. **A sealed and sterilized glass vessel**
+3. **A nourishing Matrix**
 4. Auxiliary materials, such as ground bones, minerals, and plant matter
 5. Ritual items, like candles, incense, and a dedicated workspace
 

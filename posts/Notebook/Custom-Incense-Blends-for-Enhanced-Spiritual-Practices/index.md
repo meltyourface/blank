@@ -45,7 +45,7 @@ List of Herbs, Resins, and Botanicals for Personalized Incense Blend:
 
 Three tailored blends for invoking Notebook's power:
 
-1. Mystical Vision Blend
+1. **Mystical Vision Blend**
 - Frankincense: 1 part
 - Myrrh: 1 part
 - Mugwort: 1 part
@@ -54,7 +54,7 @@ Three tailored blends for invoking Notebook's power:
 
 This blend focuses on opening the third eye and enhancing psychic abilities to better understand esoteric knowledge, arcane wisdom, and receive mystical guidance. The strong scent profile blends spicy and earthy notes.
 
-2. Spiritual Clarity Blend
+2. **Spiritual Clarity Blend**
 - Sandalwood: 1 part
 - Lemongrass: 1 part
 - Cedar: 0.5 part
@@ -63,7 +63,7 @@ This blend focuses on opening the third eye and enhancing psychic abilities to b
 
 This blend mixes both grounding and uplifting elements to create mental and emotional balance, inviting deep meditation and spiritual insights. The scent profile combines the freshness of lemongrass, woodiness of cedar, and calming floral notes from lavender.
 
-3. Divine Connection Blend
+3. **Divine Connection Blend**
 - Palo Santo: 1 part
 - White Sage: 1 part
 - Copal: 0.5 part

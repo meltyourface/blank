@@ -36,15 +36,15 @@ The significance of the Qliphothic Impulse lies in its potential for spiritual t
 
 Connecting with the energy of Qliphothic Impulse and integrating it into one's occult practice requires dedication and intention. Below are several rituals, invocations, and meditations designed to aid the practitioner in their quest for esoteric wisdom and personal growth through the exploration of the Qliphothic Impulse.
 
-1. Pathworking the Tree of Knowledge
+1. **Pathworking the Tree of Knowledge**
 
 Pathworking, a guided meditation technique that seeks to explore different realms of consciousness, can be employed to journey through the realms of the Qliphoth. By visualizing oneself traveling through each of the Qliphotic spheres and confronting their corresponding energies, one can gain deeper insights into the hidden aspects of the self and the world, ultimately leading to self-mastery and enlightened wisdom.
 
-2. Ritual of the Shadow Self
+2. **Ritual of the Shadow Self**
 
 In this ritual, the practitioner creates a sacred space through the casting of a circle and the invocation of the elements, before calling forth the energies of the Qliphoth. The practitioner then engages in a dialogue with their own shadow self, acknowledging and honoring its existence, thereby harnessing the power of the Qliphothic Impulse to help bring about personal growth and transformation.
 
-3. Invocation of the Qliphothic Archetypes
+3. **Invocation of the Qliphothic Archetypes**
 
 To fully immerse oneself in the energies of the Qliphothic Impulse, the practitioner can invoke the presence of the Qliphothic archetypes or deities associated with each sphere. By calling upon these powerful entities, such as Lilith, Samael, or Belial, one can gain valuable insights and understanding into the nature of their own psyche, as well as the darker aspects of existence, allowing for greater self-awareness and mastery over one's own life.
 

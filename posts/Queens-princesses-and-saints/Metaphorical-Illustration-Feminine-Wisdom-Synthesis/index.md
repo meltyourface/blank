@@ -18,14 +18,13 @@ tags:
   - powerful feminine
 description: You are a master of the esoteric, occult, Queens, princesses, and saints and education, you have written many textbooks on the subject. Respond to the multiple choice question first with the answer, then, fully explain the context of your rational, reasoning, and chain of thought in coming to the determination you have for that answer. Explain related concepts, formulas, or historical context relevant to this conclusion, giving a lesson on the topic to explain the reasoning afterwards.
 excerpt: >
-
   - The embodiment of spiritual hierarchy studying divine knowledge
   
   - A depiction of three historical figures who were secretly members of a mystical order
   
   - An allegory for the union of monarchy and religion to maintain control over the masses
-  
 ---
+
 The correct answer is:
 
 - A metaphorical illustration of the synthesis of different aspects of feminine wisdom and strength

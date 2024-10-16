@@ -22,13 +22,13 @@ excerpt: >
 ---
 Current 218, also known as Anti-Cosmic Satanism or the Tunnels of Set, is a complex and mystifying spiritual and esoteric current. This system of thought and practice emphasizes a deep study and understanding of the cosmos and its hidden, darker aspects, ultimately leading its practitioners to reach their spiritual and esoteric potential. By involving themselves with the mysteries of Current 218, initiates engage with powerful forces that may cause fundamental personal and spiritual transformations.
 
-1. History and Significance
+1. **History and Significance**
 
 The historical origins of Current 218 are as enigmatic as the philosophy itself. Tracing its roots back to ancient Gnosticism and the Setian practices of Ancient Egyptian religion, this current embraces the darker aspect of existence. In the late 20th and early 21st centuries, the Current became increasingly associated with the Temple of the Black Light and the Order of the Trapezoid, two esoteric groups championing the exploration of the dark aspects of spirituality.
 
 The significance of Current 218 cannot be understated; it is a radical approach to spirituality that puts forth the idea that the material universe is a result of divine chaos, a flawed creation produced by Demiurge, whose creations are tainted by his flawed nature. In this view, the cosmos is an inherently hostile place, upheld by cosmic laws that keep humanity enslaved. Current 218 practitioners aim to challenge these cosmic laws, seeking liberation and self-deification.
 
-2. Practices and Techniques
+2. **Practices and Techniques**
 
 Current 218 emphasizes the individual's direct engagement with the adversarial and anti-cosmic energies embodied by the Qliphoth, a set of ten spheres in Kabbalistic tradition that represent the dark, chaotic, and negative aspects of existence. Practitioners use various techniques such as meditation, ritualistic invocation, and creative visualization to attune themselves with these powerful forces.
 
@@ -36,7 +36,7 @@ Rituals in Current 218 often involve complex rites and ceremonies that invoke sp
 
 Meditation techniques specific to this current often involve visualizations of entering the Tunnels of Set, a metaphysical concept wherein the adept travels through an internal, shadowy landscape in order to encounter powerful forces that can bring insights, wisdom, and growth.
 
-3. Potential Uses and Applications
+3. **Potential Uses and Applications**
 
 The primary goals in working with Current 218 are to experience personal transformation and attain self-deification. By aligning themselves with the anti-cosmic forces, initiates seek to break free from the limitations imposed by the Demiurge's flawed creation and attain a level of self-realization that transcends the mundane world.
 

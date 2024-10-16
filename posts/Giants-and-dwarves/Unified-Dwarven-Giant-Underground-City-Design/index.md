@@ -18,7 +18,6 @@ tags:
   - dwarves underground
 description: You are a master of the esoteric, occult, Giants and dwarves, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. The city's grand entrance, adorned with colossal stonework carvings of Giants and Dwarves in epic battles.
   
   2. A central cavern with a masterfully crafted Great Hall, where important meetings and ceremonies are held, as well as separate living quarters for Giants and Dwarves.
@@ -38,8 +37,8 @@ excerpt: >
   9. Expansion plans anticipating future growth, including provisions for defense mechanisms and alliances with other magical creatures.
   
   10. A unique sewage and waste management system integrated into the city's infrastructure, allowing for proper disposal and environmental sustainability.
-  
 ---
+
 Blueprint for a Unified Dwarven and Giant Underground City: Nirgorim
 
 ### I. City Layout:

@@ -21,14 +21,14 @@ excerpt: Craft a ritual for invoking ancestral spirits to channel healing and po
 ---**Step 1**: Preparation and Gathering Materials
 To invoke the ancestral spirits, you will need the following items:
 
-1. A quiet and clean space for the ritual
+1. **A quiet and clean space for the ritual**
 2. A representation of the tormented spirit (photograph, personal item, or even a written description)
-3. A small table for the altar
+3. **A small table for the altar**
 4. Ancestor offerings (photographs, ancestral objects, fruit, flowers, etc.)
 5. Sacred herbs (white sage, lavender, cedar, sweetgrass, and others)
-6. A white candle
-7. Sigil drawn on a piece of paper
-8. An incense burner or smudging bowl
+6. **A white candle**
+7. **Sigil drawn on a piece of paper**
+8. **An incense burner or smudging bowl**
 9. Incense (preferably sandalwood or frankincense)
 10. A ritual knife or athame
 11. A small vial of protection oil (can be made using olive oil and clove, rosemary, or other protective herbs)

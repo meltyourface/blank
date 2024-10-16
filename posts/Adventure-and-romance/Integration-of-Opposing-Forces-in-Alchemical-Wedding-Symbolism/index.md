@@ -24,8 +24,8 @@ excerpt: >
   - The use of sacred geometry in constructing protective circles
   
   - The role of elemental guardians in guiding a hero's journey
-  
 ---
+
 The alchemical wedding of the sun and moon
 
 In the context of occult adventure and romance, the alchemical wedding of the sun and moon is the most likely element to symbolize the integration of opposing forces leading to self-discovery and growth. This concept is rooted in alchemy, an ancient philosophical and protoscientific tradition that aimed to achieve the transmutation of base metals into noble ones, and the discovery of the "Philosopher's Stone" - capable of granting eternal life.

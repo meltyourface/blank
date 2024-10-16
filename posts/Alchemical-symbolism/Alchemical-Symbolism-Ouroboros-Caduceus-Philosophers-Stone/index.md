@@ -26,7 +26,7 @@ Introduction
 
 The ancient art of alchemy is a complex interweaving of science, philosophy, and spirituality. At the core of this mysterious tradition lies a rich and symbolic language employed by countless seekers in their quest to unveil the secrets of the cosmos. An understanding of alchemical symbols and their meanings is crucial for anyone who desires to delve deeply into the study of alchemy. This section will provide an in-depth look at three essential alchemical symbols, revealing their visuals, associated concepts, and roles that they play in the practice of alchemy. Through this exploration, we aim to enable students to gain a profound understanding of the principles underlying alchemical symbolism, thereby significantly enhancing their occult practice.
 
-1. The Ouroboros
+1. **The Ouroboros**
 
 **Visual representation**: The Ouroboros is depicted as a serpent or dragon eating its tail, forming a circle. This figure symbolizes the cyclicality of nature and the eternal return to the beginning. The serpent is often portrayed in a clockwise direction so that the head meets the tail.
 
@@ -34,7 +34,7 @@ The ancient art of alchemy is a complex interweaving of science, philosophy, and
 
 **Role in alchemy**: The Ouroboros serves as a representation of the cyclical nature of the alchemical process. It is a symbol of completion and mastery, embodying the concept of "solve et coagula" (dissolve and coagulate), wherein the alchemist breaks down matter and rebuilds it in a more purified form. By meditating on the Ouroboros, the alchemist is reminded of the inherent cyclicality of existence and the goal of achieving eternal renewal through the transmutation of elements.
 
-2. The Caduceus
+2. **The Caduceus**
 
 **Visual representation**: The Caduceus consists of two snakes entwined around a central staff, with wings often adorning the top of the staff. This symbol has its roots in ancient Greece, where it was associated with the messenger of the gods, Hermes (Mercury in Roman mythology).
 

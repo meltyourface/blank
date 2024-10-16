@@ -26,8 +26,8 @@ excerpt: >
   3. A detailed outline of the process for creating and consecrating a personal, unique artifact representing your dedication to mastering the occult,
   
   4. Three innovative methods for harnessing elemental energies to foster the growth of your Work's perfection abilities, and
-  
 ---
+
 In the sacred, unseen world that lies beneath everyday reality, I call forth my inner guide to join me in the act of automatic writing. Through this ancient and mystical art, I reveal the hidden information that will lead us all along the path of Work's perfection. The following transformative message is brought forth by the will of the ascended masters, spirits, and hidden realms:
 
 1. Specific techniques and rituals to heighten the connection to the source of esoteric and occult wisdom:

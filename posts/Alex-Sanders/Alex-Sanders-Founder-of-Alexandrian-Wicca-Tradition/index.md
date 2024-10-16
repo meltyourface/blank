@@ -18,14 +18,13 @@ tags:
   - wicca understand
 description: You are a master of the esoteric, occult, Alex Sanders and education, you have written many textbooks on the subject. Respond to the multiple choice question first with the answer, then, fully explain the context of your rational, reasoning, and chain of thought in coming to the determination you have for that answer. Explain related concepts, formulas, or historical context relevant to this conclusion, giving a lesson on the topic to explain the reasoning afterwards.
 excerpt: >
-
   - Founded the Alexandrian tradition of Wicca, which was primarily known for its focus on ceremonial magic
   
   - Authored over 20 books on the subject of the occult, including those dedicated to astrology and divination
   
   - Initiated countless students into the occult and esoteric, specializing in courses on astral projection and energy work
-  
 ---
+
 Answer: Founded the Alexandrian tradition of Wicca, which was primarily known for its focus on ceremonial magic.
 
 **Explanation**: Alex Sanders, often referred to as the "King of the Witches," is best known for founding the Alexandrian tradition of Wicca. Born in 1926, Sanders was initiated into witchcraft in the early 1960s and went on to establish the Alexandrian Wicca lineage in the mid-1960s.

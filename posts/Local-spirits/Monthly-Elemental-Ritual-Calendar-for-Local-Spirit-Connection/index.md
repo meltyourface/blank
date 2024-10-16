@@ -24,9 +24,9 @@ Month: January
 **Altar**: Choose a quiet, dedicated space for the altar. Place a cloth with earthy tones as the foundation. Weekly, refresh the altar with locally sourced tokens such as flowers, plants, or small stones that resonate with the local spirits.
 
 Weekly Altar Updates:
-1. Fresh flowers and regional greenery
-2. Locally made candles in soothing colors
-3. Incense or essential oils with earthy and herbal scents
+1. **Fresh flowers and regional greenery**
+2. **Locally made candles in soothing colors**
+3. **Incense or essential oils with earthy and herbal scents**
 4. Symbols that represent the regional energy (e.g., carved runes, clay figures)
 
 Detailed Calendar of Rituals and Ceremonies:

@@ -21,8 +21,8 @@ excerpt: >
   Active nihilism is a destructive force that seeks to abolish all values, while passive nihilism arises with no regard for existing values
   
   Active nihilism allows a person to be critical of existing values and eventually overcome them, while passive nihilism renders a person indifferent to these values
-  
 ---
+
 Answer: Active nihilism allows a person to be critical of existing values and eventually overcome them, while passive nihilism renders a person indifferent to these values.
 
 **Explanation**: Active nihilism and passive nihilism are two concepts that can be traced back to the ideas of Friedrich Nietzsche, a German philosopher. While both forms of nihilism deal with the belief in the lack or absence of intrinsic meaning, value, or purpose in life, they differ in the way they manifest and influence individuals.

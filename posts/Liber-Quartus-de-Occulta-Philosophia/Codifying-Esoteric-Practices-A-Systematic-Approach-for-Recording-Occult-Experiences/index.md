@@ -23,7 +23,7 @@ As a master of the occult arts and specifically of the Liber Quartus de Occulta 
 
 The codification scheme will entail the following primary categories, subcategories, and hierarchical structure for effortless indexing, cross-referencing, and retrieval of amassed knowledge.
 
-1. Rites and Rituals
+1. **Rites and Rituals**
    1.1 Invocation
    1.2 Evocation
    1.3 Divination
@@ -31,7 +31,7 @@ The codification scheme will entail the following primary categories, subcategor
    1.5 Talismanic creations
    1.6 Theurgy (Divine workings)
 
-2. Metaphysical Principles
+2. **Metaphysical Principles**
    2.1 Synchronicity
    2.2 Meditation and altered states of consciousness
    2.3 Energy manipulation
@@ -39,19 +39,19 @@ The codification scheme will entail the following primary categories, subcategor
    2.5 Elemental affinities
    2.6 Hermetic principles
 
-3. Spiritual Advancement
+3. **Spiritual Advancement**
    3.1 Novice
    3.2 Adept
    3.3 Master
    3.4 Magus
 
-4. Manifestations and Occurrences
+4. **Manifestations and Occurrences**
    4.1 Subtle
    4.2 Moderate
    4.3 Strong
    4.4 Overwhelming
 
-5. Efficiency of Magical Techniques
+5. **Efficiency of Magical Techniques**
    5.1 Success (Intensity, Duration, and Congruence with Intentions)
    5.2 Failure (Identify causes, lessons, and improvements for future practice)
 

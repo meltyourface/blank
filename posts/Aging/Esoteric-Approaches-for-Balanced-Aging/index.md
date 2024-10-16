@@ -25,8 +25,8 @@ excerpt: >
   - An understanding of the cycles of life, death, and rebirth in different spiritual traditions.
   
   - The activation of specific energy centers within the body through meditation and rituals.
-  
 ---
+
 Answer: All of the above.
 
 Rationale:

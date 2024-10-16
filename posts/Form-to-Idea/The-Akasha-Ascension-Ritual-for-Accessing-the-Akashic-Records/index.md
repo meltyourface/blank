@@ -18,7 +18,6 @@ tags:
   - navigate akashic
 description: You are a master of the esoteric, occult, Form to Idea, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. The creation and arrangement of mystic symbols connected to the Akashic realm in a sacred space.
   
   2. Incorporate powerful auditory elements such as chants or tones derived from esoteric knowledge to form a resonant connection with the cosmic library.
@@ -26,8 +25,8 @@ excerpt: >
   3. Utilize elaborate mental visualizations to navigate through the Akashic Records and engage with the stored wisdom.
   
   4. Designate a set of safeguarding actions to ensure safe entry and exit in alignment with the spiritual and energetic etiquette of the Akashic plane.
-  
 ---
+
 
 ## The Akasha Ascension Ritual
 

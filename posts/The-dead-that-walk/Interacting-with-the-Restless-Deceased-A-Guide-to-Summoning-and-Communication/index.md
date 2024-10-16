@@ -26,7 +26,7 @@ excerpt: Write a short but informationally dense section of a grimoire focusing 
 
 The dead that walk, also known as the restless deceased or revenants, are spirits that have crossed the veil between the living and the dead, manifesting in our realm with various motivations and intentions. These entities differ from ghosts that passively haunt locales, as they actively engage with the living and possess an array of unique powers. Interactions with the dead that walk span across many cultures, reflecting the universal human fascination with the afterlife and communication with beings that exist beyond our mundane reality. Engaging with these entities requires understanding of their nature, the ability to summon, and methods to interact with these powerful spirits.
 
-2. Key Components of Summoning the Dead That Walk
+2. **Key Components of Summoning the Dead That Walk**
 
 Summoning the dead that walk involves a series of specific rituals and preparations. Keep in mind that these entities may require respect and caution, as they may act unpredictably based on their motivations. The process can be divided into three main components:
 
@@ -36,7 +36,7 @@ b. Invocation Ritual: The actual summoning of the dead that walk varies dependin
 
 c. Offering of Energy: Offering a spiritual or emotional energy to the dead that walk can attract and potentially appease them. Methods include presenting physical tokens of affection or symbolic sacrifices, conducting acts of devotion, or channeling one's emotional energy. These offerings serve as tokens of goodwill and demonstrate a willingness to engage mutually.
 
-3. Interacting with the Dead That Walk
+3. **Interacting with the Dead That Walk**
 
 Once summoned, the actual interaction with the dead that walk should be approached with respect and caution. Effective communication methods depend on the nature of the spirit and the intentions of the practitioner. Key considerations include:
 
@@ -46,7 +46,7 @@ b. Seeking Knowledge and Guidance: The dead that walk hold a wealth of knowledge
 
 c. Understanding Motivations: It is essential to recognize that each restless spirit may have its unique motivations and desires. Some may seek reconciliation, others strive for revenge, while others might desire nothing more than simple companionship. By understanding these motivations, practitioners can better interact with and influence the dead that walk.
 
-4. Historical Context and Relevance
+4. **Historical Context and Relevance**
 
 Throughout history, countless cultures have explored the phenomenon of the dead that walk, incorporating their beliefs into religions, mythologies, and occult practices. Ancient Egyptian, Greek, and Chinese civilizations all held beliefs in the existence of restless spirits, pursuing various means of communication and interaction.
 

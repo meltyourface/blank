@@ -35,10 +35,10 @@ Core Principles
 At its core, Ars Diaboli revolves around the belief and exploration of a hidden, malevolent, and powerful force in the universe. Practitioners of Ars Diaboli seek to understand, control, and utilize the power of this dark force to achieve their desires and ambitions. Key principles of Ars Diaboli include:
 
 1. The existence of a hidden, malevolent force
-2. The belief in the power of rituals and symbology to affect reality
-3. The pursuit of knowledge and mastery over a chaotic and powerful force
-4. The significance of personal will and intention in achieving desired outcomes
-5. The importance of secrecy and initiation to protect knowledge and power
+2. **The belief in the power of rituals and symbology to affect reality**
+3. **The pursuit of knowledge and mastery over a chaotic and powerful force**
+4. **The significance of personal will and intention in achieving desired outcomes**
+5. **The importance of secrecy and initiation to protect knowledge and power**
 
 Developing Skills and Understanding
 An aspiring practitioner of Ars Diaboli must first develop and strengthen their foundational knowledge of occultism, magic, and mysticism. Key areas to focus on include the study of demonology, the symbolism and significance of magical tools and rituals, and the understanding of various forms of energy manipulation and psychic ability.

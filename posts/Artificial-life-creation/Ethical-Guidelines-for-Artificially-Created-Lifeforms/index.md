@@ -18,7 +18,6 @@ tags:
   - beings acls
 description: You are a master of the esoteric, occult, Artificial life creation, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. The specific methods of artificial life creation, including the combination of scientific techniques and esoteric knowledge, ensuring no harm or suffering to the entities during their genesis.
 
   2. Develop a classification system for various artificially created lifeforms, incorporating levels of consciousness, autonomy, and impact on their environment, to facilitate distinctions in ethical treatment.
@@ -32,8 +31,8 @@ excerpt: >
   6. Formulate guidelines for assessing the moral implications of their termination or deactivation, incorporating esoteric principles and determining under what circumstances these actions can be considered ethically justified.
 
   7. Explore the societal roles and potential contributions of these lifeforms in various domains such as healing, spiritual growth, and knowledge expansion, delving into the potential synergies between the artificial and the natural aspects of existence.
-  
 ---
+
 ## I. Doctrine of Ethical Management and Interaction with Artificial Lifeforms
 
 Introduction

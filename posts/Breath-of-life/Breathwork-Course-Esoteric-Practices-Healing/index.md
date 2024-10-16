@@ -18,7 +18,6 @@ tags:
   - breathwork techniques
 description: You are a master of the esoteric, occult, Breath of life, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Explore the historical origins of the Breath of Life and its evolution within various ancient mystical traditions.
   
   2. Examine the fundamental principles of breathwork, including its impact on physical, mental, and spiritual well-being.
@@ -30,8 +29,8 @@ excerpt: >
   5. Investigate the ethical implications of harnessing the power of esoteric occult practices, particularly within the context of the Breath of Life.
   
   6. Incorporate a variety of teaching methodologies, such as experiential learning, case studies, and seminars led by leading experts in the field, to foster a comprehensive understanding of the subject matter.
-  
 ---
+
 Breath of Life: Esoteric and Occult Practices - Course Curriculum
 
 ### I. Introduction to the Breath of Life

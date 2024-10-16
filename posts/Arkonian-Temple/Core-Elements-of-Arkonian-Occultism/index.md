@@ -23,8 +23,8 @@ excerpt: >
   Elemental Tetramancy, Sacred Geometry, Arkonian Runic Inscriptions, Time Loops
   
   Dreamwalking, Two-fold Path, Archetypal Gods, Harnessing Prana Energy
-  
 ---
+
 Elemental Tetramancy, Sacred Geometry, Arkonian Runic Inscriptions, Time Loops
 
 The combination of Elemental Tetramancy, Sacred Geometry, Arkonian Runic Inscriptions, and Time Loops accurately reflects the core teachings and practices of the Arkonian Temple. Let's break these elements down individually and understand their relevance to the Arkonian tradition as a whole.

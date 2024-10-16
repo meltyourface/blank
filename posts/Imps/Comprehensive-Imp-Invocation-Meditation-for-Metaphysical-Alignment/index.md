@@ -18,7 +18,6 @@ tags:
   - harmonize imp
 description: You are a master of the esoteric, occult, Imps, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Devise an invocation chant or prayer for summoning the presence of Imps using their preferred esoteric language and vibrational patterns.
   
   2. Incorporate mystical symbols, sigils, or talismans representing the Imps' unique energies into the meditation space, enhancing the potency of spiritual connection.
@@ -26,8 +25,8 @@ excerpt: >
   3. Outline a step-by-step process for visualization techniques that evoke Imps' distinguishing attributes, allowing the practitioner to fully immerse themselves in the entities' ethereal domain.
   
   4. Integrate breathwork and energy manipulation exercises that facilitate the channelling and harmonization of Imp energies within the practitioner for heightened spiritual alignment.
-  
 ---
+
 Comprehensive Meditation Ritual for Attunement with Imp Frequencies
 
 1. **Invocation chant or prayer**:

@@ -60,12 +60,16 @@ Examples of core rituals include:
 
 In order to fully integrate the teachings of the Abbey of Do What Thou Wilt into one's spiritual journey, initiates are advised to:
 
-1. Study various esoteric and mystical traditions, drawing upon these diverse sources to enrich their understanding of the self and the universe.
 
-2. Regularly engage in self-reflective practices, such as meditation, journaling, and divination, to foster personal growth and self-awareness.
+1. **Study various esoteric and mystical traditions, drawing upon these diverse sources to enrich their understanding of the self and the universe.**
 
-3. Establish a dedicated space for ritual work and contemplation, to cultivate a strong connection with the divine energies invoked during ceremonies.
 
-4. Actively seek the guidance of experienced practitioners, to learn from their experiences and wisdom.
+2. **Regularly engage in self-reflective practices, such as meditation, journaling, and divination, to foster personal growth and self-awareness.**
+
+
+3. **Establish a dedicated space for ritual work and contemplation, to cultivate a strong connection with the divine energies invoked during ceremonies.**
+
+
+4. **Actively seek the guidance of experienced practitioners, to learn from their experiences and wisdom.**
 
 By embracing the principles and practices taught within the Abbey of Do What Thou Wilt, a dedicated spiritual seeker can expect to experience profound self-discovery, empowerment, and a heightened connection with the universe at large.

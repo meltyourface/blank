@@ -18,14 +18,13 @@ tags:
   - qliphoth considered
 description: You are a master of the esoteric, occult, Anti-cosmic current and education, you have written many textbooks on the subject. Respond to the multiple choice question first with the answer, then, fully explain the context of your rational, reasoning, and chain of thought in coming to the determination you have for that answer. Explain related concepts, formulas, or historical context relevant to this conclusion, giving a lesson on the topic to explain the reasoning afterwards.
 excerpt: >
-
   - Manifestation of divine wisdom within the boundaries of the Demiurge's creation
   
   - The chaotic and destructive forces that exist outside the framework of the cosmic order
   
   - The purest form of cosmic harmony and unity, achieved through the combination of both dark and light energies
-  
 ---
+
 The chaotic and destructive forces that exist outside the framework of the cosmic order.
 
 The Qliphoth, often referred to as the "Shells" or the "Tree of Death," is a concept that originated within the mystical tradition of Kabbalah. It represents the dark and chaotic side of existence that exists separately from the divine order – the Tree of Life, which is based on the ten Sephiroth of divine manifestation.

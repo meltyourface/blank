@@ -18,7 +18,6 @@ tags:
   - esoteric symbols
 description: You are a master of the esoteric, occult, Craftsmanship in relation to image-making, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Provide a selection of at least three esoteric symbols or figures from various mystical traditions as the basis of the origami model. Elucidate the historical and cultural background of each choice.
   
   2. Detail the appropriate materials, tools, and paper sizes required for each chosen symbol or figure. Recommend suitable color schemes or patterns that best represent the chosen imagery.
@@ -26,8 +25,8 @@ excerpt: >
   3. Clearly outline the sequential folding steps, incorporating diagrams or illustrations, to ensure accuracy and ease of understanding. Where necessary, reference foundational origami techniques relevant to the model.
   
   4. Explore possible variations and embellishments in the origami model to enhance its overall aesthetic appeal and intricacy, maintaining the integrity of the esoteric symbolism.
-  
 ---
+
 Introduction
 
 Origami, the art of paper folding, has been practiced for centuries, and its expressive potential and scalability make it an ideal medium for conveying complex and enigmatic symbols. This comprehensive, step-by-step guide will provide you with instructions to create exquisite and intricate origami models embodying the essence of mystic symbology or enigmatic figures, closely associated with the arcane arts and image-making practices. 

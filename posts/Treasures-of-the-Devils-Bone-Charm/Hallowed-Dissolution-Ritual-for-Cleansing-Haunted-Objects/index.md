@@ -23,7 +23,7 @@ To cleanse and neutralize the dark energy residing within a haunted object assoc
 
 First, I will gather the necessary components for this ritual, which include:
 
-1. The haunted object to be cleansed
+1. **The haunted object to be cleansed**
 2. A Circle of Protection Lure — an amulet made of silver and engraved with the sigil of the Devil's Tear
 3. A talisman known as the Shard of Dominion, imbued with the essence of the Shadow King
 4. An unblemished black mirror, the Gatekeeper's Eye

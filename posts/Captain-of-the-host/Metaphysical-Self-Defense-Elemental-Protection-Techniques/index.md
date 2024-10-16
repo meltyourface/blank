@@ -25,7 +25,7 @@ The Comprehensive Metaphysical Self-Defense System for the Captain of the host, 
 
 ### II. Foundation and Key Concepts
 
-1. Elemental Energies
+1. **Elemental Energies**
    a. Fire – represents passion, transformation, and purification
    b. Water – represents emotions, intuition, and healing
    c. Earth – represents groundedness, stability, and physicality
@@ -36,39 +36,39 @@ The Comprehensive Metaphysical Self-Defense System for the Captain of the host, 
    b. Time – represents the flow of events, change, and causality
    c. Cosmic Forces – represents gravity, celestial influences, and ultimate energies in the universe
 
-3. Alignment and Intent
+3. **Alignment and Intent**
    a. Aligning oneself with the energies, spirits, and forces
    b. Channeling intent through rituals, incantations, and energy manipulation
 
 ### III. Elemental Defense Techniques
 
-1. Fire Defense
+1. **Fire Defense**
    a. Fire Shield – visualize a blazing wall of fire that repels negative energies and malicious intentions
    b. Fire Transformation – transmute negative energies into positive ones, utilizing the purifying aspect of fire
 
-2. Water Defense
+2. **Water Defense**
    a. Water Barrier – visualize a flowing, reflective water barrier that neutralizes and dissipates harmful energies
    b. Water Cleansing – wash away negative energies and emotional turmoil via water-based rituals or energy work
 
-3. Earth Defense
+3. **Earth Defense**
    a. Earth Armor – visualize an armor made of solid stone, grounding and protecting against external threats
    b. Earth Anchoring – establish a strong connection to Earth and surroundings to absorb and neutralize harmful energies
 
-4. Air Defense
+4. **Air Defense**
    a. Air Veil – visualize a swirling veil of air to deflect harmful energies and disrupt the flow of unwanted influences
    b. Air Purification – utilize the ventilating powers of air to clear and purify one's energy and surroundings
 
 ### IV. Lesser-Known Energy Defense Techniques
 
-1. Aether Defense
+1. **Aether Defense**
    a. Aetheric Veiling – access the divine essence of aether to camouflage and protect oneself from metaphysical attacks
    b. Aetheric Infusion – amplify one's energy by drawing upon the prime element, creating a potent force field
 
-2. Time Defense
+2. **Time Defense**
    a. Temporal Anchor – establish a secure connection to the present, providing resistance to negative influences from the past or future
    b. Temporal Disruption – disrupt the flow of time surrounding an attack, neutralizing its energy and rendering it harmless
 
-3. Cosmic Force Defense
+3. **Cosmic Force Defense**
    a. Cosmic Harmony – attune oneself to the celestial energies, granting enhanced perception and prediction of malicious intent
    b. Gravitational Shift – manipulate gravity to create a protective force field, repulsing external harmful energies
 

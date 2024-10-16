@@ -28,13 +28,13 @@ The Indian cult of Saturn, known as Shani in the Indian subcontinent, constitute
 
 This section provides an in-depth examination of the doctrines, rituals, symbolism, and esoteric concepts within the Indian cult of Saturn. By delving into these aspects, students can develop a profound understanding of the occult tradition and its practical application in their lives.
 
-1. Doctrines
+1. **Doctrines**
 
 The Indian cult of Saturn holds the doctrine of karma at its core. Shani, as the divine judge, dispenses rewards and punishments according to an individual's karmic account. The objective of this doctrine is to emphasize the significance of ethical actions in life.
 
 In Hindu astrology, the position of Shani in a person's birth chart impacts their life journey. The phenomenon of Sade Sati, which occurs when Saturn transits the 12th, 1st, and 2nd houses from the natal moon for a period of approximately 7.5 years, is associated with challenges and difficulties. However, it is important to note that Shani's influence is ultimately geared towards the spiritual growth and progress of an individual.
 
-2. Rituals
+2. **Rituals**
 
 The cult of Saturn includes various rituals aimed at appeasing Shani and seeking protection from malefic effects. These rituals promote introspection and serve as a reminder of the spiritual purpose of one's earthly existence. Some of the key rituals are:
 
@@ -44,7 +44,7 @@ b) Shani Shanti Yagya: A fire ceremony carried out by learned priests to mitigat
 
 c) Tailabhishekam: Anointing the idol of Shani with various oils as a means of seeking forgiveness for past misdeeds and attracting the deity's blessings.
 
-3. Symbolism
+3. **Symbolism**
 
 The iconography of the Indian cult of Saturn is replete with rich symbolism that conveys deep esoteric knowledge. Shani is typically depicted as a dark-complexioned deity, riding a buffalo or a chariot, and wearing clothes of black or dark blue. The color symbolism highlights the significance of neutrality and introspection.
 
@@ -52,7 +52,7 @@ The vehicular mount of Shani, the buffalo, represents the attributes of patience
 
 Shani's association with crows and raven as his messengers suggests the ability to see beyond illusions and uncover the hidden aspects of life.
 
-4. Esoteric Concepts
+4. **Esoteric Concepts**
 
 The Indian cult of Saturn presents various esoteric concepts that elevate the understanding of self and reality. The concept of time, for instance, is closely related to Shani. The deity is said to symbolize the eternal cycle of birth, death, and rebirth, which governs the human experience. By comprehending the cyclic nature of time, one can unearth the essence of existence.
 

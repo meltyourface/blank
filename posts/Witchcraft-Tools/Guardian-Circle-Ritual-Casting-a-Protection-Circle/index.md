@@ -25,12 +25,12 @@ excerpt: Design a comprehensive ritual for consecrating and casting a protective
 **Objective**: Consecrate and cast a protective circle using a ceremonial sword, following traditional witchcraft practices, while incorporating elemental energies and symbolic correspondences. 
 
 **Materials**:
-1. Ceremonial sword
+1. **Ceremonial sword**
 2. Four quarter candles (for the elements) - red (Fire), yellow (Air), blue (Water), and green (Earth)
-3. Incense and incense burner
+3. **Incense and incense burner**
 4. A piece of cloth or mat for sitting/standing
 5. Salt and water (in separate containers)
-6. A chalice or cup
+6. **A chalice or cup**
 
 **Preparations**:
 1. Cleanse and purify the ceremonial sword by washing it with saltwater.

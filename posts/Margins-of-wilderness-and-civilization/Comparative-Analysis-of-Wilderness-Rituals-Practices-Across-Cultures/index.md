@@ -18,7 +18,6 @@ tags:
   - shinto rituals
 description: You are a master of the esoteric, occult, Margins of wilderness and civilization, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. The role of nature's elements, such as earth, water, fire, and air, in these rituals and practices, and how they embody specific beliefs or mythologies.
   
   2. The specific locations or sacred sites in the wilderness where these rituals and practices are conducted, detailing their geographical and environmental features, as well as their cultural and historical significance.
@@ -26,8 +25,8 @@ excerpt: >
   3. Elucidate the interplay between wilderness and civilization within these traditions, examining the mutual influences, conflicts, and complementarities that arise through the enactment of these rituals and practices.
   
   4. Assess the spiritual and practical applications of these wilderness-inspired rituals, detailing how they have been adapted to suit the needs and desires of their communities, as well as how they impact societal structures and relationships in the margins of wilderness and civilization.
-  
 ---
+
 In-depth Comparative Analysis of Wilderness-Inspired Rituals and Practices
 
 1. Role of nature's elements in diverse wilderness-inspired rituals and practices

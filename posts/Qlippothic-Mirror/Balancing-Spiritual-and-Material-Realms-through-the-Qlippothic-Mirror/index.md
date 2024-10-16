@@ -18,14 +18,13 @@ tags:
   - qliphoth roles
 description: You are a master of the esoteric, occult, Qlippothic Mirror and education, you have written many textbooks on the subject. Respond to the multiple choice question first with the answer, then, fully explain the context of your rational, reasoning, and chain of thought in coming to the determination you have for that answer. Explain related concepts, formulas, or historical context relevant to this conclusion, giving a lesson on the topic to explain the reasoning afterwards.
 excerpt: >
-
   - The polarity between the Sephiroth and the Qliphoth, and their roles in balancing the spiritual and the material realms.
   
   - The significance of the practitioner's astrological chart on determining which side of the Qlippothic realm to work with.
   
   - The symbology behind Qlippothic entities and how they relate to a practitioner's personal power and spiritual progression.
-  
 ---
+
 - The polarity between the Sephiroth and the Qliphoth, and their roles in balancing the spiritual and the material realms.
 
 The Qlippothic Mirror is an essential concept in understanding the often polarizing and complex nature of the esoteric and occult realms. It specifically deals with the Qliphoth, which is the shadow or darker side of the Tree of Life, often referred to as the "Tree of Death" or "Tree of Knowledge." In contrast, the Sephiroth represents the light or positive side of the Tree of Life.

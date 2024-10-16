@@ -18,7 +18,6 @@ tags:
   - ancient power
 description: You are a master of the esoteric, occult, Magical words, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Address and incorporate the four primary elements of earth, air, fire, and water, each representing a cardinal direction and strength to bolster the protection.
   
   2. Specify three sacred symbols or sigils that strengthen the mystical shield and provide additional, more targeted defenses against specific threats such as curses or psychic attacks.
@@ -26,8 +25,8 @@ excerpt: >
   3. Encapsulate within its prose at least one core concept of light and benevolence, in opposition to the negativity of the encroaching energies, which reinforces the barrier's potency.
   
   4. Employ melodic and rhythmic patterns intentionally crafted to resonate with the protective energies being invoked and solidify the intended thwarting of harmful forces.
-  
 ---
+
 Incantation:
 
 From the realms of ancient power, I summon thee,

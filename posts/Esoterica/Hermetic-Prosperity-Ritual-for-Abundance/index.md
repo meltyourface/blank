@@ -18,7 +18,6 @@ tags:
   - safeguarding ritual
 description: You are a master of the esoteric, occult, Esoterica, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Conduct extensive research on Hermetic philosophy, drawing from primary texts such as the Corpus Hermeticum, the Emerald Tablet, and the Kybalion, to provide an informed foundation for the ritual.
   
   2. Employ the Seven Hermetic Principles, with a focus on the Principle of Correspondence, the Principle of Vibration, and the Principle of Cause and Effect, to create a coherent structure and flow for the ritual.
@@ -32,8 +31,8 @@ excerpt: >
   6. Incorporate meditation, visualization, and affirmations, especially those reflecting abundance-related realizations, manifestations, and intentions.
   
   7. Add a closing and grounding rite, ensuring the disassembly of the created sacred space and reintegration of the participant back into the mundane world, enriched by the wisdom and energy gained from the ritual.
-  
 ---
+
 **Title: The Opulence of Thoth: A Hermetic Ritual for Prosperity and Wealth**
 
 **1. **Foundation**: Hermetic philosophy**

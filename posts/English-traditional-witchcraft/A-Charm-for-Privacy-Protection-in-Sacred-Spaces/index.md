@@ -22,10 +22,10 @@ excerpt: Craft an intricate charm by harnessing the powers of traditional Englis
 To craft an intricate charm that deters unwanted attention and fortifies the privacy of a designated sanctuary, gather the following materials:
 
 1. Fresh branches or sprigs of blackthorn, hawthorn, and elder (each possessing their unique magical properties)
-2. A piece of parchment paper
+2. **A piece of parchment paper**
 3. An ink pen or quill, preferably with red ink
-4. A bottle or vial to store the charm
-5. A piece of twine or ribbon
+4. **A bottle or vial to store the charm**
+5. **A piece of twine or ribbon**
 
 Begin by choosing a quiet and secluded workspace to perform this task during either a waning or new moon phase, as these phases represent protection and concealment.
 

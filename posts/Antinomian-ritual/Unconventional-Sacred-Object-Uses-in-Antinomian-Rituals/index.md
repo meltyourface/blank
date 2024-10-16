@@ -18,14 +18,13 @@ tags:
   - aspect antinomianism
 description: You are a master of the esoteric, occult, Antinomian ritual and education, you have written many textbooks on the subject. Respond to the multiple choice question first with the answer, then, fully explain the context of your rational, reasoning, and chain of thought in coming to the determination you have for that answer. Explain related concepts, formulas, or historical context relevant to this conclusion, giving a lesson on the topic to explain the reasoning afterwards.
 excerpt: >
-
   - Utilizing sacred objects from various traditions in unconventional ways
   
   - Chanting prayers of devotion, acknowledging a single universal truth
   
   - Performing rituals only during daytime to avoid association with darkness
-  
 ---
+
 - Utilizing sacred objects from various traditions in unconventional ways
 
 In an Antinomian ritual, the element employed to transgress societal norms and boundaries, while also invoking spiritual entities from different belief systems, is utilizing sacred objects from various traditions in unconventional ways.

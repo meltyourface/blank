@@ -22,13 +22,13 @@ excerpt: >
 ---
 For the purposes of this analysis, I have chosen to examine the Pentagram, a symbol that has been used by various cultures and religious practices throughout history, and has undergone significant reinterpretation and appropriation.
 
-1. Original Significance and Historical Development
+1. **Original Significance and Historical Development**
 
 The Pentagram, a five-pointed star drawn with five straight strokes, has been used as a symbol since ancient times. Its origins can be traced back to Mesopotamia, around 3500 BCE. In the Mesopotamian context, the symbol represented various celestial bodies and their relationships with the heavens. **The five points of the star were thought to represent the five visible planets at the time**: Jupiter, Mercury, Mars, Saturn, and Venus.
 
 The ancient Greeks also used the Pentagram extensively. Pythagorean philosophers considered the Pentagram to be a symbol of mathematical perfection and harmony, ascribing the five points to the five elements: air, earth, fire, water, and aether. In this context, the symbol illustrated the interconnectedness of all things and the balance of the natural world.
 
-2. Evolution and Adaptations through Cultures and Religious Practices
+2. **Evolution and Adaptations through Cultures and Religious Practices**
 
 a. Christianity
 During the early Christian period, the Pentagram was adopted as a symbol of the five wounds of Christ, representing the crucifixion and the Passion of Christ. It also became associated with the concept of the Star of Bethlehem and was used as a protective symbol against evil.

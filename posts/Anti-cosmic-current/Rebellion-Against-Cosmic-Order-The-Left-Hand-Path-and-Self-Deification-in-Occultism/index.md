@@ -25,8 +25,8 @@ excerpt: >
   2. Performing a Chaos Magick ritual to disrupt the established order and bring about change
   
   3. Following the Left-Hand Path and seeking self-deification
-  
 ---
+
 The answer is 3. Following the Left-Hand Path and seeking self-deification.
 
 In the Anti-cosmic current of occultism, the main aim is to defy and rebel against the cosmic order, which is believed to be established and maintained by the Demiurge. The Demiurge is considered an oppressive force, seeking to subdue the potential of humans and keep them enslaved within the realms of the physical and spiritual cosmos. The Left-Hand Path (LHP) refers to a path that goes against conventional beliefs and morals, embracing nonconformity, individualism, and personal power.

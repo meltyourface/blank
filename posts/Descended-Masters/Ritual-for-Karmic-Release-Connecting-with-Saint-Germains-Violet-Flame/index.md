@@ -28,10 +28,10 @@ The Ritual of Transmutation and Karmic Release is an elaborate ritual centered a
 
 Ritual Structure:
 The ritual consists of four main stages:
-1. Purification and Preparation
-2. Invocation of Saint Germain
-3. Karmic Transmutation
-4. Reflection and Integration
+1. **Purification and Preparation**
+2. **Invocation of Saint Germain**
+3. **Karmic Transmutation**
+4. **Reflection and Integration**
 
 Stage 1: Purification and Preparation
 In this stage, participants cleanse their physical, emotional, and spiritual bodies in preparation for the release of karmic energy.

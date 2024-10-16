@@ -27,76 +27,76 @@ In this comprehensive, multidimensional comparative study, we will delve into th
 
 ### I. Migratory Patterns
 
-1. Bedouins
+1. **Bedouins**
 The Bedouins are traditionally a nomadic people from the Arabian, Syrian, and North African deserts. Their migrations follow a seasonal pattern, moving between specific locations depending on available resources, primarily sources of water and grazing areas for their livestock.
 
-2. Romani
+2. **Romani**
 Originating from the Indian subcontinent, the Romani people have migrated throughout Europe over a millennium, presently settling mostly in Eastern and Southern regions. Their migratory patterns vary widely, with some communities following seasonal itineraries and others maintaining a sedentary lifestyle.
 
-3. Kazakhs
+3. **Kazakhs**
 The Kazakhs are historically a nomadic tribe inhabiting the vast steppe of Central Asia. They follow a transhumance pattern, moving between summer pastures in high-altitude regions and winter settlements in lower elevations, driven by the needs of their livestock.
 
 ### II. Sociopolitical Structures
 
-1. Bedouins
+1. **Bedouins**
 The Bedouins' social organization is based on kinship, with extended families known as bayt forming the smallest unit. These families form larger tribal structures with leaders appointed through a combination of lineage and merit. Conflicts between tribes are resolved through mediation by respected elders. 
 
-2. Romani
+2. **Romani**
 The Romani people maintain a flexible and complex social hierarchy based on the principle of Romanipen (the Romani way). Their society is divided into groups known as Nations or vitsas. A council of elders and a headman administer each group. The Romani tend to maintain strong traditions of self-governance.
 
-3. Kazakhs
+3. **Kazakhs**
 Kazakh society is organized along tribal lines, with the zhuz (a collection of tribes) constituting the hierarchy. Traditionally, each zhuz is ruled by a khan, and their decisions are regulated by customary law called adat. Today, the sociopolitical structure of Kazakhstan is influenced greatly by the modern administration of the post-Soviet state.
 
 ### III. Traditional Practices
 
-1. Bedouins
+1. **Bedouins**
 Key traditional practices for Bedouins include camel and goat husbandry, the importance placed on poetry and oral history, and the practice of hospitality as a mark of honor.
 
-2. Romani
+2. **Romani**
 Traditional Romani practices include metalworking and craftsmanship, music and dance, and adherence to strict rules governing purity, such as the complex marime code.
 
-3. Kazakhs
+3. **Kazakhs**
 The Kazakhs prioritize traditional practices like herding horses and sheep, yurt-dwelling, horse riding, and rituals associated with birth, marriage, and death.
 
 ### IV. Economic Systems
 
-1. Bedouins
+1. **Bedouins**
 Bedouin economic systems are largely dependent on livestock production, trade, and, more recently, remittances from members working in urban areas and the oil industry.
 
-2. Romani
+2. **Romani**
 The Romani people have adapted to diverse economic systems throughout their history, frequently engaging in trades such as blacksmithing, basketry, and fortune-telling.
 
-3. Kazakhs
+3. **Kazakhs**
 Historically, Kazakh economic livelihoods revolve around animal husbandry and trade. Modern Kazakh economic systems have been impacted by the Soviet collectivization and subsequent oil and mineral industries.
 
 ### V. Cultural Exchange and Adaptation
 
 Examples of cultural exchange and adaptation for each society include:
 
-1. Bedouins
+1. **Bedouins**
 - Contribution to Arabic literature, music, and cuisine
 - Influence on modern Arab nationalism
 - Adaptation of modern technologies facilitate desert living
 
-2. Romani
+2. **Romani**
 - Development of a unique fusion of Indian, Persian, and European elements in their language
 - Influence on European art, music, dance, and cuisine
 - Struggles for social integration and recognition of Romani culture in Europe
 
-3. Kazakhs
+3. **Kazakhs**
 - Syncretic blend of Turkic, Mongol, and Persian cultural elements
 - Influence of Islam, the Russian Orthodox Church, and Soviet policies
 - Preservation of traditional practices in a rapidly modernizing society
 
 ### VI. Futures in Globalization and Modernization
 
-1. Bedouins
+1. **Bedouins**
 Challenges faced by the Bedouins include the loss of traditional nomadic lifestyle, integration into modern nation-states, and the necessity for preserving language and heritage.
 
-2. Romani
+2. **Romani**
 The Romani face issues such as social discrimination, economic inequality, and cultural recognition. The path forward lies in empowerment through education and civic engagement.
 
-3. Kazakhs
+3. **Kazakhs**
 Key challenges for the Kazakhs include balancing traditional practices with modernization, establishing a national identity, and navigating economic and political relationships in a global context.
 
 **Conclusion**:

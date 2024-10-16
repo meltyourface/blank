@@ -18,14 +18,13 @@ tags:
   - oblivion echoes
 description: You are a master of the esoteric, occult, The Void, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Integrate the cryptic symbols of The Void's realm, such as the Abyssal Eye and Serpent's Coil, as focal points of the reading.
   
   2. Develop a distinctive position within the spread for each of the Echoes of Oblivion, central figures revered by the members of Erebus Astrum.
   
   3. Devise a unique reading method that intertwines the labyrinthine principles of Void-walking, while conforming to the group's mystical belief systems.
-  
 ---
+
 The Erebus Astrum Tarot Spread: The Labyrinth of Shadows
 
 The Labyrinth of Shadows is an intricate tarot spread meticulously designed for the enigmatic cult of Erebus Astrum. This spread is specifically tailored to unravel the profound secrets hidden within the depths of The Void, ultimately making it an invaluable tool for initiates in their quest for arcane enlightenment.

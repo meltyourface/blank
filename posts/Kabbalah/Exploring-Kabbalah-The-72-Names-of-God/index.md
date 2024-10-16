@@ -18,7 +18,6 @@ tags:
   - kabbalistic tradition
 description: You are a master of the esoteric, occult, Kabbalah, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. The history and origins of the Shem HaMephorash within Kabbalistic teachings, providing context for its significance and role in Jewish mysticism.
   
   2. A thorough exploration of the 72 individual names derived from the Shem HaMephorash, including their meanings, symbolism, and correlations to specific angels, Sephiroth, and astrological connections.
@@ -28,8 +27,8 @@ excerpt: >
   4. Techniques for incorporating the Shem HaMephorash into personal meditations or visualizations to enhance spiritual growth and connection with the divine.
   
   5. Advanced studies and comparisons of the Shem HaMephorash with other Kabbalistic concepts and systems, such as the Tetragrammaton, the Tree of Life, and Gematria.
-  
 ---
+
 Course Title: Unlocking the Secrets of the Shem HaMephorash: Kabbalistic Practices, Rituals, and Meditations
 
 Course Overview:

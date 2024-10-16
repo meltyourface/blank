@@ -18,14 +18,13 @@ tags:
   - answer ancestral
 description: You are a master of the esoteric, occult, Ancestral retinue and education, you have written many textbooks on the subject. Respond to the multiple choice question first with the answer, then, fully explain the context of your rational, reasoning, and chain of thought in coming to the determination you have for that answer. Explain related concepts, formulas, or historical context relevant to this conclusion, giving a lesson on the topic to explain the reasoning afterwards.
 excerpt: >
-
   - Ancestral retinues provide direct communication with the deities and act as intermediaries for all aspects of an individual's life
   
   - The primary purpose of ancestral retinues is to help a person foresee their future and make decisions accordingly
   
   - Ancestral retinues emphasize the importance of understanding past actions and circumstances, thereby allowing growth and protection in one's current and future life
-  
 ---
+
 Answer: Ancestral retinues emphasize the importance of understanding past actions and circumstances, thereby allowing growth and protection in one's current and future life.
 
 **Explanation**: In the context of the esoteric and occult, the ancestral retinue refers to a group of spirits or entities that are related to an individual. These spirits are often ancestors or other deceased family members, but may also include spirit guides or other entities that have a deep connection to the person. The role of the ancestral retinue within an individual's spiritual development is multifaceted and serves various purposes.

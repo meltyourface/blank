@@ -18,7 +18,6 @@ tags:
   - lavender
 description: You are a master of the esoteric, occult, Magic mirror, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Select the ideal lunar phase and astrological conditions for the ritual, to enhance the mirror's connection with the unseen realms.
   
   2. Choose specific incense, candles, and essential oils that resonate with your intentions, and create a powerful sensory ambiance for the consecration.
@@ -30,8 +29,8 @@ excerpt: >
   5. Incorporate gestures or movements to represent the summoning and channeling of clean, potent energies from the elemental forces that govern the astral plane.
   
   6. Design an elaborate sealing ceremony that locks the infused power and sacredness within the mirror, ensuring it remains untainted by external forces and influences.
-  
 ---
+
 Step-by-Step Instructions for Cleansing, Empowering, and Sanctifying a Magic Mirror
 **Step 1**: Ideal Lunar Phase and Astrological Conditions
 Choose a night when the moon is in either its waxing or full phase, as this is the optimal time to amplify the mirror's connection with the unseen realms. The ideal astrological condition is when the moon is in the sign of Cancer or Pisces, which enhances intuition, psychic abilities, and emotional sensitivity.

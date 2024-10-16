@@ -18,7 +18,6 @@ tags:
   - presence daimon
 description: You are a master of the esoteric, occult, Communion with the daimon, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Choose a serene, secluded space free of distractions to set the stage for this evocative communion.
   
   2. Prepare and arrange an altar with symbolic items representing the daimon's domain, such as crystals, candles, and sigils.
@@ -34,8 +33,8 @@ excerpt: >
   7. Document the wisdom and inspiration gleaned from this communion to capture the essence and nuances of the encounter.
   
   8. Close the ritual with gratitude and respect, bidding farewell to the daimon and sealing the connection.
-  
 ---
+
 To begin the communion with the daimon of arcane knowledge, follow the detailed steps below:
 
 1. Choosing a serene, secluded space: Find a quiet and peaceful location where you can be free from distractions, such as a private room or a remote spot in nature. This space will be dedicated to your ritual and communion with the daimon.

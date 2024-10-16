@@ -18,7 +18,6 @@ tags:
   - tarot card
 description: You are a master of the esoteric, occult, Tarot of Marseille, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Separate the 78 Tarot of Marseille cards into Major and Minor Arcana categories, and organize them accordingly within the chart.
   
   2. Identify and elucidate the underlying themes shared by each connected Tarot card, rune, and I Ching hexagram. Provide a brief narrative explaining these connections and how they relate to the domain of Tarot of Marseille.
@@ -26,8 +25,8 @@ excerpt: >
   3. Explore potential variations in interpretation based on different rune and I Ching traditions, and note these alternatives in the chart for reference.
   
   4. Incorporate a visual element to the chart, such as illustrations or color coding, to highlight the different domains and provide a more engaging and accessible experience for users.
-  
 ---
+
 Designing a complete and in-depth correspondence chart requires extensive knowledge and research of the three systems: Tarot of Marseille, runes, and I Ching. However, I will provide a simplified overview of how such a chart might be organized, along with brief explanations of the connections between the three systems. Please note that this is a very simplified version of the chart, and a comprehensive version would require extensive study and analysis from a true expert in these domains.
 
 1. **Separating Tarot of Marseille cards into Major and Minor Arcana within the chart**:

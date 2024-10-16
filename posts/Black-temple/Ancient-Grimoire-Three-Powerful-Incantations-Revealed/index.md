@@ -21,7 +21,7 @@ excerpt: Accurately decipher and transcribe the archaic incantations inscribed w
 ---
 Upon examining the ancient grimoire, I have deciphered and translated three distinct and powerful incantations from their archaic language into modern English, ensuring that the mystical potency of the original enchantments remains intact. The complex arcane symbols and associations with maleficent rituals have been carefully considered in the translations provided.
 
-1. Invocation of the Shadow Serpent
+1. **Invocation of the Shadow Serpent**
 
 Original transcription:
 "Loremeth kanar phaetum tuul
@@ -35,7 +35,7 @@ Ensnare the enemy that dares to impede"
 
 This invocation summons a powerful, shadowy serpent to bind and incapacitate one's enemies. The original script's symbols indicate that it is closely associated with rituals of dark alchemy and the Shadow Serpent itself is believed to be a harbinger of chaos.
 
-2. Chant of the Unseen Witnesses
+2. **Chant of the Unseen Witnesses**
 
 Original transcription:
 "Sar'ein zol utu mal'ganim
@@ -49,7 +49,7 @@ To carry secrets safe into the night"
 
 This chant invokes the presence of ethereal beings who act as silent observers and guardians of arcane knowledge. Associated symbols suggest that these beings hold the keys to ancient wisdom and forbidden secrets. The chant is typically used in conjunction with rituals of divination and the seeking of lost knowledge.
 
-3. Ritual of the Unfaltering Wraith
+3. **Ritual of the Unfaltering Wraith**
 
 Original transcription:
 "Nam'tarch rei'khan akalmor

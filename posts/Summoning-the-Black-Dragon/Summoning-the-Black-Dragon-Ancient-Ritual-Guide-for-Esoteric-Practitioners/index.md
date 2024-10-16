@@ -30,11 +30,11 @@ Preparation
 
 To successfully summon the Black Dragon, proper preparation is crucial. This encompasses the selection of the venue, gathering of materials, and preparing yourself, both physically and mentally, for the challenges that lie ahead.
 
-1. Venue
+1. **Venue**
 
 Choose a secluded and quiet location, away from distractions and disturbances. Traditionally, sites rich in ley lines, energetically charged locations, or natural spots of beauty and power are preferred.
 
-2. Materials
+2. **Materials**
 
 The following items are required for the ritual:
 
@@ -47,7 +47,7 @@ The following items are required for the ritual:
 - Candles, colored black or deep red, to illuminate the ritual space
 - Sigil of the Black Dragon
 
-3. Personal Preparation
+3. **Personal Preparation**
 
 Mental and physical purity is of utmost importance. Prior to the ritual, take time to cleanse yourself with a bath infused with salt or herbs that hold purifying properties. Meditate on your purpose and intentions for the summoning, ensuring that your mind is focused and unclouded by stray thoughts or doubts.
 

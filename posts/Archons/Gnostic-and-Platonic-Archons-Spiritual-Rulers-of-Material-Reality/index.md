@@ -18,14 +18,13 @@ tags:
   - worldview archons
 description: You are a master of the esoteric, occult, Archons and education, you have written many textbooks on the subject. Respond to the multiple choice question first with the answer, then, fully explain the context of your rational, reasoning, and chain of thought in coming to the determination you have for that answer. Explain related concepts, formulas, or historical context relevant to this conclusion, giving a lesson on the topic to explain the reasoning afterwards.
 excerpt: >
-
   - Divine agents acting on behalf of a Supreme Creator, using subtle influences to guide humanity towards spiritual truth
   
   - Psychic parasites that manipulate human emotions and thoughts, originating from an alternate astral plane
   
   - Rulers of the material world, stemming from an ancient cosmology that combines Gnostic and Platonic ideas, seeking to control human spirituality and perception
-  
 ---
+
 - Rulers of the material world, stemming from an ancient cosmology that combines Gnostic and Platonic ideas, seeking to control human spirituality and perception
 
 The intricate and interconnected relationships between Archons, their origins, and how they exert control over the material world can best be described as "rulers of the material world, stemming from an ancient cosmology that combines Gnostic and Platonic ideas, seeking to control human spirituality and perception." This conclusion is drawn from a comprehensive understanding of the historical and philosophical contexts surrounding Archons.

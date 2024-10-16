@@ -18,7 +18,6 @@ tags:
   - circle meditate
 description: You are a master of the esoteric, occult, mind control, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Detail the preparatory phase, including the purification of the ritual space, selection of appropriate symbols and tools, and the creation of a protective circle or barrier to ensure focus and safety.
   
   2. Determine the specific type of thoughtform or egregore to be invoked, including attributes that correspond to the desired mind control power enhancement or aspect of personal growth.
@@ -34,8 +33,8 @@ excerpt: >
   7. Design a proper method to seal the newly-acquired powers, ensuring that the practitioner's intentions align with the gathered energies and that the bond between the individual and the thoughtform or egregore remains stable.
   
   8. Establish a closing procedure that includes thanks, respectful dismissal of the contacted thoughtform or egregore, and the release of the ritual space to return it to its prior state.
-  
 ---
+
 1. Preparatory Phase:
 
 a. Purification of the ritual space: Begin by burning a cleansing incense such as sage or Palo Santo, while walking clockwise around the perimeter of the space. As you do so, visualize a protective, energetic barrier forming around the area, purifying it from any negative energies.

@@ -18,7 +18,6 @@ tags:
   - ritual
 description: You are a master of the esoteric, occult, Eclectics and truth, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. **Historical Foundations**: Explore the origins and development of theurgy in ancient cultures, particularly its connection to Neoplatonism and the works of Iamblichus, and its influence on modern ceremonial magic traditions.
 
   2. **Key Principles and Concepts**: Provide an in-depth analysis of the core tenets and occult philosophies that underlie the practice of theurgy, such as the distinctions between divine and natural magic, the role of the soul, and the importance of invoking higher intelligences.
@@ -28,8 +27,8 @@ excerpt: >
   4. **Ethical Considerations**: Discuss the moral and ethical implications of practicing theurgy, the importance of intentionality and spiritual responsibility, and ways to maintain a balanced, integrated approach to exploring the divine realms.
 
   5. **Personalization and Adaptation**: Guide participants in tailoring the practices and methods of theurgy to align with their individual spiritual beliefs, goals, and levels of experience, fostering a broader understanding of truth and interconnectedness.
-  
 ---
+
 
 ## The Path of Divine Communion - A Theurgic Awakening Workshop
 

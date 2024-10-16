@@ -35,12 +35,12 @@ Materials required:
 1. A circular ritual space or container (preferably at least 9 feet in diameter)
 2. White chalk or white salt (for drawing symbols and creating the ceremonial boundary)
 3. Incense (sandalwood or frankincense)
-4. A small table or altar
-5. A purple or indigo candle
-6. A chalice or glass of water
+4. **A small table or altar**
+5. **A purple or indigo candle**
+6. **A chalice or glass of water**
 7. A crystal or object representing clarity (e.g., clear quartz)
-8. A written statement or parchment of intent
-9. A lighter or matches
+8. **A written statement or parchment of intent**
+9. **A lighter or matches**
 
 Ritual Steps:
 **Step 1**: Purification and Setting the Intention

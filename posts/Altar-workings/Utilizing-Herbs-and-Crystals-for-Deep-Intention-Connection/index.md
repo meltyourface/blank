@@ -18,14 +18,13 @@ tags:
   - ritual usage
 description: You are a master of the esoteric, occult, Altar workings and education, you have written many textbooks on the subject. Respond to the multiple choice question first with the answer, then, fully explain the context of your rational, reasoning, and chain of thought in coming to the determination you have for that answer. Explain related concepts, formulas, or historical context relevant to this conclusion, giving a lesson on the topic to explain the reasoning afterwards.
 excerpt: >
-
   - Aligning the altar with cardinal directions
   
   - Ensuring the usage of a personal talisman
   
   - Selecting the appropriate phase of the moon
-  
 ---
+
 - Utilizing specific herbs or crystals associated with the intention
 
 In the context of altar workings within the occult, utilizing specific herbs or crystals associated with the intention is especially crucial in deriving a deep connection between the practitioner and their intentions. While all the options listed can play a part in the success of a ritual, the usage of specific corresponding materials is the most directly related to establishing and focusing the energy towards the intention.

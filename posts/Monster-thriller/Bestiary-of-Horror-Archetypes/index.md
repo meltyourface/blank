@@ -24,37 +24,37 @@ excerpt: Create a comprehensive bestiary specifically for the Monster thriller g
 
 ---
 
-1. Grimling Weavers
+1. **Grimling Weavers**
 Aesthetics: Hulking figures adorned in tattered rags, like spiderwebs spun from shadows, with grotesquely elongated limbs ending in razor-sharp talons.
 Origins: These abominations were born from the fears of arachnophobics, trapping prey in their darkness-infused webs to feed their insatiable hunger.
 Powers: Grimling Weavers can cast imprisoning shadows, spin webs of nightmares, and crawl through the darkest recesses of human minds.
 Connections: Bound to the dark, Grimling Weavers are weakened by the light of truth, and the clarity offered by selfless acts can unravel their webs.
 
-2. Lodestone Revenants
+2. **Lodestone Revenants**
 Aesthetics: Cold, blue-white eyes light the sunken visage of these cadavers, rotten flesh stitched together in an unnatural patchwork.
 Origins: They are the unquiet dead, tormented souls raised to haunt the lands where their unmarked graves were defiled by unknowing hands.
 Powers: Revenants exude a magnetic pull, drawing life from their victims to puppeteer living flesh with necromantic skill.
 Connections: Sacred burial rituals and hallowed ground can deprive these creatures of their power, forcing them to rest in peace once more.
 
-3. Sanguine Mistresses
+3. **Sanguine Mistresses**
 Aesthetics: Intriguingly beautiful, hypnotic gazes enchant victims, innocent facades harbor malevolence, and a crimson mouth betrays the true nature of prey.
 Origins: They were women cursed with eternity's shackles, finding pleasure amidst bloodlust and agony, their humanity fading with each passing decade.
 Powers: Beguiling charm sways the hearts of mortals, inviting enemies to take their sides willingly, only for the Sanguine Mistresses to drain their life essence.
 Connections: Time-honored glyphs infused with the essence of sacrifice can bind these predators, stoking the dwindling embers of humanity hidden within.
 
-4. Lycanthropic Legionnaires
+4. **Lycanthropic Legionnaires**
 Aesthetics: Bound in heavy iron armor, beneath which lies a shifting tapestry of fur and flesh, their eyes glowing with lupine rage.
 Origins: Once warriors who sought primal power, they bartered with ancient entities, becoming monstrous figures meant to exact vengeance and justice on the battlefield.
 Powers: Inciting feral rage in their wake, Legionnaires unleash chaos that infects those around them and transforms their victims into bloodthirsty beasts.
 Connections: Their beastly nature can only be suppressed by the rekindling of their humanity through acts of love, kindness, or forgiveness.
 
-5. Umbral Seraphs
+5. **Umbral Seraphs**
 Aesthetics: Fallen angels wrapped in tenebrous plumage, their tattered wings cast a gloomy shadow over everything in their presence.
 Origins: Holy servants banished from paradise by otherworldly judgment turned twisted by envy, malice, and an unquenchable thirst for retribution.
 Powers: Their tyrannical voices twist reality, weaving black miracles to wreak havoc and driving mortals mad with whispers of despair.
 Connections: Restoring their divine essence requires cleansing the malice from their hearts, which can be achieved by invoking the power of redemption within each fiend.
 
-6. Netherstitched Gargoyles
+6. **Netherstitched Gargoyles**
 Aesthetics: Perverse stone effigies, carved flesh melded with onyx skin, the boundaries between flesh and rock obscured by the hands of skilled and cursed artisans.
 Origins: Curatorials of forbidden magic who sought to cheat mortality, these once-human sorcerers have been trapped in grotesque forms for their transgressions.
 Powers: Manipulating the very stone that imprisons them, they command the earth itself to crush their enemies or construct macabre prisons for those who defy them.

@@ -18,7 +18,6 @@ tags:
   - ptsd symptom
 description: You are a master of the esoteric, occult, Post-traumatic stress disorder, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. A detailed assessment phase to accurately identify PTSD presentation, including specific triggers, intrusive thoughts, and emotional responses.
   
   2. Incorporation of personalized coping strategies and relaxation techniques to manage overwhelming emotions during EMDR sessions, such as grounding exercises, deep breathing, and progressive muscle relaxation.
@@ -30,8 +29,8 @@ excerpt: >
   5. Implementation of a support system for the client to facilitate in-between session engagement and continued success in managing PTSD symptoms post-treatment.
   
   6. Regular evaluation and adaptation of the intervention based on the client's progress, conducted through ongoing feedback, monitoring of treatment outcomes, and tailoring as needed.
-  
 ---
+
 A Comprehensive Therapeutic Intervention Plan for Post-traumatic stress disorder (PTSD) Utilizing EMDR
 
 1. Assessment phase:

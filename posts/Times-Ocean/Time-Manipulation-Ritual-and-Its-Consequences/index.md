@@ -18,7 +18,6 @@ tags:
   - time manipulation
 description: You are a master of the esoteric, occult, Time's Ocean, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Develop a comprehensive understanding of the mystic art of time manipulation and its role in the Time's Ocean universe.
   
   2. Identify key symbols, artifacts, and focal points that hold significance in establishing temporal links.
@@ -26,8 +25,8 @@ excerpt: >
   3. Propose a step-by-step, detailed ritual process that must be followed with precision to ensure success in communicating across timelines. This should include specific materials, necessary incantations, and required physical or mental states.
   
   4. Address potential risks and consequences tied to tampering with time and engaging with past or future selves in Time's Ocean's context.
-  
 ---
+
 1. **Comprehensive understanding of the mystic art of time manipulation and its role in the Time's Ocean universe**:
 
 In Time's Ocean, the mystic art of time manipulation is the ability to control temporal dimensions, enabling a skilled practitioner to look backward or forward through the sands of time. This knowledge provides access to invaluable information and power. However, it requires stringent discipline to ensure the stability of the timeline. Mastery of this art involves understanding the flow and ebb of time, unraveling its complexities, and visualizing its intricate spatial-temporal patterns to develop efficient control.

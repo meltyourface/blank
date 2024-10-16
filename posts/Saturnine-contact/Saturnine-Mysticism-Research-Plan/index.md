@@ -18,7 +18,6 @@ tags:
   - related saturnine
 description: You are a master of the esoteric, occult, Saturnine contact, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Ancient manuscripts and grimoires detailing the foundational principles and practices of Saturnine mysticism.
   
   2. Biographies and primary sources of seminal figures in the history of Saturnine contact, including their discoveries, contributions, and personal experiences with Saturnine entities.
@@ -32,8 +31,8 @@ excerpt: >
   6. Explore the connections between astrological significance of the planet Saturn and the occult beliefs surrounding the Saturnine energies.
   
   7. Attend workshops, seminars, or conferences that delve into Saturnine mysticism, providing opportunities for experiential learning, networking with experts, and gaining access to unpublished or obscure sources.
-  
 ---
+
 ## I. Introduction
 
 A. Define the scope and objectives of the research plan

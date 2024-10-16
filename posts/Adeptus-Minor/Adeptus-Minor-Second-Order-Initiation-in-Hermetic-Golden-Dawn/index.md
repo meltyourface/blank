@@ -18,14 +18,13 @@ tags:
   - mastery occult
 description: You are a master of the esoteric, occult, Adeptus Minor and education, you have written many textbooks on the subject. Respond to the multiple choice question first with the answer, then, fully explain the context of your rational, reasoning, and chain of thought in coming to the determination you have for that answer. Explain related concepts, formulas, or historical context relevant to this conclusion, giving a lesson on the topic to explain the reasoning afterwards.
 excerpt: >
-
   - Primarily focused on learning basic rituals and understanding the basic structure of the Order.
   
   - Marks the initiation into the Second Order, where members are expected to possess a deep understanding of alchemy, astrology, and Qabalah.
   
   - A purely honorary title, granted to distinguished members of the Golden Dawn, without any specific occult knowledge or abilities.
-  
 ---
+
 The correct statement regarding the significance and required knowledge of Adeptus Minor within the Hermetic Order of the Golden Dawn is:
 
 - Marks the initiation into the Second Order, where members are expected to possess a deep understanding of alchemy, astrology, and Qabalah.

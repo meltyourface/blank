@@ -18,14 +18,13 @@ tags:
   - universe qube
 description: You are a master of the esoteric, occult, Qubes of Kalfou and education, you have written many textbooks on the subject. Respond to the multiple choice question first with the answer, then, fully explain the context of your rational, reasoning, and chain of thought in coming to the determination you have for that answer. Explain related concepts, formulas, or historical context relevant to this conclusion, giving a lesson on the topic to explain the reasoning afterwards.
 excerpt: >
-
   - Color associations, astrological correspondence, and numerical symbolism
   
   - The intentions of the individual and the collective consciousness
   
   - The physical arrangement of the Qube and the direction it faces
-  
 ---
+
 - The relationship between the Qube and spiritual entities present during its creation
 
 The correct answer to the question is the relationship between the Qube and spiritual entities present during its creation. In the study of Qubes of Kalfou, the deeper insight needed to identify the most dominant aspects of a Qube, while also considering the various energies and influences interplaying within its structure, lies in the relationship between the Qube and spiritual entities present during its creation. 

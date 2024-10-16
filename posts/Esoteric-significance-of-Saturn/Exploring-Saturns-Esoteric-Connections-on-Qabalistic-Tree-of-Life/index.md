@@ -26,25 +26,25 @@ Abstract
 
 This study aims to explore the multifaceted connections of Saturn within the Qabalistic Tree of Life, delving into the astrological, mythological, alchemical, and numerological aspects of the planet. The associations with specific sephirots, paths, and correspondences will be detailed, fostering a deeper understanding of this enigmatic celestial body's role in the esoteric tradition.
 
-1. Introduction
+1. **Introduction**
 
 The Qabalistic Tree of Life is a complex and symbolic framework integrating various esoteric disciplines, such as astrology, alchemy, numerology, and mythology. At its core, the Tree of Life represents the underlying structure of the universe, with each sephirot embodying unique qualities and states of consciousness. Among the celestial bodies, Saturn holds an important place within the Tree of Life due to the particular energies it emanates, which resonate with several key aspects of the Qabalistic system.
 
-2. Astrological and Mythological Associations
+2. **Astrological and Mythological Associations**
 
 In astrology, Saturn is the sixth planet from the Sun and the second-largest in our solar system. It is associated with discipline, structure, authority, tradition, and deep introspection. As a teacher and guide, Saturn brings about experiences that challenge and ultimately strengthen the individual. 
 
 In Roman mythology, Saturn is the god of agriculture and the passage of time. Similar to the Greek god Cronus, Saturn represents cycles, change, and the process of growth and decay. Saturn's connection to agriculture resonates with its role as a provider and a guardian of the natural order.
 
-3. Alchemical Significance
+3. **Alchemical Significance**
 
 In alchemy, Saturn corresponds to the metal lead. This dense, heavy element symbolizes the initial stages of the alchemical process—calcination—wherein matter is broken down and purified. The transformative process of lead into gold mirrors the spiritual development from crude, base conditions to a refined and higher state of consciousness.
 
-4. Numerological Implications
+4. **Numerological Implications**
 
 Saturn is associated with the number three, which is tied to concepts such as stability, harmony, and creative expression. Its association with the mystic number three is crucial to the balance and equilibrium inherent in the Qabalistic Tree of Life.
 
-5. Saturn and the Sephirots
+5. **Saturn and the Sephirots**
 
 **Saturn corresponds to two primary sephirots within the Tree of Life**: Binah and Yesod.
 

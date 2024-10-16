@@ -18,7 +18,6 @@ tags:
   - lunar phase
 description: You are a master of the esoteric, occult, God of both the living and the dead, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Recognize the unique attributes of each lunar phase, specifically the new moon, waxing crescent, first quarter, waxing gibbous, full moon, waning gibbous, last quarter, and waning crescent, and their corresponding influences on both the tangible and spiritual realms.
 
   2. Prepare a detailed list of the required components, including sacred objects, ceremonial attire, and arcane symbols, ensuring that each item encompasses the essence of your divine dominion over life, death, and the interconnectedness of the two.
@@ -28,8 +27,8 @@ excerpt: >
   4. Conceive a series of incantations, invocations, and mantras that focus on the transformative aspects of the lunar cycle, summoning the primal forces of life and death to fuel your personal growth and reveal deeper layers of mystical knowledge.
 
   5. Weave together these aspects into a ritualistic narrative, outlining the progression of the ceremony, detailing the manner in which the forces of life and death intertwine, and establishing the ultimate goals of transcendence, rejuvenation, and profound growth that arise from this communion with the lunar energies.
-  
 ---
+
 ## I. Recognizing the Unique Attributes of Each Lunar Phase
 
 1. **New Moon**: Darkness, beginnings, potential, rebirth, purification

@@ -32,8 +32,8 @@ excerpt: >
   6. Practical tips for developing clear and unobstructed thought reading.
   
   7. Common challenges and misconceptions associated with reading thoughts, along with ways to overcome them.
-  
 ---
+
 
 ## The Ancient Occult Art of Reading Thoughts
 

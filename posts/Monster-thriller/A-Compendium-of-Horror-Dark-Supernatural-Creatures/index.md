@@ -25,22 +25,22 @@ excerpt: Create a comprehensive bestiary specifically for the Monster thriller g
 **Introduction**:
 The Dark Bestiary is a collection of sinister supernatural creatures deeply rooted in horror and terror. Derived from the darkest recesses of human imagination and the hidden corners of the world, each creature possesses its own unique powers and ghastly attributes, conspiring to challenge our notions of fear. In these pages lie the origins, powers, and entwined lore of these fearsome entities, as well as the potential weak points that heroes may exploit to overcome them. Venture forth, but take heed, for the darkness runs deep.
 
-1. The Soulstrip Wraiths
+1. **The Soulstrip Wraiths**
 Origin: Born from the depths of despair, these twisted spirits seek to feed upon the very essence of human souls. Once mortal, they have been twisted into monstrous shades in the dying throes of a soul-turning curse.
 Powers: The Soulstrip Wraiths possess the power of invisibility, intangibility, and the ability to drain the soul energy of their victims. Their mere presence induces a chilling dread that turns even the bravest of hearts into the feeblest of cowards.
 Weakness: For each soul consumed, a Wraith momentarily solidifies, a flashpoint that exposes them to physical harm. Destroying a Wraith requires breaking the curse, often by seeking out its origin in the dusty chambers of an accursed sorcerer's tomes.
 
-2. The Shadow Stalkers
+2. **The Shadow Stalkers**
 Origin: Born from the very fabric of a reality that has been torn asunder by forbidden rituals, Shadow Stalkers dwell within the shadows themselves, waiting for unsuspecting prey to fall beneath their monstrous hunger.
 Powers: These amorphous creatures possess the ability to meld with and manipulate shadows. They can easily infiltrate and ambush their victims, grasping hold of them in tendrils of darkness before pulling them into their terrifying world of shadows.
 Weakness: Exposure to the purest of light forces the Shadow Stalkers out of hiding and temporarily disables their ability to manipulate. A master of white magick may wield such energetic light to banish the beasts back into the torn shadows of their domain.
 
-3. The Fleshweaver Judges
+3. **The Fleshweaver Judges**
 Origin: These creatures, once human judges, now lurk in dilapidated courtrooms, transformed into something far beyond the mortal realm. Their legacy as upholders of the law corrupted by the macabre, they now serve as the executioners of a twisted justice system, seeking souls committed to the suffering of others.
 Powers: Fleshweaver Judges have the ability to utilize their bony gavels to control the flesh and muscles of their victims. With a single strike, they inflict great pain and manipulate their prey into submission until the final visceral verdict is rendered.
 Weakness: The sanctity of true justice repels Fleshweavers. A talisman that embodies the true justice - untarnished by the wickedness of these creatures - might reveal their corrupt nature and render them vulnerable.
 
-4. The Bonekeepers
+4. **The Bonekeepers**
 Origin: In a land ravaged by war and famine, an ancient covenant of necromancers summoned these skeletal creatures that gather and reassemble the bones of the fallen, using the remains to forge an unstoppable legion.
 Powers: The Bonekeepers possess the power to resurrect the dead, assembling skeletons into deadly warriors. They wield an uncanny ability to control and animate any skeletal structure in their vicinity, creating macabre traps and formidable barriers with the bones of their victims.
 Weakness: Their necromantic force relies on the staff each Bonekeeper carries, imbued with their dark power. Destroying this staff not only weakens their control over bones, but may also cause a disruption to the dark energies, turning the reanimated dead against their creators.

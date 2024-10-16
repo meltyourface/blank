@@ -18,14 +18,13 @@ tags:
   - affirmation life
 description: You are a master of the esoteric, occult, Affirmation of life and education, you have written many textbooks on the subject. Respond to the multiple choice question first with the answer, then, fully explain the context of your rational, reasoning, and chain of thought in coming to the determination you have for that answer. Explain related concepts, formulas, or historical context relevant to this conclusion, giving a lesson on the topic to explain the reasoning afterwards.
 excerpt: >
-
   - The symbolic use of crystals for healing purposes
   
   - Designing sigils to manifest desires or intentions
   
   - The belief in a person's ability to create and shape their reality through intent, thoughts, and energy
-  
 ---
+
 The belief in a person's ability to create and shape their reality through intent, thoughts, and energy
 
 In the context of occult practices and esoteric traditions, the aspect most directly linked to the affirmation of life is the belief in a person's ability to create and shape their reality through intent, thoughts, and energy. This concept, often referred to as "magick" in various esoteric schools, encompasses a wide range of practices and beliefs, but at its core is the idea that human beings carry within themselves the power to influence their surroundings and reality as a whole.

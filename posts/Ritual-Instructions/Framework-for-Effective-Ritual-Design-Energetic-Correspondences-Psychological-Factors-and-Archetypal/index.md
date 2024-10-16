@@ -24,9 +24,9 @@ To address this knowledge challenge, we must first establish a framework to enco
 
 The components in question are:
 
-1. Energetic correspondences
-2. Psychological factors
-3. Archetypal symbolism
+1. **Energetic correspondences**
+2. **Psychological factors**
+3. **Archetypal symbolism**
 
 Each of these components contributes to an effective ritual but possess unique characteristics that demand careful consideration when designing the ritual and orchestrating its execution. Let's address each component in detail.
 

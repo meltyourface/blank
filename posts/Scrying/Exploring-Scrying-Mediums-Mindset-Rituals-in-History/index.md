@@ -21,13 +21,13 @@ excerpt: Identify the three essential components to successfully perform Scrying
 ---
 The three essential components to successfully perform Scrying are: a scrying medium or device, the practitioner's mental and psychic state, and the context or ritual surrounding the practice. Each component is deeply connected to the others, and their interrelation can be seen through various historic examples and cultural contexts.
 
-1. Scrying Medium or Device
+1. **Scrying Medium or Device**
 The scrying medium or device represents the physical tool that an individual uses to glance into the beyond or unveil unseen insights. Throughout history, various devices have been used for this purpose, typically encompassing reflective, polished, or translucent materials. Examples of these mediums include crystal balls, water bowls, mirrors, and even certain stones like obsidian. Selecting the appropriate medium or device is crucial for scrying, as the practitioner's connection to the material significantly influences the session's outcomes.
 
 2. Practitioner's Mental and Psychic State
 The second essential component in scrying is the mental and psychic receptivity of the practitioner. This involves preparing the mind and tuning into one's intuition to access hidden realms of knowledge. Practices such as meditation, visualization, and setting intentions aid in achieving the necessary state of consciousness. Cultivating these inner skills greatly impacts the effectiveness of scrying, as they enable the practitioner to gain insights beyond the ordinary perception.
 
-3. Context or Ritual Surrounding the Practice
+3. **Context or Ritual Surrounding the Practice**
 The context or ritual surrounding scrying plays a vital role in creating a conducive environment for access to alternate realms and insights. The practitioner can utilize ceremonies, offerings, or invocation of deities or spirits to facilitate a successful scrying session. Familiar ritual settings can also serve to relax the practitioner and enhance their concentration on the task at hand.
 
 Historic Examples and Connections:

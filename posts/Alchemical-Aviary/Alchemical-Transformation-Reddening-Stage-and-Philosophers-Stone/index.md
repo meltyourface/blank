@@ -18,14 +18,13 @@ tags:
   - material alchemist
 description: You are a master of the esoteric, occult, Alchemical Aviary and education, you have written many textbooks on the subject. Respond to the multiple choice question first with the answer, then, fully explain the context of your rational, reasoning, and chain of thought in coming to the determination you have for that answer. Explain related concepts, formulas, or historical context relevant to this conclusion, giving a lesson on the topic to explain the reasoning afterwards.
 excerpt: >
-
   - Nigredo: The blackening stage, where impurities are removed through a process of burning and decomposing the base material
   
   - Albedo: The whitening stage, where the purified material is refined and purified further, often using water as its symbol
   
   - Citrinitas: The yellowing stage, where the material undergoes further refinement and spiritual enlightenment begins
-  
 ---
+
 - Rubedo: The reddening stage, where the Philosopher's Stone is finally created and the true spiritual transformation occurs
 
 **Explanation**:

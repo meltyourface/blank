@@ -30,56 +30,56 @@ excerpt: Design a comprehensive and immersive curriculum for instructing novice 
 
 Course Modules:
 
-1. Introduction to Enochian Magic and Occult Traditions
+1. **Introduction to Enochian Magic and Occult Traditions**
 - Origin and history of Enochian magic
 - Prominent figures: John Dee, Edward Kelley, Aleister Crowley
 - Relationship to other occult practices and traditions
 
-2. Enochian Theoretical Concepts
+2. **Enochian Theoretical Concepts**
 - Enochian angelic hierarchies and the celestial realms
 - Sigils, talismans, and magical implements
 - Metaphysical principles: vibration, sympathy, and polarity
 
-3. The Enochian Alphabet and Language
+3. **The Enochian Alphabet and Language**
 - Letterforms, phonetics, and interpretation
 - Writing and translating Enochian texts
 - Use in ritual and ceremony
 
-4. Enochian Rituals and Summoning Techniques
+4. **Enochian Rituals and Summoning Techniques**
 - Constructing and consecrating the sacred space
 - Opening and closing rituals: Enochian pentagrams and hexagrams
 - Ritual tools and astral weapons: wand, chalice, dagger, and pentacle
 
-5. Communication with Angels and Spiritual Entities
+5. **Communication with Angels and Spiritual Entities**
 - Invocation and evocation techniques
 - Safe and responsible spirit communication
 - Angelic names, sigils, and attributes
 
-6. Scrying Techniques and Astral Projection
+6. **Scrying Techniques and Astral Projection**
 - Scrying tools: crystal balls, mirrors, and water
 - Development of clairvoyance and psychic senses
 - Out-of-body experiences and astral travel
 
-7. The Structure of the Enochian System
+7. **The Structure of the Enochian System**
 - Enochian Tablets and elemental associations
 - The Enochian keys: purpose and recitation
 - The Great Work and Enochian cosmology
 
-8. Enochian Magic in Modern Occult Practices
+8. **Enochian Magic in Modern Occult Practices**
 - Enochian magic in ceremonial and chaos magic
 - Connections with Thelema, The Golden Dawn, and Wicca
 - Revivals, adaptations, and controversies
 
 Evaluation and Assessments:
 
-1. Weekly Reflective Journaling
+1. **Weekly Reflective Journaling**
 - Students will maintain a personal journal throughout the course, reflecting on their experiences, insights, and progress in their Enochian magic studies.
 
-2. Practical Assessments
+2. **Practical Assessments**
 - Hands-on exercises will be conducted during sessions for students to demonstrate their proficiency in various Enochian magic techniques, such as creating sigils, writing in the Enochian alphabet, and using ritual tools.
 
-3. Midterm and Final Exams
+3. **Midterm and Final Exams**
 - Written examinations will test students' understanding of Enochian magic theories, historical context, and the structure of the Enochian system.
 
-4. Guided Ritual Performances
+4. **Guided Ritual Performances**
 - Students will work individually or in small groups to perform Enochian rituals, with the instructor providing guidance and feedback throughout the process. This will allow students to demonstrate their mastery of the craft and apply their knowledge in practical situations.

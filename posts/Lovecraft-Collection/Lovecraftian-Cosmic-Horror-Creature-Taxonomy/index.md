@@ -23,7 +23,7 @@ excerpt: Design an intricate classification system for the entities inhabiting t
 ---
 A. The Great Old Ones
 
-1. Cthulhu
+1. **Cthulhu**
    - Description: A colossal, squid-headed, anthropomorphic being with massive wings and an aura of sheer terror.
    - Visual Depiction: https://tinyurl.com/ddhhf8y9
    - Cosmic Significance: Lurks in the sunken city of R’lyeh, awaiting the time when the stars align to rise again and plunge the world into eternal madness.
@@ -33,14 +33,14 @@ A. The Great Old Ones
    - Visual Depiction: https://tinyurl.com/cjy7ztvu
    - Cosmic Significance: The all-knowing, omnipresent deity that exists outside of time, serves as the key to unlock the doors of reality.
 
-3. Nyarlathotep
+3. **Nyarlathotep**
    - Description: A shapeshifting deity, appearing as a tall, swarthy man or other monstrous forms, serving as the messenger of the Outer Gods.
    - Visual Depiction: https://tinyurl.com/ed3d9zm8
    - Cosmic Significance: Whispers sweet lies and manipulates mankind to sow chaos and destruction.
 
 B. The Outer Gods
 
-1. Azathoth
+1. **Azathoth**
    - Description: A shapeless mass of chaotic energy, writhing in the center of the universe.
    - Visual Depiction: https://tinyurl.com/7k92dpyu
    - Cosmic Significance: The blind, mindless god, creator of all existence, lies in a perpetual state of chaos at the center of the universe.
@@ -50,7 +50,7 @@ B. The Outer Gods
    - Visual Depiction: https://tinyurl.com/yeysbzr3
    - Cosmic Significance: The perverse fertility deity, known as the Black Goat of the Woods with a Thousand Young, births horrifying creatures used to spread its influence.
 
-3. Yig
+3. **Yig**
    - Description: Resembles a colossal snake, sometimes humanoid in shape, acting as the father of all serpents.
    - Visual Depiction: https://tinyurl.com/33sf8te6
    - Cosmic Significance: Often invoked in rites of resurrection and eternal life, exacts vengeance on those who harm reptilian creatures.

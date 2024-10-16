@@ -24,8 +24,8 @@ To ascertain the necessary steps for a neophyte to efficaciously propitiate a de
 
 1. Understanding of ancestor propitiation/rites
 2. Cross-cultural perspectives and methodologies of propitiation
-3. Metaphysical implications and invocation techniques
-4. Potential consequences and benefits within the physical and spiritual realms
+3. **Metaphysical implications and invocation techniques**
+4. **Potential consequences and benefits within the physical and spiritual realms**
 
 1. Understanding of ancestor propitiation/rites:
 

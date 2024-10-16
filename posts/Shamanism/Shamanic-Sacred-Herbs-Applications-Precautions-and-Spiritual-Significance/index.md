@@ -18,7 +18,6 @@ tags:
   - traditional shamanic
 description: You are a master of the esoteric, occult, Shamanism, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Catalog various sacred herbs typically employed within the shamanic traditions throughout global indigenous cultures, such as Ayahuasca, Mugwort, and Salvia Divinorum.
   
   2. Examine the unique spiritual and metaphysical attributes ascribed to each herb, exploring their symbolism and connections to distinct shamanic cosmologies.
@@ -28,8 +27,8 @@ excerpt: >
   4. Analyze the diverse uses of these sacred herbs in supporting healing, divination, journeying, and other shamanic customs, focusing on their applications in distinct rituals, ceremonies, and rites of passage.
   
   5. Discuss the relationship between the consumption of these botanicals and the shaman's ability to access altered states of consciousness or engage in spirit communication, noting any variations in perceptions and interactions with non-ordinary realities.
-  
 ---
+
 1. Catalog of Sacred Herbs
 
 Some of the most revered botanicals within the realm of shamanic practices include:

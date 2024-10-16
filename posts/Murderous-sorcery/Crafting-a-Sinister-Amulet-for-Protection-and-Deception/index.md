@@ -24,9 +24,9 @@ To craft this sinister amulet, begin by gathering the required materials. **You 
 1. A large piece of obsidian, preferably shaped in the form of an unholy symbol
 2. A sliver of human bone, ground into fine powder
 3. Thread soaked in the blood of past victims, spun into a gaunt and twisted cord
-4. A set of tools for inscribing macabre sigils and inscriptions
-5. An altar dedicated to the darkest of patrons
-6. A night when a lunar eclipse or the sinister witching hour will occur
+4. **A set of tools for inscribing macabre sigils and inscriptions**
+5. **An altar dedicated to the darkest of patrons**
+6. **A night when a lunar eclipse or the sinister witching hour will occur**
 
 Follow these steps to craft the amulet:
 

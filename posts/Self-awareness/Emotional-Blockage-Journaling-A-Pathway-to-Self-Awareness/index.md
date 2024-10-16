@@ -18,7 +18,6 @@ tags:
   - label emotional
 description: You are a master of the esoteric, occult, Self awareness, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Integrating introspective prompts that provoke deep contemplation regarding the origins and nuances of one's emotional obstacles.
   
   2. Incorporating a method for recognizing and categorizing the specific types of emotional blockages, such as fear, resentment, or insecurity.
@@ -28,8 +27,8 @@ excerpt: >
   4. Proposing a creative approach, such as utilizing metaphors or symbolic imagery, to represent and help dismantle the identified blockades.
   
   5. Formulating a structured plan for monitoring progress, including the establishment of milestone checkpoints and a system for self-evaluation.
-  
 ---
+
 
 ## "Unlocking Emotions: A Journey Into Self-Awareness and Emotional Healing"
 

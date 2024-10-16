@@ -18,7 +18,6 @@ tags:
   - ritual process
 description: You are a master of the esoteric, occult, Crafting of Magic, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Research the ancient arcane texts and uncover vital information about your patron deity, including their preferred offerings and alignment with celestial bodies.
   
   2. Design an ornate ritual space by selecting materials that resonate with your deity's elemental affinities and adorn the space with arcane symbols and sigils that hold their power.
@@ -28,8 +27,8 @@ excerpt: >
   4. Integrate representational offerings that reflect your intentions and desires, such as rare gemstones for prosperity or a hand-crafted wand for enhancing your magical abilities.
   
   5. Determine the most auspicious time to perform the ritual, taking into consideration the lunar cycle, planetary alignments, and other astrological factors that may enhance or hinder communication with your patron deity.
-  
 ---
+
 Task: Develop an intricate ritual for invoking the Patron Deity of Crafting of Magic.
 
 In order to perform the ritual to invoke the Patron Deity of Crafting of Magic, we must first consider some specific elements and complete the following steps:

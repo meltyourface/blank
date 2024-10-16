@@ -18,14 +18,13 @@ tags:
   - spirit guides
 description: You are a master of the esoteric, occult, Animals as spirit-helpers and education, you have written many textbooks on the subject. Respond to the multiple choice question first with the answer, then, fully explain the context of your rational, reasoning, and chain of thought in coming to the determination you have for that answer. Explain related concepts, formulas, or historical context relevant to this conclusion, giving a lesson on the topic to explain the reasoning afterwards.
 excerpt: >
-
   - Animal spirit-helpers are used primarily for their physical abilities in performing mundane tasks.
   
   - The primary role of an animal spirit-helper is to directly communicate with the spirits of deceased humans.
   
   - Animal spirit-helpers provide guidance, insight, and support through their spiritual connection and unique symbolism.
-  
 ---
+
 The correct answer is: Animal spirit-helpers provide guidance, insight, and support through their spiritual connection and unique symbolism.
 
 The reasoning behind this answer lies in the fundamental understanding of animals as spirit-helpers in various esoteric and occult practices across different cultures and traditions. While some traditions may use them for specific purposes, their underlying role remains consistent: to serve as guides and symbols of a deeper, spiritual connection with the universe.

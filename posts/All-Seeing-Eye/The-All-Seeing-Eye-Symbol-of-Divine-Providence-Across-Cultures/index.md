@@ -23,8 +23,8 @@ excerpt: >
   The All-Seeing Eye represents divine providence, omniscience, and spiritual awakening across multiple cultural contexts, including ancient Egyptian, Freemasonry, and Christian iconography.
   
   The All-Seeing Eye is an exclusively Christian symbol, signifying only the omnipresence of God.
-  
 ---
+
 The correct answer is:
 
 The All-Seeing Eye represents divine providence, omniscience, and spiritual awakening across multiple cultural contexts, including ancient Egyptian, Freemasonry, and Christian iconography.

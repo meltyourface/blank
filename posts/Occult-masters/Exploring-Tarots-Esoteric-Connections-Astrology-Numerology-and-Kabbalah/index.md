@@ -21,7 +21,7 @@ excerpt: Investigate and establish the intricate connections between tarot cards
 ---
 To establish the intricate connections between tarot cards and other mystical systems such as astrology, numerology, and Kabbalah, we shall delve into the symbolism, numerological values, and associations attributed to each card within the Occult masters' realm of study.
 
-1. Connection between Tarot Cards and Astrology
+1. **Connection between Tarot Cards and Astrology**
 
 Tarot and astrology are intertwined, with each major arcana card associated with a zodiac sign or celestial body. When considering the symbolism found within tarot cards, it's important to study their astrological correspondences. For example, the Empress card is associated with the planet Venus — representing love, beauty, and fertility — while the Emperor corresponds to the zodiac sign Aries, which is assertive and authoritative.
 
@@ -32,13 +32,13 @@ The connection between tarot and astrology isn't just limited to the major arcan
 - Swords: Air signs (Gemini, Libra, Aquarius)
 - Pentacles: Earth signs (Taurus, Virgo, Capricorn)
 
-2. Connection between Tarot Cards and Numerology
+2. **Connection between Tarot Cards and Numerology**
 
 Each tarot card is assigned a specific number, and each number carries its own unique numerological significance. Throughout the major arcana, numbers 1 through 21 symbolize a specific step along the journey called the Fool's Journey, with card 0 — the Fool — serving as the protagonist or seeker. In the minor arcana, each number represents a distinct aspect of a specific theme or suit.
 
 In numerology, the numerical value of the tarot cards corresponds to specific traits or qualities. For example, the number 1 represents new beginnings, while 2 relates to partnership and duality. By examining both the numerological significance of a tarot card and its numerological counterpart, we can gain additional insight into the deeper meaning of each card.
 
-3. Connection between Tarot Cards and Kabbalah
+3. **Connection between Tarot Cards and Kabbalah**
 
 Kabbalah, a form of Jewish mysticism, finds close ties to the tarot, specifically the Tree of Life, which consists of ten sephiroth (spheres) and 22 paths connecting them. Each sephira on the Tree of Life represents a specific attribute of God, and each path symbolizes a spiritual lesson or stage of development.
 

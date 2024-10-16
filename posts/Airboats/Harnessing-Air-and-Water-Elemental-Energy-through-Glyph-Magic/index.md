@@ -20,7 +20,7 @@ description: You are a master of the esoteric, occult, Airboats and education, y
 excerpt: >
   In the context of using airboats for esoteric means and harnessing the elemental magic associated with air and water, which of the following best represents the simultaneous activation of air and water elemental infusions on an airboat?\n \n1. Imbuing the propeller with wind magic and enchanting the hull with water repulsion\n2. Evoking an air elemental to operate the rudder and a water elemental to propel the craft\n3. Using glyphs to harness air and water currents for direction and speed\n4. Manipulating the weather to create a synergy between air and water energies on an airboat
 ---
-3. Using glyphs to harness air and water currents for direction and speed
+3. **Using glyphs to harness air and water currents for direction and speed**
 
 In the context of using airboats for esoteric means and harnessing the elemental magic associated with air and water, the simultaneous activation of air and water elemental infusions on an airboat can be best represented by using glyphs to harness air and water currents for direction and speed. 
 

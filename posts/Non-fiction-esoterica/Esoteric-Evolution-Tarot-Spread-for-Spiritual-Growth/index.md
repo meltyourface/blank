@@ -18,7 +18,6 @@ tags:
   - transcendence card
 description: You are a master of the esoteric, occult, Non-fiction esoterica, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. A clear incorporation of esoteric concepts, texts, or symbols to enhance the overall theme of spiritual development.
   
   2. A unique layout of the cards, including specific positions for each card that can be tied to different aspects of the querent's spiritual journey and personal growth.
@@ -28,8 +27,8 @@ excerpt: >
   4. Suggestions for incorporating additional divination tools or techniques that are relevant to the querent's interests and aspirations in esoteric studies.
   
   5. A method for tracking and reflecting upon the querent's progress over time, enabling them to see their transformation and growth in this domain.
-  
 ---
+
 Introducing the "Esoteric Evolution" Tarot Spread
 
 This tarot spread is designed to delve into the querent's spiritual evolution by incorporating non-fiction esoterica into the reading. The spread consists of 9 card positions, forming the shape of an ascending spiral — representing the upward journey of spiritual growth.

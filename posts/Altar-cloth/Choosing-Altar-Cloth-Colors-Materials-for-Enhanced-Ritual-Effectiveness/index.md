@@ -23,8 +23,8 @@ excerpt: >
   The color and material choices create an energetic frequency that can amplify the purpose of the ritual, leading to an overall greater effectiveness.
   
   The color and material choices directly impact the practitioner's connection with the deity or spiritual force being invoked, leading to potentially varying outcomes from the ritual.
-  
 ---
+
 The correct answer is:
 
 The color and material choices create an energetic frequency that can amplify the purpose of the ritual, leading to an overall greater effectiveness.

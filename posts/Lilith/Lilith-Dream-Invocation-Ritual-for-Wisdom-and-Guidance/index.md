@@ -18,7 +18,6 @@ tags:
   - lilith wisdom
 description: You are a master of the esoteric, occult, Lilith, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Prepare a sacred space for performing the ritual, adorned with symbols, sigils, and representations of Lilith, including black candles, moon phases imagery, and dark crystals.
   
   2. Compose a powerful evocation chant to summon Lilith's presence, using ancient Aramaic or Hebrew phrases, invoking her various epithets, and emphasizing her role as a powerful nocturnal guide.
@@ -32,8 +31,8 @@ excerpt: >
   6. Elaborate on the personal introspection and petition you will recite, detailing your requests and the areas of guidance you seek from Lilith during your dream state.
   
   7. Specify the method of journaling that will be used to document the dream insights received from Lilith, ensuring you are able to retain and analyze her teachings upon waking.
-  
 ---
+
 To complete this task, the following dream incubation ritual is designed to invoke Lilith's wisdom and guidance during slumber:
 
 1. **Preparation of the Sacred Space**:

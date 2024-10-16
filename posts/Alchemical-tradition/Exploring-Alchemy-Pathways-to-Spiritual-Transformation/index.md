@@ -29,7 +29,7 @@ The Alchemical tradition roots itself in the ancient Egyptian, Greek, and Islami
 
 ### I. Fundamental Concepts
 
-1. The Magnum Opus
+1. **The Magnum Opus**
 The Magnum Opus, or the Great Work, lies at the heart of the alchemical tradition and comprises several stages towards achieving spiritual transformation. The process, often depicted using colors, involves:
    a. **Nigredo (Black)**: Signifying dissolution and purification through facing the unconscious and confronting one's shadow.
    b. **Albedo (White)**: Representation of the purified self where duality is recognized and purity is regained.
@@ -39,29 +39,29 @@ The Magnum Opus, or the Great Work, lies at the heart of the alchemical traditio
 2. The Philosopher's Stone
 The Philosopher's Stone, a symbol of alchemical power, is believed to possess properties that can transform base metals into gold and bestow immortality. It represents the alchemist's quest for achieving the highest level of understanding, wisdom, and spiritual perfection.
 
-3. The Four Elements
+3. **The Four Elements**
 Fire, air, water, and earth are essential elements for practising alchemy. Alchemists believe that manipulating and transcending these elements allows them to harness their energies and purify both the material and immaterial realms.
 
 ### II. History and Key Figures
 
-1. Hermes Trismegistus
+1. **Hermes Trismegistus**
 Hermes Trismegistus, a legendary Hellenistic figure, is considered the father of alchemy. His teachings, preserved in a collection of texts known as the "Hermetica," form the foundation of Hermeticism, which encompasses alchemical, astrological, and magical systems.
 
-2. Jabir ibn Hayyan
+2. **Jabir ibn Hayyan**
 Jabir ibn Hayyan, a highly influential Islamic alchemist, produced numerous written works, enriching the alchemical tradition by combining Arabic, Greek, and Indian influences. He introduced the experimental and systematic methods used later in modern chemistry.
 
-3. Nicolas Flamel
+3. **Nicolas Flamel**
 Nicolas Flamel, a prominent European alchemist, is widely known for his alleged discovery of the Philosopher's Stone. His quest for attaining immortality and perfect wisdom became a key inspiration for both fictional and historical depictions of alchemy.
 
 ### III. Alchemical Practices and Advice
 
-1. Meditation and Mindfulness
+1. **Meditation and Mindfulness**
 For aspiring alchemists, developing mindfulness and deepening meditation practice are crucial. Expanding one's consciousness and achieving self-mastery form the basis of the alchemical transformation.
 
-2. Shadow Work
+2. **Shadow Work**
 Integrating the Nigredo stage, exploring one's shadow, and understanding the unconscious mind's dark elements serves as a powerful technique in initiating the alchemical transformation.
 
-3. Elemental Balancing
+3. **Elemental Balancing**
 Practitioners must cultivate the understanding and mastery of the four elements by acknowledging their presence in daily life, incorporating their energies into meditations and rituals, and striving for an equilibrium within the self and the environment.
 
 Conclusion

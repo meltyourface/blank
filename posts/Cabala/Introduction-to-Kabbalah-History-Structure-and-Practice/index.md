@@ -68,6 +68,6 @@ Some practical applications of the Cabala include:
 
 1. Meditation and visualization exercises, designed to help the practitioner connect with the divine energies of the Sephirot and attain spiritual growth
 2. Understanding the metaphysical relationships between the physical and spiritual realms, as well as the ebb and flow of divine energy
-3. Developing a foundation for developing magical practices and rituals that employ the power of the divine emanations
+3. **Developing a foundation for developing magical practices and rituals that employ the power of the divine emanations**
 
 As a student delves deeper into the study of the Cabala, they will find that its teachings can be applied to every aspect of their life, from personal growth and relationships to magical workings and the quest for spiritual enlightenment. The Cabala serves as a roadmap to the hidden world of the divine, and by engaging with its wisdom, a seeker can unlock profound spiritual insights, understanding, and transformation.

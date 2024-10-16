@@ -22,7 +22,7 @@ excerpt: >
 ---
 In order to respond to this knowledge challenge, we must first identify the symbolism of the alchemical birds: the Phoenix, Pelican, and Raven. Next, we shall discuss their connections to the stages of the alchemical process and the attainment of the Philosopher's Stone. Lastly, we shall explore their roles and interconnectedness in mythology, esotericism, and psychological transformation. 
 
-1. The Symbolism of the Alchemical Birds
+1. **The Symbolism of the Alchemical Birds**
 
 The Phoenix is a mythical bird that is said to live for hundreds of years before being consumed by fire, only to rise again from its own ashes. This resurrection ability symbolizes the cycles of death and rebirth in the alchemical process, particularly in the context of purifying and perfecting base metals into gold, the highest expression of the material world.
 

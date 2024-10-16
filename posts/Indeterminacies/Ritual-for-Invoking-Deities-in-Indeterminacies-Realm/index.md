@@ -18,7 +18,6 @@ tags:
   - ritual steps
 description: You are a master of the esoteric, occult, Indeterminacies, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Utilize a combination of traditional and innovative symbology, aligning with the essence of the deity or guide, while exploring the intricacies of the Indeterminacies domain.
   
   2. Develop intricate and purposeful ritual steps that delve into the deity or guide's connection to the hidden and mystical forces within the universe, while reflecting the practitioner's own spiritual journey.
@@ -26,8 +25,8 @@ excerpt: >
   3. Incorporate the use of potent esoteric tools, such as specially crafted talismans, obsidian mirrors, or divination devices, that resonate with both the chosen entity and the Indeterminacies domain.
   
   4. Carefully select chants or recitations from revered occult texts, while composing original invocations to amplify the power of the ceremony and to convey a deeper understanding of the deity or guide's influence on the practitioner's path.
-  
 ---
+
 
 ## The Rift Nexus Ceremony
 

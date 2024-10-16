@@ -18,14 +18,13 @@ tags:
   - physical plane
 description: You are a master of the esoteric, occult, Reality and education, you have written many textbooks on the subject. Respond to the multiple choice question first with the answer, then, fully explain the context of your rational, reasoning, and chain of thought in coming to the determination you have for that answer. Explain related concepts, formulas, or historical context relevant to this conclusion, giving a lesson on the topic to explain the reasoning afterwards.
 excerpt: >
-
   - The physical plane is separate and distinct from the astral and mental planes, with no influence between them
   
   - The astral and mental planes exist only as subjective experiences and have no bearing on the physical world
   
   - The physical, astral, and mental planes are interconnected, with experiences and influences flowing between them, manifesting as synchronicities and energetic shifts in reality
-  
 ---
+
 The answer is: The physical, astral, and mental planes are interconnected, with experiences and influences flowing between them, manifesting as synchronicities and energetic shifts in reality.
 
 In the esoteric understanding of Reality, the concept of interconnected planes of existence forms a fundamental backbone. According to this viewpoint, the physical plane, astral plane, and mental plane are all layers of reality that coexist and influence one another.

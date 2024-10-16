@@ -23,8 +23,8 @@ excerpt: >
   An earth-focused arrangement with a salt circle, a bowl of soil, a pentacle, and a crystal ball for connecting with higher energies.
   
   Utilizing candles of varying colors to correspond with Earth and Water, a bowl of sand to represent the grounding energies of Earth, and tarot cards for the practitioner to gain intuitive insight.
-  
 ---
+
 The best option would be:
 
 Incorporating a statuette to represent personal deity, a bowl of saltwater for the blending of Earth and Water energies, crystals for grounding, and a pendulum for divination purposes.

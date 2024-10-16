@@ -29,15 +29,15 @@ The Crafting of Magic is a complex and profound subject encompassing various pri
 
 ### I. Key Concepts
 
-1. Intention
+1. **Intention**
 
 At the very core of the Crafting of Magic lies the principle of intention. Intention is the driving force behind the manifestation of magical outcomes and gives purpose to every word, action, and thought in the magical crafting process. Through intention, practitioners channel energy towards specific goals, creating the necessary circumstances and connections to manifest their desires into reality.
 
-2. Magical Correspondences
+2. **Magical Correspondences**
 
 Magical correspondences are the relationships and associations between different elements, such as colors, symbols, herbs, planetary influences, and more. These relationships are critical to the Crafting of Magic as they help practitioners resonate with specific energies and intentions. By understanding the intricate connections between these elements, initiates can harness and direct specific energies towards the manifestation of their desired outcomes.
 
-3. Rituals and Spells
+3. **Rituals and Spells**
 
 Rituals and spells serve as the artful techniques applied within the Crafting of Magic. These procedures, which often involve the use of incantations, gestures, offerings, and magical tools, provide the means for directing intention and energy towards the goal at hand. Rituals and spells are fundamental components in the Crafting of Magic, and their effectiveness is contingent upon knowledge, skill, and intention.
 
@@ -47,25 +47,25 @@ Rituals and spells serve as the artful techniques applied within the Crafting of
 
 This principle asserts that the patterns, structures, and laws governing the cosmos are inherently interconnected with those guiding the practitioner's individual existence. By understanding this nexus, initiates within the Crafting of Magic can utilize their intention and energy to create harmony and resonance between their own desires and the fundamental forces of the universe, thereby enabling the actualization of their magical outcomes.
 
-2. The Law of Attraction
+2. **The Law of Attraction**
 
 The Law of Attraction states that like attracts like, meaning that one's thoughts, beliefs, and actions are intrinsically connected to the outcomes they experience. Within the Crafting of Magic, this principle enables practitioners to harness positive mindset and focused intention in attracting desired outcomes and manifesting their goals.
 
-3. The Law of Cause and Effect
+3. **The Law of Cause and Effect**
 
 This law posits that every action generates an equal and opposite reaction. In the context of the Crafting of Magic, understanding this law is crucial as it allows initiates to comprehend the consequences – both intended and unintended – of their magical actions. Recognizing the causal relationships inherent to magical practice encourages a responsible and ethical approach to the Crafting of Magic.
 
 ### III. Techniques
 
-1. Magical Tools
+1. **Magical Tools**
 
 Magical tools are physical items – such as wands, athames, chalices, and pentacles – designed to assist practitioners in the focus and manipulation of magical energies. The proper use, consecration, and understanding of these tools is essential to the Crafting of Magic, as they can enhance the practitioner's ability to manifest desired outcomes.
 
-2. Meditation and Visualization
+2. **Meditation and Visualization**
 
 Meditation and visualization are powerful techniques within the Crafting of Magic, as they help practitioners focus their intention and energy. Meditation purifies the mental state and provides a blank canvas for the practitioner to deliberately visualize the desired outcome. This process sharpens the intention and helps to galvanize the energies necessary for manifestation.
 
-3. Sigils and Symbols
+3. **Sigils and Symbols**
 
 Sigils and symbols are graphical representations of intention, energies, and forces within the Crafting of Magic. By understanding the potency of these symbols and incorporating them into rituals and spells, practitioners create a visual language that resonates with the energies they aim to manifest, thereby increasing the effectiveness of their magical workings.
 

@@ -18,7 +18,6 @@ tags:
   - qliphoth realms
 description: You are a master of the esoteric, occult, Qlippothic Mirror, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. **Qlippothic historiography**: Elucidate the historical evolution and origins of the Qlippothic Mirror tradition, highlighting key figures and events that have shaped its development.
 
   2. **Qlippothic cosmology**: Delve into the intricate structure of the Qliphoth, detailing the interrelations of its various realms, denizens, and energies, and their relevance to the practitioner.
@@ -38,8 +37,8 @@ excerpt: >
   9. **Qlippothic comparative analysis**: Investigate the Qlippothic Mirror tradition in relation to other esoteric and occult practices, unearthing potential synchronization and divergence.
 
   10. **Practical applications of Qlippothic studies**: Examine real-world implementations of Qlippothic knowledge, exploring avenues for personal empowerment, societal influence, and potential dangers.
-  
 ---
+
 Curriculum Outline for Qlippothic Mirror Studies:
 
 ### I. Introduction to Qlippothic Mirror

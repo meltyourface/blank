@@ -26,31 +26,31 @@ Below is a comprehensive angelic correspondences chart connecting archangels, el
 
 The Four Elements:
 
-1. Fire
-2. Earth
-3. Air
-4. Water
+1. **Fire**
+2. **Earth**
+3. **Air**
+4. **Water**
 
 The Four Cardinal Directions:
 
-1. North
-2. East
-3. South
-4. West
+1. **North**
+2. **East**
+3. **South**
+4. **West**
 
 The Four Colors:
 
-1. Red
-2. Green
-3. Yellow
-4. Blue 
+1. **Red**
+2. **Green**
+3. **Yellow**
+4. **Blue **
 
 The Four Archangels:
 
-1. Archangel Michael
-2. Archangel Gabriel
-3. Archangel Raphael
-4. Archangel Uriel
+1. **Archangel Michael**
+2. **Archangel Gabriel**
+3. **Archangel Raphael**
+4. **Archangel Uriel**
 
 Below is the chart connecting the archangels with their corresponding elements, colors, and cardinal directions:
 

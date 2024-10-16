@@ -18,8 +18,8 @@ tags:
   - altars volcanic
 description: You are a master of the esoteric, occult, Stone altars, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-  
 ---
+
 Stone altars in the Mediterranean region can be categorized and analyzed based on various factors such as geological compositions, historical uses, geographical distribution, and cultural influences. Here, we will delve into these aspects, highlighting potential ritualistic differences and the symbolic meanings behind these structures.
 
 1. **Geological Compositions**:

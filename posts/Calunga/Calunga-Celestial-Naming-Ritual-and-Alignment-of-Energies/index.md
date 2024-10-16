@@ -26,8 +26,8 @@ excerpt: >
   - Elaborately tailor the ceremony's elements to align the energies of the newborn with the celestial bodies and mystical elements of the Calunga universe
   
   - Harness the power of ancient Calunga artifacts and relics to evoke protection and blessings for the child
-  
 ---
+
 The intricate Calunga naming ceremony for the newly born, henceforth referred to as the "Ritual of Celestial Naming," is an essential rite of passage within the Calunga tradition. It marks not only the birth and naming of a child but also ushers in their spiritual journey and aligns their energies with the celestial bodies and mystical elements of the Calunga universe. **The ceremony consists of the following elements**:
 
 1. **Invocation of Otherworldly Entities**:

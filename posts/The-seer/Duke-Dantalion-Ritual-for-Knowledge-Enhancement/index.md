@@ -18,7 +18,6 @@ tags:
   - summon duke
 description: You are a master of the esoteric, occult, The seer, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. A meticulous selection and interpretation of the specific Goetic spirit, delving into their dominion, distinctive attributes, and potential benefits to the summoner.
   
   2. The assembly of a consecrated summoning circle, infused with sigils and symbols pertinent to the chosen Goetic entity, and the incorporation of The Seer's influence to magnify the ritual's potency.
@@ -36,8 +35,8 @@ excerpt: >
   8. The codification of an established line of communication with the summoned Goetic spirit, outlining a secure method of bargaining, expression of intentions, and desired outcomes.
   
   9. The implementation of expert techniques in banishing and releasing the Goetic entity at the conclusion of the ritual, solidifying the summoner's authority and mastery over the forces called forth.
-  
 ---
+
 1. The meticulous selection and interpretation of the specific Goetic spirit:
 
 To commence the ritual, we shall summon Duke Dantalion, the 71st spirit of the Ars Goetia. Dantalion is known to have dominion over knowledge, mind reading, and mental manipulation. He can reveal hidden knowledge, influence the thoughts of others, and bestow the ability to comprehend all human arts and sciences. Summoning Dantalion can potentially grant the summoner powerful intellectual abilities, knowledge enhancement, and manipulation skills.

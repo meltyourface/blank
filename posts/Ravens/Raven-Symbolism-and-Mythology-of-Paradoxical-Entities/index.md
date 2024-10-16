@@ -18,14 +18,13 @@ tags:
   - symbols spiritual
 description: You are a master of the esoteric, occult, Ravens and education, you have written many textbooks on the subject. Respond to the multiple choice question first with the answer, then, fully explain the context of your rational, reasoning, and chain of thought in coming to the determination you have for that answer. Explain related concepts, formulas, or historical context relevant to this conclusion, giving a lesson on the topic to explain the reasoning afterwards.
 excerpt: >
-
   - Ravens are connected exclusively to solar deities and always represent positive forces
   
   - Ravens solely represent prophecy and divination, and have no connection to transformation or rebirth
   
   - Ravens possess paradoxical associations, including creation and destruction, wisdom and trickery, and serving as messengers between worlds
-  
 ---
+
 Ravens possess paradoxical associations, including creation and destruction, wisdom and trickery, and serving as messengers between worlds.
 
 The complex relationships and attributes associated with Ravens in esoteric and occult traditions span across various mythological and symbolic systems. The answer I selected encapsulates these different associations within a broader context.

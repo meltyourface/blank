@@ -18,7 +18,6 @@ tags:
   - ii ritual
 description: You are a master of the esoteric, occult, Ritual X, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Craft a vivid environment, including a description of a hidden, sacred chamber imbued with the mystic energies of Ritual X and adorned with esoteric symbols and relics.
   
   2. Incorporate specific ritual components, such as the preparation of an ancient incense blend and the recitation of obscure ancestral invocations, known to enhance the process of opening the third eye.
@@ -26,8 +25,8 @@ excerpt: >
   3. Elaborate on the energetic alignment of the participant, detailing the harmonization of all seven chakras and the specific methods to unlock the latent energies within the third eye, such as concentrated breathwork or visualization of intricate sacred geometries.
   
   4. Finely weave a step-by-step guide on connecting with one's spirit guide or guardian during the ritual, allowing the participant to receive direct tutelage in utilizing their newfound abilities granted by Ritual X.
-  
 ---
+
 Guided Visualization Script for Unlocking the Powers of Ritual X and Awakening the Third Eye
 
 ### I. Setting the Scene: The Hidden, Sacred Chamber

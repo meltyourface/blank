@@ -18,7 +18,6 @@ tags:
   - predatory beings
 description: You are a master of the esoteric, occult, cosmology of predation, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Identify at least five predominant predatory techniques employed throughout different time periods in the cosmos, describing their underlying methodologies and impacts on the prey's life force or vitality.
   
   2. Examine the reasons behind the development of specific predatory strategies, their effectiveness, and any adaptive modifications to address new challenges in the cosmic ether.
@@ -26,8 +25,8 @@ excerpt: >
   3. Explore the rise and fall of particular predatory beings, their influences on the cosmological dynamics, and the manner in which their practices shaped the predatory landscape.
   
   4. Delve into the role of interdimensional and extra-planar entities in the cosmology of predation, highlighting any cross-influence, convergence, or divergence in their predatory paths.
-  
 ---
+
 1. **Five Predominant Predatory Techniques in the Cosmology of Predation**:
 a) Astral Projection: Used by ethereal beings and cosmic entities to remotely access the life force of their prey and manipulate it. This technique was prevalent during the Age of Astral Ascendancy, where predators mastered the art of energy vampirism, causing a decline in the vitality of prey populations.
 b) Cosmic Harmony Disruption: Employed by beings that sought to destabilize the balance between cosmic forces, casting prey into chaos and weakening their life force in the process. Notable during the Harmonic Upheaval era, it allowed predatory beings to absorb energy more efficiently.

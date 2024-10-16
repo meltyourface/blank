@@ -18,14 +18,13 @@ tags:
   - wasteland resilience
 description: You are a master of the esoteric, occult, Wasteland, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Choose a personal intent that resonates with the harsh realities of the Wasteland, such as survival, resilience, or resourcefulness.
   
   2. Research the iconography and symbols associated with the Wasteland's lore, including ancient ruins, mutated flora and fauna, and apocalyptic climate patterns.
   
   3. Experiment with weaving these Wasteland-inspired elements into your sigil, utilizing artistic techniques like layering, abstraction, or geometric shapes to create a visually complex and impactful design.
-  
 ---
+
 1. Personal Intent: Resilience
 
 In the harsh landscape of the Wasteland, resilience is an essential and fitting quality for those who wish to survive. Thus, embedding the sigil with the power of resilience will promote the ability to adapt and endure in such an unforgiving environment.

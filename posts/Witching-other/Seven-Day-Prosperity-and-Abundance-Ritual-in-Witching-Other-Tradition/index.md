@@ -18,7 +18,6 @@ tags:
   - incantation witching
 description: You are a master of the esoteric, occult, Witching-other, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. A step-by-step guide to selecting and consecrating seven candles tailored to the magickal workings of the Witching-other. Each candle should correspond to a specific day and occult symbolism.
   
   2. A custom-made sigil or emblem for each day, incorporating aspects of esoteric and occult wisdom to amplify the spell's potency.
@@ -30,8 +29,8 @@ excerpt: >
   5. An exploration of astral and lunar timings during the seven-day period, tapping into the optimal energetic currents to strengthen the spell's effectiveness.
   
   6. Detailed instructions for visualizations and meditation techniques that further enhance the connection to the realm of Witching-other and the goal of manifesting prosperity and abundance.
-  
 ---
+
 An Intricate Seven-Day Candle Spell for Prosperity and Abundance in the Witching-other Tradition
 
 **Day 1: Candle of Beginnings**

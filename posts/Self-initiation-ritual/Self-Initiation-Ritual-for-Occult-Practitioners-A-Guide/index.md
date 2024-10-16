@@ -28,31 +28,31 @@ The self-initiation ritual is a time-honored tradition for many occultists who c
 
 ### I. Process of the Self-Initiation Ritual
 
-1. Preparation
+1. **Preparation**
 
 Before embarking on the self-initiation ritual, practitioners are encouraged to prepare themselves both physically and mentally. This includes studying various branches of the occult, testing personal boundaries, developing a strong moral compass, and recognizing the significance of the journey ahead. It is important to remember that the ritual is not about obtaining power or control but discovering one's true self, establishing a connection with the Divine, and furthering spiritual growth.
 
-2. Setting Intent and Purification
+2. **Setting Intent and Purification**
 
 Prior to the ritual, practitioners should set their personal intentions for their spiritual journey and write them down. It is a sacred commitment to oneself and the higher powers that are being called upon during the initiation. It is also essential to cleanse and purify oneself, as well as the space where the ritual will be conducted. This involves smudging with sage or other cleansing herbs, taking a ritual bath infused with purifying herbs and oils, and preparing the ritual tools.
 
-3. Casting the Circle and Invoking the Elements
+3. **Casting the Circle and Invoking the Elements**
 
 The next step is casting the circle to create a sacred space and protect the practitioner from negative influences. With a ritual dagger or wand, start at the northern point, and moving clockwise, trace the circle. Once the circle is cast, invoke the presence of the four elements – Earth, Air, Fire, and Water – and recognize their contribution to the ritual and their symbolic representation in personal and mystical growth.
 
-4. Invoking the Guardians and Higher Powers
+4. **Invoking the Guardians and Higher Powers**
 
 Call upon the guardians of the sacred space and invite the higher powers to bear witness to the initiation. This can include gods and goddesses, spirit guides, ancestors, and other mystical beings that resonate with the practitioner. It is essential to approach these higher powers with humility and reverence, seeking their guidance and protection on the journey ahead.
 
-5. Oath of Dedication
+5. **Oath of Dedication**
 
 Once the circle has been cast and the higher powers have been invoked, the practitioner recites their oath of dedication. This solemn pledge should reaffirm the practitioner's commitment to their spiritual journey, acknowledging both potential challenges and rewards. It is essential to be genuine and open to the transformative process initiated by the ritual.
 
-6. Receiving the Initiatory Blessing
+6. **Receiving the Initiatory Blessing**
 
 During this step, the practitioner receives the initiatory blessing, either through self-anointing with oil or a symbolic gesture that represents the acceptance of higher powers' guidance and protection. This process acknowledges and seals the aspirant's commitment to the path of the occult.
 
-7. Closing the Circle and Offering Gratitude
+7. **Closing the Circle and Offering Gratitude**
 
 To conclude the ritual, thank the elemental energies, guardians, and higher powers for their presence and assistance, asking them to depart with peace and love. The practitioner then symbolically extinguishes any candles or incense and clears the circle by retracing it in reverse, starting from the north going counter-clockwise. It is important to leave the ritual space tidy and take time for quiet reflection on the experience.
 

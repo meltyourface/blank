@@ -30,8 +30,8 @@ A Magical Herbal Bath for Enhancing Self-Love and Self-Care
 
 Supplementary materials:
 1. A clean muslin cloth or cheesecloth (large enough to hold the herb mixture)
-2. A piece of ribbon or string
-3. A small bowl for grinding and mixing the herbs
+2. **A piece of ribbon or string**
+3. **A small bowl for grinding and mixing the herbs**
 
 Arcane incantation:
 "Máthair Nádúir Théarna Anseo,

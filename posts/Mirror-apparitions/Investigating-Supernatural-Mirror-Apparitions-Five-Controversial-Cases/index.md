@@ -21,16 +21,16 @@ excerpt: Investigate the credibility of diverse reported mirror apparition incid
 ---
 To properly investigate the credibility of diverse reported mirror apparition incidents, I have meticulously examined historical documentation, eyewitness accounts, and paranormal research findings. **By delving into cultural, psychological, and environmental factors, I have assessed the validity of five specific cases**:
 
-1. Myrtles Plantation Mirror Case
+1. **Myrtles Plantation Mirror Case**
 The Myrtles Plantation in St. Francisville, Louisiana, is reputed to be one of the most haunted places in the United States. The plantation's famous mirror is said to hold the spirits of Sara Woodruff and her children, who were poisoned. Visitors claim to have seen handprints, figures, and other ghostly manifestations in the mirror. However, these accounts are mostly anecdotal, with little objective evidence, and many details of the Woodruff family's story have been proven inaccurate.
 
-2. The Bloody Mary Legend
+2. **The Bloody Mary Legend**
 Bloody Mary is an enduring folklore figure believed to appear in mirrors when her name is chanted multiple times. Reported sightings could be attributed to perceptual illusions and expectations, often in dimly lit or dark environments. The legend's origins are inconsistent and potentially span multiple historical figures, suggesting the specter is culturally constructed.
 
 3. The Haunted Dormitory Mirror (China)
 In a Chinese university, there is an alleged haunted mirror located within a dormitory. Students claim to have seen a faceless woman standing behind them while looking in the mirror. The origins of this phenomenon seem rooted in local superstition and could be a result of stress, sleep deprivation, and the psychological impact of an overcrowded academic environment.
 
-4. The Cursed Mirror of London Hotel
+4. **The Cursed Mirror of London Hotel**
 A purported cursed mirror hangs in a hotel room in London, where guests have witnessed ghostly apparitions. The mirror is said to have originally belonged to a family with a tumultuous history of illness and suicide. While the circumstances surrounding the mirror's origin remain inconclusive, the apparitions could be explained by suggestibility and the biased perception of guests exposed to the mirror's backstory.
 
 5. The Floating Lady of Redcap Castle (Japan)

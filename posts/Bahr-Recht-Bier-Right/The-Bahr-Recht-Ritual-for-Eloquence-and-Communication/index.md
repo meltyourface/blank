@@ -18,7 +18,6 @@ tags:
   - spirits meditative
 description: You are a master of the esoteric, occult, Bahr Recht (Bier Right), you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. An invocation of the patron spirits or deities associated with the domain of Bahr Recht, focusing on those that govern verbal and nonverbal communication, persuasion abilities, and emotional intelligence.
   
   2. Selection and incorporation of specific Bahr Recht symbols, sigils, and artifacts that have a strong connection to the enhancement of communication skills, such as the Brocken Spectre or Gugelmann Pentacle.
@@ -28,8 +27,8 @@ excerpt: >
   4. The crafting of a unique, rhythmic, and evocative chant or incantation that resonates with the energies of the Bahr Recht (Bier Right) pantheon and effectively channels the desired growth in communication skills.
   
   5. The incorporation of a meditative or visionary component in the ritual, creating a pathway for the practitioner to integrate the heightened communication skills into their daily life and interactions.
-  
 ---
+
 The Bahr Recht Ritual of Eloquence:
 
 ### I. Invocation of Patron Spirits and Deities

@@ -23,8 +23,8 @@ excerpt: >
   Discovering a common architectural pattern among monuments of different civilizations, hinting at a shared cosmology
   
   Accidentally stumbling upon an undisturbed tomb with a series of encrypted inscriptions leading to a powerful artifact imbued with mystical properties
-  
 ---
+
 B. Discovering a common architectural pattern among monuments of different civilizations, hinting at a shared cosmology.
 
 The role of esoteric symbolism in uncovering a deeper understanding of ancient cultures and belief systems is most relevant when a common architectural pattern is found among monuments or artifacts from different civilizations. This shared symbolism has the potential to give us insight into aspects of ancient cultures, belief systems, and the underlying psychological archetypes that drive these beliefs.

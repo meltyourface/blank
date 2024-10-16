@@ -18,14 +18,13 @@ tags:
   - raven perched
 description: You are a master of the esoteric, occult, Raven, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Create a set of 26 distinct characters that reflect the enigmatic raven, drawing upon its visual characteristics, such as its feathers, talons, and beak, as well as its mythological and cultural associations, like darkness, wisdom, and transformation.
   
   2. Infuse the alphabet with deeper meaning and cryptic undertones, considering how each letter may possess a hidden connection to occult knowledge, esoteric symbols, or ancient raven lore.
   
   3. Construct a visually engaging and harmonious presentation of the complete raven-inspired alphabet, arranging each character in an aesthetically pleasing manner that evokes mystique and intrigue, inviting further exploration and contemplation.
-  
 ---
+
 1. The 26 unique characters of the raven-inspired alphabet:
 
 A – A representation of a raven's head gazing upwards, symbolizing the bird's natural curiosity.

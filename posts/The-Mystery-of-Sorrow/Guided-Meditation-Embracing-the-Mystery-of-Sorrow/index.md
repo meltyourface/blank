@@ -18,7 +18,6 @@ tags:
   - mournful darkness
 description: You are a master of the esoteric, occult, The Mystery of Sorrow, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Initiate with a resonant incantation that invokes the essence of desolation and despair, drawing participants into the obscure domain of The Mystery of Sorrow.
   
   2. Elucidate upon the complex, multidimensional nature of sorrow, integrating esoteric symbols and obscure references that enhance the richness and enigma of the experience.
@@ -26,8 +25,8 @@ excerpt: >
   3. Incorporate emotional triggers designed to evoke a profound exploration of the darkest facets of human woe, stirring recollections of personal grief and collective melancholy.
   
   4. Enrich the meditation experience by devising transcendent practices that allow participants to confront their internal manifestations of anguish, tangentially examining connections to occult knowledge and forgotten lore.
-  
 ---
+
 ## Part 1: The Incantation of Desolation and Despair
 
 Begin by finding a comfortable sitting or lying position, allowing the body to fully relax. Close your eyes and take a few deep breaths. 

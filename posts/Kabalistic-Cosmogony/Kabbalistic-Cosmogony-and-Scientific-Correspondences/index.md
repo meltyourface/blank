@@ -18,14 +18,13 @@ tags:
   - transcendent spirituality
 description: You are a master of the esoteric, occult, Kabalistic Cosmogony, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Elucidate the fundamental principles and symbolism inherent to each of the four worlds within Kabalistic Cosmogony, delving into their unique attributes, interactions, and roles in the spiritual hierarchy.
   
   2. Investigate modern scientific concepts that may resonate with or parallel the essence of each Kabalistic world, providing in-depth explanations and rationale for their relevance and connection.
   
   3. Contemplate and expound upon potential implications of these correspondences in both the esoteric and scientific realms, considering how they might interweave and influence one another through their underlying principles.
-  
 ---
+
 ## I. Fundamental Principles and Symbolism of the Four Worlds in Kabbalistic Cosmogony
 
 The Kabbalistic Cosmogony describes four realms or worlds called Atziluth, Briah, Yetzirah, and Assiah. Each world represents a distinct level of Divine manifestation and corresponds to different levels of consciousness.

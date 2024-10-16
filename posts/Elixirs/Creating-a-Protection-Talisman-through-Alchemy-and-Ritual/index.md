@@ -23,8 +23,8 @@ excerpt: >
 To create an elixir-infused talisman, I will choose a sigil that resonates with the desired intent of harnessing and amplifying mystical energies for the purposes of protection, guidance, and personal transformation. The design of the sigil will incorporate symbols representing the sun for vitality, a serpent for wisdom and renewal, and a protective eye to ward off negative energies.
 
 Ingredients for the Elixir:
-1. Celestite for enhancing psychic abilities and connecting to higher realms
-2. Black tourmaline for grounding and protection against negative energies
+1. **Celestite for enhancing psychic abilities and connecting to higher realms**
+2. **Black tourmaline for grounding and protection against negative energies**
 3. Rose petals for self-love and emotional healing
 4. Pure spring water as the base, representing the element of water and its cleansing properties
 5. A drop of the user's blood, for personal connection and power

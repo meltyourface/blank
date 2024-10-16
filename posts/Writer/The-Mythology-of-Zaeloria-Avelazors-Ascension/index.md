@@ -18,7 +18,6 @@ tags:
   - lian gods
 description: You are a master of the esoteric, occult, Writer, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Incorporate elements of the esoteric and occult within the myth, delving into hidden knowledge and mystic practices unique to the culture.
   
   2. Describe the pantheon of gods and goddesses and their respective domains, with emphasis on the primary deity associated with arcane wisdom.
@@ -28,8 +27,8 @@ excerpt: >
   4. Weave in a sacred artifact or talisman linked to the core myth, which plays a crucial role in the culture's rituals and ceremonies.
   
   5. Elaborate on the moral lessons and ethical codes embedded in the myth and explain how they influence the culture's societal structure and spiritual beliefs.
-  
 ---
+
 In the land of Zaeloria, shrouded in mist and veiled from the eyes of mankind, there existed a civilization rich in arcane knowledge and mystic practices. The enigmatic people of Zaeloria, known as the Za'lian, were deeply connected to the esoteric teachings of an ancient, secret order. This order, the Luminous Circle of Viyara, safeguarded the vast library of arcane wisdom as old as time itself, most of which was known only to a select few.
 
 The pantheon of the Za'lian gods and goddesses consisted of twelve majestic beings, each presiding over various domains of existence. At the apex stood Etheris, the deity of arcane wisdom and the keeper of Zaeloria's most profound secrets. Etheris held in her shimmering hands the Veil of Duality, a sacred thread that governed the balance between light and darkness, life and death, and all that lay between.

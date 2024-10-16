@@ -26,7 +26,7 @@ Introduction
 
 Life-force energy, commonly referred to as Prana in Indian traditions, Chi in Chinese traditions, or Ki in Japanese traditions, is regarded as the vital and subtle energy that flows throughout all living beings. This energy is present not only in humans but also in plants, animals, and the environment itself, resonating through each of our system's subtle channels and chakras (energy centers). Learning to harness this energy effectively allows practitioners to maintain optimal health, increase vitality, regulate emotional states, and expand spiritual consciousness. This comprehensive text will guide you through the key principles, practices, and methods of harnessing and utilizing life-force energy.
 
-1. Key Principles
+1. **Key Principles**
 
 ### 1.1 Universal Energy Source
 
@@ -36,7 +36,7 @@ Life-force energy emanates from the Universal Source, the origin from which all 
 
 Life-force energy requires harmony and balance, which means that it should flow unhindered in a healthy system. Blocked or imbalanced energy flow can lead to various ailments, including stress, physical pain, and emotional distress.
 
-2. Practices and Methods
+2. **Practices and Methods**
 
 ### 2.1 Breathing Techniques (Pranayama)
 

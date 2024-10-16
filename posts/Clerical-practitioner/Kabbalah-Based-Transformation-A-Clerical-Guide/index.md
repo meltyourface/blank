@@ -45,11 +45,11 @@ A Clerical practitioner's ultimate goal is to facilitate the personal growth and
 In summary, the Clerical practitioner aiming to harmonize their physical, mental, and spiritual selves within the context of Kabbalah must follow a seven-step process:
 
 1. Understanding Kabbalah’s core concepts and principles
-2. Meditation and Contemplation
-3. Living according to the ethical framework
-4. Study of Torah and Kabbalistic Texts
-5. Engaging in Mystical Prayer
-6. Sharing Esoteric Knowledge
-7. Assisting in Personal Transformation
+2. **Meditation and Contemplation**
+3. **Living according to the ethical framework**
+4. **Study of Torah and Kabbalistic Texts**
+5. **Engaging in Mystical Prayer**
+6. **Sharing Esoteric Knowledge**
+7. **Assisting in Personal Transformation**
 
 By thoroughly practicing and integrating these steps, the Clerical practitioner can lead their congregation to enlightenment and personal transformation through the application of mystic knowledge and spiritual practice rooted in the Kabbalistic tradition.

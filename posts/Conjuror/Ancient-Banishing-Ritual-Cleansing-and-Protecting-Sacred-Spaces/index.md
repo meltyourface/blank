@@ -26,10 +26,10 @@ Upon arriving at an appropriate location, I begin by cleansing myself, both phys
 Next, I gather the key consecrated tools required for the banishing ritual. These consist of:
 
 1. A ceremonial dagger, blessed by a high priest or priestess
-2. A chalice filled with consecrated water
+2. **A chalice filled with consecrated water**
 3. A censer with burning incense, preferably composed of frankincense, myrrh, and sage
-4. A pentacle inscribed with ancient symbols of power and protection
-5. A wand crafted from the wood of a tree struck by lightning
+4. **A pentacle inscribed with ancient symbols of power and protection**
+5. **A wand crafted from the wood of a tree struck by lightning**
 
 Furthermore, I prepare the sacred space by drawing a large circle using chalk, salt, or another substance to mark the boundaries. Within this circle, I place five candles in the formation of a pentagram, representing the five elements—earth, air, fire, water, and spirit. 
 

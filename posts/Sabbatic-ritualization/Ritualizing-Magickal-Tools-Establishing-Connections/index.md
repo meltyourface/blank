@@ -18,7 +18,6 @@ tags:
   - watchtower west
 description: You are a master of the esoteric, occult, Sabbatic ritualization, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. **Invocation of the Watchtowers**: Call upon the cardinal directions and elemental guardians to encircle, witness, and empower the rite.
   
   2. Purification: Employ a meticulous cleansing procedure using consecrated salt and water to remove any residual energies from the tools.
@@ -28,8 +27,8 @@ excerpt: >
   4. Charging: Enliven the magickal tools with the practitioner's personal energy through various techniques such as visualization, focused intent, and vibrational alignment, channeling the energies from the invoked guardians and elements.
   
   5. Establishing a bond: Create a unique ritualized gesture, chant, or incantation as a means to strengthen the energetic link between the practitioner and the newly charged tools.
-  
 ---
+
 ## I. Invocation of the Watchtowers
 
 Begin by casting a sacred circle, visualizing a sphere of protection around your ritual space. Stand facing the East, using your preferred elemental tool (such as a dagger or wand) to trace a pentacle in the air. Call upon the guardian of the East saying:

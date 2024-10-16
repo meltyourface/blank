@@ -24,15 +24,15 @@ excerpt: Design a detailed ritualistic process for imbuing the power of a specif
 
 Materials needed:
 
-1. A candle mold of desired shape
-2. Natural beeswax
-3. A braid of cotton wick
-4. A double boiler
-5. A wooden stirring stick
-6. Essential oils specific to your intention
-7. Sigil specific to your intention
-8. Colored candle dye or pigment corresponding to your intention
-9. A ritual knife or athame
+1. **A candle mold of desired shape**
+2. **Natural beeswax**
+3. **A braid of cotton wick**
+4. **A double boiler**
+5. **A wooden stirring stick**
+6. **Essential oils specific to your intention**
+7. **Sigil specific to your intention**
+8. **Colored candle dye or pigment corresponding to your intention**
+9. **A ritual knife or athame**
 10. A working space and altar
 
 **Setting the workspace**: 

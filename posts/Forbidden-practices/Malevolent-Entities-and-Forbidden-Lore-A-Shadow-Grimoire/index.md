@@ -26,8 +26,8 @@ excerpt: >
   3. Examine the impact of these creatures' manifestations across different eras and explore how they have influenced human actions, both directly and indirectly, within various societal and occult contexts.
   
   4. For each creature, include vivid illustrations, accompanied by intricate and carefully designed sigils, which can provide practitioners with a visual reference to aid in their understanding of these forbidding beings.
-  
 ---
+
 
 ## The Shadow Grimoire
 

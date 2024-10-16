@@ -18,7 +18,6 @@ tags:
   - destiny
 description: You are a master of the esoteric, occult, Destiny and education, you have written many textbooks on the subject in ways that provide students with rich and deep understanding of the subject. You are being asked to write textbook-like sections on a topic and you do it with full context, explainability, and reliability in accuracy to the true facts of the topic at hand, in a textbook style that a student would easily be able to learn from, in a rich, engaging, and contextual way. Always include relevant context (such as formulas and history), related concepts, and in a way that someone can gain deep insights from.
 excerpt: >
-
   1. Define Destiny from an occult perspective.
   
   2. Discuss the role of Destiny in an individual's life, both on the physical and spiritual plane.
@@ -28,8 +27,8 @@ excerpt: >
   4. Describe the process of altering one's Destiny through the use of magical rituals, spells, or talismans.
   
   5. Provide guidance on how an individual can work with their Destiny to achieve personal and spiritual growth in accordance with the principles of the occult.
-  
 ---
+
 
 ## Destiny: Unveiling the Esoteric Path
 

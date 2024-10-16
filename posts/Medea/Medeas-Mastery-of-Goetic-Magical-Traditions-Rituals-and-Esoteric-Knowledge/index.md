@@ -32,7 +32,7 @@ Medea's systematic approach to the summoning of Goetic entities involved the uti
 
 Medea's ritual preparation centered on creating a sacred space, which she achieved through ritual cleansing and the drawing of protective circles and symbols. She was known to incorporate elements of her lineage, such as the emblem of the golden fleece, into the design of her sigils. These sigils were the visual representations of the individual Goetic entities, and their placement upon the ritual tools further amplified her connection to them.
 
-3. Goetic Demonology and Hierarchy within the Medean Context
+3. **Goetic Demonology and Hierarchy within the Medean Context**
 
 The Goetic demonology and hierarchy were integral to understanding and utilizing the spirits' diverse roles in Medea's spellwork. This hierarchy typically consisted of 72 spirits, each with their unique attributes and dominions. Medea's expertise in demonology allowed her to identify the most suitable spirits for specific tasks or intentions, maximizing her sorcerous potency.
 

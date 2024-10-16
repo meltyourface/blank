@@ -18,7 +18,6 @@ tags:
   - wild mothers
 description: You are a master of the esoteric, occult, Wild-women, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. The historical development, cultural context, and the commonalities within the mythos of Wild-women across various geographical regions.
   
   2. The foundation and evolution of ecofeminism, examining its key concepts, prominent theorists, and real-world applications.
@@ -26,8 +25,8 @@ excerpt: >
   3. The representation of Wild-women figures in literature, art, and popular culture, and their influence on the ecofeminist discourse.
   
   4. Case studies that showcase the symbiotic relationship between the Wild-women archetype and ecofeminist advocacy, shedding light on the joint empowerment of women and nature.
-  
 ---
+
 1. Historical Development, Cultural Context, and Mythos of Wild-women:
 
 Wild-women, also known as "wilderness women" or "wild mothers," have been a recurring motif in various cultural and geographical settings. Typically depicted as independent, strong, and deeply connected to nature, these mythical figures often challenge societal norms and expectations of women. Commonalities in the mythos of Wild-women include

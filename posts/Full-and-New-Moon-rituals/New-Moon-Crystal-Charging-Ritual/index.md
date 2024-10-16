@@ -26,12 +26,12 @@ The purpose of this New Moon ritual is to purify and energetically charge variou
 **Materials**:
 1. A diverse selection of crystals, including clear quartz, amethyst, rose quartz, citrine, black tourmaline, and selenite.
 2. Moon water (water left under the moonlight for a night)
-3. A cloth to lay the crystals on
+3. **A cloth to lay the crystals on**
 4. Sage, sweetgrass, or palo santo for smudging
 5. Incense and a suitable holder (optional)
-6. A small bowl of salt
+6. **A small bowl of salt**
 7. Seven candles (silver, white, purple, pink, yellow, gray, and black)
-8. A lighter or matches
+8. **A lighter or matches**
 9. A pentagram or sacred geometry mat (optional)
 10. Chant or mantra sheet
 11. A spiral symbol representing the moon's energy

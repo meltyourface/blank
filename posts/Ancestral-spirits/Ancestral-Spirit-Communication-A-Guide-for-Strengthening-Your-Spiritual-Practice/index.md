@@ -34,10 +34,10 @@ Role of Ancestral Spirits
 
 Ancestral spirits are believed to act as the keepers of family and cultural history, maintaining the collective memory of our genealogical heritage. They serve several essential purposes:
 
-1. Guiding and protecting us in our daily lives
-2. Assisting in the evolution of our spiritual practices
-3. Channeling the accumulated wisdom of our ancestors
-4. Playing an active role in healing familial and karmic patterns
+1. **Guiding and protecting us in our daily lives**
+2. **Assisting in the evolution of our spiritual practices**
+3. **Channeling the accumulated wisdom of our ancestors**
+4. **Playing an active role in healing familial and karmic patterns**
 
 Communicating with Ancestral Spirits
 
@@ -51,10 +51,10 @@ Benefits of Connecting with Ancestral Spirits
 
 The deepening relationship with ancestral spirits entails numerous benefits to our spiritual practices and daily lives:
 
-1. Enhanced intuition and spiritual abilities
+1. **Enhanced intuition and spiritual abilities**
 2. A greater sense of purpose and connection to one's personal and cultural history
-3. Assistance in resolving familial and generational patterns or traumas
-4. Protection and guidance in both material and spiritual realms
+3. **Assistance in resolving familial and generational patterns or traumas**
+4. **Protection and guidance in both material and spiritual realms**
 
 Precautions and Rituals for Safe Interaction
 

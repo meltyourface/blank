@@ -26,11 +26,11 @@ Ritual Components:
 2. Amethyst crystal, ideally with a natural point
 3. Personal sacred space or altar, adorned with mystical symbols and items that represent psychic abilities and spiritual growth, such as the Ankh, the Eye of Horus, or the third eye
 4. Ceremonial attire, consisting of a robe or other garments made of natural fibers in colors that resonate with the crown and third eye chakras (indigo, violet, or white)
-5. A chalice or cup filled with water infused with the essence of the Amethyst
-6. A small bowl filled with crushed Mugwort
-7. A mortar and pestle for grinding the Mugwort
-8. Charcoal disk for burning the Mugwort
-9. A lighter or matches
+5. **A chalice or cup filled with water infused with the essence of the Amethyst**
+6. **A small bowl filled with crushed Mugwort**
+7. **A mortar and pestle for grinding the Mugwort**
+8. **Charcoal disk for burning the Mugwort**
+9. **A lighter or matches**
 
 Lunar Phase:
 New Moon, symbolizing the awakening of psychic abilities and the expansion of spiritual wisdom.

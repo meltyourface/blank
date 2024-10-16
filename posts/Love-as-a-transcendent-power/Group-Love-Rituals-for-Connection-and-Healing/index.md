@@ -30,8 +30,8 @@ excerpt: >
   5. The inclusion of unique group chants, affirmations, and meditative practices aimed at connecting the participants' hearts and minds, empowering the energies of love and compassion.
   
   6. Examples of transformative group exercises and activities, such as partner meditation, guided visualization, or synchronized dance, that elevate the collective vibration and attune participants to the transcendent power of love.
-  
 ---
+
 
 ## Group Love Rituals: Harnessing Love as a Transcendent Power
 

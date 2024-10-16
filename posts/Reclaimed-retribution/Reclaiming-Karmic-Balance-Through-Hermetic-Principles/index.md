@@ -22,11 +22,11 @@ excerpt: >
 ---
 In order to detail the process of applying reclaimed retribution to rectify past karmic imbalances within the framework of the Hermetic principles, it is essential to first understand the foundational concepts involved in this process. Therefore, the response will cover the following topics:
 
-1. An overview of reclaimed retribution
-2. An overview of karmic imbalances
-3. An overview of the Hermetic principles
+1. **An overview of reclaimed retribution**
+2. **An overview of karmic imbalances**
+3. **An overview of the Hermetic principles**
 4. A step-by-step guide on applying Reclaimed retribution within the Hermetic framework
-5. Conclusion and key themes
+5. **Conclusion and key themes**
 
 1. **Overview of reclaimed retribution**:
 Reclaimed retribution is a philosophical and esoteric concept that revolves around the idea of consciously taking responsibility for past actions (including those from previous lives) in order to rectify and balance prior misdeeds or wrongdoings. It is typically used as a transformative and self-cleansing process aimed at achieving spiritual growth and personal evolution.

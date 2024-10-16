@@ -30,7 +30,7 @@ Our guide, Sympathetic I Ching, takes readers through an intuitive journey of oc
 
 **Contents**:
 
-1. Introduction to Sympathetic Cures and the I Ching
+1. **Introduction to Sympathetic Cures and the I Ching**
    - A brief history of I Ching
    - Overview of Sympathetic cures and their connection to esoteric and occult practices
    - Basis for integrating Sympathetic cures with I Ching hexagrams

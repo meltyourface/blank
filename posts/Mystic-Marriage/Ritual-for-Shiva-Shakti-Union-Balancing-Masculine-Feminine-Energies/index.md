@@ -23,26 +23,26 @@ I choose to create a ritual centered around the divine couple Shiva and Shakti, 
 
 Ritual for Invoking the Mystic Marriage of Shiva and Shakti:
 
-1. Purification and Preparation
+1. **Purification and Preparation**
 Before commencing the ritual, the participants must cleanse themselves by taking a ritual bath, using essential oils such as sandalwood or jasmine to symbolize purification. The ritual space must be clean and set with an altar containing statues or images of Shiva and Shakti. Decorate the altar with fresh flowers, incense, candles, and any sacred items relevant to these deities, such as a lingam and yoni representation, or a trident and a lotus.
 
-2. Invocation of Ganesha
+2. **Invocation of Ganesha**
 Begin the ritual by invoking Ganesha, the deity who removes obstacles, to clear the space and facilitate a smooth initiation of the sacred marriage. Chant Ganesha's mantra, "Om Gam Ganapataye Namaha," 108 times while offering him sweet foods like modak or ladoo.
 
-3. Awakening Shiva and Shakti within the Participants
+3. **Awakening Shiva and Shakti within the Participants**
 Both participants stand facing each other. The male participant will embody the essence of Shiva, while the female participant will embody Shakti. Close your eyes, take a few deep breaths, and silently chant the mantra "Om Namah Shivaya" (for Shiva) or "Om Shakti Ma" (for Shakti) to awaken and harmonize the divine energies within yourselves.
 
-4. Exchange of Offerings
+4. **Exchange of Offerings**
 Each participant presents an offering to their counterpart, such as a flower or a piece of fruit, symbolizing their intention to honor, respect, and nurture the divine presence in each other. Exchange meaningful words describing the attributes of Shiva or Shakti that you see in one another.
 
-5. Joining Hand to Hand
+5. **Joining Hand to Hand**
 The participants now join hands, symbolizing the divine union of Shiva and Shakti, and chant the following mantra 108 times, visualizing the fusion of these divine energies merging within themselves:
 "Om Shivaya Namah Shakti, Om Shakti Namah Shivaya"
 
-6. Ritual Dance
+6. **Ritual Dance**
 To further merge the energies of Shiva and Shakti, engage in a slow, rhythmic dance or yoga routine, allowing the divine masculine and feminine forces to intermingle and strengthen your spiritual connection. Accompany the movement and breath with music or chants to create a heightened atmosphere.
 
-7. Culmination and Gratitude
+7. **Culmination and Gratitude**
 Finally, sit face to face in a meditative position with eyes closed. Visualize the powerful, harmonious union of Shiva and Shakti within you and the deep spiritual bond and balance you have achieved together. Offer words of gratitude to one another and recite a closing prayer or mantra, such as:
 "Om Hreem Shivaya-Parvati Stotram-pujyami Parameshwaram"
 

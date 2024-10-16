@@ -24,27 +24,27 @@ Task: Design a comprehensive energy healing session utilizing five specific crys
 
 **Crystals**: Clear Quartz, Amethyst, Rose Quartz, Black Tourmaline, and Selenite
 
-1. Clear Quartz
+1. **Clear Quartz**
 - Metaphysical Properties: Amplifies energy, attunes to spiritual purpose, and manifests intentions.
 - Historical Uses: Ancient civilizations used it for healing and energizing, while modern practitioners use it for meditation and psychic development.
 - Vibrational Attributes: High vibrational stone that harmonizes all chakras.
 
-2. Amethyst
+2. **Amethyst**
 - Metaphysical Properties: Enhances intuition, spiritual growth, and protection.
 - Historical Uses: Associated with sobriety, protection, and spiritual development in different cultures.
 - Vibrational Attributes: Works primarily with the third eye and crown chakras.
 
-3. Rose Quartz
+3. **Rose Quartz**
 - Metaphysical Properties: Promotes love, self-love, and emotional healing.
 - Historical Uses: Used by many cultures for love rituals and healing.
 - Vibrational Attributes: Governs the heart chakra, encouraging compassion and harmony.
 
-4. Black Tourmaline
+4. **Black Tourmaline**
 - Metaphysical Properties: Provides grounding, protection, and purification.
 - Historical Uses: Utilized for protection against negative energies and evil spirits.
 - Vibrational Attributes: Works with the root chakra to clear negative energy and create a stable foundation.
 
-5. Selenite
+5. **Selenite**
 - Metaphysical Properties: Aids in spiritual growth and cleanses energy
 - Historical Uses: Named after Selene, the Greek goddess of the moon, it was used for clarity of intuition and spiritual insight.
 - Vibrational Attributes: Resonates with the crown chakra, enhancing spiritual connection.

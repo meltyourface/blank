@@ -19,7 +19,6 @@ tags:
 description: You are a master of the esoteric, occult, Aleister Crowley's occult fraternities
   (A.'.A.'. and O.T.O.), you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. A specific set of Thelemic rituals such as the Lesser Banishing Ritual of the Pentagram, Star Ruby, and the Gnostic Mass, which will be performed at designated times to align with the practitioner's schedule, aim, and level of proficiency.
   
   2. Individualized meditation practices integrating Thelemic principles, such as Visualization of the Qabalistic Tree of Life, Rising on the Planes, and the Middle Pillar Exercise. These meditations should be selected and adapted to the individual's spiritual goals and psychic development.
@@ -27,8 +26,8 @@ excerpt: >
   3. A carefully curated reading list encompassing key texts from Aleister Crowley's vast literary works, such as The Book of the Law, Magick in Theory and Practice, and The Equinox. The selection should also include writings from other authors, like Frater Achad and Israel Regardie, to facilitate a diverse understanding of Thelemic philosophy.
   
   4. The incorporation of personalized methods for maintaining a magical diary, documenting one's journey, observations, and insights as they explore the teachings of Crowley's A.'.A.'. and O.T.O. systems.
-  
 ---
+
 To create a comprehensive daily Thelemic practice focused on the A.'.A.'. and O.T.O. teachings, I have designed a practical regimen that caters to the practitioner's personal spiritual requirements and goals. This tailored regimen is organized into four main categories: rituals, meditation, reading, and magical diary.
 
 1. Thelemic Rituals:

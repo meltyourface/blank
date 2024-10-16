@@ -26,7 +26,7 @@ Introduction
 
 The Early Modern period in Europe, extending from the 15th to the 18th century, witnessed a resurgence of interest in the esoteric, occult, and mystical practices. This period saw occultists and esoteric scholars explore the boundaries of rational scientific thought and delve into the mysterious realms of the supernatural. In order to understand this rich and intricate tapestry of beliefs and practices, we must explore the key figures, texts, rituals, symbols, and their impact on contemporary religion, art, and science.
 
-1. Prominent Figures
+1. **Prominent Figures**
 
 Several prominent figures emerged during the Early Modern period, playing a pivotal role in the development of occult thought and practices. Some of the most influential personalities of the time are:
 
@@ -38,7 +38,7 @@ c) John Dee (1527-1609): An English mathematician, astrologer, and alchemist, De
 
 d) Giordano Bruno (1548-1600): A Dominican friar, philosopher, and occultist, Bruno embraced the Hermetic tradition and boldly proposed a heliocentric cosmology. He insisted that the universe was infinite, containing countless worlds, a belief that led to his execution by the Inquisition.
 
-2. Key Texts
+2. **Key Texts**
 
 The Early Modern period produced a wide range of esoteric texts, deepening the understanding of the occult and its various disciplines. Some of the most significant works include:
 
@@ -50,7 +50,7 @@ c) Monas Hieroglyphica: Authored by John Dee, this short treatise proposes a sym
 
 d) Fama Fraternitatis: This mysterious manifesto, published in 1614, is regarded as the first public declaration of the Rosicrucians – a secret brotherhood of learned men working for the spiritual transformation of society. The text garnered attention for its call to reevaluate religious, artistic, and scientific thought.
 
-3. Rituals and Symbols
+3. **Rituals and Symbols**
 
 Occult practices in Early Modern Europe involved diverse rituals, ceremonies, and symbols to express and manifest magical intent. Some prevalent rituals and symbols are as follows:
 

@@ -18,7 +18,6 @@ tags:
   - ritual outlined
 description: You are a master of the esoteric, occult, talismanic properties, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Decide on a talisman type (e.g., pentacle, rune, sigil, or other symbolic object) and its designated purpose (e.g., protection, manifestation, or spiritual growth).
   
   2. Choose a correspondingly appropriate timing for the ritual based on astrological, lunar, or planetary alignments that support the talisman's purpose.
@@ -34,8 +33,8 @@ excerpt: >
   7. Create a sequence of acts that symbolically charges the talisman with intent, such as inscribing symbols or sigils, imbuing it with the breath of life, or focusing a beam of light upon it.
   
   8. Conclude the ritual with a closing ceremony that thanks and releases any deities, spirits, or entities, disperses residual energies, and seals the talisman's charge.
-  
 ---
+
 1. **Talisman type and purpose**: The chosen talisman will be a sigil, specifically designed to attract abundance and prosperity.
 
 2. **Timing**: The ritual should be conducted during a waxing moon phase, when the moon's energy is increasing and thought to provide growth and expansion. A Friday would be ideal, given its association with Venus, the planet of love, beauty, and abundance.

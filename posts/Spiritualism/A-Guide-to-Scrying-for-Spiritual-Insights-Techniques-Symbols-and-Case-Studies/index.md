@@ -18,7 +18,6 @@ tags:
   - practice scrying
 description: You are a master of the esoteric, occult, Spiritualism, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. An introduction to the history and theories of scrying and divination within the Spiritualist tradition, citing influential texts, figures, and events.
   
   2. A detailed explanation of the various types of materials used for scrying, outlining the benefits and preferred applications for each (e.g., crystal balls, water, mirrors, and obsidian).
@@ -30,20 +29,20 @@ excerpt: >
   5. Practical advice on interpreting symbols, images, and patterns perceived during scrying sessions and how these insights may be used to receive guidance, answer questions, or make predictions about future events.
   
   6. An exploration of the ethics and responsibilities associated with scrying and divination within the Spiritualist practice, drawing on different perspectives and schools of thought.
-  
 ---
+
 
 ## The Art of Scrying and Divination Within Spiritualism: A Comprehensive Guide
 
 Table of Contents:
 
-1. Introduction
-2. Materials for Scrying
-3. Preparation Process
-4. Scrying Techniques
-5. Interpretation of Symbols
-6. Ethics and Responsibilities
-7. Case Studies
+1. **Introduction**
+2. **Materials for Scrying**
+3. **Preparation Process**
+4. **Scrying Techniques**
+5. **Interpretation of Symbols**
+6. **Ethics and Responsibilities**
+7. **Case Studies**
 
 **Introduction**:
 The practice of scrying and divination has been an integral part of Spiritualism since its earliest days, with roots going back to ancient civilizations across the globe. Important texts include the works of Nostradamus, the Oracle at Delphi, and John Dee, who popularized the use of crystal balls for scrying. By observing the images perceived through these reflective surfaces, Spiritualists claim to receive intuitive insights and visions that can provide guidance or predict future events.

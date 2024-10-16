@@ -18,7 +18,6 @@ tags:
   - dreaming maintain
 description: You are a master of the esoteric, occult, Lucid dreaming, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Advanced methods for recognizing and confirming one's presence within a lucid dream.
   
   2. Techniques for modulating emotional and mental states to maintain calmness and focus.
@@ -32,8 +31,8 @@ excerpt: >
   6. A contingency plan for dealing with unexpected dream scenarios or potential disturbances in lucidity.
   
   7. Tips for effectively transitioning between different stages of sleep to maximize the possibilities of successful lucid dreaming.
-  
 ---
+
 The Step-by-Step Strategy for Solidifying and Extending Lucid Dreams
 
 1. Advanced methods for recognizing and confirming one's presence within a lucid dream:

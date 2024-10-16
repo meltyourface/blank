@@ -25,13 +25,13 @@ The connections between Hunters as spiritual guardians and their utilization of 
 
 Elemental magic, an ancient practice, refers to the invocation and manipulation of the four classical elements: earth, air, fire, and water. For Hunters, manipulating these elements plays a crucial role in both their physical and spiritual practices. In the physical realm, elemental magic grants Hunters the ability to enhance their combat abilities, healing and weather manipulation. However, the spiritual aspect of elemental magic is even more significant in Hunters’ journey. By mastering the elements, Hunters deepen their connections to the natural forces of the world and access the boundless power within. This connection allows them to cultivate spiritual wisdom, balance, and harmony, which guide them in their roles as guardians of both the earthly plane and the spiritual realms.
 
-2. The Otherworld
+2. **The Otherworld**
 
 The Otherworld, a realm existing parallel to the physical realm, is home to a multitude of spiritual entities, such as deities, spirits, and ancestors. This realm is an essential space for Hunters, as it holds secrets to power and wisdom that can aid them on their paths to mastery and enlightenment. Through the knowledge obtained from various entities within the Otherworld, Hunters learn to navigate both planes and harness the energy that connects them.
 
 Communing with the Otherworld may involve rituals, meditation, or astral projection, which allows Hunters to gain insights into the deeper mysteries of existence. Developing the skills needed to travel between realms is a significant milestone in a Hunter's journey, as doing so establishes a deeper understanding of how the elements and energies of both worlds intertwine and thrive in harmony.
 
-3. The Archetypal Hunter Figure
+3. **The Archetypal Hunter Figure**
 
 The archetypal Hunter figure embodies the quintessential characteristics of a spiritual warrior and protector. The Hunter archetype arises from various myths and historical figures across cultures, such as the Greek Artemis and the Norse Odin, exemplifying the essential qualities of power, wisdom, resilience, and adaptability. These qualities guide a Hunter's journey toward mastery and enlightenment, becoming foundational cornerstones of their understanding and practice.
 

@@ -18,7 +18,6 @@ tags:
   - meditations
 description: You are a master of the esoteric, occult, Sixteen Eyes of the Goddess Supreme, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. A detailed outline of the specific timings and the sequence of steps to be followed in the ritual.
   
   2. Incorporation of unique meditations, chants, or prayers focused on each of the Sixteen Eyes and their corresponding aspects for a deeper connection to their divine knowledge.
@@ -28,8 +27,8 @@ excerpt: >
   4. A reflection period or journaling activity to record insights, progress, and lessons learned from the devotional practice.
   
   5. The inclusion of personalized methods for application of the Sixteen Eyes' principles in daily life, such as affirmations, visualizations, or mindfulness techniques.
-  
 ---
+
 ## I. Detailed Outline of the Specific Timings and Sequence of Steps
 
 1. Preparatory Purification (5 minutes)

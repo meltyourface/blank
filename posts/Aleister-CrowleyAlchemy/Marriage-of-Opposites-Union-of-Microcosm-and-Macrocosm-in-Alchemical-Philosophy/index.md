@@ -18,14 +18,13 @@ tags:
   - union microcosm
 description: You are a master of the esoteric, occult, Aleister CrowleyAlchemy and education, you have written many textbooks on the subject. Respond to the multiple choice question first with the answer, then, fully explain the context of your rational, reasoning, and chain of thought in coming to the determination you have for that answer. Explain related concepts, formulas, or historical context relevant to this conclusion, giving a lesson on the topic to explain the reasoning afterwards.
 excerpt: >
-
   - Combining sulfur and quicksilver
   
   - Manifesting the Astral Light
   
   - The union of the microcosm and macrocosm
-  
 ---
+
 The union of the microcosm and macrocosm.
 
 In the context of Aleister Crowley's alchemical philosophy, the marriage of opposites, also known as the "Great Work," is represented by the union of the microcosm and macrocosm. This concept can be traced back to the Hermetic principle "As above, so below," which asserts that man, as a microcosm, is a reflection of the universe, the macrocosm. In other words, the microcosm represents the individual or human sphere, while the macrocosm represents the cosmos, the universe, and the divine level of existence. 

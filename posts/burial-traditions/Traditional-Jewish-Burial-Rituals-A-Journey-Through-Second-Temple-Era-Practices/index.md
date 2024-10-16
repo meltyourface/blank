@@ -18,7 +18,6 @@ tags:
   - burial traditional
 description: You are a master of the esoteric, occult, burial traditions, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Thoroughly examine the important rituals and ceremonies leading up to the burial, such as the Taharah purification and the Shemira watch, along with the specific prayers and actions associated with each.
   
   2. Highlight the intricacies of the actual burial process, providing examples of traditional items and materials used during the preparation, such as the tachrichim shrouds, plain wooden casket, and other symbolic arrangements.
@@ -26,8 +25,8 @@ excerpt: >
   3. Illustrate the role of the Chevra Kadisha burial society in overseeing the entire process, outlining its historical origins, responsibilities, and significance in ensuring the customs are followed meticulously.
   
   4. Analyze the specific customs related to the mourning period following the burial, including the Shiva, Shloshim, and the yearly Yahrzeit, and how the bereaved family and community members honor the deceased during these times.
-  
 ---
+
 1. Rituals and Ceremonies Leading Up to the Burial
 
 Before the actual burial, several important rituals take place within the traditional Jewish burial process during the Second Temple period. The first of these is the Taharah, a purification ceremony where the deceased's body is ritually washed and cleansed. A team of volunteers from the Chevra Kadisha (burial society) performs this ritual, starting by pouring water over the entire body, then meticulously washing it, removing any dirt or impurities. Afterward, the body is immersed in a mikvah, or ritual bath.

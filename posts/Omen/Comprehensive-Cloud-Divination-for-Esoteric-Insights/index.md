@@ -18,7 +18,6 @@ tags:
   - clouds
 description: You are a master of the esoteric, occult, Omen, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Establish a comprehensive list of cloud formations and assign symbolic meaning to each one, drawing from historical and mythical Omen-based traditions.
   
   2. Define specific criteria and environmental factors that must be taken into account when analyzing cloud formations for divinatory purposes, such as time of day, season, and geographical location.
@@ -26,8 +25,8 @@ excerpt: >
   3. Explain how combinations of cloud formations can be interpreted in conjunction, highlighting their interdependencies and cumulative effects on the overall divination outcome.
   
   4. Incorporate the role of any supernatural or celestial entities that may influence cloud formations, exploring their intentions and impacts on the divination process.
-  
 ---
+
 The Cloud Divination System: A Comprehensive Guide to Interpreting Omens through Cloud Forms and the Unseen Forces of the Sky
 
 **Introduction**:

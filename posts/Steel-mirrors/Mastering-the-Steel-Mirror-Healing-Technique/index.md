@@ -18,7 +18,6 @@ tags:
   - healing technique
 description: You are a master of the esoteric, occult, Steel mirrors, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Establish a symbolic and energetic connection between the steel mirror and the individual requiring healing or energy work.
   
   2. Expertly incorporate the use of sacred geometry and specific symbols into the design of the steel mirror, enhancing its potential for energy work applications.
@@ -28,8 +27,8 @@ excerpt: >
   4. Elucidate a process for regularly cleansing and consecrating the steel mirror to maintain its potency in healing and energy practices.
   
   5. Experiment and refine the techniques with a small group of volunteers experiencing a range of physical, emotional, and spiritual imbalances to determine the efficacy of the method and optimize the overall approach for diverse situations.
-  
 ---
+
 The Steel Mirror Healing Technique
 **Step 1**: Establishing Connection
 To establish a symbolic and energetic connection between the steel mirror and the individual requiring healing or energy work, you will first need to have the person hold the mirror and take several calming breaths. Ask them to imagine their energy, flowing through their hands and into the mirror. Let them focus on their intention for healing and visualize it forming a link with the mirror.

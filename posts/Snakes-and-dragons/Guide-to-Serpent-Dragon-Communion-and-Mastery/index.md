@@ -18,7 +18,6 @@ tags:
   - dragon serpent
 description: You are a master of the esoteric, occult, Snakes and dragons, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Selecting an appropriate and rare snake species native to the dragon and serpent domain, describing their unique traits, behaviors, and significance in the esoteric world.
   
   2. Preparation and consecration of a sacred space specifically designed for the snake charming ritual, incorporating elements of draconic symbolism and serpentine mysticism.
@@ -32,8 +31,8 @@ excerpt: >
   6. The subtle art of maintaining balance and harmony between the snake charmer and the serpent, including techniques to safely navigate potential dangers and confrontations.
   
   7. Explore the complexities of snake charming within the context of allied dragon abilities, deciphering their significance in the greater world of the occult and esoteric arts.
-  
 ---
+
 Step-by-Step Guide to Snake Charming Within the Mystical Realm of Dragons and Serpents
 
 1. **Selecting an appropriate and rare snake species native to the dragon and serpent domain**:

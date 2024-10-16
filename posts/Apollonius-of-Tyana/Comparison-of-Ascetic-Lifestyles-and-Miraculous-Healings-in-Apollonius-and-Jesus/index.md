@@ -19,14 +19,13 @@ tags:
   - apollonius
 description: You are a master of the esoteric, occult, Apollonius of Tyana and education, you have written many textbooks on the subject. Respond to the multiple choice question first with the answer, then, fully explain the context of your rational, reasoning, and chain of thought in coming to the determination you have for that answer. Explain related concepts, formulas, or historical context relevant to this conclusion, giving a lesson on the topic to explain the reasoning afterwards.
 excerpt: >
-
   - Both were known for their ascetic lifestyle and teachings
   
   - Apollonius and Jesus were associated with divine healings and miracles
   
   - Both figures were said to have had an exceptional level of wisdom and insight
-  
 ---
+
 Answer: All of the above
 
 Both Apollonius of Tyana and Jesus of Nazareth are figures whose historical and philosophical contexts can be compared due to several factors. Here, I will discuss the aspects mentioned in the options and provide a lesson on the topic.

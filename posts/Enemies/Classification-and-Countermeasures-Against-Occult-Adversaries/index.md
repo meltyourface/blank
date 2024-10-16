@@ -27,15 +27,15 @@ In the realm of the occult, practitioners will inevitably encounter a wide range
 
 Enemies in the occult realm can be broadly classified into three main categories based on their origin, intent, and the extent of their influence – Elemental, Astral, and Archetypal. Each category has its own unique characteristics, which will be outlined in the following sections:
 
-1. Elemental Enemies
+1. **Elemental Enemies**
 
 Elemental Enemies are beings that originate from or are predominantly influenced by one of the four classic elements – Earth, Air, Fire, or Water. Their powers are directly correlated to their elemental nature, such as pyrokinetic abilities for fire-based Enemies or entropy associated with Earth-based adversaries. Typically, these Enemies manifest as nuisances or minor obstacles on the occultist's path.
 
-2. Astral Enemies
+2. **Astral Enemies**
 
 Astral Enemies are beings bound to the plane of existence between the physical and spiritual worlds, known as the Astral Plane. These adversaries might be summoned or encountered by the practitioner during astral travel or through the manipulation of astral energies. They often manifest through subtle psychic attacks, emotional manipulation, and mental intrusion.
 
-3. Archetypal Enemies
+3. **Archetypal Enemies**
 
 Archetypal Enemies are the most potent and challenging opponents faced by the occultist. These adversaries generate from the collective unconscious and embody the primal fears, weaknesses, and desires that haunt humanity. Archetypal Enemies can manifest through possession, inflicting powerful curses, or inciting chaos in the life of the occultist.
 

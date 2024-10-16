@@ -18,12 +18,11 @@ tags:
   - zodiac
 description: You are a master of the esoteric, occult, DivinationOccult symbolism, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Analyze the underlying esoteric, mythological, and historical connections between each Tarot card and its associated astrological counterpart, taking into account the Kabbalah, alchemical, and hermetic traditions.
   
   2. Identify and weave in the diverse meanings of the Tarot and Astrology symbols, emphasizing nuances that enhance the richness and depth of the correspondence system.
-  
 ---
+
 To design a comprehensive and intricate correspondence framework connecting the archetypal imagery of Tarot cards to the celestial mysteries of Astrology, we will first categorize the 78 Tarot cards into their associated astrological counterparts. We will utilize their associations within the Major Arcana, Minor Arcana, and Court cards.
 
 Major Arcana:

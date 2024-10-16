@@ -18,7 +18,6 @@ tags:
   - incorporating crystals
 description: You are a master of the esoteric, occult, Initiatic succession, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. A comprehensive list of at least 20 different crystals, including their historical and geographical origins, as well as any connections to prominent Initiatic orders.
   
   2. An in-depth analysis of the metaphysical attributes of each crystal, taking into account the correspondences with each of the four elements (Earth, Air, Fire, and Water), as well as the seven classical planets and any relevant astrological aspects.
@@ -26,8 +25,8 @@ excerpt: >
   3. A method for utilizing the crystals in esoteric practices within Initiatic initiations or rituals, with a focus on factors such as crystal geometry, alignment, and vibrational resonance to enhance the energetic potency of the practice.
   
   4. An examination of any documented connections between these crystals and significant figures within initiatory lineages, including any potential insights gleaned from their usage or guidance on incorporating the crystals into personal spiritual practices.
-  
 ---
+
 Crystals have long played an important role in mystical and occult practices, including use within Initiatic orders. The following correspondence matrix provides a thorough analysis of various crystals within the context of Initiatic traditions.
 
 1. Comprehensive List of Crystals and Their Origins:

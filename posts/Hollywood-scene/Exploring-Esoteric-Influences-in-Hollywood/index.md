@@ -26,13 +26,13 @@ Introduction
 
 The Hollywood entertainment industry has long been a bastion of mystery and intrigue, not only in terms of public fascination with stars and celebrities but also with its deeply rooted ties to the occult. While these influences may not be readily apparent, upon closer examination, they reveal a rich tapestry of esoteric symbolism, secret messages, and hidden meanings woven into the very fabric of popular culture. This section sets out to explore the fascinating connections between the Hollywood scene and occult practices while offering guidance to aspiring practitioners on how to navigate this mystifying world.
 
-1. A Brief History
+1. **A Brief History**
 
 The connection between the world of entertainment and mysticism dates back to ancient civilizations. Theater, performance, and storytelling have always served as vehicles for people to express, explore, and preserve their beliefs and values, including those of an occult nature.
 
 In the early 20th century, the burgeoning film industry in Hollywood began attracting people from all walks of life, including those with ties to secret societies and esoteric orders. Numerous individuals affiliated with organizations such as the Freemasons, Theosophists, Hermetic Order of the Golden Dawn, and the Ordo Templi Orientis (OTO) found a home in the film industry, discreetly spreading their teachings and symbology throughout the golden era of Hollywood.
 
-2. Esoteric Symbolism in Film and Famous Lives
+2. **Esoteric Symbolism in Film and Famous Lives**
 
 Many films, television shows, and music videos contain esoteric symbols and concepts that, while often overlooked or dismissed as mere creative whims, can be traced back to occult ideas and teachings. **Examples include**:
  a. **Alchemical Symbols**: Throughout the decades, films from various genres have subtly woven alchemical symbols and concepts into their storylines, where transformation, death, and rebirth are prevalent themes.
@@ -41,7 +41,7 @@ Many films, television shows, and music videos contain esoteric symbols and conc
 
 Celebrities, as influential figures of mainstream culture, often inadvertently or intentionally engage in occult practices or display symbolic affiliations. For example, personal style choices, tattoo designs, or public rituals may contain cryptic messages and hints about their esoteric journey, acting as living conduits of ancient wisdom.
 
-3. Navigating the Hollywood Occult
+3. **Navigating the Hollywood Occult**
 
 Aspiring practitioners seeking to delve deeper into the connections between Hollywood and the occult should pay attention to the following aspects:
  a. **Developing a keen eye for symbolism**: Familiarize yourself with key concepts and symbols from various occult traditions, enabling you to spot and decipher hidden meanings in movies, television, and music.

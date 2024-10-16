@@ -18,14 +18,13 @@ tags:
   - practices sympathetic
 description: You are a master of the esoteric, occult, Adept work and education, you have written many textbooks on the subject. Respond to the multiple choice question first with the answer, then, fully explain the context of your rational, reasoning, and chain of thought in coming to the determination you have for that answer. Explain related concepts, formulas, or historical context relevant to this conclusion, giving a lesson on the topic to explain the reasoning afterwards.
 excerpt: >
-
   - Utilizing sympathetic magic to influence events at a distance
   
   - Harnessing the power of the classical elements for personal transformation
   
   - Engaging with symbolic archetypes for the attainment of self-mastery
-  
 ---
+
 - Utilizing sympathetic magic to influence events at a distance
 
 Sympathetic magic best emphasizes the interconnectedness of various aspects and dimensions of reality because it is based on the principle of correspondence, which postulates that everything in the universe is interconnected. By working with certain techniques, such as symbolism, gestures, and representations, a practitioner can create resonant connections between seemingly separate aspects of reality, causing changes in one to affect the other.

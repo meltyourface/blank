@@ -27,19 +27,19 @@ Introduction
 
 The Emerald Tablet, also known as the Smaragdine Table or Tabula Smaragdina, is a seminal text within the Western esoteric tradition, a pillar of alchemical and Hermetic wisdom. This analysis aims to provide an in-depth exegesis of the Emerald Tablet through the lens of the Bibliothèque bleue, weaving together strands of alchemy, Hermeticism, and occult knowledge, while drawing connections to relevant mystical texts and shedding light on the enduring influence and significance of the Tablet's enigmatic phrases.
 
-1. The Core Principles and Their Evolution
+1. **The Core Principles and Their Evolution**
 
  "As above, so below; as within, so without"
 
 This phrase embodies the macrocosmic-microcosmic principle, a core tenant of Hermeticism, which posits that the universe and the individual share parallel structures. Mystical texts such as the Rosarium Philosophorum and the Mutus Liber, both found within the Bibliothèque bleue, echo this principle through their emphasis on the process of inner transformation, depicting the alchemical process as a simultaneous progression towards self-realization and the perfection of matter.
 
-2. The Elements and Their Correspondences
+2. **The Elements and Their Correspondences**
 
  "Its father is the Sun; its mother the Moon. The Wind carries it in its belly; its nurse is the Earth."
 
 The imagery of the sun, moon, wind, and earth evokes elemental and astrological associations, and points to the interconnectedness of all elements that comprise existence. Within the context of the Bibliothèque bleue, The "Comte de Gabalis" delves into the occult symbology behind these elements and their corresponding elemental spirits, offering insight into their potential alchemical and spiritual applications.
 
-3. The Art of Transmutation
+3. **The Art of Transmutation**
 
  "Separate the Earth from Fire, the Subtle from the Gross, gently with great skill."
 

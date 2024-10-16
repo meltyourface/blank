@@ -18,7 +18,6 @@ tags:
   - experiences shaped
 description: You are a master of the esoteric, occult, Tarot of Marseille, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Identify 5 key positions within the spread, each representing a vital aspect of spiritual growth, such as past influences, present challenges, hidden strengths, potential opportunities, and future potential.
 
   2. For each of the 5 positions, provide detailed explanations of how the Tarot de Marseille's Major Arcana cards will interact and influence one another, demonstrating their intricate relationships within the context of spiritual development.
@@ -31,11 +30,11 @@ excerpt: >
 The Tarot de Marseille Spiritual Growth Major Arcana Spread:
 
 **Layout**:
-1. Past Influences
-2. Present Challenges
-3. Hidden Strengths
-4. Potential Opportunities
-5. Future Potential
+1. **Past Influences**
+2. **Present Challenges**
+3. **Hidden Strengths**
+4. **Potential Opportunities**
+5. **Future Potential**
 
 Creating an aesthetically pleasing and harmonious layout for the spread, the five positions will form the shape of a five-pointed star. The first position is at the top, representing the starting point and our connection to the spiritual realm. The rest of the positions follow clockwise, forming the star shape.
 

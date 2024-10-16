@@ -25,8 +25,8 @@ excerpt: >
   2. Devise a set of rules and principles, grounded in Alchemical philosophy, governing the synergistic interactions between symbols within the system.
   
   3. Formulate iconic depictions that embed allegorical narratives, shedding light on the transformative aspects and spiritual undertones of the new Alchemical practice.
-  
 ---
+
 1. Lexicon of uniquely-designed symbols:
 
 a) Ω: The symbol for Aetherium, a newly discovered essential substance that serves as the catalyst for the transformative process in the novel Alchemical endeavor. It represents the bridge between the corporeal and spiritual realms.

@@ -22,9 +22,9 @@ excerpt: How does the concept of the Captain of the Host, often associated with 
 To fully understand and provide a comprehensible response to this knowledge challenge, it is essential to first lay the groundwork by elaborating on some key terms and concepts. **We will explore the main themes mentioned in the question which include**: 
 
 1. Captain of the Host (Archangel Michael)
-2. Eschatological themes
-3. Spiritual warfare
-4. Celestial hierarchies
+2. **Eschatological themes**
+3. **Spiritual warfare**
+4. **Celestial hierarchies**
 5. Historical, psychological, and metaphysical aspects of the Great Work
 
 We'll then discuss how these concepts intertwine and their relevance to an initiate's understanding of the Great Work.
@@ -33,15 +33,15 @@ We'll then discuss how these concepts intertwine and their relevance to an initi
 
 The Captain of the Host refers to Archangel Michael, one of the highest-ranking angels in the Judeo-Christian tradition. Michael is often portrayed as a warrior figure, known for his unwavering loyalty and his power to protect and defend creation against evil forces. As the Captain of the Host, Michael leads the celestial armies against darkness and evil influences.
 
-2. Eschatological themes
+2. **Eschatological themes**
 
 Eschatology refers to the theology concerned with the end of the world or the final destiny of humanity. It often encompasses themes such as judgment, resurrection, the afterlife, and the ultimate fate of cosmic entities. In Christianity, eschatological themes include the Second Coming of Christ, the Final Judgment, and the establishment of the Kingdom of God.
 
-3. Spiritual warfare
+3. **Spiritual warfare**
 
 Spiritual warfare represents the ongoing cosmic battle between good and evil, light and darkness, as well as the struggle within an individual to resist temptation and overcome their flaws. It comprises both personal and collective efforts to resist negativity, maintain moral and spiritual standards, and strive for greater awareness and enlightenment.
 
-4. Celestial hierarchies
+4. **Celestial hierarchies**
 
 The celestial hierarchy refers to the ordering and categorization of various divine beings, spirits, or angelic entities according to their level of spirituality, power, and rank. In Christian angelology, this hierarchy is primarily divided into three triads, each consisting of three orders of angels (Seraphim, Cherubim, and Thrones in the first triad; Dominions, Virtues, and Powers in the second; Principalities, Archangels, and Angels in the third).
 

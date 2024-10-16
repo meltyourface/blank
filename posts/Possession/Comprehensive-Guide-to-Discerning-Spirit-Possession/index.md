@@ -25,8 +25,8 @@ excerpt: >
 
 Table of Contents:
 
-1. Introduction
-2. Conceptual Overview of Spirit and Demonic Possession
+1. **Introduction**
+2. **Conceptual Overview of Spirit and Demonic Possession**
 3. Identifying & Categorizing Possession Cases
    1. Elemental Entities
    2. Non-Human Spirits
@@ -34,7 +34,7 @@ Table of Contents:
    4. Greater Demons
    5. Malevolent Thought Forms
    6. Collective Possessions
-4. Manifestations of Influence
+4. **Manifestations of Influence**
    1. Physical Symptoms
    2. Emotional Turmoil
    3. Psychological Disturbances
@@ -43,7 +43,7 @@ Table of Contents:
    2. Summoning Gone Awry
    3. Lovecraftian Horrors
    4. Shadow Figures & Sleep Paralysis
-6. A Historical Record of Possession Cases
+6. **A Historical Record of Possession Cases**
    1. Ancient Mesopotamia
    2. Pre-Christian Rome
    3. Chinese Shamanism
@@ -54,7 +54,7 @@ Table of Contents:
    2. Hinduism & Buddhism
    3. Western Esotericism
    4. Modern-Day Cults & New Religious Movements
-8. Discerning Genuine Possessions
+8. **Discerning Genuine Possessions**
    1. Objective Signs
    2. Subjective Experiences
    3. Testing the Spirits

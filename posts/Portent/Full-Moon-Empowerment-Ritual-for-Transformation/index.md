@@ -30,14 +30,14 @@ excerpt: Organize an intricate Portent lunar ritual, designed specifically to ha
 
 **Materials required**: 
 1. A silver chalice filled with moon-charged water
-2. A white or silver altar cloth 
+2. **A white or silver altar cloth **
 3. A circular or crescent moon-shaped ritual knife (athame)
 4. A brass censer filled with sacred herbs, such as wormwood and mugwort
-5. A ritual wand made of willow or birch wood
-6. A white or silver candle
-7. Salt
+5. **A ritual wand made of willow or birch wood**
+6. **A white or silver candle**
+7. **Salt**
 8. A parchment of Moon-drawn sigils and ancient symbols
-9. A copy of the ritual invocations
+9. **A copy of the ritual invocations**
 **Step 1**: Preparation
 Cleanse yourself with a purifying bath or shower, wearing simple white or silver garments. Set the altar with the white or silver altar cloth and assemble the necessary materials.
 **Step 2**: Cast the Circle

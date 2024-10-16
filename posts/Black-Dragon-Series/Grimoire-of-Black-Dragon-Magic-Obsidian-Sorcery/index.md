@@ -25,23 +25,23 @@ excerpt: Compose an all-encompassing grimoire tailored to the advanced practitio
 Table of Contents:
 
 1. Prologue: The Power of the Black Dragon Series
-2. The Foundations of Obsidian Sorcery
+2. **The Foundations of Obsidian Sorcery**
     a. The Five Pillars of Draconic Magic
     b. The Hidden Esoteric Vocabulary
     c. Draconic Meditation and Attunement
-3. The Forbidden Mystic Arts
+3. **The Forbidden Mystic Arts**
     a. Shadow Manipulation and Illusion
     b. Soul Binding and Reanimation
     c. Curses and Hexes of the Damned
-4. Harnessing the Threefold Veil of Darkness
+4. **Harnessing the Threefold Veil of Darkness**
     a. The Veil of Obscuration – Enveloping Shadows
     b. The Veil of Reflection – The Mirror Paradox
     c. The Veil of Disintegration – The All-Consuming Darkness
-5. Invoking the Ancient Entities of the Draconic Pantheon
+5. **Invoking the Ancient Entities of the Draconic Pantheon**
     a. Xalathathar, the Eternal Night
     b. Ramyrron, the Whisperer in the Abyss
     c. Vexalith, the Coiled Tempest
-6. Rituals and Summonings
+6. **Rituals and Summonings**
     a. Rituals of the Shadow Nexus
         i. The Dark Union
         ii. The Abyssal Convergence
@@ -52,7 +52,7 @@ Table of Contents:
     a. The Rituals of Blood and Bone
     b. The Circle of Infinite Shadow
     c. The Glyph of Fractured Realms
-8. The Art of Black Dragon Divination
+8. **The Art of Black Dragon Divination**
     a. Reading the Scrying Mirror
     b. Shadows in the Smoke: Void Incense Divination
     c. Draconic Omniscience through Astral Projection

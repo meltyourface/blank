@@ -26,12 +26,12 @@ excerpt: Script a divination ritual that harnesses the spectral energies of the 
 
 Ceremonial Attire:
 1. A long, hooded black robe
-2. Bare feet
+2. **Bare feet**
 3. An obsidian amulet or pendant, worn about the neck
 4. Silver or pewter rings on each finger, bearing elemental or spiritual symbols representative of the shadow spirits being invoked
 
 **Offerings**:
-1. Fine sandalwood incense
+1. **Fine sandalwood incense**
 2. A blend of oils, including wormwood, mugwort, and yarrow
 3. A chalice of pomegranate juice, sweetened with honey
 4. A platter of dates, figs, and almonds

@@ -18,7 +18,6 @@ tags:
   - ritualistic practices
 description: You are a master of the esoteric, occult, Setian principles, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. An outline detailing the purpose and intention of this ceremony in adherence to the Left Hand Path, emphasizing self-discovery and individualism.
   
   2. A meticulously planned pre-ritual preparation phase which includes the creation of a personalized sacred space and the gathering of symbolic tools connected to Setianism, such as the Setian pentagram, sigil of the personal daemon, and customary altar items.
@@ -28,12 +27,12 @@ excerpt: >
   4. Utilization of immersive ritualistic practices such as candle gazing, Draconian pathworking, and guided meditations, tailored to attune one's consciousness with Set and invoke the hidden aspects of the personal daemon.
   
   5. Integration of post-ritual grounding techniques to sustain the connection with the invoked daemon, allowing for continuous guidance, empowerment, and spiritual growth within the practitioner's Setian journey.
-  
 ---
+
 
 ## The Ceremony of the Hidden Shadow
 
-1. Purpose and Intention
+1. **Purpose and Intention**
 
 The Ceremony of the Hidden Shadow aims to awaken and strengthen a deep connection with one's personal daemon (also known as the "Higher Self" or "Holy Guardian Angel") through the exploration of Setian principles and adherence to the Left Hand Path. This path emphasizes self-discovery, individualism, and the embrace of one's inner darkness, ultimately leading to a greater understanding of one's personal power.
 
@@ -46,7 +45,7 @@ To effectively prepare for the ceremony, the practitioner must first create a pe
 - Surround the altar with related symbols and tools, including a sigil or amulet representing the personal daemon, a chalice, athame, incense burner, and candles in corresponding colors (typically red and black).
 - Arrange nine black candles in a circle around the sacred space, representing the nine angles of the Tree of Wyrd, a key symbol in Setian lore.
 
-3. Invocation Methods
+3. **Invocation Methods**
 
 Initiating the ceremony, the practitioner must stand within the sacred space and invoke their individual daemon through the articulation of personalized invocations and chants, such as:
 
@@ -54,7 +53,7 @@ Initiating the ceremony, the practitioner must stand within the sacred space and
 
 - Chant the Invocation of the Dragon: "From the depths of my primal consciousness, I summon the power of the Dragon. May the Draconian current guide my inner darkness and reveal the essence of my personal daemon."
 
-4. Immersive Ritualistic Practices
+4. **Immersive Ritualistic Practices**
 
 Following the invocations, the practitioner must engage in ritualistic practices tailored toward attuning their consciousness with Set and invoking their hidden daemon:
 

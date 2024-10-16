@@ -18,7 +18,6 @@ tags:
   - ritual force
 description: You are a master of the esoteric, occult, vengeful dead, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Compose a comprehensive incantation using archaic language and phrases pertinent to communicating with and commanding the vengeful dead, calling upon their weaknesses and vulnerabilities.
   
   2. Research and employ at least three notable sigils known for their potency in trapping and exiling malevolent spiritual entities, and describe their utilization and placement within the written ceremony.
@@ -28,8 +27,8 @@ excerpt: >
   4. Detail the specific items and offerings essential for successfully completing the ritual, including unique elements such as grave dirt, coffin nails, and enchanted talismans or relics related to the vengeful dead.
   
   5. Describe the appropriate timing for the ritual to achieve optimum effectiveness, considering astronomical, lunar, seasonal, or other temporal factors significant to the domain of the vengeful dead.
-  
 ---
+
 ## I. **Incantation for Banishing the Vengeful Dead**:
 
 In the tongue of ancient necromancers, let the words flow in a rhythmic chant, evoking the necessary forces to command the vengeful dead:

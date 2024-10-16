@@ -26,8 +26,8 @@ excerpt: >
   3. Exploring the reciprocal relationship between theurgy and Neoplatonic metaphysics, particularly in the context of the One, the Intellect, and the Soul.
   
   4. Evaluating the potential implications of Iamblichus' theurgical ideas for contemporary interpretations of Neoplatonism, including the role of personal transformation and mystical experience.
-  
 ---
+
 1. **Investigating the historical context and the development of theurgy in relation to the Neoplatonic tradition**:
 
 Neoplatonism emerged in the 3rd century CE as a school of thought that sought to synthesize the ideas of Plato, Aristotle, and the Hellenistic mystery religions. Theurgy, a practice of ritual magic and divine invocation, developed within this context as a means of engaging with the spiritual dimensions of the Neoplatonic worldview. Iamblichus (c. 245-325 CE), a key figure in the development of this tradition, was a Syrian philosopher and disciple of Porphyry, and his work De Mysteriis constitutes a core text in the history of Neoplatonic theurgy.

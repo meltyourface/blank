@@ -18,7 +18,6 @@ tags:
   - relaxed meditative
 description: You are a master of the esoteric, occult, Meditations, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Begin by selecting a tranquil location devoid of distractions, ensuring an environment that promotes focus on the meditation practice.
   
   2. Design a series of breathing exercises tailored to help achieve a relaxed and meditative state - such as a combination of diaphragmatic and alternate nostril breathing techniques.
@@ -34,8 +33,8 @@ excerpt: >
   7. Integrate a symbolic exchange between the selves, such as the merging of light between the two, symbolizing the union of the individual consciousness with the transcendent essence.
   
   8. Conclude the meditation with a gradual return to the outer world, directing the practitioner to retain the insights and wisdom gained during their communion with the higher self.
-  
 ---
+
 1. Select a location that is quiet, comfortable, and free from distractions – a place where you feel at ease and safe. This could be a cozy corner in your home, a favorite spot in nature, or even a dedicated meditation room.
 
 2. Begin a series of breathing exercises to help reach a relaxed and meditative state. Start with diaphragmatic breathing, inhaling slowly and deeply through the nose, allowing the diaphragm (not the chest) to expand outward. Exhale slowly through the mouth, letting the diaphragm return to its natural position. After a few minutes, shift to alternate nostril breathing, using the thumb and pinky finger to gently close one nostril at a time, inhaling and exhaling in a rhythmic pattern.

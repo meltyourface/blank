@@ -18,7 +18,6 @@ tags:
   - lbrp
 description: You are a master of the esoteric, occult, Equinox, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Choose a significant historical ritual in Equinox, such as the Lesser Banishing Ritual of the Pentagram or the Abramelin Operation.
   
   2. Analyze the symbolic meanings, associations, and underlying principles of the chosen ritual.
@@ -28,8 +27,8 @@ excerpt: >
   4. Identify potential modifications to the ritual's framework, techniques, or symbols to better align with the chosen contemporary system.
   
   5. Explore the creative integration of modern technology or communication tools within the reinterpreted ritual.
-  
 ---
+
 For this exercise, I will reinterpret the Lesser Banishing Ritual of the Pentagram (LBRP) within the lens of urban shamanism. The LBRP is a prominent ritual from the Equinox texts, which serves as a foundational practice in Western occultism.
 
 1. **Lesser Banishing Ritual of the Pentagram (LBRP)**: The LBRP is used to banish unwanted energies and establish a sacred space for magical workings. This ritual involves invoking elemental, planetary, and divine energies, as well as drawing pentagrams in the four cardinal directions to create a protective barrier.

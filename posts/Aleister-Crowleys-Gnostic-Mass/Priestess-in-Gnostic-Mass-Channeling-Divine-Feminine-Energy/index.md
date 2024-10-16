@@ -18,14 +18,13 @@ tags:
   - crowley gnostic
 description: You are a master of the esoteric, occult, Aleister Crowley's Gnostic Mass and education, you have written many textbooks on the subject. Respond to the multiple choice question first with the answer, then, fully explain the context of your rational, reasoning, and chain of thought in coming to the determination you have for that answer. Explain related concepts, formulas, or historical context relevant to this conclusion, giving a lesson on the topic to explain the reasoning afterwards.
 excerpt: >
-
   - She embodies the divine feminine principle and channels spiritual energy through her body for use in the ceremony.
   
   - She acts as a mediator between the congregation and the divine, delivering messages and guidance from higher powers.
   
   - Her primary function is to assist the Priest in carrying out the ritual by providing tools, elements, and other necessary items.
-  
 ---
+
 Answer: She embodies the divine feminine principle and channels spiritual energy through her body for use in the ceremony.
 
 **Explanation**: In Aleister Crowley's Gnostic Mass, the Priestess plays a crucial role in the performance of the ritual as a representation of the divine feminine principle, or Nuit. This principle balances the divine masculine principle, embodied by the Priest (Hadit), and together they represent the dual aspects of divinity.

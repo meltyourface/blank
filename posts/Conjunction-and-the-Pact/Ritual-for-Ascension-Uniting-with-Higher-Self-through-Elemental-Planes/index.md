@@ -30,14 +30,14 @@ Before commencing the ritual, ensure the seeker is familiar with the fundamental
 
 Preordained Equipment:
 
-1. A sacred space cleansed and consecrated for magical work
+1. **A sacred space cleansed and consecrated for magical work**
 2. A ceremonial robe, colored deep indigo to represent the infinite cosmos
 3. A quintessential athame, etched with symbols of the Conjunction and the Pact
 4. A circular rug, inscribed with the Sigil of the Gateway, surrounded by the symbols of the four elemental planes (Earth, Water, Air, and Fire)
 5. Four elemental candles occupying cardinal directions; green for North (Earth), blue for West (Water), yellow for East (Air), and red for South (Fire)
 6. The Tome of Esoteric Visions, containing sacred chants and meditative exercises
-7. A silver chalice filled with pure spring water
-8. A small cauldron containing sacred incense for consecrating the space
+7. **A silver chalice filled with pure spring water**
+8. **A small cauldron containing sacred incense for consecrating the space**
 
 The Ritual:
 

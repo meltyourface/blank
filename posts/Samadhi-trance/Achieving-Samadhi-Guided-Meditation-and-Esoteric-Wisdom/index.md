@@ -71,10 +71,10 @@ Many practitioners face obstacles in their pursuit of the Samadhi trance. **Comm
 
 ### V. Benefits of the Samadhi Trance
 
-1. Deep inner peace and tranquility
+1. **Deep inner peace and tranquility**
 2. Enhanced self-awareness and understanding
-3. Access to higher states of consciousness and cosmic wisdom
-4. Dissolution of the ego and the experience of unity with the universe
+3. **Access to higher states of consciousness and cosmic wisdom**
+4. **Dissolution of the ego and the experience of unity with the universe**
 5. Improved mental, emotional, and physical well-being
 
 Through perseverance and diligent practice, the Samadhi trance can be achieved, serving as a gateway to profound insights and transformative experiences that permeate the depths of our existence. This grimoire is designed to provide you with the tools necessary to embark on this sacred journey, delving deeper into the realms of the esoteric and occult. May you find the wisdom you seek.

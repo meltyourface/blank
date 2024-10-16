@@ -18,7 +18,6 @@ tags:
   - aetherial seraphim
 description: You are a master of the esoteric, occult, Alchemical Aviary, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. The ethereal alignment of the chamber, ensuring the ritual space is in harmony with the celestial spheres and infused with aviary energies.
   
   2. A meticulously crafted incantation sequence to invoke the spirits of the Alchemical Aviary, calling upon the wisdom of the Aetherial Seraphim and the elemental guardians of the Air.
@@ -26,8 +25,8 @@ excerpt: >
   3. The preparation and use of a bespoke alchemical solution derived from the essence of the mystical Sylphs, to gently cleanse the Feather from any defiling energies.
   
   4. A step-by-step procedure for suffusing the Feather with the benevolent essence of the Aureate Eagle, using esoteric tools such as the Sacred Wind Chimes and the Enchanted Zephyr Crystal.
-  
 ---
+
 ## I. Ethereal Alignment of the Chamber
 
 1. Choose a room with an unobstructed view of the sky, preferably during a time when the celestial bodies align in a way that promotes Alchemical Aviary energies, such as New Moon or Solar Eclipse.

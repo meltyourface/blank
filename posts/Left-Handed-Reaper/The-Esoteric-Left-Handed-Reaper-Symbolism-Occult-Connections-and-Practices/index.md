@@ -22,9 +22,9 @@ excerpt: Incorporate the origins of the Left-Handed Reaper, its relation to the 
 To tackle this knowledge challenge, we will break it down into several parts and address them systematically. These key parts are:
 
 1. Origins of the Left-Handed Reaper
-2. Relation to the wider field of occultism and esotericism
-3. Implications of its symbolism in practices
-4. Comparison between adept and amateur practitioners
+2. **Relation to the wider field of occultism and esotericism**
+3. **Implications of its symbolism in practices**
+4. **Comparison between adept and amateur practitioners**
 
 **1. Origins of the Left-Handed Reaper**
 

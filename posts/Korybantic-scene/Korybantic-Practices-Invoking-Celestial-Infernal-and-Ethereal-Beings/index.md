@@ -18,7 +18,6 @@ tags:
   - preface korybantic
 description: You are a master of the esoteric, occult, Korybantic scene, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Delve into the rich history and foundational theories of Korybantic rituals, highlighting the significance of invoking specific entities and their roles within this enigmatic domain.
   
   2. Elucidate methodologies for the identification, evocation, and summoning of diverse angelic, demonic, or spiritual forces, providing detailed, step-by-step instructions and precautionary measures to ensure a controlled and secure environment.
@@ -28,8 +27,8 @@ excerpt: >
   4. Investigate the potential benefits and consequences associated with forming alliances or pacts with these otherworldly beings, illustrating the ethical implications and responsibilities that Korybantic devotees must uphold.
   
   5. Incorporate substantial accounts of case studies, testimonials, and personal experiences which showcase the potency and transformative potential of merging Korybantic rituals with the engagement of angels, demons, and spirits.
-  
 ---
+
 
 ## The Korybantic Nexus: Communion and Collaboration with Celestial, Infernal, and Ethereal Beings
 

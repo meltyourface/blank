@@ -18,14 +18,13 @@ tags:
   - venus planetary
 description: You are a master of the esoteric, occult, planetary hours, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Identify the three strongest planetary hour lords affecting the natal chart, focusing on their associated ruling planets and the traditional characteristics tied to each authoritative figure.
   
   2. Determine the interactions between the dominant planetary hour lords and the individual's ascendant, sun, and moon sign, highlighting potential synergies or conflicts in relation to their innate personality traits and life goals.
   
   3. Assess the variation of planetary hour influences throughout significant life periods, such as major transits or progressions, to gain insight into the evolving nature of their occult impact on the individual's destiny.
-  
 ---
+
 Below is a thorough examination of an astrological natal chart focusing on the most potent planetary hour influences:
 
 1. Strongest Planetary Hour Lords: Assuming that the individual was born within the planetary hours of Mars, Venus, and Mercury, these hour lords will be the most impactful to the person's natal chart.

@@ -29,10 +29,10 @@ Materials and Ingredients:
 3. Thread or string in protective colors (white, silver, or black)
 4. Herbs and crystals associated with protection (e.g., black tourmaline, amethyst, rosemary, sage)
 5. Essential oils for protection (e.g., lavender, eucalyptus, cedarwood)
-6. Salt or black salt
-7. White sage smudge stick or incense
+6. **Salt or black salt**
+7. **White sage smudge stick or incense**
 8. Candle (white, silver, or black) and a lighter
-9. Paper and pen
+9. **Paper and pen**
 10. Plate or tray, to hold the poppet and ingredients during the ritual
 
 **Celestial Timing**: Perform the spell during the waning moon or on a Saturday, when Saturn's protective energies are at their strongest.

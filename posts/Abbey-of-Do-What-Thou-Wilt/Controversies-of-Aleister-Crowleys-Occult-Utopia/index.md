@@ -18,14 +18,13 @@ tags:
   - occult practices
 description: You are a master of the esoteric, occult, Abbey of Do What Thou Wilt and education, you have written many textbooks on the subject. Respond to the multiple choice question first with the answer, then, fully explain the context of your rational, reasoning, and chain of thought in coming to the determination you have for that answer. Explain related concepts, formulas, or historical context relevant to this conclusion, giving a lesson on the topic to explain the reasoning afterwards.
 excerpt: >
-
   - Alleged immorality, art experiments, and the expulsion of foreign residents
   
   - Harmonious religious practices, charity work, and embracing local traditions
   
   - Lack of censorship, community outreach, and interfaith dialogues
-  
 ---
+
 Answer: Alleged immorality, art experiments, and the expulsion of foreign residents.
 
 **Explanation**: The Abbey of Do What Thou Wilt was a center of esoteric and occult practices founded by the infamous English occultist Aleister Crowley in 1920. Located in Cefalù, Sicily, the Abbey was envisioned as a utopia, where people could engage in the exploration of Thelema, Crowley's spiritual system. However, this utopian experiment soon gave rise to several controversies surrounding its practices and philosophies. 

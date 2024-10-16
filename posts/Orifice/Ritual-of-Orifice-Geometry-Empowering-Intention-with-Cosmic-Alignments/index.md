@@ -26,11 +26,11 @@ excerpt: >
 **Objective**: To enhance and manifest specific intentions through the utilization of sacred geometry and Orifice magic in a ceremonial context.
 
 **Materials**:
-1. Chalk or sand for drawing the geometric patterns on the ground
-2. Candles corresponding to the elements and planets
-3. Incense for invocation
-4. A ritual knife or athame
-5. Crystals for each of the Platonic solids
+1. **Chalk or sand for drawing the geometric patterns on the ground**
+2. **Candles corresponding to the elements and planets**
+3. **Incense for invocation**
+4. **A ritual knife or athame**
+5. **Crystals for each of the Platonic solids**
 
 Setting Up the Ceremonial Space:
 

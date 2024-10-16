@@ -18,7 +18,6 @@ tags:
   - secure ritual
 description: You are a master of the esoteric, occult, Contact with the unknown, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. A detailed step-by-step process that outlines the necessary preparation and actions required during the ritual, including the invocation of protective spirits or deities.
   
   2. A list of ritualistic tools, materials, and sacred symbols needed for the rite, such as candles, incense, salt, and sigils -- with specific instructions on how and where to place them for optimal efficacy.
@@ -30,8 +29,8 @@ excerpt: >
   5. Specifications for the ideal participants, such as the minimum number of people required, their levels of experience or knowledge of the occult, and any necessary attunements or initiations.
   
   6. A description of the potential hazards, side effects, or possible backlash that practitioners may encounter during or following the ritual, along with precautionary measures and contingencies to address such issues.
-  
 ---
+
 The Banishing Ritual of the Ethereal Veil
 
 1. **Detailed step-by-step process**:

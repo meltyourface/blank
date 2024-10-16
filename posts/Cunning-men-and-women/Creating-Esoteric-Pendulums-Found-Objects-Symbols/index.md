@@ -18,14 +18,13 @@ tags:
   - properties hag
 description: You are a master of the esoteric, occult, Cunning men and women, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Identify and describe three unique found objects with inherent occult properties well-suited for a dowsing pendulum construction.
   
   2. Outline the step-by-step process of combining these found objects and energies to create the pendulum, emphasizing the importance of intention and ritual elements specific to the Cunning folk tradition.
   
   3. Detail any purification and consecration techniques to ensure proper alignment with the desired divinatory purpose, such as detecting nearby hidden artifacts or discerning one's intuitive guidance.
-  
 ---
+
 1. **Unique Found Objects with Inherent Occult Properties**:
 
 a. **Hag Stone**: Hag stones are stones with naturally occurring holes through them, often found in rivers or on beaches. They are believed to hold powerful protection properties and are traditionally used to ward against negative energies and evil spirits.

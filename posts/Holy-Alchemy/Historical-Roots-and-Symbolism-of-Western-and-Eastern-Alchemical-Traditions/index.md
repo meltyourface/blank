@@ -18,7 +18,6 @@ tags:
   - alchemy china
 description: You are a master of the esoteric, occult, Holy Alchemy, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Identify key aspects of both Western and Eastern alchemical traditions, such as the Philosophers' Stone, Elixir of Life, and the concept of the Great Work. Provide a detailed description and interpretation of each aspect.
   
   2. Analyze key symbols and their differing representations within both Western and Eastern Holy Alchemical traditions, such as the Ouroboros, the Emerald Tablet, and the squared circle.
@@ -28,8 +27,8 @@ excerpt: >
   4. Explore the role of spirituality, mysticism, and religious beliefs in the development of Holy Alchemical theories, practices, and symbolism within both domains.
   
   5. Evaluate the cross-cultural exchanges between Western and Eastern Holy Alchemy, government support for alchemy practices, and the resulting impact on the global understanding of alchemical symbolism.
-  
 ---
+
 1. Key aspects of Western and Eastern Holy Alchemical traditions:
 
 In the Western alchemical tradition, the Great Work refers to the process of achieving spiritual and personal transformation, culminating in the creation of the Philosophers' Stone, an object of immense power capable of transforming base metals into gold and granting its possessor eternal life through the Elixir of Life. Western alchemy borrows heavily from Greek, Egyptian, and Christian esotericism, often emphasizing the correspondence between macrocosm and microcosm or divine and earthly realms.

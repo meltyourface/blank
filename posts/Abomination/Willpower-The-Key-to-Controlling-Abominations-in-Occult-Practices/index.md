@@ -23,8 +23,8 @@ excerpt: >
   The ability of a practitioner to handle multiple sources of power and direct them towards a single, focused objective, which could potentially lead to destructive consequences.
   
   The ethical implications and moral dilemmas faced by practitioners when choosing to invoke abominations, which showcases the internal struggle between maintaining one's humanity and the desire for power.
-  
 ---
+
 A: The interplay between the abhorred entity and the practitioner's willpower, dictating the level of control maintained over the abomination.
 
 To fully understand the rationale behind this answer, one must delve into the intricacies of the occult and the study of Abomination. Abomination, in this context, refers to invoking or summoning entities that are often considered repulsive or in violation of natural or divine laws. The study of Abomination within the occult focuses on the relationships between these entities, the practitioners who seek their knowledge or power, and the effects that wielding such influence can have on both individuals and their surroundings.

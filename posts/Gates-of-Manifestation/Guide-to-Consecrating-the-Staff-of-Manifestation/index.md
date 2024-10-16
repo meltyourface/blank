@@ -18,7 +18,6 @@ tags:
   - symbolically altar
 description: You are a master of the esoteric, occult, Gates of Manifestation, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Specify the type of magical tool or object being consecrated, such as an athame, wand, or talisman, and elaborate on its connection to the Gates of Manifestation.
   
   2. Describe the preparatory actions that must be taken prior to the ritual, including selecting an appropriate time, location, and materials related to the Gates of Manifestation.
@@ -32,8 +31,8 @@ excerpt: >
   6. Explain the significance of the steps to properly seal and complete the ceremony, ensuring the tool's connection to the Gates of Manifestation is maintained and fortified.
   
   7. Provide practical guidance on how to store, maintain, and utilize the consecrated tool in future workings involving the Gates of Manifestation.
-  
 ---
+
 1. The magical tool being consecrated in this ceremony is the Staff of Manifestation, an ancient artifact deeply connected to the Gates of Manifestation. The staff is made of a wood imbued with the essence of the Gates, allowing the wielder to harness its energies and channel them into their workings. The staff represents a vital link between the practitioner and the governing entities of the Gates.
 
 2. Preparatory actions: To properly perform the ritual, the practitioner must select a location that resonates with the energies of the Gates of Manifestation, such as a natural site with strong ley line intersections. The optimal time for the ceremony is during the waxing moon, when energies are building and growing in strength. The practitioner should gather materials representing the four elements – earth, air, fire, and water – as well as sacred oils, incense, and candles to aid in focusing their intent during the ritual.

@@ -18,14 +18,13 @@ tags:
   - quantum mechanics
 description: You are a master of the esoteric, occult, Quantum and New Physics and education, you have written many textbooks on the subject. Respond to the multiple choice question first with the answer, then, fully explain the context of your rational, reasoning, and chain of thought in coming to the determination you have for that answer. Explain related concepts, formulas, or historical context relevant to this conclusion, giving a lesson on the topic to explain the reasoning afterwards.
 excerpt: >
-
   - A particle will always behave as either a wave or a particle, but never both simultaneously.
   
   - The double-slit experiment shows that particles possess wave-like properties, but only when observed directly.
   
   - A particle will always travel through both slits, displaying both wave-like and particle-like behavior.
-  
 ---
+
 The answer is: Observing a particle will collapse its wave function, causing it to exhibit either wave or particle-like behavior, emphasizing the role of observation in quantum phenomena.
 
 The wave-particle duality principle states that all quantum entities - particles, such as electrons and photons - exhibit both wave-like and particle-like characteristics. This principle was first conceptualized by physicist Louis de Broglie in 1924.

@@ -24,10 +24,10 @@ Designing an Altar Setup for Alchemical Transformation
 In designing an altar setup that incorporates the concept of alchemical transformation, we must ensure that every aspect corresponds to the esoteric principles, symbolism, and overall purpose of alchemy. Before diving into the design, let's briefly review the four elements, three principles of alchemy, and alchemical symbolism.
 
 Four Elements:
-1. Earth
-2. Air
-3. Fire
-4. Water
+1. **Earth**
+2. **Air**
+3. **Fire**
+4. **Water**
 
 Three Principles of Alchemy:
 1. Sulfur - manifestation of the soul or consciousness

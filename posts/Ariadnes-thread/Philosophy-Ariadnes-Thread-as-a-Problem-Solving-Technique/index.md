@@ -18,14 +18,13 @@ tags:
   - origins ariadne
 description: You are a master of the esoteric, occult, Ariadnes thread and education, you have written many textbooks on the subject. Respond to the multiple choice question first with the answer, then, fully explain the context of your rational, reasoning, and chain of thought in coming to the determination you have for that answer. Explain related concepts, formulas, or historical context relevant to this conclusion, giving a lesson on the topic to explain the reasoning afterwards.
 excerpt: >
-
   - A randomly generated sequence of points that connects a labyrinth's entrance and exit
   
   - A philosophical technique of retracing the origins of a theory or belief back to its elementary principles
   
   - A set of magical symbols employed in talismans and rituals that harness ancient knowledge for personal transformation
-  
 ---
+
 The correct answer is: 
 - A philosophical technique of retracing the origins of a theory or belief back to its elementary principles.
 

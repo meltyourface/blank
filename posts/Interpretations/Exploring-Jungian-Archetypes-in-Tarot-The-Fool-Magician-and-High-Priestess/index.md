@@ -37,12 +37,12 @@ The 22 Major Arcana cards in tarot symbolize significant life events, spiritual 
 3. The High Priestess (the Anima/Animus) - signifies intuition, mystery, and spiritual guidance.
 
 ### II. An In-Depth Exploration of Selected Major Arcana
-1. The Fool and the Self
+1. **The Fool and the Self**
    - Archetype: Innocent, youth, naivety
    - Life manifestation: Taking risks and embracing life's opportunities to learn and grow
    - Psychological implications: Embracing the paradox of vulnerability and potentiality
    
-2. The Magician and the Shadow
+2. **The Magician and the Shadow**
    - Archetype: The unconscious aspect of one's personality, a trickster or agent of change
    - Life manifestation: Initiating transformation, exploring and accepting all facets of oneself
    - Psychological implications: Facing and integrating the darker parts of the personality to gain total self-awareness

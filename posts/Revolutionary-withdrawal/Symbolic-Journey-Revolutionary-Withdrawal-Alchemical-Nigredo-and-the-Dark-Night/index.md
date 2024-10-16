@@ -22,9 +22,9 @@ excerpt: Analyze the symbolism, influences, and potential transformative power o
 ---
 To fully analyze the symbolism, influences, and potential transformative power of Revolutionary withdrawal as a path toward spiritual awakening, we will first need to understand the three key concepts involved in this analysis:
 
-1. Revolutionary withdrawal
-2. Alchemical process of Nigredo
-3. Dark Night of the Soul
+1. **Revolutionary withdrawal**
+2. **Alchemical process of Nigredo**
+3. **Dark Night of the Soul**
 
 ### I. Revolutionary Withdrawal
 

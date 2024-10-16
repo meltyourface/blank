@@ -18,14 +18,13 @@ tags:
   - literature symbolism
 description: You are a master of the esoteric, occult, AdorationMagical literature and education, you have written many textbooks on the subject. Respond to the multiple choice question first with the answer, then, fully explain the context of your rational, reasoning, and chain of thought in coming to the determination you have for that answer. Explain related concepts, formulas, or historical context relevant to this conclusion, giving a lesson on the topic to explain the reasoning afterwards.
 excerpt: >
-
   - Symbolism present within the rituals and texts
   
   - The historical context of the materials
   
   - Techniques for accessing altered states of consciousness
-  
 ---
+
 - Symbolism present within the rituals and texts
 
 Symbolism present within the rituals and texts plays a crucial role in understanding the relationship between the practitioner and the divine in AdorationMagical literature. The use of symbolism allows for a deeper connection between the practitioner and the divine, as well as a richer understanding of the esoteric knowledge being accessed.

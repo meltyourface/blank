@@ -18,7 +18,6 @@ tags:
   - ankh associated
 description: You are a master of the esoteric, occult, Iconography, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Identify and compare the historical origins, evolution, and current manifestations of each of the selected religious symbols.
   
   2. Examine the symbolic language, visual elements, and distinctive features used in each iconography, paying special attention to the colors, shapes, animals, and attributes.
@@ -26,8 +25,8 @@ excerpt: >
   3. Discuss any apparent similarities, differences, and influences between the two or more cultural iconographies, citing specific examples from art, rituals, or cultural expressions.
   
   4. Explore possible philosophical or theological implications behind the iconographic intersections, considering the cultural context and beliefs surrounding each symbol.
-  
 ---
+
 For this analysis, I will focus on the iconography of the Ankh in ancient Egyptian culture and the Christian Cross in Christianity.
 
 1. Historical Origins, Evolution, and Current Manifestations:

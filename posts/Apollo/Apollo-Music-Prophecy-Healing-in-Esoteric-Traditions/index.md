@@ -18,14 +18,13 @@ tags:
   - aspects apollo
 description: You are a master of the esoteric, occult, Apollo and education, you have written many textbooks on the subject. Respond to the multiple choice question first with the answer, then, fully explain the context of your rational, reasoning, and chain of thought in coming to the determination you have for that answer. Explain related concepts, formulas, or historical context relevant to this conclusion, giving a lesson on the topic to explain the reasoning afterwards.
 excerpt: >
-
   - Solar deity, protection, purification
   
   - Lunar deity, dreams, intuition
   
   - Knowledge, alchemy, transformation
-  
 ---
+
 - Music, prophecy, healing
 
 In the study of the occult and esoteric, Apollo is primarily associated with music, prophecy, and healing. This ancient Greek god's influence can be seen throughout various occult traditions, and his characteristics are often woven together to represent a multifaceted archetype embodying these domains.

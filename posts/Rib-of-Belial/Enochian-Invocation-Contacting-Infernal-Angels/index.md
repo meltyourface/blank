@@ -32,28 +32,28 @@ excerpt: Design a comprehensive and intricate Rib of Belial ceremony, thoroughly
 
 The Ceremony:
 
-1. Cast a Ritual Circle
+1. **Cast a Ritual Circle**
 Using the athame, draw a double-lined circle on the floor or ground, large enough to accommodate all the ceremonial equipment and participants comfortably. Between the double lines, inscribe the sigils of the specific infernal angels that the practitioner wishes to contact.
 
-2. Construct the Inner Sanctum
+2. **Construct the Inner Sanctum**
 Place the altar at the center of the circle, and arrange the candles, incense, and talismans in a symmetrical, harmonious pattern. Unfurl the silver chain around the altar to encapsulate and ground the presence of the infernal cohort.
 
-3. Illuminate the Circle
+3. **Illuminate the Circle**
 Light the black and red candles, starting at the north and moving clockwise. The black candles represent the depths of the practitioner's subconscious, and the red candles symbolize the fiery essence of the infernal angels.
 
-4. Recitation of the Enochian Keys
+4. **Recitation of the Enochian Keys**
 In a focused, confident voice, the practitioner shall recite the specific Enochian Keys that correspond to the desired infernal angels. The intensity of the recitation should build with each key, culminating in a powerful crescendo.
 
-5. Invocation of the Infernal Cohort
+5. **Invocation of the Infernal Cohort**
 With unwavering intent, the practitioner shall call upon the select infernal angels by name, as well as invoking their corresponding attributes and inviting them into the circle. Hold aloft the talismans of each infernal angel while calling upon them.
 
-6. Propitiation and Communion
+6. **Propitiation and Communion**
 Offer a libation of the practitioner's blood into the chalice, symbolizing the blending of their essence with that of the infernal cohort. Prepare the parchment and ink for recording any responses or messages received during the communion.
 
-7. Dismissal and Gratitude
+7. **Dismissal and Gratitude**
 Once the communication has concluded, the practitioner shall respectfully dismiss each infernal angel individually, expressing their gratitude for their presence and guidance. Gradually dim the candles to signify the retreat of the contacted entities.
 
-8. Closure and Cleansing
+8. **Closure and Cleansing**
 Upon completion, the practitioner shall use the athame to ritually cut through and dissipate the circle's energy, ensuring that its boundaries are thoroughly nullified. Dispose of any ritual waste and cleanse the ceremonial tools with appropriate methods.
 
 **Precautions**:

@@ -18,14 +18,13 @@ tags:
   - magickal
 description: You are a master of the esoteric, occult, Aleister Crowley's sexual magick and education, you have written many textbooks on the subject. Respond to the multiple choice question first with the answer, then, fully explain the context of your rational, reasoning, and chain of thought in coming to the determination you have for that answer. Explain related concepts, formulas, or historical context relevant to this conclusion, giving a lesson on the topic to explain the reasoning afterwards.
 excerpt: >
-
   - A symbolic representation of ego dissolution during the climax of a sexual ritual
   
   - An actual physical child conceived and raised with specific magical purposes
   
   - A metaphor for the creative and transformative powers unleashed during sex magick practices
-  
 ---
+
 The best description of the "magickal childe" concept in the context of Aleister Crowley's sexual magick practices is:
 
 - A metaphor for the creative and transformative powers unleashed during sex magick practices.

@@ -18,14 +18,13 @@ tags:
   - aspect ritual
 description: You are a master of the esoteric, occult, Advanced occultism and education, you have written many textbooks on the subject. Respond to the multiple choice question first with the answer, then, fully explain the context of your rational, reasoning, and chain of thought in coming to the determination you have for that answer. Explain related concepts, formulas, or historical context relevant to this conclusion, giving a lesson on the topic to explain the reasoning afterwards.
 excerpt: >
-
   - Triangle of art with the practitioner inside and the entity being evoked within the same space
   
   - The practitioner within a circle of protection, the entity evoked within a triangle outside the circle, and the magical process symbolized by the tools and elements on the practitioner's altar
   
   - The entity evoked within a circle of protection, and the practitioner commanding from within a separate magical triangle
-  
 ---
+
 - The practitioner within a circle of protection, the entity evoked within a triangle outside the circle, and the magical process symbolized by the tools and elements on the practitioner's altar
 
 The relationship between the practitioner, the invoked entity, and the magical process can be best represented during a ritual by the configuration just mentioned. This is because this particular arrangement preserves the necessary separation and connection between all the involved forces.

@@ -18,7 +18,6 @@ tags:
   - holistic wellness
 description: You are a master of the esoteric, occult, Troll formulae, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
-
   1. Identifying and invoking specific malevolent and benevolent Troll spirits, including their names, attributes, and corresponding sigils, adept at addressing particular ailments and contributing to overall wellbeing.
   
   2. Delineating the intricate rituals and incantations necessary for summoning these enigmatic entities, while paying heed to astrological timings, aligned energy portals, and ceremonial artifacts essential for invoking their presence and potent energies.
@@ -28,8 +27,8 @@ excerpt: >
   4. Crafting bespoke energy-infused talismans or amulets with embedded Troll formulae for the user to wear or carry as a potent conduit for continual healing and protection against afflictions.
   
   5. Establishing methods for ascertaining the efficacy of the Troll formulae and healing work, including quantifiable metrics and qualitative observations for gauging the overall effectiveness and potential areas of improvement.
-  
 ---
+
 Comprehensive Strategy for Harnessing Troll Formulae in Holistic Wellness
 
 1. **Identifying and invoking specific malevolent and benevolent Troll spirits**:

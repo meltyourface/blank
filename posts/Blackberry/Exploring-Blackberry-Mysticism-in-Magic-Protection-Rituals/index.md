@@ -40,10 +40,10 @@ Spells and Rituals Involving the Blackberry
 
 Below is a selection of spells and rituals one can perform utilizing the mystical powers of the blackberry plant:
 
-1. Protection Charm
+1. **Protection Charm**
 Gather a small bundle of blackberry twigs and bind them together with a red or purple ribbon. Hang this charm above your doorstep or on the entrance to a sacred space to ward off negative energies and offer protection.
 
-2. Fertility and Prosperity Spell
+2. **Fertility and Prosperity Spell**
 During the waxing moon phase, enjoy a small bowl of blackberries as a symbolic offering to the universe, asking for abundance and fertility to manifest in your life. Meditate on your intentions while savoring the taste and texture of each berry.
 
 3. Hex-Breaking Ritual

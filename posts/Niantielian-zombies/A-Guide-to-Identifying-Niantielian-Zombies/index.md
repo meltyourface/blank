@@ -23,17 +23,17 @@ excerpt: Compose an exhaustive manual that delineates the unique characteristics
 ## An Exalted Guide to Niantielian Zombies: Distinguishing Traits and Expert Insights
 
 Table of Contents:
-1. Introduction to Niantielian Zombies
-2. Unique Characteristics and Traits
+1. **Introduction to Niantielian Zombies**
+2. **Unique Characteristics and Traits**
    2.1 Physical Appearance
    2.2 Behavior
    2.3 Origins
-3. Identification and Categorization
+3. **Identification and Categorization**
    3.1 Methods and Techniques
    3.2 Practical Examples
    3.3 Illustrations and Visual Aids
    3.4 Case Studies
-4. Conclusion
+4. **Conclusion**
 
 ### Chapter 1: Introduction to Niantielian Zombies
 

@@ -21,10 +21,10 @@ excerpt: Investigate the fundamental characteristics of esoteric emblems and est
 ---
 The esoteric emblems and sacred geometry share a common ground of being rooted in ancient and mystical wisdom. Both domains convey complex spiritual, philosophical, and metaphysical concepts through the use of intricate, yet elegant visual symbols and patterns. To investigate the fundamental characteristics of esoteric emblems and establish their connections to the principles of sacred geometry, we shall focus on the following steps:
 
-1. Identifying key emblematic symbols and geometrical figures
-2. Analyzing the relationships between emblem designs and sacred geometry patterns
-3. Exploring the underlying occult implications of melding esoteric emblems and sacred geometry
-4. Delving into the potential enhancements to creativity and richness in emblematic design
+1. **Identifying key emblematic symbols and geometrical figures**
+2. **Analyzing the relationships between emblem designs and sacred geometry patterns**
+3. **Exploring the underlying occult implications of melding esoteric emblems and sacred geometry**
+4. **Delving into the potential enhancements to creativity and richness in emblematic design**
 
 1. Identifying key emblematic symbols and geometrical figures:
 

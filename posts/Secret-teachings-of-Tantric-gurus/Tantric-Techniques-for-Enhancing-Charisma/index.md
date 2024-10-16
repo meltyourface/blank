@@ -24,8 +24,8 @@ excerpt: >
   2. Integrating concentration and visualization practices, such as the meditative embodiment of the radiant Vairocana, to fine-tune magnetic presence and influence within auric fields.
   
   3. Incorporating Mudras and Mantras, specifically related to the mastery of charisma and attraction, such as the enchanting Kamadeva mantra, to amplify the task's potency and complexity.
-  
 ---
+
 The practices of Tantra involve the utilization of various techniques to harness divine energies and transform them, allowing an individual to attain spiritual and physical mastery. In order to facilitate these specialized exercises for harnessing Shakti, let us explore the four mentioned tasks:
 
 1. Kundalini Awakening Techniques:
