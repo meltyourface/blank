@@ -32,7 +32,7 @@ excerpt: >
 ---
 Interviewer: Greetings, esteemed goblin trader! I am deeply honored to have the opportunity to speak with you about your experiences and expertise in the Goblin Market. May I know your name and how long you have been in this line of trade?
 
-Goblin Trader: Ah, thank you for your kind words. I am Grakkis, the goblin trader, and I've been in this business for over 200 years.
+**Goblin Trader**: Ah, thank you for your kind words. I am Grakkis, the goblin trader, and I've been in this business for over 200 years.
 
 1. Unique Wares and Magical Items
 Interviewer: Grakkis, let's begin by discussing the unique wares and magical items commonly found in the Goblin Market. Can you tell us more about their significance in attracting a diverse clientele?

@@ -24,24 +24,24 @@ excerpt: Invent a comprehensive ritual for summoning and establishing telepathic
 
 **Objective**: To summon and establish telepathic communication with the ghostly entity known as Aethra.
 
-Ancient Symbology: Circles of Pneuma, Mark of Aethra, and the Sigil of Itharius.
+**Ancient Symbology**: Circles of Pneuma, Mark of Aethra, and the Sigil of Itharius.
 
-Esoteric Incantations: Atherasha Namora, Itharius Venethra, Pneumasol Kithari.
+**Esoteric Incantations**: Atherasha Namora, Itharius Venethra, Pneumasol Kithari.
 
-Otherworldly Artifacts: The Obsidian Chalice, Aethra's Lament, Itharius' Midnight Scroll.
+**Otherworldly Artifacts**: The Obsidian Chalice, Aethra's Lament, Itharius' Midnight Scroll.
 
 Optimal Conditions:
 
-1. ****Moon Phase****: Full moon, symbolizing heightened spiritual energy to aid the connection.
-2. ****Atmospheric Phenomena****: Aurora borealis, its electromagnetic nature resonates with the telepathic frequency of the spectral being.
-3. ****Location****: A secluded clearing within an ancient forest reputed for paranormal occurrences.
+1. **Moon Phase**: Full moon, symbolizing heightened spiritual energy to aid the connection.
+2. **Atmospheric Phenomena**: Aurora borealis, its electromagnetic nature resonates with the telepathic frequency of the spectral being.
+3. **Location**: A secluded clearing within an ancient forest reputed for paranormal occurrences.
 
 **Safeguards**:
 
-1. ****Protective circle****: Create a circle with a mix of salt and powdered amethyst to form a barrier against potential negative influences.
-2. ****Warding sigils****: Scribe additional warding sigils (e.g., Sigil of Itharius) around the area.
-3. ****Luminous barrier****: Light white or violet candles around the protective circle, representing purity and protection.
-4. ****Blessed amulet****: Wear a personally significant amulet that has been blessed or cleansed according to the practitioner's spiritual beliefs.
+1. **Protective circle**: Create a circle with a mix of salt and powdered amethyst to form a barrier against potential negative influences.
+2. **Warding sigils**: Scribe additional warding sigils (e.g., Sigil of Itharius) around the area.
+3. **Luminous barrier**: Light white or violet candles around the protective circle, representing purity and protection.
+4. **Blessed amulet**: Wear a personally significant amulet that has been blessed or cleansed according to the practitioner's spiritual beliefs.
 
 Ritual Instructions:
 

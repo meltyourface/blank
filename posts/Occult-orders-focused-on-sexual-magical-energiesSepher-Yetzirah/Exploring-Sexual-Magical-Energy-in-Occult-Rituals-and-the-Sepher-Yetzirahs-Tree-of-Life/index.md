@@ -26,16 +26,16 @@ The Sepher Yetzirah, Hebrew for "Book of Formation," is a foundational Kabbalist
 
 Each sephirah of the Tree of Life corresponds to different aspects of an individual’s experience and realms of existence. **In ascending order, they are**:
 
-1. ****Malkuth****: The Earth, the physical and material plane
-2. ****Yesod****: The Moon, representing emotions and desires
-3. ****Hod****: Mercury, representing intellect and communication
-4. ****Netzach****: Venus, symbolizing love and beauty
-5. ****Tiferet****: The Sun, signifying harmony and balance
-6. ****Gevurah****: Mars, representing strength and judgment
-7. ****Chesed****: Jupiter, embodying kindness and mercy
-8. ****Binah****: Saturn, the divine cosmic mother and understanding
-9. ****Chokmah****: Neptune, embodying wisdom and the divine masculine
-10. ****Keter****: The Crown, representing the unknowable essence of God.
+1. **Malkuth**: The Earth, the physical and material plane
+2. **Yesod**: The Moon, representing emotions and desires
+3. **Hod**: Mercury, representing intellect and communication
+4. **Netzach**: Venus, symbolizing love and beauty
+5. **Tiferet**: The Sun, signifying harmony and balance
+6. **Gevurah**: Mars, representing strength and judgment
+7. **Chesed**: Jupiter, embodying kindness and mercy
+8. **Binah**: Saturn, the divine cosmic mother and understanding
+9. **Chokmah**: Neptune, embodying wisdom and the divine masculine
+10. **Keter**: The Crown, representing the unknowable essence of God.
 
 The 22 pathways connecting these sephiroth are divided into three categories: three horizontal (relating to intellect), seven vertical (associated with emotions), and twelve diagonal channels (aligned with action).
 

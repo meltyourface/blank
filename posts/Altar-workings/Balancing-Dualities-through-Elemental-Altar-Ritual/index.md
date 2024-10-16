@@ -41,15 +41,15 @@ In the center of the altar, place a representation of the encompassing spirit or
 
 Process and Intended Outcomes:
 
-1. ****Preparatory work****: Before beginning, it's important for the initiate to engage in grounding and centering exercises, as well as the banishing of any unwanted energies or distractions. This sets the stage for a focused and harmonious ritual working.
+1. **Preparatory work**: Before beginning, it's important for the initiate to engage in grounding and centering exercises, as well as the banishing of any unwanted energies or distractions. This sets the stage for a focused and harmonious ritual working.
 
-2. ****Elemental invocations****: The initiate will invoke the energies of each of the elements in turn, starting from the East (Air) and proceeding clockwise around the altar, calling on the respective energies of Air, Fire, Water and Earth.
+2. **Elemental invocations**: The initiate will invoke the energies of each of the elements in turn, starting from the East (Air) and proceeding clockwise around the altar, calling on the respective energies of Air, Fire, Water and Earth.
 
-3. ****Harmonizing the dualities****: In this ritual, the initiate will focus on balancing the masculine and feminine energies within themselves and the greater universe, as well as understanding the interconnectedness of the microcosm (their thoughts, emotions, and actions) with the macrocosm (the larger patterns and forces in the cosmos).
+3. **Harmonizing the dualities**: In this ritual, the initiate will focus on balancing the masculine and feminine energies within themselves and the greater universe, as well as understanding the interconnectedness of the microcosm (their thoughts, emotions, and actions) with the macrocosm (the larger patterns and forces in the cosmos).
 
-4. ****Elemental balancing visualization****: The initiate will visualize each of the four elements merging together to form a complete whole, which in turn activates the central symbol or object of the spirit or divine energy. The balancing of the dualities and interconnectedness of all things is symbolically represented by the unified elemental energies.
+4. **Elemental balancing visualization**: The initiate will visualize each of the four elements merging together to form a complete whole, which in turn activates the central symbol or object of the spirit or divine energy. The balancing of the dualities and interconnectedness of all things is symbolically represented by the unified elemental energies.
 
-5. ****Closing the ritual****: Once the energies are integrated and the symbolism of the altar has been internalized by the initiate, they will thank and release each of the elemental energies before formally closing the ritual.
+5. **Closing the ritual**: Once the energies are integrated and the symbolism of the altar has been internalized by the initiate, they will thank and release each of the elemental energies before formally closing the ritual.
 
 Key Themes and Conclusions:
 

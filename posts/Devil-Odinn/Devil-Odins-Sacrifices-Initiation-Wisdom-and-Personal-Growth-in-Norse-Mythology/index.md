@@ -27,9 +27,9 @@ Devil Odinn, also known as Odin or Woden, is a prominent figure in Norse mytholo
 
 One of the essential narratives in the mythology surrounding Devil Odinn is his personal quest for wisdom and knowledge. **In this pursuit, he made several considerable sacrifices. Two significant examples of this are**:
 
-1. ****The Sacrifice of His Eye****: To acquire knowledge from the Well of Mimir, Devil Odinn had to sacrifice one of his eyes as a symbolic gesture of his unwavering desire to gain wisdom. This act exemplifies that true knowledge and understanding come at a cost and show devotion from the seeker.
+1. **The Sacrifice of His Eye**: To acquire knowledge from the Well of Mimir, Devil Odinn had to sacrifice one of his eyes as a symbolic gesture of his unwavering desire to gain wisdom. This act exemplifies that true knowledge and understanding come at a cost and show devotion from the seeker.
 
-2. ****Hanging from the World Tree****: Seeking out the knowledge of runes, the sacred alphabet, and the mysteries they contain, Devil Odinn hanged himself from Yggdrasil, the World Tree, for nine nights, pierced by his spear. This voluntary experience of suffering and near-death is seen as a symbolic rebirth through which he acquired the wisdom of the runes.
+2. **Hanging from the World Tree**: Seeking out the knowledge of runes, the sacred alphabet, and the mysteries they contain, Devil Odinn hanged himself from Yggdrasil, the World Tree, for nine nights, pierced by his spear. This voluntary experience of suffering and near-death is seen as a symbolic rebirth through which he acquired the wisdom of the runes.
 
 In both instances, Devil Odinn's personal sacrifices are representative of the process of self-sacrifice, struggle, and transformation often found in traditional occult initiation rites. Initiation is a critical aspect of various esoteric and occult orders and traditions, usually involving a series of tests, challenges, or ordeals that the aspirant must undertake to be considered a true initiate.
 

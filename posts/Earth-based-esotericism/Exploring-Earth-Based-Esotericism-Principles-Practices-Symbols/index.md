@@ -28,27 +28,27 @@ Earth-based esotericism is a system of occult knowledge and practices that draws
 
 ### I. Key Principles
 
-1. ****Elemental Earth****: Earth is one of the four classical elements - Earth, Air, Fire, and Water - that are believed to constitute the fundamental building blocks of the universe. In Earth-based esotericism, the Earth element signifies stability, growth, fertility, and matter.
+1. **Elemental Earth**: Earth is one of the four classical elements - Earth, Air, Fire, and Water - that are believed to constitute the fundamental building blocks of the universe. In Earth-based esotericism, the Earth element signifies stability, growth, fertility, and matter.
 
-2. ****As Above, So Below****: A central tenet in esoteric studies, this principle emphasizes the interconnectedness and correspondence between the different levels of reality. In Earth-based esoteric contexts, this suggests a deep connection between the energies of the Earth and the spiritual realm, as well as the microcosm (individual) and the macrocosm (the universe).
+2. **As Above, So Below**: A central tenet in esoteric studies, this principle emphasizes the interconnectedness and correspondence between the different levels of reality. In Earth-based esoteric contexts, this suggests a deep connection between the energies of the Earth and the spiritual realm, as well as the microcosm (individual) and the macrocosm (the universe).
 
-3. ****Materia Prima****: In alchemical thought, Materia Prima (or the 'first matter') is considered the original substance from which all things are created. This raw, undifferentiated material can be purified, transformed, and perfected through spiritual and esoteric practices. Earth-based esotericism recognizes the earth as a source of this fundamental substance and as such, views it as an essential driving force in spiritual alchemy.
+3. **Materia Prima**: In alchemical thought, Materia Prima (or the 'first matter') is considered the original substance from which all things are created. This raw, undifferentiated material can be purified, transformed, and perfected through spiritual and esoteric practices. Earth-based esotericism recognizes the earth as a source of this fundamental substance and as such, views it as an essential driving force in spiritual alchemy.
 
 ### II. Practices
 
-1. ****Geomancy****: A foundational practice in Earth-based esotericism, geomancy involves the study and interpretation of the land, its features, and energies through divination. From classical systems such as Arabic sand divination to modern approaches like ley line identification, geomancy is at the heart of many earth-based occult teachings.
+1. **Geomancy**: A foundational practice in Earth-based esotericism, geomancy involves the study and interpretation of the land, its features, and energies through divination. From classical systems such as Arabic sand divination to modern approaches like ley line identification, geomancy is at the heart of many earth-based occult teachings.
 
-2. ****Earth Magick****: Utilizing the energy, symbolism, and physical elements of Earth, Earth Magick focuses on grounding, healing, and manifestation work. This practice revolves around working with stones, crystals, herbs, and earth essences to raise and direct powerful Earth energies for both spiritual and mundane purposes.
+2. **Earth Magick**: Utilizing the energy, symbolism, and physical elements of Earth, Earth Magick focuses on grounding, healing, and manifestation work. This practice revolves around working with stones, crystals, herbs, and earth essences to raise and direct powerful Earth energies for both spiritual and mundane purposes.
 
-3. ****Earth Connection****: Attuning oneself with Earth energies is critical in Earth-based esoteric practice. This connection can be achieved through meditation, visualization, physical contact with the land, and by observing Earth-based cycles and events, such as the seasons and lunar phases.
+3. **Earth Connection**: Attuning oneself with Earth energies is critical in Earth-based esoteric practice. This connection can be achieved through meditation, visualization, physical contact with the land, and by observing Earth-based cycles and events, such as the seasons and lunar phases.
 
 ### III. Symbolism
 
-1. ****The Pentacle****: A widely-used symbol in Earth-based esotericism, the pentacle is a five-pointed star within a circle, representing the interconnectedness and unity of the four elements (Earth, Air, Fire, and Water) with the spirit (the fifth point). The pentacle is often used as a talisman to represent and harness Earth energies.
+1. **The Pentacle**: A widely-used symbol in Earth-based esotericism, the pentacle is a five-pointed star within a circle, representing the interconnectedness and unity of the four elements (Earth, Air, Fire, and Water) with the spirit (the fifth point). The pentacle is often used as a talisman to represent and harness Earth energies.
 
-2. ****The Tree of Life****: Common across various esoteric traditions, the Tree of Life embodies growth, strength, knowledge, and connection between the Earth below and the heavens above. As a potent symbol of Earth energies, the Tree of Life manifests in various forms, such as the Celtic Tree of Life or the Kabbalistic Sephiroth, emphasizing the essential role of the Earth in spiritual sustenance and enlightenment.
+2. **The Tree of Life**: Common across various esoteric traditions, the Tree of Life embodies growth, strength, knowledge, and connection between the Earth below and the heavens above. As a potent symbol of Earth energies, the Tree of Life manifests in various forms, such as the Celtic Tree of Life or the Kabbalistic Sephiroth, emphasizing the essential role of the Earth in spiritual sustenance and enlightenment.
 
-3. ****The Serpent****: Adopted from mythology, ancient cultures, and religious texts, the serpent symbolizes wisdom, rebirth, and transformation. In Earth-based esotericism, this creature is often invoked as an emblem of the inherent cyclical nature of life, reconciling the polarities of life and death, creation and destruction, through its perpetual shedding of skin.
+3. **The Serpent**: Adopted from mythology, ancient cultures, and religious texts, the serpent symbolizes wisdom, rebirth, and transformation. In Earth-based esotericism, this creature is often invoked as an emblem of the inherent cyclical nature of life, reconciling the polarities of life and death, creation and destruction, through its perpetual shedding of skin.
 
 Conclusion
 

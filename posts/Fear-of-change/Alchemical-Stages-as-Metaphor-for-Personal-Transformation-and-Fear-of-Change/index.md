@@ -23,21 +23,21 @@ To symbolically evoke the process of transformation through the alchemical stage
 
 1. The Essence of Alchemical Stages and Their Ties to the Human Experience
 
-i. ****Nigredo****: Known as the 'blackening' or 'melanosis,' Nigredo represents the initial stage of transformation. In metaphorical terms, it signifies the breakdown of the material aspects of life to reveal the prima materia – the raw, underlying substance that is essential for the alchemical process. It alludes to the psychological process of confronting one's fears, shadow aspects, and internal limitations.
+i. **Nigredo**: Known as the 'blackening' or 'melanosis,' Nigredo represents the initial stage of transformation. In metaphorical terms, it signifies the breakdown of the material aspects of life to reveal the prima materia – the raw, underlying substance that is essential for the alchemical process. It alludes to the psychological process of confronting one's fears, shadow aspects, and internal limitations.
 
-ii. ****Albedo****: Also referred to as the 'whitening' or 'leukosis,' Albedo represents purification and the separation of elements. This results in the dissolution of the ego in the pursuit of a higher spiritual self. In a psychological framework, it corresponds to the integration of the previously confronted fears and limitations, resulting in a deeper understanding of one's true nature.
+ii. **Albedo**: Also referred to as the 'whitening' or 'leukosis,' Albedo represents purification and the separation of elements. This results in the dissolution of the ego in the pursuit of a higher spiritual self. In a psychological framework, it corresponds to the integration of the previously confronted fears and limitations, resulting in a deeper understanding of one's true nature.
 
-iii. ****Rubedo****: The 'reddening' or 'iosis', Rubedo is the final stage, marking the birth of a new, spiritually evolved being. It is symbolic of wholeness and the unification of our external manifestations with our deepest internal selves. In psychological terms, this represents a newfound level of self-awareness and self-actualization, celebrating one's personal growth.
+iii. **Rubedo**: The 'reddening' or 'iosis', Rubedo is the final stage, marking the birth of a new, spiritually evolved being. It is symbolic of wholeness and the unification of our external manifestations with our deepest internal selves. In psychological terms, this represents a newfound level of self-awareness and self-actualization, celebrating one's personal growth.
 
 2. Fear of Change and the Alchemical Stages
 
 Fear of change directly influences the alchemical stages, as distancing oneself from familiarity can be daunting, yet crucial to personal and spiritual growth.
 
-i. ****Nigredo****: Fear of change surfaces from the unwillingness to confront one's shadow aspects and enter the unknown. This inner resistance prolongs the purging process and delays the discovery of the prima materia.
+i. **Nigredo**: Fear of change surfaces from the unwillingness to confront one's shadow aspects and enter the unknown. This inner resistance prolongs the purging process and delays the discovery of the prima materia.
 
-ii. ****Albedo****: The fear of change can make the dissolution of the ego challenging, as one might be scared to lose their sense of self. Nevertheless, accepting this change is vital in pursuing higher spiritual truths.
+ii. **Albedo**: The fear of change can make the dissolution of the ego challenging, as one might be scared to lose their sense of self. Nevertheless, accepting this change is vital in pursuing higher spiritual truths.
 
-iii. ****Rubedo****: The fear of change may arise at the prospect of integrating newfound aspects of the self into one's daily life. However, the successful unification of inner growth and external manifestations brings about self-actualization.
+iii. **Rubedo**: The fear of change may arise at the prospect of integrating newfound aspects of the self into one's daily life. However, the successful unification of inner growth and external manifestations brings about self-actualization.
 
 3. Symbolic Narrative
 

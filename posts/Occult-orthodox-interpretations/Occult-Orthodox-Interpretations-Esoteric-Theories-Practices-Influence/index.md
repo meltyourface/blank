@@ -26,7 +26,7 @@ excerpt: Please provide a brief overview on occult orthodox interpretations, inc
 
 ### 1.1 Overview
 
-Occult orthodox interpretations encompass a diverse and vast range of theories, beliefs, and practices that have emerged and evolved throughout human history. ****These interpretations center around the study of hidden knowledge, secret wisdom, and mystical experiences. The aim is to understand the unseen forces that govern the universe, and how one can harness these powers to achieve spiritual enlightenment or personal development. Occult orthodox interpretations are generally composed of three primary components****: theoretical framework, practical application, and historical context.
+Occult orthodox interpretations encompass a diverse and vast range of theories, beliefs, and practices that have emerged and evolved throughout human history. **These interpretations center around the study of hidden knowledge, secret wisdom, and mystical experiences. The aim is to understand the unseen forces that govern the universe, and how one can harness these powers to achieve spiritual enlightenment or personal development. Occult orthodox interpretations are generally composed of three primary components**: theoretical framework, practical application, and historical context.
 
 ### 1.2 Main Theories and Beliefs
 
@@ -72,10 +72,10 @@ Today, occult orthodox interpretations continue to shape modern esoteric thought
 
 **Activities**:
 
-1. ****Lecture****: Provide an overview of the Tree of Life, its purpose, and its components (the Sephiroth and the paths). Discuss the relationship between the Tree of Life and the Hebrew alphabet, as well as the Four Worlds and their correspondence to the four elements.
-2. ****Visualization exercise****: Lead the initiate in a guided meditation to visualize the Tree of Life, with focus on each Sephira and its associated colors, symbols, and divine energies.
-3. ****Pathworking****: Introduce Pathworking as a method of personal exploration of the Tree of Life, using symbols, meditation, and ritual to access higher levels of consciousness.
-4. ****Group discussion and reflection****: Encourage the initiate to share insights, experiences, and questions related to the Tree of Life and its role in their spiritual journey.
+1. **Lecture**: Provide an overview of the Tree of Life, its purpose, and its components (the Sephiroth and the paths). Discuss the relationship between the Tree of Life and the Hebrew alphabet, as well as the Four Worlds and their correspondence to the four elements.
+2. **Visualization exercise**: Lead the initiate in a guided meditation to visualize the Tree of Life, with focus on each Sephira and its associated colors, symbols, and divine energies.
+3. **Pathworking**: Introduce Pathworking as a method of personal exploration of the Tree of Life, using symbols, meditation, and ritual to access higher levels of consciousness.
+4. **Group discussion and reflection**: Encourage the initiate to share insights, experiences, and questions related to the Tree of Life and its role in their spiritual journey.
 
 Conclusion
 

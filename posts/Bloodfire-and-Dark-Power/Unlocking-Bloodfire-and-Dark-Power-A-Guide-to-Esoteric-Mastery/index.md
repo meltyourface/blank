@@ -36,7 +36,7 @@ Bloodfire, as implied by the name, is a vital, energetic force intimately connec
 
 Dark Power, on the other hand, is a transformative and subversive energy that originates from the darker aspects of the cosmos. This mysterious force may be channeled from the void between the stars or the deep, hidden places within the earth's crust.
 
-Getting Started: Harnessing Bloodfire and Dark Power
+**Getting Started**: Harnessing Bloodfire and Dark Power
 
 One of the prerequisite skills for harnessing Bloodfire and Dark Power is a focused mind, with strong intent and a dedicated will. Practitioners are encouraged to engage in regular meditation practice and maintain a healthy lifestyle to improve their ability to tap into their inner reserves of vitality.
 

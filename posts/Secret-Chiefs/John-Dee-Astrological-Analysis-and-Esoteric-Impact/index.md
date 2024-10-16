@@ -36,11 +36,11 @@ Ascendant - Scorpio: Dee's Scorpio Ascendant suggests a determination to uncover
 
 Planetary Alignments and Significant Celestial Events:
 
-Saturn Conjunct Pluto in Capricorn: The conjunction of these planets in Capricorn denotes an innate understanding of the structures and systems governing the material and spiritual worlds. It enabled him to delve into the mystical arts with precision, determination, and discipline.
+**Saturn Conjunct Pluto in Capricorn**: The conjunction of these planets in Capricorn denotes an innate understanding of the structures and systems governing the material and spiritual worlds. It enabled him to delve into the mystical arts with precision, determination, and discipline.
 
-Mars in Aquarius: Dee's Mars in Aquarius signifies his innovative spirit and his ability to think beyond conventional boundaries. This placement inspired him to develop new methodologies and challenge the norms of his time, propelling his work into uncharted territories.
+**Mars in Aquarius**: Dee's Mars in Aquarius signifies his innovative spirit and his ability to think beyond conventional boundaries. This placement inspired him to develop new methodologies and challenge the norms of his time, propelling his work into uncharted territories.
 
-Venus Square Neptune: This aspect in his chart represents his affinity for aesthetic beauty and the ethereal, otherworldly dimensions of reality, often manifesting in his detailed, intricate works. It imbued Dee with a passion for finding harmony among the material and spiritual.
+**Venus Square Neptune**: This aspect in his chart represents his affinity for aesthetic beauty and the ethereal, otherworldly dimensions of reality, often manifesting in his detailed, intricate works. It imbued Dee with a passion for finding harmony among the material and spiritual.
 
 Great Conjunction of Jupiter and Saturn (1583): This significant celestial event occurred during Dee's period of extensive work on Enochian Magick, signifying a powerful alignment of expansion (Jupiter) and discipline (Saturn). The Great Conjunction is thought to have fuelled his monumental breakthroughs in the realms of angelic communication.
 

@@ -29,9 +29,9 @@ Alchemy, the precursor to modern chemistry and protoscience, has captivated the 
 
 ### I. The Philosopher's Stone Recipe
 
-Historical Origins: The Philosopher's Stone is perhaps the most famous alchemical recipe and a symbolic representation of the Magnum Opus, the great work of spiritual and elemental transformation. The quest for the Philosopher's Stone dates back to the Hellenistic period in Greece and has connections to ancient Egyptian, Indian, and Islamic alchemical traditions.
+**Historical Origins**: The Philosopher's Stone is perhaps the most famous alchemical recipe and a symbolic representation of the Magnum Opus, the great work of spiritual and elemental transformation. The quest for the Philosopher's Stone dates back to the Hellenistic period in Greece and has connections to ancient Egyptian, Indian, and Islamic alchemical traditions.
 
-Key Ingredients: While the actual composition of the Philosopher's Stone was a closely guarded secret, many texts allude to the use of multiple substances in the transmutation process. General ingredients include lunar and solar aspects, which respectively correlate to the metals lead and gold, as well as red and white compounds called tinctures.
+**Key Ingredients**: While the actual composition of the Philosopher's Stone was a closely guarded secret, many texts allude to the use of multiple substances in the transmutation process. General ingredients include lunar and solar aspects, which respectively correlate to the metals lead and gold, as well as red and white compounds called tinctures.
 
 **Significance**: The Philosopher's Stone is the ultimate goal of alchemists, as it is believed to grant the ability to transmute base metals into gold and produce the Elixir of Life, granting longevity and even immortality. This recipe signifies a deep understanding of the spiritual and physical realms, embodying the unity of opposites and the alchemical axiom "As above, so below."
 
@@ -39,9 +39,9 @@ Key Ingredients: While the actual composition of the Philosopher's Stone was a c
 
 ### II. Azogue (Mercury) Purification Recipe
 
-Historical Origins: Mercury's role in alchemy can be traced back to Egyptian, Greek, and Chinese traditions. It was considered one of the "Three Primes" (Sulfur, Salt, and Mercury) and a crucial component in the search for the Philosopher's Stone.
+**Historical Origins**: Mercury's role in alchemy can be traced back to Egyptian, Greek, and Chinese traditions. It was considered one of the "Three Primes" (Sulfur, Salt, and Mercury) and a crucial component in the search for the Philosopher's Stone.
 
-Key Ingredients: The main ingredient in this recipe is cinnabar, a naturally occurring mineral composed of mercury sulfide. By heating and condensing it through processes called sublimation and precipitation, alchemists could extract purified mercury.
+**Key Ingredients**: The main ingredient in this recipe is cinnabar, a naturally occurring mineral composed of mercury sulfide. By heating and condensing it through processes called sublimation and precipitation, alchemists could extract purified mercury.
 
 **Significance**: Mercury, known as quicksilver, plays a unique role in alchemy as both a substance and a symbol. Its fluid and transformative properties make it an important ingredient in many alchemical endeavors. In a mystical sense, it represents the primordial chaos from which life emerges, the mind, and the spirit.
 
@@ -49,9 +49,9 @@ Key Ingredients: The main ingredient in this recipe is cinnabar, a naturally occ
 
 ### III. Stephan’s Quintessence Recipe
 
-Historical Origins: Stephan's Quintessence, derived from the Latin word "quinta essentia" meaning "fifth essence," was developed by Jean de Roquetaillade, a French alchemist and cleric of the 14th century.
+**Historical Origins**: Stephan's Quintessence, derived from the Latin word "quinta essentia" meaning "fifth essence," was developed by Jean de Roquetaillade, a French alchemist and cleric of the 14th century.
 
-Key Ingredients: The primary material for acquiring Stephan's Quintessence is wine, specifically its distilled components. The process entails multiple rounds of distillation and purification to yield a potent elixir, long thought to have exceptional medicinal and mystical properties.
+**Key Ingredients**: The primary material for acquiring Stephan's Quintessence is wine, specifically its distilled components. The process entails multiple rounds of distillation and purification to yield a potent elixir, long thought to have exceptional medicinal and mystical properties.
 
 **Significance**: Beyond the four fundamental elements of earth, air, fire, and water, Stephan's Quintessence suggests the existence of an ethereal fifth element capable of imbuing substances with remarkable curative powers. The recipe also symbolizes the spiritual realm and the divine essence permeating the cosmos.
 

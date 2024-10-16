@@ -28,7 +28,7 @@ excerpt: Organize an intricate Portent lunar ritual, designed specifically to ha
 
 **Location**: A secluded outdoor space with a clear view of the Full Moon
 
-Materials required: 
+**Materials required**: 
 1. A silver chalice filled with moon-charged water
 2. A white or silver altar cloth 
 3. A circular or crescent moon-shaped ritual knife (athame)

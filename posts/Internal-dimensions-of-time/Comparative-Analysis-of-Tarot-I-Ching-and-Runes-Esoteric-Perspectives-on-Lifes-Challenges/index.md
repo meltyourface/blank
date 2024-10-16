@@ -24,7 +24,7 @@ To embark on this exploration and analysis, we will first look at the three divi
 
 **Tarot**: A divination system utilizing a deck of 78 cards, comprising 22 Major Arcana cards embodying archetypal energies and 56 Minor Arcana cards representing life aspects. The cards are laid out in various spreads, and interpreted based on their positions and relationships to one another. Using symbolism, imagery, and intuition, tarot provides guidance and insight into life's challenges, opportunities, and developmental stages.
 
-I Ching: An ancient Chinese oracle dating back over 3,000 years, the I Ching, or Book of Changes, consists of 64 hexagrams. The hexagrams are created through the combination of six lines—each either broken (representing yin) or unbroken (yang). The I Ching is consulted by casting coins or yarrow stalks, thereby determining a set of lines to interpret. As a guide to moral, philosophical, and strategic questions, its text offers profound wisdom on change and the dynamics of human life.
+**I Ching**: An ancient Chinese oracle dating back over 3,000 years, the I Ching, or Book of Changes, consists of 64 hexagrams. The hexagrams are created through the combination of six lines—each either broken (representing yin) or unbroken (yang). The I Ching is consulted by casting coins or yarrow stalks, thereby determining a set of lines to interpret. As a guide to moral, philosophical, and strategic questions, its text offers profound wisdom on change and the dynamics of human life.
 
 **Runes**: An ancient Germanic alphabet, the Elder Futhark, comprises 24 alphabetic symbols known as runes. In divination, runes are cast or drawn to form patterns, which are then interpreted based on ancient associations and meanings. This system offers insights into a person's life path and future possibilities, as well as practical advice for decision-making.
 
@@ -36,7 +36,7 @@ Symbolic and Cultural Significance:
 
 **Tarot**: Initially used for game-playing in medieval Europe, the symbolism embedded in tarot cards is drawn from alchemy, astrology, mythology, Kabbalah, and Christian mysticism. Tarot's broad array of influences makes it a rich and complex system, reflecting the human experience across time and culture.
 
-I Ching: Steeped in ancient Chinese philosophy, the I Ching's symbolism and wisdom lie in its foundational principles of Taoism, Confucianism, and Yin-Yang theory. The I Ching offers an Eastern perspective on change, balance, and interconnectivity, recognizing the cyclical nature of time and the universe.
+**I Ching**: Steeped in ancient Chinese philosophy, the I Ching's symbolism and wisdom lie in its foundational principles of Taoism, Confucianism, and Yin-Yang theory. The I Ching offers an Eastern perspective on change, balance, and interconnectivity, recognizing the cyclical nature of time and the universe.
 
 **Runes**: Hailing from Norse mythology, each rune encompasses a myriad of meanings rooted in ancient Germanic culture. The runes serve as a link to the ancestral past and provide wisdom and insights derived from the mythology, sagas, and history of the Viking Age.
 

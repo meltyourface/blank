@@ -22,11 +22,11 @@ excerpt: Design a comprehensive and elaborate ritual for invoking the presence a
 
 ## Ritual of the Infernal Awakening
 
-Objective: To invoke the presence and energy of The Beast 666
+**Objective**: To invoke the presence and energy of The Beast 666
 **Step 1**: Preparing the Sacred Space
 Choose a secluded location (indoors or outdoors) with ample space and minimal distractions to perform the ritual. Cleanse the area using sage, incense, or saltwater (depending on personal preference) to banish any lingering energies. Create a circle (9 feet in diameter) using a combination of chalk, salt, or ash. Within this circle, draw a hexagram, followed by the Symbol of the Beast (A combination of letters derived from Greek and Hebrew alphabets) in the center. Each point of the hexagram should be adorned with a black candle, and one larger black or red candle should be placed at the northern point, representing the main focus of the ritual.
 **Step 2**: Preparing the Ritual Tools
-Essential ritual tools should be cleansed and consecrated according to personal tradition, which may include the use of incense, candlelight, or anointing oils. ****Required tools include****: 
+Essential ritual tools should be cleansed and consecrated according to personal tradition, which may include the use of incense, candlelight, or anointing oils. **Required tools include**: 
 - A ritual blade or athame (for directing energy)
 - A chalice (for holding a liquid offering)
 - A sigil of The Beast 666 (drawn on parchment or etched into metal)
@@ -75,4 +75,4 @@ Potential Outcomes:
 - Gained knowledge from communion with The Beast 666
 - Manifestation of the assistance or energy requested during the ritual
 
-Disclaimer: This ritual is purely for fictional purposes and should not be performed in real life. Engaging in such occult practices may have unintended consequences, and it is advised to refrain from attempting them.
+**Disclaimer**: This ritual is purely for fictional purposes and should not be performed in real life. Engaging in such occult practices may have unintended consequences, and it is advised to refrain from attempting them.

@@ -22,7 +22,7 @@ excerpt: >
 ---
 For the purpose of this task, I will analyze and decode a sample visual symbol within the framework of Hermeticism, a philosophical and esoteric tradition rooted in Greco-Roman Egypt that seeks to understand the connections between the cosmos, the supernatural, and the human realms.
 
-Visual Symbol: A sigil composed of a circle enclosing a square, with an upward-pointing triangle inscribed in the square and a smaller downward-pointing triangle inscribed in the upward-pointing triangle. A series of lines emanate outward from the circumference, creating a star-like pattern around the circle.
+**Visual Symbol**: A sigil composed of a circle enclosing a square, with an upward-pointing triangle inscribed in the square and a smaller downward-pointing triangle inscribed in the upward-pointing triangle. A series of lines emanate outward from the circumference, creating a star-like pattern around the circle.
 
 Individual Components:
 1. **Circle**: The circle, being the most basic geometric shape with no beginning and no end, is symbolic of eternity, wholeness, and unity. It is present in multiple esoteric traditions across history and cultures. In Hermeticism, the circle represents both the divine and the eternal nature of existence.

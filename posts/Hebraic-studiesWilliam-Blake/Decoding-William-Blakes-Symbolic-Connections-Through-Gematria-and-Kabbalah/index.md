@@ -29,7 +29,7 @@ To start, we can examine Blake's work "Jerusalem," his most ambitious work in wh
 
 Consider the name Jerusalem itself. It consists of the Hebrew letters ירושלים (Yud, Resh, Vav, Shin, Lamed, Yud, Mem), which have numerical values of 10, 200, 6, 300, 30, 10 and 40, respectively. When these values are added together, the sum is 596. This number can be used to draw connections with other words and phrases of significance, either within the poem or biblical texts.
 
-One such connection can be made with a biblical figure: Melchizedek. In Genesis, Melchizedek is the king of Salem and a high priest, who blesses Abraham and receives a tithe from him. The numerical value of his name, מלכי־צדק (Mem, Lamed, Kaf, Yud, Tsadi, Dalet, Qof), adds up to 596, the same as Jerusalem in gematria.
+**One such connection can be made with a biblical figure**: Melchizedek. In Genesis, Melchizedek is the king of Salem and a high priest, who blesses Abraham and receives a tithe from him. The numerical value of his name, מלכי־צדק (Mem, Lamed, Kaf, Yud, Tsadi, Dalet, Qof), adds up to 596, the same as Jerusalem in gematria.
 
 This correspondence suggests a possible interpretation that Blake perceived Melchizedek as a spiritual precursor to his vision of Jerusalem—a city of peace and universal brotherhood. Both the poem "Jerusalem" and the biblical figure of Melchizedek are, in a sense, embodiments of this spiritual ideal of unity.
 

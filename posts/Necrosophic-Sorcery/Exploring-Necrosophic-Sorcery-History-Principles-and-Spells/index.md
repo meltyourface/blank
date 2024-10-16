@@ -40,22 +40,22 @@ These ancient civilizations laid the groundwork for the development of Necrosoph
 
 ### II. Key Concepts and Principles
 
-1. ****The Veil of Death****: A metaphorical barrier that separates the living from the dead, the Veil of Death is both a threshold and a link that connects the worlds. By crossing this veil, a practitioner can gain access to the spirits and forces that govern life, death, and the afterlife.
+1. **The Veil of Death**: A metaphorical barrier that separates the living from the dead, the Veil of Death is both a threshold and a link that connects the worlds. By crossing this veil, a practitioner can gain access to the spirits and forces that govern life, death, and the afterlife.
 
-2. ****Gravemind****: The Gravemind is a core concept that encompasses the collective wisdom of the deceased, a reservoir of immense knowledge that a practitioner of Necrosophic Sorcery can tap into for guidance, inspiration, and power.
+2. **Gravemind**: The Gravemind is a core concept that encompasses the collective wisdom of the deceased, a reservoir of immense knowledge that a practitioner of Necrosophic Sorcery can tap into for guidance, inspiration, and power.
 
-3. ****Soul Resonance****: This refers to the interaction between practitioners and spirits that occurs on a deep and subtle level. By attuning their spiritual frequencies, Necrosophic Sorcerers can establish a strong, harmonious connection with the deceased.
+3. **Soul Resonance**: This refers to the interaction between practitioners and spirits that occurs on a deep and subtle level. By attuning their spiritual frequencies, Necrosophic Sorcerers can establish a strong, harmonious connection with the deceased.
 
-4. ****The Law of Sympathy****: The Law of Sympathy emphasizes the interconnectedness of all things in the universe. Practitioners can use personal items, remnants, and symbols of deceased individuals to form a closer link to the spirits, thus maximizing their influence and control.
+4. **The Law of Sympathy**: The Law of Sympathy emphasizes the interconnectedness of all things in the universe. Practitioners can use personal items, remnants, and symbols of deceased individuals to form a closer link to the spirits, thus maximizing their influence and control.
 
 ### III. Foundational Spells and Techniques
 
-1. ****Necromantic Divination****: A method of divination that involves seeking specific knowledge or answers from the spirits. Close your eyes, visualize the person you wish to connect with, and mentally state your question. Remain open and receptive to any messages or signs that may emerge in the following days.
+1. **Necromantic Divination**: A method of divination that involves seeking specific knowledge or answers from the spirits. Close your eyes, visualize the person you wish to connect with, and mentally state your question. Remain open and receptive to any messages or signs that may emerge in the following days.
 
-2. ****Spirit Summoning****: A ritual used to call forth the spirits of the dead, either for guidance or assistance in magical workings. Light a candle, surround it with items and symbols representing the deceased, and meditate on their essence. With a clear and focused intent, chant the name of the spirit and invite them into your space.
+2. **Spirit Summoning**: A ritual used to call forth the spirits of the dead, either for guidance or assistance in magical workings. Light a candle, surround it with items and symbols representing the deceased, and meditate on their essence. With a clear and focused intent, chant the name of the spirit and invite them into your space.
 
-3. ****Ectoplasm Manipulation****: The ability to mold and shape ectoplasm, the subtle spiritual substance that composes a spirit's form. Practitioners can use this method to give physical manifestations to spirits, facilitate communication, or grant protection from negative energies.
+3. **Ectoplasm Manipulation**: The ability to mold and shape ectoplasm, the subtle spiritual substance that composes a spirit's form. Practitioners can use this method to give physical manifestations to spirits, facilitate communication, or grant protection from negative energies.
 
-4. ****Soul Anchoring****: This technique involves tethering a spirit to a specific object or location in order to create a stronger connection with the living realm. Prepare a ritual by placing the object within a circle of salt, linking it to the spirit through visualization and incantations, and charging it with your energy.
+4. **Soul Anchoring**: This technique involves tethering a spirit to a specific object or location in order to create a stronger connection with the living realm. Prepare a ritual by placing the object within a circle of salt, linking it to the spirit through visualization and incantations, and charging it with your energy.
 
 By understanding the history, principles, and foundational practices of Necrosophic Sorcery, an initiate can embark on their journey towards mastering this ancient, powerful craft. Always remember the importance of knowledge, respect, and discernment when working with the mysteries of the spirit world, and you will undoubtedly reap the rewards of your dedication.

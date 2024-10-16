@@ -26,34 +26,34 @@ The Pantheon of tricksters encompasses a wide range of mythological figures who 
 
 ### Section 1.1: Prominent Trickster Figures
 
-Loki: Loki, a prominent figure in Norse mythology, is known as the god of mischief and deception. Conceived by two Frost Giant parents, Loki's transformative, unpredictable nature sets him apart from the other Norse gods. Despite his familial ties with the Æsir gods like Odin and Thor, he remains an outsider, owing to his duplicitous character.
+**Loki**: Loki, a prominent figure in Norse mythology, is known as the god of mischief and deception. Conceived by two Frost Giant parents, Loki's transformative, unpredictable nature sets him apart from the other Norse gods. Despite his familial ties with the Æsir gods like Odin and Thor, he remains an outsider, owing to his duplicitous character.
 
-Coyote: Prominent in various Native American mythologies, the Coyote frequently appears as a shape-shifting, clever, and cunning being. Like many trickster archetypes, Coyote figures often employ their skills to help humanity, but also double-cross or deceive them for their amusement.
+**Coyote**: Prominent in various Native American mythologies, the Coyote frequently appears as a shape-shifting, clever, and cunning being. Like many trickster archetypes, Coyote figures often employ their skills to help humanity, but also double-cross or deceive them for their amusement.
 
-Eshu: As an Orisha from the Yoruba Pantheon, Eshu serves as both a messenger and divine trickster. As the deity residing at the crossroads, Eshu is believed to be a moral arbitrator and distributor of fortune, symbolizing a balance between order and chaos.
+**Eshu**: As an Orisha from the Yoruba Pantheon, Eshu serves as both a messenger and divine trickster. As the deity residing at the crossroads, Eshu is believed to be a moral arbitrator and distributor of fortune, symbolizing a balance between order and chaos.
 
 ### Section 1.2: Powers of Tricksters
 
 Shape-Shifting: The ability to change one's appearance plays a central role in the mythology of many trickster figures. Shape-shifting typically enables characters to deceive, confuse, or manipulate others.
 
-Intellect and Wit: Tricksters frequently rely on their intellectual prowess and quick wit to outmaneuver and confuse opponents. Mental agility, rather than physical strength, is the primary weapon in their arsenals.
+**Intellect and Wit**: Tricksters frequently rely on their intellectual prowess and quick wit to outmaneuver and confuse opponents. Mental agility, rather than physical strength, is the primary weapon in their arsenals.
 
-Manipulation and Persuasion: These characters are skilled at manipulating situations to their advantage and can often draw others into their web of deceit.
+**Manipulation and Persuasion**: These characters are skilled at manipulating situations to their advantage and can often draw others into their web of deceit.
 
 ### Section 1.3: Invoking and Honoring Trickster Figures
 
-Rituals: Each trickster Figure has a specific set of rituals often steeped in cultural traditions. For instance, Eshu rituals may require offerings of fruits, candles, and other symbolic gestures, while a Loki-focused ritual may involve uniquely Nordic symbolism.
+**Rituals**: Each trickster Figure has a specific set of rituals often steeped in cultural traditions. For instance, Eshu rituals may require offerings of fruits, candles, and other symbolic gestures, while a Loki-focused ritual may involve uniquely Nordic symbolism.
 
-Study and Reflection: Acknowledging and understanding the teachings of these deities is an integral part of invoking their essence. By studying their stories and learning about their motives, initiates can more effectively harness their energies.
+**Study and Reflection**: Acknowledging and understanding the teachings of these deities is an integral part of invoking their essence. By studying their stories and learning about their motives, initiates can more effectively harness their energies.
 
-Representation and Respect: During invocation or honoring, the initiate must display respect for the figures they invoke, duly recognizing their power and the potential consequences of their fickle nature.
+**Representation and Respect**: During invocation or honoring, the initiate must display respect for the figures they invoke, duly recognizing their power and the potential consequences of their fickle nature.
 
 ### Section 1.4: Deciphering the Wisdom within Trickster Behavior
 
-Hidden Meaning: Initiates must critically analyze the actions of these enigmatic figures in order to identify valuable lessons concealed by their deceptive behavior. Sudden shifts in fortune and unexpected reversals often emphasize the value of flexibility and adaptability.
+**Hidden Meaning**: Initiates must critically analyze the actions of these enigmatic figures in order to identify valuable lessons concealed by their deceptive behavior. Sudden shifts in fortune and unexpected reversals often emphasize the value of flexibility and adaptability.
 
-Challenging Authority: Tricksters' propensity for challenging authority also serves a vital educational role, encouraging free-thinking and skepticism, which are crucial ingredients for esoteric and magical knowledge.
+**Challenging Authority**: Tricksters' propensity for challenging authority also serves a vital educational role, encouraging free-thinking and skepticism, which are crucial ingredients for esoteric and magical knowledge.
 
-Moral Ambiguity: The ambivalent moral compass of trickster figures holds a mirror to the inherent complexities of human nature, reminding initiates to assess the motives and consequences of their actions while navigating the often murky waters of occult wisdom.
+**Moral Ambiguity**: The ambivalent moral compass of trickster figures holds a mirror to the inherent complexities of human nature, reminding initiates to assess the motives and consequences of their actions while navigating the often murky waters of occult wisdom.
 
 In conclusion, the Pantheon of tricksters is a rich and varied assembly of influential figures that initiate profound reflections on morality, wisdom, and the nature of power. By acknowledging and honoring their paradoxical roles, students can glean invaluable insights into the nuances of occult practice, recognizing that beyond the world of appearances lies deeper, hidden knowledge.

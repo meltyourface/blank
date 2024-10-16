@@ -51,10 +51,10 @@ To aid in transcription, students should:
 
 True comprehension of a transliterated liturgical composition goes beyond the ability to transcribe and must extend into the realm of spiritual, philosophical, and energetic understanding. As such, students should approach the study of these texts with an open heart and a willingness to engage with the text's transformative potential. This may involve deep reading, meditation, or ritual enactment to connect with the composition's core essence.
 
-### VI. ****Example of a Transliterated Liturgical Composition****: The Emerald Tablet
+### VI. **Example of a Transliterated Liturgical Composition**: The Emerald Tablet
 
 The Emerald Tablet, attributed to the legendary figure of Hermes Trismegistus, is a prime example of a transliterated liturgical composition. Its influence spans multiple esoteric traditions, including alchemy, Western occultism, and Hermeticism. Its concise text is densely packed with symbolism and allegory, serving as a touchstone for the central tenets of these traditions.
 
-The core message of the Emerald Tablet can be summarized by the famous axiom: "As above, so below; as below, so above." This principle teaches that the macrocosm of the universe is reflected within the microcosm of the individual and that by understanding the laws and forces of the cosmos, one can gain mastery over oneself and the material world.
+**The core message of the Emerald Tablet can be summarized by the famous axiom**: "As above, so below; as below, so above." This principle teaches that the macrocosm of the universe is reflected within the microcosm of the individual and that by understanding the laws and forces of the cosmos, one can gain mastery over oneself and the material world.
 
 By engaging with the Emerald Tablet and other transliterated liturgical compositions, students of the occult can forge a personal connection to the timeless wisdom and transformative energies that these texts embody, unlocking their full potential and accelerating their spiritual growth.

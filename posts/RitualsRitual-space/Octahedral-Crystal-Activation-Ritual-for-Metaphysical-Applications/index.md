@@ -23,7 +23,7 @@ excerpt: >
 
 ## The Octahedral Activation Ritual
 
-Purpose: To purify and energetically activate a variety of crystals for metaphysical applications.
+**Purpose**: To purify and energetically activate a variety of crystals for metaphysical applications.
 
 Materials:
 1. Various crystals of choice

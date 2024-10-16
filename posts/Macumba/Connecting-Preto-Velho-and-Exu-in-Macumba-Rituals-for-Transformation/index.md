@@ -31,17 +31,17 @@ Exus are a type of spirit entity that serve as the gatekeepers and messengers be
 Interconnection and Ritual Application:
 To effectively manifest a desired outcome using both Preto Velho and Exus, a practitioner must create a ritual that honors and incorporates the attributes of both entities while taking into consideration the necessary offerings and precautions.
 
-1. ****Set the intention****: The practitioner must begin by establishing a clear intention for the ritual and what they wish to manifest.
+1. **Set the intention**: The practitioner must begin by establishing a clear intention for the ritual and what they wish to manifest.
 
-2. ****Establish a connection with Preto Velho****: Create a sacred space or altar dedicated to Preto Velho, incorporating elements associated with healing, wisdom, and protection, such as candles, incense, crystals, and symbols of ancestral wisdom. Offerings of coffee, tobacco, and simple foods such as beans, rice, or bread can be presented.
+2. **Establish a connection with Preto Velho**: Create a sacred space or altar dedicated to Preto Velho, incorporating elements associated with healing, wisdom, and protection, such as candles, incense, crystals, and symbols of ancestral wisdom. Offerings of coffee, tobacco, and simple foods such as beans, rice, or bread can be presented.
 
-3. ****Establish a connection with Exu****: Create a separate sacred space or altar dedicated to Exu, featuring elements connected to crossroads, gates, and pathways. Offerings for Exus may include red and black candles, alcohol, cigars, spicy foods, or small iron tools.
+3. **Establish a connection with Exu**: Create a separate sacred space or altar dedicated to Exu, featuring elements connected to crossroads, gates, and pathways. Offerings for Exus may include red and black candles, alcohol, cigars, spicy foods, or small iron tools.
 
-4. ****Ritual Invocation****: Begin by invoking Preto Velho, asking for guidance, protection, and support in achieving the desired outcome. The practitioner should express gratitude and humbly request the presence and assistance of Preto Velho in the ritual. After invoking Preto Velho, the practitioner should proceed to invoke Exu, presenting offerings and seeking help in opening and aligning the pathways for successful manifestation. It is crucial to address Exus with respect, as they are known for their trickster nature.
+4. **Ritual Invocation**: Begin by invoking Preto Velho, asking for guidance, protection, and support in achieving the desired outcome. The practitioner should express gratitude and humbly request the presence and assistance of Preto Velho in the ritual. After invoking Preto Velho, the practitioner should proceed to invoke Exu, presenting offerings and seeking help in opening and aligning the pathways for successful manifestation. It is crucial to address Exus with respect, as they are known for their trickster nature.
 
-5. ****Meditate and Visualize****: Once the spirit entities have been invoked, the practitioner should focus on their intention, visualize the desired outcome, and maintain a strong connection with both Preto Velho and Exu. Allow their energies to work together, leveraging their distinct attributes to transform and manifest the intention into reality.
+5. **Meditate and Visualize**: Once the spirit entities have been invoked, the practitioner should focus on their intention, visualize the desired outcome, and maintain a strong connection with both Preto Velho and Exu. Allow their energies to work together, leveraging their distinct attributes to transform and manifest the intention into reality.
 
-6. ****Closing the ritual****: After the energy work is completed, close the ritual by offering thanks to Preto Velho and Exu for their presence, guidance, and support. Seal the working by blowing out candles and clearing each sacred space.
+6. **Closing the ritual**: After the energy work is completed, close the ritual by offering thanks to Preto Velho and Exu for their presence, guidance, and support. Seal the working by blowing out candles and clearing each sacred space.
 
 **Summary**:
 In conclusion, although Preto Velho and Exus are distinct spirit entities with unique attributes, they can be interconnected and applied within the ritual context of Macumba to achieve a desired outcome. By honoring their roles, making appropriate offerings, and taking precautions, an individual can create a potent ritual that effectively manifests their intention, simultaneously benefiting from the wisdom and healing of Preto Velho and the transformative power and pathway-opening abilities of Exus.

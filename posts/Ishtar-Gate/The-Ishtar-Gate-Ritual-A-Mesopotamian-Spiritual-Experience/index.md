@@ -24,7 +24,7 @@ excerpt: Develop a detailed ritual dedicated to the goddess Ishtar, to be perfor
 
 **Location**: Ishtar Gate, Babylon
 
-Date and Time: The ritual should be performed during the Waxing Gibbous Moon, on a Friday, at dusk.
+**Date and Time**: The ritual should be performed during the Waxing Gibbous Moon, on a Friday, at dusk.
 
 **Participants**: A high priestess, two acolytes, and any devotees who wish to attend. The high priestess and acolytes must wear traditional Mesopotamian clothing and jewelry, signifying their roles and connection to the goddess Ishtar.
 

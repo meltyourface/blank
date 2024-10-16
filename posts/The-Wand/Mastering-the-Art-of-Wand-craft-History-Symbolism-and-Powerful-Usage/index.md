@@ -39,11 +39,11 @@ The Wand holds great symbolic significance in the world of the occult. It repres
 
 A key aspect of wielding a Wand is its construction, which requires careful consideration of the different materials and their associated properties. **The following are some of the most popular types of wood used in Wand-making, each with its unique characteristics and energies**:
 
-1. ****Oak****: Symbolizing strength and endurance, oak is the ideal choice for Wands employed in protection and defensive magick.
-2. ****Hazel****: Associated with wisdom and knowledge, hazel imbues a Wand with strong divinatory and intuitive qualities.
-3. ****Willow****: A wood linked to the moon and feminine energy, willow Wands are excellent for emotional healing and nurturing magick.
-4. ****Rowan****: Guardian against negative energies, rowan wands possess potent protective and purifying qualities.
-5. ****Birch****: As a symbol of renewal and beginnings, birch Wands are particularly suited for fresh starts and cleansing rituals.
+1. **Oak**: Symbolizing strength and endurance, oak is the ideal choice for Wands employed in protection and defensive magick.
+2. **Hazel**: Associated with wisdom and knowledge, hazel imbues a Wand with strong divinatory and intuitive qualities.
+3. **Willow**: A wood linked to the moon and feminine energy, willow Wands are excellent for emotional healing and nurturing magick.
+4. **Rowan**: Guardian against negative energies, rowan wands possess potent protective and purifying qualities.
+5. **Birch**: As a symbol of renewal and beginnings, birch Wands are particularly suited for fresh starts and cleansing rituals.
 
 Many Wand makers also incorporate various metals, stones, and crystals to enhance their Wands' qualities further. For example, copper strengthens the Wand's ability to conduct energy, while gemstones and crystals amplify and harmonize the energy flow during rituals.
 

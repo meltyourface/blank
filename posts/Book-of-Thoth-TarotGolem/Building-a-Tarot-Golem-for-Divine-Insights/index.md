@@ -33,47 +33,47 @@ The concept of the TarotGolem originates from the wisdom-laden Book of Thoth, at
 
 The TarotGolem shares three key properties:
 
-1. ****Alchemical synthesis****: As an assembly of tarot imagery, golem creation principles, and Thoth's profound knowledge, the TarotGolem exemplifies the ultimate alchemical synthesis.
+1. **Alchemical synthesis**: As an assembly of tarot imagery, golem creation principles, and Thoth's profound knowledge, the TarotGolem exemplifies the ultimate alchemical synthesis.
 
-2. ****Magical conduit****: Through specific rituals, the golem transforms into a powerful conductor of magical energies and insights.
+2. **Magical conduit**: Through specific rituals, the golem transforms into a powerful conductor of magical energies and insights.
 
-3. ****Wisdom embodiment****: As the TarotGolem represents Thoth's divine wisdom, it allows practitioners to tap into the ancient god's knowledge directly.
+3. **Wisdom embodiment**: As the TarotGolem represents Thoth's divine wisdom, it allows practitioners to tap into the ancient god's knowledge directly.
 
 ### Chapter 2: Constructing the TarotGolem
 
 Building the TarotGolem requires careful planning and material acquisition. **Follow the steps outlined below**:
 
-1. ****Prepare your sacred space****: Dedicate a quiet, clean, and harmonious environment to create your TarotGolem.
+1. **Prepare your sacred space**: Dedicate a quiet, clean, and harmonious environment to create your TarotGolem.
 
-2. ****Assemble materials****: Obtain a high-quality set of Book of Thoth tarot cards, clay or wax, natural fabric, and metallic elements (preferably gold or silver).
+2. **Assemble materials**: Obtain a high-quality set of Book of Thoth tarot cards, clay or wax, natural fabric, and metallic elements (preferably gold or silver).
 
-3. ****Golem structure****: Select the Major Arcana cards symbolizing your intentions for the TarotGolem. Wrap the cards in the fabric and place them within the clay or wax golem structure, infused with metallic elements.
+3. **Golem structure**: Select the Major Arcana cards symbolizing your intentions for the TarotGolem. Wrap the cards in the fabric and place them within the clay or wax golem structure, infused with metallic elements.
 
-4. ****Envision your intent****: Focus on your purpose for creating the TarotGolem, bearing in mind the chosen Major Arcana's energy and symbolism.
+4. **Envision your intent**: Focus on your purpose for creating the TarotGolem, bearing in mind the chosen Major Arcana's energy and symbolism.
 
 ### Chapter 3: Activating the TarotGolem
 
 Ritualistic activation involves employing mental focus, spoken word, and astral energies following the steps below:
 
-1. ****Invoke Thoth's presence****: Perform an invocation to Thoth, requesting divine guidance and protection during your work with the TarotGolem.
+1. **Invoke Thoth's presence**: Perform an invocation to Thoth, requesting divine guidance and protection during your work with the TarotGolem.
 
-2. ****Employ a ritualistic chant****: Repeat a specific magical formula – such as the Emerald Tablet's famous phrase "As above, so below" – to initiate the TarotGolem's awakening.
+2. **Employ a ritualistic chant**: Repeat a specific magical formula – such as the Emerald Tablet's famous phrase "As above, so below" – to initiate the TarotGolem's awakening.
 
-3. ****Visualize energy transfer****: Mentally gather and project astral energies into the TarotGolem until it awakens and embodies the Book of Thoth's wisdom.
+3. **Visualize energy transfer**: Mentally gather and project astral energies into the TarotGolem until it awakens and embodies the Book of Thoth's wisdom.
 
-4. ****Seal the activation****: Close the ritual with a heartfelt expression of gratitude to Thoth, followed by a protective shield surrounding both you and the TarotGolem.
+4. **Seal the activation**: Close the ritual with a heartfelt expression of gratitude to Thoth, followed by a protective shield surrounding both you and the TarotGolem.
 
 ### Chapter 4: Harnessing the TarotGolem's Potential
 
 Successful activation unlocks the TarotGolem's capacity to provide profound insights and understanding. **Tap into its potential as follows**:
 
-1. ****Pose your inquiry****: Approach the TarotGolem with a specific question or contemplation, allowing it to offer guidance and clarity.
+1. **Pose your inquiry**: Approach the TarotGolem with a specific question or contemplation, allowing it to offer guidance and clarity.
 
-2. ****Converse with the symbolic representations****: Meditate upon the Major Arcana's imagery embodied within the TarotGolem, seeking insight and wisdom from each card.
+2. **Converse with the symbolic representations**: Meditate upon the Major Arcana's imagery embodied within the TarotGolem, seeking insight and wisdom from each card.
 
-3. ****Observe signs and messages****: Pay attention to any subtle cues the TarotGolem emits during your communication and interpret the signs accordingly.
+3. **Observe signs and messages**: Pay attention to any subtle cues the TarotGolem emits during your communication and interpret the signs accordingly.
 
-4. ****Reflect and integrate****: Document your experiences with the TarotGolem, for reflection and further exploration.
+4. **Reflect and integrate**: Document your experiences with the TarotGolem, for reflection and further exploration.
 
 Conclusion
 

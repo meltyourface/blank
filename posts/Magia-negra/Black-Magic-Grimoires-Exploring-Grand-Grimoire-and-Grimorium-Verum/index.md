@@ -27,7 +27,7 @@ The study of grimoires has long been a fascination for scholars of the esoteric 
 
 The Grand Grimoire, also known as "The Red Dragon," is a notorious black magic text believed to have been penned in the late 18th or early 19th century. Its origins are shrouded in mystery, and it has often been attributed to various authors, including the heretic monk Honorius of Thebes and the Italian sorcerer Antonio Venitiana del Rabina.
 
-The Grand Grimoire is divided into two parts: the first focuses on the summoning of spirits and the second on the making of talismans. Of particular interest are the text's illustrations and talismanic sigils, which display a strong connection to demonic forces. Notable examples include the sigil of the demonic entity, Lucifuge Rofocale, said to be Satan's prime minister, and the sigil of Beelzebub.
+**The Grand Grimoire is divided into two parts**: the first focuses on the summoning of spirits and the second on the making of talismans. Of particular interest are the text's illustrations and talismanic sigils, which display a strong connection to demonic forces. Notable examples include the sigil of the demonic entity, Lucifuge Rofocale, said to be Satan's prime minister, and the sigil of Beelzebub.
 
 The Grimoire also contains the powerful "Black Hen's Egg," a potent talisman that reportedly grants its user the power to control demonic forces. The Black Hen's Egg features a series of concentric circles with names of various demons inscribed in enigmatic Latin phrases.
 

@@ -44,13 +44,13 @@ The Gate of Leviathan has three overarching principles:
 
 ### Chapter 4: Rituals and Symbolism for Invoking the Gate of Leviathan
 
-Preparing the Ritual Space: Identify a secluded area near water, such as a beach or riverbank, ideally during the night when the moon is full or new. Conduct purifying ceremonies, invoking the protection of powerful spirits, and create a sacred circle or space with representations of the sea, chaos, and wisdom.
+**Preparing the Ritual Space**: Identify a secluded area near water, such as a beach or riverbank, ideally during the night when the moon is full or new. Conduct purifying ceremonies, invoking the protection of powerful spirits, and create a sacred circle or space with representations of the sea, chaos, and wisdom.
 
-Invocation of the Leviathan: Compose a chant, litany, or prayer that addresses the Leviathan, invoking its presence and beseeching it to grant you access to the Gate. This invocation should reflect your sincerity and dedication to seeking the wisdom and insights that lie beyond the Gate.
+**Invocation of the Leviathan**: Compose a chant, litany, or prayer that addresses the Leviathan, invoking its presence and beseeching it to grant you access to the Gate. This invocation should reflect your sincerity and dedication to seeking the wisdom and insights that lie beyond the Gate.
 
-Opening the Gate: After successful invocation, visualize the Gate of Leviathan before you, its ancient doors opening to reveal a vast abyss filled with the swirling waters of primordial chaos. Step into this abyss unafraid, trusting the Leviathan to guide you and provide the necessary wisdom and insight.
+**Opening the Gate**: After successful invocation, visualize the Gate of Leviathan before you, its ancient doors opening to reveal a vast abyss filled with the swirling waters of primordial chaos. Step into this abyss unafraid, trusting the Leviathan to guide you and provide the necessary wisdom and insight.
 
-Closing the Ritual: Following your communion with the Leviathan and the wisdom it bestows, give thanks and bid farewell to the Leviathan before closing the Gate. Finally, perform cleansing and grounding exercises sealing the sacred space and releasing any residual energies.
+**Closing the Ritual**: Following your communion with the Leviathan and the wisdom it bestows, give thanks and bid farewell to the Leviathan before closing the Gate. Finally, perform cleansing and grounding exercises sealing the sacred space and releasing any residual energies.
 
 ### Chapter 5: Precautions and Warnings
 

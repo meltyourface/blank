@@ -39,7 +39,7 @@ The Nine Satanic Statements, for example, emphasize the importance of indulgence
 
 Rituals in LaVeyan Satanism are viewed as psychodrama, providing catharsis and allowing for the release of emotional energy. The central purpose of these rituals is to bring about change in accordance with the participant's desires. Common rituals include the inversion of traditional Judeo-Christian ceremonies, employing symbolism and theatrics to create an immersive atmosphere.
 
-The most notable of LaVeyan rituals are the three core rituals outlined in the Satanic Bible: the Invocation of the Infernal Names, the Infernal Benediction, and the Satanic Baptism. These rituals help to affirm one's commitment to the pursuit of individual goals and desires.
+**The most notable of LaVeyan rituals are the three core rituals outlined in the Satanic Bible**: the Invocation of the Infernal Names, the Infernal Benediction, and the Satanic Baptism. These rituals help to affirm one's commitment to the pursuit of individual goals and desires.
 
 ### V. Impact on Contemporary Occultism and Society
 

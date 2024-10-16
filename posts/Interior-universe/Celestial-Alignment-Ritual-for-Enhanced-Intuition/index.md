@@ -53,10 +53,10 @@ Orchestration of Vibrational Sounds, Scents, and Colors:
 3. Arrange the candles in correspondence to the chosen planets and the sigils on the altar
 
 The Ritual:
-1. ****Begin the ritual by announcing your intentions and invoking the presence of the celestial bodies****: "I call upon thee, Nevalis, Cosmaria, and Telaphar, potent architects of the Interior universe. Lend me your powers to enhance my intuition, elevate my spiritual growth, and deepen my connection to cosmic wisdom."
+1. **Begin the ritual by announcing your intentions and invoking the presence of the celestial bodies**: "I call upon thee, Nevalis, Cosmaria, and Telaphar, potent architects of the Interior universe. Lend me your powers to enhance my intuition, elevate my spiritual growth, and deepen my connection to cosmic wisdom."
 2. Light the candles corresponding to each celestial body, starting with Nevalis, followed by Cosmaria and ending with Telaphar
 3. Meditate for a moment, focusing on each celestial body and its influence, while integrating these energies into your being
-4. ****Use the ritual knife, wand, or athame to direct the forces you've invoked and trace their sigils energetically. Chant****: "Align my being with your power. Grant me wisdom, growth, and intuition, by the grace of the cosmic energies I invoke."
+4. **Use the ritual knife, wand, or athame to direct the forces you've invoked and trace their sigils energetically. Chant**: "Align my being with your power. Grant me wisdom, growth, and intuition, by the grace of the cosmic energies I invoke."
 5. Drink from the chalice of infused water to symbolize internalizing the energy and wisdom of the celestial bodies. Visualize their power merging with your essence 
 6. **Thank the celestial bodies for their presence and assistance**:"I offer my deep and sincere gratitude, Nevalis, Cosmaria, and Telaphar, for your profound wisdom and illuminating influence."
 7. Close the ritual by extinguishing the candles and releasing the protective circle

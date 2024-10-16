@@ -29,7 +29,7 @@ Ingredients:
 - 10% Dandelion Root for grounding and detoxification
 - 10% Licorice Root for balancing all chakras and imparting a subtle natural sweetness
 
-Yoga sequence pairing: To complement the grounding and stress-relief properties of this blend, a sequence focused on grounding postures is recommended. Begin with Tadasana (Mountain Pose), continue with Utthita Trikonasana (Extended Triangle Pose), and end with Balasana (Child's Pose).
+**Yoga sequence pairing**: To complement the grounding and stress-relief properties of this blend, a sequence focused on grounding postures is recommended. Begin with Tadasana (Mountain Pose), continue with Utthita Trikonasana (Extended Triangle Pose), and end with Balasana (Child's Pose).
 
 Blend 2: Energizing and Uplifting
 Ingredients:
@@ -40,7 +40,7 @@ Ingredients:
 - 10% Ginger Root for enhancing energy, stimulating digestion, and boosting the immune system
 - 10% Calendula flowers for stimulating the solar plexus chakra and boosting a sense of empowerment
 
-Yoga sequence pairing: Pair this energizing blend with a dynamic vinyasa flow sequence, combining Sun Salutations (Surya Namaskar) with twists and backbends to increase vitality and awaken the body.
+**Yoga sequence pairing**: Pair this energizing blend with a dynamic vinyasa flow sequence, combining Sun Salutations (Surya Namaskar) with twists and backbends to increase vitality and awaken the body.
 
 Blend 3: Balance and Harmony
 Ingredients:
@@ -52,6 +52,6 @@ Ingredients:
 - 5% Rose petals for promoting heart chakra opening and encouraging self-love
 - 5% Blue Lotus flower for fostering tranquility, awareness, and spiritual connection
 
-Yoga sequence pairing: To maximize the harmonizing effects of this tea blend, practice a gentle hatha yoga sequence with emphasis on balancing postures like Vrikshasana (Tree Pose), Garudasana (Eagle Pose), and Natarajasana (Lord of the Dance Pose).
+**Yoga sequence pairing**: To maximize the harmonizing effects of this tea blend, practice a gentle hatha yoga sequence with emphasis on balancing postures like Vrikshasana (Tree Pose), Garudasana (Eagle Pose), and Natarajasana (Lord of the Dance Pose).
 
 By incorporating these personalized yoga-themed tea blends into your daily practice, you'll be able to maximize the benefits of your yoga practice while promoting overall well-being, balance, and mindfulness. Adjust the proportions of the ingredients to find the perfect blend for your unique preferences and intentions.

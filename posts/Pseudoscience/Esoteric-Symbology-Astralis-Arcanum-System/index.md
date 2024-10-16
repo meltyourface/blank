@@ -22,22 +22,22 @@ excerpt: >
 ---
 The symbology system I have created is called "Astralis Arcanum," which is a complex and intricate system incorporating various elements from esotericism, occult practices, and unverified theories. It revolves around the central concept of mystical energies, phenomena, and multidimensional planes that interconnect.
 
-1. ****Astralis****: Derived from astrology, this symbol represents the connection between celestial bodies and their influence on human life. It is a circle divided into twelve segments, each corresponding to a zodiac sign, with planetary glyphs placed within each segment, indicating various types of energy.
+1. **Astralis**: Derived from astrology, this symbol represents the connection between celestial bodies and their influence on human life. It is a circle divided into twelve segments, each corresponding to a zodiac sign, with planetary glyphs placed within each segment, indicating various types of energy.
 
-2. ****Elementum Redux****: Based on the concept of the four classical elements (fire, air, water, and earth) and ancient alchemical principles, this symbol portrays the balance of these elements in a swirling interlocked pattern. ****Each element is represented by a distinct icon****: fire by a flame, air by wavy lines, water by a droplet, and earth by a cube.
+2. **Elementum Redux**: Based on the concept of the four classical elements (fire, air, water, and earth) and ancient alchemical principles, this symbol portrays the balance of these elements in a swirling interlocked pattern. **Each element is represented by a distinct icon**: fire by a flame, air by wavy lines, water by a droplet, and earth by a cube.
 
-3. ****Thaumionic Flux****: This symbol is based on the pseudoscientific concept of currents of mystical energy that flow throughout the cosmos. It features a hexagon with six lines converging from the outer vertices to a central point, representing the meeting point of energies from multiple dimensions.
+3. **Thaumionic Flux**: This symbol is based on the pseudoscientific concept of currents of mystical energy that flow throughout the cosmos. It features a hexagon with six lines converging from the outer vertices to a central point, representing the meeting point of energies from multiple dimensions.
 
-4. ****Occultus Nexus****: Inspired by the ancient Hermetic principle 'As above, so below,' this symbol bridges the gap between the macrocosm and microcosm. It consists of an upward-pointing triangle entwined with a downward-pointing triangle, creating a hexagonal shape at their intersection, symbolizing the unity of different planes.
+4. **Occultus Nexus**: Inspired by the ancient Hermetic principle 'As above, so below,' this symbol bridges the gap between the macrocosm and microcosm. It consists of an upward-pointing triangle entwined with a downward-pointing triangle, creating a hexagonal shape at their intersection, symbolizing the unity of different planes.
 
-5. ****Numeris Enigma****: Rooted in numerology, this symbol aims to explore the mystical power of numbers. Here, the Fibonacci sequence spirals outwards, generating a unique geometric pattern that symbolizes the ever-expanded connectivity in the universe.
+5. **Numeris Enigma**: Rooted in numerology, this symbol aims to explore the mystical power of numbers. Here, the Fibonacci sequence spirals outwards, generating a unique geometric pattern that symbolizes the ever-expanded connectivity in the universe.
 
-6. ****Vrilium Current****: Borrowed from theosophical teachings, this symbol represents the mythical energy force called "Vril." It is depicted as an eye surrounded by rays of light that signify the Vril's omnipresent influence.
+6. **Vrilium Current**: Borrowed from theosophical teachings, this symbol represents the mythical energy force called "Vril." It is depicted as an eye surrounded by rays of light that signify the Vril's omnipresent influence.
 
-7. ****Lemurian Quorum****: Based on the lost continent of Lemuria, this symbol denotes the balancing act between physical and spiritual worlds. It consists of three interlocking circles in an equilateral triangle, with the outer circles representing the known dimensions and the inner one representing the ethereal planes.
+7. **Lemurian Quorum**: Based on the lost continent of Lemuria, this symbol denotes the balancing act between physical and spiritual worlds. It consists of three interlocking circles in an equilateral triangle, with the outer circles representing the known dimensions and the inner one representing the ethereal planes.
 
-8. ****Crystallos Chorus****: Drawing from the pseudoscience of crystal healing, this symbol showcases a multitude of crystals radiating energies harmonizing with each other. Each crystal is inscribed with geometric patterns that resonate with specific cosmic vibrations.
+8. **Crystallos Chorus**: Drawing from the pseudoscience of crystal healing, this symbol showcases a multitude of crystals radiating energies harmonizing with each other. Each crystal is inscribed with geometric patterns that resonate with specific cosmic vibrations.
 
 In the Astralis Arcanum system, these symbols are interrelated across multidimensional planes. The vibrations and frequencies of one symbol affect others, creating a continuous flow of energy. These interconnected symbols represent a unified understanding of the esoteric, occult, and pseudoscientific principles that shape the universe.
 
-This system can be incorporated into various forms of personal and spiritual practices: from meditation and visualization exercises to casting spells, creating sacred spaces, and strengthening psychic abilities. By understanding the Astralis Arcanum, one can harness the unique power of this intricate symbology system rooted in pseudoscience and traverse the mysterious pathways of the unseen world.
+**This system can be incorporated into various forms of personal and spiritual practices**: from meditation and visualization exercises to casting spells, creating sacred spaces, and strengthening psychic abilities. By understanding the Astralis Arcanum, one can harness the unique power of this intricate symbology system rooted in pseudoscience and traverse the mysterious pathways of the unseen world.

@@ -29,25 +29,25 @@ Methods of Biographical Study
 
 When embarking on an occult biographical study, several methods can be employed to gather the necessary information, understand the individual's experiences, and gain a deeper insight into their spiritual journey and esoteric knowledge. **These methods include**:
 
-1. ****Documentation****: Study any available letters, diaries, journals, books, and other written materials authored by the subject or directly related to them. These primary sources provide invaluable insight into the individual's thoughts, experiences, and spiritual growth.
+1. **Documentation**: Study any available letters, diaries, journals, books, and other written materials authored by the subject or directly related to them. These primary sources provide invaluable insight into the individual's thoughts, experiences, and spiritual growth.
 
-2. ****Oral history****: Conduct interviews with people who knew the subject, such as friends, family members, colleagues, and spiritual mentors. The anecdotes and insights provided in these first-hand accounts can paint a vivid picture of the individual's life and shed light on the various influences that have shaped their spiritual development.
+2. **Oral history**: Conduct interviews with people who knew the subject, such as friends, family members, colleagues, and spiritual mentors. The anecdotes and insights provided in these first-hand accounts can paint a vivid picture of the individual's life and shed light on the various influences that have shaped their spiritual development.
 
-3. ****Astrological and numerological analysis****: Examine the subject's birth chart, numerology, and other significant astrological data. Such analysis can reveal hidden patterns and aspects of their personality, as well as the impact of celestial events on their life choices and spiritual path.
+3. **Astrological and numerological analysis**: Examine the subject's birth chart, numerology, and other significant astrological data. Such analysis can reveal hidden patterns and aspects of their personality, as well as the impact of celestial events on their life choices and spiritual path.
 
 Key Steps to Conducting a Biographical Study
 
 To ensure a rigorous and comprehensive biographical study, the initiate should follow these key steps:
 
-1. ****Define the scope****: Clearly outline the specific aspects of the individual's life and spiritual journey that will be studied. This will help maintain focus and avoid becoming overwhelmed by excessive information.
+1. **Define the scope**: Clearly outline the specific aspects of the individual's life and spiritual journey that will be studied. This will help maintain focus and avoid becoming overwhelmed by excessive information.
 
-2. ****Gather materials****: Collect and organize all relevant documents, interviews, and information necessary for the study.
+2. **Gather materials**: Collect and organize all relevant documents, interviews, and information necessary for the study.
 
-3. ****Analyze the data****: Carefully read, listen to, and examine the collected materials to identify patterns, relationships, and themes that emerge in the individual's spiritual journey and personal experiences.
+3. **Analyze the data**: Carefully read, listen to, and examine the collected materials to identify patterns, relationships, and themes that emerge in the individual's spiritual journey and personal experiences.
 
-4. ****Synthesize the information****: Integrate the various sources of information and build a comprehensive understanding of the individual's life and spiritual path.
+4. **Synthesize the information**: Integrate the various sources of information and build a comprehensive understanding of the individual's life and spiritual path.
 
-5. ****Reflection and insight****: Contemplate and meditate on the findings of the study to uncover deeper insights about the subject and decode any hidden messages within their experiences.
+5. **Reflection and insight**: Contemplate and meditate on the findings of the study to uncover deeper insights about the subject and decode any hidden messages within their experiences.
 
 Questions and Techniques for Biographical Study
 

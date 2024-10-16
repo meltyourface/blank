@@ -34,13 +34,13 @@ Daemon Servitors are thought-forms designed to carry out a specific function. Th
 
 The creation of a Daemon Servitor involves a series of steps, which may vary according to the preferences and style of the practitioner. **However, the core principles remain the same**:
 
-1. ****Define the purpose****: Clearly outline the servitor's objective. The more specific the purpose, the more efficient the servitor will be in carrying it out.
+1. **Define the purpose**: Clearly outline the servitor's objective. The more specific the purpose, the more efficient the servitor will be in carrying it out.
 
-2. ****Design and name the servitor****: Imagine the servitor in as much detail as possible, including its appearance, characteristics, and qualities that will be necessary for it to carry out its function. Give it a unique name to establish a connection and sense of identity.
+2. **Design and name the servitor**: Imagine the servitor in as much detail as possible, including its appearance, characteristics, and qualities that will be necessary for it to carry out its function. Give it a unique name to establish a connection and sense of identity.
 
-3. ****The creation ritual****: During the creation ritual, the practitioner enters a meditative state and focuses on their servitor, envisioning its form and qualities as vividly as possible. The energy is then imbued with the servitor's concept, which may involve using sigils, mantras, or other ritual tools.
+3. **The creation ritual**: During the creation ritual, the practitioner enters a meditative state and focuses on their servitor, envisioning its form and qualities as vividly as possible. The energy is then imbued with the servitor's concept, which may involve using sigils, mantras, or other ritual tools.
 
-4. ****Activation and establishment of a connection****: Once the servitor has been fully visualized, the practitioner focuses on activating the servitor. This may involve charging the servitor with energy, either through the practitioner's own will and intention or by drawing upon external sources such as the elements, planetary energies, or other spiritual entities. The practitioner must then establish and maintain a strong psychic connection with the servitor to effectively communicate and control it.
+4. **Activation and establishment of a connection**: Once the servitor has been fully visualized, the practitioner focuses on activating the servitor. This may involve charging the servitor with energy, either through the practitioner's own will and intention or by drawing upon external sources such as the elements, planetary energies, or other spiritual entities. The practitioner must then establish and maintain a strong psychic connection with the servitor to effectively communicate and control it.
 
 ### III. Communication and Usage
 
@@ -50,10 +50,10 @@ Once the Daemon Servitor has been created and activated, it is essential for the
 
 As with any esoteric practice, working with Daemon Servitors carries potential risks. **The most common risk is a poorly created servitor that does not serve its intended purpose or even turns against the practitioner. To mitigate these risks, several precautions can be taken**:
 
-1. ****Establish clear guidelines****: These guidelines will help maintain control over the servitor and prevent undesirable actions. Always clearly define the servitor's purpose, lifespan, and boundaries.
+1. **Establish clear guidelines**: These guidelines will help maintain control over the servitor and prevent undesirable actions. Always clearly define the servitor's purpose, lifespan, and boundaries.
 
-2. ****Develop control mechanisms****: Create built-in safeguards that grant you control over the servitor, making it easy to deactivate or destroy it if necessary.
+2. **Develop control mechanisms**: Create built-in safeguards that grant you control over the servitor, making it easy to deactivate or destroy it if necessary.
 
-3. ****Regular assessment and monitoring****: Routinely check up on the servitor's activities to ensure it is working efficiently and as intended. Do not allow the servitor to become too independent or powerful, as this can lead to unforeseen problems.
+3. **Regular assessment and monitoring**: Routinely check up on the servitor's activities to ensure it is working efficiently and as intended. Do not allow the servitor to become too independent or powerful, as this can lead to unforeseen problems.
 
 In conclusion, Daemon Servitors are powerful thought-forms that can prove valuable allies for those seeking assistance in the esoteric and occult fields. By taking the necessary precautions and maintaining a strong connection, practitioners can harness the potential of these entities to achieve their desires and objectives. Be mindful of the responsibility and risks involved, and always work in harmony with the natural balance of the universe.

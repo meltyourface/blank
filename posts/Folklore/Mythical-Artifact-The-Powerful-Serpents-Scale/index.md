@@ -22,7 +22,7 @@ excerpt: Design a mythical artifact or talisman steeped in the traditions of Eur
 
 ## The Serpent's Scale
 
-Mythical Artifact: The Serpent's Scale (Schuppenschlange)
+**Mythical Artifact**: The Serpent's Scale (Schuppenschlange)
 
 Inspired by European folklore and the legends of dragons, the Serpent's Scale is a mystical talisman that embodies the untamed power, wisdom, and enchanting presence of the dragons that once roamed the lands. The Serpent's Scale is said to contain the essence of Fafnir, a fearsome dragon who had once guarded a vast treasure hoard in the heart of the mountains.
 

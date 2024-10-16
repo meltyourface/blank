@@ -36,13 +36,13 @@ The apocalyptic symbolism often involves dramatic imagery, incorporating element
 
 Throughout history, the concept of the apocalypse has taken many forms, evolving and adapting to the needs and beliefs of various cultures and time periods. **Some key figures and texts related to the apocalypse are**:
 
-1. ****The Book of Daniel****: One of the earliest and most influential apocalyptic texts is the biblical Book of Daniel. Written circa the 2nd century BCE, it contains various prophecies regarding the end of times and the emergence of a new spiritual kingdom.
+1. **The Book of Daniel**: One of the earliest and most influential apocalyptic texts is the biblical Book of Daniel. Written circa the 2nd century BCE, it contains various prophecies regarding the end of times and the emergence of a new spiritual kingdom.
 
-2. ****The Book of Revelation****: Also known as the Apocalypse of John, it was written in the 1st century CE and is one of the most well-known apocalyptic texts. It captures a prophetic vision that details cataclysmic events leading to the end of the world and the establishment of a new divine order.
+2. **The Book of Revelation**: Also known as the Apocalypse of John, it was written in the 1st century CE and is one of the most well-known apocalyptic texts. It captures a prophetic vision that details cataclysmic events leading to the end of the world and the establishment of a new divine order.
 
-3. ****Joachim of Fiore****: A 12th-century Italian mystic, Joachim formulated an apocalyptic theology based on the concept of three ages, which were symbolic of the Father, Son, and Holy Spirit. His vision of the third and final age was marked by universal peace, spiritual transformation, and the emergence of spiritual men and women.
+3. **Joachim of Fiore**: A 12th-century Italian mystic, Joachim formulated an apocalyptic theology based on the concept of three ages, which were symbolic of the Father, Son, and Holy Spirit. His vision of the third and final age was marked by universal peace, spiritual transformation, and the emergence of spiritual men and women.
 
-4. ****Theosophy****: In the late 19th and early 20th centuries, the Theosophical Society popularized the concept of spiritual evolution and the impending arrival of a new age. This new age, known as the Age of Aquarius, was believed to usher in an era of heightened spiritual consciousness accompanied by the dissolution of existing societal structures.
+4. **Theosophy**: In the late 19th and early 20th centuries, the Theosophical Society popularized the concept of spiritual evolution and the impending arrival of a new age. This new age, known as the Age of Aquarius, was believed to usher in an era of heightened spiritual consciousness accompanied by the dissolution of existing societal structures.
 
 ### 6.4 Esoteric Principles: The Path of Transformation
 

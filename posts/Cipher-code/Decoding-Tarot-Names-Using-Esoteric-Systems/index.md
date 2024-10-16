@@ -31,25 +31,25 @@ Now that we have an understanding of the three systems, let us take the names of
 
 First, let us transcribe the names of these cards using the Theban alphabet:
 
-The Fool: ⧉⢥⣯⠛ ⢈⠛⠊⡂
+**The Fool**: ⧉⢥⣯⠛ ⢈⠛⠊⡂
 The Magician: ⧉⢥⣯⠛ ⡏⠛⡂⢬⡴⢀⡇⠁⡰ ⢳⡟⡴⡇⠁⡴
 The High Priestess: ⧉⢥⡴⡂⡴ ⡷⠗⡏⢮⡋⢰⡟⡋⡴ ⡷⠗⡷⣯⡴⡋⠁⡴
 
 Next, we will convert these Theban transcriptions into their Latin alphabet equivalents and use the Gematria values of these letters from the Qabalah:
 
-The Fool: (9, 5, 6, 15, 15, 12) 
+**The Fool**: (9, 5, 6, 15, 15, 12) 
 The Magician: (9, 5, 13, 1, 7, 9, 3, 9, 1, 14) 
 The High Priestess: (9, 5, 8, 9, 7, 8, 16, 18, 9, 5, 19, 20)
 
 Lastly, let's apply the reverse Caesar cipher to these values. We will use a Caesar shift of 3 for this example, shifting each letter backward by 3 positions in the alphabet:
 
-The Fool: (6, 2, 3, 12, 12, 9)
+**The Fool**: (6, 2, 3, 12, 12, 9)
 The Magician: (6, 2, 10, 24, 4, 6, 26, 6, 24, 11)
 The High Priestess: (6, 2, 5, 6, 4, 5, 13, 15, 6, 2, 16, 17)
 
 Now, let's convert these numeric values back to their corresponding Latin letters:
 
-The Fool: FBClli
+**The Fool**: FBClli
 The Magician: Fbjxdfzfxk
 The High Priestess: Fbefdemofbpq
 

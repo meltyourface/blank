@@ -31,7 +31,7 @@ Alchemy and spiritual quests both center around the concept of transmutation, be
 
 **Symbolism**:
 
-The Magnum Opus stages are symbolically represented by colors: black (nigredo), white (albedo), yellow (citrinitas), and red (rubedo). Each color signifies the progression of transmutation, from the initial putrefaction and purification to the final integration and perfection. Similarly, spiritual quests often use colors to represent varying degrees of spiritual advancement.
+**The Magnum Opus stages are symbolically represented by colors**: black (nigredo), white (albedo), yellow (citrinitas), and red (rubedo). Each color signifies the progression of transmutation, from the initial putrefaction and purification to the final integration and perfection. Similarly, spiritual quests often use colors to represent varying degrees of spiritual advancement.
 
 Common Practices:
 

@@ -27,7 +27,7 @@ Preparing the Sacred Space:
 
 1. Select a private outdoor location where the New Moon can be observed clearly.
 2. Cleanse the area by burning sage or using a purifying incense.
-3. ****Prepare a simple altar with elemental representations****: a candle for Fire, a cup of water for Water, a bowl of salt or soil for Earth, and incense for Air.
+3. **Prepare a simple altar with elemental representations**: a candle for Fire, a cup of water for Water, a bowl of salt or soil for Earth, and incense for Air.
 4. Arrange your freshly-crafted obsidian athame, a small crystal dish or cup for holding moon water, and an offering to the Moon Goddess (such as a silver coin or a pearl).
 
 The New Moon Ritual:

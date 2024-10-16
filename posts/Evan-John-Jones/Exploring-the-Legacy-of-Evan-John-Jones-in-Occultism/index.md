@@ -42,7 +42,7 @@ Evan John Jones was a prolific writer in the fields of occultism and witchcraft,
 
 4. The Shadow of Tubal Cain (2003) - Jones' final work, published posthumously, explores the origins of the magical tradition he inherited from Cochrane, delving into the roots of the Clan of Tubal Cain and examining how this particular form of witchcraft evolved and adapted over time.
 
-Initiation Exercise: Connecting with the Teachings of Evan John Jones
+**Initiation Exercise**: Connecting with the Teachings of Evan John Jones
 
 Follow these steps to engage in a ritual that may enhance your connection with the teachings of Evan John Jones:
 

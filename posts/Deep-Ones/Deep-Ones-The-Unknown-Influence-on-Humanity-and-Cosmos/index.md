@@ -26,11 +26,11 @@ The Deep Ones are part of the fictional universe created by writer H.P. Lovecraf
 
 Now that we understand the Deep Ones, let's delve deeper into the cultural, biological, and historical aspects that reflect humanity's fears and relationship with the unknown.
 
-Cultural Aspects: The Deep Ones are a reclusive culture that engages in practices perceived as strange and uncanny by human observers. This secretive behavior may parallel humanity's uncertainty toward cultural practices different from their own and evoke fear for unknown civilizations. This relationship can also showcase a fear of human cultural identity being lost to the all-encompassing, old, and relentless influence of the Deep Ones.
+**Cultural Aspects**: The Deep Ones are a reclusive culture that engages in practices perceived as strange and uncanny by human observers. This secretive behavior may parallel humanity's uncertainty toward cultural practices different from their own and evoke fear for unknown civilizations. This relationship can also showcase a fear of human cultural identity being lost to the all-encompassing, old, and relentless influence of the Deep Ones.
 
-Biological Aspects: The ability of the Deep Ones to interbreed with humans reflects a fear surrounding the corruption of purity and the violation of biological boundaries. The very nature of hybrid creatures birthed by these unions introduces the terrifying concept of losing control over one's self, which may signify humanity's fear of losing autonomy and individualism.
+**Biological Aspects**: The ability of the Deep Ones to interbreed with humans reflects a fear surrounding the corruption of purity and the violation of biological boundaries. The very nature of hybrid creatures birthed by these unions introduces the terrifying concept of losing control over one's self, which may signify humanity's fear of losing autonomy and individualism.
 
-Historical Aspects: The Deep Ones have a vast history of events and knowledge that precedes that of humanity. They serve as a reminder of all the untold stories and hidden legacies on our own planet. Their superior knowledge is both alluring and frightening to humans, hinting at the darker aspects of history we may never fully understand.
+**Historical Aspects**: The Deep Ones have a vast history of events and knowledge that precedes that of humanity. They serve as a reminder of all the untold stories and hidden legacies on our own planet. Their superior knowledge is both alluring and frightening to humans, hinting at the darker aspects of history we may never fully understand.
 
 The Deep Ones, and their place within Lovecraft's works, symbolize a confluence of real-world esoteric influences such as theosophy, magick, and cosmicism.
 

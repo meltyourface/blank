@@ -34,9 +34,9 @@ The Feminine perspective on magick emphasizes the interconnectedness of all thin
 
 Three key principles underpin the feminine perspective on magick:
 
-1. ****Intuition****: Trusting one's inner voice and wisdom to guide actions and choices.
-2. ****Connection****: Valuing relationships, empathy, and collaboration in magickal practice.
-3. ****Creativity****: Embracing the improvisatory, adaptive aspects of magick through personal expression and intention.
+1. **Intuition**: Trusting one's inner voice and wisdom to guide actions and choices.
+2. **Connection**: Valuing relationships, empathy, and collaboration in magickal practice.
+3. **Creativity**: Embracing the improvisatory, adaptive aspects of magick through personal expression and intention.
 
 ### III. Role of Feminine Energy in Magick
 
@@ -50,9 +50,9 @@ Both male and female practitioners can draw upon the power of the feminine aspec
 
 Some prominent rituals, symbols, and practices in the feminine perspective of magick include:
 
-1. ****Moon Rituals****: Celebrations and observances of the moon's phases, particularly the new and full moons, help practitioners connect with the waxing and waning energies of the feminine divine.
-2. ****Sacred Spaces****: Creating altars or dedicated spaces for meditation and ritual work, which can include representations of goddesses or other feminine symbols.
-3. ****Symbols and Tools****: Incorporating symbols associated with the divine feminine, such as the chalice, cauldron, and spiral in ritual, or working with tools like candles, incense, and crystals that resonate with feminine energy.
-4. ****Invocation of Goddesses****: Invoking the guidance and protection of various goddesses to empower magickal workings, or adopting aspects of these deities as personal spiritual archetypes.
+1. **Moon Rituals**: Celebrations and observances of the moon's phases, particularly the new and full moons, help practitioners connect with the waxing and waning energies of the feminine divine.
+2. **Sacred Spaces**: Creating altars or dedicated spaces for meditation and ritual work, which can include representations of goddesses or other feminine symbols.
+3. **Symbols and Tools**: Incorporating symbols associated with the divine feminine, such as the chalice, cauldron, and spiral in ritual, or working with tools like candles, incense, and crystals that resonate with feminine energy.
+4. **Invocation of Goddesses**: Invoking the guidance and protection of various goddesses to empower magickal workings, or adopting aspects of these deities as personal spiritual archetypes.
 
 In conclusion, the feminine perspective on magick offers practitioners a valuable lens through which to approach their work. By understanding and embracing the principles and practices associated with the feminine divine, both male and female practitioners can enrich their magickal practice by incorporating this deep, intuitive, and transformative energy.

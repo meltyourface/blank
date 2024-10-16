@@ -48,7 +48,7 @@ The following incantation should be chanted in Enochian, an ancient mystical lan
 
 "Ol zodcam g-vohim ol g-micalzo CoLilith zar londoh ol noas mi tabges levithmong vep oiad ol vmplif in od Ri Teloch."
 
-This incantation roughly translates to: "I invoke the powers of the mighty Lilith, the ancient one who comes forth from the shadows, opening the gates of her realm, bringing forth knowledge and secrets."
+**This incantation roughly translates to**: "I invoke the powers of the mighty Lilith, the ancient one who comes forth from the shadows, opening the gates of her realm, bringing forth knowledge and secrets."
 
 ### V. Ceremony
 

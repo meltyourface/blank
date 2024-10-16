@@ -76,10 +76,10 @@ excerpt: >
 - Reflect upon the ongoing pursuit of the Philosopher's Stone, both as a tangible substance and an inner state of enlightenment
 - Reiterate that the Magnum Opus serves as a lifelong journey towards spiritual evolution
 
-Appendix A: Glossary of Alchemical Terms and Symbols
+**Appendix A**: Glossary of Alchemical Terms and Symbols
 
 - Provide an accessible reference guide for deciphering the complex language of alchemical texts and sigils
 
-Appendix B: Annotated Timeline of Key Spiritual Adepts and Their Influences
+**Appendix B**: Annotated Timeline of Key Spiritual Adepts and Their Influences
 
 - Aid in contextualizing the lineage of alchemical wisdom through prominent figures and their contributions to the practice

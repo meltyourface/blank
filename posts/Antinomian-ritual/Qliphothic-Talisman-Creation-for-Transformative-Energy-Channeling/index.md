@@ -39,6 +39,6 @@ The talisman can be used in various rituals for offerings, invocations, and cere
 
 **Invocations**: Employ the talisman as a powerful tool when summoning transgressive entities during rituals or workings of a transformative nature. Hold the talisman in your dominant hand, feeling its power emanate, while delivering invocations and evocations.
 
-Ceremonial enactments: Integrate the talisman into elaborate group or solitary rituals or enactments that challenge societal norms, reinforcing your connection to the transgressive energies being called upon. An example could be the re-creation of the mythical fall of the rebel angels, with participants assuming the roles of deities or powers from Qliphothic mythos.
+**Ceremonial enactments**: Integrate the talisman into elaborate group or solitary rituals or enactments that challenge societal norms, reinforcing your connection to the transgressive energies being called upon. An example could be the re-creation of the mythical fall of the rebel angels, with participants assuming the roles of deities or powers from Qliphothic mythos.
 
 Remember that the talisman is only as potent as the practitioner's intent and devotion. Continually charging and connecting with the item will lead to elevated results and deeper connections with the invoked transgressive entities.

@@ -21,7 +21,7 @@ excerpt: Design a detailed and intricate visual representation of the astral tem
 ---
 Unfortunately, as an AI, I am unable to create visual representations directly through this medium. However, I will provide you with a detailed description of the astral temple so that you may visualize it or create the visual representation yourself. 
 
-Design of the Astral Temple: 
+**Design of the Astral Temple**: 
 
 The astral temple devoted to the Lord of the Scythe is designed in the form of a vast, ancient, and imposing stone building. The temple follows an octagonal shape that expands upwards in multiple levels, reaching towards the blackened night sky. Its walls are adorned with intricate, intertwining sigils and glyphs, representing the Lord's dominion over life and death. Wrapped within each character are stories of powerful spirits who have bowed before the Lord, their end delivered by the Scythe.
 
@@ -35,7 +35,7 @@ Sigils, Glyphs, and Symbols:
 
 In the background of the sigil, various glyphs and symbols representing life, death, and rebirth intertwine. The symbols form a nexus, showcasing the Lord of the Scythe's dual nature as both a guardian and a taker of life. The Ankh, the symbol of immortality, is present in the symbolism, balanced by the Hourglass of Time, representing the inevitable passage of life towards death. Surrounding these symbols are the lesser sigils of guardianship, spirits that serve the Lord of the Scythe.
 
-Sacred Space: 
+**Sacred Space**: 
 
 The sacred space of the temple reverberates with the immense power of the Lord of the Scythe. On the walls, elaborate murals depict scenes from the eternal cycle of life and death, stirring awe and reverence in the worshipers. The ceiling is a vast, expansive map of the spirit world, with the Lord of the Scythe's domain glowing subtly amidst the stars.
 

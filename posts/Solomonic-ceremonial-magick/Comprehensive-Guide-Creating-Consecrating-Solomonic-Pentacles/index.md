@@ -31,7 +31,7 @@ Before creating a Solomonic pentacle, you should undergo a series of purificatio
 ### II. Materials and mediums
 The pentacle should be crafted from high-quality, natural materials that hold symbolic significance in Solomonic magical traditions. **Examples of suitable materials include**:
 
-1. ****Metals****: Gold, silver, or copper are traditional choices, with gold symbolizing solar energy and authority, silver representing lunar energy and intuition, and copper being associated with the planet Venus, and harmony.
+1. **Metals**: Gold, silver, or copper are traditional choices, with gold symbolizing solar energy and authority, silver representing lunar energy and intuition, and copper being associated with the planet Venus, and harmony.
 
 2. Parchment or virgin paper can also be used, as they are associated with the element of Earth, providing grounding energy and support for the talisman's power.
 

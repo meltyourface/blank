@@ -32,7 +32,7 @@ The Hidden Cult of Death has its roots in ancient civilizations spanning across 
 
 The first essential concept is the Eternal Cycle of Life and Death. This foundational idea considers life and death not as polar opposites but as ever-revolving states that feed into one another. Some in the cult refer to this as the Hourglass Principle, a metaphor illustrating the cosmic ebb and flow and eternal balance of these states.
 
-Another crucial concept is the Triad of Death: Mortem, Transitum, and Renasci. Mortem refers to the moment of biological death when the physical body ceases to function. Transitum concerns the passage of the soul as it embarks upon the journey to rejoin the cosmic wellspring of energy. Renasci represents rebirth, arising from the ashes of the old to begin a new cycle of existence. This triad forms an essential understanding of life, death, and rebirth, which influences the cult's rituals and practices.
+**Another crucial concept is the Triad of Death**: Mortem, Transitum, and Renasci. Mortem refers to the moment of biological death when the physical body ceases to function. Transitum concerns the passage of the soul as it embarks upon the journey to rejoin the cosmic wellspring of energy. Renasci represents rebirth, arising from the ashes of the old to begin a new cycle of existence. This triad forms an essential understanding of life, death, and rebirth, which influences the cult's rituals and practices.
 
 ### Chapter 2: Rituals
 

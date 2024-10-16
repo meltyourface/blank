@@ -37,21 +37,21 @@ Throughout the ages, the Numen of the Gallows has been associated with various d
 
 In the context of the occult, the gallows is an ever-present symbol, appearing in both historical and contemporary esoteric traditions. **Three of the most significant symbols associated with the Numen of the Gallows are**:
 
-a. ****The Tree****: As seen in the story of Odin, the tree represents life, growth, and the connection between the heavens and earth, making it an ideal symbol for the gallows. The tree or the World Tree metaphorically embodies the bridge between the realm of the living and the spiritual dimensions, as well as the divine wisdom and power bestowed upon those who dare to sacrifice themselves for greater knowledge. Remember that each culture may have its own sacred tree, such as the Celtic oak or the Egyptian sycamore.
+a. **The Tree**: As seen in the story of Odin, the tree represents life, growth, and the connection between the heavens and earth, making it an ideal symbol for the gallows. The tree or the World Tree metaphorically embodies the bridge between the realm of the living and the spiritual dimensions, as well as the divine wisdom and power bestowed upon those who dare to sacrifice themselves for greater knowledge. Remember that each culture may have its own sacred tree, such as the Celtic oak or the Egyptian sycamore.
 
-b. ****The Noose****: As an object designed to end life, the noose has become an emblem of the thin line separating life and death. The noose's knot symbolizes the inevitability of change and the ties that bind us to life's cyclical nature. It is a constant reminder of the sacrifices we make to gain esoteric wisdom and more profound spiritual understanding.
+b. **The Noose**: As an object designed to end life, the noose has become an emblem of the thin line separating life and death. The noose's knot symbolizes the inevitability of change and the ties that bind us to life's cyclical nature. It is a constant reminder of the sacrifices we make to gain esoteric wisdom and more profound spiritual understanding.
 
-c. ****The Hanged Man****: This tarot card, depicting a man hanging upside down from a tree by his ankle, encapsulates the essence of the Numen of the Gallows. It represents the willing submission to sacrifice and transformation, a surrender that paves the way for spiritual growth and unseen wisdom.
+c. **The Hanged Man**: This tarot card, depicting a man hanging upside down from a tree by his ankle, encapsulates the essence of the Numen of the Gallows. It represents the willing submission to sacrifice and transformation, a surrender that paves the way for spiritual growth and unseen wisdom.
 
 3. Rituals and Practices
 
 To forge a connection with the Numen of the Gallows, practitioners may engage in various rituals and practices that revolve around the concepts of self-sacrifice, surrender, and spiritual transformation. **The following is an overview of a few of these practices**:
 
-a. ****Meditation and Visualization****: By engaging in contemplative meditation, focused on both the inner self and one's connection with the sacred tree and gallows, practitioners can establish a link with the Numen of the Gallows, unlocking the access to previously hidden knowledge and power.
+a. **Meditation and Visualization**: By engaging in contemplative meditation, focused on both the inner self and one's connection with the sacred tree and gallows, practitioners can establish a link with the Numen of the Gallows, unlocking the access to previously hidden knowledge and power.
 
-b. ****Ritualistic Hanging****: Historically, some practitioners have partaken in controlled, ritualistic hanging, a process in which they temporarily deprive their bodies of oxygen without causing permanent damage. ****This act of self-sacrifice may lead to a heightened state of consciousness, allowing communion with the Numen of the Gallows and a subsequent influx of esoteric wisdom. Note****: This practice is dangerous and should not be attempted without proper preparation and supervision.
+b. **Ritualistic Hanging**: Historically, some practitioners have partaken in controlled, ritualistic hanging, a process in which they temporarily deprive their bodies of oxygen without causing permanent damage. **This act of self-sacrifice may lead to a heightened state of consciousness, allowing communion with the Numen of the Gallows and a subsequent influx of esoteric wisdom. Note**: This practice is dangerous and should not be attempted without proper preparation and supervision.
 
-c. ****Offerings and Sacrifices****: The practice of making offerings or sacrifices to the deities associated with the Numen of the Gallows can deepen the connection with this concept, while also honoring the divine forces that rule over life, death, and rebirth. Offerings may take the form of symbolic items, such as a lock of hair or a small wooden effigy representing one's physical self, symbolizing the practitioner's willingness to undergo spiritual transformation.
+c. **Offerings and Sacrifices**: The practice of making offerings or sacrifices to the deities associated with the Numen of the Gallows can deepen the connection with this concept, while also honoring the divine forces that rule over life, death, and rebirth. Offerings may take the form of symbolic items, such as a lock of hair or a small wooden effigy representing one's physical self, symbolizing the practitioner's willingness to undergo spiritual transformation.
 
 Closing Remarks
 

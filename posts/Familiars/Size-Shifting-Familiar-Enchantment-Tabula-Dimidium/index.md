@@ -21,7 +21,7 @@ excerpt: Develop a detailed and intricate enchantment specifically tailored for 
 ---
 Enchantment Name: Tabula Dimidium
 
-Purpose: To enable Familiars to seamlessly and inconspicuously adjust their size while concealing their magical signatures from other magical beings.
+**Purpose**: To enable Familiars to seamlessly and inconspicuously adjust their size while concealing their magical signatures from other magical beings.
 
 Materials Required:
 
@@ -32,7 +32,7 @@ Materials Required:
 5. Voidstone dust - a rare, magical signature suppressor
 6. Quill of a phoenix feather - to properly channel the magic
 
-Astrological Timing: The enchantment must be performed during the zenith of the moon's waning crescent phase, representing transitions and diminished visibility.
+**Astrological Timing**: The enchantment must be performed during the zenith of the moon's waning crescent phase, representing transitions and diminished visibility.
 
 Step-by-Step Procedure:
 

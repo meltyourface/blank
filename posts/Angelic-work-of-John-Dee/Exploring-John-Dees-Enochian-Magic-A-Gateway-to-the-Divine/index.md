@@ -25,13 +25,13 @@ Significance of Angelic Work in John Dee's Occult Practice
 
 John Dee, a 16th-century British polymath, was a prominent figure in the realms of science, astrology, and mathematics. However, he is also renowned for his occult practices, specifically his Angelic work. The primary focus of Dee's occult work revolved around establishing a connection with divine beings, or angels, to gain knowledge about the world and the nature of creation. He believed that, through these interactions, humanity could surpass its limitations and achieve profound spiritual enlightenment.
 
-Enochian System: Origin and Influence
+**Enochian System**: Origin and Influence
 
 Central to Dee's Angelic work was the enigmatic Enochian system, named after the biblical prophet Enoch, who is said to have learned the language of angels directly from divine beings. The Enochian system is a comprehensive system of magic that incorporates an original alphabet, language, and set of symbols. It is widely regarded as the foremost example of 'angelic magic' and has significantly influenced subsequent esoteric and magical traditions.
 
 The Enochian system emerged from Dee's association with the psychic medium Edward Kelley, who played an instrumental role in facilitating contact between Dee and the angels. Through their collaborative efforts, Kelley would enter a trance-like state and communicate with angelic beings, who would provide him with vital information on the structure, language, and principles of the Enochian system.
 
-Primary Aspects of the Enochian System: Four Great Watchtowers, Holy Table, and Calls
+**Primary Aspects of the Enochian System**: Four Great Watchtowers, Holy Table, and Calls
 
 The Enochian system comprises several key components that work in unison to create a connection with the Angelic realm. These include the Four Great Watchtowers, the Holy Table, and the Calls (or Enochian keys).
 

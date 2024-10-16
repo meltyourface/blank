@@ -27,13 +27,13 @@ Introduction
 
 From the most ancient of times, humanity has wrestled with the idea that its greatest struggle lies within itself. It is said that one's worst enemy is not the external world, but the inner workings of the human mind and its tendencies. The term "Humanity as its own worst enemy" is a central concept within the realm of the esoteric and occult, encompassing the psychological and spiritual aspects of human nature. By exploring and understanding this concept, individuals have the potential to overcome their self-destructive inclinations and reach a deeper understanding of themselves.
 
-The Psychological Aspect: The Ego and its Shadows
+**The Psychological Aspect**: The Ego and its Shadows
 
 The human mind is a complex and layered landscape, housing an array of cognitive processes, emotions, and hidden desires. A critical factor that fuels the notion that humanity is its own worst enemy is the ego. At its core, the ego grants individuals a sense of identity and personal importance. However, the ego simultaneously shapes their perceptions of reality, clouding their judgment, and often leading to self-destructive behaviors.
 
 Working closely with the ego is what Carl Jung, a Swiss psychiatrist, referred to as the "shadow aspect." This dark, unconscious component of human nature consists of undesirable qualities suppressed and hidden from conscious awareness. The tendency to deny and repress these aspects of oneself results in internal conflicts, blind spots, and ill-guided actions.
 
-The Spiritual Aspect: Disconnection from the True Self
+**The Spiritual Aspect**: Disconnection from the True Self
 
 From a spiritual standpoint, the inner struggle results from disconnection from one's true self or higher consciousness. **The teachings of various esoteric traditions emphasize the notion of duality present in the human experience**: the physical, material self and the metaphysical, higher self. Thus, the human struggle unfolds as a battle between these two selves, culminating in either the triumph of the higher self or the continued enslavement of the individual to their baser instincts.
 

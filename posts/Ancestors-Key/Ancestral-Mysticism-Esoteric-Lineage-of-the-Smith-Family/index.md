@@ -58,7 +58,7 @@ Smith Family Lineage Tree:
    - Occult Connection: Deep involvement in Qabalah studies
    - Symbol/Sigil: The Tree of Life, an integral component of Qabalah practices
 
-Family Patterns: Throughout the Smith family, there is a pattern of esoteric interests and profound knowledge of occult-related practices, with each family member seeming to inherit these traits from their ancestors.
+**Family Patterns**: Throughout the Smith family, there is a pattern of esoteric interests and profound knowledge of occult-related practices, with each family member seeming to inherit these traits from their ancestors.
 
 Upon connecting this family lineage tree, I have included all esoteric aspects for each family member. Their astrological birth chart and life path numbers provide insight into their individual personalities and potential occult connections, while ancestral symbols and sigils promote a deeper understanding of how their mystical talents connect to the larger esoteric tapestry of the Ancestors' Key.
 

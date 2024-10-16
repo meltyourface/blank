@@ -30,11 +30,11 @@ The Avatar, an ethereal entity possessing unparalleled mastery over the esoteric
 
 Avatars possess the ability to bridge the material world with the spiritual realm, enabling them to comprehend the intricacies of various cultures and ideologies. This power grants them an exceptional capacity to weigh acts and decisions thoroughly. Nevertheless, their involvement in worldly matters raises questions about their ethical responsibilities when imposing their beliefs and judgments.
 
-A. ****Aang****: The Pacifist Child
+A. **Aang**: The Pacifist Child
 
 As the last airbender, Aang's inherent pacifist nature poses a moral dilemma when faced with the decision to take Fire Lord Ozai's life or find an alternative solution. Aang's struggle highlights how each Avatar is bound by their own personal moral compass, while still attempting to ensure balance and peace in the world.
 
-B. ****Korra****: Diplomacy and Battles
+B. **Korra**: Diplomacy and Battles
 
 Korra's vigorous approach to problem-solving and diplomacy seems to contrast sharply with that of her predecessor. Her willingness to engage in confrontations to preserve peace and justice elucidates the variety of methods by which Avatars navigate moral dilemmas while enforcing their beliefs on traditionally sovereign societies.
 

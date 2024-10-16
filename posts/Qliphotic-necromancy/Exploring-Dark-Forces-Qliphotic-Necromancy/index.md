@@ -30,7 +30,7 @@ As a student of the occult, delving into the complex nature of Qliphotic necroma
 
 ### 1.1 Foundational Principles
 
-Qliphotic necromancy is guided by several key principles: 
+**Qliphotic necromancy is guided by several key principles**: 
 
 a) Knowledge of the Qliphoth: Understanding the nature of the Qliphoth and the dark powers they represent is essential. Each Qliphah corresponds to one of the ten divine emanations (Sephiroth) and their respective negative aspects.
 

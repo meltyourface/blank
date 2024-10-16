@@ -31,37 +31,37 @@ The Principal Gods and Goddesses
 
 Central to the understanding of Hinduism is its rich pantheon of deities, which are often perceived as numerous manifestations of one supreme reality known as Brahman. **Here, we will touch upon some of the most significant gods and goddesses**:
 
-1. ****Brahma, the Creator****: Lord Brahma is depicted as the source of creation – the originator of the universe, life, knowledge, and spirituality. 
+1. **Brahma, the Creator**: Lord Brahma is depicted as the source of creation – the originator of the universe, life, knowledge, and spirituality. 
 
-2. ****Vishnu, the Preserver****: Vishnu ensures the harmony and balance of the cosmos, maintaining order in the universe. Vishnu often takes avatars or incarnations on earth to aid humanity, with the most renowned being Rama and Krishna.
+2. **Vishnu, the Preserver**: Vishnu ensures the harmony and balance of the cosmos, maintaining order in the universe. Vishnu often takes avatars or incarnations on earth to aid humanity, with the most renowned being Rama and Krishna.
 
-3. ****Shiva, the Destroyer****: Lord Shiva represents the transformative power of destruction. Shiva destroys not only the material world but ignorance, ego, and impurities to pave the way for regeneration and renewal.
+3. **Shiva, the Destroyer**: Lord Shiva represents the transformative power of destruction. Shiva destroys not only the material world but ignorance, ego, and impurities to pave the way for regeneration and renewal.
 
-4. ****Devi or Shakti, the Divine Mother****: She encompasses a range of goddesses, such as Durga, Kali, and Lakshmi, representing aspects of the divine feminine energy, nurturing mother, destroyer, and provider of prosperity.
+4. **Devi or Shakti, the Divine Mother**: She encompasses a range of goddesses, such as Durga, Kali, and Lakshmi, representing aspects of the divine feminine energy, nurturing mother, destroyer, and provider of prosperity.
 
 Sacred Texts
 
 Hinduism also comprises a vast collection of sacred texts, which can be categorized into two main divisions: Shruti (revealed knowledge) and Smriti (remembered knowledge). **Key texts include**:
 
-1. ****The Vedas****: Shruti texts and the most ancient Hindu scriptures, with a collection of sacred hymns, rituals, and insights about the nature of existence.
+1. **The Vedas**: Shruti texts and the most ancient Hindu scriptures, with a collection of sacred hymns, rituals, and insights about the nature of existence.
 
-2. ****The Upanishads****: Philosophical treatises forming the basis of the Vedanta philosophy, focusing on the nature of reality, consciousness, and the ultimate purpose of life.
+2. **The Upanishads**: Philosophical treatises forming the basis of the Vedanta philosophy, focusing on the nature of reality, consciousness, and the ultimate purpose of life.
 
-3. ****The Bhagavad Gita****: Found within the Indian epic Mahabharata, this sacred conversation between Arjuna and Lord Krishna reveals profound insights about dharma, yoga, and self-realization.
+3. **The Bhagavad Gita**: Found within the Indian epic Mahabharata, this sacred conversation between Arjuna and Lord Krishna reveals profound insights about dharma, yoga, and self-realization.
 
-4. ****The Puranas****: Narratives of mythology, cosmology, and genealogy, elucidating divine incarnations and chronicling ancient history.
+4. **The Puranas**: Narratives of mythology, cosmology, and genealogy, elucidating divine incarnations and chronicling ancient history.
 
 The Four Goals of Life (Purusharthas)
 
 Hinduism delineates four principal objectives of human existence, known as the Purusharthas, which serve as a roadmap for harmonious living:
 
-1. ****Dharma (Righteousness)****: Adherence to one's duty and ethical principles in alignment with cosmic order.
+1. **Dharma (Righteousness)**: Adherence to one's duty and ethical principles in alignment with cosmic order.
 
-2. ****Artha (Prosperity)****: Acquisition of material wealth and resources for sustenance and personal growth.
+2. **Artha (Prosperity)**: Acquisition of material wealth and resources for sustenance and personal growth.
 
-3. ****Kama (Desire)****: Fulfillment of worldly desires and passions in a balanced and ethical manner.
+3. **Kama (Desire)**: Fulfillment of worldly desires and passions in a balanced and ethical manner.
 
-4. ****Moksha (Liberation)****: Spiritual emancipation and freedom from the cycle of birth and death, through self-realization and union with Brahman.
+4. **Moksha (Liberation)**: Spiritual emancipation and freedom from the cycle of birth and death, through self-realization and union with Brahman.
 
 Karma and Rebirth
 

@@ -32,17 +32,17 @@ Arrange an altar at the center of the ritual space adorned with four representat
 **Step 3**: Invocation of the four corners
 Begin by facing the corresponding cardinal direction for each monarch (North – Earth, East – Air, South – Fire, and West – Water). **Call upon the energies of the elements, with a short chant for each**:
 
-1. ****Earth (North)****: "Sovereign of the Earthly realm, I summon thee with respect and admiration. Lend me your strength, stability, and wisdom upon this sacred ground."
-2. ****Air (East)****: "Majestic ruler of the skies, I call upon your boundless knowledge and freedom. Gift me clarity, vision, and understanding on this spiritual quest."
-3. ****Fire (South)****: "Fiery monarch of transformation, guide me with your passion, courage, and alchemical power. Illuminate my path and forge my will in this sacred space."
-4. ****Water (West)****: "Exalted lord of the deep waters, I beseech you with your healing, emotional wisdom, and intuition. Purify my intentions and nourish my spirit."
+1. **Earth (North)**: "Sovereign of the Earthly realm, I summon thee with respect and admiration. Lend me your strength, stability, and wisdom upon this sacred ground."
+2. **Air (East)**: "Majestic ruler of the skies, I call upon your boundless knowledge and freedom. Gift me clarity, vision, and understanding on this spiritual quest."
+3. **Fire (South)**: "Fiery monarch of transformation, guide me with your passion, courage, and alchemical power. Illuminate my path and forge my will in this sacred space."
+4. **Water (West)**: "Exalted lord of the deep waters, I beseech you with your healing, emotional wisdom, and intuition. Purify my intentions and nourish my spirit."
 **Step 4**: Using the talismans or artifacts
 As you speak each invocation, touch the appropriate arcane artifacts or talismans on the altar, allowing the energy of each monarch to flow through the items:
 
-1. ****Earth****: Hold the geode or crystal, feeling its reassuring weight and connect with the Earth monarch's great wisdom and grounding energy.
-2. ****Air****: Brush the bird feathers or chime the wind chime, allowing your thoughts to clear and align with the expansive knowledge of the Air monarch.
-3. ****Fire****: Grasp the ritual dagger or light the ceremonial candle, fueling your desire with the courage and transformative power of the Fire monarch.
-4. ****Water****: Cup the chalice or seashell, inviting the soothing and purifying influence of the Water monarch.
+1. **Earth**: Hold the geode or crystal, feeling its reassuring weight and connect with the Earth monarch's great wisdom and grounding energy.
+2. **Air**: Brush the bird feathers or chime the wind chime, allowing your thoughts to clear and align with the expansive knowledge of the Air monarch.
+3. **Fire**: Grasp the ritual dagger or light the ceremonial candle, fueling your desire with the courage and transformative power of the Fire monarch.
+4. **Water**: Cup the chalice or seashell, inviting the soothing and purifying influence of the Water monarch.
 **Step 5**: Uniting the monarchs' powers
 With the strength of all four elemental monarchs invoked, visualize their energies combining in a vortex above the altar. **Chant the following invocation to solidify the bond and harmonize their powers**:
 

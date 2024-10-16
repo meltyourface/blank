@@ -39,31 +39,31 @@ In the 18th and 19th centuries, the study of alchemy and transmutation shifted t
 
 The art of transmutation is founded on several basic principles, derived from both alchemical and Hermetic thought. **These principles include**:
 
-1. ****The Principle of Correspondence****: "As above, so below; as below, so above." This idea emphasizes the interconnectedness of all things and the reflection of the macrocosm within the microcosm.
+1. **The Principle of Correspondence**: "As above, so below; as below, so above." This idea emphasizes the interconnectedness of all things and the reflection of the macrocosm within the microcosm.
 
-2. ****The Principle of Vibration****: Everything in the Universe is in constant motion, with varying frequencies and rates of vibration, and the art of transmutation involves harnessing these vibrations to achieve desired results.
+2. **The Principle of Vibration**: Everything in the Universe is in constant motion, with varying frequencies and rates of vibration, and the art of transmutation involves harnessing these vibrations to achieve desired results.
 
-3. ****The Principle of Polarity****: All phenomena have a dual nature, representing opposite poles, and transmutation seeks to harmonize and balance these polarities.
+3. **The Principle of Polarity**: All phenomena have a dual nature, representing opposite poles, and transmutation seeks to harmonize and balance these polarities.
 
 ### IV. Techniques of Transmutation
 
 The practice of transmutation encompasses numerous techniques and methods, such as:
 
-1. ****Elemental Transmutation****: Among the most well-known and symbolic forms of transmutation, elemental transmutation involves altering the properties of one element into another (e.g., transforming lead into gold).
+1. **Elemental Transmutation**: Among the most well-known and symbolic forms of transmutation, elemental transmutation involves altering the properties of one element into another (e.g., transforming lead into gold).
 
-2. ****Healing Transmutation****: This method focuses on transmuting negative energies or imbalances in the body or spirit, facilitating healing and overall well-being.
+2. **Healing Transmutation**: This method focuses on transmuting negative energies or imbalances in the body or spirit, facilitating healing and overall well-being.
 
-3. ****Spiritual Transmutation****: With roots in the alchemical quest for the Philosopher's Stone, spiritual transmutation is a process whereby practitioners seek self-improvement, personal growth, and spiritual awakening through the refinement of their inner states.
+3. **Spiritual Transmutation**: With roots in the alchemical quest for the Philosopher's Stone, spiritual transmutation is a process whereby practitioners seek self-improvement, personal growth, and spiritual awakening through the refinement of their inner states.
 
 ### V. Precautions and Dangers
 
 The practice of transmutation, like any esoteric art, is not without its risks. **It is essential to approach transmutation with sincerity, respect, and a deep understanding of the principles involved. Possible risks include**:
 
-1. ****Unintended consequences****: Improperly performed transmutations may result in unforeseen outcomes or disturbances to the natural order.
+1. **Unintended consequences**: Improperly performed transmutations may result in unforeseen outcomes or disturbances to the natural order.
 
-2. ****Energetic imbalances****: Manipulating energies and vibrations in the process of transmutation has the potential to create imbalances, leading to negative effects on the practitioner or their environment.
+2. **Energetic imbalances**: Manipulating energies and vibrations in the process of transmutation has the potential to create imbalances, leading to negative effects on the practitioner or their environment.
 
-3. ****Loss of self****: The pursuit of transmutation, particularly in the realm of spiritual transformation, can become overwhelming, possibly leading to an unhealthy obsession or a loss of personal identity.
+3. **Loss of self**: The pursuit of transmutation, particularly in the realm of spiritual transformation, can become overwhelming, possibly leading to an unhealthy obsession or a loss of personal identity.
 
 ### VI. Rewards of Mastery
 

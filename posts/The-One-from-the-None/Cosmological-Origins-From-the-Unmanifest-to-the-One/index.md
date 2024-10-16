@@ -24,7 +24,7 @@ excerpt: >
 
 ### I. The Significance in Occult Philosophy
 
-Central to the esoteric study of the occult is the fundamental principle that reality is composed of two parts: the manifest and the unmanifest. The One from the None is a concept that examines the relationship between these two states, exploring the cosmological origins of existence.
+**Central to the esoteric study of the occult is the fundamental principle that reality is composed of two parts**: the manifest and the unmanifest. The One from the None is a concept that examines the relationship between these two states, exploring the cosmological origins of existence.
 
 In occult philosophy, it is believed that existence as we know it arises from a primordial state of uniformity, void of differentiation, known as the ‘None’. This undifferentiated state represents the potential for creation but is devoid of form or substance. It is in this realm where the unmanifest resides, hidden, and waiting to be released into the material plane.
 

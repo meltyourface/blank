@@ -27,7 +27,7 @@ Symbolic Items:
 1. Two-headed coin (representing choice and duality)
 2. Compass (representing guidance and decision-making)
 
-Crossroad Location: The Ancient Oak Crossroad, a powerful convergence of ley lines where a centuries-old oak tree marks the four-way junction of dirt roads.
+**Crossroad Location**: The Ancient Oak Crossroad, a powerful convergence of ley lines where a centuries-old oak tree marks the four-way junction of dirt roads.
 
 **Incantation**: (to be spoken aloud at the crossroad)
 
@@ -51,4 +51,4 @@ Embrace evolution, grant me auspicious fruition,
 With breath entwined in timeless incantation,
 Bring the Crossroad's Embrace to life, my keen invocation."
 
-Optimal Celestial Alignment: The spell should be performed during the New Moon phase, as the sliver of darkness represents a seed planted and the beginning of transformation. To ensure maximum potency and efficacy, complete the ritual during the time when the Moon and Venus are in sextile alignment, symbolizing attraction, harmony, and potential growth.
+**Optimal Celestial Alignment**: The spell should be performed during the New Moon phase, as the sliver of darkness represents a seed planted and the beginning of transformation. To ensure maximum potency and efficacy, complete the ritual during the time when the Moon and Venus are in sextile alignment, symbolizing attraction, harmony, and potential growth.

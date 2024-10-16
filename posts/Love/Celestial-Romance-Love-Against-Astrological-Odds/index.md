@@ -34,7 +34,7 @@ As the heavenly bodies progressed through their celestial journeys, the lovers e
 
 The eclipse season further intensified their affair, as the solar eclipse cast a mysterious shadow where secrets were revealed, shaking the very foundation of their relationship. Isabelle, guided by her ambitious Aries sun, was on the cusp of a monumental career opportunity. Conversely, Alexander's Cancer moon urged him to prioritize the sanctity of their bond and seek a more emotionally grounded life together. 
 
-The lovers found themselves faced with the ultimate dilemma: Should they sacrifice their individual desires in the name of love, or surrender to the whims of destiny for the greater good of their independent paths? The stars aligned, ushering in a rare and potent conjunction, forcing them to lay bare their deepest truths, fears, and aspirations. 
+**The lovers found themselves faced with the ultimate dilemma**: Should they sacrifice their individual desires in the name of love, or surrender to the whims of destiny for the greater good of their independent paths? The stars aligned, ushering in a rare and potent conjunction, forcing them to lay bare their deepest truths, fears, and aspirations. 
 
 Torn between their resolute nature and the genuine love they possessed for one another, Isabelle and Alexander sought answers within their astrological charts. Over time, they began to understand the roots of their difficulties, as they conceded to the cyclical nature of the universe and accepted the poignant reality of their star-crossed destinies.
 

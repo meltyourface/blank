@@ -23,7 +23,7 @@ excerpt: >
   
   2. Skillfully combine the chosen runes to form a unique, intricate bindrune while considering their individual forms, meanings, and associated energies.
   
-  3. ****Conduct a ritual to empower your newly designed bindrune****: light a candle in honor of Odin, invoke his guidance, and contemplate the intertwined nature of the chosen runes as well as the complexities of the Nine Worlds.
+  3. **Conduct a ritual to empower your newly designed bindrune**: light a candle in honor of Odin, invoke his guidance, and contemplate the intertwined nature of the chosen runes as well as the complexities of the Nine Worlds.
   
   4. Incorporate your empowered bindrune as a focal point during meditation, welcoming the energies of it to envelop and guide you toward a deeper connection with Odinic consciousness and the marked intentions.
   

@@ -22,7 +22,7 @@ excerpt: >
 ---
 The challenge at hand is to analyze the linguistic connection between Akkadian incantations found in Maqlû, an ancient Mesopotamian text containing magical rituals and incantations, and the concept of melammu, a divine or magical radiance, in relation to the transformative effects of these rituals. Additionally, we will examine how this relationship underscores the evolving complexity of the Akkadian cosmological perspective.
 
-Let us begin by taking a closer look at the two concepts: Maqlû and melammu.
+**Let us begin by taking a closer look at the two concepts**: Maqlû and melammu.
 
 Maqlû is an Akkadian word that means "burning" and refers to a collection of ancient Babylonian and Assyrian magical rituals generally aimed at warding off evil spirits, specifically the influence of witches. The incantations within Maqlû are meant to protect and purify the practitioner while ultimately weakening the power of any evil forces at work. It is important to mention that Maqlû is not an isolated text; rather, it is part of an extensive tradition of Akkadian magical and ritual texts.
 

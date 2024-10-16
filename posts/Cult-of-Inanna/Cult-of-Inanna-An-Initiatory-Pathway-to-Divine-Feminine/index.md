@@ -30,17 +30,17 @@ The origins of the Cult of Inanna can be traced back over 5,000 years ago to anc
 Core Beliefs
 
 The Cult of Inanna is built upon several key beliefs that contribute to its enigmatic nature:
-1. ****The Divine Feminine****: At the heart of the cult's teachings lies the Divine Feminine, as embodied by Inanna. Members strive to deepen their understanding and connection to this sacred principle through contemplation, meditation, ritual, and, for some, shamanic practices.
-2. ****The Cycle of Life, Death, and Rebirth****: The mythology of Inanna explores the themes of life, death, and renewal, representing the cyclical nature of existence. This is most notably manifested in the well-known myth of Inanna's descent into the Underworld and her subsequent resurrection and ascent to the heavens.
-3. ****The Power of Transformation****: Personal transformation and spiritual evolution are central to the teachings of the Cult of Inanna. Through initiation, study, and practice, members work toward a deeper comprehension of life's mysteries and an elevated spiritual consciousness.
-4. ****Sacred Sexuality****: Inanna's role as a goddess of love and fertility connects the cult to the practice of sacred sexuality, which is seen as a powerful means of connecting with the Divine Feminine and tapping into the creative forces of the universe.
+1. **The Divine Feminine**: At the heart of the cult's teachings lies the Divine Feminine, as embodied by Inanna. Members strive to deepen their understanding and connection to this sacred principle through contemplation, meditation, ritual, and, for some, shamanic practices.
+2. **The Cycle of Life, Death, and Rebirth**: The mythology of Inanna explores the themes of life, death, and renewal, representing the cyclical nature of existence. This is most notably manifested in the well-known myth of Inanna's descent into the Underworld and her subsequent resurrection and ascent to the heavens.
+3. **The Power of Transformation**: Personal transformation and spiritual evolution are central to the teachings of the Cult of Inanna. Through initiation, study, and practice, members work toward a deeper comprehension of life's mysteries and an elevated spiritual consciousness.
+4. **Sacred Sexuality**: Inanna's role as a goddess of love and fertility connects the cult to the practice of sacred sexuality, which is seen as a powerful means of connecting with the Divine Feminine and tapping into the creative forces of the universe.
 
 Rituals
 
 Ritual practices within the Cult of Inanna are often deeply personal and transformative, designed to foster an intimate connection with the deity, other cult members, and oneself. **Key rituals include**:
-1. ****The Sacred Marriage Rite****: This hieros gamos, or sacred marriage ritual, is performed to unify the Divine Feminine and Masculine principles, tapping into their combined power for spiritual growth.
-2. ****The Descent and Ascent Ritual****: Based on the myth of Inanna's journey into the Underworld, initiates symbolically reenact the goddess's descent, facing their own inner darkness and purifying themselves before ascending toward the light and spiritual elevation.
-3. ****Seasonal Celebrations****: Aligning with the agrarian roots of ancient Sumer, the cult honors Inanna through various rituals and ceremonies tied to the cycles of nature, acknowledging both her role in the fertility of the earth and the importance of living in harmony with the natural world.
+1. **The Sacred Marriage Rite**: This hieros gamos, or sacred marriage ritual, is performed to unify the Divine Feminine and Masculine principles, tapping into their combined power for spiritual growth.
+2. **The Descent and Ascent Ritual**: Based on the myth of Inanna's journey into the Underworld, initiates symbolically reenact the goddess's descent, facing their own inner darkness and purifying themselves before ascending toward the light and spiritual elevation.
+3. **Seasonal Celebrations**: Aligning with the agrarian roots of ancient Sumer, the cult honors Inanna through various rituals and ceremonies tied to the cycles of nature, acknowledging both her role in the fertility of the earth and the importance of living in harmony with the natural world.
 
 Initiatory Pathway
 

@@ -23,7 +23,7 @@ To offer in-depth, personalized guidance on fostering spiritual evolution throug
 
 In this hypothetical scenario, let's consider the birth details as follows:
 
-Date of Birth: January 1, 1990
+**Date of Birth**: January 1, 1990
 Time of Birth: 12:00 PM
 Place of Birth: New York, USA
 

@@ -31,31 +31,31 @@ The layout of the spread forms a seven-pointed star. Start at the top and arrang
 
 Card Positions and Meanings:
 
-1. ****The Core (Top point of the star)****: This card represents the essential nature and life essence of the individual. It is the spiritual seed of potential and a central theme in their life story. Reflect on this card in the context of your inherent strengths, values, and passions.
+1. **The Core (Top point of the star)**: This card represents the essential nature and life essence of the individual. It is the spiritual seed of potential and a central theme in their life story. Reflect on this card in the context of your inherent strengths, values, and passions.
 Astrological correspondence: Your Sun sign
 Numerological correspondence: Your Life Path number
 
-2. ****The Challenge (Upper left point of the star)****: This card represents the primary obstacles and challenges that the person is meant to confront, learn from and overcome in their lifetime. It helps to reveal any mental, emotional, or spiritual barriers that need addressing.
+2. **The Challenge (Upper left point of the star)**: This card represents the primary obstacles and challenges that the person is meant to confront, learn from and overcome in their lifetime. It helps to reveal any mental, emotional, or spiritual barriers that need addressing.
 Astrological correspondence: Your Saturn sign
 Numerological correspondence: The Expression number
 
-3. ****The Guide (Upper right point of the star)****: This card represents a guiding force or principle that the person should pay attention to and embrace in order to align with their life purpose. It may come in the form of a mentor, a belief system, or an inspiring event.
+3. **The Guide (Upper right point of the star)**: This card represents a guiding force or principle that the person should pay attention to and embrace in order to align with their life purpose. It may come in the form of a mentor, a belief system, or an inspiring event.
 Astrological correspondence: Your North Node sign
 Numerological correspondence: The Soul Urge number
 
-4. ****The Gift (Left point of the star)****: This card signifies innate talents and abilities that the individual should nurture and utilize in order to pursue their life purpose. It highlights the unique skills they possess, which can be harnessed for personal growth and the greater good.
+4. **The Gift (Left point of the star)**: This card signifies innate talents and abilities that the individual should nurture and utilize in order to pursue their life purpose. It highlights the unique skills they possess, which can be harnessed for personal growth and the greater good.
 Astrological correspondence: Your Jupiter sign
 Numerological correspondence: The Personality number
 
-5. ****The Relationship (Right point of the star)****: This card explores the role of relationships in the person's life purpose, including their connection with others on personal, professional, and spiritual levels. It suggests how these connections can influence their path and how to forge deeper, more meaningful bonds.
+5. **The Relationship (Right point of the star)**: This card explores the role of relationships in the person's life purpose, including their connection with others on personal, professional, and spiritual levels. It suggests how these connections can influence their path and how to forge deeper, more meaningful bonds.
 Astrological correspondence: Your Venus sign
 Numerological correspondence: The Balance number
 
-6. ****The Transformation (Lower left point of the star)****: This card signifies a critical turning point in the person's life purpose journey. It highlights areas where personal development, change, or even sacrifice may be necessary to grow and evolve.
+6. **The Transformation (Lower left point of the star)**: This card signifies a critical turning point in the person's life purpose journey. It highlights areas where personal development, change, or even sacrifice may be necessary to grow and evolve.
 Astrological correspondence: Your Pluto sign
 Numerological correspondence: The Maturity number
 
-7. ****The Actualization (Lower right point of the star)****: This card represents the ultimate goal, completion, or desired outcome of the person's life purpose. It suggests the full realization of their potential and the ultimate expression of who they are on a spiritual level.
+7. **The Actualization (Lower right point of the star)**: This card represents the ultimate goal, completion, or desired outcome of the person's life purpose. It suggests the full realization of their potential and the ultimate expression of who they are on a spiritual level.
 Astrological correspondence: Your Midheaven sign
 Numerological correspondence: The Destiny number
 

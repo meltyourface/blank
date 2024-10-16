@@ -25,7 +25,7 @@ The ceremonial robes for the Gradd y Gwyddon y Ffordd tradition would be woven f
 
 The robes would be specifically tailored to flow gracefully around the wearer, with voluminous sleeves that billow like the gentle breeze of thought. The hem would kiss the ground with each step, emphasizing the close connection between the Gradd y Gwyddon y Ffordd and the earth that supports their wisdom.
 
-Each robe would be adorned with intricate talismans of the Four Elements: finely embroidered sigils representing Earth, Air, Fire, and Water in their corners, crafted from threads of elemental essence. Added to these symbols, the swirling patterns of the cosmos would wind their way across the fabric, subtly enhancing the wearer's understanding of the Lesser and Greater Mysteries with every glance.
+**Each robe would be adorned with intricate talismans of the Four Elements**: finely embroidered sigils representing Earth, Air, Fire, and Water in their corners, crafted from threads of elemental essence. Added to these symbols, the swirling patterns of the cosmos would wind their way across the fabric, subtly enhancing the wearer's understanding of the Lesser and Greater Mysteries with every glance.
 
 Emblazoned at the center of the robe's back would be a grand sigil representing the Nine Levels of Initiation. Each of the nine points of the sigil would be crafted from a different ethereal gemstone, imbuing a specific energy that corresponds to each initiation level's teachings and wisdom.
 

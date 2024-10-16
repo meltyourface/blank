@@ -46,7 +46,7 @@ excerpt: >
   3. Grab the mortar and pestle and grind the remaining salt, tuning into your purpose and visualizing the negative energy and blockages being cleared away.
   
   Invocation:
-  1. ****Light the frankincense incense and allow its aroma to fill the space. Say an invocation to call upon your guides, masters, and higher self. Example****: "I call upon my spiritual guides, guardian angels, and higher self to be present and assist me in manifesting my true will. May your divine guidance guide my way."
+  1. **Light the frankincense incense and allow its aroma to fill the space. Say an invocation to call upon your guides, masters, and higher self. Example**: "I call upon my spiritual guides, guardian angels, and higher self to be present and assist me in manifesting my true will. May your divine guidance guide my way."
   
   2. Light the white candles, which represent divine connection, purity, and spiritual energy. Place the lit candles in a triangle around the sacred geometric symbol.
   

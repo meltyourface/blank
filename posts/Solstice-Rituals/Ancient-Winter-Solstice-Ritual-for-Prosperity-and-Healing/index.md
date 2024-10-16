@@ -23,7 +23,7 @@ excerpt: >
 To commence this intricate Winter Solstice candle ritual, gather the following materials and elements:
 
 1. Six hand-crafted herbal candles infused with sacred intention; each candle should represent the balance of fire (prosperity and change) and earth (stability and healing), made with ingredients like cinnamon for wealth, rosemary for protection, and sage for wisdom.
-2. ****A compass to determine the six cardinal directions****: North, South, East, West, Above, and Below.
+2. **A compass to determine the six cardinal directions**: North, South, East, West, Above, and Below.
 3. An altar cloth adorned with symbols of fertility, abundance, and growth.
 4. An assortment of crystals, such as citrine for manifestation, clear quartz for clarity, and green aventurine for prosperity.
 5. Talismans or amulets infused with personal energy.

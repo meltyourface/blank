@@ -45,24 +45,24 @@ Maintaining a balance between the mortal and the spiritual world is of utmost im
 
 The following steps outline the fundamental process of creating a ghost. While each practitioner may develop unique variations, these are the core components required for its successful completion.
 
-1. ****Select or create a life force****: If redirecting a departed soul, the target must be chosen with care. Consider the individual’s personality, the spiritual elements binding the individual to their present state, and their level of emotional vibrancy. For synthesized life forces, practice intensive meditation, drawing through etheric planes to craft the desired energy configuration.
+1. **Select or create a life force**: If redirecting a departed soul, the target must be chosen with care. Consider the individual’s personality, the spiritual elements binding the individual to their present state, and their level of emotional vibrancy. For synthesized life forces, practice intensive meditation, drawing through etheric planes to craft the desired energy configuration.
 
-2. ****Establish ethereal connections****: Utilize your knowledge of the ghost's emotional resonances to anchor it to specific locations, objects, or individuals. Implement complex binding rituals that involve sacred sigils, enchanted talismans, and natural energetic conduits (such as water or ley lines).
+2. **Establish ethereal connections**: Utilize your knowledge of the ghost's emotional resonances to anchor it to specific locations, objects, or individuals. Implement complex binding rituals that involve sacred sigils, enchanted talismans, and natural energetic conduits (such as water or ley lines).
 
-3. ****Define the ghost's purpose****: Each ghost must have a purpose that justifies its presence in the mortal realm, whether it is sharing vital information with the living, retribution for past wrongs, or extending protection over a sacred area. This purpose should be made explicitly clear to the ghost throughout the creation process, thereby aiding its successful manifestation and limiting potential conflict.
+3. **Define the ghost's purpose**: Each ghost must have a purpose that justifies its presence in the mortal realm, whether it is sharing vital information with the living, retribution for past wrongs, or extending protection over a sacred area. This purpose should be made explicitly clear to the ghost throughout the creation process, thereby aiding its successful manifestation and limiting potential conflict.
 
-4. ****Perform the Summoning Ritual****: The summoning ritual acts as the final step in combining the life force, ethereal connections, and defined purpose. It may include extensive chanting, specific incantation formulas, and the careful layering of protective energy circles. Perform the ritual with extreme focus, paying attention to the details of the incantation and the balance between the various energies.
+4. **Perform the Summoning Ritual**: The summoning ritual acts as the final step in combining the life force, ethereal connections, and defined purpose. It may include extensive chanting, specific incantation formulas, and the careful layering of protective energy circles. Perform the ritual with extreme focus, paying attention to the details of the incantation and the balance between the various energies.
 
 ### 7.4 Precautions and Ethical Considerations
 
 Creating a ghost is a significant intervention in the balance between the spiritual and physical realms. **There are numerous ethical and practical concerns to consider before embarking on this endeavor**:
 
-1. ****Respect the wishes of the deceased****: Redirecting a departed soul should be done with great sensitivity, ensuring that the feelings and desires of the deceased are considered before altering their spiritual existence.
+1. **Respect the wishes of the deceased**: Redirecting a departed soul should be done with great sensitivity, ensuring that the feelings and desires of the deceased are considered before altering their spiritual existence.
 
-2. ****Potential consequences****: Acknowledge the risk of unintended consequences, ranging from the distrust of the spirits to the awakening of darker entities.
+2. **Potential consequences**: Acknowledge the risk of unintended consequences, ranging from the distrust of the spirits to the awakening of darker entities.
 
-3. ****Responsibility of the creator****: As the creator of the ghost, you hold responsibility for the well-being, stability, and actions of the spirit. This responsibility extends not only to the ghost itself but also to the individuals or areas affected by their presence.
+3. **Responsibility of the creator**: As the creator of the ghost, you hold responsibility for the well-being, stability, and actions of the spirit. This responsibility extends not only to the ghost itself but also to the individuals or areas affected by their presence.
 
-4. ****Preservation of spiritual equilibrium****: Always strive to maintain harmony between the spiritual and physical realms, recognizing that the creation of every ghost perturbs this balance to some degree.
+4. **Preservation of spiritual equilibrium**: Always strive to maintain harmony between the spiritual and physical realms, recognizing that the creation of every ghost perturbs this balance to some degree.
 
-By developing a mastery of the principles and processes outlined in this section, you are well-prepared to navigate the complex art of ghost creation. ****Proceed with respect and mindfulness for the delicate interplay between the realms, and remember****: the knowledge you hold carries with it great power and responsibility.
+By developing a mastery of the principles and processes outlined in this section, you are well-prepared to navigate the complex art of ghost creation. **Proceed with respect and mindfulness for the delicate interplay between the realms, and remember**: the knowledge you hold carries with it great power and responsibility.

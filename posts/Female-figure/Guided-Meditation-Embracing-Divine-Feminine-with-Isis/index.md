@@ -22,7 +22,7 @@ excerpt: Develop a guided meditation experience focused on invoking and honoring
 
 ## Embracing the Divine Feminine: A Guided Meditation with Goddess Isis
 
-Background Music: Soft instrumental harp music playing softly in the background.
+**Background Music**: Soft instrumental harp music playing softly in the background.
 
 Introduction:
 Welcome to this guided meditation experience, focused on invoking and honoring the divine feminine energy within each one of us. Today, we will connect with the Egyptian goddess Isis, a powerful symbol of feminine strength, love, and healing. As we go through this meditation, we will be guided through visualization, breathing techniques, and powerful mantras to embrace the divine feminine essence fully.
@@ -37,11 +37,11 @@ Now, imagine a figure gracefully walking towards you, emerging from the golden s
 
 This beautiful, powerful woman is Goddess Isis. As she gets closer, you can sense her nurturing, loving, and protective energy. She smiles at you, and you feel a deep, warm connection with her.
 
-Breathing Technique: Fourfold Breath
+**Breathing Technique**: Fourfold Breath
 
 Now, Goddess Isis gently encourages you to practice a breathing technique, known as the Fourfold Breath. Inhale for a count of four, then hold the breath for a count of four. Exhale for a count of four, and finally, hold the breath for another count of four. As you breathe, visualize a golden light entering your body, filling you with warmth, love, and the healing energy of the divine feminine.
 
-Mantra: "I embrace the power of the divine feminine within me."
+**Mantra**: "I embrace the power of the divine feminine within me."
 
 As you continue to breathe, repeat the following mantra silently or out loud:
 

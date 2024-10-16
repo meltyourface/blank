@@ -71,14 +71,14 @@ Syncretism plays a vital role in Esotericism, as it involves the merging of diff
 
 Throughout history, numerous figures have significantly influenced the development of Esotericism. **Some of the most prominent esoteric thinkers and practitioners include**:
 
-1. ****Hermes Trismegistus****: legendary founder of Hermeticism;
-2. ****Pythagoras****: ancient Greek philosopher, mathematician, and mystic;
-3. ****Paracelsus****: Swiss physician, alchemist, and philosopher;
-4. ****Emanuel Swedenborg****: Swedish scientist, theologian, and visionary;
-5. ****Eliphas Lévi****: French occultist and influential writer on magical theory;
-6. ****Helena Petrovna Blavatsky****: Russian spiritualist and co-founder of the Theosophical Society;
-7. ****Aleister Crowley****: English occultist, mystic, and founder of the Thelemic tradition;
-8. ****Dion Fortune****: British psychologist, occultist, and founder of the Fraternity of the Inner Light.
+1. **Hermes Trismegistus**: legendary founder of Hermeticism;
+2. **Pythagoras**: ancient Greek philosopher, mathematician, and mystic;
+3. **Paracelsus**: Swiss physician, alchemist, and philosopher;
+4. **Emanuel Swedenborg**: Swedish scientist, theologian, and visionary;
+5. **Eliphas Lévi**: French occultist and influential writer on magical theory;
+6. **Helena Petrovna Blavatsky**: Russian spiritualist and co-founder of the Theosophical Society;
+7. **Aleister Crowley**: English occultist, mystic, and founder of the Thelemic tradition;
+8. **Dion Fortune**: British psychologist, occultist, and founder of the Fraternity of the Inner Light.
 
 ### V. Practices within Esotericism
 

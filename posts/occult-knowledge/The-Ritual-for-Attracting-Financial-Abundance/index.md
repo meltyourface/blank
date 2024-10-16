@@ -24,9 +24,9 @@ excerpt: Design a detailed ritual for manifesting a specific intention through t
 
 **Intention**: Attracting prosperity and financial abundance
 
-Candle Color: Green
+**Candle Color**: Green
 
-Essential Oils: Cinnamon, patchouli, and bergamot
+**Essential Oils**: Cinnamon, patchouli, and bergamot
 
 Preparing the Candle:
 1. Choose a high-quality green candle, preferably made of beeswax or soy, signifying growth and abundance.

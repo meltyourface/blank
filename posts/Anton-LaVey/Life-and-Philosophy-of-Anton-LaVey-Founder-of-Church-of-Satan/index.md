@@ -39,7 +39,7 @@ Other critical works from LaVey include "The Satanic Rituals" (1972), a manual c
 
 ### IV. Magic, Rituals, and LaVeyan Beliefs
 
-LaVey divided magic into two primary categories: greater magic (ritual or ceremonial magic) and lesser magic (everyday manipulation and influence). Apart from being an expression of one's desires, rituals served as psychodramatic tools that helped individuals focus their emotional energy towards a specific purpose. LaVey emphasized that magical rituals should be highly individualistic and adapted to the preferences of the practitioner.
+**LaVey divided magic into two primary categories**: greater magic (ritual or ceremonial magic) and lesser magic (everyday manipulation and influence). Apart from being an expression of one's desires, rituals served as psychodramatic tools that helped individuals focus their emotional energy towards a specific purpose. LaVey emphasized that magical rituals should be highly individualistic and adapted to the preferences of the practitioner.
 
 While LaVey was skeptical of supernatural claims, he viewed magic as a powerful force that harnessed human emotion and psychology. His approach to magic combined elements of mysticism, pragmatic manipulation, and deliberate theatrics, reflecting his deep understanding of ceremonial aesthetics and their impact on the human psyche.
 

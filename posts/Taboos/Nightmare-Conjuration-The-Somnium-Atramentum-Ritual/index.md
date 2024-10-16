@@ -31,24 +31,24 @@ Ingredients and Artifacts:
   1. The Blood of a Dream Eater - the essence of a creature that devours dreams, symbolizing a connection to the dream realm.
   2. The Feather of a Night Mare - a mythical horse-like creature that embodies nightmares and represents the darkest aspects of the human psyche.
   3. Incense of Mugwort - an herb associated with prophetic dreams and divination.
-  4. ****Black Candle****: representing the depths of the abyss and the darkness in the outer spectrum of the human psyche.
+  4. **Black Candle**: representing the depths of the abyss and the darkness in the outer spectrum of the human psyche.
   5. An Antique Mirror - used as a scrying tool to peer into the dreamworld.
   6. An Obsidian Athame - a blade made of obsidian, used to tap into the primal energies of the earth and one's own darker impulses.
   7. Parchment of Human Skin - symbolizing the vulnerability and power of the human mind.
-  8. ****Ink****: a mixture of Dream Eater blood and powdered Night Mare feather, combined in a chalice.
+  8. **Ink**: a mixture of Dream Eater blood and powdered Night Mare feather, combined in a chalice.
 
 **Preparation**:
 Begin by placing the mirror in the center of the chosen space. Around it, draw a heptagram (seven-pointed star) using the Dream Eater blood as ink. Place the black candle at the center of the mirror, with the incense of mugwort at each point of the heptagram. Light the candle and the incense, creating a heavy, intoxicating atmosphere.
 
 Steps of the Ritual:
 
-1. ****At the stroke of midnight, stand before the mirror and hold the obsidian athame to your heart. Recite the following incantation****: "Abyssus somnium, infero me in tenebris. Per potentiam noctis et atramentum somniorum, aperio portam in umbras."
+1. **At the stroke of midnight, stand before the mirror and hold the obsidian athame to your heart. Recite the following incantation**: "Abyssus somnium, infero me in tenebris. Per potentiam noctis et atramentum somniorum, aperio portam in umbras."
 
-2. ****Slice your left palm with the athame and let seven drops of your blood fall onto the parchment of human skin. Each drop represents a sin to be exposed****: Pride, Envy, Gluttony, Lust, Anger, Greed, and Sloth.
+2. **Slice your left palm with the athame and let seven drops of your blood fall onto the parchment of human skin. Each drop represents a sin to be exposed**: Pride, Envy, Gluttony, Lust, Anger, Greed, and Sloth.
 
 3. Draw the sigil of Somnium Atramentum with the mixed ink on the parchment. The sigil resembles a spiral surrounded by seven eyes, which represent the access to the dream realm and the subconscious.
 
-4. ****Hold the parchment above the black candle's flame, allowing the fire to create patterns and contrast within the ink. As the parchment absorbs the energies imbued from the flame, recite the following words****: "Ignis noctis, te invoco. Somniorum portam aperire."
+4. **Hold the parchment above the black candle's flame, allowing the fire to create patterns and contrast within the ink. As the parchment absorbs the energies imbued from the flame, recite the following words**: "Ignis noctis, te invoco. Somniorum portam aperire."
 
 5. Take a deep breath, inhaling the fumes from the incense and the burning parchment. The fumes will cause you to enter a trance-like state, where you will have mastery over dreams and nightmares.
 
@@ -56,6 +56,6 @@ Steps of the Ritual:
 
 7. Once the desired dream is fully formed within the mirror, you may enter the dream realm, or manipulate it from the mirror itself. Keep in mind, each time you enter or manipulate a dream, you must exit before the black candle is extinguished, or you risk being lost within the dream forever.
 
-8. ****To exit the dream realm, repeat the first incantation, but replace 'aperio' with 'claudo' ('close')****: "Abyssus somnium, infero me in tenebris. Per potentiam noctis et atramentum somniorum, claudo portam in umbras."
+8. **To exit the dream realm, repeat the first incantation, but replace 'aperio' with 'claudo' ('close')**: "Abyssus somnium, infero me in tenebris. Per potentiam noctis et atramentum somniorum, claudo portam in umbras."
 
 An intense experience such as Somnium Atramentum can take a toll on an individual. Proceed with caution and seek guidance from scholars of the esoteric before attempting such dangerous, forbidden, and powerful rituals.

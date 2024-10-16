@@ -31,7 +31,7 @@ excerpt: >
 ---
 1. Comprehensive guide to attributing distinct spiritual significances to each of the 78 tarot cards:
 
-The tarot deck is divided into two main sections: the Major Arcana (22 cards) and the Minor Arcana (56 cards). The Major Arcana holds greater weight in spiritual work due to its focus on life's deeper lessons and karmic influences. The Minor Arcana highlights everyday issues and personal growth. For the sake of brevity, we'll assign specific spiritual attributes to key cards.
+**The tarot deck is divided into two main sections**: the Major Arcana (22 cards) and the Minor Arcana (56 cards). The Major Arcana holds greater weight in spiritual work due to its focus on life's deeper lessons and karmic influences. The Minor Arcana highlights everyday issues and personal growth. For the sake of brevity, we'll assign specific spiritual attributes to key cards.
 
 Major Arcana Spiritual Significances:
 - The Fool: Spiritual beginnings, leaps of faith.

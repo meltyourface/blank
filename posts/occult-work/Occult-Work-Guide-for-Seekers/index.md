@@ -31,7 +31,7 @@ Occult work has been an integral part of human spirituality and knowledge-seekin
 
 ### Chapter Two: Main Methodologies in Occult Work
 
-There are three primary methodologies employed in occult work: divination, invocation, and evocation. Divination represents the art of obtaining knowledge of the future or unknown through various practices, such as tarot reading or scrying. Invocation pertains to the act of calling upon higher beings, such as deities or ancestors, for guidance, protection, and wisdom. Evocation represents the summoning of spirits or other entities for specific purposes, like the fulfillment of desires or acquiring information.
+**There are three primary methodologies employed in occult work**: divination, invocation, and evocation. Divination represents the art of obtaining knowledge of the future or unknown through various practices, such as tarot reading or scrying. Invocation pertains to the act of calling upon higher beings, such as deities or ancestors, for guidance, protection, and wisdom. Evocation represents the summoning of spirits or other entities for specific purposes, like the fulfillment of desires or acquiring information.
 
 ### Chapter Three: Sigils and Symbols
 

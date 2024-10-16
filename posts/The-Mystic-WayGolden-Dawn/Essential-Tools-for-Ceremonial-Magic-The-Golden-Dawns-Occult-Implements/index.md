@@ -26,27 +26,27 @@ The ceremonial dagger, often referred to as the Athame, is symbolic of the eleme
 
 Materials & Design: Traditional Athames have a double-edged blade with an inscribed sigil or emblem representing the practitioner's affiliation, personal belief, or intention. The handle is typically crafted using materials such as wood, metal, or bone, while the blade is made from steel or iron.
 
-Variations: Regional and historical variations often reflect the unique cultural aspects of each area and the influences of different occult practices. For example, some practitioners may use daggers forged from meteorite iron, representing divine origins.
+**Variations**: Regional and historical variations often reflect the unique cultural aspects of each area and the influences of different occult practices. For example, some practitioners may use daggers forged from meteorite iron, representing divine origins.
 
 2. Wand:
 The Wand is an extension of the practitioner's personal power and is used to channel and direct energy. It symbolizes the element of fire and transformation. Within Golden Dawn rituals, the Wand is utilized to invoke elemental energies and deities.
 
 Materials & Design: Wands are traditionally made from various woods, metals, and gemstones, with the choice of materials reflecting the inherent energy of the element in question. Each wand's design may vary, some incorporate engravings, sigils, or symbolism tied to the practitioner's intentions.
 
-Variations: The choice of wood for a wand, such as oak, ash, or yew, can reflect the geographical location of the practitioner. Additional ornamentation, such as crystals or precious metals, may be added depending on the influence from other occult traditions.
+**Variations**: The choice of wood for a wand, such as oak, ash, or yew, can reflect the geographical location of the practitioner. Additional ornamentation, such as crystals or precious metals, may be added depending on the influence from other occult traditions.
 
 3. Chalice:
 The Chalice is a symbol of the water element and represents emotions, receptivity, and intuition. Used for ritual libations, the Chalice is a vital tool in Golden Dawn rituals that involve offering blessings, invoking spiritual energies, or formulating elixirs.
 
 Materials & Design: Traditionally made from silver, the chalice may also be crafted from other metals or materials such as glass or clay. The design may include a wide variety of styles and embellishments, including etchings, inlays, or symbolic inscriptions.
 
-Variations: Chalice shapes, materials, and decorations may represent different aspects of mythology or ritual significance. Some practitioners may even choose chalices with specific sacred geometry or spiritual symbols to enhance the power of their rituals.
+**Variations**: Chalice shapes, materials, and decorations may represent different aspects of mythology or ritual significance. Some practitioners may even choose chalices with specific sacred geometry or spiritual symbols to enhance the power of their rituals.
 
 4. Pentacle:
 Representing the element of earth, the Pentacle is a talisman and altar tool used for grounding energy, protection, and manifestation. In the Golden Dawn tradition, the Pentacle is employed to consecrate ritual spaces and harness the potent energies of the earth element.
 
 Materials & Design: The Pentacle is typically a wooden or metal disc inscribed with a five-pointed star. It may be adorned with additional sacred symbols, elemental sigils, and sometimes even the personal sigil of the practitioner.
 
-Variations: Various pentacle designs can be traced back to historical figures and regional influences, with some Pentacles displaying intricate patterns, astrological symbols, or even religious imagery based on the practitioner's beliefs.
+**Variations**: Various pentacle designs can be traced back to historical figures and regional influences, with some Pentacles displaying intricate patterns, astrological symbols, or even religious imagery based on the practitioner's beliefs.
 
 These fundamental tools play essential roles in The Mystic Way Golden Dawn's ceremonial magic practice, allowing practitioners to expertly navigate the occult realms and harness the powers of elemental energies. Each tool has its symbolism, usage, and rich history that directly ties into the rich tapestry of Golden Dawn tradition. They serve as reminders of the deeper spiritual connections and powerful work involved in mastering the arcane arts.

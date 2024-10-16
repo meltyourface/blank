@@ -28,7 +28,7 @@ The Hermetic principle of "correspondence" is one of the seven Hermetic principl
 
 Now that we have an understanding of both concepts, we can explore how they intertwine to represent the essence of Being.
 
-The paradoxical aspect of Being lies in the fact that it demands the unification of two seemingly opposing dimensions: the transcendent, which is the essence of Taoism, and the intrinsic, which is the essence of Hermeticism. Wu Wei and correspondence both emphasize the significance of aligning oneself with the universal principles. By doing so, the dualistic nature of reality – essence and existence, transcendent and intrinsic – ultimately dissolves, revealing an underlying unity or wholeness with the divine.
+**The paradoxical aspect of Being lies in the fact that it demands the unification of two seemingly opposing dimensions**: the transcendent, which is the essence of Taoism, and the intrinsic, which is the essence of Hermeticism. Wu Wei and correspondence both emphasize the significance of aligning oneself with the universal principles. By doing so, the dualistic nature of reality – essence and existence, transcendent and intrinsic – ultimately dissolves, revealing an underlying unity or wholeness with the divine.
 
 Wu Wei signifies the optimal path by highlighting the importance of non-doing or effortless action. This non-doing means avoiding striving or forcing one's will upon reality while still being engaged in meaningful activities that align with the natural order. The principle of correspondence serves as a guide, since it maintains that by embracing our inherent nature and living in harmony with the universe's patterns and principles, we can effortlessly attune to the highest state of being, the Ultimate Truth.
 

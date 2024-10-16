@@ -38,7 +38,7 @@ Considering these diverse portrayals of Mother Goddesses in ancient cultures, we
 
 1. Fertility and Motherhood - The Mother Goddess archetype is commonly linked with fertility and motherhood, symbolizing their ability to create, nurture, and sustain life.
 
-2. ****Nature and Earth - The Mother Goddess images often coincide with the natural world****: as the Earth and other elements of nature symbolizing the cycles of life, growth, decay, and rebirth.
+2. **Nature and Earth - The Mother Goddess images often coincide with the natural world**: as the Earth and other elements of nature symbolizing the cycles of life, growth, decay, and rebirth.
 
 3. Dualities - Representations of Mother Goddess figures often exhibit dualities and complexities in their roles and characters, combining traits such as love and warfare, nurturing and destruction, and creation and preservation.
 

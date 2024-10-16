@@ -40,13 +40,13 @@ The practitioner must also develop a connection with the archetypes or entities 
 
 Mastering shape-shifting can have several extraordinary applications, both on a personal and transpersonal level. **Beyond the novelty of assuming a different form, this art provides numerous benefits, such as**:
 
-1. ****Enhanced intuition and sensitivity to the energetic world****: As a shape-shifter develops their craft, they will naturally become more in tune with the energies that surround them. This heightened awareness can be harnessed for personal growth and development.
+1. **Enhanced intuition and sensitivity to the energetic world**: As a shape-shifter develops their craft, they will naturally become more in tune with the energies that surround them. This heightened awareness can be harnessed for personal growth and development.
 
-2. ****Improved adaptability****: Learning to change one's form imbues the practitioner with the ability to adapt more readily to new and unfamiliar situations.
+2. **Improved adaptability**: Learning to change one's form imbues the practitioner with the ability to adapt more readily to new and unfamiliar situations.
 
-3. ****Healing****: Shape-shifting has been employed for healing purposes throughout history, as it allows the practitioner to intuitively tap into the energetic patterns of the body and stimulate the body's natural self-healing processes.
+3. **Healing**: Shape-shifting has been employed for healing purposes throughout history, as it allows the practitioner to intuitively tap into the energetic patterns of the body and stimulate the body's natural self-healing processes.
 
-4. ****Spiritual awakening****: The journey to mastering shape-shifting often yields deep spiritual insights and revelations, as it requires one to confront their most profound fears, desires, and illusions.
+4. **Spiritual awakening**: The journey to mastering shape-shifting often yields deep spiritual insights and revelations, as it requires one to confront their most profound fears, desires, and illusions.
 
 ### Chapter Four: Ethical and Moral Considerations
 

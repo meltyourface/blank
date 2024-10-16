@@ -69,7 +69,7 @@ d. Place the mirror flat inside the circle, facing the ceiling.
 e. Recite a focused invocation, asking for a connection to the spirit realm.
 f. Gaze into the mirror and engage in communication.
 
-Risks and Precautions: Avoid breaking the circle during communion and always conclude the ritual by thanking the spirits and closing the connection before leaving the sacred space.
+**Risks and Precautions**: Avoid breaking the circle during communion and always conclude the ritual by thanking the spirits and closing the connection before leaving the sacred space.
 
 2. **Summoning an Unseen Guardian**:
 Purpose: Summons a benevolent spirit to protect and guard the practitioner or their dwelling.
@@ -82,7 +82,7 @@ b. Place the item belonging to the deceased within the figurine.
 c. Bury the figurine in an unmarked grave near a tree or other natural point of power.
 d. Upon burial, recite an invocation inviting the deceased's spirit to provide protection.
 
-Risks and Precautions: Respect the spirit's autonomy and avoid calling upon the spirit for malicious purposes or demanding more than it is willing to provide.
+**Risks and Precautions**: Respect the spirit's autonomy and avoid calling upon the spirit for malicious purposes or demanding more than it is willing to provide.
 
 3. **Spirit-binding Enchantment**:
 Purpose: Binds a willing spirit to an object, such as a pendant or amulet, for various purposes.
@@ -95,4 +95,4 @@ b. With the chain and crystal, fashion a pendant.
 c. Apply a drop of the blood to the crystal while reciting an incantation.
 d. Invite the spirit to reside within the enchanted crystal.
 
-Risks and Precautions: Remember to treat the spirit with respect, as they are bound but not forced into servitude. Maintain a positive relationship and avoid misusing the spirit's services.
+**Risks and Precautions**: Remember to treat the spirit with respect, as they are bound but not forced into servitude. Maintain a positive relationship and avoid misusing the spirit's services.

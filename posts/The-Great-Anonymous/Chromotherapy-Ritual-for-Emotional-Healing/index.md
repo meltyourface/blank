@@ -30,7 +30,7 @@ excerpt: >
 ---
 ## I. Invocation of the Secret Lineage
 
-O masters of the unseen, guardians of the ancient and impenetrable knowledge of The Great Anonymous, I call upon your secret lineage. ****I invoke thee with the sacred utterance****: ‘ASHKAZ-WERON.’ Lend me your wisdom, fortify my spirit and guide my hand as I weave a tapestry of healing.
+O masters of the unseen, guardians of the ancient and impenetrable knowledge of The Great Anonymous, I call upon your secret lineage. **I invoke thee with the sacred utterance**: ‘ASHKAZ-WERON.’ Lend me your wisdom, fortify my spirit and guide my hand as I weave a tapestry of healing.
 
 By the eternal flame, may this incantation be one of balance and understanding, borne of a lineage that stretches beyond the boundaries of mortal comprehension.
 
@@ -38,22 +38,22 @@ By the eternal flame, may this incantation be one of balance and understanding, 
 
 As per the cosmic will of The Great Anonymous, the following hues and wavelengths shall be harnessed for this chromotherapy rite:
 
-1. ****Red (630-740 nm)****: A color of passion, endurance and strength to lift the veil of emotional despair.
-2. ****Orange (590-630 nm)****: A harbinger of joy and warmth, stimulating creative expression, and assisting in the release of emotional blockages.
-3. ****Yellow (570-590 nm)****: The emblem of intellect, understanding, and self-confidence to regain control of one's emotional equilibrium.
-4. ****Green (495-570 nm)****: Symbolizing the growth and renewal of life, offering a calming embrace, mending the depths of emotional wounds.
+1. **Red (630-740 nm)**: A color of passion, endurance and strength to lift the veil of emotional despair.
+2. **Orange (590-630 nm)**: A harbinger of joy and warmth, stimulating creative expression, and assisting in the release of emotional blockages.
+3. **Yellow (570-590 nm)**: The emblem of intellect, understanding, and self-confidence to regain control of one's emotional equilibrium.
+4. **Green (495-570 nm)**: Symbolizing the growth and renewal of life, offering a calming embrace, mending the depths of emotional wounds.
 
 ### III. Incorporation of Ancient Symbols and Sigils
 
 Carve the following ancient symbols, each carrying mystical secrets to enhance the remedial energies of the chosen colors:
 
-1. ****The Eye of Horus****: A powerful emblem of protection, ensuring the safety and purity of the healing energies.
-2. ****The Caduceus****: Entwining both the grounding force of Earth and the transformative nature of the sky, imparting transformative power.
-3. ****The Triquetra****: A sigil of unity, linking mind, body, and spirit, reinforcing the emotional rebirth.
+1. **The Eye of Horus**: A powerful emblem of protection, ensuring the safety and purity of the healing energies.
+2. **The Caduceus**: Entwining both the grounding force of Earth and the transformative nature of the sky, imparting transformative power.
+3. **The Triquetra**: A sigil of unity, linking mind, body, and spirit, reinforcing the emotional rebirth.
 
 ### IV. Step-by-Step Procedure
 
-1. ****Prepare a sacred space, free from distraction and outside influence, within the confines of a circle. Adorn the space with the primary colors, each corresponding to the cardinal directions****: Red (North), Orange (East), Yellow (South), and Green (West).
+1. **Prepare a sacred space, free from distraction and outside influence, within the confines of a circle. Adorn the space with the primary colors, each corresponding to the cardinal directions**: Red (North), Orange (East), Yellow (South), and Green (West).
 2. Conduct the incantation during the waxing moon, as the heavenly body's energies amplify the healing potential.
 3. Locate and position a clear quartz crystal at the center of the circle, as it shall serve as a conduit for the chromatic therapy.
 4. Light four candles, each representing the chosen hues, placing them at the center of the circle, surrounding the quartz.

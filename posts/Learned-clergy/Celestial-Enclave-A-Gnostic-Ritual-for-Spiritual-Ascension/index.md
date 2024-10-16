@@ -23,7 +23,7 @@ Ritual Title: The Celestial Enclave
 
 **Theme**: The Unification of Divine Knowledge and Human Consciousness
 
-Historical and Cultural Context: The Celestial Enclave is an esoteric meditation ritual rooted in the mystic traditions of Gnosticism and Hermeticism, embracing themes of enlightenment and the hidden divine spark within each person. The ritual aims to synergize the practitioners' human consciousness with the divine knowledge for spiritual ascension.
+**Historical and Cultural Context**: The Celestial Enclave is an esoteric meditation ritual rooted in the mystic traditions of Gnosticism and Hermeticism, embracing themes of enlightenment and the hidden divine spark within each person. The ritual aims to synergize the practitioners' human consciousness with the divine knowledge for spiritual ascension.
 
 **Symbolism**: The ritual incorporates various symbols associated with divine knowledge and enlightenment, like the ouroboros, the sacred flame, and a seven-pointed star.
 

@@ -30,7 +30,7 @@ excerpt: >
 ---
 1. **Historical and cultural context of the curse**:
 
-The Cursing of the Fig Tree narrative can be found in the Synoptic Gospels: Matthew 21:18-22 and Mark 11:12-14, 20-24. It is important to understand the historical and cultural context of this event in order to grasp the significance of the curse. In ancient Near Eastern cultures, curses were used as a means of invoking divine intervention and control over a person, group, or object. Old Testament imprecations, such as those found in Psalms 109 and 137, share similarities with other Near Eastern cursing traditions. The curse on the fig tree can be understood within this wider cultural context, where the power to bless or curse was believed to be held in words spoken with authority.
+**The Cursing of the Fig Tree narrative can be found in the Synoptic Gospels**: Matthew 21:18-22 and Mark 11:12-14, 20-24. It is important to understand the historical and cultural context of this event in order to grasp the significance of the curse. In ancient Near Eastern cultures, curses were used as a means of invoking divine intervention and control over a person, group, or object. Old Testament imprecations, such as those found in Psalms 109 and 137, share similarities with other Near Eastern cursing traditions. The curse on the fig tree can be understood within this wider cultural context, where the power to bless or curse was believed to be held in words spoken with authority.
 
 2. Underlying themes related to the power of words and curses, and the role of fig trees as symbols:
 

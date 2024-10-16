@@ -28,11 +28,11 @@ In the study of the esoteric and occult, there are four classic elements: Earth,
 The seven classical planets, namely, the Sun, Moon, Mars, Mercury, Jupiter, Venus, and Saturn, are traditionally linked with specific elemental attributes. Throughout history, these associations have influenced the understanding of the elements and their role in astrology, mysticism, and alchemy.
 
 3. **Four Stages of the Alchemical Magnum Opus**:
-Alchemy is an ancient philosophical and mystical discipline that — among other things like metallurgy, chemistry, and medicine — aims for the transformation of the self. ****The great work (Magnum Opus) in alchemy involves four primary stages****: 
-   a. ****Nigredo (Blackening)****: The stage of decomposition and purification, symbolism of death and rebirth.
-   b. ****Albedo (Whitening)****: The stage of washing away the impurities or cleansing, associated with new beginnings.
-   c. ****Citrinitas (Yellowing)****: The stage of spiritualization or transmutation that signifies wisdom and enlightenment.
-   d. ****Rubedo (Reddening)****: The final stage representing the union and fusion of material and spiritual aspects, manifesting as a symbolic philosopher's stone.
+Alchemy is an ancient philosophical and mystical discipline that — among other things like metallurgy, chemistry, and medicine — aims for the transformation of the self. **The great work (Magnum Opus) in alchemy involves four primary stages**: 
+   a. **Nigredo (Blackening)**: The stage of decomposition and purification, symbolism of death and rebirth.
+   b. **Albedo (Whitening)**: The stage of washing away the impurities or cleansing, associated with new beginnings.
+   c. **Citrinitas (Yellowing)**: The stage of spiritualization or transmutation that signifies wisdom and enlightenment.
+   d. **Rubedo (Reddening)**: The final stage representing the union and fusion of material and spiritual aspects, manifesting as a symbolic philosopher's stone.
 
 Now that we have a basic understanding of the elements, planetary associations, and the four stages of the alchemical magnum opus let's explore their correspondences:
 
@@ -44,12 +44,12 @@ In sorcerous traditions, the elements and their planetary associations correspon
 
 Each of the alchemical stages has a connection to these elements and their associated planets:
 
-1. ****Nigredo (Earth/Saturn)****: The aspiring Sorcerer confronts their unconscious mind and breaks down their ego for purification. This stage signifies the practical realization of sorcerous workings, with Saturn providing stability and foundation in the learning process.
+1. **Nigredo (Earth/Saturn)**: The aspiring Sorcerer confronts their unconscious mind and breaks down their ego for purification. This stage signifies the practical realization of sorcerous workings, with Saturn providing stability and foundation in the learning process.
 
-2. ****Albedo (Water/Moon)****: The process of cleansing and healing begins as the Sorcerer embraces their emotions and intuition. This stage brings new insights, drawing from the depths of the subconscious mind, guided by the Moon's soft but relentless influence.
+2. **Albedo (Water/Moon)**: The process of cleansing and healing begins as the Sorcerer embraces their emotions and intuition. This stage brings new insights, drawing from the depths of the subconscious mind, guided by the Moon's soft but relentless influence.
 
-3. ****Citrinitas (Air/Mercury)****: As the Sorcerer gains wisdom, they develop their intellect and communication skills. Mercury's transformative power and mastery of movement and change are central to this stage.
+3. **Citrinitas (Air/Mercury)**: As the Sorcerer gains wisdom, they develop their intellect and communication skills. Mercury's transformative power and mastery of movement and change are central to this stage.
 
-4. ****Rubedo (Fire/Mars)****: The final stage sees the realization of the Sorcerer's will in the material world through focused energy and action, with Mars granting the drive and persistence necessary for manifestation.
+4. **Rubedo (Fire/Mars)**: The final stage sees the realization of the Sorcerer's will in the material world through focused energy and action, with Mars granting the drive and persistence necessary for manifestation.
 
 In summary, the correspondences between the elements, planetary associations, and the four stages of the alchemical magnum opus provide the framework for the Sorcerer's transformative journey. This process involves confronting and integrating different aspects of their consciousness, utilizing various qualities of classic elements and their planetary correspondences. As the aspiring Sorcerer progresses, their understanding of sorcerous workings deepens, leading to a greater mastery over their craft and a more unified consciousness.

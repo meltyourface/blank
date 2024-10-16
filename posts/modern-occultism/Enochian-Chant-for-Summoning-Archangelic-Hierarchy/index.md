@@ -41,14 +41,14 @@ The chant begins with the Enochian key, invoking the archangelic hierarchy:
 
 As you chant, visualize the sigils of the archangels:
 
-4. ****Visualize the sigil of Michael****: VICODEC
-5. ****Chant****: MICAMA (call upon the mighty Michael)
-6. ****Visualize the sigil of Gabriel****: ELTONTA
-7. ****Chant****: GABLAS (call upon the great Gabriel)
-8. ****Visualize the sigil of Raphael****: IPOUETO
-9. ****Chant****: RAPAIZ (call upon the wise Raphael)
-10. ****Visualize the sigil of Uriel****: GARZIK
-11. ****Chant****: URIKON (call upon the strong Uriel)
+4. **Visualize the sigil of Michael**: VICODEC
+5. **Chant**: MICAMA (call upon the mighty Michael)
+6. **Visualize the sigil of Gabriel**: ELTONTA
+7. **Chant**: GABLAS (call upon the great Gabriel)
+8. **Visualize the sigil of Raphael**: IPOUETO
+9. **Chant**: RAPAIZ (call upon the wise Raphael)
+10. **Visualize the sigil of Uriel**: GARZIK
+11. **Chant**: URIKON (call upon the strong Uriel)
 
 Holding the archangels' sigils in your mind’s eye, chant the vibratory frequency:
 

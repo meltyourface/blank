@@ -37,10 +37,10 @@ The influence of the early Christian communities in shaping Eucharistic traditio
 
 So, how can we foster unity within our faith communities through the Eucharist? Let us consider three action steps:
 
-1. ****Engage with Scripture****: Deepen your understanding of the Eucharistic teachings and their historical roots by regular study of the Bible. Make connections between the Last Supper, early Christian communities, and the liturgy you participate in today.
+1. **Engage with Scripture**: Deepen your understanding of the Eucharistic teachings and their historical roots by regular study of the Bible. Make connections between the Last Supper, early Christian communities, and the liturgy you participate in today.
 
-2. ****Pray for Christian Unity****: Offer prayers in personal and communal contexts, beseeching the Holy Spirit for guidance, wisdom, and courage to be peacemakers and bridge-builders in our fractured world.
+2. **Pray for Christian Unity**: Offer prayers in personal and communal contexts, beseeching the Holy Spirit for guidance, wisdom, and courage to be peacemakers and bridge-builders in our fractured world.
 
-3. ****Cultivate Fellowship and Dialogue****: Participate in ecumenical prayer services, interdenominational Bible studies, and other events that promote fellowship and dialogue among Christians from different traditions.
+3. **Cultivate Fellowship and Dialogue**: Participate in ecumenical prayer services, interdenominational Bible studies, and other events that promote fellowship and dialogue among Christians from different traditions.
 
 Brothers and sisters, let us trust in the transformative power of the Eucharist to unite us across time, belief, and experience, as we journey together in faith and share in the Bread of Life and the Cup of Salvation. Through this sacred act, may we find common ground, deepen our bonds of love, and be inspired to incarnate Christ's message of unity, peace, and justice in our daily lives. Amen.

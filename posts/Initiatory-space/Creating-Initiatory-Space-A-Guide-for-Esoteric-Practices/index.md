@@ -38,13 +38,13 @@ Initiatory Space also plays a significant role in inducing altered states of con
 
 Developing an Initiatory Space requires an intentional and disciplined approach. **Students should focus on the following methods and rituals to consecrate and access this charged environment**:
 
-1. ****Purification****: Begin by cleansing the designated space through methods such as smudging with sage or burning incense. Purification rituals are fundamental in warding off negative energies and creating an atmosphere conducive to spiritual exploration.
+1. **Purification**: Begin by cleansing the designated space through methods such as smudging with sage or burning incense. Purification rituals are fundamental in warding off negative energies and creating an atmosphere conducive to spiritual exploration.
 
-2. ****Circle Casting****: Construct a protective boundary around your space, either physically or symbolically. Visualizing a circle of light around you or using items like salt, stones, or chalk to delineate your sacred area is common in many traditions.
+2. **Circle Casting**: Construct a protective boundary around your space, either physically or symbolically. Visualizing a circle of light around you or using items like salt, stones, or chalk to delineate your sacred area is common in many traditions.
 
-3. ****Invoking Deities, Guides, or Spirits****: Call upon deities, ancestors, or spirit guides to join you in your practice and ask for their assistance, guidance, and protection. This relationship may provide valuable insights, support, and spiritual connection.
+3. **Invoking Deities, Guides, or Spirits**: Call upon deities, ancestors, or spirit guides to join you in your practice and ask for their assistance, guidance, and protection. This relationship may provide valuable insights, support, and spiritual connection.
 
-4. ****Focus and Mental Preparation****: Engage in meditative practices, visualizations, or affirmations to quiet your mind and prepare yourself for the experience of Initiatory Space. This will help open your psyche to fully embrace the energies and messages available to you.
+4. **Focus and Mental Preparation**: Engage in meditative practices, visualizations, or affirmations to quiet your mind and prepare yourself for the experience of Initiatory Space. This will help open your psyche to fully embrace the energies and messages available to you.
 
 ### Chapter 4: Potential Benefits and Risks within Initiatory Space
 

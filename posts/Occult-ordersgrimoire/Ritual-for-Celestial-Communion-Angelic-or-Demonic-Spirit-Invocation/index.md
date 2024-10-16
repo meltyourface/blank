@@ -35,7 +35,7 @@ Materials Required:
 8. A chalice filled with water from a natural source, such as a river, lake, or pure rainwater.
 9. A bowl or cauldron for burning the sacred herbs.
 
-Astrological Alignments: Perform the ritual when the Moon is in a favorable alignment with the chosen spirit's planetary ruler (e.g. Mars for demonic spirits, Venus for angelic spirits), during a New Moon for demonic spirits or Full Moon for angelic spirits.
+**Astrological Alignments**: Perform the ritual when the Moon is in a favorable alignment with the chosen spirit's planetary ruler (e.g. Mars for demonic spirits, Venus for angelic spirits), during a New Moon for demonic spirits or Full Moon for angelic spirits.
 
 Step-by-Step Procedure:
 

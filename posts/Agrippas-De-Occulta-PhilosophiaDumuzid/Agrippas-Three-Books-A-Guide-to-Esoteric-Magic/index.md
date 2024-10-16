@@ -25,7 +25,7 @@ In order to fully understand the importance and relevance of the "Three Books" i
 
 Heinrich Cornelius Agrippa (1486-1535) was a Renaissance German philosopher, theologian, and physician, who authored "De Occulta Philosophia Libri Tres" or "The Three Books of Occult Philosophy." This monumental work represents a synthesis of esoteric knowledge from various sources, such as Kabbalah, Hermeticism, Neoplatonism, and Christian mysticism, and stands as a foundational text in the history of Western esotericism.
 
-Each of the Three Books corresponds to a specific paradigm: elemental, celestial, and intellectual – representing the tripartite division of nature. These paradigms inform Agrippa's understanding of magical operations and the role Agrippa attributes to the mythological figure Dumuzid in his work.
+**Each of the Three Books corresponds to a specific paradigm**: elemental, celestial, and intellectual – representing the tripartite division of nature. These paradigms inform Agrippa's understanding of magical operations and the role Agrippa attributes to the mythological figure Dumuzid in his work.
 
 1. Elemental (Book One): Natural Magic
 The first book deals with Natural Magic, exploring the relationship between the human being and the elemental world. Agrippa discusses the forces, virtues, and magical properties inherent in elemental substances, such as plants, stones, and animals. Essential to Natural Magic are the microcosm/macrocosm analogy and the idea that everything in the universe is interconnected by various correspondences and sympathies. This book serves as a foundation for subsequent explorations in higher forms of magic.

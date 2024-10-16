@@ -47,7 +47,7 @@ The invocations shall be uttered in a low, sonorous tone, accompanied by the var
 3. Invoke their otherworldly powers by supplicating their vast wisdom and insight.
 4. Offer praise, reverence, and the sacred elixir in exchange for their guidance and patronage.
 
-Forbidden Void Lore: Arcane Secrets and Consequences
+**Forbidden Void Lore**: Arcane Secrets and Consequences
 
 The ritual incorporates an array of secretive Void practices passed down through obscure oral traditions among practitioners. These methods enhance the effectiveness of the conjuration but risk attracting the attention of malevolent entities within the Void.
 

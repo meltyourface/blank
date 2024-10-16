@@ -35,7 +35,7 @@ The Guardians of Truths are neither corporeal nor incorporeal entities; rather, 
 
 Abilities
 
-The primary abilities of these guardians revolve around three main aspects: preservation, protection, and illumination.
+**The primary abilities of these guardians revolve around three main aspects**: preservation, protection, and illumination.
 
 1. Preservation: The Guardians maintain an ethereal repository of esoteric knowledge - a vast, intangible library of past, present, and future wisdom. This sacred storehouse transcends temporal boundaries, continually expanding as new insights are gleaned.
 

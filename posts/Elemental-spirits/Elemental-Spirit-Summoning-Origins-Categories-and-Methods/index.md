@@ -29,19 +29,19 @@ Elemental spirits have played a central role in the study and practice of occult
 
 Origins of Elemental Spirits
 
-Ancient civilizations across the globe harbored varying beliefs and interpretations of the origins of Elemental spirits. ****For example, the Greeks attributed the origins of these entities to the four classical elements****: Fire, Water, Air, and Earth, while many Eastern traditions emphasized the more intricate interplay of five core elements. The idea of the elemental spirits arose as human beings sought to understand the fundamental building blocks of the universe, with these elementals regarded as the personifications of the forces driving the natural world.
+Ancient civilizations across the globe harbored varying beliefs and interpretations of the origins of Elemental spirits. **For example, the Greeks attributed the origins of these entities to the four classical elements**: Fire, Water, Air, and Earth, while many Eastern traditions emphasized the more intricate interplay of five core elements. The idea of the elemental spirits arose as human beings sought to understand the fundamental building blocks of the universe, with these elementals regarded as the personifications of the forces driving the natural world.
 
 Categories and Characteristics
 
 The four primary categories of Elemental spirits correspond to the aforementioned elements:
 
-1. ****Fire Spirits (Salamanders)****: Salamanders are the most energetic of the Elemental spirits. They govern transformation and destruction, igniting the fires of creativity and passion. Salamanders are often depicted as lizard-like or serpentine beings, draped in flame.
+1. **Fire Spirits (Salamanders)**: Salamanders are the most energetic of the Elemental spirits. They govern transformation and destruction, igniting the fires of creativity and passion. Salamanders are often depicted as lizard-like or serpentine beings, draped in flame.
 
-2. ****Water Spirits (Undines)****: Undines are closely associated with emotions, intuition, healing, and purification. They manifest in various aquatic forms, such as nymphs, mermaids, or water sprites, and frequent bodies of water, including oceans, lakes, and rivers.
+2. **Water Spirits (Undines)**: Undines are closely associated with emotions, intuition, healing, and purification. They manifest in various aquatic forms, such as nymphs, mermaids, or water sprites, and frequent bodies of water, including oceans, lakes, and rivers.
 
-3. ****Air Spirits (Sylphs)****: Sylphs embody the essence of intellect, communication, and movement. Regarded as graceful and ethereal beings, they take on diverse winged forms and often communicate through the whispering of the wind or the rustling of leaves.
+3. **Air Spirits (Sylphs)**: Sylphs embody the essence of intellect, communication, and movement. Regarded as graceful and ethereal beings, they take on diverse winged forms and often communicate through the whispering of the wind or the rustling of leaves.
 
-4. ****Earth Spirits (Gnomes)****: Gnomes represent the physical aspects of the Earth, concentrating on stability, abundance, and grounding. They may appear as small, dwarf-like beings or assume other terrestrial forms, residing within the depths of the Earth or clustered around rock formations.
+4. **Earth Spirits (Gnomes)**: Gnomes represent the physical aspects of the Earth, concentrating on stability, abundance, and grounding. They may appear as small, dwarf-like beings or assume other terrestrial forms, residing within the depths of the Earth or clustered around rock formations.
 
 Summoning Methods and Safeguards
 

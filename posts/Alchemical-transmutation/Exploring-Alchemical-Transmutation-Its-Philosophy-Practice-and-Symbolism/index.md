@@ -32,7 +32,7 @@ Alchemical transmutation is based on the fundamental idea that all matter has an
 Practical Approaches and Symbolism
 The practical aspect of alchemical transmutation is steeped in symbolic language, reflecting the artisanal nature of alchemy. Practitioners often encoded their processes and techniques in allegory, using metaphorical expressions involving animals, plants, and celestial bodies. This was done to veil the true knowledge from the uninitiated, preventing the misuse of such profound wisdom.
 
-Three prime components feature prominently in alchemical texts: mercury (fluidity and volatility), sulfur (combustibility), and salt (stability and permanence). Each represents a fundamental aspect of matter, combining to create the perfect balance in transmutation.
+**Three prime components feature prominently in alchemical texts**: mercury (fluidity and volatility), sulfur (combustibility), and salt (stability and permanence). Each represents a fundamental aspect of matter, combining to create the perfect balance in transmutation.
 
 The Magnum Opus, or Great Work, is the culmination of the alchemical process, divided into four stages:
 

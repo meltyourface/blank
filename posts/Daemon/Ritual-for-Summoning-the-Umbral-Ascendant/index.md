@@ -61,7 +61,7 @@ Create a sigil using a combination of sharp, angular lines, and undulating curve
 
 5. Advanced Techniques
 
-Astral Projection: 
+**Astral Projection**: 
 - Learn to project your astral form for deeper communion with the Umbral Ascendant.
 
 Blood Offerings:

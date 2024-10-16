@@ -21,17 +21,17 @@ excerpt: Design a series of elaborate ceremonies to summon the four Eternal Temp
 ---
 Ceremony 1: The Summoning of Aurorus, Deity of Spring
 
-Symbols: The blossoming flower, the verdant sprout, and the rising sun.
+**Symbols**: The blossoming flower, the verdant sprout, and the rising sun.
 
-Offerings: Freshly picked wildflowers, honey, and sweet spring water.
+**Offerings**: Freshly picked wildflowers, honey, and sweet spring water.
 
-Incantations: 
+**Incantations**: 
 "In the season of bloom and renewal,
 By the powers of the rising sun,
 Aurorus, Eternal Deity of Spring,
 We beseech your presence and lightness."
 
-Tools: A floral circle of delicate blooms, aromatic incense of jasmine and honeysuckle, and a quartz crystal sphere.
+**Tools**: A floral circle of delicate blooms, aromatic incense of jasmine and honeysuckle, and a quartz crystal sphere.
 
 Steps:
 1. Arrange the wildflowers in a circle, large enough for the petitioner to stand within.
@@ -41,13 +41,13 @@ Steps:
 5. Close the eyes and meditate on the growth and renewal of spring for five minutes.
 6. Open the eyes to witness Aurorus appear in the circle in a spectacle of golden light.
 
-Alignment of Celestial Bodies: During the Spring Equinox, the sun crosses the celestial equator, signifying a new cycle of life and growth. This celestial event amplifies Aurorus's power, enhancing the bond and wisdom gained from the ritual.
+**Alignment of Celestial Bodies**: During the Spring Equinox, the sun crosses the celestial equator, signifying a new cycle of life and growth. This celestial event amplifies Aurorus's power, enhancing the bond and wisdom gained from the ritual.
 
 Ceremony 2: The Summoning of Solustus, Deity of Summer
 
-Symbols: The fiery sun, summer fruits, and an earthen chalice.
+**Symbols**: The fiery sun, summer fruits, and an earthen chalice.
 
-Offerings: Freshly picked sun-ripened fruits, fragrant summer ale, and a small bonfire.
+**Offerings**: Freshly picked sun-ripened fruits, fragrant summer ale, and a small bonfire.
 
 Incantations:
 "In the season of warmth and abundance,
@@ -55,7 +55,7 @@ By the golden light of the vibrant sun,
 Solustus, Eternal Deity of Summer,
 We honor your radiance and power."
 
-Tools: A solar pattern, made of sunflower petals, a golden chalice filled with summer ale, and an enchanted flame within the focus of the offering bonfire.
+**Tools**: A solar pattern, made of sunflower petals, a golden chalice filled with summer ale, and an enchanted flame within the focus of the offering bonfire.
 
 Steps:
 1. Place the sunflower petals in a central area, forming a solar pattern on the ground.
@@ -65,13 +65,13 @@ Steps:
 5. Invoke Solustus's presence by chanting their name three times.
 6. Witness the deity emerge from within the enchanted flame, bearing their radiant wisdom and blessings.
 
-Alignment of Celestial Bodies: During the Summer Solstice, the sun reaches its zenith, signifying the peak of solar power. This celestial alignment strengthens Solustus's connection with the mortal realm, granting bountiful blessings and energies.
+**Alignment of Celestial Bodies**: During the Summer Solstice, the sun reaches its zenith, signifying the peak of solar power. This celestial alignment strengthens Solustus's connection with the mortal realm, granting bountiful blessings and energies.
 
 Ceremony 3: The Summoning of Autumnus, Deity of Autumn
 
-Symbols: The falling leaves, the harvest moon, and an ornate balance scale.
+**Symbols**: The falling leaves, the harvest moon, and an ornate balance scale.
 
-Offerings: Grains, honeyed wine, and branches from an apple tree.
+**Offerings**: Grains, honeyed wine, and branches from an apple tree.
 
 Incantations:
 "In the season of brisk winds and balance,
@@ -79,7 +79,7 @@ By the light of the resplendent harvest moon,
 Autumnus, Eternal Deity of Autumn,
 We evoke your harmony and tranquility."
 
-Tools: A circular altar of fallen leaves, a scale adorned with balance sigils, and a moonstone.
+**Tools**: A circular altar of fallen leaves, a scale adorned with balance sigils, and a moonstone.
 
 Steps:
 1. Prepare the circular altar, adorning it with fallen leaves, grains, and the apple tree branches.
@@ -88,13 +88,13 @@ Steps:
 4. Close the eyes and imagine the balance of life and the bounty of the harvest.
 5. Chant the name "Autumnus" thrice, opening the eyes to the deity's arrival.
 
-Alignment of Celestial Bodies: During the Autumn Equinox, day and night achieve equilibrium, signifying balance within nature. This celestial occurrence bolsters Autumnus's influence, heightening the blessings of harmony and spiritual growth.
+**Alignment of Celestial Bodies**: During the Autumn Equinox, day and night achieve equilibrium, signifying balance within nature. This celestial occurrence bolsters Autumnus's influence, heightening the blessings of harmony and spiritual growth.
 
 Ceremony 4: The Summoning of Hiemalis, Deity of Winter
 
-Symbols: The crystalline snowflake, a wolf or polar bear emblem, and a silver chalice containing ice.
+**Symbols**: The crystalline snowflake, a wolf or polar bear emblem, and a silver chalice containing ice.
 
-Offerings: Icy water, a fresh sprig of evergreen, and a wreath of holly and mistletoe.
+**Offerings**: Icy water, a fresh sprig of evergreen, and a wreath of holly and mistletoe.
 
 Incantations:
 "In the season of cold and reflection,
@@ -102,7 +102,7 @@ By the piercing light of the icy north star,
 Hiemalis, Eternal Deity of Winter,
 We summon your stillness and wisdom."
 
-Tools: A silver-imbued circle of snow, evergreen branches in the shape of a pentagram, and a frost-encrusted athame (ritual knife).
+**Tools**: A silver-imbued circle of snow, evergreen branches in the shape of a pentagram, and a frost-encrusted athame (ritual knife).
 
 Steps:
 1. Trace the circle of snow using the athame, embedding silver energy within the earth.
@@ -112,4 +112,4 @@ Steps:
 5. Whisper the name "Hiemalis" thrice, closing the eyes and embracing the chilling energy.
 6. Open the eyes and bear witness to the arrival of the deity, surrounded by a shimmering blizzard.
 
-Alignment of Celestial Bodies:  During the Winter Solstice, the Earth experiences its longest night, signifying a time of introspection and regeneration. This celestial event magnifies Hiemalis's power, imparting the divine wisdom of reflection and introspection upon those who invoke their presence.
+**Alignment of Celestial Bodies**:  During the Winter Solstice, the Earth experiences its longest night, signifying a time of introspection and regeneration. This celestial event magnifies Hiemalis's power, imparting the divine wisdom of reflection and introspection upon those who invoke their presence.

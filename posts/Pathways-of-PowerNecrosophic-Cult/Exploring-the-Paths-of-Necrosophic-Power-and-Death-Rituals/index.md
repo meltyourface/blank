@@ -53,12 +53,12 @@ Rituals within the Necrosophic Cult are crucial tools for both understanding and
 
 There are several core principles and practices that underpin the Pathways of Power within the Necrosophic Cult:
 
-1. ****Balance****: Practitioners must maintain a delicate equilibrium between their understanding of life and death, recognizing that each aspect exists in a state of interdependence with the other.
+1. **Balance**: Practitioners must maintain a delicate equilibrium between their understanding of life and death, recognizing that each aspect exists in a state of interdependence with the other.
 
-2. ****Invocation and Evocation****: These essential techniques allow initiates to call upon and wield the energies associated with the Pathways of Power, tapping into the cycles of existence that permeate through life and death.
+2. **Invocation and Evocation**: These essential techniques allow initiates to call upon and wield the energies associated with the Pathways of Power, tapping into the cycles of existence that permeate through life and death.
 
-3. ****Astral Travel****: The practice of projecting one's consciousness beyond the physical body, allowing practitioners to explore both the realms of the living and those that lie beyond, further enhancing their understanding of the Pathways of Power.
+3. **Astral Travel**: The practice of projecting one's consciousness beyond the physical body, allowing practitioners to explore both the realms of the living and those that lie beyond, further enhancing their understanding of the Pathways of Power.
 
-4. ****Knowledge of Correspondences****: The cultivation of an understanding of the relationships between symbols, colors, numbers, and other metaphysical aspects, enabling practitioners to create sigils and other ritual tools that serve as focal points for channeling the energies associated with the Pathways of Power.
+4. **Knowledge of Correspondences**: The cultivation of an understanding of the relationships between symbols, colors, numbers, and other metaphysical aspects, enabling practitioners to create sigils and other ritual tools that serve as focal points for channeling the energies associated with the Pathways of Power.
 
 In conclusion, the mastery of the Pathways of Power within the Necrosophic Cult requires a deep and unwavering commitment to the exploration of the relationship between life and death, and an understanding of the inherent balance that exists between these two fundamental aspects of existence. Through the study and practice of the rituals, principles, and techniques outlined herein, initiates can unlock and harness the energies associated with these pathways, ultimately transcending their mortal limitations and tapping into the limitless potential that lies beyond the veil.

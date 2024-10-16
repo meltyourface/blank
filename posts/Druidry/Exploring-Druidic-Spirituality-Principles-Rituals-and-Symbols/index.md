@@ -28,7 +28,7 @@ Druidry, a spiritual and mystical tradition rooted in the ancient Celtic culture
 
 ### Section 1: Core Principles of Druidry
 
-Druidry is anchored in three foundational principles: the reverence for nature, the pursuit of wisdom, and the recognition of interconnectedness.
+**Druidry is anchored in three foundational principles**: the reverence for nature, the pursuit of wisdom, and the recognition of interconnectedness.
 
 ### 1.1 Reverence for Nature
 

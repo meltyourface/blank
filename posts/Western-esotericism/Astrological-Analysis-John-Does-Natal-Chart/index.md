@@ -42,27 +42,27 @@ Midheaven: 4° Pisces
 
 3. Now, I will interpret the main aspects of John Doe's natal chart along with the integration of lesser-known astrological aspects such as fixed stars and Arabic Parts:
 
-Sun in Capricorn: John Doe has a strong drive for achievement and material success. He is practical, disciplined, and resourceful. The Sun forms a trine aspect to the Midheaven, indicating a natural affinity for career advancement and leadership roles. 
+**Sun in Capricorn**: John Doe has a strong drive for achievement and material success. He is practical, disciplined, and resourceful. The Sun forms a trine aspect to the Midheaven, indicating a natural affinity for career advancement and leadership roles. 
 
-Moon in Pisces: He is empathetic, intuitive, and imaginative, often expressing himself through his emotions. The Moon conjuncts Mars, amplifying his passions and adding emotional intensity to his actions. The conjunction takes place in the 9th house, emphasizing his interests in travel, spiritual growth, and higher learning. 
+**Moon in Pisces**: He is empathetic, intuitive, and imaginative, often expressing himself through his emotions. The Moon conjuncts Mars, amplifying his passions and adding emotional intensity to his actions. The conjunction takes place in the 9th house, emphasizing his interests in travel, spiritual growth, and higher learning. 
 
-Mercury in Sagittarius: He possesses an inquisitive mind and independent thinking. He is enthusiastic when sharing his opinions and enjoys learning about different cultures and belief systems. 
+**Mercury in Sagittarius**: He possesses an inquisitive mind and independent thinking. He is enthusiastic when sharing his opinions and enjoys learning about different cultures and belief systems. 
 
-Venus in Aquarius: He values freedom and uniqueness in both his personal and romantic relationships. He is drawn to unconventional and innovative pursuits.
+**Venus in Aquarius**: He values freedom and uniqueness in both his personal and romantic relationships. He is drawn to unconventional and innovative pursuits.
 
-Mars in Pisces: He acts passionately and instinctively. He may pursue activities related to arts, spirituality, or healing.
+**Mars in Pisces**: He acts passionately and instinctively. He may pursue activities related to arts, spirituality, or healing.
 
 Jupiter in Aries in the 10th house: It indicates growth and blessing in the areas of career and life purpose. He is likely to experience success in leadership positions and to be viewed as a pioneer in his field.
 
-Saturn in Taurus: He is persistent and patient in achieving his goals. Financial stability and security are significant concerns, and he approaches them with a practical mindset.
+**Saturn in Taurus**: He is persistent and patient in achieving his goals. Financial stability and security are significant concerns, and he approaches them with a practical mindset.
 
-Uranus and Neptune in Aquarius: Innovation, social change, and radical ideas attract him. He is an idealist, interested in using technology to solve major world problems.
+**Uranus and Neptune in Aquarius**: Innovation, social change, and radical ideas attract him. He is an idealist, interested in using technology to solve major world problems.
 
-Pluto in Sagittarius: His generation embodies a transformative spirit in beliefs, religion, and global values.
+**Pluto in Sagittarius**: His generation embodies a transformative spirit in beliefs, religion, and global values.
 
-Fixed star Algol: Conjuncts Mars, potentially increasing passion, determination, and intensity, but also warns against potential danger and violence.
+**Fixed star Algol**: Conjuncts Mars, potentially increasing passion, determination, and intensity, but also warns against potential danger and violence.
 
-Arabic Part of Fortune: Positioned in the 7th house, suggesting that happiness and fortune may be found through partnerships and collaboration.
+**Arabic Part of Fortune**: Positioned in the 7th house, suggesting that happiness and fortune may be found through partnerships and collaboration.
 
 4. Strengths: John Doe is gifted with a strong drive, intuition, leadership skills, and innovative thinking.
 

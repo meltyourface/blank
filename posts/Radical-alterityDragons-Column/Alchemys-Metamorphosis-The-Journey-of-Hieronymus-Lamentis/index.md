@@ -24,25 +24,25 @@ In the dimly lit chamber of an ancient library, shrouded in the heavy must of ti
 
 What follows is the detailed chronicle of Hieronymus Lamentis' metamorphosis within the Radical alterity.Dragon's Column domain – an exploration of the enigmatic stages of Alchemy's Magnum Opus, his pursuit of gnosis, and the uncharted territories of his encounters with supernatural entities and esoteric wisdom.
 
-### I. ****Nigredo****: The Blackening
+### I. **Nigredo**: The Blackening
 
 The Nigredo stage commenced with Hieronymus' descent into the shadowy recesses of his own psyche. This journey brought him face to face with his innermost fears and long-suppressed emotions buried deep within the labyrinth of his mind. Amidst the suffocating darkness, Hieronymus confronted the prima materia – the raw, untamed chaos that resides within all of humanity.
 
 He immersed himself in despair and hopelessness, allowing these emotions to wrap around him like chains, binding him to the lessons they embodied. As he navigated the treacherous landscape of his personal underworld, Hieronymus encountered various supernatural entities that offered cryptic guidance and esoteric insight. These beings took the form of archetypal symbols reflecting his subconscious mind's attempt to illuminate the way forward.
 
-### II. ****Albedo****: The Whitening
+### II. **Albedo**: The Whitening
 
 Emerging from the darkness of Nigredo, Hieronymus entered the stage of Albedo – the purification and unification of his fragmented psyche. Each aspect of his personality now became aligned with the One, the true essence of his being. He forged a pristine white stone from his inner alchemical laboratory, signifying the purification of his soul from the contaminants of the world.
 
 Esoteric wisdom flowed through Hieronymus like a crystalline river, nurturing the seeds of embryonic transformation within him. He embraced the light of the moon, reflecting its luminescent glow as a beacon of hope and redemption in the darkness. It was in this stage that he also formed powerful bonds with benevolent supernatural entities, wise mentors who guided his understanding of the unseen realms.
 
-### III. ****Citrinitas****: The Yellowing
+### III. **Citrinitas**: The Yellowing
 
 With his purified essence in hand, Hieronymus initiated the Citrinitas phase – the stage of illumination. Drawing inspiration from solar energy, he channeled the power of the sun into his being, merging the previously separated realms of light and shadow within him.
 
-As the fires of Citrinitas burned within his soul, Hieronymus embarked on a quest for gnosis through the study of sacred texts, arcane symbols, and profound communion with the supernatural entities that accompanied him on his journey. ****His thoughts, emotions, and actions merged into a singular purpose****: the continuous refinement of his spiritual essence through the alchemical transmutation of base desires into divine wisdom.
+As the fires of Citrinitas burned within his soul, Hieronymus embarked on a quest for gnosis through the study of sacred texts, arcane symbols, and profound communion with the supernatural entities that accompanied him on his journey. **His thoughts, emotions, and actions merged into a singular purpose**: the continuous refinement of his spiritual essence through the alchemical transmutation of base desires into divine wisdom.
 
-### IV. ****Rubedo****: The Reddening
+### IV. **Rubedo**: The Reddening
 
 Finally, the culmination of Hieronymus' metamorphosis dawned with the emergence of the Rubedo stage – the stage of the philosopher's stone. Drawing from the culmination of his experiences and wisdom gained from the previous stages, he united the divine masculine and feminine aspects within him, achieving the ultimate stage of spiritual integration – the sacred marriage, the hieros gamos.
 

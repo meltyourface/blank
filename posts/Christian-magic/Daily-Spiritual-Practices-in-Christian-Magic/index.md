@@ -40,7 +40,7 @@ excerpt: >
 ---
 ## I. Invocation of the Four Archangels
 
-Begin each day by invoking the four Archangels: Raphael, the healer and patron of travelers; Michael, the protector and warrior of light; Gabriel, the messenger and revealer of divine mysteries; and Uriel, the illuminator and guide in spiritual understanding. Focus on each Archangel's unique attributes, and ask for their guidance and protection throughout the day.
+**Begin each day by invoking the four Archangels**: Raphael, the healer and patron of travelers; Michael, the protector and warrior of light; Gabriel, the messenger and revealer of divine mysteries; and Uriel, the illuminator and guide in spiritual understanding. Focus on each Archangel's unique attributes, and ask for their guidance and protection throughout the day.
 
 ### II. Parabolic Contemplation
 

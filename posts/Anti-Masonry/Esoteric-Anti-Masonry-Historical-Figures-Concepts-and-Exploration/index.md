@@ -34,21 +34,21 @@ Relevant Historical Figures
 
 Several historical figures have played critical roles in shaping Anti-Masonry's esoteric development. **Some notable individuals include**:
 
-1. ****John Robison****: A Scottish physicist and mathematician, Robison published "Proofs of a Conspiracy" in 1797, which detailed allegations of Masonic involvement in radical political movements aiming to undermine society.
+1. **John Robison**: A Scottish physicist and mathematician, Robison published "Proofs of a Conspiracy" in 1797, which detailed allegations of Masonic involvement in radical political movements aiming to undermine society.
 
-2. ****Charles G. Finney****: A prominent American preacher during the Second Great Awakening, Finney argued that Freemasonry's theological ideas were incompatible with Christianity and called for repentance among Masonic members.
+2. **Charles G. Finney**: A prominent American preacher during the Second Great Awakening, Finney argued that Freemasonry's theological ideas were incompatible with Christianity and called for repentance among Masonic members.
 
-3. ****Leo Taxil (Gabriel Jogand-Pagès)****: A French author and hoaxer, Taxil infamously fabricated stories about Satanism, human sacrifice, and other nefarious activities within the Masonic ranks during the late 19th century. Though eventually exposed as a fraud, his sensational works contributed to enduring misconceptions about the nature of Freemasonry.
+3. **Leo Taxil (Gabriel Jogand-Pagès)**: A French author and hoaxer, Taxil infamously fabricated stories about Satanism, human sacrifice, and other nefarious activities within the Masonic ranks during the late 19th century. Though eventually exposed as a fraud, his sensational works contributed to enduring misconceptions about the nature of Freemasonry.
 
 Key Concepts and Beliefs
 
 Anti-Masonry encompasses a diverse range of ideas and beliefs. **Some prominent concepts include**:
 
-1. ****Secret Societies and Conspiracies****: Many Anti-Masons maintain that Freemasonry serves as a front for a much darker, hidden agenda. They argue that secret societies wield behind-the-scenes control, manipulating global events, politics, and other institutions.
+1. **Secret Societies and Conspiracies**: Many Anti-Masons maintain that Freemasonry serves as a front for a much darker, hidden agenda. They argue that secret societies wield behind-the-scenes control, manipulating global events, politics, and other institutions.
 
-2. ****Corruption of Power****: Critics assert that Freemasonry's hierarchies and clandestine nature nurture the potential for corruption, nepotism, and favoritism within its ranks. This, in turn, could compromise the integrity and stability of governments and other organizations infiltrated by Masonic influence. 
+2. **Corruption of Power**: Critics assert that Freemasonry's hierarchies and clandestine nature nurture the potential for corruption, nepotism, and favoritism within its ranks. This, in turn, could compromise the integrity and stability of governments and other organizations infiltrated by Masonic influence. 
 
-3. ****Syncretism and Heresy****: Some argue that Freemasonry is antithetical to particular religious doctrines, with its emphasis on universalism and the melding of various spiritual beliefs. This syncretism is considered heretical and dangerous by some, who worry this blending will weaken or undermine established theological principles.
+3. **Syncretism and Heresy**: Some argue that Freemasonry is antithetical to particular religious doctrines, with its emphasis on universalism and the melding of various spiritual beliefs. This syncretism is considered heretical and dangerous by some, who worry this blending will weaken or undermine established theological principles.
 
 Personal Growth and Esoteric Exploration
 

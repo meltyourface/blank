@@ -80,7 +80,7 @@ The Comprehensive Metaphysical Self-Defense System for the Captain of the host, 
 2. Lesser-Known Summoning – call upon specialized beings associated with aether, time, and cosmic forces for enhanced defense or offense
    a. Invocation of Transcendent Spirits – tap into esoteric knowledge to communicate and command these powerful beings
 
-### VI. ****Advanced Practices****: Multifaceted Countermeasures
+### VI. **Advanced Practices**: Multifaceted Countermeasures
 
 1. Elemental Fusion – combine two or more elemental energies for complex, highly potent defenses
    a. Steam Burst – merge fire and water energies to create a scalding steam barrier, quickly repelling attacks

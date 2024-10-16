@@ -22,11 +22,11 @@ excerpt: >
 ---
 To embark on this deep dive into the connections between the nine circles of Dante's Inferno, the Qliphothic Tree of the Kabbalah, and the symbolism of the seven deadly sins, it's important to start with a basic understanding of each concept. This analysis will help reveal a unified structure of Hell as an esoteric path for self-realization and transformation.
 
-1. ****Dante's Inferno****: One of the most famous depictions of Hell, Inferno is the first part of Dante Alighieri's epic poem, the Divine Comedy. It is divided into nine concentric circles, each representing a different type of sin and its corresponding punishment.
+1. **Dante's Inferno**: One of the most famous depictions of Hell, Inferno is the first part of Dante Alighieri's epic poem, the Divine Comedy. It is divided into nine concentric circles, each representing a different type of sin and its corresponding punishment.
 
-2. ****Qliphothic Tree of the Kabbalah****: The Kabbalah is a system of Jewish mysticism and esoteric teaching. The Qliphothic Tree, also known as the Tree of Death, is a counterpart to the more well-known Tree of Life, representing the perversion and imbalance of divine energy. Each of its ten spheres represents a dark aspect of the divine.
+2. **Qliphothic Tree of the Kabbalah**: The Kabbalah is a system of Jewish mysticism and esoteric teaching. The Qliphothic Tree, also known as the Tree of Death, is a counterpart to the more well-known Tree of Life, representing the perversion and imbalance of divine energy. Each of its ten spheres represents a dark aspect of the divine.
 
-3. ****The Seven Deadly Sins****: A concept in Christian teachings, these are the seven vices that are considered particularly harmful to spiritual growth and human morality: pride, greed, lust, envy, gluttony, wrath, and sloth.
+3. **The Seven Deadly Sins**: A concept in Christian teachings, these are the seven vices that are considered particularly harmful to spiritual growth and human morality: pride, greed, lust, envy, gluttony, wrath, and sloth.
 
 Now that we've laid the groundwork, let's explore the connections between these ideas.
 

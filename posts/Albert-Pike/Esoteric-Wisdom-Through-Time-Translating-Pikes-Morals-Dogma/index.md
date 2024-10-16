@@ -26,7 +26,7 @@ Original text: "The true name of Satan, the Kabalists say, is that of Yahveh rev
 
 **Annotation**: Kabbalists are practitioners of the mystic tradition of Kabbalah, rooted in Jewish esotericism. Yahveh refers to the name of God in the Hebrew tradition.
 
-Modern connection: This concept of Satan can be related to the modern-day Left Hand Path, where practitioners often reject the idea of conforming to mainstream religious dogmas and question traditional notions of "good" and "evil."
+**Modern connection**: This concept of Satan can be related to the modern-day Left Hand Path, where practitioners often reject the idea of conforming to mainstream religious dogmas and question traditional notions of "good" and "evil."
 
 Passage 2:
 Original text: "Initiation is the key that admits a man into the secret knowledge of which the occult sciences treat; the proofs of the truth of which logic demands, before it will accept them."
@@ -35,7 +35,7 @@ Original text: "Initiation is the key that admits a man into the secret knowledg
 
 **Annotation**: Initiation refers to the rites or ceremonies that characterize various forms of occult and mystery tradition, allowing access to hidden knowledge and practices.
 
-Modern connection: The Freemasons, who follow a rich tradition of initiation, incorporate a series of ceremonies, rituals, and symbols aimed at guiding new members towards deeper understanding and success in their personal, spiritual, and fraternal lives.
+**Modern connection**: The Freemasons, who follow a rich tradition of initiation, incorporate a series of ceremonies, rituals, and symbols aimed at guiding new members towards deeper understanding and success in their personal, spiritual, and fraternal lives.
 
 Passage 3:
 Original text: "The divine energy, symbolized by the generative principle, eternally reproduces new forms; and the reproduction is symbolized by the phallus and triangle."
@@ -44,6 +44,6 @@ Original text: "The divine energy, symbolized by the generative principle, etern
 
 **Annotation**: The generative principle refers to the inherent capabilities of creation within divine energies. The phallus, the male reproductive organ, symbolizes creation, while the triangle represents the blending of spiritual forces.
 
-Modern connection: Occult practices and modern Freemasonry continue to integrate symbolism to express and enhance spiritual understanding. Sigils, alchemical symbols, and ceremonial tools play a significant role in contemporary esoteric traditions to convey complex metaphysical concepts.
+**Modern connection**: Occult practices and modern Freemasonry continue to integrate symbolism to express and enhance spiritual understanding. Sigils, alchemical symbols, and ceremonial tools play a significant role in contemporary esoteric traditions to convey complex metaphysical concepts.
 
 By translating Albert Pike's "Morals and Dogma" into contemporary language, we can see the continuity of esoteric wisdom permeating through history. The exploration of Kabbalistic concepts, the importance of initiation, and the use of symbols can be found resonating in today's occult practices and Freemasonry, highlighting the timeless insights Pike provided in his works.

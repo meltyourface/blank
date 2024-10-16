@@ -66,7 +66,7 @@ Saturn-Sahasrara: Emphasizes spiritual awakening, cosmic understanding, and karm
 
 **Moons**: Emotional fluctuations and reflections of inner realms.
 
-Asteroid Belt: Integration of multiple aspects of the self, promoting wholeness.
+**Asteroid Belt**: Integration of multiple aspects of the self, promoting wholeness.
 
 4. **Example Application**:
 

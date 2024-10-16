@@ -25,7 +25,7 @@ excerpt: >
 
 ### Chapter 1: L. Ron Hubbard and the Origins of Scientology
 
-Lafayette Ronald Hubbard, commonly referred to as L. ****Ron Hubbard, founded the Church of Scientology in 1953. Hubbard was a prolific science fiction writer who found his spiritual calling when he published Dianetics****: The Modern Science of Mental Health in 1950. The popularity of Dianetics led Hubbard to develop a more expansive and comprehensive spiritual practice that would later become Scientology.
+Lafayette Ronald Hubbard, commonly referred to as L. **Ron Hubbard, founded the Church of Scientology in 1953. Hubbard was a prolific science fiction writer who found his spiritual calling when he published Dianetics**: The Modern Science of Mental Health in 1950. The popularity of Dianetics led Hubbard to develop a more expansive and comprehensive spiritual practice that would later become Scientology.
 
 ### Chapter 2: The Nature of Thetans
 
@@ -37,7 +37,7 @@ Auditing is a core practice within Scientology that allows a person to confront,
 
 ### Chapter 4: The Bridge to Total Freedom – Achieving Spiritual Progress
 
-The Bridge to Total Freedom is a metaphorical ladder that Scientologists ascend in their pursuit of spiritual enlightenment. ****It is comprised of two parallel paths****: the Training route, which teaches the knowledge and skills necessary for becoming an auditor, and the Processing route, in which individuals progress through various levels of spiritual advancement.
+The Bridge to Total Freedom is a metaphorical ladder that Scientologists ascend in their pursuit of spiritual enlightenment. **It is comprised of two parallel paths**: the Training route, which teaches the knowledge and skills necessary for becoming an auditor, and the Processing route, in which individuals progress through various levels of spiritual advancement.
 
 On the Processing path, individuals move through a series of graded levels, known as Operating Thetan (OT) Levels, with the ultimate goal of achieving the state of "Clear." A Clear is an individual who has confronted and eliminated their negative past experiences, also known as engrams. Beyond the state of Clear, higher OT Levels focus on refining a person's spiritual abilities and connecting them to their true thetan nature.
 

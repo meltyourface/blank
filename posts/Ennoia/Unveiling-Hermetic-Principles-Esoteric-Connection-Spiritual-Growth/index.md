@@ -32,43 +32,43 @@ The Ennoia Codex seeks to illuminate the interconnectedness of these principles,
 
 This foundational principle contains the notion that the Universe is mental, a grand construct of the preeminent Cosmic Consciousness. Mentalism purports that everything we perceive emanates from a singular universal mind, shaping reality through thought. In Ennoia, practitioners focus on honing mental discipline to sharpen their intuitive connection with this cosmic force.
 
-Historical context: Ancient traditions of Egypt and Greece explored the inner sanctums of the mind, revealing profound insights on the nature of reality. The minds of mystics and philosophers alike bear witness to the boundless potential of human consciousness.
+**Historical context**: Ancient traditions of Egypt and Greece explored the inner sanctums of the mind, revealing profound insights on the nature of reality. The minds of mystics and philosophers alike bear witness to the boundless potential of human consciousness.
 
 ### II. The Principle of Correspondence
 
 As above, so below; as within, so without. The Principle of Correspondence indicates the mirrored harmony between the macrocosm and the microcosm, the universal and the individual. In Ennoia, this tenet encourages the practitioner to seek knowledge and wisdom through the study of celestial patterns and their terrestrial consequences.
 
-Historical context: The Emerald Tablet, attributed to Hermes Trismegistus, accounts for this principle, serving as an essential point in alchemy, astrology, and other mystical arts throughout history.
+**Historical context**: The Emerald Tablet, attributed to Hermes Trismegistus, accounts for this principle, serving as an essential point in alchemy, astrology, and other mystical arts throughout history.
 
 ### III. The Principle of Vibration
 
 The Principle of Vibration dictates that the Universe is continually in motion, an everlasting dance of varying frequencies. Every particle pulsates and vibrates, leading to different manifestations of energy. Practitioners of Ennoia learn to tap into these frequencies, bringing their inner vibrations into harmony with those of the universe.
 
-Historical context: Rooted in various ancient civilizations such as ancient India, Egypt, and China, vibrational studies propelled developments in music, contemplative practices, and alternative healing modalities.
+**Historical context**: Rooted in various ancient civilizations such as ancient India, Egypt, and China, vibrational studies propelled developments in music, contemplative practices, and alternative healing modalities.
 
 ### IV. The Principle of Polarity
 
 In the dance of duality, the Principle of Polarity reveals that opposing forces constitute existence—light and dark, love and fear, positive and negative. Ennoia practitioners glean insight from the contrast of these forces, seeking to achieve balance and unity within themselves and the cosmos.
 
-Historical context: This dualistic concept permeates the philosophical realms of Zoroastrianism, Taoism, and Gnosticism, emphasizing the necessity of opposing forces to maintain equilibrium.
+**Historical context**: This dualistic concept permeates the philosophical realms of Zoroastrianism, Taoism, and Gnosticism, emphasizing the necessity of opposing forces to maintain equilibrium.
 
 ### V. The Principle of Rhythm
 
 The cyclical nature of the universe is encapsulated by the Principle of Rhythm, a cosmic law governing the ebbs and flows of life. By embracing the natural fluctuations of existence, Ennoia practitioners learn to harmonize their lives with these celestial cycles, seizing opportunities and respecting the temporal nature of reality.
 
-Historical context: Ancient cultures revered the rhythmic patterns of nature, observing celestial bodies and seasonal changes, weaving their wisdom into rituals, calendars, and the arts.
+**Historical context**: Ancient cultures revered the rhythmic patterns of nature, observing celestial bodies and seasonal changes, weaving their wisdom into rituals, calendars, and the arts.
 
 ### VI. The Principle of Cause and Effect
 
 This consequential principle teaches that every action has an equal and opposite reaction, evident in the karmic interplay within life. Ennoia practitioners cultivate awareness of their thoughts, words, and actions, taking conscious steps to create positive outcomes by embodying virtue and wisdom.
 
-Historical context: Imprinted upon the annals of human history, this universal law informed the ethical constructs of ancient civilizations and continues to resonate within contemporary spiritual movements.
+**Historical context**: Imprinted upon the annals of human history, this universal law informed the ethical constructs of ancient civilizations and continues to resonate within contemporary spiritual movements.
 
 ### VII. The Principle of Gender
 
 The Principle of Gender acknowledges the complementary duality of masculine and feminine energies, existing within every aspect of creation. Ennoia practitioners pursue inner equilibrium by harmonizing these polar forces, attaining wholeness and spiritual fulfillment.
 
-Historical context: The ubiquitous presence of masculine and feminine deities in ancient religions reflects the profound influence of this principle upon cultural consciousness, shaping spiritual paradigms and the quest for inner balance.
+**Historical context**: The ubiquitous presence of masculine and feminine deities in ancient religions reflects the profound influence of this principle upon cultural consciousness, shaping spiritual paradigms and the quest for inner balance.
 
 **Epilogue**:
 

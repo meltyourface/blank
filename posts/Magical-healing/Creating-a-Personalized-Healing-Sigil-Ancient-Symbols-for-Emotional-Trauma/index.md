@@ -25,30 +25,30 @@ In order to create an intricate and personalized sigil, we must first have an un
 **Step 2**: Select symbols and elements to integrate into the sigil
 Considering the individual's background, we can choose to integrate a variety of symbols from both ancient and modern esoteric healing traditions. **Some potent symbols from Celtic and Norse traditions include**:
 
-1. ****Triskele****: An ancient Celtic symbol of the triple spiral, representing the three realms (land, sea, and sky), as well as the interconnectedness of life.
-2. ****Vegvísir****: A Norse compass symbol meant to guide the bearer through rough storms and ensure they emerge unscathed.
-3. ****Rune Tiwaz****: The rune of balance, sacrifice, and victory, representing the strong ancestral connection the individual cherishes.
-4. ****Rune Algiz****: A protective rune, offering spiritual support and representing the individual's connection to nature.
+1. **Triskele**: An ancient Celtic symbol of the triple spiral, representing the three realms (land, sea, and sky), as well as the interconnectedness of life.
+2. **Vegvísir**: A Norse compass symbol meant to guide the bearer through rough storms and ensure they emerge unscathed.
+3. **Rune Tiwaz**: The rune of balance, sacrifice, and victory, representing the strong ancestral connection the individual cherishes.
+4. **Rune Algiz**: A protective rune, offering spiritual support and representing the individual's connection to nature.
 **Step 3**: Design the sigil
 Incorporating these symbolic elements, draw a simple circular design with the Triskele at the center, surrounded by the two runes and Vegvísir as representations of strength, protection, and guidance. Asymmetry and flow between the symbols should be preserved, bringing balance and a sense of unity to the sigil.
 
-Creating the narrative: The intention behind the creation of this sigil is to facilitate accelerated healing of emotional trauma and strengthen the bond between the individual and their unique spiritual beliefs. By combining elements from ancient traditions with the person's individual experiences, this sigil works in harmony with their own energy to bring about transformative healing.
+**Creating the narrative**: The intention behind the creation of this sigil is to facilitate accelerated healing of emotional trauma and strengthen the bond between the individual and their unique spiritual beliefs. By combining elements from ancient traditions with the person's individual experiences, this sigil works in harmony with their own energy to bring about transformative healing.
 
 Activating and utilizing the sigil:
 
-1. ****Cleanse and consecrate the sigil****: Begin by purifying the sigil with the elements (fire, water, air, and earth). Pass it through the smoke of incense (air), sprinkle it with salt (earth), wash it in water mixed with a drop of moon-charged water (water), and then pass it over a flame (fire). This will cleanse and consecrate the sigil, making it ready for activation.
+1. **Cleanse and consecrate the sigil**: Begin by purifying the sigil with the elements (fire, water, air, and earth). Pass it through the smoke of incense (air), sprinkle it with salt (earth), wash it in water mixed with a drop of moon-charged water (water), and then pass it over a flame (fire). This will cleanse and consecrate the sigil, making it ready for activation.
 
-2. ****Focus your intent****: Ground and center yourself, and focus your mind on your intention to heal emotional trauma. Maintain this focus throughout the ritual.
+2. **Focus your intent**: Ground and center yourself, and focus your mind on your intention to heal emotional trauma. Maintain this focus throughout the ritual.
 
-3. ****Charge and activate the sigil****: Hold the sigil in your dominant hand, while visualizing the energies of your intention flowing through your body and into the sigil. **Then, speak the following incantation**:
+3. **Charge and activate the sigil**: Hold the sigil in your dominant hand, while visualizing the energies of your intention flowing through your body and into the sigil. **Then, speak the following incantation**:
 
 "By the power of ancient symbols and forgotten truths,
 I awaken the forces of healing within this sacred mark.
 As these energies intertwine with my spirit and my ancestors,
 A potent path of healing and growth now unfolds before me."
 
-4. ****Place the sigil****: Position the sigil in a space where you spend significant time, such as your bedroom or personal spiritual space. This will allow its energies to consistently work their magic on you and help heal emotional trauma.
+4. **Place the sigil**: Position the sigil in a space where you spend significant time, such as your bedroom or personal spiritual space. This will allow its energies to consistently work their magic on you and help heal emotional trauma.
 
-5. ****Regularly work with the sigil****: Remember to meditate on your intention regularly and visualize the energies of the sigil working with your own. This will amplify the healing effects and create lasting, positive change.
+5. **Regularly work with the sigil**: Remember to meditate on your intention regularly and visualize the energies of the sigil working with your own. This will amplify the healing effects and create lasting, positive change.
 
 By following these steps, you will successfully activate and utilize the intricately designed sigil to accelerate the healing process of emotional trauma, deepening your connection to your unique spiritual path and your ancestral past.

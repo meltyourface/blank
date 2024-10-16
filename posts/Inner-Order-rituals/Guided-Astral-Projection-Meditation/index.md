@@ -24,7 +24,7 @@ Begin by finding a quiet space where you will not be disturbed for the duration 
 
 Take a deep, cleansing breath, inhaling through your nose and exhaling through your mouth. Do this three times, releasing any tension or stress stored in your body. Close your eyes and allow your body to drift further into a state of deep relaxation.
 
-Now, visualize a glowing sphere of protective energy in the center of your chest, at the level of your heart chakra. ****This sphere emanates an aura of divine, vibrant light that protects you from all harm and negative influences. See this light pulse with each breath, growing stronger and more radiant. Recite the following mantra three times to invoke its protective power****: 
+Now, visualize a glowing sphere of protective energy in the center of your chest, at the level of your heart chakra. **This sphere emanates an aura of divine, vibrant light that protects you from all harm and negative influences. See this light pulse with each breath, growing stronger and more radiant. Recite the following mantra three times to invoke its protective power**: 
 
 "Shamash-na sapha-ki ter En-ki astral-ku"
 

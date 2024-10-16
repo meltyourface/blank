@@ -21,7 +21,7 @@ excerpt: Generate a short, informationally dense section of a grimoire that prov
 ---
 Topic: Aleister Crowley - Life, Beliefs, and Contributions to the Occult
 
-Aleister Crowley: A Comprehensive Overview
+**Aleister Crowley**: A Comprehensive Overview
 
 1. Early Life and Education
 

@@ -36,9 +36,9 @@ Practical Applications
 
 Cursing is a versatile facet of the occult, manifesting in a plethora of forms, such as spoken words, incantations, charms, and inscribed tablets. **Some common cursing methods include**:
 
-1. ****Poppet Magic****: Crafting an effigy of the target, linking it to the person in question, and inflicting harm onto the effigy, thereby affecting its subject.
-2. ****Binding****: Restricting the cursed person's actions, typically to prevent harm to the caster or others.
-3. ****Talismans and Sigils****: Objects or symbols imbued with power to attract or repel energies, which may manifest as a curse on the intended target.
+1. **Poppet Magic**: Crafting an effigy of the target, linking it to the person in question, and inflicting harm onto the effigy, thereby affecting its subject.
+2. **Binding**: Restricting the cursed person's actions, typically to prevent harm to the caster or others.
+3. **Talismans and Sigils**: Objects or symbols imbued with power to attract or repel energies, which may manifest as a curse on the intended target.
 
 Ethics and Precautions
 

@@ -31,7 +31,7 @@ Enochian Chant:
 
 3.- Begin by invoking the primary Archangel sigil:
 
-Sigil: The sigil of the Seven Archangels, which can be found as a heptagram composed of seven unique sigils representing each Archangel. Place the sigil in the center of your ritual altar.
+**Sigil**: The sigil of the Seven Archangels, which can be found as a heptagram composed of seven unique sigils representing each Archangel. Place the sigil in the center of your ritual altar.
 
 4.- With the sigil in place, intone the following Enochian chant to call upon the Archangels and invite their presence:
 
@@ -47,7 +47,7 @@ Ohorela c-noqos, Ianaziel, gelch Veh-or Heptagram
 
 5.- Focus deeply on the sigil while slowly and intentionally intoning the following vibratory frequencies to strengthen the connection to the angelic realm:
 
-Frequency: 528 Hz – The frequency of love, transformation, and miracles. This helps to attune your vibrational frequency to that of the angelic realm.
+**Frequency**: 528 Hz – The frequency of love, transformation, and miracles. This helps to attune your vibrational frequency to that of the angelic realm.
 
 6.- Visualize the radiant energies of the Archangels entering your sacred space, enveloping you in their wisdom, protection, guidance, and love. Open yourself to receive and to communicate clearly with them.
 

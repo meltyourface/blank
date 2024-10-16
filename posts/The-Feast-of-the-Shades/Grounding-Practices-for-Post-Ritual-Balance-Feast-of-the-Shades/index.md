@@ -36,13 +36,13 @@ Talismans play a significant role in grounding one's energy after The Feast of t
 **Step 3**: Chants and Mantras
 Chanting ancient mantras and sacred phrases can reestablish one's connection to earthly energies and fortify the practitioner's mental and spiritual armor. **The following are examples of chants specific to the The Feast of the Shades**:
 
-1. ****"Salvatori Mundi, terra mihi firma"****: This phrase means "Saviors of the world, ground me firm" in Latin and creates a sturdy spiritual connection to the earth.
-2. ****"Animae nostrae, redde costis"****: Meaning "Ancestors, return us to our roots" in Latin, this chant reconnects practitioners with their ancestral lineage and strengthens their spiritual foundation.
+1. **"Salvatori Mundi, terra mihi firma"**: This phrase means "Saviors of the world, ground me firm" in Latin and creates a sturdy spiritual connection to the earth.
+2. **"Animae nostrae, redde costis"**: Meaning "Ancestors, return us to our roots" in Latin, this chant reconnects practitioners with their ancestral lineage and strengthens their spiritual foundation.
 **Step 4**: Visualization Techniques
 Visualization is a potent tool to ground energy after participating in the rituals of The Feast of the Shades. **Example visualizations include**:
 
-1. ****The Tree of Life****: Visualize your body as an ancient, robust tree. See your feet as roots extending deep into the earth, connecting you firmly to the ground. As you inhale, draw up energy from the earth through your roots. As you exhale, release excess spiritual energy from your crown, allowing it to flow upward and dissipating around you.
-2. ****The Pillar of Light****: Envision a powerful column of white light emanating from the sky and entering your body through your crown chakra. Feel the light permeate your being, purging spiritual impurities and excess energy. As the light exits your feet, see it anchoring you to the earth.
+1. **The Tree of Life**: Visualize your body as an ancient, robust tree. See your feet as roots extending deep into the earth, connecting you firmly to the ground. As you inhale, draw up energy from the earth through your roots. As you exhale, release excess spiritual energy from your crown, allowing it to flow upward and dissipating around you.
+2. **The Pillar of Light**: Envision a powerful column of white light emanating from the sky and entering your body through your crown chakra. Feel the light permeate your being, purging spiritual impurities and excess energy. As the light exits your feet, see it anchoring you to the earth.
 
 **Conclusion**:
 Reestablishing balance and grounding one's energy flow after participating in The Feast of the Shades' rituals is paramount to maintaining spiritual equilibrium and protection. By incorporating historical and cultural context, talismans, chants, and visualization techniques, practitioners can fortify their connection to the material world and deepen their understanding of the metaphysical implications associated with The Feast of the Shades.

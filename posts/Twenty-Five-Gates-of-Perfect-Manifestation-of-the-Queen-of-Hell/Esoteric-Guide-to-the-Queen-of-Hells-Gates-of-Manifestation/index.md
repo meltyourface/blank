@@ -26,7 +26,7 @@ Introduction
 
 The Gates of Perfect Manifestation of the Queen of Hell are a series of twenty-five esoteric pathways that, when utilized together, lead the practitioner to unparalleled mastery of the occult arts. The first five Gates, in particular, are essential for establishing a strong foundation for the rituals, symbolism, and purpose associated with each subsequent Gate. These five Gates comprise the fundamentals necessary for a dedicated student to progress on their journey to acquire a deeper understanding and mastery of this esoteric practice.
 
-Gate One: The Gateway of Initiation
+**Gate One**: The Gateway of Initiation
 
 The first Gate represents the entrance to the path of the occult. Symbolized by an obsidian circle containing the sigil of the Queen of Hell, this Gate signifies the dedication of the student to their studies and the commitment to delve into the unknown.
 
@@ -34,15 +34,15 @@ The first Gate represents the entrance to the path of the occult. Symbolized by 
 
 **Purpose**: This Gate creates a foundation for the student, granting them protection, guidance, and access to hidden knowledge.
 
-Gate Two: The Gateway of Elements
+**Gate Two**: The Gateway of Elements
 
-The second Gate symbolizes the mastery of the four fundamental elements: earth, water, air, and fire. Each element is represented by a unique sigil, and the mastery of each is vital for controlling the energies harnessed throughout the study of the occult.
+**The second Gate symbolizes the mastery of the four fundamental elements**: earth, water, air, and fire. Each element is represented by a unique sigil, and the mastery of each is vital for controlling the energies harnessed throughout the study of the occult.
 
 **Ritual**: To attune to each element, the student must meditate and perform specific rituals dedicated to connecting their spirit to the essence of each element. This may involve surrounding oneself with objects of the associated element, adopting symbols and correspondences related to the elemental energies, or invoking ancient elemental spirits.
 
 **Purpose**: Mastery of the elements serves as a basis for understanding the forces and energies intrinsic to the workings of the universe, both on the physical and metaphysical planes. The practitioner becomes adept at harnessing and manipulating elemental energies for further exploration in the occult.
 
-Gate Three: The Gateway of Symbols
+**Gate Three**: The Gateway of Symbols
 
 The third Gate is centered around understanding and utilizing the vast array of symbols that exist within the fabric of the esoteric knowledge. Symbols carry the power to represent and evoke forces or concepts, acting as keys to unlocking potent energies and mysteries.
 
@@ -50,7 +50,7 @@ The third Gate is centered around understanding and utilizing the vast array of 
 
 **Purpose**: This Gate emphasizes the importance of sigils and symbols, granting students the ability to communicate with entities, channel energies, and bring their intentions to fruition through the use of occult symbolism.
 
-Gate Four: The Gateway of Invocation
+**Gate Four**: The Gateway of Invocation
 
 The fourth Gate encompasses the art of invoking spirits, entities, and otherworldly forces to assist or guide the practitioner in their studies and rituals. It teaches the importance of respect, authority, and control when dealing with both beneficial and malevolent beings.
 
@@ -58,7 +58,7 @@ The fourth Gate encompasses the art of invoking spirits, entities, and otherworl
 
 **Purpose**: Gaining the ability to invoke supernatural entities provides the student with access to a multitude of hidden powers, knowledge, and resources that can further enhance their path and deepen their understanding of the occult.
 
-Gate Five: The Gateway of Transformation
+**Gate Five**: The Gateway of Transformation
 
 The fifth Gate symbolizes the transformation of the self through the alchemical process of merging one's being with the Queen of Hell's energies. This transmutation results in a metamorphosis – a strengthening of the mind, body, and spirit.
 

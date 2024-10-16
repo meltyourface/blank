@@ -32,7 +32,7 @@ Nature is the backbone of Primal Craft. It not only provides the elemental energ
 
 ### Section 3: Elements and Energies
 
-The energies harnessed in Primal Craft emanate from the four traditional elements: earth, air, fire, and water. Each element carries unique vibrations and properties that the practitioner can employ to create balance, manifest change, or invoke transformation. Combining these elemental energies with focused intention can produce a wide range of magical effects. Additionally, practitioners recognize the existence of a fifth element, Spirit or Aether, which governs the energy of life and consciousness and serves as the animating force behind the other elements.
+**The energies harnessed in Primal Craft emanate from the four traditional elements**: earth, air, fire, and water. Each element carries unique vibrations and properties that the practitioner can employ to create balance, manifest change, or invoke transformation. Combining these elemental energies with focused intention can produce a wide range of magical effects. Additionally, practitioners recognize the existence of a fifth element, Spirit or Aether, which governs the energy of life and consciousness and serves as the animating force behind the other elements.
 
 ### Section 4: Connecting to One's Inner Self
 

@@ -34,7 +34,7 @@ Malacai stepped forth, his alluring emerald eyes holding a sinister promise. Dar
 
 "Now then, Alaric," purred Malacai, drawing a long, taloned finger down the sorcerer's chest. "I shall reveal to you the treasures of the Devil's Chest… But remember, the price must be paid."
 
-The pact was sealed: knowledge in exchange for an unspeakable bargain. Over time, Alaric's once thriving obsession with the occult crumbled, replaced with the thrilling novelty of the all-consuming hunger spawned by his infernal companion's presence. He dined on shadows, drank of despair, and reveled in the ethereal pleasures that Malacai offered.
+**The pact was sealed**: knowledge in exchange for an unspeakable bargain. Over time, Alaric's once thriving obsession with the occult crumbled, replaced with the thrilling novelty of the all-consuming hunger spawned by his infernal companion's presence. He dined on shadows, drank of despair, and reveled in the ethereal pleasures that Malacai offered.
 
 As the months turned to years, Alaric's humanity faded with each sensual temptation. He began to wither under the incubus' touch yet remained desperate for more. The once formidable sorcerer and seeker of power was utterly consumed by his own fiery desires, leaving him a husk of the man he used to be.
 

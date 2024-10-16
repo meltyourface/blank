@@ -24,9 +24,9 @@ excerpt: Design an intricate ritual for clairvoyant divination, specifically tai
 
 **Objective**: Clairvoyant Divination through Scrying using a Consecrated Crystal Ball
 
-Ideal Lunar Phase: Full Moon or Waxing Gibbous (this will provide a strong lunar energy to enhance divination abilities)
+**Ideal Lunar Phase**: Full Moon or Waxing Gibbous (this will provide a strong lunar energy to enhance divination abilities)
 
-Ceremonial Attire: White or silver robes symbolizing purity and clarity, a pendant or amulet depicting the Eye of Horus or the Third Eye for enhanced psychic abilities, and a moonstone ring or bracelet for added lunar energy
+**Ceremonial Attire**: White or silver robes symbolizing purity and clarity, a pendant or amulet depicting the Eye of Horus or the Third Eye for enhanced psychic abilities, and a moonstone ring or bracelet for added lunar energy
 
 Ritual Preparation:
 

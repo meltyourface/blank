@@ -25,15 +25,15 @@ excerpt: >
 
 Verbal Components:
 
-1. ****Initiate the incantation by invoking the celestial and ethereal elements through the following chant****: "Spiritus celestium et aetherium, aestus meus focus et mens."
+1. **Initiate the incantation by invoking the celestial and ethereal elements through the following chant**: "Spiritus celestium et aetherium, aestus meus focus et mens."
 
-2. ****Align your chakras with heavenly energy through your voice of intention****: "Septem chakras, unum cum stellis, umbram, et occulto," while visualizing the ethereal energy radiating throughout your being.
+2. **Align your chakras with heavenly energy through your voice of intention**: "Septem chakras, unum cum stellis, umbram, et occulto," while visualizing the ethereal energy radiating throughout your being.
 
-3. ****Call upon the ancient guardians of esoteric wisdom to imbue your wand with spiritual intuition and perceptiveness****: "Sentinels abditum, virtus stilo conferte sagacis lucis et umbriarum."
+3. **Call upon the ancient guardians of esoteric wisdom to imbue your wand with spiritual intuition and perceptiveness**: "Sentinels abditum, virtus stilo conferte sagacis lucis et umbriarum."
 
-4. ****Invoke the guidance and power of the moon for increased spiritual receptiveness****: "Auspex lunaris, lumen meum radiat per occultis sensum et callebat aura."
+4. **Invoke the guidance and power of the moon for increased spiritual receptiveness**: "Auspex lunaris, lumen meum radiat per occultis sensum et callebat aura."
 
-5. ****Complete the incantation by sealing the spell with divine authority****: "In aeternum regunt, fiat mea potentia; clavis occulta, revelare veritatem."
+5. **Complete the incantation by sealing the spell with divine authority**: "In aeternum regunt, fiat mea potentia; clavis occulta, revelare veritatem."
 
 **Pronunciation**:
 

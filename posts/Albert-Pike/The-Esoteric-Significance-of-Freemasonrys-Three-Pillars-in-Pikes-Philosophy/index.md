@@ -25,11 +25,11 @@ Albert Pike (1809-1891) was an influential Freemason, philosopher, and author. H
 
 To contextualize Pike's take on personal and spiritual development and Freemasonry's three pillars, let us define these pillars and their significance within the Craft:
 
-1. ****Wisdom****: Represented by the Masonic pillar Jachin, wisdom is an essential quality for those on the spiritual path, as it signifies the knowledge and understanding needed for personal and collective growth. Wisdom enables individuals to successfully navigate through life's challenges and make morally sound decisions.
+1. **Wisdom**: Represented by the Masonic pillar Jachin, wisdom is an essential quality for those on the spiritual path, as it signifies the knowledge and understanding needed for personal and collective growth. Wisdom enables individuals to successfully navigate through life's challenges and make morally sound decisions.
 
-2. ****Strength****: Represented by the pillar Boaz, strength in Freemasonry represents both physical and moral fortitude, resilience, and self-discipline. Strength is necessary for the initiate to overcome personal limitations and contribute positively to society.
+2. **Strength**: Represented by the pillar Boaz, strength in Freemasonry represents both physical and moral fortitude, resilience, and self-discipline. Strength is necessary for the initiate to overcome personal limitations and contribute positively to society.
 
-3. ****Beauty****: The third pillar of Freemasonry is beauty, often symbolized by the central column in Masonic lodges. Beauty encompasses harmony, balance, and aesthetics, which are considered essential components of a well-rounded individual and society.
+3. **Beauty**: The third pillar of Freemasonry is beauty, often symbolized by the central column in Masonic lodges. Beauty encompasses harmony, balance, and aesthetics, which are considered essential components of a well-rounded individual and society.
 
 Now that we have provided a summary of Pike's Morals and Dogma and defined the three pillars, let us explore Pike's philosophy in relation to these pillars, their esoteric significance, and how his work unveils deeper layers of these symbols.
 

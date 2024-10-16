@@ -32,7 +32,7 @@ Upon casting the six lines using the yarrow stalk method, we receive the followi
 
 This sequence translates to Hexagram 48, known as 井 (Jing), or "The Well." The trigrams of this hexagram are the following:
 
-Upper trigram: ☵ (Kan), the Abysmal (Water)
+**Upper trigram**: ☵ (Kan), the Abysmal (Water)
 Lower trigram: ☷ (Kun), the Receptive (Earth)
 
 The foundational elemental correspondence of Jing is Water, as reflected in its upper trigram, which lends the hexagram its permeating and adaptive qualities. The lower trigram, Earth, signifies stability, fertility, and spiritual nourishment.
@@ -43,7 +43,7 @@ Incorporating relevant historical context to the hexagram, it bears mention that
 
 The old yin and old yang lines signal change, necessitating that we consult the transformed hexagram as well. When the lines change, we receive Hexagram 5, known as 需 (Xū), or "Waiting." This hexagram is made of the following trigrams:
 
-Upper trigram: ☵ (Kan), the Abysmal (Water)
+**Upper trigram**: ☵ (Kan), the Abysmal (Water)
 Lower trigram: ☰ (Qian), the Creative (Heaven)
 
 As the old yin and old yang lines change, the transformed hexagram imparts that patience and wise action are required in the querent's current situation. The elemental forces of Water and Heaven urge the querent to adopt an adaptable mindset but maintain a connection to a higher purpose.

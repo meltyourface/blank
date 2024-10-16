@@ -30,17 +30,17 @@ In order to respond to this knowledge challenge, we will begin by understanding 
 
 Now that we have a comprehensive understanding of the foundational concepts, let's discuss how a practitioner can relate these elements in creating a transformative necromantic rite:
 
-1. ****Engage with Ancestral Guidance****: Practitioners should begin by attuning to their ancestral lineage when crafting their rite. This will allow them to draw upon the knowledge and experiences of those who have come before them. It will also help connect them to the energies of their ancestors, potentially increasing the potency of their workings.
+1. **Engage with Ancestral Guidance**: Practitioners should begin by attuning to their ancestral lineage when crafting their rite. This will allow them to draw upon the knowledge and experiences of those who have come before them. It will also help connect them to the energies of their ancestors, potentially increasing the potency of their workings.
 
-2. ****Utilize Spiritualism to Enrich the Rite****: Spiritualism can be used by the practitioner to strengthen their relationship with the spirits they seek to communicate with, ensuring a harmonious and respectful exchange. Before engaging in the rite itself, establishing a connection with the spirit world through meditation, divination, or other forms of communication will help them create a stronger foundation for their rite.
+2. **Utilize Spiritualism to Enrich the Rite**: Spiritualism can be used by the practitioner to strengthen their relationship with the spirits they seek to communicate with, ensuring a harmonious and respectful exchange. Before engaging in the rite itself, establishing a connection with the spirit world through meditation, divination, or other forms of communication will help them create a stronger foundation for their rite.
 
-3. ****Incorporate Latin Esotericism****: Implementing Latin phrases and symbolism into the necromantic rite can serve to connect the practitioner to the ancient origins of necromancy, as well as add an additional layer of potency to the ritual. Latin invocations and sigils can enhance the efficacy of the ritual, increasing the likelihood of successful communication and transformation.
+3. **Incorporate Latin Esotericism**: Implementing Latin phrases and symbolism into the necromantic rite can serve to connect the practitioner to the ancient origins of necromancy, as well as add an additional layer of potency to the ritual. Latin invocations and sigils can enhance the efficacy of the ritual, increasing the likelihood of successful communication and transformation.
 
 When developing their necromantic rite, practitioners must bear in mind the importance of morality, ethics, and intention. **This can be done by**:
 
-1. ****Having a clear intention for the rite****: Practitioners should emphasize respect and humility in their intentions, as well as prioritize the pursuit of wisdom, guidance, or healing. Remaining focused on ethical and moral outcomes will help ensure the ritual does not create harm or imbalance.
+1. **Having a clear intention for the rite**: Practitioners should emphasize respect and humility in their intentions, as well as prioritize the pursuit of wisdom, guidance, or healing. Remaining focused on ethical and moral outcomes will help ensure the ritual does not create harm or imbalance.
 
-2. ****Showing reverence for the spirits and deceased****: Approaching the rite with deep respect for both the deceased and the spirits will help maintain a balance between the realms of life, death, and the spirit world. Treat the spirits with honor and gratitude, and never seek to manipulate or exploit them for personal gain.
+2. **Showing reverence for the spirits and deceased**: Approaching the rite with deep respect for both the deceased and the spirits will help maintain a balance between the realms of life, death, and the spirit world. Treat the spirits with honor and gratitude, and never seek to manipulate or exploit them for personal gain.
 
 In conclusion, a practitioner can relate the vital elements of ancestral guidance, spiritualism, and Latin esotericism in the following manner:
 

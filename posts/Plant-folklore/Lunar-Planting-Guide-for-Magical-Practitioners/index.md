@@ -23,21 +23,21 @@ Lunar Planting Calendar for Magical Practitioners
 
 Month 1: The Renewal Moon
 
-New Moon: Plant seeds of intention for the growing season. Ideal for sowing sage (clearing and protection), lavender (calming and love), and chamomile (healing and tranquility) seeds.
+**New Moon**: Plant seeds of intention for the growing season. Ideal for sowing sage (clearing and protection), lavender (calming and love), and chamomile (healing and tranquility) seeds.
 
-Waxing Crescent: Cast protection and growth spells over young plants. Nurture the soil and energize the earth with moonstone placed in the garden bed.
+**Waxing Crescent**: Cast protection and growth spells over young plants. Nurture the soil and energize the earth with moonstone placed in the garden bed.
 
-First Quarter: Optimize manifestation by planting basil (prosperity and love), mint (abundance and protection), and thyme (courage and purification).
+**First Quarter**: Optimize manifestation by planting basil (prosperity and love), mint (abundance and protection), and thyme (courage and purification).
 
-Waxing Gibbous: Perform a lunar water infusion ritual using aromatic herbs like rosemary (memory and cleansing) and jasmine (love and dreams) for anointing purposes.
+**Waxing Gibbous**: Perform a lunar water infusion ritual using aromatic herbs like rosemary (memory and cleansing) and jasmine (love and dreams) for anointing purposes.
 
-Full Moon: Harvest flowers and leaves for heightened spellwork and potion making. Ideal time to collect magical plants such as mandrake (transformation and fertility) and mugwort (intuition and astral travel).
+**Full Moon**: Harvest flowers and leaves for heightened spellwork and potion making. Ideal time to collect magical plants such as mandrake (transformation and fertility) and mugwort (intuition and astral travel).
 
-Waning Gibbous: Craft magical tools (wands, besom, staves) from willow (healing and emotional balance), elder (protection and wisdom), and rowan (power and protection).
+**Waning Gibbous**: Craft magical tools (wands, besom, staves) from willow (healing and emotional balance), elder (protection and wisdom), and rowan (power and protection).
 
-Last Quarter: Harvest roots and barks to benefit from their energies, including dandelion root (divination and wishes) and oak bark (strength and stability).
+**Last Quarter**: Harvest roots and barks to benefit from their energies, including dandelion root (divination and wishes) and oak bark (strength and stability).
 
-Waning Crescent: Perform a release and gratitude ritual for all harvested and remaining plants.
+**Waning Crescent**: Perform a release and gratitude ritual for all harvested and remaining plants.
 
 Month 2: The Fertility Moon
 

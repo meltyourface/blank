@@ -35,7 +35,7 @@ The first line of the chant, "Fal Awen Faelidon," introduces the idea of divine 
 
 Line 2: "Eirin Queurn Brauth Eorn"
 
-The second line brings in elements of nature: "Eirin" may symbolize the force of air, "Queurn" possibly represents a sacred tree (often an oak or yew), and "Brauth Eorn" could refer to the wide expanse of the earth. In this context, the chant emphasizes the fundamental connection between the Druidic initiate and the natural world, along with the understanding of life's cycles and forces that shape it. The sacred tree serves as a bridge between the earthly realm and the spiritual world.
+**The second line brings in elements of nature**: "Eirin" may symbolize the force of air, "Queurn" possibly represents a sacred tree (often an oak or yew), and "Brauth Eorn" could refer to the wide expanse of the earth. In this context, the chant emphasizes the fundamental connection between the Druidic initiate and the natural world, along with the understanding of life's cycles and forces that shape it. The sacred tree serves as a bridge between the earthly realm and the spiritual world.
 
 Line 3: "Navras Cyfir Deir Feith"
 

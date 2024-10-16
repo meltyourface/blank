@@ -39,17 +39,17 @@ The purpose of this New Moon ritual is to purify and energetically charge variou
 Set-up:
 1. Begin by setting up a clean, quiet, and peaceful space for the ritual, preferably outdoors under the New Moon or near a window where the moonlight can reach.
 2. Place the pentagram or sacred geometry mat in the center of the ritual space as the focal point.
-3. ****Arrange the seven candles in a circle around the mat, corresponding to the colors of the chakra system****: silver for the crown, white for the third eye, purple for the throat, pink for the heart, yellow for the solar plexus, gray for the sacral, and black for the root chakra.
+3. **Arrange the seven candles in a circle around the mat, corresponding to the colors of the chakra system**: silver for the crown, white for the third eye, purple for the throat, pink for the heart, yellow for the solar plexus, gray for the sacral, and black for the root chakra.
 4. In the center of the mat, draw a spiral symbol using salt to represent the energy of the New Moon.
 5. Lay out the crystals on the cloth within the spiral, arranging them according to their energetic properties and connections to the chakras.
 
 Ritual Steps:
-1. ****Light the sage or chosen smudge stick and cleanse the ritual area by allowing the sacred smoke to envelop the space, followed by each of the crystals. Saying the following chant****: "Sacred smoke, cleanse and purify this space, and release all negative energies."
+1. **Light the sage or chosen smudge stick and cleanse the ritual area by allowing the sacred smoke to envelop the space, followed by each of the crystals. Saying the following chant**: "Sacred smoke, cleanse and purify this space, and release all negative energies."
 2. Light the incense to set a calming atmosphere (optional).
-3. ****Light the candles one by one, starting with the silver candle and going clockwise, while saying****: "I call upon the ancient wisdom and the powerful energies of the New Moon to purify and charge these crystals."
+3. **Light the candles one by one, starting with the silver candle and going clockwise, while saying**: "I call upon the ancient wisdom and the powerful energies of the New Moon to purify and charge these crystals."
 4. Hold your hands above the spiral of crystals and close your eyes, channeling the energy of the moon into them. Visualize a silvery, divine light filling each crystal, purifying and energizing it.
-5. ****As you do this, chant a mantra or phrase that resonates with you. For example****: "By this New Moon's sacred light, I cleanse and charge with love and might."
-6. ****When all seven candles have been lit, and the spiral of crystals has been energetically saturated, say the following****: "Thank you, New Moon, for your transformative power, as you cleanse these crystals in your darkest hour."
+5. **As you do this, chant a mantra or phrase that resonates with you. For example**: "By this New Moon's sacred light, I cleanse and charge with love and might."
+6. **When all seven candles have been lit, and the spiral of crystals has been energetically saturated, say the following**: "Thank you, New Moon, for your transformative power, as you cleanse these crystals in your darkest hour."
 7. Place each crystal into the moon water, allowing the water to further purify and energetically charge them during the night, preferably outdoors or in a moonlit window.
 8. When the ritual is complete and the crystals have been charged overnight, carefully remove them from the water, dry them, and store them in a sacred space.
 

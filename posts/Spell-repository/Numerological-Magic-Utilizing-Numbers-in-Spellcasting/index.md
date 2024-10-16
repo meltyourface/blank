@@ -66,7 +66,7 @@ Magic practitioners can utilize and combine various numerology-based artifacts t
 
 - Gemstones: Assign each number its associated gemstone for amplification (e.g., 1 - Clear Quartz, 2 - Rose Quartz, 3 - Amethyst, etc.)
 
-Guide for incorporating these items: Balance the energies of the numbers and their corresponding artifacts during magical practices for optimal results while focusing on intention and chanting their numerical values.
+**Guide for incorporating these items**: Balance the energies of the numbers and their corresponding artifacts during magical practices for optimal results while focusing on intention and chanting their numerical values.
 
 4. Determining Innate Magical Aptitude through Numerology:
 

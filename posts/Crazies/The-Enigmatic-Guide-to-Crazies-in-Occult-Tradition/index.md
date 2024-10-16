@@ -43,9 +43,9 @@ Due to their shapeshifting nature and the conflicting accounts of their attribut
 
 While Crazies come in various forms and manifestations, their classification can be broadly categorized into three types:
 
-1. ****Elementals****: These Crazies are associated with the fundamental forces of nature (air, water, fire, earth, and spirit). They often possess abilities aligned with their elemental affinity.
-2. ****Psychic entities****: These beings occupy the realms of thought and consciousness, feeding on psychic energy and emotions, and can either help or hinder an individual’s mental and emotional well-being.
-3. ****Otherworldly creatures****: These Crazies are unique beings that emerge from an alternate universe or plane of reality, with varying intentions and characteristics.
+1. **Elementals**: These Crazies are associated with the fundamental forces of nature (air, water, fire, earth, and spirit). They often possess abilities aligned with their elemental affinity.
+2. **Psychic entities**: These beings occupy the realms of thought and consciousness, feeding on psychic energy and emotions, and can either help or hinder an individual’s mental and emotional well-being.
+3. **Otherworldly creatures**: These Crazies are unique beings that emerge from an alternate universe or plane of reality, with varying intentions and characteristics.
 
 ### Chapter 2: Identifying, Communicating, and Protecting Oneself from Crazies
 

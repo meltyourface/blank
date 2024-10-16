@@ -38,7 +38,7 @@ To create a complex, multi-layered sigil system for the Reformation of Flesh and
 
 The final sigil system would look like this:
 
-A foundational structure composed of separate categories: elemental and symbolic affiliations, each containing sigils representing the energetic signatures of the corresponding transcendent entities.
+**A foundational structure composed of separate categories**: elemental and symbolic affiliations, each containing sigils representing the energetic signatures of the corresponding transcendent entities.
 
 Each entity's sigil is formed by combining its elemental and symbolic affiliations in a unique, intuitive manner. These sigils are linked together according to specific rules and methods to create complex, multi-layered sequences capable of conveying hidden messages.
 

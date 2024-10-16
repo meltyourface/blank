@@ -22,7 +22,7 @@ excerpt: Develop a comprehensive thought-reading experiment by incorporating con
 
 ## Comprehensive Thought-Reading Experiment Using Techniques from Telepathic Experiences
 
-Objective: To explore and understand telepathy and thought-transference through a well-structured experiment incorporating concepts from documented cases and experiences.
+**Objective**: To explore and understand telepathy and thought-transference through a well-structured experiment incorporating concepts from documented cases and experiences.
 
 Experimental Design:
 

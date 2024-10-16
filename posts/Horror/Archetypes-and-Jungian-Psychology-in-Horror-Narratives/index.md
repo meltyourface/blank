@@ -37,10 +37,10 @@ excerpt: >
   
   Examining historical, cultural, and psychological perspectives, a theory of horror may be synthesized that revolves around three interrelated elements:
   
-  1. ****The universality of fear archetypes****: Archetypal horror figures reflect common human fears, representing the terrors buried within the collective unconscious transmitted across generations.
+  1. **The universality of fear archetypes**: Archetypal horror figures reflect common human fears, representing the terrors buried within the collective unconscious transmitted across generations.
   
-  2. ****The role of Jungian psychology in horror narratives****: Confronting one's shadow self and navigating inner landscapes adds depth to horror stories, creating a sense of resonance beyond mere thrills or scares. This process of integrating the darker aspects of our psyche contributes to the "cathartic" impact horror often holds for individuals.
+  2. **The role of Jungian psychology in horror narratives**: Confronting one's shadow self and navigating inner landscapes adds depth to horror stories, creating a sense of resonance beyond mere thrills or scares. This process of integrating the darker aspects of our psyche contributes to the "cathartic" impact horror often holds for individuals.
   
-  3. ****Manifestation in literature and films****: By exploring primal and subconscious fears in creative ways, horror works incite both visceral and psychological responses. The juxtaposition of familiar components and novel interpretations fosters a sense of familiarity, while still eliciting tension and dread.
+  3. **Manifestation in literature and films**: By exploring primal and subconscious fears in creative ways, horror works incite both visceral and psychological responses. The juxtaposition of familiar components and novel interpretations fosters a sense of familiarity, while still eliciting tension and dread.
   
   In summary, horror draws its power from essential elements and themes rooted within the collective unconscious, amplified through the incorporation of archetypes and Jungian psychology. The manifestation of these elements in literature and films facilitates a continued fascination with horror and a perennial examining of the human psyche, generating complex and enriching experiences for audiences across history and cultures.

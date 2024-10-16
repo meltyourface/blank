@@ -37,7 +37,7 @@ The Book of the Law is divided into three chapters, referred to as the three The
 2. Hadit - Infinite Point and Complement of Nuit
 3. Ra-Hoor-Khuit - The Crowned and Conquering Child
 
-These three deities are essential to understanding the central themes of Thelema: the individual's ultimate purpose, the union of opposite forces, and the manifestation of one's true will.
+**These three deities are essential to understanding the central themes of Thelema**: the individual's ultimate purpose, the union of opposite forces, and the manifestation of one's true will.
 
 1. **Nuit**: The first chapter focuses on Nuit as the embodiment of infinite possibility. Students of Thelema are urged to recognize their potential and strive for absolute freedom.
 

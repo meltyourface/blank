@@ -21,7 +21,7 @@ excerpt: Create a detailed and elaborate binding spell designed to prevent physi
 ---
 Spell Name: Sigilbound Guardian Poppet
 
-Objective: To create a powerful binding spell using a handcrafted poppet that prevents physical and emotional harm, harnesses protective energies, and utilizes personalized symbols, sigils, ingredients, and celestial timing for amplified potency.
+**Objective**: To create a powerful binding spell using a handcrafted poppet that prevents physical and emotional harm, harnesses protective energies, and utilizes personalized symbols, sigils, ingredients, and celestial timing for amplified potency.
 
 Materials and Ingredients:
 1. Poppet, handmade with natural fabric, preferably white or light blue
@@ -35,7 +35,7 @@ Materials and Ingredients:
 9. Paper and pen
 10. Plate or tray, to hold the poppet and ingredients during the ritual
 
-Celestial Timing: Perform the spell during the waning moon or on a Saturday, when Saturn's protective energies are at their strongest.
+**Celestial Timing**: Perform the spell during the waning moon or on a Saturday, when Saturn's protective energies are at their strongest.
 
 Instructions:
 

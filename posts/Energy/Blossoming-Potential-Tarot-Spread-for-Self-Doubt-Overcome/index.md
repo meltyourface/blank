@@ -22,7 +22,7 @@ excerpt: >
 ---
 Task: Design an intricate Energy-based tarot spread attuned to the metaphysical aspects of overcoming self-doubt and realizing one's potential.
 
-Tarot Spread Name: The Blossoming Potential Spread
+**Tarot Spread Name**: The Blossoming Potential Spread
 
 Elemental Associations:
 1. Fire - Igniting passion and motivation

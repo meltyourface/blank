@@ -50,7 +50,7 @@ Proper Preparation, Presentation, and Ritualistic Steps:
 
 7. Evoke Hecate: Recite a prayer, invocation, or chant to summon Hecate's spirit. Maintain a respectful and focused demeanor to establish a connection with the deity.
 
-Example invocation: 
+**Example invocation**: 
 "Hecate, mighty goddess, I call upon thee,
 Guardian of crossroads, the sacred key,
 Protector of witches, I honor your name,

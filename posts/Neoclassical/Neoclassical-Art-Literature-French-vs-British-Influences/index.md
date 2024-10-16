@@ -38,7 +38,7 @@ This treatise aims to provide a comprehensive insight into the nuanced parallels
    2. British Neoclassical Art
       a. Key principles and style
       b. Prominent artists and works (e.g. Sir Joshua Reynolds, Benjamin West)
-   3. ****Comparative analysis****: Parallels and distinctions
+   3. **Comparative analysis**: Parallels and distinctions
       a. Style, medium, and subject matter
       b. Sociopolitical context and influences
 
@@ -49,7 +49,7 @@ This treatise aims to provide a comprehensive insight into the nuanced parallels
    2. British Neoclassical Architecture
       a. Key principles and style
       b. Prevalent buildings and architects (e.g. Robert Adam, Sir John Soane)
-   3. ****Comparative analysis****: Parallels and distinctions
+   3. **Comparative analysis**: Parallels and distinctions
       a. Design elements and motifs
       b. Functionality andexpression
 
@@ -60,7 +60,7 @@ This treatise aims to provide a comprehensive insight into the nuanced parallels
    2. British Neoclassical Literature
       a. Key principles and style
       b. Canonical writers and works (e.g. Alexander Pope, Samuel Johnson)
-   3. ****Comparative analysis****: Parallels and distinctions
+   3. **Comparative analysis**: Parallels and distinctions
       a. Genre, form, and thematic concerns
       b. Sociocultural context and reception
 

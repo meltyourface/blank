@@ -23,11 +23,11 @@ excerpt: >
 
 ## Tarot-Inspired Handfasting Ceremony – A Powerful Union of Love
 
-Objective: To design a comprehensive handfasting ceremony that intricately weaves the significance of the couples' tarot card into the ritual. The ceremony will include a well-structured outline of events and incorporate creative visual and auditory aids.
+**Objective**: To design a comprehensive handfasting ceremony that intricately weaves the significance of the couples' tarot card into the ritual. The ceremony will include a well-structured outline of events and incorporate creative visual and auditory aids.
 
 ### I. Gathering and Preparation
    a. Guests assemble in the designated sacred space.
-   b. ****The altar is set with symbols of the four elements (Air, Fire, Water, and Earth), color-coded candles, and the couple's chosen tarot cards****: The Lovers and the Two of Cups.
+   b. **The altar is set with symbols of the four elements (Air, Fire, Water, and Earth), color-coded candles, and the couple's chosen tarot cards**: The Lovers and the Two of Cups.
    c. Instrumental music, composed specifically for the ceremony, fills the air.
 
 ### II. Welcome and Introduction
@@ -43,7 +43,7 @@ Objective: To design a comprehensive handfasting ceremony that intricately weave
    b. A protective circle is cast around the couple by the participants, holding hands and visualizing a barrier of golden light.
 
 ### V. The Couple's Journey – Presentation of the Tarot Cards
-   a. ****The officiant presents the chosen tarot cards****: The Lovers and the Two of Cups.
+   a. **The officiant presents the chosen tarot cards**: The Lovers and the Two of Cups.
    b. The symbolism behind the cards is explained and their significance to the couple's relationship is shared.
    
 ### VI. Declaration of Intent and Exchanging of Vows

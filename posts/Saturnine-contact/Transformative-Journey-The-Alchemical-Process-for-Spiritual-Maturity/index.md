@@ -23,31 +23,31 @@ The alchemical process that occurs within the psyche during Saturnine contact is
 
 Lead is a heavy, dull, and malleable metal that has long been associated with Saturn in the realm of astrology. In the alchemical tradition, lead is symbolic of the raw, unrefined, and inert aspects of one's self, representing the base matter from which the alchemical process begins. Through the stages of transformation and refinement detailed below, this base matter is purified and elevated to achieve a higher, more spiritually awakened state.
 
-Stage One: Calcination
+**Stage One**: Calcination
 
 The first stage, calcination, refers to the breaking down and destruction of the ego and its attachments to material possessions, desires, and the outer world. This is akin to the process by which a metal is heated to a high temperature, causing it to break down into a powdery substance. In the same manner, the psyche undergoes a purgation and purification, allowing for the dross and impurity of one's lower nature and old belief systems to be dissolved.
 
-Stage Two: Dissolution
+**Stage Two**: Dissolution
 
 In the second stage of dissolution, the ego and existing structures within the psyche continue to disintegrate, leading to their eventual dissolution. This stage is characterized by the immersion of one's being in the unconscious realm, where buried traumas, emotions, and instincts are brought to the surface. It is a period of emotional catharsis and confrontation of the shadow self, ultimately leading to a deeper understanding of the inner nature and the strengthening of one's spiritual foundation.
 
-Stage Three: Separation
+**Stage Three**: Separation
 
 During the stage of separation, the purified elements that have emerged from the previous stages are now separated and distinguished from one another. The elements of the psyche, including the intellect, emotions, instincts, and intuition, are carefully analyzed and discerned, allowing for deeper self-knowledge. This process symbolizes the alchemist's ability to recognize and discard the worthless aspects of the self and to retain only that which is truly valuable and essential.
 
-Stage Four: Conjunction
+**Stage Four**: Conjunction
 
 In the fourth stage, conjunction, the purified elements of the psyche are united to form a new synthesis. This union represents the merging of the conscious self with the wisdom of the unconscious, leading to the emergence of a new and more integrated sense of identity and purpose. This transformative stage is marked by a renewed sense of wholeness, balance, and understanding of one's place in the greater cosmic order.
 
-Stage Five: Fermentation
+**Stage Five**: Fermentation
 
 The stage of fermentation is characterized by the influx of spiritual energy, or the "divine spark", that ignites a powerful internal awakening and rebirth. This stage represents the soul's realization of its divine nature, and the subsequent release of dormant spiritual potential. During this stage, the individual experiences a profound, transformative inner journey that may include vivid dreams, visions, and insights, leading to a complete remodeling of one's worldview and understanding of reality.
 
-Stage Six: Distillation
+**Stage Six**: Distillation
 
 Distillation is the penultimate stage in the alchemical process, during which the spiritual essence that has emerged from fermentation is further refined and purified. This stage involves the integration and assimilation of spiritual truths and insights gained through mystical experiences and deep introspection. The psyche is further refined and clarified, as the soul sheds any remaining attachments to the material world and focuses solely on spiritual matters.
 
-Stage Seven: Coagulation
+**Stage Seven**: Coagulation
 
 The final stage, coagulation, represents the culmination and completion of the alchemical process. It signifies the realization of one's true spiritual nature, known as the Philosopher's Stone, a metaphor for the attainment of enlightenment and spiritual maturity. At this stage, the soul has achieved complete integration, balance, and alignment with its divine essence, becoming an enlightened being that radiates spiritual wisdom and unconditional love.
 

@@ -28,25 +28,25 @@ Main characters:
 - The Captor (Alex): An enigmatic figure who employs complex psychological tactics to manipulate the captive.
 - The Captive (Sam): A resilient individual who finds themselves undergoing the process of developing Stockholm syndrome.
 
-Act I: The Beginning
+**Act I**: The Beginning
 
 1. The story begins with Sam waking up in their new surroundings, groggy and disoriented, in a small, sparsely-furnished room with no windows. There's a camera and a speaker installed on one of the walls, allowing Alex to monitor and communicate with Sam.
 2. Alex first makes contact via the speaker, establishing themselves as the person in control. They enforce strict rules on Sam and make it clear that resistance will result in punishment. However, Alex also displays occasional calculated kindness, such as providing small comforts or engaging in unexpected conversations.
 3. Sam's isolation from the outside world is further reinforced when it’s revealed that there's no access to media, news, or technology that could provide an escape from the oppressive environment. Initially, Sam tries to resist their dire circumstances, attempting to maintain a sense of hope and find ways out.
 
-Act II: Breaking Through
+**Act II**: Breaking Through
 
 4. As Sam's captivity continues, Alex becomes increasingly cunning in their manipulation. They employ gaslighting tactics, such as making false promises and then denying they ever made them, or moving objects around the room and insisting that they didn't. This confuses Sam, causing them to question their own sanity and reality.
 5. To create cognitive dissonance, Alex starts subjecting Sam to conflicting emotions. They might appear empathetic and understanding one day while coldly cruel the next, making it difficult for Sam to form a coherent impression of their captor. Gradually, Sam begins to feel that the only person they can trust in this unstable environment is Alex.
 6. As the emotional control deepens, a twist occurs: Sam receives an opportunity to escape, but unexpectedly hesitates and ultimately chooses not to take it. Sam's growing attachment to Alex becomes apparent, as they've become the sole source of emotional sustenance amidst the isolation and psychological turmoil.
 
-Act III: The Complexity of Bonding
+**Act III**: The Complexity of Bonding
 
 7. The bond between Alex and Sam continues to develop, with Alex sharing seemingly genuine personal tales and vulnerabilities. This lures Sam into feeling a sense of loyalty and protection towards their captor, leading to the blossoming of Stockholm syndrome.
 8. **Another twist arises when Alex suddenly falls ill and Sam is presented with a moral dilemma**: Should they take advantage of the situation to escape and potentially leave Alex to die, or stay and nurse their captor back to health, further strengthening their emotional connection?
 9. Sam chooses the latter, confirming their attachment to Alex. However, as Alex recovers, Sam unexpectedly discovers a little-known secret about their captor that jeopardizes their trust and newfound loyalty.
 
-Act IV: The Shattered Mirror
+**Act IV**: The Shattered Mirror
 
 10. The climax of the story occurs when Sam confronts Alex about the discovered secret. Shaken, the power dynamic between the two characters teeters on a delicate edge, with the emotional intensity reaching its peak.
 11. Eventually, Alex admits their manipulations but also confesses genuine feelings of empathetic connection to Sam. Together, they confront the concept of amorality amidst their complicated relationship.

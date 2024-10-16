@@ -42,11 +42,11 @@ Steel mirrors are said to hold the power to focus and direct energy, making them
 
 There are numerous rituals and spells that involve the use of steel mirrors, some of which are outlined below:
 
-a. ****Scrying****: This divination practice involves gazing into the reflective surface of a steel mirror to gain insights or visions. The mirror should typically be placed in a dimly lit space, and the practitioner should focus their gaze upon the surface without blinking. With practice, the adept may begin to see images or symbols that provide guidance or convey a message from beyond.
+a. **Scrying**: This divination practice involves gazing into the reflective surface of a steel mirror to gain insights or visions. The mirror should typically be placed in a dimly lit space, and the practitioner should focus their gaze upon the surface without blinking. With practice, the adept may begin to see images or symbols that provide guidance or convey a message from beyond.
 
-b. ****Invocation and Evocation****: Steel mirrors can be used to connect with spiritual entities, such as deities, spirits, or even the practitioner's higher self. By preparing the ritual space, drawing sacred symbols around the mirror, and reciting specific incantations, the adept can establish a link with these beings to request their assistance or gather wisdom.
+b. **Invocation and Evocation**: Steel mirrors can be used to connect with spiritual entities, such as deities, spirits, or even the practitioner's higher self. By preparing the ritual space, drawing sacred symbols around the mirror, and reciting specific incantations, the adept can establish a link with these beings to request their assistance or gather wisdom.
 
-c. ****Astral Projection****: Steel mirrors can facilitate the process of astral projection, or out-of-body experiences, by providing a visual anchor to the practitioner's physical body. By gazing into the mirror before attempting to project their consciousness, the adept is thought to enhance the potency of the process.
+c. **Astral Projection**: Steel mirrors can facilitate the process of astral projection, or out-of-body experiences, by providing a visual anchor to the practitioner's physical body. By gazing into the mirror before attempting to project their consciousness, the adept is thought to enhance the potency of the process.
 
 5. Harnessing the Power of Steel Mirrors
 

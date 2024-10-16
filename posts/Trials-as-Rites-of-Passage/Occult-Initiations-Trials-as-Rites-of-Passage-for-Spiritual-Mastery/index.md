@@ -30,7 +30,7 @@ Trials as Rites of Passage refer to the transformative processes and challenges 
 
 The purpose of Trials as Rites of Passage is manifold—isolating the committed individuals, forging their character, and exposing them to sacred knowledge. From a historical perspective, different magical traditions and secret societies have used these trials as gateways to ensure that only genuine seekers progress on their path.
 
-The trials also serve a secondary purpose: they act as essential building blocks for spiritual and magical practices. To attain proficiency in the occult, one must consistently challenge their own limitations. These rites ultimately contribute to the practitioner's understanding of both themselves and the hidden laws governing the universe.
+**The trials also serve a secondary purpose**: they act as essential building blocks for spiritual and magical practices. To attain proficiency in the occult, one must consistently challenge their own limitations. These rites ultimately contribute to the practitioner's understanding of both themselves and the hidden laws governing the universe.
 
 ### III. Common Trials Encountered by Initiates
 

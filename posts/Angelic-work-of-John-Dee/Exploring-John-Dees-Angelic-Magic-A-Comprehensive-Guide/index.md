@@ -32,7 +32,7 @@ During the Renaissance period, intellectual pursuits intersected with Hermeticis
 
 Key Concepts
 
-Enochian Language: One of the most significant contributions of John Dee's Angelic work is the Enochian language, which constitutes an intricate and highly-structured linguistic system. It was believed to be the language of Angels and was revealed to Dee and Kelley during their scrying sessions. The Enochian language consists of 21 letters, governed by corresponding rules of syntax and grammar, making it a distinct magical language with its unique alphabet, called the "Enochian script."
+**Enochian Language**: One of the most significant contributions of John Dee's Angelic work is the Enochian language, which constitutes an intricate and highly-structured linguistic system. It was believed to be the language of Angels and was revealed to Dee and Kelley during their scrying sessions. The Enochian language consists of 21 letters, governed by corresponding rules of syntax and grammar, making it a distinct magical language with its unique alphabet, called the "Enochian script."
 
 **Scrying**: Scrying refers to the art of gazing into a reflective or translucent surface, such as a crystal ball or pool of water, to access visions, symbols, or spiritual insights. Dee and Kelley utilized these methods to communicate with Angels, who, in turn, provided guidance, knowledge, and the ability to interpret complex systems like the Enochian language.
 
@@ -40,10 +40,10 @@ Dee-Kelley Collaboration: The relationship between John Dee and Edward Kelley wa
 
 Practical Applications
 
-Invocations and Rituals: The Angelic work of John Dee offers a range of practical applications for initiates. Many processes, such as invocations, require precise and sequential recitation of Angelic names, derived from the Enochian script and organized table, called the "Watchtowers." By mastering these invocations paired with a deep understanding of the Celestial Hierarchy, practitioners can establish powerful connections with Angelic beings.
+**Invocations and Rituals**: The Angelic work of John Dee offers a range of practical applications for initiates. Many processes, such as invocations, require precise and sequential recitation of Angelic names, derived from the Enochian script and organized table, called the "Watchtowers." By mastering these invocations paired with a deep understanding of the Celestial Hierarchy, practitioners can establish powerful connections with Angelic beings.
 
-Sigils and Talismans: Sigils and talismans are essential in Dee's Angelic work, as they help practitioners focus their intentions during ritualistic practices. Often inscribed on parchment or carved on wood, these symbolic representations of Angelic names and Enochian script are used as protective amulets or to evoke specific blessings from celestial entities.
+**Sigils and Talismans**: Sigils and talismans are essential in Dee's Angelic work, as they help practitioners focus their intentions during ritualistic practices. Often inscribed on parchment or carved on wood, these symbolic representations of Angelic names and Enochian script are used as protective amulets or to evoke specific blessings from celestial entities.
 
-Divinatory Tools: Dee's methods provide valuable tools for divination and the exploration of the individual subconscious. For instance, scrying, as practiced by Kelley, is a technique that can reveal personal insights, external omens, and hidden truths about one's psyche, often couched within symbols that necessitate interpretation and reflection.
+**Divinatory Tools**: Dee's methods provide valuable tools for divination and the exploration of the individual subconscious. For instance, scrying, as practiced by Kelley, is a technique that can reveal personal insights, external omens, and hidden truths about one's psyche, often couched within symbols that necessitate interpretation and reflection.
 
 In conclusion, the Angelic work of John Dee presents a rich and intricate domain of occult knowledge, encompassing a unique linguistic system, divinatory techniques, and methods of communicating with celestial beings. By engaging with the historical context, key concepts, and practical applications presented in this section, initiates can profoundly deepen their understanding and foster a vital, transformative connection with the Angelic realm.

@@ -48,7 +48,7 @@ Grieving is a process of unveiling the hidden aspects of our being – including
 
 2. The Cycle of Death and Rebirth
 
-Grief connects us to the fundamental cycle of nature: death, transformation, and rebirth. By embracing the wisdom of this cycle, we accept that endings are a natural part of life, serving as gateways to new beginnings. Thus, each loss holds the possibility of growth and renewal.
+**Grief connects us to the fundamental cycle of nature**: death, transformation, and rebirth. By embracing the wisdom of this cycle, we accept that endings are a natural part of life, serving as gateways to new beginnings. Thus, each loss holds the possibility of growth and renewal.
 
 ### III. Rituals and Practices for Grieving
 

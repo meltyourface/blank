@@ -21,7 +21,7 @@ excerpt: Craft an advanced sigil, drawing upon the mystical knowledge found with
 ---
 In accordance with the mystical knowledge found within the Pseudo-Agrippan Texts and the complexities of the planetary hours system, I present an advanced sigil that harmoniously incorporates planetary symbols and astrological glyphs. The design follows the sequential arrangement of elements based on planetary hours and is formulated during a time of optimal astrological alignment.
 
-The Sigil: ⏀♈⛢♂⚳⚴♅
+**The Sigil**: ⏀♈⛢♂⚳⚴♅
 
 Each individual element of the sigil holds its meaning:
 

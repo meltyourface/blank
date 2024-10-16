@@ -35,15 +35,15 @@ Rose quartz carries a soft, nurturing energy that promotes love, compassion, and
 
 Creating Gemstone-Perfume Elixirs:
 
-1. ****Cleanse and Charge****: Begin by cleansing the chosen gemstones with a salt bath, sound vibrations, or by placing them in the moonlight. Once cleansed, charge the stones by connecting with their energy and setting clear intentions.
+1. **Cleanse and Charge**: Begin by cleansing the chosen gemstones with a salt bath, sound vibrations, or by placing them in the moonlight. Once cleansed, charge the stones by connecting with their energy and setting clear intentions.
 
-2. ****Select Oils****: Choose essential oils that resonate with your intentions and possess complementary properties to the chosen gemstones.
+2. **Select Oils**: Choose essential oils that resonate with your intentions and possess complementary properties to the chosen gemstones.
 
-3. ****Blend****: In a sterilized glass bottle, combine the selected essential oils, using a carrier oil (such as almond or jojoba oil) as a base. Gently shake the blend to incorporate.
+3. **Blend**: In a sterilized glass bottle, combine the selected essential oils, using a carrier oil (such as almond or jojoba oil) as a base. Gently shake the blend to incorporate.
 
-4. ****Infuse****: Add the cleansed and charged stones to the bottle, placing them carefully, so they are fully immersed in the oil blend. Seal and label the bottle with the date and contents.
+4. **Infuse**: Add the cleansed and charged stones to the bottle, placing them carefully, so they are fully immersed in the oil blend. Seal and label the bottle with the date and contents.
 
-5. ****Steep****: Allow the gemstone-infused perfume to steep in a cool, dark place for a minimum of two weeks. The longer the infusion, the stronger the energetic properties.
+5. **Steep**: Allow the gemstone-infused perfume to steep in a cool, dark place for a minimum of two weeks. The longer the infusion, the stronger the energetic properties.
 
 Potential Uses:
 

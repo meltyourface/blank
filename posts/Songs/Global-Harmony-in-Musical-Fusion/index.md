@@ -25,7 +25,7 @@ excerpt: >
 
 **Dialects**: Mandarin Chinese, Yoruba (Nigeria), and Scottish Gaelic
 
-Time Signatures: 4/4, 6/8, and 9/8
+**Time Signatures**: 4/4, 6/8, and 9/8
 
 **Tempo**: Allegro moderato (110 BPM), Andante (60 BPM), and Vivace (140 BPM)
 

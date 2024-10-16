@@ -31,9 +31,9 @@ The transformative potential of sexual energy for spiritual and personal growth 
 
 There are numerous techniques within Tantra that facilitate the harnessing and transforming of sexual energy. **Some of them include**:
 
-1. ****Sublimation****: This technique involves redirecting the sexual energy upwards through the energy centers, or chakras, transmuting it for creative and spiritual purposes.
-2. ****Breathwork****: In Tantra, breath is used to balance, ground, and control sexual energy, facilitating profound experiences of intimacy and spiritual awakening.
-3. ****Sacred rituals and ceremonies****: These empower the sexual act and elevate it beyond the physical by imbuing it with a sense of the sacred, divine, and transformative.
-4. ****Meditation and visualization****: These practices enrich the experience of sexuality, anchoring it in mindfulness and focused attention and opening the pathway to spiritual transformation.
+1. **Sublimation**: This technique involves redirecting the sexual energy upwards through the energy centers, or chakras, transmuting it for creative and spiritual purposes.
+2. **Breathwork**: In Tantra, breath is used to balance, ground, and control sexual energy, facilitating profound experiences of intimacy and spiritual awakening.
+3. **Sacred rituals and ceremonies**: These empower the sexual act and elevate it beyond the physical by imbuing it with a sense of the sacred, divine, and transformative.
+4. **Meditation and visualization**: These practices enrich the experience of sexuality, anchoring it in mindfulness and focused attention and opening the pathway to spiritual transformation.
 
 In summary, there is a synchronistic connection between the principles of alchemical transmutation and the sacred union of divine masculine and feminine energies in Tantra. These traditions both focus on the transmutation or transformation of base aspects of the self into more refined and purified forms, leading to personal growth and spiritual expansion. In Tantra, harnessing the potent energy of sexuality through various techniques, such as sublimation, breathwork, and sacred rituals, offers a powerful means to catalyze this transformation and achieve enhanced states of consciousness, spiritual awakening, and the experience of oneness.

@@ -33,30 +33,30 @@ Throughout history, grimoires have been regarded as powerful and often dangerous
 
 ### III. Essential Terminology
 
-1. ****Initiate****: An individual beginning their metaphysical journey, often seeking knowledge within the grimoire tradition.
+1. **Initiate**: An individual beginning their metaphysical journey, often seeking knowledge within the grimoire tradition.
 
-2. ****Magick****: An intentional act or series of rituals designed to create desired change in one's self, others, or the world around them.
+2. **Magick**: An intentional act or series of rituals designed to create desired change in one's self, others, or the world around them.
 
-3. ****Glyphs and Sigils****: Symbols endowed with specific meanings and powers, often used in grimoires as representations of deities, spirits, and energies.
+3. **Glyphs and Sigils**: Symbols endowed with specific meanings and powers, often used in grimoires as representations of deities, spirits, and energies.
 
-4. ****Invocation****: A summoning or calling forth of deities, spirits, or energies to aid in a magical working.
+4. **Invocation**: A summoning or calling forth of deities, spirits, or energies to aid in a magical working.
 
 ### IV. Significant Figures
 
-1. ****King Solomon****: An ancient biblical figure credited with the authorship of several grimoires, most notably the Key of Solomon and the Lesser Key of Solomon/ Lemegeton. While there is debate regarding the actual authorship, Solomon's influence in grimoire tradition is undeniably significant.
+1. **King Solomon**: An ancient biblical figure credited with the authorship of several grimoires, most notably the Key of Solomon and the Lesser Key of Solomon/ Lemegeton. While there is debate regarding the actual authorship, Solomon's influence in grimoire tradition is undeniably significant.
 
-2. ****Cornelius Agrippa****: A 16th-century scholar and occultist, known for his comprehensive work "Three Books of Occult Philosophy," which influenced the development of many later grimoires.
+2. **Cornelius Agrippa**: A 16th-century scholar and occultist, known for his comprehensive work "Three Books of Occult Philosophy," which influenced the development of many later grimoires.
 
-3. ****Dr. John Dee****: A 16th-century alchemist, mathematician, and astrologer who played a significant role in the development of Enochian magic, a complex system based on angelic communication that has roots in grimoire tradition.
+3. **Dr. John Dee**: A 16th-century alchemist, mathematician, and astrologer who played a significant role in the development of Enochian magic, a complex system based on angelic communication that has roots in grimoire tradition.
 
 ### V. Common Practices
 
-1. ****Preparation and Purification****: Many grimoires emphasize the importance of mental, emotional, and physical purity in conducting metaphysical work. This can involve rituals such as prayer, fasting, and the use of purifying elements such as water, smoke, or salt.
+1. **Preparation and Purification**: Many grimoires emphasize the importance of mental, emotional, and physical purity in conducting metaphysical work. This can involve rituals such as prayer, fasting, and the use of purifying elements such as water, smoke, or salt.
 
-2. ****Spellwork****: Grimoires often contain instructions for creating and casting spells, which can be as simple as reciting a specific set of words or as complex as performing intricate rituals with multiple participants, tools, and steps.
+2. **Spellwork**: Grimoires often contain instructions for creating and casting spells, which can be as simple as reciting a specific set of words or as complex as performing intricate rituals with multiple participants, tools, and steps.
 
-3. ****Talismanic Magic****: The creation and empowerment of talismans, such as amulets or charms, imbued with specific energies and intentions, is common in the grimoire tradition. This practice is often associated with the use of sigils and glyphs to represent the desired energies and intentions.
+3. **Talismanic Magic**: The creation and empowerment of talismans, such as amulets or charms, imbued with specific energies and intentions, is common in the grimoire tradition. This practice is often associated with the use of sigils and glyphs to represent the desired energies and intentions.
 
-4. ****Divination****: Grimoires frequently include techniques for divination – the art of obtaining hidden knowledge or insight into future events. These practices can involve scrying, tarot cards, runes, or other forms of symbolic interpretation.
+4. **Divination**: Grimoires frequently include techniques for divination – the art of obtaining hidden knowledge or insight into future events. These practices can involve scrying, tarot cards, runes, or other forms of symbolic interpretation.
 
 As students progress through the grimoire tradition, they will undoubtedly develop a more profound understanding of metaphysical origins and gain insights into the rich tapestry of knowledge woven through centuries of initiates' unfoldment. Armed with this knowledge, students can begin to experiment and explore their own magical potential and contribution to this ancient and ever-evolving tradition.

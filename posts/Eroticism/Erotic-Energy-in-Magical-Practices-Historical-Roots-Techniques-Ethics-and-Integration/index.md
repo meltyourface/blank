@@ -48,7 +48,7 @@ excerpt: >
   
   When incorporating eroticism into one's magical practice, it is essential to keep the following in mind:
   
-  1. ****Begin with self-exploration****: Understand your own boundaries, desires, and areas of interest related to eroticism and sexuality. This includes researching various practices, techniques, and philosophies within the field of erotic occultism.
+  1. **Begin with self-exploration**: Understand your own boundaries, desires, and areas of interest related to eroticism and sexuality. This includes researching various practices, techniques, and philosophies within the field of erotic occultism.
   
   2. **Seek out like-minded practitioners**: Engage with practitioners who share similar interests and values related to erotic occultism. Magical groups or online forums can provide opportunities to form connections and share knowledge.
   

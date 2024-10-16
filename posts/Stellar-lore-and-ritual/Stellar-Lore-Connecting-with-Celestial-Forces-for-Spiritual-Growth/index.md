@@ -37,13 +37,13 @@ Stellar Rituals and Practices
 
 Stellar rituals vary in complexity and purpose, and can include relatively straightforward practices, such as stargazing, to more intricate endeavors, like sigil crafting or the creation of talismans imbued with celestial power.
 
-1. ****Stargazing and Sky Meditation****: Regular observation of the night sky provides practitioners with insight into the movements of celestial bodies and assists in strengthening their connections to these constructs. Meditating under the open sky can allow the practitioner to receive cosmic guidance directly from the source, and can often result in deep insights and inner transformations.
+1. **Stargazing and Sky Meditation**: Regular observation of the night sky provides practitioners with insight into the movements of celestial bodies and assists in strengthening their connections to these constructs. Meditating under the open sky can allow the practitioner to receive cosmic guidance directly from the source, and can often result in deep insights and inner transformations.
 
-2. ****Planetary Alignment Rituals****: During specific planetary alignments, the occult practitioner can tap into the converging energies of those celestial bodies to amplify a particular desire or goal. For instance, when Venus and Jupiter align, it is an opportune time to manifest love and abundance using rituals that involve invoking forces from both of these planets.
+2. **Planetary Alignment Rituals**: During specific planetary alignments, the occult practitioner can tap into the converging energies of those celestial bodies to amplify a particular desire or goal. For instance, when Venus and Jupiter align, it is an opportune time to manifest love and abundance using rituals that involve invoking forces from both of these planets.
 
-3. ****Lunar Magic and Rituals****: The Moon holds a special place in many occult traditions due to its direct influence on our psyche and its ever-changing phases. The practitioner can perform rituals corresponding to the lunar cycle, such as initiation rituals during the new moon or releasing rituals during the full moon.
+3. **Lunar Magic and Rituals**: The Moon holds a special place in many occult traditions due to its direct influence on our psyche and its ever-changing phases. The practitioner can perform rituals corresponding to the lunar cycle, such as initiation rituals during the new moon or releasing rituals during the full moon.
 
-4. ****Sigil Crafting****: Sigils are a powerful method of encapsulating and directing the energies associated with celestial bodies. Crafting a sigil specific to a particular celestial body imbues it with the energy of that body, allowing for focused and intentional workings.
+4. **Sigil Crafting**: Sigils are a powerful method of encapsulating and directing the energies associated with celestial bodies. Crafting a sigil specific to a particular celestial body imbues it with the energy of that body, allowing for focused and intentional workings.
 
 Potential Insights and Transformations
 

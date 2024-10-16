@@ -23,7 +23,7 @@ excerpt: >
 
 ## Title: The Ritual of the Crystal Dragon's Embrace
 
-Goal: To harness the potent energy of a Crystal Dragon during meditative incantations or casting intricate spells.
+**Goal**: To harness the potent energy of a Crystal Dragon during meditative incantations or casting intricate spells.
 
 Preparation:
 

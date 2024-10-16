@@ -32,7 +32,7 @@ Across ancient texts, their roles range from benefactors to tricksters—aiding 
 
 **7.2 Characteristics of the Hidden Folk**
 
-Hidden Folk can be broadly classified into three primary categories: elemental, nature-bound, and transcendent. Each category is distinguished by its unique traits, abilities, and associations.
+**Hidden Folk can be broadly classified into three primary categories**: elemental, nature-bound, and transcendent. Each category is distinguished by its unique traits, abilities, and associations.
 
 - Elemental Hidden Folk: These beings embody and serve specific elemental forces. For instance, salamanders are associated with fire, undines with water, sylphs with air, and gnomes with earth. Tremendously attuned to their respective elements, they can invoke their associated forces.
 

@@ -25,7 +25,7 @@ In the Ritual Aspect of the Cult, the four classical elements (earth, air, fire,
 Symbolism and Meaning: Stability, grounding, fertility, and materiality.
 Importance in Rituals: Earth represents the physical plane and is essential for grounding energy, manifesting intentions, and promoting growth in ritual work.
 
-Tools: Pentacle, crystals, salt, and ritual robes.
+**Tools**: Pentacle, crystals, salt, and ritual robes.
 Colors: Green, brown, and black.
 Astrological Signs: Taurus, Virgo, and Capricorn.
 Cardinal Direction: North.
@@ -34,7 +34,7 @@ Cardinal Direction: North.
 Symbolism and Meaning: Intellect, communication, inspiration, and freedom.
 Importance in Rituals: Air strengthens the connection to higher thought and divine guidance and is essential for the dissemination and interpretation of knowledge in ritual work.
 
-Tools: Athame, wand, incense, and feathers.
+**Tools**: Athame, wand, incense, and feathers.
 Colors: Yellow, light blue, and white.
 Astrological Signs: Gemini, Libra, and Aquarius.
 Cardinal Direction: East.
@@ -43,7 +43,7 @@ Cardinal Direction: East.
 Symbolism and Meaning: Passion, transformation, purification, and courage.
 Importance in Rituals: Fire's energy fuels spiritual awakening, burns away negativity, and ignites the spark of personal power and self-mastery in ritual work.
 
-Tools: Candles, blades, cauldron, and ritual fire.
+**Tools**: Candles, blades, cauldron, and ritual fire.
 Colors: Red, orange, and gold.
 Astrological Signs: Aries, Leo, and Sagittarius.
 Cardinal Direction: South.
@@ -52,7 +52,7 @@ Cardinal Direction: South.
 Symbolism and Meaning: Emotion, intuition, healing, and regeneration.
 Importance in Rituals: Water's purifying and healing properties cleanse and restore balance and act as a conduit for emotional and psychic energies in ritual work.
 
-Tools: Chalice, scrying bowl, sea shells, and anointing oils.
+**Tools**: Chalice, scrying bowl, sea shells, and anointing oils.
 Colors: Blue, silver, and purple.
 Astrological Signs: Cancer, Scorpio, and Pisces.
 Cardinal Direction: West.

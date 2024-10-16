@@ -36,21 +36,21 @@ Prominent Figures
 
 Several key figures became instrumental in shaping the Occult Revival. **A few of the most prominent include**:
 
-1. ****Helena Blavatsky****: Russian author and co-founder of the Theosophical Society, Blavatsky's work synthesized Eastern and Western esoteric thought in an effort to deepen spiritual understanding. Her seminal books, "The Secret Doctrine" and "Isis Unveiled," aimed to reveal the collective wisdom of all religions and spiritual traditions.
+1. **Helena Blavatsky**: Russian author and co-founder of the Theosophical Society, Blavatsky's work synthesized Eastern and Western esoteric thought in an effort to deepen spiritual understanding. Her seminal books, "The Secret Doctrine" and "Isis Unveiled," aimed to reveal the collective wisdom of all religions and spiritual traditions.
 
-2. ****Eliphas Lévi****: A French occultist and author, Lévi became a driving force in the Occult Revival through his wide-ranging literature. His works, including "The Doctrine and Ritual of High Magic" and "The Key of Great Mysteries," reinvigorated interest in the Kabbalah, Tarot, and ceremonial magic.
+2. **Eliphas Lévi**: A French occultist and author, Lévi became a driving force in the Occult Revival through his wide-ranging literature. His works, including "The Doctrine and Ritual of High Magic" and "The Key of Great Mysteries," reinvigorated interest in the Kabbalah, Tarot, and ceremonial magic.
 
-3. ****Aleister Crowley****: The controversial English occultist played a significant role in the development of modern ceremonial magic and the belief system known as Thelema. Through his texts, including "The Book of the Law" and "Magick in Theory and Practice," Crowley sought to empower humanity by encouraging self-discovery and spiritual awakening.
+3. **Aleister Crowley**: The controversial English occultist played a significant role in the development of modern ceremonial magic and the belief system known as Thelema. Through his texts, including "The Book of the Law" and "Magick in Theory and Practice," Crowley sought to empower humanity by encouraging self-discovery and spiritual awakening.
 
 Contributions to Modern Occult Practices
 
 The Occult Revival gave rise to several notable spiritual, occult, and esoteric organizations that remain influential today:
 
-1. ****Theosophical Society****: Established by Helena Blavatsky, Henry Steel Olcott, and William Quan Judge, the Theosophical Society formed a bridge between Eastern and Western spirituality. It introduced a wealth of Eastern spiritual knowledge to Western audiences, becoming a central hub for esoteric exploration that attracted famous figures, such as W.B. Yeats and Rudolf Steiner.
+1. **Theosophical Society**: Established by Helena Blavatsky, Henry Steel Olcott, and William Quan Judge, the Theosophical Society formed a bridge between Eastern and Western spirituality. It introduced a wealth of Eastern spiritual knowledge to Western audiences, becoming a central hub for esoteric exploration that attracted famous figures, such as W.B. Yeats and Rudolf Steiner.
 
-2. ****Hermetic Order of the Golden Dawn****: Founded by Samuel Liddell MacGregor Mathers, Dr. William Robert Woodman, and William Wynn Westcott, the Golden Dawn system combined aspects of the Kabbalah, tarot, astrology, alchemy, and other branches of occultism, creating an influential blueprint for modern Western ceremonial magic.
+2. **Hermetic Order of the Golden Dawn**: Founded by Samuel Liddell MacGregor Mathers, Dr. William Robert Woodman, and William Wynn Westcott, the Golden Dawn system combined aspects of the Kabbalah, tarot, astrology, alchemy, and other branches of occultism, creating an influential blueprint for modern Western ceremonial magic.
 
-3. ****Ordo Templi Orientis (OTO)****: Inspired by the teachings of Aleister Crowley, the OTO offered a system of mystical initiation, aiming for spiritual transformation through hierarchical degrees, modeled after Freemasonry, and incorporating elements of Crowley's Thelema philosophy.
+3. **Ordo Templi Orientis (OTO)**: Inspired by the teachings of Aleister Crowley, the OTO offered a system of mystical initiation, aiming for spiritual transformation through hierarchical degrees, modeled after Freemasonry, and incorporating elements of Crowley's Thelema philosophy.
 
 Applying Occult Revival Teachings to Personal Practice
 

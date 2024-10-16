@@ -31,7 +31,7 @@ Facing East, call upon the elemental Guardian of Air: "Raziel, Guardian of the E
 
 Turning to the South, invoke the Guardian of Fire: "Mikhael, Guardian of the South, infuse thy molten flame with my desires that I might form a crucible of change within the realm of the flesh."
 
-Proceed Westward and invoke the Guardian of Water: "Gabriel, Custodian of the Western Waters, cleanse and pour forth thy depths into my consciousness that I may integrate the myriad forms of my experience."
+**Proceed Westward and invoke the Guardian of Water**: "Gabriel, Custodian of the Western Waters, cleanse and pour forth thy depths into my consciousness that I may integrate the myriad forms of my experience."
 
 Finally, move to face the North and call upon the Guardian of Earth: "Uriel, Mighty Pillar of the North, let your roots entwine my spirit, anchoring me to the mysteries of matter and guiding my manifestation upon this plane."
 

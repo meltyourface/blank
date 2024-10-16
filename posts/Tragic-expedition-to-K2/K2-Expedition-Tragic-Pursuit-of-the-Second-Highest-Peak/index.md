@@ -24,7 +24,7 @@ June 28, 1953
 
 My name is Charles S. Houston, and as the appointed leader of the 1953 American K2 Expedition, I keep a meticulous journal in order to recount the events that will unfold in our attempt to conquer the world's second-highest peak. Little did we know, this would become one of the most tragic tales in mountaineering history.
 
-Our team consists of determined and experienced climbers: Robert Bates, my long-time friend and partner on numerous expeditions; George Bell, a brilliant physicist; Art Gilkey, a geologist; Bob Craig, a biology teacher; Dee Molenaar, a Dutch cartographer; Tony Streather, a seasoned British mountaineer; and Peter Schoening, the youngest and notably strong climber.
+**Our team consists of determined and experienced climbers**: Robert Bates, my long-time friend and partner on numerous expeditions; George Bell, a brilliant physicist; Art Gilkey, a geologist; Bob Craig, a biology teacher; Dee Molenaar, a Dutch cartographer; Tony Streather, a seasoned British mountaineer; and Peter Schoening, the youngest and notably strong climber.
 
 Drawing from our experiences and the accounts of previous expeditions, we embark on this grand K2 venture with both optimism and caution. We are well-prepared, anticipating extreme weather, high altitude challenges, and the technical difficulties the mountain is known for.
 

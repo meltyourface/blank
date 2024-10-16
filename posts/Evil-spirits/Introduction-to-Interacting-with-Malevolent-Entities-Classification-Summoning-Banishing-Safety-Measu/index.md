@@ -27,8 +27,8 @@ Lesson Plan: Unraveling the Mysteries of Evil Spirits: Origins, Characteristics,
 ### I. Introduction to Evil Spirits
    A. Definition and Origin
       1. Demons, malevolent entities, and dark energies.
-      2. ****Origins****: Various religious, mythological, and cultural beliefs.
-      3. ****Common Themes****: Fallen angels, personification of evil, instruments of temptation.
+      2. **Origins**: Various religious, mythological, and cultural beliefs.
+      3. **Common Themes**: Fallen angels, personification of evil, instruments of temptation.
 
 ### II. Characteristics of Evil Spirits
    A. Traits of Malevolent Entities
@@ -42,8 +42,8 @@ Lesson Plan: Unraveling the Mysteries of Evil Spirits: Origins, Characteristics,
 
 ### III. Classification of Evil Spirits
    A. Hierarchies of Demons
-      1. ****Solomon's Goetia****: The 72 Lesser Key Demons
-      2. ****Dante's Inferno****: The Nine Circles of Hell and their inhabitants
+      1. **Solomon's Goetia**: The 72 Lesser Key Demons
+      2. **Dante's Inferno**: The Nine Circles of Hell and their inhabitants
    B. Cultural Variations
       1. Japanese Yokai
       2. Middle Eastern Djinn
@@ -53,7 +53,7 @@ Lesson Plan: Unraveling the Mysteries of Evil Spirits: Origins, Characteristics,
 
 ### IV. Summoning and Banishing Evil Spirits
    A. The Art of Summoning
-      1. ****Ritual preparation****: Cleansing, tools and protection.
+      1. **Ritual preparation**: Cleansing, tools and protection.
       2. The triangle of manifestation
       3. Invocations and conjurations
    B. The Art of Banishing

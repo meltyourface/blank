@@ -35,7 +35,7 @@ Course Title: Advanced Esoteric and Occult Studies within the Aquarian Foundatio
 Course Description:
 This advanced program is dedicated to the exploration and mastery of esoteric and occult knowledge within the Aquarian Foundation's lineage. Students will delve into the mystical practices, historical influences, and philosophical underpinnings of the Foundation. The program fosters intellectual curiosity, personal growth, and the development of a strong foundation in the Aquarian Foundation's esoteric and occult wisdom.
 
-Course Duration: 
+**Course Duration**: 
 12 Weeks
 
 Week 1: Introduction to the Aquarian Foundation and its History

@@ -34,7 +34,7 @@ excerpt: >
 
 The Goetia, an ancient practice of evoking demons, originates from several primary sources and has evolved through various occult traditions. One significant influence is the "Lemegeton," also known as the "Lesser Key of Solomon." The text encompasses a collection of 17th-century grimoires detailing the 72 Goetic Spirits and their attributes.
 
-Other prominent works on Goetic Spirits include: S.L. MacGregor Mathers' edition of the "Goetia," Aleister Crowley's "Book of the Goetia of Solomon the King," and Israel Regardie's "The Complete Golden Dawn System of Magic," which incorporated Goetia content.
+**Other prominent works on Goetic Spirits include**: S.L. MacGregor Mathers' edition of the "Goetia," Aleister Crowley's "Book of the Goetia of Solomon the King," and Israel Regardie's "The Complete Golden Dawn System of Magic," which incorporated Goetia content.
 
 2. Traditional Ceremonial Preparations:
 

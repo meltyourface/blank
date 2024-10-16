@@ -21,7 +21,7 @@ excerpt: Expand upon the connections between the Enochian angelic hierarchy as d
 ---
 The Enochian angelic hierarchy, as divulged through John Dee's work, comprises a complex and intricate system that has been a subject of fascination for mystics and scholars for centuries. The connections between this hierarchy and other spiritual traditions reveal universal patterns, making it possible to draw comparisons with various angelic categorizations. In this exploration, we will examine the links between the Enochian system and Kabbalistic, Gnostic, Sumerian, and other spiritual hierarchies to discern commonalities and unique aspects within angelic cosmology.
 
-Enochian System: Watchtowers, Governors, and Sigillum Dei Aemeth
+**Enochian System**: Watchtowers, Governors, and Sigillum Dei Aemeth
 
 In Dee's Enochian system, the Watchtowers are four elemental components that house the angelic hierarchies. Each Watchtower represents a cardinal direction (north, south, east, and west), correlating with the elements of earth, air, water, and fire, respectively. Within these Watchtowers are the Governors of the Aethyrs, angelic beings who preside over 30 regions or spheres (Aethyrs) of existence.
 

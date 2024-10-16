@@ -36,11 +36,11 @@ In the Hermetic Qabalah, the Tree of Life serves as the central organizing struc
 
 Shared Concepts:
 
-1. ****Hidden or Secret Wisdom****: Both traditions embody the quest for hidden knowledge and secret wisdom, as well as the belief that such knowledge requires initiation, training, and mastery of specific practices.
+1. **Hidden or Secret Wisdom**: Both traditions embody the quest for hidden knowledge and secret wisdom, as well as the belief that such knowledge requires initiation, training, and mastery of specific practices.
 
-2. ****Ritual and Ceremonial Practices****: Both Solomonic and Hermetic Qabalah involve the use of ritual and ceremonial practices to access and work with spiritual forces, often including the invocation of angelic and demonic entities.
+2. **Ritual and Ceremonial Practices**: Both Solomonic and Hermetic Qabalah involve the use of ritual and ceremonial practices to access and work with spiritual forces, often including the invocation of angelic and demonic entities.
 
-3. ****Theurgy and Spiritual Ascent****: Both traditions share a focus on theurgy, the practice of using magic to commune with divine beings and elevate the soul through spiritual ascent.
+3. **Theurgy and Spiritual Ascent**: Both traditions share a focus on theurgy, the practice of using magic to commune with divine beings and elevate the soul through spiritual ascent.
 
 Differing Methodologies:
 

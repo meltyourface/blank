@@ -28,9 +28,9 @@ In this chapter, we delve into the mystic realm of the Herbarium and explore thr
 
 Belladonna, also known as Deadly Nightshade, has a long history in the realm of magick and witchcraft. For centuries, it has been associated with transformations, visions, and communication with the spirit world.
 
-Mystical Properties: Belladonna possesses a potent energy that aids in divination, astral travel, and connecting with deities. Its energy can bring clarity, spiritual growth and aid in revealing hidden truths.
+**Mystical Properties**: Belladonna possesses a potent energy that aids in divination, astral travel, and connecting with deities. Its energy can bring clarity, spiritual growth and aid in revealing hidden truths.
 
-Historical Significance: Since ancient times, Belladonna has been used by witches and herbalists alike. Belladonna was a crucial ingredient in many ancient potions and ointments, including the notorious flying ointment, used by witches to induce trances and facilitate astral projection.
+**Historical Significance**: Since ancient times, Belladonna has been used by witches and herbalists alike. Belladonna was a crucial ingredient in many ancient potions and ointments, including the notorious flying ointment, used by witches to induce trances and facilitate astral projection.
 
 Harvesting, Preparation, and Use: When harvesting Belladonna, it is vital to take extreme caution due to its toxic nature. Wear gloves and harvest only the ripe berries and leaves, avoiding the roots and stems. Dry the berries and leaves thoroughly in a well-ventilated area away from direct sunlight.
 
@@ -44,9 +44,9 @@ When using Belladonna oil, apply sparingly to the forehead or wrists. Keep in mi
 
 Mugwort is a versatile and revered plant that has been used for both its mystical properties and medicinal applications throughout history.
 
-Mystical Properties: Mugwort has a powerful connection to the moon and the element of water. It is known for enhancing psychic abilities, promoting lucid dreaming, and offering protection during spiritual journeys.
+**Mystical Properties**: Mugwort has a powerful connection to the moon and the element of water. It is known for enhancing psychic abilities, promoting lucid dreaming, and offering protection during spiritual journeys.
 
-Historical Significance: In medieval Europe, Mugwort was believed to protect against evil spirits and negativity. It was often woven into charms and talismans to ward off malevolent forces or brewed into teas to promote prophetic visions.
+**Historical Significance**: In medieval Europe, Mugwort was believed to protect against evil spirits and negativity. It was often woven into charms and talismans to ward off malevolent forces or brewed into teas to promote prophetic visions.
 
 Harvesting, Preparation, and Use: Harvest Mugwort during the full moon to maximize its spiritual properties. Carefully cut the upper stems and leaves, leaving the roots intact. Hang the plant upside down to dry in a well-ventilated space with low humidity.
 
@@ -58,9 +58,9 @@ To use Mugwort in rituals and spells, the dried herb can be smudged, infused in 
 
 The Mandrake root holds an enigmatic presence in ancient folklore, believed to possess extraordinary powers of protection and manifestation.
 
-Mystical Properties: Mandrake is said to enhance charisma, attract love, and secure prosperity. It also has powerful protective properties, shielding its user from curses and malevolent energies.
+**Mystical Properties**: Mandrake is said to enhance charisma, attract love, and secure prosperity. It also has powerful protective properties, shielding its user from curses and malevolent energies.
 
-Historical Significance: During the Middle Ages, the Mandrake root was used in numerous love and money spells due to its alleged magickal properties. Possessing a whole Mandrake root was believed to bring good fortune, protect its owner from harm, and even foretell the future.
+**Historical Significance**: During the Middle Ages, the Mandrake root was used in numerous love and money spells due to its alleged magickal properties. Possessing a whole Mandrake root was believed to bring good fortune, protect its owner from harm, and even foretell the future.
 
 Harvesting, Preparation, and Use: Harvesting Mandrake root requires special rituals and caution. Traditionally, it was advised to draw a circle around the plant with a dagger while invoking the plant's spirit and reciting prayers. Gently dig around the plant to expose the root, maintaining its human-like form. Dry the root thoroughly, and store it in a dark, cool location.
 

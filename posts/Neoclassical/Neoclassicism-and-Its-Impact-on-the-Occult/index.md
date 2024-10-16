@@ -30,9 +30,9 @@ Neoclassicism, a dominating movement in art, literature, and architecture during
 
 Neoclassicism emerged as a response to the Enlightenment and the concurrent rise of rationalism, rebelling against both and seeking to revive the wisdom of the past, specifically drawing inspiration from ancient Greece and Rome. **Core principles of Neoclassicism include**:
 
-1. ****Order and symmetry****: Neoclassicism favored structure, proportions, and harmony, inspired by principles of classical architecture and geometry.
-2. ****Idealism****: Neoclassical artists and thinkers strived for perfection, emulating the ideals expressed in ancient myths and philosophies.
-3. ****Virtue and moral clarity****: Neoclassicism emphasized the importance of virtue and moral principles in both personal and civic life, as opposed to the relativism that often accompanied Enlightenment thinking.
+1. **Order and symmetry**: Neoclassicism favored structure, proportions, and harmony, inspired by principles of classical architecture and geometry.
+2. **Idealism**: Neoclassical artists and thinkers strived for perfection, emulating the ideals expressed in ancient myths and philosophies.
+3. **Virtue and moral clarity**: Neoclassicism emphasized the importance of virtue and moral principles in both personal and civic life, as opposed to the relativism that often accompanied Enlightenment thinking.
 
 ### II. Artistic and Symbolic Aspects of Neoclassicism
 
@@ -44,22 +44,22 @@ The Neoclassical period saw a resurgence of interest in ancient religious texts 
 
 Some of the Neoclassical influences on the occult include:
 
-1. ****Revival of ancient magical practices****: Neoclassical occultists often sought inspiration from ancient rituals and spells, incorporating them into their magical work.
-2. ****Alchemical transmutation****: The Neoclassical notion of turning base materials into gold mirrored the spiritual transformation that occurs in the process of personal growth and mystical enlightenment.
-3. ****Symbolic synergy****: Neoclassicism provided a rich symbolic language that allowed occultists to express complex mystical ideas and narratives.
+1. **Revival of ancient magical practices**: Neoclassical occultists often sought inspiration from ancient rituals and spells, incorporating them into their magical work.
+2. **Alchemical transmutation**: The Neoclassical notion of turning base materials into gold mirrored the spiritual transformation that occurs in the process of personal growth and mystical enlightenment.
+3. **Symbolic synergy**: Neoclassicism provided a rich symbolic language that allowed occultists to express complex mystical ideas and narratives.
 
 ### IV. Integrating Neoclassical Elements into Occult Studies
 
 To enhance your understanding and appreciation of the occult, consider incorporating the following Neoclassical concepts:
 
-1. ****Studying Greek and Roman mythology****: Delve into the rich mythology of these ancient civilizations to explore the symbolic meanings and psychological archetypes therein. Reflect on how these mythological themes can be applied to your own magical practice.
-2. ****Embracing Neoclassical aesthetics****: Incorporate Neoclassical art, architecture, and design into your ritual spaces to create an atmosphere that reflects the harmony, beauty, and wisdom of the Neoclassical ideals.
-3. ****Considering ethical principles****: Reflect on Neoclassical ideals of virtue and moral clarity when making personal decisions in your magical practice and everyday life.
+1. **Studying Greek and Roman mythology**: Delve into the rich mythology of these ancient civilizations to explore the symbolic meanings and psychological archetypes therein. Reflect on how these mythological themes can be applied to your own magical practice.
+2. **Embracing Neoclassical aesthetics**: Incorporate Neoclassical art, architecture, and design into your ritual spaces to create an atmosphere that reflects the harmony, beauty, and wisdom of the Neoclassical ideals.
+3. **Considering ethical principles**: Reflect on Neoclassical ideals of virtue and moral clarity when making personal decisions in your magical practice and everyday life.
 
 ### V. Notable Neoclassical Occultists and Works
 
-1. ****Éliphas Lévi****: A prominent 19th-century French occultist, Lévi's works drew heavily from Neoclassical symbolism, particularly in his seminal work "Dogme et Rituel de la Haute Magie," which depicted Neoclassical-inspired illustrations of the Tarot trumps.
-2. ****The Hermetic Order of the Golden Dawn****: While incorporating various traditions, this influential late 19th-century magical society featured Neoclassical aesthetics in its ritual spaces, as well as Greek and Roman references in its teachings and practices.
+1. **Éliphas Lévi**: A prominent 19th-century French occultist, Lévi's works drew heavily from Neoclassical symbolism, particularly in his seminal work "Dogme et Rituel de la Haute Magie," which depicted Neoclassical-inspired illustrations of the Tarot trumps.
+2. **The Hermetic Order of the Golden Dawn**: While incorporating various traditions, this influential late 19th-century magical society featured Neoclassical aesthetics in its ritual spaces, as well as Greek and Roman references in its teachings and practices.
 
 Conclusion
 

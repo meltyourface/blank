@@ -32,19 +32,19 @@ The planetary associations in the Heptameron are key to unlocking its profound s
 
 Each planet is associated with specific characteristics that hold sway over various aspects of the human experience:
 
-1. ****Saturn****: Ruled by the Angel Cassiel, Saturn represents constraints, discipline, and deep contemplation. Its spirits include Aserabie, Morbiel, and Zarobi.
+1. **Saturn**: Ruled by the Angel Cassiel, Saturn represents constraints, discipline, and deep contemplation. Its spirits include Aserabie, Morbiel, and Zarobi.
 
-2. ****Jupiter****: Governed by the Angel Sachiel, Jupiter brings forth wisdom, abundance, and prosperity. The spirits of Jupiter include Aaniel, Borachiel, and Corabanai.
+2. **Jupiter**: Governed by the Angel Sachiel, Jupiter brings forth wisdom, abundance, and prosperity. The spirits of Jupiter include Aaniel, Borachiel, and Corabanai.
 
-3. ****Mars****: Guided by the Angel Samael, Mars is the planet of action, assertiveness, and determination. Its spirits include Barzabel, Gorson, and Gubniel.
+3. **Mars**: Guided by the Angel Samael, Mars is the planet of action, assertiveness, and determination. Its spirits include Barzabel, Gorson, and Gubniel.
 
-4. ****The Sun****: With the Angel Michael at its helm, the Sun symbolizes illumination, vitality, and self-expression. Spirits of the Sun include Narachiel, Rachiel, and Sorat.
+4. **The Sun**: With the Angel Michael at its helm, the Sun symbolizes illumination, vitality, and self-expression. Spirits of the Sun include Narachiel, Rachiel, and Sorat.
 
-5. ****Venus****: Overseen by the Angel Anael, Venus represents love, harmony, and beauty. Its spirits include Hagiel, Cambiel, and Barchiel.
+5. **Venus**: Overseen by the Angel Anael, Venus represents love, harmony, and beauty. Its spirits include Hagiel, Cambiel, and Barchiel.
 
-6. ****Mercury****: Ruled by the Angel Raphael, Mercury emphasizes communication, intuition, and intellectual pursuits. Spirits of Mercury include Cochiel, Darael, and Taphthartarath.
+6. **Mercury**: Ruled by the Angel Raphael, Mercury emphasizes communication, intuition, and intellectual pursuits. Spirits of Mercury include Cochiel, Darael, and Taphthartarath.
 
-7. ****The Moon****: Led by the Angel Gabriel, the Moon governs emotions, receptivity, and cycles of transformation. Spirits of the Moon include Becharas, Maseriel, and Sochiel.
+7. **The Moon**: Led by the Angel Gabriel, the Moon governs emotions, receptivity, and cycles of transformation. Spirits of the Moon include Becharas, Maseriel, and Sochiel.
 
 ### II. Angelic Hierarchies and Planetary Emanations
 
@@ -56,25 +56,25 @@ The angels and spirits themselves reflect the nature of their corresponding plan
 
 The Kabbalistic Tree of Life is a multi-dimensional model that links the divine to the earthly realm, encompassing the ten sephiroth or emanations of divine energy. **These sephiroth may be correlated to the planetary symbols and their associated angelic hierarchies present in the Heptameron**:
 
-1. ****Kether (Crown)****: The highest level of the Tree, associated with pure divine unity and the Primum Mobile.
+1. **Kether (Crown)**: The highest level of the Tree, associated with pure divine unity and the Primum Mobile.
 
-2. ****Chokmah (Wisdom)****: Attributed to the sphere of the Zodiac, connecting expansive spiritual freedom and astrological influences.
+2. **Chokmah (Wisdom)**: Attributed to the sphere of the Zodiac, connecting expansive spiritual freedom and astrological influences.
 
-3. ****Binah (Understanding)****: Associated with Saturn, focused on structure and limitations.
+3. **Binah (Understanding)**: Associated with Saturn, focused on structure and limitations.
 
-4. ****Chesed (Mercy)****: Associated with the benevolent energies of Jupiter, concerned with growth and abundance.
+4. **Chesed (Mercy)**: Associated with the benevolent energies of Jupiter, concerned with growth and abundance.
 
-5. ****Geburah (Judgment)****: Linked to the forceful actions of Mars, encompassing conflict and purgation.
+5. **Geburah (Judgment)**: Linked to the forceful actions of Mars, encompassing conflict and purgation.
 
-6. ****Tiphareth (Beauty)****: Corresponding to the radiant energies of the Sun, uniting both the higher and lower realms of the Tree.
+6. **Tiphareth (Beauty)**: Corresponding to the radiant energies of the Sun, uniting both the higher and lower realms of the Tree.
 
-7. ****Netzach (Victory)****: Connected to the harmonizing energies associated with Venus, focused on love and creative forces.
+7. **Netzach (Victory)**: Connected to the harmonizing energies associated with Venus, focused on love and creative forces.
 
-8. ****Hod (Splendor)****: Linked to the intellectual Mercury, resonating with the constructs of language and communication.
+8. **Hod (Splendor)**: Linked to the intellectual Mercury, resonating with the constructs of language and communication.
 
-9. ****Yesod (Foundation)****: Associated with the Moon and its affect on the astral tides, creating the foundation upon which the material world is built.
+9. **Yesod (Foundation)**: Associated with the Moon and its affect on the astral tides, creating the foundation upon which the material world is built.
 
-10. ****Malkuth (Kingdom)****: Representing the physical manifestation of all cosmic forces in the material world.
+10. **Malkuth (Kingdom)**: Representing the physical manifestation of all cosmic forces in the material world.
 
 The crafting of talismans within the magical practices prescribed in the Heptameron relies heavily on the understanding and harmony of these celestial influences. Aligning oneself with the corresponding planetary energies, angelic hierarchies, and sephiroth is essential to the successful crafting and consecration of the talisman, ensuring its connection to the broader cosmic framework.
 

@@ -31,7 +31,7 @@ The first stage of engagement entails a thorough preparation and purification of
 
 In Western esoteric traditions, such preparation often includes rigorous study and contemplation of occult texts, meditation, fasting, and other disciplines intended to purify the initiate's intentions and desires. Symbolically, this stage is akin to the alchemical process of "nigredo," wherein base metals undergo a process of dissolution and purification before new forms can emerge.
 
-Consequences and benefits: The main consequence of inadequate preparation is the inability to establish a strong connection with the infernal realms or the potential for attracting malevolent entities or energies that could harm the initiate. The benefits, on the other hand, include a strong foundation for further occult practices, self-discovery, the harnessing of personal power, and the ability to maintain control and integrity within the process.
+**Consequences and benefits**: The main consequence of inadequate preparation is the inability to establish a strong connection with the infernal realms or the potential for attracting malevolent entities or energies that could harm the initiate. The benefits, on the other hand, include a strong foundation for further occult practices, self-discovery, the harnessing of personal power, and the ability to maintain control and integrity within the process.
 
 2. Consecration and Invocation
 
@@ -39,7 +39,7 @@ The second stage revolves around the consecration of the ritual space and the in
 
 Invocation requires a deep understanding and resonance with the infernal powers being invoked, such as specific demons or spirits. Throughout history, various grimoires and magical texts have outlined different methods and prayers for invoking these entities, often involving recitation of specific conjurations, utilization of sigils, and performance of ritual gestures.
 
-Consequences and benefits: The main consequence of improper consecration and invocation is the risk of misdirecting the ritual, leading to unpredictable and potentially dangerous results. The benefits of proper consecration and invocation include establishing a strong and controlled connection to infernal powers and gaining their support for personal transformation and the realization of one's desires.
+**Consequences and benefits**: The main consequence of improper consecration and invocation is the risk of misdirecting the ritual, leading to unpredictable and potentially dangerous results. The benefits of proper consecration and invocation include establishing a strong and controlled connection to infernal powers and gaining their support for personal transformation and the realization of one's desires.
 
 3. Pledge and Pact
 
@@ -47,6 +47,6 @@ This is the final and most critical stage in forming a league with the Devil. It
 
 Symbolically, the pledge and pact represent a commitment to personal transformation and the embrace of both light and dark aspects of the self, with the understanding that growth often involves experiencing challenge and adversity.
 
-Consequences and benefits: The consequences of making a pledge and pact can be far-reaching and depend greatly on the nature and terms of the agreement. The initiate may experience moral dilemmas, spiritual or mental disturbances, or may be held accountable for honoring the pact, which could lead to undesirable outcomes if not fulfilled. Conversely, the benefits can include profound personal transformation, the attainment of knowledge, power, or material prosperity, and the ability to navigate the liminal spaces between light and darkness, resulting in a richer and more balanced understanding of one's own existence.
+**Consequences and benefits**: The consequences of making a pledge and pact can be far-reaching and depend greatly on the nature and terms of the agreement. The initiate may experience moral dilemmas, spiritual or mental disturbances, or may be held accountable for honoring the pact, which could lead to undesirable outcomes if not fulfilled. Conversely, the benefits can include profound personal transformation, the attainment of knowledge, power, or material prosperity, and the ability to navigate the liminal spaces between light and darkness, resulting in a richer and more balanced understanding of one's own existence.
 
 In conclusion, forming a league with the Devil involves a process comprising three essential stages, each with its symbolism, consequences, and benefits within the Western esoteric tradition. These stages – Preparation and Purification, Consecration and Invocation, and Pledge and Pact – mark the initiate's journey into the infernal realms and facilitate personal transformation driven by the challenge, growth, and a deeper understanding of the self. While the consequences can be significant and far-reaching, the potential benefits include new perspectives, empowerment, and a heightened understanding of the nature of existence.

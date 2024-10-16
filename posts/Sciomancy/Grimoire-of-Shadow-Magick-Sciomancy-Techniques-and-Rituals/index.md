@@ -25,16 +25,16 @@ excerpt: >
 
 Table of Contents:
 
-### I. ****Introduction****: The Shadowy Origins of Sciomancy
+### I. **Introduction**: The Shadowy Origins of Sciomancy
 ### II. Rituals of the Dark Arts
-### III. ****Sigils and Symbols****: Visualizing Sciomantic Power
-### IV. ****My Journey into the Shadows****: Personal Experiences and Insights
-### V. ****Masters of Shadow****: Pioneers in Sciomancy
+### III. **Sigils and Symbols**: Visualizing Sciomantic Power
+### IV. **My Journey into the Shadows**: Personal Experiences and Insights
+### V. **Masters of Shadow**: Pioneers in Sciomancy
 ### VI. Resources for Further Study
 
 ---
 
-### I. ****Introduction****: The Shadowy Origins of Sciomancy
+### I. **Introduction**: The Shadowy Origins of Sciomancy
 
 Within the annals of esoteric history exists an elusive and enigmatic practice known as Sciomancy – the art of divination and power through shadows. My journey into the realm of darkness and the arcane began during my pursuit of hidden knowledge, when I chanced upon a dusty, forgotten tome that promised untold secrets. From that moment, I was captivated by the fusion of light and darkness and the potential that lay within the penumbra between those two realms.
 
@@ -46,9 +46,9 @@ Sciomancy has roots that stretch back to ancient times, a practice of shadow man
 
 1. Summoning the Shadow Dweller
 
-Ingredients: Black ink, a drop of blood, steel dagger, white candle, and a mirror.
+**Ingredients**: Black ink, a drop of blood, steel dagger, white candle, and a mirror.
 
-Procedure: Choose a quiet, dark room, and place a mirror before you. **Light the white candle and place it on one side of the mirror, allowing your reflection to become visible. Draw the sigil of the Shadow Dweller on the mirror using black ink mixed with a drop of your blood. Hold the steel dagger and recite the following incantation**:
+**Procedure**: Choose a quiet, dark room, and place a mirror before you. **Light the white candle and place it on one side of the mirror, allowing your reflection to become visible. Draw the sigil of the Shadow Dweller on the mirror using black ink mixed with a drop of your blood. Hold the steel dagger and recite the following incantation**:
 
 Through the threshold of light and dark, I summon thee;
 Shadow Dweller, heed my call, for I seek your guidance.
@@ -57,37 +57,37 @@ From darkened corners, manifest, as I embrace the shadows!
 
 2. Manipulating Shadow Energies
 
-Ingredients: Black robe, smoky quartz crystal, and a moonless night.
+**Ingredients**: Black robe, smoky quartz crystal, and a moonless night.
 
-Procedure: Adorn yourself in a black robe and venture outside on a moonless night. Find a secluded spot where darkness is most profound. Sit with the smoky quartz crystal in your palms and close your eyes, drawing in the energy of the darkness around you. Focus your intent, imagining tendrils of shadow weaving through the world – bending to your subtle commands. Practice manipulating this energy by forming shapes, movements, or even dispersing the darkness entirely.
+**Procedure**: Adorn yourself in a black robe and venture outside on a moonless night. Find a secluded spot where darkness is most profound. Sit with the smoky quartz crystal in your palms and close your eyes, drawing in the energy of the darkness around you. Focus your intent, imagining tendrils of shadow weaving through the world – bending to your subtle commands. Practice manipulating this energy by forming shapes, movements, or even dispersing the darkness entirely.
 
 ---
 
-### III. ****Sigils and Symbols****: Visualizing Sciomantic Power
+### III. **Sigils and Symbols**: Visualizing Sciomantic Power
 
 In this grimoire, you will find numerous sigils and symbols, each carefully crafted to invite the potency of Sciomantic workings. These artistic tools should inspire your own visualizations and serve as a crucial aid when practicing rituals.
 
 ---
 
-### IV. ****My Journey into the Shadows****: Personal Experiences and Insights
+### IV. **My Journey into the Shadows**: Personal Experiences and Insights
 
 My first attempt at summoning a shadow entity brought with it a palpable darkness – a sensation that lingered long after my ritual was complete. Struggling to manage newfound energies and grappling with questions and doubts, I soon came to realize that within this darkness lay power – a potent force awaiting those who found balance and understanding.
 
 ---
 
-### V. ****Masters of Shadow****: Pioneers in Sciomancy
+### V. **Masters of Shadow**: Pioneers in Sciomancy
 
-1. ****Erebus the Obscure****: A legendary Sciomancer from ancient Greece, Erebus was shrouded in secrecy, leaving behind a fragmented legacy steeped in mystery.
-2. ****Sister Umbra****: A powerful shadow witch from medieval times, Sister Umbra sought to harness the potential of shadows to heal and protect.
-3. ****Nox Triumphant****: A contemporary Sciomancer, Nox Triumphant has published insightful works exploring the relationship between Sciomancy and modern magick.
+1. **Erebus the Obscure**: A legendary Sciomancer from ancient Greece, Erebus was shrouded in secrecy, leaving behind a fragmented legacy steeped in mystery.
+2. **Sister Umbra**: A powerful shadow witch from medieval times, Sister Umbra sought to harness the potential of shadows to heal and protect.
+3. **Nox Triumphant**: A contemporary Sciomancer, Nox Triumphant has published insightful works exploring the relationship between Sciomancy and modern magick.
 
 ---
 
 ### VI. Resources for Further Study
 
-1. ****The Shadowcaster's Codex****: An old manuscript detailing the intricate practices of Sciomancy, replete with spells, sigils, and occult wisdom.
-2. ****Gavriel Nocturne's Treatise on Darkness****: An enlightening exploration of philosophies surrounding darkness and its relation to Sciomancy.
-3. ****Shadows Within****: A modern psychological analysis of Sciomancy, examining the symbolic power of shadows and their relevance to magickal practices.
+1. **The Shadowcaster's Codex**: An old manuscript detailing the intricate practices of Sciomancy, replete with spells, sigils, and occult wisdom.
+2. **Gavriel Nocturne's Treatise on Darkness**: An enlightening exploration of philosophies surrounding darkness and its relation to Sciomancy.
+3. **Shadows Within**: A modern psychological analysis of Sciomancy, examining the symbolic power of shadows and their relevance to magickal practices.
 
 ---
 

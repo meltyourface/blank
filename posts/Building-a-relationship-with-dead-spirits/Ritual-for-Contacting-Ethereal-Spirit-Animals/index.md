@@ -29,16 +29,16 @@ The Ritual of the Ethereal Spirit Animal is an ancient practice of necromancy, u
 
 **Preparation**:
 
-1. ****Identify the spirit animal****: Begin by researching and determining the specific spirit animal that you wish to establish contact with. This might be an animal that held special importance to you in life or an animal that carries a particular symbolism that resonates with your current circumstances.
+1. **Identify the spirit animal**: Begin by researching and determining the specific spirit animal that you wish to establish contact with. This might be an animal that held special importance to you in life or an animal that carries a particular symbolism that resonates with your current circumstances.
 
-2. ****Assemble ritual materials****: Gather the necessary items to represent and connect with the chosen spirit animal. **These may include**:
+2. **Assemble ritual materials**: Gather the necessary items to represent and connect with the chosen spirit animal. **These may include**:
 
    - An object or image representing the animal (e.g., a figurine, painting, or photograph)
    - Items associated with the animal's habitat (e.g., water, stones, or sand)
    - Aromatic herbs or incense that correlate with the spirit animal's characteristics
    - Candles, preferably in colors associated with the spirit animal
 
-3. ****Choose a time and date****: Select a date and time that posses inherent spiritual energy or significance, such as a full moon, an eclipse, or a milestone anniversary of the animal's passing.
+3. **Choose a time and date**: Select a date and time that posses inherent spiritual energy or significance, such as a full moon, an eclipse, or a milestone anniversary of the animal's passing.
 
 The Ritual:
 **Step 1**: Purify the space

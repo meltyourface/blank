@@ -25,7 +25,7 @@ To fully comprehend the significance of the Loremaster's role, it is essential t
 
 Historically, Loremasters often held sacred positions in ancient civilizations, acting as initiators, spiritual guides, and wisdom keepers for their respective communities. For instance, Druids in Celtic societies carried a similar role, passing down knowledge and oral traditions from generation to generation. Similarly, the ancient Egyptians revered the position of the scribe or seer, tasked with recording spiritual knowledge for future generations.
 
-The key themes guiding the role of a Loremaster in Gradd y Gwyddon y Ffordd are threefold: spiritual development, esoteric truths, and practical application. 
+**The key themes guiding the role of a Loremaster in Gradd y Gwyddon y Ffordd are threefold**: spiritual development, esoteric truths, and practical application. 
 
 1. **Spiritual Development**: The central aspect of the Loremaster's responsibility is the facilitation of personal growth for seekers and initiates embarking on their spiritual path. By providing teachings, guidance, and mentorship, the Loremaster empowers others to discover their unique spiritual perspectives, overcome challenges, and achieve self-actualization. This master-apprentice relationship can be exemplified by the link between mentors like Hermes Trismegistus and their students, transcending time and history to ensure continuity of esoteric wisdom.
 

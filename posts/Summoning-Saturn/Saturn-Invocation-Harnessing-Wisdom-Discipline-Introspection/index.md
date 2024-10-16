@@ -37,9 +37,9 @@ Ingredients and tools:
 9. A small dish of salt
 10. A bowl of earth
 
-Astrological timing: This ritual should be performed on a Saturday during the planetary hour of Saturn. Ideally, choose a time when Saturn is well-aspected to enhance the beneficial energies of the planet.
+**Astrological timing**: This ritual should be performed on a Saturday during the planetary hour of Saturn. Ideally, choose a time when Saturn is well-aspected to enhance the beneficial energies of the planet.
 
-Ritual preparation: 
+**Ritual preparation**: 
 1. Arrange the ingredients and tools on the altar. 
 2. Ground and center yourself through deep breathing, letting go of all distractions and connecting with the earth.
 3. Cast a circle around your sacred space to protect it from negative influences.

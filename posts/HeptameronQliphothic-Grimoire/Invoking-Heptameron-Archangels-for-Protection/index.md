@@ -27,7 +27,7 @@ Before conducting the invocations, it is essential to properly set up the sacred
 Step 2: Align Celestial Correspondences
 Take advantage of the celestial correspondences of each Archangel to maximize the potency of their invocations.
 
-Michael: The Sun is associated with courage and strength.
+**Michael**: The Sun is associated with courage and strength.
 Gabriel: The Moon symbolizes emotion and intuition.
 Raphael: Mercury represents communication and intellect.
 Uriel: Venus is connected to love and harmony.
@@ -38,7 +38,7 @@ Jehudiel: Saturn is associated with discipline and transformation.
 Step 3: Schedule the Astrological Hours
 Perform the invocations during the appropriate astrological hours corresponding to each Archangel.
 
-Michael: Sunday
+**Michael**: Sunday
 Gabriel: Monday
 Raphael: Wednesday
 Uriel: Friday
@@ -49,7 +49,7 @@ Jehudiel: Saturday
 Step 4: Invoke the Mystical Constellations
 To amplify the protective energies, we must synchronize the Archangels' invocations with their respective mystical constellations.
 
-Michael: Constellation of Leo
+**Michael**: Constellation of Leo
 Gabriel: Constellation of Cancer
 Raphael: Constellation of Gemini
 Uriel: Constellation of Taurus

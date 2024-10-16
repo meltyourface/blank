@@ -28,9 +28,9 @@ As I center my focus, I call upon the spirits of Ursa Major and Ursa Minor, the 
 
 With my mind open and receptive, I feel a powerful surge of energy. The air crackles with the essence of the bear spirit, and I begin to channel their prophecy.
 
-Instantly, I see visions of a dense, lush forest. ****Within it, bears roam freely, blending and harmonizing with their natural environment. The message becomes clear****: we must nurture and preserve our connection to the Earth, striving for harmony and balance as the bears do. Our spiritual growth depends upon our willingness to embrace our primal selves and tap into our own innate power.
+Instantly, I see visions of a dense, lush forest. **Within it, bears roam freely, blending and harmonizing with their natural environment. The message becomes clear**: we must nurture and preserve our connection to the Earth, striving for harmony and balance as the bears do. Our spiritual growth depends upon our willingness to embrace our primal selves and tap into our own innate power.
 
-My vision continues, showing me a cave – the realm between worlds. ****The bear spirit’s wisdom flows into me in the form of a profound, solemn understanding****: By retreating within ourselves, we can discover the mysteries of the cosmos and unlock hidden potentials. As the ancient bear folklore illustrates, the bear symbolizes introspection, strength, and the cycles of life and death. It serves as a reminder to honor our own physical, emotional, and spiritual cycles.
+My vision continues, showing me a cave – the realm between worlds. **The bear spirit’s wisdom flows into me in the form of a profound, solemn understanding**: By retreating within ourselves, we can discover the mysteries of the cosmos and unlock hidden potentials. As the ancient bear folklore illustrates, the bear symbolizes introspection, strength, and the cycles of life and death. It serves as a reminder to honor our own physical, emotional, and spiritual cycles.
 
 The spirit's guidance then shifts to a collective cosmic dance, with Ursa Major and Ursa Minor revolving around Polaris, the North Star. This celestial waltz represents stability and constant evolution, highlighting our interconnectedness with these celestial beings.
 

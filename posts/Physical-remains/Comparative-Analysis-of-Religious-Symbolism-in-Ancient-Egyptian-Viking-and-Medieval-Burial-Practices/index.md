@@ -27,19 +27,19 @@ Throughout history, religious symbology and human physical remains have been dee
 ### II. Ancient Egypt (3100 BCE - 332 BCE)
 In Ancient Egypt, the belief in the afterlife played an essential role in shaping burial practices and the use of religious symbols. The Egyptians mummified their dead and placed them in elaborate tombs filled with grave goods, which they believed would help the deceased in their journey through the afterlife. Hieroglyphics, a form of writing incorporating religious symbols, often adorned tomb walls. One iconic religious symbol, the Ankh, symbolized eternal life and could be found on numerous artifacts.
 
-Physical remains: Mummification, burial in tombs and pyramids, elaborate coffins decorated with intricate designs, and grave goods.
+**Physical remains**: Mummification, burial in tombs and pyramids, elaborate coffins decorated with intricate designs, and grave goods.
 Religious symbols: The Ankh, the Scarab beetle (representing rebirth), hieroglyphics, and deities (such as Anubis and Osiris) linked to the afterlife.
 
 ### III. Viking-Age Scandinavia (793 CE - 1066 CE)
 The Vikings believed in an afterlife with multiple realms, such as Valhalla, an eternal hall where warriors would feast and fight. Their burial practices and grave markers reflected this belief. The Vikings buried their dead in ships or boats, seeing this as a means of transporting the deceased to the afterlife. Grave markers were often adorned with runic inscriptions and symbols related to the deceased's beliefs and status.
 
-Physical remains: Burial in boats or ships, grave goods (weapons, food, and textiles), cremations (with ashes interred in burial mounds or cairns), and runestones as grave markers.
+**Physical remains**: Burial in boats or ships, grave goods (weapons, food, and textiles), cremations (with ashes interred in burial mounds or cairns), and runestones as grave markers.
 Religious symbols: Runic inscriptions detailing the deceased's exploits, symbols representing various gods (such as Thor's hammer, Mjölnir), and stylized animal figures (such as the dragon or serpent, representing Ragnarok).
 
 ### IV. Medieval Europe (500 CE - 1500 CE)
 Christianity dominated the religious landscape in Medieval Europe. The belief in Heaven and Hell and the resurrection of the body led to burial practices emphasizing the sanctity of the human body. The deceased were typically buried in consecrated ground, and tombs and gravestones were created using religious iconography.
 
-Physical remains: Burial in churchyards or cemeteries, sometimes enclosed within stone sarcophagi, simple wooden coffins, or shrouds; gravestones and effigies bearing religious symbols; and relics, such as bone fragments or clothing of saints, housed in churches and shrines.
+**Physical remains**: Burial in churchyards or cemeteries, sometimes enclosed within stone sarcophagi, simple wooden coffins, or shrouds; gravestones and effigies bearing religious symbols; and relics, such as bone fragments or clothing of saints, housed in churches and shrines.
 Religious symbols: The Christian cross, angels, and inscriptions of prayers or biblical passages, as well as symbols representing virtues (such as the lamb for purity) and sins (such as the serpent for temptation).
 
 ### V. Conclusion

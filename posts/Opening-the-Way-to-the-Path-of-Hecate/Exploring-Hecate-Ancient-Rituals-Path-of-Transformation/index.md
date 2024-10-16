@@ -46,13 +46,13 @@ c) Enhancing one's magical abilities and psychic powers in alignment with Hecate
 
 3. Ritual and Practices
 
-### I. ****Establishing an Altar****: Dedicate a sacred space (altar) in your home in honor of Hecate. Include her symbols, such as a key, a torch or candle, and a representation of a serpent. Offerings can consist of pomegranates, garlic, honey, or incense to show your devotion.
+### I. **Establishing an Altar**: Dedicate a sacred space (altar) in your home in honor of Hecate. Include her symbols, such as a key, a torch or candle, and a representation of a serpent. Offerings can consist of pomegranates, garlic, honey, or incense to show your devotion.
 
-### II. ****Invocation****: Invoke Hecate's presence through prayer or a formal incantation. You may create your own or use ancient hymns and prayers. As you call her energy, focus on openness and receptivity, permitting her wisdom to infiltrate your journey.
+### II. **Invocation**: Invoke Hecate's presence through prayer or a formal incantation. You may create your own or use ancient hymns and prayers. As you call her energy, focus on openness and receptivity, permitting her wisdom to infiltrate your journey.
 
-### III. ****Working with the Moon****: Hecate is associated with the dark moon, the period just before the new moon. Utilize this time to relinquish anything no longer serving you and embrace the transformative aspect of her energy. Engage in rituals to connect with her guidance and amplify your magical abilities.
+### III. **Working with the Moon**: Hecate is associated with the dark moon, the period just before the new moon. Utilize this time to relinquish anything no longer serving you and embrace the transformative aspect of her energy. Engage in rituals to connect with her guidance and amplify your magical abilities.
 
-### IV. ****Shadow Work and Self-Knowledge****: Embrace the power of introspection in order to understand and integrate your shadow self. Accept the darker aspects of your being and recognize the lessons they bring. Work with Hecate to gain insights into your true nature, harness your personal power, and awaken your deepest potential.
+### IV. **Shadow Work and Self-Knowledge**: Embrace the power of introspection in order to understand and integrate your shadow self. Accept the darker aspects of your being and recognize the lessons they bring. Work with Hecate to gain insights into your true nature, harness your personal power, and awaken your deepest potential.
 
 4. Precautions and Warnings
 

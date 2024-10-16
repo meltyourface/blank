@@ -29,7 +29,7 @@ The Cosmological Trilogy is a fundamental cornerstone of occult studies, consist
 
 The Three Key Principles:
 
-The Cosmological Trilogy comprises three interconnected principles: The Principle of Correspondence, The Principle of Polarity, and The Principle of Resonance.
+**The Cosmological Trilogy comprises three interconnected principles**: The Principle of Correspondence, The Principle of Polarity, and The Principle of Resonance.
 
 1. **The Principle of Correspondence**:
 

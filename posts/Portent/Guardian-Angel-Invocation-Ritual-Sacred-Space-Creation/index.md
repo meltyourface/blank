@@ -23,7 +23,7 @@ excerpt: >
 1. **Establishing the Sacred Space**:
 Begin by drawing a large circle with a 9-foot diameter on the ground, using chalk or another appropriate material. Within this circle, create a second circle, 3 feet smaller in diameter, leaving a 3-foot wide ring between the two circles.
 
-Label the four cardinal directions: North, South, East, and West. **In each of the four quadrants created by these directions, draw the following sigils**:
+**Label the four cardinal directions**: North, South, East, and West. **In each of the four quadrants created by these directions, draw the following sigils**:
 - North: Guardian Angel Uriel represented by the sigil of Earth and an upright Pentagram.
 - South: Guardian Angel Michael represented by the sigil of Fire and an upright Triangle.
 - East: Guardian Angel Raphael represented by the sigil of Air and an upright Square.

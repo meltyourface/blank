@@ -25,23 +25,23 @@ Ensure your ritual space is clean and free of distractions. You may choose to li
 **Step 2**: Perform the Qabalistic Cross
 Stand at the center of your ritual space, facing East. Close your eyes, and visualize a beam of white light descending from the heavens above. Focus on this light entering your body at the top of your head and traveling down through your body to your feet, anchoring you to the earth. 
 
-Next, visualize another beam of white light emanating from your heart and extending to both the left and right horizontally of your body, forming a cross. ****Touch your forehead and intone****: "Ateh" (Thou Art). ****Touch your chest and intone****: "Malkuth" (the Kingdom). ****Touch your right shoulder and intone****: "Ve-Geburah" (and the Power). ****Touch your left shoulder and intone****: "Ve-Gedulah" (and the Glory). ****Clasp your hands together upon your chest and intone****: "Le-Olahm, Amen" (Unto the Ages, Amen).
+Next, visualize another beam of white light emanating from your heart and extending to both the left and right horizontally of your body, forming a cross. **Touch your forehead and intone**: "Ateh" (Thou Art). **Touch your chest and intone**: "Malkuth" (the Kingdom). **Touch your right shoulder and intone**: "Ve-Geburah" (and the Power). **Touch your left shoulder and intone**: "Ve-Gedulah" (and the Glory). **Clasp your hands together upon your chest and intone**: "Le-Olahm, Amen" (Unto the Ages, Amen).
 **Step 3**: Perform the Pentagram Ritual
-While facing East, trace a banishing Earth Pentagram in the air before you. ****Visualize it in brilliant blue light. Point to the center of the pentagram and intone the divine name****: "YHVH" (Yod, Heh, Vau, Heh). 
+While facing East, trace a banishing Earth Pentagram in the air before you. **Visualize it in brilliant blue light. Point to the center of the pentagram and intone the divine name**: "YHVH" (Yod, Heh, Vau, Heh). 
 
-Now, visualize a beam of light coming from this pentagram, extending through the ritual space, as you turn clockwise to face South. ****Here, draw the banishing Fire Pentagram and intone the divine name****: "Adonai." 
+Now, visualize a beam of light coming from this pentagram, extending through the ritual space, as you turn clockwise to face South. **Here, draw the banishing Fire Pentagram and intone the divine name**: "Adonai." 
 
 Repeat this process for West (Water Pentagram and "Eheieh" name) and North (Air Pentagram and "Agla" name). Lastly, return to face East, extending the beam of light to close the circle around your ritual space.
 **Step 4**: Invoke the Archangels
-In the East, visualize the figure of Archangel Raphael, cloaked in the yellow robe of Air, holding a sword and standing guard. ****Vibrate****: "Before me, Raphael."
+In the East, visualize the figure of Archangel Raphael, cloaked in the yellow robe of Air, holding a sword and standing guard. **Vibrate**: "Before me, Raphael."
 
-In the South, visualize Archangel Michael, wearing a red robe of Fire, wielding a spear and standing guard. ****Vibrate****: "Behind me, Michael."
+In the South, visualize Archangel Michael, wearing a red robe of Fire, wielding a spear and standing guard. **Vibrate**: "Behind me, Michael."
 
-In the West, visualize Archangel Gabriel, clothed in the blue robe of Water, holding a chalice and standing guard. ****Vibrate****: "On my right hand, Gabriel."
+In the West, visualize Archangel Gabriel, clothed in the blue robe of Water, holding a chalice and standing guard. **Vibrate**: "On my right hand, Gabriel."
 
-In the North, visualize Archangel Uriel, dressed in the green and brown robe of Earth, carrying a shield and standing guard. ****Vibrate****: "On my left hand, Uriel."
+In the North, visualize Archangel Uriel, dressed in the green and brown robe of Earth, carrying a shield and standing guard. **Vibrate**: "On my left hand, Uriel."
 
-Raise your arms above your head, palms facing upward, forming a triangle with your body. ****Vibrate****: "For about me flames the Pentagram, and within the column shines the six-rayed Star."
+Raise your arms above your head, palms facing upward, forming a triangle with your body. **Vibrate**: "For about me flames the Pentagram, and within the column shines the six-rayed Star."
 **Step 5**: Perform the Qabalistic Cross again
 Repeat Step 2 to reinforce and seal the ritual, ensuring the protection, balance, and harmony of the space.
 

@@ -45,7 +45,7 @@ Symbolism plays an essential role in obscure rites, as the practice relies on im
 2. **Elemental symbols**: Representations of the classical elements (earth, air, fire, water), often incorporated into rituals to tap into the energies associated with these forces.
 3. **Colors**: Different hues serve various purposes within a rite, playing roles in evoking certain feelings or energies.
 
-Performing an Obscure Rite: Items, Precautions, and Tips
+**Performing an Obscure Rite**: Items, Precautions, and Tips
 While the specifics of performing obscure rites vary depending on the practitioner and the intended outcome, there are key aspects applicable to most ceremonies. **Here is a general guideline for proper execution**:
 
 1. Gather the necessary tools and objects, including candles, incense, ritual garments, and any symbolic items required.

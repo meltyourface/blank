@@ -37,17 +37,17 @@ Initiation and Essential Practices
 
 Embarking on the path of Arcane gnosis requires a deep commitment to self-discovery, personal growth, and spiritual development. The following steps outline a roadmap for students to develop mastery over the principles and techniques of this esoteric knowledge.
 
-1. ****Foundations****: The first step in the pursuit of Arcane gnosis is acquiring a solid foundation in related fields of study. This includes understanding the fundamentals of metaphysics, divination, energy work, meditation, and ritual. Familiarity with core concepts, techniques, and practices of each of these areas is critical to navigating the labyrinth of Arcane knowledge.
+1. **Foundations**: The first step in the pursuit of Arcane gnosis is acquiring a solid foundation in related fields of study. This includes understanding the fundamentals of metaphysics, divination, energy work, meditation, and ritual. Familiarity with core concepts, techniques, and practices of each of these areas is critical to navigating the labyrinth of Arcane knowledge.
 
-2. ****Self-Reflection and Introspection****: A significant component of Arcane gnosis is the pursuit of self-discovery and self-mastery. This requires a thorough examination of one's thoughts, beliefs, emotions, and motivations. Students of the Arcane must be diligent in self-reflection, cultivating awareness of their inner processes, and transforming themselves into vessels of higher consciousness.
+2. **Self-Reflection and Introspection**: A significant component of Arcane gnosis is the pursuit of self-discovery and self-mastery. This requires a thorough examination of one's thoughts, beliefs, emotions, and motivations. Students of the Arcane must be diligent in self-reflection, cultivating awareness of their inner processes, and transforming themselves into vessels of higher consciousness.
 
-3. ****Meditation and Visualization****: Mastery of meditation and visualization techniques is essential in the journey to harness the powers of the Arcane. These practices enable the student to attune their mind, spirit, and body, developing heightened sensitivity to the subtle energies that permeate the universe.
+3. **Meditation and Visualization**: Mastery of meditation and visualization techniques is essential in the journey to harness the powers of the Arcane. These practices enable the student to attune their mind, spirit, and body, developing heightened sensitivity to the subtle energies that permeate the universe.
 
-4. ****Invocation and Evocation****: As students progress in their understanding of Arcane gnosis, they will learn to invoke celestial powers and evoke the forces of the natural world. Through this practice, the Arcanist seeks to tap into the archetypal energies that burgeon from the immanent mind, seeking balance and harmony within their inner and outer realities.
+4. **Invocation and Evocation**: As students progress in their understanding of Arcane gnosis, they will learn to invoke celestial powers and evoke the forces of the natural world. Through this practice, the Arcanist seeks to tap into the archetypal energies that burgeon from the immanent mind, seeking balance and harmony within their inner and outer realities.
 
-5. ****Ritual and Ceremony****: The performance of ritual and ceremony plays a pivotal role in the cultivation of Arcane gnosis. It provides the framework for the enactment of symbolism, intention, and visualization, enabling the student to create and control complex energies.
+5. **Ritual and Ceremony**: The performance of ritual and ceremony plays a pivotal role in the cultivation of Arcane gnosis. It provides the framework for the enactment of symbolism, intention, and visualization, enabling the student to create and control complex energies.
 
-6. ****Integration of Knowledge****: True mastery of Arcane gnosis lies in effectively integrating all gained knowledge and experiences into daily life. This requires ongoing practice, focused intention and a deep sense of commitment.
+6. **Integration of Knowledge**: True mastery of Arcane gnosis lies in effectively integrating all gained knowledge and experiences into daily life. This requires ongoing practice, focused intention and a deep sense of commitment.
 
 The Greater Occult Tradition
 

@@ -44,23 +44,23 @@ Incorporate sacred numerology into the invocation through the selection of signi
 
 1. Light the candle and incense within the circle of salt, and arrange the sacrificial offerings before entering the circle.
 
-2. ****Enter the circle and announce your intention****: "I call upon the Angelic Vice-regent to assist my personal growth and spiritual development on this journey."
+2. **Enter the circle and announce your intention**: "I call upon the Angelic Vice-regent to assist my personal growth and spiritual development on this journey."
 
-3. ****With the ceremonial blade or wand in hand, trace the sigil in the air above the candle flame, saying****: "By the sacred geometry of this sigil, I summon the unmatched wisdom and guidance of the Angelic Vice-regent."
+3. **With the ceremonial blade or wand in hand, trace the sigil in the air above the candle flame, saying**: "By the sacred geometry of this sigil, I summon the unmatched wisdom and guidance of the Angelic Vice-regent."
 
-4. ****Stand at the eastern side of the circle and chant****: "I align myself with the energies of the rising sun, and the life-giving power it embodies."
+4. **Stand at the eastern side of the circle and chant**: "I align myself with the energies of the rising sun, and the life-giving power it embodies."
 
-5. ****Shift to the southern quadrant of the circle and chant****: "I align myself with the energies of fire and transformation, and invoke the power of change within myself."
+5. **Shift to the southern quadrant of the circle and chant**: "I align myself with the energies of fire and transformation, and invoke the power of change within myself."
 
-6. ****Move to the western side of circle and chant****: "I align myself with the energies of the setting sun, and the wisdom that comes with time and growth."
+6. **Move to the western side of circle and chant**: "I align myself with the energies of the setting sun, and the wisdom that comes with time and growth."
 
-7. ****Transition to the northern quadrant of the circle and chant****: "I align myself with the energies of the Earth and its nurturing presence, grounding my intentions in the physical world."
+7. **Transition to the northern quadrant of the circle and chant**: "I align myself with the energies of the Earth and its nurturing presence, grounding my intentions in the physical world."
 
 8. Meditate on the Angelic Vice-regent energy and open your heart to the transformative potential of this connection, envisioning the qualities you wish to embody.
 
-9. ****Once the meditation is complete, say****: "I thank the Angelic Vice-regent for their guidance and wisdom, and I ask that our connection strengthens as I continue on this path."
+9. **Once the meditation is complete, say**: "I thank the Angelic Vice-regent for their guidance and wisdom, and I ask that our connection strengthens as I continue on this path."
 
-10. ****Extinguish the candle, while chanting****: "As the flame dissipates, so too shall the Angelic Vice-regent's presence, with their energy remaining within my heart and mind."
+10. **Extinguish the candle, while chanting**: "As the flame dissipates, so too shall the Angelic Vice-regent's presence, with their energy remaining within my heart and mind."
 
 11. Close the ritual by thanking the elements and breaking the circle of salt.
 

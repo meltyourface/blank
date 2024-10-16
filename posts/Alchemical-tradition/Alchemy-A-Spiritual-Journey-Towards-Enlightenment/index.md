@@ -32,7 +32,7 @@ Alchemy can be described as a spiritual and philosophical system that seeks the 
 
 The alchemical tradition employs a symbolic language that integrates astrological symbols, chemical symbols, and allegorical images to represent various physical and spiritual concepts. The art of alchemy emphasizes the interconnectedness between the microcosm (the individual) and the macrocosm (the universe) - a relationship symbolized by the famous phrase "As above, so below".
 
-Magnum Opus: The Great Work
+**Magnum Opus**: The Great Work
 
 Central to the alchemical tradition is the Magnum Opus, or the Great Work, which represents a series of transformative processes aimed at purifying the practitioner's soul and obtaining the ultimate goal – the Philosopher's Stone. The Magnum Opus is a metaphorical journey that encompasses both internal and external transformations involving physical matter and spiritual understanding.
 

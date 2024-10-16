@@ -42,7 +42,7 @@ Elixir of the Whispering Shadows: A Recipe
 **Incantation**: Chant the following in an ancient forgotten language, such as Enochian or Atlantean, while brewing the elixir.
 "Yae'goth untress nil'gath. Dal'mari intaya sholta vandrei. Haragath'kora shandre pogath. Uvolet olbrisht sehrag novon clura."
 
-Ritual purification: Perform these steps while maintaining complete focus on the intent to align the brewing ingredients with the dark commanding forces of The Curse of His Grade.
+**Ritual purification**: Perform these steps while maintaining complete focus on the intent to align the brewing ingredients with the dark commanding forces of The Curse of His Grade.
 
 1. Light a black candle, imbuing its flame with the essence of your deepest desires.
 2. Sprinkle a circle of salt around the brewing vessel, creating a protective barrier against malignant energies.

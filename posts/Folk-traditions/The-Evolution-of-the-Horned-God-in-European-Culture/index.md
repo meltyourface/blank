@@ -25,13 +25,13 @@ Pre-Christian rituals and indigenous beliefs: Cernunnos and Pan
 
 The figure of the Horned God can be traced back to the pre-Christian Celts in the form of Cernunnos, the horned god of fertility, life, animals, wealth, and the underworld. Cernunnos is often depicted as a man with antlers, often seated cross-legged, surrounded by animals, and occasionally holding a torc, or a large bag of coins. His associations with animals and nature reflect the animistic beliefs inherent in Celtic culture, as well as their understanding of the cycles of life and death.
 
-The Greeks and Romans also had their version of a horned god: Pan, the god of the wild, shepherds, flocks, and connected with fertility and sexuality. Pan was typically portrayed as a man with the hindquarters, legs, and horns of a goat. He was a popular figure in various myths and was often invoked to ensure the safety of herds, flocks, and people traversing the wild. Although the Greek Pan and the Celtic Cernunnos have different origins and attributes, they exemplify the common themes of horned god figures within European indigenous beliefs.
+**The Greeks and Romans also had their version of a horned god**: Pan, the god of the wild, shepherds, flocks, and connected with fertility and sexuality. Pan was typically portrayed as a man with the hindquarters, legs, and horns of a goat. He was a popular figure in various myths and was often invoked to ensure the safety of herds, flocks, and people traversing the wild. Although the Greek Pan and the Celtic Cernunnos have different origins and attributes, they exemplify the common themes of horned god figures within European indigenous beliefs.
 
 Christianity and the "Horned Devil"
 
 As Christianity spread throughout Europe, previously held pagan beliefs were either syncretized or demonized. In the case of horned gods, they were often associated with evil forces and depicted as the devil. The image of a horned, goat-like creature gradually became synonymous with Satan or demonic entities. This shift in perception and representation exemplified the religious power dynamics of the time and the systematic attempt to suppress pre-Christian religions.
 
-Revival in Esoteric Traditions: The Horned God of Wicca
+**Revival in Esoteric Traditions**: The Horned God of Wicca
 
 In the 20th century, the figure of the Horned God resurfaced through the revival of pagan and esoteric belief systems. Wicca, a modern pagan witchcraft tradition founded by Gerald Gardner, adopted the Horned God as one of its central deities. The god is often portrayed alongside the Triple Goddess and represents the male aspects of spirituality, fertility, and the life cycle.
 

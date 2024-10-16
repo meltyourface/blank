@@ -33,7 +33,7 @@ excerpt: >
 
 ## The Ritual of the Serene Lineage
 
-Stage One: Preparation
+**Stage One**: Preparation
 
 Begin by gathering the following potent talismans and sigils to lay the foundation for the ritual space:
 
@@ -42,7 +42,7 @@ Begin by gathering the following potent talismans and sigils to lay the foundati
 3. Sigils of Hekate: to summon the goddess's ability to navigate the liminal spaces and dispel curses.
 4. Sigils of Zorya: to invoke the Slavic deity's guardianship of the family and protection from all forms of harm.
 
-Stage Two: Cleansing and Protection
+**Stage Two**: Cleansing and Protection
 
 For this stage, gather the required herbs, incense, and crystals:
 
@@ -50,24 +50,24 @@ For this stage, gather the required herbs, incense, and crystals:
 2. Frankincense: Employ frankincense to purify the space and invite positive energies.
 3. Black Tourmaline: Place black tourmaline crystals in four corners of the ritual space to strengthen protection and ward off psychic attacks.
 
-Stage Three: Invocation
+**Stage Three**: Invocation
 
 1. Call upon Hekate and Zorya and request their guidance and assistance by chanting an invocation in a sacred language that resonates with the culture and lineage of the family.
 2. Light a candle for each deity to honor their presence and participation in the ritual.
 
-Stage Four: Symbolic Performance
+**Stage Four**: Symbolic Performance
 
 1. Guide each family member to recite or sing a personalized incantation, pledging to renounce all hexes and curses attached to their lineage.
 2. Perform a symbolic gesture of severing malevolent connections by cutting a cord or thread representing the unwanted energy with a ceremonial knife.
 3. Create a circle of protection around the family with salt, a representation of cleansing and resilience.
 
-Stage Five: Crafting and Bestowing Amulets
+**Stage Five**: Crafting and Bestowing Amulets
 
 1. Design a custom amulet for each family member by inscribing a sigil combining the Eye of Horus, the Hamsa, and symbols of Hekate and Zorya.
 2. Infuse the amulets with positive intentions and energy gathered throughout the ritual.
 3. Present the personalized amulet to each family member as a tangible reminder of the protection and pact made with benevolent deities/spirits.
 
-Stage Six: Unification and Conclusion
+**Stage Six**: Unification and Conclusion
 
 1. Share a symbolic meal featuring traditional dishes of ancestors or foods imbued with messages of protection and blessings.
 2. Participate in a group meditation, envisioning a protective barrier around the family, reinforced by the aid of invoked deities and spirits.

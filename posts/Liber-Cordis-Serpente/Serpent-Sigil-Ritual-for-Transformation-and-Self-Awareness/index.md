@@ -40,22 +40,22 @@ excerpt: Develop an intricate Liber Cordis Serpente ritual or working, concentra
 2. Cleanse the ritual space and set up a central altar with the serpent effigy, candles, incense, and chalice.
 3. Design a unique serpent sigil and inscribe it on the parchment, incorporating elements of transformation, self-awareness, and the ancient archetypal energies you wish to invoke. Place it beneath the serpent effigy.
 
-Phase I: Invoking the Serpent's Presence
+**Phase I**: Invoking the Serpent's Presence
 1. Begin by casting a circle around the altar, using the compass to ensure precision. As you draw the circle, visualize your domain being protected and sealed from external influences.
 2. Light the candles in a clockwise manner, starting from the east. Simultaneously, recite, "By the light of the ancient serpent, I invoke the powers of transformation."
 3. Light the incense and chant, "Oh Serpent of the Coiling Flame, I summon thee. Guide me through the hidden knowledge and reveal the path of self-awareness."
 
-Phase II: Embracing the Serpent's Wisdom
+**Phase II**: Embracing the Serpent's Wisdom
 1. Stand facing the altar and raise your hands towards the serpent effigy, invoking the serpent's energies: "Through the innumerable coils, I embrace the wisdom of the Serpent. I ask that you bestow upon me your blessings and insights."
 2. Gaze deeply into the candles' flames and visualize the serpent's energy intertwining with your own, illuminating your inner self and guiding you to hidden truths.
 3. Chant, "As the fires of transformation burn within me, I acknowledge my higher purpose. Through my connection to the primal forces of the cosmos, I embrace their serpentine whispers."
 
-Phase III: Engaging with the Sigil
+**Phase III**: Engaging with the Sigil
 1. Take the ceremonial dagger and dip it in the chalice. Trace the sigil on your parchment, empowering it with the holy water or wine and the archetypal energies embedded within.
 2. Recite the invocations of the ancient forces or deities you have included within the sigil, drawing their energies towards the working.
 3. Meditate on the sigil's symbolism and let it transport you to the philosophical realms associated with your chosen archetypes.
 
-Phase IV: The Uncoiling and Conclusion
+**Phase IV**: The Uncoiling and Conclusion
 1. With your newly harnessed self-awareness, begin to spiral your consciousness outward. Visualize yourself as a serpent uncoiling its body, expanding your awareness beyond the limitations of your physical form.
 2. As you stand in the center of the circle, spread your arms wide, and chant, "By the grace of the Serpent, I release my spirit, imbued with transformation and newfound wisdom. I emerge a vessel for ancient forces and infinite potential."
 3. Finally, bow to the altar and extinguish the candles in reverse order. Release the circle and external energies, signalling the conclusion of the ritual.

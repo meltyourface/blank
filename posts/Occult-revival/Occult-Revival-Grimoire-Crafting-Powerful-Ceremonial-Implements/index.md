@@ -30,13 +30,13 @@ In this grimoire, I will elucidate the intricate process of crafting ceremonial 
 
 In the crafting of Occult revival ceremonial implements, it is imperative to consider the elements that will be incorporated. The elements consist of Earth, Water, Fire, and Air. By using their corresponding materials, we harness each element's primordial energy.
 
-1. ****Earth****: This element represents stability, practicality, and material wealth. Materials like clay, sand, fertile soil, or stones hold the essence of Earth. Geographically, artifacts originating from places well-known for their natural abundance, like the fertile plains of the Mesopotamian region, can amplify this element's potency.
+1. **Earth**: This element represents stability, practicality, and material wealth. Materials like clay, sand, fertile soil, or stones hold the essence of Earth. Geographically, artifacts originating from places well-known for their natural abundance, like the fertile plains of the Mesopotamian region, can amplify this element's potency.
 
-2. ****Water****: Denoting intuition and emotional depth, Water is crucial for balance and purification in the Occult revival. Materials such as sea salt, seashells, and crystals (especially those found near rivers) embody the water element. The shores of the Nile or the Tigris and Euphrates rivers are perfect sources for items connected to this element.
+2. **Water**: Denoting intuition and emotional depth, Water is crucial for balance and purification in the Occult revival. Materials such as sea salt, seashells, and crystals (especially those found near rivers) embody the water element. The shores of the Nile or the Tigris and Euphrates rivers are perfect sources for items connected to this element.
 
-3. ****Fire****: Associated with passion, transformation, and creativity, the Fire element requires materials capable of holding flame or withstanding heat. Forged iron, volcanic glass, and candles fulfill this purpose. Items originating from volcanic areas like the mountains of Iceland add a unique potency to the altar.
+3. **Fire**: Associated with passion, transformation, and creativity, the Fire element requires materials capable of holding flame or withstanding heat. Forged iron, volcanic glass, and candles fulfill this purpose. Items originating from volcanic areas like the mountains of Iceland add a unique potency to the altar.
 
-4. ****Air****: Representing intellect, communication, and psychic ability, Air is embodied by materials that are light, fragrant, or atmospheric. Feathers, oils, and incense capture the essence of this element. Geographically, items from places known for their winds, like the Mediterranean or the European coastlines, are ideal.
+4. **Air**: Representing intellect, communication, and psychic ability, Air is embodied by materials that are light, fragrant, or atmospheric. Feathers, oils, and incense capture the essence of this element. Geographically, items from places known for their winds, like the Mediterranean or the European coastlines, are ideal.
 
 ### Chapter II: The Selective Consecration of Items
 
@@ -56,11 +56,11 @@ The following steps outline the consecration process:
 
 With the items consecrated, it is time to craft the ceremonial implements. **By imbuing them with the potency of the elements, relics, and talismans, the resulting tools will be unique and powerful. Examples of essential altar items for the Occult revival include**:
 
-1. ****Athame or ritual knife****: Forged iron, volcanic glass, or meteoric iron would all be ideal materials for crafting an athame. Inscribing sigils, runes, or sacred glyphs would further enhance its power.
+1. **Athame or ritual knife**: Forged iron, volcanic glass, or meteoric iron would all be ideal materials for crafting an athame. Inscribing sigils, runes, or sacred glyphs would further enhance its power.
 
-2. ****Chalice****: A suitable chalice should be representative of the element Water, crafted from wood, ceramics, crystal, or copper. Engravings or etchings of sacred symbols will intensify its mystical potency.
+2. **Chalice**: A suitable chalice should be representative of the element Water, crafted from wood, ceramics, crystal, or copper. Engravings or etchings of sacred symbols will intensify its mystical potency.
 
-3. ****Pentacle****: As the epitome of the five elements, the pentacle can be crafted from wood, clay, or metal. Adorning the pentacle with powerful talismans, reclaimed relics, or significant geographical elements will provide the altar with a powerful tool for invocation and protection.
+3. **Pentacle**: As the epitome of the five elements, the pentacle can be crafted from wood, clay, or metal. Adorning the pentacle with powerful talismans, reclaimed relics, or significant geographical elements will provide the altar with a powerful tool for invocation and protection.
 
 Conclusion
 

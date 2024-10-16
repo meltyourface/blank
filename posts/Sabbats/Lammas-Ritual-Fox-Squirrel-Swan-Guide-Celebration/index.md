@@ -44,19 +44,19 @@ To incorporate the corresponding elements, place a bowl of soil (Earth) near the
 
 3. **Animal Totem Invocation Chants**:
 
-Fox Totem: "Spirited Fox of fire and Earth, with your cunning, guide our hearth. Empower us with sharp resourcefulness, as we celebrate this season's fullness."
+**Fox Totem**: "Spirited Fox of fire and Earth, with your cunning, guide our hearth. Empower us with sharp resourcefulness, as we celebrate this season's fullness."
 
-Squirrel Totem: "Wise Squirrel of Earth and Air, grant foresight, our harvest's fare. Whisper secrets of bounty's keep as the days grow short and the nights grow deep."
+**Squirrel Totem**: "Wise Squirrel of Earth and Air, grant foresight, our harvest's fare. Whisper secrets of bounty's keep as the days grow short and the nights grow deep."
 
-Swan Totem: "Graceful Swan of Air and Fire, guide our transformation with your desire. Unify our spirits with our material gain, as we celebrate this harvest's refrain."
+**Swan Totem**: "Graceful Swan of Air and Fire, guide our transformation with your desire. Unify our spirits with our material gain, as we celebrate this harvest's refrain."
 
 4. **Rituals and Practices**:
 
-Fox Totem: Engage in a meditation focusing on adaptability and resourcefulness for the coming months, visualizing your challenges and solutions with the Fox as your guiding spirit.
+**Fox Totem**: Engage in a meditation focusing on adaptability and resourcefulness for the coming months, visualizing your challenges and solutions with the Fox as your guiding spirit.
 
-Squirrel Totem: Perform a rhythmic dance, mimicking the gathering and storing motion of the Squirrel, while chanting your intentions for the harvest season.
+**Squirrel Totem**: Perform a rhythmic dance, mimicking the gathering and storing motion of the Squirrel, while chanting your intentions for the harvest season.
 
-Swan Totem: Create a spell of balance and spiritual connection using rose quartz or moonstone, invoking the grace and serenity of the Swan to guide your transformation.
+**Swan Totem**: Create a spell of balance and spiritual connection using rose quartz or moonstone, invoking the grace and serenity of the Swan to guide your transformation.
 
 5. **Ceremonial Feast**:
 

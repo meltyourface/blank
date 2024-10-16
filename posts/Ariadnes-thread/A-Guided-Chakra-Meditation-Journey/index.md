@@ -22,7 +22,7 @@ excerpt: Design an intricate guided meditation, specifically focused on Ariadne'
 
 ## Ariadne's Labyrinth: A Chakra Journey
 
-Background soundscape: Soft hypnotic melody with subtle harmonies resonating with the frequency of Ariadne's thread
+**Background soundscape**: Soft hypnotic melody with subtle harmonies resonating with the frequency of Ariadne's thread
 
 We begin this guided meditation by finding a comfortable seated or lying position. Make sure you feel relaxed and at ease. Let your hands rest gently on your knees or sides and close your eyes.
 

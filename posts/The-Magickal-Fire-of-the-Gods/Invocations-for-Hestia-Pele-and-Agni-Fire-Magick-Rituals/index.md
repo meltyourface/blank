@@ -36,7 +36,7 @@ Empower my will by your fire's bright light.
 Hestia, I honor you with this flame,
 Guide me with love, in your divine name.
 
-Sigil of Hestia: A simple depiction of a hearth with a burning flame inside, surrounded by a circle, representing the unity of home and the sacred bond of family.
+**Sigil of Hestia**: A simple depiction of a hearth with a burning flame inside, surrounded by a circle, representing the unity of home and the sacred bond of family.
 
 Invocation of Pele:
 
@@ -55,7 +55,7 @@ Unleash the force within, and allow my soul to perform.
 Grant me passion and vision to envision my path,
 With your magick, Pele, may I embody your fiery wrath.
 
-Sigil of Pele: A stylized volcanic mountain emitting plumes of smoke and lava flows, enclosed within a geometric polygon, symbolizing the transformative power of the volcanic eruption and Pele's domain over the molten earth.
+**Sigil of Pele**: A stylized volcanic mountain emitting plumes of smoke and lava flows, enclosed within a geometric polygon, symbolizing the transformative power of the volcanic eruption and Pele's domain over the molten earth.
 
 Invocation of Agni:
 
@@ -74,6 +74,6 @@ With your sacred presence, life's challenges, I shall meet.
 Agni, god of fire, purify my soul this night,
 In your divine embrace, grant me clarity and astral sight.
 
-Sigil of Agni: A stylized depiction of a fire altar, with a central flame rising from its core, encompassed by the Sanskrit symbol of "A", which represents Agni. Surrounding the fire altar are three circles, symbolizing the divine trinity and Agni's guardianship over sacred rite.
+**Sigil of Agni**: A stylized depiction of a fire altar, with a central flame rising from its core, encompassed by the Sanskrit symbol of "A", which represents Agni. Surrounding the fire altar are three circles, symbolizing the divine trinity and Agni's guardianship over sacred rite.
 
 With these invocations and sigils, the practitioner may summon the divine favor and energies of Hestia, Pele, and Agni from The Magickal Fire of the Gods pantheon, utilizing their individual gifts and communing with their divine essence in an intricately woven ritual of fire magick.

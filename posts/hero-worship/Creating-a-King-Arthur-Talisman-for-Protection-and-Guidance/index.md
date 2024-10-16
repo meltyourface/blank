@@ -30,16 +30,16 @@ Carve the talisman into a circular medallion, approximately three inches in diam
 
 **Engravings**:
 
-1. ****Mythological Motifs****: 
+1. **Mythological Motifs**: 
 Engrave the front side of the talisman with King Arthur's legendary sword, Excalibur, within the circle's perimeter. Excalibur symbolizes sovereignty, justice, and divine power, signifying the protection and the noble attributes of the legendary hero.
 
-2. ****Hero's Attributes****: 
+2. **Hero's Attributes**: 
 Around the circumference of the talisman's front side, inscribe "Fortitudo, Iustitia, Prudentia" (Courage, Justice, Wisdom). These virtues embody King Arthur's outstanding qualities shared among those who seek protection, fortune, and enlightenment.
 
-3. ****Iconic Embellishments****: 
+3. **Iconic Embellishments**: 
 Keep the design as intricate as possible by incorporating a pattern of interwoven Celtic knots along the edges, reflecting the strong ties and undying loyalty between King Arthur and his Knights of the Round Table.
 
-4. ****Geometric patterns and Invocations****: 
+4. **Geometric patterns and Invocations**: 
 On the backside, engrave the sacred geometry of the Vesica Piscis to align its esoteric power with the talisman's purpose. Accompany this with an invocation, "Adiuvate me auctoritate devina Arturi" (Aid me with the divine authority of Arthur), to bind the talisman bearer with the distinguished hero's guidance.
 
 Once the talisman is complete, consecrate it by invoking the blessings of King Arthur's spirit, requesting his protection, fortune, and enlightenment to bestow upon the talisman's bearer. This talisman will carry the guidance of King Arthur throughout the bearer's life journey and serve as a reflective symbol of the legendary hero's mastery over the physical and spiritual realms.

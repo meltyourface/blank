@@ -23,7 +23,7 @@ It was an unusually frigid winter's night, and the howling winds converged perfe
 
 He provided me an ancient manuscript, and my esoteric senses came alive as I studied it. I translated the text and found that beneath its surface laid hidden the Key Sigils of Death – sigils that, when invoked, could summon the most powerful spirits and beings from beyond. I knew then that the task was not for the faint of heart, but I pressed on, driven by my unrelenting mastery of the occult.
 
-I began the intricate process of selecting the sigils required for the task. ****There were three in particular to be drawn****: the Sigil of Binding, the Sigil of Communication, and lastly, the Sigil of the Chained Dominion. Each was distinct in its properties and powers.
+I began the intricate process of selecting the sigils required for the task. **There were three in particular to be drawn**: the Sigil of Binding, the Sigil of Communication, and lastly, the Sigil of the Chained Dominion. Each was distinct in its properties and powers.
 
 The Sigil of Binding, a series of interconnected spirals, served to anchor the summoned being to our realm. The Sigil of Communication, resembling a coiled serpent, enabled the establishment of rapport between myself and the entity. The Sigil of the Chained Dominion, a symbol of oppression and authority, was the linchpin, drawing forth the specific malevolent spirit my patron sought.
 
@@ -31,7 +31,7 @@ With these sigils combined, I began the ritual. As the last stroke was scribed i
 
 From the darkness emerged Anzathoth the Soul Corrupter, a grotesque being with a twisted visage, its empty eyes peering into the depths of my soul. My voice held steady, as I spoke the ancient words to bind it. The spirit snarled and croaked but finally consented to converse.
 
-The negotiations were treacherous. ****Anzathoth demanded unimaginable sacrifices, both of flesh and spirit. It sought untold suffering to sate its appetite for human despair. In the end, I offered an alternative****: I would veil the spirit's presence, granting it the gift of subtle influence to corrupt men’s souls without their knowledge. The spirit, while bemused, accepted the compromise.
+The negotiations were treacherous. **Anzathoth demanded unimaginable sacrifices, both of flesh and spirit. It sought untold suffering to sate its appetite for human despair. In the end, I offered an alternative**: I would veil the spirit's presence, granting it the gift of subtle influence to corrupt men’s souls without their knowledge. The spirit, while bemused, accepted the compromise.
 
 With a trembling hand, I broke the sigils and released Anzathoth from the constraints of the ritual. The fog dissipated, and I stood in the now empty chamber, heavy with revelation. I had summoned an entity embodying the basest forms of greed and lust for power, glimpsing the abyss of human depravity.
 

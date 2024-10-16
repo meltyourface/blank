@@ -27,7 +27,7 @@ In order to create a comprehensive collection of intricately-crafted talismans a
 
 **Materials**: Constructed from silver, known for its purifying properties, the talisman will be inlaid with lapis lazuli, representing the heavenly realms, and white sapphires for spiritual clarity.
 
-Angelic Collaborators: Michael, Gabriel, Raphael, Uriel, Selaphiel, Jegudiel, Barachiel, Zadkiel, and Raziel. Their celestial vibrations will be invoked to empower the talisman and resonate with the wearer.
+**Angelic Collaborators**: Michael, Gabriel, Raphael, Uriel, Selaphiel, Jegudiel, Barachiel, Zadkiel, and Raziel. Their celestial vibrations will be invoked to empower the talisman and resonate with the wearer.
 
 2. The Seraphic Talisman:
 
@@ -35,7 +35,7 @@ Angelic Collaborators: Michael, Gabriel, Raphael, Uriel, Selaphiel, Jegudiel, Ba
 
 **Materials**: Gold, representing the divine light, will compose the basic structure, while garnet gemstones, signifying spiritual transformation, will form the seraph's eyes.
 
-Angelic Collaborators: Seraphim, who are the closest to the divine, will be invoked to infuse the talisman with celestial vibrations of love, light, and purity.
+**Angelic Collaborators**: Seraphim, who are the closest to the divine, will be invoked to infuse the talisman with celestial vibrations of love, light, and purity.
 
 3. The Cherubic Talisman:
 
@@ -43,7 +43,7 @@ Angelic Collaborators: Seraphim, who are the closest to the divine, will be invo
 
 **Materials**: Constructed from bronze, signifying strength and grounding, the talisman will include inlaid emerald, a gem connected to divine love and wisdom.
 
-Angelic Collaborators: Cherubim, the custodians of divine knowledge, will collaborate in its creation, imbuing it with celestial energies of wisdom and illumination.
+**Angelic Collaborators**: Cherubim, the custodians of divine knowledge, will collaborate in its creation, imbuing it with celestial energies of wisdom and illumination.
 
 4. The Ophanic Talisman:
 
@@ -51,6 +51,6 @@ Angelic Collaborators: Cherubim, the custodians of divine knowledge, will collab
 
 **Materials**: Comprised of copper, representing energy flow, the talisman will be adorned with moonstones for intuition and spiritual growth.
 
-Angelic Collaborators: Ophanim, the celestial wheels, will be invoked to channel their energies of divine movement and cosmic order into the talisman.
+**Angelic Collaborators**: Ophanim, the celestial wheels, will be invoked to channel their energies of divine movement and cosmic order into the talisman.
 
 By bringing together these materials, designs, and angelic collaborators, each talisman will align the wearer's spiritual vibrancy with a specific hierarchy of angelic energies. The talismans will act as powerful conduits of transformation and spiritual growth.

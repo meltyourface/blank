@@ -27,7 +27,7 @@ Introduction
 
 The Annexation of Fiume holds a significant place in the annals of both European history and the esoteric tradition. While commonly perceived as a political event, the period of 1918 to 1924 encompassing the annexation saw the convergence of various mystical forces, which shaped the socio-political climate in ways unbeknownst to many students of history. This section aims to provide an in-depth account of the esoteric connections and influences surrounding the Annexation of Fiume, its key historical events, the occult practitioners involved, and the underlying symbolism from a mystical standpoint.
 
-The Annexation of Fiume: A Brief Overview
+**The Annexation of Fiume**: A Brief Overview
 
 Fiume, now known as Rijeka, is a Croatian port city with a tumultuous past due to its strategic importance and diverse population. Following the dissolution of the Austro-Hungarian Empire at the end of World War I, the politics around Fiume's status became contentious. The Italian poet and mystic Gabriele d'Annunzio led an expedition to Fiume, seizing control and proclaiming it the Italian Regency of Carnaro in 1919.
 

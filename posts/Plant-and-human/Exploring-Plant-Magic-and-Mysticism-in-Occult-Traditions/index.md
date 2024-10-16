@@ -45,8 +45,8 @@ Beyond the use of psychedelics, plants such as lavender or chamomile can be empl
 
 It is important to remember that the practice of plant magic is not simply the physical act of using plants in rituals; it also involves building a relationship with the plants themselves. **The following examples illustrate how plants can be incorporated into your daily spiritual practice**:
 
-1. ****Herbal Amulets****: Create a pouch filled with herbs and corresponding crystals to carry your intentions, provide protection, or attract specific energies.
-2. ****Bath Rituals****: Immerse yourself in a warm bath infused with purposeful herbs and essential oils to cleanse your aura, instill relaxation, or draw prosperity.
-3. ****Anointing Oils****: Blend essential oils or herbs in a carrier oil to create anointing oils used to dress candles, anoint sacred tools, or consecrate your ritual spaces.
+1. **Herbal Amulets**: Create a pouch filled with herbs and corresponding crystals to carry your intentions, provide protection, or attract specific energies.
+2. **Bath Rituals**: Immerse yourself in a warm bath infused with purposeful herbs and essential oils to cleanse your aura, instill relaxation, or draw prosperity.
+3. **Anointing Oils**: Blend essential oils or herbs in a carrier oil to create anointing oils used to dress candles, anoint sacred tools, or consecrate your ritual spaces.
 
 In conclusion, the intricate connections and parallels between plants and humans within the context of occult wisdom are vast and multifaceted. By incorporating plants into your own spiritual and magical practices, you will deepen your understanding of these connections and unlock your innate mystical abilities. As you progress in your studies, you will forge a profound appreciation for the rich tapestry of plant and human interactions within the esoteric domain.

@@ -27,11 +27,11 @@ As the Crown Prince at the Sabbat of Witchflame, I shall create a powerful talis
 
 **Sigils**: Etched upon each of the twelve faces of the talisman are the sacred and obscure symbols of the Witchflame lineage. These sigils are carefully scribed using the blood of sorcerers, imbuing them with profound potency.
 
-Elemental Power: The talisman is charged with the four cardinal elements – Earth, Air, Fire, and Water – represented in each corner of the sacred sigils, creating a robust elemental network of protection and purification.
+**Elemental Power**: The talisman is charged with the four cardinal elements – Earth, Air, Fire, and Water – represented in each corner of the sacred sigils, creating a robust elemental network of protection and purification.
 
-Celestial Influence: Aligning with the cycles of the waning moon, the talisman harnesses the lunar energies to ward off malevolent forces. This celestial pull is further strengthened by incorporating the positions of the distant stars and planets into its design.
+**Celestial Influence**: Aligning with the cycles of the waning moon, the talisman harnesses the lunar energies to ward off malevolent forces. This celestial pull is further strengthened by incorporating the positions of the distant stars and planets into its design.
 
-Abyssal Bonds: The talisman draws upon the boundless abyss, imbuing it with protection against the darkest and most malevolent forces. The arcane sigils scribed into the cursed silver material seal these abyssal energies, ensuring balance and control within the talisman.
+**Abyssal Bonds**: The talisman draws upon the boundless abyss, imbuing it with protection against the darkest and most malevolent forces. The arcane sigils scribed into the cursed silver material seal these abyssal energies, ensuring balance and control within the talisman.
 
 **Enchantment**: The talisman must be forged in the darkness of the unholy eve to ensure its maximal effectiveness and complex spiritual protection. Bathing the talisman in the glow of witchfire, the unique pyre sacred to the Sabbat of Witchflame, shall lock in its formidable energies.
 

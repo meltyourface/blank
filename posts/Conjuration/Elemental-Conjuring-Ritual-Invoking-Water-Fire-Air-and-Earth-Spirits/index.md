@@ -23,11 +23,11 @@ excerpt: >
 
 ## Title: The Rite of Elemental Conjuring 
 
-Elemental Affinity: Water (with alternatives for Fire, Air, and Earth)
+**Elemental Affinity**: Water (with alternatives for Fire, Air, and Earth)
 
 **Introduction**:
 
-The Rite of Elemental Conjuring is an intricate ceremony dedicated to evoking lesser elemental entities: Water Nymphs, Fire Salamanders, Air Sylphs, and Earth Gnomes. Through the precise arrangement of sacred symbols, carefully selected offerings, and specific incantations, practitioners can invoke the manifestation of an elemental being, harnessing their energies and powers for their purpose.
+**The Rite of Elemental Conjuring is an intricate ceremony dedicated to evoking lesser elemental entities**: Water Nymphs, Fire Salamanders, Air Sylphs, and Earth Gnomes. Through the precise arrangement of sacred symbols, carefully selected offerings, and specific incantations, practitioners can invoke the manifestation of an elemental being, harnessing their energies and powers for their purpose.
 
 Ritual Components:
 

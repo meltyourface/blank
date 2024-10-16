@@ -38,7 +38,7 @@ Te Honoro, Te Gratias Ago (3 times) - We honor and thank you
 
 Om Ancestribus Invoco, Aeterni Sapientia et Tutela Nobis (1 time) - In the name of the Ancestors, I invoke eternal wisdom and protection for us
 
-Rhythmic Pattern and Melody: This mantra can be performed with a slow and steady rhythm accompanied by sacred instruments such as drums, bells, or singing bowls to enhance the vibrations and resonance of the chant.
+**Rhythmic Pattern and Melody**: This mantra can be performed with a slow and steady rhythm accompanied by sacred instruments such as drums, bells, or singing bowls to enhance the vibrations and resonance of the chant.
 
 Instructions for Ritual:
 

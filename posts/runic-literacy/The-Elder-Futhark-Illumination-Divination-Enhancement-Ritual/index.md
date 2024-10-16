@@ -21,7 +21,7 @@ excerpt: Design a multifaceted ritual to summon the ancient energies of the Elde
 ---
 Ritual Name: The Elder Futhark Illumination
 
-Primary Objective: To enhance divination and clairvoyance prowess
+**Primary Objective**: To enhance divination and clairvoyance prowess
 
 **Preparations**:
 

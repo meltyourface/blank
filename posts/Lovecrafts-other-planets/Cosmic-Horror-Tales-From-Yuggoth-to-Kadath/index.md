@@ -39,12 +39,12 @@ In this anthology, we journey to the furthest reaches of Lovecraft's twisted cos
 
 Table of Contents:
 
-1. ****Yuggoth's Chant****: A distressing account of a newly-discovered exoplanet leads a horrified scientist to uncover the terrifying secret of Yuggoth, shedding light on incomprehensible rituals and gods.
-2. ****A Shadow Over Sarnath****: As idols of strange and ancient entities line the walls of mysterious Sarnath, the inhabitants' pride drives them toward doom. Shadows emerge, and with them, come unspeakable consequences.
-3. ****The R'lyeh Chronicle****: An expedition to unearth the sunken city of R'lyeh unveils a pain that should never have been uncovered. What follows is a harrowing tale of terror, waterlogged journals, and whispered madness.
-4. ****Ascension to Kadath****: A dreamer travels the unknown pathways of the cosmos, pursuing an unquenchable desire to finally stand before the opulent palace of Kadath. But some pathways are best left untraveled, and some dreams are best left undreamed.
-5. ****The Crimson Planet****: Arkhona, the dreaded crimson hellscape harbors a secret that will plague mankind until its last days. A band of explorers exhaust their sanity in revealing the planet's eldritch horrors and find themselves trapped in an unending nightmare.
-6. ****The Secrets of Aldebaran****: A cryptic alien transmission beckons a group of investigators to the desolate landscape of Aldebaran. The cosmic secrets they unravel on that alien world will change the fabric of human thought forever.
+1. **Yuggoth's Chant**: A distressing account of a newly-discovered exoplanet leads a horrified scientist to uncover the terrifying secret of Yuggoth, shedding light on incomprehensible rituals and gods.
+2. **A Shadow Over Sarnath**: As idols of strange and ancient entities line the walls of mysterious Sarnath, the inhabitants' pride drives them toward doom. Shadows emerge, and with them, come unspeakable consequences.
+3. **The R'lyeh Chronicle**: An expedition to unearth the sunken city of R'lyeh unveils a pain that should never have been uncovered. What follows is a harrowing tale of terror, waterlogged journals, and whispered madness.
+4. **Ascension to Kadath**: A dreamer travels the unknown pathways of the cosmos, pursuing an unquenchable desire to finally stand before the opulent palace of Kadath. But some pathways are best left untraveled, and some dreams are best left undreamed.
+5. **The Crimson Planet**: Arkhona, the dreaded crimson hellscape harbors a secret that will plague mankind until its last days. A band of explorers exhaust their sanity in revealing the planet's eldritch horrors and find themselves trapped in an unending nightmare.
+6. **The Secrets of Aldebaran**: A cryptic alien transmission beckons a group of investigators to the desolate landscape of Aldebaran. The cosmic secrets they unravel on that alien world will change the fabric of human thought forever.
 
 This anthology's tales persistently interlace, weaving a rich tapestry of narrative threads that connect the characters, locations, and events. As the characters traverse the intricate stories, they encounter forbidden knowledge, the unfathomable horrors of Lovecraft's Great Old Ones, and the Elder Gods. Brace yourself for an anthology encompassing a broad range of perspectives and styles, exploring uncharted territories beyond Lovecraft's legacy.
 

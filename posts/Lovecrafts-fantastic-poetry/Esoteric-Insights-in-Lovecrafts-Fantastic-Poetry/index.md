@@ -32,7 +32,7 @@ Lovecraft's works teem with veiled references to ancient gods, cosmic entities, 
 
 Lovecraft also frequently alludes to forbidden knowledge, which he presents simultaneously as a blessing and a curse. In "The Book," the poet narrates the experience of encountering an ancient tome filled with incredible truths, saying, "And as I read, I felt the sins and mysteries of all elder time form strange and hideous alliances with the present scene". By studying this element of Lovecraft's poetry, students of the arcane arts can appreciate the inherent duality of their practice and be reminded of the potential consequences of delving too deeply into the mysteries of the universe.
 
-Deep Insights: Cosmicism, Dreams, and the Collective Unconscious
+**Deep Insights**: Cosmicism, Dreams, and the Collective Unconscious
 
 Cosmicism is a central tenet of Lovecraft's literary philosophy, emphasizing the insignificance of humanity within the vast and indifferent universe. This perspective can inspire students of the occult to acknowledge the limits of human understanding while concurrently striving to grasp glimpses of the true, undying power of the cosmos. Lovecraft's poem "Beyond the Wall of Sleep" encapsulates this theme, depicting the universe as "a great machine majestically grinding out new stars, new planets, new memories, new dreams".
 

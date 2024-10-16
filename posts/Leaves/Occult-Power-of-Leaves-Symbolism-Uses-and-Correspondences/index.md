@@ -44,9 +44,9 @@ Ritual and Ceremonial Uses
 
 Leaves possess a wide range of ritualistic and ceremonial applications within various magical traditions. **Here are the most common uses**:
 
-1. ****Adorning altars and sacred spaces****: Practitioners of multiple magical systems frequently embellish their altars with Leaves to evoke energies tied to fertility, growth, and abundance.
-2. ****Enhancing incense and combustibles****: Leaves such as bay, eucalyptus, and rosemary can be burned to release energies and increase potency in rituals.
-3. ****Crafting symbolic tools****: Wands, talismans, and other items made from leaves can be utilized to enhance magical workings.
+1. **Adorning altars and sacred spaces**: Practitioners of multiple magical systems frequently embellish their altars with Leaves to evoke energies tied to fertility, growth, and abundance.
+2. **Enhancing incense and combustibles**: Leaves such as bay, eucalyptus, and rosemary can be burned to release energies and increase potency in rituals.
+3. **Crafting symbolic tools**: Wands, talismans, and other items made from leaves can be utilized to enhance magical workings.
 
 Practical Applications in Spellwork and Divination
 

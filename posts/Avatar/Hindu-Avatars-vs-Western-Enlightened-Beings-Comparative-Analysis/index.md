@@ -1,6 +1,6 @@
 ---
 id: 1f338298-01df-4950-8693-618d71e88784
-title: 'Hindu Avatars vs. ****Western Enlightened Beings****: Comparative Analysis'
+title: 'Hindu Avatars vs. **Western Enlightened Beings**: Comparative Analysis'
 permalink: /Avatar/Hindu-Avatars-vs-Western-Enlightened-Beings-Comparative-Analysis/
 categories:
   - Avatar

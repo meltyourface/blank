@@ -65,10 +65,10 @@ Example 2: A dream of crossing a bridge into an unknown territory may signify a 
 
 5. **Potential Barriers and Overcoming Strategies**:
 
-Barrier: Personal biases or preconceived notions that hinder objective dream analysis.
+**Barrier**: Personal biases or preconceived notions that hinder objective dream analysis.
 Strategy: Practice mindfulness and self-reflection to cultivate openness to diverse interpretations and recognize personal biases.
 
-Barrier: Fear of confronting uncomfortable or emotionally charged material in dreams.
+**Barrier**: Fear of confronting uncomfortable or emotionally charged material in dreams.
 Strategy: Seek support from a trusted friend, therapist, or mentor to help process challenging content.
 
 6. **Implications and Benefits**:

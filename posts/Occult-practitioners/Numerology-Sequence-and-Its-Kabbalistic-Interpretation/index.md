@@ -23,13 +23,13 @@ The numerological sequence presented is: 7, 11, 5, and 9.
 
 Firstly, let's examine each number individually and how they are related to occult practices, focusing on their mystical attributions:
 
-1. ****Number 7****: Seven is considered a highly spiritual number that represents divine wisdom, spiritual awakening, and intuition. This number is often considered as a symbol of perfection within esoteric traditions and is associated with the seven ancient planets and the seven chakras in Eastern spiritual systems.
+1. **Number 7**: Seven is considered a highly spiritual number that represents divine wisdom, spiritual awakening, and intuition. This number is often considered as a symbol of perfection within esoteric traditions and is associated with the seven ancient planets and the seven chakras in Eastern spiritual systems.
 
-2. ****Number 11****: The number 11 is a powerful master number in numerology known as the "spiritual messenger." It represents idealism, intuition, and spiritual insight. In occult practices, it is a symbol of transformation, divine inspiration, and the human ability to connect with higher realms.
+2. **Number 11**: The number 11 is a powerful master number in numerology known as the "spiritual messenger." It represents idealism, intuition, and spiritual insight. In occult practices, it is a symbol of transformation, divine inspiration, and the human ability to connect with higher realms.
 
-3. ****Number 5****: Five is a dynamic and versatile number. It represents change, adventure, and personal growth. In occult practices, the number five is associated with the five elements (Earth, Water, Air, Fire, and Ether) and the pentagram, which is a powerful symbol of protection and transformation.
+3. **Number 5**: Five is a dynamic and versatile number. It represents change, adventure, and personal growth. In occult practices, the number five is associated with the five elements (Earth, Water, Air, Fire, and Ether) and the pentagram, which is a powerful symbol of protection and transformation.
 
-4. ****Number 9****: Nine is the number of completion, wisdom, and spiritual awakening. It is also considered a number of humanitarianism and compassion. In occult practices, the number nine is usually associated with the nine celestial bodies (Sun, Moon, Mars, Mercury, Jupiter, Venus, Saturn, Uranus, and Neptune) and the nine Sephirot on the Tree of Life, excluding the hidden sephira Da'at.
+4. **Number 9**: Nine is the number of completion, wisdom, and spiritual awakening. It is also considered a number of humanitarianism and compassion. In occult practices, the number nine is usually associated with the nine celestial bodies (Sun, Moon, Mars, Mercury, Jupiter, Venus, Saturn, Uranus, and Neptune) and the nine Sephirot on the Tree of Life, excluding the hidden sephira Da'at.
 
 Now let's explore the connection of this sequence to the Kabbalistic Tree of Life. **The Tree of Life is a map of the spiritual journey and consists of ten Sephiroth (emanations) connected by 22 paths. The numbers in our sequence correspond to the following Sephiroth**:
 

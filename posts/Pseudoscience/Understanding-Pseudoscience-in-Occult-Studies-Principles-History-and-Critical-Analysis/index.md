@@ -40,33 +40,33 @@ Key Principles
 
 Pseudoscience in the occult and esoteric domains is often characterized by a few common principles:
 
-1. ****Lack of empirical evidence****: Pseudoscientific claims defy empirical validation, often offering anecdotal or subjective accounts as proof of their validity.
-2. ****Adherence to tradition or authority****: Pseudoscience often defers to centuries-old traditions or authoritative figures to lend credibility to its claims, even in the absence of logical grounding.
-3. ****Resistance to falsifiability****: Pseudoscientific concepts tend to be vague and obscure, making them resistant to falsification or critical examination.
+1. **Lack of empirical evidence**: Pseudoscientific claims defy empirical validation, often offering anecdotal or subjective accounts as proof of their validity.
+2. **Adherence to tradition or authority**: Pseudoscience often defers to centuries-old traditions or authoritative figures to lend credibility to its claims, even in the absence of logical grounding.
+3. **Resistance to falsifiability**: Pseudoscientific concepts tend to be vague and obscure, making them resistant to falsification or critical examination.
 
 Controversial Aspects
 
 The main controversies surrounding pseudoscience in occult and esoteric studies stem from the following concerns:
 
-1. ****Misinformation and misrepresentation****: Pseudoscience often presents false or misleading information, leading people to hold inaccurate beliefs or pursue non-viable paths to spiritual growth.
-2. ****Exploitation****: Many practitioners of pseudoscience exploit the naïveté and vulnerabilities of individuals seeking mystical understanding, for personal or financial gain.
-3. ****Obstruction of genuine scientific or spiritual inquiry****: Pseudoscientific beliefs can impede one's exploration of legitimate scientific or spiritual knowledge by perpetuating false ideas.
+1. **Misinformation and misrepresentation**: Pseudoscience often presents false or misleading information, leading people to hold inaccurate beliefs or pursue non-viable paths to spiritual growth.
+2. **Exploitation**: Many practitioners of pseudoscience exploit the naïveté and vulnerabilities of individuals seeking mystical understanding, for personal or financial gain.
+3. **Obstruction of genuine scientific or spiritual inquiry**: Pseudoscientific beliefs can impede one's exploration of legitimate scientific or spiritual knowledge by perpetuating false ideas.
 
 Notable Practitioners
 
 Several notable practitioners throughout history have dabbled in pseudoscience within the context of occultism and esotericism, including:
 
-1. ****Helena Blavatsky****: Co-founder of the Theosophical Society, she propagated various pseudoscientific theories, such as the evolution of humanity from "root races" in her book "The Secret Doctrine."
-2. ****Edgar Cayce****: Known as the "Sleeping Prophet," Cayce conducted psychic readings, purportedly diagnosing and offering remedies for various ailments from a trance-like state.
-3. ****Aleister Crowley****: A prominent occultist, Crowley contributed to pseudoscience through his beliefs in astrology, ritual magic, and the power of symbols.
+1. **Helena Blavatsky**: Co-founder of the Theosophical Society, she propagated various pseudoscientific theories, such as the evolution of humanity from "root races" in her book "The Secret Doctrine."
+2. **Edgar Cayce**: Known as the "Sleeping Prophet," Cayce conducted psychic readings, purportedly diagnosing and offering remedies for various ailments from a trance-like state.
+3. **Aleister Crowley**: A prominent occultist, Crowley contributed to pseudoscience through his beliefs in astrology, ritual magic, and the power of symbols.
 
 Critically Analyzing and Understanding Pseudoscience
 
 Aspiring occultists must learn to identify and question pseudoscientific ideas by applying critical thinking skills. **Here are some methods that can be used to assess the legitimacy of such claims**:
 
-1. ****Seek empirical evidence****: Evaluate the claims for tangible, reproducible evidence. If such evidence is not present, exercise caution in accepting the claim as valid.
-2. ****Consider alternative explanations****: Pseudoscientific claims often rely on obscure or convoluted explanations. Ask if there are simpler, more plausible explanations for the phenomena being discussed.
-3. ****Assess the credibility of sources****: Carefully consider the background and credentials of the individuals making the claims.
+1. **Seek empirical evidence**: Evaluate the claims for tangible, reproducible evidence. If such evidence is not present, exercise caution in accepting the claim as valid.
+2. **Consider alternative explanations**: Pseudoscientific claims often rely on obscure or convoluted explanations. Ask if there are simpler, more plausible explanations for the phenomena being discussed.
+3. **Assess the credibility of sources**: Carefully consider the background and credentials of the individuals making the claims.
 
 Conclusion
 

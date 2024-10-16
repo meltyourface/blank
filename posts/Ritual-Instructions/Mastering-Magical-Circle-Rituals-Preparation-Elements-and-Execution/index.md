@@ -39,7 +39,7 @@ The effectiveness of any ritual or esoteric practice is heavily dependent on the
 
 ### IV. Elemental Correspondences
 
-The incorporation of elemental correspondences within the magical circle plays a critical role in invoking and balancing the beneficial energies associated with each of the elements: earth, air, fire, and water. Utilize these correspondences within the circle to enhance the effectiveness of your workings.
+**The incorporation of elemental correspondences within the magical circle plays a critical role in invoking and balancing the beneficial energies associated with each of the elements**: earth, air, fire, and water. Utilize these correspondences within the circle to enhance the effectiveness of your workings.
 
 1. Earth: This element is associated with stability, growth, and manifestation. Add earth correspondences within the circle through objects such as stones, crystals, soil, or sigils symbolizing the element.
 

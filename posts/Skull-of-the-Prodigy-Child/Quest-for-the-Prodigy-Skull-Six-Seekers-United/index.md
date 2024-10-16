@@ -22,7 +22,7 @@ excerpt: Script a four-act stage play that intricately weaves the ominous advent
 
 ## The Quest for the Prodigy Child
 
-Act I: The Gathering
+**Act I**: The Gathering
 
 Scene 1: The Threshold
 - The scene opens in a dimly lit room, adorned with esoteric symbols and mystical artifacts. Six seekers, each an expert in their own arcane field, have been assembled by a mysterious benefactor with one collective goal: To find the Skull of the Prodigy Child and unlock its hidden powers.
@@ -34,7 +34,7 @@ Scene 2: The Covenant
 - A violent argument breaks out, but the seer unexpectedly has a powerful vision. They see the deadly consequences awaiting them if they don't unite their efforts in their pursuit of the Skull.
 - The group solemnly forms a covenant to work together, aware that the quest's success rests on the sum of their skills and willingness to cooperate.
 
-Act II: The Unraveling
+**Act II**: The Unraveling
 
 Scene 1: The Labyrinth's Entanglement
 - Led by the clues, the seekers find themselves in a vast subterranean labyrinth. They are challenged by riddles, ancient spells, and hidden traps, testing their skills and expertise.
@@ -46,7 +46,7 @@ Scene 2: The Dark Sacrament
 - Amidst the ritual, hidden betrayals and internal conflicts come to the surface, making the spirits question the intentions of each seeker.
 - After harrowing trials, the spirits acknowledge the group's resilience and sincerity. The sanctum's entrance is unveiled.
 
-Act III: The Temptation
+**Act III**: The Temptation
 
 Scene 1: The Whispering Shadows
 - As they venture deeper into the sanctum, the Skull exerts its influence over the seekers, presenting them with diabolical temptations that promise power and wealth beyond their wildest dreams.
@@ -58,7 +58,7 @@ Scene 2: The Final Test
 - As one, the seekers wield their collective knowledge and skills, utilizing the bonds forged throughout their trials to overcome the guardian.
 - With the guardian defeated, the group comes to a moment of reckoning: deciding who will possess the Skull. They reflect on the alliance, recalling how unity brought them to victory, and make a collective decision that the Skull's powers should be wielded responsibly.
 
-Act IV: The Revelation
+**Act IV**: The Revelation
 
 Scene 1: The Skull's Secret
 - The seekers cautiously approach the Skull and, having reached a consensus, perform a ritual to unlock its hidden power.

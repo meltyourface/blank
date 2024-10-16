@@ -37,32 +37,32 @@ During various instances, the ELS have managed to break free from their confines
 
 The ELS possess a wide range of unique attributes, encompassing both physical and non-physical traits. **Common characteristics encountered in ELS include**:
 
-1. ****Morphological Anomalies****: Abnormal or mutated physical forms, often resulting from genetic manipulation and unnatural augmentation.
+1. **Morphological Anomalies**: Abnormal or mutated physical forms, often resulting from genetic manipulation and unnatural augmentation.
 
-2. ****Extraplanar Abilities****: Capacities to traverse and interact with multiple dimensions, from the physical world to the astral and beyond.
+2. **Extraplanar Abilities**: Capacities to traverse and interact with multiple dimensions, from the physical world to the astral and beyond.
 
-3. ****Heightened Psychic Potential****: Innate abilities to perceive and manipulate psychic energy, connect telepathically with other beings, and perform telekinetic feats.
+3. **Heightened Psychic Potential**: Innate abilities to perceive and manipulate psychic energy, connect telepathically with other beings, and perform telekinetic feats.
 
-4. ****Occult Alignments****: Affiliations with various esoteric currents, such as elemental powers, lunar cycles, and specific planetary alignments.
+4. **Occult Alignments**: Affiliations with various esoteric currents, such as elemental powers, lunar cycles, and specific planetary alignments.
 
 ### IV. Role of ELS in Esoteric Practices
 
 The powers and unique abilities of ELS have caused them to be increasingly sought after by practitioners who seek to bolster their own practices or harness the ELS's potential for their occult workings. **Common uses of ELS within esoteric practices may include**:
 
-1. ****Familiars****: Some occultists may form spiritual pacts or alliances with ELS, treating them as powerful allies in their spiritual journey and magical workings.
+1. **Familiars**: Some occultists may form spiritual pacts or alliances with ELS, treating them as powerful allies in their spiritual journey and magical workings.
 
-2. ****Psychic Enhancement****: Through rituals and spells, practitioners may attempt to attune their psychic capacities to the heightened psychic potential of ELS, thereby augmenting their own psychic abilities.
+2. **Psychic Enhancement**: Through rituals and spells, practitioners may attempt to attune their psychic capacities to the heightened psychic potential of ELS, thereby augmenting their own psychic abilities.
 
-3. ****Chthonic Guardians****: ELS with powerful physical forces or innate protective instincts might be employed as guardians, defending occult sanctuaries or shielding practitioners from metaphysical harm.
+3. **Chthonic Guardians**: ELS with powerful physical forces or innate protective instincts might be employed as guardians, defending occult sanctuaries or shielding practitioners from metaphysical harm.
 
 ### V. Precautions and Guidelines for Interaction
 
 Given the unpredictable nature of these beings, adhering to certain precautions and engaging in specific rituals may help mitigate risks when interacting with ELS:
 
-1. ****Protection Spells****: Employing banishing and protective magics can help safeguard practitioners from unwanted psychic intrusions or undue influences.
+1. **Protection Spells**: Employing banishing and protective magics can help safeguard practitioners from unwanted psychic intrusions or undue influences.
 
-2. ****Ritual Offerings****: Approaching ELS with respect and reverence is essential. Offerings of food, incense, or other tokens can be used to establish rapport and facilitate communication.
+2. **Ritual Offerings**: Approaching ELS with respect and reverence is essential. Offerings of food, incense, or other tokens can be used to establish rapport and facilitate communication.
 
-3. ****Clarification of Intentions****: Clearly stating one's intentions and requesting the ELS's consent before engaging in any magical workings is critical to ensure mutual understanding and a harmonious working relationship.
+3. **Clarification of Intentions**: Clearly stating one's intentions and requesting the ELS's consent before engaging in any magical workings is critical to ensure mutual understanding and a harmonious working relationship.
 
 In conclusion, Escaped Laboratory Specimens represent a fascinating intersection of science and the occult, offering unique opportunities for those who wish to explore their arcane potential. By understanding their origins, characteristics, and roles in esoteric practices, students of the occult can deepen their engagement with these enigmatic beings while taking care to adhere to precautions and guidelines for safe and responsible interaction.

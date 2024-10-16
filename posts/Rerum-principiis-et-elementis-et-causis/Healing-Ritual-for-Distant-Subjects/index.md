@@ -22,7 +22,7 @@ excerpt: 22. Design a comprehensive ritual based on the principles of Rerum prin
 
 ## The Rite of Vespertine Convalescence
 
-Purpose: To initiate and direct a potent flow of restorative energy to a distant subject in need of healing. 
+**Purpose**: To initiate and direct a potent flow of restorative energy to a distant subject in need of healing. 
 
 Requirements:
 1. A representation of the subject (a photograph, item, or written name).

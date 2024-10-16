@@ -25,7 +25,7 @@ Before commencing the incantation for summoning a WitchAnimism spirit guide, ens
 
 In the North, place a pentacle to represent the element of Earth. In the East, place a wand or athame to represent the element of Air. In the South, place a chalice filled with water to represent the element of Water. In the West, place a burning candle to represent the element of Fire.
 
-Prepare the following tools to be used within the summoning ritual: a crystal ball, a divination pendulum, and a scrying mirror. These will aid in the summoning and communication with the spirit guide.
+**Prepare the following tools to be used within the summoning ritual**: a crystal ball, a divination pendulum, and a scrying mirror. These will aid in the summoning and communication with the spirit guide.
 
 ### II. The Incantation
 **Step within the salt circle, ignite a stick of vintage frankincense incense, an ancient component used in ceremonies to establish communication with celestial beings, and hold your hands, palms up, towards the sky.

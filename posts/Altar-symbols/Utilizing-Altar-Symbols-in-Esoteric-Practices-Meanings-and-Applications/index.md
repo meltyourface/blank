@@ -25,7 +25,7 @@ In the realm of occult studies, grimoires play a pivotal role as comprehensive g
 
 Types of Altar Symbols and Their Meanings
 
-Altar symbols can be generally classified into two categories: elemental and celestial. Elemental symbols represent the four primary elements of nature (Air, Earth, Fire, and Water), each possessing its own unique characteristics and correspondences. For instance, the Air symbol is associated with intellect, communication, and inspiration, while the Earth symbol signifies stability, abundance, and grounding properties. Fire embodies transformation, energy, and willpower, whereas Water signifies intuition, emotional depth, and healing.
+**Altar symbols can be generally classified into two categories**: elemental and celestial. Elemental symbols represent the four primary elements of nature (Air, Earth, Fire, and Water), each possessing its own unique characteristics and correspondences. For instance, the Air symbol is associated with intellect, communication, and inspiration, while the Earth symbol signifies stability, abundance, and grounding properties. Fire embodies transformation, energy, and willpower, whereas Water signifies intuition, emotional depth, and healing.
 
 Celestial symbols, on the other hand, derive their meanings from the celestial bodies and their astrological influences. This category includes associations with the sun, moon, planets, and specific constellations, which are believed to bear essential lessons and guidance for practitioners. For example, the sun symbol represents vitality, life force, and self-expression, whereas the moon symbol signifies intuition, subconscious, and transformation.
 

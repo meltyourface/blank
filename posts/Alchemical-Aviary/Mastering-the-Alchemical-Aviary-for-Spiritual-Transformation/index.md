@@ -27,21 +27,21 @@ The Alchemical Aviary holds a revered position within esoteric and occult practi
 
 Key Components of the Alchemical Aviary
 
-1. ****The Elemental Nest****: Found at the center of the Alchemical Aviary, the Elemental Nest represents the four primary elements – air, fire, water, and earth – which form the basis of all living and nonliving entities within the universe. Each element corresponds to specific creatures and attributes responsible for maintaining the balance between the mundane and mystical realms.
+1. **The Elemental Nest**: Found at the center of the Alchemical Aviary, the Elemental Nest represents the four primary elements – air, fire, water, and earth – which form the basis of all living and nonliving entities within the universe. Each element corresponds to specific creatures and attributes responsible for maintaining the balance between the mundane and mystical realms.
 
-2. ****The Focal Birds****: These magical creatures, consisting of the Phoenix, Raven, and Triton, serve as the emissaries and guardians of the Alchemical Aviary. Each bird embodies an esoteric principle – transformation, wisdom, and unity – essential to the practitioner's spiritual journey.
+2. **The Focal Birds**: These magical creatures, consisting of the Phoenix, Raven, and Triton, serve as the emissaries and guardians of the Alchemical Aviary. Each bird embodies an esoteric principle – transformation, wisdom, and unity – essential to the practitioner's spiritual journey.
 
-3. ****The Golden Egg****: A symbol of creation and wisdom, the Golden Egg radiates a potent energy that drives all alchemical processes. When fused with the Focal Birds' unique gifts, the Golden Egg's power is multiplied, allowing the practitioner to influence the world around them and attain previously unreachable states of spiritual knowledge.
+3. **The Golden Egg**: A symbol of creation and wisdom, the Golden Egg radiates a potent energy that drives all alchemical processes. When fused with the Focal Birds' unique gifts, the Golden Egg's power is multiplied, allowing the practitioner to influence the world around them and attain previously unreachable states of spiritual knowledge.
 
 Practical Applications in Alchemy and Transformative Processes
 
 Through comprehensive understanding and utilization of the Alchemical Aviary, practitioners master several core abilities:
 
-1. ****Spiritual Transmutation****: By tapping into the energy of the Golden Egg and the Focal Birds, the practitioner learns to transform base thoughts and emotions into refined spiritual aspirations.
+1. **Spiritual Transmutation**: By tapping into the energy of the Golden Egg and the Focal Birds, the practitioner learns to transform base thoughts and emotions into refined spiritual aspirations.
 
-2. ****Elemental Manipulation****: By harnessing the power of the Elemental Nest, the practitioner gains control over the fundamental forces of nature, enabling them to manipulate air, fire, water, and earth for various purposes, such as healing, protection, and energy channeling.
+2. **Elemental Manipulation**: By harnessing the power of the Elemental Nest, the practitioner gains control over the fundamental forces of nature, enabling them to manipulate air, fire, water, and earth for various purposes, such as healing, protection, and energy channeling.
 
-3. ****Divinatory Insights****: Utilizing the wisdom of the Raven, practitioners develop an expanded consciousness, allowing them to perceive hidden truths, foresee future events, and communicate effectively with other planes of existence.
+3. **Divinatory Insights**: Utilizing the wisdom of the Raven, practitioners develop an expanded consciousness, allowing them to perceive hidden truths, foresee future events, and communicate effectively with other planes of existence.
 
 Initiation Ritual for the Alchemical Aviary
 

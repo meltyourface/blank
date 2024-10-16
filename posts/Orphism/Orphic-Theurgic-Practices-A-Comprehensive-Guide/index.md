@@ -23,9 +23,9 @@ excerpt: >
 
 ## Title: The Orphic Theurgic Embrace
 
-Course Objective: To guide students in delving into the mystical knowledge and practice of theurgy within the realms of Orphism, leading to a profound connection with the gods and deities, and integration of Orphic wisdom into daily life.
+**Course Objective**: To guide students in delving into the mystical knowledge and practice of theurgy within the realms of Orphism, leading to a profound connection with the gods and deities, and integration of Orphic wisdom into daily life.
 
-Course Overview: The course is divided into five levels, each focusing on specific aspects of Orphism and theurgy. Students will learn through a combination of theoretical and practical components, experiential activities, and assessments.
+**Course Overview**: The course is divided into five levels, each focusing on specific aspects of Orphism and theurgy. Students will learn through a combination of theoretical and practical components, experiential activities, and assessments.
 
 Level 1: Introduction to Orphism and the Theurgic Path
 
@@ -92,4 +92,4 @@ Level 5: Mastery of Orphic Theurgy
 
 **Assessment**: Final exam, integration journal, and spiritual guidance session
 
-Course Materials: Core texts, hymns, practical exercises, and historical accounts of Orphism. Experiential activities include rituals, divination readings, and networking with other practitioners. Assessment methods encompass quizzes, journals, presentations, and other activities that support the learning experience.
+**Course Materials**: Core texts, hymns, practical exercises, and historical accounts of Orphism. Experiential activities include rituals, divination readings, and networking with other practitioners. Assessment methods encompass quizzes, journals, presentations, and other activities that support the learning experience.

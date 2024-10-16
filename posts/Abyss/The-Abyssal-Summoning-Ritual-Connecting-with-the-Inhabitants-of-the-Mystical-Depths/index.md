@@ -23,7 +23,7 @@ excerpt: Design an intricate Abyssal summoning ritual encompassing the selection
 
 ## The Abyssal Confluence
 
-Objective: To establish a potent connection with the inhabitants of the Abyssal realm by designing an intricate summoning ritual using an assortment of powerful crystals, sacred herbs, and other mystical materials. This ritual will facilitate the exchange of knowledge and power in addition to the opportunity for collaboration on endeavors of esoteric significance.
+**Objective**: To establish a potent connection with the inhabitants of the Abyssal realm by designing an intricate summoning ritual using an assortment of powerful crystals, sacred herbs, and other mystical materials. This ritual will facilitate the exchange of knowledge and power in addition to the opportunity for collaboration on endeavors of esoteric significance.
 
 Materials & Their Properties:
 

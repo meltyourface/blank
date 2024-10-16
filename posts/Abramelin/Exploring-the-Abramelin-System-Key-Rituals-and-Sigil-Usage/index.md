@@ -30,7 +30,7 @@ Origins of the Abramelin System
 
 The Abramelin system can be traced back to the 14th-century Jewish Kabbalist, Abraham, who learned the sacred art from Abramelin, an adept mystic in Egypt. As Abraham dedicated himself to Abramelin's teachings, he recorded their exchanges in a series of manuscripts that would later become the foundations of the Abramelin system. These texts eventually found their way throughout Europe, becoming an integral part of Western occultism.
 
-Key Rituals: The Sacred Operation
+**Key Rituals**: The Sacred Operation
 
 Central to the Abramelin system is the attainment of one's holy guardian angel through a transformative six-to-eighteen-month process known as the sacred operation. This rite is broken down into three stages:
 
@@ -40,7 +40,7 @@ Central to the Abramelin system is the attainment of one's holy guardian angel t
 
 3. Conjuration: The holy guardian angel reveals itself, offering its guidance and assistance to the practitioner. From this point on, the practitioner gains power over the various forces in the spiritual realm through the use of magical squares or sigils.
 
-Sigil Usage: Magical Squares and Talismans
+**Sigil Usage**: Magical Squares and Talismans
 
 Sigils, represented by magical squares inscribed with unique combinations of letters and numbers, serve as conduits for harnessing the energies of angelic entities and commanding spirits who govern various aspects of reality. The practitioner creates a variety of talismans embodying these sigils, using them to attract abundance, healing, protection, and wisdom.
 

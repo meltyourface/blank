@@ -39,7 +39,7 @@ excerpt: >
 
 ## The Esoteric Astral Projection Guided Meditation
 
-Introduction: 
+**Introduction**: 
 
 Welcome, dear practitioner, to the realm of esoteric and occult knowledge. Astral projection has long been held as one of the most fascinating aspects of occult practices, enabling one to explore numerous dimensions beyond the physical plane. It is said to unveil mysteries, grant wisdom, and connect one to higher planes of consciousness. Today, we will undertake an intricate guided meditation, specifically tailored for initiating astral projection experiences.
 

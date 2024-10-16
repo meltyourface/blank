@@ -27,11 +27,11 @@ Stavoloth is an intricate symbolic language and alphabet, deeply rooted in the p
 
 The symbols, or "Zivetarra," are designed to embody the essence and power of key arcane concepts within The Three Crossed Staves domain. There are 36 Zivetarra in total, which represent the foundational elements, celestial bodies, and interconnected forces.
 
-The Elements: Four elemental symbols each for Earth (Gorth), Water (Ylath), Air (Veylor), and Fire (Erastr).
+**The Elements**: Four elemental symbols each for Earth (Gorth), Water (Ylath), Air (Veylor), and Fire (Erastr).
 
-Celestial Bodies: Eight celestial symbols each for the Sun (Sursal), Moon (Tyloth), and four ruling planets, corresponding to the Four Quarters of the Staves – namely, Jandir (Wisdom), Quelgor (War), Astaroth (Harmony), and Vraxx (Mystery).
+**Celestial Bodies**: Eight celestial symbols each for the Sun (Sursal), Moon (Tyloth), and four ruling planets, corresponding to the Four Quarters of the Staves – namely, Jandir (Wisdom), Quelgor (War), Astaroth (Harmony), and Vraxx (Mystery).
 
-Interconnected Forces: Twenty-four intricate symbols for fundamental forces such as creation, destruction, transformation, life, death, dreams, time, fate, and the twelve astral powers spanning The Three Crossed Staves domain.
+**Interconnected Forces**: Twenty-four intricate symbols for fundamental forces such as creation, destruction, transformation, life, death, dreams, time, fate, and the twelve astral powers spanning The Three Crossed Staves domain.
 
 As a versatile and adaptable language, Stavoloth can be used for complex spellwork, energy manipulation, and the evocation of deities or otherworldly entities. It is designed to function harmoniously across visual, auditory, and vibrational planes, making it a powerful tool for both inscription and chanting.
 

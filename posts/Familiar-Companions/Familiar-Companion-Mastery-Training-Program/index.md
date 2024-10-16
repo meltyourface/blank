@@ -24,7 +24,7 @@ excerpt: Design an immersive training program tailored to progressively develop 
 
 Course Overview
 
-The Familiar Companion Academy: Path to Mastery training program is specifically designed to help Familiar Companions progressively develop and refine their distinct capabilities. This program combines specialized exercises, magical rituals, and mental conditioning techniques that enable Familiar Companions to maximize their potential in their chosen area of expertise. 
+**The Familiar Companion Academy**: Path to Mastery training program is specifically designed to help Familiar Companions progressively develop and refine their distinct capabilities. This program combines specialized exercises, magical rituals, and mental conditioning techniques that enable Familiar Companions to maximize their potential in their chosen area of expertise. 
 
 Goals/Objectives
 

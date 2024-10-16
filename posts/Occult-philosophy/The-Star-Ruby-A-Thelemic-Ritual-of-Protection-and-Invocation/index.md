@@ -38,13 +38,13 @@ Clasp the hands upon the chest, and say: LE-OLAM (Forever)
 Finish the cross by saying: AMEN.
 
 ### III. The Invocation of the Elements
-Face East, and visualize an electric blue pentagram within a yellow hexagram. ****Extend your right hand, make a banishing Earth pentagram, and recite****: ΘΕΡΙΟΝ (Therion)
+Face East, and visualize an electric blue pentagram within a yellow hexagram. **Extend your right hand, make a banishing Earth pentagram, and recite**: ΘΕΡΙΟΝ (Therion)
 
-Turn to the North, visualize the electric blue pentagram within a black hexagram. ****Make a banishing Earth pentagram, and recite****: ΝΥΙΘ (Nuit)
+Turn to the North, visualize the electric blue pentagram within a black hexagram. **Make a banishing Earth pentagram, and recite**: ΝΥΙΘ (Nuit)
 
-Face West, visualize the electric blue pentagram within a green hexagram. ****Make a banishing Earth pentagram, and recite****: ΒΑΒΑΛΟΝ (Babalon)
+Face West, visualize the electric blue pentagram within a green hexagram. **Make a banishing Earth pentagram, and recite**: ΒΑΒΑΛΟΝ (Babalon)
 
-Turn to the South, visualize the electric blue pentagram within a crimson hexagram. ****Make a banishing Earth pentagram, and recite****: ΕΡΩΣ (Eros)
+Turn to the South, visualize the electric blue pentagram within a crimson hexagram. **Make a banishing Earth pentagram, and recite**: ΕΡΩΣ (Eros)
 
 Return to the East and complete the circle, extending your right arm in a slicing motion along the path you just walked. As you do so, visualize an electric blue circle surrounding the circle.
 

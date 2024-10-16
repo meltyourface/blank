@@ -25,7 +25,7 @@ excerpt: Generate a detailed section of a grimoire that delves into the topic of
 
 The escaped laboratory specimens have a long and complex history within the world of the occult. These entities are beings that, through accidental or intentional acts, have found their way into our realm from experimental labs. These laboratories, often associated with esoteric, occult, and arcane research, are designed to explore the boundaries of the known and unknown, pushing the limits of our understanding of the universe. 
 
-The genesis of these specimens can be broken into two main catalysts: scientific research with unintended consequences and magical practitioners intentionally summoning or creating these entities. The former often involves testing on animals, plants, or other organisms, pushing their genetic or spiritual composition into uncharted territories. In contrast, the latter refers to the clandestine experiments conducted by alchemists, necromancers, and other magical practitioners.
+**The genesis of these specimens can be broken into two main catalysts**: scientific research with unintended consequences and magical practitioners intentionally summoning or creating these entities. The former often involves testing on animals, plants, or other organisms, pushing their genetic or spiritual composition into uncharted territories. In contrast, the latter refers to the clandestine experiments conducted by alchemists, necromancers, and other magical practitioners.
 
 Throughout history, these experiments range from those of ancient Babylon and Egypt to the dark laboratories of the Renaissance era, where mysterious scholars worked in secrecy, striving to obtain immense knowledge and power from their captives. As scientific and magical understanding progressed, so did the complexity and potential dangers associated with these entities.
 
@@ -35,11 +35,11 @@ Escaped laboratory specimens have many unique qualities, which largely depend on
 
 Common traits of escaped laboratory specimens include:
 
-1. ****Enhanced physical abilities****: Many specimens demonstrate superior strength, speed, agility, or endurance compared to natural counterparts. Sometimes, they also display unique or enhanced sensory abilities, such as heightened or altered perception.
+1. **Enhanced physical abilities**: Many specimens demonstrate superior strength, speed, agility, or endurance compared to natural counterparts. Sometimes, they also display unique or enhanced sensory abilities, such as heightened or altered perception.
 
-2. ****Magical abilities****: These could range from the simple manipulation of elements to more complex rituals and spellcasting. Some specimens may be inherently magical or possess an innate aura that affects their surroundings.
+2. **Magical abilities**: These could range from the simple manipulation of elements to more complex rituals and spellcasting. Some specimens may be inherently magical or possess an innate aura that affects their surroundings.
 
-3. ****Altered mindset or behavior****: Changes to the entity's cognition or temperament might manifest from the experiments, making them unpredictable and potentially dangerous. Consequently, these entities may have a greater inclination toward chaotic or destructive behavior.
+3. **Altered mindset or behavior**: Changes to the entity's cognition or temperament might manifest from the experiments, making them unpredictable and potentially dangerous. Consequently, these entities may have a greater inclination toward chaotic or destructive behavior.
 
 ### Section 3: The Role of Escaped Laboratory Specimens in Esoteric Practices
 
@@ -49,11 +49,11 @@ Practitioners should always approach these entities with caution, as they can be
 
 Here are some rituals and spells to help students prepare for interaction with these entities:
 
-1. ****Protection Ritual****: Prior to any interaction with escaped laboratory specimens, the practitioner should cast a powerful protective ward around themselves. This precautionary measure establishes a sacred and secure space, shielding oneself from any unwanted malignant energy or harmful consequences.
+1. **Protection Ritual**: Prior to any interaction with escaped laboratory specimens, the practitioner should cast a powerful protective ward around themselves. This precautionary measure establishes a sacred and secure space, shielding oneself from any unwanted malignant energy or harmful consequences.
 
-2. ****Spirit Communication Spell****: Establishing contact with these entities requires a careful and respectful approach. Students must remember that while they seek knowledge, they are also interacting with sentient beings. The Spirit Communication Spell enables the practitioner to open a channel of communication with the specimen, permitting both parties to engage in a safe and orderly dialogue.
+2. **Spirit Communication Spell**: Establishing contact with these entities requires a careful and respectful approach. Students must remember that while they seek knowledge, they are also interacting with sentient beings. The Spirit Communication Spell enables the practitioner to open a channel of communication with the specimen, permitting both parties to engage in a safe and orderly dialogue.
 
-3. ****Containment Charm****: In certain cases, practitioners may feel the need to capture and temporarily contain an escaped laboratory specimen, either to study it further or protect themselves or others from potential harm. The Containment Charm provides a means of holding these entities within a magically designated area, preventing their escape while minimizing harm to both the practitioner and the specimen.
+3. **Containment Charm**: In certain cases, practitioners may feel the need to capture and temporarily contain an escaped laboratory specimen, either to study it further or protect themselves or others from potential harm. The Containment Charm provides a means of holding these entities within a magically designated area, preventing their escape while minimizing harm to both the practitioner and the specimen.
 
 ### Section 4: Precautions and Ethical Considerations
 

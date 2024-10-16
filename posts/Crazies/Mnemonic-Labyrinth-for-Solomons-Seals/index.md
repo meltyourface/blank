@@ -24,7 +24,7 @@ I present to you "The Crux of Chromatica: A Mnemonic Labyrinth of Solomon's Seal
 
 **Chamber 1: The Gate of Whispers**
 
-This chamber is adorned with swirling symbols, representing the whispers of the Crazies. ****To venture forth, you must recite the coded phrase****: "In the spiral, I am born. In the spiral, I dissolve." As you utter these words, the chamber will reveal the first of the 44 seals – the Seal of Lucifer. Gain knowledge of the fallen angel and his connection to light and darkness.
+This chamber is adorned with swirling symbols, representing the whispers of the Crazies. **To venture forth, you must recite the coded phrase**: "In the spiral, I am born. In the spiral, I dissolve." As you utter these words, the chamber will reveal the first of the 44 seals – the Seal of Lucifer. Gain knowledge of the fallen angel and his connection to light and darkness.
 
 **Chamber 2: The Path of the Crow**
 

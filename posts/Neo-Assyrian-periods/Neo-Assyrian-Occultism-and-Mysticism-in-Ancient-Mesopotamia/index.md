@@ -36,19 +36,19 @@ Other significant gods and goddesses of this period included the storm god Adad,
 
 The Neo-Assyrians believed in the power of esoteric knowledge and magical rituals to manipulate the forces of nature and influence the divine. This belief was rooted in ancient Mesopotamian incantation practices and divination systems. The following are key occult practices from this period.
 
-1. ****Divination****: Divination was a central part of the Neo-Assyrian quest for understanding the divine will and deciphering the future. Diviners, or baru-priests, employed a variety of techniques, such as interpreting animal entrails (extispicy) or examining celestial omens (astrology). These practices enabled the Assyrians to make informed decisions and provided a basis for governance.
+1. **Divination**: Divination was a central part of the Neo-Assyrian quest for understanding the divine will and deciphering the future. Diviners, or baru-priests, employed a variety of techniques, such as interpreting animal entrails (extispicy) or examining celestial omens (astrology). These practices enabled the Assyrians to make informed decisions and provided a basis for governance.
 
-2. ****Incantations****: Incantations, or magical spells, played a significant role in protecting individuals from harm or evil influence. The Neo-Assyrians used a variety of incantation texts, ranging from simple charms to complex rituals, in order to invoke the power and protection of divine forces.
+2. **Incantations**: Incantations, or magical spells, played a significant role in protecting individuals from harm or evil influence. The Neo-Assyrians used a variety of incantation texts, ranging from simple charms to complex rituals, in order to invoke the power and protection of divine forces.
 
-3. ****Magical Rituals****: The Assyrians practiced an array of magical rituals seeking to heal physical and spiritual ailments, protect their kingdom, or secure the favor of the gods. One such practice involved the creation of magic bowls inscribed with incantations designed to ward off malicious spirits.
+3. **Magical Rituals**: The Assyrians practiced an array of magical rituals seeking to heal physical and spiritual ailments, protect their kingdom, or secure the favor of the gods. One such practice involved the creation of magic bowls inscribed with incantations designed to ward off malicious spirits.
 
 ### IV. Important Figures, Deities, and Places of Power
 
-1. ****Ashurbanipal****: Ashurbanipal, the last great king of the Assyrian Empire, was known for his patronage of learning and the arts, resulting in the expansion of occult practices during his reign. He was also a scholar of esoteric knowledge, having amassed a vast library filled with ancient texts on various subjects, including magic, astrology, and divination.
+1. **Ashurbanipal**: Ashurbanipal, the last great king of the Assyrian Empire, was known for his patronage of learning and the arts, resulting in the expansion of occult practices during his reign. He was also a scholar of esoteric knowledge, having amassed a vast library filled with ancient texts on various subjects, including magic, astrology, and divination.
 
-2. ****The Temple of Nabu****: The Temple of Nabu, located in the significant city of Borsippa, was a central center of occult learning and boasted an extensive library containing magical texts and incantations. The temple was dedicated to Nabu, the god of writing and wisdom.
+2. **The Temple of Nabu**: The Temple of Nabu, located in the significant city of Borsippa, was a central center of occult learning and boasted an extensive library containing magical texts and incantations. The temple was dedicated to Nabu, the god of writing and wisdom.
 
-3. ****Nusku****: Nusku, the god of fire, played a crucial role in esoteric practices as the purifying element in rituals and incantations. His association with light made him the perfect divine ally against the forces of darkness and evil.
+3. **Nusku**: Nusku, the god of fire, played a crucial role in esoteric practices as the purifying element in rituals and incantations. His association with light made him the perfect divine ally against the forces of darkness and evil.
 
 ### V. The Lasting Impact of Neo-Assyrian Occultism
 

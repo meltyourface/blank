@@ -68,7 +68,7 @@ In this ritual, the couple is energetically and symbolically joined, symbolizing
 
 4. Binding the Couple's Hands:
 
-Choose a cord or ribbon imbued with the colors of the Summer Solstice: yellow for the sun's light, green for abundance, blue for clear skies, and white for purity.
+**Choose a cord or ribbon imbued with the colors of the Summer Solstice**: yellow for the sun's light, green for abundance, blue for clear skies, and white for purity.
 
 Knot pattern:
 - Begin with a basic knot to symbolize unity.

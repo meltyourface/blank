@@ -34,17 +34,17 @@ Ancient Symbols:
 
 The effectiveness of banishing rituals is often linked to the utilization of powerful symbols, which are believed to hold deep spiritual significance. **Some prominent symbols used in banishing rituals include**:
 
-1. ****The Pentagram****: A five-pointed star, often used in the LBRP, representing the four elements (Earth, Water, Air, Fire) and the spirit or quintessence. When drawn or visualized, it is believed to create a protective barrier against negative energies.
-2. ****The Hexagram****: A six-pointed star, representing the union of opposites and the balance between the divine and the earthly realms. It is frequently employed as a protective talisman.
-3. ****Sigils****: Unique symbols created to express a specific intention, such as protection or removal of unwanted energies.
+1. **The Pentagram**: A five-pointed star, often used in the LBRP, representing the four elements (Earth, Water, Air, Fire) and the spirit or quintessence. When drawn or visualized, it is believed to create a protective barrier against negative energies.
+2. **The Hexagram**: A six-pointed star, representing the union of opposites and the balance between the divine and the earthly realms. It is frequently employed as a protective talisman.
+3. **Sigils**: Unique symbols created to express a specific intention, such as protection or removal of unwanted energies.
 
 Ceremonial Tools:
 
 Various tools are used within banishing rituals to harness and direct energy, including:
 
-1. ****The Athame****: A ritual knife, employed in Wiccan and pagan traditions, used to direct the user's will and energy during ceremonies.
-2. ****The Wand****: A symbol of authority and magical power, often used in the LBRP to trace pentagrams and to invoke chosen deities, angels, or archangels.
-3. ****Incense and Offerings****: Burned as a means of purifying the area, incense, such as frankincense and myrrh, are popular choices for banishing rituals.
+1. **The Athame**: A ritual knife, employed in Wiccan and pagan traditions, used to direct the user's will and energy during ceremonies.
+2. **The Wand**: A symbol of authority and magical power, often used in the LBRP to trace pentagrams and to invoke chosen deities, angels, or archangels.
+3. **Incense and Offerings**: Burned as a means of purifying the area, incense, such as frankincense and myrrh, are popular choices for banishing rituals.
 
 Verbal Incantations:
 

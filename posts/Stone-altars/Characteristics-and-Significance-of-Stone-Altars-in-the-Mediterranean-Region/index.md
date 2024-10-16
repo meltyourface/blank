@@ -26,21 +26,21 @@ Stone altars in the Mediterranean region can be categorized and analyzed based o
 
 Mediterranean Stone altars can be primarily grouped into three categories based on their geological compositions:
 
-a. ****Limestone altars****: Limestone is a sedimentary rock abundant in the Mediterranean region and was commonly used for its workability and local accessibility. It varies in color and texture, from white to grey or yellow, and was often used as a base for plaster or painted decoration.
+a. **Limestone altars**: Limestone is a sedimentary rock abundant in the Mediterranean region and was commonly used for its workability and local accessibility. It varies in color and texture, from white to grey or yellow, and was often used as a base for plaster or painted decoration.
 
-b. ****Marble altars****: Marble is a metamorphic rock formed from limestone subjected to heat and pressure, available in a variety of colors, including white, black, green, and pink. Known for its durability and beauty, marble was used to create high-end altars, often reserved for wealthy or elite members of society.
+b. **Marble altars**: Marble is a metamorphic rock formed from limestone subjected to heat and pressure, available in a variety of colors, including white, black, green, and pink. Known for its durability and beauty, marble was used to create high-end altars, often reserved for wealthy or elite members of society.
 
-c. ****Basalt or volcanic rock altars****: Basalt is an extrusive igneous rock formed from rapidly cooling lava. These volcanic rocks, such as basalt, were commonly used, particularly on islands with volcanic origins, like the Aeolian Islands or the island of Pantelleria.
+c. **Basalt or volcanic rock altars**: Basalt is an extrusive igneous rock formed from rapidly cooling lava. These volcanic rocks, such as basalt, were commonly used, particularly on islands with volcanic origins, like the Aeolian Islands or the island of Pantelleria.
 
 2. **Historical and Ritualistic Uses**:
 
 The historical uses and potential ritualistic differences based on material types can be examined as follows:
 
-a. ****Limestone altars****: These altars were commonly used in household shrines, smaller temples, and sanctuaries throughout the Mediterranean. Due to their local accessibility, they served as focal points for community worship and rituals that attracted the general population.
+a. **Limestone altars**: These altars were commonly used in household shrines, smaller temples, and sanctuaries throughout the Mediterranean. Due to their local accessibility, they served as focal points for community worship and rituals that attracted the general population.
 
-b. ****Marble altars****: Marble altars often signified wealth and high social status. They were found in prestigious temples, city-state sanctuaries, and imperial cults. Rituals conducted at these altars typically followed formal ceremonies and were overseen by religious or political elites.
+b. **Marble altars**: Marble altars often signified wealth and high social status. They were found in prestigious temples, city-state sanctuaries, and imperial cults. Rituals conducted at these altars typically followed formal ceremonies and were overseen by religious or political elites.
 
-c. ****Basalt or volcanic rock altars****: Altars made of volcanic rocks were used in specific regional contexts. They were likely associated with rituals pertaining to earth-bound, fire, or fertility deities, or gods and goddesses connected to volcanic forces.
+c. **Basalt or volcanic rock altars**: Altars made of volcanic rocks were used in specific regional contexts. They were likely associated with rituals pertaining to earth-bound, fire, or fertility deities, or gods and goddesses connected to volcanic forces.
 
 3. **Geographical Distribution**:
 

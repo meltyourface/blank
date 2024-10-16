@@ -23,23 +23,23 @@ Step One: Setting the Scene
 
 The Grand Conclave of Wyrm's fire-breathing ceremony takes place in a grand hall with a circular arena in the center. The arena is surrounded by high walls, adorned with various runes and artworks representing the power and wisdom of dragons. Overhead, an open dome allows a clear view of the night sky. The arena is large enough to accommodate the dragons comfortably and enable them to perform the intricate dance steps.
 
-Step Two: The Dragon Dancers
+**Step Two**: The Dragon Dancers
 
 Select a group of six skilled dragon dancers, trained in the Grimoire of the Dragons, to represent Drakonar the Wise and his followers. They should be draped in ornate cloaks in rich colors, each adorned with the sigil of Drakonar. As a symbol of the unity of the dragons, the dancers will wear matching headdresses fashioned after the majestic head of a dragon.
 
-Step Three: Opening Sequence
+**Step Three**: Opening Sequence
 
 The dragon dance begins with the dragons in a close circle, their tails intertwined. They begin slowly swaying from side to side, moving their heads in sync with each sway. This side-to-side movement is the Serpent Sway and is a nod to Drakonar's wisdom in incorporating serpentine tactics in commanding his forces.
 
-Step Four: Rising Tensions
+**Step Four**: Rising Tensions
 
 The dragons continue with the Flames of Ascension technique where they rise on their hind legs, mimicking their ascension to power and heights of knowledge. They then step and pivot in unison around the arena, their tails sweeping across the ground, clearing a path for greatness. This is the Tail Sweep technique.
 
-Step Five: The Battle Scene
+**Step Five**: The Battle Scene
 
 The dragons split into two groups of three and perform a mock battle using traditional dragon combat moves. The dragons exchange controlled fire-breathing acts with each other, demonstrating their skill in harnessing the power of the flame. As the scene crescendos, the dragons unite back into a single formation, signifying their unity and triumph under Drakonar's leadership.
 
-Step Six: The Mesmerizing Finale
+**Step Six**: The Mesmerizing Finale
 
 The dragons form a tight circle once more, but now facing outward with their heads raised high. They synchronize their breathing and release their fire breaths in a controlled manner. The fire breaths spiral upward, merging in the center to create a majestic fire vortex, whose height and intensity grow with each passing moment. As the vortex expands, the heat from the flames reveal hidden runes from the Grimoire of the Dragons inscribed on the walls of the arena. 
 

@@ -30,31 +30,31 @@ Key Figures
 
 Throughout the history of occultism, several key figures with strong ties to Catholic tradition have emerged. **Some of these individuals include**:
 
-1. ****Cornelius Agrippa (1486-1535)****: Renowned as a German polymath and occult writer, Agrippa was a devout Catholic whose writings explored esoteric ideas within a Christian framework. Among his most prominent works is "Three Books of Occult Philosophy," which integrates Christian beliefs with magical practices.
+1. **Cornelius Agrippa (1486-1535)**: Renowned as a German polymath and occult writer, Agrippa was a devout Catholic whose writings explored esoteric ideas within a Christian framework. Among his most prominent works is "Three Books of Occult Philosophy," which integrates Christian beliefs with magical practices.
 
-2. ****Eliphas Levi (1810-1875)****: A prolific occult author and magician, Levi was initially a Catholic seminarian before becoming disillusioned with the Church's restrictions on occult knowledge. His writings, including the seminal "Dogme et Rituel de la Haute Magie," draw upon Catholic symbolism and blend its elements with other esoteric traditions to create a unique synthesis.
+2. **Eliphas Levi (1810-1875)**: A prolific occult author and magician, Levi was initially a Catholic seminarian before becoming disillusioned with the Church's restrictions on occult knowledge. His writings, including the seminal "Dogme et Rituel de la Haute Magie," draw upon Catholic symbolism and blend its elements with other esoteric traditions to create a unique synthesis.
 
-3. ****St. John of the Cross (1542-1591)****: A revered Catholic mystic and poet, St. John of the Cross is well-known for his writings on the soul's passage through the "Dark Night," a concept that resonates with occultists seeking spiritual transformation and enlightenment.
+3. **St. John of the Cross (1542-1591)**: A revered Catholic mystic and poet, St. John of the Cross is well-known for his writings on the soul's passage through the "Dark Night," a concept that resonates with occultists seeking spiritual transformation and enlightenment.
 
 Rituals and Practices
 
 The Catholic Church's rich history of rituals and practices has provided ample fodder for occultists to draw upon in their own magical workings. **Some notable examples include**:
 
-1. ****The Mass****: Often considered the central ritual of Catholic worship, the Mass has been adapted in various ways by occult practitioners seeking to harness its transformative powers. Elements of the Mass have been incorporated into magical rituals, employing transubstantiation as a metaphor for spiritual alchemy.
+1. **The Mass**: Often considered the central ritual of Catholic worship, the Mass has been adapted in various ways by occult practitioners seeking to harness its transformative powers. Elements of the Mass have been incorporated into magical rituals, employing transubstantiation as a metaphor for spiritual alchemy.
 
-2. ****Exorcism****: As a rite intended to expel demonic entities from an afflicted person, Catholic exorcisms have also been utilized in occult practices for banishing negative energies and entities. The Lesser Banishing Ritual of the Pentagram, a foundational Golden Dawn ritual, can be traced back to Catholic prayers and understanding of spirits.
+2. **Exorcism**: As a rite intended to expel demonic entities from an afflicted person, Catholic exorcisms have also been utilized in occult practices for banishing negative energies and entities. The Lesser Banishing Ritual of the Pentagram, a foundational Golden Dawn ritual, can be traced back to Catholic prayers and understanding of spirits.
 
-3. ****The Rosary****: This form of meditative prayer, utilizing beads and repeated invocations, has found its way into occult practices as well. Occultists might use the structure of the rosary to create their own meditations or invoke specific energies and spirits.
+3. **The Rosary**: This form of meditative prayer, utilizing beads and repeated invocations, has found its way into occult practices as well. Occultists might use the structure of the rosary to create their own meditations or invoke specific energies and spirits.
 
 Symbols
 
 Catholic symbolism has long been a source of inspiration for those involved in the occult. **Some key symbols include**:
 
-1. ****The Cross****: Symbolic of the crucifixion of Christ, the cross has been adopted in various forms throughout the occult, representing spiritual protection, rebirth, and the union of opposing forces.
+1. **The Cross**: Symbolic of the crucifixion of Christ, the cross has been adopted in various forms throughout the occult, representing spiritual protection, rebirth, and the union of opposing forces.
 
-2. ****The Saints****: Catholic saints and their associated iconography have been incorporated into magical practices as patrons and intermediaries for working with higher powers. Popular examples include St. Michael the Archangel, invoked for protection and victory, and St. Cyprian, patron of occult practitioners.
+2. **The Saints**: Catholic saints and their associated iconography have been incorporated into magical practices as patrons and intermediaries for working with higher powers. Popular examples include St. Michael the Archangel, invoked for protection and victory, and St. Cyprian, patron of occult practitioners.
 
-3. ****The Trinity****: The concept of the Holy Trinity - Father, Son, and Holy Spirit - has been embraced within the occult as a symbol of unity, balance, and perfection, analogous to the Hermetic principle of "As above, so below."
+3. **The Trinity**: The concept of the Holy Trinity - Father, Son, and Holy Spirit - has been embraced within the occult as a symbol of unity, balance, and perfection, analogous to the Hermetic principle of "As above, so below."
 
 Conclusion
 

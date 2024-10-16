@@ -27,7 +27,7 @@ Element: Earth
 Vibrational Frequency: 194.18 Hz
 Affirmation: "I am grounded, secure, and connected to the Earth's energy. My foundation is strong and stable."
 
-Mudra: Prithvi Mudra (touch the tips of the ring fingers to the tips of the thumbs)
+**Mudra**: Prithvi Mudra (touch the tips of the ring fingers to the tips of the thumbs)
 Visualization: Envision a vibrant red lotus flower at the base of your spine, expanding and contracting with each breath.
 Rite: Stand barefoot on the earth, feeling the connection between your feet and the ground below.
 
@@ -36,7 +36,7 @@ Element: Water
 Vibrational Frequency: 210.42 Hz
 Affirmation: "I honor my emotions and desires. I am in tune with my creative flow and passions."
 
-Mudra: Varun Mudra (touch the tips of the pinky fingers to the tips of the thumbs)
+**Mudra**: Varun Mudra (touch the tips of the pinky fingers to the tips of the thumbs)
 Visualization: Picture an orange lotus flower in your lower abdomen, radiating warmth and energy.
 Rite: Engage in an activity that sparks your creativity, such as painting, dancing, or journaling.
 
@@ -45,7 +45,7 @@ Element: Fire
 Vibrational Frequency: 126.22 Hz
 Affirmation: "I am confident, powerful, and radiant. I embrace my inner strength and transform challenges into growth."
 
-Mudra: Rudra Mudra (touch the tips of the index and ring fingers to the tips of the thumbs)
+**Mudra**: Rudra Mudra (touch the tips of the index and ring fingers to the tips of the thumbs)
 Visualization: Envision a golden-yellow lotus flower in your solar plexus, emanating an intense inner flame.
 Rite: Participate in a robust physical activity like yoga or running to stoke the fire within.
 
@@ -54,7 +54,7 @@ Element: Air
 Vibrational Frequency: 136.10 Hz
 Affirmation: "I give and receive love effortlessly and unconditionally. My heart is open, and I am connected to all beings."
 
-Mudra: Hridaya Mudra (place the tips of the index fingers at the base of the thumbs, then join the tips of the ring and middle fingers with the tips of the thumbs)
+**Mudra**: Hridaya Mudra (place the tips of the index fingers at the base of the thumbs, then join the tips of the ring and middle fingers with the tips of the thumbs)
 Visualization: Imagine a bright green lotus flower in the center of your chest, expanding with each compassionate breath.
 Rite: Perform acts of kindness or volunteer your time to connect with others and cultivate love.
 
@@ -63,7 +63,7 @@ Element: Ether
 Vibrational Frequency: 141.27 Hz
 Affirmation: "I express my truth authentically and clearly. My communication is open, honest, and effective."
 
-Mudra: Shodashi Mudra (cross your fingers, placing the thumbs on top of one another, point the index fingers upward)
+**Mudra**: Shodashi Mudra (cross your fingers, placing the thumbs on top of one another, point the index fingers upward)
 Visualization: Visualize a luminous blue lotus flower in your throat area, vibrating with every truthful word spoken.
 Rite: Sing, chant, or engage in vocal expressions to open and empower your throat chakra.
 
@@ -72,7 +72,7 @@ Element: Light
 Vibrational Frequency: 221.23 Hz
 Affirmation: "I trust my intuition and inner wisdom. My perception extends beyond the confines of the physical realm."
 
-Mudra: Gyan Mudra (touch the tips of the index fingers to the tips of the thumbs)
+**Mudra**: Gyan Mudra (touch the tips of the index fingers to the tips of the thumbs)
 Visualization: Envision an indigo lotus flower between your eyebrows, expanding your inner sight.
 Rite: Practice focused meditation or engage in activities that develop your intuition and insight.
 
@@ -81,7 +81,7 @@ Element: Cosmic Consciousness
 Vibrational Frequency: 172.06 Hz
 Affirmation: "I am connected to the Divine, and I embrace my highest self. The universe's knowledge flows through me."
 
-Mudra: Mahasirs Mudra (touch the tips of the index and middle fingers to the tips of the thumbs, join the tips of the ring fingers to the tips of the pinky fingers)
+**Mudra**: Mahasirs Mudra (touch the tips of the index and middle fingers to the tips of the thumbs, join the tips of the ring fingers to the tips of the pinky fingers)
 Visualization: Picture a radiant violet lotus flower at the crown of your head, connecting you to the infinite cosmos.
 Rite: Practice deep, transcendent meditation or engage in spiritual experiences that elevate your consciousness.
 

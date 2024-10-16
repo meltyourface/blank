@@ -33,7 +33,7 @@ Invocation, from the Latin verb 'invocare,' means "to call upon" or "summon." Th
 
 One of the underlying principles of invocation is the recognition of higher powers and their corresponding influences on our lives. Recognizing these forces allows us to tap into a reservoir of wisdom beyond our mere mortal understanding. Another guiding principle of invocation is the idea that, through ritual and focused intention, we connect to external energetic sources, which help us transcend our limitations, expand our consciousness, and unlock our innate potential.
 
-Embracing the Power of Invocation: A Strategic Approach to Leadership
+**Embracing the Power of Invocation**: A Strategic Approach to Leadership
 
 By incorporating the art of invocation into my personal leadership style, I have experienced significant benefits in three key areas: cultivating inner fortitude, inspiring others, and understanding the importance of symbolism.
 

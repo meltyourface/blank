@@ -21,7 +21,7 @@ excerpt: Design an innovative ceremonial rite that authentically integrates key 
 ---
 Ceremonial Rite: The Sacred Union of Sky and Earth
 
-Indigenous Cosmological Tradition: Inca
+**Indigenous Cosmological Tradition**: Inca
 
 Purpose and Context:
 

@@ -33,7 +33,7 @@ To perform the evocative Holy Death ritual to channel a profound message from th
 
 - Safeguard the ritual space by calling upon protective energies using an appropriate ancient invocation such as Latin or Sanskrit. This incantation should be aimed at inviting the Holy Death to oversee the process and ensure safety during the communion.
 
-Invocation example in Latin: "Aperi portas, Sancta Mors, et fac nobis transire ad vos. Ego te invoco venerabile spiritu, ut apud te spectans nos deducere potentiam intacta ex domo ignoto."
+**Invocation example in Latin**: "Aperi portas, Sancta Mors, et fac nobis transire ad vos. Ego te invoco venerabile spiritu, ut apud te spectans nos deducere potentiam intacta ex domo ignoto."
 (Translation: "Open the doors, Holy Death, and let us pass to you. I summon you, venerable spirit, to looking upon us, lead us untouched by power from the unknown.")
 
 - Incense, such as copal or sandalwood, should be lit to further define the atmosphere and to aid in deepening your trance.

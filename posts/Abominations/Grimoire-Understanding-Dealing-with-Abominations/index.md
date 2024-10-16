@@ -30,26 +30,26 @@ excerpt: >
   III. Characteristics of Abominations
   Abominations embody a vast range of physical, mental, and spiritual attributes that set them apart from other supernatural beings. **Some key characteristics include**:
   
-  1. ****Form****: The physical appearance of Abominations varies greatly, from humanoid forms with monstrous features to grotesque combinations of different animals or mythological creatures. Shape-shifting abilities are also common among them.
-  2. ****Essence****: Abominations often resonate a malevolent and chaotic energy that disrupts the balance between natural and supernatural realms.
-  3. ****Intelligence****: These entities possess varying degrees of intelligence and awareness, with some demonstrating cunning and others driven by instinctual urges.
-  4. ****Alignments****: Abominations are not exclusively evil. Some may act benevolently, while others walk the line between good and evil based on their nature or motivations.
+  1. **Form**: The physical appearance of Abominations varies greatly, from humanoid forms with monstrous features to grotesque combinations of different animals or mythological creatures. Shape-shifting abilities are also common among them.
+  2. **Essence**: Abominations often resonate a malevolent and chaotic energy that disrupts the balance between natural and supernatural realms.
+  3. **Intelligence**: These entities possess varying degrees of intelligence and awareness, with some demonstrating cunning and others driven by instinctual urges.
+  4. **Alignments**: Abominations are not exclusively evil. Some may act benevolently, while others walk the line between good and evil based on their nature or motivations.
   
   IV. Types of Abominations
   There exist multiple types of Abominations, each with unique attributes. **Some common types include**:
   
-  1. ****Elemental Aberrations****: Entities born from the imbalance of natural elements like earth, fire, water, and air. They harbor chaotic and destructive tendencies.
-  2. ****Astral Abominations****: Beings that dwell within the ethereal realms, often infringing upon the borders of dreams and nightmares.
-  3. ****Hybrid Abominations****: Entities created through the unnatural fusion or combination of various living beings, whether they be mundane creatures or supernaturals.
-  4. ****Accursed Abominations****: Individuals who, through the misuse of dark magic, curses, or other acts of transgression, have become monstrous entities themselves.
+  1. **Elemental Aberrations**: Entities born from the imbalance of natural elements like earth, fire, water, and air. They harbor chaotic and destructive tendencies.
+  2. **Astral Abominations**: Beings that dwell within the ethereal realms, often infringing upon the borders of dreams and nightmares.
+  3. **Hybrid Abominations**: Entities created through the unnatural fusion or combination of various living beings, whether they be mundane creatures or supernaturals.
+  4. **Accursed Abominations**: Individuals who, through the misuse of dark magic, curses, or other acts of transgression, have become monstrous entities themselves.
   
   V. Powers of Abominations
   The powers associated with Abominations typically reflect their origins and types. **Some common abilities include**:
   
-  1. ****Elemental manipulation****: The ability to control and manipulate natural elements.
-  2. ****Phasing****: The ability to move through or merge with solid objects.
-  3. ****Illusion and manipulation****: The power to create illusions that affect the mind, emotions, or perceptions of others.
-  4. ****Dark magic****: The ability to harness and wield malevolent energies to enact curses or other nefarious spells.
+  1. **Elemental manipulation**: The ability to control and manipulate natural elements.
+  2. **Phasing**: The ability to move through or merge with solid objects.
+  3. **Illusion and manipulation**: The power to create illusions that affect the mind, emotions, or perceptions of others.
+  4. **Dark magic**: The ability to harness and wield malevolent energies to enact curses or other nefarious spells.
   
   VI. Summoning and Banishing Procedures
   To summon and banish Abominations, students must adhere to specific procedures and rituals to ensure safety and minimize the risk of unforeseen consequences. These rituals may involve complex preparations, incorporating sigils, incantations, and offerings.
@@ -57,9 +57,9 @@ excerpt: >
   VII. Precautions and Ritual Observation
   When dealing with Abominations, always observe the following precautions and rituals:
   
-  1. ****Protection****: Surround yourself with protective sigils, talismans, or amulets to shield against potential harm.
-  2. ****Knowledge****: Gain a deep understanding of the Abomination's nature, motivations, and possible vulnerabilities to better control the interaction.
-  3. ****Boundaries****: Define and establish clear boundaries during summoning, keeping the Abomination constrained within a predetermined space.
-  4. ****Respect****: Treat the Abomination with respect and caution, as careless actions may have dangerous ramifications.
+  1. **Protection**: Surround yourself with protective sigils, talismans, or amulets to shield against potential harm.
+  2. **Knowledge**: Gain a deep understanding of the Abomination's nature, motivations, and possible vulnerabilities to better control the interaction.
+  3. **Boundaries**: Define and establish clear boundaries during summoning, keeping the Abomination constrained within a predetermined space.
+  4. **Respect**: Treat the Abomination with respect and caution, as careless actions may have dangerous ramifications.
   
   By adhering to the guidelines provided in this grimoire section, the dedicated student can safely explore the realm of Abominations, expanding the breadth of their esoteric knowledge while maintaining balance between light and dark forces.

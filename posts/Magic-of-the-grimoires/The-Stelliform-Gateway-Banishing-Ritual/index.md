@@ -95,4 +95,4 @@ Post-Ritual Purification and Consecration:
 
 2. Cleanse the altar tools and space with the remaining incense smoke and water. This will ensure that any residual dark energies are fully dispelled.
 
-Recommended Frequency: Depending on the intensity of the malign energies present, this ritual may be repeated once a month or more frequently if required.
+**Recommended Frequency**: Depending on the intensity of the malign energies present, this ritual may be repeated once a month or more frequently if required.

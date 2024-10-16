@@ -24,28 +24,28 @@ Throughout history, several notable figures have been associated with the master
 1. The Hungarian Blood Countess, Elizabeth Bathory (1560 – 1614)
 Elizabeth Bathory, sometimes called the "Blood Countess," was a Hungarian noblewoman who dabbled in the dark arts. Her methodology involved the sacrifice of young girls, with the belief that bathing in their blood would prolong her youth and beauty. The potency of her curses was said to lie in the sheer number of lives she took (allegedly around 650), granting her immense power.
 
-Motivations: Elizabeth Bathory's primary motivations were vanity and an insatiable lust for power.
+**Motivations**: Elizabeth Bathory's primary motivations were vanity and an insatiable lust for power.
 Desired Outcomes: She hoped to maintain her youth, beauty, and control over those she deemed inferior.
 Consequences: Elizabeth was eventually found guilty and confined to her castle's chambers, where she died four years later.
 
 2. Voodoo Queen Marie Laveau (1801 – 1881)
 Marie Laveau, the Voodoo Queen of New Orleans, wielded great influence over the people and used a combination of Voodoo spells, charms, and curses to exert control. Her methodology focused on invoking powerful spirits, such as Baron Samedi, to carry out her bidding.
 
-Motivations: Laveau's motivations were primarily centered on political influence and personal gain.
+**Motivations**: Laveau's motivations were primarily centered on political influence and personal gain.
 Desired Outcomes: She sought to secure and maintain her position of power while ensuring the wellbeing of her family and community.
 Consequences: Marie Laveau's legacy is marked with power and mystery. Many New Orleans residents revere her for her contributions to their culture, while others fear the consequences of any potential lingering curses.
 
 3. Aleister Crowley (1875 – 1947)
 Aleister Crowley, an influential British occultist of the early 20th century, practiced various forms of ceremonial magick. His methodology of crafting death curses involved intricate rituals and invoking demons or otherworldly forces. He was particularly known for his powerful hexes that could cause illness, madness, or death upon his enemies.
 
-Motivations: Crowley's motivations included spiritual exploration, rebellion against societal norms, and the pursuit of personal power.
+**Motivations**: Crowley's motivations included spiritual exploration, rebellion against societal norms, and the pursuit of personal power.
 Desired Outcomes: He aimed to advance his understanding of the supernatural world, enhance his power, and disprove conventional spirituality.
 Consequences: Aleister Crowley's life was filled with controversy and turmoil. Dubbed "the wickedest man in the world," he left a long-lasting mark on the world of occultism and ceremonial magick.
 
 4. The Witch of Endor (Biblical times)
 The Witch of Endor, a biblical figure mentioned in the first book of Samuel, was said to have the power to summon the dead. Her methodology involved necromancy – directly communicating with the spirits of the deceased to curse her targets.
 
-Motivations: She was possibly motivated by a desire for revenge and maintaining her influence over the living realm.
+**Motivations**: She was possibly motivated by a desire for revenge and maintaining her influence over the living realm.
 Desired outcomes: The outcomes of her death curses are not well-documented, but they likely involved weakening her enemies by disturbing their deceased loved ones.
 Consequences: Some interpretations of biblical texts suggest that the Witch of Endor died for her perceived transgressions.
 

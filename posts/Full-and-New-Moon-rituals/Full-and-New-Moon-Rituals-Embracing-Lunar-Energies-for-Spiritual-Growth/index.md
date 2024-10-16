@@ -41,13 +41,13 @@ New Moon rituals, on the other hand, emphasize intention-setting and new beginni
 
 When performing Full and New Moon rituals, the utilization of proper tools, offerings, and intentions can significantly enhance their efficacy and outcome. **Essential tools for both rituals include**:
 
-1. ****Candles****: Representing the divine light that illuminates personal and collective spiritual journeys. Full Moon rituals require a white or silver candle, symbolizing purity and lunar energy, while New Moon rituals use a black or dark candle, reflecting the shadow and potential for growth within darkness.
+1. **Candles**: Representing the divine light that illuminates personal and collective spiritual journeys. Full Moon rituals require a white or silver candle, symbolizing purity and lunar energy, while New Moon rituals use a black or dark candle, reflecting the shadow and potential for growth within darkness.
 
-2. ****Incense or essential oils****: Utilized for cleansing and purifying spaces, they also assist in invoking specific energies associated with each lunar phase. Fragrances like jasmine or rose are recommended for Full Moon rituals, while patchouli or sandalwood are fitting for New Moon rituals.
+2. **Incense or essential oils**: Utilized for cleansing and purifying spaces, they also assist in invoking specific energies associated with each lunar phase. Fragrances like jasmine or rose are recommended for Full Moon rituals, while patchouli or sandalwood are fitting for New Moon rituals.
 
-3. ****Crystals****: Chosen for their amplifying and supportive properties. Moonstone, selenite, and clear quartz work harmoniously with Full Moon energies, while obsidian, smoky quartz, and black tourmaline resonate with New Moon energies.
+3. **Crystals**: Chosen for their amplifying and supportive properties. Moonstone, selenite, and clear quartz work harmoniously with Full Moon energies, while obsidian, smoky quartz, and black tourmaline resonate with New Moon energies.
 
-4. ****Ritual tools****: Athame or wand, chalice, and cauldron represent the practical aspects of directing and containing energies during the rituals.
+4. **Ritual tools**: Athame or wand, chalice, and cauldron represent the practical aspects of directing and containing energies during the rituals.
 
 Offerings are essential for honoring the lunar deities and expressing gratitude for their assistance. Items such as flowers, fruits, grains, or tokens of personal significance can be offered during these rituals.
 

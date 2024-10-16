@@ -22,9 +22,9 @@ excerpt: >
 ---
 ## I. **Preparations**:
 
-1. ****Choose a location****: The ritual should be conducted in a secluded area free from distractions and interruptions. Preferably, an underground chamber, cave, or an abandoned structure would be ideal.
+1. **Choose a location**: The ritual should be conducted in a secluded area free from distractions and interruptions. Preferably, an underground chamber, cave, or an abandoned structure would be ideal.
 
-2. ****Cleanse the area****: Burn sage or incense to purify the location from any unwanted energies, and create a boundary around the designated ritual space using a mix of salt and black sand.
+2. **Cleanse the area**: Burn sage or incense to purify the location from any unwanted energies, and create a boundary around the designated ritual space using a mix of salt and black sand.
 
 3. **Acquire the necessary materials**:
     a. A large circle made of iron

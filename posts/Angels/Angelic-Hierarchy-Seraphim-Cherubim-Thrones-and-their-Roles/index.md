@@ -34,9 +34,9 @@ The most accurate description from the options is:
 
 In the study of angelology, there are various hierarchies and classifications of angels that have been proposed by theologians, mystics, and scholars. **One of the most widely recognized and cited hierarchies is the one proposed by the 5th-century Christian philosopher Pseudo-Dionysius the Areopagite, who categorized angels into three triads or spheres, each consisting of three orders**:
 
-1. ****First Sphere****: Seraphim, Cherubim, Thrones
-2. ****Second Sphere****: Dominions, Virtues, Powers
-3. ****Third Sphere****: Principalities, Archangels, Angels
+1. **First Sphere**: Seraphim, Cherubim, Thrones
+2. **Second Sphere**: Dominions, Virtues, Powers
+3. **Third Sphere**: Principalities, Archangels, Angels
 
 In the First Sphere of the angelic hierarchy, the Seraphim, Cherubim, and Thrones are considered to be the highest ranking and closest to the divine source.
 

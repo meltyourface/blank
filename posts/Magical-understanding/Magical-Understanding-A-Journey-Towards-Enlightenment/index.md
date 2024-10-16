@@ -35,7 +35,7 @@ One cannot harness the powers of the universe without first achieving balance be
 
 ### Chapter 3: Fundamental Elements of Successful Magical Practice
 
-Successful magical practice revolves around four main pillars: intention, focus, energy, and timing. Firstly, setting an unwavering intention provides the foothold for channeling desired outcomes. Secondly, focus pertains to the mental and emotional clarity required to funnel intent into action, unburdened by doubt or distraction. Thirdly, energy forms the crux of magical practice, with practitioners learning to manipulate ethereal, elemental, and personal energies. Lastly, timing plays a significant role as celestial cycles, lunar phases, and planetary movements can amplify or diminish the efficacy of magical workings.
+**Successful magical practice revolves around four main pillars**: intention, focus, energy, and timing. Firstly, setting an unwavering intention provides the foothold for channeling desired outcomes. Secondly, focus pertains to the mental and emotional clarity required to funnel intent into action, unburdened by doubt or distraction. Thirdly, energy forms the crux of magical practice, with practitioners learning to manipulate ethereal, elemental, and personal energies. Lastly, timing plays a significant role as celestial cycles, lunar phases, and planetary movements can amplify or diminish the efficacy of magical workings.
 
 As initiates unlock these fundamental elements, they begin to grasp the interconnectedness of the magical universe, allowing them to wield and combine these principles in a harmonious manner.
 

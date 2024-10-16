@@ -29,7 +29,7 @@ Using prime numbers, the number of beads used will be 61. In numerology, this nu
 
 Geometric Shapes:
 
-Three distinct shapes will be incorporated in the design: the tetrahedron, icosahedron, and dodecahedron. They are all sacred geometric shapes that hold specific meanings and intentions:
+**Three distinct shapes will be incorporated in the design**: the tetrahedron, icosahedron, and dodecahedron. They are all sacred geometric shapes that hold specific meanings and intentions:
 
 1. Tetrahedron: Symbolizing fire, this shape fosters personal power and balance within oneself.
 2. Icosahedron: Symbolizing water, it encourages emotional healing and deepens connections within relationships.

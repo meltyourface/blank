@@ -49,7 +49,7 @@ In alchemy, symbols are used to represent different materials, processes, and co
 
 ### 1.4 Key Components
 
-Alchemical transmutation relies on the understanding and manipulation of three principal substances: Mercury, Sulfur, and Salt. These are not the physical elements as we know them, but rather philosophical concepts that represent the various aspects of the transformation process.
+**Alchemical transmutation relies on the understanding and manipulation of three principal substances**: Mercury, Sulfur, and Salt. These are not the physical elements as we know them, but rather philosophical concepts that represent the various aspects of the transformation process.
 
 1.4.1 Mercury
 Mercury represents the fluid, volatile, and spiritual essence within all things. It is associated with the human soul and mind and has a transformative quality.

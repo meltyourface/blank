@@ -24,17 +24,17 @@ The Book of Thoth Tarot deck, designed by Aleister Crowley and executed by Lady 
 
 Key Colors & Associations:
 
-1. ****Red****: This color often symbolizes passion, strength, and determination. It appears prominently on the Chariot, Emperor, and Lust (Strength) cards. In these cards, red represents the driving force of willpower and the energy necessary to overcome obstacles.
+1. **Red**: This color often symbolizes passion, strength, and determination. It appears prominently on the Chariot, Emperor, and Lust (Strength) cards. In these cards, red represents the driving force of willpower and the energy necessary to overcome obstacles.
 
-2. ****Blue****: Blue symbolizes spirituality, wisdom, and the higher mind. It is featured heavily in cards like the High Priestess, the Moon, and the Star, denoting the development of intuition, spiritual insight, and divine guidance.
+2. **Blue**: Blue symbolizes spirituality, wisdom, and the higher mind. It is featured heavily in cards like the High Priestess, the Moon, and the Star, denoting the development of intuition, spiritual insight, and divine guidance.
 
-3. ****Yellow****: This bright color often represents intellectualism, communication, and creative energy. Found on cards such as the Magus (Magician), the Sun, and the Lovers, yellow highlights the importance of mental agility, inspiration, and synthesis of ideas within the context of these cards.
+3. **Yellow**: This bright color often represents intellectualism, communication, and creative energy. Found on cards such as the Magus (Magician), the Sun, and the Lovers, yellow highlights the importance of mental agility, inspiration, and synthesis of ideas within the context of these cards.
 
-4. ****Green****: Green is a symbol of growth, healing, and abundance. It can be seen on cards like the Empress, the Hierophant, and the Ace of Disks, symbolizing nurturance, spiritual leadership, and material prosperity.
+4. **Green**: Green is a symbol of growth, healing, and abundance. It can be seen on cards like the Empress, the Hierophant, and the Ace of Disks, symbolizing nurturance, spiritual leadership, and material prosperity.
 
-5. ****White****: Representing purity, innocence, and clarity, white features in cards like the Aces and the Universe, signifying the pure essence of each element and the interconnectedness of all things.
+5. **White**: Representing purity, innocence, and clarity, white features in cards like the Aces and the Universe, signifying the pure essence of each element and the interconnectedness of all things.
 
-Comparative Analysis: The Book of Thoth Tarot vs. **Rider-Waite Tarot**:
+**Comparative Analysis**: The Book of Thoth Tarot vs. **Rider-Waite Tarot**:
 
 Both the Book of Thoth and Rider-Waite Tarot decks employ color symbolism for enhanced interpretive depth. However, the Book of Thoth employs a more complex and intricate approach to color, informed by a wealth of occult knowledge, while Rider-Waite relies on a more streamlined, visually accessible symbolism.
 

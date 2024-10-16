@@ -26,7 +26,7 @@ The A VisionEmblemata, or "Visionary Emblems," is a collection of symbolic image
 
 In the occult tradition, the A VisionEmblemata is thought to be a repository of powerful, universal symbols that can be used to connect more deeply with the divine, the self, and the mysteries of the universe. By understanding and working with these symbols, practitioners can unlock latent potential within themselves and gain valuable insights that can be applied to their spiritual journeys and personal development.
 
-Extract from a Grimoire: The Significance of A VisionEmblemata in the Occult
+**Extract from a Grimoire**: The Significance of A VisionEmblemata in the Occult
 
 The A VisionEmblemata has a special role in the realm of esotericism and the occult, as it represents a unique bridge between the material and the spiritual worlds. Each emblem in the A VisionEmblemata is an expression of the creative force that permeates the cosmos, embodying archetypal ideas that have been contemplated and revered by mystics, philosophers, and artists throughout human history.
 

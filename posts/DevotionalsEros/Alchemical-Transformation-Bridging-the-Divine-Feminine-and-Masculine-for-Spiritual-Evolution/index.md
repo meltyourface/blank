@@ -31,7 +31,7 @@ The sacred union, known as hieros gamos in Greek or divine marriage, is a symbol
 
 Alchemy, an ancient tradition focused on the transformation of base metals into gold or the Elixir of Life, represents a spiritual art form that aims to transmute the human soul from its unrefined nature into a purified state. In this context, the process of alchemical transformation involves the reunion of the separated (often symbolized as the masculine sulphur and the feminine mercury) to create an inner balance and reach spiritual perfection, represented by the Philosopher's Stone.
 
-This transformation can be seen as occurring through three main stages: Nigredo (blackening), Albedo (whitening), and Rubedo (reddening). Nigredo signifies the process of dissolving and breaking down the existing structures and beliefs, making way for the unification of opposites. Albedo signifies purification, rising above the duality, and seeking enlightenment. Rubedo signifies the completion of the process, where inner balance and integration are achieved.
+**This transformation can be seen as occurring through three main stages**: Nigredo (blackening), Albedo (whitening), and Rubedo (reddening). Nigredo signifies the process of dissolving and breaking down the existing structures and beliefs, making way for the unification of opposites. Albedo signifies purification, rising above the duality, and seeking enlightenment. Rubedo signifies the completion of the process, where inner balance and integration are achieved.
 
 3. Integration of the Divine Feminine and Masculine Forces
 

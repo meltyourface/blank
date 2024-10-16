@@ -22,23 +22,23 @@ excerpt: >
 ---
 Welcome to this immersive guided meditation designed to explore The Sacred Rite of the Waters of the Moon. Find a quiet, comfortable space where you can sit or lie down. Take a deep breath in through your nose, exhaling through your mouth. Allow your body to relax, feeling any tension or stress melting away as if touched by the cool rays of the full moon.
 
-Phase One: Lunar Symbolism
+**Phase One**: Lunar Symbolism
 
 Visualize in your mind's eye the beautiful, full moon—a captivating silver orb, radiating a soft, silvery light that envelops all it touches. The moon is a symbol of cycles and transformation, as its phases mirror the ebb and flow of life's experiences. Feel the glow of the moon's silver aura surrounding you in a protective, loving embrace. 
 
-Phase Two: Esoteric Connections
+**Phase Two**: Esoteric Connections
 
 As you contemplate the moon's image, begin to visualize delicate, silver threads extending from the moon, connecting it to ancient mysteries, sacred sites, and the collective wisdom of countless generations. Recognize that the moon is an essential part of our spiritual heritage, a cosmic beacon guiding us through the mysteries of the night. Its gravitational pull on the tides, our emotions, and psychic abilities highlights the deep, interconnected relationship we have with this celestial body.
 
-Phase Three: Psychological Impact
+**Phase Three**: Psychological Impact
 
 Consider the psychological impact of the full moon on your inner self. The full moon illuminates both the best and the most challenging aspects of ourselves, illuminating our path and urging us toward personal growth and transformation. During this lunar phase, emotions may run high, and intuition is heightened. Allow yourself to tap into this wellspring of emotion, knowing that it can provide insight and inspiration for self-improvement.
 
-Phase Four: The Transformational Tide
+**Phase Four**: The Transformational Tide
 
 Visualize the moon's influence on the tides, its gravitational pull creating the ebb and flow of the waters. As the tide rises, envision your inner waters rising, too—old thought patterns, fears, and beliefs are washed away, while fresh insights and growth opportunities come pouring in. Embrace this transformative tide, recognizing it as the moon's sacred gift of renewal and change.
 
-Phase Five: Harnessing Lunar Potency
+**Phase Five**: Harnessing Lunar Potency
 
 The final phase of our meditation guides you to internalize the full moon's transformative energies. Visualize a silver, reflective pool of water within your heart center, and see the full moon's image perfectly reflected on its calm surface. This internal pool of lunar energy signifies that the moon's power is always available to you, transcending temporal limitations. Whenever you need guidance, strength, or inspiration, simply close your eyes and access this internal wellspring of lunar power, feeling its invigorating effects course through your entire being.
 

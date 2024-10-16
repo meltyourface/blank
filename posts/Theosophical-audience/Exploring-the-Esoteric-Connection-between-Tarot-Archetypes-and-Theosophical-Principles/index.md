@@ -27,25 +27,25 @@ Dear Aspirant,
 
 This comprehensive collection of epistles is dedicated to the meticulous exploration of the intricate connections between specific Tarot archetypes and foundational Theosophical principles. As we delve into the symbolism of each card, we shall expound on their correlations with Theosophical teachings, ultimately elucidating the profound wisdom contained within these archetypal relationships. Through this undertaking, it is my hope that both the creative dimensions and the esoteric understanding of the Tarot's underlying message, as it intertwines with Theosophy, shall be enhanced.
 
-Epistle II: The Fool and the Principle of Monad
+**Epistle II**: The Fool and the Principle of Monad
 
 Dear Aspirant,
 
 The Fool, represented as the number 0, is the starting point in the Tarot's journey. Within this card, we find a connection to the Theosophical concept of the Monad, the primary unit of life and consciousness. Just as the Monad represents the divine spark and potential within each being, the Fool embodies the infinite possibilities and beginnings of a new journey. This correlation encourages us to embrace the unknown with faith, for we are all divine Fools stepping forth from the Monad.
 
-Epistle III: The High Priestess and the Law of Karma
+**Epistle III**: The High Priestess and the Law of Karma
 
 Dear Aspirant,
 
 The High Priestess, the second Tarot card, represents intuition, mystery, and the esoteric realms. In Theosophy, we find a correlation with the Law of Karma: the universal principle by which our actions, thoughts, and intentions shape our personal destinies. The High Priestess reminds us to tap into our intuition, acknowledge our karmic patterns, and seek balance. As the guardian of spiritual truths and secrets, she beckons us into deeper understanding, allowing us to recognize the interconnectivity of our actions and their consequences.
 
-Epistle IV: The Hanged Man and Reincarnation
+**Epistle IV**: The Hanged Man and Reincarnation
 
 Dear Aspirant,
 
 The Hanged Man, the twelfth card, symbolizes surrender, sacrifice, and ultimate transformation borne out of patience and wisdom. In Theosophical teachings, this stage is reminiscent of Reincarnation, the cyclical journey of the soul through various incarnations, refining its knowledge and evolving in consciousness. The Hanged Man teaches us the importance of letting go of our worldly attachments and finding solace in our inner wisdom, akin to the Theosophical premise that each life's experiences contribute to the soul's growth and culmination toward absolute consciousness.
 
-Epistle V: Conclusion
+**Epistle V**: Conclusion
 
 Dear Aspirant,
 

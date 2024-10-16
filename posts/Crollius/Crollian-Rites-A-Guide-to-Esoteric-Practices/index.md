@@ -45,7 +45,7 @@ Each Crollian ritual involves a complex network of symbols and mystical meanings
 
 ### III. The Methodological Framework:
 
-Crollian rites follow a specific method that unfolds in distinct phases: preparation, invocation, integration, and closure. Each phase serves a unique purpose in the overall ritual practice, with the aim of creating a bridge between the practitioner and the forces they seek to commune with. It's in the careful execution of these phases that the ultimate spiritual connection is forged.
+**Crollian rites follow a specific method that unfolds in distinct phases**: preparation, invocation, integration, and closure. Each phase serves a unique purpose in the overall ritual practice, with the aim of creating a bridge between the practitioner and the forces they seek to commune with. It's in the careful execution of these phases that the ultimate spiritual connection is forged.
 
 ### IV. Crollian Tools and Techniques:
 

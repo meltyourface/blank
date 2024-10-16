@@ -23,7 +23,7 @@ The Unparalleled Visionary Tarot Spread
 
 This unique, unparalleled tarot spread is grounded in Visionary religious philosophy and focuses on the intricate interplay between spiritual growth and temporal existence. It incorporates distinct positions that elucidate the various stages of mystical awakening and their manifestations in daily life, drawing upon relevant esoteric traditions and symbolic imagery. This innovative spread contemplates past influences, present circumstances, and potential future outcomes, offering a comprehensive and profound tool for self-discovery and spiritual enlightenment.
 
-Layout: The Unparalleled Visionary Spread consists of 11 cards, composed in the shape of the mystical Tree of Life. The layout represents a balance between the physical and spiritual realms, allowing the Querent to explore connections between their spiritual journey and daily life experiences.
+**Layout**: The Unparalleled Visionary Spread consists of 11 cards, composed in the shape of the mystical Tree of Life. The layout represents a balance between the physical and spiritual realms, allowing the Querent to explore connections between their spiritual journey and daily life experiences.
 
 1. **The Roots**: Past influences and karmic ties that have shaped your spiritual journey thus far.
 2. **The Trunk**: Your general spiritual path or approach to spiritual growth.

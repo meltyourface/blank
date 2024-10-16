@@ -24,19 +24,19 @@ As a text-based AI, I am unable to create visual designs directly. Nevertheless,
 1. The Crescent Horn
 Symbolism: This sigil represents the lunar connection aspect of the Horned deity, melded in harmony with the animal kingdom. The design consists of two crescent moons, merging together to form the silhouette of a horned beast.
 
-Visual Style: The crescents are embellished with intricate linework, resembling fur and animalistic patterns, denoting the interconnected relationship between the deity, the Moon, and creatures of the Earth.
+**Visual Style**: The crescents are embellished with intricate linework, resembling fur and animalistic patterns, denoting the interconnected relationship between the deity, the Moon, and creatures of the Earth.
 
 2. The Fertility Flower
 Symbolism: This sigil honors the fertility aspect of the Horned deity. The design incorporates a blooming flower, from which a pair of antler-like branches arise, evoking growth, abundance, and the cycle of life.
 
-Visual Style: The flower petals alternate with various symbols of fecundity such as seeds, eggs, and fruits, infused with delicate lines, veining, and spirals indicative of the myriad forms of life.
+**Visual Style**: The flower petals alternate with various symbols of fecundity such as seeds, eggs, and fruits, infused with delicate lines, veining, and spirals indicative of the myriad forms of life.
 
 3. The Seasonal Wheel
 Symbolism: This sigil is centered around the seasonal cycles and the Horned deity's aspect as a guardian of the changing seasons. The design consists of a wheel divided into four sections, each representing a phase of the solar cycle: spring, summer, autumn, and winter.
 
-Visual Style: Surrounding the wheel is an intricate border of interwoven natural elements corresponding to the four seasons. Leaves, flowers, fruits, and icicles are intertwined to create a sense of unity, highlighting the deity's role in overseeing the flow of life, death, and rebirth.
+**Visual Style**: Surrounding the wheel is an intricate border of interwoven natural elements corresponding to the four seasons. Leaves, flowers, fruits, and icicles are intertwined to create a sense of unity, highlighting the deity's role in overseeing the flow of life, death, and rebirth.
 
-Hidden Elements: Throughout these three sigils, various hidden symbols can be incorporated. These include the following:
+**Hidden Elements**: Throughout these three sigils, various hidden symbols can be incorporated. These include the following:
 - A series of intertwined knots, subtly woven into the linework, which when joined together form the outline of a larger horned figure.
 - Small crescents, disguised within the patterns and designs, that connect to form the full moon when all the sigils are combined.
 - Hidden figures of animals in various poses that, when united, also represent the diverse aspects of the Horned God.

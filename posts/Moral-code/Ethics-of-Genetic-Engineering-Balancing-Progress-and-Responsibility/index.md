@@ -63,11 +63,11 @@ Groundbreaking discoveries in genetic engineering have raised a multitude of eth
 
 ### IV. Assessment of the Moral Framework through Historical and Contemporary Philosophical Theories
 
-1. ****Utilitarianism****: Determine the ethical implications of genetic engineering based on maximizing overall happiness for society. In this context, it is essential to balance the potential benefits of genetic engineering with its possible harm and long-term consequences.
+1. **Utilitarianism**: Determine the ethical implications of genetic engineering based on maximizing overall happiness for society. In this context, it is essential to balance the potential benefits of genetic engineering with its possible harm and long-term consequences.
 
-2. ****Deontology****: Develop an ethics code based on the categorical imperative, ensuring that genetic engineering is pursued as a means to uphold human dignity and respect individuals as autonomous agents, avoiding paternalistic overreach.
+2. **Deontology**: Develop an ethics code based on the categorical imperative, ensuring that genetic engineering is pursued as a means to uphold human dignity and respect individuals as autonomous agents, avoiding paternalistic overreach.
 
-3. ****Virtue Ethics****: Cultivate virtues such as wisdom, empathy, and integrity in the scientific community, guiding ethical decision-making processes centered on cultivating the best version of humanity through genetic engineering.
+3. **Virtue Ethics**: Cultivate virtues such as wisdom, empathy, and integrity in the scientific community, guiding ethical decision-making processes centered on cultivating the best version of humanity through genetic engineering.
 
 ### V. Actionable Guidelines
 

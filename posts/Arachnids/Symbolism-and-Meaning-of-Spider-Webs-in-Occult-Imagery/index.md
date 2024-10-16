@@ -26,7 +26,7 @@ The intricate patterns found in spider webs
 
 In the realm of the occult, arachnids represent transformation, mystery, and the cyclical nature of life and death. The intricate patterns found in spider webs can be directly connected to their symbolical significance as these webs embody complex architecture and beauty. While the other options also hold associations with arachnids, the spider web directly connects to their esoteric meaning.
 
-The symbolism of the web is twofold: it can both portray the spider's home and a trap for the others. This duality reflects the mysteries of life and death as well as the concept of cause and effect through action and consequence. The web is woven with skill and intention, much like the patterns of our lives and our ability to create and transform.
+**The symbolism of the web is twofold**: it can both portray the spider's home and a trap for the others. This duality reflects the mysteries of life and death as well as the concept of cause and effect through action and consequence. The web is woven with skill and intention, much like the patterns of our lives and our ability to create and transform.
 
 The web also represents interconnectedness, as it shows the relationships between points within the web and the interplay between nature, artistry, and skill. The idea of interconnectedness echoes the concept of global consciousness and the interplay of all living beings within the cycle of life.
 

@@ -22,7 +22,7 @@ excerpt: Craft a comprehensive guided visualization experience specifically desi
 
 ## The Journey of Inner Resilience
 
-Background Soundtrack: The background music will feature a gentle blend of soothing nature sounds, including a soft breeze rustling leaves, a distant babbling brook, and the calming resonance of birdsong intertwined with gentle instrumental music to enhance focus and relaxation.
+**Background Soundtrack**: The background music will feature a gentle blend of soothing nature sounds, including a soft breeze rustling leaves, a distant babbling brook, and the calming resonance of birdsong intertwined with gentle instrumental music to enhance focus and relaxation.
 
 Introduction (2 minutes):
 Begin by finding a comfortable position sitting or lying down. Close your eyes and take a few deep breaths, inhaling for a count of four and exhaling for a count of six. Visualize your body becoming surrounded by a warm, golden light, emanating from your core and expanding around you. Allow this light to envelop you, creating a sense of comfort, stability, and groundedness within and around you. You are now ready to embark on your journey of inner resilience.

@@ -36,11 +36,11 @@ The Elixir of Eldritch Empowerment is intended to heighten the imbiber's magical
 2. **Arcane Ingredients**:
 To create this potent elixir, the following rare and arcane ingredients must be obtained:
 
-a. ****Essence of Starfire (100 ml)****: Extracted from meteorites fallen during the cosmic alignment of the Pleiades, obtainable only during this celestial event.
-b. ****Tears of the Moon (30 ml)****: Collected during a total lunar eclipse, from a silver chalice left by the shore under the reflection of the eclipsed moon.
-c. ****Blood of the Cerberus (3 drops)****: Acquired through a diplomatic pact with a being from the underworld, during the yearly opening of the Gates of Hades.
-d. ****Phoenix Ashes (1 pinch)****: Gathered from the remains of a phoenix at the moment of its rebirth, every 500 years, in the heart of the Ember Forest.
-e. ****Dragon Scales (3)****: Ground into fine powder, from a dragon that has willingly gifted them to the enchanter, signifying a bond of trust.
+a. **Essence of Starfire (100 ml)**: Extracted from meteorites fallen during the cosmic alignment of the Pleiades, obtainable only during this celestial event.
+b. **Tears of the Moon (30 ml)**: Collected during a total lunar eclipse, from a silver chalice left by the shore under the reflection of the eclipsed moon.
+c. **Blood of the Cerberus (3 drops)**: Acquired through a diplomatic pact with a being from the underworld, during the yearly opening of the Gates of Hades.
+d. **Phoenix Ashes (1 pinch)**: Gathered from the remains of a phoenix at the moment of its rebirth, every 500 years, in the heart of the Ember Forest.
+e. **Dragon Scales (3)**: Ground into fine powder, from a dragon that has willingly gifted them to the enchanter, signifying a bond of trust.
 
 3. **Ritualistic Methodology**:
 The process to brew the Elixir of Eldritch Empowerment requires utmost precision and adherence to the following steps:
@@ -64,6 +64,6 @@ c. A jeweled chalice with inscriptions from the Book of Shadows, to ceremonially
 5. **Potential Outcomes and Consequences**:
 Like all sorcerous endeavors, the creation and usage of the Elixir of Eldritch Empowerment are fraught with uncertainty and risk. **Three possible dichotomous outcomes include**:
 
-a. ****Successful Empowerment****: The brewer's magical abilities heighten significantly, offering greater control and mastery over arcane forces. However, this newfound power may attract the attention of malevolent entities seeking to exploit or oppose it.
-b. ****Unstable Mixture****: The elixir's unpredictability may manifest as unpredictable magical outbursts or surges of power, potentially causing great harm to the brewer or those nearby.
-c. ****Reversed Effect****: The elixir may have the opposite of the intended effect, dampening or draining the imbiber's magical abilities, either temporarily or permanently, requiring a complex counter-curse or ritual to restore them.
+a. **Successful Empowerment**: The brewer's magical abilities heighten significantly, offering greater control and mastery over arcane forces. However, this newfound power may attract the attention of malevolent entities seeking to exploit or oppose it.
+b. **Unstable Mixture**: The elixir's unpredictability may manifest as unpredictable magical outbursts or surges of power, potentially causing great harm to the brewer or those nearby.
+c. **Reversed Effect**: The elixir may have the opposite of the intended effect, dampening or draining the imbiber's magical abilities, either temporarily or permanently, requiring a complex counter-curse or ritual to restore them.

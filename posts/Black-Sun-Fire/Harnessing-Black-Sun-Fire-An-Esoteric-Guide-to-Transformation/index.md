@@ -36,13 +36,13 @@ In order to effectively harness and utilize Black Sun Fire in one's own esoteric
 
 To harness Black Sun Fire, students should follow these steps:
 
-1. ****Shadow Work****: Engage in self-examination and confront your fears, insecurities, past traumas, and unacknowledged desires. This can be achieved through various methods, such as meditation, journaling, dream work, and therapy.
+1. **Shadow Work**: Engage in self-examination and confront your fears, insecurities, past traumas, and unacknowledged desires. This can be achieved through various methods, such as meditation, journaling, dream work, and therapy.
 
-2. ****Energy Cultivation****: Develop a daily practice that includes pranayama (breath control), qi gong, or other energy cultivation techniques to refine and strengthen your personal energy flow.
+2. **Energy Cultivation**: Develop a daily practice that includes pranayama (breath control), qi gong, or other energy cultivation techniques to refine and strengthen your personal energy flow.
 
-3. ****Visualization and Meditation****: Consistently practice visualizing Black Sun Fire as a potent, dark energy emanating from your core and encompassing your entire being. Use meditation to connect with this energy and explore its depths.
+3. **Visualization and Meditation**: Consistently practice visualizing Black Sun Fire as a potent, dark energy emanating from your core and encompassing your entire being. Use meditation to connect with this energy and explore its depths.
 
-4. ****Ritual Practice****: Incorporate Black Sun Fire into your magical and ritual work by invoking it during spell casting, ceremonial magic, or other rituals that call for deep transformation and change.
+4. **Ritual Practice**: Incorporate Black Sun Fire into your magical and ritual work by invoking it during spell casting, ceremonial magic, or other rituals that call for deep transformation and change.
 
 ### IV. Precautions and Safety
 

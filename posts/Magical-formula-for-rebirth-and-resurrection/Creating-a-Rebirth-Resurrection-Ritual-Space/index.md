@@ -21,7 +21,7 @@ excerpt: >
 ---
   I. Preparation
   
-  1. ****Select a suitable location****: Choose a spot with strong natural energy, such as an intersection of ley lines, the crest of a mountain, the heart of a dense forest, or near a river where energy flows in abundance.
+  1. **Select a suitable location**: Choose a spot with strong natural energy, such as an intersection of ley lines, the crest of a mountain, the heart of a dense forest, or near a river where energy flows in abundance.
   
   2. Determine the optimal time for the ritual by identifying the alignments of celestial bodies such as the sun, moon, planets, and stars, which will create a harmonious and auspicious space.
   

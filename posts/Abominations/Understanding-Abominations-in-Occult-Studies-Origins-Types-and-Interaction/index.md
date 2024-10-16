@@ -33,21 +33,21 @@ Types of Abominations
 
 Abominations can manifest in many different forms and possess a wide array of abilities. **Some of the most common types include**:
 
-1. ****Chthonic Beings****: Primordial entities associated with the Earth, they are inherently destructive and chaotic. Often depicted as monstrous creatures with serpentine or tentacled appendages, chthonic abominations seek to bring chaos and strife into the world.
+1. **Chthonic Beings**: Primordial entities associated with the Earth, they are inherently destructive and chaotic. Often depicted as monstrous creatures with serpentine or tentacled appendages, chthonic abominations seek to bring chaos and strife into the world.
 
-2. ****Interdimensional Entities****: Beings from alternate dimensions or realities, these abominations possess otherworldly knowledge and incomprehensible powers. They may appear as humanoid, monstrous, or wholly alien in form.
+2. **Interdimensional Entities**: Beings from alternate dimensions or realities, these abominations possess otherworldly knowledge and incomprehensible powers. They may appear as humanoid, monstrous, or wholly alien in form.
 
-3. ****Demons and Spirits****: Often called upon by practitioners of the occult for their knowledge or abilities, demonic abominations vary significantly in power and appearance. They may manifest as seductive fiends or grotesque monstrosities with malicious intent.
+3. **Demons and Spirits**: Often called upon by practitioners of the occult for their knowledge or abilities, demonic abominations vary significantly in power and appearance. They may manifest as seductive fiends or grotesque monstrosities with malicious intent.
 
 Roles Within the Occult
 
 Abominations serve a number of different roles within the study of the occult:
 
-1. ****Sources of Knowledge****: By invoking or making contact with abominations, some occultists believe they can gain forbidden knowledge about the universe, magic, or other arcane topics.
+1. **Sources of Knowledge**: By invoking or making contact with abominations, some occultists believe they can gain forbidden knowledge about the universe, magic, or other arcane topics.
 
-2. ****Manifestations of Fear****: The appearance and actions of abominations often reflect humanity's primal fears and anxieties, making them potent symbols of mental or emotional turmoil.
+2. **Manifestations of Fear**: The appearance and actions of abominations often reflect humanity's primal fears and anxieties, making them potent symbols of mental or emotional turmoil.
 
-3. ****Agents of Chaos****: Abominations serve as powerful agents of chaos and destruction, often being invoked or summoned to disrupt or annihilate enemies of the practitioner.
+3. **Agents of Chaos**: Abominations serve as powerful agents of chaos and destruction, often being invoked or summoned to disrupt or annihilate enemies of the practitioner.
 
 Examples of Abominations in History
 
@@ -57,20 +57,20 @@ Guidance on Utilizing and Interacting with Abominations
 
 It is crucial for any student of the occult to approach dealings with abominations with utmost caution. **Below are some guidelines on how to safely interact with these powerful entities**:
 
-1. ****Understand Their Nature****: Research and develop a foundational understanding of the specific abomination you wish to interact with. Knowledge of their desires and their mythological context will aid in establishing a connection.
+1. **Understand Their Nature**: Research and develop a foundational understanding of the specific abomination you wish to interact with. Knowledge of their desires and their mythological context will aid in establishing a connection.
 
-2. ****Establish Boundaries****: When summoning or invoking an abomination, set clear limits to the interaction, and ensure they understand the constraints placed upon them.
+2. **Establish Boundaries**: When summoning or invoking an abomination, set clear limits to the interaction, and ensure they understand the constraints placed upon them.
 
-3. ****Protection****: Utilize protective wards and talismans to guard against the potentially devastating consequences of direct contact with an abomination.
+3. **Protection**: Utilize protective wards and talismans to guard against the potentially devastating consequences of direct contact with an abomination.
 
 Possible Rituals and Summoning Methods
 
 While specific rituals and summoning methods for contacting abominations may differ, several general principles can be used to develop a personalized approach:
 
-1. ****Invocation****: Start by invoking the entity through spoken invocations or ritual chanting, drawing upon traditional incantations and verbal expressions designed to grab the abomination's attention.
+1. **Invocation**: Start by invoking the entity through spoken invocations or ritual chanting, drawing upon traditional incantations and verbal expressions designed to grab the abomination's attention.
 
-2. ****Offerings****: Present the abomination with offerings to gain their favor, which may include material objects, sacrifices, or even abstract concepts like loyalty or the promise of knowledge.
+2. **Offerings**: Present the abomination with offerings to gain their favor, which may include material objects, sacrifices, or even abstract concepts like loyalty or the promise of knowledge.
 
-3. ****Ritual Space****: Designate a specific location for the summoning ritual, often imbued with symbolic representations of the abomination's nature or aligned with suitable astrological phenomena.
+3. **Ritual Space**: Designate a specific location for the summoning ritual, often imbued with symbolic representations of the abomination's nature or aligned with suitable astrological phenomena.
 
 By understanding the origins, types, and roles of abominations within the occult, as well as how to interact ethically and safely with these powerful beings, students can expand their knowledge and further their studies in this fascinating and dangerous area of the esoteric.

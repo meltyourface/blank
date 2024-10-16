@@ -23,7 +23,7 @@ excerpt: >
 
 ## Title: Ritual for Reinstating Equilibrium and Control after Involuntary Possession or Channeling
 
-Objective: To assist individuals who have experienced involuntary possession or channeling in regaining control, reestablishing equilibrium, and alleviating residual energetic disturbances.
+**Objective**: To assist individuals who have experienced involuntary possession or channeling in regaining control, reestablishing equilibrium, and alleviating residual energetic disturbances.
 
 Preparatory Steps:
 

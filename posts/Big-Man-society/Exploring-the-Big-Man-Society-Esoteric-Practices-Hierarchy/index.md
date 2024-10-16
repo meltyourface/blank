@@ -39,11 +39,11 @@ At its foundation, the Big Man Society embraces a belief in the interconnectedne
 
 The Big Man society has a hierarchical structure, with several ranks and roles depending on a member's experience, mastery, and dedication to the society's goals. **Each rank comes with its own responsibilities, tasks, and rituals necessary for progression. Some of the key ranks and roles include**:
 
-1. ****Novice****: The entry-level rank, focusing on the fundamentals of the society's beliefs and practices.
-2. ****Adept****: A more advanced rank, where members receive deeper esoteric teachings and knowledge.
-3. ****Mentor****: A role where adepts who have shown exceptional wisdom and proficiency take on the responsibility of guiding and instructing novices.
-4. ****High Adept****: A higher level where members have amassed exceptional knowledge and are entrusted with the secrets of the society's most powerful rituals and practices.
-5. ****Elder****: The highest rank within the Big Man Society. Elders oversee the functioning of the organization and possess the authority to confer new teachings and modify existing practices.
+1. **Novice**: The entry-level rank, focusing on the fundamentals of the society's beliefs and practices.
+2. **Adept**: A more advanced rank, where members receive deeper esoteric teachings and knowledge.
+3. **Mentor**: A role where adepts who have shown exceptional wisdom and proficiency take on the responsibility of guiding and instructing novices.
+4. **High Adept**: A higher level where members have amassed exceptional knowledge and are entrusted with the secrets of the society's most powerful rituals and practices.
+5. **Elder**: The highest rank within the Big Man Society. Elders oversee the functioning of the organization and possess the authority to confer new teachings and modify existing practices.
 
 ### IV. **Practices and Rituals**:
 

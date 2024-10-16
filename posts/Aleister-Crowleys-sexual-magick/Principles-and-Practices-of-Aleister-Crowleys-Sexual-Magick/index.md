@@ -26,7 +26,7 @@ Introduction
 
 Aleister Crowley's sexual magick is a unique and transformative branch of the Western Esoteric Tradition, centered on harnessing the immense power of sexual energy to attain heightened states of consciousness, spiritual growth, and personal transformation. As a student embarking on the study and practice of this powerful system, it is essential to grasp the foundational concepts, techniques, and rituals associated with it.
 
-Will and Intention: The Key Drivers of Sexual Magick
+**Will and Intention**: The Key Drivers of Sexual Magick
 
 At the heart of sexual magick lies the concept of Will and Intention, which derive from Crowley's doctrine, "Do what thou wilt shall be the whole of the Law." This principle emphasizes that every individual possesses a unique divine purpose or True Will, and the realization of this Will leads to personal fulfillment and spiritual development.
 

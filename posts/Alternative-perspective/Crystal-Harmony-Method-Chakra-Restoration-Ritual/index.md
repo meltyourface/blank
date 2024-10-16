@@ -26,23 +26,23 @@ The Crystal Harmony Method is a comprehensive chakra restoration ritual that inc
 
 ### I. **Preparation**:
 1. Set up a quiet, comfortable, and clean space for the ritual.
-2. ****Gather the necessary materials****: crystals, sage or incense, and a comfortable surface to lie on.
+2. **Gather the necessary materials**: crystals, sage or incense, and a comfortable surface to lie on.
 3. Clear the energy of the space and your crystals by smudging with sage or incense.
 
 ### II. **Crystal Selection**:
-1. ****Root Chakra (Muladhara) - Red Jasper****: This grounding crystal stimulates vitality and stability while promoting a deep connection to the Earth, which helps to balance and restore the Root Chakra.
+1. **Root Chakra (Muladhara) - Red Jasper**: This grounding crystal stimulates vitality and stability while promoting a deep connection to the Earth, which helps to balance and restore the Root Chakra.
    
-2. ****Sacral Chakra (Svadhisthana) - Carnelian****: Known for its sensual energies and creative impulses, Carnelian can help restore balance to the Sacral Chakra, opening up emotional well-being and pleasure.
+2. **Sacral Chakra (Svadhisthana) - Carnelian**: Known for its sensual energies and creative impulses, Carnelian can help restore balance to the Sacral Chakra, opening up emotional well-being and pleasure.
    
-3. ****Solar Plexus Chakra (Manipura) - Citrine****: This powerful crystal aids in personal power and self-esteem, harmonizing the Solar Plexus Chakra for optimal courage and decisiveness.
+3. **Solar Plexus Chakra (Manipura) - Citrine**: This powerful crystal aids in personal power and self-esteem, harmonizing the Solar Plexus Chakra for optimal courage and decisiveness.
    
-4. ****Heart Chakra (Anahata) - Rose Quartz****: The quintessential crystal for unconditional love, Rose Quartz can help to heal any emotional wounds and encourage an open and loving Heart Chakra.
+4. **Heart Chakra (Anahata) - Rose Quartz**: The quintessential crystal for unconditional love, Rose Quartz can help to heal any emotional wounds and encourage an open and loving Heart Chakra.
    
-5. ****Throat Chakra (Vishuddha) - Sodalite****: Known for its ability to aid in communication and self-expression, Sodalite brings harmony to the Throat Chakra, promoting truth and consistency in one's speech.
+5. **Throat Chakra (Vishuddha) - Sodalite**: Known for its ability to aid in communication and self-expression, Sodalite brings harmony to the Throat Chakra, promoting truth and consistency in one's speech.
    
-6. ****Third Eye Chakra (Ajna) - Amethyst****: This spiritual crystal is well known for enhancing psychic abilities and intuition, which helps to balance and open the Third Eye Chakra.
+6. **Third Eye Chakra (Ajna) - Amethyst**: This spiritual crystal is well known for enhancing psychic abilities and intuition, which helps to balance and open the Third Eye Chakra.
    
-7. ****Crown Chakra (Sahasrara) - Clear Quartz****: The master healer, Clear Quartz can amplify and harmonize all other energy centers, making it an essential addition when working with the Crown Chakra.
+7. **Crown Chakra (Sahasrara) - Clear Quartz**: The master healer, Clear Quartz can amplify and harmonize all other energy centers, making it an essential addition when working with the Crown Chakra.
 
 ### III. **Crystal Placement and Alignment**:
 1. Before you begin, ensure that your body is in a relaxed, supine position.

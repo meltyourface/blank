@@ -24,9 +24,9 @@ To summon and ensnare a maleficent wraith for the purpose of communing with and 
 
 Preparatory Measures:
 
-1. ****Collection of mystical reagents****: A variety of reagents are required for the invocation. These include the ashes of a deceased loved one or someone to whom the deceased was close, a vial of raven's blood, bone powder from the remains of the deceased, the petals of a dark rose, and a candle scented with a blend of necromantic herbs such as wormwood, mandrake, and henbane.
+1. **Collection of mystical reagents**: A variety of reagents are required for the invocation. These include the ashes of a deceased loved one or someone to whom the deceased was close, a vial of raven's blood, bone powder from the remains of the deceased, the petals of a dark rose, and a candle scented with a blend of necromantic herbs such as wormwood, mandrake, and henbane.
 
-2. ****Crafting of a sanctified binding circle****: A silver-chalk circle is used to bind the wraith to the physical plane, inscribed with runes and sigils that provide a protective barrier and enhance the strength of the rite. The base of the circle should be drawn with the ashes of the deceased loved one, mixed with the raven's blood to make a thick paste. Then, draw a series of interlocking seals and sigils in skilled and precise strokes of the silver chalk, taking care to continuously maintain focus on the purpose of the rite.
+2. **Crafting of a sanctified binding circle**: A silver-chalk circle is used to bind the wraith to the physical plane, inscribed with runes and sigils that provide a protective barrier and enhance the strength of the rite. The base of the circle should be drawn with the ashes of the deceased loved one, mixed with the raven's blood to make a thick paste. Then, draw a series of interlocking seals and sigils in skilled and precise strokes of the silver chalk, taking care to continuously maintain focus on the purpose of the rite.
 
 Ancient Verbal Incantations and Somatic Gestures:
 
@@ -40,10 +40,10 @@ Ancient Verbal Incantations and Somatic Gestures:
 
 Potential Outcomes and Risks:
 
-1. ****Unanticipated encounters with malevolent entities****: It is possible that hostile or unwanted spirits may be drawn to the dark energies of the ritual. The sanctified binding circle will generally provide protection, but you must remain vigilant and close the ritual immediately if sensed any malevolent presence outside the circle. 
+1. **Unanticipated encounters with malevolent entities**: It is possible that hostile or unwanted spirits may be drawn to the dark energies of the ritual. The sanctified binding circle will generally provide protection, but you must remain vigilant and close the ritual immediately if sensed any malevolent presence outside the circle. 
 
-2. ****Repercussions of unbinding the wraith****: Abrupt dismissal or failure to contain the wraith can have disastrous consequences, including spiritual backlash, possession, or prolonged haunting. It is essential to unbind the wraith properly after the ritual. Slowly reverse the initial incantation and gestures, sealing the wraith's energy back within the bones and ashes. Carefully collect the remains and bury or store them in a consecrated space, ensuring their containment.
+2. **Repercussions of unbinding the wraith**: Abrupt dismissal or failure to contain the wraith can have disastrous consequences, including spiritual backlash, possession, or prolonged haunting. It is essential to unbind the wraith properly after the ritual. Slowly reverse the initial incantation and gestures, sealing the wraith's energy back within the bones and ashes. Carefully collect the remains and bury or store them in a consecrated space, ensuring their containment.
 
-3. ****Ensuring a controlled communion with the deceased's spirit****: Prepare a series of questions and requests beforehand, directing your full intention and focus on the desired outcomes. Establish strict boundaries and expectations with the wraith, using your willpower to command its cooperation. Remember, the success of the ritual relies on the balance of power and respect given to the spirit realm.
+3. **Ensuring a controlled communion with the deceased's spirit**: Prepare a series of questions and requests beforehand, directing your full intention and focus on the desired outcomes. Establish strict boundaries and expectations with the wraith, using your willpower to command its cooperation. Remember, the success of the ritual relies on the balance of power and respect given to the spirit realm.
 
 Summoning and ensnaring a maleficent wraith can result in accessing invaluable arcane wisdom or life-changing experiences. However, it is paramount to perform this rite with complete mastery, as even a single error can have dire consequences. Always approach the unknown with humility and respect, seeking deeper understanding, and harnessing the full potential of your craft.

@@ -41,7 +41,7 @@ African Spirit Pots and Their Development
 
 In African societies such as the Yoruba, Akan, and Edo, Spirit Pots continued to play a central role in their religious and spiritual practices. Among the Yoruba people of present-day Nigeria and Benin, Spirit Pots, known as "igba aje" or "ogun", were used in rituals to honor ancestors, gods, and goddesses. These pots were customarily made from terracotta or metal, with specific designs and symbols representing the resident spirits or deities.
 
-Healing and Divination: Spirit Pots in Asian and Native American Cultures
+**Healing and Divination**: Spirit Pots in Asian and Native American Cultures
 
 Spirit Pots were also integral to Shamanic practices in Siberian and Native American cultures. Siberian shamans, for example, crafted wooden Spirit Pots adorned with symbols and animal carvings to represent the spirits and energies they aimed to summon during healing rituals and divination practices. Native American shamans employed Spirit Pots fashioned from gourds, clay, and stone as a means of connecting with the spirit world for guidance, healing, and protection.
 

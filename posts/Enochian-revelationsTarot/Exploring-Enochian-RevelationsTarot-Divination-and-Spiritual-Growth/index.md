@@ -41,11 +41,11 @@ The Enochian script enhances the mystical symbolism of the Tarot by adding an ad
 
 By embracing the Enochian script, Tarot readers open themselves to a holistic approach that incorporates the vibrational frequencies of Enochian angels, the spiritual forces that represent divine will. This unique synergy between the Enochian and Tarot systems enriches divination and spiritual exploration, allowing for a transcendental experience that surpasses mere intellectual understanding.
 
-### III. ****Key Symbols and Meanings****: Major and Minor Arcana
+### III. **Key Symbols and Meanings**: Major and Minor Arcana
 
-Major Arcana: The 22 major arcana cards represent significant life lessons and archetypal energies. Each of these cards embodies an Enochian angel associated with a specific spiritual lesson and energy. For example, "The Fool" is connected with the Enochian angel Madimi, signifying the beginning of a spiritual journey.
+**Major Arcana**: The 22 major arcana cards represent significant life lessons and archetypal energies. Each of these cards embodies an Enochian angel associated with a specific spiritual lesson and energy. For example, "The Fool" is connected with the Enochian angel Madimi, signifying the beginning of a spiritual journey.
 
-Minor Arcana: The 56 minor arcana cards are divided into four suits, each representing an element (Fire, Water, Air, and Earth) and linked to the four Watchtowers of the Enochian tradition. The minor arcana cards hold the Enochian script and symbols within their elemental associations, which deepens the insights drawn from these cards. Each suit, or elemental association, is comprised of numbered cards (Ace to 10), as well as court cards (Page, Knight, Queen, and King).
+**Minor Arcana**: The 56 minor arcana cards are divided into four suits, each representing an element (Fire, Water, Air, and Earth) and linked to the four Watchtowers of the Enochian tradition. The minor arcana cards hold the Enochian script and symbols within their elemental associations, which deepens the insights drawn from these cards. Each suit, or elemental association, is comprised of numbered cards (Ace to 10), as well as court cards (Page, Knight, Queen, and King).
 
 ### IV. Practical Applications for Spiritual Growth and Divination
 

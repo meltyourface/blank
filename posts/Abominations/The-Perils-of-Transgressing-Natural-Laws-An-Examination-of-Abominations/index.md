@@ -28,7 +28,7 @@ Concepts: Unnatural creation, man playing God, the limits of human understanding
 
 The Homunculus is an artificial human whose creation is borne from human effort, often involving alchemical processes or other esoteric means. This Abomination represents humanity's inclination to tamper with the natural order and try to assume the role of a higher power - a role often attributed to deities. By attempting to create life, humans transgress the spiritual division between the creator and the created.
 
-The danger here is twofold: firstly, the presumption that humans possess the wisdom and understanding required to replicate the process of creation and control life can lead to unpredictable and potentially disastrous consequences. Secondly, this arrogance may also foster a feeling of hubris that allows individuals to place their desires above natural and moral laws.
+**The danger here is twofold**: firstly, the presumption that humans possess the wisdom and understanding required to replicate the process of creation and control life can lead to unpredictable and potentially disastrous consequences. Secondly, this arrogance may also foster a feeling of hubris that allows individuals to place their desires above natural and moral laws.
 
 2) Chimeras: Hybrid Monstrosities
 Concepts: Fusion of incompatible elements, imbalance, corruption of the natural order

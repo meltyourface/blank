@@ -43,12 +43,12 @@ Practical Examples of Visualization Techniques
 
 Guhyasamaja Tantra practices often involve visualizing oneself as the primary deity, accompanied by a divine consort. This visualization aims to evoke the energies of both compassion (masculine) and wisdom (feminine). The complexity of these visualizations necessitates extensive instruction from a qualified master, ensuring the practitioner's precision and accuracy.
 
-Sacred Mandalas: Guhyasamaja Tantra features intricate mandalas, depicting deities arranged in concentric circles. These geometric compositions purify the practitioner's environment and act as a blueprint for spiritual awakening.
+**Sacred Mandalas**: Guhyasamaja Tantra features intricate mandalas, depicting deities arranged in concentric circles. These geometric compositions purify the practitioner's environment and act as a blueprint for spiritual awakening.
 
 Microcosm and Macrocosm
 
 The Guhyasamaja Tantra accords great importance to the interplay between microcosm (the individual) and macrocosm (the universe). Practitioners learn to harness subtle energies, aligning their energy channels (nadis), subtle winds (pranas), and focal points (bindus) to promote spiritual awakening.
 
-Transformational Potential: Lastly, the Guhyasamaja Tantra elucidates the profound potential for spiritual transformation, attainable through the integration of method, wisdom, and esoteric techniques. Through diligent practice, the aspirant ultimately accesses divine bliss, shedding the shackles of cyclic existence to attain ultimate liberation.
+**Transformational Potential**: Lastly, the Guhyasamaja Tantra elucidates the profound potential for spiritual transformation, attainable through the integration of method, wisdom, and esoteric techniques. Through diligent practice, the aspirant ultimately accesses divine bliss, shedding the shackles of cyclic existence to attain ultimate liberation.
 
 In conclusion, the Guhyasamaja Tantra stands as a seminal text within the esoteric and occult Tantra traditions, with its intricate symbolism, profound meditative practices, and multifaceted philosophical aspects. Offering a wealth of transformative potential, this sacred scripture calls upon earnest seekers to embark upon the wondrous journey towards ultimate enlightenment.

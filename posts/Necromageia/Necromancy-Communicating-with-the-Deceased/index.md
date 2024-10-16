@@ -32,9 +32,9 @@ Key Principles
 
 Several key principles underpin Necromageia, which distinguishes it from other occult practices:
 
-1. ****Connection to the deceased****: Necromageia deals with communion and interaction with the spirits of the dead, through various channels such as evocation, invocation, or divination.
-2. ****Manipulation of life force****: This practice embraces the concept that living energy can be harnessed, channeled, and transformed for various purposes, including healing, protection, and empowerment.
-3. ****Ethical considerations****: Necromancers are often viewed as practitioners of "black magic" due to their dealings with spirits of the dead. Nevertheless, a responsible practitioner of Necromageia should maintain a strong moral compass, recognizing the potential harm and dangers involved in their activities.
+1. **Connection to the deceased**: Necromageia deals with communion and interaction with the spirits of the dead, through various channels such as evocation, invocation, or divination.
+2. **Manipulation of life force**: This practice embraces the concept that living energy can be harnessed, channeled, and transformed for various purposes, including healing, protection, and empowerment.
+3. **Ethical considerations**: Necromancers are often viewed as practitioners of "black magic" due to their dealings with spirits of the dead. Nevertheless, a responsible practitioner of Necromageia should maintain a strong moral compass, recognizing the potential harm and dangers involved in their activities.
 
 Ethical Considerations
 
@@ -44,10 +44,10 @@ Preparing for a Necromantic Ritual
 
 Before embarking on a necromantic ritual, the practitioner should gather the necessary tools and materials:
 
-1. ****Sacred space****: A ritual space must be established, cleansed, and appropriately consecrated for the task at hand.
-2. ****Offerings****: Suitable food, drink, or incense offerings should be prepared for the spirit being contacted and as a gesture of goodwill.
-3. ****Tools****: A ritual chalice, athame (ritual dagger), or other ceremonial tools may be used, dressed and empowered for the purpose of honorably contacting the spirit.
-4. ****Invocations****: The practitioner should have a carefully prepared invocation or evocation to use in summoning the spirit. This may include the spirit's name, sigil, or other symbolic representations.
+1. **Sacred space**: A ritual space must be established, cleansed, and appropriately consecrated for the task at hand.
+2. **Offerings**: Suitable food, drink, or incense offerings should be prepared for the spirit being contacted and as a gesture of goodwill.
+3. **Tools**: A ritual chalice, athame (ritual dagger), or other ceremonial tools may be used, dressed and empowered for the purpose of honorably contacting the spirit.
+4. **Invocations**: The practitioner should have a carefully prepared invocation or evocation to use in summoning the spirit. This may include the spirit's name, sigil, or other symbolic representations.
 
 Conducting the Ritual
 
@@ -63,9 +63,9 @@ Types of Spirits and their Potential Benefits and Risks
 
 Necromageia may involve contact with various types of spirits, each offering different benefits and risks, such as:
 
-1. ****Ancestors****: Contacting the spirits of deceased family members or loved ones can bring wisdom, guidance, and closure. Risk factors include unresolved emotional issues or improper handling of the contact.
-2. ****Spiritual guides****: These spirits may offer guidance and assistance in the practitioner's spiritual growth and path. The risk lies in the possibility of encountering deceitful or harmful entities.
-3. ****Restless spirits****: These spirits may require assistance in crossing over or resolving unfinished business. The risks include spiritual attachment or negative influence due to unresolved issues.
+1. **Ancestors**: Contacting the spirits of deceased family members or loved ones can bring wisdom, guidance, and closure. Risk factors include unresolved emotional issues or improper handling of the contact.
+2. **Spiritual guides**: These spirits may offer guidance and assistance in the practitioner's spiritual growth and path. The risk lies in the possibility of encountering deceitful or harmful entities.
+3. **Restless spirits**: These spirits may require assistance in crossing over or resolving unfinished business. The risks include spiritual attachment or negative influence due to unresolved issues.
 
 Developing Skills and Ensuring Safety
 

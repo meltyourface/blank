@@ -56,7 +56,7 @@ Makaya rituals share similarities with Bizango regarding the involvement of song
 
 **Ceremonies**: Regular ceremonies involving the entire community strengthen connections between community members and the spiritual realm. These gatherings often involve feasts, offerings, and libations, with an emphasis on gratitude and respect for the Lwa and ancestral spirits.
 
-Indigenous Elements: Makaya practitioners value the connection to indigenous spirituality and often incorporate Taino-derived elements such as sacred herbs, sacred spaces, and symbolic talismans in their rituals.
+**Indigenous Elements**: Makaya practitioners value the connection to indigenous spirituality and often incorporate Taino-derived elements such as sacred herbs, sacred spaces, and symbolic talismans in their rituals.
 
 **Divination**: Divination is an important aspect of Makaya practice, utilized to gain guidance from the Lwa and confirm the maintenance of the cosmic balance. Divinatory tools such as cowrie shells or bones may be employed, with skilled diviners interpreting the messages received.
 

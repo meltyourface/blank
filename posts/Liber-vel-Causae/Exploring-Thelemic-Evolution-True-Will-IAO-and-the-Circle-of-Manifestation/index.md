@@ -29,7 +29,7 @@ The relationship between the individual, as an embodiment of Hadit, and the univ
 
 From a broader perspective, the formula of IAO sheds light on the cyclical nature of growth, change, and attainment within an individual's journey towards self-realization. As an acronym derived from the names of the ancient Greek gods (Isis, Apophis, and Osiris), IAO serves as an allegory for the process of spiritual evolution that echoes the life-death-rebirth cycle.
 
-The IAO formula can be briefly interpreted as follows: 
+**The IAO formula can be briefly interpreted as follows**: 
 - Isis (I) symbolizes birth, manifestation, and creation.
 - Apophis (A) represents dissolution, destruction, and transformation.
 - Osiris (O) stands for resurgence, reintegration, and transcendence.

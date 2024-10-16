@@ -35,34 +35,34 @@ excerpt: >
 
 **Duration**: 2 years (including 3 months of assessment and evaluation)
 
-Phase I: Initiation and Language Acquisition (6 months)
+**Phase I**: Initiation and Language Acquisition (6 months)
 
 1. Introduction to the Land of the Dead: Terminology, symbolism, and cultural significance.
 2. Language classes: Intensive lessons in ancient and otherworldly languages (e.g., Necrolinguistics, Enochian, astral scripts). Emphasis on pronunciation, grammar, and syntax.
 3. Gestural communication: Mastering nuanced movements and postures to convey meaning and express intentions to denizens of the Land of the Dead.
 4. Immersion exercises: Guided interactions with spirits and spectral entities to practice language and gestural skills in real-world contexts.
 
-Phase II: Necromantic Arts and Personal Defense (6 months)
+**Phase II**: Necromantic Arts and Personal Defense (6 months)
 
 1. Theory and principles of necromancy: Overview of historical practices, alignment with natural laws, and methods for harnessing spiritual energy.
 2. Summoning and controlling spirits: Techniques for safely invoking, commanding, and communicating with spirits, while preserving personal essence.
 3. Defensive magics: Essentials of warding, banishing, and protective spells against malevolent spirits.
 4. Combat training: Physical conditioning and agility exercises to improve stealth, evasion, and self-defense skills.
 
-Phase III: Sacred Relics and Talismans (4 months)
+**Phase III**: Sacred Relics and Talismans (4 months)
 
 1. Study of sacred relics: Acquisition of expert knowledge in the history, significance, and application of relics integral to traversing the Land of the Dead.
 2. Crafting talismans: Practical workshops to create, consecrate, and empower personal protective talismans.
 3. Relic and talisman usage: Simulated scenarios to practice appropriate utilization of these sacred tools to navigate and survive in the Land of the Dead.
 
-Phase IV: Diplomacy and Arbitration (5 months)
+**Phase IV**: Diplomacy and Arbitration (5 months)
 
 1. Diplomatic principles: Study of negotiation and diplomacy techniques applicable to inter-realm affairs.
 2. Cultural sensitivity: Developing respect and understanding of spectral creatures' customs, taboos, and hierarchies.
 3. Resolution strategies: Managing and resolving conflicts and disputes among spirits through mediation, empathy, and unbiased judgment.
 4. Building alliances: Mastering the art of persuasion and influence to create and maintain beneficial relationships with otherworldly beings, essential for survival and success in the Land of the Dead.
 
-Phase V: Assessment and Evaluation (3 months)
+**Phase V**: Assessment and Evaluation (3 months)
 
 1. Comprehensive examinations: A thorough assessment of the emissary's language, necromancy, stealth, relic usage, and diplomacy competencies.
 2. Field tests: Navigating a controlled Land of the Dead environment to demonstrate mastery of the skills acquired during training.

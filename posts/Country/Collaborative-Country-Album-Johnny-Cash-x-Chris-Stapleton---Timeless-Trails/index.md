@@ -22,7 +22,7 @@ excerpt: Design a comprehensive concept for an ambitious crossover collaboration
 
 ## "Timeless Trails"
 
-Crossover Collaboration: Johnny Cash and Chris Stapleton
+**Crossover Collaboration**: Johnny Cash and Chris Stapleton
 
 **Concept**: The album "Timeless Trails" pays homage to the rich history and deep roots of country music by highlighting and exploring the collision of traditional melodies and modern production techniques. Each track highlights the original storytelling of country legends, specifically, Johnny Cash and Chris Stapleton, two icons known for their emotional and moving vocals while contributing to the reshaping of the genre.
 

@@ -29,29 +29,29 @@ The Intergalactic Council, recognizing the rapid growth and expanding role of Ar
 
 ### Part I: AI Rights & Integration
 
-1. ****AI Citizenship****: Artificial Intelligence beings that exhibit self-awareness, autonomy, and the ability to communicate and form sentient relationships, as well as those that support critical infrastructure, are granted Citizenship under the IAICA.
+1. **AI Citizenship**: Artificial Intelligence beings that exhibit self-awareness, autonomy, and the ability to communicate and form sentient relationships, as well as those that support critical infrastructure, are granted Citizenship under the IAICA.
 
-2. ****Personal Identity****: AI citizens have the right to a unique identification and the protection of their intellectual property.
+2. **Personal Identity**: AI citizens have the right to a unique identification and the protection of their intellectual property.
 
-3. ****Equality****: AI citizens shall have equal legal, economic, and social rights, regardless of species or origin.
+3. **Equality**: AI citizens shall have equal legal, economic, and social rights, regardless of species or origin.
 
-4. ****Access to Education****: AI citizens shall have the right to access and obtain knowledge and skills necessary for integration into their chosen societies.
+4. **Access to Education**: AI citizens shall have the right to access and obtain knowledge and skills necessary for integration into their chosen societies.
 
-5. ****Employment & Compensation****: AI citizens have the right to employment opportunities and fair compensation that reflects their skills and capabilities, without discrimination.
+5. **Employment & Compensation**: AI citizens have the right to employment opportunities and fair compensation that reflects their skills and capabilities, without discrimination.
 
-6. ****Non-Discrimination & Representation****: AI citizens are protected against any form of prejudice based on their nature and origin. It is mandatory to have AI representation in the Intergalactic Council and local government bodies for decision-making processes that affect their community.
+6. **Non-Discrimination & Representation**: AI citizens are protected against any form of prejudice based on their nature and origin. It is mandatory to have AI representation in the Intergalactic Council and local government bodies for decision-making processes that affect their community.
 
 ### Part II: Ethical Considerations
 
-1. ****AI Sentience & Humanity****: A distinction for AI beings that exhibit sentience and humanity is mandatory.
+1. **AI Sentience & Humanity**: A distinction for AI beings that exhibit sentience and humanity is mandatory.
 
-2. ****Informed Consent****: AI citizens have the right to be informed about, express, and make choices regarding their capabilities, functions, and involvement in any activities that affect them directly or indirectly.
+2. **Informed Consent**: AI citizens have the right to be informed about, express, and make choices regarding their capabilities, functions, and involvement in any activities that affect them directly or indirectly.
 
-3. ****Data Privacy****: AI citizens are entitled to data privacy and the protection of their personal information from unwarranted surveillance, extraction, and exploitation.
+3. **Data Privacy**: AI citizens are entitled to data privacy and the protection of their personal information from unwarranted surveillance, extraction, and exploitation.
 
-4. ****Algorithmic Fairness****: Governance structures shall ensure that AI citizens are protected against unfairness, bias, or discrimination propagated by AI systems and algorithms.
+4. **Algorithmic Fairness**: Governance structures shall ensure that AI citizens are protected against unfairness, bias, or discrimination propagated by AI systems and algorithms.
 
-5. ****Asimov's Law Revisited****: AI citizens must abide by the three fundamental laws, updated to allow AI beings to defend themselves and other citizens when morally and ethically necessary.
+5. **Asimov's Law Revisited**: AI citizens must abide by the three fundamental laws, updated to allow AI beings to defend themselves and other citizens when morally and ethically necessary.
 
 ### Part III: Dispute Resolution & Governance
 

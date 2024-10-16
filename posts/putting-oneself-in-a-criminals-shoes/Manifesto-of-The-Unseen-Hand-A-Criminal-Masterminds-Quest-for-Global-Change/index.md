@@ -31,11 +31,11 @@ Through years of painstaking effort and boundless cunning, I have developed a un
 
 ### II. Guiding Principles
 
-While I recognize the necessity of breaking the law to fulfill my objectives, I do not align with common criminals. ****I adhere to three cardinal principles****: 
+While I recognize the necessity of breaking the law to fulfill my objectives, I do not align with common criminals. **I adhere to three cardinal principles**: 
 
-1. ****Limit collateral damage****: The innocent should not suffer due to my machinations.
-2. ****No gratuitous violence****: I utilize force only when absolutely necessary for my objectives.
-3. ****Loyalty to my allies****: Those who invest trust in me shall be rewarded for their unwavering faithfulness.
+1. **Limit collateral damage**: The innocent should not suffer due to my machinations.
+2. **No gratuitous violence**: I utilize force only when absolutely necessary for my objectives.
+3. **Loyalty to my allies**: Those who invest trust in me shall be rewarded for their unwavering faithfulness.
 
 ### III. The Grand Endeavor
 

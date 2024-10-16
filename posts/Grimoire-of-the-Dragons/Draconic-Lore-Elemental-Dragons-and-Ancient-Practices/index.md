@@ -28,7 +28,7 @@ The Grimoire of the Dragons stands as a testament to the celestial wisdom and un
 
 In this exposition, we shall weave a comprehensive tapestry of these arcane interactions, shedding light on the connections between specific dragon species and the elemental dominions they wield. Guided by ancient rituals and esoteric practices, we will traverse the very roots of our understanding of these majestic beings and their astounding powers.
 
-The Elemental Hierarchy: Primordial Dragon Lords
+**The Elemental Hierarchy**: Primordial Dragon Lords
 
 In the beginning, the cosmos was ruled by the Draconic Pantheon, consisting of primordial dragon lords affiliated with the fundamental forces of creation. Their elemental influence resonated through the fabric of reality, instilling magical properties in various dragon species that mirrored their own affinities.
 
@@ -40,7 +40,7 @@ In the beginning, the cosmos was ruled by the Draconic Pantheon, consisting of p
 
 4. Zephyron the Skydancer: Sovereign of air and agility, Zephyron bestowed mastery over the skies upon the Sky Dragons. Adorned in iridescent feathers, these agile creatures can conjure storms and alter wind currents on a whim.
 
-The Dragonblood Chronicles: Rituals and Esoteric Practices
+**The Dragonblood Chronicles**: Rituals and Esoteric Practices
 
 The Dragonblood Chronicles detail ancient practices employed by the first Scaled Conclave, an order of revered dragon mystics. These pioneers melded draconic lore with supernatural forces to unlock new depths of mystical power.
 

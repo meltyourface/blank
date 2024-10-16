@@ -37,10 +37,10 @@ Once the sacred space has been established, the initiate can begin to engage in 
 
 Offerings to the ancestral spirits may include:
 
-1. ****Food offerings****: Prepared dishes that reflect the tastes and preferences of the ancestors.
-2. ****Libations****: Pouring of liquids, such as purified water or alcohol, to be shared with the spirits.
-3. ****Incense****: Burning incense can help to purify the space and create an appropriate atmosphere for communication with the spirits.
-4. ****Candles****: Lighting candles may draw forth the ancestral spirits, guiding their energies toward the sacred space and provide a visual representation of the initiate's intentions toward their ancestors.
+1. **Food offerings**: Prepared dishes that reflect the tastes and preferences of the ancestors.
+2. **Libations**: Pouring of liquids, such as purified water or alcohol, to be shared with the spirits.
+3. **Incense**: Burning incense can help to purify the space and create an appropriate atmosphere for communication with the spirits.
+4. **Candles**: Lighting candles may draw forth the ancestral spirits, guiding their energies toward the sacred space and provide a visual representation of the initiate's intentions toward their ancestors.
 
 Benefits and Potential Dangers of the Practice
 

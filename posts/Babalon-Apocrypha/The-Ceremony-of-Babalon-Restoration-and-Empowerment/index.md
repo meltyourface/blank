@@ -22,7 +22,7 @@ excerpt: Design a distinctive ceremonial practice devoted to invoking the esoter
 
 ## The Ceremony of Babalonian Restoration and Fortification
 
-Objective: This ceremonial practice is designed to invoke the esoteric and mystical essence of Babalon Apocrypha, focusing on harnessing the powerful energies of Babalon for personal restoration and fortification.
+**Objective**: This ceremonial practice is designed to invoke the esoteric and mystical essence of Babalon Apocrypha, focusing on harnessing the powerful energies of Babalon for personal restoration and fortification.
 
 Preparation:
 1. Choose a private and quiet location where you can freely perform the ceremony without any distractions.

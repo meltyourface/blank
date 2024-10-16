@@ -25,19 +25,19 @@ To complete a comprehensive astrological chart analysis that delves into the Dio
 Please note that without a specific natal chart to analyze, the given placements are hypothetical examples, and thus might not reflect a real natal chart.
 
 Planets associated with Dionysian qualities include:
-1. ****Venus****: Hedonism, desire for pleasure, beauty, and aesthetics.
-2. ****Neptune****: Mystical experiences, fantasy, illusions, and altered states of consciousness.
-3. ****Mars****: Passionate energy, drive, and enthusiasm in pursuing desires.
+1. **Venus**: Hedonism, desire for pleasure, beauty, and aesthetics.
+2. **Neptune**: Mystical experiences, fantasy, illusions, and altered states of consciousness.
+3. **Mars**: Passionate energy, drive, and enthusiasm in pursuing desires.
 
 Houses associated with Dionysian qualities include:
-1. ****The 5th House****: Creativity, self-expression, and hedonistic pursuits.
-2. ****The 8th House****: Transformation, sexual energy, psychological depth, and shared resources.
-3. ****The 12th House****: Mystical experiences, hidden realms, and collectively shared unconscious.
+1. **The 5th House**: Creativity, self-expression, and hedonistic pursuits.
+2. **The 8th House**: Transformation, sexual energy, psychological depth, and shared resources.
+3. **The 12th House**: Mystical experiences, hidden realms, and collectively shared unconscious.
 
 Aspects to look for include:
-1. ****Venus conjunct Neptune****: A heightened sensitivity to beauty, love, and spirituality. It may manifest as a pursuit of ecstatic experiences.
+1. **Venus conjunct Neptune**: A heightened sensitivity to beauty, love, and spirituality. It may manifest as a pursuit of ecstatic experiences.
    Example degree placement: Venus at 14° Pisces, Neptune at 14° Pisces.
-2. ****Mars in the 5th House****: A strong drive for hedonism, passionate self-expression, and physical pleasure.
+2. **Mars in the 5th House**: A strong drive for hedonism, passionate self-expression, and physical pleasure.
    Example degree placement: Mars at 8° Leo.
 
 We can analyze the hypothetical individual natal chart as follows:

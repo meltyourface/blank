@@ -59,11 +59,11 @@ Key Elements for Success
 
 To succeed in the initiation process, the candidate must demonstrate:
 
-1. ****Dedication****: The candidate must wholeheartedly commit to their growth and self-discovery.
-2. ****Respect****: Showing reverence for the teachings, the fellow initiates, and the spiritual energies is critical.
-3. ****Discipline****: Regular practice and the cultivation of patience and perseverance will lead to mastery.
-4. ****Humility****: The candidate should accept that they are always a student, no matter how advanced they become in their esoteric knowledge.
-5. ****Integrity****: An initiate should maintain a strong moral compass and uphold the principles and values of the Olde Companie of Cunning Folke.
+1. **Dedication**: The candidate must wholeheartedly commit to their growth and self-discovery.
+2. **Respect**: Showing reverence for the teachings, the fellow initiates, and the spiritual energies is critical.
+3. **Discipline**: Regular practice and the cultivation of patience and perseverance will lead to mastery.
+4. **Humility**: The candidate should accept that they are always a student, no matter how advanced they become in their esoteric knowledge.
+5. **Integrity**: An initiate should maintain a strong moral compass and uphold the principles and values of the Olde Companie of Cunning Folke.
 
 Conclusion
 

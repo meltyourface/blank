@@ -53,7 +53,7 @@ Necromantic catalysts are sources of spiritual energy that can stimulate the vit
 
 C. Death Reversal or Animated Corpse
 
-Two primary schools of thought exist within corpse rising: those attempting to reverse death completely, restoring the deceased to their full living state, and those who seek to animate the corpse, making it a vessel for spiritual energy without full restoration of the original consciousness.
+**Two primary schools of thought exist within corpse rising**: those attempting to reverse death completely, restoring the deceased to their full living state, and those who seek to animate the corpse, making it a vessel for spiritual energy without full restoration of the original consciousness.
 
 ### IV. Practical Applications
 

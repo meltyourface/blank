@@ -22,26 +22,26 @@ excerpt: >
 ---
 List of Herbs, Resins, and Botanicals for Personalized Incense Blend:
 
-1. ****Frankincense****: Enhances spiritual connections and opens channels for divine communication
-2. ****Myrrh****: Helps align the physical and spiritual realms, aids in spiritual awakening
-3. ****Sandalwood****: Promotes mental clarity, focus, and meditation
-4. ****Mugwort****: Enhances psychic abilities and intuition
-5. ****White Sage****: Purification and removing negativity
-6. ****Lemongrass****: Invokes spiritual cleansing and clarity
-7. ****Cinnamon****: Boosts psychic powers and mental agility
-8. ****Cedar****: Grounding and protection energy
-9. ****Lavender****: Calms the mind, promotes tranquility, and deepens meditation
-10. ****Rose****: Enhances spiritual love, opens the heart, and promotes mental and emotional healing
-11. ****Sweetgrass****: Invites positive energies and good spirits
-12. ****Copal****: Enhances spiritual insight and transformation
-13. ****Palo Santo****: Removes negative energies and encourages spiritual growth
-14. ****Bay leaves****: Enhances psychic abilities and promotes visions
-15. ****Wormwood****: Strengthens psychic powers and helps to unlock hidden knowledge
-16. ****Juniper berries****: Energetic cleansing, protection, and spiritual growth
-17. ****Clove****: Boosts mental clarity and spiritual insight
-18. ****Angelica Root****: Enhances spiritual connection and lucid dreaming
-19. ****Yerba Santa****: Attracts healing energy, psychic growth, and spiritual wisdom
-20. ****Patchouli****: Generates mental and spiritual awareness
+1. **Frankincense**: Enhances spiritual connections and opens channels for divine communication
+2. **Myrrh**: Helps align the physical and spiritual realms, aids in spiritual awakening
+3. **Sandalwood**: Promotes mental clarity, focus, and meditation
+4. **Mugwort**: Enhances psychic abilities and intuition
+5. **White Sage**: Purification and removing negativity
+6. **Lemongrass**: Invokes spiritual cleansing and clarity
+7. **Cinnamon**: Boosts psychic powers and mental agility
+8. **Cedar**: Grounding and protection energy
+9. **Lavender**: Calms the mind, promotes tranquility, and deepens meditation
+10. **Rose**: Enhances spiritual love, opens the heart, and promotes mental and emotional healing
+11. **Sweetgrass**: Invites positive energies and good spirits
+12. **Copal**: Enhances spiritual insight and transformation
+13. **Palo Santo**: Removes negative energies and encourages spiritual growth
+14. **Bay leaves**: Enhances psychic abilities and promotes visions
+15. **Wormwood**: Strengthens psychic powers and helps to unlock hidden knowledge
+16. **Juniper berries**: Energetic cleansing, protection, and spiritual growth
+17. **Clove**: Boosts mental clarity and spiritual insight
+18. **Angelica Root**: Enhances spiritual connection and lucid dreaming
+19. **Yerba Santa**: Attracts healing energy, psychic growth, and spiritual wisdom
+20. **Patchouli**: Generates mental and spiritual awareness
 
 Three tailored blends for invoking Notebook's power:
 

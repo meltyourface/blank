@@ -33,7 +33,7 @@ In their time on this plane, [Deceased's Name] touched the lives of many through
 
 I would like to share a sacred ritual that may bring solace during these trying times. Light a black candle at twilight and surround it with fresh rose petals. As the candle burns, contemplate the memories and love shared with [Deceased's Name] and the eternal connection that still thrives beyond the veil.
 
-In the immortal words of the ancient sages: "The wise see knowledge and action as one; they see truly." May truth and newfound wisdom guide your grieving, kindred soul.
+**In the immortal words of the ancient sages**: "The wise see knowledge and action as one; they see truly." May truth and newfound wisdom guide your grieving, kindred soul.
 
 With deepest sympathies,
 [Your Name]
@@ -52,7 +52,7 @@ I recall a time when [Deceased's Name] demonstrated their unique approach to lif
 
 In these darkened hours, I encourage you to partake in an age-old ritual to ease your burden. Place an offering of their favorite meal upon a small table adorned with white linens and burn a white or gold candle to honor their spirit. Reflect on your shared love and strength and celebrate the life they lived in utmost purity.
 
-May the words of the ancient ones ring true: "What is at the core of existence is neither form nor emptiness but boundless energy." May this boundless energy accompany you in your path to healing.
+**May the words of the ancient ones ring true**: "What is at the core of existence is neither form nor emptiness but boundless energy." May this boundless energy accompany you in your path to healing.
 
 In sorrowful solidarity,
 [Your Name]

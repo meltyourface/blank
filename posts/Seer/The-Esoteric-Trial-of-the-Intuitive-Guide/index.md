@@ -30,7 +30,7 @@ To respond to this knowledge challenge, let us first break down the question int
 
 With these elements in mind, let's create a hypothetical test that synthesizes these understandings.
 
-Test Title: "The Trial of the Intuitive Symbolist"
+**Test Title**: "The Trial of the Intuitive Symbolist"
 
 **Overview**:
 This test is designed as a series of interactive real-world scenarios, incorporating challenges and situations for the Seer to apply their knowledge, intuition, and interpretative skills. It will immerse the Seer in an environment where they would encounter symbolic stimuli, omens, and pressing decisions with ethical and moral dimensions that they must analyze and respond to.

@@ -24,7 +24,7 @@ Title: Advanced Scrying Ritual with the Consecrated Black Mirror
 
 **Objective**: To facilitate the acquisition of esoteric knowledge, guidance, and foresight through the practice of scrying with a consecrated black mirror.
 
-Main Components:  A. Preparation B. Invocation C. Scrying Practice D. Interpretation of Visions
+**Main Components**:  A. Preparation B. Invocation C. Scrying Practice D. Interpretation of Visions
 
 ### II. A. Preparation
 

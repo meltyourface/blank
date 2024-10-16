@@ -25,7 +25,7 @@ excerpt: >
 
 ### I. Introduction
 
-Manifesting reality in accordance with one's will is a fundamental concept in the study and practice of the occult. ****Throughout centuries, various esoteric systems emphasize this principle in different ways but all share a common theme****: transforming one's intentions into tangible realities through the power of focused and well-directed thoughts, emotions, and actions. This section aims to provide a comprehensive lesson on the key principles, techniques, and practices necessary to manifest reality in accordance with one's will, fostering a deep understanding of this foundational concept.
+Manifesting reality in accordance with one's will is a fundamental concept in the study and practice of the occult. **Throughout centuries, various esoteric systems emphasize this principle in different ways but all share a common theme**: transforming one's intentions into tangible realities through the power of focused and well-directed thoughts, emotions, and actions. This section aims to provide a comprehensive lesson on the key principles, techniques, and practices necessary to manifest reality in accordance with one's will, fostering a deep understanding of this foundational concept.
 
 ### II. Key Principles
 

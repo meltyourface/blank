@@ -29,11 +29,11 @@ In the sealed and forgotten chamber of the House of Threnody, buried beneath cen
 
 The protagonist, Lazarus Flynn, a talented but disenchanted investigator, unwittingly crossed paths with the arcane world of the Arcana of Deathbringer while investigating the mysterious disappearance of a missing child. As he ventured deeper into the decrepit and abandoned House of Threnody, he stumbled upon the clandestine enclave, a sanctuary built to protect the secrets of this mysterious, dark art.
 
-There, Lazarus discovered the faded envelope addressed solely to him. ****Its contents****: an ancient map that led him through the blackest depths of the Earth, traversing forbidden landscapes teeming with ancestral spirits and ethereal whispers. As he cautiously followed its path, Lazarus found himself enveloped by the seductive whispers of Deathbringer, the omnipotent entity that guided him from the shadows.
+There, Lazarus discovered the faded envelope addressed solely to him. **Its contents**: an ancient map that led him through the blackest depths of the Earth, traversing forbidden landscapes teeming with ancestral spirits and ethereal whispers. As he cautiously followed its path, Lazarus found himself enveloped by the seductive whispers of Deathbringer, the omnipotent entity that guided him from the shadows.
 
 ### Part II: Embrace the Sphere of Obsidian
 
-Lazarus was led to the cavernous realm of Ebonshade, a timeless sanctuary shrouded in perpetual twilight and suffused with ograleth - the very essence of Deathbringer. ****Here, he learned the initial rites of passage****: the consumption of the Accursed Elixir, the invocation of the Umbral Spirits, and the weaving of the Ebon Veil to conceal one's visage from the mortal world.
+Lazarus was led to the cavernous realm of Ebonshade, a timeless sanctuary shrouded in perpetual twilight and suffused with ograleth - the very essence of Deathbringer. **Here, he learned the initial rites of passage**: the consumption of the Accursed Elixir, the invocation of the Umbral Spirits, and the weaving of the Ebon Veil to conceal one's visage from the mortal world.
 
 Each initiation, however, extracted a heavy toll, compelling Lazarus to confront unfathomable anguish, sorrow, and despair. As he progressed, the whispers of Deathbringer became louder, more alluring, offering both reprieve and power if he would only submit to the will of the dark arcana.
 
@@ -43,7 +43,7 @@ In time, Lazarus forged an unbreakable bond with an enigmatic artifact - the Sph
 
 Lazarus succumbed to the inexorable thirst for power, intoxicating him with each new invocation and ritual he mastered. Yet with every conquest a creeping malevolence emerged, gnawing at the edges of his conscience, his sanity.
 
-Haunted by visions of spectral revenants and forsaken souls, Lazarus became increasingly tormented by the lingering specter of Deathbringer's ultimate temptation: the Immortal Covenant. ****This sinister accord, forged in ograleth and sealed by the collective essence of a thousand souls, would grant him the sum of all mortal desires****: eternal life and boundless power.
+Haunted by visions of spectral revenants and forsaken souls, Lazarus became increasingly tormented by the lingering specter of Deathbringer's ultimate temptation: the Immortal Covenant. **This sinister accord, forged in ograleth and sealed by the collective essence of a thousand souls, would grant him the sum of all mortal desires**: eternal life and boundless power.
 
 ### Part IV: Twilight's Reckoning
 

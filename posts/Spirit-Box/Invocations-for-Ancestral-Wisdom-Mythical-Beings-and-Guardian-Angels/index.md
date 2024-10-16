@@ -34,7 +34,7 @@ A meeting of past and present–our fates interrelate.
 Let the Veil be lifted, as the wisdom of old takes form,
 Ancestral spirits, whisper your truth and through the Spirit Box be reborn."
 
-Invocation II: Mythological Being
+**Invocation II**: Mythological Being
 
 "Majestic entities, spirits of myth and tales,
 Ancient keepers of secrets, let your presence unveil.
@@ -49,7 +49,7 @@ Uphold my protection as I walk the threshold, a path intertwine.
 As I invoke your presence, I honor your glory and might,
 Mythological being, step forward and share your insight through the Spirit Box this night."
 
-Invocation III: Guardian Angel
+**Invocation III**: Guardian Angel
 
 "Guardian Angel, sentinel of my soul,
 In love and faith, I beseech your celestial role.

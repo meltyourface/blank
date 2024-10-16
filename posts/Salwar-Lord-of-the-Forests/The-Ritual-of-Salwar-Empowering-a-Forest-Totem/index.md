@@ -29,27 +29,27 @@ The Ritual of the Forest's Heart
 
 2. Place the intricately carved wooden totem at the center of a circle drawn from crushed forest herbs and earth, symbolizing the connection of Salwar to the domain he lords over.
 
-3. ****Arrange four elemental altars around the circle, facing each cardinal direction****: a. ****North (Earth)****: A bowl of soil and a handful of seeds. ****b. East (Air)****: A fan made from feathers or leaves and a jar of aromatic herbs. ****c. South (Fire)****: A lantern or a torch, accompanied by a vessel of sacred oils. ****d. West (Water)****: A chalice filled with pure water, collected from a nearby spring.
+3. **Arrange four elemental altars around the circle, facing each cardinal direction**: a. **North (Earth)**: A bowl of soil and a handful of seeds. **b. East (Air)**: A fan made from feathers or leaves and a jar of aromatic herbs. **c. South (Fire)**: A lantern or a torch, accompanied by a vessel of sacred oils. **d. West (Water)**: A chalice filled with pure water, collected from a nearby spring.
 
 The Invocation:
 
-1. ****Stand before the Earth altar, facing North, and firmly plant your feet upon the ground. Hold the bowl of soil and seeds high above your head. Recite the following incantation****: 
+1. **Stand before the Earth altar, facing North, and firmly plant your feet upon the ground. Hold the bowl of soil and seeds high above your head. Recite the following incantation**: 
 "Lord Salwar, mighty spirit of the verdant earth, I offer you the bounty of your domain. Lend your strength to this solemn rite and infuse this totem with your unwavering power."
 
-2. ****Slowly walk to the Air altar, facing East. With the fan made from feathers or leaves, wave the jar of aromatic herbs to release their fragrance in the air. Speak these words****: 
+2. **Slowly walk to the Air altar, facing East. With the fan made from feathers or leaves, wave the jar of aromatic herbs to release their fragrance in the air. Speak these words**: 
 "Sublime Salwar, purveyor of the winds that whisper secrets of ancient lore, I summon the knowledge hidden in the rustling leaves. Breathe life into this totem and share your wisdom with us."
 
-3. ****Move to the Fire altar, facing South. Light the lantern or torch, holding it before you as you recite****: 
+3. **Move to the Fire altar, facing South. Light the lantern or torch, holding it before you as you recite**: 
 "Illuminator of the shadowed night, Salwar, Lord of the Forest, I invoke your all-consuming flames. Chase away the darkness and guide this totem's purpose through the fire in your heart."
 
-4. ****Finally, stand before the Water altar, facing West. Lift the chalice filled with pure spring water and intone****: 
+4. **Finally, stand before the Water altar, facing West. Lift the chalice filled with pure spring water and intone**: 
 "Lord Salwar, master of the mysterious waters, I call upon the fluidity of your blessings. Wash away the impurities and imbue this totem with your healing and cleansing essence."
 
 The Consecration:
 
 1. Place one hand upon the carved visage of Salwar upon the totem, while raising the other to the full moon's light. Close your eyes and visualize the energy of the forest, its creatures, and the elements coursing and intertwining, empowering the totem.
 
-2. ****Recite a final incantation****: 
+2. **Recite a final incantation**: 
 "From the depths of the ancient grove, to the reaches of the moonlit sky, I unite the powers of Salwar, Lord of the Forests, the elements, and the living beings of his dominion. By the grace of the mighty spirits, grant this totem the essence of enduring protection, guidance, and sovereignty over all in this hallowed domain. Blessed be."
 
 3. Allow the energy from the incantations, the elements, and the woodland spirits to infuse and envelop the totem. Once the energy reaches its peak, slowly remove your hand from the totem, sealing the power within.

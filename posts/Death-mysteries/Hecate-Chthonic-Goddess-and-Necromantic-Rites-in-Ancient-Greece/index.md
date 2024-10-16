@@ -26,7 +26,7 @@ Introduction
 
 Hecate, a pre-Olympian deity associated with mystery and magic in ancient Greek mythology, has remained a formidable figure throughout time. As a chthonic goddess with ties to the underworld and the patroness of witchcraft, Hecate played an invaluable role in necromantic practices. This analysis seeks to investigate the various aspects of Hecate's significance through careful examination of historical sources, such as the Homeric and Orphic Hymns, and discussion of rituals, spells, and incantations. Additionally, the exploration of Hecate's dual nature and her lasting influence on evolving necromancy and occult traditions will further illuminate her multifaceted persona and legacy.
 
-Hecate in Ancient Greek Mythology: Chthonic Goddess and Patroness of Witchcraft
+**Hecate in Ancient Greek Mythology**: Chthonic Goddess and Patroness of Witchcraft
 
 The ancient Greek religion primarily worshiped the twelve Olympian gods and goddesses, but Hecate, a deity predating these younger gods, held a unique place among the pantheon. She was the daughter of the Titans Perses and Asteria, granting her an older, more primordial presence. She presided over magical and supernatural arts, while her chthonic nature associated her with the underworld and the souls of the deceased.
 
@@ -42,7 +42,7 @@ Hecate played a prominent role in various necromantic practices, including offer
 
 Hecate's mastery over the art of witchcraft enabled her worshippers to engage in necromancy by summoning spirits and gaining knowledge from them. Spells invoking Hecate often included elements like torches and herbs, as well as incantations that called upon her wisdom and power. These rituals, conducted in her name, enhanced the connection between the mortal realm and the world of the dead.
 
-The Dichotomy of Hecate: Benevolent and Malefic Aspects
+**The Dichotomy of Hecate**: Benevolent and Malefic Aspects
 
 Hecate's portrayal in ancient Greek mythology is often characterized by her dual nature—a goddess who could bestow blessings and protection or unleash wrath and destruction. Though she possessed great power, her intentions remained ambiguous. Her guardianship of crossroads symbolized her dual nature; she governed the intersection of life and death, light and darkness, bestowing both fertility and barrenness. This duality allowed Hecate to provide guidance and protection while simultaneously demanding respect and reverence from her worshippers, reminding them of the fragility of mortal life.
 

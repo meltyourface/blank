@@ -31,19 +31,19 @@ Kabbalah is a mystical Jewish tradition that delves into the nature of the divin
 
 Sufism is a mystical Islamic tradition that emphasizes the importance of inner, spiritual knowledge and union with God. Like Kabbalah, it seeks to understand the divine beyond what is revealed in holy texts. Sufis focus on meditation, chanting, and other practices to experience God's presence and dissolve the boundaries between the individual and the divine through love.
 
-Parallels: Both Kabbalah and Sufism involve the pursuit of a direct, personal connection with the divine and emphasize the importance of love, meditation, and devotion. They both delve into the esoteric aspects of their respective religious traditions.
+**Parallels**: Both Kabbalah and Sufism involve the pursuit of a direct, personal connection with the divine and emphasize the importance of love, meditation, and devotion. They both delve into the esoteric aspects of their respective religious traditions.
 
 3. **Gnosticism**:
 
 Gnosticism is a collection of ancient religious beliefs that emerged from early Christianity, centered around the pursuit of hidden, mystical knowledge (gnosis). Gnostic beliefs include the idea of a supreme, unknowable God and a demiurge, a lesser deity who created the material world. They also view the material world as impure or evil, valuing the purely spiritual realm as the ultimate destination for the soul.
 
-Parallels: Kabbalah and Gnosticism both explore the esoteric aspects of their respective faiths, focusing on hidden spiritual knowledge. They share a concern for understanding the nature of the divine and ideas about creation.
+**Parallels**: Kabbalah and Gnosticism both explore the esoteric aspects of their respective faiths, focusing on hidden spiritual knowledge. They share a concern for understanding the nature of the divine and ideas about creation.
 
 4. **Alchemy**:
 
 Alchemy is an ancient art that sought to transform base matter into refined substances, like gold, as well as to uncover the secret of immortality. It is often associated with Western esoteric tradition and has connections to early science, mysticism, and philosophy. Alchemists explored the connections between the material and the spiritual world, and their practices often involved mixing mystical symbols, numerology, and laboratory experimentation.
 
-Parallels: Kabbalah and Alchemy share an interest in understanding the structure of the cosmos and bridging the gap between the material and spiritual realms. They both incorporate numerology, symbolism, and a pursuit of spiritual knowledge.
+**Parallels**: Kabbalah and Alchemy share an interest in understanding the structure of the cosmos and bridging the gap between the material and spiritual realms. They both incorporate numerology, symbolism, and a pursuit of spiritual knowledge.
 
 Visual Elements:
 

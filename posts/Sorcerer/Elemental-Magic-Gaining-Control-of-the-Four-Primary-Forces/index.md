@@ -32,7 +32,7 @@ excerpt: >
 ---
 ## I. Fundamental Principles and Theories of Elemental Magic
 
-Elemental magic is based on the belief that the universe is composed of the four primary elements: Earth, Air, Fire, and Water. Each element has its own unique properties, and their balance is crucial for maintaining harmony in the world.
+**Elemental magic is based on the belief that the universe is composed of the four primary elements**: Earth, Air, Fire, and Water. Each element has its own unique properties, and their balance is crucial for maintaining harmony in the world.
 
 A. Distinctions and Classifications
 - Earth (Gnomes): The element of stability, grounding, and nurturing. Associated with physical strength, growth, and material wealth.

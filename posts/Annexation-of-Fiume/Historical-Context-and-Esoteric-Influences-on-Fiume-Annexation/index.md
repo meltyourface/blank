@@ -23,9 +23,9 @@ excerpt: >
 To fully comprehend the multifaceted perspectives and historical contexts surrounding the Annexation of Fiume, we must first understand the basics of this historical event. The Annexation of Fiume occurred in 1924 when the Italian Regency of Carnaro, a self-proclaimed state founded by the Italian poet Gabriele D'Annunzio, seized control of the city of Fiume (now Rijeka, Croatia). This event took place within the broader context of World War I's aftermath, as the Treaty of Rapallo was being formed to redraw the dissolution of the Austro-Hungarian empire, which left the city's fate uncertain.
 
 Key Themes and Ideas:
-1. ****Annexation of Fiume****: A manifestation of the diverse political and social currents of the post-WWI era, with the city facing an uncertain future.
-2. ****Gabriele D'Annunzio****: A charismatic figure, whose esoteric and occult inclinations influenced the movement and contributed to the development of the Regency of Carnaro.
-3. ****Occult influences****: The role that esoteric beliefs played in shaping the political landscape, specifically the connections between Fiuman irredentism and Thelema.
+1. **Annexation of Fiume**: A manifestation of the diverse political and social currents of the post-WWI era, with the city facing an uncertain future.
+2. **Gabriele D'Annunzio**: A charismatic figure, whose esoteric and occult inclinations influenced the movement and contributed to the development of the Regency of Carnaro.
+3. **Occult influences**: The role that esoteric beliefs played in shaping the political landscape, specifically the connections between Fiuman irredentism and Thelema.
 
 Before diving into the occult influences, let's explore Gabriele D'Annunzio's character and the historical context. D'Annunzio was an influential poet, dramatist, and novelist. He was a fervent nationalist, standing for irredentism – the movement seeking to reunite all Italian-speaking territories under one nation. During World War I, he was a vocal advocate for the Italian war effort. Not satisfied with the outcome of the treaty negotiations, he formed the Italian Regency of Carnaro and set off on the path of self-aggrandizing conquest, leading to the Annexation of Fiume.
 

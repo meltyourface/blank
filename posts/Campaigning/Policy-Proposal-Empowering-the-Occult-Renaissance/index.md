@@ -19,31 +19,31 @@ tags:
 description: You are a master of the esoteric, occult, Campaigning, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
 
-  1. ****Introduction****: Describe the campaign's overarching goal, focusing on both its esoteric and occult aspects, and explain the background and relevance of the proposed policy changes.
+  1. **Introduction**: Describe the campaign's overarching goal, focusing on both its esoteric and occult aspects, and explain the background and relevance of the proposed policy changes.
 
-  2. ****Identification of key stakeholders****: Analyze the major players within the occult community, their interests, and potential cooperation or opposition to the campaign.
+  2. **Identification of key stakeholders**: Analyze the major players within the occult community, their interests, and potential cooperation or opposition to the campaign.
 
-  3. ****Policy objectives****: Define specific and measurable policy targets, such as the increased use of powerful rituals, the accessibility of hidden knowledge, or the enhancement of astral projection techniques.
+  3. **Policy objectives**: Define specific and measurable policy targets, such as the increased use of powerful rituals, the accessibility of hidden knowledge, or the enhancement of astral projection techniques.
 
-  4. ****Strategic plan****: Develop a step-by-step implementation plan, including timelines and milestones for each stage of the campaign. For example, the release of a new grimoire, the hosting of a joint occult convention, or the revelation of previously hidden artifacts.
+  4. **Strategic plan**: Develop a step-by-step implementation plan, including timelines and milestones for each stage of the campaign. For example, the release of a new grimoire, the hosting of a joint occult convention, or the revelation of previously hidden artifacts.
 
-  5. ****Resource mobilization****: Assess the financial, human, and intangible resources
+  5. **Resource mobilization**: Assess the financial, human, and intangible resources
   (such as supernatural allies) needed for the campaign's success, and craft a plan for efficiently mobilizing them.
 
-  6. ****Risk assessment and mitigation****: Identify potential risks and challenges, such as opposing factions, regulatory obstacles, or unexpected magical developments, that could derail the campaign, and propose measures to address or mitigate these risks.
+  6. **Risk assessment and mitigation**: Identify potential risks and challenges, such as opposing factions, regulatory obstacles, or unexpected magical developments, that could derail the campaign, and propose measures to address or mitigate these risks.
 
-  7. ****Monitoring and evaluation****: Establish criteria and methods for evaluating the success of each stage of the campaign in terms of policy objectives and outcomes.
+  7. **Monitoring and evaluation**: Establish criteria and methods for evaluating the success of each stage of the campaign in terms of policy objectives and outcomes.
 
-  8. ****Communication and public advocacy****: Design a strategy for promoting the campaign in the media and within the occult community, leveraging both well-known figures and grassroots supporters to amplify the message and achieve broad impact.
+  8. **Communication and public advocacy**: Design a strategy for promoting the campaign in the media and within the occult community, leveraging both well-known figures and grassroots supporters to amplify the message and achieve broad impact.
 
 ---
 
 ## Advancing the Occult Renaissance: A Policy Proposal for Esoteric Empowerment
 
-1. ****Introduction****: 
+1. **Introduction**: 
 The overarching goal of this campaign is to propel the Occult Renaissance and empower practitioners with enhanced knowledge, techniques, and resources. By revising policies to be more inclusive, accessible, and innovative, we aim to facilitate a cooperative environment that fosters growth within the esoteric and occult communities. Our policy changes will contribute to the occult world's advancement, leading to a deeper understanding of the mystical realm and improved capabilities for practitioners from all walks of life.
 
-2. ****Identification of key stakeholders****: 
+2. **Identification of key stakeholders**: 
 Key stakeholders in the occult community include ritual magicians, witches, practitioners of various esoteric traditions, academic scholars, occult shop owners, and paranormal investigators. Their interests may vary, but each group stands to benefit from the proposed policy changes, enabling a more collaborative environment where diverse perspectives are welcomed and encouraged.
 
 3. **Policy objectives**:

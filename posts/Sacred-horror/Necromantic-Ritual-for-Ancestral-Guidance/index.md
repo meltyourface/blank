@@ -59,11 +59,11 @@ An abandoned and desecrated crypt on the outskirts of a long-forgotten graveyard
 8. Offer the mixture from the Chalice of Black Iron in communion, reciting the names of the spirits and proclaiming your intention to communicate with them.
 9. Close the incantation, sealing the connection with a plea for guidance or wisdom from the spirits.
 
-IV: Personal Narrative
+**IV**: Personal Narrative
 
 This ritual is performed to unveil the curse that has haunted your family for generations. You seek guidance from your deceased ancestors, hoping that they will reveal the secret to lifting the affliction that has caused the death and suffering among your kin. Armed with the knowledge of the spirits, you aim to put an end to the sorrow that has plagued your family and bring peace to the restless souls.
 
-V: Contingency Plan and Sealing the Gateway
+**V**: Contingency Plan and Sealing the Gateway
 
 1. Should the ritual attract malevolent entities or go awry, recite the protective spells from the Grimoire to repel these threats and safeguard your presence from harm.
 2. Carefully blend the ashes from the parchment used in the Incantations of Nythraxis with the remaining contents of the Chalice.

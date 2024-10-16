@@ -25,7 +25,7 @@ In this authentic Enochian angel summoning ritual, we will be invoking the angel
 Preparation Process:
 1. Choose an appropriate location that is quiet, free of distractions, and has a sense of sacredness. Erect a circle of protection using salt or chalk, around the circumference of the space.
 2. Purify the area by burning sage or frankincense, allowing the smoke to permeate the space.
-3. ****Arrange the ceremonial tools****: the Enochian Sigillum Dei Aemeth, which is a talisman bearing the Enochian characters representing the names of God, a wand made of almond wood, a chalice filled with water, an incense burner, and a ceremonial dagger.
+3. **Arrange the ceremonial tools**: the Enochian Sigillum Dei Aemeth, which is a talisman bearing the Enochian characters representing the names of God, a wand made of almond wood, a chalice filled with water, an incense burner, and a ceremonial dagger.
 
 Creation of the Angel Raphael's Sigil:
 1. Begin by drawing a circle that represents the divine presence.
@@ -37,9 +37,9 @@ Executing the Ritual:
 1. Enter your protective circle and assume a comfortable position, facing east.
 2. Close your eyes and perform a grounding meditation, visualizing a beam of light connecting you to the earth and heavens above.
 3. Light the incense to establish the line of communication with angelic entities.
-4. ****Raise the wand towards the east, and recite the opening invocation in Enochian****: "OL SONF VORSG GOSAA I RAPHAEL, GIZ YR EE BEN VORSG ORT."
+4. **Raise the wand towards the east, and recite the opening invocation in Enochian**: "OL SONF VORSG GOSAA I RAPHAEL, GIZ YR EE BEN VORSG ORT."
 5. Draw Raphael's sigil in the air with the wand, while visualizing the angel's bright emerald green energy manifesting.
-6. ****Hold the chalice within your hands and intone the following Enochian chant****: "RA-ASS ZUH ZIR EOAN RA-PHA-EL, MA-REL LON-DOH ZAH ZIR OL NO PO-AM."
+6. **Hold the chalice within your hands and intone the following Enochian chant**: "RA-ASS ZUH ZIR EOAN RA-PHA-EL, MA-REL LON-DOH ZAH ZIR OL NO PO-AM."
 7. Focus on the purpose and intent of the summoning, inviting the compassionate, healing energy of Raphael to envelop you.
 
 Expectations and Purpose:

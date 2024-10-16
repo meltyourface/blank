@@ -32,7 +32,7 @@ Table of Contents:
     A. Understanding Planetary Magick
     B. History and Origins of Stellar Lore
 
-### II. ****The Celestial Bodies****: Planetary Correspondences and Associations
+### II. **The Celestial Bodies**: Planetary Correspondences and Associations
     A. The Sun
     B. The Moon
     C. Mercury
@@ -46,13 +46,13 @@ Table of Contents:
 
 ### III. Days of the Week and Planetary Hours
     A. Calculating Planetary Hours
-    B. ****Monday****: Moon
-    C. ****Tuesday****: Mars
-    D. ****Wednesday****: Mercury
-    E. ****Thursday****: Jupiter
-    F. ****Friday****: Venus
-    G. ****Saturday****: Saturn
-    H. ****Sunday****: Sun
+    B. **Monday**: Moon
+    C. **Tuesday**: Mars
+    D. **Wednesday**: Mercury
+    E. **Thursday**: Jupiter
+    F. **Friday**: Venus
+    G. **Saturday**: Saturn
+    H. **Sunday**: Sun
 
 ### IV. Techniques and Rituals
     A. Casting a Magick Circle
@@ -76,7 +76,7 @@ Table of Contents:
     B. Sample Rituals and Spells
     C. Testimonials and Personal Accounts
 
-### VII. ****Conclusion****: Embracing the Cosmic Connection
+### VII. **Conclusion**: Embracing the Cosmic Connection
 
 This compendium will guide the practitioner through the mysteries of planetary magick, exploring the depths of Stellar lore and its practical application in their spiritual journey. It will expound upon the detailed correspondences between celestial bodies, days of the week, and planetary hours, offering a comprehensive understanding of the precise timings and energies required for the most effective rituals and magickal workings.
 

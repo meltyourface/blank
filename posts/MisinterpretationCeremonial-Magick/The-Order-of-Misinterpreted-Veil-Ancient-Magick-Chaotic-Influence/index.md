@@ -35,12 +35,12 @@ Below the Archons, the order is organized into concentric circles. The outermost
 **Symbols**:
 The primary symbol of the order is The Interwoven Enigma, representing the union of chaos and order inherent in Misinterpretation Ceremonial Magick. It consists of a perfectly symmetrical hexagram inscribed within a circle, with intricate spirals branching outward from each of the hexagram's vertices, depicting the unpredictable and chaotic powers harnessed within a structured magical framework.
 
-Other symbols include: The Discordant Chalice (representing knowledge misinterpreted but still wielded), The Twisted Serpent (symbolizing the cyclical nature of truth and falsehood), and The Shattered Pillar (denoting the order’s ability to dismantle and reconstruct societal structures).
+**Other symbols include**: The Discordant Chalice (representing knowledge misinterpreted but still wielded), The Twisted Serpent (symbolizing the cyclical nature of truth and falsehood), and The Shattered Pillar (denoting the order’s ability to dismantle and reconstruct societal structures).
 
 Initiation Rites:
 When an initiate is first welcomed into the order, they undergo an elaborate ceremony known as The Veiling of Erróneus. In a secret chamber lit only by twisting, unearthly flames, they are blindfolded and led through a series of ritualistic steps. As they misstep and stumble, they are guided by the Archon of Insidious Pathways to recognize their own fallibility and the hidden potential within chaos.
 
-Summoning Procedures: 
+**Summoning Procedures**: 
 A unique aspect of Misinterpretation Ceremonial Magick is its practice of summoning Perplexed Shades, entities born from the cosmic chaos of misunderstood knowledge. A Conjurer must first prepare a Sacred Parchment encoded with a series of seemingly nonsensical runes. These runes must be decoded in an unconventional manner to reveal their true meaning. Once the conjurer solves these puzzles, the Perplexed Shade can be summoned and its powers harnessed for the order's purposes.
 
 Elaborate Ceremonies:

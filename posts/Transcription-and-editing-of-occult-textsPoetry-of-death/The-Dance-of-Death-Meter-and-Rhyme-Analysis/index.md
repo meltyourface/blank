@@ -21,9 +21,9 @@ excerpt: Analyze the meter and rhyme scheme in a renowned occult poem about the 
 ---
 Upon examining the renowned occult poem "The Dance of Death," we venture into the haunting world of the ethereal dance, taking place beneath the nocturnal canopy. The poem's mystifying structure and eerie cadence have bewitched readers for centuries, luring them into the embrace of its fatal allure.
 
-Meter analysis: Throughout the verses, a consistent iambic tetrameter is employed. This meter consists of four iambs per line, where the stress falls on the even syllables. It creates an ebbing and flowing pulse, perfectly encapsulating the undulating rhythm of the macabre waltz.
+**Meter analysis**: Throughout the verses, a consistent iambic tetrameter is employed. This meter consists of four iambs per line, where the stress falls on the even syllables. It creates an ebbing and flowing pulse, perfectly encapsulating the undulating rhythm of the macabre waltz.
 
-Rhyme scheme: The poem's stanzaic structure consists of quatrains, and the rhyme scheme follows an alternating pattern of ABAB. This pattern effectively bolsters the sense of an otherworldly dance, each couplet taking a turn, and then allowing its partner to step in.
+**Rhyme scheme**: The poem's stanzaic structure consists of quatrains, and the rhyme scheme follows an alternating pattern of ABAB. This pattern effectively bolsters the sense of an otherworldly dance, each couplet taking a turn, and then allowing its partner to step in.
 
 In the opening stanza, the dimly illuminated scene is set, with the nocturnal canopy providing an enchanting backdrop for the dance:
 

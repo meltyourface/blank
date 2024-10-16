@@ -21,7 +21,7 @@ excerpt: In the context of historical and cultural influences, as well as the fu
 ---
 The knowledge challenge at hand involves designing a comprehensive ritual that incorporates sigils, planetary correspondences, and elemental associations in order to manifest a specific and nuanced outcome. To adeptly address this challenge, let's establish the desired outcome, outline the ritual components, and subsequently delve into the symbolism and interconnectedness of each element used.
 
-Desired Outcome: The goal of our ritual is to cultivate enhanced mental clarity and focus, significantly benefiting our intellectual and creative pursuits.
+**Desired Outcome**: The goal of our ritual is to cultivate enhanced mental clarity and focus, significantly benefiting our intellectual and creative pursuits.
 
 ### I. Ritual Components
 

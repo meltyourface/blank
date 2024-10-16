@@ -25,12 +25,12 @@ To achieve successful astral projection using advanced Telluric sorcery tailored
 
 1. Select a location near a natural subterranean feature, such as a cave or a fissure, to create a strong connection to the earth's energies.
 2. Choose a time when the elements are in harmony with the earth, preferably during the new moon or on the night of the winter solstice, as these strengthen Telluric energies.
-3. ****Prepare your ritual space by drawing a large, protective circle using salt, and create an altar in the center with the following focal objects****: a shallow dish of fine soil, a quartz crystal, and a copper rod. Additionally, arrange four candles (one black, one white, one brown, and one gray) at cardinal directions around the circle.
+3. **Prepare your ritual space by drawing a large, protective circle using salt, and create an altar in the center with the following focal objects**: a shallow dish of fine soil, a quartz crystal, and a copper rod. Additionally, arrange four candles (one black, one white, one brown, and one gray) at cardinal directions around the circle.
 
 ### II. **Ritual Components**:
 
 1. Begin by cleansing the ritual space and your physical body with sage or any other purifying incense of your choice to create a clean energetic environment.
-2. ****Light the candles in a clockwise manner, starting with the black one in the North, while invoking the elements as you proceed****: Earth in the North, Air in the East, Fire in the South, and Water in the West.
+2. **Light the candles in a clockwise manner, starting with the black one in the North, while invoking the elements as you proceed**: Earth in the North, Air in the East, Fire in the South, and Water in the West.
 3. Adorn yourself with a necklace or talisman made of a natural, earth-derived material, such as clay or stone. This will serve as a tether to your astral form, helping to navigate and ensure safe return.
 4. Next, draw the sigil of Agarroth, the Earth's Guide, on your forehead with mud or earth to grant you the gift of subterranean sight and protection. The sigil consists of an eye within a downward-pointing triangle, with three intersecting circles surrounding it to represent the interconnectedness of the realms and elements. 
 5. Sit or lie down within the circle, facing the altar, and begin to create a continuous flow of energy by running the soil through your fingers. Focus your intent on the exploration and understanding of the unknown depths beneath the earth's surface.   

@@ -30,7 +30,7 @@ As you continue to breathe deeply and relax, introduce an auditory component. Li
 **Step 4**: Visual Stimulation
 With your eyes closed, begin to introduce visual stimuli in the form of hypnagogic imagery, commonly experienced as fleeting shapes, patterns, or colors. Allow these images to emerge spontaneously, observing their intricacies without attaching any particular meaning to them. As the imagery becomes more vivid, consciously explore the landscapes, inviting rich and diverse environments to appear.
 **Step 5**: Tactile Stimulation and Embodiment
-During the exploration of the visual landscape, introduce tactile sensations. ****Imagine the textures of the objects within your environment****: Is the surface of a rock smooth or rough? Can you feel the dampness of the forest floor? By bringing attention to these tactile experiences, you can further immerse yourself in the oneiric domain. As you become more deeply embodied in this dream-like state, you may find yourself experiencing kinesthesia or even full-body sensation.
+During the exploration of the visual landscape, introduce tactile sensations. **Imagine the textures of the objects within your environment**: Is the surface of a rock smooth or rough? Can you feel the dampness of the forest floor? By bringing attention to these tactile experiences, you can further immerse yourself in the oneiric domain. As you become more deeply embodied in this dream-like state, you may find yourself experiencing kinesthesia or even full-body sensation.
 
 Distinctive examples illustrating the implementation of the Oneiric Induction Method:
 

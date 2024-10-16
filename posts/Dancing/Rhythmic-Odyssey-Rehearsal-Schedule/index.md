@@ -22,7 +22,7 @@ excerpt: Outline a comprehensive rehearsal schedule for an upcoming dance produc
 
 ## "Rhythmic Odyssey - A Dance Production"
 
-Production Dates: January 14th - February 28th
+**Production Dates**: January 14th - February 28th
 Show Dates: March 1st - March 5th
 
 Rehearsal Schedule:

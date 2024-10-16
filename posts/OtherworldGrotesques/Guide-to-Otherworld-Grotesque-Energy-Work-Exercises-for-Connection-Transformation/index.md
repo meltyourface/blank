@@ -59,7 +59,7 @@ Exercise 3: Summoning Grotesque Entities
 
 **Complexity**: Advanced
 
-Energy Safety Note: Always approach with respect and clear boundaries. Maintain personal protective measures, such as shielding your energy, to avoid being overwhelmed or drained by the entity.
+**Energy Safety Note**: Always approach with respect and clear boundaries. Maintain personal protective measures, such as shielding your energy, to avoid being overwhelmed or drained by the entity.
 
 Exercise 4: Chthonic Grotesque Astral Projection
 
@@ -69,7 +69,7 @@ Exercise 4: Chthonic Grotesque Astral Projection
 
 **Complexity**: Advanced
 
-Astral Safety Note: Utilize your connection to the Grotesque Elemental Forces to maintain boundaries and personal power. Strengthen your grounding and connection to your Self-Grotesque before each journey. Be prepared for unsettling discoveries and experiences.
+**Astral Safety Note**: Utilize your connection to the Grotesque Elemental Forces to maintain boundaries and personal power. Strengthen your grounding and connection to your Self-Grotesque before each journey. Be prepared for unsettling discoveries and experiences.
 
 Series 3: Mastery of OtherworldGrotesque Energy Work
 
@@ -85,6 +85,6 @@ By my will, so mote it be."
 
 **Complexity**: Master Level
 
-Transmutation Safety Note: Engage in regular grounding practices and maintain strong boundaries when performing transmutations to avoid unintended consequences.
+**Transmutation Safety Note**: Engage in regular grounding practices and maintain strong boundaries when performing transmutations to avoid unintended consequences.
 
 Please be advised engaging with Otherworldly entities and energies carries potential risks. Protect and cleanse yourself and your surroundings regularly, respect the energies and entities you interact with, and never exceed your skill and comfort level.

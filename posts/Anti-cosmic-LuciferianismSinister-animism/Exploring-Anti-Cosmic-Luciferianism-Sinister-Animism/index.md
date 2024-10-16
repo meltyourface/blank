@@ -28,31 +28,31 @@ Anti-cosmic Luciferianism and Sinister Animism are esoteric traditions focused o
 
 Key Beliefs
 
-1. ****Dualistic cosmology****: At the center of the Anti-cosmic Luciferianism and Sinister Animism is the belief in the dualistic nature of the cosmos. This dualism pits the cosmic order against the anti-cosmic forces of chaos, representing both the light and dark aspects of reality manifested in dynamic tension.
+1. **Dualistic cosmology**: At the center of the Anti-cosmic Luciferianism and Sinister Animism is the belief in the dualistic nature of the cosmos. This dualism pits the cosmic order against the anti-cosmic forces of chaos, representing both the light and dark aspects of reality manifested in dynamic tension.
 
-2. ****The Anti-Cosmic Rebellion****: Practitioners believe in the primordial rebellion led by Lucifer and other sinister forces against the cosmic gods and the oppressive structures they represent. This rebellion aims to bring about a state of liberated chaos, by overthrowing the cosmic order, and allowing all beings to transcend their inherent limitations.
+2. **The Anti-Cosmic Rebellion**: Practitioners believe in the primordial rebellion led by Lucifer and other sinister forces against the cosmic gods and the oppressive structures they represent. This rebellion aims to bring about a state of liberated chaos, by overthrowing the cosmic order, and allowing all beings to transcend their inherent limitations.
 
-3. ****The Limits of Creation****: The cosmos is seen as a prison for the spirit, preventing true spiritual transcendence. Practitioners believe that the divine spark within all beings yearns for liberation from the confines of cosmic existence and the return to the infinite potential of the primordial chaos.
+3. **The Limits of Creation**: The cosmos is seen as a prison for the spirit, preventing true spiritual transcendence. Practitioners believe that the divine spark within all beings yearns for liberation from the confines of cosmic existence and the return to the infinite potential of the primordial chaos.
 
-4. ****Sinister Animism****: The belief that all entities, objects, and forces possess a sinister essence that can be harnessed for transformative purposes. By aligning with these hidden powers, practitioners can enact changes in the fabric of reality itself.
+4. **Sinister Animism**: The belief that all entities, objects, and forces possess a sinister essence that can be harnessed for transformative purposes. By aligning with these hidden powers, practitioners can enact changes in the fabric of reality itself.
 
 Practices and Ritual Elements
 
-1. ****Rites of Invocation and Evocation****: The practice of summoning and communing with sinister forces, such as demonic entities and spirits, is a vital aspect of this occult tradition. By forming alliances and pacts with these beings, practitioners can tap into their hidden knowledge and power.
+1. **Rites of Invocation and Evocation**: The practice of summoning and communing with sinister forces, such as demonic entities and spirits, is a vital aspect of this occult tradition. By forming alliances and pacts with these beings, practitioners can tap into their hidden knowledge and power.
 
-2. ****The Nightside Journey****: Initiates undertake spiritual journeys into the darker realms of existence, exploring the Shadow and the Qliphoth, the darker counterparts of the Sephiroth in Kabbalistic cosmology. These quests are meant to empower and transform the practitioner, deepening their understanding of the dark forces at play in the universe.
+2. **The Nightside Journey**: Initiates undertake spiritual journeys into the darker realms of existence, exploring the Shadow and the Qliphoth, the darker counterparts of the Sephiroth in Kabbalistic cosmology. These quests are meant to empower and transform the practitioner, deepening their understanding of the dark forces at play in the universe.
 
-3. ****Magickal Practices****: The manipulation of energy and the harnessing of sinister forces for personal gain and transformation is a key part of both traditions. These include the use of sigils, symbols, incantations, and ritual tools such as the chalice, athame, and pentacle, to focus and direct these energies towards the desired outcome.
+3. **Magickal Practices**: The manipulation of energy and the harnessing of sinister forces for personal gain and transformation is a key part of both traditions. These include the use of sigils, symbols, incantations, and ritual tools such as the chalice, athame, and pentacle, to focus and direct these energies towards the desired outcome.
 
-4. ****The Left-Hand Path****: Practitioners follow a spiritual path that acknowledges and embraces the darker aspects of self, reality, and the transcendental divinity. Through this path, they seek to attain individual sovereignty, spiritual liberation, and ultimate understanding of the chaos that lies beyond the cosmic order.
+4. **The Left-Hand Path**: Practitioners follow a spiritual path that acknowledges and embraces the darker aspects of self, reality, and the transcendental divinity. Through this path, they seek to attain individual sovereignty, spiritual liberation, and ultimate understanding of the chaos that lies beyond the cosmic order.
 
 Goals of the Occult Tradition
 
-1. ****Spiritual Transcendence****: The primary goal of these practitioners is to overcome the limitations imposed by their existence within the cosmos and ascend to a higher state of being, free from the constraints of creation.
+1. **Spiritual Transcendence**: The primary goal of these practitioners is to overcome the limitations imposed by their existence within the cosmos and ascend to a higher state of being, free from the constraints of creation.
 
-2. ****Rebellion against Cosmic Order****: Practitioners strive, through their magical and spiritual efforts, to undermine and overthrow the cosmic order, liberating all beings from its confines and allowing the primordial chaos to reign supreme.
+2. **Rebellion against Cosmic Order**: Practitioners strive, through their magical and spiritual efforts, to undermine and overthrow the cosmic order, liberating all beings from its confines and allowing the primordial chaos to reign supreme.
 
-3. ****The Great Work****: As part of their journey, practitioners dedicate themselves to the Great Work, a process of personal transformation, spiritual growth, and allegiance to sinister forces. This quest embraces self-discovery, alignment with hidden realities, and union with the infinite potential that lies beyond the structures of the cosmos.
+3. **The Great Work**: As part of their journey, practitioners dedicate themselves to the Great Work, a process of personal transformation, spiritual growth, and allegiance to sinister forces. This quest embraces self-discovery, alignment with hidden realities, and union with the infinite potential that lies beyond the structures of the cosmos.
 
 In Summary
 

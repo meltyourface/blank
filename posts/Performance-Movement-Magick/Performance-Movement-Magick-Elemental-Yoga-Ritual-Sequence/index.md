@@ -22,31 +22,31 @@ excerpt: >
 ---
 To begin the Performance Movement Magick ritual, you will stand in the center of the ritual space, close your eyes, and take several deep breaths to connect with your surroundings and the energies within. 
 
-1. ****Earth Posture****: Tadasana (Mountain Pose)
+1. **Earth Posture**: Tadasana (Mountain Pose)
 • Stand with your feet hip-width apart, evenly grounding your weight onto the floor.
 • As you inhale, raise your arms overhead and interlace your fingers.
 • Chant the earth vocalization: "Aum Vairocanaaye Hum."
 • Envision a grounding energy connecting you with the Earth, feeling the strength and stability it provides.
 
-2. ****Air Posture****: Garudasana (Eagle Pose)
+2. **Air Posture**: Garudasana (Eagle Pose)
 • From Tadasana, move into Garudasana by bending your knees slightly and crossing your right leg over your left, wrapping the right foot around the left calf.
 • Cross your arms in front of your chest, with your right arm under your left, and then bend your elbows, hooking your forearms together.
 • Chant the air vocalization: "Aum Amoghasiddhi Hum."
 • Envision the air swirling around you, filling the space with clarity and lightness.
 
-3. ****Fire Posture****: Virabhadrasana (Warrior Pose)
+3. **Fire Posture**: Virabhadrasana (Warrior Pose)
 • From Garudasana, release your legs and arms, stepping your left foot back into a wide stance, bending your right knee, and extending your arms out to the sides.
 • Chant the fire vocalization: "Aum Amitabha Hum."
 • Envision flames surrounding you and the space, burning away any impurities and energizing the atmosphere.
 
-4. ****Water Posture****: Paschimottanasana (Seated Forward Bend)
+4. **Water Posture**: Paschimottanasana (Seated Forward Bend)
 • From Virabhadrasana, lower your hands to the floor and release the left foot to meet the right, sitting down on the ground.
 • Extend your legs out in front of you, and as you inhale, raise your arms overhead.
 • On an exhale, fold forward from the hips, reaching for your feet or ankles.
 • Chant the water vocalization: "Aum Ratnasambhava Hum."
 • Visualize water cleansing the space and washing away any lingering negativity.
 
-5. ****Spirit Posture****: Padmasana (Lotus Pose)
+5. **Spirit Posture**: Padmasana (Lotus Pose)
 • From Paschimottanasana, gently release and sit back up, crossing your legs into Padmasana.
 • Place your hands in Gyan Mudra, with your index fingers and thumbs touching.
 • Chant the spirit vocalization: "Aum Akshobhya Hum."

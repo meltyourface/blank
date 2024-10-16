@@ -24,7 +24,7 @@ excerpt: Compose a sophisticated, multi-layered poetic interpretation of a chose
 
 ### Chapter: The Yoga of Action (Karma Yoga) - Chapter 2
 
-Source Verses: Bhagavad Gita (2.47, 2.50, 2.70)
+**Source Verses**: Bhagavad Gita (2.47, 2.50, 2.70)
 
 ### I. Invocation
 

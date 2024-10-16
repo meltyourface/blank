@@ -26,9 +26,9 @@ excerpt: Develop an intricate, Epoptai-specific ceremonial procedure to establis
 
 **Preparation**:
 
-1. ****Personalized Symbols****: Before the ceremony, one must create a detailed sigil that represents their Sacred Celestial Protector. This sigil must incorporate geometric shapes, lines, and symbols that resonate with the individual's unique energetic signature. The sigil will act as an anchor point for the ritual.
+1. **Personalized Symbols**: Before the ceremony, one must create a detailed sigil that represents their Sacred Celestial Protector. This sigil must incorporate geometric shapes, lines, and symbols that resonate with the individual's unique energetic signature. The sigil will act as an anchor point for the ritual.
 
-2. ****Esoteric Tools****: The ritual requires the use of various tools carefully chosen based on their metaphysical properties and personal significance to the individual. **These tools should include**:
+2. **Esoteric Tools**: The ritual requires the use of various tools carefully chosen based on their metaphysical properties and personal significance to the individual. **These tools should include**:
 
 - A ceremonial athame or ritual knife
 - A chalice or goblet
@@ -36,7 +36,7 @@ excerpt: Develop an intricate, Epoptai-specific ceremonial procedure to establis
 - A wand or staff
 - A pentacle or sacred geometric amulet
 
-3. ****Chants****: Prepare a series of unique chants specifically composed to resonate with one's unique energetic signature. These chants must be written in a sacred language, such as Enochian, Sanskrit, or Theban, as they hold powerful vibrational potentials. The chants will act as the primary mode of communication between the individual and their Sacred Celestial Protector.
+3. **Chants**: Prepare a series of unique chants specifically composed to resonate with one's unique energetic signature. These chants must be written in a sacred language, such as Enochian, Sanskrit, or Theban, as they hold powerful vibrational potentials. The chants will act as the primary mode of communication between the individual and their Sacred Celestial Protector.
 
 **Procedure**:
 **Step 1**: Purification

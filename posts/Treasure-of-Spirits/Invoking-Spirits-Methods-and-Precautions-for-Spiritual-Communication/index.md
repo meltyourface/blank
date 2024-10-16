@@ -27,11 +27,11 @@ The Treasure of Spirits is an ancient and powerful body of knowledge that deals 
 
 ### I. Key Practices
 
-1. ****Meditation****: Developing a strong meditative practice helps build concentration and focus, both of which are essential when communing with spirits. It also cultivates sensitivity to subtle energies and impressions.
+1. **Meditation**: Developing a strong meditative practice helps build concentration and focus, both of which are essential when communing with spirits. It also cultivates sensitivity to subtle energies and impressions.
 
-2. ****Ritual Space****: Maintaining a clean, sacred area dedicated to ritual work is significant in creating an environment conducive to spiritual communication. This space should include a designated altar, tools, and offerings specific to the entities being invoked.
+2. **Ritual Space**: Maintaining a clean, sacred area dedicated to ritual work is significant in creating an environment conducive to spiritual communication. This space should include a designated altar, tools, and offerings specific to the entities being invoked.
 
-3. ****Offerings****: Gifts such as food, drink, incense, and candles can demonstrate respect and gratitude to the spirits. Each spirit may prefer distinct offerings, so it is necessary to research their preferences before communing with them.
+3. **Offerings**: Gifts such as food, drink, incense, and candles can demonstrate respect and gratitude to the spirits. Each spirit may prefer distinct offerings, so it is necessary to research their preferences before communing with them.
 
 ### II. Associated Sigils
 
@@ -47,19 +47,19 @@ Sigils are symbols imbued with specific energies and intentions, acting as power
 
 ### III. Methods of Invocation
 
-1. ****Invocation Chants****: Chanting specific phrases, names, or mantras can resonate with the frequency of the spirit you wish to invoke. These words should be enunciated clearly, with the intention of harmonizing with the energy you seek to manifest.
+1. **Invocation Chants**: Chanting specific phrases, names, or mantras can resonate with the frequency of the spirit you wish to invoke. These words should be enunciated clearly, with the intention of harmonizing with the energy you seek to manifest.
 
-2. ****Astral Projection****: Through the practice of astral projection, you can journey beyond the physical plane and consciously engage with spirits. Skilled astral travelers may utilize this technique to communicate with entities that reside in various realms.
+2. **Astral Projection**: Through the practice of astral projection, you can journey beyond the physical plane and consciously engage with spirits. Skilled astral travelers may utilize this technique to communicate with entities that reside in various realms.
 
-3. ****Invocation through Tools****: Certain tools, like crystal balls or scrying mirrors, can amplify your psychic receptivity. By using these objects in conjunction with your sigil and invocation, you enhance your ability to connect with the spiritual realm.
+3. **Invocation through Tools**: Certain tools, like crystal balls or scrying mirrors, can amplify your psychic receptivity. By using these objects in conjunction with your sigil and invocation, you enhance your ability to connect with the spiritual realm.
 
 ### IV. Precautions
 
-1. ****Clear Intentions****: Be fully aware of the true motives behind your invocation and maintain a focused awareness of the specific qualities and attributes of the entity you wish to commune with.
+1. **Clear Intentions**: Be fully aware of the true motives behind your invocation and maintain a focused awareness of the specific qualities and attributes of the entity you wish to commune with.
 
-2. ****Spiritual Protection****: Employ protective measures, such as casting a circle, calling upon benevolent deities, or donning talismans, to safeguard yourself from unforeseen negative consequences or entities.
+2. **Spiritual Protection**: Employ protective measures, such as casting a circle, calling upon benevolent deities, or donning talismans, to safeguard yourself from unforeseen negative consequences or entities.
 
-3. ****Grounding****: After concluding your work with the Treasure of Spirits, it is essential to properly ground and center your energy. This step ensures that you remain balanced and connected to physical reality.
+3. **Grounding**: After concluding your work with the Treasure of Spirits, it is essential to properly ground and center your energy. This step ensures that you remain balanced and connected to physical reality.
 
 Historical and Cultural Aspects:
 

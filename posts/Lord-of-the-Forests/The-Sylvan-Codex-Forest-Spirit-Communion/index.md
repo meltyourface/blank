@@ -23,7 +23,7 @@ excerpt: >
 
 ## The Sylvan Codex: Dreamscapes and Revelations of the Forest Lord
 
-Introductory Note: As the Lord of the Forests, I present to you this tome - a masterful work meant to unveil the arcane secrets dwelling within the heart of the woodland realms. Upon these pages rests the concentrated wisdom of the sylvan world, gleaned from the collective dreams and visions that thread their way through the lives of all flora and fauna. Read, learn, and decipher these cryptic messages whispered by ancient spirits; become one with the forest's enigmatic essence as you explore the labyrinthine, interconnected glades of the ethereal woodland.
+**Introductory Note**: As the Lord of the Forests, I present to you this tome - a masterful work meant to unveil the arcane secrets dwelling within the heart of the woodland realms. Upon these pages rests the concentrated wisdom of the sylvan world, gleaned from the collective dreams and visions that thread their way through the lives of all flora and fauna. Read, learn, and decipher these cryptic messages whispered by ancient spirits; become one with the forest's enigmatic essence as you explore the labyrinthine, interconnected glades of the ethereal woodland.
 
 ### Part I: Ancestor Whispers and Ethereal Glens
 

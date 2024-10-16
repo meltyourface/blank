@@ -36,13 +36,13 @@ Cleanse and purify the space by burning incense, then arrange the seven candles 
 **Step 3**: Invocation of the Four Elements
 Start by invoking the four elements at their corresponding cardinal directions:
 
-- East: Air and the conscious mind. ****Hold the athame or wand and recite the following invocation****: "I call upon the element of Air, the breath of wisdom, and the force of change to join me in this sacred space."
+- East: Air and the conscious mind. **Hold the athame or wand and recite the following invocation**: "I call upon the element of Air, the breath of wisdom, and the force of change to join me in this sacred space."
 
-- South: Fire and transformative energy. ****Hold the fire symbol and recite****: "I call upon the element of Fire, the flame of knowledge, and the force of creation to join me in this sacred space."
+- South: Fire and transformative energy. **Hold the fire symbol and recite**: "I call upon the element of Fire, the flame of knowledge, and the force of creation to join me in this sacred space."
 
-- West: Water and divine knowledge. ****Hold the chalice and recite****: "I call upon the element of Water, the river of intuition, and the force of emotion to join me in this sacred space."
+- West: Water and divine knowledge. **Hold the chalice and recite**: "I call upon the element of Water, the river of intuition, and the force of emotion to join me in this sacred space."
 
-- North: Earth and grounding energy. ****Hold the bowl of salt or earth and recite****: "I call upon the element of Earth, the foundation of stability, and the force of growth to join me in this sacred space."
+- North: Earth and grounding energy. **Hold the bowl of salt or earth and recite**: "I call upon the element of Earth, the foundation of stability, and the force of growth to join me in this sacred space."
 **Step 4**: Invocation of the Seven Ophite Archons
 Ignite each of the seven candles while invoking the name of each Ophite Archon:
 
@@ -54,7 +54,7 @@ Ignite each of the seven candles while invoking the name of each Ophite Archon:
 6. Adonaios - Guardian of fire
 7. Sabaoth - Guardian of air
 
-Recite the following invocation: "I invoke and call upon the Seven Ophite Archons, celestial beings of divine wisdom and power, to join me in this sacred space."
+**Recite the following invocation**: "I invoke and call upon the Seven Ophite Archons, celestial beings of divine wisdom and power, to join me in this sacred space."
 **Step 5**: Invocation of Sophia and the Serpent
 Hold the serpent statue or image and recite the following invocation: "I, a seeker of transcendent gnosis, call upon you, Sophia, divine wisdom, and the Serpent, the liberator, the great guiding force of my soul. Grant me the power to achieve an unwavering spiritual shield against negative forces and align me with your divine knowledge and wisdom."
 **Step 6**: Chant from Sacred Texts and Meditation

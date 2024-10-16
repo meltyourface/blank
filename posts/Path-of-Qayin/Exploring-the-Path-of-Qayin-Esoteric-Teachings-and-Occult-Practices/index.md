@@ -35,9 +35,9 @@ The Path of Qayin, also known as the Way of Cain, is an enigmatic and potent set
 
 ### II. Spiritual Significance
 
-The Black Flame: Qayin is frequently associated with the Black Flame in esoteric literature. The Black Flame symbolizes divine consciousness and godhood, which practitioners claim a divine spark ignites within them. This divine spark is said to grant metaphysical potency, spiritual freedom, and mastery over one's destiny.
+**The Black Flame**: Qayin is frequently associated with the Black Flame in esoteric literature. The Black Flame symbolizes divine consciousness and godhood, which practitioners claim a divine spark ignites within them. This divine spark is said to grant metaphysical potency, spiritual freedom, and mastery over one's destiny.
 
-The Mark of Qayin: Practitioners of the Path of Qayin identify strongly with the figure of Qayin as a misunderstood archetype, who despite being cast away from society, becomes a powerful and independent being. This is where the concept of the 'Mark of Qayin' comes into play, representing a symbol of both allegiance to the path and an acknowledgment of one's dedication to personal transformation and liberation.
+**The Mark of Qayin**: Practitioners of the Path of Qayin identify strongly with the figure of Qayin as a misunderstood archetype, who despite being cast away from society, becomes a powerful and independent being. This is where the concept of the 'Mark of Qayin' comes into play, representing a symbol of both allegiance to the path and an acknowledgment of one's dedication to personal transformation and liberation.
 
 ### III. Associated Occult Practices
 

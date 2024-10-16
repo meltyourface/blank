@@ -23,17 +23,17 @@ In the shadows of the ancient world, where truth mingles with deception, the Ord
 
 The Origins of the OAM
 
-The OAM traces its origins to the fall of the Tower of Babel, whose collapse created a cacophony of confused languages. ****Amidst the chaos, a hidden sect of magicians recognized the immense power that lay in the art of intentional misinterpretation, misdirection, and obscurity. They united under a mantra****: "In Discordia Veritas" - in discord, there is truth. Over time, the OAM's influence spread, with their tendrils entwining historical events, shaping human destiny subtly and effectively.
+The OAM traces its origins to the fall of the Tower of Babel, whose collapse created a cacophony of confused languages. **Amidst the chaos, a hidden sect of magicians recognized the immense power that lay in the art of intentional misinterpretation, misdirection, and obscurity. They united under a mantra**: "In Discordia Veritas" - in discord, there is truth. Over time, the OAM's influence spread, with their tendrils entwining historical events, shaping human destiny subtly and effectively.
 
 Hierarchy and Structure
 
 The society is structured around the Hierarchy of the Five Voluminous Tomes, each representing a different aspect of Misinterpretation Ceremonial Magick. At the apex of the hierarchy sits the Grand Archivex, the master of all five tomes, who remains hidden even to their closest acolytes. Beneath the Grand Archivex are the Shelf Keepers, the skilled leaders for each Tome.
 
-1. ****The Tome of Befuddlement****: Practitioners who excel in creating confusion and misunderstandings.
-2. ****The Tome of Untanglement****: Experts in cryptic languages and codes.
-3. ****The Tome of Ephemeral Realities****: Conjurers who weave illusions and distort physical reality.
-4. ****The Tome of Whispered Influences****: Manipulators who bend the will of others through subliminal messaging and suggestion.
-5. ****The Tome of Converged Paradoxes****: Time-bending magicians, changing the past to reshape the future.
+1. **The Tome of Befuddlement**: Practitioners who excel in creating confusion and misunderstandings.
+2. **The Tome of Untanglement**: Experts in cryptic languages and codes.
+3. **The Tome of Ephemeral Realities**: Conjurers who weave illusions and distort physical reality.
+4. **The Tome of Whispered Influences**: Manipulators who bend the will of others through subliminal messaging and suggestion.
+5. **The Tome of Converged Paradoxes**: Time-bending magicians, changing the past to reshape the future.
 
 Arcane Symbols and Allegories
 

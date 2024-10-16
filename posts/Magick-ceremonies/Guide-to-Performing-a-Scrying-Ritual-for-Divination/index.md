@@ -34,7 +34,7 @@ excerpt: >
 
 Begin by choosing a quiet and secluded area for the ritual, preferably indoors and away from interruptions. Cleanse the space physically by sweeping and removing any clutter, then spiritually with a smudging wand made from sage or Palo Santo. Position a circular table or altar in the center of the space.
 
-Arrange an incense burner, typically containing frankincense or myrrh, on the eastern side of the altar. ****Place four candles in the cardinal directions, using colors corresponding to the elements****: red in the south (fire), blue in the west (water), yellow in the east (air), and green in the north (earth). Prepare a chalice of salted water and a dish of earth on the altar.
+Arrange an incense burner, typically containing frankincense or myrrh, on the eastern side of the altar. **Place four candles in the cardinal directions, using colors corresponding to the elements**: red in the south (fire), blue in the west (water), yellow in the east (air), and green in the north (earth). Prepare a chalice of salted water and a dish of earth on the altar.
 
 Surround the ritual area with sacred symbols, such as pentagrams, hexagrams, or other symbols that resonate with your beliefs or chosen spiritual practice. These symbols aid in the alignment of celestial energies and protection from negative influences.
 

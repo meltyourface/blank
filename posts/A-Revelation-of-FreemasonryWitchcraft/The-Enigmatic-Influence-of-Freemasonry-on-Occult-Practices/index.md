@@ -34,10 +34,10 @@ The rituals performed within Masonic lodges served to deepen the understanding a
 
 In addition, Freemasonry had a significant influence on popular perception of occult practices in several ways:
 
-1. ****Secret societies****: The secretive nature of Freemasonry led to the proliferation of other secret societies like the Illuminati and the development of conspiracy theories around these organizations, further fueling interest in the hidden world of the occult.
+1. **Secret societies**: The secretive nature of Freemasonry led to the proliferation of other secret societies like the Illuminati and the development of conspiracy theories around these organizations, further fueling interest in the hidden world of the occult.
 
-2. ****Influence on popular culture****: The symbols, rituals, and mythology of Freemasonry became embedded in the popular imagination and have been referenced or incorporated into numerous works of art, architecture, literature, and film.
+2. **Influence on popular culture**: The symbols, rituals, and mythology of Freemasonry became embedded in the popular imagination and have been referenced or incorporated into numerous works of art, architecture, literature, and film.
 
-3. ****Spread of esoteric knowledge****: Many key figures in the occult revival of the 19th century were Freemasons or influenced by Freemasonry, such as Éliphas Lévi, Arthur Edward Waite, and Helena Petrovna Blavatsky. Their work drew upon the symbolic knowledge and traditions of Freemasonry to create new systems of esoteric thought, including modern Western ceremonial magic and theosophy.
+3. **Spread of esoteric knowledge**: Many key figures in the occult revival of the 19th century were Freemasons or influenced by Freemasonry, such as Éliphas Lévi, Arthur Edward Waite, and Helena Petrovna Blavatsky. Their work drew upon the symbolic knowledge and traditions of Freemasonry to create new systems of esoteric thought, including modern Western ceremonial magic and theosophy.
 
 While the other options - the persecution of witches during the European witch trials, the influence of the Hermetic Order of the Golden Dawn, and the rediscovery and popularization of the Kabbalah during the Renaissance - contributed to the development and perception of occult practices, the initiation rituals and mysterious symbolism of the Freemasons was, in my opinion, the most significant factor. The impact of Freemasonry on the development of Western esotericism and popular perception of occult practices is extensive and far-reaching, and it continues to resonate in contemporary occult thought and culture.

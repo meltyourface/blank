@@ -31,27 +31,27 @@ Large country houses have captivated the human imagination for centuries, with t
 
 Large country houses, by their very nature, evoke a sense of mystery and otherworldliness. **The architectural styles, sprawling gardens, and hidden chambers are often imbued with symbolic meaning, standing testament to the ancient ties between the occult and the great dynasties that built these houses. Some examples of such symbolism include**:
 
-1. ****Symmetry and Proportions****: Many large country houses are built according to sacred geometries and numeric proportions that reflect cosmic harmony and balance. Examples include the Golden Ratio and Platonic Solids. These proportions create energetic resonance with the spiritual realms and facilitate the flow of subtle energies.
+1. **Symmetry and Proportions**: Many large country houses are built according to sacred geometries and numeric proportions that reflect cosmic harmony and balance. Examples include the Golden Ratio and Platonic Solids. These proportions create energetic resonance with the spiritual realms and facilitate the flow of subtle energies.
 
-2. ****Masonic and Hermetic Symbols****: The architectural designs of large country houses might incorporate alchemical, Masonic, or other esoteric symbols in their motifs, statues, and floor plans. These symbols serve as markers, signaling the deep connections between these houses and their occult heritage.
+2. **Masonic and Hermetic Symbols**: The architectural designs of large country houses might incorporate alchemical, Masonic, or other esoteric symbols in their motifs, statues, and floor plans. These symbols serve as markers, signaling the deep connections between these houses and their occult heritage.
 
 ### Chapter 3: Harnessing the Energies within Large Country Houses
 
 Practitioners of the esoteric arts can tap into the energies inherent in large country houses, using various methods. These can serve as catalysts for personal transformation and deeper understanding of the occult.
 
-1. ****Ley Lines****: Large country houses are often built on ley lines, powerful lines of energy that crisscross the Earth’s surface. By attuning to these energies and meditating in specific locations within the house, practitioners can enhance their psychic abilities and mystical experiences.
+1. **Ley Lines**: Large country houses are often built on ley lines, powerful lines of energy that crisscross the Earth’s surface. By attuning to these energies and meditating in specific locations within the house, practitioners can enhance their psychic abilities and mystical experiences.
 
-2. ****Psychometry****: This practice involves accessing information about the history of an object or place by touching or being in close proximity to it. In large country houses, practitioners can explore the energetic imprints left behind by previous occupants or historic events, providing a deeper understanding of the house’s spiritual legacy.
+2. **Psychometry**: This practice involves accessing information about the history of an object or place by touching or being in close proximity to it. In large country houses, practitioners can explore the energetic imprints left behind by previous occupants or historic events, providing a deeper understanding of the house’s spiritual legacy.
 
 ### Chapter 4: Ritual Practices and Tools in Large Country Houses
 
 Various ritual practices and tools may be unique to large country houses, facilitating the harnessing of energies for spiritual growth. **Some of these include**:
 
-1. ****The Manor Ritual****: This ritual involves anchoring the energies of the four cardinal directions within a large country house, to create a space of balance and protection. Practitioners often use tools such as a ritual dagger, wand, chalice, and pentacle to represent the elements of fire, air, water, and earth as they perform the ritual.
+1. **The Manor Ritual**: This ritual involves anchoring the energies of the four cardinal directions within a large country house, to create a space of balance and protection. Practitioners often use tools such as a ritual dagger, wand, chalice, and pentacle to represent the elements of fire, air, water, and earth as they perform the ritual.
 
-2. ****Chamber of Initiation****: Many large country houses have hidden chambers or rooms that can serve as portals for accessing higher states of consciousness. By performing rituals in these chambers, the practitioner can draw upon the energies of the space to undergo spiritual initiations and elevate their understanding of the occult.
+2. **Chamber of Initiation**: Many large country houses have hidden chambers or rooms that can serve as portals for accessing higher states of consciousness. By performing rituals in these chambers, the practitioner can draw upon the energies of the space to undergo spiritual initiations and elevate their understanding of the occult.
 
-3. ****Celestial Alignments****: Large country houses may have features designed to align with celestial events, such as solstices or equinoxes. Taking advantage of these celestial alignments can amplify the effectiveness of one’s magical work.
+3. **Celestial Alignments**: Large country houses may have features designed to align with celestial events, such as solstices or equinoxes. Taking advantage of these celestial alignments can amplify the effectiveness of one’s magical work.
 
 ### Chapter 5: Conclusion
 

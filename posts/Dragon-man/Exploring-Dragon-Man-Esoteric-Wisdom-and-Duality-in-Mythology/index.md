@@ -27,7 +27,7 @@ The Dragon-man archetype typically embodies a dual nature, that of a fierce, pow
 
 Higher Aspects of Esoteric Wisdom and Spiritual Alchemy:
 
-Spiritual alchemy is a transformation process through which one's consciousness is refined and elevated until it merges with the divine. ****It involves transmuting base aspects of oneself, represented symbolically by base metals, into a higher state of being or "gold." Spiritual alchemy is often comprised of three stages****: Nigredo (blackening), Albedo (whitening), and Rubedo (reddening). These correspond to spiritual purification, illumination, and unification, respectively.
+Spiritual alchemy is a transformation process through which one's consciousness is refined and elevated until it merges with the divine. **It involves transmuting base aspects of oneself, represented symbolically by base metals, into a higher state of being or "gold." Spiritual alchemy is often comprised of three stages**: Nigredo (blackening), Albedo (whitening), and Rubedo (reddening). These correspond to spiritual purification, illumination, and unification, respectively.
 
 The higher aspects of esoteric wisdom frequently emphasize the importance of recognizing and reconciling the dual nature that exists within all things, including oneself. By integrating the opposing forces, an individual can achieve spiritual awakening and harmony, allowing them to access deeper layers of truth, understanding, and self-realization. This transformative process is intimately connected to the dual nature of Dragon-man, as it represents the journey from the instinctual, chaotic aspects of the self to the wisdom and spiritual enlightenment associated with the transcendent nature of dragons.
 

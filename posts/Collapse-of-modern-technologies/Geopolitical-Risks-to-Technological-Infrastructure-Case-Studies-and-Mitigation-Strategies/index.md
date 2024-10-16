@@ -28,7 +28,7 @@ The Cuban Missile Crisis showcased how political ideologies and international co
 Case Study 2: Stuxnet Worm (2010)
 The Stuxnet worm was a malicious computer worm that targeted the Iranian nuclear program. This worm was reportedly developed by the United States and Israel in an effort to slow down or halt Iran's nuclear ambitions. The Stuxnet worm showcased how countries could use cyber warfare to sabotage critical infrastructure. However, the potential for these types of attacks to escalate into more extensive destruction or retaliation could cause wide-ranging technological collapses.
 
-Hypothetical Scenario: Trade War Leading to a Global Technological Collapse
+**Hypothetical Scenario**: Trade War Leading to a Global Technological Collapse
 In this scenario, a trade dispute between two major powers escalates to the point where both countries ban the export of essential technical components or intellectual property to each other. This leads to a severe disruption in global supply chains, causing a cascading failure in the production and maintenance of critical technology and infrastructure. The disruption in international trade could cause a ripple effect that damages global communication networks and disrupts power grids.
 
 Potential Countermeasures and Mitigation Strategies

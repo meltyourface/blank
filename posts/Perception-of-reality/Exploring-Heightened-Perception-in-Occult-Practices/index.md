@@ -46,11 +46,11 @@ Developing and trusting one's intuition is crucial, and it involves regular prac
 
 Developing heightened perception requires dedication and consistent practice. **Some effective methods to incorporate into regular routines include**:
 
-a. ****Meditation****: Practicing meditation helps to quiet the mind and open oneself up to subtler vibrations. It aids in connecting with the metaphysical realm and refining intuitive abilities. Various meditative practices, such as mindfulness, transcendental meditation, or visualization, can be employed.
+a. **Meditation**: Practicing meditation helps to quiet the mind and open oneself up to subtler vibrations. It aids in connecting with the metaphysical realm and refining intuitive abilities. Various meditative practices, such as mindfulness, transcendental meditation, or visualization, can be employed.
 
-b. ****Divination****: This practice involves using various tools (like tarot cards, runes, or astrology) to access metaphysical information and enhance psychic abilities. Consistency, reflection, and a genuine understanding of the techniques are essential for successful divination.
+b. **Divination**: This practice involves using various tools (like tarot cards, runes, or astrology) to access metaphysical information and enhance psychic abilities. Consistency, reflection, and a genuine understanding of the techniques are essential for successful divination.
 
-c. ****Astral Projection****: Also known as out-of-body experiences, astral projection helps to explore the metaphysical realm directly. To achieve this state, the adept must cultivate deep relaxation and focused visualization.
+c. **Astral Projection**: Also known as out-of-body experiences, astral projection helps to explore the metaphysical realm directly. To achieve this state, the adept must cultivate deep relaxation and focused visualization.
 
 ### 2.2 Memory and Symbolism
 

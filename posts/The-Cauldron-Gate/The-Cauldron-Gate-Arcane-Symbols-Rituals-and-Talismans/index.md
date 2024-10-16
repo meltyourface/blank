@@ -30,21 +30,21 @@ Within the enigmatic realm known as the Cauldron Gate lies a complex web of arca
 
 In this chapter, we journey into the heart of the Cauldron Gate's arcane symbology, exploring the ways in which practitioners utilize these enigmatic symbols to harness the powers within, and revealing the insights they provide into the mystical realm. 
 
-1. ****Sigil of the Three Flames****: A symbol representing the triad of power – creation, preservation, and destruction – the Sigil of the Three Flames is an integral component in rituals of transformation. We shall examine the intertwining histories of its origin, the significance of its design, and the ways in which adepts employ it to manipulate realities.
+1. **Sigil of the Three Flames**: A symbol representing the triad of power – creation, preservation, and destruction – the Sigil of the Three Flames is an integral component in rituals of transformation. We shall examine the intertwining histories of its origin, the significance of its design, and the ways in which adepts employ it to manipulate realities.
 
-2. ****The Eye of Nebiros****: A potent symbol of protection and forbidden knowledge, the Eye of Nebiros is often invoked in rites of divination and warding. We shall delve into its enigmatic history, unveiling the role it played in the rise and fall of secret orders and deciphering the myriad interpretations that have arisen from its use.
+2. **The Eye of Nebiros**: A potent symbol of protection and forbidden knowledge, the Eye of Nebiros is often invoked in rites of divination and warding. We shall delve into its enigmatic history, unveiling the role it played in the rise and fall of secret orders and deciphering the myriad interpretations that have arisen from its use.
 
-3. ****The Cryptic Circle of Lost Wanderers****: A symbol of transformation and the cyclical nature of existence, the Cryptic Circle of Lost Wanderers represents the unfathomable journey of the soul and its connection to the Cauldron Gate. In this section, we chart the path of this sigil throughout the centuries and explore the ways in which practitioners have incorporated it into their rituals and talismans.
+3. **The Cryptic Circle of Lost Wanderers**: A symbol of transformation and the cyclical nature of existence, the Cryptic Circle of Lost Wanderers represents the unfathomable journey of the soul and its connection to the Cauldron Gate. In this section, we chart the path of this sigil throughout the centuries and explore the ways in which practitioners have incorporated it into their rituals and talismans.
 
 ### Chapter II: Rituals and Arcane Practices
 
 In this chapter, we unravel the intricacies of the practices and ceremonies employed by those who seek to commune with the powers of the Cauldron Gate, and how the symbols discussed in Chapter I are utilized within these structures.
 
-1. ****Rituals of the Three Flames****: Here, we delve into the rites dedicated to the energies personified by the Sigil of the Three Flames, revealing the processes through which practitioners channel these powers in order to enact transformation.
+1. **Rituals of the Three Flames**: Here, we delve into the rites dedicated to the energies personified by the Sigil of the Three Flames, revealing the processes through which practitioners channel these powers in order to enact transformation.
 
-2. ****The Rites of Nebiros****: The enigmatic practices associated with the Eye of Nebiros are elucidated in this section, providing insight into the ceremonies and invocations that evoke the protective and visionary powers of this ancient symbol.
+2. **The Rites of Nebiros**: The enigmatic practices associated with the Eye of Nebiros are elucidated in this section, providing insight into the ceremonies and invocations that evoke the protective and visionary powers of this ancient symbol.
 
-3. ****The Labyrinth of Lost Wanderers****: In this segment, we outline the labyrinthine rites that employ the Cryptic Circle of Lost Wanderers, deciphering the steps to traverse the complex pathways of existence and transformation symbolized by this arcane sigil.
+3. **The Labyrinth of Lost Wanderers**: In this segment, we outline the labyrinthine rites that employ the Cryptic Circle of Lost Wanderers, deciphering the steps to traverse the complex pathways of existence and transformation symbolized by this arcane sigil.
 
 ### Chapter III: Talismans and Tools
 

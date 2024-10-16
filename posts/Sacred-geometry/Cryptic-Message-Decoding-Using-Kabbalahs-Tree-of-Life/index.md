@@ -87,7 +87,7 @@ In our hypothetical encoded message "ADGH KNPF JBEI MCLO":
 The meaningful sequence we have extracted:
 - 1 - 4 - 6 - 9 - 2 - 7 - 5 - 8 - 10 - 5 - 10 - 9 - 6 - 7 - 4
 
-Now convert the numerals back to English letters: A - D - F - I - B - G - E - H - J -  E - J - I - F - G - D
+**Now convert the numerals back to English letters**: A - D - F - I - B - G - E - H - J -  E - J - I - F - G - D
 **Step 5**: Analyze the decrypted message and examine any hidden symbolism:
 The decoded message reads: "A DIFFERENT KNOWLEDGE"
 

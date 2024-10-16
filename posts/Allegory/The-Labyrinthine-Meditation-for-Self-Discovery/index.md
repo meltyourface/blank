@@ -22,7 +22,7 @@ excerpt: Design an allegorical meditation practice that directs the practitioner
 
 ## The Labyrinthine Inner Quest
 
-Description: The Labyrinthine Inner Quest is an allegorical meditation practice designed to guide practitioners on an intricately-crafted inner journey through symbolic realms, populated by archetypal symbols, ancient sigils, astrological associations, and mystical beings. Its purpose is to encourage profound self-reflection and unveil the hidden aspects of one's psyche.
+**Description**: The Labyrinthine Inner Quest is an allegorical meditation practice designed to guide practitioners on an intricately-crafted inner journey through symbolic realms, populated by archetypal symbols, ancient sigils, astrological associations, and mystical beings. Its purpose is to encourage profound self-reflection and unveil the hidden aspects of one's psyche.
 
 Stage 1: Preparing the Vessel
 

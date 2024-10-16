@@ -40,7 +40,7 @@ Epagomenal days, known as the "Little Month" or "Nasi," are added to make sure t
 
 The Coptic calendar is closely aligned with the heliacal rising of Sirius, known as Sothis in Ancient Egyptian. This astronomical event marked the start of the Ancient Egyptian New Year and Inundation season, when the Nile River flooded.
 
-The Coptic calendar also has a strong connection with regional agricultural practices. ****Each of the twelve 30-day months is associated with one of the three critical seasons in the farming cycle****: Inundation, Emergence, and Harvest. Moreover, Coptic months still retain their ancient Egyptian names, reflecting their connection with agricultural and natural events.
+The Coptic calendar also has a strong connection with regional agricultural practices. **Each of the twelve 30-day months is associated with one of the three critical seasons in the farming cycle**: Inundation, Emergence, and Harvest. Moreover, Coptic months still retain their ancient Egyptian names, reflecting their connection with agricultural and natural events.
 
 4. **Comprehensive Analysis**:
 

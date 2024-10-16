@@ -21,7 +21,7 @@ excerpt: Construct a spell by combining the intricate facets of contemporary wit
 ---
 Spell: The Abundance Beacon
 
-Desired Outcome: To attract prosperity and wealth while offering protection from psychic attacks.
+**Desired Outcome**: To attract prosperity and wealth while offering protection from psychic attacks.
 
 **Ingredients**:
 1. Green or gold candle (to symbolize prosperity)
@@ -34,7 +34,7 @@ Desired Outcome: To attract prosperity and wealth while offering protection from
 
 **Sigil**: Design a sigil that incorporates the rune Fehu (for wealth, prosperity, and abundance), the Eye of Horus (protection against negative energies), and the infinity symbol (endless abundance). Draw this sigil on a small piece of paper.
 
-Lunar phase and astrological alignment: Execute the spell during a waxing moon or a full moon in the sign of Taurus, as it is an earth sign associated with wealth, abundance, and stability.
+**Lunar phase and astrological alignment**: Execute the spell during a waxing moon or a full moon in the sign of Taurus, as it is an earth sign associated with wealth, abundance, and stability.
 
 **Procedure**:
 1. Begin by cleansing your space with the smoke of dragon's blood resin or by sprinkling salt around the area. 

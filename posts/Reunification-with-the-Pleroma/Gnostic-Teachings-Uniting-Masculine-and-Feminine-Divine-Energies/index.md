@@ -25,7 +25,7 @@ Focusing on the Nag Hammadi library, I have deciphered and translated a passage 
 
 "Jesus saw infants being suckled. He said to his disciples, 'These infants being suckled are like those who enter the kingdom.' They said to him, 'Shall we then, as children, enter the kingdom?' Jesus said to them, 'When you make the two one, and when you make the inside like the outside and the outside like the inside, and the above like the below, and when you make the male and the female one and the same, then you will enter the kingdom.'"
 
-Cosmological Concepts: Aeons, Archons, and the Demiurge:
+**Cosmological Concepts**: Aeons, Archons, and the Demiurge:
 
 In Gnostic cosmology, Aeons are divine emanations or aspects of the true God ("the Pleroma"), containing pairs of masculine and feminine energies representing various divine attributes. Archons, on the other hand, are rulers subordinate to the Demiurge, a lesser god responsible for creating the flawed, material world. The Demiurge is often depicted as an ignorant or malevolent force who traps the divine sparks contained within human beings, preventing their reunification with the Pleroma.
 

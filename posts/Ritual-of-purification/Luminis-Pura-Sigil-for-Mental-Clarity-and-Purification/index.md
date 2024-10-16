@@ -28,7 +28,7 @@ The Luminis Pura is a sigil specifically designed for the Ritual of Purification
 
 Sigil Construction:
 
-The Luminis Pura sigil combines symbols from ancient esoteric traditions, creating a unique and intricate design. ****The sigil is composed of four primary elements****: the Circle, the Lotus, the Pentagram, and the Lemniscate.
+The Luminis Pura sigil combines symbols from ancient esoteric traditions, creating a unique and intricate design. **The sigil is composed of four primary elements**: the Circle, the Lotus, the Pentagram, and the Lemniscate.
 
 1. **The Circle**:
 The circle is the outer boundary of the sigil. It symbolizes wholeness, infinity, and protection. In the context of the Ritual of Purification, the circle serves as a container for the energy generated within, while also shielding the practitioner from external influences.
@@ -37,7 +37,7 @@ The circle is the outer boundary of the sigil. It symbolizes wholeness, infinity
 The lotus is the central motif of the sigil. It is an ancient symbol of purity, enlightenment, and spiritual awakening. The lotus in the Luminis Pura sigil has eight petals, representing the eight-fold path to enlightenment in Buddhism. In the Ritual of Purification, the lotus serves as a focal point for the cleansing and harmonizing of energy, aiding in mental clarity and spiritual growth.
 
 3. **The Pentagram**:
-Encircling the lotus is a five-pointed star, or pentagram. ****The pentagram is a potent symbol of balance and unity, embodying the harmonious interplay of the five elements****: earth, air, fire, water, and spirit. In the Luminis Pura sigil, the pentagram represents the purification and transformation of energy as it flows through the physical and spiritual realms.
+Encircling the lotus is a five-pointed star, or pentagram. **The pentagram is a potent symbol of balance and unity, embodying the harmonious interplay of the five elements**: earth, air, fire, water, and spirit. In the Luminis Pura sigil, the pentagram represents the purification and transformation of energy as it flows through the physical and spiritual realms.
 
 4. **The Lemniscate**:
 Interwoven with the pentagram is the lemniscate, or infinity symbol. The lemniscate represents the cyclical nature of existence, perpetuity, and the interconnectedness of all things. In the context of the Ritual of Purification, the lemniscate represents the continuous flow of energy and the unbreakable bond between the practitioner and the divine.

@@ -22,9 +22,9 @@ excerpt: >
 ---
 Incantation: "Spiritus Experientiae et Experimenti Transmutatur Divitos et Spiritualis Crescendo"
 
-Mystical Mantra: "Spiritusus Transacra Proventus Enastra"
+**Mystical Mantra**: "Spiritusus Transacra Proventus Enastra"
 
-Profound Affirmation: "By the esoteric dance of alchemical fires, I embrace transmutation, transforming my spirit into an overflowing chalice of abundance and growth."
+**Profound Affirmation**: "By the esoteric dance of alchemical fires, I embrace transmutation, transforming my spirit into an overflowing chalice of abundance and growth."
 
 The incantation, "Spiritus Experientiae et Experimenti Transmutatur Divitos et Spiritualis Crescendo," is a sacred and powerful invocation steeped in ancient alchemical symbolism. The phrase itself translates to "Through the spirits of Experience and Experimentation, I transmute myself into an abundant vessel of prosperity and spiritual growth."
 

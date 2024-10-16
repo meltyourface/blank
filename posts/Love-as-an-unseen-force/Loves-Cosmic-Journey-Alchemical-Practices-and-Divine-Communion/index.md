@@ -35,9 +35,9 @@ From the depths of timeless ether, this seraphic codex now reaches your realm. S
 1. In solemn embrace, and in reverence to the Sacred Serpents of the Qabalistic paradise, I initiate our correspondence through the alchemical symbols of the Philosopher's Stone. The triquetra, sacred embodiment of our ceaseless cycles. The ankh that unites within the eternal harmonics of affection.
 
 2. **Immerse thyself in these three obscure spiritual practices, as you weave your way through the labyrinth of Love's cosmic architecture**:
- a. ****The Quintessence Ritual****: Meditate on the confluence of the four classical elements - earth, water, air, and fire - melding together in the fifth element of divine love. Ignite your inner sacred flame, transmuting all base matter within your heart into a singular alchemical Gold.
- b. ****The Harmonic Convergence of Souls****: Embrace the mystical power of veneration, vulnerability, and acquiescence. Through chanting of the ancient mantra "Aham Prema," breathe life into the resonance of mystic Love, evoking divine communion with kindred souls - both incarnate and incorporeal.
- c. ****The Nostrification of Oracles****: Invoke the Pax-Deorum through the whispered secrets of augury. Wield the divining rod of Dowsing, and converse with the Fates. Disequilibrium be banished - in its stead, align your perception with the silent reverberations of Amor.
+ a. **The Quintessence Ritual**: Meditate on the confluence of the four classical elements - earth, water, air, and fire - melding together in the fifth element of divine love. Ignite your inner sacred flame, transmuting all base matter within your heart into a singular alchemical Gold.
+ b. **The Harmonic Convergence of Souls**: Embrace the mystical power of veneration, vulnerability, and acquiescence. Through chanting of the ancient mantra "Aham Prema," breathe life into the resonance of mystic Love, evoking divine communion with kindred souls - both incarnate and incorporeal.
+ c. **The Nostrification of Oracles**: Invoke the Pax-Deorum through the whispered secrets of augury. Wield the divining rod of Dowsing, and converse with the Fates. Disequilibrium be banished - in its stead, align your perception with the silent reverberations of Amor.
 
 3. **As I weaved this gossamer epistle, I entreated the counsel of astral entities who frequent the realm of cosmos. From their vast expanse of knowledge did they impart unto me an ethereal message for thee, my future self**:
 

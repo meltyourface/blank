@@ -28,7 +28,7 @@ On the other hand, the Witch's Sabbat is an event or a gathering of witches, whi
 
 Now let's examine the symbolic and energetic significance of both rituals.
 
-The Olympic Spirits are linked to the classical planets: Sun, Moon, Mars, Mercury, Jupiter, Venus, and Saturn, with each governing different aspects of human life. Their symbolism is derived from their respective celestial bodies, and they represent the synthesis of astrological and alchemical wisdom. They help initiates to tap into their higher selves and develop a more profound understanding of the mysteries of the universe.
+**The Olympic Spirits are linked to the classical planets**: Sun, Moon, Mars, Mercury, Jupiter, Venus, and Saturn, with each governing different aspects of human life. Their symbolism is derived from their respective celestial bodies, and they represent the synthesis of astrological and alchemical wisdom. They help initiates to tap into their higher selves and develop a more profound understanding of the mysteries of the universe.
 
 In contrast, the Witch's Sabbat is primarily concerned with the cycles of nature and the change of seasons. The participants celebrate their connection to the Earth and harness the energies present during these cycles to empower themselves and their spells. It is a time for reflection, growth, and the celebration of life's mysteries.
 

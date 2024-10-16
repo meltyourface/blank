@@ -23,7 +23,7 @@ excerpt: >
 
 ## Title: The Ritual of the Dark Florum
 
-Objective: To unveil hidden knowledge about the malevolent characteristics of nefarious herbs through divination and gain a deeper understanding of their true nature.
+**Objective**: To unveil hidden knowledge about the malevolent characteristics of nefarious herbs through divination and gain a deeper understanding of their true nature.
 
 Required Items:
 
@@ -71,4 +71,4 @@ Peer into the dark depths of the crystal, discerning the shifting patterns or sy
 **Step 4**: Interpretation
 Take note of the symbols you have seen in the crystal and identify their connection to the chosen herbs. Observe the knowledge provided about the malevolence of these plants, uncovering their intricate ties to the arcane and better understanding their nefarious characteristics.
 
-Closure: After the revelation, thank the spirits and herbs for their guidance. Safely extinguish the candles and carefully return the herbs to their natural habitat, imparting gratitude for their wisdom. Store the dark crystal ball in a place of reverence as it now possesses insights into the unfathomable properties of the ominous herbs that dwell within the darkest corners of nature.
+**Closure**: After the revelation, thank the spirits and herbs for their guidance. Safely extinguish the candles and carefully return the herbs to their natural habitat, imparting gratitude for their wisdom. Store the dark crystal ball in a place of reverence as it now possesses insights into the unfathomable properties of the ominous herbs that dwell within the darkest corners of nature.

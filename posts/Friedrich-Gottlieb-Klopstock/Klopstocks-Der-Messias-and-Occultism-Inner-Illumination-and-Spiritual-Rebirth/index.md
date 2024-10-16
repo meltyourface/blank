@@ -45,12 +45,12 @@ excerpt: >
   
   Klopstock's "Der Messias" is a masterful epic poem that embodies the principles of occultism while portraying inner illumination and spiritual rebirth. The story revolves around the passion, crucifixion, and resurrection of Jesus Christ.
   
-  1. ****The underlying spiritual reality****: The poem showcases an interconnected spiritual reality where angels and humans coexist, and divine forces dictate the course of events. This portrayal of the spiritual realm echoes the occult belief in an underlying spiritual reality.
+  1. **The underlying spiritual reality**: The poem showcases an interconnected spiritual reality where angels and humans coexist, and divine forces dictate the course of events. This portrayal of the spiritual realm echoes the occult belief in an underlying spiritual reality.
   
-  2. ****Inner illumination****: Klopstock places significant emphasis on the emotions and inner struggles of both divine and human characters, suggesting the importance of transformation within the self. The poem illustrates the central idea in occultism about attaining self-knowledge and understanding one's purpose in the divine plan.
+  2. **Inner illumination**: Klopstock places significant emphasis on the emotions and inner struggles of both divine and human characters, suggesting the importance of transformation within the self. The poem illustrates the central idea in occultism about attaining self-knowledge and understanding one's purpose in the divine plan.
   
-  3. ****Spiritual transcendence****: The crucifixion and resurrection of Christ in "Der Messias" exemplify the theme of spiritual transcendence. Jesus' resurrection represents the ultimate objective of spiritual growth - the ability to rise above earthly limitations and achieve enlightenment.
+  3. **Spiritual transcendence**: The crucifixion and resurrection of Christ in "Der Messias" exemplify the theme of spiritual transcendence. Jesus' resurrection represents the ultimate objective of spiritual growth - the ability to rise above earthly limitations and achieve enlightenment.
   
-  4. ****Hidden wisdom****: The poem's rich language and imagery, along with its allegorical and symbolic elements, convey hidden spiritual wisdom. This hidden wisdom exemplifies the occult belief that mundane reality veils profound truths and spiritual knowledge.
+  4. **Hidden wisdom**: The poem's rich language and imagery, along with its allegorical and symbolic elements, convey hidden spiritual wisdom. This hidden wisdom exemplifies the occult belief that mundane reality veils profound truths and spiritual knowledge.
   
   In conclusion, Klopstock's "Der Messias" effectively reflects and embodies the principles of occultism. The poem showcases inner illumination and spiritual rebirth, aligning with the central themes of occultism, while simultaneously pushing the boundaries of German literary tradition. It is through this profound and transformative work that Klopstock continues to be remembered as an essential literary figure within both the Age of Enlightenment and the history of esoteric literature.

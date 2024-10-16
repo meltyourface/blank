@@ -21,13 +21,13 @@ excerpt: >
 ---
   To design this sigil that encapsulates the arcane secrets and revelries of Dionysus, we will first examine each element and its significance before weaving them together into an intricate design.
   
-  1. ****Divine association with wine****: This aspect can be represented by using grapevines, grape clusters, and wine glasses in the sigil. Wine was sacred to Dionysus and symbolized the ability to transcend everyday concerns and access the spirit.
+  1. **Divine association with wine**: This aspect can be represented by using grapevines, grape clusters, and wine glasses in the sigil. Wine was sacred to Dionysus and symbolized the ability to transcend everyday concerns and access the spirit.
   
-  2. ****Divine association with ecstasy****: Dionysus was the god of ecstatic and trance states. This element can be represented through spiraling patterns and wild, organic lines that resemble the fluidity of dance, mirroring the uninhibited freedom offered by Dionysus.
+  2. **Divine association with ecstasy**: Dionysus was the god of ecstatic and trance states. This element can be represented through spiraling patterns and wild, organic lines that resemble the fluidity of dance, mirroring the uninhibited freedom offered by Dionysus.
   
-  3. ****Divine association with transformation****: Dionysus was known as a shape-shifting god who transcended the mortal realm and unified opposites. Incorporate symbols of duality, such as the moon and sun or a yin-yang symbol, to represent the transformative power of Dionysus. In addition, include symbols of rebirth and regeneration, such as butterflies or wings.
+  3. **Divine association with transformation**: Dionysus was known as a shape-shifting god who transcended the mortal realm and unified opposites. Incorporate symbols of duality, such as the moon and sun or a yin-yang symbol, to represent the transformative power of Dionysus. In addition, include symbols of rebirth and regeneration, such as butterflies or wings.
   
-  4. ****Thyrsus****: This staff, topped with a pinecone and wrapped in ivy, was an important symbol of Dionysus. Include an elegant thyrsus in the sigil, entwined with grapevines and ivy leaves.
+  4. **Thyrsus**: This staff, topped with a pinecone and wrapped in ivy, was an important symbol of Dionysus. Include an elegant thyrsus in the sigil, entwined with grapevines and ivy leaves.
   
   Now let's create the sigil:
   

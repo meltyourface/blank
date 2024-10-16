@@ -34,7 +34,7 @@ Finally, the Ouroboros is an ancient symbol featuring a serpent or dragon eating
 Now I will design a personal ritual incorporating these four potent symbols to encompass the concepts of life, death, rebirth, and interconnectedness in the following steps:
 
 1. Create a Sacred Space
-Begin by establishing a sacred space for the ritual. ****This can be done by cleansing the area with sacred herbs such as sage or using elemental representations****: a bowl of earth, a lit candle, a bowl of water, and incense.
+Begin by establishing a sacred space for the ritual. **This can be done by cleansing the area with sacred herbs such as sage or using elemental representations**: a bowl of earth, a lit candle, a bowl of water, and incense.
 
 2. Invoke the Elements and Triple Goddess
 Place the Pentacle at the center of the sacred space and use a wand or your finger to trace it, invoking the elements one by one, starting with Earth and moving clockwise (Air, Fire, Water). Finally, invoke the Spirit by making the fifth point, completing the circle, and recite an invocation to the Triple Goddess, calling upon her in each of her aspects.

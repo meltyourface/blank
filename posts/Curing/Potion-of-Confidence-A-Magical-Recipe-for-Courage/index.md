@@ -82,4 +82,4 @@ Instructions:
 Usage:
 Consume 1-2 tablespoons of the potion daily, preferably during sunrise to symbolize a new, confident beginning. Effects should become noticeable within one week, with full potency achieved after 30 consecutive days of consistent use. If the potion becomes less effective or diminishes in potency, it should be remade with a renewed sense of purpose and dedication.
 
-Note: Be sure to source your ingredients ethically and responsibly, and ensure that the recipient of the potion is aware of its effects and possible interactions or reactions.
+**Note**: Be sure to source your ingredients ethically and responsibly, and ensure that the recipient of the potion is aware of its effects and possible interactions or reactions.

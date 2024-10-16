@@ -25,19 +25,19 @@ To begin, the Heptagram star, also known as a septagram or seven-pointed star, i
 
 To illustrate how the Heptagram star encompasses these elements, let us break down the specific planetary, alchemical, and chakra associations:
 
-1. ****Sun - Gold - Solar Plexus Chakra****: The Sun represents the core self, vitality, and energetic source. Gold, its alchemical metal, denotes spiritual wealth and transformation. The Solar Plexus Chakra governs personal power, will, and self-esteem.
+1. **Sun - Gold - Solar Plexus Chakra**: The Sun represents the core self, vitality, and energetic source. Gold, its alchemical metal, denotes spiritual wealth and transformation. The Solar Plexus Chakra governs personal power, will, and self-esteem.
 
-2. ****Moon - Silver - Sacral Chakra****: The Moon symbolizes emotion, intuition, and the inner unconscious realms. Silver, its associated metal, signifies reflection, wisdom, and purity. The Sacral Chakra deals with creativity, sensuality, and emotions.
+2. **Moon - Silver - Sacral Chakra**: The Moon symbolizes emotion, intuition, and the inner unconscious realms. Silver, its associated metal, signifies reflection, wisdom, and purity. The Sacral Chakra deals with creativity, sensuality, and emotions.
 
-3. ****Mars - Iron - Root Chakra****: Mars signifies physical strength, assertiveness, and raw passion. Iron, the associated metal, represents courage and resilience. The Root Chakra is responsible for grounding, survival instincts, and overall stability.
+3. **Mars - Iron - Root Chakra**: Mars signifies physical strength, assertiveness, and raw passion. Iron, the associated metal, represents courage and resilience. The Root Chakra is responsible for grounding, survival instincts, and overall stability.
 
-4. ****Mercury - Mercury (element) - Throat Chakra****: Mercury denotes the mind, communication, and learning processes. Its associated metal, also mercury, signifies mobility, fluidity, and change. The Throat Chakra governs self-expression, authenticity, and communication.
+4. **Mercury - Mercury (element) - Throat Chakra**: Mercury denotes the mind, communication, and learning processes. Its associated metal, also mercury, signifies mobility, fluidity, and change. The Throat Chakra governs self-expression, authenticity, and communication.
 
-5. ****Jupiter - Tin - Crown Chakra****: Jupiter symbolizes growth, expansion, and spiritual progress. Tin, its corresponding metal, denotes protection, freedom, and spiritual blessings. The Crown Chakra represents the connection to the divine, spiritual wisdom, and enlightenment.
+5. **Jupiter - Tin - Crown Chakra**: Jupiter symbolizes growth, expansion, and spiritual progress. Tin, its corresponding metal, denotes protection, freedom, and spiritual blessings. The Crown Chakra represents the connection to the divine, spiritual wisdom, and enlightenment.
 
-6. ****Venus - Copper - Heart Chakra****: Venus signifies love, harmony, and beauty. Copper, the associated metal, represents receptivity, balance, and aesthetic sense. The Heart Chakra deals with love, empathy, and compassion.
+6. **Venus - Copper - Heart Chakra**: Venus signifies love, harmony, and beauty. Copper, the associated metal, represents receptivity, balance, and aesthetic sense. The Heart Chakra deals with love, empathy, and compassion.
 
-7. ****Saturn - Lead - Third Eye Chakra****: Saturn embodies structure, discipline, and karmic patterns. Lead, the corresponding metal, symbolizes alchemical transformation, initiation, and patience. The Third Eye Chakra encompasses intuition, perception, and spiritual insight.
+7. **Saturn - Lead - Third Eye Chakra**: Saturn embodies structure, discipline, and karmic patterns. Lead, the corresponding metal, symbolizes alchemical transformation, initiation, and patience. The Third Eye Chakra encompasses intuition, perception, and spiritual insight.
 
 Now, let us contemplate the specific symbolism of these interrelations in the context of the Heptagram star's role in Western esoteric traditions:
 

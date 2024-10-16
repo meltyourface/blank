@@ -23,23 +23,23 @@ The relationship between the Four Elements and the four stages of Alchemical Tra
 
 Before dissecting the relationship between these two sets of philosophical ideas, it is essential to define and understand each component. **The Four Elements are as follows**:
 
-1. ****Earth****: The Earth represents the physical, material world, solidity, and stability. In the context of mysticism, it signifies the grounded, practical aspects of life, including the physical body and tangible goals.
+1. **Earth**: The Earth represents the physical, material world, solidity, and stability. In the context of mysticism, it signifies the grounded, practical aspects of life, including the physical body and tangible goals.
 
-2. ****Water****: Associated with emotions, intuition, and fluidity, Water symbolizes the ever-changing and cyclical nature of life. It represents emotional intelligence, relationships, and the subconscious mind of the practitioner.
+2. **Water**: Associated with emotions, intuition, and fluidity, Water symbolizes the ever-changing and cyclical nature of life. It represents emotional intelligence, relationships, and the subconscious mind of the practitioner.
 
-3. ****Air****: The realm of abstract thinking, intellect, and communication, Air symbolizes thought and reason. It emphasizes the importance of wisdom, knowledge, and logic in the journey towards enlightenment.
+3. **Air**: The realm of abstract thinking, intellect, and communication, Air symbolizes thought and reason. It emphasizes the importance of wisdom, knowledge, and logic in the journey towards enlightenment.
 
-4. ****Fire****: Fire represents passion, energy, and action. This element signifies the transformative force that ignites one's spiritual journey and drives the practitioner to evolve and grow.
+4. **Fire**: Fire represents passion, energy, and action. This element signifies the transformative force that ignites one's spiritual journey and drives the practitioner to evolve and grow.
 
 As for the stages of Alchemical Transmutation, these four phases compose a symbolic and metaphorical process of spiritual refinement:
 
-1. ****Nigredo****: Also known as the Blackening stage, Nigredo is the initial phase of breaking down old structures, habits, and limiting beliefs. It signifies the destruction of the ego and is often associated with a period of suffering, purification, and facing one's deepest shadows.
+1. **Nigredo**: Also known as the Blackening stage, Nigredo is the initial phase of breaking down old structures, habits, and limiting beliefs. It signifies the destruction of the ego and is often associated with a period of suffering, purification, and facing one's deepest shadows.
 
-2. ****Albedo****: The Whitening stage, Albedo is a period of refinement and inner purification. Following the disintegration experienced in Nigredo, this phase involves rebuilding the self, discovering inner wisdom, and embracing the light and goodness within.
+2. **Albedo**: The Whitening stage, Albedo is a period of refinement and inner purification. Following the disintegration experienced in Nigredo, this phase involves rebuilding the self, discovering inner wisdom, and embracing the light and goodness within.
 
-3. ****Citrinitas****: The Yellowing stage, Citrinitas signifies the merging of the conscious and subconscious minds. The practitioner gains insight into their true nature, leading to an understanding of both their worldly and spiritual selves.
+3. **Citrinitas**: The Yellowing stage, Citrinitas signifies the merging of the conscious and subconscious minds. The practitioner gains insight into their true nature, leading to an understanding of both their worldly and spiritual selves.
 
-4. ****Rubedo****: The Reddening stage, Rubedo represents the culmination of the alchemical process, the attainment of enlightenment or spiritual wholeness. In this stage, the practitioner is fully integrated, with their physical, emotional, mental, and spiritual aspects merged into a harmonious whole.
+4. **Rubedo**: The Reddening stage, Rubedo represents the culmination of the alchemical process, the attainment of enlightenment or spiritual wholeness. In this stage, the practitioner is fully integrated, with their physical, emotional, mental, and spiritual aspects merged into a harmonious whole.
 
 Now, to establish the connection between the Four Elements and the stages of Alchemical Transmutation, it is crucial to demonstrate the interactions and commonalities between these two frameworks. **Each element corresponds to one of the alchemical phases, providing a metaphorical and energetic foundation for the practitioner's transformation**:
 

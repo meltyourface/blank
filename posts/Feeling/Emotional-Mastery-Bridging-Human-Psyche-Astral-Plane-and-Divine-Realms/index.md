@@ -33,23 +33,23 @@ Step-by-step thinking process to achieve higher consciousness through emotions
 
 1. Acknowledge your emotions: Recognize that your emotions are an essential part of your being and provide an essential guidance system. Often, they hold clues to understanding the underlying causes of your circumstances and the potential growth that awaits.
 
-Example scenario: When experiencing an intense feeling of sadness, investigate its origin and try to understand what it is trying to communicate to you about your present situation or past experiences.
+**Example scenario**: When experiencing an intense feeling of sadness, investigate its origin and try to understand what it is trying to communicate to you about your present situation or past experiences.
 
 2. Mastering emotional intelligence: Cultivate emotional intelligence by learning the art of self-awareness, self-regulation, and empathy. By improving your understanding of your own emotions, you can create deeper connections with others and the world around you.
 
-Example scenario: Instead of suppressing feelings of anger or frustration, allow yourself to experience these emotions fully, understanding their origin and potential lessons, then reflecting on how you can handle them in a more constructive manner.
+**Example scenario**: Instead of suppressing feelings of anger or frustration, allow yourself to experience these emotions fully, understanding their origin and potential lessons, then reflecting on how you can handle them in a more constructive manner.
 
 3. Balancing emotions with critical thinking: Strike a balance between emotion and logic to ensure that your decisions and thought processes are grounded in a foundation of both feeling and reason.
 
-Example scenario: When faced with a significant life decision, consider both your emotions and your rational thinking, seeking inner harmony in your thought process.
+**Example scenario**: When faced with a significant life decision, consider both your emotions and your rational thinking, seeking inner harmony in your thought process.
 
 4. Embrace emotional alchemy: Transform negative emotions into positive ones by understanding their origins, learning from them, and consciously shifting your perspective.
 
-Example scenario: Through the process of healing past traumas, you can let go of associated negative emotions, transmuting them into newfound wisdom, empathy, and growth.
+**Example scenario**: Through the process of healing past traumas, you can let go of associated negative emotions, transmuting them into newfound wisdom, empathy, and growth.
 
 5. Unifying the Human Psyche, Astral Plane, and the Divine: Utilize your emotions and experiences to bridge the gap between these three realms, ultimately achieving a state of higher consciousness and spiritual enlightenment.
 
-Example scenario: Engage in spiritual practices that involve embracing emotional vulnerability, such as meditation, energy healing, or journaling, allowing your feelings to become a bridge to accessing divine guidance and wisdom.
+**Example scenario**: Engage in spiritual practices that involve embracing emotional vulnerability, such as meditation, energy healing, or journaling, allowing your feelings to become a bridge to accessing divine guidance and wisdom.
 
 Key themes, ideas, and conclusions
 

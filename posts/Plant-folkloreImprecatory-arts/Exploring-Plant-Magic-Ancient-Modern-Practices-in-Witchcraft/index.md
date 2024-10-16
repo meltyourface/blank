@@ -39,7 +39,7 @@ Contemporary Practices of Plant Folklore and Imprecatory Arts
 
 2. Hoodoo and New World traditions: Hoodoo, a unique blend of African, European, and indigenous American magical practices, places great emphasis on the use of plants for both protection and imprecation. A pivotal part of hoodoo practice involves crafting mojo bags containing various herbs and roots, imbuing each bag with different intentions based on the plants' unique properties.
 
-Evolution of the Practice: Traditional vs. Modern Methods
+**Evolution of the Practice**: Traditional vs. Modern Methods
 
 Traditional methods of plant-based magic often relied upon oral transmission of knowledge, firsthand experience with plants, and experimentation. This trial and error approach enabled practitioners to accumulate a vast knowledge of botanical properties and their assorted uses in spells, charms, and curses.
 

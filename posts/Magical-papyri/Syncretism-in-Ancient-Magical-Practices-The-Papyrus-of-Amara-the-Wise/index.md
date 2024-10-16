@@ -44,7 +44,7 @@ Extensive Annotation, Historical Context, and Linguistic Analysis:
 
 The Papyrus of Amara the Wise hails from Alexandria during the Greco-Egyptian era, where Hellenistic and Egyptian cultures merged. This papyrus is an amalgamation of Greek and Egyptian religious and esoteric ideas. The document shows the syncretism of the god Ptah with the Vedic fire god Agni, suggesting the transmission of knowledge between Egyptian, Greek, and Indian cultures at the time.
 
-The text begins with a standard Egyptian invocation formula: ꜥnḫ-Wr-Wsr, wishing life, prosperity, and health, which is typically found on funerary stelae and in tomb inscriptions. This invocation suggests that the text was meant to bring fortune and protection to the practitioner.
+**The text begins with a standard Egyptian invocation formula**: ꜥnḫ-Wr-Wsr, wishing life, prosperity, and health, which is typically found on funerary stelae and in tomb inscriptions. This invocation suggests that the text was meant to bring fortune and protection to the practitioner.
 
 In the inscription, Amara the Wise calls upon several powerful deities, such as Horus, Ptah, Agni, and Isis, enlisting their aid to bring forth divine powers and hidden knowledge. The text references "those who understand the divine mysteries and the hidden writings," indicating that Amara's intended audience was an exclusive group of skilled magicians. The text also acknowledges the power to control natural forces, spirits, and the elements, alluding to a practical aspect of the manuscript.
 

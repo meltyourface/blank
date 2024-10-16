@@ -49,10 +49,10 @@ Thus, the key lies in understanding and working with both forces concurrently. T
 ### 4.5 Guidance for Students Seeking to Harness Light and Darkness in Magic
 As you explore the realm of the occult and the energies of Light and Darkness, here are some recommendations to help you along your path:
 
-1. ****Begin with self-assessment and reflection****: Determine your personal strengths, weaknesses, and natural inclinations. This knowledge will help you develop a balanced approach to working with both forces.
-2. ****Prioritize balance and integration****: Seek out practices and rituals that encourage the harmonious merging of Light and Darkness. Remember that neither force should be neglected or over-emphasized.
-3. ****Learn from diverse sources****: Study various traditions, cultures, and philosophies to deepen your understanding and appreciation of the complex interplay between Light and Darkness.
-4. ****Embrace challenges****: Growth often occurs in moments of struggle, so don’t be afraid to confront your fears and engage with your shadows.
-5. ****Practice discernment****: Carefully evaluate the sources of your information and the efficacy of your practices. Remain open to revision and adaptation based on your evolving needs and experiences.
+1. **Begin with self-assessment and reflection**: Determine your personal strengths, weaknesses, and natural inclinations. This knowledge will help you develop a balanced approach to working with both forces.
+2. **Prioritize balance and integration**: Seek out practices and rituals that encourage the harmonious merging of Light and Darkness. Remember that neither force should be neglected or over-emphasized.
+3. **Learn from diverse sources**: Study various traditions, cultures, and philosophies to deepen your understanding and appreciation of the complex interplay between Light and Darkness.
+4. **Embrace challenges**: Growth often occurs in moments of struggle, so don’t be afraid to confront your fears and engage with your shadows.
+5. **Practice discernment**: Carefully evaluate the sources of your information and the efficacy of your practices. Remain open to revision and adaptation based on your evolving needs and experiences.
 
 By cultivating a well-rounded and balanced approach to the forces of Light and Darkness, you can experience profound spiritual growth and reap the vast benefits afforded by these energies within the magical realm.

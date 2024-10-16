@@ -28,15 +28,15 @@ The Cosmic Lattice Amulet
 - Quartz crystal, for its amplifying properties and energy conductivity
 
 **Symbols**:
-1. ****The Hermetic Symbol of Unification****: This symbol, composed of Caduceus, a hexagram, and a lemniscate, represents the harmonization of dualities (masculine and feminine; yin and yang) and embodies Hermetic principles, such as "as above, so below."
-2. ****The Kabbalistic Tree of Life****: Incorporated into the design, the ten Sephiroth and twenty-two paths allude to the blueprint of Creation and the roadmap to spiritual enlightenment in Kabbalah.
-3. ****The Egyptian Ankh****: As the symbol of life and fertility, the ankh connects the amulet to ancient Egyptian magical practices and the sacred knowledge of life and death.
-4. ****The Sigil of the Secret Chiefs****: A specifically designed sigil, composed of a series of intertwined glyphs and magical signs, channels the wisdom and guidance from the Secret Chiefs.
+1. **The Hermetic Symbol of Unification**: This symbol, composed of Caduceus, a hexagram, and a lemniscate, represents the harmonization of dualities (masculine and feminine; yin and yang) and embodies Hermetic principles, such as "as above, so below."
+2. **The Kabbalistic Tree of Life**: Incorporated into the design, the ten Sephiroth and twenty-two paths allude to the blueprint of Creation and the roadmap to spiritual enlightenment in Kabbalah.
+3. **The Egyptian Ankh**: As the symbol of life and fertility, the ankh connects the amulet to ancient Egyptian magical practices and the sacred knowledge of life and death.
+4. **The Sigil of the Secret Chiefs**: A specifically designed sigil, composed of a series of intertwined glyphs and magical signs, channels the wisdom and guidance from the Secret Chiefs.
 
 Energetic Properties:
-1. ****Hermeticism****: Integrating the Emerald Tablet’s teachings, the amulet bridges the gap between the macrocosm and the microcosm. The owner's intentions are projected into spiritual planes and influenced by celestial forces.
-2. ****Kabbalah****: The amulet resonates with the energies of different Sephiroth, affecting the user's life according to divine truth and balance.
-3. ****Ancient Egyptian occultism****: The amulet offers protection from all forms of malevolent energies by invoking the protection of the deities.
+1. **Hermeticism**: Integrating the Emerald Tablet’s teachings, the amulet bridges the gap between the macrocosm and the microcosm. The owner's intentions are projected into spiritual planes and influenced by celestial forces.
+2. **Kabbalah**: The amulet resonates with the energies of different Sephiroth, affecting the user's life according to divine truth and balance.
+3. **Ancient Egyptian occultism**: The amulet offers protection from all forms of malevolent energies by invoking the protection of the deities.
 
 Consecration Ritual:
 1. Choose a location infused with high-energy vibrational frequencies, such as a sacred grove or ley line meeting point.

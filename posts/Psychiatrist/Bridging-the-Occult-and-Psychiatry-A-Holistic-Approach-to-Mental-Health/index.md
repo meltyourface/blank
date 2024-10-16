@@ -37,11 +37,11 @@ In the 19th century, the field of psychiatry underwent significant advancements,
 
 Some of the most notable figures who have bridged the gap between the occult and psychiatry include:
 
-1. ****Sigmund Freud****: Freud's extensive studies into the unconscious, dream interpretation, and psychoanalysis were informed by his own readings on the occult, including the study of paranormal phenomena, telepathy, and mystical traditions.
+1. **Sigmund Freud**: Freud's extensive studies into the unconscious, dream interpretation, and psychoanalysis were informed by his own readings on the occult, including the study of paranormal phenomena, telepathy, and mystical traditions.
 
-2. ****Carl Gustav Jung****: Jung's development of analytical psychology was deeply influenced by his study of the occult, particularly the symbolism of alchemy, Gnosticism, and the I Ching. His concepts of archetypes, synchronicity, and the collective unconscious bear evidence of his continued exploration of the esoteric throughout his life.
+2. **Carl Gustav Jung**: Jung's development of analytical psychology was deeply influenced by his study of the occult, particularly the symbolism of alchemy, Gnosticism, and the I Ching. His concepts of archetypes, synchronicity, and the collective unconscious bear evidence of his continued exploration of the esoteric throughout his life.
 
-3. ****William James****: The prominent American psychologist and philosopher, whose interest in mysticism and altered states of consciousness led to the exploration of spiritual practices and their effects on mental health, laid the groundwork for modern transpersonal psychology.
+3. **William James**: The prominent American psychologist and philosopher, whose interest in mysticism and altered states of consciousness led to the exploration of spiritual practices and their effects on mental health, laid the groundwork for modern transpersonal psychology.
 
 ### Chapter 4: Benefits of Esoteric and Psychiatric Integration
 
@@ -49,11 +49,11 @@ By understanding both the esoteric and psychiatric aspects of the human mind, pr
 
 ### Chapter 5: Applications of Occult Knowledge in Psychiatry
 
-1. ****Dream interpretation****: Deriving from the ancient practice of deciphering messages from dreams, modern psychoanalysis uses dream interpretation as a therapeutic tool to explore unconscious desires and motives, as well as uncovering unresolved emotional issues.
+1. **Dream interpretation**: Deriving from the ancient practice of deciphering messages from dreams, modern psychoanalysis uses dream interpretation as a therapeutic tool to explore unconscious desires and motives, as well as uncovering unresolved emotional issues.
 
-2. ****Sandplay therapy****: Developed by Jungian therapist Dora Klaff, sandplay therapy encourages patients to create scenes with miniature figures in a sandbox as a means of expressing their feelings, anxieties, and fantasies. This process shares similarities with the creation of altars in occult practices, designed for spiritual and psychological integration.
+2. **Sandplay therapy**: Developed by Jungian therapist Dora Klaff, sandplay therapy encourages patients to create scenes with miniature figures in a sandbox as a means of expressing their feelings, anxieties, and fantasies. This process shares similarities with the creation of altars in occult practices, designed for spiritual and psychological integration.
 
-3. ****Visualization and guided meditation****: These therapeutic techniques hold ancient roots in esoteric practices that aim to transform the psyche through contemplation and self-exploration. Psychiatrists now incorporate these methods to help patients access their subconscious mind to facilitate healing and personal growth.
+3. **Visualization and guided meditation**: These therapeutic techniques hold ancient roots in esoteric practices that aim to transform the psyche through contemplation and self-exploration. Psychiatrists now incorporate these methods to help patients access their subconscious mind to facilitate healing and personal growth.
 
 ### Chapter 6: Using Occult Knowledge for Deeper Insight
 

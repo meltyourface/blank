@@ -34,27 +34,27 @@ The practice of Necrosophic Sorcery has evolved since its inception, incorporati
 
 ### II. Key Concepts in Necrosophic Sorcery
 
-1. ****The Cycle of Life and Death****: Necrosophic Sorcery recognizes the interconnectedness of life and death, treating them as two sides of the same coin. Both life and death are considered cyclical processes within the cosmos, where the end of one phase signifies the beginning of another. 
+1. **The Cycle of Life and Death**: Necrosophic Sorcery recognizes the interconnectedness of life and death, treating them as two sides of the same coin. Both life and death are considered cyclical processes within the cosmos, where the end of one phase signifies the beginning of another. 
 
-2. ****Spirits and the Afterlife****: A significant focus in Necrosophic Sorcery lies in interacting with the spirits residing in the afterlife - those who have embraced death and transitioned into the spiritual realm. By seeking guidance and knowledge from these entities, practitioners gain insight into the mysteries that bind both life and death together, allowing them to manipulate these forces accordingly.
+2. **Spirits and the Afterlife**: A significant focus in Necrosophic Sorcery lies in interacting with the spirits residing in the afterlife - those who have embraced death and transitioned into the spiritual realm. By seeking guidance and knowledge from these entities, practitioners gain insight into the mysteries that bind both life and death together, allowing them to manipulate these forces accordingly.
 
-3. ****The Ethereal Essence****: Also referred to as the life force or spiritual energy, the Ethereal Essence is the driving force behind all living beings. The study and manipulation of this essence is essential for a Necrosophic Sorcerer to perform spells, rites, and ceremonies effectively.
+3. **The Ethereal Essence**: Also referred to as the life force or spiritual energy, the Ethereal Essence is the driving force behind all living beings. The study and manipulation of this essence is essential for a Necrosophic Sorcerer to perform spells, rites, and ceremonies effectively.
 
 ### III. Principles of Necrosophic Sorcery
 
-1. ****Balance****: A fundamental principle of Necrosophic Sorcery is the need to maintain equilibrium between life and death, understanding that every act that disrupts this balance must eventually be corrected.
+1. **Balance**: A fundamental principle of Necrosophic Sorcery is the need to maintain equilibrium between life and death, understanding that every act that disrupts this balance must eventually be corrected.
 
-2. ****Respect for the Dead****: Necrosophic Sorcerers must have a deep respect for the dead, acknowledging the necessary role of death in the natural order of existence and treating spirits with reverence.
+2. **Respect for the Dead**: Necrosophic Sorcerers must have a deep respect for the dead, acknowledging the necessary role of death in the natural order of existence and treating spirits with reverence.
 
-3. ****Knowledge as Power****: In mastering Necrosophic Sorcery, one must seek knowledge for the betterment and growth of the individual practitioner and for the understanding of the nature of life and death. Knowledge is power, and the diligent study of this esoteric discipline will grant the practitioner the ability to influence these forces.
+3. **Knowledge as Power**: In mastering Necrosophic Sorcery, one must seek knowledge for the betterment and growth of the individual practitioner and for the understanding of the nature of life and death. Knowledge is power, and the diligent study of this esoteric discipline will grant the practitioner the ability to influence these forces.
 
 ### IV. Foundational Spells and Techniques
 
-1. ****Spirit Communication****: The ability to commune with spirits of the afterlife is a cornerstone of Necrosophic Sorcery, allowing the practitioner to forge connections with ancient entities and gain wisdom from their eternal perspective. This requires creating a sacred space, proper invocation, and focused meditation.
+1. **Spirit Communication**: The ability to commune with spirits of the afterlife is a cornerstone of Necrosophic Sorcery, allowing the practitioner to forge connections with ancient entities and gain wisdom from their eternal perspective. This requires creating a sacred space, proper invocation, and focused meditation.
 
-2. ****Channeling the Ethereal Essence****: A practitioner of Necrosophic Sorcery must learn to channel the Ethereal Essence within themselves and control its flow to manifest their intentions. This includes techniques to draw upon one's personal energy reserves or tap into the spiritual energies that surround them.
+2. **Channeling the Ethereal Essence**: A practitioner of Necrosophic Sorcery must learn to channel the Ethereal Essence within themselves and control its flow to manifest their intentions. This includes techniques to draw upon one's personal energy reserves or tap into the spiritual energies that surround them.
 
-3. ****The Reanimation Spell****: Reanimating the dead is an advanced but crucial element in the practice of Necrosophic Sorcery. This process entails the transfer of Ethereal Essence from the caster or another source into the physical body of the deceased, reestablishing a connection between the spirit and its former shell. This spell should be used with great caution, as consequences may arise if the balance of life and death is disturbed.
+3. **The Reanimation Spell**: Reanimating the dead is an advanced but crucial element in the practice of Necrosophic Sorcery. This process entails the transfer of Ethereal Essence from the caster or another source into the physical body of the deceased, reestablishing a connection between the spirit and its former shell. This spell should be used with great caution, as consequences may arise if the balance of life and death is disturbed.
 
 Conclusion
 

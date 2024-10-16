@@ -22,9 +22,9 @@ excerpt: Analyze and evaluate a hymn, such as "Amazing Grace" or "How Great Thou
 
 ## Amazing Grace
 
-Written by: John Newton (1725-1807)
+**Written by**: John Newton (1725-1807)
 
-Composition Date: 1779
+**Composition Date**: 1779
 
 **Introduction**: 
 "Amazing Grace" is renowned as one of the most popular and powerful hymns in the Christian tradition. Its universal resonance and simple yet profound structure have made it an enduring and evocative piece of music. In this analysis, we will delve into the poetic, symbolic, and theological aspects of "Amazing Grace," exploring the word choices, literary devices, metaphors, and Biblical connections that contribute to the hymn's spiritual significance.
@@ -46,7 +46,7 @@ The primary symbolism in "Amazing Grace" is drawn from the Bible, specifically f
 
 By alluding to these Biblical passages, "Amazing Grace" establishes its theological grounding. Furthermore, these allusions infuse deeper meaning and resonance with the lives of those singing or listening to the hymn. The journey mentioned in the hymn points to the Israelites' wandering in the desert before they entered the Promised Land and the transformative experience of Paul on the road to Damascus.
 
-Theological Implications: 
+**Theological Implications**: 
 The primary theological theme of "Amazing Grace" is the grace of God as the means of salvation. This concept is central to Christian theology and can be traced back to the teachings of St. Paul. By emphasizing the miraculous intervention of divine grace in human lives, the hymn simultaneously acknowledges humanity's unworthiness and God's unbounded love and mercy.
 
 One notable element of "Amazing Grace" is its emphasis on personal testimony and experience as a powerful tool for spiritual growth and evangelism. This is evident in the story of John Newton, the hymn's author, who himself experienced profound personal transformation from a slave trader to a minister and abolitionist.

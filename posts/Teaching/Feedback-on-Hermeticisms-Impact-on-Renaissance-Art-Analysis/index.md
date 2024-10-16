@@ -51,7 +51,7 @@ To enhance the depth and breadth of your analysis, consider incorporating additi
 
 3. Evaluation of the essay's structure, flow, and coherence:
 
-Your essay generally flows well from one point to another: it starts with an engaging historical overview, followed by in-depth analysis of key artists and their works. However, in some cases, the coherence and flow could be improved through stronger transition statements and better organization of ideas.
+**Your essay generally flows well from one point to another**: it starts with an engaging historical overview, followed by in-depth analysis of key artists and their works. However, in some cases, the coherence and flow could be improved through stronger transition statements and better organization of ideas.
 
 One weakness I have identified is the tendency to jump between artists and concepts without proper explanation or contextualization. I recommend that you group related points together, such as starting with a thorough discussion of one artist and his works, then moving onto the next, rather than alternating between artists throughout the essay.
 

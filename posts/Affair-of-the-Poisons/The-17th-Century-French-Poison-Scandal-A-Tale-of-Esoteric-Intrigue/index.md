@@ -26,7 +26,7 @@ excerpt: Write a brief yet informative text on the historical context of the "Af
 
 The Affair of the Poisons, an infamous scandal deeply rooted in the world of occult and esoteric practices, unleashed a whirlwind of fear, intrigue, and suspicion across 17th century France. Its revelation brought to light numerous allegations of poisonings, witchcraft, and clandestine activities, leading to the arrest, torture, and execution of over thirty individuals. In this chapter, we delve into the historical context surrounding the Affair of the Poisons, exploring key events and individuals involved, and examining the significance and influence of esoteric practices in France at that time.
 
-A Web of Shadows: Historical Context of the Affair of the Poisons:
+**A Web of Shadows**: Historical Context of the Affair of the Poisons:
 
 Unraveling between 1677 and 1682 under the reign of King Louis XIV, the Affair of the Poisons was sparked by a string of mysterious and unexplained deaths among the French aristocracy. These suspicious circumstances drew the attention of the French authorities, headed by Police Lieutenant Gabriel de La Reynie, who carried out a series of investigations in hopes of unveiling the truth behind these inexplicable fatalities.
 

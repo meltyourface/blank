@@ -23,9 +23,9 @@ excerpt: >
 ---
 Within the hidden chamber at the peak of an ancient pyramid, the dim light emitted by a few flickering candles casts eerie shadows on the walls. Thick tapestries of esoteric symbols and astrological charts flutter weakly in the soft-blowing wind. Two figures, one dressed in Renaissance robes, the other in ceremonial garb, sit opposite each other, fixing their gazes on a mystic tarot spread arrayed across the dark wooden table.
 
-Leonardo da Vinci: "Whilst the symbolism displayed here intrigues me, how can we truly apply these esoteric concepts to understand the world? Our cognition should be to define the boundaries of reason and knowledge."
+**Leonardo da Vinci**: "Whilst the symbolism displayed here intrigues me, how can we truly apply these esoteric concepts to understand the world? Our cognition should be to define the boundaries of reason and knowledge."
 
-Aleister Crowley: "Ah, Leonardo, the rationalist! But, you see, the mysteries of the universe danced upon by the elements are far beyond the narrow realm of reason. How can we, bound by flesh and blood, comprehend the ineffable? Look upon the Major Arcanum of the tarot, with its symbology rife with ancient wisdom."
+**Aleister Crowley**: "Ah, Leonardo, the rationalist! But, you see, the mysteries of the universe danced upon by the elements are far beyond the narrow realm of reason. How can we, bound by flesh and blood, comprehend the ineffable? Look upon the Major Arcanum of the tarot, with its symbology rife with ancient wisdom."
 
 **Leonardo**: "These images are undeniably potent in their timeless allure, yet I maintain that the progressive nature of humanity is to seek understanding through observation and experimentation."
 

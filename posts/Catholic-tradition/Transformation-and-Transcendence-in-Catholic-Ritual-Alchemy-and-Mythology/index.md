@@ -31,8 +31,8 @@ Now having explored the individual elements, it is clear that there are profound
 
 To summarize, the key themes binding transubstantiation, alchemy, and the Holy Grail mythology are:
 
-1. ****Transformation****: Each element involves a process of transformation, be it physical or spiritual, turning one substance or state into another.
-2. ****Transcendence****: All three concepts possess a transcendent nature that connects the material world with the divine and immaterial plane of existence.
-3. ****Spiritual Insight and Enlightenment****: Associated with each concept is a quest for personal spiritual growth and a deeper understanding of the divine.
+1. **Transformation**: Each element involves a process of transformation, be it physical or spiritual, turning one substance or state into another.
+2. **Transcendence**: All three concepts possess a transcendent nature that connects the material world with the divine and immaterial plane of existence.
+3. **Spiritual Insight and Enlightenment**: Associated with each concept is a quest for personal spiritual growth and a deeper understanding of the divine.
 
 By understanding these underlying connections, we establish the profound relationship between the concepts of transubstantiation in the Catholic tradition, the process of alchemy in occultism, and the mythology of the Holy Grail within their shared framework of transformative and transcendent nature.

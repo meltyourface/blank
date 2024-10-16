@@ -38,23 +38,23 @@ Throughout the ages, Skrying has continued to evolve and has been adapted for us
 
 Skrying serves several primary purposes in occult practice:
 
-a. ****Divination****: Skrying is often used to predict future events, locate lost objects, or provide answers to specific queries.
+a. **Divination**: Skrying is often used to predict future events, locate lost objects, or provide answers to specific queries.
 
-b. ****Spiritual Guidance****: Skrying can open channels of communication with spirits, ancestors, deities, and otherworldly beings, allowing practitioners to seek guidance and wisdom.
+b. **Spiritual Guidance**: Skrying can open channels of communication with spirits, ancestors, deities, and otherworldly beings, allowing practitioners to seek guidance and wisdom.
 
-c. ****Self-knowledge****: Through Skrying, one can access their subconscious mind and uncover hidden truths or personal insight, leading to growth and self-discovery.
+c. **Self-knowledge**: Through Skrying, one can access their subconscious mind and uncover hidden truths or personal insight, leading to growth and self-discovery.
 
-d. ****Astral Travel****: Some practitioners use Skrying as a gateway to explore other dimensions or access their astral body, allowing them to traverse the astral and etheric planes.
+d. **Astral Travel**: Some practitioners use Skrying as a gateway to explore other dimensions or access their astral body, allowing them to traverse the astral and etheric planes.
 
 3. Basic Techniques and Tools
 
 To begin practicing Skrying, one should choose a visual medium suited to their preferences and aptitudes. **Common tools include**:
 
-a. ****Crystals and stones****: Crystal balls, polished mirrors, or flat surfaces are excellent choices for Skrying. Clear quartz, obsidian, and amethyst are some popular stones used for their clarity and energy properties.
+a. **Crystals and stones**: Crystal balls, polished mirrors, or flat surfaces are excellent choices for Skrying. Clear quartz, obsidian, and amethyst are some popular stones used for their clarity and energy properties.
 
-b. ****Water and oil****: A dark bowl filled with water or oil can create an ideal surface for Skrying, as reflections or ripples may serve as conduits for visions.
+b. **Water and oil**: A dark bowl filled with water or oil can create an ideal surface for Skrying, as reflections or ripples may serve as conduits for visions.
 
-c. ****Flames, smoke, or clouds****: Observing the patterns created by smoke from incense, the flickering of a candle flame, or cloud formations in the sky can induce a trance-like state and facilitate predictions or visions.
+c. **Flames, smoke, or clouds**: Observing the patterns created by smoke from incense, the flickering of a candle flame, or cloud formations in the sky can induce a trance-like state and facilitate predictions or visions.
 
 Beginners should set aside a quiet, dimly-lit space and place their chosen tool on a table or surface at a comfortable height. Sitting in a relaxed, meditative posture, practitioners are encouraged to clear their mind of distractions and focus their gaze on the chosen medium. To help induce the desired trance-like state, maintain gentle, relaxed breathing and avoid blinking or tensing the eyes.
 
@@ -64,12 +64,12 @@ In the initial stages of practice, it's essential to maintain patience and relea
 
 Like any occult art, Skrying requires dedication, practice, and development of one's intuition. **The following tips can help novice practitioners hone their skills**:
 
-a. ****Record Experiences****: Keep a Skrying journal to document impressions, images, and messages received during practice. Over time, this can reveal patterns, growth, and progress in the practitioner's ability.
+a. **Record Experiences**: Keep a Skrying journal to document impressions, images, and messages received during practice. Over time, this can reveal patterns, growth, and progress in the practitioner's ability.
 
-b. ****Enhance Intuition****: Cultivate inner awareness and intuition through meditation, dream analysis, and other psychic development exercises.
+b. **Enhance Intuition**: Cultivate inner awareness and intuition through meditation, dream analysis, and other psychic development exercises.
 
-c. ****Experiment with Tools****: Experimenting with different Skrying tools can help practitioners identify which method is most conducive to their unique sensibilities and abilities.
+c. **Experiment with Tools**: Experimenting with different Skrying tools can help practitioners identify which method is most conducive to their unique sensibilities and abilities.
 
-d. ****Seek Guidance****: Connecting with established practitioners, joining support groups, or seeking the guidance of mentors can provide valuable insights and encouragement.
+d. **Seek Guidance**: Connecting with established practitioners, joining support groups, or seeking the guidance of mentors can provide valuable insights and encouragement.
 
 By diligently refining their Skrying technique, practitioners may experience increased self-awareness, sharper intuition, and a deeper connection to spiritual realms. Ultimately, the path of Skrying leads to a wellspring of mystical wisdom, profound transformation, and an expansion of one's inner sight.

@@ -33,7 +33,7 @@ Sex Magick draws upon a rich tapestry of historical and cultural influences, inc
 ### II. Principles
 At the core of Sex Magick lies the union of opposites, symbolized in many traditions by the fusion of male and female energies. This union generates a third, transcendent force, often equated with divine or creative energy. It is this energy that the practitioner seeks to harness and direct in order to manifest their intentions.
 
-Sex Magick operates on multiple levels: physical, emotional, and spiritual. Each of these dimensions contributes to the overall potency of the ritual, and a skilled practitioner must cultivate and integrate all aspects in order to achieve the desired outcome.
+**Sex Magick operates on multiple levels**: physical, emotional, and spiritual. Each of these dimensions contributes to the overall potency of the ritual, and a skilled practitioner must cultivate and integrate all aspects in order to achieve the desired outcome.
 
 ### III. Practices and Techniques
 Various practices and techniques have been developed to harness the energies in Sex Magick, ranging from solo meditations to partnered rituals.

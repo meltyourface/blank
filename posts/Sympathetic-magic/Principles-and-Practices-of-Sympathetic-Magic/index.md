@@ -27,7 +27,7 @@ Sympathetic magic, often referred to as imitative magic or correspondence magic,
 
 ### I. Principles of Sympathetic Magic
 
-Sympathetic magic operates on two fundamental principles: the Law of Similarity and the Law of Contagion.
+**Sympathetic magic operates on two fundamental principles**: the Law of Similarity and the Law of Contagion.
 
 1. Law of Similarity: This principle states that a symbolic representation or imitation of an object, person, or situation can be manipulated in order to affect the original. This concept relies on the belief that "like attracts like" and is the foundation of such practices as voodoo doll spells and sigil magic.
 

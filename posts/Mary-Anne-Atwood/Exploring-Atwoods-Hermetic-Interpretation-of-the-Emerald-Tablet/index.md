@@ -41,7 +41,7 @@ For instance, Atwood explores the alchemical process of turning base metals into
 
 Influence of Her Father's Teachings
 
-Atwood's father, Thomas South, was a significant influence on her work, particularly in his steadfast commitment to hermetic and alchemical traditions. ****In her interpretation of the Sublime Emerald Tablet, Atwood often refers to her father's ideas on the three principles of alchemy****: Salt, Mercury, and Sulfur. These principles relate to the body, mind, and spirit, respectively.
+Atwood's father, Thomas South, was a significant influence on her work, particularly in his steadfast commitment to hermetic and alchemical traditions. **In her interpretation of the Sublime Emerald Tablet, Atwood often refers to her father's ideas on the three principles of alchemy**: Salt, Mercury, and Sulfur. These principles relate to the body, mind, and spirit, respectively.
 
 Atwood builds on her father's ideas by applying these principles to her analysis, writing that "The unity and synthesis of these three principles within the human being lead to the manifestation of the Divine, resulting in the attainment of the Philosopher's Stone."
 

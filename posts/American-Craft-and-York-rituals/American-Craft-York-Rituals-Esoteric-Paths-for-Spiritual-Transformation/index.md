@@ -46,7 +46,7 @@ The American Craft is built upon four primary pillars of practice:
 
 ### III. Principles and Practices of the York Rite
 
-The York Rite encompasses three primary branches: the Royal Arch, the Cryptic Council, and the Knights Templar. Each branch offers its own unique teachings and degrees, culminating in a holistic system that allows the practitioner to fully develop spiritually and morally. Key elements of the York Rite include:
+**The York Rite encompasses three primary branches**: the Royal Arch, the Cryptic Council, and the Knights Templar. Each branch offers its own unique teachings and degrees, culminating in a holistic system that allows the practitioner to fully develop spiritually and morally. Key elements of the York Rite include:
 
 1. Masonic Teachings: The York Rite builds upon the foundational symbolism and teachings of Freemasonry, elaborating on the moral, philosophical, and spiritual lessons of earlier degrees. This often involves exploring the deeper meanings of Masonic symbols, such as the Square and Compass, the double-headed eagle, and the Blazing Star.
 

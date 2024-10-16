@@ -24,7 +24,7 @@ excerpt: Design a color-coded grimoire for cataloguing demonic entities accordin
 
 **Introduction**: This grimoire serves as an intricate guide in cataloguing demonic entities according to their elemental infernal affiliations. It employs color-coding, esoteric symbols, and sigils to capture the hierarchical structures of these malevolent forces. Additionally, this comprehensive work includes methods for summoning and controlling demons, ensuring its functionality for the adept practitioner of Diabolism.
 
-Color Scheme and Elemental Affiliations: 
+**Color Scheme and Elemental Affiliations**: 
 1. Red - Fire
 2. Blue - Water
 3. Green - Earth
@@ -39,9 +39,9 @@ Each color is symbolized by a sigil, representing the ever-burning flame, a flow
 3. The Demonic Legion (Bronze Swords)
 4. Servant Imps (Copper Chains)
 
-Sigils and Symbols: The left-side margin of the compendium features symbols highly associated with their respective infernal hierarchy tier; golden crowns for Infernal Overlords, silver scepters for Grand Dukes and Duchesses, bronze swords for the Demonic Legion, and copper chains for Servant Imps and its color-coded elemental affiliation.
+**Sigils and Symbols**: The left-side margin of the compendium features symbols highly associated with their respective infernal hierarchy tier; golden crowns for Infernal Overlords, silver scepters for Grand Dukes and Duchesses, bronze swords for the Demonic Legion, and copper chains for Servant Imps and its color-coded elemental affiliation.
 
-Infernal Overlords: The uppermost tier of demonic entities across all elemental dominions:
+**Infernal Overlords**: The uppermost tier of demonic entities across all elemental dominions:
 1. Red - Azmodeus: Fire Demon Overlord, Ruler of Flames
 2. Blue - Leviathan: Water Demon Overlord, Tsunami Tamer
 3. Green - Beelzebul: Earth Demon Overlord, Regent of the Forests
@@ -50,7 +50,7 @@ Infernal Overlords: The uppermost tier of demonic entities across all elemental 
 
 Cross-References: Infernal overlords such as Azmodeus and Beelzebul share the dominion of destruction and chaos. Text in the grimoire is color-coordinated and interwoven with lines connecting overlapping elemental dominions, highlighting intricate connections and relationships for easy navigation.
 
-Summoning and Control: Each demonic entity is accompanied by details specific to summoning and controlling that demon. These summoning rites further intertwine with their respective elemental dominion, using items of symbolic significance.
+**Summoning and Control**: Each demonic entity is accompanied by details specific to summoning and controlling that demon. These summoning rites further intertwine with their respective elemental dominion, using items of symbolic significance.
 
 1. Red - Fire Demons: Requires a blazing pentagram and charred remains of the summoner's birthplace.
 2. Blue - Water Demons:  Conduct rites on a secluded shoreline engulfed by a lunar or solar eclipse.

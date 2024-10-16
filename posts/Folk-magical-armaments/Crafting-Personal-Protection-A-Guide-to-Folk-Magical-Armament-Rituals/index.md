@@ -21,11 +21,11 @@ excerpt: >
 
   1. Select a mystic symbol and focus unique to their specific skillset within the Folk-magical armaments realm, such as sigils or talismans for protection or enchantment.
   
-  2. ****Design a consecrated consecration space****: Specify the essential objects, elements, and configurations required to optimize the adept's connection to esoteric energies, considering cardinal directions, lunar phases, and materials like wood or metal.
+  2. **Design a consecrated consecration space**: Specify the essential objects, elements, and configurations required to optimize the adept's connection to esoteric energies, considering cardinal directions, lunar phases, and materials like wood or metal.
   
-  3. ****Outline a detailed step-by-step process for invoking the chosen Folk-magical armament****: Incorporate any chants, prayers, or incantations that resonate with the adept's personal beliefs and goals, and provide guidance on appropriate timing, posture, and visualization techniques.
+  3. **Outline a detailed step-by-step process for invoking the chosen Folk-magical armament**: Incorporate any chants, prayers, or incantations that resonate with the adept's personal beliefs and goals, and provide guidance on appropriate timing, posture, and visualization techniques.
   
-  4. ****Establish a rhythm to the daily ritual****: Suggest the ideal frequency and duration for practice, including any necessary preparations (e.g., meditation, fasting) and aftercare (e.g., journaling, cleansing) measures.
+  4. **Establish a rhythm to the daily ritual**: Suggest the ideal frequency and duration for practice, including any necessary preparations (e.g., meditation, fasting) and aftercare (e.g., journaling, cleansing) measures.
   
 ---
 1. **Select a mystic symbol and focus unique to their specific skillset within the Folk-magical armaments realm**:

@@ -76,4 +76,4 @@ excerpt: Instruct on the proper selection, utilization, and upkeep routines of i
 2. Monitor PPE usage and establish guidelines for replacement based on its expected lifespan under normal working conditions.
 3. Ensure that replacement PPE is readily available and easily accessible.
 
-Case Study: In 2019, a construction company faced a significant increase in safety incidents and violations. Management implemented a comprehensive safety program, including hazard assessment, PPE selection and fitting, and usage compliance enforcement. By adhering to these best practices, the company reduced its safety incident rate by 75% within one year and received recognition for its commitment to workplace safety.
+**Case Study**: In 2019, a construction company faced a significant increase in safety incidents and violations. Management implemented a comprehensive safety program, including hazard assessment, PPE selection and fitting, and usage compliance enforcement. By adhering to these best practices, the company reduced its safety incident rate by 75% within one year and received recognition for its commitment to workplace safety.

@@ -23,7 +23,7 @@ excerpt: >
 
 ## Cultivating Intuitive Mastery: Esoteric and Occult Foundations
 
-Course Description: This comprehensive curriculum is designed to educate participants on the development and mastery of intuition within the framework of esotericism, occultism, and the Key tenets of sacrality. Students will explore various practices and theories, engage with practical exercises, and deepen their understanding of the interconnectedness of these fields in their journey toward intuitive mastery.
+**Course Description**: This comprehensive curriculum is designed to educate participants on the development and mastery of intuition within the framework of esotericism, occultism, and the Key tenets of sacrality. Students will explore various practices and theories, engage with practical exercises, and deepen their understanding of the interconnectedness of these fields in their journey toward intuitive mastery.
 
 Module 1: Foundations of Esotericism, Occultism, and Sacrality
 
@@ -74,4 +74,4 @@ Module 7: Ethics and Considerations in Intuitive Practice
 ### 7.3 Building Trust and Accountability
 ### 7.4 Respect for Tradition and Cultural Sensitivity
 
-Assessment and Completion: Throughout the course, students will engage in both formal and informal evaluation and feedback to ensure understanding and progress. By the end of the curriculum, participants will have a deep understanding of intuitive development within the frameworks of esotericism, occultism, and sacrality, along with the skills to responsibly harness their intuition in their personal and spiritual practices.
+**Assessment and Completion**: Throughout the course, students will engage in both formal and informal evaluation and feedback to ensure understanding and progress. By the end of the curriculum, participants will have a deep understanding of intuitive development within the frameworks of esotericism, occultism, and sacrality, along with the skills to responsibly harness their intuition in their personal and spiritual practices.

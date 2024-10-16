@@ -38,15 +38,15 @@ Connecting with the Essence of the Dragon-man
 
 Initiating a bond with the Dragon-man requires dedication, passion, and the unwavering acceptance of its teachings. Students are advised to approach this practice with caution, as undisciplined or unsanctified connections can lead to catastrophic outcomes, including the loss of self-identity and physical or spiritual harm.
 
-1. ****Ritual Preparation****: The first step in establishing a link with the Dragon-man begins with the creation of a sacred space dedicated solely to this pursuit. Begin by selecting a quiet, undisturbed area, and cleanse it with the elements of water and fire - using blessed water and the burning of incense such as frankincense, dragon's blood, or sandalwood.
+1. **Ritual Preparation**: The first step in establishing a link with the Dragon-man begins with the creation of a sacred space dedicated solely to this pursuit. Begin by selecting a quiet, undisturbed area, and cleanse it with the elements of water and fire - using blessed water and the burning of incense such as frankincense, dragon's blood, or sandalwood.
 
-2. ****Invocation****: Once the space is prepared, carefully craft an invocation to welcome the Dragon-man's essence into the area. This invocation should include a series of chants, spoken in word or through the silent casting of thought, expressing the practitioner's respect for the Dragon-man and the desire to learn from its immense wisdom.
+2. **Invocation**: Once the space is prepared, carefully craft an invocation to welcome the Dragon-man's essence into the area. This invocation should include a series of chants, spoken in word or through the silent casting of thought, expressing the practitioner's respect for the Dragon-man and the desire to learn from its immense wisdom.
 
-3. ****Sigils and Magical Symbols****: To reinforce and protect the connection, the practitioner must inscribe a series of sigils and magical symbols within the sacred space. These symbols should be drawn from ancient esoteric texts that pertain to the Dragon-man, serving as visual keys that unlock the gate between the mortal realm and the higher planes of knowledge where the Dragon-man resides.
+3. **Sigils and Magical Symbols**: To reinforce and protect the connection, the practitioner must inscribe a series of sigils and magical symbols within the sacred space. These symbols should be drawn from ancient esoteric texts that pertain to the Dragon-man, serving as visual keys that unlock the gate between the mortal realm and the higher planes of knowledge where the Dragon-man resides.
 
-4. ****Meditation and Visualization****: With the invocation spoken and the sigils drawn, the practitioner is now ready to enter a meditative state and establish contact with the Dragon-man. During this stage, one must focus on visualizing the Dragon-man's presence, vividly picturing its form and feeling the rush of elemental power coursing through.
+4. **Meditation and Visualization**: With the invocation spoken and the sigils drawn, the practitioner is now ready to enter a meditative state and establish contact with the Dragon-man. During this stage, one must focus on visualizing the Dragon-man's presence, vividly picturing its form and feeling the rush of elemental power coursing through.
 
-5. ****Record of Insights****: As the connection deepens, the student will begin to perceive the teachings and insights offered by the Dragon-man. It's essential to record these experiences, either through notes or artistic depictions, as a tangible reference and testament to one's journey.
+5. **Record of Insights**: As the connection deepens, the student will begin to perceive the teachings and insights offered by the Dragon-man. It's essential to record these experiences, either through notes or artistic depictions, as a tangible reference and testament to one's journey.
 
 Conclusion
 

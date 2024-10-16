@@ -40,9 +40,9 @@ These stages are usually depicted as allegorical figures and settings. For insta
 
 Role of the Alchemist
 
-The alchemist is more than a scientist or an artist: they are a seeker of wisdom and a facilitator of the alchemical transformation. Alchemists were often well-versed in many disciplines, including chemistry, philosophy, astrology, and medicine. As custodians of the arcane knowledge, their role is twofold: to perform and understand the mechanics of transmutation while experiencing a spiritual journey of self-discovery and transcendence.
+**The alchemist is more than a scientist or an artist**: they are a seeker of wisdom and a facilitator of the alchemical transformation. Alchemists were often well-versed in many disciplines, including chemistry, philosophy, astrology, and medicine. As custodians of the arcane knowledge, their role is twofold: to perform and understand the mechanics of transmutation while experiencing a spiritual journey of self-discovery and transcendence.
 
-Alchemical Transmutation Process: Transforming Base Metals into Gold
+**Alchemical Transmutation Process**: Transforming Base Metals into Gold
 
 The transformation of base metals into gold, known as chrysopoeia, is considered the ultimate alchemical aspiration. This process necessitates the discovery and utilization of the Philosopher's Stone, a legendary substance believed to enable such transmutation, as well as provide potential immortality. The creation of the Philosopher's Stone involves the perfection of the prima materia through the stages of the Magnum Opus, culminating in the Elixir of Life.
 

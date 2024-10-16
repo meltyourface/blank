@@ -36,7 +36,7 @@ The first known publication of the Grand Grimoire occurred in the early 1800s in
 
 The Grand Grimoire has been dubbed one of the most important books in the world of occultism due to its comprehensive representation of esoteric knowledge. Its significance extends to its influence on various magical traditions and practices, including ceremonial magic, witchcraft, and modern occultism.
 
-The book is divided into two main parts: the first, known as the "Doctrine of the Science of Magic," contains theoretical information regarding magical principles, while the second, called the "Practice of the Science of Magic," includes detailed instructions for various rituals and spells.
+**The book is divided into two main parts**: the first, known as the "Doctrine of the Science of Magic," contains theoretical information regarding magical principles, while the second, called the "Practice of the Science of Magic," includes detailed instructions for various rituals and spells.
 
 This dual structure has led to the Grand Grimoire's status as a foundational text for those studying and practicing the occult, providing both a deep understanding of magical theories, as well as practical guidance for the actual implementation of these theories.
 

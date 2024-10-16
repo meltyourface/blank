@@ -46,7 +46,7 @@ Saturn is associated with the number three, which is tied to concepts such as st
 
 5. Saturn and the Sephirots
 
-Saturn corresponds to two primary sephirots within the Tree of Life: Binah and Yesod.
+**Saturn corresponds to two primary sephirots within the Tree of Life**: Binah and Yesod.
 
 a. Binah
 
@@ -58,7 +58,7 @@ Yesod, the ninth sephirot, is fundamental to the astral plane and the unconsciou
 
 6. Saturn and the 32 Paths of Wisdom
 
-Saturn corresponds to two key paths within the Tree of Life: the 18th and the 27th paths.
+**Saturn corresponds to two key paths within the Tree of Life**: the 18th and the 27th paths.
 
 a. The 18th Path
 

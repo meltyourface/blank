@@ -31,11 +31,11 @@ For this analysis, we will examine the painting "The Witches' Examination" (also
 
 Symbolism and Imagery of Witch-pricking:
 
-1. ****Pins and needles****: In the painting, one of the inquisitors is readying a long, sharp needle, intending to pierce the skin of the alleged witch to test her insensitivity to pain—a common method of Witch-pricking. The needle in the inquisitor's hand stands out starkly, representing the inherent danger and pain that will be inflicted on the suspected witch. It's important to note that the success of this method relied on the belief that witches had a "Devil's mark" or insensitive area on their body.
+1. **Pins and needles**: In the painting, one of the inquisitors is readying a long, sharp needle, intending to pierce the skin of the alleged witch to test her insensitivity to pain—a common method of Witch-pricking. The needle in the inquisitor's hand stands out starkly, representing the inherent danger and pain that will be inflicted on the suspected witch. It's important to note that the success of this method relied on the belief that witches had a "Devil's mark" or insensitive area on their body.
 
-2. ****Suspected witch's response****: The alleged witch in the painting appears to be an elderly and frail woman, subjected to harsh treatment. She seems resigned to her cruel fate, which may reflect the mental exhaustion caused by relentless suspicion and relentless pursuit at the hands of witch-hunters.
+2. **Suspected witch's response**: The alleged witch in the painting appears to be an elderly and frail woman, subjected to harsh treatment. She seems resigned to her cruel fate, which may reflect the mental exhaustion caused by relentless suspicion and relentless pursuit at the hands of witch-hunters.
 
-3. ****Witch-hunters presence****: The inquisitors and onlookers in the scene are a mix of ecclesiastical and secular figures, illustrating the collaboration between church and state in the relentless witch-hunt. The sinister expressions on their faces suggest a sense of enjoyment in this gruesome process, symbolizing the widespread acceptance of witch-hunts, and the lack of empathy towards those accused.
+3. **Witch-hunters presence**: The inquisitors and onlookers in the scene are a mix of ecclesiastical and secular figures, illustrating the collaboration between church and state in the relentless witch-hunt. The sinister expressions on their faces suggest a sense of enjoyment in this gruesome process, symbolizing the widespread acceptance of witch-hunts, and the lack of empathy towards those accused.
 
 Historical Context:
 

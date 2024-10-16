@@ -27,7 +27,7 @@ A key tenet of this belief stems from lunar gravitational pull, which impacts ti
 
 Now, let us consider the esoteric symbolism and illustrations found in almanacks. These artworks and writings often serve as a hidden layer of knowledge, waiting to be deciphered by those well-versed in the occult and esoteric arts. They may include astrological symbols, alchemical illustrations, or other mystical representations.
 
-These might have multiple functions: conveying the inherent interconnectedness of celestial and earthly activities; representing various spiritual or metaphysical beliefs; or even encoding secret knowledge for initiates. In turn, the hidden knowledge contained within these almanacks signals a deeper comprehension of the cosmos and a pathway towards spiritual evolution.
+**These might have multiple functions**: conveying the inherent interconnectedness of celestial and earthly activities; representing various spiritual or metaphysical beliefs; or even encoding secret knowledge for initiates. In turn, the hidden knowledge contained within these almanacks signals a deeper comprehension of the cosmos and a pathway towards spiritual evolution.
 
 Pivoting to the Moon's cyclical perturbations, these are the variations in the Moon's orbital path, driven by gravitational forces from celestial bodies such as the Earth and the Sun. These perturbations may manifest as shifts in the Moon's orbit, known as precession and nutation, and can influence not only tides and groundwater levels but also the living organisms on Earth, including humans. By understanding these cycles and incorporating them into almanack predictions and recommendations, a more holistic understanding of the natural world can be gained.
 

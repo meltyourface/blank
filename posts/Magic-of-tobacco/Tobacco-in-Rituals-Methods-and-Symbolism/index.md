@@ -26,7 +26,7 @@ In order to address this knowledge challenge on the magical properties and histo
 
 Tobacco, derived from the leaves of plants in the Nicotiana genus, has been utilized for its psychoactive and medicinal properties for centuries, particularly in the Americas, prior to the arrival of Europeans. The use of tobacco in indigenous societies often went beyond medicinal purposes and became an integral part of religious and spiritual practices. For many indigenous peoples, tobacco represents a sacred gift from the Creator, symbolizing spiritual protection, cleansing, and communion with the spiritual realm.
 
-Methods of Consumption: Different methods of using tobacco in rituals have symbolic meanings, as well as influences on the manifestation of desired outcomes in rituals.
+**Methods of Consumption**: Different methods of using tobacco in rituals have symbolic meanings, as well as influences on the manifestation of desired outcomes in rituals.
 
 1. Smoking: In many traditions, smoking tobacco is a means to facilitate communication with the spiritual realm. When the smoke from burned tobacco leaves rises, it is believed to carry prayers and intentions to the spirits or deities. Smoking tobacco can also serve as a method to induce an altered state of consciousness, making it easier for practitioners to connect with the spiritual world. Ritual pipe smoking, for example, is practiced in many Native American cultures, wherein passing a communal pipe during a ceremony symbolizes unity, prayer, and meditation.
 

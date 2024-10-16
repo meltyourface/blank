@@ -23,21 +23,21 @@ excerpt: >
   
   The Eight Dualities:
   
-  1. ****Light and Dark****: Symbolic of the cyclical nature of existence and the balance between good and evil. The balance between these forces in one's life allows for a harmonious existence that fosters personal growth and spiritual development.
+  1. **Light and Dark**: Symbolic of the cyclical nature of existence and the balance between good and evil. The balance between these forces in one's life allows for a harmonious existence that fosters personal growth and spiritual development.
   
-  2. ****Order and Chaos****: Representing the balance between structure and unpredictability, highlighting the necessity of both organized systems and spontaneity. Recognizing this balance allows individuals to embrace the unknown while maintaining a sense of direction and purpose.
+  2. **Order and Chaos**: Representing the balance between structure and unpredictability, highlighting the necessity of both organized systems and spontaneity. Recognizing this balance allows individuals to embrace the unknown while maintaining a sense of direction and purpose.
   
-  3. ****Material and Spiritual****: This duality signifies the importance of acknowledging both the tangible, physical world and the realm of abstract thought, emotions, and transcendental experiences. This balance creates a holistic approach to life and fosters an awareness of the interconnectedness of all things.
+  3. **Material and Spiritual**: This duality signifies the importance of acknowledging both the tangible, physical world and the realm of abstract thought, emotions, and transcendental experiences. This balance creates a holistic approach to life and fosters an awareness of the interconnectedness of all things.
   
-  4. ****Ego and Selflessness****: These two poles emphasize the importance of striking a balance between individual needs and desires, and the consideration of collective well-being. Achieving such equilibrium allows for a harmonious existence with others and promotes a basis for interconnected growth.
+  4. **Ego and Selflessness**: These two poles emphasize the importance of striking a balance between individual needs and desires, and the consideration of collective well-being. Achieving such equilibrium allows for a harmonious existence with others and promotes a basis for interconnected growth.
   
-  5. ****Knowledge and Intuition****: This duality pertains to the acquisition and use of rational intellect alongside the wisdom of intuition and a deep inner sense of knowing. Understanding this balance leads to an ability to better navigate the complexities of existence and make informed decisions in life.
+  5. **Knowledge and Intuition**: This duality pertains to the acquisition and use of rational intellect alongside the wisdom of intuition and a deep inner sense of knowing. Understanding this balance leads to an ability to better navigate the complexities of existence and make informed decisions in life.
   
-  6. ****Strength and Vulnerability****: Representing the balance of confidence and power with openness, humility, and vulnerability - these qualities enable individuals to live authentically and cultivate the ability to face challenges and adversity with resilience.
+  6. **Strength and Vulnerability**: Representing the balance of confidence and power with openness, humility, and vulnerability - these qualities enable individuals to live authentically and cultivate the ability to face challenges and adversity with resilience.
   
-  7. ****Love and Fear****: These dual forces demonstrate the significance of embracing love as the driving force in life, while acknowledging the influence of fear, which can become an obstacle to growth. Recognizing and balancing these emotions allows for a deep understanding of human nature and the potential for growth and change.
+  7. **Love and Fear**: These dual forces demonstrate the significance of embracing love as the driving force in life, while acknowledging the influence of fear, which can become an obstacle to growth. Recognizing and balancing these emotions allows for a deep understanding of human nature and the potential for growth and change.
   
-  8. ****Creation and Destruction****: Representing the cyclical nature of existence, this duality emphasizes the necessity for both creation and destruction in the process of renewal and personal growth. Recognizing the interdependence of these forces enables individuals to develop a healthy acceptance of life's ever-changing dynamics.
+  8. **Creation and Destruction**: Representing the cyclical nature of existence, this duality emphasizes the necessity for both creation and destruction in the process of renewal and personal growth. Recognizing the interdependence of these forces enables individuals to develop a healthy acceptance of life's ever-changing dynamics.
   
   Interconnection:
   

@@ -31,7 +31,7 @@ Mithraism, often cited as the primary mystery religion of the ancient Roman Empi
 
 3. **Hermeticism**:
 
-Hermeticism is a perennial philosophy rooted in the teachings of Hermes Trismegistus, the scribe of the gods, primarily focused on the mastery and understanding of spiritual alchemy, astrology, and theurgy. ****The central ideas are encapsulated in the Hermetic axioms****: "As above, so below" and "That which is Below corresponds to that which is Above, and that which is Above corresponds to that which is Below", essentially reflecting the interconnectedness of all things in the universe. Hermeticism encourages the seeker to develop their spiritual powers and to ultimately attain a profound understanding of the Divine through self-transformation and the mastery of various esoteric arts.
+Hermeticism is a perennial philosophy rooted in the teachings of Hermes Trismegistus, the scribe of the gods, primarily focused on the mastery and understanding of spiritual alchemy, astrology, and theurgy. **The central ideas are encapsulated in the Hermetic axioms**: "As above, so below" and "That which is Below corresponds to that which is Above, and that which is Above corresponds to that which is Below", essentially reflecting the interconnectedness of all things in the universe. Hermeticism encourages the seeker to develop their spiritual powers and to ultimately attain a profound understanding of the Divine through self-transformation and the mastery of various esoteric arts.
 
 Synthesis and Application:
 

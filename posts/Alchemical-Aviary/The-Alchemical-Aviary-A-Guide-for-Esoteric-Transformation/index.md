@@ -35,21 +35,21 @@ Key Components of the Alchemical Aviary
 
 The Alchemical Aviary is composed of many elements, each with its own distinct properties and purposes. **Four key components that students should be particularly aware of include**:
 
-1. ****Ether****: The refined spiritual substance, which forms the basis of the Alchemical Aviary. Ether is a catalyst for all transformation and enables the transmutation of base materials into those of higher spiritual resonance.
+1. **Ether**: The refined spiritual substance, which forms the basis of the Alchemical Aviary. Ether is a catalyst for all transformation and enables the transmutation of base materials into those of higher spiritual resonance.
 
-2. ****Elements****: The traditional four elements of Fire, Water, Air, and Earth are integral to the workings of alchemy. However, the Alchemical Aviary encompasses additional elements that are relevant to specific esoteric studies. These additional elements give rise to unique combinations necessary for advanced transformative processes.
+2. **Elements**: The traditional four elements of Fire, Water, Air, and Earth are integral to the workings of alchemy. However, the Alchemical Aviary encompasses additional elements that are relevant to specific esoteric studies. These additional elements give rise to unique combinations necessary for advanced transformative processes.
 
-3. ****Magical Creatures****: A diverse array of magical creatures inhabit the Alchemical Aviary, each possessing unique attributes and capabilities for effecting transformation. Amongst the most revered creatures are the Phoenix, the dragon, and the peacock, symbols of rebirth, power, and the unfolding of inner wisdom respectively.
+3. **Magical Creatures**: A diverse array of magical creatures inhabit the Alchemical Aviary, each possessing unique attributes and capabilities for effecting transformation. Amongst the most revered creatures are the Phoenix, the dragon, and the peacock, symbols of rebirth, power, and the unfolding of inner wisdom respectively.
 
-4. ****Symbology****: The Alchemical Aviary is rich with symbolism, originating from various mystical traditions including ancient Hermeticism, Kabbalah, and more. Students must study and decode these symbols to unlock the secrets of the Alchemical Aviary.
+4. **Symbology**: The Alchemical Aviary is rich with symbolism, originating from various mystical traditions including ancient Hermeticism, Kabbalah, and more. Students must study and decode these symbols to unlock the secrets of the Alchemical Aviary.
 
 Harnessing the Power of the Alchemical Aviary
 
 To harness the power of the Alchemical Aviary, students should consider the following practical applications:
 
-1. ****Meditation and Visualization****: Regular practice of meditation and visualization exercises will strengthen the connection to the Alchemical Aviary. By envisioning oneself ascending through the ethereal realms, one can attune to the energies present in this dimension.
+1. **Meditation and Visualization**: Regular practice of meditation and visualization exercises will strengthen the connection to the Alchemical Aviary. By envisioning oneself ascending through the ethereal realms, one can attune to the energies present in this dimension.
 
-2. ****Ritualistic Work****: Performing rituals with the intent to align oneself with the energies of the Alchemical Aviary is vital. This involves the use of sacred tools, invocations, and offerings to attract and direct the energies of the magical creatures to the practitioner.
+2. **Ritualistic Work**: Performing rituals with the intent to align oneself with the energies of the Alchemical Aviary is vital. This involves the use of sacred tools, invocations, and offerings to attract and direct the energies of the magical creatures to the practitioner.
 
 Initiation Ritual for the Alchemical Aviary
 

@@ -37,7 +37,7 @@ This anthology delves into the shadows of humanity's obsession with the Devil, a
 3. Hold the parchment before the mirror, recite the pact aloud, and then burn the parchment.
 4. Wait for the Devil's appearance in the mirror. Negotiate and seal the pact with a handshake.
 
-Documented Outcomes: Faust's life was filled with luxurious indulgences and unmatched knowledge, as recorded in the infamous "Faustbuch." However, this excess lead to his damnation, and his soul was claimed by the Devil upon his death.
+**Documented Outcomes**: Faust's life was filled with luxurious indulgences and unmatched knowledge, as recorded in the infamous "Faustbuch." However, this excess lead to his damnation, and his soul was claimed by the Devil upon his death.
 
 2. Pact of Cyprian (Spain, 3rd Century)
 
@@ -52,7 +52,7 @@ Documented Outcomes: Faust's life was filled with luxurious indulgences and unma
 4. Recite the Latin formula "Pactum Ordo Diabolus" seven times.
 5. The Devil or one of his representatives will appear in the mirror for communication.
 
-Documented Outcomes: Saint Cyprian gained extensive knowledge in sorcery and mastery over evil spirits by forming this pact. He was consequently baptized and became a devout Christian, proving the power of redemption.
+**Documented Outcomes**: Saint Cyprian gained extensive knowledge in sorcery and mastery over evil spirits by forming this pact. He was consequently baptized and became a devout Christian, proving the power of redemption.
 
 3. The Rite of the Goat's Skull (France, 18th Century)
 
@@ -67,7 +67,7 @@ Documented Outcomes: Saint Cyprian gained extensive knowledge in sorcery and mas
 4. Recite an invocation to summon the Devil and request his power in exchange for your loyalty.
 5. Wait in silence for signs of the Devil's presence or a direct response.
 
-Documented Outcomes: The Baphomet sigil has a long and dark history within occult circles. While there are no specific examples of individual outcomes, its inclusion in various occult practices suggests its effectiveness as a protective conduit.
+**Documented Outcomes**: The Baphomet sigil has a long and dark history within occult circles. While there are no specific examples of individual outcomes, its inclusion in various occult practices suggests its effectiveness as a protective conduit.
 
 4. "The Cavern of Midnight" (Modern-day, multi-cultural)
 
@@ -82,7 +82,7 @@ Documented Outcomes: The Baphomet sigil has a long and dark history within occul
 4. Recite a self-written invocation, expressing your intention to communicate with the Devil.
 5. Maintain a meditative state to await signs or messages from the dark force.
 
-Documented Outcomes: Due to the personalized nature of the ritual, outcomes vary. Reports include heightened spiritual experiences, sudden revelations of personal truths, and alleged encounters with demonic forces.
+**Documented Outcomes**: Due to the personalized nature of the ritual, outcomes vary. Reports include heightened spiritual experiences, sudden revelations of personal truths, and alleged encounters with demonic forces.
 
 5. The Call of the Crimson Serpent (Ancient Mesopotamia)
 
@@ -96,7 +96,7 @@ Documented Outcomes: Due to the personalized nature of the ritual, outcomes vary
 3. Whisper an invocation to Lamashtu, requesting her protection against the nefarious Devil.
 4. Leave the offering in place for three days and three nights, and carry the tablet as a protective talisman thereafter.
 
-Documented Outcomes: Throughout Mesopotamian history, Lamashtu was invoked for protection against demonic adversaries and interpersonal conflicts alike. Anecdotal evidence supports its efficacy as a protective measure.
+**Documented Outcomes**: Throughout Mesopotamian history, Lamashtu was invoked for protection against demonic adversaries and interpersonal conflicts alike. Anecdotal evidence supports its efficacy as a protective measure.
 
 6. The Amulet of the Black Cross (Medieval Europe)
 
@@ -110,7 +110,7 @@ Documented Outcomes: Throughout Mesopotamian history, Lamashtu was invoked for p
 3. Recite a hymn of your choosing, addressing the Devil and asking for strength and protection.
 4. Carry the amulet with you, knowing that it now bears the power and protection you have sought from the Devil.
 
-Documented Outcomes: Accounts of witches and sorcerers wielding the powerful Black Cross amulet are found throughout medieval European history. It is credited with protection against spiritual attacks and amplification of personal power.
+**Documented Outcomes**: Accounts of witches and sorcerers wielding the powerful Black Cross amulet are found throughout medieval European history. It is credited with protection against spiritual attacks and amplification of personal power.
 
 **Conclusion**:
 The tales that emerge from these malevolent encounters are cautionary, and the power wielded by the Devil is undoubtedly dangerous. Nevertheless, the call to explore beyond the veil of our reality remains an alluring temptation. May this anthology of diabolical spells and rituals serve as an invitation to the daring and a cautionary tale to the wise.

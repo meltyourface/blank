@@ -45,24 +45,24 @@ Key Elements Drawn from Lovecraft's Works
 
 Several elements from H.P. **Lovecraft's oeuvre serve as a foundation for Lovecraftian Necromancy, including**:
 
-1. ****The Great Old Ones and the Outer Gods****: These eldritch beings of unimaginable power, such as Cthulhu, Nyarlathotep, and Yog-Sothoth, possess knowledge and abilities which can be harnessed by practitioners of this art.
+1. **The Great Old Ones and the Outer Gods**: These eldritch beings of unimaginable power, such as Cthulhu, Nyarlathotep, and Yog-Sothoth, possess knowledge and abilities which can be harnessed by practitioners of this art.
 
-2. ****The Necronomicon****: Written by the "Mad Arab" Abdul Alhazred, this grimoire is considered the ultimate sourcebook for Lovecraftian Necromancy, detailing spells, summoning rituals, and forbidden knowledge relating to the Great Old Ones and the Outer Gods.
+2. **The Necronomicon**: Written by the "Mad Arab" Abdul Alhazred, this grimoire is considered the ultimate sourcebook for Lovecraftian Necromancy, detailing spells, summoning rituals, and forbidden knowledge relating to the Great Old Ones and the Outer Gods.
 
-3. ****The Dreamlands****: A parallel dimension accessible through dreams and meditative states, often used by Lovecraftian Necromancers as a means of establishing contact with otherworldly beings.
+3. **The Dreamlands**: A parallel dimension accessible through dreams and meditative states, often used by Lovecraftian Necromancers as a means of establishing contact with otherworldly beings.
 
-4. ****Non-Euclidean Geometry****: The utilization of arcane mathematical and geometrical formulas to manipulate the fabric of reality in accordance with the practitioner’s will.
+4. **Non-Euclidean Geometry**: The utilization of arcane mathematical and geometrical formulas to manipulate the fabric of reality in accordance with the practitioner’s will.
 
 Practical Applications
 
 Modern Lovecraftian Necromancers, recognizing the inherent danger and risk associated with this esoteric art, approach the practice with an emphasis on caution and subtle manipulation. **Some applications within their repertoire include**:
 
-1. ****Reanimation****: The reawakening of the dead to serve as executors of the necromancer’s will, ranging from thralls of deceased humans and animals to the reconstitution of ancient alien beings or pre-human monstrosities.
+1. **Reanimation**: The reawakening of the dead to serve as executors of the necromancer’s will, ranging from thralls of deceased humans and animals to the reconstitution of ancient alien beings or pre-human monstrosities.
 
-2. ****Resurrection****: Although far more challenging and risky than reanimation, practitioners may attempt the resurrection of a consciousness within a deceased being to acquire knowledge otherwise lost to time.
+2. **Resurrection**: Although far more challenging and risky than reanimation, practitioners may attempt the resurrection of a consciousness within a deceased being to acquire knowledge otherwise lost to time.
 
-3. ****Astral Projection****: Using the connection to the Dreamlands, Lovecraftian Necromancers can explore the vast cosmos, both physical and ethereal, gathering insights from ancient ruins and conversing with beings unimaginable.
+3. **Astral Projection**: Using the connection to the Dreamlands, Lovecraftian Necromancers can explore the vast cosmos, both physical and ethereal, gathering insights from ancient ruins and conversing with beings unimaginable.
 
-4. ****Altered States of Consciousness****: Through the use of ritualistic substances or arcane meditations, practitioners may enter an altered state to enhance their perceptions and connection with cosmic forces.
+4. **Altered States of Consciousness**: Through the use of ritualistic substances or arcane meditations, practitioners may enter an altered state to enhance their perceptions and connection with cosmic forces.
 
 Aspiring occultists drawn to Lovecraftian Necromancy must approach this endeavor with ample respect for the powers they seek to wield, else they risk awakening forces uncontained by mortal comprehension. Tread carefully, for the Outer Gods' elusive whisper may be the last sound you ever hear.

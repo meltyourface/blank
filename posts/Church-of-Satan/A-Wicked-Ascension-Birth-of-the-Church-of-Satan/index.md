@@ -26,7 +26,7 @@ excerpt: Create an elaborate, historically accurate theatrical performance that 
 
 **Structure**: The play will have three acts, with each act exploring the different stages of the Church of Satan's establishment and influence.
 
-Act I: Awakening the Beast
+**Act I**: Awakening the Beast
 
 Scene 1: Introduces Anton Szandor LaVey, founder of the Church of Satan. Anton is shown as a skilled musician and entertainer, often combining his fascination with the occult with his musical performances. In this scene, he hosts a lecture discussing his perspectives on esoteric practices and the shortcomings of modern, conventional religion.
 
@@ -34,7 +34,7 @@ Scene 2: Anton's home, known as the Black House, is revealed to the audience, hi
 
 Scene 3: A supernatural element is introduced as the spirit of Aleister Crowley, influential British occultist, appears to Anton and offers guidance in creating the new church. This scene delves into the academic side of Satanism, with Crowley and Anton discussing their shared admiration for individualism, self-indulgence, and rationality.
 
-Act II: Rising Inferno
+**Act II**: Rising Inferno
 
 Scene 1: Anton and his followers, now a nascent coven, perform a ritual together. The ritual involves both esoteric symbolism and occult paraphernalia, emphasizing the Church's commitment to theatricality and interacting with supernatural forces. The ritual is successful, bolstering the collective resolve to challenge societal norms and religious tradition.
 
@@ -42,7 +42,7 @@ Scene 2: The Church of Satan is officially founded on April 30, 1966 (Walpurgisn
 
 Scene 3: The Church of Satan gains notoriety, attracting celebrities and people from diverse walks of life. However, the growth comes with opposition from conservative religious groups and the media. The scene shows pivotal media interviews where Anton defends the Church and explains the core tenets of LaVeyan Satanism.
 
-Act III: Unholy Legacy
+**Act III**: Unholy Legacy
 
 Scene 1: The Church of Satan evolves with its growing popularity; it begins to influence mainstream entertainment, art, and culture. The scene spotlights cultural figures who have been inspired by the Church and Satanism's principles, like musicians and filmmakers.
 

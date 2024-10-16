@@ -30,7 +30,7 @@ excerpt: >
 
 The synergistic relationships between schools of magic, the planes of existence, and the influence of external forces can be best demonstrated through the combination of Elemental magic, the Elemental planes, and ley lines.
 
-Elemental magic is a diverse and versatile school of magic that is divided into four primary elements: fire, water, earth, and air. These elements serve as the building blocks of the universe and are interconnected in a complex web. Elemental magic focuses on manipulating and mastering these elements to produce various magical effects. Some elemental spells could also involve combinations of these elements, creating even more diverse and powerful effects.
+**Elemental magic is a diverse and versatile school of magic that is divided into four primary elements**: fire, water, earth, and air. These elements serve as the building blocks of the universe and are interconnected in a complex web. Elemental magic focuses on manipulating and mastering these elements to produce various magical effects. Some elemental spells could also involve combinations of these elements, creating even more diverse and powerful effects.
 
 The Elemental planes are dimensions or separate realms of existence that correspond to each of the four primary elements. These planes are deeply intertwined with the workings of the main physical world and can be accessed by powerful elemental magics or summoned creatures. The Elemental planes house various elemental beings, such as the fire elementals from the Plane of Fire or water elementals from the Plane of Water. Each plane has its own unique properties, and some magi believe that harnessing the power of these planes is key to unlocking untold potential in elemental magic.
 

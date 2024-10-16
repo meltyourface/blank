@@ -36,11 +36,11 @@ Gather the following items and materials:
 
 Ritual Structure:
 
-1. ****Begin by setting up the sanctum****: Arrange the black candles in a triangle formation in the center of the space. Place the key, torch, and black dog figurine/image at each corner of the triangle, connecting with Hecate's multifaceted nature. Light the candles and incense to set the atmosphere.
+1. **Begin by setting up the sanctum**: Arrange the black candles in a triangle formation in the center of the space. Place the key, torch, and black dog figurine/image at each corner of the triangle, connecting with Hecate's multifaceted nature. Light the candles and incense to set the atmosphere.
 
-2. ****Purification of the sanctum****: Starting with the element of earth, take the bowl of earth and walk around the perimeter of the sanctum, sprinkling the earth and saying, "By the power of the earth, and the presence of Hecate, I cleanse and purify this space." Repeat this process for each element, using the censer for air, the chalice for water, and the knife or wand for fire.
+2. **Purification of the sanctum**: Starting with the element of earth, take the bowl of earth and walk around the perimeter of the sanctum, sprinkling the earth and saying, "By the power of the earth, and the presence of Hecate, I cleanse and purify this space." Repeat this process for each element, using the censer for air, the chalice for water, and the knife or wand for fire.
 
-3. ****Invocation of Hecate****: Stand in the center of the sanctum, facing the direction of the setting sun, and say the following:
+3. **Invocation of Hecate**: Stand in the center of the sanctum, facing the direction of the setting sun, and say the following:
 
 "Hecate, Mighty Queen of the Crossroads,
 Keeper of the Keys, Torchbearer,
@@ -51,12 +51,12 @@ Illuminate my path with your divine knowledge and transformational energy.
 I invoke thee, Hecate, in the sacred triangle of your triple essence,
 With utmost devotion and sincerity."
 
-4. ****Evoking the realms****: To integrate the celestial, terrestrial, and chthonic aspects of Hecate into the ritual, take a moment to meditate on each realm:
+4. **Evoking the realms**: To integrate the celestial, terrestrial, and chthonic aspects of Hecate into the ritual, take a moment to meditate on each realm:
 
 - Firstly, visualize the heavens above, envisioning Hecate's guidance through the celestial realm with her torch-bearing aspect.
 - Secondly, contemplate the earth below, honoring Hecate's connection to the terrestrial world and her guardianship of crossroads.
 - Lastly, delve into the underworld, acknowledging Hecate's chthonic essence, as she rules and facilitates connections with the spirits.
 
-5. ****Sealing and empowering the sanctum****: Having connected with Hecate and the three realms, retrace the perimeter of the sanctum with the torch, saying, "By the flame of Hecate's torch and her omnipotent protection, I seal and consecrate this sanctum, imbuing it with her transformative energies and divine guidance." Extinguish the candles and incense, leaving the key, torch, and black dog on an altar in the sanctum, as a lasting symbol of Hecate's presence.
+5. **Sealing and empowering the sanctum**: Having connected with Hecate and the three realms, retrace the perimeter of the sanctum with the torch, saying, "By the flame of Hecate's torch and her omnipotent protection, I seal and consecrate this sanctum, imbuing it with her transformative energies and divine guidance." Extinguish the candles and incense, leaving the key, torch, and black dog on an altar in the sanctum, as a lasting symbol of Hecate's presence.
 
 The sanctum is cleansed and consecrated, now aligned with the potent energies and wisdom of Hecate. Enter the space with reverence, and utilize this sacred space to deepen your connection with the primordial goddess of crossroads, magic, and transformation.

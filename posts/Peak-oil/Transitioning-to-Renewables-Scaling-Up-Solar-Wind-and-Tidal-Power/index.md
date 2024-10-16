@@ -23,33 +23,33 @@ In the context of peak oil, the large-scale implementation of renewable energy s
 
 1. Solar Power
 
-Infrastructure requirements: Solar power infrastructure primarily includes large-scale solar farms, rooftop solar installations, energy storage systems, and efficient transmission and distribution systems. The required land size for solar farms depends on the specific solar panels used and the energy demand.
+**Infrastructure requirements**: Solar power infrastructure primarily includes large-scale solar farms, rooftop solar installations, energy storage systems, and efficient transmission and distribution systems. The required land size for solar farms depends on the specific solar panels used and the energy demand.
 
-Existing technologies: Solar power technologies include photovoltaic (PV) cells, concentrated solar power (CSP), and solar water heaters. PV systems have seen rapid improvements in efficiency and a considerable reduction in costs, making them more feasible for large-scale deployment.
+**Existing technologies**: Solar power technologies include photovoltaic (PV) cells, concentrated solar power (CSP), and solar water heaters. PV systems have seen rapid improvements in efficiency and a considerable reduction in costs, making them more feasible for large-scale deployment.
 
-Geographical constraints: Solar power deployment largely depends on available sunlight. Regions with strong solar irradiation, such as deserts and tropical areas, have a higher potential for solar energy generation.
+**Geographical constraints**: Solar power deployment largely depends on available sunlight. Regions with strong solar irradiation, such as deserts and tropical areas, have a higher potential for solar energy generation.
 
-Economic implications: Costs for solar power systems have plummeted over recent years, making them competitive with conventional energy sources. Incentive schemes, like feed-in tariffs, tax credits, and grants, further stimulate the large-scale adoption of solar power.
+**Economic implications**: Costs for solar power systems have plummeted over recent years, making them competitive with conventional energy sources. Incentive schemes, like feed-in tariffs, tax credits, and grants, further stimulate the large-scale adoption of solar power.
 
 2. Wind Power
 
-Infrastructure requirements: Wind power infrastructure requires large land or offshore areas for the installation of wind turbines, as well as transmission lines to distribute the generated energy.
+**Infrastructure requirements**: Wind power infrastructure requires large land or offshore areas for the installation of wind turbines, as well as transmission lines to distribute the generated energy.
 
-Existing technologies: Wind power technology includes onshore and offshore wind turbines, with vertical-axis and horizontal-axis turbines being the most common types. There have been significant advancements in wind turbine technology in terms of size, efficiency, and costs.
+**Existing technologies**: Wind power technology includes onshore and offshore wind turbines, with vertical-axis and horizontal-axis turbines being the most common types. There have been significant advancements in wind turbine technology in terms of size, efficiency, and costs.
 
-Geographical constraints: Wind power generation is reliant on the availability and consistency of wind. Ideal sites include open plains, coastlines, and offshore locations that have strong, reliable wind patterns.
+**Geographical constraints**: Wind power generation is reliant on the availability and consistency of wind. Ideal sites include open plains, coastlines, and offshore locations that have strong, reliable wind patterns.
 
-Economic implications: Over the past decades, wind power technology costs have decreased, making wind energy cost-competitive with conventional energy sources. Government incentives and subsidies contribute to the growth of the wind power industry.
+**Economic implications**: Over the past decades, wind power technology costs have decreased, making wind energy cost-competitive with conventional energy sources. Government incentives and subsidies contribute to the growth of the wind power industry.
 
 3. Tidal Power
 
-Infrastructure requirements: Tidal power infrastructure includes tidal barrage systems, tidal stream generators, and tidal lagoons. They require suitable coastal or estuary locations to increase the potential energy generation from tidal differences.
+**Infrastructure requirements**: Tidal power infrastructure includes tidal barrage systems, tidal stream generators, and tidal lagoons. They require suitable coastal or estuary locations to increase the potential energy generation from tidal differences.
 
-Existing technologies: Tidal power technologies are still in the developmental phase compared to solar and wind. Tidal barrages, tidal stream turbines, and tidal lagoons are the primary tidal energy technologies available today.
+**Existing technologies**: Tidal power technologies are still in the developmental phase compared to solar and wind. Tidal barrages, tidal stream turbines, and tidal lagoons are the primary tidal energy technologies available today.
 
-Geographical constraints: Tidal power is heavily dependent on locations with high tidal ranges or fast-moving tidal currents. Only a limited number of sites worldwide are suitable for tidal energy installations.
+**Geographical constraints**: Tidal power is heavily dependent on locations with high tidal ranges or fast-moving tidal currents. Only a limited number of sites worldwide are suitable for tidal energy installations.
 
-Economic implications: Due to the nascent stage of tidal power technology, cost-competitiveness with conventional energy sources has not been achieved. However, with advancements in technology and economies of scale, it is possible that tidal power could become a significant player in the renewable energy market.
+**Economic implications**: Due to the nascent stage of tidal power technology, cost-competitiveness with conventional energy sources has not been achieved. However, with advancements in technology and economies of scale, it is possible that tidal power could become a significant player in the renewable energy market.
 
 Emerging innovative solutions and possible collaborations:
 

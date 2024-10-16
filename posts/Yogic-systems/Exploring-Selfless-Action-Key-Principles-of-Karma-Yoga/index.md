@@ -29,7 +29,7 @@ Two pivotal verses in the Bhagavad Gita pertaining to the concept of Karma Yoga 
 - Chapter 2, verse 47: "Your right is to work only, but never to its fruits; let not the fruits of action be your motive, nor let your attachment be to inaction."
 - Chapter 3, verse 19: "Therefore, without being attached to the fruits of activities, one should act as a matter of duty; for by working without attachment, one attains the Supreme."
 
-These two verses exemplify the primary tenets of Karma Yoga: renouncing attachment to the fruits of actions and performing duties selflessly.
+**These two verses exemplify the primary tenets of Karma Yoga**: renouncing attachment to the fruits of actions and performing duties selflessly.
 
 2. **Unique Philosophical Concepts**:
 

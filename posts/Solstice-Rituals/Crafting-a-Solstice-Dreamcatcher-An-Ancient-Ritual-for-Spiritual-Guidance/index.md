@@ -22,17 +22,17 @@ excerpt: >
 ---
 Gather the necessary materials to begin crafting the intricate Solstice dreamcatcher:
 
-1. ****A circular frame****: Traditionally made from a flexible branch or vine, such as willow, that can be shaped easily into the circle. The size of the frame depends on your preference; however, it is suggested that a larger frame be used to optimize the energy.
+1. **A circular frame**: Traditionally made from a flexible branch or vine, such as willow, that can be shaped easily into the circle. The size of the frame depends on your preference; however, it is suggested that a larger frame be used to optimize the energy.
 
-2. ****Vibrant strings****: Choose colors and materials symbolizing the Solstice's transformative energy, such as gold for the Sun or silver for the Moon, as well as any colors resonating with intuition and enlightenment, such as purple or indigo.
+2. **Vibrant strings**: Choose colors and materials symbolizing the Solstice's transformative energy, such as gold for the Sun or silver for the Moon, as well as any colors resonating with intuition and enlightenment, such as purple or indigo.
 
-3. ****Symbolic beads****: Collect beads imbued with special meaning, such as those fashioned from the earth's elements (like wood, bone, or stone) or featuring symbols of celestial bodies (sun, moon, stars) or interconnectedness.
+3. **Symbolic beads**: Collect beads imbued with special meaning, such as those fashioned from the earth's elements (like wood, bone, or stone) or featuring symbols of celestial bodies (sun, moon, stars) or interconnectedness.
 
-4. ****Naturally shed feathers****: Search for feathers from birds of wisdom, intuition, or foresight, such as owls, ravens, or eagles. Make sure they are ethically and legally sourced.
+4. **Naturally shed feathers**: Search for feathers from birds of wisdom, intuition, or foresight, such as owls, ravens, or eagles. Make sure they are ethically and legally sourced.
 
-5. ****An intuition-enhancing crystal or rune****: Labradorite or Sodalite crystals to boost intuition, or the Algiz rune for its protective and intuitive properties.
+5. **An intuition-enhancing crystal or rune**: Labradorite or Sodalite crystals to boost intuition, or the Algiz rune for its protective and intuitive properties.
 
-6. ****Sacred tools****: Sage or Palo Santo for smudging, a candle representing Solstice energy, any items connecting you with your chosen deity, and a clear space for performing the consecration ritual.
+6. **Sacred tools**: Sage or Palo Santo for smudging, a candle representing Solstice energy, any items connecting you with your chosen deity, and a clear space for performing the consecration ritual.
 
 With materials gathered, prepare to weave the Solstice dreamcatcher:
 

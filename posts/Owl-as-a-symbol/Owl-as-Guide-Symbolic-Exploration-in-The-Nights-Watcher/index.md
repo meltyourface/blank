@@ -38,7 +38,7 @@ Upon closer examination, we notice numerological significance in the elements of
 
 One of the most intriguing features of the painting is a nearly hidden sigil found on the owl's chest, which can be traced to Agrippa's Three Books of Occult Philosophy. The sigil transmits the idea of seeking balance and harmony, and its discreet presence emphasizes the occult wisdom the owl carries within.
 
-Historical and societal context: 
+**Historical and societal context**: 
 The Night's Watcher was created during the late 19th century, a time ripe with occult resurgence in Western society. Simultaneously, the symbolist art movement was gaining ground, the convergence of these factors in Blackwood's artwork is evident. His painting eloquently demonstrates the multifaceted nature of the owl within a unique and enigmatic framework. 
 
 Thematic connections and concluding analysis:

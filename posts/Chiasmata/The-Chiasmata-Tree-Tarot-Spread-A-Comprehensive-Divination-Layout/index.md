@@ -50,6 +50,6 @@ Card Placement and Interpretation:
 
 Paths (1-22): Each of the 22 paths on the Tree of Life corresponds to one of the 22 Major Arcana cards and connects two Sephiroth (see diagrams of the Tree of Life for the specific connections between the Sephiroth). Cards placed on these paths indicate how the seeker can move between the spheres and suggest steps or actions that should be taken to manifest spiritual progress, facilitate growth, or overcome challenges.
 
-Example interpretation: If the card "The Fool" is placed on the path between Kether and Chokmah, it may indicate that the seeker should be open to new experiences and trust in the guidance of the Divine to foster spiritual growth and creative energy.
+**Example interpretation**: If the card "The Fool" is placed on the path between Kether and Chokmah, it may indicate that the seeker should be open to new experiences and trust in the guidance of the Divine to foster spiritual growth and creative energy.
 
 In summary, the Chiasmata-Tree Tarot spread provides an in-depth exploration of a seeker's spiritual journey and relationship with the ten Sephiroth and the 22 paths of the Tree of Life. It can help guide them to a deeper understanding of their potential and enable their spiritual progress through divinatory insights and self-reflection.

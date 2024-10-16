@@ -46,7 +46,7 @@ Despite its seemingly negative connotations, the Underworld is a vital aspect of
 
 ### Chapter 2: Transitions between Realms and their Magical Applications
 
-Transitioning between realms requires an understanding of two main concepts: the art of astral projection and the ability to attune oneself with the energies of the specific realm. Through disciplined practice and focused intent, one can develop these skills and explore the realms for personal development, fortification of magical abilities, and furthering knowledge in the esoteric.
+**Transitioning between realms requires an understanding of two main concepts**: the art of astral projection and the ability to attune oneself with the energies of the specific realm. Through disciplined practice and focused intent, one can develop these skills and explore the realms for personal development, fortification of magical abilities, and furthering knowledge in the esoteric.
 
 ### 2.1 Astral Projection and the Realms
 

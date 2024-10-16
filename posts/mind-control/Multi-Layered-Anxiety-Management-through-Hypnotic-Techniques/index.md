@@ -33,7 +33,7 @@ Once the individual reaches a state of deep relaxation, utilize deepening techni
 4. Suggestion phase:
 Introduce the hypnotic suggestions tailored to their unique emotional landscape, targeting specific fears and anxieties. Use personalized anchors or "triggers" to create positive associations and connect those anchors to feelings of bravery and self-assurance. Embed subliminal messages within these suggestions using an emotionally evocative language.
 
-Example suggestion: "Whenever you touch your index finger to your thumb, you will feel an overwhelming sense of calm and confidence, knowing that you can conquer any challenge that comes your way."
+**Example suggestion**: "Whenever you touch your index finger to your thumb, you will feel an overwhelming sense of calm and confidence, knowing that you can conquer any challenge that comes your way."
 
 Incorporate multi-layered suggestions aimed at addressing multiple levels of fear or anxiety, enabling the individual to tackle their apprehensions from different angles.
 

@@ -27,21 +27,21 @@ The Gannon's Grimoire method, an established system within the realm of Magical 
 1. Spellcasting Mechanics:
 Gannon's Grimoire method currently uses a three-stage process for spellcasting, involving incantation, gesture, and intention. However, the system lacks the clarity and consistency necessary to improve efficiency and effectiveness.
 
-Improvement Proposal: Introducing a clear and systematic syllable-based language for incantations, with defined meanings, will enhance the accuracy and potency of the spells, eliminating room for errors. A standardized set of gestures, complete with guidelines for proper execution and associated meanings, will also enable practitioners to perform spells with increased precision.
+**Improvement Proposal**: Introducing a clear and systematic syllable-based language for incantations, with defined meanings, will enhance the accuracy and potency of the spells, eliminating room for errors. A standardized set of gestures, complete with guidelines for proper execution and associated meanings, will also enable practitioners to perform spells with increased precision.
 
 Innovative Technique(s): Incorporate a modular spellcasting system, where specific components can be combined or rearranged according to the desired outcome. This will not only increase the versatility of the spells but also allow for the development of new, more intricate spells based on pre-existing components.
 
 2. Energy Manipulation:
 The current energy manipulation process in Gannon's Grimoire method is not optimal, as it tends to expend more energy than necessary.
 
-Improvement Proposal: Develop techniques by which magical energy can be more efficiently channeled and focused, reducing the amount of energy wasted during the process. This may involve introducing energy-conserving visualization techniques or refining the current gesture system.
+**Improvement Proposal**: Develop techniques by which magical energy can be more efficiently channeled and focused, reducing the amount of energy wasted during the process. This may involve introducing energy-conserving visualization techniques or refining the current gesture system.
 
-Innovative Methodology: Introduce the concept of "Charged Foci," which are objects that are pre-charged with magical energy. The practitioner can then draw energy from these foci during spellcasting or invocation, saving their personal energy reserves and ensuring uninterrupted casting.
+**Innovative Methodology**: Introduce the concept of "Charged Foci," which are objects that are pre-charged with magical energy. The practitioner can then draw energy from these foci during spellcasting or invocation, saving their personal energy reserves and ensuring uninterrupted casting.
 
 3. Invocation Procedures:
 Invocation in Gannon's Grimoire method has a prolonged summoning process and often overemphasizes on rituals and sacrifices, which can pose risks to both the practitioner and the environment.
 
-Improvement Proposal: Streamline the invocation process to reduce the time and complexity of summoning entities. Establish safety protocols to minimize the risk to practitioners and the environment, while also creating ethical guidelines in regards to sacrifices.
+**Improvement Proposal**: Streamline the invocation process to reduce the time and complexity of summoning entities. Establish safety protocols to minimize the risk to practitioners and the environment, while also creating ethical guidelines in regards to sacrifices.
 
 Innovative Technique(s): Institute a "Signature Pact" system, where the practitioner establishes a long-term connection with a specific entity or entities. This technique allows for quicker and easier summoning while ensuring that connections are maintained through mutual understanding and agreements with the desired entities.
 

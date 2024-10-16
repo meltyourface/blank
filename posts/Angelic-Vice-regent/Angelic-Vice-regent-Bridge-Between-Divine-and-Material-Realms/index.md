@@ -32,10 +32,10 @@ The notion of the Angelic Vice-regent is rooted in various religious and mystica
 
 Some important points to understand this concept better:
 
-1. ****Overseeing the decisions made by angelic beings****: While overseeing decisions might be a secondary role for the Angelic Vice-regent, their primary responsibility lies in serving as a conduit between the divine and material realms. They facilitate communication between higher powers and humans, rather than primarily supervising other angelic beings.
+1. **Overseeing the decisions made by angelic beings**: While overseeing decisions might be a secondary role for the Angelic Vice-regent, their primary responsibility lies in serving as a conduit between the divine and material realms. They facilitate communication between higher powers and humans, rather than primarily supervising other angelic beings.
 
-2. ****Empowering human beings to cultivate spiritual growth****: While many angels, or spiritual beings, might be involved in helping humans develop spiritually, this is not the specific role of the Angelic Vice-regent. The vice-regent's primary purpose is to deliver divine messages, which might include anything from warnings to guidance to revelations.
+2. **Empowering human beings to cultivate spiritual growth**: While many angels, or spiritual beings, might be involved in helping humans develop spiritually, this is not the specific role of the Angelic Vice-regent. The vice-regent's primary purpose is to deliver divine messages, which might include anything from warnings to guidance to revelations.
 
-3. ****Assisting archangels by wielding authority and wisdom****: Even though the Angelic Vice-regent might be said to possess authority and wisdom, the primary role of this being is not to assist archangels in maintaining balance and order, as stated before, their main role is to facilitate communication of divine messages with humanity.
+3. **Assisting archangels by wielding authority and wisdom**: Even though the Angelic Vice-regent might be said to possess authority and wisdom, the primary role of this being is not to assist archangels in maintaining balance and order, as stated before, their main role is to facilitate communication of divine messages with humanity.
 
 In summary, the Angelic Vice-regent's main responsibility is to bridge the gap between the divine and material realms, ensuring that divine messages are accurately and effectively communicated to humans. By doing so, they play a crucial role in the angelic hierarchy and contribute to the balance and harmony of both the spiritual and physical realms.

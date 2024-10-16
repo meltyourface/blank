@@ -28,7 +28,7 @@ In the realm of the occult, there has long been debate over the role of alcohol 
 
 Throughout history, various cultures and spiritual traditions have employed the use of alcohol in their rituals and mystical practices. In ancient Greece, for example, the Eleusinian Mysteries involved the consumption of a sacred brew, likely psychoactive in nature, which was believed to induce visionary experiences and communion with the gods. Similarly, in the medieval period, European alchemists and herbalists often utilized alcohol-based potions as part of their laboratory work, endeavoring to transform matter and uncover the secrets of the universe.
 
-These examples underscore a significant point: when employed with reverence and purpose, alcohol has the potential to serve as a powerful tool in one's occult practice.
+**These examples underscore a significant point**: when employed with reverence and purpose, alcohol has the potential to serve as a powerful tool in one's occult practice.
 
 ***Section 7.2: Advantages of Utilizing Alcohol in Rituals and Energy Work***
 

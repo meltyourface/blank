@@ -23,13 +23,13 @@ The Heptameron, written by Pietro D'Abano, is a grimoire that focuses on the Gol
 
 To begin unraveling the interconnected web of symbolism and associations, let us first examine the seven Angels governing the days of the week: 
 
-1. ****Sunday****: Michael - associated with the Sun
-2. ****Monday****: Gabriel - associated with the Moon
-3. ****Tuesday****: Samael - associated with Mars
-4. ****Wednesday****: Raphael - associated with Mercury
-5. ****Thursday****: Sachiel - associated with Jupiter
-6. ****Friday****: Anael - associated with Venus
-7. ****Saturday****: Cassiel - associated with Saturn
+1. **Sunday**: Michael - associated with the Sun
+2. **Monday**: Gabriel - associated with the Moon
+3. **Tuesday**: Samael - associated with Mars
+4. **Wednesday**: Raphael - associated with Mercury
+5. **Thursday**: Sachiel - associated with Jupiter
+6. **Friday**: Anael - associated with Venus
+7. **Saturday**: Cassiel - associated with Saturn
 
 Each Angel corresponds to a particular planetary influence, which in turn, reflects a specific sphere of action or aspect of life. For instance, Michael, the Angel of Sunday, is aligned with the Sun, symbolizing illumination, vitality, and leadership. Likewise, Gabriel, the Angel of Monday, is associated with the Moon, encompassing intuition, emotions, and the subconscious.
 

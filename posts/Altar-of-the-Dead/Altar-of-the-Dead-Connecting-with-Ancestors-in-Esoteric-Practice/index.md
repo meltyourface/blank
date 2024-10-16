@@ -33,9 +33,9 @@ The primary purpose of the Altar of the Dead is to provide a physical space wher
 
 In addition to honoring the departed, the altar can be used for various practical applications such as:
 
-1. ****Spiritual guidance and wisdom****: By venerating the spirits of ancestors and seeking their intercession, practitioners can access guidance and wisdom passed down through generations.
-2. ****Ancestral healing****: Through ritual and introspection, the altar may provide a space for healing of family patterns, ancestral trauma, and unresolved issues.
-3. ****Connection to the spirit realm****: Working with the Altar of the Dead can enhance one's intuition and psychic abilities, facilitating communication with the spirit world.
+1. **Spiritual guidance and wisdom**: By venerating the spirits of ancestors and seeking their intercession, practitioners can access guidance and wisdom passed down through generations.
+2. **Ancestral healing**: Through ritual and introspection, the altar may provide a space for healing of family patterns, ancestral trauma, and unresolved issues.
+3. **Connection to the spirit realm**: Working with the Altar of the Dead can enhance one's intuition and psychic abilities, facilitating communication with the spirit world.
 
 ### III. Construction and Placement
 
@@ -43,18 +43,18 @@ The creation of an Altar of the Dead begins with the selection and dedication of
 
 Once the location is determined, the process of constructing the altar can begin. **Essential items to be included on the altar are**:
 
-1. ****An image, statue, or personal items belonging to the deceased****: These items help to create a focus for meditation and veneration, serving as a representation of the departed spirit.
-2. ****Offerings****: Food, drink, or other items are traditionally offered to the deceased to nourish their spirit and demonstrate one's devotion.
-3. ****Incense, candles, or lamps****: These elements represent the elements of air and fire, symbolizing purification and spiritual illumination. They also create a soothing and peaceful atmosphere for contemplation and communion.
-4. ****Sacred symbols and sigils****: Certain symbols or sigils may be used according to one's beliefs, aiding in the harmonizing and concentrating of energy and intent.
+1. **An image, statue, or personal items belonging to the deceased**: These items help to create a focus for meditation and veneration, serving as a representation of the departed spirit.
+2. **Offerings**: Food, drink, or other items are traditionally offered to the deceased to nourish their spirit and demonstrate one's devotion.
+3. **Incense, candles, or lamps**: These elements represent the elements of air and fire, symbolizing purification and spiritual illumination. They also create a soothing and peaceful atmosphere for contemplation and communion.
+4. **Sacred symbols and sigils**: Certain symbols or sigils may be used according to one's beliefs, aiding in the harmonizing and concentrating of energy and intent.
 
 ### IV. Rituals and Ceremonies
 
 There are various rituals and ceremonies associated with the Altar of the Dead, many of which are unique to the individual practitioner's beliefs and traditions. **However, some common practices include**:
 
-1. ****Daily invocations and offerings****: Engaging in regular invocations and presenting offerings can keep the connection to the deceased strong and vibrant, allowing the energies to flow unimpeded.
-2. ****Ancestral veneration meditation****: Sitting in front of the altar and visualizing oneself surrounded by ancestral spirits can facilitate communication and guidance from the deceased. Practitioners may focus on specific questions or concerns before entering a meditative state.
-3. ****Seasonal or anniversary rites****: Commemorating the death anniversaries or seasonal celebrations connected to the deceased can help maintain a meaningful connection and offer ongoing spiritual benefits.
+1. **Daily invocations and offerings**: Engaging in regular invocations and presenting offerings can keep the connection to the deceased strong and vibrant, allowing the energies to flow unimpeded.
+2. **Ancestral veneration meditation**: Sitting in front of the altar and visualizing oneself surrounded by ancestral spirits can facilitate communication and guidance from the deceased. Practitioners may focus on specific questions or concerns before entering a meditative state.
+3. **Seasonal or anniversary rites**: Commemorating the death anniversaries or seasonal celebrations connected to the deceased can help maintain a meaningful connection and offer ongoing spiritual benefits.
 
 **Conclusion**:
 

@@ -79,15 +79,15 @@ Week 11-12: Astral Projection
 **Assessment**:
 
 1. Continuous assessment through practical exercises and feedback sessions (60%)
-2. ****Written assignment****: Case study analyzing the ethical implications of using psychic abilities (20%)
+2. **Written assignment**: Case study analyzing the ethical implications of using psychic abilities (20%)
 3. Final exam consisting of both written and practical components (20%)
 
 Course Materials:
 
 1. "The Clairvoyant Path" by Michelle Beltran
-2. ****"Telepathy****: A Practical Guide to Developing Your Psychic Abilities" by Richard Webster
+2. **"Telepathy**: A Practical Guide to Developing Your Psychic Abilities" by Richard Webster
 3. "The Psychometry Handbook" by Jevon Dangeli
-4. ****"Remote Viewing Secrets****: A Handbook for Developing Your Psychic Abilities" by Joseph McMoneagle
+4. **"Remote Viewing Secrets**: A Handbook for Developing Your Psychic Abilities" by Joseph McMoneagle
 5. "Astral Dynamics" by Robert Bruce
 
 It is recommended that students have their choice of scrying tool, such as a crystal ball, mirror, or bowl of water, as well as a notebook for recording insights and progress throughout the course.

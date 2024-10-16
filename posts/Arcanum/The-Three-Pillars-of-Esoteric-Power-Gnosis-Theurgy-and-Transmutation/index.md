@@ -39,7 +39,7 @@ Theurgy, or the practice of invoking divine energies, bridges the chasm between 
 
 The path of the Arcanum is an initiatory journey through self-discovery and internal alchemy. As students of the occult, we must learn to master the art of transmutation, subtly transforming the raw materials of the self and the world around us. Through introspection, perseverance, and determination, we refine our thoughts, emotions, and actions, to better understand and access the realm of the arcane.
 
-Connecting the Principles: The Hierarchical Axis
+**Connecting the Principles**: The Hierarchical Axis
 
 At the heart of the Arcanum lies the Hierarchical Axis, an unseen yet ever-present thread of connection that unites the Three Pillars. This axis reminds us that while the principles are distinct, they are intrinsically interwoven and in many ways interdependent. The Hierarchical Axis indicates that through gaining Gnosis, mastering Theurgy, and refining our capacity for Transmutation, the veils shrouding the arcane realms can be pushed aside, releasing the wisdom and potential within.
 

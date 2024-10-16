@@ -49,7 +49,7 @@ Throughout the history of Western esotericism, initiation rites have played a pi
 
 Much like other esoteric texts, the Liber Pyramidos is replete with symbols and allegorical references drawn from various mythological, religious, and philosophical sources. **Some of the most prominent symbols within the text include**:
 
-1. ****The Egyptian deities****: Ra, Osiris, Isis, and Horus, representing different aspects of the cosmic drama and the human psyche.
+1. **The Egyptian deities**: Ra, Osiris, Isis, and Horus, representing different aspects of the cosmic drama and the human psyche.
 2. The Ankh, the symbol of eternal life, often associated with the True Will and the realization of one's divine nature.
 3. The Pentagram, symbolizing the balance of the elements and the willpower of the practitioner.
 4. The Rose Cross, a symbol of the union between divine and human consciousness, representing the ultimate goal of the ritual.

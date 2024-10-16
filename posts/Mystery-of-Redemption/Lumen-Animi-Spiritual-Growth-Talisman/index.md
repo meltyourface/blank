@@ -21,9 +21,9 @@ excerpt: Design a talisman intricately connected to the Mystery of Redemption, s
 ---
 Talisman Design:
 
-Name: Lumen Animi (Light of the Soul)
+**Name**: Lumen Animi (Light of the Soul)
 
-Shape: Circular pendant
+**Shape**: Circular pendant
 
 Materials:
 

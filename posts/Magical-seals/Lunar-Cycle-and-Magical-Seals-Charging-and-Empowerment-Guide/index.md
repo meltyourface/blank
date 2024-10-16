@@ -74,11 +74,11 @@ excerpt: >
 
 5. **Example illustrations**:
 
-- Protection Seal: Charged and empowered during the waxing crescent for increasing energetic boundaries and shielding. ****Ideal lunar cycle****: Waxing Crescent.
+- Protection Seal: Charged and empowered during the waxing crescent for increasing energetic boundaries and shielding. **Ideal lunar cycle**: Waxing Crescent.
 
-- Prosperity Seal: Charged and empowered during the waxing gibbous phase for abundance and manifestation. ****Ideal lunar cycle****: Waxing Gibbous.
+- Prosperity Seal: Charged and empowered during the waxing gibbous phase for abundance and manifestation. **Ideal lunar cycle**: Waxing Gibbous.
 
-- Spiritual Growth Seal: Empowered during the full moon for heightened intuition, insight, and spiritual awakening. ****Ideal lunar cycle****: Full Moon.
+- Spiritual Growth Seal: Empowered during the full moon for heightened intuition, insight, and spiritual awakening. **Ideal lunar cycle**: Full Moon.
 
 6. **Safeguards and precautions**:
 

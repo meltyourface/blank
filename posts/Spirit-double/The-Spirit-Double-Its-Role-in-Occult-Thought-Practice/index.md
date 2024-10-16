@@ -37,19 +37,19 @@ In more contemporary Occidental occult practice, the concept of the Spirit-doubl
 
 Significant Theories
 
-1. ****The Astral Body Theory****: According to some beliefs, the Spirit-double, or the Astral Body, is a direct spiritual counterpart to the physical body. Both are connected through a silver cord, which enables the Astral Body to travel throughout the astral plane during an out-of-body experience (OBE) or astral projection, while still remaining connected to the physical realm.
+1. **The Astral Body Theory**: According to some beliefs, the Spirit-double, or the Astral Body, is a direct spiritual counterpart to the physical body. Both are connected through a silver cord, which enables the Astral Body to travel throughout the astral plane during an out-of-body experience (OBE) or astral projection, while still remaining connected to the physical realm.
 
-2. ****The Higher Self Theory****: The Higher Self, another concept pertaining to the Spirit-double, represents the individual's true essence and connection to the divine source. The Higher Self is believed to hold significant wisdom and knowledge and can be accessed through a variety of practices, including meditation and spiritual exercises, to guide and support an individual throughout life.
+2. **The Higher Self Theory**: The Higher Self, another concept pertaining to the Spirit-double, represents the individual's true essence and connection to the divine source. The Higher Self is believed to hold significant wisdom and knowledge and can be accessed through a variety of practices, including meditation and spiritual exercises, to guide and support an individual throughout life.
 
 Related Practices
 
-1. ****Astral Projection****: This practice involves the conscious projection of one's Spirit-double, or Astral Body, into the astral plane. This ethereal experience can provide spiritual growth, self-awareness, and insights into the nature of consciousness and reality. Various techniques are employed to achieve an astral projection, such as deep relaxation, focused concentration, and specific breathing patterns.
+1. **Astral Projection**: This practice involves the conscious projection of one's Spirit-double, or Astral Body, into the astral plane. This ethereal experience can provide spiritual growth, self-awareness, and insights into the nature of consciousness and reality. Various techniques are employed to achieve an astral projection, such as deep relaxation, focused concentration, and specific breathing patterns.
 
-2. ****Spiritual Meditation****: Meditation is a powerful practice that can help individuals develop a deeper connection with their Spirit-double or Higher Self. Through tranquil contemplation and focused intention, a person can cultivate an awareness of their spiritual essence, allowing for the reception of guidance, intuitive knowledge, and healing energy from their Higher Self.
+2. **Spiritual Meditation**: Meditation is a powerful practice that can help individuals develop a deeper connection with their Spirit-double or Higher Self. Through tranquil contemplation and focused intention, a person can cultivate an awareness of their spiritual essence, allowing for the reception of guidance, intuitive knowledge, and healing energy from their Higher Self.
 
-3. ****Dream Work****: Dreams can offer a unique portal to accessing the Spirit-double, as they serve as a bridge between the conscious and unconscious mind. By recording their dreams and engaging in dream analysis, individuals can decipher messages and gain insights from their Spirit-double.
+3. **Dream Work**: Dreams can offer a unique portal to accessing the Spirit-double, as they serve as a bridge between the conscious and unconscious mind. By recording their dreams and engaging in dream analysis, individuals can decipher messages and gain insights from their Spirit-double.
 
-4. ****Rituals and Ceremonies****: Many ritualistic practices and ceremonies aim to strengthen the bond between the physical being and the Spirit-double. These rituals often incorporate the use of sacred objects, chanting, or affirmations to facilitate a deeper connection with one's spiritual counterpart.
+4. **Rituals and Ceremonies**: Many ritualistic practices and ceremonies aim to strengthen the bond between the physical being and the Spirit-double. These rituals often incorporate the use of sacred objects, chanting, or affirmations to facilitate a deeper connection with one's spiritual counterpart.
 
 Potential Benefits
 

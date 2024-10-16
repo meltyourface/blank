@@ -29,19 +29,19 @@ The Hermetic Order of the Golden Dawn, the Rosicrucian Order, and the philosophy
 
 Rosicrucianism, rooted in the early 17th century, is a philosophical and mystical movement. It began with the publication of two texts, the "Fama Fraternitatis" and "Confessio Fraternitatis," which introduced the myth of Christian Rosenkreuz and his brotherhood of adepts known as the Rosicrucians. This fraternal organization sought to promote spiritual development, intellectual growth, and societal reform by practicing and applying ancient wisdom. The Rosicrucians had an initiatory structure and attracted interest from thinkers and occultists throughout Europe, influencing various esoteric movements that followed.
 
-Key figures: Christian Rosenkreuz (legendary figure), Michael Maier, Robert Fludd, and Gottfried Wilhelm Leibniz, among others.
+**Key figures**: Christian Rosenkreuz (legendary figure), Michael Maier, Robert Fludd, and Gottfried Wilhelm Leibniz, among others.
 
 2. The Hermetic Order of the Golden Dawn:
 
 The Golden Dawn (founded in 1888 by William Wynn Westcott, William Robert Woodman, and Samuel Liddell MacGregor Mathers) was an influential occult society that drew from a wide range of esoteric sources, notably Rosicrucianism, Kabbalah, and alchemy. Its initiatory system was highly structured and organized into grades, each corresponding to a level of knowledge and spiritual attainment. The Golden Dawn's teachings, rituals, and initiations were disseminated through a series of documents known as the "Cipher Manuscripts," which contained instructions, diagrams, and esoteric symbolism related to the Order's practices.
 
-Key figures: William Wynn Westcott, William Robert Woodman, Samuel Liddell MacGregor Mathers, Moina Mathers, Dion Fortune, Israel Regardie, and Aleister Crowley, among others.
+**Key figures**: William Wynn Westcott, William Robert Woodman, Samuel Liddell MacGregor Mathers, Moina Mathers, Dion Fortune, Israel Regardie, and Aleister Crowley, among others.
 
 3. Thelema:
 
 Founded by Aleister Crowley in the early 20th century, Thelema is a spiritual philosophy and religion characterized by the maxim "Do what thou wilt" as its central tenet. Crowley developed Thelema after experiences related to the reception of the "Book of the Law," a channeled text purportedly transmitted from an entity named Aiwass. Thelema incorporates aspects of the Golden Dawn and Rosicrucianism, particularly in its hierarchical initiatory structure (the A∴A∴ and Ordo Templi Orientis/O.T.O.), while diverging significantly in terms of teachings, practices, and goals.
 
-Key figures: Aleister Crowley, Grady L. McMurtry, Karl Germer, Rose Edith Kelly, and Leila Waddell, among others.
+**Key figures**: Aleister Crowley, Grady L. McMurtry, Karl Germer, Rose Edith Kelly, and Leila Waddell, among others.
 
 Shared Origins, Unification, and Differentiation:
 

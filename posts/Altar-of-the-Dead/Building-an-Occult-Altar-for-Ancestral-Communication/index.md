@@ -42,27 +42,27 @@ The Altar of the Dead also functions as a spiritual tool that facilitates deeper
 
 While there is no single "correct" way to construct an Altar of the Dead, certain guiding principles and recommendations can help establish a deeply meaningful and personal space:
 
-1. ****Choose a suitable location****: The Altar should ideally be placed in a quiet, private area of the home, offering a sense of calm and peacefulness. This will create a suitable atmosphere for introspection, meditation, and spiritual communication.
+1. **Choose a suitable location**: The Altar should ideally be placed in a quiet, private area of the home, offering a sense of calm and peacefulness. This will create a suitable atmosphere for introspection, meditation, and spiritual communication.
 
-2. ****Establish a physical foundation****: Common materials used for the Altar's base include wooden tables, cabinets, or shelves. Alternatively, a cloth or mat may serve as a foundation on the floor.
+2. **Establish a physical foundation**: Common materials used for the Altar's base include wooden tables, cabinets, or shelves. Alternatively, a cloth or mat may serve as a foundation on the floor.
 
-3. ****Incorporate personal items****: Including photographs, heirlooms, and other sentimental objects belonging to the deceased can help strengthen the spiritual connection between the living and the spirits.
+3. **Incorporate personal items**: Including photographs, heirlooms, and other sentimental objects belonging to the deceased can help strengthen the spiritual connection between the living and the spirits.
 
-4. ****Select relevant symbols****: Traditional symbols associated with death and ancestral worship, such as skulls, skeletons, or candles, can be arranged on the Altar to further reinforce its purpose.
+4. **Select relevant symbols**: Traditional symbols associated with death and ancestral worship, such as skulls, skeletons, or candles, can be arranged on the Altar to further reinforce its purpose.
 
-5. ****Incorporate natural elements****: Many practitioners incorporate elements such as water, fire (candles), earth (soil, stones), and air (incense, feathers) to help balance energy and create a harmonious atmosphere.
+5. **Incorporate natural elements**: Many practitioners incorporate elements such as water, fire (candles), earth (soil, stones), and air (incense, feathers) to help balance energy and create a harmonious atmosphere.
 
-6. ****Infuse magickal tools****: If desired, incorporate ritual tools such as crystals, herbs, or a pendulum to facilitate communication with the other side and enhance the overall power of the Altar.
+6. **Infuse magickal tools**: If desired, incorporate ritual tools such as crystals, herbs, or a pendulum to facilitate communication with the other side and enhance the overall power of the Altar.
 
 ### IV. Essential Items, Rituals, and Ceremonies
 
 Various rituals and ceremonies can be performed at the Altar of the Dead, focusing on protection, guidance, healing, and knowledge. **Common rituals include**:
 
-1. ****Candle lighting ceremonies****: Lighting a candle on the Altar serves as a symbolic beacon, guiding the spirits to the Altar and inviting their presence. It is essential to extinguish the candle once the ritual is completed to signify the closing of the spiritual session.
+1. **Candle lighting ceremonies**: Lighting a candle on the Altar serves as a symbolic beacon, guiding the spirits to the Altar and inviting their presence. It is essential to extinguish the candle once the ritual is completed to signify the closing of the spiritual session.
 
-2. ****Offerings****: Leaving offerings such as food, favorite items or possessions, flowers, or water demonstrates respect and appreciation for the ancestors. The nature of the offering can be tailored to the specific spirits being honored.
+2. **Offerings**: Leaving offerings such as food, favorite items or possessions, flowers, or water demonstrates respect and appreciation for the ancestors. The nature of the offering can be tailored to the specific spirits being honored.
 
-3. ****Invocations and prayers****: Calling upon the spirits by reciting specific invocations, prayers, or poems serves as a vocal and mental focus for the practitioner, signaling the intent to connect with the deceased.
+3. **Invocations and prayers**: Calling upon the spirits by reciting specific invocations, prayers, or poems serves as a vocal and mental focus for the practitioner, signaling the intent to connect with the deceased.
 
 Conclusion
 

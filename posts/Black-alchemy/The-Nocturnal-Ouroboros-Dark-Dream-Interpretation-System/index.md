@@ -23,15 +23,15 @@ My comprehensive dream interpretation system, known as the Nocturnal Ouroboros, 
 
 Components of the Nocturnal Ouroboros:
 
-1. ****The Grimoire of Nightmares****: This ancient tome, bathed in shadows, contains an extensive compilation of esoteric symbols, forbidden incantations, and unhallowed rituals. It acts as a comprehensive guide to the malevolent aspects of the dream world.
+1. **The Grimoire of Nightmares**: This ancient tome, bathed in shadows, contains an extensive compilation of esoteric symbols, forbidden incantations, and unhallowed rituals. It acts as a comprehensive guide to the malevolent aspects of the dream world.
 
-2. ****The Obsidian Pentacle****: A dual-sided, intricately carved pentacle made of pure obsidian stone which captures and transmutes dream energies into decipherable information. The dark, reflective surface of the pentacle also serves as a conduit for receiving messages from demonic correspondences.
+2. **The Obsidian Pentacle**: A dual-sided, intricately carved pentacle made of pure obsidian stone which captures and transmutes dream energies into decipherable information. The dark, reflective surface of the pentacle also serves as a conduit for receiving messages from demonic correspondences.
 
-3. ****The Sacrificial Dagger****: A ceremonial dagger imbued with black magick and used to inscribe dream symbols onto the Obsidian Pentacle. Once inscribed, the symbols begin to resonate and unveil deeper meanings through ritualistic bloodletting.
+3. **The Sacrificial Dagger**: A ceremonial dagger imbued with black magick and used to inscribe dream symbols onto the Obsidian Pentacle. Once inscribed, the symbols begin to resonate and unveil deeper meanings through ritualistic bloodletting.
 
-4. ****The Cthonic Incense****: A sinister blend of Ayahuasca vine, belladonna leaves, and opium flowers burned to create a shroud of toxic smoke that aids in uncovering the hidden meanings within dreams. Use caution when handling and inhaling.
+4. **The Cthonic Incense**: A sinister blend of Ayahuasca vine, belladonna leaves, and opium flowers burned to create a shroud of toxic smoke that aids in uncovering the hidden meanings within dreams. Use caution when handling and inhaling.
 
-5. ****The Sanguine Chalice****: A goblet crafted from blackened bone and encrusted with eldritch runes, used to collect blood offered during the bloodletting process. The chalice acts as a receptacle for the energy required to call forth demonic intelligences for interpretation assistance.
+5. **The Sanguine Chalice**: A goblet crafted from blackened bone and encrusted with eldritch runes, used to collect blood offered during the bloodletting process. The chalice acts as a receptacle for the energy required to call forth demonic intelligences for interpretation assistance.
 
 The process of dream interpretation with the Nocturnal Ouroboros is as follows:
 

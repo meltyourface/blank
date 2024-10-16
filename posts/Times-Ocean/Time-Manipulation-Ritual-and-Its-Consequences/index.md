@@ -34,11 +34,11 @@ In Time's Ocean, the mystic art of time manipulation is the ability to control t
 
 2. **Key symbols, artifacts, and focal points that hold significance in establishing temporal links**:
 
-a. ****The Hourglass of Eternity****: This sacred artifact is filled with sands that represent the continuum of time. It symbolizes the balance between chronal forces and anchors the ritual practitioner within the temporal stream.
+a. **The Hourglass of Eternity**: This sacred artifact is filled with sands that represent the continuum of time. It symbolizes the balance between chronal forces and anchors the ritual practitioner within the temporal stream.
 
-b. ****Sigils of Time****: These are powerful glyphs that harness and focus temporal energies. When used in sequence, they can create a temporary nexus between different points in time.
+b. **Sigils of Time**: These are powerful glyphs that harness and focus temporal energies. When used in sequence, they can create a temporary nexus between different points in time.
 
-c. ****Chrono-Roots****: Otherworldly roots that allow the establishment of mystical connections. Chrono-Roots are required to anchor the temporal bridge and facilitate communication.
+c. **Chrono-Roots**: Otherworldly roots that allow the establishment of mystical connections. Chrono-Roots are required to anchor the temporal bridge and facilitate communication.
 
 3. **Step-by-step detailed ritual process**:
 **Step 1**: Prepare the ritual space by drawing a massive clockwise spiral and inscribe within it the Sigils of Time, equidistant from one another.
@@ -58,10 +58,10 @@ Temporal tampering can result in dire, unintended consequences, such as creating
 
 5. **Safeguards and countermeasures within the ritual**:
 
-a. ****Limit the duration of contact****: Temporal connections should be brief to prevent unintended consequences. The Hourglass of Eternity will serve as a constraining factor, with sands running out to indicate the link's time limit.
+a. **Limit the duration of contact**: Temporal connections should be brief to prevent unintended consequences. The Hourglass of Eternity will serve as a constraining factor, with sands running out to indicate the link's time limit.
 
-b. ****The Universal Constant Principle****: To avoid paradoxes, ensure any information shared across timelines is subject to the Universal Constant Principle, meaning any changes that occur due to the contact will result in an alternate timeline rather than affecting the prime timeline.
+b. **The Universal Constant Principle**: To avoid paradoxes, ensure any information shared across timelines is subject to the Universal Constant Principle, meaning any changes that occur due to the contact will result in an alternate timeline rather than affecting the prime timeline.
 
-c. ****Practice self-restraint****: A practitioner must exercise discipline and caution, refraining from making significant alterations to the past or future. Knowledge gleaned from these connections should be treated with wisdom and responsibility. 
+c. **Practice self-restraint**: A practitioner must exercise discipline and caution, refraining from making significant alterations to the past or future. Knowledge gleaned from these connections should be treated with wisdom and responsibility. 
 
-d. ****Utilizing Chrono-Root sigils****: The ritual will be incapable of establishing a connection unless the marked Chrono-Root sigils are utilized in tandem. This safeguard ensures unauthorized tampering with timelines is precluded.
+d. **Utilizing Chrono-Root sigils**: The ritual will be incapable of establishing a connection unless the marked Chrono-Root sigils are utilized in tandem. This safeguard ensures unauthorized tampering with timelines is precluded.

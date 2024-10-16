@@ -39,15 +39,15 @@ Key Practices and Concepts
 
 Both Traditional Craft Sorcery and Sabbatic Gnosis share a reverence for the natural world and the spirits that inhabit it. **Practitioners often engage in practices such as**:
 
-1. ****Ancestor reverence and communication****: Developing relationships with ancestral spirits for guidance, protection, and wisdom.
-2. ****Spirit work and animism****: Connecting with the spirits of nature, including plants, animals, and geographical features to form working alliances and access their innate powers.
-3. ****Magical rites and rituals****: Employing ceremonial magic, spells, and the preternatural to manifest change in the physical and spiritual realms.
+1. **Ancestor reverence and communication**: Developing relationships with ancestral spirits for guidance, protection, and wisdom.
+2. **Spirit work and animism**: Connecting with the spirits of nature, including plants, animals, and geographical features to form working alliances and access their innate powers.
+3. **Magical rites and rituals**: Employing ceremonial magic, spells, and the preternatural to manifest change in the physical and spiritual realms.
 
 The Sabbatic Gnosis tradition is further characterized by several distinctive concepts, including:
 
-1. ****The Sabbatic Mysteries****: A series of spiritual and initiatory experiences that lead to profound spiritual insights and the mastery of magical techniques.
-2. ****The Spirit-Meeting****: A conclave of human practitioners and spiritual entities sharing space to commune, learn, and revel together.
-3. ****The Path of the Divine Twin****: A central symbol of the union of opposites, representing the simultaneous ascent and descent of the human and divine aspects of the practitioner.
+1. **The Sabbatic Mysteries**: A series of spiritual and initiatory experiences that lead to profound spiritual insights and the mastery of magical techniques.
+2. **The Spirit-Meeting**: A conclave of human practitioners and spiritual entities sharing space to commune, learn, and revel together.
+3. **The Path of the Divine Twin**: A central symbol of the union of opposites, representing the simultaneous ascent and descent of the human and divine aspects of the practitioner.
 
 The Role of the Practitioner
 
@@ -57,9 +57,9 @@ Techniques and Meditations for the Initiate
 
 For those initiates seeking to embark on the path of Traditional Craft Sorcery and Sabbatic Gnosis, a few beginner techniques and meditations can be utilized to deepen their connection to this esoteric tradition:
 
-1. ****Ancestor meditation****: Begin a regular practice of honoring and calling upon your ancestors. Set up an ancestral altar with photographs, heirlooms, and offerings to open and maintain communication.
-2. ****Observing the land****: Spend time connecting with the land around you. Observe its patterns, signs, and offerings. Learn to read the language of nature.
-3. ****Elemental meditations****: Focus on the four elements (air, fire, water, and earth) one at a time, seeking to attune your energy to each of them.
+1. **Ancestor meditation**: Begin a regular practice of honoring and calling upon your ancestors. Set up an ancestral altar with photographs, heirlooms, and offerings to open and maintain communication.
+2. **Observing the land**: Spend time connecting with the land around you. Observe its patterns, signs, and offerings. Learn to read the language of nature.
+3. **Elemental meditations**: Focus on the four elements (air, fire, water, and earth) one at a time, seeking to attune your energy to each of them.
 
 Final Thoughts
 

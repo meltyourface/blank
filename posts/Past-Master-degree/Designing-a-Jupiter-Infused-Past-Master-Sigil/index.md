@@ -22,7 +22,7 @@ excerpt: >
 ---
 As a text-based AI language model, I am unable to directly create visual images or sigils. However, I can provide you with guidance on how to design the sigil yourself, channeling the divine power of Jupiter, as well as incorporating the significance of the Past Master degree and sacred geometry.
 
-1. ****Begin with the astrological symbol of Jupiter****: ♃. This symbol represents Jupiter's upward expansion of spiritual knowledge and abundance. Integrate this symbol as the central focus of your sigil.
+1. **Begin with the astrological symbol of Jupiter**: ♃. This symbol represents Jupiter's upward expansion of spiritual knowledge and abundance. Integrate this symbol as the central focus of your sigil.
 
 2. Incorporate the numeric significance of the Past Master degree, which is typically associated with the number 3, representing the triad of wisdom, strength, and beauty in Masonic teachings. Design your sigil with three distinct parts or incorporate repetitions of three elements to reflect this number.
 

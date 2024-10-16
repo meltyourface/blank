@@ -37,9 +37,9 @@ Tools and Materials: 4 bowls, water, soil, small pebbles, lit candle
 5. Place the lit candle in the center of the fourth bowl, representing the element of Fire.
 6. Observe and meditate on the interaction between the elements in their physical forms.
 
-Expected Outcome: An increased understanding of how the elements interact with one another and how their balance affects matter.
+**Expected Outcome**: An increased understanding of how the elements interact with one another and how their balance affects matter.
 
-Esoteric Principles Demonstrated: Elemental balance, elemental manifestations, harmony of forces
+**Esoteric Principles Demonstrated**: Elemental balance, elemental manifestations, harmony of forces
 
 Experiment 2: Manifestations of Energy
 Objective: Visualize the flow of energy in a physical medium.
@@ -51,9 +51,9 @@ Tools and Materials: Pendulum (preferably with a crystal), paper, pen
 3. Focus your intent on channeling energy through the pendulum to make it move following the spiral without physically moving the pendulum.
 4. Observe the pendulum movement and energy flow.
 
-Expected Outcome: An improved comprehension of how energy can be guided, and by extension, how personal intent influences energy flow.
+**Expected Outcome**: An improved comprehension of how energy can be guided, and by extension, how personal intent influences energy flow.
 
-Esoteric Principles Demonstrated: Energy manipulation, intent, and visualization
+**Esoteric Principles Demonstrated**: Energy manipulation, intent, and visualization
 
 Experiment 3: Sympathetic Resonance
 Objective: Understand how sympathetic resonance occurs between two objects.
@@ -64,9 +64,9 @@ Tools and Materials: 2 identical tuning forks, rubber mallet
 2. Slowly bring it closer to the second tuning fork.
 3. Observe the second tuning fork as it begins to vibrate in response to the vibration of the first tuning fork.
 
-Expected Outcome: Recognition of how sympathetic resonance occurs and applies to esoteric principles such as the Law of Attraction and the notion that "like attracts like."
+**Expected Outcome**: Recognition of how sympathetic resonance occurs and applies to esoteric principles such as the Law of Attraction and the notion that "like attracts like."
 
-Esoteric Principles Demonstrated: Sympathetic resonance, Law of Attraction
+**Esoteric Principles Demonstrated**: Sympathetic resonance, Law of Attraction
 
 Experiment 4: Sigil Creation and Activation
 Objective: Understand the power of symbolism by creating and activating a personalized sigil.
@@ -79,9 +79,9 @@ Tools and Materials: Paper, pen, a specific intent or goal
 4. Focus on the intent of the sigil while meditating.
 5. Activate the sigil (either mentally or physically) during a peak emotional state.
 
-Expected Outcome: Grasp the power of symbolism and the effect it has on shaping reality when combined with intent and focus.
+**Expected Outcome**: Grasp the power of symbolism and the effect it has on shaping reality when combined with intent and focus.
 
-Esoteric Principles Demonstrated: Symbolism, sigil magic, intent
+**Esoteric Principles Demonstrated**: Symbolism, sigil magic, intent
 
 Experiment 5: Visualization of Personal Aura
 Objective: Enhance awareness of personal energy fields by visualizing one's own aura.
@@ -93,9 +93,9 @@ Tools and Materials: Mirror, dimly lit room
 3. Allow your peripheral vision to take over as you continue to focus on the chosen point.
 4. Observe any colors or shifts within your peripheral vision indicating the presence of your aura.
 
-Expected Outcome: A heightened understanding of personal energy fields and their relationships with the individual's mental, emotional, and spiritual states.
+**Expected Outcome**: A heightened understanding of personal energy fields and their relationships with the individual's mental, emotional, and spiritual states.
 
-Esoteric Principles Demonstrated: Visualization, aura, energy fields
+**Esoteric Principles Demonstrated**: Visualization, aura, energy fields
 
 **Conclusion**:
 These five experiments provide an opportunity for the student of the occult to delve into the esoteric properties of matter, energy, and symbolism in a practical and safe manner. By executing these experiments, the student is given a stronger foundation to advance their knowledge and understanding within the realm of the occult and esoteric wisdom.

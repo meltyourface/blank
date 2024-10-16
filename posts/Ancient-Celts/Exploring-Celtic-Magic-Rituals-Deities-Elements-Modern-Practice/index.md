@@ -27,7 +27,7 @@ excerpt: >
 
 Ancient Celtic magic is deeply rooted in the wisdom and traditions of the Celtic people, who were skilled in the esoteric arts and mysticism. The foundation of their magical practices lies in their druidic and bardic customs, as well as the veneration of nature and the forces that governed it. This chapter explores the unique beliefs and practices of the Ancient Celts and how they manifested in their magical tradition.
 
-The Celtic spiritual hierarchy consisted of three distinct classes: the druids, the bards, and the ovates. Each had their own role to play in the magical and spiritual life of the Celts. The druids were the priests and spiritual leaders, who performed the rituals and sacrifices to the gods, as well as being the mediators between the people and the divine. The bards were poets, musicians, and storytellers who preserved the myths and legends of the Celtic people through their creative expression. The ovates were seers, prophets, and healers, skilled in the arts of divination, prophecy, and herbalism.
+**The Celtic spiritual hierarchy consisted of three distinct classes**: the druids, the bards, and the ovates. Each had their own role to play in the magical and spiritual life of the Celts. The druids were the priests and spiritual leaders, who performed the rituals and sacrifices to the gods, as well as being the mediators between the people and the divine. The bards were poets, musicians, and storytellers who preserved the myths and legends of the Celtic people through their creative expression. The ovates were seers, prophets, and healers, skilled in the arts of divination, prophecy, and herbalism.
 
 ### Chapter 2: Sacred Ritual Sites and Their Significance
 

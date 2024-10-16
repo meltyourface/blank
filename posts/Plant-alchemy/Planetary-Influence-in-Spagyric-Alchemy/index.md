@@ -34,7 +34,7 @@ In the realm of plant alchemy, the seven classical planets are often linked to t
 For example, in plant alchemy, the Sun is associated with the process of purification and spiritual illumination. Accordingly, plants ruled by the Sun might be utilized in the development of an elixir designed to aid in personal transformation or spiritual awakening.
 
 The Spagyric Process:
-The term spagyric refers to a system of plant alchemy that seeks to purify, separate, and recombine the essential components of a given plant in order to create herbal elixirs or remedies possessing enhanced properties. ****This process typically involves three primary stages****: separation, purification, and cohobation.
+The term spagyric refers to a system of plant alchemy that seeks to purify, separate, and recombine the essential components of a given plant in order to create herbal elixirs or remedies possessing enhanced properties. **This process typically involves three primary stages**: separation, purification, and cohobation.
 - Separation: The plant matter is broken down or macerated, and the various components, which could include oils, tinctures, and hydrosols, are separated and put through specific purification processes.
 - Purification: Each component is purified and concentrated to enhance its innate qualities, typically through methods such as distillation and calcination.
 - Cohobation (Recombination): The purified components are then meticulously blended back together, ultimately yielding an elixir containing the pure essence or spirit of the plant.

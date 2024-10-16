@@ -21,7 +21,7 @@ excerpt: In relation to the Paracelsian triumvirate of mercury, salt, and sulfur
 ---
 To answer this knowledge challenge, let us first delve into the Paracelsian triumvirate of mercury, salt, and sulfur, and their importance in alchemy. Then, we will describe a specific alchemical process that demonstrates the interconnected nature of these three principles in both physical and metaphysical realms. Finally, we will discuss the role of this process in transformative spiritual work and how it contributes to achieving equilibrium.
 
-The Paracelsian Triumvirate: Mercury, Salt, and Sulfur
+**The Paracelsian Triumvirate**: Mercury, Salt, and Sulfur
 
 Paracelsus, a 16th-century Swiss physician and alchemist, introduced the concept of the Triumvirate, comprised of mercury, salt, and sulfur. In alchemical theory, these three components formed the building blocks of all matter and represented the three essential aspects of creation. They are often referred to as the Tria Prima or the three primes.
 
@@ -31,7 +31,7 @@ Paracelsus, a 16th-century Swiss physician and alchemist, introduced the concept
 
 These principles were not always taken in a wholly literal sense; instead, alchemists often explored their spiritual and metaphysical aspects. Alchemy pursued the integration of these elements in pursuit of wholeness, equilibrium, and spiritual transformation.
 
-The Alchemical Process: Conjunction
+**The Alchemical Process**: Conjunction
 
 The interconnection of the mercury, salt, and sulfur can be demonstrated in the alchemical process of conjunction. Conjunction, sometimes also called coagulation or coction, refers to the pairing or joining of opposites to create a balanced whole. To achieve equilibrium, alchemists aimed to combine mercury, salt, and sulfur in a harmonious and balanced manner. Conjunction is a stage in the broader alchemical process, the Magnum Opus, which also contains stages such as dissolution, fermentation, and coagulation. The goal of conjunction is the creation of the Philosopher’s Stone, an alchemical substance that represents spiritual enlightenment and the rejuvenation of the body.
 

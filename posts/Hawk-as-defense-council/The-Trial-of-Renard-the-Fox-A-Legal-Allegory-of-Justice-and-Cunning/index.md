@@ -25,12 +25,12 @@ excerpt: Examine a historical court case in which the Hawk, as defense council, 
 Circumstances:
 In the 15th century, there was a high-profile court case often seen as a symbol of justice and a unique approach to the legal system. This case was the trial of Renard the Fox, an anthropomorphic character representing the cunning and sly nature of humans in historical literature. As a notorious trickster, Renard was accused of various crimes, including theft, deception, and murder. The court of animals demanded his punishment, and Renard was brought to trial. The Hawk served as Renard's defense counsel.
 
-Parties Involved: 
+**Parties Involved**: 
 - The Plaintiff: The Court of Animals, represented by the Lion, the animal kingdom's king
 - The Defendant: Renard the Fox
 - Defense Counsel: The Hawk
 
-Key Arguments: 
+**Key Arguments**: 
 The Hawk, as defense counsel, focused on three primary arguments:
 
 1. The Nuanced Nature of Justice: The Hawk argued that the concept of justice is not always black and white. Given Renard's cunning nature and his actions that served a greater purpose (outsmarting those who sought to oppress him), the Hawk argued for a more nuanced understanding of morality.

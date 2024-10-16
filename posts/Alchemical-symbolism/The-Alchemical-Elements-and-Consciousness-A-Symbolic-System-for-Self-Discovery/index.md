@@ -37,7 +37,7 @@ The alchemical elements (fire, air, water, and earth) are considered the buildin
 
 Philosophical Principles:
 
-The three philosophical principles of Alchemy: sulfur, mercury, and salt are essential components of the alchemical process and are deeply interlinked with the alchemical elements. These principles represent the fundamental aspects of reality, which are required to initiate transformation:
+**The three philosophical principles of Alchemy**: sulfur, mercury, and salt are essential components of the alchemical process and are deeply interlinked with the alchemical elements. These principles represent the fundamental aspects of reality, which are required to initiate transformation:
 
 1. Sulfur, the "Soul" of Alchemy, corresponds to the active, masculine principle - the yang, or the animus. Sulfur resonates with the element of fire, signifying the volatile, passionate energy that ignites transformation. In the context of consciousness, sulfur represents the individualized will and assertion, which is necessary for personal growth and evolution.
 

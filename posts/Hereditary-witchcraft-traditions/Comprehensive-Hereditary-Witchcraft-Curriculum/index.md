@@ -68,13 +68,13 @@ Curriculum for Ancient Hereditary Witchcraft Traditions
 ### VII. Meditation and Astral Projection
    A. Meditation techniques for witches
    B. Visualization exercises and development
-   C. ****Astral projection****: history, theories, and methods
+   C. **Astral projection**: history, theories, and methods
    D. Guided astral journeys and practice sessions
    E. Developing one's astral senses
 
 ### VIII. Advanced Practices and Esoteric Knowledge
    A. Working with deities and spirits
-   B. ****Spellcraft****: principles, creation, and casting
+   B. **Spellcraft**: principles, creation, and casting
    C. Divination practices (e.g., tarot, scrying)
    D. Shadow work and integration
    E. Sex magick and sacred sexuality

@@ -36,7 +36,7 @@ excerpt: Design an intricate ritual that meticulously cleanses and consecrates a
    e. Ritual robe
 5. A sigil or talisman crafted for protection from unwarranted spiritual influences as well as facilitating connection with the daimon. Choose a symbol significant to the daimon, and surround it with a circle, then placed within a encompassing pentagram. It can be drawn on parchment, inscribed on a metal disc, or carved into a gemstone.
 
-Ideal Atmospheric Conditions: Choose a serene and atmospheric twilight, at either dawn or dusk, when the energies of day and night intermingle. Performing the ritual during a New Moon is preferable, as it represents beginnings and the secret powers of the night.
+**Ideal Atmospheric Conditions**: Choose a serene and atmospheric twilight, at either dawn or dusk, when the energies of day and night intermingle. Performing the ritual during a New Moon is preferable, as it represents beginnings and the secret powers of the night.
 
 Step-by-Step Process:
 

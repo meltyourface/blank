@@ -25,7 +25,7 @@ excerpt: >
   
   Offerings: Biodegradable offerings including fresh flowers, fruits, grains, crystal geodes, or natural minerals, expressing gratitude and reverence for Mother Earth.
   
-  Chants or hymns: The chants composed in ancient Greek, the mother tongue of Gaia, as she originated from Greek mythology. ****A simple chant can be as follows****: "Γαία μήτηρ, δέξου την προσφορά μου και σύνδεσε με τα μυστικά σου" (Gaia miter, dexou tin prosforá mou kai sýndese me ta mystiká sou), which translates to "Mother Gaia, accept my offering and connect me to your mysteries."
+  Chants or hymns: The chants composed in ancient Greek, the mother tongue of Gaia, as she originated from Greek mythology. **A simple chant can be as follows**: "Γαία μήτηρ, δέξου την προσφορά μου και σύνδεσε με τα μυστικά σου" (Gaia miter, dexou tin prosforá mou kai sýndese me ta mystiká sou), which translates to "Mother Gaia, accept my offering and connect me to your mysteries."
   
   Guided meditation: A visualization focusing on the roots of a tree growing from the soles of the participant's feet deep into the Earth, anchoring them and connecting them to Gaia's life force.
   

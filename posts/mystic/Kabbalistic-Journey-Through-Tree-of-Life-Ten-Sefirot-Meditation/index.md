@@ -29,7 +29,7 @@ Meditation Preparation
 
 Find a quiet, comfortable space where you can sit or lie down undisturbed for the duration of this meditation. Close your eyes and take several deep breaths, focusing on the sensation of your breath entering and leaving your body. Feel your body and mind relaxing as you prepare to embark on your Kabbalistic journey.
 
-The Ten Sefirot: A Journey Through the Tree of Life
+**The Ten Sefirot**: A Journey Through the Tree of Life
 
 1. Malkuth (Kingdom)
 

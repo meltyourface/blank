@@ -31,9 +31,9 @@ Sexual Magick Within Thelemic Traditions
 
 Aleister Crowley's teachings on sexual magick are integral to the overall practice of Thelema. Rooted in the axiom of "Do what thou wilt shall be the whole of the Law," the framework of sexual magick emphasizes that each individual possesses unique desires and intentions to be expressed and pursued. As such, sexual magick enables practitioners to align with and enact their True Will.
 
-Techniques in Sexual Magick: Lesser and Greater Magical Rites
+**Techniques in Sexual Magick**: Lesser and Greater Magical Rites
 
-Sexual magick techniques can be broadly classified into two categories: Lesser and Greater Magical Rites. Lesser rites involve more subtle practices, such as visualization, meditation, breath control, and autoerotic techniques. These rites typically do not involve actual physical intercourse, yet they harness sexual energy for individual growth and personal transformation.
+**Sexual magick techniques can be broadly classified into two categories**: Lesser and Greater Magical Rites. Lesser rites involve more subtle practices, such as visualization, meditation, breath control, and autoerotic techniques. These rites typically do not involve actual physical intercourse, yet they harness sexual energy for individual growth and personal transformation.
 
 Greater rites, on the other hand, involve physical sexual acts and are generally performed with a partner or within a group setting. These rites may include various forms of intercourse and accompanying rituals, such as the use of talismans, sigils, or ritualistic invocations. Greater rites seek to manifest specific outcomes on the material plane through the union of individuals and the Sacred Marriage of opposites.
 

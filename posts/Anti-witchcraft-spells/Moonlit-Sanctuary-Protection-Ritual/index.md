@@ -22,7 +22,7 @@ excerpt: Compose a powerful anti-witchcraft incantation, incorporating ancient s
 
 ## Aegis of the Moonlit Sanctuary
 
-Mystic symbols of safeguard: Triquetra, Pentacle, Eye of Horus, and the Helm of Awe.
+**Mystic symbols of safeguard**: Triquetra, Pentacle, Eye of Horus, and the Helm of Awe.
 
 Embodied within this ancient rite, the Aegis of the Moonlit Sanctuary,
 An ode to mystic elements, intent on pure protection.

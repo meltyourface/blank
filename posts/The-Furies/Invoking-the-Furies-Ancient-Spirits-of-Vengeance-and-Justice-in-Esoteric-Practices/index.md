@@ -37,9 +37,9 @@ Associated Rituals, Spells, and Invocations
 
 Before outlining rituals and spells for working with The Furies, it is crucial to note the great power and unpredictability of these beings. Practitioners must approach them with humility and utmost respect, recognizing the potential dangers a careless association could bring about. The ritualistic practices aim to acknowledge The Furies, seek guidance, and request assistance in moral and judicial balance.
 
-Ritual of Vengeance: This ritual calls upon The Furies to bring retribution to those who have committed severe moral crimes. This should not be undertaken lightly, as misuse may result in catastrophic consequences for the practitioner. Light black and red candles, and with grave focus, recite an invocation addressing Alecto, Tisiphone, and Megaera. Describe the wrongs perpetrated by the target and appeal to each Fury's specific attributes, requesting just and balanced retribution for the wrongdoings.
+**Ritual of Vengeance**: This ritual calls upon The Furies to bring retribution to those who have committed severe moral crimes. This should not be undertaken lightly, as misuse may result in catastrophic consequences for the practitioner. Light black and red candles, and with grave focus, recite an invocation addressing Alecto, Tisiphone, and Megaera. Describe the wrongs perpetrated by the target and appeal to each Fury's specific attributes, requesting just and balanced retribution for the wrongdoings.
 
-Purification Ritual: Seek to appease The Furies after accidentally invoking their wrath or in cases where their unyielding pursuit appears undeserved. Utilize purifying elements such as salt and sage, and surround yourself with white candles. Recite a heartfelt apology and affirm your commitment to balance and justice, asking for guidance and protection from unjust persecution.
+**Purification Ritual**: Seek to appease The Furies after accidentally invoking their wrath or in cases where their unyielding pursuit appears undeserved. Utilize purifying elements such as salt and sage, and surround yourself with white candles. Recite a heartfelt apology and affirm your commitment to balance and justice, asking for guidance and protection from unjust persecution.
 
 Insights, Cautions, and Historical Mentions
 

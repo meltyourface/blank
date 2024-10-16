@@ -23,7 +23,7 @@ excerpt: Generate an informative and concise section of a grimoire on the topic 
 
 ### 4.1 Introduction to the Primary Elements
 
-The Elemental World plays a crucial role in the study and practice of the occult. ****Central to this realm are the four primary elements****: Fire, Water, Air, and Earth. These elements, each with their unique characteristics and correspondences, form the foundation of various magical practices. Understanding their inherent energies and influences allows us to create balance and harmony within ourselves and our environment, ultimately leading to more effective and conscious interactions with the unseen world.
+The Elemental World plays a crucial role in the study and practice of the occult. **Central to this realm are the four primary elements**: Fire, Water, Air, and Earth. These elements, each with their unique characteristics and correspondences, form the foundation of various magical practices. Understanding their inherent energies and influences allows us to create balance and harmony within ourselves and our environment, ultimately leading to more effective and conscious interactions with the unseen world.
 
 ### 4.2 The Four Primary Elements and their Correspondences
 

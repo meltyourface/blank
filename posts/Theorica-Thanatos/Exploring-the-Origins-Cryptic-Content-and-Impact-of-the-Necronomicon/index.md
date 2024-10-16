@@ -35,8 +35,8 @@ The Necronomicon, a mysterious and controversial grimoire, has piqued the intere
 
 ### II. Authentic Origins of the Necronomicon
 
-   A. ****The Sumerian Connection****: Influence of Cuneiform Texts
-   B. ****The John Dee Hypothesis****: An Elizabethan Origin
+   A. **The Sumerian Connection**: Influence of Cuneiform Texts
+   B. **The John Dee Hypothesis**: An Elizabethan Origin
    C. H.P. Lovecraft and the Creation of a Fictional Mythos
    D. The Simon Necronomicon and the Channeling of an Esoteric Tradition
    E. Conclusion on the origins of the Necronomicon
@@ -44,17 +44,17 @@ The Necronomicon, a mysterious and controversial grimoire, has piqued the intere
 ### III. Cryptic Contents Within Theorica Thanatos
 
    A. Deities and Entities of the Necronomicon Pantheon
-       1. ****Nyarlathotep****: The Faceless Deity
-       2. ****Yog-Sothoth****: The Key and the Gate
-       3. ****Shub-Niggurath****: The Black Goat of the Woods
-       4. ****Azathoth****: The Blind Idiot God
+       1. **Nyarlathotep**: The Faceless Deity
+       2. **Yog-Sothoth**: The Key and the Gate
+       3. **Shub-Niggurath**: The Black Goat of the Woods
+       4. **Azathoth**: The Blind Idiot God
    B. Rituals and Magick in Relation to Theorica Thanatos
        1. Invocations and Summoning
        2. Manipulation of Time and Space
        3. Interactions with the Forces of Necromancy
    C. Decoding the Cryptic Language and Symbols of the Necronomicon
-       1. ****The R'lyeh Text****: Occult Linguistics
-       2. ****Sacred Geometry****: Configurations of Power
+       1. **The R'lyeh Text**: Occult Linguistics
+       2. **Sacred Geometry**: Configurations of Power
    D. Conclusions on the Cryptic Contents of the Necronomicon
 
 ### IV. Credibility Amongst Occult Literature

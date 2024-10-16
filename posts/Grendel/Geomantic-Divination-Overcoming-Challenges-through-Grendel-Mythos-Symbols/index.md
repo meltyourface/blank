@@ -26,22 +26,22 @@ To begin the Grendel-themed divination session, I will first draw 16 enigmatic f
 
 Grendel-inspired geomantic figures:
 
-1. ****Heorot's Grim****: Lines of fortitude, representing the strength and endurance needed to face adversity.
-2. ****Marsh's Whisper****: Curving lines reflecting the mysterious nature of the unknown and the necessity of adaptability.
-3. ****Depths' Embrace****: A symbol of internal struggles and the powerful emotions that accompany them.
-4. ****Hrothgar's Lament****: Lines depicting the burden of leadership, the need for wisdom, and the awareness of human frailty.
-5. ****Cain's Sigil****: A symbol of inherent darkness within, representing the potential for growth if channeled wisely.
-6. ****Grendel's Grasp****: Angular lines signifying the power of embracing our primal urges, connecting to the untamed aspects of our true selves.
-7. ****Beowulf's Stride****: A symbol of courage, the ability to take risks, and the importance of seeking challenges.
-8. ****Grendel's Mother****: Fluid lines embodying the nurturing aspect of nature and the need to connect with our roots and family.
-9. ****Hrunting's Edge****: Angular lines to represent the importance of choosing the right tools and strategies in overcoming obstacles.
-10. ****Grendel's Solitude****: A symbol of loneliness and the value of introspection.
-11. ****Dragon's Fire****: Lines representing transformation, unlocking hidden inner potential, and overcoming our deepest fears.
-12. ****Blood Bond****: Interconnected lines symbolizing the importance of community and seeking support from others.
-13. ****Sea's Whisper****: Fluid lines representing the connection to the natural world and the importance of navigating emotional tides.
-14. ****Beowulf's Grasp****: A symbol of the unbreakable spirit and determination to achieve success despite challenging situations.
-15. ****Lairs' Unseen****: Concealed lines symbolizing the unknown territories of our minds and the potential treasures hidden within.
-16. ****Grendel's Shadow****: Dark, jagged lines representing the ever-present shadows of our past, which can shape our future if we allow them to.
+1. **Heorot's Grim**: Lines of fortitude, representing the strength and endurance needed to face adversity.
+2. **Marsh's Whisper**: Curving lines reflecting the mysterious nature of the unknown and the necessity of adaptability.
+3. **Depths' Embrace**: A symbol of internal struggles and the powerful emotions that accompany them.
+4. **Hrothgar's Lament**: Lines depicting the burden of leadership, the need for wisdom, and the awareness of human frailty.
+5. **Cain's Sigil**: A symbol of inherent darkness within, representing the potential for growth if channeled wisely.
+6. **Grendel's Grasp**: Angular lines signifying the power of embracing our primal urges, connecting to the untamed aspects of our true selves.
+7. **Beowulf's Stride**: A symbol of courage, the ability to take risks, and the importance of seeking challenges.
+8. **Grendel's Mother**: Fluid lines embodying the nurturing aspect of nature and the need to connect with our roots and family.
+9. **Hrunting's Edge**: Angular lines to represent the importance of choosing the right tools and strategies in overcoming obstacles.
+10. **Grendel's Solitude**: A symbol of loneliness and the value of introspection.
+11. **Dragon's Fire**: Lines representing transformation, unlocking hidden inner potential, and overcoming our deepest fears.
+12. **Blood Bond**: Interconnected lines symbolizing the importance of community and seeking support from others.
+13. **Sea's Whisper**: Fluid lines representing the connection to the natural world and the importance of navigating emotional tides.
+14. **Beowulf's Grasp**: A symbol of the unbreakable spirit and determination to achieve success despite challenging situations.
+15. **Lairs' Unseen**: Concealed lines symbolizing the unknown territories of our minds and the potential treasures hidden within.
+16. **Grendel's Shadow**: Dark, jagged lines representing the ever-present shadows of our past, which can shape our future if we allow them to.
 
 Carefully, with a focused mindset, I will plot these Grendel-inspired geomantic symbols on a detailed grid, positioning them based on their elemental correspondences to Earth, Air, Fire, and Water. This grid will serve as the foundation for the divination session, illustrating the complex interplay between the figures, their symbolic meanings, and their relation to the query.
 

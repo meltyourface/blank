@@ -40,11 +40,11 @@ A Gnostic treatise, in context to Hopkins' actions, refers to a collection of wr
 
 Some essential items used by Hopkins in his Gnostic treatise included:
 
-1. ****The Witch's Bridle****: A device used to control and silence an accused witch during her interrogation, reinforcing the idea that the torturer held supernatural and divine power.
+1. **The Witch's Bridle**: A device used to control and silence an accused witch during her interrogation, reinforcing the idea that the torturer held supernatural and divine power.
 
-2. ****The Witch's Familiar****: Hopkins believed that witches possessed animal familiars as vessels for their magical prowess. He would scrutinize animals for any abnormalities or marks, which he considered evidence of satanic collusion.
+2. **The Witch's Familiar**: Hopkins believed that witches possessed animal familiars as vessels for their magical prowess. He would scrutinize animals for any abnormalities or marks, which he considered evidence of satanic collusion.
 
-3. ****Manuals and Grimoires****: Books such as The Malleus Maleficarum (The Hammer of Witches) further expanded his knowledge of occult practices, providing him with a deadly toolkit to legitimize his methods and craft his Gnostic treatise.
+3. **Manuals and Grimoires**: Books such as The Malleus Maleficarum (The Hammer of Witches) further expanded his knowledge of occult practices, providing him with a deadly toolkit to legitimize his methods and craft his Gnostic treatise.
 
 Societal, Psychological, and Cultural Factors
 

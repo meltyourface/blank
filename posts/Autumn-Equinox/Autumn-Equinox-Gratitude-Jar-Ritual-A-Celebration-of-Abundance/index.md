@@ -22,7 +22,7 @@ excerpt: Craft detailed instructions for an Autumn Equinox gratitude jar ritual,
 
 ## Autumn Equinox Gratitude Jar Ritual
 
-Purpose: To express gratitude and celebrate the abundance of the harvest during the Autumn Equinox, a time for balance and transition.
+**Purpose**: To express gratitude and celebrate the abundance of the harvest during the Autumn Equinox, a time for balance and transition.
 
 Materials Needed:
 1. A clear glass jar with a secure lid

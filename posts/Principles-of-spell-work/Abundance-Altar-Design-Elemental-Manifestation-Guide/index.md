@@ -45,10 +45,10 @@ Consecration Process:
 5. Once all items have been consecrated, arrange them mindfully on the altar, paying attention to their alignment and how they interact with one another energetically.
 
 The Significance of Each Item Chosen:
-1. ****Altar cloth****: Creates an energetically clean and sacred space for your work.
-2. ****Focal piece****: Invokes the divine energies of abundance and channels them into your intention.
-3. ****Crystals****: Amplify and attract prosperity energy.
-4. ****Candles****: Represent and balance the elemental forces within your work, encouraging a well-rounded and stable manifestation.
-5. ****Incense****: Purifies and sets the stage for successful spellcasting.
+1. **Altar cloth**: Creates an energetically clean and sacred space for your work.
+2. **Focal piece**: Invokes the divine energies of abundance and channels them into your intention.
+3. **Crystals**: Amplify and attract prosperity energy.
+4. **Candles**: Represent and balance the elemental forces within your work, encouraging a well-rounded and stable manifestation.
+5. **Incense**: Purifies and sets the stage for successful spellcasting.
 
 When your altar is ready, regularly meditate on your intention of abundance and prosperity, visualize your goals, and express gratitude for the blessings you receive. By paying attention to the intricate details and the significance of each item, you maximize the magical energies present and align with your desired goal of prosperity.

@@ -31,8 +31,8 @@ Materials and tools:
 2. Incense and censer
 3. An altar cloth
 4. A bell or chime
-5. ****Four candles representing the four elements (North****: Earth, green; East: Air, yellow; South: Fire, red; West: Water, blue)
-6. ****Elemental representations****: a dish of salt (Earth), a feather (Air), a red candle (Fire), and a chalice of water (Water)
+5. **Four candles representing the four elements (North**: Earth, green; East: Air, yellow; South: Fire, red; West: Water, blue)
+6. **Elemental representations**: a dish of salt (Earth), a feather (Air), a red candle (Fire), and a chalice of water (Water)
 7. A ritual dagger (athame) or wand
 8. A pentacle or other significant occult symbol
 9. A compass
@@ -46,7 +46,7 @@ Using chalk, salt, or your chosen medium, draw a circle large enough to comforta
 **Step 4**: Set up the altar
 Place the altar cloth in the center of the circle. Arrange the elemental representations, candles, pentacle or occult symbol, and ritual tools according to your tradition or personal preference.
 **Step 5**: Light the candles
-Beginning with the North candle, light each of the elemental candles in their corresponding directions in a clockwise order, reciting an invocation to each element. ****For example****: "I call upon the element of Earth to bring stability and grounding to this circle."
+Beginning with the North candle, light each of the elemental candles in their corresponding directions in a clockwise order, reciting an invocation to each element. **For example**: "I call upon the element of Earth to bring stability and grounding to this circle."
 **Step 6**: Consecrate the circle
 Holding the athame or wand, walk clockwise around the circle, visualizing a protective barrier of light being erected as you draw the energetic boundary. You may choose to recite a prayer, chant, or incantation.
 
@@ -57,7 +57,7 @@ Examples include:
 **Step 7**: Reinforce the circle
 Trace the occult symbol or pentacle with your athame or wand while moving clockwise, visualizing the energies tied to your intentions being infused into the circle.
 **Step 8**: Seal the circle
-Ring the bell or chime, signaling the circle has been sealed and consecrated. ****Affirm****: "This circle is now sealed, and only positive energies may enter."
+Ring the bell or chime, signaling the circle has been sealed and consecrated. **Affirm**: "This circle is now sealed, and only positive energies may enter."
 **Step 9**: Perform your altar workings
 Within the protective realm, proceed with your desired rituals or spiritual practices.
 **Step 10**: Dismantle the circle

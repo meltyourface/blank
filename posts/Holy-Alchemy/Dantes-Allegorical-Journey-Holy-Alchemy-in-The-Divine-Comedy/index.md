@@ -24,7 +24,7 @@ excerpt: Provide an in-depth analysis of a Holy Alchemical allegory encountered 
 
 The Divine Comedy, authored by Dante Alighieri in the early 14th century, is arguably one of the most extraordinary masterpieces of Western literature. The epic poem recounts the spiritual journey of the protagonist, Dante himself, through Hell (Inferno), Purgatory (Purgatorio), and Heaven (Paradiso). Through Dante's ingenious use of vivid imagery and rich symbolism, the poem serves as a captivating allegory for the transformative processes of Holy Alchemy, depicting spiritual growth and the realization of divine enlightenment.
 
-The Three Realms: Solving the Universal Enigma
+**The Three Realms**: Solving the Universal Enigma
 
 One of the central themes of the Divine Comedy is the idea of transmutation and purification of the soul as it progresses through the three realms. Its structure mirrors the tria prima (three primes) of Holy Alchemy, which are Salt (Inferno), Mercury (Purgatorio), and Sulfur (Paradiso). Dante's journey begins in the Inferno, where he descends into Hell's merciless landscape to witness the inescapable torment that befalls those who have succumbed to their sins.
 

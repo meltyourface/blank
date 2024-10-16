@@ -26,42 +26,42 @@ In the first circle of Hell, Limbo, the souls of the unbaptized and virtuous pag
 
 1. **Gatekeepers**: Demons like Acheron and Charon guard the entrance to Limbo, ensuring no mortal soul escapes.
 
-Second Circle: Lust
+**Second Circle**: Lust
 
 This circle houses those who are consumed by lust and sensuality.
 
 1. **Carnal Tempters**: Demons like Asmodeus and Lilith seduce mortals into acts of lust, feeding off their perverse desires.
 2. **Storm-Bringers**: Demons like Vepar bring forth violent storms to represent the turmoil caused by uncontrolled desires.
 
-Third Circle: Gluttony
+**Third Circle**: Gluttony
 
 In the third circle, gluttonous souls are eternally subjected to insatiable hunger and extreme conditions.
 
 1. **Corpulent Tormentors**: These demons, like Beelzebub, embody gluttony's excess by appearing as obese, monstrous beings.
 2. **Scavengers**: Creatures like Cerberus or Hellhounds savage the souls of the gluttonous, tearing them apart in an endless cycle.
 
-Fourth Circle: Greed
+**Fourth Circle**: Greed
 
 Here, the souls of avaricious individuals are crushed under the weight of their materialistic desires.
 
 1. **Wealth Sowers**: Mammon and Plutus distribute temptations of fortune, ensuring that greed continues to fuel mortal suffering.
 2. **Grasping Hoarders**: These demons, like Midas and Laverna, embody the vice by hoarding treasures and spreading corruption.
 
-Fifth Circle: Anger
+**Fifth Circle**: Anger
 
 This circle is dedicated to souls consumed by anger and vengeance.
 
 1. **Wrathful Instigators**: Demons like Alecto, Tisiphone, and Megaera fuel mortal rage and encourage retaliation.
 2. **Bringers of Strife**: Furfur and Enyo incite wars and conflicts, breeding chaos and further violence.
 
-Sixth Circle: Heresy
+**Sixth Circle**: Heresy
 
 In the sixth circle, heretics suffer for their denial of divine truths.
 
 1. **Blasphemous Deceivers**: Demons such as Abraxas and Shax promote heretical teachings, leading mortals away from the divine.
 2. **Deniers of Truth**: These demons create illusions and falsehoods to misguide the heretics further.
 
-Seventh Circle: Violence
+**Seventh Circle**: Violence
 
 This circle is divided into three sub-circles, housing those who commit acts of violence.
 
@@ -69,14 +69,14 @@ This circle is divided into three sub-circles, housing those who commit acts of 
 2. **Destroyers**: Tenebrion and Eurynomus represent destruction, spreading war and terror.
 3. **Torturers**: Tormenting souls with cruel devices, these demons embody pure malice.
 
-Eighth Circle: Fraud
+**Eighth Circle**: Fraud
 
 The eighth circle is reserved for those who deceive and manipulate, divided into ten bolgias.
 
 1. **Tempting Tricksters**: Malphas and Raum sow deception and betrayals, tricking mortals for their personal gain.
 2. **Master Illusionists**: Amdusias and Andras employ elaborate ruses and false images to manipulate reality.
 
-Ninth Circle: Treachery
+**Ninth Circle**: Treachery
 
 The darkest circle is meant for traitors, with four sub-circles dedicated to individual treacheries.
 

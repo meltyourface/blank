@@ -32,25 +32,25 @@ Performance Movement Magick (PMM) traces its roots back to ancient civilizations
 
 PMM revolves around three core principles that provide the foundation for its practice:
 
-1. ****Integration****: PMM unites physical movement, mental focus, and spiritual intention. Through this integration, the magick practitioner connects with their inner self, allowing them to more effectively harness their inherent magical potential.
+1. **Integration**: PMM unites physical movement, mental focus, and spiritual intention. Through this integration, the magick practitioner connects with their inner self, allowing them to more effectively harness their inherent magical potential.
 
-2. ****Fluidity****: In PMM, change is constant and motion is crucial. The practitioner flows from one movement to another, allowing for smooth transitions while remaining open to the spontaneous emergence of new actions and emotions.
+2. **Fluidity**: In PMM, change is constant and motion is crucial. The practitioner flows from one movement to another, allowing for smooth transitions while remaining open to the spontaneous emergence of new actions and emotions.
 
-3. ****Intention & Visualization****: The practitioner holds a clear intention that directs the magick and visualizes the desired outcome, weaving their will into the fabric of the universe.
+3. **Intention & Visualization**: The practitioner holds a clear intention that directs the magick and visualizes the desired outcome, weaving their will into the fabric of the universe.
 
 ### 1.3 Key Steps to Harnessing the Power of Performance Movement Magick
 
 For initiates seeking to harness the power of PMM, mastering the following key steps is crucial:
 
-1. ****Grounding****: Before any PMM session, spend time grounding yourself in your physical body and the present moment. This can be achieved through deep breathing and focused mindfulness.
+1. **Grounding**: Before any PMM session, spend time grounding yourself in your physical body and the present moment. This can be achieved through deep breathing and focused mindfulness.
 
-2. ****Setting Intention****: Once rooted, set a clear intention for your magickal practice. This intent will act as your guiding light, directing your energy and movements towards the desired outcome.
+2. **Setting Intention**: Once rooted, set a clear intention for your magickal practice. This intent will act as your guiding light, directing your energy and movements towards the desired outcome.
 
-3. ****Movement & Expression****: With intention and grounding in place, begin to channel your energy and magickal power through performance and movement. Engage in dance, theater, or another form of physical expression, allowing your body to become a conduit for your magickal intention.
+3. **Movement & Expression**: With intention and grounding in place, begin to channel your energy and magickal power through performance and movement. Engage in dance, theater, or another form of physical expression, allowing your body to become a conduit for your magickal intention.
 
-4. ****Visualization****: As you move, visualize your intentions coming into fruition. See them forming in your mind's eye, and feel their energy within and around you.
+4. **Visualization**: As you move, visualize your intentions coming into fruition. See them forming in your mind's eye, and feel their energy within and around you.
 
-5. ****Sealing****: After you have completed your movements and visualized your desired outcome, take a moment to seal your magick. Encapsulate the energy you have created in an imagined circle or sphere, and then release it into the universe to transform into reality.
+5. **Sealing**: After you have completed your movements and visualized your desired outcome, take a moment to seal your magick. Encapsulate the energy you have created in an imagined circle or sphere, and then release it into the universe to transform into reality.
 
 ### Chapter 2: A Beginner's Exercise in Performance Movement Magick
 

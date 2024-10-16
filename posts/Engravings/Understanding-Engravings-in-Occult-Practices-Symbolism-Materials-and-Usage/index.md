@@ -30,13 +30,13 @@ Types of Engravings
 
 There are several categories of engravings within occult practices, each with its distinct symbolism and function:
 
-1. ****Sigils****: These are symbols that encapsulate a desired outcome or intention and are often created by the practitioner themselves. Sigils can be designed using a variety of techniques like rearranging letters from a related phrase or by using geometric patterns associated with the desired energy.
+1. **Sigils**: These are symbols that encapsulate a desired outcome or intention and are often created by the practitioner themselves. Sigils can be designed using a variety of techniques like rearranging letters from a related phrase or by using geometric patterns associated with the desired energy.
 
-2. ****Seals****: Similar to sigils, seals represent specific energies, spirits, or divine beings. They often have a more complex design and are typically derived from ancient or traditional sources, such as the Key of Solomon or the Lesser Key of Solomon.
+2. **Seals**: Similar to sigils, seals represent specific energies, spirits, or divine beings. They often have a more complex design and are typically derived from ancient or traditional sources, such as the Key of Solomon or the Lesser Key of Solomon.
 
-3. ****Runes****: Originating from ancient Germanic and Norse traditions, runes are a set of symbols with alphabetical and magical meanings. Traditional runes consist of angular lines and are often inscribed on various materials to harness their esoteric properties.
+3. **Runes**: Originating from ancient Germanic and Norse traditions, runes are a set of symbols with alphabetical and magical meanings. Traditional runes consist of angular lines and are often inscribed on various materials to harness their esoteric properties.
 
-4. ****Glyphs****: These are sacred symbols found within various magical systems, often depicting deities, elements, or other arcane concepts. Examples of glyphs include Egyptian hieroglyphs, Mayan symbols, and alchemical emblems.
+4. **Glyphs**: These are sacred symbols found within various magical systems, often depicting deities, elements, or other arcane concepts. Examples of glyphs include Egyptian hieroglyphs, Mayan symbols, and alchemical emblems.
 
 Symbolism in Engravings
 
@@ -46,25 +46,25 @@ Materials for Engraving
 
 The choice of material for engravings is crucial, as it can amplify or diminish the power and effectiveness of the symbol. **Traditional materials used in creating engravings include**:
 
-1. ****Stones or crystals****: Natural materials like stones and crystals are thought to possess their vibrational energies. Commonly used stones include amethyst, quartz, and obsidian, chosen for their unique energetic properties.
+1. **Stones or crystals**: Natural materials like stones and crystals are thought to possess their vibrational energies. Commonly used stones include amethyst, quartz, and obsidian, chosen for their unique energetic properties.
 
-2. ****Metals****: Metals like gold, silver, copper, and iron have been used for engravings due to their conductivity properties, which are believed to enhance the flow of energy within the engraving.
+2. **Metals**: Metals like gold, silver, copper, and iron have been used for engravings due to their conductivity properties, which are believed to enhance the flow of energy within the engraving.
 
-3. ****Wood****: Wood emanates an organic, earthbound energy that can be beneficial for certain rituals and spells. The choice of wood type, such as oak, ash, or birch, can further strengthen the engravings' energy.
+3. **Wood**: Wood emanates an organic, earthbound energy that can be beneficial for certain rituals and spells. The choice of wood type, such as oak, ash, or birch, can further strengthen the engravings' energy.
 
-4. ****Paper or parchment****: For temporary engravings, paper or parchment can be used, especially when the engraving is meant to be burned or disposed of during a ritual.
+4. **Paper or parchment**: For temporary engravings, paper or parchment can be used, especially when the engraving is meant to be burned or disposed of during a ritual.
 
 Incorporating Engravings into Rituals and Spells
 
 When utilizing engravings in rituals and spells, there are several aspects to consider in order to harness their full potential:
 
-1. ****Preparation****: Before using an engraving, cleanse and consecrate it according to your tradition, to remove any negative energy or presences that may interfere with the work at hand.
+1. **Preparation**: Before using an engraving, cleanse and consecrate it according to your tradition, to remove any negative energy or presences that may interfere with the work at hand.
 
-2. ****Location****: The engraving should be placed strategically within a ritual space, taking into account its relation to elements, directions, and already-established intentions.
+2. **Location**: The engraving should be placed strategically within a ritual space, taking into account its relation to elements, directions, and already-established intentions.
 
-3. ****Activation****: Engravings often require activation by charging them through meditation, focused intention, or invocations, thus activating their inherent energy.
+3. **Activation**: Engravings often require activation by charging them through meditation, focused intention, or invocations, thus activating their inherent energy.
 
-4. ****Integration****: In order to maximize the effect of the engraving, integrate it into the overall ritual or spell through corresponding chants, gestures, or the use of other ritual tools tailored to the engraving's symbolism.
+4. **Integration**: In order to maximize the effect of the engraving, integrate it into the overall ritual or spell through corresponding chants, gestures, or the use of other ritual tools tailored to the engraving's symbolism.
 
 Conclusion
 

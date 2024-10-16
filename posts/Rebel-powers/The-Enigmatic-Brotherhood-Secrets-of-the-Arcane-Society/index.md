@@ -22,7 +22,7 @@ excerpt: >
 ---
 In the shadows of the sprawling metropolis, an ancient pact had persisted for centuries, unraveling the fabric of society in ways most could never comprehend. They were known as the Umbrata Ordinis, an enigmatic brotherhood of rebel power wielders whose primary objective was to maintain a delicate balance between the realms of the mundane and the arcane. 
 
-At the heart of this secretive society were three binding principles: The pursuit of esoteric knowledge, the mastery of occult rituals, and the fortification of rebel powers. It was said that those who joined the brotherhood forfeited their ordinary lives, entwining their fates with the magical underworld and its treacherous grip on humanity.
+**At the heart of this secretive society were three binding principles**: The pursuit of esoteric knowledge, the mastery of occult rituals, and the fortification of rebel powers. It was said that those who joined the brotherhood forfeited their ordinary lives, entwining their fates with the magical underworld and its treacherous grip on humanity.
 
 Meliora, a mysterious and gifted woman, longed to join the Umbrata Ordinis. Driven by visions of her late father's arcane teachings, she dedicated her life to the acquisition of forbidden knowledge, mastering countless rituals, and perfecting her innate rebel powers. As fate would have it, she was not alone. Verum, a charismatic and enigmatic man, was an established member of the Umbrata Ordinis, and his personal quest delivered him to Meliora's path.
 

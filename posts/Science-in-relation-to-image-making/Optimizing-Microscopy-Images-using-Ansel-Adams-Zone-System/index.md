@@ -35,7 +35,7 @@ Underlying Principles Governing the Zone System:
 
 Practical Implementation of the Zone System in Scientific Image-Making:
 
-Case Study: Enhancing the Visualization of Cellular Structures in Fluorescence Microscopy
+**Case Study**: Enhancing the Visualization of Cellular Structures in Fluorescence Microscopy
 
 In this case, we attempt to employ the Zone System's techniques to improve the visualization of cellular structures in fluorescence microscopy images.
 

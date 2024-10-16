@@ -31,7 +31,7 @@ In Thelemic philosophy, death is not viewed as a morbid or fearsome concept, but
 
 Death in Thelema is closely associated with the goddess Babalon, the Scarlet Woman who represents the erotic and the spiritual, as well as the energies of creation and destruction. She is symbolically linked to the process of death and rebirth, guiding initiates through the transformation that occurs during the embrace of the True Will.
 
-Transformational Qualities: Rituals and Practices
+**Transformational Qualities**: Rituals and Practices
 
 The following are a series of key rituals, practices, and teachings that can help adherents foster a better understanding of the relationship between death and Thelema.
 

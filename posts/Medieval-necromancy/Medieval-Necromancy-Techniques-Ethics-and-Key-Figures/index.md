@@ -30,21 +30,21 @@ Medieval necromancy is a specific branch of the occult that primarily focused on
 
 Several key figures played crucial roles in the development and popularization of medieval necromancy. **Some of these individuals include**:
 
-1. ****King Solomon****: The legendary biblical figure King Solomon was said to have been a master of necromancy with the ability to summon and control spirits. The mythical "Key of Solomon" grimoire is attributed to him and remains a significant work on ceremonial magic and necromancy.
+1. **King Solomon**: The legendary biblical figure King Solomon was said to have been a master of necromancy with the ability to summon and control spirits. The mythical "Key of Solomon" grimoire is attributed to him and remains a significant work on ceremonial magic and necromancy.
 
-2. ****Roger Bacon****: An English philosopher and scientist, Roger Bacon was also a reputed necromancer. He was skilled in the arts of alchemy and astrology, and his work "Opus Majus" contains some references to necromancy and the methods for summoning spirits.
+2. **Roger Bacon**: An English philosopher and scientist, Roger Bacon was also a reputed necromancer. He was skilled in the arts of alchemy and astrology, and his work "Opus Majus" contains some references to necromancy and the methods for summoning spirits.
 
-3. ****Heinrich Cornelius Agrippa****: A German polymath, occult writer, and theologian, Agrippa authored the influential work "De Occulta Philosophia," which includes discussions on necromancy and the magical arts.
+3. **Heinrich Cornelius Agrippa**: A German polymath, occult writer, and theologian, Agrippa authored the influential work "De Occulta Philosophia," which includes discussions on necromancy and the magical arts.
 
 ### III. Primary Methods of Necromantic Practices
 
 Medieval necromancers employed a variety of methods and techniques to contact and control the deceased, which often involved complex rituals and incantations. **Some of these methods included**:
 
-1. ****Summoning****: Through the use of intricate rituals, necromancers would invoke the spirits of the deceased to gain information or assistance.
+1. **Summoning**: Through the use of intricate rituals, necromancers would invoke the spirits of the deceased to gain information or assistance.
 
-2. ****Divination****: Necromancers would employ various divinatory tools, such as scrying mirrors or crystal balls, to communicate with spirits and receive messages or insights.
+2. **Divination**: Necromancers would employ various divinatory tools, such as scrying mirrors or crystal balls, to communicate with spirits and receive messages or insights.
 
-3. ****Animation****: Practitioners of necromancy were believed to have the ability to reanimate corpses, either temporarily or indefinitely, imbuing them with a semblance of life in order to fulfill specific tasks or serves on behalf of the summoner.
+3. **Animation**: Practitioners of necromancy were believed to have the ability to reanimate corpses, either temporarily or indefinitely, imbuing them with a semblance of life in order to fulfill specific tasks or serves on behalf of the summoner.
 
 ### IV. Ethical Considerations of Medieval Necromancy
 

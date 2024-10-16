@@ -22,7 +22,7 @@ excerpt: Generate a section of a grimoire that provides an in-depth overview of 
 
 ## Anton LaVey and the Church of Satan
 
-Anton LaVey: An Introduction
+**Anton LaVey**: An Introduction
 
 Anton Szandor LaVey, born Howard Stanton Levey on April 11, 1930, was an American author, musician, and occultist who founded the Church of Satan in 1966. LaVey was an influential figure in the world of modern occultism, and his works continue to form the foundation for LaVeyan Satanism, a unique belief system that brings together elements of atheist humanism, individualism, and traditional Satanism.
 

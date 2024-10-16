@@ -21,7 +21,7 @@ excerpt: Design a multifaceted consecration ritual for a political symbol that s
 ---
 Task: Design a multifaceted consecration ritual for a political symbol using the principles of political thaumaturgy.
 
-Symbol: The Golden Eagle, a symbol of strength, resilience, and unity. Historically associated with empires and strong leaders, it holds a deep connection to the narrative of a powerful nation.
+**Symbol**: The Golden Eagle, a symbol of strength, resilience, and unity. Historically associated with empires and strong leaders, it holds a deep connection to the narrative of a powerful nation.
 
 Socio-Political Context: The Golden Eagle is recognized as a symbol of a nation that aspires to achieve unity, prosperity, and security for its people, striving towards global dominance and influence.
 

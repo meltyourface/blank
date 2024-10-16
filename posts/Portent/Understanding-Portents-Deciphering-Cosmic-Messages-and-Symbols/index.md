@@ -32,27 +32,27 @@ The study of portents and omens dates back to ancient times, where it held great
 
 Principles and Concepts
 
-1. ****The interconnected universe****: A key tenet of portent focuses on the underlying interconnectedness between all beings and events in the universe. This profound unity undulates as an intricate web of cosmic tapestry, where every action ripples into a reaction, and the subtleties of nature possess a deeper symbolism and meaning.
+1. **The interconnected universe**: A key tenet of portent focuses on the underlying interconnectedness between all beings and events in the universe. This profound unity undulates as an intricate web of cosmic tapestry, where every action ripples into a reaction, and the subtleties of nature possess a deeper symbolism and meaning.
 
-2. ****Synchronicity****: Coined by the Swiss psychologist Carl Jung, synchronicity refers to the meaningful coincidences of two or more unrelated events, which appear to be interconnected on a deeper level. Portents often manifest as synchronicities, providing initiates with a sense of divine guidance and aligned purpose.
+2. **Synchronicity**: Coined by the Swiss psychologist Carl Jung, synchronicity refers to the meaningful coincidences of two or more unrelated events, which appear to be interconnected on a deeper level. Portents often manifest as synchronicities, providing initiates with a sense of divine guidance and aligned purpose.
 
-3. ****Archetypes and symbolism****: Portent relies on the understanding and analysis of archetypal symbols, which serve as conduits to tap into the collective unconscious and unravel mysteries of the cosmos. By recognizing these symbols, students can develop their intuition and foster a more profound connection with the esoteric realm.
+3. **Archetypes and symbolism**: Portent relies on the understanding and analysis of archetypal symbols, which serve as conduits to tap into the collective unconscious and unravel mysteries of the cosmos. By recognizing these symbols, students can develop their intuition and foster a more profound connection with the esoteric realm.
 
 Techniques and Practices
 
-1. ****Contemplative observation****: To sharpen their perception, initiates must hone their observational skills and cultivate a keen awareness of their surroundings. This practice encourages students to discern patterns and identify occurrences that may hold portentous meaning.
+1. **Contemplative observation**: To sharpen their perception, initiates must hone their observational skills and cultivate a keen awareness of their surroundings. This practice encourages students to discern patterns and identify occurrences that may hold portentous meaning.
 
-2. ****Meditation and intuitive development****: Developing one's intuition forms an essential component of studying portents. Regular meditation enables students to quiet the mind and gain greater access to their innate psychic abilities, which in turn fosters a stronger connection to the symbolic language of the universe.
+2. **Meditation and intuitive development**: Developing one's intuition forms an essential component of studying portents. Regular meditation enables students to quiet the mind and gain greater access to their innate psychic abilities, which in turn fosters a stronger connection to the symbolic language of the universe.
 
-3. ****Divination tools****: Various oracular practices may be employed to interpret portents, including Tarot, I Ching, and astrology. By mastering these techniques, initiates can tap into the more profound aspects of cosmic wisdom and decipher the messages that emerge from the hidden realms.
+3. **Divination tools**: Various oracular practices may be employed to interpret portents, including Tarot, I Ching, and astrology. By mastering these techniques, initiates can tap into the more profound aspects of cosmic wisdom and decipher the messages that emerge from the hidden realms.
 
 Practical Application
 
-1. ****Journaling****: Recording one's experiences and observations enables students to discern patterns, recognize synchronicities, and draw insights from perceived portents. A dedicated journal, such as the traditional magical diary, can be employed to track and analyze one's psychic/spiritual progress.
+1. **Journaling**: Recording one's experiences and observations enables students to discern patterns, recognize synchronicities, and draw insights from perceived portents. A dedicated journal, such as the traditional magical diary, can be employed to track and analyze one's psychic/spiritual progress.
 
-2. ****Dream analysis****: The realm of dreams often serves as a conduit for deeper cosmic truths, as they tap into our unconscious mind. By analyzing one's dreams, initiates can uncover portentous messages, decipher metaphors, and untangle web-like symbols that unravel mysteries of the self.
+2. **Dream analysis**: The realm of dreams often serves as a conduit for deeper cosmic truths, as they tap into our unconscious mind. By analyzing one's dreams, initiates can uncover portentous messages, decipher metaphors, and untangle web-like symbols that unravel mysteries of the self.
 
-3. ****Ritual and invocation****: Formalizing one's intent through ritual or invocation helps to open pathways of communication between the initiate and the cosmos. Students can call upon deities, spirit guides or their higher self, inviting wisdom, guidance, and a clearer understanding of the portents that manifest in their lives.
+3. **Ritual and invocation**: Formalizing one's intent through ritual or invocation helps to open pathways of communication between the initiate and the cosmos. Students can call upon deities, spirit guides or their higher self, inviting wisdom, guidance, and a clearer understanding of the portents that manifest in their lives.
 
 Conclusion
 

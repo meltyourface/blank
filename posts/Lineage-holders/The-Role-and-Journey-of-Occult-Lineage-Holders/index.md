@@ -34,9 +34,9 @@ Lineage acts as a spiritual guarantor, affirming that a particular body of knowl
 
 ### III. The Role of Lineage Holders in Preserving and Teaching Esoteric Wisdom
 
-Preserving esoteric wisdom: Lineage holders act as vessels that contain and preserve the core essence and mystic teachings of their tradition, ensuring their survival across generations. By mastery of both theoretical understanding and practical application, Lineage holders protect the sacred teachings from distortion, dilution, or misuse. They represent a living connection to the source of their lineage, upholding ancient principles that have been passed down by their predecessors.
+**Preserving esoteric wisdom**: Lineage holders act as vessels that contain and preserve the core essence and mystic teachings of their tradition, ensuring their survival across generations. By mastery of both theoretical understanding and practical application, Lineage holders protect the sacred teachings from distortion, dilution, or misuse. They represent a living connection to the source of their lineage, upholding ancient principles that have been passed down by their predecessors.
 
-Teaching esoteric wisdom: Assuming the role of a spiritual teacher, Lineage holders are responsible for identifying, mentoring, and nurturing potential successors. These wise and adept guides initiate students into the mysteries of their tradition, transmitting the lineage teachings by virtue of their direct, experiential knowledge. By skillfully adapting their instruction to the temperament, capacity, and level of readiness of their pupils, Lineage holders awaken and develop the inherent spiritual potential of the aspirants.
+**Teaching esoteric wisdom**: Assuming the role of a spiritual teacher, Lineage holders are responsible for identifying, mentoring, and nurturing potential successors. These wise and adept guides initiate students into the mysteries of their tradition, transmitting the lineage teachings by virtue of their direct, experiential knowledge. By skillfully adapting their instruction to the temperament, capacity, and level of readiness of their pupils, Lineage holders awaken and develop the inherent spiritual potential of the aspirants.
 
 ### IV. The Process of Becoming a Lineage Holder
 

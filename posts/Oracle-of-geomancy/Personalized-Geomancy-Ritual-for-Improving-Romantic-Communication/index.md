@@ -49,12 +49,12 @@ Conjunctio represents the joining together of different forces, energies, or peo
 
 Hypothetical scenario and question:
 
-Imagine a woman seeking guidance on improving her romantic relationship. ****She is in a long-term partnership and is facing communication difficulties with her partner, leading to misunderstandings and distance between them. She asks the oracle****: "What can I do to improve the communication and deepen the connection with my partner?"
+Imagine a woman seeking guidance on improving her romantic relationship. **She is in a long-term partnership and is facing communication difficulties with her partner, leading to misunderstandings and distance between them. She asks the oracle**: "What can I do to improve the communication and deepen the connection with my partner?"
 
 1. Firstly, draw Puella to represent the potential for growth, balance, and harmony within her relationship. The presence of Puella suggests that through open communication, understanding, and expression of love, they can strengthen their bond and restore equilibrium to their partnership. The Water element of Puella emphasizes the importance of emotional openness and a receptive attitude.
 
 2. Next, draw Rubeus as a reminder to acknowledge and address the underlying passions, desires, and emotions driving their communication issues. The Air element here indicates that the subject should be mindful of her thoughts and assumptions about her partner and allow space for honest conversation about their individual needs and feelings. By confronting these intense emotions, they can undergo the necessary transformations to overcome their obstacles.
 
-3. ****Finally, draw Conjunctio as a symbol of the ultimate goal****: enhanced communication and collaboration between the partners. The Earth element of Conjunctio points to the potential for a more grounded, stable foundation for their relationship, built on mutual understanding and commitment.
+3. **Finally, draw Conjunctio as a symbol of the ultimate goal**: enhanced communication and collaboration between the partners. The Earth element of Conjunctio points to the potential for a more grounded, stable foundation for their relationship, built on mutual understanding and commitment.
 
 In summary, this personalized oracle of geomancy ritual incorporates the geomantic figures of Puella (the Girl), Rubeus (Red), and Conjunctio (The Conjunction) to provide guidance for the subject in improving communication and deepening connection within her romantic relationship. By understanding the symbolism of these figures and the elemental associations, the subject can gain insights into the roles of balance, transformation, and collaboration in their partnership, ultimately working towards a more harmonious and fulfilling love life.

@@ -30,20 +30,20 @@ The Greek myth of Orpheus revolves around the legendary musician and poet who jo
 
 Despite the distinct cultural differences between these doctrines, several shared principles can be observed:
 
-1. ****The belief in an afterlife****: All three accounts emphasize the existence of an afterlife, providing detailed descriptions of the journey the soul undertakes after death.
+1. **The belief in an afterlife**: All three accounts emphasize the existence of an afterlife, providing detailed descriptions of the journey the soul undertakes after death.
 
-2. ****The significance of psychopomps****: Psychopomps are guides who lead the deceased through the afterlife. In the Egyptian Book of the Dead, we have the god Anubis; in the Tibetan Book of the Dead, numerous spiritual guides and deities are mentioned; while in the Greek myth of Orpheus, Orpheus himself takes on the role of the psychopomp.
+2. **The significance of psychopomps**: Psychopomps are guides who lead the deceased through the afterlife. In the Egyptian Book of the Dead, we have the god Anubis; in the Tibetan Book of the Dead, numerous spiritual guides and deities are mentioned; while in the Greek myth of Orpheus, Orpheus himself takes on the role of the psychopomp.
 
-3. ****Transformation and rebirth****: All three sources indicate the possibility of transformation and rebirth, with the Egyptian and Tibetan doctrines focusing on the achievement of a new life or spiritual liberation, and Orpheus exemplifying the transformative nature of love and artistic expression.
+3. **Transformation and rebirth**: All three sources indicate the possibility of transformation and rebirth, with the Egyptian and Tibetan doctrines focusing on the achievement of a new life or spiritual liberation, and Orpheus exemplifying the transformative nature of love and artistic expression.
 
-4. ****Instructions and guidance****: The Egyptian and Tibetan texts both serve as guides for the deceased, outlining the necessary rituals and practices they need to follow. The myth of Orpheus can be viewed as a metaphorical guide, illustrating the importance of inner strength and wisdom to overcome life's challenges and uncertainties.
+4. **Instructions and guidance**: The Egyptian and Tibetan texts both serve as guides for the deceased, outlining the necessary rituals and practices they need to follow. The myth of Orpheus can be viewed as a metaphorical guide, illustrating the importance of inner strength and wisdom to overcome life's challenges and uncertainties.
 
 The relevance of these ancient doctrines in contemporary mortuary rituals and psychopompic initiations can be observed in several ways:
 
-1. ****Mortuary rituals****: The embalming and mummification processes in ancient Egypt, for instance, have inspired modern rituals related to preserving the deceased's body. The Tibetan practice of sky burials, in which the deceased's body is offered to vultures, is still observed in some regions today.
+1. **Mortuary rituals**: The embalming and mummification processes in ancient Egypt, for instance, have inspired modern rituals related to preserving the deceased's body. The Tibetan practice of sky burials, in which the deceased's body is offered to vultures, is still observed in some regions today.
 
-2. ****Grief and mourning practices****: Many contemporary cultures have adopted customs from these ancient doctrines to guide them through the process of grieving, such as offering prayers, memorial services, and even meditation on the nature of their loved one's journey through the afterlife.
+2. **Grief and mourning practices**: Many contemporary cultures have adopted customs from these ancient doctrines to guide them through the process of grieving, such as offering prayers, memorial services, and even meditation on the nature of their loved one's journey through the afterlife.
 
-3. ****Esoteric and occult practices****: Modern practitioners of esoteric and occult traditions often study and incorporate elements from the Egyptian, Tibetan, and Greek sources in their initiations and educations. These doctrines provide rich material for psychopompic exploration and guidance in accessing and navigating the realms of the dead, as well as developing spiritual disciplines to foster inner growth and transformation.
+3. **Esoteric and occult practices**: Modern practitioners of esoteric and occult traditions often study and incorporate elements from the Egyptian, Tibetan, and Greek sources in their initiations and educations. These doctrines provide rich material for psychopompic exploration and guidance in accessing and navigating the realms of the dead, as well as developing spiritual disciplines to foster inner growth and transformation.
 
 In conclusion, the Egyptian Book of the Dead, the Tibetan Book of the Dead, and the Greek myth of Orpheus, though rooted in different cultural traditions, share common principles related to the afterlife, psychopomps, transformation, and guidance. Their relevance in contemporary mortuary rituals and psychopompic initiations within esoteric and occult practices underlines the enduring impact of these ancient doctrines in shaping human consciousness and the quest for understanding life's greatest mystery – death.

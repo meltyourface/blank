@@ -29,7 +29,7 @@ As an aspiring occult practitioner, it is essential to develop a strong understa
 
 ### 1.2 Essential Concepts
 
-Three essential concepts govern the foundations of sorcerous workings: energy, intention, and the utilization of symbols. We will now discuss each of these in detail.
+**Three essential concepts govern the foundations of sorcerous workings**: energy, intention, and the utilization of symbols. We will now discuss each of these in detail.
 
 1.2.1 Energy
 

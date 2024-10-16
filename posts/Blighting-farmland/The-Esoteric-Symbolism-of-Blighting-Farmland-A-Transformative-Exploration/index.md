@@ -38,9 +38,9 @@ The transformational aspect of blighting becomes apparent when viewed as a cycli
 
 Interconnectedness and Transformative Effects:
 
-Ecological Realm: The act of blighting farmland highlights the delicate balance which exists between human intervention and the natural environment. By disrupting this balance, the resulting decay and degradation have wide-ranging effects on local flora and fauna, as well as the overall health of the ecosystem. This serves as a reminder that actions taken in one part of the system may have unintended consequences elsewhere.
+**Ecological Realm**: The act of blighting farmland highlights the delicate balance which exists between human intervention and the natural environment. By disrupting this balance, the resulting decay and degradation have wide-ranging effects on local flora and fauna, as well as the overall health of the ecosystem. This serves as a reminder that actions taken in one part of the system may have unintended consequences elsewhere.
 
-Agricultural Realm: The catastrophic results of blighting demonstrate the importance of maintaining fertile and productive farmland, as food sustenance is crucial for human survival. The transformation and renewal of blighted land into productive farmland emphasize the need for sustainable agricultural practices and responsible stewardship of the land to ensure its long-term viability.
+**Agricultural Realm**: The catastrophic results of blighting demonstrate the importance of maintaining fertile and productive farmland, as food sustenance is crucial for human survival. The transformation and renewal of blighted land into productive farmland emphasize the need for sustainable agricultural practices and responsible stewardship of the land to ensure its long-term viability.
 
 Socio-economic Realm: In communities affected by blighted farmland, the loss of productive land can lead to widespread socio-economic consequences, such as food shortages, economic downturns, and increased poverty. These conditions may lead to social instability and cultural shifts as communities are forced to adapt, which can be seen as a transformative consequence of blighting.
 

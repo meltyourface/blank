@@ -22,20 +22,20 @@ excerpt: >
 ---
 To determine the exact alloy composition of the unknown metal sample, I will employ advanced non-destructive testing methods, meticulously analyzing the microstructure and mechanical properties, and validating results by cross-referencing existing standards and databases. **Here's the step-by-step process for achieving this**:
 
-1. ****Surface Preparation****: Thoroughly clean the metal sample to remove any surface contaminants that could interfere with the testing process.
+1. **Surface Preparation**: Thoroughly clean the metal sample to remove any surface contaminants that could interfere with the testing process.
 
-2. ****X-ray Fluorescence (XRF) Testing****: Using a portable XRF analyzer, perform an initial scan of the sample. This technique allows for the rapid identification of the major alloying elements present in the metal. XRF can detect the percentage of elements, including iron, carbon, nickel, chromium, and aluminum, with accuracies typically within 1 to 2%. This will provide an initial indication of alloy composition.
+2. **X-ray Fluorescence (XRF) Testing**: Using a portable XRF analyzer, perform an initial scan of the sample. This technique allows for the rapid identification of the major alloying elements present in the metal. XRF can detect the percentage of elements, including iron, carbon, nickel, chromium, and aluminum, with accuracies typically within 1 to 2%. This will provide an initial indication of alloy composition.
 
-3. ****Ultrasonic Testing****: Perform an ultrasonic test to assess the internal structure, grain size, and homogeneity of the sample. This non-destructive technique produces detailed images of the metal's interior, providing insights about possible inclusions or discontinuities and giving an idea of the overall quality of the alloy.
+3. **Ultrasonic Testing**: Perform an ultrasonic test to assess the internal structure, grain size, and homogeneity of the sample. This non-destructive technique produces detailed images of the metal's interior, providing insights about possible inclusions or discontinuities and giving an idea of the overall quality of the alloy.
 
-4. ****Eddy Current Testing****: Utilize an eddy current probe to inspect the sample's surface and subsurface layers. This method will help detect variations in conductivity and permeability caused by changes in the alloy's composition, which may contribute to validating the initial results obtained via XRF.
+4. **Eddy Current Testing**: Utilize an eddy current probe to inspect the sample's surface and subsurface layers. This method will help detect variations in conductivity and permeability caused by changes in the alloy's composition, which may contribute to validating the initial results obtained via XRF.
 
-5. ****Microscopy and Mechanical Testing****: Examine the microstructure of the sample using an optical microscope or a scanning electron microscope (SEM) to evaluate its grain size, morphology, and the distribution of the alloying elements. Additionally, perform mechanical testing (tensile, hardness, and impact tests) to evaluate the sample's strength, ductility, and toughness, as these properties are often directly linked to the alloy composition.
+5. **Microscopy and Mechanical Testing**: Examine the microstructure of the sample using an optical microscope or a scanning electron microscope (SEM) to evaluate its grain size, morphology, and the distribution of the alloying elements. Additionally, perform mechanical testing (tensile, hardness, and impact tests) to evaluate the sample's strength, ductility, and toughness, as these properties are often directly linked to the alloy composition.
 
-6. ****Data Analysis****: Compare the results of the various testing methods (XRF, ultrasonics, eddy current, microscopy, and mechanical testing) to identify any discrepancies and confirm interactions or interferences between alloying elements. This cross-validation process enhances the accuracy and reliability of the obtained alloy composition.
+6. **Data Analysis**: Compare the results of the various testing methods (XRF, ultrasonics, eddy current, microscopy, and mechanical testing) to identify any discrepancies and confirm interactions or interferences between alloying elements. This cross-validation process enhances the accuracy and reliability of the obtained alloy composition.
 
-7. ****Alloy Designation****: Finally, compare the alloy composition resulting from the tests to existing standards and databases (e.g., ASM International, SAE International). This cross-referencing will provide insights into any specific designations or industry applications for the unknown alloy sample.
+7. **Alloy Designation**: Finally, compare the alloy composition resulting from the tests to existing standards and databases (e.g., ASM International, SAE International). This cross-referencing will provide insights into any specific designations or industry applications for the unknown alloy sample.
 
-8. ****Documentation****: Compile the findings into a comprehensive report, detailing the results of all tests and their implications.
+8. **Documentation**: Compile the findings into a comprehensive report, detailing the results of all tests and their implications.
 
 Upon completion, the exact alloy composition of the unknown sample will have been determined, allowing for further research and application in optimizing its performance and techniques for working with it.

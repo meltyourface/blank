@@ -21,7 +21,7 @@ excerpt: Identify the three crucial components of the ritualistic preparation an
 ---
 To fully understand the symbiotic bond formation between a necromancer and their steed, we must first delve into the realm of necromantic lore. Necromancy is a powerful and ancient practice centered around the manipulation and control of the energies of life and death, often raising the dead and conversing with spirits and other supernatural entities. A necromancer's steed is much more than a mere mode of transportation, rather it becomes an extension of the necromancer's own power.
 
-The ritualistic preparation and bond formation between a necromancer and their steed is a process involving three crucial components: 
+**The ritualistic preparation and bond formation between a necromancer and their steed is a process involving three crucial components**: 
 
 1. The Selection and Preparation of the Steed
 2. The Ritual of Bonding

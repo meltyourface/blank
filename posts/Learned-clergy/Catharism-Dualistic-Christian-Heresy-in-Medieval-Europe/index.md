@@ -28,7 +28,7 @@ Theoretical Foundations, Origins, and Development:
 
 The origins of Catharism trace back to the religious turbulence in eastern Europe, where Bogomilism, a dualistic sect from the Byzantine Empire, took hold. Catharism adopted much of its ideology from Bogomilism, including its belief in a spiritual realm distinct from the material world.
 
-A central tenet of Catharism is the presence of two opposing forces: the benevolent God of the New Testament, responsible for spiritual existence, and the malevolent Demiurge of the Old Testament, responsible for the material world. This dualism rejected the idea of a single omnipotent God.
+**A central tenet of Catharism is the presence of two opposing forces**: the benevolent God of the New Testament, responsible for spiritual existence, and the malevolent Demiurge of the Old Testament, responsible for the material world. This dualism rejected the idea of a single omnipotent God.
 
 The movement spread through itinerant preachers, who managed to gain the support of local nobility and the general populace. However, their rapid expansion and the challenge they posed to the church led to the Albigensian Crusade, which aimed to suppress the movement through violent means.
 

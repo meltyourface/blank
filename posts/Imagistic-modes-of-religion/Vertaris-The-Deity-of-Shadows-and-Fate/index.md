@@ -29,7 +29,7 @@ Powers and Symbolism:
 
 Vertaris possesses the supernatural ability to manipulate shadows, secret knowledge, and the unseen forces that govern fate. A master of illusions and invisibility, Vertaris can reveal or conceal information at will, always remaining hidden behind the veils of obscurity.
 
-Visually, Vertaris is often depicted as an enigmatic figure, shrouded by an ever-shifting cloak of shadows. ****This deity is commonly associated with symbols such as the raven, moon, and hourglass, each representing different aspects of its power****: transformation, cycles, and the passage of time.
+Visually, Vertaris is often depicted as an enigmatic figure, shrouded by an ever-shifting cloak of shadows. **This deity is commonly associated with symbols such as the raven, moon, and hourglass, each representing different aspects of its power**: transformation, cycles, and the passage of time.
 
 Secret Rituals:
 

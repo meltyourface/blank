@@ -35,7 +35,7 @@ Materials needed:
 9. A ritual knife or athame
 10. A working space and altar
 
-Setting the workspace: 
+**Setting the workspace**: 
 Prepare your sacred space by cleansing it and setting up the altar with a representation of each of the elements – earth, air, fire, and water. Place your materials in their corresponding elemental directions.
 **Step 1**: Invocation
 Invoke the deities or spiritual forces that align with your intention – address each force individually and ask for their presence and blessing. Light incense and a white candle to aid your connection with the spiritual realm.

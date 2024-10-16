@@ -21,9 +21,9 @@ excerpt: Design an intricate invocation ceremony tailored to the Modern esoteric
 ---
 Task: Design an intricate invocation ceremony tailored to the Modern esoteric and occult practice for summoning a definitive entity.
 
-Chosen Entity: Thoth, the Egyptian god of wisdom, knowledge, and writing, associated with the moon and known as a mediator between good and evil.
+**Chosen Entity**: Thoth, the Egyptian god of wisdom, knowledge, and writing, associated with the moon and known as a mediator between good and evil.
 
-The Ritual: The Invocation of Thoth
+**The Ritual**: The Invocation of Thoth
 
 Supplies needed:
 1. A dark, quiet, and private indoor space

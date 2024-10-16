@@ -24,7 +24,7 @@ excerpt: Design a comprehensive Magickal Retirement lunar ritual, tailored to he
 
 **Goal**: To heighten intuition and expand psychic awareness
 
-Phase of the Moon: Waxing Gibbous
+**Phase of the Moon**: Waxing Gibbous
 
 **Sigil**: Design a sigil combining the glyphs of the Moon (crescent) with a personal symbol representing your intuitive or psychic abilities (e.g. an all-seeing eye, a star, or a spiral). The sigil should resonate with you and your intentions.
 

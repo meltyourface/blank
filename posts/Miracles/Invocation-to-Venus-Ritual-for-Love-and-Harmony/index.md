@@ -24,7 +24,7 @@ I invoke thee, O great and brilliant planetary intelligence of Venus, Aphrodite 
 
 In the name of the stars that dance within your heavenly dominion, I summon your grace with the fervor of the morning dew. As the oceans rise and fall at the command of the Moon, do I now seek your radiant guidance and benevolence.
 
-Wondrous Aphrodite, as the mirror reflects the perfection of your countenance, let the esoteric wisdom hidden within this sacred ritual reflect the true nature of your essence. ****With the sound of the conch shells that herald your gentle tides, I beseech you****: may the Rose that is your heart blossom in the center of our rite.
+Wondrous Aphrodite, as the mirror reflects the perfection of your countenance, let the esoteric wisdom hidden within this sacred ritual reflect the true nature of your essence. **With the sound of the conch shells that herald your gentle tides, I beseech you**: may the Rose that is your heart blossom in the center of our rite.
 
 As the honeyed mead drips from thy golden goblet, let its sweet nectar nourish my soul, engendering the flowering of my very being. With the sign of the Pentacle, I do seal our pact; engraved upon the shimmering firmament, its celestial angles echo the harmony of your radiant domain.
 

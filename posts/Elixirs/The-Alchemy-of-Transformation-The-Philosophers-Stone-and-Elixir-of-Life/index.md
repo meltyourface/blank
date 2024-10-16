@@ -30,7 +30,7 @@ But the Philosopher's Stone is more than just an object of material wealth. It i
 
 Now, to create the Philosopher's Stone and Elixir of Life, one must journey through the essential principles of alchemy. These principles were often cloaked in symbolism and allegory, designed to hide their true meanings from the uninitiated.
 
-There are four key stages in the alchemical process: nigredo, albedo, citrinitas, and rubedo. In the nigredo stage, the practitioner breaks down the matter into its most basic components through processes such as calcination, dissolution, and separation. This stage is often symbolized by blackness, and it represents a purification of sorts, as the undesirable elements must be cleansed before true transformation can occur.
+**There are four key stages in the alchemical process**: nigredo, albedo, citrinitas, and rubedo. In the nigredo stage, the practitioner breaks down the matter into its most basic components through processes such as calcination, dissolution, and separation. This stage is often symbolized by blackness, and it represents a purification of sorts, as the undesirable elements must be cleansed before true transformation can occur.
 
 The second stage, albedo, involves the recombination of these purified elements into a new, harmonious whole. Here, the alchemist engages in processes such as congelation, sublimation, and fermentation, further refining the components. The albedo stage is represented by whiteness, embodying the new purity obtained in this phase of the work.
 

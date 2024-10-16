@@ -22,7 +22,7 @@ excerpt: >
 ---
 Psycho-Spiritual Evaluation: Natal Astrological Chart Analysis and Ritualistic Practices for Personal Growth in the Proclamation of the Grade of Ipsissimus
 
-Birth Information: [Full Name, Date of Birth, Time of Birth, City of Birth]
+**Birth Information**: [Full Name, Date of Birth, Time of Birth, City of Birth]
 
 **Introduction**:
 
@@ -30,15 +30,15 @@ Within the esoteric framework of the Proclamation of the Grade of Ipsissimus, th
 
 Astrological Chart Interpretation:
 
-Sun Sign: [Sun Sign]
+**Sun Sign**: [Sun Sign]
 
 The sun represents the core of who you are. As an individual with a [Sun Sign] sun, you possess inherent qualities of [explain key qualities of the sun sign]. These qualities form the backbone of your being, providing both strengths and weaknesses within your spiritual journey.
 
-Moon Sign: [Moon Sign]
+**Moon Sign**: [Moon Sign]
 
 Your emotional nature is guided by the moon sign. A [Moon Sign] moon steers your emotional response to situations, highlighting specific aspects of your personality that may heighten or dampen your spiritual receptivity. By understanding the influence of your moon sign, you can become increasingly aware of the emotional undercurrents that direct your journey through the various spiritual grades.
 
-Rising Sign: [Rising Sign]
+**Rising Sign**: [Rising Sign]
 
 The first impression you give to the world is made evident through your rising sign. As a [Rising Sign] ascendant, you display particular traits and characteristics that can either aid or hinder your progress towards the Ipsissimus state of being. Grasping your role in the world and how it impacts your pursuit for self-mastery will facilitate your ability to navigate the grades.
 

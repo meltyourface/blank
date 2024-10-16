@@ -38,7 +38,7 @@ Bulwer Lytton's characters are imbued with a deep interest in mystical and esote
 
 2. The implications of mystical knowledge-seeking for both protagonists and antagonists
 
-The quest for esoteric knowledge in Bulwer Lytton's fiction often exposes characters to grave consequences and ethical quandaries. ****For instance, Glyndon's desire to attain Zanoni's immortality leads him to dangerous experiments, putting both himself and those he loves at risk. Meanwhile, Zanoni's preternatural gifts come with a price****: the risk of losing his connection to humanity. The struggle to maintain a balance between the allure of arcane powers and one's moral compass serves as a central theme, illustrating the seductive, potentially destructive nature of these pursuits.
+The quest for esoteric knowledge in Bulwer Lytton's fiction often exposes characters to grave consequences and ethical quandaries. **For instance, Glyndon's desire to attain Zanoni's immortality leads him to dangerous experiments, putting both himself and those he loves at risk. Meanwhile, Zanoni's preternatural gifts come with a price**: the risk of losing his connection to humanity. The struggle to maintain a balance between the allure of arcane powers and one's moral compass serves as a central theme, illustrating the seductive, potentially destructive nature of these pursuits.
 
 3. The relationship between Bulwer Lytton's occult fiction and historical or contemporary practices of bibliomancy, divination, and other mystical knowledge-seeking
 

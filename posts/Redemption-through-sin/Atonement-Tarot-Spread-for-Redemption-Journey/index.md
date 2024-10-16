@@ -21,7 +21,7 @@ excerpt: Design an intricate tarot spread, exclusively centered around unravelin
 ---
 The Labyrinth of Atonement Tarot Spread
 
-This intricate tarot spread consists of 21 cards, designed to guide the querent through the stages of sin, consequences, and the potential for redemption. ****The spread is divided into three parts****: The Path of Transgression, The Consequences of Sin, and The Journey to Redemption.
+This intricate tarot spread consists of 21 cards, designed to guide the querent through the stages of sin, consequences, and the potential for redemption. **The spread is divided into three parts**: The Path of Transgression, The Consequences of Sin, and The Journey to Redemption.
 
 1. The Path of Transgression (Cards 1-7)
 These cards represent the steps taken by the querent, leading them into sinful behavior and representing the stages of sin in a linear fashion.

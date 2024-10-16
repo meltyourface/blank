@@ -24,9 +24,9 @@ excerpt: >
 
 The 'Big Man' society has always been shrouded in mystery and secrecy, with a plethora of esoteric knowledge passed down through the generations. **One key aspect of their mastery lies in the intricate numerology system that governs their sacred practices, rituals, and ceremonies. This numerology system is based on three primary numbers that hold significant meaning within the society**:
 
-1. ****The Number 3****: representing the Triad of Power - Knowledge, Magic, and Influence
-2. ****The Number 7****: embodying the 7 Pillars of Wisdom - the guiding principles for those in the 'Big Man' society
-3. ****The Number 9****: as the Grand Enigma, symbolizing the ultimate divine truth yet to be discovered
+1. **The Number 3**: representing the Triad of Power - Knowledge, Magic, and Influence
+2. **The Number 7**: embodying the 7 Pillars of Wisdom - the guiding principles for those in the 'Big Man' society
+3. **The Number 9**: as the Grand Enigma, symbolizing the ultimate divine truth yet to be discovered
 
 ### II. Esoteric Numerology
 
@@ -48,9 +48,9 @@ The numerology system amplifies power within the 'Big Man' society through multi
 
 Key ceremonies include:
 
-1. ****The Rite of Inception (SEQ 21)****: Individuals undergo trials that test their commitment to the 'Big Man' society's practices and principles. Upon completion, they obtain their first taste of esoteric knowledge.
-2. ****The Ensuing Conclave (SEQ 42)****: After demonstrating their mastery of acquired knowledge, individuals gather in secret, sharing new insights and undertaking higher-level rituals to further develop their skills.
-3. ****The Great Congregation (SEQ 63)****: This rare event, occurring only under specific cosmic conditions, unites the entire 'Big Man' society. Together, they perform a grand ceremony, invoking powerful energies that grant access to hitherto unseen realms of existence.
+1. **The Rite of Inception (SEQ 21)**: Individuals undergo trials that test their commitment to the 'Big Man' society's practices and principles. Upon completion, they obtain their first taste of esoteric knowledge.
+2. **The Ensuing Conclave (SEQ 42)**: After demonstrating their mastery of acquired knowledge, individuals gather in secret, sharing new insights and undertaking higher-level rituals to further develop their skills.
+3. **The Great Congregation (SEQ 63)**: This rare event, occurring only under specific cosmic conditions, unites the entire 'Big Man' society. Together, they perform a grand ceremony, invoking powerful energies that grant access to hitherto unseen realms of existence.
 
 ### V. Conclusion
 

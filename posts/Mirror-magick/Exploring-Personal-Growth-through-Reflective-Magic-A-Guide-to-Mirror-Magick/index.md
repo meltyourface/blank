@@ -58,7 +58,7 @@ As with all magickal practices, certain safety precautions should be followed wh
 
 4. **Trust your intuition**: If you feel uneasy or otherwise uncomfortable during any aspect of your practice, do not hesitate to stop and reassess your situation.
 
-Sample Ritual: Reflection for Personal Growth
+**Sample Ritual**: Reflection for Personal Growth
 
 This ritual focuses on harnessing the power of reflection for self-discovery and personal growth.
 

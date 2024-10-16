@@ -62,19 +62,19 @@ The following chants are examples of potent Druidic invocations, each with speci
 
 1. Awen Invocation
 
-Purpose: To invite inspiration, creativity, and spiritual enlightenment
+**Purpose**: To invite inspiration, creativity, and spiritual enlightenment
 
-Chant: "Awen an trí, Dia taobh istigh, Dia taobh amuigh, Coillte croi an domhan" (Oh Awen of the three, God within, God without, Heart in the Forest)
+**Chant**: "Awen an trí, Dia taobh istigh, Dia taobh amuigh, Coillte croi an domhan" (Oh Awen of the three, God within, God without, Heart in the Forest)
 
-Technique: Light a candle, focus on the flame, and repeat the chant nine times. Allow yourself to surrender to the flow of inspiration that wells up within you.
+**Technique**: Light a candle, focus on the flame, and repeat the chant nine times. Allow yourself to surrender to the flow of inspiration that wells up within you.
 
 2. Call of the Elements
 
-Purpose: To connect with the elemental forces of nature
+**Purpose**: To connect with the elemental forces of nature
 
-Chant: "Tine adhlaic mé, aer osclaíonn tuairimí mé, uisce scaoileann mé, talamh faire, táim ceangailte le cumhacht na dúile" (Fire ignites me, air unlocks thoughts within, water frees me, earth shielding, I am bound to the power of the elements)
+**Chant**: "Tine adhlaic mé, aer osclaíonn tuairimí mé, uisce scaoileann mé, talamh faire, táim ceangailte le cumhacht na dúile" (Fire ignites me, air unlocks thoughts within, water frees me, earth shielding, I am bound to the power of the elements)
 
-Technique: Stand outdoors in nature, facing the direction associated with each element (east for air, south for fire, west for water, and north for earth). Invoke each elemental power in turn, repeating the chant.
+**Technique**: Stand outdoors in nature, facing the direction associated with each element (east for air, south for fire, west for water, and north for earth). Invoke each elemental power in turn, repeating the chant.
 
 Conclusion
 

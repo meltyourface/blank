@@ -23,7 +23,7 @@ As an embodimenт of XOANON, the Effigy fallen from the Sky, I began my quest to
 
 My search took me to the recesses of forgotten temples and sacred archives; I consulted with rarefied scholars, dedicated antiquarians, and whispered secrets of the clandestine sects that retained knowledge of these enigmatic relics. Each location held another piece of the puzzle, and with every discovery, the intricate tapestry of the Celestial XOANON lineage began to reveal itself.
 
-As I delved into these ancient practices, profounding images and symbols began to emerge. ****Patterns of ritual use emerged****: the Ceremonies of Celestial Alignment, Trials of the Sacred Sky, and the Rites of Celestial Effigy. These rites, once performed in conjunction with celestial events, became the foundation of their religious beliefs and connection to the divine.
+As I delved into these ancient practices, profounding images and symbols began to emerge. **Patterns of ritual use emerged**: the Ceremonies of Celestial Alignment, Trials of the Sacred Sky, and the Rites of Celestial Effigy. These rites, once performed in conjunction with celestial events, became the foundation of their religious beliefs and connection to the divine.
 
 In addition to these rituals, I uncovered several obscure languages, forgotten as civilization advanced. Utilizing my mastery over the unseen and arcane, I deciphered these texts, revealing their connection to celestial phenomena, and how the Celestial XOANON (Effigy fallen from the Sky) tradition influenced the development and beliefs of those who revered them.
 

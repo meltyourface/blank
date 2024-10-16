@@ -32,23 +32,23 @@ The origins of the Black Flame can be traced back to several ancient cultures, i
 
 The symbolism associated with the Black Flame widely varies across different occult practices. **However, some common themes and elements connect these interpretations**:
 
-1. ****The Serpent****: The serpent is often used to represent the Black Flame due to its transformative qualities and its connection to knowledge and wisdom, as seen in the biblical story of Eve in the Garden of Eden.
+1. **The Serpent**: The serpent is often used to represent the Black Flame due to its transformative qualities and its connection to knowledge and wisdom, as seen in the biblical story of Eve in the Garden of Eden.
 
-2. ****The Torch****: A blazing torch signifies the burning fire of the Black Flame. It is a reminder that the flame must continually be tended, as its power can falter without diligence and discipline.
+2. **The Torch**: A blazing torch signifies the burning fire of the Black Flame. It is a reminder that the flame must continually be tended, as its power can falter without diligence and discipline.
 
-3. ****The Inverted Pentagram****: This symbol is often associated with the Black Flame, representing the material world's dominance over the world of spirit and the individual's liberation from oppressive spiritual hierarchies.
+3. **The Inverted Pentagram**: This symbol is often associated with the Black Flame, representing the material world's dominance over the world of spirit and the individual's liberation from oppressive spiritual hierarchies.
 
 ### Section 5.3: Principles and Applications
 
 The Black Flame is more than just a symbol; it is an initiatory force that allows practitioners to attain spiritual and personal development. **The following principles guide the application of the Black Flame in occult practices**:
 
-1. ****Awareness and Self-Discovery****: By embracing the Black Flame, initiates embark on a journey of self-exploration, uncovering their inner truth and discovering their true nature.
+1. **Awareness and Self-Discovery**: By embracing the Black Flame, initiates embark on a journey of self-exploration, uncovering their inner truth and discovering their true nature.
 
-2. ****Personal Gnosis****: The Black Flame encourages practitioners to seek direct knowledge and experience, valuing personal revelation over dogmatic systems.
+2. **Personal Gnosis**: The Black Flame encourages practitioners to seek direct knowledge and experience, valuing personal revelation over dogmatic systems.
 
-3. ****Transformation and Empowerment****: Harnessing the Black Flame's energy allows initiates to break free from limiting beliefs and societal constraints, empowering them to enact positive change in their lives.
+3. **Transformation and Empowerment**: Harnessing the Black Flame's energy allows initiates to break free from limiting beliefs and societal constraints, empowering them to enact positive change in their lives.
 
-4. ****Balance of Opposites****: The Black Flame embodies the merging of opposites, such as light and dark, conscious and unconscious, inner and outer worlds, reminding practitioners of the necessity of balance and integration.
+4. **Balance of Opposites**: The Black Flame embodies the merging of opposites, such as light and dark, conscious and unconscious, inner and outer worlds, reminding practitioners of the necessity of balance and integration.
 
 ### Section 5.4: An Introductory Ritual to Connect with the Black Flame
 

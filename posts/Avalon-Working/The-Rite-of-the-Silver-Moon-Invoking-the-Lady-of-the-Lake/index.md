@@ -70,7 +70,7 @@ An understanding and appreciation for the rich history and literature of the Ava
 
 4. **Ritual Goal**:
 
-The goal of this ritual is threefold: heightened spiritual awareness, emotional healing, and a deeper connection with the Avalonian energies. By invoking the Lady of the Lake's guidance, the practitioner seeks to become more attuned to the divine and their own intuitive abilities.
+**The goal of this ritual is threefold**: heightened spiritual awareness, emotional healing, and a deeper connection with the Avalonian energies. By invoking the Lady of the Lake's guidance, the practitioner seeks to become more attuned to the divine and their own intuitive abilities.
 
 5. **Ritual Space**:
 

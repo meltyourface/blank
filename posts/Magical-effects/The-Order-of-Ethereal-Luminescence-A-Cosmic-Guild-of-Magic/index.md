@@ -60,6 +60,6 @@ Key events in the order's history have centered around instances of cosmic align
 
 5. Aesthetic:
 
-The ceremonial garbs of the order include flowing white robes adorned with silver embroidery portraying cosmic scenes: constellations, galaxies, and nebulae. As members advance in rank, their garments become increasingly ornate, with Council Members donning additional accessories like amulets and crowns.
+**The ceremonial garbs of the order include flowing white robes adorned with silver embroidery portraying cosmic scenes**: constellations, galaxies, and nebulae. As members advance in rank, their garments become increasingly ornate, with Council Members donning additional accessories like amulets and crowns.
 
 The emblem of the OEL is a crescent moon, surrounded by a ring of twinkling stars, which represents their spiritual connection to the cosmos. Their headquarters, The Celestial Spire, is a towering obsidian structure, shaped like a tall, slender star with crystalline windows that refracts sunlight into prismatic rainbows. Rooms within are dedicated to specific cosmic entities and are designed with astronomy and the cosmos in mind.

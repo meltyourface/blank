@@ -31,7 +31,7 @@ One historically significant Greek name is "ΙΗΣΟΥΣ," which is the Greek fo
 Υ (Upsilon) = 400
 Σ (Sigma) = 200
 
-Total Isopsephic value: 10 + 8 + 200 + 70 + 400 + 200 = 888
+**Total Isopsephic value**: 10 + 8 + 200 + 70 + 400 + 200 = 888
 
 The calculated Isopsephic value of "ΙΗΣΟΥΣ" is 888, a number that holds significant esoteric symbolism in various contexts.
 

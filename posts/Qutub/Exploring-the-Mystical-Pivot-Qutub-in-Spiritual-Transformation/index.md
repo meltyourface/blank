@@ -56,13 +56,13 @@ In the esoteric context, Qutub and the Axis Mundi share a common purpose of guid
 
 For students seeking to deepen their understanding of Qutub, the following practices are advocated:
 
-1. ****Contemplation and Meditation****: Dedicate time daily to explore the concept of Qutub and experience its presence within and around you. Engage in meditation by focusing on the symbolic imagery associated with Qutub and visualize your connection with the spiritual axis.
+1. **Contemplation and Meditation**: Dedicate time daily to explore the concept of Qutub and experience its presence within and around you. Engage in meditation by focusing on the symbolic imagery associated with Qutub and visualize your connection with the spiritual axis.
 
-2. ****Establishing Balance****: Embrace the notion of equilibrium by acknowledging and harmonizing the dualistic aspects of your nature. Strive to maintain a state of balance in your thoughts, emotions, and actions as profound insight and spiritual growth stem from this harmonious state.
+2. **Establishing Balance**: Embrace the notion of equilibrium by acknowledging and harmonizing the dualistic aspects of your nature. Strive to maintain a state of balance in your thoughts, emotions, and actions as profound insight and spiritual growth stem from this harmonious state.
 
-3. ****Seeking Guidance****: Connect with a spiritual teacher or mentor who embodies the qualities of a Qutub – one who has traversed the path of spiritual transformation and can provide guidance and support during your journey.
+3. **Seeking Guidance**: Connect with a spiritual teacher or mentor who embodies the qualities of a Qutub – one who has traversed the path of spiritual transformation and can provide guidance and support during your journey.
 
-4. ****Integrating Qutub into Daily Life****: Make a conscious effort to remind yourself of the presence of the spiritual axis in your daily experiences. Cultivate an awareness of its influence on your thoughts, emotions, and actions, allowing you to stay aligned with the spiritual principles that guide your growth and transformation.
+4. **Integrating Qutub into Daily Life**: Make a conscious effort to remind yourself of the presence of the spiritual axis in your daily experiences. Cultivate an awareness of its influence on your thoughts, emotions, and actions, allowing you to stay aligned with the spiritual principles that guide your growth and transformation.
 
 **Conclusion**:
 

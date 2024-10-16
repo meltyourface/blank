@@ -30,7 +30,7 @@ While conducting an analysis of planetary alignments and lunar phases, it is vit
 
 3. Divination: The art of divination, including tarot, scrying, and astrology itself, relies heavily on the procession of astrological transits. Mercury retrograde periods are infamous for causing communication issues and are generally considered unfavorable for successful divination. Alternatively, favorable moon phases and planetary aspects provide clarity and accuracy in divinatory practices.
 
-Case Study Analysis: The Great Conjunction of 1524
+**Case Study Analysis**: The Great Conjunction of 1524
 One notable historical instance of the impact of astrological configurations on esoteric rites is the Great Conjunction of 1524. During this year, several planets, including Jupiter, Mars, and Saturn, aligned in the sign of Pisces. This event was interpreted as an ominous portent heralding great floods and catastrophes, resonating with the Biblical deluge narrative.
 
 Astrologers and practitioners at the time conducted magical workings and sigil activations, using their interpretation of the astrological conditions to enhance their power and ensure advantageous outcomes for their communities. The planetary alignments during this event strengthened water-based rituals and magical works, and some documents suggest practitioners working with elemental spirits to counterbalance the anticipated destruction.

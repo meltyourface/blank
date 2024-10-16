@@ -27,47 +27,47 @@ Mountaineering is an adventurous and challenging activity that requires speciali
 High-Altitude Climbing
 Examples: Himalayas, Andes, and the Alps
 
-1. ****Base layer****: Moisture-wicking synthetic materials, lightweight wool
+1. **Base layer**: Moisture-wicking synthetic materials, lightweight wool
    - This layer is essential in moisture management, keeping the skin dry
    - Particularly important in high-altitude climates due to increased perspiration from exertion and the subsequent risk of hypothermia
 
-2. ****Mid-layer****: Insulating, breathable, and moisture-wicking materials, such as fleece or Primaloft
+2. **Mid-layer**: Insulating, breathable, and moisture-wicking materials, such as fleece or Primaloft
    - Important for staying warm in fluctuating temperatures
    - Select mid-layers based on anticipated conditions: lighter insulation for moderate temperatures, heavier insulation for extreme cold
 
-3. ****Insulation****: Down or synthetic jackets
+3. **Insulation**: Down or synthetic jackets
    - Lightweight down jackets are ideal for high-altitude environments, thanks to their warmth-to-weight ratio
    - Synthetic jackets are a more affordable option, but they might be bulkier and less compressible
 
-4. ****Outer protection****: Waterproof and breathable hardshell jackets and pants, such as Gore-Tex
+4. **Outer protection**: Waterproof and breathable hardshell jackets and pants, such as Gore-Tex
    - Ensure gear is designed for alpine conditions, with features like helmet-compatible hoods and reinforced panels for durability
    - Choose lightweight and packable options for easy storage when not in use
 
-5. ****Footwear****: Insulated mountaineering boots with crampon compatibility, sock liners, and moisture-wicking socks
+5. **Footwear**: Insulated mountaineering boots with crampon compatibility, sock liners, and moisture-wicking socks
    - Double-layered boots with removable insulation are recommended for higher altitudes and colder conditions
    - Sock liners and moisture-wicking socks help manage moisture and increase comfort as feet perspire during intense activity
 
 Mixed Climbing 
 Examples: Climbing involving a combination of rock, ice, and snow
 
-1. ****Base layer****: Same as high-altitude climbing
-2. ****Mid-layer****: More breathable, articulated options for increased mobility, typically softshell jackets and pants
+1. **Base layer**: Same as high-altitude climbing
+2. **Mid-layer**: More breathable, articulated options for increased mobility, typically softshell jackets and pants
    - This layer should still be insulating but should also offer increased freedom of movement for technical climbing
-3. ****Insulation****: Lightweight, compressible down or synthetic insulating layer
+3. **Insulation**: Lightweight, compressible down or synthetic insulating layer
    - Consider the versatility of a vest or jacket with removable sleeves
-4. ****Outer protection****: Waterproof, breathable hardshell with increased durability
+4. **Outer protection**: Waterproof, breathable hardshell with increased durability
    - Focus on gear with reinforced panels where harnesses or other climbing gear may cause wear
-5. ****Footwear****: Rigid, crampon-compatible climbing boots or approach shoes suited to mixed terrain 
+5. **Footwear**: Rigid, crampon-compatible climbing boots or approach shoes suited to mixed terrain 
 
 Glacier Travel
 Examples: Crevasse-filled glaciers, icefields
 
-1. ****Base layer****: Same as high-altitude climbing
-2. ****Mid-layer****: Similar to mixed climbing, focus on breathability and mobility
-3. ****Insulation****: More lightweight options, such as a thin down or synthetic jacket
+1. **Base layer**: Same as high-altitude climbing
+2. **Mid-layer**: Similar to mixed climbing, focus on breathability and mobility
+3. **Insulation**: More lightweight options, such as a thin down or synthetic jacket
    - Comfort and warmth adjustments can be made by adding or removing layers
-4. ****Outer protection****: Same as high-altitude climbing, with added emphasis on durability
-5. ****Footwear****: Sturdy, insulated mountaineering boots with crampon compatibility
+4. **Outer protection**: Same as high-altitude climbing, with added emphasis on durability
+5. **Footwear**: Sturdy, insulated mountaineering boots with crampon compatibility
    - Double-layered boots are highly recommended due to crevasse-related hazards
 
 Conclusion

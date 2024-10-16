@@ -26,16 +26,16 @@ In the Adolphus tradition, theurgical rites hold great importance in creating a 
 1. Ritual Structure
 Current Practice: The rite currently follows a linear structure, beginning with a purification process, followed by the construction of the sacred space, a series of invocations of divine powers, and finally, the culmination of the ritual and closing of the sacred space.
 
-Suggested Enhancement: Introduce a cyclical structure that incorporates the concept of spiraling energy to tap into a deeper level of universal wisdom and build an expansive connection to the divine. The purification process can be repeated after invocations, creating a continuous flow of energy. This will facilitate a heightened spiritual experience, allowing the practitioner to establish stronger bonds with the divine.
+**Suggested Enhancement**: Introduce a cyclical structure that incorporates the concept of spiraling energy to tap into a deeper level of universal wisdom and build an expansive connection to the divine. The purification process can be repeated after invocations, creating a continuous flow of energy. This will facilitate a heightened spiritual experience, allowing the practitioner to establish stronger bonds with the divine.
 
 2. Invocations
 Current Practice: A singular invocation to the highest power within the Adolphus pantheon is practiced. This invocation aligns the energies of the ritual with the primary divine force within the tradition.
 
-Suggested Enhancement: To diversify the energetic focus of the ritual, incorporate multiple invocations that correspond to the various aspects of the specific pantheon. Each deity possesses unique qualities and powers, so invoking them individually will create a rich tapestry of energies. Their simultaneous presence will provide a more comprehensive divine connection and enable a versatile approach to the ritual's goal.
+**Suggested Enhancement**: To diversify the energetic focus of the ritual, incorporate multiple invocations that correspond to the various aspects of the specific pantheon. Each deity possesses unique qualities and powers, so invoking them individually will create a rich tapestry of energies. Their simultaneous presence will provide a more comprehensive divine connection and enable a versatile approach to the ritual's goal.
 
 3. Correspondences
 Current Practice: The rite utilizes a set of standard correspondences, such as colors, gemstones, symbols, and incense, to enhance its potency. These elements are selected based on the general connection between the tradition and its magical workings.
 
-Suggested Enhancement: Personalize correspondences for each practitioner, thereby amplifying their resonance with the ritual's intent and the divine. Encourage research on the tradition's esoteric truths and identify unique connections with the symbols, elements, and energies. This approach will create a more powerful spiritual experience and offer an intimate understanding of the tradition's deeper mysteries.
+**Suggested Enhancement**: Personalize correspondences for each practitioner, thereby amplifying their resonance with the ritual's intent and the divine. Encourage research on the tradition's esoteric truths and identify unique connections with the symbols, elements, and energies. This approach will create a more powerful spiritual experience and offer an intimate understanding of the tradition's deeper mysteries.
 
 In conclusion, refining the ritual structure to involve spiraling energy, diversifying the invocations, and personalizing correspondences are three enhancements that can be implemented to elevate the spiritual potency and sophistication of the theurgical rite within the Adolphus tradition. These adjustments respect the core principles and further strengthen the practitioner's connection to the divine.

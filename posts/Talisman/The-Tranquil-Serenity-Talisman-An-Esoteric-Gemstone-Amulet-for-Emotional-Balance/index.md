@@ -33,18 +33,18 @@ Materials and Gemstones:
 
 The pendant is made of pure silver, a metal known for its connection to lunar energy and its calming properties. **Each gemstone was carefully selected for its ability to dissipate anger and encourage patience**:
 
-1. ****Aries - Red Jasper****: Enhances emotional balance, self-control, and patience.
-2. ****Taurus - Rose Quartz****: Promotes harmony, compassion, and empathy.
-3. ****Gemini - Blue Lace Agate****: Soothes anxiety and encourages communication.
-4. ****Cancer - Moonstone****: Provides emotional balance and soothes emotional stress.
-5. ****Leo - Sunstone****: Fosters positive energy and boosts self-confidence.
-6. ****Virgo - Moss Agate****: Encourages patience and perseverance.
-7. ****Libra - Lepidolite****: Balances emotions and brings peace of mind.
-8. ****Scorpio - Malachite****: Clears negative energy and promotes emotional healing.
-9. ****Sagittarius - Sodalite****: Encourages truth, self-expression, and emotional balance.
-10. ****Capricorn - Garnet****: Enhances commitment and patience.
-11. ****Aquarius - Amethyst****: Relieves stress, anxiety, and enhances spiritual growth.
-12. ****Pisces - Aquamarine****: Calms the emotions and promotes inner peace.
+1. **Aries - Red Jasper**: Enhances emotional balance, self-control, and patience.
+2. **Taurus - Rose Quartz**: Promotes harmony, compassion, and empathy.
+3. **Gemini - Blue Lace Agate**: Soothes anxiety and encourages communication.
+4. **Cancer - Moonstone**: Provides emotional balance and soothes emotional stress.
+5. **Leo - Sunstone**: Fosters positive energy and boosts self-confidence.
+6. **Virgo - Moss Agate**: Encourages patience and perseverance.
+7. **Libra - Lepidolite**: Balances emotions and brings peace of mind.
+8. **Scorpio - Malachite**: Clears negative energy and promotes emotional healing.
+9. **Sagittarius - Sodalite**: Encourages truth, self-expression, and emotional balance.
+10. **Capricorn - Garnet**: Enhances commitment and patience.
+11. **Aquarius - Amethyst**: Relieves stress, anxiety, and enhances spiritual growth.
+12. **Pisces - Aquamarine**: Calms the emotions and promotes inner peace.
 
 Creation Process and Rituals:
 

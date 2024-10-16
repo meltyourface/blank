@@ -27,13 +27,13 @@ Aleph Beth Mem Daleth Noshe Vau Yud Zayin Cheth Teth Samekh Ayin Peh Heh Koph Qo
 
 With the power of The Logos, I now speak the mantra above to open the doors of understanding and attain spiritual awakening. With this sacred formula, I invoke the wisdom and mastery of Kabbalistic teachings, combining the forces of the Sephirot, the angelic hierarchy, and the pathways of the Hebrew letters. 
 
-Zarakh Qadosh Keter Tiferet Netzach: I ignite the divine light (Zarakh) and sanctify (Qadosh) the unity of Keter (Crown), Tiferet (Beauty), and Netzach (Victory). I harmonize the Supreme Source with the dynamics of mercy and judgment.
+**Zarakh Qadosh Keter Tiferet Netzach**: I ignite the divine light (Zarakh) and sanctify (Qadosh) the unity of Keter (Crown), Tiferet (Beauty), and Netzach (Victory). I harmonize the Supreme Source with the dynamics of mercy and judgment.
 
-Ararita Malkut Yesod Hod: I join the forces of Malkut (Kingdom), Yesod (Foundation), and Hod (Glory), manifesting the divine will on Earth through Ararita, an acronym for a Hebrew phrase (אחד ראש אחרית לא שעו יהי תהל) - "One is the principle, one is the end, and one is the protector, let it be so."
+**Ararita Malkut Yesod Hod**: I join the forces of Malkut (Kingdom), Yesod (Foundation), and Hod (Glory), manifesting the divine will on Earth through Ararita, an acronym for a Hebrew phrase (אחד ראש אחרית לא שעו יהי תהל) - "One is the principle, one is the end, and one is the protector, let it be so."
 
-Az Elifasun Yochniel Raziel: I invoke the wisdom of Az (Fortitude), along with guardian angels Elifasun and Yochniel, and reveal the cosmic secrets through the Archangel Raziel, the keeper of divine mysteries.
+**Az Elifasun Yochniel Raziel**: I invoke the wisdom of Az (Fortitude), along with guardian angels Elifasun and Yochniel, and reveal the cosmic secrets through the Archangel Raziel, the keeper of divine mysteries.
 
-Tetragrammaton Beshrayim Tzaphkiel Sandalphon Uriel: By stating the Tetragrammaton (YHVH), I embody the fundamental energies of the universe, ascending with the help of Beshrayim, Tzaphkiel, Sandalphon, and Uriel to reach new heights in spiritual enlightenment.
+**Tetragrammaton Beshrayim Tzaphkiel Sandalphon Uriel**: By stating the Tetragrammaton (YHVH), I embody the fundamental energies of the universe, ascending with the help of Beshrayim, Tzaphkiel, Sandalphon, and Uriel to reach new heights in spiritual enlightenment.
 
 Aleph Beth… Lamed Gimel: I chant the interconnected Hebrew letters, symbolizing the pathways of The Logos shaping the fabric of creation, each letter a unique gateway to deeper wisdom.
 

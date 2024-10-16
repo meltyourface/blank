@@ -28,7 +28,7 @@ To create the optimal alcoholism-focused underground wine cellar, several critic
 
 **Lighting**: Wine is sensitive to light, especially ultraviolet (UV) light, which can cause wine degradation and negatively impact its flavor. It's essential to keep the cellar dimly lit and protect it from direct sunlight. Installing LED lights with a low UV output or traditional incandescent lights will provide sufficient illumination without harming the wine.
 
-Bottle Positioning: Laying the bottles on their side is optimal, particularly for wines with a cork closure. This positioning keeps the cork in constant contact with the wine, preventing it from drying out and allowing air to seep in. Wine racks can be made of wood, metal, or other materials that are designed to hold bottles in the correct position.
+**Bottle Positioning**: Laying the bottles on their side is optimal, particularly for wines with a cork closure. This positioning keeps the cork in constant contact with the wine, preventing it from drying out and allowing air to seep in. Wine racks can be made of wood, metal, or other materials that are designed to hold bottles in the correct position.
 
 Some wine varieties that excel in this controlled environment include:
 

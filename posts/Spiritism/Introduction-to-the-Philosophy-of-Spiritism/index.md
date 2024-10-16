@@ -36,25 +36,25 @@ Allan Kardec, the pen name of Hippolyte Léon Denizard Rivail, laid the foundati
 
 Key Concepts of Spiritism
 
-1. ****The Existence of Spirits****: Spiritism asserts the existence of incorporeal, intelligent entities, known as spirits, which are distinct from both living beings and inanimate matter. According to Spiritist doctrine, spirits are created by a supreme force, referred to as God, and subjected to a process of moral and intellectual evolution through successive incarnations in both the physical and spirit worlds.
+1. **The Existence of Spirits**: Spiritism asserts the existence of incorporeal, intelligent entities, known as spirits, which are distinct from both living beings and inanimate matter. According to Spiritist doctrine, spirits are created by a supreme force, referred to as God, and subjected to a process of moral and intellectual evolution through successive incarnations in both the physical and spirit worlds.
 
-2. ****The Immortality of the Soul****: Spiritism teaches that the soul, an individual's essence separate from the physical body, is immortal and continues to exist and evolve within the spirit world after physical death.
+2. **The Immortality of the Soul**: Spiritism teaches that the soul, an individual's essence separate from the physical body, is immortal and continues to exist and evolve within the spirit world after physical death.
 
-3. ****Reincarnation****: The belief in reincarnation is central to Spiritism. It posits that spirits may return to the physical world in different bodies to learn, progress and develop morally and spiritually.
+3. **Reincarnation**: The belief in reincarnation is central to Spiritism. It posits that spirits may return to the physical world in different bodies to learn, progress and develop morally and spiritually.
 
-4. ****Spirit Communication****: Central to Spiritism is the notion that the living can communicate with spirits through various means, including mediumship, automatic writing, and other techniques. This communication can provide guidance, wisdom, and insight into the moral and ethical development of individuals.
+4. **Spirit Communication**: Central to Spiritism is the notion that the living can communicate with spirits through various means, including mediumship, automatic writing, and other techniques. This communication can provide guidance, wisdom, and insight into the moral and ethical development of individuals.
 
-5. ****Moral and Ethical Development****: Spiritism emphasizes the importance of moral and ethical growth in an individual's spiritual journey, with the goal of attaining a more enlightened and benevolent state. This is achieved through acts of kindness, altruism, and adhering to high moral standards in daily life.
+5. **Moral and Ethical Development**: Spiritism emphasizes the importance of moral and ethical growth in an individual's spiritual journey, with the goal of attaining a more enlightened and benevolent state. This is achieved through acts of kindness, altruism, and adhering to high moral standards in daily life.
 
 Prominent Figures
 
-1. ****Allan Kardec****: The founder of modern Spiritism, whose investigations and writings helped consolidate the doctrine and practice of Spiritism.
+1. **Allan Kardec**: The founder of modern Spiritism, whose investigations and writings helped consolidate the doctrine and practice of Spiritism.
 
-2. ****Sir Arthur Conan Doyle****: An English writer, best known for his Sherlock Holmes stories, who was also an ardent supporter and popularizer of Spiritism.
+2. **Sir Arthur Conan Doyle**: An English writer, best known for his Sherlock Holmes stories, who was also an ardent supporter and popularizer of Spiritism.
 
-3. ****Leon Denis****: A French Spiritist author and lecturer, who became known as the "apostle of French Spiritism" following Kardec's death.
+3. **Leon Denis**: A French Spiritist author and lecturer, who became known as the "apostle of French Spiritism" following Kardec's death.
 
-4. ****Chico Xavier****: A Brazilian medium and prolific author; his channeled works are considered important contributions to Spiritist literature.
+4. **Chico Xavier**: A Brazilian medium and prolific author; his channeled works are considered important contributions to Spiritist literature.
 
 Primary Benefits and Goals
 

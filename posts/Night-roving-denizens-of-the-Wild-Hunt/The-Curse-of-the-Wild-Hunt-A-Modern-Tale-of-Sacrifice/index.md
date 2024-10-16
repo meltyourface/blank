@@ -31,7 +31,7 @@ However, the invisible bargain was now struck.
 
 In retaliation for her invasion of their domain, the Nightlord declared a judgment upon the village. Over the following weeks, the weather grew chaotic, with fierce storms battering homes and a seemingly endless darkness settling over the once-lively village. Unbeknownst to its inhabitants, the Wild Hunt rode through the streets each night, searching for those who dared venture outside.
 
-Tension grew among the people, as the supernatural events began affecting their lives in unforeseen ways. ****Once-dependable technology began to fail them****: GPS systems led drivers astray into the forests, and smartphones could no longer make clear connections, as if the Wild Hunt sought to sever all contact with the world outside the village.
+Tension grew among the people, as the supernatural events began affecting their lives in unforeseen ways. **Once-dependable technology began to fail them**: GPS systems led drivers astray into the forests, and smartphones could no longer make clear connections, as if the Wild Hunt sought to sever all contact with the world outside the village.
 
 With every passing night, the force of the Wild Hunt intensified, their pursuit becoming synonymous with nature's wrath and darkness encroaching upon the village. Adeline, distraught by the suffocating grip of despair overtaking the town, desperately sought answers in the forest. Rain-soaked and defeated, she encountered the Nightlord and the Wild Hunt once more.
 

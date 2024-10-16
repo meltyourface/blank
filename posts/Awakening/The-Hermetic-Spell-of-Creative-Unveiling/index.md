@@ -27,14 +27,14 @@ excerpt: >
 **Step One – Preparations**:
 1. Choose a quiet and calm workspace, preferably during a waxing moon.
 2. Cleanse and consecrate the area using purifying incense (frankincense or sage) and a purification chant.
-3. ****Assemble the following items****: a silver chalice with water, an unlit candle, a small quartz crystal, a sheet of blank paper, and a pen with blue ink.
-4. ****Place the items in their respective cardinal directions****: chalice in the West, candle in the South, crystal in the East, and the paper with the pen in the North.
+3. **Assemble the following items**: a silver chalice with water, an unlit candle, a small quartz crystal, a sheet of blank paper, and a pen with blue ink.
+4. **Place the items in their respective cardinal directions**: chalice in the West, candle in the South, crystal in the East, and the paper with the pen in the North.
 **Step Two – Invocation of the Elements**:
 1. Stand in the center of your workspace, facing East.
-2. ****Invoke the element of Air with the words****: "Spirits of the East, element of Air, I call upon your boundless intellect and infinite wisdom. Bring clarity and vision to my creative endeavors."
-3. ****Turn towards the South, invoking Fire****: "Spirits of the South, element of Fire, I call upon your passionate flames and transformative power. Ignite the spark of creativity within me."
-4. ****Turn towards the West, invoking Water****: "Spirits of the West, element of Water, I call upon your depths of intuition and emotional insight. Wash away the fog of doubt that clouds my creative vision."
-5. ****Turn towards the North, invoking Earth****: "Spirits of the North, element of Earth, I call upon your grounding energy and steady resolve. Grant me the strength to manifest my ideas into reality."
+2. **Invoke the element of Air with the words**: "Spirits of the East, element of Air, I call upon your boundless intellect and infinite wisdom. Bring clarity and vision to my creative endeavors."
+3. **Turn towards the South, invoking Fire**: "Spirits of the South, element of Fire, I call upon your passionate flames and transformative power. Ignite the spark of creativity within me."
+4. **Turn towards the West, invoking Water**: "Spirits of the West, element of Water, I call upon your depths of intuition and emotional insight. Wash away the fog of doubt that clouds my creative vision."
+5. **Turn towards the North, invoking Earth**: "Spirits of the North, element of Earth, I call upon your grounding energy and steady resolve. Grant me the strength to manifest my ideas into reality."
 **Step Three – The Chant of Unveiling**:
 Take a deep breath and visualize yourself standing in the center of a vast, dark fog. **Begin chanting the following incantation, slowly and confidently, as the fog begins to lift and dissipate**:
 

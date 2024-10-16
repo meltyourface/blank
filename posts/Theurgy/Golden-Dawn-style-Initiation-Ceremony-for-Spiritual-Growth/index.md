@@ -30,7 +30,7 @@ The following is a meticulously detailed Golden Dawn-style initiation ceremony, 
 5. Prepare the candidate by either fasting or partaking in a ritual meal and instructing them to meditate on their intentions for the initiation. Dress them in a simple white robe, barefoot, with a symbol of initiation (such as a red cord) tied around their waist.
 
 The Ceremony:
-1. ****Begin by invoking the divine entities in each quadrant, calling upon the Archangels of the Elements and the Watchtowers****: Uriel for Earth, Raphael for Air, Michael for Fire, and Gabriel for Water.
+1. **Begin by invoking the divine entities in each quadrant, calling upon the Archangels of the Elements and the Watchtowers**: Uriel for Earth, Raphael for Air, Michael for Fire, and Gabriel for Water.
 
 2. Have the Initiate stand in the center of the circle, with the officiants and participants arranged around them. The lead hierophant, dressed in a robe symbolizing their spiritual authority, stands in the East or behind the altar.
 

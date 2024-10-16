@@ -22,7 +22,7 @@ excerpt: Compose an intricate, sweeping saga about an elite cadre of totemic mys
 
 ## Totem Lords: The Hallowed Odyssey
 
-Book One: Spirits of the Ancients
+**Book One**: Spirits of the Ancients
 
 In an age beyond time, nestled within the ancestral lands of the Uth'garth Tribe, a prophecy brews beneath brooding skies. A darkness, older than the dawn of man, prepares to cast its shadow upon the world, and only the Totem Lords—a rare and elite cadre of mystics—stand poised to avenge their tribe.
 
@@ -42,4 +42,4 @@ Their very souls on the line, the Totem Lords press onward, never yielding in th
 
 Thus concludes the first volume of the hallowed odyssey of the Totem Lords, a sweeping saga of sacrifice and salvation. For their journey, though treacherous, was but a stepping stone on a path greater than any could have foreseen—one that shall span the very breadth of time, to the furthest reaches of the totality of creation. And within their hearts, the spirit of Uth'garth remains, forever guiding their stalwart souls.
 
-Book Two: The Exodus of the Starborn Tribe…
+**Book Two**: The Exodus of the Starborn Tribe…

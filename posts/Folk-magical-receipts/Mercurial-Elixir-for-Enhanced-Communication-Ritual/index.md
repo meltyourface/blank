@@ -26,7 +26,7 @@ excerpt: >
 **Ingredients**:
 1. Mercury sigil – representing the planetary energy of Mercury
 2. Caduceus symbol – the archaic symbol of communication and connection
-3. ****Enchanted herbs****: lavender, fennel, and marjoram
+3. **Enchanted herbs**: lavender, fennel, and marjoram
 4. Blue agate – a stone related to Mercury and communication
 5. Parchment and ink
 6. Silver, the metal corresponding to Mercury
@@ -39,13 +39,13 @@ Wisdom of Mercury, now ignite,
 Swift intellect and words endear,
 Flow to my heart and permeate the air."
 
-Main Incantation: Chanted while crafting the elixir.
+**Main Incantation**: Chanted while crafting the elixir.
 "Words of power, I invoke,
 Cosmic bonds, yet unbroken,
 From Mercury's sphere, I draw near,
 To enhance the connections I hold dear."
 
-Closing Incantation: Spoken when sealing the elixir.
+**Closing Incantation**: Spoken when sealing the elixir.
 "With potent symbols and herbs combined,
 A richer bond, I shall find,
 Connection deep, across dimensions vast,

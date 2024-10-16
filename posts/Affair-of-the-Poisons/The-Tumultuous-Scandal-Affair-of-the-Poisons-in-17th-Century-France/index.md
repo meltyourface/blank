@@ -28,7 +28,7 @@ The Affair of the Poisons was a major scandal that sent shockwaves across France
 
 ### Chapter 2: Key Figures and Their Roles
 
-At the heart of the Affair of the Poisons were three primary characters: Madame de Brinvilliers, a French noblewoman accused of poisoning her father and two brothers; Madame de Montespan, the king's official mistress, who later became implicated in the scandal; and La Voisin, a fortune-teller and self-proclaimed witch, who played a central role in the sale and distribution of poisons in Paris. Each had their distinctive part to play in shaping and unraveling the events of this tumultuous time. This chapter offers an in-depth examination of their motives, actions, and contributions to the drama of the Affair of the Poisons.
+**At the heart of the Affair of the Poisons were three primary characters**: Madame de Brinvilliers, a French noblewoman accused of poisoning her father and two brothers; Madame de Montespan, the king's official mistress, who later became implicated in the scandal; and La Voisin, a fortune-teller and self-proclaimed witch, who played a central role in the sale and distribution of poisons in Paris. Each had their distinctive part to play in shaping and unraveling the events of this tumultuous time. This chapter offers an in-depth examination of their motives, actions, and contributions to the drama of the Affair of the Poisons.
 
 ### Chapter 3: The Role of Poison and Dark Magic
 

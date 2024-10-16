@@ -37,7 +37,7 @@ Throughout the annals of time, myriad myths and legends have arisen surrounding 
 
 In some traditions, psychopomps are portrayed not as gods but as animals, such as the three-legged crow found in Chinese mythology, which is believed to guide souls to their final resting place. Celtic tradition also describes the appearance of ravens, often at the time of death, indicative of their long-standing association with psychopompic energies.
 
-Engaging with Psychopomps: Practical Guidance for Initiates
+**Engaging with Psychopomps**: Practical Guidance for Initiates
 
 Encountering psychopomps is a profound and transformative experience, which demands thorough preparation, awareness, and respect. Though these beings are inherently benevolent, the energies they work with are potent and require a deep understanding of the spiritual realm.
 

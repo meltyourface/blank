@@ -31,9 +31,9 @@ excerpt: >
 
 ## Journey to the Inner Temple: A Guided Visualization for Connecting with Spirit Guides
 
-Duration: 45 minutes
+**Duration**: 45 minutes
 
-Materials needed: A comfortable space to sit or lie down, headphones or speakers for audio playback, a notebook, and a pen.
+**Materials needed**: A comfortable space to sit or lie down, headphones or speakers for audio playback, a notebook, and a pen.
 
 Introduction:
 

@@ -50,11 +50,11 @@ Write your message in plain text before veiling it with occult symbolism. Begin 
 
 **Example**:
 
-Plain Text Message: "Secret Meeting Tonight"
+**Plain Text Message**: "Secret Meeting Tonight"
 
-Encoded Message: (Fire Symbol, Rune Berkana, Rune Isa, Alchemical Symbol Earth, …)
+**Encoded Message**: (Fire Symbol, Rune Berkana, Rune Isa, Alchemical Symbol Earth, …)
 
-Encrypted Message: (0,1),(1,2),(14,8),(3,6),(16,3),(8,11),… (using Tarot card row, column coordinates)
+**Encrypted Message**: (0,1),(1,2),(14,8),(3,6),(16,3),(8,11),… (using Tarot card row, column coordinates)
 
 4. Decoding the Archaic Arcanum
 
@@ -68,11 +68,11 @@ c. Replace the encrypted symbols with their modern letter counterparts.
 
 **Example**:
 
-Encrypted Message: (0,1),(1,2),(14,8),(3,6),(16,3),(8,11),…
+**Encrypted Message**: (0,1),(1,2),(14,8),(3,6),(16,3),(8,11),…
 
-Encoded Message: (Fire Symbol, Rune Berkana, Rune Isa, Alchemical Symbol Earth, …)
+**Encoded Message**: (Fire Symbol, Rune Berkana, Rune Isa, Alchemical Symbol Earth, …)
 
-Plain Text Message: "Secret Meeting Tonight"
+**Plain Text Message**: "Secret Meeting Tonight"
 
 5. Resources and Techniques
 

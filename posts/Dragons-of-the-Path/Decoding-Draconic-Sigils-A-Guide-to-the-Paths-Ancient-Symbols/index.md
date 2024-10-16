@@ -51,7 +51,7 @@ This chapter delves into the practical application of Draconic sigils in spiritu
 
 For the advanced practitioner, this chapter delves into more complex applications of Draconic sigils in spirit work (communicating with and evoking dragons) and channeling (allowing a dragon's essence to flow through the practitioner). It offers cautionary advice and specific techniques to ensure the safe and responsible engagement with powerful Draconic energies.
 
-Appendix: Sigils and Meanings
+**Appendix**: Sigils and Meanings
 
 The appendix of Draconis Mysteriorum provides an extensive catalog of known Draconic sigils, their meanings, elemental associations, and practical applications. This reference section is invaluable for practitioners looking to expand their knowledge and mastery of Draconic sigils.
 

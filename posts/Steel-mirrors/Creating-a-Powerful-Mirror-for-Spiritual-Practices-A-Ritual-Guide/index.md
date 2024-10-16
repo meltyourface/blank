@@ -34,7 +34,7 @@ To begin the ritual, you must first prepare your sacred space. Choose a quiet, u
 
 1.1. Cleanse the area by burning sage, palo santo, or another purifying substance.
 1.2. **Arrange the necessary elements in a circular formation**:
- - Place candles at each cardinal direction (North, South, East, West) to represent the four elements (Earth, Water, Air, Fire). ****Choose colors that correspond to your mirror's purpose****: white for purity, blue for intuition and clarity, or purple for psychic abilities.
+ - Place candles at each cardinal direction (North, South, East, West) to represent the four elements (Earth, Water, Air, Fire). **Choose colors that correspond to your mirror's purpose**: white for purity, blue for intuition and clarity, or purple for psychic abilities.
  - Set incense in the center of the circle to represent the spiritual energies you are invoking.
  - Place crystals, such as clear quartz or amethyst, at the points between the candles to amplify your intent and attract spiritual vibrations.
 1.3. In front of you, within the circle, place a stand to hold the steel mirror.

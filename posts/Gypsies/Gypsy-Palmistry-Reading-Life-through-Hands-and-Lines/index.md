@@ -27,7 +27,7 @@ History and Significance of Palmistry within Gypsy Culture:
 
 Palmistry, also known as chiromancy, can trace its roots back to ancient Indian and Chinese practices, dating as far back as 3,000 BCE. When nomadic Gypsy tribes migrated from India to Europe around the 14th century, they brought this mysterious art with them, incorporating it into their cultural identity and traditions. As Gypsies traveled through Europe, their reputation as skilled fortune-tellers grew, with palmistry becoming one of the cornerstones of their mystic services.
 
-Fundamental Principles: Hand Shapes and Major Lines
+**Fundamental Principles**: Hand Shapes and Major Lines
 
 Gypsy palmistry centers around the idea that the hand is a microcosm of one's life, with detailed information embedded in its lines, shapes, and patterns. These fundamentals form the basis of any reading:
 

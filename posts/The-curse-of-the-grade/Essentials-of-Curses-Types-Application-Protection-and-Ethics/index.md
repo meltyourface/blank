@@ -32,7 +32,7 @@ The history of curses dates back to ancient times, with the earliest known insta
 
 2. Types of Curses and Their Effects
 
-Curses can be broadly categorized into two main types: targeted curses and area-of-effect curses. Targeted curses are directed towards specific individuals; area-of-effect curses focus on a given location or a multitude of subjects.
+**Curses can be broadly categorized into two main types**: targeted curses and area-of-effect curses. Targeted curses are directed towards specific individuals; area-of-effect curses focus on a given location or a multitude of subjects.
 
 a) Illness Curse: This type of curse can cause sudden and unexplained sickness in the targeted individual, often leading to chronic illness or even death if not treated or reversed.
 

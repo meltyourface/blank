@@ -21,7 +21,7 @@ excerpt: Investigate the enigmatic history of an unearthed ancient talisman belo
 ---
 Upon receiving the ancient talisman belonging to the Midnight Emissary order, I begin my investigation utilizing the mastery I have as a Midnight Emissary.
 
-Description of the Talisman: 
+**Description of the Talisman**: 
 The talisman is a blackened oval device made of obsidian, measuring approximately 7 centimeters in length and 4 centimeters wide. On its surface, faint etchings of silver depict a serpent coiled around a crescent moon, its tail pointing to the center, representing infinity, and unity.
 
 **CREATOR**:

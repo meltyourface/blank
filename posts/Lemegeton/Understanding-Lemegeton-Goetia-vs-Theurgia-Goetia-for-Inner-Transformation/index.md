@@ -24,7 +24,7 @@ Introduction and Context
 
 Before diving into the analysis of the correlation between Lemegeton's Goetia and Theurgia-Goetia, it's crucial to have a foundational understanding of these two branches of Lemegeton, also known as The Lesser Key of Solomon. Lemegeton is a collection of five texts centered on demonology and the summoning of spirits, compiled in the mid-17th century but drawing on sources probably dating back to the early modern period (14th-16th centuries). The Goetia and Theurgia-Goetia are the first and second books within the Lemegeton, and they primarily focus on the invocation and control of spirits.
 
-Goetia vs. ****Theurgia-Goetia****: Comparison of Spirits and Invocation Methods
+Goetia vs. **Theurgia-Goetia**: Comparison of Spirits and Invocation Methods
 
 Goetia, also called Ars Goetia, contains a list of 72 demonic spirits, their descriptions, sigils (symbols), and the methods to summon and control them. The underlying principles of Goetia focus on the practitioner (usually a skilled occultist) using these spirits to achieve a specific purpose or intention. The nature of the spirits in Goetia is often destructive and chaotic, making them somewhat unpredictable. Through proper ritual practice, it is believed that the practitioner can subdue these spirits and harness their powers to induce change in the physical world.
 
@@ -44,6 +44,6 @@ The correlation between the underlying principles of Lemegeton's Goetia and Theu
 
 1. Goetia deals with destructive, chaotic, and more unpredictable spirits while Theurgia-Goetia involves mostly neutral and organized spirits.
 2. Invocation methods in Goetia focus on controlling spirits for specific intentions, whereas Theurgia-Goetia emphasizes harmony and collaboration with the spirits.
-3. ****Both branches of Lemegeton contribute to the broader aspects of human inner transformation and self-mastery, albeit through different paths****: Goetia through engaging and controlling raw power, and Theurgia-Goetia through harmonization and exchange of wisdom with higher order spirits.
+3. **Both branches of Lemegeton contribute to the broader aspects of human inner transformation and self-mastery, albeit through different paths**: Goetia through engaging and controlling raw power, and Theurgia-Goetia through harmonization and exchange of wisdom with higher order spirits.
 
 By understanding these differences, practitioners can tailor their journey of self-discovery and personal growth to leverage the teachings and experiences provided by each respective branch of the Lemegeton, ultimately leading to a comprehensive inner transformation guided by the principles of both Goetia and Theurgia-Goetia.

@@ -23,7 +23,7 @@ excerpt: >
 
 ## Title: The Rite of Auctoritas Invicta
 
-Purpose: This ceremonial rite, called the Rite of Auctoritas Invicta, serves to summon the ancient energies of power and authority within the practitioner, drawing upon the wisdom of esoteric, occult, and other mystical traditions.
+**Purpose**: This ceremonial rite, called the Rite of Auctoritas Invicta, serves to summon the ancient energies of power and authority within the practitioner, drawing upon the wisdom of esoteric, occult, and other mystical traditions.
 
 Preparation:
 

@@ -27,13 +27,13 @@ For this task, I will select the Liminal landscape of the "Misty Forest of Etern
 
 Tarot and Liminal Landscape Connection:
 
-The Major Arcana: The Hermit
+**The Major Arcana**: The Hermit
 Associated with solitude, introspection, and guidance, The Hermit perfectly mirrors the mysterious depths of the Misty Forest of Eternal Twilight. Here, travelers are forced to confront their inner worlds as the external environment dissolves into a symphony of ever-shifting shadows. A key location within this Liminal realm, a hollow tree known as the Whispering Cradle, serves as the refuge of The Hermit. This ancient, gnarled tree, with its cavernous interior, is alive with ancient whispers and echoes of wisdom-seeking travelers who came before. 
 
-The Swords: Three of Swords
+**The Swords**: Three of Swords
 The Three of Swords represents heartbreak, sorrow, and betrayal. Within the Misty Forest of Eternal Twilight, the lake of Tears is a manifestation of this emotional state. Surrounded by weeping willows, this lake's dark waters hold the sorrowful memories of countless souls. The tormented cries of heartbreak can be heard emanating from the waters, drawing in those who have experienced deep pain and loss as they navigate the Liminal landscape.
 
-The Pentacles: Nine of Pentacles
+**The Pentacles**: Nine of Pentacles
 The Nine of Pentacles signifies success, prosperity, and self-reliance. Amidst the melancholy and mysterious nature of the Misty Forest of Eternal Twilight, an enchanted grove known as the Abundant Glade appears. Only those who have overcome personal trials and emerged stronger find their way to this lush haven. Here, rich golden fruits hang from the trees, and iridescent blooms evoke a sense of achievement and satisfaction in their bold and vibrant display. 
 
 Immersive Narrative:

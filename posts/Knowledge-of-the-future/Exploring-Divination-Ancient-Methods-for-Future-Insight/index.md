@@ -63,7 +63,7 @@ While the desire to uncover future knowledge can be intriguing and enlightening,
 ### 5.2 Ethical Guidance
 When seeking knowledge of the future, students must always act responsibly and ethically. This means respecting the autonomy and privacy of others, using the information gained for personal growth and guidance only, and not attempting to manipulate or control future events. It is crucial to practice integrity and discernment in all aspects of occult practices.
 
-Putting it All Together: A Step-by-Step Guide
+**Putting it All Together**: A Step-by-Step Guide
 
 1. Investigate various divination methods and choose one or several to explore further.
 2. Study the history, principles, and techniques of the chosen methods.

@@ -21,31 +21,31 @@ excerpt: Devise an intricate elemental correspondence chart rooted in the domain
 ---
 In the domain of Deviation, we venture beyond traditional elemental correspondences and form new connections that challenge conventional beliefs. Drawing upon elements like chaos, void, and ether, we create a tapestry of intricate associations that promote exploration and mastery. Below is a chart that weaves together five distinctive elements, with corresponding associations to colors, symbols, crystals, and deities:
 
-Element: Chaos
+**Element**: Chaos
 - Color: Iridescent
 - Symbol: Serpent consuming its own tail (Ouroboros)
 - Crystal: Labradorite
 - Deity: Eris (Greek goddess of strife and discord)
 
-Element: Void
+**Element**: Void
 - Color: Black, with a hint of dark purple
 - Symbol: Black hole
 - Crystal: Nuummite
 - Deity: Nyx (Greek goddess of the night)
 
-Element: Ether
+**Element**: Ether
 - Color: Translucent or opalescent
 - Symbol: Swirling vortex
 - Crystal: Phenakite
 - Deity: Akasha (Hindu concept of the ultimate reality and source of all existence)
 
-Element: Outlier
+**Element**: Outlier
 - Color: A mixture of all colors, constantly shifting
 - Symbol: Fractal pattern
 - Crystal: Uvarovite
 - Deity: Janus (Roman god of beginnings, endings, and duality)
 
-Element: Nexus
+**Element**: Nexus
 - Color: White, with a hint of silver
 - Symbol: Twelve-pointed star
 - Crystal: Merkabite calcite

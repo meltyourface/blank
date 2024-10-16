@@ -32,7 +32,7 @@ Lastly, the Raven embodies the initial, ‘nigredo,’ or blackening stage of th
 
 2. Connection to the Alchemical Process and Philosopher's Stone
 
-The alchemical process generally comprises three or four stages: nigredo, albedo, citrinitas, and rubedo. Each alchemical bird corresponds to one or more stages in this transformative process.
+**The alchemical process generally comprises three or four stages**: nigredo, albedo, citrinitas, and rubedo. Each alchemical bird corresponds to one or more stages in this transformative process.
 
 The Raven, as previously mentioned, connects to the ‘nigredo’ stage, bringing the material and the psyche to the lowest, most primal and essential state, where rebirth starts.
  
@@ -46,6 +46,6 @@ In mythology, each of these birds carries links to various deities and beliefs a
 
 These birds play crucial roles in esotericism, particularly in their allegorical representations of the spiritual journey of self-realization and initiation into secret teachings. Their symbolism not only reflects various stages of the alchemical process but also serves as a metaphor for internal development and psychological transformation.
 
-Carl Jung saw alchemy as a representation of the process of individuation — integrating unconscious and conscious elements into a balanced, whole self. ****Each bird, in this context, represents themes within that process****: the confrontation of one's shadow (the Raven), the cultivation of compassion and selflessness (the Pelican), and the transcending and integration of individual experiences into an elevated sense of consciousness (the Phoenix).
+Carl Jung saw alchemy as a representation of the process of individuation — integrating unconscious and conscious elements into a balanced, whole self. **Each bird, in this context, represents themes within that process**: the confrontation of one's shadow (the Raven), the cultivation of compassion and selflessness (the Pelican), and the transcending and integration of individual experiences into an elevated sense of consciousness (the Phoenix).
 
 In conclusion, the symbolism of alchemical birds — the Phoenix, Pelican, and Raven — represents different stages in the alchemical process and serves as a metaphor for spiritual and psychological transformation. Furthermore, their interconnectedness in mythology and esotericism highlights their significance in reflecting the broader human quest for wisdom and self-realization within the narrative of the initiate’s journey to unveil the mysteries of the Philosopher’s Stone.

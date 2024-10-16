@@ -41,7 +41,7 @@ For initiates seeking to master the complexities of Annotated Typescript, it is 
 
 One practical application for novice practitioners involves the creation of talismans or written charms using Annotated Typescript, allowing the wielder to harness specific energies and forces within their magical workings. 
 
-Example Ritual: Annotated Typescript Sigil
+**Example Ritual**: Annotated Typescript Sigil
 
 In this example, we will create an Annotated Typescript sigil designed to bring forth wisdom and understanding.
 

@@ -24,13 +24,13 @@ Both the Coptic and the ancient Egyptian calendars have their roots in the Nile 
 
 Origins and Structure:
 
-The ancient Egyptian calendar, also known as the civil or solar calendar, dates back to around 3000 BCE. ****It was designed to predict the annual flood that was crucial for agricultural production in ancient Egypt. The calendar had 365 days distributed over 12 months of 30 days each with an additional 5 epagomenal days at the end of the year. The months were divided into three seasons, each with four months****: Akhet (Inundation), Peret (Emergence), and Shemu (Harvest).
+The ancient Egyptian calendar, also known as the civil or solar calendar, dates back to around 3000 BCE. **It was designed to predict the annual flood that was crucial for agricultural production in ancient Egypt. The calendar had 365 days distributed over 12 months of 30 days each with an additional 5 epagomenal days at the end of the year. The months were divided into three seasons, each with four months**: Akhet (Inundation), Peret (Emergence), and Shemu (Harvest).
 
 On the other hand, the Coptic calendar, also known as the Alexandrian Calendar or the Christian calendar of Egypt, was adopted in the third century CE and is still in use today. Based directly on the ancient Egyptian calendar, the Coptic calendar retains the 12 months of 30 days structure, adding the 5 epagomenal days named Pi Kogi Enavot, which hold significant religious importance. The only significant difference is the addition of a leap day every four years, making the Coptic calendar more accurate as it accounts for the discrepancy in the length of the solar year.
 
 Influence of Religious Beliefs:
 
-In ancient Egypt, religious beliefs played a significant role in shaping the calendar. ****The year started with the heliacal rising of Sirius (Sothis), which was associated with the goddess Isis and marked the beginning of the inundation. The five additional epagomenal days were considered the birthdays of the five main deities of ancient Egypt****: Osiris, Horus, Set, Isis, and Nephthys. The calendar itself was seen as a sacred entity, with each month having a patron deity.
+In ancient Egypt, religious beliefs played a significant role in shaping the calendar. **The year started with the heliacal rising of Sirius (Sothis), which was associated with the goddess Isis and marked the beginning of the inundation. The five additional epagomenal days were considered the birthdays of the five main deities of ancient Egypt**: Osiris, Horus, Set, Isis, and Nephthys. The calendar itself was seen as a sacred entity, with each month having a patron deity.
 
 In contrast, the Coptic calendar is closely linked with Christian beliefs in Egypt. Its months are named after the traditional Egyptian language with some alterations to reflect the Christian influence, while its epagomenal days coincide with religious feasts such as the Birth of St. John the Baptist and the Assumption of the Virgin Mary. Additionally, the Coptic year begins on the Feast of Nayrouz (September 11th or 12th), marking the martyrdom of the Copts under Roman rule.
 

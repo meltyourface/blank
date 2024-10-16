@@ -23,16 +23,16 @@ excerpt: >
 In designing this intricate system of cryptic sigils for the Tensions tradition, I will first provide an overview of the fundamental concepts and components within Tensions. This will allow us to create specific sigils that accurately represent each aspect. Once the sigils are designed, I will explain how their arrangement and interaction can amplify and direct the flow of energies for elaborate enchantments and intricate spellwork.
 
 Tensions Tradition Concepts and Components:
-1. ****Quadratum****: The four cardinal points representing the foundational elements (Earth, Air, Fire, and Water).
-2. ****Dualitas****: The interplay of light and dark, positive and negative forces that permeate the Tensions system.
-3. ****Nodus****: The center point where all energies converge and disperse, representing both stillness and movement.
-4. ****Nexia****: The interconnected web of energy pathways that connect all things within Tensions.
+1. **Quadratum**: The four cardinal points representing the foundational elements (Earth, Air, Fire, and Water).
+2. **Dualitas**: The interplay of light and dark, positive and negative forces that permeate the Tensions system.
+3. **Nodus**: The center point where all energies converge and disperse, representing both stillness and movement.
+4. **Nexia**: The interconnected web of energy pathways that connect all things within Tensions.
 
 **Sigils**:
-1. ****Quadratum Sigil****: A square divided into four equal sections, with each section containing one of the elemental symbols – a mountain for Earth, a feather for Air, a flame for Fire, and a wave for Water.
-2. ****Dualitas Sigil****: A circle containing two intertwined serpents, one light and one dark, representing the balance and interdependence of contrasting forces.
-3. ****Nodus Sigil****: A radial pattern of expanding and contracting spiral pathways converging at a central point, illustrating the continuous flux of energy and the potential for infinite connections.
-4. ****Nexia Sigil****: A hexagonal grid pattern surrounded by a circle, symbolizing the web of interconnected pathways and relationship between the microcosm and the macrocosm.
+1. **Quadratum Sigil**: A square divided into four equal sections, with each section containing one of the elemental symbols – a mountain for Earth, a feather for Air, a flame for Fire, and a wave for Water.
+2. **Dualitas Sigil**: A circle containing two intertwined serpents, one light and one dark, representing the balance and interdependence of contrasting forces.
+3. **Nodus Sigil**: A radial pattern of expanding and contracting spiral pathways converging at a central point, illustrating the continuous flux of energy and the potential for infinite connections.
+4. **Nexia Sigil**: A hexagonal grid pattern surrounded by a circle, symbolizing the web of interconnected pathways and relationship between the microcosm and the macrocosm.
 
 Sigil Arrangement for Amplification and Direction of Energy:
 For casting elaborate enchantments and intricate spellwork within the Tensions tradition, practitioners should follow these steps:

@@ -33,7 +33,7 @@ excerpt: >
 
 ## The Ethical and Spiritually Conscious Doctrine of Supra-Sexual Metamorphoses
 
-Preamble: In recognition of the powerful potentials inherent in the confluence of sexuality, spirituality, and transformation, it is essential to approach these sacred energies with respect and intentionality. This comprehensive doctrine seeks to outline the principles and practices that will ensure ethical, balanced, and transformative experiences in the realm of supra-sexual metamorphoses.
+**Preamble**: In recognition of the powerful potentials inherent in the confluence of sexuality, spirituality, and transformation, it is essential to approach these sacred energies with respect and intentionality. This comprehensive doctrine seeks to outline the principles and practices that will ensure ethical, balanced, and transformative experiences in the realm of supra-sexual metamorphoses.
 
 1. **Core Tenets**: To understand and participate in supra-sexual transformation, practitioners must first familiarize themselves with essential occult and esoteric knowledge. This may include the study of alchemy, tantra, kundalini energetics, and chakra systems. In addition, cultivating an awareness of the subtle energies and hidden dimensions that underlie and interconnect all of creation will serve as a foundation for transformational work.
 

@@ -45,36 +45,36 @@ Table of Contents:
 
 ### IV. Metaphysical Metaphors
     A. The Philosophical Foundations of Van Helmont's Worldview
-    B. ****Exploring the Four Elements****: Earth, Water, Air, and Fire
-    C. ****Celestial and Terrestrial Correlations****: The Microcosm and Macrocosm
+    B. **Exploring the Four Elements**: Earth, Water, Air, and Fire
+    C. **Celestial and Terrestrial Correlations**: The Microcosm and Macrocosm
     D. The Use of Myths and Allegory in Communicating Esoteric Truths
 
 ### V. Historical Context of Van Helmont's Contributions
-    A. ****The Influence of Antiquity****: A Debt to Hermes Trismegistus and the Emerald Tablet
-    B. ****Islamic Transmission of Alchemical Knowledge****: Geber and Avicenna
-    C. ****The Christian Alchemists****: Albertus Magnus and Thomas Aquinas 
-    D. ****The Renaissance Alchemical Revival****: Paracelsus, Agrippa, and Dee
+    A. **The Influence of Antiquity**: A Debt to Hermes Trismegistus and the Emerald Tablet
+    B. **Islamic Transmission of Alchemical Knowledge**: Geber and Avicenna
+    C. **The Christian Alchemists**: Albertus Magnus and Thomas Aquinas 
+    D. **The Renaissance Alchemical Revival**: Paracelsus, Agrippa, and Dee
 
 ### VI. Practical Applications of Van Helmont's Occultism
-    A. ****The Alchemical Process****: The Quest for the Philosopher's Stone
-    B. ****Transmutation of Matter****: Lead into Gold
-    C. ****The Elixir of Life****: Immortality and the Universal Medicine
-    D. ****The Arcana of Nature****: Spiritual Purification and Rebirth
+    A. **The Alchemical Process**: The Quest for the Philosopher's Stone
+    B. **Transmutation of Matter**: Lead into Gold
+    C. **The Elixir of Life**: Immortality and the Universal Medicine
+    D. **The Arcana of Nature**: Spiritual Purification and Rebirth
 
 ### VII. Cross-Cultural Interconnectedness
-    A. ****Eastern Alchemical Traditions****: Indian and Chinese Influences
-    B. ****Esoteric Symbolism****: The Mysteries of the Kabbalah and Sufism
-    C. ****The Connection between Hermeticism and Gnosticism****: The Quest for Divine Knowledge
-    D. ****The Rosicrucian Brotherhood****: A Western Fraternal Mystery Tradition
+    A. **Eastern Alchemical Traditions**: Indian and Chinese Influences
+    B. **Esoteric Symbolism**: The Mysteries of the Kabbalah and Sufism
+    C. **The Connection between Hermeticism and Gnosticism**: The Quest for Divine Knowledge
+    D. **The Rosicrucian Brotherhood**: A Western Fraternal Mystery Tradition
 
 ### VIII. The Legacy of Van Helmont's Alchemical Ideas
-    A. ****The Scientific Revolution****: Alchemy's Influence on Modern Chemistry
-    B. ****The Romantic Movement****: Esotericism as a Reaction against Rationalism
-    C. ****The Revival of Occult Practices****: The Golden Dawn and Theosophy
-    D. ****A New Age of Spiritual Exploration****: The Continuing Quest for Transcendental Wisdom
+    A. **The Scientific Revolution**: Alchemy's Influence on Modern Chemistry
+    B. **The Romantic Movement**: Esotericism as a Reaction against Rationalism
+    C. **The Revival of Occult Practices**: The Golden Dawn and Theosophy
+    D. **A New Age of Spiritual Exploration**: The Continuing Quest for Transcendental Wisdom
 
 ### IX. Conclusion
     A. The Lasting Impact of Van Helmont's Contributions
-    B. ****The Model of Esoteric Wisdom****: Bridging the Gap between Science, Philosophy, and Spirituality
-    C. ****The Path to Mystery****: The Search for Meaning in an Enigmatic Universe
-    D. ****Van Helmont's Message to the Modern Seeker****: A Call to Exploration and Discovery
+    B. **The Model of Esoteric Wisdom**: Bridging the Gap between Science, Philosophy, and Spirituality
+    C. **The Path to Mystery**: The Search for Meaning in an Enigmatic Universe
+    D. **Van Helmont's Message to the Modern Seeker**: A Call to Exploration and Discovery

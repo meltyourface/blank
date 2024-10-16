@@ -22,19 +22,19 @@ excerpt: Construct an intricate geometrical model representing the intricate cor
 ---
 To construct this intricate geometrical model, I'll use a combination of concentric circles, lines, and shapes to represent the relationships between the tarot cards, elements, and numerology. The Circle is divided into four quadrants, and each quadrant will further represent one of the four elements: fire, water, air, and earth.
 
-First Layer: Elemental Associations
+**First Layer**: Elemental Associations
 1. The outermost circle will be divided into four equal quadrants, each representing one of the elements:
    - Top-left quadrant: Fire (Wands)
    - Top-right quadrant: Water (Cups)
    - Bottom-left quadrant: Air (Swords)
    - Bottom-right quadrant: Earth (Pentacles)
 
-Second Layer: Major and Minor Arcana
+**Second Layer**: Major and Minor Arcana
 2. Within each quadrant, place a circle that will represent the Major Arcana. These cards will be placed clockwise around each circle, following the order of their numerical values (starting with 0 for The Fool). The center point represents the element affiliated with the Major Arcana.
 
 3. Around each of these inner circles, an outer circle will be placed to represent the Minor Arcana. Each Minor Arcana circle will be divided into 14 parts, representing Ace to 10, and the court cards (Page, Knight, Queen, King) of each suit.
 
-Third Layer: Numerology and Correspondences
+**Third Layer**: Numerology and Correspondences
 4. Draw lines that connect the Major Arcana cards with their corresponding Minor Arcana cards based on their numerological value. For example, connect The Magician (1) to the Aces, The High Priestess (2) to the Twos, and so on.
 
 5. Color-code these lines and connections based on the elements and their associations:

@@ -22,7 +22,7 @@ excerpt: >
 ---
 ## I. **Shadowed Willow Ritual**: The Illuminating Embrace
 
-Primary Goal: To channel positive energy and neutralize the darkness and despair that emanate from the Shadowed Willow.
+**Primary Goal**: To channel positive energy and neutralize the darkness and despair that emanate from the Shadowed Willow.
 
 Artifacts Needed:
 1. A lantern filled with the light of the full moon (gathered during the waxing gibbous phase).
@@ -45,7 +45,7 @@ Long-term Consequences:
 
 ### II. **Groaning Oak Ritual**: The Soothing Whisper
 
-Primary Goal: To neutralize the Groaning Oak's agonizing energies and imbue it with tranquility.
+**Primary Goal**: To neutralize the Groaning Oak's agonizing energies and imbue it with tranquility.
 
 Artifacts Needed:
 1. A handcrafted wooden flute, made from a blessed birch tree.
@@ -68,7 +68,7 @@ Long-term Consequences:
 
 ### III. **Wailing Elm Ritual**: The Harmonious Requiem
 
-Primary Goal: To balance the Wailing Elm's tumultuous emotions and neutralize its overwhelming sadness.
+**Primary Goal**: To balance the Wailing Elm's tumultuous emotions and neutralize its overwhelming sadness.
 
 Artifacts Needed:
 1. A handcrafted brass singing bowl.

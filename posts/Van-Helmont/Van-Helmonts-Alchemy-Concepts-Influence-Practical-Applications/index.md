@@ -29,11 +29,11 @@ Johann Baptista Van Helmont (1579–1644) was a Flemish chemist, physiologist, a
 
 Main Theories
 
-1. ****The Theory of Gas and the Origin of Elements****: Central to Van Helmont's work was his belief in the existence of 'gas,' which he posited to be a subtle, non-tangible substance that permeated all living beings and inanimate matter. ****He claimed that all substances in nature were derived from two primary elements****: water and "gas sylvestre" (carbon dioxide). This notion marked a departure from the classical concept of the four elements — earth, water, air, and fire.
+1. **The Theory of Gas and the Origin of Elements**: Central to Van Helmont's work was his belief in the existence of 'gas,' which he posited to be a subtle, non-tangible substance that permeated all living beings and inanimate matter. **He claimed that all substances in nature were derived from two primary elements**: water and "gas sylvestre" (carbon dioxide). This notion marked a departure from the classical concept of the four elements — earth, water, air, and fire.
 
-2. ****The Doctrine of Archeus****: Van Helmont introduced the concept of the 'archeus' (or 'master builder'), an invisible, spiritual entity that acted as a natural force responsible for the growth, nutrition, and reproduction of living organisms. In Van Helmont's view, the archeus was also the causative agent of illnesses, which occurred when an individual's archeus was in a state of imbalance.
+2. **The Doctrine of Archeus**: Van Helmont introduced the concept of the 'archeus' (or 'master builder'), an invisible, spiritual entity that acted as a natural force responsible for the growth, nutrition, and reproduction of living organisms. In Van Helmont's view, the archeus was also the causative agent of illnesses, which occurred when an individual's archeus was in a state of imbalance.
 
-3. ****Concept of Blas in Medical Alchemy****: Van Helmont's medical alchemy was based on his theory of 'blas,' an invisible substance that interacts with both the physical body and the archeus to create harmony or discord. In this context, Van Helmont believed that acquiring a deep understanding of the blas and its properties was essential for diagnosing and treating various ailments.
+3. **Concept of Blas in Medical Alchemy**: Van Helmont's medical alchemy was based on his theory of 'blas,' an invisible substance that interacts with both the physical body and the archeus to create harmony or discord. In this context, Van Helmont believed that acquiring a deep understanding of the blas and its properties was essential for diagnosing and treating various ailments.
 
 Influence on the Development of Alchemy and Philosophical Foundations
 
@@ -43,11 +43,11 @@ His emphasis on experimentation and the development of scientific methods foster
 
 Practical Applications and Rituals Derived from Van Helmont's Ideas
 
-1. ****Healing through manipulating the Archeus****: Van Helmont's concepts opened avenues for exploring the use of natural forces and substances to invoke healing and restoration of balanced energy in the body. By studying methods to manipulate and harmonize the archeus, Van Helmont's followers developed specific healing techniques and the formulation of remedies to combat various illnesses.
+1. **Healing through manipulating the Archeus**: Van Helmont's concepts opened avenues for exploring the use of natural forces and substances to invoke healing and restoration of balanced energy in the body. By studying methods to manipulate and harmonize the archeus, Van Helmont's followers developed specific healing techniques and the formulation of remedies to combat various illnesses.
 
-2. ****Use of transmutation to strengthen self-mastery****: In keeping with his belief that alchemy was a bridge connecting the material and the spiritual realms, Van Helmont advocated for the application of alchemical principles to personal growth and spiritual development. Through symbolic transmutations, individuals could explore their inner world and thereby seek self-mastery and enlightenment.
+2. **Use of transmutation to strengthen self-mastery**: In keeping with his belief that alchemy was a bridge connecting the material and the spiritual realms, Van Helmont advocated for the application of alchemical principles to personal growth and spiritual development. Through symbolic transmutations, individuals could explore their inner world and thereby seek self-mastery and enlightenment.
 
-3. ****Ethereal and natural energy work****: Rooted in his theories on gas and the archeus, practitioners of Van Helmont's ideas embraced the study of ethereal forces and energies, which could be applied in rituals aimed at harnessing the power of natural elements for personal growth, healing, and transformation.
+3. **Ethereal and natural energy work**: Rooted in his theories on gas and the archeus, practitioners of Van Helmont's ideas embraced the study of ethereal forces and energies, which could be applied in rituals aimed at harnessing the power of natural elements for personal growth, healing, and transformation.
 
 Conclusion
 

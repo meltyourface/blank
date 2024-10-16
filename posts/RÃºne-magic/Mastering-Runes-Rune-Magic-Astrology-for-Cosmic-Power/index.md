@@ -27,40 +27,40 @@ excerpt: >
 
 Welcome, seeker, to Astral Runes - a comprehensive exploration of the interconnected worlds of Rúne magic and astrology, guiding the adept practitioner to achieve mastery over the esoteric and occult arts. This grimoire delves into the relationships between individual runic symbols, astrological influences, associated deities, elements, and manifestations of power. Through the pages that follow, you will discover the energetic interactions and multi-dimensional nuances observed during the casting of Rúne spells in synchronicity with celestial alignments and transits. Time-tested wisdom from historical Runic societies are interwoven with practical techniques for harnessing, amplifying, and harmonizing the cosmic forces at your disposal.
 
-Liber I: Runic Symbolism
+**Liber I**: Runic Symbolism
 
 1. Overview of Runes: Origins and purpose
 2. The Elder Futhark: Etymology and meanings of each rune
 3. The Younger Futhark: Variations, usage, and their dynamic symbolism
 4. Other Runic Traditions: Anglo-Saxon, Gothic, and Medieval adaptations
 
-Liber II: Rune-Astrological Connections
+**Liber II**: Rune-Astrological Connections
 
 1. Introduction to Astrology: A brief overview
 2. Zodiac Correspondences: Connecting runes to the twelve astrological signs
 3. Planetary Alignments: Runes and their resonances with the planets
 4. Astral Houses: The role of runes within the twelve astrological houses
 
-Liber III: Deities, Elements, and Manifestations
+**Liber III**: Deities, Elements, and Manifestations
 
 1. Deities and the Runes: Summoning the power of Norse gods and goddesses
 2. Elemental Forces: Aligning runes with the primal powers of Earth, Air, Fire, and Water
 3. Manifestations of Power: Observing rune magic outcomes across multiple planes of existence
 
-Liber IV: Energetic Interactions and Nuances
+**Liber IV**: Energetic Interactions and Nuances
 
 1. Runic Synchronicities: The power of combining runes in sequences
 2. Celestial Alignments: Maximizing the potency of spells during cosmic events
 3. Transits and Runic Interactions: Navigating the ebbing and flowing astral tides
 
-Liber V: Practical Applications and Techniques
+**Liber V**: Practical Applications and Techniques
 
 1. Rune Casting: Methods, tools, and strategies for effective Rúne magic
 2. Runic Meditation and Visualization: Cultivating astral awareness
 3. Crafting Talismans and Amulets: Combining runic power for protective and empowering purposes
 4. Sigils and Bindrunes: The art of binding runes for increased potency
 
-Liber VI: Advancements in Rúne Magic
+**Liber VI**: Advancements in Rúne Magic
 
 1. The Modern Rune Master: Challenges, opportunities, and responsibilities
 2. Syncretic Traditions: Integrating the teachings of other esoteric systems

@@ -47,9 +47,9 @@ When examining the underlying intricacies and tactics of Man as the Enemy within
 
 Defenses against these tactics are crucial for practitioners of the esoteric arts and witchcraft. **Some commonly employed countermeasures include**:
 
-1. ****Protective spells and charms****: The casting of spells, usage of charms, and amulets can protect against curses, malevolent energies, and ill intentions.
-2. ****Cleansing rituals****: Regular performance of cleansing rituals helps shield practitioners from negative influences and provides spiritual fortification. This can include smudging, ritual baths, and maintaining personal boundaries.
-3. ****Strengthening community****: Building and maintaining strong, supportive, and informed communities of fellow practitioners can bolster spiritual protection and minimize the effectiveness of malevolent forces.
+1. **Protective spells and charms**: The casting of spells, usage of charms, and amulets can protect against curses, malevolent energies, and ill intentions.
+2. **Cleansing rituals**: Regular performance of cleansing rituals helps shield practitioners from negative influences and provides spiritual fortification. This can include smudging, ritual baths, and maintaining personal boundaries.
+3. **Strengthening community**: Building and maintaining strong, supportive, and informed communities of fellow practitioners can bolster spiritual protection and minimize the effectiveness of malevolent forces.
 
 Implications and Combatting Forms of Darkness
 

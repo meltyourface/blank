@@ -33,7 +33,7 @@ Delving into the whisperings of hidden connections, these esteemed awards honor 
 
 In the realm of the esoteric, symbolism plays a crucial role in dissemination of knowledge. Artists, authors, and filmmakers throughout history have utilized these symbols to convey a deeper, more profound meaning within their work. By examining the history of such symbolic practices, we can uncover the intricate web of connections between film and the occult.
 
-Consider the prevalence of certain recurring themes and archetypes: the Monomyth or the Hero's Journey, rebirth, transformation, and the battle between good and evil. These concepts resonate with an audience because they embody elements of the collective unconscious, a term coined by Jungian psychology. By addressing such archetypes, filmmakers have the opportunity to unearth profound insights and influence the collective consciousness.
+**Consider the prevalence of certain recurring themes and archetypes**: the Monomyth or the Hero's Journey, rebirth, transformation, and the battle between good and evil. These concepts resonate with an audience because they embody elements of the collective unconscious, a term coined by Jungian psychology. By addressing such archetypes, filmmakers have the opportunity to unearth profound insights and influence the collective consciousness.
 
 ### Chapter 3: The Hidden Influence of the Occult on Filmmaking
 

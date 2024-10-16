@@ -30,7 +30,7 @@ The Foundations of Postel's Occult Scholarship
 
 In the 16th century, Europe experienced an unprecedented revival of the occult arts. Scholars and mystics, inspired by rediscovered ancient texts, investigated arcane secrets in pursuit of hidden knowledge. Guillaume Postel was one such pioneer who had a profound influence on Western esotericism. At the heart of his scholarship were two key concepts: the unity of all knowledge and the pursuit of a universal language. These ideas laid the groundwork for his study of the occult and inspired his quest for truth concealed within ancient mystical teachings.
 
-Major Works: Rediscovering Occult Knowledge
+**Major Works**: Rediscovering Occult Knowledge
 
 Postel's fascination with the occult guided his research and intellectual pursuits. Most famous for his translations of Kabbalah and Hermetic texts, he was a crucial figure in bringing these key ideas to the Western world. Some of his notable works include:
 

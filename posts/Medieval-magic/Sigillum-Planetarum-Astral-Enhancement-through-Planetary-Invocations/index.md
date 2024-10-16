@@ -23,7 +23,7 @@ excerpt: >
 
 ## Title: Sigillum Planetarum - The Seal of the Planets
 
-Enchantment Category: Astral Enhancement
+**Enchantment Category**: Astral Enhancement
 
 **Description**: The Sigillum Planetarum is a unique enchantment rooted in medieval Hermetic mysticism that combines arcane symbols and incantations to harness the hidden forces of the cosmos. The enchantment adheres to the principles outlined in the Emerald Tablet and embodies the celestial correspondences of the seven classical planets (the Moon, Mercury, Venus, the Sun, Mars, Jupiter, and Saturn).
 
@@ -65,4 +65,4 @@ Ritual Procedure:
 
 **Effects**: When successfully invoked, the Sigillum Planetarum amplifies the caster's magical abilities, allowing them to draw upon the power of the seven classical planets, resulting in heightened intuition, increased vitality, and enhanced manifestation.
 
-Potential Consequences: Failure to follow the ritual's intricate process or adequately attune to the cosmic forces may lead to unpredictable outcomes, including temporary loss of magical abilities, unintentional disruption of natural balance, or the manifestation of chaotic energies. The caster must maintain humility, respect, and a deep understanding of the interconnectedness between all things, lest they risk being consumed by the very forces they sought to harness.
+**Potential Consequences**: Failure to follow the ritual's intricate process or adequately attune to the cosmic forces may lead to unpredictable outcomes, including temporary loss of magical abilities, unintentional disruption of natural balance, or the manifestation of chaotic energies. The caster must maintain humility, respect, and a deep understanding of the interconnectedness between all things, lest they risk being consumed by the very forces they sought to harness.

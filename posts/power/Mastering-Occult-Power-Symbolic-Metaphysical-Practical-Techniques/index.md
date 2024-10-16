@@ -24,7 +24,7 @@ excerpt: >
 
 Introduction
 
-In this chapter, we will delve into the elusive and enigmatic aspects of power within the occult world. ****Learning how to access, harness, and direct power is a vital component of the esoteric practitioner's education. In order to successfully navigate the complex and intricate realm of the occult, one must have a comprehensive understanding of the intricacies of power which can be employed in myriad ways. Broadly speaking, power in the occult world can be divided into three categories****: symbolic, metaphysical, and practical. We will discuss each of these aspects in detail, and explore various methods and techniques that can be utilized to tap into and harness the latent powers within and around us.
+In this chapter, we will delve into the elusive and enigmatic aspects of power within the occult world. **Learning how to access, harness, and direct power is a vital component of the esoteric practitioner's education. In order to successfully navigate the complex and intricate realm of the occult, one must have a comprehensive understanding of the intricacies of power which can be employed in myriad ways. Broadly speaking, power in the occult world can be divided into three categories**: symbolic, metaphysical, and practical. We will discuss each of these aspects in detail, and explore various methods and techniques that can be utilized to tap into and harness the latent powers within and around us.
 
 ### I. Symbolic Power
 

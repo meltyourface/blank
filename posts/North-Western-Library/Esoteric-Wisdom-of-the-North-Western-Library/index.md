@@ -35,21 +35,21 @@ Unique Resources
 
 Three of the most outstanding works housed in the North Western Library are:
 
-1. ****The Tome of Celestial Correspondences****: A comprehensive encyclopedia that delves into the mystical relationships between celestial bodies, elements, colors, gemstones, plants, and animals. It is said to be the key to understanding the connections within the macrocosm and microcosm.
+1. **The Tome of Celestial Correspondences**: A comprehensive encyclopedia that delves into the mystical relationships between celestial bodies, elements, colors, gemstones, plants, and animals. It is said to be the key to understanding the connections within the macrocosm and microcosm.
 
-2. ****The Scroll of Shadows****: This mysterious parchment, believed to be written in the language of spirits, details the incantations and practices necessary for communing with otherworldly entities. Scholars have theorized that it originates from a lost civilization that predates even ancient Egypt.
+2. **The Scroll of Shadows**: This mysterious parchment, believed to be written in the language of spirits, details the incantations and practices necessary for communing with otherworldly entities. Scholars have theorized that it originates from a lost civilization that predates even ancient Egypt.
 
-3. ****The Runic Codex****: This intricately-bound grimoire contains an extensive collection of rune symbols and their associated meanings, functions, and invocations. It is an essential resource for practitioners of runic divination and Northern European magic.
+3. **The Runic Codex**: This intricately-bound grimoire contains an extensive collection of rune symbols and their associated meanings, functions, and invocations. It is an essential resource for practitioners of runic divination and Northern European magic.
 
 Key Figures
 
 Among the many distinguished individuals associated with the North Western Library's past and present, there are three notable figures who have significantly contributed to its traditions:
 
-1. ****Ambrosius Eldritch****: A renowned 17th-century occultist and co-founder of the library, Eldritch was an expert in alchemy and otherworldly communication. His magnum opus, "The Quintessence of the Spiritus Mundi," is considered a tour de force in occult literature.
+1. **Ambrosius Eldritch**: A renowned 17th-century occultist and co-founder of the library, Eldritch was an expert in alchemy and otherworldly communication. His magnum opus, "The Quintessence of the Spiritus Mundi," is considered a tour de force in occult literature.
 
-2. ****Viola Lachesis****: A highly respected 18th-century divination practitioner, Lachesis made groundbreaking advancements in tarot, astrology, and dream interpretation. Her extensive collection of annotated works further enhanced the library’s reputation as a nexus of occult studies.
+2. **Viola Lachesis**: A highly respected 18th-century divination practitioner, Lachesis made groundbreaking advancements in tarot, astrology, and dream interpretation. Her extensive collection of annotated works further enhanced the library’s reputation as a nexus of occult studies.
 
-3. ****Cormac Rexford****: A contemporary occult scholar and author, Rexford continues to explore the library's resources and shares his findings through academic articles, lectures, and seminars. ****His most recent work, "Penumbral Realms****: A Journey into the Otherworld," provides an insightful analysis of the liminal spaces that exist on the fringes of our reality.
+3. **Cormac Rexford**: A contemporary occult scholar and author, Rexford continues to explore the library's resources and shares his findings through academic articles, lectures, and seminars. **His most recent work, "Penumbral Realms**: A Journey into the Otherworld," provides an insightful analysis of the liminal spaces that exist on the fringes of our reality.
 
 Arcane Symbolism
 
@@ -59,9 +59,9 @@ Examples of Specific Rituals or Spells
 
 Two examples of rituals and spells found within the North Western Library are:
 
-1. ****The Ritual of Celestial Alignment****: Drawing on the Tome of Celestial Correspondences, this potent ritual aligns the practitioner's energy with the vibrations of the cosmos, resulting in heightened intuition, insight, and spiritual purpose.
+1. **The Ritual of Celestial Alignment**: Drawing on the Tome of Celestial Correspondences, this potent ritual aligns the practitioner's energy with the vibrations of the cosmos, resulting in heightened intuition, insight, and spiritual purpose.
 
-2. ****The Runic Call of Protection****: Utilizing the Runic Codex's symbols, this powerful incantation forms a protective barrier around the caster, shielding them from negative energies or influences.
+2. **The Runic Call of Protection**: Utilizing the Runic Codex's symbols, this powerful incantation forms a protective barrier around the caster, shielding them from negative energies or influences.
 
 Conclusion
 

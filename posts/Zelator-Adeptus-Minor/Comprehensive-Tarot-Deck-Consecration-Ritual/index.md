@@ -25,7 +25,7 @@ excerpt: >
 
   3. Incorporate astrological influences and traditional Golden Dawn correspondences to enhance the potency of the overall consecration ritual and attune the Tarot deck to your personal energy.
 
-  4. ****Script the entire ritual with three phases****: preparation, consecration, and sealing/anchoring, with care and complexity to ensure every aspect is covered in the process.
+  4. **Script the entire ritual with three phases**: preparation, consecration, and sealing/anchoring, with care and complexity to ensure every aspect is covered in the process.
 
   5. Create a detailed visualization and meditation process to follow during the ritual, allowing the practitioner to fully harness their inner potential and power while consecrating the Tarot deck.
 
@@ -44,12 +44,12 @@ Phase 1: Preparation
 Phase 2: Consecration
 
 1. Begin the ritual by meditating on the intention and desired outcome. Visualize the Tarot deck as a conduit for the divine forces channeled through the symbols and messages in the cards.
-2. ****Light the white or purple candle and the incense, invoking the element of Air and stating your intention aloud****: "I cleanse and consecrate this deck to serve as a channel between the divine and my energies."
-3. ****Hold the deck above the lit candle, invoking the element of Fire****: "I purify this deck with the sacred flame, that it may shine with the power of truth and clarity."
-4. ****Pass the deck through the incense smoke, invoking the element of Air****: "I consecrate this deck with the wisdom of the air, that it may provide guidance and insight in all readings."
-5. ****Sprinkle a few drops of water over the deck, invoking the element of Water****: "I charge this deck with the mysteries and intuition of water, that it may awaken my deepest intuitive instincts."
-6. ****Touch the deck to the dish of salt, invoking the element of Earth****: "I ground this deck in the stability of Earth, that it may provide practical and grounded advice in all readings."
-7. ****Anoint the deck with the consecration oil blend while reciting the appropriate invocation for each Major and Minor Arcana card****: "I now consecrate and bless [Card Name], May it be a key to unlock the divine wisdom that lies within."
+2. **Light the white or purple candle and the incense, invoking the element of Air and stating your intention aloud**: "I cleanse and consecrate this deck to serve as a channel between the divine and my energies."
+3. **Hold the deck above the lit candle, invoking the element of Fire**: "I purify this deck with the sacred flame, that it may shine with the power of truth and clarity."
+4. **Pass the deck through the incense smoke, invoking the element of Air**: "I consecrate this deck with the wisdom of the air, that it may provide guidance and insight in all readings."
+5. **Sprinkle a few drops of water over the deck, invoking the element of Water**: "I charge this deck with the mysteries and intuition of water, that it may awaken my deepest intuitive instincts."
+6. **Touch the deck to the dish of salt, invoking the element of Earth**: "I ground this deck in the stability of Earth, that it may provide practical and grounded advice in all readings."
+7. **Anoint the deck with the consecration oil blend while reciting the appropriate invocation for each Major and Minor Arcana card**: "I now consecrate and bless [Card Name], May it be a key to unlock the divine wisdom that lies within."
 8. Meditate once more, envisioning a sphere of protective energy surrounding the Tarot deck. Visualize the sphere being charged by the four elements and the astrological forces associated with the ritual date.
 9. Thank the elemental forces and deities for their aid, and close the ritual with a proper banishing (e.g., Lesser Banishing Ritual of the Pentagram).
 
@@ -61,7 +61,7 @@ Phase 3: Sealing/Anchoring
 Secondary Cleansing & Maintenance Ritual
 
 1. At regular intervals (e.g., monthly or once a lunar cycle), perform a simple cleansing ritual for the Tarot deck.
-2. ****Light a white candle and sweep the deck with the smoke of a purifying incense (e.g., sage, frankincense, or palo santo) while stating****: "By the power of cleansing air, I purify this Tarot deck and restore its connection to the sacred and divine."
+2. **Light a white candle and sweep the deck with the smoke of a purifying incense (e.g., sage, frankincense, or palo santo) while stating**: "By the power of cleansing air, I purify this Tarot deck and restore its connection to the sacred and divine."
 3. Charge the deck under the light of the waxing moon and re-consecrate it with the appropriate oil blend.
 
 By following this comprehensive Tarot consecration ritual and maintaining the deck's purity and connection regularly, the practitioner ensures an enhanced attunement between themselves and the vital forces channeled through the magical tool of the Tarot deck.

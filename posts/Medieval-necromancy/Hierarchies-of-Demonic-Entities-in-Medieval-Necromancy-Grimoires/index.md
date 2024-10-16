@@ -24,7 +24,7 @@ With my deep understanding of Medieval necromancy, I shall analyze the demonic e
 
 1. The Munich Manual of Demonic Magic (15th century)
 
-This grimoire delves into necromantic practices and predominantly focuses on dark magic. ****It contains a wide range of demons, divided primarily into three classes****: servitors, aerial spirits (associated with air), and councilors. Each class possesses distinctive abilities and methodologies for summoning.
+This grimoire delves into necromantic practices and predominantly focuses on dark magic. **It contains a wide range of demons, divided primarily into three classes**: servitors, aerial spirits (associated with air), and councilors. Each class possesses distinctive abilities and methodologies for summoning.
 
 - Servitors: Considered helpers, servitors can be summoned to assist and serve the conjurer. Notable examples include Furfur, who can create storms and spread falsehoods, and Vassago, who can find lost items and reveal the future.
 

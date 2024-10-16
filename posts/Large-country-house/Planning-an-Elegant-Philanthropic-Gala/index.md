@@ -55,9 +55,9 @@ excerpt: >
         1. Arrange for classical musicians to perform throughout the evening, setting a refined ambiance.
 
 ### III. Sophisticated Three-Course Dinner Menu
-    A. ****Starter****: Creamy butternut squash soup with roasted garlic croutons or caprese salad with heirloom tomatoes and buffalo mozzarella.
-    B. ****Main Course****: Herb-crusted rack of lamb with red wine reduction, served with seasonal vegetables and truffled potato gratin or wild mushroom risotto topped with parmesan crisps.
-    C. ****Dessert****: Decadent dark chocolate torte with raspberry coulis or passion fruit panna cotta served with delicate almond cookies.
+    A. **Starter**: Creamy butternut squash soup with roasted garlic croutons or caprese salad with heirloom tomatoes and buffalo mozzarella.
+    B. **Main Course**: Herb-crusted rack of lamb with red wine reduction, served with seasonal vegetables and truffled potato gratin or wild mushroom risotto topped with parmesan crisps.
+    C. **Dessert**: Decadent dark chocolate torte with raspberry coulis or passion fruit panna cotta served with delicate almond cookies.
     D. Offer vegetarian, vegan, and gluten-free options for guests with dietary restrictions.
 
 ### IV. Distinguished Guest List

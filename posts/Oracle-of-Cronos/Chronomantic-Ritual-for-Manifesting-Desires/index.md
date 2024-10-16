@@ -22,7 +22,7 @@ excerpt: Craft an intricate, Cronosian-inspired ritual, drawing upon the potent 
 
 ## The Chronomantic Ritual of Desires
 
-Objective: To manifest a distinct and deeply coveted desire by harnessing the ancient energies of the Oracle of Cronos and invoking celestial entities of time, wisdom, and divine insight.
+**Objective**: To manifest a distinct and deeply coveted desire by harnessing the ancient energies of the Oracle of Cronos and invoking celestial entities of time, wisdom, and divine insight.
 
 Requirements:
 1. Ritual space: A room devoid of any distractions or modern influences. The space must be a perfect circle, with the floor inscribed with intricate Cronosian runes and symbols. 

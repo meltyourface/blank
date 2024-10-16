@@ -41,7 +41,7 @@ Astaroth is a male demon figure found in Western occultism, mainly associated wi
 
 Mara is a demonic figure found in Buddhist cosmology, commonly known as the personification of evil and desire that hinders spiritual progress.
 
-**Characteristics**: Mara is often portrayed as an incredibly tempting and deceptive figure, attempting to seduce followers of the Buddha path. ****While the exact depictions may vary, Mara's ultimate goal remains the same****: to keep individuals bound to the cycle of suffering and rebirth.
+**Characteristics**: Mara is often portrayed as an incredibly tempting and deceptive figure, attempting to seduce followers of the Buddha path. **While the exact depictions may vary, Mara's ultimate goal remains the same**: to keep individuals bound to the cycle of suffering and rebirth.
 
 **Symbolism**: Mara embodies the obstacles and temptations that individuals face in their pursuit of enlightenment. In that sense, Mara serves as a reminder of the perpetual struggle between spiritual growth and worldly attachments.
 

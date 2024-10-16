@@ -35,7 +35,7 @@ excerpt: >
 
 ## Ritual of the Temporal Nexus
 
-Intention: To connect and align oneself with the ebb and flow of time, harnessing the power to shape one's reality in alignment with one's true desires.
+**Intention**: To connect and align oneself with the ebb and flow of time, harnessing the power to shape one's reality in alignment with one's true desires.
 **Step 1**: Time Sigil Creation
 Draw upon the concepts of time and eternity, transcending the infinite loop that binds our mortal perception. To create a personalized time sigil, focus on your specific intention (e.g., "I manifest healing in my past, present, and future"). Meditate on your intention, visualizing it coming to fruition. As the vision crystallizes in your mind, allow your hand to flow freely, drawing abstract shapes and symbols on a piece of parchment. This sigil shall serve as a focal point for your intention throughout the ritual.
 **Step 2**: Location and Timing

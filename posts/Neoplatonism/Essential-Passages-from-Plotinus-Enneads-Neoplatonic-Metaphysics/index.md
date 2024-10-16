@@ -21,17 +21,17 @@ excerpt: Translate essential passages from Plotinus' Enneads, focusing specifica
 ---
 Translation of Essential Passages from Plotinus' Enneads:
 
-PASSAGE I: The One (Enneads VI.9.6)
+**PASSAGE I**: The One (Enneads VI.9.6)
 
 **Original**: "Τὸ οὖν ἕν ἀγαθόν, καὶ οὐ κατὰ μεθεξιν καὶ κατὰ συστάσιν ἕτερον. Ἀγαθὸν αὐτὸ κατ’ αὑτὸ οὖσα, οὐδ’ ἄλλως οὐδέν, οὐδ’ ἄλλο τελέως."
 
-Contemporary English Translation: 
+**Contemporary English Translation**: 
 
 The One is truly good, and it is not by mere participation or constitution that it is something else. Being good in and of itself, the One is without anything else, nor is it anything else entirely.
 
 **Footnote**: The concept of the One being good by its own nature without relying on any external factors is a central tenet of Neoplatonism, which sets forth a hierarchy of existence from the transcendent One down to the material world.
 
-PASSAGE II: The Emanation of the Intellect (Enneads V.1.6)
+**PASSAGE II**: The Emanation of the Intellect (Enneads V.1.6)
 
 **Original**: "Τῷ οὖν αὐτὸ ἀγαθὸν γίγνεται, καὶ μόνον αὐτοῦ γίγνεται καὶ ἄλλου οὐδενός, ἀλλ’ αὐτοῦ αἰτίου γίγνεται τοῦ κάλλους οὔτε δεομένου οὔτε αὐτῷ δεομένῳ."
 
@@ -41,7 +41,7 @@ The emanation of the Intellect arises from the One itself and only from the One,
 
 **Footnote**: Plotinus presents the emanation of the lower realities from the One, with the Intellect being the first emanation. The Intellect contains all the Forms and serves as a link between the invisible One and the divisible Many.
 
-PASSAGE III: The Relationship of the One and the Many (Enneads VI.9.3)
+**PASSAGE III**: The Relationship of the One and the Many (Enneads VI.9.3)
 
 **Original**: "Ἕν τι τὸ πρῶτον ἢ μή ἐνὸς εἶναί πως δυνατὸν πάντων; Καὶ τούτου οὔτε ἓν οὔτε πολλὰ εἶναι ἁρμόττει."
 

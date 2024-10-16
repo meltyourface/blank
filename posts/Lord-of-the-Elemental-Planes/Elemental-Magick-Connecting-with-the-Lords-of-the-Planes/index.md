@@ -25,7 +25,7 @@ The Elemental Planes have been a topic of deep fascination and study within the 
 
 Key Concepts and Magical Correspondences
 
-The core concept of Elemental Planes stems from the understanding of four fundamental elements: Earth, Air, Water, and Fire. Each of these elements serves as a building block for the material and spiritual aspects of our world, interlocking and interacting with one another to maintain the delicate balance of existence. Modern esoteric schools incorporate a fifth element, sometimes referred to as the quintessence, spirit, or aether, to encompass the unifying underlying force that ties the other elements together.
+**The core concept of Elemental Planes stems from the understanding of four fundamental elements**: Earth, Air, Water, and Fire. Each of these elements serves as a building block for the material and spiritual aspects of our world, interlocking and interacting with one another to maintain the delicate balance of existence. Modern esoteric schools incorporate a fifth element, sometimes referred to as the quintessence, spirit, or aether, to encompass the unifying underlying force that ties the other elements together.
 
 Magical correspondences associated with each element are as follows:
 - Earth: Stability, growth, fertility, material wealth, physical health
@@ -34,7 +34,7 @@ Magical correspondences associated with each element are as follows:
 - Fire: Transformation, passion, creativity, energy, willpower
 - Spirit: Unity, enlightenment, spiritual growth, divine connection
 
-The Elemental Lords: Planes and Associations
+**The Elemental Lords**: Planes and Associations
 
 The Lord of the Elemental Planes, often referred to as the Supreme Elemental, acts as a guiding and governing principle for the four Elemental Lords. These Elemental Lords serve as manifestations and expressions of the elemental forces within the respective Planes. Cultivating a relationship with these beings can provide a practitioner with deep insights into the workings of the universe and the energies that make up our reality.
 

@@ -35,7 +35,7 @@ The Red Temple served as the guiding force for numerous renaissance mystics and 
 
 Associated Rituals
 
-Rituals within the Red Temple can be classified into two main categories: initiatory rites and practical rites. Initiatory rites are performed to confer upon a practitioner or initiate the hidden knowledge and power of the Red Temple. These rituals involve invoking specific energies, attuning oneself to higher frequencies, and entwining with the wisdom of the ancients.
+**Rituals within the Red Temple can be classified into two main categories**: initiatory rites and practical rites. Initiatory rites are performed to confer upon a practitioner or initiate the hidden knowledge and power of the Red Temple. These rituals involve invoking specific energies, attuning oneself to higher frequencies, and entwining with the wisdom of the ancients.
 
 Practical rites are focused on harnessing the energies of the Red Temple for various purposes such as healing, protection, or divination. They utilize the symbols and tools sacred to the Red Temple, combining the elements of invocation, visualization, and focused intention for achieving desired outcomes.
 

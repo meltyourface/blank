@@ -29,15 +29,15 @@ Key Ingredients
 
 A vast range of substances has been regarded as aphrodisiacs throughout history. **Many cultures sought to harness the properties of herbs, plants, animal parts, and minerals to create potent aphrodisiac concoctions. Some of the most well-known ingredients include**:
 
-1. ****Damiana****: A plant native to Central and South America, damiana has long been renowned for its libido-enhancing properties and was used by the ancient Mayans for this purpose. 
+1. **Damiana**: A plant native to Central and South America, damiana has long been renowned for its libido-enhancing properties and was used by the ancient Mayans for this purpose. 
 
-2. ****Yohimbine****: Derived from the bark of the African yohimbe tree, yohimbine is known for its ability to increase blood flow, which has been suggested to improve sexual function in both men and women.
+2. **Yohimbine**: Derived from the bark of the African yohimbe tree, yohimbine is known for its ability to increase blood flow, which has been suggested to improve sexual function in both men and women.
 
-3. ****Ginseng****: Used in traditional Chinese medicine for centuries, ginseng is considered a potent aphrodisiac that enhances virility and sexual vitality.
+3. **Ginseng**: Used in traditional Chinese medicine for centuries, ginseng is considered a potent aphrodisiac that enhances virility and sexual vitality.
 
-4. ****Maca****: An Andean root vegetable, maca has been used by indigenous people of the region for thousands of years to boost energy, endurance, and sexual desire.
+4. **Maca**: An Andean root vegetable, maca has been used by indigenous people of the region for thousands of years to boost energy, endurance, and sexual desire.
 
-5. ****Spanish Fly****: Perhaps the most infamous aphrodisiac, Spanish Fly is derived from the crushed bodies of the blister beetle and contains a compound called cantharidin, which has powerful irritant properties that can lead to a painful and dangerous swelling of the genital area.
+5. **Spanish Fly**: Perhaps the most infamous aphrodisiac, Spanish Fly is derived from the crushed bodies of the blister beetle and contains a compound called cantharidin, which has powerful irritant properties that can lead to a painful and dangerous swelling of the genital area.
 
 Uses in Occult Practices
 

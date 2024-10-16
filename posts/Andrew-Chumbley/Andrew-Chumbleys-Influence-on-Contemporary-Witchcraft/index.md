@@ -35,7 +35,7 @@ Chumbley's development of this practice led to the creation of the secretive mag
 
 Andrew Chumbley's seminal work, Azoëtia, also known as "The Book of the Magical Quintessence," is a comprehensive grimoire containing the rites, spells, and esoteric formulae of Sabbatic Witchcraft. Published in 1992, it explores various occult topics, such as sigils, elemental magic, dream-lore, and astral projection. It also emphasizes the importance of self-initiation and personal experience. Azoëtia is crucial to understanding Chumbley's unique approach to magic. 
 
-The text is divided into three main sections: the Sethos Edition, the Oracle of the Sodality, and the practical magical works. The Sethos Edition is a series of poetic invocations designed to reveal the inner mysteries of witchcraft, evoking the divine powers within the practitioner. The Oracle of the Sodality contains twenty-two prophetic texts applicable to both personal and group workings. The practical magical works consist of a diverse range of techniques and rituals, demonstrating the extensive knowledge and skill of Chumbley as an occultist.
+**The text is divided into three main sections**: the Sethos Edition, the Oracle of the Sodality, and the practical magical works. The Sethos Edition is a series of poetic invocations designed to reveal the inner mysteries of witchcraft, evoking the divine powers within the practitioner. The Oracle of the Sodality contains twenty-two prophetic texts applicable to both personal and group workings. The practical magical works consist of a diverse range of techniques and rituals, demonstrating the extensive knowledge and skill of Chumbley as an occultist.
 
 ### III. **Qutub**: The Point
 

@@ -23,7 +23,7 @@ excerpt: >
 ---
 In response to the knowledge challenge, let us begin by examining the role of Saturn in ancient Roman religion and its relation to time, death, and transformation. Afterward, we will compare and contrast this role to its prominence in modern Western esotericism, delving into the similarities, differences, and possible reasons for such changes.
 
-Saturn in Ancient Roman Religion: 
+**Saturn in Ancient Roman Religion**: 
 
 In ancient Roman religion, Saturn was one of the earliest gods, originally associated with agriculture, harvest, and abundance. This association is evident in the name "Saturn," which is derived from the Latin term "saturo," meaning "to sow." Saturn is perhaps best known for his festival, Saturnalia, occurring between December 17 and 23. This was a time of revelry, gift-giving, and role reversal to celebrate the harvest and the end of the year.
 
@@ -31,7 +31,7 @@ Saturn's prominence was not limited to agriculture, however. Over time, he becam
 
 In addition to controlling the passage and cycles of time, Saturn was perceived as a harvester of souls, collecting and dissolving them back into primordial chaos. The motif of the scythe, associated with harvesting the crops, reinforced this relationship to time and death.
 
-Saturn in Modern Western Esotericism: 
+**Saturn in Modern Western Esotericism**: 
 
 In modern Western esotericism, Saturn retains its association with time, death, and transformation. However, its prominence has shifted to encompass more philosophical, psychological, and astrological aspects. It often symbolizes a process of spiritual maturation and the ideal of transcending the limits of mortality, particularly in alchemy, esoteric astrology, and ceremonial magic.
 

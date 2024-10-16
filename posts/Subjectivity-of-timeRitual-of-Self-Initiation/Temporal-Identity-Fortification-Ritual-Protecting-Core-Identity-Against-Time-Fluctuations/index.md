@@ -23,7 +23,7 @@ excerpt: Design an intricate protection ritual specifically tailored to fortifyi
 
 ## Temporal Core Identity Fortification Ritual (TCIFR)
 
-Purpose: To protect and fortify one's core identity against potential identity shifts caused by timeline fluctuations, using the mastery of the Subjectivity of timeRitual of Self-Initiation.
+**Purpose**: To protect and fortify one's core identity against potential identity shifts caused by timeline fluctuations, using the mastery of the Subjectivity of timeRitual of Self-Initiation.
 
 Components:
 1. Esoteric symbols and entities

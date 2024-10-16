@@ -36,13 +36,13 @@ Central to these various philosophies, the principle of correspondence - as Abov
 
 As an adept of the magical arts, the magus is versed in a range of techniques and practices. **Core among these are**:
 
-1. ****Theurgy****: The art of divine communion, through which the magus taps into divine forces and energies. This collaboration with spiritual entities often involves the invocation of gods, angelic beings, or other supernatural forces to achieve desired outcomes or attain higher levels of spiritual realization.
+1. **Theurgy**: The art of divine communion, through which the magus taps into divine forces and energies. This collaboration with spiritual entities often involves the invocation of gods, angelic beings, or other supernatural forces to achieve desired outcomes or attain higher levels of spiritual realization.
 
-2. ****Divination****: Gaining insights into hidden truths, events, or situations through various methods such as tarot, astrology, scrying, or geomancy. These techniques enable the magus to decipher the patterns of the universe and unveil the interconnected tapestry of reality.
+2. **Divination**: Gaining insights into hidden truths, events, or situations through various methods such as tarot, astrology, scrying, or geomancy. These techniques enable the magus to decipher the patterns of the universe and unveil the interconnected tapestry of reality.
 
-3. ****Rituals and Ceremonies****: Prescribed acts designed to evoke specific outcomes or influences by harnessing cosmic energies. Rituals and ceremonies may encompass elements such as magical language (using sacred texts, mantras, or sigils), the art of casting circles to create sacred space, and the utilization of magical tools (such as wands, chalices, or athames).
+3. **Rituals and Ceremonies**: Prescribed acts designed to evoke specific outcomes or influences by harnessing cosmic energies. Rituals and ceremonies may encompass elements such as magical language (using sacred texts, mantras, or sigils), the art of casting circles to create sacred space, and the utilization of magical tools (such as wands, chalices, or athames).
 
-4. ****Alchemy****: Endorsing the belief in the possibility of transformation - be it the transmutation of base metals into gold, or the spiritual transformation of the self. The magus seeks to master the principles of alchemy as a means to effect change and perfect their being.
+4. **Alchemy**: Endorsing the belief in the possibility of transformation - be it the transmutation of base metals into gold, or the spiritual transformation of the self. The magus seeks to master the principles of alchemy as a means to effect change and perfect their being.
 
 ### Chapter 4: Developing the Skills of a Magus
 

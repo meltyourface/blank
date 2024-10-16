@@ -30,7 +30,7 @@ Underlying Principles
 
 The core tenet of Redemption through Sin lies in the concept of duality—that is, the belief that the universe and all of existence operate within a continuum of polar opposites, such as light and darkness, good and evil, purity and impurity, and ultimately, divinity and sin. Embracing this duality is thought to unlock the true complexities of life and enable a deeper understanding of ourselves and our place within the cosmic order.
 
-The journey through sin culminates in a mental and spiritual transformation known as the "Alchemical Rebirth." This metamorphosis is characterized by an initiator's integration of their base, sinful nature with their higher, divine self. ****The process is akin to the alchemist's pursuit of transmuting base metals into gold, or the philosopher's stone****: a symbol of ultimate spiritual enlightenment.
+The journey through sin culminates in a mental and spiritual transformation known as the "Alchemical Rebirth." This metamorphosis is characterized by an initiator's integration of their base, sinful nature with their higher, divine self. **The process is akin to the alchemist's pursuit of transmuting base metals into gold, or the philosopher's stone**: a symbol of ultimate spiritual enlightenment.
 
 Historical Origins
 

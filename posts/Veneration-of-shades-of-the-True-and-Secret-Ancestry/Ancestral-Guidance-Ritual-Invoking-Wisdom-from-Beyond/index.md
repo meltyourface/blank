@@ -28,7 +28,7 @@ excerpt: Design a ritual for the Veneration of shades of the True and Secret Anc
 
 **Materials**:
 
-1. ****An ancestral altar****: A small table or a raised platform covered with a dark cloth.
+1. **An ancestral altar**: A small table or a raised platform covered with a dark cloth.
 2. A photograph or representation of the chosen ancestor.
 3. A bowl of purified water.
 4. Five white candles.

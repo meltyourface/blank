@@ -35,18 +35,18 @@ In the early 20th century, the burgeoning film industry in Hollywood began attra
 2. Esoteric Symbolism in Film and Famous Lives
 
 Many films, television shows, and music videos contain esoteric symbols and concepts that, while often overlooked or dismissed as mere creative whims, can be traced back to occult ideas and teachings. **Examples include**:
- a. ****Alchemical Symbols****: Throughout the decades, films from various genres have subtly woven alchemical symbols and concepts into their storylines, where transformation, death, and rebirth are prevalent themes.
-   b. ****Tarot and Numerology****: References to Tarot cards and numerology are common in Hollywood productions. They convey deeper spiritual meanings and offer guidance for understanding the human experience, character motivations, and the archetypal journey.
-   c. ****Celestial and Astrological Influences****: Paying homage to the cosmic patterns and relationships that govern human lives, many films feature celestial bodies, moon phases, and zodiac signs that decode esoteric wisdom and assert the presence of powerful astral forces.
+ a. **Alchemical Symbols**: Throughout the decades, films from various genres have subtly woven alchemical symbols and concepts into their storylines, where transformation, death, and rebirth are prevalent themes.
+   b. **Tarot and Numerology**: References to Tarot cards and numerology are common in Hollywood productions. They convey deeper spiritual meanings and offer guidance for understanding the human experience, character motivations, and the archetypal journey.
+   c. **Celestial and Astrological Influences**: Paying homage to the cosmic patterns and relationships that govern human lives, many films feature celestial bodies, moon phases, and zodiac signs that decode esoteric wisdom and assert the presence of powerful astral forces.
 
 Celebrities, as influential figures of mainstream culture, often inadvertently or intentionally engage in occult practices or display symbolic affiliations. For example, personal style choices, tattoo designs, or public rituals may contain cryptic messages and hints about their esoteric journey, acting as living conduits of ancient wisdom.
 
 3. Navigating the Hollywood Occult
 
 Aspiring practitioners seeking to delve deeper into the connections between Hollywood and the occult should pay attention to the following aspects:
- a. ****Developing a keen eye for symbolism****: Familiarize yourself with key concepts and symbols from various occult traditions, enabling you to spot and decipher hidden meanings in movies, television, and music.
- b. ****Researching and connecting****: Investigate the lives and work of renowned filmmakers, screenwriters, and performers whose creative outputs resonate with occult themes or symbolism. Seek out like-minded individuals to discuss and exchange knowledge, ideas, and interpretations.
- c. ****Exploring the Outer and Inner Worlds****: As you become attuned to the esoteric undercurrents flowing through Hollywood, learn to balance your newfound insights with the discipline of introspection and reflection. The quest for occult wisdom is not solely about external manifestations but depends equally upon inner growth, self-discovery, and personal mastery.
+ a. **Developing a keen eye for symbolism**: Familiarize yourself with key concepts and symbols from various occult traditions, enabling you to spot and decipher hidden meanings in movies, television, and music.
+ b. **Researching and connecting**: Investigate the lives and work of renowned filmmakers, screenwriters, and performers whose creative outputs resonate with occult themes or symbolism. Seek out like-minded individuals to discuss and exchange knowledge, ideas, and interpretations.
+ c. **Exploring the Outer and Inner Worlds**: As you become attuned to the esoteric undercurrents flowing through Hollywood, learn to balance your newfound insights with the discipline of introspection and reflection. The quest for occult wisdom is not solely about external manifestations but depends equally upon inner growth, self-discovery, and personal mastery.
 
 Conclusion
 

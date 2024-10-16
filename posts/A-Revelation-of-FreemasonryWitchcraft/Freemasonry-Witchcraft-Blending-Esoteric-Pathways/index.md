@@ -35,27 +35,27 @@ While initially distinct, the paths of Freemasonry and Witchcraft began to inter
 
 Key Symbols
 
-1. ****The Blazing Star****: The Blazing Star, also known as the Pentagram, is a fundamental symbol shared by both Freemasonry and Witchcraft. In Freemasonry, it represents Divine Providence and man's relationship with the cosmos. In Witchcraft, it symbolizes the four elements – earth, air, water, and fire – with the fifth point representing the Spirit. In the combined path, the Blazing Star signifies the union of inner and outer worlds, denoting the initiate's need to harmonize their personal spiritual journey with the divine will of the higher realms.
+1. **The Blazing Star**: The Blazing Star, also known as the Pentagram, is a fundamental symbol shared by both Freemasonry and Witchcraft. In Freemasonry, it represents Divine Providence and man's relationship with the cosmos. In Witchcraft, it symbolizes the four elements – earth, air, water, and fire – with the fifth point representing the Spirit. In the combined path, the Blazing Star signifies the union of inner and outer worlds, denoting the initiate's need to harmonize their personal spiritual journey with the divine will of the higher realms.
 
-2. ****The Pillars****: In Freemasonry, the pillars of Jachin and Boaz stand for stability, strength, wisdom, and understanding, symbolizing the Temple of Solomon. In Witchcraft, the pillars can be interpreted as the spiritual duality between masculine and feminine forces, such as the Horned God and the Triple Goddess. Together, they signify the importance of balance, the union of opposites, and the dynamic forces necessary for spiritual growth.
+2. **The Pillars**: In Freemasonry, the pillars of Jachin and Boaz stand for stability, strength, wisdom, and understanding, symbolizing the Temple of Solomon. In Witchcraft, the pillars can be interpreted as the spiritual duality between masculine and feminine forces, such as the Horned God and the Triple Goddess. Together, they signify the importance of balance, the union of opposites, and the dynamic forces necessary for spiritual growth.
 
-3. ****The Square and Compass****: The Square and Compass are iconic Masonic symbols of morality and virtue. In Witchcraft, they can represent the alignment of one's magical intention with their ethical beliefs. In the fusion of these practices, the Square and Compass serve as a reminder to initiates that the inner work of personal transformation must always be guided by a deep sense of moral responsibility and a desire to create harmony with the natural laws of the universe.
+3. **The Square and Compass**: The Square and Compass are iconic Masonic symbols of morality and virtue. In Witchcraft, they can represent the alignment of one's magical intention with their ethical beliefs. In the fusion of these practices, the Square and Compass serve as a reminder to initiates that the inner work of personal transformation must always be guided by a deep sense of moral responsibility and a desire to create harmony with the natural laws of the universe.
 
 Core Principles
 
-1. ****The Pursuit of Hidden Knowledge****: Both Freemasonry and Witchcraft emphasize the acquisition of esoteric wisdom, often encoded in symbols and rituals. Initiates on the combined path are encouraged to explore various mystical traditions, uncover hidden truths, and cultivate a desire for knowledge that transcends mundane understanding.
+1. **The Pursuit of Hidden Knowledge**: Both Freemasonry and Witchcraft emphasize the acquisition of esoteric wisdom, often encoded in symbols and rituals. Initiates on the combined path are encouraged to explore various mystical traditions, uncover hidden truths, and cultivate a desire for knowledge that transcends mundane understanding.
 
-2. ****Personal Transformation****: Freemasonry-Witchcraft emphasizes the importance of inner alchemy, the process of refining one's thoughts, emotions, and actions to attain a higher level of spiritual development. This includes the integration of shadow aspects, confronting fears, and embracing the full spectrum of human experience within oneself.
+2. **Personal Transformation**: Freemasonry-Witchcraft emphasizes the importance of inner alchemy, the process of refining one's thoughts, emotions, and actions to attain a higher level of spiritual development. This includes the integration of shadow aspects, confronting fears, and embracing the full spectrum of human experience within oneself.
 
-3. ****Support and Fraternity****: While Freemasonry is built on the tenet of brotherly love, Witchcraft often revolves around the concept of the "coven," a close-knit group of practitioners who support and empower each other. Freemasonry-Witchcraft emphasizes the importance of collaborative spiritual work and strengthens interpersonal bonds through shared study and ritual practice.
+3. **Support and Fraternity**: While Freemasonry is built on the tenet of brotherly love, Witchcraft often revolves around the concept of the "coven," a close-knit group of practitioners who support and empower each other. Freemasonry-Witchcraft emphasizes the importance of collaborative spiritual work and strengthens interpersonal bonds through shared study and ritual practice.
 
 Notable Practices
 
-1. ****Ritual Work****: Combining Masonic ceremonies with Witchcraft rituals, initiates are encouraged to create and participate in personalized rites that honor their unique spiritual journey. These may include invocations, offerings, and the utilization of magical tools such as the chalice, wand, and athame.
+1. **Ritual Work**: Combining Masonic ceremonies with Witchcraft rituals, initiates are encouraged to create and participate in personalized rites that honor their unique spiritual journey. These may include invocations, offerings, and the utilization of magical tools such as the chalice, wand, and athame.
 
-2. ****Meditation and Visualization****: Drawing from both traditions, initiates should develop daily practices of meditation and visualization to strengthen their connection with the divine and uncover hidden aspects of their psyche. The practice of "pathworking" may be particularly useful, guiding practitioners through the symbolic landscapes of the mystical realms to receive insights and wisdom from the higher planes.
+2. **Meditation and Visualization**: Drawing from both traditions, initiates should develop daily practices of meditation and visualization to strengthen their connection with the divine and uncover hidden aspects of their psyche. The practice of "pathworking" may be particularly useful, guiding practitioners through the symbolic landscapes of the mystical realms to receive insights and wisdom from the higher planes.
 
-3. ****Service and Charity****: Following Freemasonry's model of philanthropy and service, initiates of the blended path should actively contribute to their communities and the world, embodying the principles of compassion and integrity in their everyday lives.
+3. **Service and Charity**: Following Freemasonry's model of philanthropy and service, initiates of the blended path should actively contribute to their communities and the world, embodying the principles of compassion and integrity in their everyday lives.
 
 Conclusion
 

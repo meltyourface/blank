@@ -28,7 +28,7 @@ excerpt: >
 ---
 Answer: Alex Sanders is known for founding the Alexandrian tradition of Wicca, which draws upon both Gardnerian Wicca and ceremonial magic.
 
-Explanation: Alex Sanders (1926-1988), also known as the "King of the Witches," was a prominent figure in the modern witchcraft and Wiccan movement. He is best known for founding the Alexandrian tradition of Wicca, which combines elements of both Gardnerian Wicca and ceremonial magic.
+**Explanation**: Alex Sanders (1926-1988), also known as the "King of the Witches," was a prominent figure in the modern witchcraft and Wiccan movement. He is best known for founding the Alexandrian tradition of Wicca, which combines elements of both Gardnerian Wicca and ceremonial magic.
 
 Alex Sanders was initiated into Gardnerian Wicca in 1962 but decided to develop his own tradition, based on his studies and experiences. Although he was deeply influenced by the Gardnerian tradition, founded by Gerald Gardner, Sanders sought to incorporate elements of ceremonial magic, Kabbalah, and other esoteric teachings into his new tradition. This unique blending of different paths became known as Alexandrian Wicca.
 

@@ -43,7 +43,7 @@ Preparation
 - Create sacred space by invoking a circle of protection around the ritual area
 - Place the four elemental candles on the corresponding compass points (Earth - North, Air - East, Fire - South, Water - West)
 
-Stage One: Elemental Invocation and Incorporation
+**Stage One**: Elemental Invocation and Incorporation
 1. Ground yourself by taking deep cleansing breaths and visualize yourself connecting to the Earth
 2. Light the green Earth candle and focus on the Earth sigil
 3. **Recite the Earth invocation**: 'Terra Mater, mecum siste, corpus meum roborans' (Mother Earth, stand with me, strengthening my body)
@@ -53,11 +53,11 @@ Stage One: Elemental Invocation and Incorporation
    - Fire: Use Carnelian, placed near the solar plexus chakra, and the invocation 'Ignis Frater, mecum ardens, voluntatem meam purificans' (Brother Fire, burn with me, purifying my will)
    - Water: Use Aquamarine, placed near the heart chakra, and the invocation 'Aqua Soror, mecum fluitans, animam meam sanans' (Sister Water, flow with me, healing my soul)
 
-Stage Two: Elemental Balancing Visualization
+**Stage Two**: Elemental Balancing Visualization
 1. With all four elemental sigils and chakra crystals in place, have Emil visualize a beam of light connecting each crystal and sigil in a clockwise motion
 2. As the elemental energies circulate, Emil should affirm his intention to balance the elements within his being
 
-Stage Three: Elemental Sealing and Dismissal
+**Stage Three**: Elemental Sealing and Dismissal
 1. **Recite a closing incantation to seal the balanced energies within Emil**: 'Coniuncti Elementa, æquilibrio perfecto, ego sum integer' (Elements united, balance perfected, I am whole)
 2. Thank and dismiss the energies of the elements, extinguishing their respective candles in the counter-clockwise direction (Water, Fire, Air, and finally Earth)
 

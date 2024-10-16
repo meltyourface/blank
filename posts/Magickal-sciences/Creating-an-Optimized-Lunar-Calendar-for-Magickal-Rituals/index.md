@@ -23,7 +23,7 @@ To create an intricate lunar calendar for optimizing Magickal rituals and workin
 
 1. **Phases of the Moon**: There are eight primary lunar phases – New Moon, Waxing Crescent, First Quarter, Waxing Gibbous, Full Moon, Waning Gibbous, Last Quarter, and Waning Crescent. Each of these phases holds different energy and influences, which impact the efficacy of Magickal workings.
 
-New Moon: New beginnings, initiations, and setting intentions.
+**New Moon**: New beginnings, initiations, and setting intentions.
 Waxing Crescent: Growth, attraction, and drawing in new opportunities.
 First Quarter: Persistence, courage, and breaking through obstacles.
 Waxing Gibbous: Refinement, adjustment, and fine-tuning of intentions.

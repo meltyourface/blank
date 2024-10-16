@@ -52,7 +52,7 @@ Historical and Cultural Frameworks:
 
 1. Hermeticism - In the Hermetic tradition, each of the elements contributes to the esoteric process of purification through the symbolism of the alchemical process. Earth, Water, Air, and Fire work together to create the Philosopher's Stone, the ultimate symbol of spiritual purification and rebirth.
 
-2. ****Hinduism - In Hindu traditions, elemental purification occurs through the Pancha Mahabhuta, the five great elements****: Earth, Water, Fire, Air, and Ether. In various rituals, such as Homa, the offering of four elements into a sacred fire signifies cleansing and purifying the devotee's consciousness and environment.
+2. **Hinduism - In Hindu traditions, elemental purification occurs through the Pancha Mahabhuta, the five great elements**: Earth, Water, Fire, Air, and Ether. In various rituals, such as Homa, the offering of four elements into a sacred fire signifies cleansing and purifying the devotee's consciousness and environment.
 
 3. Native American Traditions - Native American purification rituals, like the sweat lodge ceremony, incorporate the elements of Earth, Water, Air, and Fire. The heated stones (Earth) within the lodge are doused with Water, filling the enclosure with steam (Air), while the Fire burning outside the lodge produces heat and ultimately represents the transformative energy needed for healing and renewal.
 

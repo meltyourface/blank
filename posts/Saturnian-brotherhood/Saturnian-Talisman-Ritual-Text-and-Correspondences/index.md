@@ -31,7 +31,7 @@ excerpt: >
 ---
 Behold, an intricate textual talisman crafted with the mastery of the Saturnian brotherhood. This talisman serves as a vessel of sacred knowledge, embodying the profound wisdom and power of Saturn.
 
-Central Nexus: Sigil of Saturn
+**Central Nexus**: Sigil of Saturn
 ════════════════════════
 𒊬‡ﬁ  ⛢  ｟­𒆳‡ ┘
 

@@ -41,15 +41,15 @@ excerpt: >
   
   The possibilities for entries within a sacred Notebook are rich and varied. **As an evolving testament to your spiritual journey, your Notebook should reflect your unique path and experiences. Some suggested categories for entries include**:
   
-  1. ****Personal rituals and spells****: Document the specifics of spells or rituals you have crafted or felt drawn to - including descriptions, intentions, ingredients, incantations, and outcomes.
+  1. **Personal rituals and spells**: Document the specifics of spells or rituals you have crafted or felt drawn to - including descriptions, intentions, ingredients, incantations, and outcomes.
   
-  2. ****Mythological and historical research****: Record your findings from the study or divination using ancient texts, histories, and mythologies relevant to your spiritual path.
+  2. **Mythological and historical research**: Record your findings from the study or divination using ancient texts, histories, and mythologies relevant to your spiritual path.
   
-  3. ****Dreams and visions****: Transcribe vivid dreams, premonitions, or visions that may be of spiritual importance or offer guidance.
+  3. **Dreams and visions**: Transcribe vivid dreams, premonitions, or visions that may be of spiritual importance or offer guidance.
   
-  4. ****Correspondences****: Note associations between various elements, colors, herbs, stones, symbols, and other significant aspects of the magical arts as they relate to your practice.
+  4. **Correspondences**: Note associations between various elements, colors, herbs, stones, symbols, and other significant aspects of the magical arts as they relate to your practice.
   
-  5. ****Meditation and introspection****: Chronicle your reflections and insights, gained through deep contemplation, meditation, or other practices that encourage spiritual inquiry.
+  5. **Meditation and introspection**: Chronicle your reflections and insights, gained through deep contemplation, meditation, or other practices that encourage spiritual inquiry.
   
   Section: Benefits of Maintaining a Sacred Notebook for Spiritual Growth
   

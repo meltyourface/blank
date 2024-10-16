@@ -35,22 +35,22 @@ The proposed pedagogical framework aims to promote transformative comprehension 
 1. Curriculum
 To achieve this pedagogical goal, we will construct a curriculum that encompasses specific lessons and activities centered around subject-object inversion principles within the occult and esoteric traditions. The curriculum will be divided into the following key modules:
 
-Module A: Foundations of Subject-Object Inversion
+**Module A**: Foundations of Subject-Object Inversion
 - Introduction to subject-object inversion theory
 - Basic techniques of perception inversion
 - Historical origins and development of subject-object inversion in esoteric and occult studies
 
-Module B: Advanced Inversion Techniques and Practices
+**Module B**: Advanced Inversion Techniques and Practices
 - Merging the inner and outer worlds
 - Symbolic and dream analysis through inversion
 - Meditation and visualization techniques for invoking subject-object inversion
 
-Module C: Case Studies and Applications in Occult Teachings
+**Module C**: Case Studies and Applications in Occult Teachings
 - Counterintuitive thinking in magic and ritual
 - The role of inversion in alchemy and astrology
 - Subject-object inversion in divination practices and tarot
 
-Module D: Critiques, Controversies, and Connections
+**Module D**: Critiques, Controversies, and Connections
 - Avalon's assessment model and its applications
 - Critiques of subject-object inversion
 - Integrating subject-object inversion with other esoteric methodologies

@@ -31,21 +31,21 @@ The Ancient Celts were an intriguing and spiritually rich civilization stemming 
 
 Divination was an integral aspect of Celtic mysticism, a method of connecting with the natural forces and the spirit world to seek guidance from the divine. The Druids, revered as revered clergy and educators, often acted as seers and advisors for seeking answers to various questions and concerns, from personal matters to those of the community and beyond. They relied on a variety of techniques to harness their prophetic abilities.
 
-Ogham Script: The Celts had their own alphabet called the Ogham script, which was ascribed with spiritual significance. The Druids utilized this script for divination in the form of Ogham staves, utilizing a set of slender wooden rods marked with the symbols and cast upon the ground to decipher meaning based on patterns and positions in which they fell.
+**Ogham Script**: The Celts had their own alphabet called the Ogham script, which was ascribed with spiritual significance. The Druids utilized this script for divination in the form of Ogham staves, utilizing a set of slender wooden rods marked with the symbols and cast upon the ground to decipher meaning based on patterns and positions in which they fell.
 
 **Augury**: Augury, or interpreting bird behavior as an omen, was an essential component to determining divine insight into future events. The Celts attributed different meanings to various bird species, with each symbolizing a specific trait, power, or consequence.
 
-Animal Sacrifices: Animal sacrifices held considerable significance in Celtic culture. Through this ritual, the Druids would observe the entrails of a slain animal to glean guidance and messages from the beyond. 
+**Animal Sacrifices**: Animal sacrifices held considerable significance in Celtic culture. Through this ritual, the Druids would observe the entrails of a slain animal to glean guidance and messages from the beyond. 
 
 ### Section II: Spiritual Realms and Beings
 
 The Celts believed the world to be comprised of three realms, interconnected yet distinct in their properties and inhabitants. **Understanding these realms was crucial in navigating the spiritual dimensions of Celtic magic. The realms were as follows**:
 
-The Upper World: The realm of the gods, ancestral spirits, and cosmic bodies, it represented elevated wisdom, inspiration, and cosmic harmony.
+**The Upper World**: The realm of the gods, ancestral spirits, and cosmic bodies, it represented elevated wisdom, inspiration, and cosmic harmony.
 
-The Middle World: A realm of mortals, fairies, and earthly spirits, it was marked by harmony, fluidity, and balance between the celestial and infernal worlds.
+**The Middle World**: A realm of mortals, fairies, and earthly spirits, it was marked by harmony, fluidity, and balance between the celestial and infernal worlds.
 
-The Underworld: The domain of primal spirits, elemental energies, and powerful forces of nature, it served as a source of transformation, regeneration, and hidden knowledge.
+**The Underworld**: The domain of primal spirits, elemental energies, and powerful forces of nature, it served as a source of transformation, regeneration, and hidden knowledge.
 
 Celtic practitioners not only regarded these realms but also sought connection with various spiritual beings. These ranged from the powerful deities and ancestral spirits to the more capricious faeries and nature spirits, forging ties of knowledge-sharing and influence with these elusive forces through rituals, offerings, and spells.
 

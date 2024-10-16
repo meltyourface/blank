@@ -32,10 +32,10 @@ The Sepher Yetzirah is an ancient Jewish text that explores the nature of creati
 
 The passage highlights the importance of three methods of understanding the Kabbalistic system:
 
-1. ****Text (letters)****: The study of Kabbalah heavily involves the examination of Hebrew letters, which hold mystical meanings and powers. Each letter is said to connect to a fundamental aspect of the divine.
+1. **Text (letters)**: The study of Kabbalah heavily involves the examination of Hebrew letters, which hold mystical meanings and powers. Each letter is said to connect to a fundamental aspect of the divine.
 
-2. ****Number****: Known as Gematria, this approach assigns numerical value to each Hebrew letter, discovering hidden meanings and relationships between words and phrases by examining their sum, product, or other mathematical properties.
+2. **Number**: Known as Gematria, this approach assigns numerical value to each Hebrew letter, discovering hidden meanings and relationships between words and phrases by examining their sum, product, or other mathematical properties.
 
-3. ****Narration****: This involves storytelling and allegories, which transmit complex and abstract concepts through the use of symbolic tales, parables, and metaphors. Each story can be interpreted on multiple levels, unveiling deeper esoteric meanings.
+3. **Narration**: This involves storytelling and allegories, which transmit complex and abstract concepts through the use of symbolic tales, parables, and metaphors. Each story can be interpreted on multiple levels, unveiling deeper esoteric meanings.
 
 Understanding the Kabbalistic tradition involves a careful study of these three aspects, which enables students to delve into hidden meanings and uncover profound insights into the nature of reality and the divine.

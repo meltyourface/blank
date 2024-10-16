@@ -24,7 +24,7 @@ excerpt: >
 ---
 The correct answer is The Kingdom of White Cloth.
 
-Explanation and context: 
+**Explanation and context**: 
 
 Quimbanda is an Afro-Brazilian religion that emerged in the early 20th century, primarily in Rio de Janeiro and São Paulo. It is a syncretic faith that incorporates elements of African spiritual traditions, indigenous Brazilian beliefs, and European spiritualities, such as Catholicism and Kardecist Spiritism. This unique blend gives rise to various rituals, deities, and spirits known as Exus and Pomba Giras.
 

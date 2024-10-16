@@ -22,7 +22,7 @@ excerpt: Devise a detailed ceremonial rite for the Ritual Aspect of the Cult, ai
 
 ## The Rite of Ascendant Arcana
 
-Objective: This ceremonial rite aims to bolster an individual's arcane prowess and foster their spiritual evolution through sacred invocations, complex rituals, and consecrated artifacts associated with the Ritual Aspect of the Cult.
+**Objective**: This ceremonial rite aims to bolster an individual's arcane prowess and foster their spiritual evolution through sacred invocations, complex rituals, and consecrated artifacts associated with the Ritual Aspect of the Cult.
 
 ### I. Preparation and Purification
 

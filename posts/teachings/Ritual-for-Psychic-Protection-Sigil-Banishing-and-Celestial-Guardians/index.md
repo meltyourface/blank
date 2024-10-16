@@ -32,14 +32,14 @@ Consecrated Ritual Tools:
 4. Pentacle - as a symbol of the elements and a stable foundation for the ritual.
 5. Censer with incense - to purify the ritual space and connect with higher energies (frankincense, myrrh, and dragon's blood are ideal choices).
 
-Celestial Guardians: The Archangels - Raphael (East), Michael (South), Gabriel (West), and Uriel (North).
+**Celestial Guardians**: The Archangels - Raphael (East), Michael (South), Gabriel (West), and Uriel (North).
 
 Protective Sigils:
 1. Sigil of Ares - to evoke the warrior spirit and banish negativity.
 2. Sigil of Saturn - for grounding and binding malevolent energies.
 3. Sigil of Venus - to evoke harmony and healing after the banishing.
 
-Auspicious Planetary Alignment: The ritual is best performed during Mars and Saturn conjunction to harness the assertive strength of Mars and the strict disciplinarian energy of Saturn.
+**Auspicious Planetary Alignment**: The ritual is best performed during Mars and Saturn conjunction to harness the assertive strength of Mars and the strict disciplinarian energy of Saturn.
 **Step 1**: Purification
 - Begin by taking a ritual bath with purifying oils or salts, such as rosemary or lavender. Meditate on cleansing your aura and visualizing all negative energy washing away.
 **Step 2**: Preparation of the Ritual Space

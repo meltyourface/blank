@@ -37,39 +37,39 @@ The modern era saw the emergence of the Esoteric Order of the Golden Dawn, Theos
 
 ### II. Key Principles of Esotericism
 
-1. ****Correspondence****: The idea that all things in the universe are interconnected, and that various systems of symbolism can be used to understand and interpret phenomena across different levels of existence (e.g., macrocosm and microcosm).
+1. **Correspondence**: The idea that all things in the universe are interconnected, and that various systems of symbolism can be used to understand and interpret phenomena across different levels of existence (e.g., macrocosm and microcosm).
 
-2. ****Initiation****: The spiritual process of inner transformation, growth, and enlightenment that occurs through the unfolding of deeper levels of consciousness and the acquisition of esoteric knowledge.
+2. **Initiation**: The spiritual process of inner transformation, growth, and enlightenment that occurs through the unfolding of deeper levels of consciousness and the acquisition of esoteric knowledge.
 
-3. ****Mysticism****: The pursuit of direct, personal experience of the divine or transcendent, often through contemplative or meditative practices.
+3. **Mysticism**: The pursuit of direct, personal experience of the divine or transcendent, often through contemplative or meditative practices.
 
-4. ****Occultism****: The belief in the existence of hidden realms and powers that can be accessed and manipulated through ritual, symbolism, and the development of specific skills or abilities.
+4. **Occultism**: The belief in the existence of hidden realms and powers that can be accessed and manipulated through ritual, symbolism, and the development of specific skills or abilities.
 
 ### III. Notable Figures
 
-1. ****Hermes Trismegistus****: A legendary figure often linked to the origins of Hermeticism and viewed as the embodiment of divine wisdom.
+1. **Hermes Trismegistus**: A legendary figure often linked to the origins of Hermeticism and viewed as the embodiment of divine wisdom.
 
-2. ****Plotinus****: A Neoplatonic philosopher who emphasized the importance of spiritual ascent and the transcendent nature of the One.
+2. **Plotinus**: A Neoplatonic philosopher who emphasized the importance of spiritual ascent and the transcendent nature of the One.
 
-3. ****Paracelsus****: A Swiss physician and alchemist who pioneered the concept of correspondences between the macrocosm and microcosm, as well as the application of occult principles in medicine.
+3. **Paracelsus**: A Swiss physician and alchemist who pioneered the concept of correspondences between the macrocosm and microcosm, as well as the application of occult principles in medicine.
 
-4. ****Éliphas Lévi****: A French occultist and author who helped popularize Kabbalah and ceremonial magic in the 19th century.
+4. **Éliphas Lévi**: A French occultist and author who helped popularize Kabbalah and ceremonial magic in the 19th century.
 
-5. ****Manly P. Hall****: A prominent American philosopher and esoteric scholar who authored numerous influential works on esotericism, including "The Secret Teachings of All Ages."
+5. **Manly P. Hall**: A prominent American philosopher and esoteric scholar who authored numerous influential works on esotericism, including "The Secret Teachings of All Ages."
 
 ### IV. Practices
 
 There is a wide range of esoteric practices designed to facilitate personal transformation, knowledge acquisition, and spiritual growth. **These include, but are not limited to**:
 
-1. ****Ritual Magic****: The use of ceremonial rituals, symbolism, and invocations to manifest desired outcomes or commune with spiritual forces.
+1. **Ritual Magic**: The use of ceremonial rituals, symbolism, and invocations to manifest desired outcomes or commune with spiritual forces.
 
-2. ****Divination****: The practice of seeking insight or guidance through various systems of symbolic interpretation, such as tarot, astrology, or geomancy.
+2. **Divination**: The practice of seeking insight or guidance through various systems of symbolic interpretation, such as tarot, astrology, or geomancy.
 
-3. ****Meditation and Contemplation****: Techniques that cultivate focused attention, self-awareness, and heightened states of consciousness.
+3. **Meditation and Contemplation**: Techniques that cultivate focused attention, self-awareness, and heightened states of consciousness.
 
-4. ****Astral Projection****: The cultivation of the ability to travel outside of one's physical body and explore other planes of existence.
+4. **Astral Projection**: The cultivation of the ability to travel outside of one's physical body and explore other planes of existence.
 
-5. ****Alchemy****: The spiritual and philosophical discipline focused on the transformation and refinement of physical substances, the self, and the soul.
+5. **Alchemy**: The spiritual and philosophical discipline focused on the transformation and refinement of physical substances, the self, and the soul.
 
 ### V. Importance of Esotericism in Occult Studies
 

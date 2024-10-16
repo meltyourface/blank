@@ -27,11 +27,11 @@ excerpt: >
 
 Step-by-step process:
 
-1. ****Choose the optimal time and place****: The most potent time to perform this ritual is during the full moon, preferably on a Friday, as it is dedicated to Venus, which is associated with love and harmony - attributes Aradia is fond of. Perform the ritual outdoors in a secluded space, ideally near water to connect with the element and enhance the energy.
+1. **Choose the optimal time and place**: The most potent time to perform this ritual is during the full moon, preferably on a Friday, as it is dedicated to Venus, which is associated with love and harmony - attributes Aradia is fond of. Perform the ritual outdoors in a secluded space, ideally near water to connect with the element and enhance the energy.
 
-2. ****Prepare the ritual space****: Begin by thoroughly cleaning and consecrating the area. Create a sacred circle with salt, and in the center, place an altar facing north. The altar may be adorned with a cloth of deep blue or silver, symbolizing the moon and Aradia's connection to the lunar energy.
+2. **Prepare the ritual space**: Begin by thoroughly cleaning and consecrating the area. Create a sacred circle with salt, and in the center, place an altar facing north. The altar may be adorned with a cloth of deep blue or silver, symbolizing the moon and Aradia's connection to the lunar energy.
 
-3. ****Arrange the items on the altar****: The sigil of Aradia should be drawn on a piece of parchment paper and placed in the center of the altar. **Surround the sigil with the following items**:
+3. **Arrange the items on the altar**: The sigil of Aradia should be drawn on a piece of parchment paper and placed in the center of the altar. **Surround the sigil with the following items**:
 
    - A silver or white chalice of spring water or wine
    - A wand made of willow, as it is closely associated with lunar energy
@@ -42,14 +42,14 @@ Step-by-step process:
    - An assortment of moon-affiliated crystals, like moonstone, selenite and labradorite
    - Any personal items you feel connected to or that represent your intent
 
-4. ****Cleanse and consecrate****: Light the candles and use the wand to sprinkle salt around your sacred circle while reciting:
+4. **Cleanse and consecrate**: Light the candles and use the wand to sprinkle salt around your sacred circle while reciting:
 
    "By the power of the sacred elements,
     I cleanse and consecrate this space.
     In the name of Aradia, protect and bless,
     Only love and light may enter here."
 
-5. ****Invoke the elements and their guardians****: Use the wand to invoke each element and its corresponding guardian as follows:
+5. **Invoke the elements and their guardians**: Use the wand to invoke each element and its corresponding guardian as follows:
 
    - Face East, saying, "Sylphs of Air, I call upon you to be present in this ceremony."
    - Face South, saying, "Salamanders of Fire, I call upon you to be present in this ceremony."
@@ -58,23 +58,23 @@ Step-by-step process:
    
    After calling all elements, hold the wand up, saying, "I now invoke the guardians to protect and empower this circle."
 
-6. ****Invoke Aradia****: Light the sacred herbs and let the smoke fill the air. **Recite the following invocation**:
+6. **Invoke Aradia**: Light the sacred herbs and let the smoke fill the air. **Recite the following invocation**:
 
    "Aradia, Lady of the Moon,
     Queen of Witches, I call upon thee.
     Descend from the midnight sky,
     Cast your lunar light upon my rite."
 
-7. ****Establish connection****: Hold your hands over the sigil of Aradia, concentrate on your intention, and chant the following:
+7. **Establish connection**: Hold your hands over the sigil of Aradia, concentrate on your intention, and chant the following:
 
    "By the power of the lunar light,
     I seek the wisdom of the Azure Flame.
     Aradia, hear my call, commune with me,
     Guide me in my journey to magical mastery."
 
-8. ****Meditation****: Meditate in silence, opening yourself to the energies present and to the guidance of Aradia.
+8. **Meditation**: Meditate in silence, opening yourself to the energies present and to the guidance of Aradia.
 
-9. ****Conclude the ritual****: When you feel the connection has been established, and the energy has peaked, express your gratitude to Aradia and the elemental guardians and release them. **Extinguish the candle, while saying**:
+9. **Conclude the ritual**: When you feel the connection has been established, and the energy has peaked, express your gratitude to Aradia and the elemental guardians and release them. **Extinguish the candle, while saying**:
 
    "As this flame is extinguished,
     The magic of this night shall live on.

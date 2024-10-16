@@ -42,9 +42,9 @@ Associated Rituals and Invocations
 
 To work with the Furious Host, several rituals and invocations have been developed. Please use caution when performing the following practices, as doing so may attract powerful and unpredictable energies.
 
-1. ****Ritual of the Spectral Procession****: This ritual requires a calm, clear night and a secluded outdoor location, preferably near woods or other natural features. Begin by casting a protective circle and calling upon the four elemental quarters. Light a fire in the center of the circle and present offerings of food and drink to the Furious Host, uttering invocations to summon the Wild Hunt and its leader. The practitioner may then beseech the Host to lend their energies for the specified purpose. When the ritual is concluded, thank the Host, extinguish the fire, and respectfully dismiss the spirits.
+1. **Ritual of the Spectral Procession**: This ritual requires a calm, clear night and a secluded outdoor location, preferably near woods or other natural features. Begin by casting a protective circle and calling upon the four elemental quarters. Light a fire in the center of the circle and present offerings of food and drink to the Furious Host, uttering invocations to summon the Wild Hunt and its leader. The practitioner may then beseech the Host to lend their energies for the specified purpose. When the ritual is concluded, thank the Host, extinguish the fire, and respectfully dismiss the spirits.
 
-2. ****Invocation of the Wild Hunt's Leader****: This method seeks to connect directly with the leader of the Furious Host, such as Odin or another suitable figure. Through meditation, visualization, and vocalized invocations, the practitioner aims to draw the presence of the leader into themselves, embodying their energy and invoking their wisdom and guidance.
+2. **Invocation of the Wild Hunt's Leader**: This method seeks to connect directly with the leader of the Furious Host, such as Odin or another suitable figure. Through meditation, visualization, and vocalized invocations, the practitioner aims to draw the presence of the leader into themselves, embodying their energy and invoking their wisdom and guidance.
 
 Precautions When Dealing with the Furious Host
 

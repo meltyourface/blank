@@ -27,7 +27,7 @@ excerpt: >
 
 **Prerequisites**: Introductory knowledge of Runic alphabets, mythology, and symbolism.
 
-Course Duration: 18 months (Three semesters, with 6 modules in each)
+**Course Duration**: 18 months (Three semesters, with 6 modules in each)
 
 Semester 1: Foundations of Runic Sorcery
 

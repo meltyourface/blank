@@ -36,7 +36,7 @@ The Opening of the Mouth ceremony (Wepet-er) was a significant ritual in Ancient
 
 5. **Final blessings and recitations**: The priest recited prayers and invocations, appealing to the gods to accept and protect the deceased in the afterlife.
 
-Ceremonial tools: The tools employed in the Opening of the Mouth ceremony included:
+**Ceremonial tools**: The tools employed in the Opening of the Mouth ceremony included:
 
 1. **Adze**: A sharp, metal implement symbolizing the power to open the mouth and restore the senses (specifically the voice).
 
@@ -46,7 +46,7 @@ Ceremonial tools: The tools employed in the Opening of the Mouth ceremony includ
 
 4. **Sacred texts**: The Book of the Dead and other related texts provided prayers, spells, and guidance for the deceased's journey in the afterlife.
 
-Adaptations and Influences: Though primarily an Egyptian ritual, the Opening of the Mouth ceremony found its way into the Mythos of the Sabbatic conclave by practitioners fascinated with ancient Egyptian mysteries. Adopting and integrating Egyptian beliefs and rituals into their occult practices, they not only performed the Opening of the Mouth ceremony but also added their twists and interpretations.
+**Adaptations and Influences**: Though primarily an Egyptian ritual, the Opening of the Mouth ceremony found its way into the Mythos of the Sabbatic conclave by practitioners fascinated with ancient Egyptian mysteries. Adopting and integrating Egyptian beliefs and rituals into their occult practices, they not only performed the Opening of the Mouth ceremony but also added their twists and interpretations.
 
 The ceremony itself evolved throughout various dynastic periods, reflecting the changing religious beliefs and social structures of each era. Nonetheless, its central purpose – enabling the deceased to experience the afterlife with their senses intact – remained constant.
 

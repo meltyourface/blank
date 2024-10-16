@@ -27,7 +27,7 @@ The Alchemyst's Conjunction is a historically significant alchemical manuscript 
 
 Translation and Interpretation:
 
-The manuscript is divided into three major sections: The Conception, The Transmutation, and The Unification.
+**The manuscript is divided into three major sections**: The Conception, The Transmutation, and The Unification.
 
 ### I. The Conception:
 The first section, The Conception, represents the beginning of the alchemical process, detailing the primordial state of matter and the elements. It speaks of the "Prima Materia," the fundamental substance from which all things are created. The Prima Materia, characterized by its four essential qualities (hot, cold, dry, and moist), is the foundation for all alchemical operations and the source of all mysteries within the text.
@@ -39,7 +39,7 @@ The second part, The Transmutation, embodies the heart of the alchemical process
 
 These seven operations are Calcination (the reduction of substance to ashes), Dissolution (the dissolution of ashes into liquid), Separation (the isolation of the pure from the impure), Conjunction (the merging of pure elements), Fermentation (the introduction of new life), Distillation (the purification of the resulting substance), and Coagulation (the solidification of the final product).
 
-The manuscript further illustrates the importance of the alchemical symbols: the King and Queen, representing the dual nature of matter; the Ouroboros, depicting the cyclical process of regeneration and resurrection; and the sacred Marriage, symbolizing the union of opposites to form a new and perfected whole.
+**The manuscript further illustrates the importance of the alchemical symbols**: the King and Queen, representing the dual nature of matter; the Ouroboros, depicting the cyclical process of regeneration and resurrection; and the sacred Marriage, symbolizing the union of opposites to form a new and perfected whole.
 
 ### III. The Unification:
 The third and final section, The Unification, signifies the completion of the transformation—both in the material and spiritual realms. It describes the process of "Apotheosis," in which the adept, having completed the Great Work, embodies the Philosopher's Stone—an object of perfect material and spiritual attainment.

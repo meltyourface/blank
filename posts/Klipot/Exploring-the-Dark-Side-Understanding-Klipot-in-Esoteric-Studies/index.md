@@ -38,13 +38,13 @@ Relation to the Sephirot
 
 The Sephirot are the ten divine emanations in the Kabbalistic Tree of Life. These emanations represent the positive, balanced, and pure energy stemming from the divine. In relation to the Klipot, the Sephirot serves as the source of divine light that the Klipot seeks to obstruct and conceal. While the Sephirot aims to facilitate an individual's spiritual ascent, the Klipot focuses on impeding the soul's path towards enlightenment.
 
-Accessing the Klipot: Three Practices and Rituals
+**Accessing the Klipot**: Three Practices and Rituals
 
-1. ****Meditation and Contemplation****: One practice in accessing the Klipot involves introspective meditation, wherein an individual delves into the dark aspects of their psyche to confront and learn from the challenges therein. By doing so, the person becomes aware of their flaws, weaknesses, and attachments, allowing for personal growth and strengthening of character.
+1. **Meditation and Contemplation**: One practice in accessing the Klipot involves introspective meditation, wherein an individual delves into the dark aspects of their psyche to confront and learn from the challenges therein. By doing so, the person becomes aware of their flaws, weaknesses, and attachments, allowing for personal growth and strengthening of character.
 
-2. ****Ritual Magic****: Involvement in ritual magic can facilitate a connection to the Klipot. Occult practitioners may invoke the energies of the Klipot through ceremonial practices, enochian rituals and visualizations, or through the use of sigils and symbols representing the various aspects of the Klipot, thereby initiating transformation and growth.
+2. **Ritual Magic**: Involvement in ritual magic can facilitate a connection to the Klipot. Occult practitioners may invoke the energies of the Klipot through ceremonial practices, enochian rituals and visualizations, or through the use of sigils and symbols representing the various aspects of the Klipot, thereby initiating transformation and growth.
 
-3. ****Shadow Work****: Undertaking shadow work consists of exploring the hidden, darker aspects of oneself to awaken a deeper self-awareness. By engaging in this process, one can understand their inner fears and desires better, opening the door for transformation and growth.
+3. **Shadow Work**: Undertaking shadow work consists of exploring the hidden, darker aspects of oneself to awaken a deeper self-awareness. By engaging in this process, one can understand their inner fears and desires better, opening the door for transformation and growth.
 
 Guidance and Precautions
 

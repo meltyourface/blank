@@ -22,13 +22,13 @@ excerpt: >
 ---
 In order to fully understand the roles of the God and Goddess in Alexandrian Witchcraft, we must first provide some context about the tradition itself. Alexandrian Witchcraft is a neopagan religion and a variant of Wicca that emerged in the 1960s in England, founded by Alex Sanders and Maxine Sanders. Drawing from the Gardnerian tradition, as well as other cultural and historical sources, Alexandrian Witchcraft places an emphasis on ceremonial magic, the esoteric sciences, and the balance of duality encompassing the universe.
 
-Key Themes: Duality, Balance, Union, and Manifestation
+**Key Themes**: Duality, Balance, Union, and Manifestation
 
 Now, let's delve into a comprehensive analysis of the roles of the God and the Goddess in Alexandrian Witchcraft, considering their manifestations within the Sabbats, Esbats, and Magickal workings. We will also discuss the significance of their duality and union in the belief system and rituals.
 
 The God and Goddess hold instrumental roles within Alexandrian Witchcraft as they represent the dualistic cosmic powers of masculine and feminine energies. They embody the polarities of life and death, light and dark, and creation and destruction. This interplay of energies is believed to be essential in maintaining cosmic harmony, and it is through their union that life and creativity can emerge.
 
-God and Goddess: Manifestations and Roles
+**God and Goddess**: Manifestations and Roles
 
 Both the God and the Goddess have various manifestations within the tradition. The God is often portrayed as the Horned God, embodying the aspects of the hunter, the sacrificed king, and the consort to the Goddess. He is associated with the natural cycles of the sun and the seasons, representing both growth and decay. During the Sabbats, especially the solstices and equinoxes, the God is invoked and honored for these aspects.
 
@@ -36,7 +36,7 @@ The Goddess, on the other hand, embodies the aspects of the maiden, the mother, 
 
 In Magickal workings, both the God and the Goddess are essential in harnessing specific energies that can enhance the practitioner's intention. For instance, the God's energy may be harnessed to bring courage, protection, or transformation, while the Goddess's energy may be harnessed for nurturing, healing, and fertility-related intentions.
 
-Duality and Union: Significance in Rituals and Beliefs
+**Duality and Union**: Significance in Rituals and Beliefs
 
 The union of the God and the Goddess is significant within Alexandrian Witchcraft as it symbolizes the balance and harmony necessary within the universe and ourselves. This union is not only symbolic but also ritualized within the Great Rite, a symbolic or actual enactment of the union between masculine and feminine energies, bringing about creativity, fertility, and balance.
 

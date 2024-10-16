@@ -36,20 +36,20 @@ In subsequent centuries, the Liber Porta Lucis became one of the foundation ston
 
 The Liber Porta Lucis revolves around several key concepts and ideas that are essential to understanding the book's deeper meaning and implications. **These concepts include**:
 
-1. ****The Gates of Light****: The eponymous gates of the Liber Porta Lucis represent the process of spiritual ascent that the practitioner undertakes to gain an understanding of the divine. Each gate corresponds to a specific sephira or emanation on the Tree of Life, representing an aspect of the Divine that the practitioner transcends as they climb the Tree.
+1. **The Gates of Light**: The eponymous gates of the Liber Porta Lucis represent the process of spiritual ascent that the practitioner undertakes to gain an understanding of the divine. Each gate corresponds to a specific sephira or emanation on the Tree of Life, representing an aspect of the Divine that the practitioner transcends as they climb the Tree.
 
-2. ****The Tree of Life****: A central symbol in the Kabbalah, the Tree of Life represents both the structure of the universe and the path of spiritual enlightenment. It comprises ten sephirot (emanations) and 22 connecting paths, each associated with a Hebrew letter and a corresponding tarot card.
+2. **The Tree of Life**: A central symbol in the Kabbalah, the Tree of Life represents both the structure of the universe and the path of spiritual enlightenment. It comprises ten sephirot (emanations) and 22 connecting paths, each associated with a Hebrew letter and a corresponding tarot card.
 
-3. ****Pathworking****: This practice entails the exploration and internalization of the Tree of Life's paths and sephirot through meditation, visualization, and ritual. By traversing the paths and resonating with the energies of the sephirot, the practitioner aligns themselves with the divine blueprint and attains a higher state of consciousness.
+3. **Pathworking**: This practice entails the exploration and internalization of the Tree of Life's paths and sephirot through meditation, visualization, and ritual. By traversing the paths and resonating with the energies of the sephirot, the practitioner aligns themselves with the divine blueprint and attains a higher state of consciousness.
 
 ### 8.3 Essential Practices of Liber Porta Lucis
 
 To harness the transformative power of the Liber Porta Lucis, one must undertake a systematic course of study and self-discipline, guided by the following essential practices:
 
-1. ****Study and Contemplation****: The first step towards mastering the Liber Porta Lucis requires gaining an intellectual understanding of its core concepts and principles. This involves careful study of the text, as well as related works in the fields of Kabbalah, alchemy, and tarot. Contemplation on the material enhances comprehension and internalization of the arcane wisdom.
+1. **Study and Contemplation**: The first step towards mastering the Liber Porta Lucis requires gaining an intellectual understanding of its core concepts and principles. This involves careful study of the text, as well as related works in the fields of Kabbalah, alchemy, and tarot. Contemplation on the material enhances comprehension and internalization of the arcane wisdom.
 
-2. ****Meditation and Visualization****: These techniques are crucial for activating the spiritual energies within oneself and attuning to the higher planes of consciousness. Daily meditation helps to purify the mind, improve focus, and foster a deep connection with one's inner self. Visualization exercises, such as constructing and exploring astral temples or traveling along the paths of the Tree of Life, serve as powerful vehicles for personal transformation.
+2. **Meditation and Visualization**: These techniques are crucial for activating the spiritual energies within oneself and attuning to the higher planes of consciousness. Daily meditation helps to purify the mind, improve focus, and foster a deep connection with one's inner self. Visualization exercises, such as constructing and exploring astral temples or traveling along the paths of the Tree of Life, serve as powerful vehicles for personal transformation.
 
-3. ****Ritual and Ceremony****: Rituals and ceremonies, both simple and complex, allow the practitioner to manifest the energies of the Liber Porta Lucis in the physical world. They provide a structure for engaging the psycho-spiritual faculties and inducing specific states of consciousness conducive to magical and mystical work.
+3. **Ritual and Ceremony**: Rituals and ceremonies, both simple and complex, allow the practitioner to manifest the energies of the Liber Porta Lucis in the physical world. They provide a structure for engaging the psycho-spiritual faculties and inducing specific states of consciousness conducive to magical and mystical work.
 
 By diligently pursuing these practices, the dedicated student of the Liber Porta Lucis can unlock the gates of light within themselves, ultimately attaining spiritual illumination and an intimate connection with the divine.

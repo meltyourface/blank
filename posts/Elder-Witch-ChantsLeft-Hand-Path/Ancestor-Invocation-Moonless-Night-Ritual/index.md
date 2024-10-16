@@ -27,7 +27,7 @@ Before commencing this invocation, prepare your sanctuary by enshrouding it in c
 
 Surrounding the circle, place five obsidian stones at each point of the pentagram, serving as a vessel for the spirits. Upon each of these stones, inscribe symbols representing the primary elements: earth, air, fire, water, and spirit.
 
-Ensure to collect the following relics during a moonless night: a lock of hair entwined with the root of the hallowed dead, the sharpened talon of a raven, and the fang of a serpent.
+**Ensure to collect the following relics during a moonless night**: a lock of hair entwined with the root of the hallowed dead, the sharpened talon of a raven, and the fang of a serpent.
 
 ### II. The Incantation
 Begin the invocation at the stroke of midnight.

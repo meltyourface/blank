@@ -25,7 +25,7 @@ excerpt: >
 
 **Objective**: To facilitate a profound connection with one's intuition through a comprehensive opening and closing ritual for a geomantic divination session.
 
-Sacred Geometry: The Seed of Life (a pattern made of seven evenly spaced circles, representing the seven days of creation)
+**Sacred Geometry**: The Seed of Life (a pattern made of seven evenly spaced circles, representing the seven days of creation)
 Elemental Forces: Earth, Air, Fire, and Water
 Geomantic Symbols: The 16 traditional geomantic symbols (Puer, Amissio, Albus, Populus, Fortuna Major, Fortuna Minor, Caput Draconis, Cauda Draconis, Via, Conjunctio, Acquisitio, Laetitia, Rubeus, Tristitia, Carcer, and Puella).
 

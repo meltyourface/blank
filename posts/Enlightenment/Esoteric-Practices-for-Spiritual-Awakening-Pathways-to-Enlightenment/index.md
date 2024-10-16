@@ -37,17 +37,17 @@ Methods to attain spiritual Enlightenment
 
 There are a variety of methods employed in the pursuit of spiritual Enlightenment within the esoteric and occult traditions. **Some key practices include**:
 
-1. ****Meditation****: Meditation, particularly mindfulness and concentrative techniques, enables the practitioner to bring stillness to their mind and become more aware of their thoughts, emotions, and energy. It is a foundation for various other techniques and practices in the esoteric world.
+1. **Meditation**: Meditation, particularly mindfulness and concentrative techniques, enables the practitioner to bring stillness to their mind and become more aware of their thoughts, emotions, and energy. It is a foundation for various other techniques and practices in the esoteric world.
 
-2. ****Contemplation****: Deliberate reflection on spiritual concepts, symbols, and sacred texts allows the practitioner to gain deeper insight and understanding of the esoteric teachings and their own spiritual journey.
+2. **Contemplation**: Deliberate reflection on spiritual concepts, symbols, and sacred texts allows the practitioner to gain deeper insight and understanding of the esoteric teachings and their own spiritual journey.
 
-3. ****Rituals and Ceremonies****: Occult and esoteric practitioners often engage in ritualistic activities to invoke, evoke, or establish a connection with spiritual energies or entities. These rituals and ceremonies serve to create a sacred space for the practitioner to work with energy and consciousness.
+3. **Rituals and Ceremonies**: Occult and esoteric practitioners often engage in ritualistic activities to invoke, evoke, or establish a connection with spiritual energies or entities. These rituals and ceremonies serve to create a sacred space for the practitioner to work with energy and consciousness.
 
-4. ****Astral Projection or OBEs (Out-of-Body Experiences)****: Some esoteric practitioners explore astral travel as a means to expand their consciousness and gain insights from the astral plane, which is believed to be a realm of existence distinct from the physical world.
+4. **Astral Projection or OBEs (Out-of-Body Experiences)**: Some esoteric practitioners explore astral travel as a means to expand their consciousness and gain insights from the astral plane, which is believed to be a realm of existence distinct from the physical world.
 
-5. ****Energy Work****: Esoteric practices often involve various energy-related techniques, such as qigong, pranic healing, and reiki, which aim to balance and clear the practitioner's energetic system and strengthen their connection to Higher Self.
+5. **Energy Work**: Esoteric practices often involve various energy-related techniques, such as qigong, pranic healing, and reiki, which aim to balance and clear the practitioner's energetic system and strengthen their connection to Higher Self.
 
-6. ****Study of Esoteric Texts and Traditions****: The study of sacred texts and esoteric wisdom imparts knowledge and understanding, equipping the practitioner with the tools required to unlock higher states of consciousness.
+6. **Study of Esoteric Texts and Traditions**: The study of sacred texts and esoteric wisdom imparts knowledge and understanding, equipping the practitioner with the tools required to unlock higher states of consciousness.
 
 Importance of practices and mindset
 

@@ -73,7 +73,7 @@ excerpt: >
 
 Each guided meditation is designed to incorporate elemental associations, color symbolism, and planetary correspondences to create heightened spiritual connectivity. **To enhance your meditation experience, follow the provided guidelines**:
 
-Root Chakra: Earth element, Saturn, grounding meditation
+**Root Chakra**: Earth element, Saturn, grounding meditation
 Sacral Chakra: Water element, Venus, creativity meditation
 Solar Plexus Chakra: Fire element, Sun, empowerment meditation
 Heart Chakra: Air element, Mercury, love and compassion meditation

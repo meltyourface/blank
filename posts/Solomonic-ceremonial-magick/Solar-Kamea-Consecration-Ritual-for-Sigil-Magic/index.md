@@ -36,9 +36,9 @@ Materials required for the ritual:
 
 **Calculations**:
 
-1. ****Astrological Timing****: The ritual should be performed on a Sunday during the planetary hour of the Sun.
-2. ****Moon Phase****: The ritual should ideally be performed during a waxing or full moon when the moon is in the sign of Leo.
-3. ****Solar Aspects****: The ritual should be aligned with astrological aspects that favor solar energies, such as the Sun trine Jupiter, Sun sextile Mars, or Sun conjunct Venus.
+1. **Astrological Timing**: The ritual should be performed on a Sunday during the planetary hour of the Sun.
+2. **Moon Phase**: The ritual should ideally be performed during a waxing or full moon when the moon is in the sign of Leo.
+3. **Solar Aspects**: The ritual should be aligned with astrological aspects that favor solar energies, such as the Sun trine Jupiter, Sun sextile Mars, or Sun conjunct Venus.
 
 Consecration process:
 

@@ -40,7 +40,7 @@ Optimal Harvesting:
 
 1. Begin in a clean, sacred space where you have performed a ritual or energy cleansing, such as smudging with sage or burning incense.
 
-2. ****Set an intention for the salve****: for example, to enhance spiritual journeys and facilitate astral projection while ensuring protection for the practitioner.
+2. **Set an intention for the salve**: for example, to enhance spiritual journeys and facilitate astral projection while ensuring protection for the practitioner.
 
 3. Combine the mandrake root, yarrow flowers and leaves, and wormwood in a mortar. Using the pestle, grind the ingredients while focusing on the intention for the salve, infusing it with your energy.
 

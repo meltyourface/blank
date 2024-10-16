@@ -25,24 +25,24 @@ Dragon Azhdeha, a powerful and enigmatic figure, has captivated the imagination 
 
 In Zoroastrianism, Dragon Azhdeha - also known as Aži Dahāka or Azhi Dahaka - is a fearsome and destructive dragon-like entity. It is closely associated with Angra Mainyu (Ahriman), the embodiment of chaos and evil, who, according to myth, created this dragon to oppose Ahura Mazda, the benevolent embodiment of wisdom and light. Aži Dahāka personifies many aspects of chaos and destruction, such as drought, deceit, and corruption. It is said to be a three-headed dragon with the ability to heal itself as its serpentine body regenerates when wounded.
 
-Core similarities: Dragon form, destructive nature, association with chaos, supernatural abilities.
+**Core similarities**: Dragon form, destructive nature, association with chaos, supernatural abilities.
 
-Distinctive aspects: Specificity of the myth in Zoroastrianism, the connection to Ahriman, the personification of deceit.
+**Distinctive aspects**: Specificity of the myth in Zoroastrianism, the connection to Ahriman, the personification of deceit.
 
 2. Chinese Mythology
 
 In Chinese mythology, Dragon Azhdeha - also recognized as Long or Loong - is a more ambivalent and largely benevolent figure. Here, the dragon is seen as a bringer of rain, symbolizing both fertility and imperial authority. The Chinese dragon is depicted with a snake-like body, deer horns, a lion's mane, and the scales of a carp. Regarded as guardians against evil and protectors of the vulnerable, these dragons are sometimes associated with specific rivers, seas, or celestial realms. They are also deeply connected to the concept of Qi, the vital energy that forms every animate and inanimate thing.
 
-Core similarities: Dragon form, supernatural powers, guardianship.
+**Core similarities**: Dragon form, supernatural powers, guardianship.
 
-Distinctive aspects: Positive connotation, connection to fertile water, the representation of imperial authority, and the close association with vital energy or Qi.
+**Distinctive aspects**: Positive connotation, connection to fertile water, the representation of imperial authority, and the close association with vital energy or Qi.
 
 3. Western Occultism
 
 In Western occultism, Dragon Azhdeha adopts another layer of symbolic meaning. Conveyed as a chthonic or underworld creature representing the unconscious, primal instincts, and hidden wisdom, its sinister nature is more accentuated than in Chinese mythology. The dragon has been used in various occult rituals and practices, often representing the notion of transformation, the unity of opposites, and gnosis. The Serpent of Draco constellation and the Ouroboros, a symbol of eternal recurrence and cyclicality, are linked to the image of the dragon in Western occultism.
 
-Core similarities: Dragon form, connection to hidden knowledge, association with the underworld.
+**Core similarities**: Dragon form, connection to hidden knowledge, association with the underworld.
 
-Distinctive aspects: Chthonic representation, association with transformation and dualism, connection to celestial phenomena.
+**Distinctive aspects**: Chthonic representation, association with transformation and dualism, connection to celestial phenomena.
 
 Contemplating the reasons for these diverse interpretations of Dragon Azhdeha, several factors come to light. Cultural differences, historical events, and unique metaphysical frameworks have all contributed to the molding of the dragon's multifaceted persona. The duality of chaos and creation, the embodiment of natural forces, and the pursuit of esoteric knowledge are underlying themes in each of these traditions, showcasing the versatility and profound symbolism of Dragon Azhdeha within the spiritual and occult spheres.

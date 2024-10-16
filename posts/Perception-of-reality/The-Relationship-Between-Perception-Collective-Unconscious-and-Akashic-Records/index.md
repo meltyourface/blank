@@ -21,9 +21,9 @@ excerpt: >
 ---
   To begin answering this knowledge challenge, let us first define the key concepts involved:
   
-  1. ****Perception of reality****: The way an individual interprets and experiences the world around them, colored by their beliefs, experiences, and thoughts.
-  2. ****Collective unconscious****: A term coined by psychologist Carl Jung, referring to the psychic reservoir of shared human experiences, instincts, and memories that is present in every individual.
-  3. ****Akashic Records****: An esoteric concept in theosophy and modern mysticism that posits a collection of all human events, thoughts, emotions, and experiences, described as being encoded in a non-physical plane of existence.
+  1. **Perception of reality**: The way an individual interprets and experiences the world around them, colored by their beliefs, experiences, and thoughts.
+  2. **Collective unconscious**: A term coined by psychologist Carl Jung, referring to the psychic reservoir of shared human experiences, instincts, and memories that is present in every individual.
+  3. **Akashic Records**: An esoteric concept in theosophy and modern mysticism that posits a collection of all human events, thoughts, emotions, and experiences, described as being encoded in a non-physical plane of existence.
   
   The relationship between these concepts can be explored in several ways.
   

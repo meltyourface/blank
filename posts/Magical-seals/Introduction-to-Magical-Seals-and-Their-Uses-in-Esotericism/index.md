@@ -33,25 +33,25 @@ In the context of a grimoire, magical seals are included as an essential tool fo
 
 ### Chapter 3: Categories of Magical Seals and Prominent Systems
 
-Magical seals can generally be classified into several categories: seals of power, seals of protection, and seals of invocation. Seals of power are used to control, dominate, or influence specific forces, while seals of protection function as protective shields against negative energies and malevolent entities. Seals of invocation are employed to summon or communicate with higher beings, such as angels, spirits, or deities.
+**Magical seals can generally be classified into several categories**: seals of power, seals of protection, and seals of invocation. Seals of power are used to control, dominate, or influence specific forces, while seals of protection function as protective shields against negative energies and malevolent entities. Seals of invocation are employed to summon or communicate with higher beings, such as angels, spirits, or deities.
 
 Prominent systems in which magical seals are employed include:
 
-1. ****Solomonic Magic****: Inspired by the biblical King Solomon, this system employs seals such as the famous Key of Solomon, intended to invoke or summon a variety of entities.
-2. ****Kabbalistic Magic****: Drawing on Jewish mysticism, this system utilizes Hebrew letters and sacred names to create powerful magical seals.
-3. ****Enochian Magic****: Developed by Elizabethan occultist John Dee and his scryer, Edward Kelley, Enochian magic utilizes an angelic language to call forth celestial beings and energies.
+1. **Solomonic Magic**: Inspired by the biblical King Solomon, this system employs seals such as the famous Key of Solomon, intended to invoke or summon a variety of entities.
+2. **Kabbalistic Magic**: Drawing on Jewish mysticism, this system utilizes Hebrew letters and sacred names to create powerful magical seals.
+3. **Enochian Magic**: Developed by Elizabethan occultist John Dee and his scryer, Edward Kelley, Enochian magic utilizes an angelic language to call forth celestial beings and energies.
 
 ### Chapter 4: Significant Figures and Texts
 
 Important figures who have contributed to the development and understanding of magical seals include:
 
-1. ****Heinrich Cornelius Agrippa****: A German occultist whose influential works, such as "Three Books of Occult Philosophy," contain extensive information on various types of seals and sigils.
-2. ****Alphonse Louis Constant****: Better known as Eliphas Levi, this French occultist provided foundational knowledge and understanding of seals and their application, particularly in his seminal work "The Doctrine and Ritual of High Magic."
+1. **Heinrich Cornelius Agrippa**: A German occultist whose influential works, such as "Three Books of Occult Philosophy," contain extensive information on various types of seals and sigils.
+2. **Alphonse Louis Constant**: Better known as Eliphas Levi, this French occultist provided foundational knowledge and understanding of seals and their application, particularly in his seminal work "The Doctrine and Ritual of High Magic."
 
 Essential texts on magical seals include:
 
-1. ****"The Greater Key of Solomon"****: A foundational text for Solomonic magic containing numerous seals required for summoning entities and invoking powers.
-2. ****"The Lesser Key of Solomon," also known as "The Goetia"****: A compendium of 72 seals used to call forth and command demons.
+1. **"The Greater Key of Solomon"**: A foundational text for Solomonic magic containing numerous seals required for summoning entities and invoking powers.
+2. **"The Lesser Key of Solomon," also known as "The Goetia"**: A compendium of 72 seals used to call forth and command demons.
 
 ### Chapter 5: Guidance for Initiates
 

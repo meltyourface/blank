@@ -24,9 +24,9 @@ excerpt: Design a comprehensive educational program that delves into the intrica
 
 **Objective**: To provide adolescents and young adults with a thorough understanding of Theosophical principles, history, and teachings, fostering critical thinking and spiritual development.
 
-Target Audience: Adolescents and young adults aged 15-25
+**Target Audience**: Adolescents and young adults aged 15-25
 
-Program Duration: 12 months
+**Program Duration**: 12 months
 
 Course Structure:
 

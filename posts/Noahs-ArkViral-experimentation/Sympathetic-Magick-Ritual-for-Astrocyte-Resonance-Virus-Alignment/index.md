@@ -24,7 +24,7 @@ excerpt: Design an intricate Noah's ArkViral experimentation-based sympathetic m
 
 **Task**: To design a Noah's ArkViral experimentation-based sympathetic magick ritual that incorporates various aspects such as elemental alignments, astrological symbols and archetypal personas to resonate with a chosen viral strain, while ensuring bio-safety during the process.
 
-Viral Strain: The Astrocyte Resonance Virus (ARV)
+**Viral Strain**: The Astrocyte Resonance Virus (ARV)
 
 **Purpose**: Reinforcing mental strength, clarity, and spiritual alignment in the practitioner through the sympathetic resonances with the ARV.
 

@@ -24,42 +24,42 @@ Below, you will find an extensive list of bespoke mantras tailored to address sp
 
 1. Achieving Vibrational Stage
 
-Mantra: Aum Bhūr Bhuvaḥ Svaḥ
+**Mantra**: Aum Bhūr Bhuvaḥ Svaḥ
 Pronunciation: AUM - bhoor - bhu-vah - svah
 
 This mantra is intended to invoke the primordial cosmic energy, which aids in raising one's energetic vibrations and entraining the mind with higher vibrational frequencies. Repeat this mantra several times before and during your astral projection attempts to achieve the vibrational stage.
 
 2. Separating from the Physical Body
 
-Mantra: Aum Hrīm Shīm Shivāya Namah
+**Mantra**: Aum Hrīm Shīm Shivāya Namah
 Pronunciation: AUM - hreem - sheem - shiv-AH-yah - nah-mah
 
 This mantra is meant to invoke the energy of transformation and detachment, which assists in separating your astral body from your physical body. Repeat this mantra while visualizing your astral body detaching from your physical form and rising gently above it.
 
 3. Maintaining Focus and Awareness
 
-Mantra: Aum Ānanda Siddhāya Namah
+**Mantra**: Aum Ānanda Siddhāya Namah
 Pronunciation: AUM - anan-da - sid-dhah-ya - nah-mah
 
 This mantra helps create inner stability, tranquility, and heightened awareness during astral projection. By focusing on pure bliss, you will maintain awareness and mindfulness throughout your journey.
 
 4. Navigating the Astral Plane
 
-Mantra: Aum Prayāna Saṁbhāra Vimuktiya Namah 
+**Mantra**: Aum Prayāna Saṁbhāra Vimuktiya Namah 
 Pronunciation: AUM - pry-AA-na - sam-bhah-ra - vee-mook-tee-ya - nah-mah
 
 This mantra assists in the mastery of astral navigation, providing guidance and clarity as you explore the astral plane. Continuously repeat this mantra while traversing the astral space to remain centered and attuned to your chosen destination.
 
 5. Protection from Negative Entities
 
-Mantra: Aum Kālāgrīva Rakṣāya Namah
+**Mantra**: Aum Kālāgrīva Rakṣāya Namah
 Pronunciation: AUM - kal-ah-gree-va - ruk-sha-ya - nah-mah
 
 This powerful mantra provides protection from negative entities and energies by invoking the energy of Kālāgrīva, a guardian deity. Recite this mantra when sensing any negative presence and visualize an impenetrable shield of energetic light surrounding you.
 
 6. Ensuring a Smooth Return to the Physical Realm
 
-Mantra: Aum Pūrṇānanda Svarūpaṁ Shivoham
+**Mantra**: Aum Pūrṇānanda Svarūpaṁ Shivoham
 Pronunciation: AUM - poorn-ananda - svar -ROO-pam - shiv-O-HUM
 
 This mantra encapsulates the essence of completeness and perfect harmony, which guides you back to the physical realm. As you prepare to return from your astral journey, recite this mantra and visualize your astral body descending gently back into your physical form.

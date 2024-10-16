@@ -25,17 +25,17 @@ Introduction
 
 Hecate, the ancient goddess of witchcraft, sorcery, crossroads, and the moon, has long captivated occult practitioners and devotees. This enigmatic chthonic deity embodies transformation, guidance, and wisdom, traversing the realms of earth, sea, and sky. As a torchbearer for those crossing significant thresholds in life, Hecate's worshippers learn to appreciate her multifaceted nature while invoking her aid when navigating change and uncertainty.
 
-Understanding Hecate: Key Attributes
+**Understanding Hecate**: Key Attributes
 
 Hecate's divine essence is imbued with many diverse attributes, primarily stemming from her overarching roles in witchcraft, sorcery, the crossroads, and the moon. Traditionally depicted as a maiden with three faces representing her varied aspects, Hecate is capable of traversing and presiding over multiple planes, including the earthly realm, the underworld, and the heavens.
 
-Witchcraft and Sorcery: Hecate's deep connection to the spiritual and metaphysical realms makes her a potent symbol for those who seek to unleash intuitive and psychic abilities while delving into the mysteries of life.
+**Witchcraft and Sorcery**: Hecate's deep connection to the spiritual and metaphysical realms makes her a potent symbol for those who seek to unleash intuitive and psychic abilities while delving into the mysteries of life.
 
 **Crossroads**: As a guide at the crossroads of life, Hecate assists her followers in making prudent choices while illuminating their paths with her torches. She governs the realms of transitions, empowering her devotees to navigate the intricacies of their lives with wisdom.
 
-The Moon: As a lunar goddess, Hecate unveils the feminine and intuitive aspects of existence. Her connection to the waxing, full, and waning moon underscores her influence over the cyclical nature of life, as well as the ebb and flow of personal and spiritual growth.
+**The Moon**: As a lunar goddess, Hecate unveils the feminine and intuitive aspects of existence. Her connection to the waxing, full, and waning moon underscores her influence over the cyclical nature of life, as well as the ebb and flow of personal and spiritual growth.
 
-Honoring Hecate: Rituals and Rites
+**Honoring Hecate**: Rituals and Rites
 
 To honor Hecate, practitioners should engage in rituals and rites that embody the essence of the goddess while respecting her multifaceted nature. By honoring Hecate, one strengthens their bond with the goddess and forges a profound connection with her divine attributes.
 

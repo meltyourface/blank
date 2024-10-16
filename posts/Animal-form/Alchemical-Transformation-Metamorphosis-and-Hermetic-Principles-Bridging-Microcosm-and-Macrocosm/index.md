@@ -29,13 +29,13 @@ Metamorphosis, in the context of the discipline of animal form, refers to the pr
 
 The Seven Hermetic Principles, derived from the ancient Hermetic philosophy, consist of foundational tenets that are regarded as the basis of all universal laws. **The principles are**:
 
-1. ****The Principle of Mentalism****: All is Mind; the Universe is mental.
-2. ****The Principle of Correspondence****: As above, so below; as below, so above.
-3. ****The Principle of Vibration****: Nothing rests; everything is in a constant state of motion and vibration.
-4. ****The Principle of Polarity****: Opposites are aspects of the same continuum; everything has its pair of opposites.
-5. ****The Principle of Rhythm****: The pendulum swing of the universe manifests in everything; there is a rhythm to all phenomena.
-6. ****The Principle of Cause and Effect****: Every cause has an effect, and every effect a cause; nothing happens by chance.
-7. ****The Principle of Gender****: Masculine and feminine principles exist in everything; every entity and aspect of life contains both.
+1. **The Principle of Mentalism**: All is Mind; the Universe is mental.
+2. **The Principle of Correspondence**: As above, so below; as below, so above.
+3. **The Principle of Vibration**: Nothing rests; everything is in a constant state of motion and vibration.
+4. **The Principle of Polarity**: Opposites are aspects of the same continuum; everything has its pair of opposites.
+5. **The Principle of Rhythm**: The pendulum swing of the universe manifests in everything; there is a rhythm to all phenomena.
+6. **The Principle of Cause and Effect**: Every cause has an effect, and every effect a cause; nothing happens by chance.
+7. **The Principle of Gender**: Masculine and feminine principles exist in everything; every entity and aspect of life contains both.
 
 Now that we have a fundamental understanding of these core concepts, we can draw parallels between them. The alchemical process of transformation symbolizes the journey towards spiritual enlightenment, resonating with the metamorphosis experienced by the initiate as they attain mastery in animal form. Both processes consist of distinct yet interrelated stages, communicating the idea that progress and transformation require a balance of dissolution and growth.
 

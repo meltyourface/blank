@@ -32,7 +32,7 @@ Throughout history, the concept of using plants for necromantic purposes has bee
 
 Principles of Diabolical Plants Necromancy
 
-Diabolical Plants Necromancy operates on the fusion of two primary principles: the innate energy contained within the natural world, particularly plants, and the ability to channel, direct, and manipulate this energy to commune with the deceased or summon otherworldly beings. The secrets of this practice lie in the understanding of the mystical properties of specific plants, their interactions with each other, and the complex rituals and incantations required to harness their power.
+**Diabolical Plants Necromancy operates on the fusion of two primary principles**: the innate energy contained within the natural world, particularly plants, and the ability to channel, direct, and manipulate this energy to commune with the deceased or summon otherworldly beings. The secrets of this practice lie in the understanding of the mystical properties of specific plants, their interactions with each other, and the complex rituals and incantations required to harness their power.
 
 The energy derived from these plants is known as Vitae, a life force that pulses through every living being. When properly harvested, processed, and utilized, Vitae offers the Diabolical Plants Necromancer the ability to access dimensions beyond the physical realm, interact with disembodied spirits, and exert control over the forces of life and death.
 

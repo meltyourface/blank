@@ -34,7 +34,7 @@ excerpt: >
 
 2. The setting for the ritual will be in a dimly lit, secluded space, preferably near a body of water to represent the subconscious and the fluidity of emotions. Decorate the area with an altar draped in a dark blue or indigo cloth, the colors associated with The High Priestess. Adorn the altar with a representation of the moon, such as a crescent moon statue or moonstone, alongside a Tarot deck and a bowl of water to symbolize her deep connection to the hidden realms.
 
-3. ****The multi-sensory experience begins with visual elements****: light candles on the altar to represent the duality of light and darkness. ****Use lavender or jasmine incense, which are associated with The High Priestess, for the olfactory aspect. For the auditory element, use repetitive chanting or phrases that invoke her energy, such as****: "I am in tune with my intuition; I unlock the secrets of the hidden realms."
+3. **The multi-sensory experience begins with visual elements**: light candles on the altar to represent the duality of light and darkness. **Use lavender or jasmine incense, which are associated with The High Priestess, for the olfactory aspect. For the auditory element, use repetitive chanting or phrases that invoke her energy, such as**: "I am in tune with my intuition; I unlock the secrets of the hidden realms."
 
 4. **The sequence of actions is as follows**:
 
@@ -42,7 +42,7 @@ excerpt: >
 
    b. Light the incense and allow the smoke to permeate the area. Visualize the smoke revealing the mysteries of your subconscious.
 
-   c. ****Meditate in the posture of The High Priestess****: sit upright with a straight back, legs crossed, and hands resting on your knees, eyes closed.
+   c. **Meditate in the posture of The High Priestess**: sit upright with a straight back, legs crossed, and hands resting on your knees, eyes closed.
 
    d. Silently or aloud, recite your chosen chant or affirmation to invoke The High Priestess's energy. Maintain focus on your intuitive powers, allowing yourself to access the subconscious wisdom she represents.
 

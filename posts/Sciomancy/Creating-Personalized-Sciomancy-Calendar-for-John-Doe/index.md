@@ -21,7 +21,7 @@ excerpt: Design a personalized Sciomancy calendar, specifically incorporating th
 ---
 To create a personalized Sciomancy calendar, I would first take into account the birth chart of the practitioner:
 
-Name: John Doe
+**Name**: John Doe
 Date of Birth: January 1, 1990
 Time of birth: 3:00 PM
 Place of Birth: New York, NY, USA

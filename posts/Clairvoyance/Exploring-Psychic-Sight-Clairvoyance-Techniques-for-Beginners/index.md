@@ -23,7 +23,7 @@ excerpt: >
 
 ## Title: Exploring Clairvoyance: A Comprehensive Guide to Psychic Sight
 
-Lesson One: Introduction to Clairvoyance
+**Lesson One**: Introduction to Clairvoyance
 
 Clairvoyance, a term derived from the French words clair (clear) and voyance (vision), refers to the psychic ability to perceive information or events beyond the ordinary senses. The practitioner of clairvoyance, often known as a clairvoyant, is believed to be able to access hidden knowledge, predict future events, or offer spiritual guidance by seeing into the unseen realms of existence. This extraordinary ability has its roots nestled deep within the annals of human history, across diverse religious, spiritual, and cultural traditions.
 

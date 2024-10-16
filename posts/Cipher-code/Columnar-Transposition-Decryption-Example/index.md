@@ -38,26 +38,26 @@ excerpt: Decrypt a Cipher code-encrypted message utilizing advanced columnar tra
       MP - RA
       IY - (empty space)
 
-      Possible plaintext: "AOTNHETDEESCTMPRAIY"
+**      Possible plaintext**: "AOTNHETDEESCTMPRAIY"
 
    3.2 Using a column length of 4:
       AOTN - HETD
       ESCT - MPRA
       IY   - (empty space)
 
-      Possible plaintext: "AOTNHETDESCTMPRAIY"
+**      Possible plaintext**: "AOTNHETDESCTMPRAIY"
 
    3.3 Using a column length of 5:
       AOTNH - ETDES
       SCTMP - RAIY(empty space)
 
-      Possible plaintext: "AOTNHETDESSCTMPRAIY"
+**      Possible plaintext**: "AOTNHETDESSCTMPRAIY"
 
    3.4 Using a column length of 10:
       AOTNHE - TDESCT
       MPRAIY - (empty space)
 
-      Possible plaintext: "AOTNHE-TDESCTMPRAIY"
+**      Possible plaintext**: "AOTNHE-TDESCTMPRAIY"
 
 4. Evaluate column order possibilities:
 
@@ -65,7 +65,7 @@ excerpt: Decrypt a Cipher code-encrypted message utilizing advanced columnar tra
 
    "AOTNHETDESSCTMPRAIY"
 
-   Possible coherent message: "ANTHROPODESICESTY"
+**   Possible coherent message**: "ANTHROPODESICESTY"
 
 5. Decrypt by reverse-engineering & columnar transposition techniques:
 

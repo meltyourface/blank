@@ -39,11 +39,11 @@ These symbols and energies serve not only as cautionary tales but also emphasize
 
 Practical Applications and Rituals
 
-1. ****Mortality Meditation****: One fundamental ritual associated with the Grim Reminder is mortality meditation. By contemplating one's eventual demise, practitioners can develop a greater appreciation for the present moment and encourage a deeper understanding of the transient nature of life itself. This form of meditation requires the practitioner to visualize their body's decay and subsequent return to the earth, allowing the soul to continue its journey.
+1. **Mortality Meditation**: One fundamental ritual associated with the Grim Reminder is mortality meditation. By contemplating one's eventual demise, practitioners can develop a greater appreciation for the present moment and encourage a deeper understanding of the transient nature of life itself. This form of meditation requires the practitioner to visualize their body's decay and subsequent return to the earth, allowing the soul to continue its journey.
 
-2. ****The Scythe Ritual****: In symbolic homage to the figure of the Grim Reaper, this ritual entails constructing a scythe with sacred materials and using it as a tool to cleanse oneself or a space of negative energies. The scythe must be ritually consecrated, imbued with the intent to release attachments to the material world and tap into higher levels of consciousness.
+2. **The Scythe Ritual**: In symbolic homage to the figure of the Grim Reaper, this ritual entails constructing a scythe with sacred materials and using it as a tool to cleanse oneself or a space of negative energies. The scythe must be ritually consecrated, imbued with the intent to release attachments to the material world and tap into higher levels of consciousness.
 
-3. ****Ancestral Connection and Communion****: Developing a connection with one's ancestors is essential to understanding the full scope of the Grim Reminder. Setting up an altar for veneration, offering food, and lighting candles in memory of those who have passed on can foster spiritual connections that span generations, opening channels of communication and wisdom that transcends the limitations of time and space.
+3. **Ancestral Connection and Communion**: Developing a connection with one's ancestors is essential to understanding the full scope of the Grim Reminder. Setting up an altar for veneration, offering food, and lighting candles in memory of those who have passed on can foster spiritual connections that span generations, opening channels of communication and wisdom that transcends the limitations of time and space.
 
 The Elements, Life, and Death
 

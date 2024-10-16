@@ -54,7 +54,7 @@ Step-by-Step Guide:
 
 1. Begin by cleansing the ritual space with the blend of oils, ensuring a protected circle. Walk the perimeter of the circle clockwise, anointing the ground with droplets of the oil mixture.
 
-2. ****Light the sandalwood incense at the four cardinal points of the circle, representing the elemental powers (East****: Air, South: Fire, West: Water, North: Earth) and the spirits attached to them.
+2. **Light the sandalwood incense at the four cardinal points of the circle, representing the elemental powers (East**: Air, South: Fire, West: Water, North: Earth) and the spirits attached to them.
 
 3. Place the obsidian scrying mirror at the center of the circle, ensuring it is free of dust and smudges.
 
@@ -68,7 +68,7 @@ Step-by-Step Guide:
 
 8. Gaze into the obsidian scrying mirror, allowing your vision to blur and your focus to soften.
 
-9. ****Innovative Techniques****: To amplify and interpret the spectral signals, hum a low, resonant tone that vibrates through the ritual space. Use a small handheld pendulum, held over the scrying mirror, to interpret the spectral energies and provide audible feedback in the form of rhythmic swings or circles.
+9. **Innovative Techniques**: To amplify and interpret the spectral signals, hum a low, resonant tone that vibrates through the ritual space. Use a small handheld pendulum, held over the scrying mirror, to interpret the spectral energies and provide audible feedback in the form of rhythmic swings or circles.
 
 10. Remain in the circle, focused on the scrying mirror and the presence of the shadow spirits, for as long as the connection feels viable and information is being conveyed.
 

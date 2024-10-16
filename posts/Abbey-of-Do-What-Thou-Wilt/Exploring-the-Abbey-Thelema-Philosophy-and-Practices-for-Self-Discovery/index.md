@@ -31,7 +31,7 @@ The roots of the Abbey can be traced back to the early 20th century, when a new 
 
 At the heart of the Abbey lies the concept of the True Will. It is the driving force of every individual, the essence of their life's purpose, and the guiding beacon for their spiritual journey. Through the discovery and realization of one's True Will, a practitioner paves their own unique path towards spiritual enlightenment and unity with the divine. The Law of Thelema reinforces this pursuit with the maxim "Do what thou wilt shall be the whole of the Law," encouraging adherents to embrace their True Will wholly and embrace self-realization.
 
-Core Tenets: Love, Knowledge, and Inner Balance
+**Core Tenets**: Love, Knowledge, and Inner Balance
 
 The Abbey of Do What Thou Wilt places a strong emphasis on the cultivation of three interrelated aspects of the spiritual aspirant's life: love, knowledge, and inner balance. Love is the cornerstone of spiritual progress, as it fosters understanding, compassion, and deep connections with the self, others, and the universe. Knowledge enables the practitioner to peel back the layers of illusion and uncover the hidden truths of existence. And finally, the pursuit of inner balance harmonizes the various aspects of one's being, creating a fertile ground for the full expression of the True Will.
 

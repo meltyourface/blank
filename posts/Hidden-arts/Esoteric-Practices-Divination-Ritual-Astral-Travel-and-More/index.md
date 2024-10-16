@@ -30,7 +30,7 @@ The Hidden Arts encompass an extensive range of esoteric practices, ranging from
 
 A. The Three Pillars
 
-Understanding the Hidden Arts requires a solid foundation built upon three fundamental pillars: Knowledge, Practice, and Introspection. 
+**Understanding the Hidden Arts requires a solid foundation built upon three fundamental pillars**: Knowledge, Practice, and Introspection. 
 
 1. Knowledge: Accumulating knowledge in various domains, such as ancient wisdom, mythology, symbolism, and metaphysics, is essential in developing one's understanding of the esoteric realm and its connection to the physical and spiritual planes of existence.
     

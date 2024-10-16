@@ -32,7 +32,7 @@ Cardinal Direction / Elements:
 
 In order to evoke new insight while maintaining balance during a ritual on the Crooked Path, one must follow a transformative sequence that draws upon the energies of each cardinal direction and element. This can be achieved by working through each direction and its corresponding element in a specific order, allowing the practitioner to tap into the unique qualities and energies associated with each pairing.
 
-Transformative Sequence: East (Air) -> South (Fire) -> West (Water) -> North (Earth)
+**Transformative Sequence**: East (Air) -> South (Fire) -> West (Water) -> North (Earth)
 
 1. Begin in the East (Air): As the starting point, acknowledge and tap into the part of consciousness that seeks intellectual understanding and abstract thinking. Use this energy to set a clear intention for the ritual, gathering clarity and focus.
 

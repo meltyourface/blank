@@ -67,6 +67,6 @@ Slide 10: Discussion Session
 - Prepare a list of thought-provoking questions for the audience, focusing on the impact and legacy of John French's work.
 - Encourage audience members to share their perspectives on French's contributions to iatrochemistry, medicine, and the broader scientific community.
 
-Closing Slide: Acknowledgments and References
+**Closing Slide**: Acknowledgments and References
 - List the sources of information, illustrations, and primary texts used in the presentation.
 - Include any acknowledgments for support and assistance in the completion of the presentation.

@@ -50,16 +50,16 @@ By scouring ancient tomes, dusty scrolls, and deciphering cryptic symbols on hid
 
 3. **Proposed rituals and conjurations for harnessing and amplifying the lake's energies**:
 
-Ritual A: Moonlit Channeling – Conducted during the full moon, this ritual involves casting a circle of protection and invoking spirits and deities to channel the lake's energies, imbuing participants with enhanced intuition and connection to their higher selves. Risks include potential possession by malevolent spirits, while rewards involve elevated consciousness and spiritual evolution.
+**Ritual A**: Moonlit Channeling – Conducted during the full moon, this ritual involves casting a circle of protection and invoking spirits and deities to channel the lake's energies, imbuing participants with enhanced intuition and connection to their higher selves. Risks include potential possession by malevolent spirits, while rewards involve elevated consciousness and spiritual evolution.
 
-Ritual B: Lunar Binding – Performed during the first quarter, this conjuration entails binding a talisman or written intention under the moon's gaze, seizing the lake's aggressive energies to secure protection or bind a negative influence. Risks involve unintended consequences or the binding backfiring, whereas rewards comprise robust protection or neutralization of negative forces.
+**Ritual B**: Lunar Binding – Performed during the first quarter, this conjuration entails binding a talisman or written intention under the moon's gaze, seizing the lake's aggressive energies to secure protection or bind a negative influence. Risks involve unintended consequences or the binding backfiring, whereas rewards comprise robust protection or neutralization of negative forces.
 
-Ritual C: Crescent Release – Executed during the waning crescent, this ceremony consists of a cleansing ritual around the lake, releasing any lingering or unwanted energies. Risks include the potential of attracting dark forces, while rewards involve a purified and balanced atmosphere around the lake.
+**Ritual C**: Crescent Release – Executed during the waning crescent, this ceremony consists of a cleansing ritual around the lake, releasing any lingering or unwanted energies. Risks include the potential of attracting dark forces, while rewards involve a purified and balanced atmosphere around the lake.
 
 4. **Hypothetical outcomes and scenarios for conducted ceremonies**:
 
-Scenario A: If Ritual A, Moonlit Channeling, is performed correctly and safely, a wave of spiritual awakening could sweep through the practitioners and the surrounding area. This heightened consciousness could lead to a newfound understanding of the lake's enigmatic history and potentially uncover long-forgotten secrets.
+**Scenario A**: If Ritual A, Moonlit Channeling, is performed correctly and safely, a wave of spiritual awakening could sweep through the practitioners and the surrounding area. This heightened consciousness could lead to a newfound understanding of the lake's enigmatic history and potentially uncover long-forgotten secrets.
 
-Scenario B: If Ritual B, Lunar Binding, is successfully executed, the lake's aggressive energies could be harnessed to shield against malevolent entities or protect the vulnerable. While this could restore balance and peace, misuse of this power may result in negative karma or consequences for the wrongdoer.
+**Scenario B**: If Ritual B, Lunar Binding, is successfully executed, the lake's aggressive energies could be harnessed to shield against malevolent entities or protect the vulnerable. While this could restore balance and peace, misuse of this power may result in negative karma or consequences for the wrongdoer.
 
-Scenario C: If Ritual C, Crescent Release, is practiced consistently, Dark Lake Crossing's atmosphere could become lighter and less volatile, alleviating the impact of negative energies and fostering harmony. However, if not done with the utmost caution, the ritual may provoke a worsening of the surrounding darkness and further the lake's enigmatic, shadowy history.
+**Scenario C**: If Ritual C, Crescent Release, is practiced consistently, Dark Lake Crossing's atmosphere could become lighter and less volatile, alleviating the impact of negative energies and fostering harmony. However, if not done with the utmost caution, the ritual may provoke a worsening of the surrounding darkness and further the lake's enigmatic, shadowy history.

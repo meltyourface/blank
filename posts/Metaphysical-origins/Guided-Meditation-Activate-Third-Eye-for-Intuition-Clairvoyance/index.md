@@ -42,7 +42,7 @@ Visualize a warm and glowing energy within your body, originating at the base of
 
 Focus your attention on your third eye chakra. Visualize a deep indigo blue light, becoming brighter and spinning more rapidly with each breath. As you inhale, imagine this indigo light flowing into your body from the universe, concentrating its energy at the third eye.
 
-Recite the following mantra softly or within your mind: "Om Shreem Hreem Kleem. I welcome the awakening of my third eye. I am ready to receive intuitive guidance and clairvoyant wisdom."
+**Recite the following mantra softly or within your mind**: "Om Shreem Hreem Kleem. I welcome the awakening of my third eye. I am ready to receive intuitive guidance and clairvoyant wisdom."
 
 Repeat this mantra three times.
 

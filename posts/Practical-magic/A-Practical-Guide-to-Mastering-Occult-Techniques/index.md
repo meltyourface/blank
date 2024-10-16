@@ -41,7 +41,7 @@ Visualization is the process of forming mental images or symbols that represent 
 
 ### Chapter 5: Tools and Their Usage in Practical Magic
 
-Various tools can aid in the practice of practical magic. ****Some commonly used items include athames, wands, chalices, and pentacles. Each has a distinct function****: an athame is typically used to direct energy, a wand channels energy, a chalice holds the element of water to symbolize emotion and receptivity, and pentacles represent the physical plane. Tools should be cleansed and consecrated before use to ensure their alignment with the practitioner's intention.
+Various tools can aid in the practice of practical magic. **Some commonly used items include athames, wands, chalices, and pentacles. Each has a distinct function**: an athame is typically used to direct energy, a wand channels energy, a chalice holds the element of water to symbolize emotion and receptivity, and pentacles represent the physical plane. Tools should be cleansed and consecrated before use to ensure their alignment with the practitioner's intention.
 
 ### Chapter 6: Performing Spells and Rituals
 

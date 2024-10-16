@@ -29,22 +29,22 @@ Hecate, a goddess in ancient Greek mythology associated with witchcraft, crossro
 
 **Initiation**: The initiation ritual of the Order of Hecate requires the aspirant to perform a ceremonial invocation, calling upon Hecate's presence. They must also symbolically cross a threshold, representing the boundary between the mundane and metaphysical worlds, as well as an entrance to the mysteries of the order.
 
-Ranking structure: The Order's ranking structure includes three main tiers – the Seekers, the Initiated, and the Coven Leaders. Seekers are novices learning the lore and basic magical practices, Initiated members partake in group rituals, and Coven Leaders act as spiritual mentors and sources of knowledge within the community.
+**Ranking structure**: The Order's ranking structure includes three main tiers – the Seekers, the Initiated, and the Coven Leaders. Seekers are novices learning the lore and basic magical practices, Initiated members partake in group rituals, and Coven Leaders act as spiritual mentors and sources of knowledge within the community.
 
 **Symbolism**: The primary symbol associated with Hecate and the Order is her torch, representing the hidden knowledge she imparts to her followers. Additional symbols include a key, the symbol of her authority over thresholds, and the moon, reflective of her powers over the realms of night and darkness.
 
-Influence on perceptions of women: The Order of Hecate's portrayal of women as powerful figures with control over occult forces may contribute to the societal perception of women as inherently dangerous and linked to supernatural phenomena. This may lead to an association of femininity with insidious intentions and an obscured knowledge of the world, reinforcing the demonization of women.
+**Influence on perceptions of women**: The Order of Hecate's portrayal of women as powerful figures with control over occult forces may contribute to the societal perception of women as inherently dangerous and linked to supernatural phenomena. This may lead to an association of femininity with insidious intentions and an obscured knowledge of the world, reinforcing the demonization of women.
 
 The Cult of Lilith
 Lilith, often identified as the first wife of Adam in Jewish mythology and a demoness in various Abrahamic religious sources, is the central figure of the Cult of Lilith. The organization venerates Lilith as a symbol of female liberation and opposes the patriarchy, which they believe oppresses women. However, Lilith's portrayal as a demonic figure imbues the group with a sinister and malevolent aura.
 
 **Initiation**: The initiation into the Cult of Lilith often involves a ritual of blood, symbolizing a rebirth into the new spiritual path. Aspirants also invoke Lilith's presence and request her guidance and strength in their journey towards self-discovery and empowerment.
 
-Ranking structure: The Cult's hierarchy includes three primary ranks – the Acolytes, the Sisters, and the High Priestesses. Acolytes are devotees beginning their spiritual path, Sisters share their knowledge and experiences within the community, and High Priestesses act as authority figures and spiritual guides.
+**Ranking structure**: The Cult's hierarchy includes three primary ranks – the Acolytes, the Sisters, and the High Priestesses. Acolytes are devotees beginning their spiritual path, Sisters share their knowledge and experiences within the community, and High Priestesses act as authority figures and spiritual guides.
 
 **Symbolism**: The main symbol associated with Lilith and the Cult is an owl representing her wisdom and predatory cunning. Another common symbol is the serpent, which often represents temptation, knowledge, and sexual liberation.
 
-Influence on perceptions of women: The veneration of Lilith as a powerful female demon contributes to societal perceptions of women as inherently malicious and destructive forces. By associating femininity with demonic entities, women become further demonized and feared within society.
+**Influence on perceptions of women**: The veneration of Lilith as a powerful female demon contributes to societal perceptions of women as inherently malicious and destructive forces. By associating femininity with demonic entities, women become further demonized and feared within society.
 
 Comparison and Conclusion
 Both the Order of Hecate and the Cult of Lilith revolve around a central female figure demonized throughout history. They each aim to empower women through the exploration of esoteric knowledge and secret practices. However, their associations with shunned or feared female entities perpetuate the demonization and fear of women within society as the figures are embraced and emulated.

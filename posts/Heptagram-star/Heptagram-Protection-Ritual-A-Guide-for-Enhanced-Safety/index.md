@@ -56,7 +56,7 @@ Heptagram Protection Ritual
 4. **Invocations, Chants, and Prayers**:
 
 - Call upon deities or entities associated with protection and guidance, such as Archangel Michael or Hecate, and invite them to assist and guide you during the ritual.
-- Recite chants or prayers that resonate with you and your intentions. ****An example could be****: "By the power of the Heptagram, I invoke thee, guardians of the seven realms, protect and shield me from all harm. So mote it be."
+- Recite chants or prayers that resonate with you and your intentions. **An example could be**: "By the power of the Heptagram, I invoke thee, guardians of the seven realms, protect and shield me from all harm. So mote it be."
 - Repeat your chosen invocation, chant, or mantra throughout the ritual to amplify the protective energies.
 
 5. **Steps to Be Followed**:

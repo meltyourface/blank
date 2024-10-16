@@ -29,7 +29,7 @@ Andrew Chumbley (1967-2004) was a prominent English practitioner of occultism, w
 
 ### Chapter 2: Formation of the Sabbatic Craft Tradition
 
-Chumbley developed the Sabbatic Craft tradition by integrating elements from a variety of sources: traditional British witchcraft, hermeticism, alchemy, grimoire magic, and ancient mythology. This led to the formation of a distinct practice that emphasized the unification of the practitioner with the divine, nature, and the cosmos. The tradition is marked by its focus on dream incubation, trance work, and the use of magical tools to aid in accessing other realms and entities. Key symbols within the tradition include the witch's stang, the horned serpent, and the esoteric crossroads.
+**Chumbley developed the Sabbatic Craft tradition by integrating elements from a variety of sources**: traditional British witchcraft, hermeticism, alchemy, grimoire magic, and ancient mythology. This led to the formation of a distinct practice that emphasized the unification of the practitioner with the divine, nature, and the cosmos. The tradition is marked by its focus on dream incubation, trance work, and the use of magical tools to aid in accessing other realms and entities. Key symbols within the tradition include the witch's stang, the horned serpent, and the esoteric crossroads.
 
 ### Chapter 3: Key Concepts in Andrew Chumbley's Occult Practices
 

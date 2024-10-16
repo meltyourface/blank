@@ -21,7 +21,7 @@ excerpt: Construct an elaborate ritual centered around the teachings of a specif
 ---
 Descended Master: Saint Germain (Master of Transformation and Transmutation)
 
-Primary Aim: Channeling and dispelling accumulated karmic forces
+**Primary Aim**: Channeling and dispelling accumulated karmic forces
 
 **Overview**:
 The Ritual of Transmutation and Karmic Release is an elaborate ritual centered around the teachings of Saint Germain, the Ascended Master of Transformation and Transmutation. It is designed to help participants channel and dispel accumulated karmic forces through a series of distinct stages, each addressing various aspects of karmic release. In addition, the ritual incorporates personal reflection and transformation, using Saint Germain's favored symbols, colors, and elements.

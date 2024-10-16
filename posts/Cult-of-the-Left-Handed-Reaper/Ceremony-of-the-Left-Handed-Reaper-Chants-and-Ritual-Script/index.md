@@ -37,7 +37,7 @@ Ar'zul vekranza, shúram gael.
 Discipuli rey, consuerum prack.
 Élan vitalis, mana terrai.
 
-Second Chant: Arcana Unveiling the Obscure
+**Second Chant**: Arcana Unveiling the Obscure
 
 Verse 1: Unraveling the Occult Design
 Per'aphim lorn, fashrul qued.
@@ -54,7 +54,7 @@ Krithéon, arvthane tresh'zul.
 Vélum séparat, novum séraphim.
 Evokar'in lux, pórtal irith.
 
-Third Chant: Bestowing the Reaper's Bounty
+**Third Chant**: Bestowing the Reaper's Bounty
 
 Verse 1: Receiving Unseen Boons
 Tal'maaran proles, tríkvent mare.

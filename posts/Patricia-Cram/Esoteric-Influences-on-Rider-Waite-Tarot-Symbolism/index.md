@@ -33,7 +33,7 @@ Arthur Edward Waite was a member of the Hermetic Order of the Golden Dawn, a sec
 
 Pamela Colman Smith, also a member of the Golden Dawn, was equally responsible for the deck's success. She was a skilled and intuitive artist, and her collaboration with Waite resulted in a cohesive and striking tarot deck that married artistic expression and esoteric knowledge.
 
-Major and Minor Arcana: A Comparative Analysis
+**Major and Minor Arcana**: A Comparative Analysis
 
 In the Rider Waite tarot deck, the Major Arcana consists of 22 cards, each representing significant spiritual and life events or archetypes, whereas the Minor Arcana comprises 56 cards divided into four suits: Cups, Pentacles, Swords, and Wands. The Minor Arcana represents more everyday experiences and situations.
 

@@ -37,35 +37,35 @@ During the 19th and 20th centuries, the Left-Hand Path found new expressions in 
 
 Several key figures contributed to the development and spread of Anticosmic Ars Diaboli. **Among them**:
 
-1. ****Aleister Crowley****: A British occultist, writer, and ceremonial magician, Crowley played a significant role in developing modern Occultism and popularizing esoteric knowledge in the West. He founded Thelema, a spiritual and philosophical movement that focused on individual will and self-discovery.
+1. **Aleister Crowley**: A British occultist, writer, and ceremonial magician, Crowley played a significant role in developing modern Occultism and popularizing esoteric knowledge in the West. He founded Thelema, a spiritual and philosophical movement that focused on individual will and self-discovery.
 
-2. ****Austin Osman Spare****: A visionary artist and occultist, Spare pioneered a unique system of magic known as "Zos Vel Thanatos" that influenced modern Chaos Magick practices and Anticosmic thought.
+2. **Austin Osman Spare**: A visionary artist and occultist, Spare pioneered a unique system of magic known as "Zos Vel Thanatos" that influenced modern Chaos Magick practices and Anticosmic thought.
 
-3. ****Lilith****: In Anticosmic Ars Diaboli, the figure of Lilith, commonly known as Adam's first wife, represents an embodiment of elemental forces, sexual liberation, and a rejection of limitations imposed by societal norms or religious dogma.
+3. **Lilith**: In Anticosmic Ars Diaboli, the figure of Lilith, commonly known as Adam's first wife, represents an embodiment of elemental forces, sexual liberation, and a rejection of limitations imposed by societal norms or religious dogma.
 
-4. ****Lucifer****: In this path, Lucifer is considered a symbol of freedom, enlightenment, and self-realization, positioned as a guide to help individuals overcome the constraints of the material world and attain personal divinity.
+4. **Lucifer**: In this path, Lucifer is considered a symbol of freedom, enlightenment, and self-realization, positioned as a guide to help individuals overcome the constraints of the material world and attain personal divinity.
 
 ### IV. Core Principles
 
-1. ****Self-Deification****: In Anticosmic Ars Diaboli, the practitioner seeks to become a divine entity, rejecting the idea of submission to an external deity or following conventional moral and religious doctrines. The focus is on personal self-discovery, growth, and obtaining personal power.
+1. **Self-Deification**: In Anticosmic Ars Diaboli, the practitioner seeks to become a divine entity, rejecting the idea of submission to an external deity or following conventional moral and religious doctrines. The focus is on personal self-discovery, growth, and obtaining personal power.
 
-2. ****Challenging Duality****: Anticosmic thought challenges the conventional division between 'good' and 'evil,' objective reality, and subjective experience. By breaking free from the constraints of duality, practitioners seek to explore and embrace all aspects of existence holistically.
+2. **Challenging Duality**: Anticosmic thought challenges the conventional division between 'good' and 'evil,' objective reality, and subjective experience. By breaking free from the constraints of duality, practitioners seek to explore and embrace all aspects of existence holistically.
 
-3. ****Individual Will****: Personal autonomy and individual will are crucial components of the Left-Hand Path. Practitioners aim to harness their will and desires to attain mastery over themselves and the world around them.
+3. **Individual Will**: Personal autonomy and individual will are crucial components of the Left-Hand Path. Practitioners aim to harness their will and desires to attain mastery over themselves and the world around them.
 
-4. ****The Void & Chaos****: The Anticosmic practitioner embraces the principle of chaos, acknowledging that the true nature of the universe is inherently disorderly and unpredictable. By understanding the Void and mastering this chaos, they strive to transcend worldly limitations and achieve a state of omnipotence.
+4. **The Void & Chaos**: The Anticosmic practitioner embraces the principle of chaos, acknowledging that the true nature of the universe is inherently disorderly and unpredictable. By understanding the Void and mastering this chaos, they strive to transcend worldly limitations and achieve a state of omnipotence.
 
 ### V. Rituals and Practices
 
 Anticosmic rituals and practices are designed to challenge established norms, harness the energies of chaos, and empower the individual will. **These could include**:
 
-1. ****Invocation****: Rituals may involve invoking deities or entities such as Lilith, Lucifer, or Samael as allies and guides in the practitioner's path towards self-deification and mastery.
+1. **Invocation**: Rituals may involve invoking deities or entities such as Lilith, Lucifer, or Samael as allies and guides in the practitioner's path towards self-deification and mastery.
 
-2. ****Sigil Magick****: Harnessing the power of symbolism or sigils is a common practice in Anticosmic thought. Sigils are used to focus intention, effect change, and manifest desires or personal objectives.
+2. **Sigil Magick**: Harnessing the power of symbolism or sigils is a common practice in Anticosmic thought. Sigils are used to focus intention, effect change, and manifest desires or personal objectives.
 
-3. ****Sex Magick****: Sex Magick practices, inspired by tantric principles, facilitate the transformation of sexual energy into spiritual and creative power, liberating the practitioner from societal taboos and limitations.
+3. **Sex Magick**: Sex Magick practices, inspired by tantric principles, facilitate the transformation of sexual energy into spiritual and creative power, liberating the practitioner from societal taboos and limitations.
 
-4. ****Chaos Magick****: This flexible approach to magic emphasizes the efficacy of personal belief and individualized methods in achieving desired outcomes. Often incorporating diverse paradigms, Chaos Magick provides a versatile framework for the Anticosmic seeker.
+4. **Chaos Magick**: This flexible approach to magic emphasizes the efficacy of personal belief and individualized methods in achieving desired outcomes. Often incorporating diverse paradigms, Chaos Magick provides a versatile framework for the Anticosmic seeker.
 
 ### VI. Conclusion
 

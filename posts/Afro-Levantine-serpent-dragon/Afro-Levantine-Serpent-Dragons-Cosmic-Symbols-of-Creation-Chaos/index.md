@@ -21,7 +21,7 @@ excerpt: Compare and contrast the roles and symbolism of the Afro-Levantine serp
 ---
 To accurately respond to this knowledge challenge, let's first establish a clear understanding of the Afro-Levantine serpent-dragon, a mythical creature featured prominently in the mythologies, spiritual practices, and cosmologies of various cultures and regions. The Afro-Levantine region refers to North Africa and the Eastern Mediterranean, encompassing the diverse civilizations that have interacted and influenced one another throughout history.
 
-We will breakdown the answer into three sections: 
+**We will breakdown the answer into three sections**: 
 
 1. The roles and symbolism of serpent-dragons in ritual practices.
 2. The roles and symbolism of serpent-dragons in creation myths and cosmology.

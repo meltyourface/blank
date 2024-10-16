@@ -28,7 +28,7 @@ Curses have undoubtedly played a prominent role in the annals of history, transc
 
 ### Chapter 2: Types and Classifications of Curses
 
-Curses can be broadly classified into two categories: personal and general. Personal curses are directed towards an individual, while general curses are typically aimed at something larger, such as a family, group, or even a geographical area. From a subjective standpoint, curses can be further categorized from the element or intention behind the curse:
+**Curses can be broadly classified into two categories**: personal and general. Personal curses are directed towards an individual, while general curses are typically aimed at something larger, such as a family, group, or even a geographical area. From a subjective standpoint, curses can be further categorized from the element or intention behind the curse:
 
 1. Elemental Curses: These curses incorporate one or more elements (earth, air, fire, and water) to wreak havoc upon their victims. For instance, an earth curse may cause the target's land to become barren, while an air curse might bring destructive storms.
 

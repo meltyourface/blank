@@ -25,25 +25,25 @@ Techniques for Safely and Effectively Dispatching a Homunculus:
 
 This method involves using alchemical substances to dissolve the physical form of the homunculus, effectively "killing" it. The primary component in this dissolution process is usually a strong acidic solution, sometimes combined with specific metals catalysts, which breaks down the homunculus's body into base elements.
 
-Ethical considerations: The alchemical dissolution is a quick and efficient method, but it may be considered a cruel process by some, as the homunculus is subject to extreme pain and physical destruction.
+**Ethical considerations**: The alchemical dissolution is a quick and efficient method, but it may be considered a cruel process by some, as the homunculus is subject to extreme pain and physical destruction.
 
-Historical examples: The infamous alchemist Paracelsus was reported to have successfully dissolved a homunculus using Vitriol (sulfuric acid) after its purpose was fulfilled.
+**Historical examples**: The infamous alchemist Paracelsus was reported to have successfully dissolved a homunculus using Vitriol (sulfuric acid) after its purpose was fulfilled.
 
 2. Energy Transmutation:
 
 Energy transmutation involves redirecting the life force or vital energy of the homunculus into another form, effectively ending its existence. This technique requires a skilled practitioner who understands the nature of energy manipulation and is able to redirect the energy outside the homunculus or into a suitable vessel.
 
-Ethical considerations: As this method directly deals with the core life force of the homunculus, it is crucial to ensure that the energy redirection is performed without causing undue suffering or harm to other living beings.
+**Ethical considerations**: As this method directly deals with the core life force of the homunculus, it is crucial to ensure that the energy redirection is performed without causing undue suffering or harm to other living beings.
 
-Historical examples: Chinese mystics in the Song dynasty were known to practice energy transmutation to create and dispatch homunculi, using their understanding of Qi manipulation.
+**Historical examples**: Chinese mystics in the Song dynasty were known to practice energy transmutation to create and dispatch homunculi, using their understanding of Qi manipulation.
 
 3. Ceremonial Banishment Rituals:
 
 Ceremonial banishment involves calling upon spiritual forces or deities to permanently remove the homunculus from the physical plane or sending it back to the realm from which it was created. This requires a strong understanding of ritual magick, as well as the necessary tools, symbols, and invocations.
 
-Ethical considerations: Ceremonial banishment relies on a higher power or deity to take responsibility for the homunculus, which raises questions of fairness and proper treatment of the being.
+**Ethical considerations**: Ceremonial banishment relies on a higher power or deity to take responsibility for the homunculus, which raises questions of fairness and proper treatment of the being.
 
-Historical examples: Many ancient cultures practiced banishment rituals, such as the shamanic tribes of Siberia and the early Babylonians, who had precise methods for dispatching spiritual entities like homunculi.
+**Historical examples**: Many ancient cultures practiced banishment rituals, such as the shamanic tribes of Siberia and the early Babylonians, who had precise methods for dispatching spiritual entities like homunculi.
 
 Step-By-Step Guide for Choosing a Suitable Method:
 

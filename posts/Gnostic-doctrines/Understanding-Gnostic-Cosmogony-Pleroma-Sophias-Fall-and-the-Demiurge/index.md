@@ -47,7 +47,7 @@ By creating a material world that enslaves human souls, the Demiurge plays an es
 
 **4. Gnostic Dualism**
 
-Gnostic dualism is the idea that the universe is composed of two fundamentally opposed realms: the spiritual or divine realm represented by the Pleroma and the material realm created by the Demiurge. Humanity, being trapped within the material world and ignorant of its true spiritual nature, must seek knowledge (gnosis) to free itself from the constraints imposed by the Demiurge.
+**Gnostic dualism is the idea that the universe is composed of two fundamentally opposed realms**: the spiritual or divine realm represented by the Pleroma and the material realm created by the Demiurge. Humanity, being trapped within the material world and ignorant of its true spiritual nature, must seek knowledge (gnosis) to free itself from the constraints imposed by the Demiurge.
 
 It is within the context of this dualistic framework that the interrelatedness of the emanations from the Pleroma, Sophia's fall, and the role of the Demiurge are all most meaningful. Together, these concepts highlight the central tension of the Gnostic narrative between the spiritual and material realms and help to illuminate the path towards spiritual liberation.
 

@@ -24,19 +24,19 @@ To fully interrogate this challenge, we must first define the roles of Cunning m
 
 Cunning men and women were practitioners of folk magic and medicine in pre-modern Western Europe. Their roles were multifaceted, involving not only the healing arts, but also divination, charms, and other esoteric practices. They occupied a unique position within their communities and were often sought out for their wisdom and expertise in various matters, ranging from mundane household issues to critical life events such as births and deaths.
 
-Historical reputation: Cunning men and women generally enjoyed a reputation as knowledgeable and skilled individuals in their respective communities, although their relationships with mainstream medical and religious institutions were fraught. Some were respected and valued for their abilities, while others were feared and persecuted, especially during the witch-hunt hysteria of the 15th-17th centuries.
+**Historical reputation**: Cunning men and women generally enjoyed a reputation as knowledgeable and skilled individuals in their respective communities, although their relationships with mainstream medical and religious institutions were fraught. Some were respected and valued for their abilities, while others were feared and persecuted, especially during the witch-hunt hysteria of the 15th-17th centuries.
 
-Key practices: The practices of Cunning men and women were wide-ranging and varied, reflecting the diverse nature of their work. **Some key practices they engaged in included**:
+**Key practices**: The practices of Cunning men and women were wide-ranging and varied, reflecting the diverse nature of their work. **Some key practices they engaged in included**:
 
-1. ****Herbalism****: The knowledge of plant-based healing was a fundamental aspect of the Cunning men and women's expertise. They used plants to create poultices, salves, and teas to address a variety of ailments, such as pain relief, wound healing, and illness prevention.
+1. **Herbalism**: The knowledge of plant-based healing was a fundamental aspect of the Cunning men and women's expertise. They used plants to create poultices, salves, and teas to address a variety of ailments, such as pain relief, wound healing, and illness prevention.
 
-2. ****Divination****: Cunning men and women often practiced various forms of divination to predict the future, find lost objects, or reveal hidden knowledge. This could involve reading tea leaves, interpreting dreams, or even casting lots.
+2. **Divination**: Cunning men and women often practiced various forms of divination to predict the future, find lost objects, or reveal hidden knowledge. This could involve reading tea leaves, interpreting dreams, or even casting lots.
 
-3. ****Charms, amulets, and enchantments****: These individuals frequently created talismanic objects or recited incantations to protect, heal, or bring good fortune to those who sought their help.
+3. **Charms, amulets, and enchantments**: These individuals frequently created talismanic objects or recited incantations to protect, heal, or bring good fortune to those who sought their help.
 
-4. ****Spirit work****: Cunning men and women may have worked with spirits, ancestors, or other non-material entities to gain information, channel healing energy, or conduct other tasks on behalf of their clients.
+4. **Spirit work**: Cunning men and women may have worked with spirits, ancestors, or other non-material entities to gain information, channel healing energy, or conduct other tasks on behalf of their clients.
 
-Sociopolitical implications: Cunning men and women existed at the margins of pre-modern European society, often straddling the line between respected service providers and objects of suspicion. They were subject to persecution, particularly during the era of widespread witch-hunts, and their practices frequently conflicted with the prevailing religious and medical paradigms of the time.
+**Sociopolitical implications**: Cunning men and women existed at the margins of pre-modern European society, often straddling the line between respected service providers and objects of suspicion. They were subject to persecution, particularly during the era of widespread witch-hunts, and their practices frequently conflicted with the prevailing religious and medical paradigms of the time.
 
 As we move towards examining the evolution of Cunning men and women's influence, we can identify several critical factors that contributed to the transformation of their roles and subsequent impact on modern perceptions of witchcraft and magical practices:
 

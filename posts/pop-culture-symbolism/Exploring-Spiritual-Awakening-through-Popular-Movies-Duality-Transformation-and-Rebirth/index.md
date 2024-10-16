@@ -23,10 +23,10 @@ excerpt: >
 ---
 To engage with this thought-provoking knowledge challenge, we need first to set a foundation of understanding about core concepts before delving deep into the themes and narratives. **Let us begin with a brief explanation of the following critical elements**:
 
-1. ****Duality****: It refers to the existence or experience of opposing or complementary forces in life, such as good and evil, light and darkness, or order and chaos. This concept has been the cornerstone of many belief systems, philosophies, and artistic expressions throughout history.
-2. ****Transformation****: It signifies a significant change, shift, or metamorphosis in oneself or a situation, usually resulting from an intense experience, realization, or external force.
-3. ****Rebirth****: It is the concept of starting anew after a metaphorical or literal death, often symbolizing growth, regeneration, and spiritual awakening.
-4. ****Alchemical transmutation****: This is the process of transforming "base metals" (or lesser elements) into "noble metals" (such as gold), both literally and metaphorically. In a broader sense, it signifies the transformation of one's character and circumstances through personal growth and spiritual development.
+1. **Duality**: It refers to the existence or experience of opposing or complementary forces in life, such as good and evil, light and darkness, or order and chaos. This concept has been the cornerstone of many belief systems, philosophies, and artistic expressions throughout history.
+2. **Transformation**: It signifies a significant change, shift, or metamorphosis in oneself or a situation, usually resulting from an intense experience, realization, or external force.
+3. **Rebirth**: It is the concept of starting anew after a metaphorical or literal death, often symbolizing growth, regeneration, and spiritual awakening.
+4. **Alchemical transmutation**: This is the process of transforming "base metals" (or lesser elements) into "noble metals" (such as gold), both literally and metaphorically. In a broader sense, it signifies the transformation of one's character and circumstances through personal growth and spiritual development.
 
 Now, let us discuss each of these three renowned movies (The Matrix, Harry Potter, and The Lion King) and analyze how they express the themes of duality, transformation, and rebirth while connecting them to alchemical transmutation and the journey of self-discovery and spiritual awakening.
 

@@ -26,19 +26,19 @@ excerpt: Write a brief yet informative overview of Agrippa's "Three Books of Occ
 
 Heinrich Cornelius Agrippa von Nettesheim, a German polymath and influential writer in the 15th century, authored the pivotal work "Three Books of Occult Philosophy." A monumental treatise on magic, the text delves into the realms of natural, celestial, and intellectual magic. The aim of Agrippa's work was to present a systematic approach to the study of the occult and esoteric traditions by exploring their principles, practices, and connections to both divine and natural world. In this overview, we will examine the central themes of each book, practical examples of magical rituals and techniques, and the impact of Agrippa's work on modern occultism.
 
-Book I: Natural Magic
+**Book I**: Natural Magic
 
 Primarily concerned with natural magic, Book I establishes a foundational understanding of the elements, celestial bodies, and their influence on the natural world. Agrippa posited that the practice of natural magic involves discerning the subtle energies and affinities present in plants, animals, and minerals. By doing so, practitioners can manipulate these energies in achieving a desired outcome. 
 
 Examples of magical rituals and techniques that fall under natural magic include alchemical transmutations, herbalism, and talisman creation. In one instance, Agrippa explains how incorporating planetary influences, such as timing the creation of a talisman with a particular celestial alignment, can enhance an object's inherent magical qualities. This knowledge allows the practitioner to imbue the talisman with a specific purpose, be it protection or success.
 
-Book II: Celestial Magic
+**Book II**: Celestial Magic
 
 In Book II, Agrippa focuses on celestial magic, which primarily explores the connection between celestial bodies and the human life. This concept, rooted in the ancient belief in the "music of the spheres," posits that celestial bodies possess unique qualities affecting the microcosm of an individual's life. 
 
 Among the practical magical examples in celestial magic, one encounters astrological magic and horary divination. Astrological magic involves the incorporation of knowledge about planetary movements and their effects to improve various aspects of life, while horary divination is the practice of casting charts for a specific question, allowing the practitioner to interpret the celestial influences at the time the question was posed.
 
-Book III: Intellectual Magic
+**Book III**: Intellectual Magic
 
 The final book, Book III, delves into the realm of intellectual or spiritual magic. While the first two deal with the natural and celestial worlds, Book III explores the human soul's relationship with the divine. To Agrippa, intellectual magic encompasses the innate ability to connect with the divine through virtues, symbols, and archetypes.
 

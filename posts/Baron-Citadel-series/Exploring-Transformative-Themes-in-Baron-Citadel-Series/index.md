@@ -33,7 +33,7 @@ The Baron Citadel series embraces transformation by harmoniously blending time-t
 
 **Alchemy**: The alchemical practices and symbols are meticulously embedded in the story, serving as a metaphor for personal transformation. Just as the alchemist transmutes base metals into gold, the characters in the series undergo the process of refining and purifying their souls to attain a higher spiritual state.
 
-Eastern Spirituality: Throughout the series, elements of Eastern mysticism are intertwined with the aforementioned Western occult practices, delving into concepts such as meditation, karma, and transcendence, ultimately allowing the initiates to achieve a more profound understanding of their personal development and spiritual journey.
+**Eastern Spirituality**: Throughout the series, elements of Eastern mysticism are intertwined with the aforementioned Western occult practices, delving into concepts such as meditation, karma, and transcendence, ultimately allowing the initiates to achieve a more profound understanding of their personal development and spiritual journey.
 
 Shape of Core Beliefs in Personal Development, Spiritual Evolution, and Interconnectivity of Cosmic Forces
 

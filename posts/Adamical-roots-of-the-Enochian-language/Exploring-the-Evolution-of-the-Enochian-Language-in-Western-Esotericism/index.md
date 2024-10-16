@@ -30,19 +30,19 @@ The integration process can be divided into three primary stages:
 2. Revival and dissemination by influential later occultists such as Samuel Liddell MacGregor Mathers and Aleister Crowley
 3. Modern interpretations, adaptation, and usage in contemporary Western esoteric systems
 
-Stage One: Discovery and Initial Integration by Dee and Kelley
+**Stage One**: Discovery and Initial Integration by Dee and Kelley
 
 Dr. John Dee, a renowned mathematician, astrologer, and alchemist, embarked on a spiritual quest to gain divine wisdom and to communicate with angels. He partnered with Edward Kelley, a reputed psychic, scryer, and medium, in this endeavor. Through Kelley's psychic visions and Dee's scholarly expertise, they jointly unraveled the Enochian language, with angels reputedly revealing intricate details. Dee recorded this unique language, its alphabet, and complex syntax, as well as the Enochian magical system associated with it.
 
 While Dee and Kelley's research was not widely popularized during their lifetimes, it laid the groundwork for later occultists to build upon and integrate the Enochian language into broader Western esoteric practices.
 
-Stage Two: Revival and Dissemination by Influential Occultists
+**Stage Two**: Revival and Dissemination by Influential Occultists
 
 The Enochian language resurfaced several centuries later among an array of prominent occult figures. Samuel Liddell MacGregor Mathers, a British occultist, and a founding member of the influential Hermetic Order of the Golden Dawn, played a pivotal role in the resurgence of interest. Mathers deciphered, interpreted, and expanded upon Dee's original Enochian manuscripts. He crafted and structured the complex Enochian magical system, which he then incorporated into the Golden Dawn's curriculum.
 
 Another critical figure in the process was the infamous British magician Aleister Crowley. Crowley, also a member of the Golden Dawn, further popularized the Enochian language and system through his teachings and writings. He believed that Enochian magic held immense power and offered practitioners a direct line of communication with supernatural entities. Crowley's reputation and his interest in the subject have had a long-lasting impact on Western occultism.
 
-Stage Three: Modern Interpretations, Adaptation, and Usage
+**Stage Three**: Modern Interpretations, Adaptation, and Usage
 
 In recent times, the Enochian language and its Adamical roots have been woven into various Western esoteric systems, including contemporary ceremonial magic, chaos magic, and pagan traditions. Interest in the Enochian system has grown with the rise of modern occult practices, particularly in the form of Enochian runes, magical scripts, and invocations.
 

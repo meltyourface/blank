@@ -22,7 +22,7 @@ excerpt: Devise an intricate dream exploration ritual dedicated to PentacleInann
 
 ## The Rite of Dream Oracle Sigil of PentacleInanna
 
-Objective: To devise an intricate dream exploration ritual dedicated to PentacleInanna, incorporating occult symbolism, ancient practices, lunar phases, offerings, sigils or talismans, and visualization techniques to explore the dream realm, seeking guidance and hidden knowledge.
+**Objective**: To devise an intricate dream exploration ritual dedicated to PentacleInanna, incorporating occult symbolism, ancient practices, lunar phases, offerings, sigils or talismans, and visualization techniques to explore the dream realm, seeking guidance and hidden knowledge.
 
 Materials needed:
 1. Sigil of PentacleInanna (designed below)

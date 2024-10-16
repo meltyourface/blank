@@ -36,7 +36,7 @@ In contrast, passive nihilism represents a resignation to meaninglessness, a ret
 
 When passive nihilism manifests in magickal workings, it can lead to stagnation, lack of progress, and a weakening of the practitioner's connection to the higher spiritual realms. Spiritual growth is hindered, as the practitioner may be unwilling to confront the challenges and initiations necessary for advancement. Ultimately, passive nihilism can lead to disillusionment and disappointment in the esoteric journey.
 
-Excerpt from a Grimoire: Insights and Advice
+**Excerpt from a Grimoire**: Insights and Advice
 
 The following excerpt is a translation from the previously unexplored grimoire, "Dracontias: The Serpent's Embrace," which offers insights into active and passive nihilism and their effects on one's spiritual practices:
 

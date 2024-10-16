@@ -39,25 +39,25 @@ excerpt: >
 ### II. Invocation Sequence
 
 1. Stand at the easternmost point of the chamber, facing the center where the sacred Feather is placed.
-2. ****Light the eastern candle and recite the following incantation****: "O Aetherial Seraphim, guardians of the heavens and masters of aviary mysteries, hear my call and let your wisdom guide this sacred ritual."
-3. ****Proceed to light the remaining candles while invoking the elemental guardians of the Air****: Sylph of the North, Zephyr of the South, Breeze of the West, and Gale of the East.
+2. **Light the eastern candle and recite the following incantation**: "O Aetherial Seraphim, guardians of the heavens and masters of aviary mysteries, hear my call and let your wisdom guide this sacred ritual."
+3. **Proceed to light the remaining candles while invoking the elemental guardians of the Air**: Sylph of the North, Zephyr of the South, Breeze of the West, and Gale of the East.
 
 ### III. Alchemical Solution Preparation
 
-1. ****Gather the following ingredients****: Essence of the mystical Sylphs, dew collected at dawn, powdered iridescent wings of a Luna moth, and Celestial Salt.
+1. **Gather the following ingredients**: Essence of the mystical Sylphs, dew collected at dawn, powdered iridescent wings of a Luna moth, and Celestial Salt.
 2. In an alchemic basin made of pure crystal, combine the Essence of the mystical Sylphs with the dawn-collected dew.
 3. Slowly mix in the powdered iridescent wings of a Luna moth, letting the mixture turn into a shimmering, ethereal liquid.
-4. ****Add a pinch of Celestial Salt to the mixture while chanting the sacred incantation of purification****: "Purity of Air, breathe deeply within, this sacred Feather, cleanse from sin."
+4. **Add a pinch of Celestial Salt to the mixture while chanting the sacred incantation of purification**: "Purity of Air, breathe deeply within, this sacred Feather, cleanse from sin."
 
 ### IV. Suffusing the Feather
 
 1. Hold the sacred Feather above the alchemical solution, allowing the shimmering liquid to lightly coat the Feather while whispering the name of the Aureate Eagle.
 2. Gently wave the Sacred Wind Chimes above the Feather, allowing the harmonious sounds to imbue it with celestial vibrations.
-3. ****Place the Enchanted Zephyr Crystal over the Feather as it rests on the celestial map, and recite a chant to seal the power within****: "In the name of the Aureate Eagle, guardian of the skies, bless this Feather with your divine might."
+3. **Place the Enchanted Zephyr Crystal over the Feather as it rests on the celestial map, and recite a chant to seal the power within**: "In the name of the Aureate Eagle, guardian of the skies, bless this Feather with your divine might."
 
 ### V. Preservation and Sealing
 
 1. Prepare an ornate display made of gold and silver, embellished with mystical avian symbols and sigils, upon which the Feather will be placed.
 2. Once the Feather is safely mounted onto the display, light a final candle infused with the essence of the mystical Sylphs, and pass the flame around the display, sealing the magical energies within.
-3. ****As a final ritual act, recite the following****: "May the sanctified power of the Alchemical Aviary protect this Feather, and through it, the wisdom and strength of the Aureate Eagle forever reside."
+3. **As a final ritual act, recite the following**: "May the sanctified power of the Alchemical Aviary protect this Feather, and through it, the wisdom and strength of the Aureate Eagle forever reside."
 4. Extinguish the candles, and allow the celestial energies in the room to dissipate, knowing that the sacred Feather is now purified and blessed with the essence of the Alchemical Aviary.

@@ -28,7 +28,7 @@ Begin by transforming the ritual space into a sanctum of the Gate of Leviathan. 
 
 ### II. Consecrated Tools and Garb
 
-Provided to the adepts are the tools they will require for the ceremony: a ceremonial dagger, a chalice filled with an elixir of transformation, a censer billowing with sacred incense, and a crystal engraved with the sigil of Leviathan. Each adept is also presented with a robe that evokes the traits of the Leviathan, which they will wear to signify their commitment to the path.
+**Provided to the adepts are the tools they will require for the ceremony**: a ceremonial dagger, a chalice filled with an elixir of transformation, a censer billowing with sacred incense, and a crystal engraved with the sigil of Leviathan. Each adept is also presented with a robe that evokes the traits of the Leviathan, which they will wear to signify their commitment to the path.
 
 ### III. Invocations and Chants
 

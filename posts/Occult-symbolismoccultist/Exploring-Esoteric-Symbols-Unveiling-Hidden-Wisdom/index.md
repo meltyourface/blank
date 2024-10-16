@@ -31,25 +31,25 @@ Symbols are the essence of all mystical and magical traditions, acting as a mean
 
 ### Chapter 2: Key Principles of Occult Symbolism
 
-1. ****Correspondences****: Symbols are closely connected to their corresponding entities, powers, and ideas. When a symbol is used in a ritual or magical workings, it acts as a conduit for the energies associated with it.
+1. **Correspondences**: Symbols are closely connected to their corresponding entities, powers, and ideas. When a symbol is used in a ritual or magical workings, it acts as a conduit for the energies associated with it.
 
-2. ****Multivalence****: Occult symbols often have multiple meanings and interpretations, revealing different layers of wisdom according to the depth of one's understanding and personal experience.
+2. **Multivalence**: Occult symbols often have multiple meanings and interpretations, revealing different layers of wisdom according to the depth of one's understanding and personal experience.
 
-3. ****Dynamism****: Symbols are not static; they evolve over time and can be adapted to serve the needs of specific practitioners or magical contexts.
+3. **Dynamism**: Symbols are not static; they evolve over time and can be adapted to serve the needs of specific practitioners or magical contexts.
 
-4. ****Sympathetic Magic****: A primary principle in esoteric practices, as above, so below, dictates that symbols can be used to manifest specific outcomes in the physical world by creating resonant links between the astral and material planes.
+4. **Sympathetic Magic**: A primary principle in esoteric practices, as above, so below, dictates that symbols can be used to manifest specific outcomes in the physical world by creating resonant links between the astral and material planes.
 
 ### Chapter 3: Examples of Occult Symbolism
 
-1. ****The Pentagram****: This five-pointed star is one of the most widely recognized esoteric symbols, representing the four elements (Earth, Air, Fire, and Water) and the fifth element, Spirit, which binds them. The Pentagram is used in ritual work for invoking and banishing spiritual forces, and it symbolizes the inner harmony of the human soul.
+1. **The Pentagram**: This five-pointed star is one of the most widely recognized esoteric symbols, representing the four elements (Earth, Air, Fire, and Water) and the fifth element, Spirit, which binds them. The Pentagram is used in ritual work for invoking and banishing spiritual forces, and it symbolizes the inner harmony of the human soul.
 
-2. ****The Tree of Life****: Originating from the mystical tradition of Kabbalah, the Tree of Life represents the interconnectedness of all creation through ten spheres (Sefirot) and 22 paths. Each sphere corresponds to different aspects of divinity, human consciousness, and the universe, making its study a path to spiritual enlightenment.
+2. **The Tree of Life**: Originating from the mystical tradition of Kabbalah, the Tree of Life represents the interconnectedness of all creation through ten spheres (Sefirot) and 22 paths. Each sphere corresponds to different aspects of divinity, human consciousness, and the universe, making its study a path to spiritual enlightenment.
 
-3. ****The Ankh****: An ancient Egyptian symbol, the Ankh represents the key to eternal life. Its looped cross shape signifies the union of opposites (male and female, life and death) and the cyclical nature of existence.
+3. **The Ankh**: An ancient Egyptian symbol, the Ankh represents the key to eternal life. Its looped cross shape signifies the union of opposites (male and female, life and death) and the cyclical nature of existence.
 
-4. ****The Ouroboros****: This symbol of a serpent or dragon eating its own tail conveys the concepts of cyclicality, rebirth, and transcendence. Commonly found in alchemy and Gnostic traditions, the Ouroboros reminds us of the eternal and self-sustaining qualities of the spiritual path.
+4. **The Ouroboros**: This symbol of a serpent or dragon eating its own tail conveys the concepts of cyclicality, rebirth, and transcendence. Commonly found in alchemy and Gnostic traditions, the Ouroboros reminds us of the eternal and self-sustaining qualities of the spiritual path.
 
-5. ****Tarot****: A richly symbolic system used for divination, meditation, and magical workings. The 78 cards of the Tarot deck are imbued with layers of occult symbolism, providing initiates with a vast reservoir of wisdom and insight.
+5. **Tarot**: A richly symbolic system used for divination, meditation, and magical workings. The 78 cards of the Tarot deck are imbued with layers of occult symbolism, providing initiates with a vast reservoir of wisdom and insight.
 
 ### Chapter 4: Exploring Occult Symbolism
 

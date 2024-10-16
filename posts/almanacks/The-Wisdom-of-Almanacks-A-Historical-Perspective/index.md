@@ -30,11 +30,11 @@ To thoroughly answer this knowledge challenge, we will proceed through the follo
 
 1. Key terms and concepts:
 
-Lunar Phases: The Moon passes through different phases, or stages of visible illumination, throughout a roughly 29.5-day cycle. The primary phases are the new moon, first quarter, full moon, and last quarter, representing transitions in visible illumination from none to full.
+**Lunar Phases**: The Moon passes through different phases, or stages of visible illumination, throughout a roughly 29.5-day cycle. The primary phases are the new moon, first quarter, full moon, and last quarter, representing transitions in visible illumination from none to full.
 
-Astrological Events: These events pertain to the study of the movements and positions of celestial bodies such as stars, planets, and the Moon, and their interpretation in relation to human affairs and natural phenomena.
+**Astrological Events**: These events pertain to the study of the movements and positions of celestial bodies such as stars, planets, and the Moon, and their interpretation in relation to human affairs and natural phenomena.
 
-Almanacks: These are annual publications containing calendars, weather forecasts, astronomical and tidal data, planting charts, and other useful information. They often include aspects of astrology, spiritual insights, and folklore.
+**Almanacks**: These are annual publications containing calendars, weather forecasts, astronomical and tidal data, planting charts, and other useful information. They often include aspects of astrology, spiritual insights, and folklore.
 
 2. Historical context of almanacks:
 

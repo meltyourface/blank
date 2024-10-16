@@ -26,7 +26,7 @@ Rudolf Steiner (1861-1925), an Austrian philosopher, architect, and social refor
 
 ### 1.1 Core components of Anthroposophy
 
-The Anthroposophical belief system encompasses several primary components: spiritual science, karma, reincarnation, education, and the arts. These components together aim to combine scientific methodologies with spiritual intuition to facilitate personal growth and self-realization. 
+**The Anthroposophical belief system encompasses several primary components**: spiritual science, karma, reincarnation, education, and the arts. These components together aim to combine scientific methodologies with spiritual intuition to facilitate personal growth and self-realization. 
 
 ### 1.2 Spiritual Science
 

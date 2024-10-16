@@ -40,7 +40,7 @@ The key tenet of the practice is the idea that through sincere devotion, inner r
 
 Practices
 
-The Higher Kingdoms Kurukulla practice primarily focuses on rituals that engage the practitioner on multiple levels: body, speech, and mind. Among the most important techniques utilized in this tradition are mantra recitation, visualization, and meditation, which serve to invoke the presence and blessings of Kurukulla, aiding the practitioner in overcoming obstacles and fulfilling their spiritual aspirations.
+**The Higher Kingdoms Kurukulla practice primarily focuses on rituals that engage the practitioner on multiple levels**: body, speech, and mind. Among the most important techniques utilized in this tradition are mantra recitation, visualization, and meditation, which serve to invoke the presence and blessings of Kurukulla, aiding the practitioner in overcoming obstacles and fulfilling their spiritual aspirations.
 
 1. **Mantra Recitation**: Chanting of the Kurukulla mantra is an integral part of the practice, believed to help forge a connection with the goddess. The mantra typically consists of syllables that represent the divine qualities and powers of Kurukulla, and often begins with her sacred seed syllable, "Om."
 

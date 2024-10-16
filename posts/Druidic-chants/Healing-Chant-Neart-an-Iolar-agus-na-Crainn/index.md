@@ -21,7 +21,7 @@ excerpt: Reinterpret a traditional Native American medicine song, adapting it sp
 ---
 In the original Native American medicine song, we find the following key aspects: the healing intention, the totem of the eagle, and a rhythmic structure that mimics the beating of a drum. These elements have been incorporated into our new chant, along with traditional Druidic symbols.
 
-Title: Neart an Iolar agus na Crainn
+**Title**: Neart an Iolar agus na Crainn
 
 (Verse 1)
 Awen, awen, neart an iolar, Ailm,

@@ -24,13 +24,13 @@ Introducing the Yithian Temporal-Planar Navigator (YTPN): a transcendent marvel 
 
 The construction of the Y100th Temporal-Planar Navigator hinges upon four essential components: the Crystalline Eon Drive, the Pnakotic Capacitor Array, the Transliphasic Portal Generator, and the Eldritch Mindlink Interface.
 
-1. ****Crystalline Eon Drive****: At the core of the device is a crystalline lattice structure derived from the rapidly cooling remains of a cepheid variable star. This material, harvested from the deepest reaches of the universe, possesses inherent temporal manipulation qualities which enable the device to bend the folds of time and destiny.
+1. **Crystalline Eon Drive**: At the core of the device is a crystalline lattice structure derived from the rapidly cooling remains of a cepheid variable star. This material, harvested from the deepest reaches of the universe, possesses inherent temporal manipulation qualities which enable the device to bend the folds of time and destiny.
 
-2. ****Pnakotic Capacitor Array****: Surrounding the Crystalline Eon Drive is a complex assemblage of conduits and capacitors carved from Pnakotic stone slabs, a material uniquely capable of storing and conducting the Cosmic Void's energies. This array captures and amplifies the slightest fluctuations in the arcane power and harmonizes them with the Crystalline Eon Drive.
+2. **Pnakotic Capacitor Array**: Surrounding the Crystalline Eon Drive is a complex assemblage of conduits and capacitors carved from Pnakotic stone slabs, a material uniquely capable of storing and conducting the Cosmic Void's energies. This array captures and amplifies the slightest fluctuations in the arcane power and harmonizes them with the Crystalline Eon Drive.
 
-3. ****Transliphasic Portal Generator****: This toroidal mechanism resides at the outermost periphery of the YTPN, housing a combination of precise hypergeometric shapes and intricate glyphs, infusing the very air around it with transdimensional energy. Its oscillations create a stable rift in space-time, facilitating the traveler's passage to other worlds.
+3. **Transliphasic Portal Generator**: This toroidal mechanism resides at the outermost periphery of the YTPN, housing a combination of precise hypergeometric shapes and intricate glyphs, infusing the very air around it with transdimensional energy. Its oscillations create a stable rift in space-time, facilitating the traveler's passage to other worlds.
 
-4. ****Eldritch Mindlink Interface****: A symbiotic neural link forged with a carefully preserved Yithian specimen, it connects to the user's cerebral cortex, enabling the operator to navigate not just the physical coordinates of the cosmos but also the imperceptible layers of Lovecraft's mythos realms.
+4. **Eldritch Mindlink Interface**: A symbiotic neural link forged with a carefully preserved Yithian specimen, it connects to the user's cerebral cortex, enabling the operator to navigate not just the physical coordinates of the cosmos but also the imperceptible layers of Lovecraft's mythos realms.
 
 Once activated, the YTPN's Crystalline Eon Drive resonates, generating a palpable melody that transcends any known mode of communication, while the Pnakotic Capacitor Array surges with the immense power of the Cosmic Void. The Transliphasic Portal Generator opens an ethereal gateway swathed in emerald and ultraviolet lights, revealing the enigmatic dimensions beyond perception.
 

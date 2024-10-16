@@ -26,13 +26,13 @@ Esoteric principles and symbolism in the Book of Unusual Experiences:
 
 The Book of Unusual Experiences contains various symbolic representations or allegories, which carry deeper, mystical meanings. Such symbolism serves as a bridge to access the higher planes of consciousness. Some of the key esoteric principles embedded within the Book include the interconnectivity of all life, the concept of as above, so below, the importance of initiation, and the transformative power of self-discovery.
 
-1. ****Interconnectivity of all life****: The Book aims to emphasize the interconnected nature of all living beings. This idea finds its roots in the ancient Hermeticism and emanates from the concept of the universal energy that binds everything in existence.
+1. **Interconnectivity of all life**: The Book aims to emphasize the interconnected nature of all living beings. This idea finds its roots in the ancient Hermeticism and emanates from the concept of the universal energy that binds everything in existence.
 
-2. ****As above, so below****: The phrase "as above, so below" originates from the Emerald Tablet, a foundational text of Western esotericism that reflects the principle of correspondence. This principle means that everything happening in the macrocosm is mirrored in the microcosm, and vice versa. Consequently, the Book of Unusual Experiences often employs symbolism that connects the individual to the cosmos and the spiritual to the mundane.
+2. **As above, so below**: The phrase "as above, so below" originates from the Emerald Tablet, a foundational text of Western esotericism that reflects the principle of correspondence. This principle means that everything happening in the macrocosm is mirrored in the microcosm, and vice versa. Consequently, the Book of Unusual Experiences often employs symbolism that connects the individual to the cosmos and the spiritual to the mundane.
 
-3. ****Initiation****: The Book places a strong emphasis on the process of initiation for one to attain deep understanding. This marks the entry point for the individual into the esoteric and transformative experience through rigorous study and practice.
+3. **Initiation**: The Book places a strong emphasis on the process of initiation for one to attain deep understanding. This marks the entry point for the individual into the esoteric and transformative experience through rigorous study and practice.
 
-4. ****Self-discovery****: The process of self-discovery is fundamental to spiritual growth, and the Book of Unusual Experiences serves as a guide for traversing one's personal journey. It encourages the initiates to break the chains of ignorance to reach their true potential and understanding.
+4. **Self-discovery**: The process of self-discovery is fundamental to spiritual growth, and the Book of Unusual Experiences serves as a guide for traversing one's personal journey. It encourages the initiates to break the chains of ignorance to reach their true potential and understanding.
 
 Enabling heightened self-awareness:
 

@@ -29,11 +29,11 @@ To understand the symbiotic relationships between various divine feminine archet
 
 Now that we have established the basis of the Goddess Supreme let us examine a few key divine feminine archetypes.
 
-1. ****The Mother Goddess****: This archetype embodies the nurturing, protective, and life-giving aspects of the divine feminine. She represents fertility, the Earth, and the cycle of life. Examples include the Greek goddess Gaia, Egyptian goddess Isis, and Hindu goddess Parvati.
+1. **The Mother Goddess**: This archetype embodies the nurturing, protective, and life-giving aspects of the divine feminine. She represents fertility, the Earth, and the cycle of life. Examples include the Greek goddess Gaia, Egyptian goddess Isis, and Hindu goddess Parvati.
 
-2. ****The Warrior Goddess****: A symbol of strength, courage, and justice, this archetype represents the capacity to fiercely protect and defend what is most important. She is a reminder of the power that resides within each individual. Examples include the Greek goddess Athena, Egyptian goddess Sekhmet, and Hindu goddess Durga.
+2. **The Warrior Goddess**: A symbol of strength, courage, and justice, this archetype represents the capacity to fiercely protect and defend what is most important. She is a reminder of the power that resides within each individual. Examples include the Greek goddess Athena, Egyptian goddess Sekhmet, and Hindu goddess Durga.
 
-3. ****The Wise Woman****: The most enigmatic and mysterious of the archetypes, she is intimately connected with intuition, psychic ability, and the knowledge of the occult, embodying divine wisdom. Examples include the Greek goddess Hecate, Egyptian goddess Thoth’s feminine counterpart Seshat, and Hindu goddess Saraswati.
+3. **The Wise Woman**: The most enigmatic and mysterious of the archetypes, she is intimately connected with intuition, psychic ability, and the knowledge of the occult, embodying divine wisdom. Examples include the Greek goddess Hecate, Egyptian goddess Thoth’s feminine counterpart Seshat, and Hindu goddess Saraswati.
 
 Regarding their interconnected nature, each of these divine feminine archetypes is an aspect of the greater Goddess Supreme, manifesting her wisdom and power through various characteristics and roles. These archetypes help us to comprehend the Goddess Supreme's vast complexity by splitting her all-encompassing essence into specific areas of focus.
 

@@ -40,7 +40,7 @@ Take a few moments to purify and sanctify your space with prayer or invocation. 
 
 Begin by sitting or lying down comfortably in your sacred space. Close your eyes and take three deep, cleansing breaths to center yourself.
 
-Background music begins: Soft rhythmic drumming specifically associated with the Orixá you have chosen.
+**Background music begins**: Soft rhythmic drumming specifically associated with the Orixá you have chosen.
 
 We will now start the rhythmic breathing exercise to connect you deeply with the Orixás' presence.
 

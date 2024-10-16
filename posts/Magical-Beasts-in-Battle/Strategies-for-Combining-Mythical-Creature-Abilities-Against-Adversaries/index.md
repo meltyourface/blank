@@ -27,7 +27,7 @@ To thoroughly address this knowledge challenge, we first need to understand the 
 
 **Phoenix**: The Phoenix is a mythical bird that is bathed in flames and reborn from its own ashes. This miraculous creature is known for its healing powers and ability to resurrect itself upon death. Its tears contain powerful healing properties, while its fiery aura is capable of warding off any creature susceptible to fire.
 
-Powerful Mage: A potent spellcaster with various magical abilities that may include, but are not limited to, elemental spells, summoning, and barriers. This individual will be a calculated and formidable foe with a deep understanding of magical arts.
+**Powerful Mage**: A potent spellcaster with various magical abilities that may include, but are not limited to, elemental spells, summoning, and barriers. This individual will be a calculated and formidable foe with a deep understanding of magical arts.
 
 **Hydra**: This multi-headed serpent possesses regenerative capabilities. When one head is cut off, multiple heads will grow in its place. It’s also worth noting that the Hydra’s blood is poisonous, a vital aspect to consider during combat.
 

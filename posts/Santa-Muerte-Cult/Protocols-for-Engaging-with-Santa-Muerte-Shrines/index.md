@@ -50,6 +50,6 @@ While praying, adopt an attitude of humility by kneeling or bowing your head, an
 Perform specific rituals depending on the goals of the congregation. Group chanting, processions, and formal dances may be included. The use of a rosary, often created with skull beads, can enhance the experience.
 
 6. **Symbolism**:
-Incorporate symbolic elements into the ceremonial practices. ****Colorful statues of Santa Muerte, each representing specific intentions****: white for purity and healing, red for love and passion, and black for protection and vengeance. Other symbols include the hourglass (representing the passage of time and finality) and the scythe (representing the cutting of negative influences).
+Incorporate symbolic elements into the ceremonial practices. **Colorful statues of Santa Muerte, each representing specific intentions**: white for purity and healing, red for love and passion, and black for protection and vengeance. Other symbols include the hourglass (representing the passage of time and finality) and the scythe (representing the cutting of negative influences).
 
 By following these recommended protocols and ceremonial practices, you can create a respectful and devotional atmosphere that fosters a deep and meaningful connection with the sacred figure of Santa Muerte. Be attentive to the expectations of the specific community and adapt practices accordingly, demonstrating a willingness to learn and embrace the shared experiences.

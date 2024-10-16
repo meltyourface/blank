@@ -40,10 +40,10 @@ Methods of Communication and Interaction
 
 To effectively communicate with Visitors from the past, initiates must attune their mind, body, and spirit to a higher frequency. **This can be achieved through practices such as meditation, chanting, or trance work, enabling initiates to receive messages through various channels**:
 
-1. ****Clairvoyance****: Receiving visions, symbols, or images from the Visitors
-2. ****Clairaudience****: Hearing the voices, music, or sounds from these entities
-3. ****Clairsentience****: Sensing the emotions, energy, or physical sensations of ancestral spirits
-4. ****Claircognizance****: Acquiring sudden intuitive knowledge or insights originating from the ancient guides
+1. **Clairvoyance**: Receiving visions, symbols, or images from the Visitors
+2. **Clairaudience**: Hearing the voices, music, or sounds from these entities
+3. **Clairsentience**: Sensing the emotions, energy, or physical sensations of ancestral spirits
+4. **Claircognizance**: Acquiring sudden intuitive knowledge or insights originating from the ancient guides
 
 To facilitate communication, initiates can also use divination tools such as tarot cards, runes, or pendulums, in combination with their intuitive senses.
 
@@ -51,12 +51,12 @@ Precautions, Rituals, and Practices for Safe Contact
 
 To safeguard the wellbeing of both the initiate and the Visitors from the past, adherence to strict rituals and precautions is crucial. **The following steps outline an effective and protective approach**:
 
-1. ****Preparation****: Purify the physical and energetic space by burning sacred herbs such as sage, cedar, or frankincense. Cast a protective circle around the area using salt, crystals, or ceremonial markings.
+1. **Preparation**: Purify the physical and energetic space by burning sacred herbs such as sage, cedar, or frankincense. Cast a protective circle around the area using salt, crystals, or ceremonial markings.
 
-2. ****Invocation****: Call upon the presence of benevolent ancestral spirits or ancient guides, specifying your intention for meaningful communication and guidance.
+2. **Invocation**: Call upon the presence of benevolent ancestral spirits or ancient guides, specifying your intention for meaningful communication and guidance.
 
-3. ****Discernment****: During the interaction, remain vigilant—discerning between genuine and false entities. Carefully observe the messages and impressions received, ensuring that they align with your spiritual progression, values, and personal integrity.
+3. **Discernment**: During the interaction, remain vigilant—discerning between genuine and false entities. Carefully observe the messages and impressions received, ensuring that they align with your spiritual progression, values, and personal integrity.
 
-4. ****Gratitude and Closure****: Thank the Visitors for the insightful communication, expressing appreciation for their wisdom and guidance. Close the protective circle and ground yourself by engaging in deep breaths or physical movement, marking the conclusion of the encounter.
+4. **Gratitude and Closure**: Thank the Visitors for the insightful communication, expressing appreciation for their wisdom and guidance. Close the protective circle and ground yourself by engaging in deep breaths or physical movement, marking the conclusion of the encounter.
 
 By delving into the roles, purposes, and communication methods of Visitors from the past, this treatise strives to enrich initiates' understanding and facilitate profound interactions with these otherworldly entities. Adhering to the outlined precautions and rituals, our spiritual journey may be guided by the wisdom and expertise of these ancient guides, unlocking untold potential and growth.

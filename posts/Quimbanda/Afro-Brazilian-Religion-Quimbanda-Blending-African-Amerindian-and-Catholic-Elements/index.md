@@ -42,7 +42,7 @@ Due to the forced conversion of African slaves to Catholicism in Brazil and the 
 
 The Catholic contribution to Quimbanda is most evident in the veneration of saints, which have been merged with African deities and spirits. For instance, St. George is often associated with the Yoruba deity Ogum, while St. Barbara is equated with Iansã.
 
-Exus and Pomba Giras: Essential Entities in Quimbanda's Pantheon
+**Exus and Pomba Giras**: Essential Entities in Quimbanda's Pantheon
 
 Exus and Pomba Giras are essential entities in Quimbanda's pantheon, occupying an important role within the tradition's spiritual hierarchy. Exus are male spirits associated with crossroads, doorways, and transitions, while Pomba Giras are their female counterparts. These entities serve as messengers and intermediaries between humans and the Divine, facilitating communication and providing guidance in decision-making processes.
 

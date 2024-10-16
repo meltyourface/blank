@@ -58,7 +58,7 @@ To effectively work with the Khemetic and Netjerist Gnosis, the practitioner sho
 
 5. Divination: Make use of ancient Egyptian divination methods, such as the use of oracles, pendulums, or interpreting dreams, to communicate with the Netjeru and seek guidance.
 
-Example Ritual: Invocation of Thoth for Wisdom
+**Example Ritual**: Invocation of Thoth for Wisdom
 
 1. Prepare yourself and your space by cleansing with incense or smudging, and don a clean robe or clothing dedicated to your spiritual practice.
 

@@ -32,7 +32,7 @@ As the locals soon discovered, Blackburn had a unique talent – he crafted the 
 
 Rumors fluttered about like the flicker of candlelight, whispering of meetings behind hidden doors and strange symbols marking edifices in Blackburn's sanctum. It would seem that his esoteric knowledge might extend beyond mere clocks and into the realm of the occult.
 
-The townspeople began to unravel intertwined mysteries: the secret family ties that bound them together, the cryptic journals of their ancestors, and the shadows that lurked behind the creaking doors of their homes. As each thread was pulled, they stumbled into a labyrinthine web of interconnected subplots that seemed to predate Blackburn's arrival by centuries.
+**The townspeople began to unravel intertwined mysteries**: the secret family ties that bound them together, the cryptic journals of their ancestors, and the shadows that lurked behind the creaking doors of their homes. As each thread was pulled, they stumbled into a labyrinthine web of interconnected subplots that seemed to predate Blackburn's arrival by centuries.
 
 ### Part III: The Lost Children of Avalon
 

@@ -22,9 +22,9 @@ excerpt: >
 ---
 Course Title: Songlines: Unveiling the Secrets of Indigenous Knowledge Systems
 
-Objective: To impart knowledge of Songlines' intricate elements, such as its cultural significance, oral traditions, and correlations to geographic locations, specifically tailored for non-indigenous learners, incorporating diverse teaching strategies and collaborating with indigenous elders or experts.
+**Objective**: To impart knowledge of Songlines' intricate elements, such as its cultural significance, oral traditions, and correlations to geographic locations, specifically tailored for non-indigenous learners, incorporating diverse teaching strategies and collaborating with indigenous elders or experts.
 
-Course Duration: 12 weeks (3 hours per week)
+**Course Duration**: 12 weeks (3 hours per week)
 
 Week 1: Introduction to Songlines
 - The concept of Songlines

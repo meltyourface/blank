@@ -49,7 +49,7 @@ The Scarlet Woman, when taking part in sexual magick rituals, acts as a sacred v
 
 The concepts of microcosm and macrocosm are rooted in the ancient Hermetic philosophy, succinctly expressed by the axiom "As above, so below." In Thelemic thought, the microcosm represents the individual human being—their body, mind, spirit, and energies—while the macrocosm corresponds to the larger universe and its interconnected elements.
 
-This principle emphasizes the interconnectedness of everything in the universe: the individual's thoughts, actions, and energies affect the greater reality. Therefore, sexual magick rituals involving the microcosm can have a significant impact on the macrocosm by tapping into powerful cosmic archetypes and energies.
+**This principle emphasizes the interconnectedness of everything in the universe**: the individual's thoughts, actions, and energies affect the greater reality. Therefore, sexual magick rituals involving the microcosm can have a significant impact on the macrocosm by tapping into powerful cosmic archetypes and energies.
 
 5. **Synthesizing these concepts to analyze their significance**:
 

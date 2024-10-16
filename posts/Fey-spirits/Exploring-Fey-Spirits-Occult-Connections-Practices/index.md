@@ -25,13 +25,13 @@ excerpt: Write a short, informationally dense section of a grimoire that will te
 
 Fey spirits, often referred to as the faeries, encompass a diverse range of ethereal beings stemming from ancient mythology and folklore. These elusive and enigmatic creatures possess an inherent connection to the natural world and often act as its custodians. This chapter will provide a comprehensive understanding of the nature, characteristics, hierarchy, and various types of Fey spirits and elucidate the practices and rituals that facilitate communication and collaboration with these entities in the realm of the occult.
 
-Nature and Characteristics: Tracing the Essence of Fey Spirits
+**Nature and Characteristics**: Tracing the Essence of Fey Spirits
 
 The Fey spirits exist within the liminal spaces between our physical reality and the unseen spiritual realms. These entities embody a paradoxical nature, capable of bestowing both blessings and curses, which are dependent on their respective temperament and disposition towards the individual engaging with them.
 
-Fey spirits are intrinsically bound to the elements: earth, air, fire, and water. They also resonate with the spiritual elements of light and darkness, further diversifying their characteristics and idiosyncrasies. Due to their strong elemental association, Fey spirits often reside in places of natural beauty and power, such as forests, groves, rivers, and lakes.
+**Fey spirits are intrinsically bound to the elements**: earth, air, fire, and water. They also resonate with the spiritual elements of light and darkness, further diversifying their characteristics and idiosyncrasies. Due to their strong elemental association, Fey spirits often reside in places of natural beauty and power, such as forests, groves, rivers, and lakes.
 
-Hierarchy and Types: Navigating the Tangled Web of the Fey
+**Hierarchy and Types**: Navigating the Tangled Web of the Fey
 
 Much like human society, the realm of Fey spirits consists of a structured hierarchy that encompasses various types of entities, each with unique qualities and attributes. This hierarchy consists of, but is not limited to, the following classes:
 
@@ -40,7 +40,7 @@ Much like human society, the realm of Fey spirits consists of a structured hiera
 3. **Nature Fae**: Custodians of flora, fauna, and ecological habitats, often deeply connected to a specific aspect of nature. Examples include Dryads (tree spirits), Nymphs (female nature spirits), and Brownies (household faeries).
 4. **Trickster Fae**: Shape-shifting entities known for their mischief and capricious behavior. Examples include the Pooka, Will-o'-the-Wisp, and Kitsune.
 
-Occult Practices and Rituals: Establishing Contact with the Fey
+**Occult Practices and Rituals**: Establishing Contact with the Fey
 
 Engaging with Fey spirits requires a delicate balance of reverence, respect, and humility. It is vital to approach these entities with an open heart and genuine intentions, as they can discern deceit or ill motives. **Below are some practices and rituals that can aid in establishing connections with the various Fey spirits**:
 

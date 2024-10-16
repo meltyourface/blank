@@ -53,7 +53,7 @@ Aging has long been a subject of mystique and symbolism in various cultures and 
 
 ### 2.1 Western Alchemy: The Magnum Opus
 
-In the western alchemical tradition, the transformation of base metals into gold - the Magnum Opus - symbolizes the spiritual refinement that occurs throughout life. ****The aging process is likened to the progression through four stages or colors****: nigredo (blackening), albedo (whitening), citrinitas (yellowing), and rubedo (reddening). Each stage corresponds to a phase of psychological and spiritual development.
+In the western alchemical tradition, the transformation of base metals into gold - the Magnum Opus - symbolizes the spiritual refinement that occurs throughout life. **The aging process is likened to the progression through four stages or colors**: nigredo (blackening), albedo (whitening), citrinitas (yellowing), and rubedo (reddening). Each stage corresponds to a phase of psychological and spiritual development.
 
 ### 2.2 Eastern Philosophy: Reincarnation and Karma
 

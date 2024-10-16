@@ -27,35 +27,35 @@ In the realm of esoteric knowledge and the occult, the use of herbs for protecti
 **Angelica**: The Elemental Marvel
 -----------------------------------
 
-Historical context: Angelica, scientifically known as 'Angelica archangelica,' can trace its history back to the medieval era when it was first valued as a healing remedy. Some legends suggest that angelica received its name because the archangel Michael revealed the plant's divine benefits to humans. In European folklore, this versatile plant has been regarded as a powerful protectant against evil spirits and is commonly associated with the celebration of St. Michael's Day.
+**Historical context**: Angelica, scientifically known as 'Angelica archangelica,' can trace its history back to the medieval era when it was first valued as a healing remedy. Some legends suggest that angelica received its name because the archangel Michael revealed the plant's divine benefits to humans. In European folklore, this versatile plant has been regarded as a powerful protectant against evil spirits and is commonly associated with the celebration of St. Michael's Day.
 
-Geographical context: Angelica grows naturally in cold climates, predominantly found in northern Europe, particularly Iceland, Greenland, and Nordic countries. It flourishes near water sources such as rivers and wet habitats like marshes.
+**Geographical context**: Angelica grows naturally in cold climates, predominantly found in northern Europe, particularly Iceland, Greenland, and Nordic countries. It flourishes near water sources such as rivers and wet habitats like marshes.
 
-Symbolic context: Often representing protection, healing, and strength, Angelica is linked to the elemental force of Fire. The plant's vigor is believed to repel negativity and ward off demonic forces.
+**Symbolic context**: Often representing protection, healing, and strength, Angelica is linked to the elemental force of Fire. The plant's vigor is believed to repel negativity and ward off demonic forces.
 
-Practical Applications: Traditionally, Angelica has been used to create amulets, powders, and teas for protection. Root and seeds can be added to talismans or placed around one's home to protect against negative energies. A tea brewed from the leaves can purify a space or fortify protective circles during rituals.
+**Practical Applications**: Traditionally, Angelica has been used to create amulets, powders, and teas for protection. Root and seeds can be added to talismans or placed around one's home to protect against negative energies. A tea brewed from the leaves can purify a space or fortify protective circles during rituals.
 
 **Rue**: The Mighty Ward
 ------------------------
 
-Historical context: Rue, or 'Ruta graveolens,' boasts a storied past: from ancient Roman rites to early Christian purification ceremonies, this powerful herb has traversed continents and faiths. In medieval Europe, witches were said to utilize Rue in their magical practices, which later gave way to the plant's role in repelling malevolent influences.
+**Historical context**: Rue, or 'Ruta graveolens,' boasts a storied past: from ancient Roman rites to early Christian purification ceremonies, this powerful herb has traversed continents and faiths. In medieval Europe, witches were said to utilize Rue in their magical practices, which later gave way to the plant's role in repelling malevolent influences.
 
-Geographical context: Native to the Mediterranean region, Rue prefers sunny, rocky, or sandy habitats and can now be found growing throughout Europe, North Africa, and southwestern Asia.
+**Geographical context**: Native to the Mediterranean region, Rue prefers sunny, rocky, or sandy habitats and can now be found growing throughout Europe, North Africa, and southwestern Asia.
 
-Symbolic context: Commonly associated with clarity, vision, and protection from malicious spirits, Rue has been linked to the planets Mars and Saturn, as well as the element of Air. Its strong, pungent scent is thought to drive away evil forces, thus making it indispensable in the world of the esoteric.
+**Symbolic context**: Commonly associated with clarity, vision, and protection from malicious spirits, Rue has been linked to the planets Mars and Saturn, as well as the element of Air. Its strong, pungent scent is thought to drive away evil forces, thus making it indispensable in the world of the esoteric.
 
-Practical Applications: To benefit from Rue's warding powers, one might place dried leaves in sachets or use them to create protective talismans. Additionally, oil extracted from the plant can be applied to an amulet or blended into incense to purify negative energies.
+**Practical Applications**: To benefit from Rue's warding powers, one might place dried leaves in sachets or use them to create protective talismans. Additionally, oil extracted from the plant can be applied to an amulet or blended into incense to purify negative energies.
 
 **Vervain**: The Enchantress Bane
 -----------------------------------
 
-Historical context: Vervain, also known as 'Verbena officinalis,' has an ancient lineage stretching back to the time of Druids, who considered the plant to be holy with potent magical properties. Early Christians also revered vervain as it was believed to halt the advance of witches and their enchantments.
+**Historical context**: Vervain, also known as 'Verbena officinalis,' has an ancient lineage stretching back to the time of Druids, who considered the plant to be holy with potent magical properties. Early Christians also revered vervain as it was believed to halt the advance of witches and their enchantments.
 
-Geographical context: Vervain is native to Europe and North Africa and tolerates a variety of habitats, including grasslands, meadows, and woodlands.
+**Geographical context**: Vervain is native to Europe and North Africa and tolerates a variety of habitats, including grasslands, meadows, and woodlands.
 
-Symbolic context: A symbol of protection, purification, and divine assistance, vervain is an integral part of many esoteric traditions. Corresponding to the planet Venus and the element of Water, this herb is thought to possess the power to break hexes and shield individuals from harm.
+**Symbolic context**: A symbol of protection, purification, and divine assistance, vervain is an integral part of many esoteric traditions. Corresponding to the planet Venus and the element of Water, this herb is thought to possess the power to break hexes and shield individuals from harm.
 
-Practical Applications: Vervain can be used to craft protective amulets, sachets, or wreaths. Drinking vervain tea is said to grant strength and clarity, while hanging the plant in the home helps dispel malevolent spirits.
+**Practical Applications**: Vervain can be used to craft protective amulets, sachets, or wreaths. Drinking vervain tea is said to grant strength and clarity, while hanging the plant in the home helps dispel malevolent spirits.
 
 Unifying Themes and Conclusion
 ----------------------------------------------

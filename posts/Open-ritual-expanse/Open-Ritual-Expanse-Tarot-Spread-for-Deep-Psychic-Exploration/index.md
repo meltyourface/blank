@@ -28,7 +28,7 @@ The spread comprises 16 cards, arranged in a circular formation with a central c
 
 2. Inner Circle: Four Elements (4 cards) - These cards represent your connection to the elemental energies of air, fire, water, and earth. They determine your natural inclinations and areas in need of balance or enhancement.
 
-Card A: Air - Your intellect and thoughts
+**Card A**: Air - Your intellect and thoughts
 Card B: Fire - Your passion and ambitions
 Card C: Water - Your emotions and intuition
 Card D: Earth - Your practicality and groundedness

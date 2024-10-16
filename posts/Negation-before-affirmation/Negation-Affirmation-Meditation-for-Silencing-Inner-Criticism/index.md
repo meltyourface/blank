@@ -31,7 +31,7 @@ Begin the visualization process by picturing a vast, empty space representing yo
 **Step 4**: Mantra of Negation
 As you maintain the visualization of the negation sigil, start reciting a complex mantra that embodies the negation process. The mantra should consist of words and phrases that represent the purification and nullification of self-doubt, inner criticism, and any limiting beliefs. Repeat this mantra aloud or silently, weaving it into your breathing pattern.
 
-Sample mantra: "Aham Nirvikalpaam, Mukta Bandhanam, Swaha"
+**Sample mantra**: "Aham Nirvikalpaam, Mukta Bandhanam, Swaha"
 **Step 5**: Dissolving the Negation Sigil
 Visualize the negation sigil being dissolved by the power of your mantra, the negative aspects vanishing as the sigil disintegrates. Allow the negation to occur slowly and thoroughly, symbolizing the release of limiting beliefs and self-doubt from your psyche. 
 **Step 6**: Constructing the Affirmation Sigil
@@ -39,7 +39,7 @@ Upon the dissolution of the negation sigil, begin constructing an intricate ment
 **Step 7**: Mantra of Affirmation
 Recite a complex mantra that reflects your internal transformation. The mantra should manifest self-love, self-acceptance, and positive intentions. Repeat this mantra aloud or silently, weaving it into your breathing pattern.
 
-Sample mantra: "Aham Prema, Aham Shakti, Aham Brahmasmi"
+**Sample mantra**: "Aham Prema, Aham Shakti, Aham Brahmasmi"
 **Step 8**: Infusing Your Psyche with the Affirmation Sigil
 As you continue to recite the affirmation mantra, envision the sigil of self-love radiating with the bright light of positive energy and penetrating deep into your psyche. Visualize the light merging with your true self, filling every corner of your mind and heart with affirmative intentions.
 **Step 9**: Completing the Meditation

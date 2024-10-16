@@ -36,21 +36,21 @@ Key Elements and Features
 
 There are several salient features of the Heptameron that warrant special attention and provide valuable insights into esoteric practices:
 
-1. ****The Circle of Protection****: Similar to other grimoires, the Heptameron outlines the use of a protective circle that must be drawn by the magician. This circle is a fundamental part of the rituals and safeguards the practitioner from the potentially dangerous energies of the spirit world. The circle usually contains elaborate symbols, seals, and sigils to provide additional protection and to represent the authority of the magician over the invoked spirits.
+1. **The Circle of Protection**: Similar to other grimoires, the Heptameron outlines the use of a protective circle that must be drawn by the magician. This circle is a fundamental part of the rituals and safeguards the practitioner from the potentially dangerous energies of the spirit world. The circle usually contains elaborate symbols, seals, and sigils to provide additional protection and to represent the authority of the magician over the invoked spirits.
 
-2. ****Magic Squares and Sigils****: The Heptameron consists of intricate designs combining letters and numbers, known as magic squares. These squares form the basis for creating sigils that are employed in the rituals to invoke specific spirits. The construction of the sigils requires an understanding of numerology and divine correspondences, as well as a thorough grasp of the symbology in the Heptameron.
+2. **Magic Squares and Sigils**: The Heptameron consists of intricate designs combining letters and numbers, known as magic squares. These squares form the basis for creating sigils that are employed in the rituals to invoke specific spirits. The construction of the sigils requires an understanding of numerology and divine correspondences, as well as a thorough grasp of the symbology in the Heptameron.
 
-3. ****Conjurations and Evocations****: The Heptameron provides a vast array of conjurations and evocations for summoning spirits, alongside detailed procedures that must be followed to ensure successful communication with the spirits. The rituals often include the use of particular tools, such as the wand, knife, and chalice, which are associated with elemental forces and human faculties, further cementing the connection between the microcosm and macrocosm.
+3. **Conjurations and Evocations**: The Heptameron provides a vast array of conjurations and evocations for summoning spirits, alongside detailed procedures that must be followed to ensure successful communication with the spirits. The rituals often include the use of particular tools, such as the wand, knife, and chalice, which are associated with elemental forces and human faculties, further cementing the connection between the microcosm and macrocosm.
 
 Important Practices and Rituals
 
 Within the Heptameron, there are numerous rituals and practices necessary for would-be magicians to master.
 
-1. ****Planetary Hours****: An essential aspect of the Heptameron is understanding and utilizing planetary hours. These hours are calculated based on the planetary influence of each day and their governing angelic forces. They determine when certain rituals should be performed.
+1. **Planetary Hours**: An essential aspect of the Heptameron is understanding and utilizing planetary hours. These hours are calculated based on the planetary influence of each day and their governing angelic forces. They determine when certain rituals should be performed.
 
-2. ****Ritual Preparations****: The Heptameron dictates that practitioners engage in fasting, purification, and intense mental and spiritual preparation before commencing any conjuration or evocation. This discipline is crucial for ensuring one's ability to control the invoked spirits successfully.
+2. **Ritual Preparations**: The Heptameron dictates that practitioners engage in fasting, purification, and intense mental and spiritual preparation before commencing any conjuration or evocation. This discipline is crucial for ensuring one's ability to control the invoked spirits successfully.
 
-3. ****Miscellanea of Magick****: Among the many practices described in the Heptameron are methods of invocation, such as calling upon the divine names and angelic forces, as well as ritual tools used to summon and control spiritual beings.
+3. **Miscellanea of Magick**: Among the many practices described in the Heptameron are methods of invocation, such as calling upon the divine names and angelic forces, as well as ritual tools used to summon and control spiritual beings.
 
 The Heptameron in the Wider Occult Tradition
 

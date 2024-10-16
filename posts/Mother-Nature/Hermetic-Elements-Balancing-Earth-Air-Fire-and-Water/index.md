@@ -26,13 +26,13 @@ Hermeticism is an ancient belief system that dates back to the time of the Egypt
 
 The four classical elements - earth, air, fire, and water - are seen as the fundamental building blocks of the universe. **Each element possesses unique characteristics, both physical and spiritual, that contribute to the overall balance and interconnectedness of existence. Understanding each element's characteristics and the way they interact with one another helps us appreciate how Mother Nature manifests her wonders around us**:
 
-1. ****Earth****: As the element of stability and grounding, earth represents the soil and plants, landscapes, and our physical bodies. To create balance in your daily practices, engage with the earth by going for walks in nature, gardening, or practicing yoga to ground yourself.
+1. **Earth**: As the element of stability and grounding, earth represents the soil and plants, landscapes, and our physical bodies. To create balance in your daily practices, engage with the earth by going for walks in nature, gardening, or practicing yoga to ground yourself.
 
-2. ****Air****: As the element of intellect, communication, and freedom, air represents the breath, the winds, and the birds in the sky. To nurture this element, practice mindfulness and deep breathing exercises, or explore new ideas and perspectives through reading, writing, and conversation.
+2. **Air**: As the element of intellect, communication, and freedom, air represents the breath, the winds, and the birds in the sky. To nurture this element, practice mindfulness and deep breathing exercises, or explore new ideas and perspectives through reading, writing, and conversation.
 
-3. ****Fire****: The element of transformation, energy, and passion, fire represents the sun, warmth, and our inner drive. To stoke the flames of this element in your life, engage in creative pursuits, take risks, and embrace opportunities to make changes and grow.
+3. **Fire**: The element of transformation, energy, and passion, fire represents the sun, warmth, and our inner drive. To stoke the flames of this element in your life, engage in creative pursuits, take risks, and embrace opportunities to make changes and grow.
 
-4. ****Water****: As the element of emotions, intuition, and reflective insight, water represents the seas, rivers, and the rain that nourishes life. To foster balance with this element, practice emotional self-care, like engaging in activities that bring you joy and relaxation, or exploring your feelings through journaling or meditation.
+4. **Water**: As the element of emotions, intuition, and reflective insight, water represents the seas, rivers, and the rain that nourishes life. To foster balance with this element, practice emotional self-care, like engaging in activities that bring you joy and relaxation, or exploring your feelings through journaling or meditation.
 
 To evenly incorporate these elements in your daily practices for balance and enhanced connection to the natural world, you can create routines and rituals centered around each element. **For instance, you could start your day with a morning ritual that encompasses all four elements**:
 

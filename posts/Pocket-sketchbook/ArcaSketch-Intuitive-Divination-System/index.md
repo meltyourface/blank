@@ -22,7 +22,7 @@ excerpt: Develop an innovative divination technique utilizing the Pocket sketchb
 
 ## ArcaSketch Divination System
 
-Objective: Create an innovative divination system utilizing a Pocket sketchbook to reveal hidden insights and future predictions through intricate doodles and illustrations. 
+**Objective**: Create an innovative divination system utilizing a Pocket sketchbook to reveal hidden insights and future predictions through intricate doodles and illustrations. 
 
 Materials:
 1. **Pocket sketchbook (dimensions**: 3.5 x 5.5 inches, 48 sheets)

@@ -22,7 +22,7 @@ excerpt: Design an encyclopedic compendium focused on esoteric, occult, and deit
 
 ## Arcana Mysterium: A Comprehensive Study of the Esoteric, Occult, and Deities
 
-Cover Design: An elaborate, intricately detailed mandala encompassing various symbols of the esoteric, occult, and deities.
+**Cover Design**: An elaborate, intricately detailed mandala encompassing various symbols of the esoteric, occult, and deities.
 
 * Introduction
   * Purpose and Scope

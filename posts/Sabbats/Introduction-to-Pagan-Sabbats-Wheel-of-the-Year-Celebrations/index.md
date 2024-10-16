@@ -27,7 +27,7 @@ excerpt: >
 The practice of witchcraft and the study of the esoteric and occult is intimately linked with the natural world and the cycles of the Earth. It is through these cycles that witches find power, wisdom, and a deeper connection to themselves and to the nature that surrounds them. One of the most important elements of these cycles is the celebration of the Sabbats. As you delve deeper into the craft, understanding and honoring the Sabbats is crucial to establishing a strong foundation in your practice.
 
 ### II. The Wheel of the Year and the Eight Annual Sabbats
-The eight annual Sabbats are traditionally celebrated to honor and acknowledge the ever-changing cycles of nature. ****These key instances in the year create the Wheel of the Year—a powerful symbol of the cyclic process that witchcraft and pagan practices revere. The Sabbats are divided into two categories****: the Greater Sabbats, which are associated with agricultural markers, and the Lesser Sabbats, which align with the solstices and equinoxes. 
+The eight annual Sabbats are traditionally celebrated to honor and acknowledge the ever-changing cycles of nature. **These key instances in the year create the Wheel of the Year—a powerful symbol of the cyclic process that witchcraft and pagan practices revere. The Sabbats are divided into two categories**: the Greater Sabbats, which are associated with agricultural markers, and the Lesser Sabbats, which align with the solstices and equinoxes. 
 
 ### III. Greater Sabbats
 1. Samhain (October 31 – November 1)

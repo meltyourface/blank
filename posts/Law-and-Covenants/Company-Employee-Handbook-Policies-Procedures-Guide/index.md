@@ -104,5 +104,5 @@ Employee privacy is of utmost importance. Therefore, all sensitive information, 
 
 I have read and understood the policies and procedures outlined in the Company Employee Manual. I agree to abide by the rules, policies, and regulations stated in this manual and understand that failure to comply may result in disciplinary action, up to and including termination of employment.
 
-Employee Signature: _____________________ Date: _______________
+**Employee Signature**: _____________________ Date: _______________
 Company Representative Signature: _____________________ Date: _______________

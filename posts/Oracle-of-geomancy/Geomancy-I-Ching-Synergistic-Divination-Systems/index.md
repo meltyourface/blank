@@ -24,7 +24,7 @@ The Oracle of geomancy, an ancient form of earth divination, consists of 16 uniq
 
 The core methodology of geomancy's divination practice involves generating random patterns of dots, then reducing them into four binary values that correspond to a geomantic figure. Each figure is then analyzed according to its symbolic meaning and astrological correspondences. In contrast, the I Ching's hexagrams are created through a series of coin tosses or yarrow stalk manipulations that establish a sequence of six binary lines, each line either solid (Yang) or broken (Yin).
 
-Despite their different methods, both forms of divination encourage introspection and philosophical contemplation. ****Furthermore, the elemental correspondences within each system contribute to the complex language of symbolism. In geomancy, the elements of fire, air, water, and earth, are represented in two forms****: active and passive. Similarly, the I Ching bases its elemental concept on the Chinese Wu Xing system, which includes wood, fire, earth, metal, and water.
+Despite their different methods, both forms of divination encourage introspection and philosophical contemplation. **Furthermore, the elemental correspondences within each system contribute to the complex language of symbolism. In geomancy, the elements of fire, air, water, and earth, are represented in two forms**: active and passive. Similarly, the I Ching bases its elemental concept on the Chinese Wu Xing system, which includes wood, fire, earth, metal, and water.
 
 By examining specific geomantic figures and their analogous I Ching hexagrams, we can illuminate some fascinating synergies:
 

@@ -27,7 +27,7 @@ Introduction
 
 Aleister Crowley, an influential figure of the early 20th century, is well-known for his contributions to the world of esoterica, particularly Thelema, his own religious and philosophical system. One of the lesser-known aspects of Crowley's work, but of great importance, lies within Alchemy - the ancient art that merges science, mysticism, and spiritual discipline. This section aims to explore the connections between Aleister Crowley's philosophy and Alchemy, unraveling the concepts, principles, and symbols that informed his approach.
 
-Thelema and Alchemy: A Path to Inner Transformation
+**Thelema and Alchemy**: A Path to Inner Transformation
 
 Central in both Thelema and Alchemy is the concept of transformation, striving towards the perfection of the self. This correlates with the central tenet of Thelema, expressed as "Do what thou wilt shall be the whole of the Law," signifying the imperative for individuals to follow their true will in life.
 

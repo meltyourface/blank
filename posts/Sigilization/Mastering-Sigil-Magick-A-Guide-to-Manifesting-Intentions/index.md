@@ -29,18 +29,18 @@ Chaos Magick is an eclectic and highly individualistic modern magical practice, 
 
 Now let's delve into the process of sigil creation, taking these theories and practices into account.
 
-1. ****Formulate your intent****: Begin with a clear statement of intent. This statement should be concise, free of ambiguities, and focused on a specific outcome. It is important that the intention aligns with your will, as this will serve as the driving force for manifesting your desired outcome.
+1. **Formulate your intent**: Begin with a clear statement of intent. This statement should be concise, free of ambiguities, and focused on a specific outcome. It is important that the intention aligns with your will, as this will serve as the driving force for manifesting your desired outcome.
 
-2. ****Remove vowels and repeating consonants****: Write down your statement of intent and remove all vowels and repeating consonants. This abstraction allows you to begin distancing your conscious mind from the intent, allowing the unconscious mind to take over.
+2. **Remove vowels and repeating consonants**: Write down your statement of intent and remove all vowels and repeating consonants. This abstraction allows you to begin distancing your conscious mind from the intent, allowing the unconscious mind to take over.
 
-3. ****Create an abstract sigil****: Using the remaining letters/characters, create an abstract design or symbol that represents your intent. This process allows you to further distance your intention from recognizable elements, which bridges the gap between your conscious and unconscious mind.
+3. **Create an abstract sigil**: Using the remaining letters/characters, create an abstract design or symbol that represents your intent. This process allows you to further distance your intention from recognizable elements, which bridges the gap between your conscious and unconscious mind.
 
-4. ****Forget the original intent****: Detach the abstract symbol from the specific intent, allowing your unconscious mind to detach from conscious thought and activate the sigil. This step is crucial in letting your unconscious mind work independently from your conscious desires.
+4. **Forget the original intent**: Detach the abstract symbol from the specific intent, allowing your unconscious mind to detach from conscious thought and activate the sigil. This step is crucial in letting your unconscious mind work independently from your conscious desires.
 
-5. ****Charge the sigil****: In order to charge your sigil, you must achieve a state of a raised capacity for energetic manipulation. This can be done through various methods, such as meditation, dance, or even sexual arousal. The aim is to create a state where you are entirely present and your conscious mind is temporarily suspended.
+5. **Charge the sigil**: In order to charge your sigil, you must achieve a state of a raised capacity for energetic manipulation. This can be done through various methods, such as meditation, dance, or even sexual arousal. The aim is to create a state where you are entirely present and your conscious mind is temporarily suspended.
 
-6. ****Activate the sigil****: During the peak of the charging process, visualize the sigil in your mind's eye or focus your attention on a physical representation. This act is the final step of sigil activation and signifies the release of your intention into the unconscious.
+6. **Activate the sigil**: During the peak of the charging process, visualize the sigil in your mind's eye or focus your attention on a physical representation. This act is the final step of sigil activation and signifies the release of your intention into the unconscious.
 
-7. ****Release and allow time for manifestation****: Once the sigil has been charged and activated, release your attachment to the outcome and give it time to manifest. Trust that your unconscious mind has received your intention and will work toward achieving your desired result.
+7. **Release and allow time for manifestation**: Once the sigil has been charged and activated, release your attachment to the outcome and give it time to manifest. Trust that your unconscious mind has received your intention and will work toward achieving your desired result.
 
 To summarize, the key themes in the creation and activation of a sigil, considering the theories of Austin Osman Spare, Grant Morrison, and Chaos Magick, involve formulating a clear intent, abstracting the intent through simplification and symbolic representation, utilizing the connection between the conscious and unconscious minds, charging with an altered state of consciousness, activating the sigil, and releasing the outcome to allow for manifestation. By following these principles and steps, one can wield sigilization to achieve desired outcomes within their lives.

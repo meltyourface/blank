@@ -22,13 +22,13 @@ excerpt: >
 ---
 To develop a comprehensive method for deciphering the movements and behaviors of various bird and animal species as omens within the context of Telete while incorporating esoteric symbolism and occult practices, we shall proceed with the following steps:
 
-1. ****Foundational Knowledge****: Study ancient texts, myths, and folklore that touch on the subject of animal and bird omens. Notable sources include Pliny the Elder's "Natural History," Aristotle's "Historia Animalium," and "The Book of the Decans" from ancient Egypt. Delve into occult and magical texts, such as the "Key of Solomon," "The Picatrix," and "The Lesser Key of Solomon."
+1. **Foundational Knowledge**: Study ancient texts, myths, and folklore that touch on the subject of animal and bird omens. Notable sources include Pliny the Elder's "Natural History," Aristotle's "Historia Animalium," and "The Book of the Decans" from ancient Egypt. Delve into occult and magical texts, such as the "Key of Solomon," "The Picatrix," and "The Lesser Key of Solomon."
 
-2. ****Modern Advancements****: Research modern zoological, ornithological, and ethological studies to gain a deeper understanding of animal and bird behaviors, communication, and migration patterns.
+2. **Modern Advancements**: Research modern zoological, ornithological, and ethological studies to gain a deeper understanding of animal and bird behaviors, communication, and migration patterns.
 
-3. ****Astrological and Natural Occurrences****: Familiarize yourself with basic astrological principles and how they might impact the behavior of birds and animals as omens. Also, understand the significance of natural phenomena like eclipses, solstices, and equinoxes.
+3. **Astrological and Natural Occurrences**: Familiarize yourself with basic astrological principles and how they might impact the behavior of birds and animals as omens. Also, understand the significance of natural phenomena like eclipses, solstices, and equinoxes.
 
-4. ****Symbolism****: Assign symbolic meanings to various animals and birds based on ancient texts, mythologies, and the aforementioned foundational knowledge.
+4. **Symbolism**: Assign symbolic meanings to various animals and birds based on ancient texts, mythologies, and the aforementioned foundational knowledge.
 
 Guidelines for Interpreting Patterns, Positioning, and Timing in Relation to Astrological and Natural Occurrences:
 

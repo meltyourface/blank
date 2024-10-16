@@ -23,7 +23,7 @@ excerpt: >
 
 ## Title: The Antinomian Oracle: Illuminations of the Left-Hand Path
 
-Deck Structure: The Antinomian Oracle consists of 36 cards, divided into three suits: Chaos Magick (12 cards), Satanic Iconography (12 cards), and Gnostic Wisdom (12 cards).
+**Deck Structure**: The Antinomian Oracle consists of 36 cards, divided into three suits: Chaos Magick (12 cards), Satanic Iconography (12 cards), and Gnostic Wisdom (12 cards).
 
 Card List:
 

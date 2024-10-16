@@ -27,7 +27,7 @@ In the realm of the occult, blessings and curses have long played a pivotal role
 
 Types of Blessing and Curse
 
-Two principal categories encompass the scope of blessings and curses: Invocational and Transference.
+**Two principal categories encompass the scope of blessings and curses**: Invocational and Transference.
 
 1. Invocational: Invocational blessings and curses are cast by directly calling upon the spiritual entities – be they gods, angels, demons, or nature spirits – and requesting their assistance in creating the desired effect. This method requires a deep connection with the entity and proficiency in energetic communion.
 

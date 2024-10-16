@@ -33,7 +33,7 @@ excerpt: >
 
 ## The Arcane Rite of Transformational Equilibrium
 
-Ritual Setting: Select a day of significant celestial or symbolic relevance (e.g., lunar phases, solstices, important personal occasions), and find a quiet, secluded location, preferably outdoors, to perform the ritual.
+**Ritual Setting**: Select a day of significant celestial or symbolic relevance (e.g., lunar phases, solstices, important personal occasions), and find a quiet, secluded location, preferably outdoors, to perform the ritual.
 
 1. Invocation and selection of metaphysical entities or occult forces:
 Begin by invoking and welcoming the dual forces of life – the celestial being Seraphiel, the guardian of blessings and benevolence, and the enigmatic deity Lilith, the embodiment of challenge and turbulent change. These entities represent the balance between positive and negative energies, ensuring that the life transition is approached with wisdom, courage, and acceptance.

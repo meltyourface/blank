@@ -37,9 +37,9 @@ excerpt: >
 
 ## Unraveling the Mysteries of the Evil Eye: A Comprehensive Exploration 
 
-Lesson Duration: 8 hours (1-day workshop)
+**Lesson Duration**: 8 hours (1-day workshop)
 
-Lesson Objective: By the end of this lesson, participants should have a well-rounded understanding of the various aspects of the Evil eye, its historical origins, cultural implications, and continued relevance in contemporary society.
+**Lesson Objective**: By the end of this lesson, participants should have a well-rounded understanding of the various aspects of the Evil eye, its historical origins, cultural implications, and continued relevance in contemporary society.
 
 Lesson Components:
 

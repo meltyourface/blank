@@ -31,7 +31,7 @@ Arcane magic is an ancient and potent form of sorcery that manipulates the raw e
 
 ### 1.2 Core Principles of Arcane Magic
 
-Two central pillars underpin arcane magic: the Five Energetic Laws and the Threefold Arcane Connection. **Foundational knowledge in these areas is crucial for the budding arcanist**:
+**Two central pillars underpin arcane magic**: the Five Energetic Laws and the Threefold Arcane Connection. **Foundational knowledge in these areas is crucial for the budding arcanist**:
 
 (A) The Five Energetic Laws
 

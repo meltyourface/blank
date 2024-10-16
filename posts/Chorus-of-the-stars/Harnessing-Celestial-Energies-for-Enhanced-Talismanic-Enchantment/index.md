@@ -39,11 +39,11 @@ Potential Obstacles:
 
 2. **Overwhelming Power**: The vast energies channeled from celestial emblems may be challenging for practitioners to control, potentially leading to unintended consequences or the overwhelming of the talisman itself.
 
-Case Study: Alpheratz
+**Case Study**: Alpheratz
 
 Alpheratz, located in the Andromeda constellation, is associated with strength, independence, and personal transformation. When integrated into talismanic enchantment, the resonant energies of Alpheratz can be utilized to promote growth, resilience, and autonomy in the talisman bearer. However, practitioners must remain vigilant and exercise caution when selecting complementary celestial emblems, as excessively amplifying the energies of Alpheratz could result in an excess of assertiveness and self-confidence for the talisman bearer, overwhelming their capacity for empathy and compassion.
 
-Case Study: Vega
+**Case Study**: Vega
 
 Vega, the brightest star in the Lyra constellation, symbolizes creativity, inspiration, and the pursuit of new frontiers. Talismans imbued with the celestial energies of Vega promote ingenuity, innovation, and the bold exploration of uncharted territories. However, the potent energies of Vega may prove challenging for some practitioners to control, requiring the development of advanced techniques to stabilize and temper the cosmic forces.
 

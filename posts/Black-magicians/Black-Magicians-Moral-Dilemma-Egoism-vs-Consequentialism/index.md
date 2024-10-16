@@ -23,7 +23,7 @@ To begin comprehending the moral and ethical quandary faced by a practicing Blac
 
 From a historical perspective, Black Magic has been associated with the pursuit of desire and ambition without adhering to the moral and social boundaries set forth by mainstream religions or belief systems. This has resulted in Black Magicians being portrayed as individuals aligning themselves with dark forces, undermining societal norms, and striving for power.
 
-The essential moral and ethical dilemma faced by practicing Black Magicians utilizing their powers for personal gain while concurrently preserving secrecy can be elucidated through the lens of two intertwined philosophical issues: egoism and consequentialism.
+**The essential moral and ethical dilemma faced by practicing Black Magicians utilizing their powers for personal gain while concurrently preserving secrecy can be elucidated through the lens of two intertwined philosophical issues**: egoism and consequentialism.
 
 Egoism posits that individuals should act in their own self-interest, a fundamental tenet of Black Magic. In this context, the Black Magician is justified in his pursuit of personal gain achieved through his magical craft. However, with such a quest comes the risk of succumbing to the darker aspects of human nature: greed, narcissism, and domination over others.
 

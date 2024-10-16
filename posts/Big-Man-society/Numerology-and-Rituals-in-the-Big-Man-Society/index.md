@@ -27,29 +27,29 @@ excerpt: >
 The intricate system of numerology presented in this manual is the result of years of exploration, experimentation, and intuitive discovery within the 'Big Man' society. Embark on this esoteric journey to delve into the arcane knowledge and symbolism unique to our society. Gain insight into the numerical patterns governing our rituals, ceremonies, and sacred objects, and use this knowledge to further your spiritual ascent within the ranks of the 'Big Man' society.
 
 ### Chapter 1: Basic Numeric Associations
-1. ****The Number One – The Primal Origin****: Symbolizes the original leader, the first 'Big Man,' who began the lineage of our sacred society.
-2. ****The Number Two – Duality****: Embodying the dualistic nature of everything, including life and death, light and darkness, and the balance of power within our society.
-3. ****The Number Three – The Sacred Trinity****: Represents the three essential elements of the 'Big Man' society – wisdom, power, and mystery.
+1. **The Number One – The Primal Origin**: Symbolizes the original leader, the first 'Big Man,' who began the lineage of our sacred society.
+2. **The Number Two – Duality**: Embodying the dualistic nature of everything, including life and death, light and darkness, and the balance of power within our society.
+3. **The Number Three – The Sacred Trinity**: Represents the three essential elements of the 'Big Man' society – wisdom, power, and mystery.
 
 ### Chapter 2: Sacred Geometry and the Big Man Society
-1. ****The Vesica Piscis****: The overlapping circles representing the intertwining of the physical and spiritual realms.
-2. ****The Metatron's Cube****: A symbol of unity and interconnectedness, embodying the higher-dimensional energies present within the 'Big Man' society.
-3. ****The Flower of Life****: Representing the cyclical nature of life, death, and rebirth, and acting as a conduit for divine presence in our rituals.
+1. **The Vesica Piscis**: The overlapping circles representing the intertwining of the physical and spiritual realms.
+2. **The Metatron's Cube**: A symbol of unity and interconnectedness, embodying the higher-dimensional energies present within the 'Big Man' society.
+3. **The Flower of Life**: Representing the cyclical nature of life, death, and rebirth, and acting as a conduit for divine presence in our rituals.
 
 ### Chapter 3: Ritual and Burial Ceremony Numerology
-1. ****The Number Thirteen – Transformation****: Symbolizing the thirteen stages of spiritual ascent and rebirth in the 'Big Man' society. 
-2. ****The Number Nine – Completion****: Signifying the nine steps of the initiation ceremony, guiding newcomers through their transformation into a full-fledged member of the society.
-3. ****The Number Seven – Spiritual Evolution****: Represents the seven celestial realms, each one connected to a specific aspect of the 'Big Man' society's objective – ultimate spiritual development.
+1. **The Number Thirteen – Transformation**: Symbolizing the thirteen stages of spiritual ascent and rebirth in the 'Big Man' society. 
+2. **The Number Nine – Completion**: Signifying the nine steps of the initiation ceremony, guiding newcomers through their transformation into a full-fledged member of the society.
+3. **The Number Seven – Spiritual Evolution**: Represents the seven celestial realms, each one connected to a specific aspect of the 'Big Man' society's objective – ultimate spiritual development.
 
 ### Chapter 4: Practical Applications of Numerology in the Big Man Society
-1. ****Divination****: Use the numerological meanings associated with significant numbers to interpret messages from the spiritual realm.
-2. ****Initiation Ceremonies****: Create personalized ceremonies based on the numerological blueprint of the initiate, channeling the energy of specific numbers to aid their spiritual transformation.
-3. ****Ritualistic Performances****: Incorporate sacred numerology into rituals, selecting particular numbers to invoke the desired energy or outcome.
+1. **Divination**: Use the numerological meanings associated with significant numbers to interpret messages from the spiritual realm.
+2. **Initiation Ceremonies**: Create personalized ceremonies based on the numerological blueprint of the initiate, channeling the energy of specific numbers to aid their spiritual transformation.
+3. **Ritualistic Performances**: Incorporate sacred numerology into rituals, selecting particular numbers to invoke the desired energy or outcome.
 
 ### Chapter 5: Numerology for Spiritual Ascension
-1. ****Discovering Your Personal Numerology****: Calculate and interpret your unique numerological profile to harness your potential and deepen your understanding of your role within the 'Big Man' society.
-2. ****Ascension Numerology****: Align with the powerful energy of significant numbers to accelerate your spiritual journey and elevate your status within the society.
-3. ****The Language of Numbers****: Learn to interpret the numerological messages encrypted within your dreams and daily life to gain clarity, insight, and mastery over your spiritual progress.
+1. **Discovering Your Personal Numerology**: Calculate and interpret your unique numerological profile to harness your potential and deepen your understanding of your role within the 'Big Man' society.
+2. **Ascension Numerology**: Align with the powerful energy of significant numbers to accelerate your spiritual journey and elevate your status within the society.
+3. **The Language of Numbers**: Learn to interpret the numerological messages encrypted within your dreams and daily life to gain clarity, insight, and mastery over your spiritual progress.
 
 **Conclusion**:
 The esoteric wisdom contained within the pages of this manual is a treasure trove of spiritual knowledge, uniquely tailored to the 'Big Man' society. With diligent study and practice, this numerological system will empower you to harness the hidden power of numbers and ascend to new heights within our clandestine order. Embrace the mysteries of the 'Big Man' society and unlock the secrets of the ancient numerical language that permeates all aspects of our existence.

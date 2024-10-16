@@ -54,4 +54,4 @@ The Queen of the BirdsMagic order has had an indelible impact on the social and 
 
 The Queen of the BirdsMagic order remains a relevant and influential force within the modern occult world, revered for its wisdom, symbology, and enchantments. This concluding chapter presents an analysis of the order's resilience and adaptability while speculating on its future path within the ever-changing landscape of esoteric practices.
 
-Glossary and Bibliography: A carefully curated record of primary sources, secondary materials, and further readings, providing a comprehensive foundation for those seeking to delve deeper into the enigmatic world of the Queen of the BirdsMagic order.
+**Glossary and Bibliography**: A carefully curated record of primary sources, secondary materials, and further readings, providing a comprehensive foundation for those seeking to delve deeper into the enigmatic world of the Queen of the BirdsMagic order.

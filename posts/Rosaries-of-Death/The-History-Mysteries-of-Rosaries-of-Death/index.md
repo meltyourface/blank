@@ -36,26 +36,26 @@ Several elements are associated with the Rosaries of Death, chiefly earth and wa
 
 The Rosaries of Death hold great power and can be used in a variety of ways:
 
-1. ****Meditation****: When meditating upon the mysteries of life and death, the rosary serves as an object of contemplation and a physical reminder of the impermanence of life.
-2. ****Ceremonial Work****: In rituals calling upon the spirits of the dead or deities associated with death, the rosary can be used in invocation, devotional offerings, and as a conduit for summoning these forces.
-3. ****Spellwork****: When casting spells with a theme of transformation, rebirth, or the severing of unwanted ties, the Rosaries of Death can amplify the practitioner's intentions and serve as an anchor for the energies being invoked.
-4. ****Protection****: The formidable energies within the Rosaries of Death serve as powerful talismans to protect the bearer from malevolent forces or situations that may threaten their well-being.
+1. **Meditation**: When meditating upon the mysteries of life and death, the rosary serves as an object of contemplation and a physical reminder of the impermanence of life.
+2. **Ceremonial Work**: In rituals calling upon the spirits of the dead or deities associated with death, the rosary can be used in invocation, devotional offerings, and as a conduit for summoning these forces.
+3. **Spellwork**: When casting spells with a theme of transformation, rebirth, or the severing of unwanted ties, the Rosaries of Death can amplify the practitioner's intentions and serve as an anchor for the energies being invoked.
+4. **Protection**: The formidable energies within the Rosaries of Death serve as powerful talismans to protect the bearer from malevolent forces or situations that may threaten their well-being.
 
 ### Chapter 4: Warnings and Precautions
 
 Those who seek to employ the energies of the Rosaries of Death must exercise caution:
 
-1. ****Intent****: The practitioner should approach the Rosaries of Death with a clear mind, reverence, and a specific purpose. Ill intentions or a lack of focus can lead to unintended consequences.
-2. ****Psychic Hygiene****: Regularly cleanse and purify the rosary to prevent the accumulation of residual energies that may interfere with future workings.
-3. ****Respect****: The practitioner must remember that the energies and beings associated with the Rosaries of Death are not to be trifled with. Treat these forces with the utmost respect and be prepared to accept any potential ramifications of your actions.
+1. **Intent**: The practitioner should approach the Rosaries of Death with a clear mind, reverence, and a specific purpose. Ill intentions or a lack of focus can lead to unintended consequences.
+2. **Psychic Hygiene**: Regularly cleanse and purify the rosary to prevent the accumulation of residual energies that may interfere with future workings.
+3. **Respect**: The practitioner must remember that the energies and beings associated with the Rosaries of Death are not to be trifled with. Treat these forces with the utmost respect and be prepared to accept any potential ramifications of your actions.
 
 ### Chapter 5: Methods of Crafting and Consecration
 
 Any object infused with profound intention and symbolic materials can function as a potent Rosary of Death:
 
-1. ****Choosing materials****: Select materials with significance to the goal of the rosary, such as bones, gemstones, or other objects that represent mortality and transformation.
-2. ****Construction****: Craft the rosary while maintaining a meditative state, focusing on your intentions or the desired outcome of its use.
-3. ****Consecration****: To activate the power of your work, perform a ritual consecration. This can involve invoking deities or spirits associated with death, blessing the rosary with purified water and earth, or offering it to the elements in a nighttime ceremony.
+1. **Choosing materials**: Select materials with significance to the goal of the rosary, such as bones, gemstones, or other objects that represent mortality and transformation.
+2. **Construction**: Craft the rosary while maintaining a meditative state, focusing on your intentions or the desired outcome of its use.
+3. **Consecration**: To activate the power of your work, perform a ritual consecration. This can involve invoking deities or spirits associated with death, blessing the rosary with purified water and earth, or offering it to the elements in a nighttime ceremony.
 
 In Conclusion:
 

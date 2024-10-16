@@ -26,7 +26,7 @@ excerpt: Write a short yet informationally dense section of a grimoire on Divina
 
 Divination is the mystical art of seeking answers or guidance from the universe, tapping into the occult or hidden knowledge to gain insight and clarity. From its ancient roots to modern practices, divination has captured the imagination of countless individuals, urging them to explore the unseen mysteries of the world. In this section, we will delve into the history and techniques of three essential divination methods: tarot cards, scrying, and pendulum divination, delving into their symbolism, cultural relevance, and role in shaping human thought and action.
 
-Tarot Cards: A Journey Through the Archetypal Pathways
+**Tarot Cards**: A Journey Through the Archetypal Pathways
 
 Tarot cards, first emerging in the 15th century, represent a deep and multifaceted system of divination that interweaves symbolic imagery, numerology, and elemental significance. The Tarot deck consists of 78 cards, divided into two distinct sections: the 22 Major Arcana that symbolize life's profound archetypal experiences, and the 56 Minor Arcana that reflects day-to-day experiences through the suits of Swords, Wands, Cups, and Pentacles.
 
@@ -38,7 +38,7 @@ Scrying, or the act of gazing into a reflective surface to receive guidance or e
 
 Integral to scrying is the concept of shifting one's focus from the mundane, external world to an internal, spiritual realm. Scrying techniques often require the practitioner to enter an altered state of consciousness, where the veil between the physical and intuitive realms become thin. Scryers must maintain receptivity and open-mindedness to receive the messages and visions that may appear.
 
-Pendulum Divination: The Dance Between the Known and the Unknown
+**Pendulum Divination**: The Dance Between the Known and the Unknown
 
 Pendulum divination, or dowsing, involves the use of a suspended, weighted object that can swing freely. It has been utilized for centuries in various forms, serving purposes such as detecting water, minerals, or seeking out lost objects. In the context of divination, the pendulum serves as a conduit to access the unknown.
 

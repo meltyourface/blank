@@ -32,27 +32,27 @@ Throughout history, key figures have contributed to the further development of S
 
 Sun Yung Shin's core beliefs revolve around the understanding of the interconnectedness between oneself, the natural world, and the cosmos. **It promotes harmony, balance, and continual personal refinement. Key principles include**:
 
-1. ****The unity of opposites****: The concept of polarities, representing complementary forces, rather than conflicting opposites. These forces work in sync to create the harmonious flow found in nature.
+1. **The unity of opposites**: The concept of polarities, representing complementary forces, rather than conflicting opposites. These forces work in sync to create the harmonious flow found in nature.
 
-2. ****Inner alchemy****: Utilizing internal practices to cultivate one's energy, or qi, in order to achieve spiritual enlightenment and personal growth.
+2. **Inner alchemy**: Utilizing internal practices to cultivate one's energy, or qi, in order to achieve spiritual enlightenment and personal growth.
 
-3. ****Spiritual attunement****: Aligning oneself with natural and universal forces to facilitate progress in attaining wisdom and self-mastery.
+3. **Spiritual attunement**: Aligning oneself with natural and universal forces to facilitate progress in attaining wisdom and self-mastery.
 
-The objectives of Sun Yung Shin are twofold: to foster personal growth and enhance spiritual understanding. By integrating its teachings into one's daily life, an individual may achieve a state of harmony within themselves and their environment, ultimately transforming both their inner and outer realities.
+**The objectives of Sun Yung Shin are twofold**: to foster personal growth and enhance spiritual understanding. By integrating its teachings into one's daily life, an individual may achieve a state of harmony within themselves and their environment, ultimately transforming both their inner and outer realities.
 
 ### Chapter 3: Practices and Rituals in Sun Yung Shin
 
 Sun Yung Shin encompasses a diverse array of practices and rituals designed to shape one's inner landscape and strengthen their connection to the unseen dimensions of reality. **Some of these practices include**:
 
-1. ****Meditation****: Contemplative exercises that involve stilling the mind and focusing on inner imagery, feelings, and thoughts to enhance mental clarity and spiritual awareness.
+1. **Meditation**: Contemplative exercises that involve stilling the mind and focusing on inner imagery, feelings, and thoughts to enhance mental clarity and spiritual awareness.
 
-2. ****Divination****: Techniques such as I Ching and oracle consultations to gain insight into the flow of cosmic energies and to seek guidance from the spiritual realm.
+2. **Divination**: Techniques such as I Ching and oracle consultations to gain insight into the flow of cosmic energies and to seek guidance from the spiritual realm.
 
-3. ****Ritualistic ceremonies****: Incorporating dance, music, and symbolic offerings to harmonize the practitioner with the spiritual world and invoke blessings for oneself, others, and the environment.
+3. **Ritualistic ceremonies**: Incorporating dance, music, and symbolic offerings to harmonize the practitioner with the spiritual world and invoke blessings for oneself, others, and the environment.
 
-4. ****Energy work****: Practices like qigong and tai chi involving the subtle manipulation of vital energy (qi) to restore balance, improve health, and attain higher states of awareness.
+4. **Energy work**: Practices like qigong and tai chi involving the subtle manipulation of vital energy (qi) to restore balance, improve health, and attain higher states of awareness.
 
-5. ****Talismanic magic****: Crafting and utilizing symbolic images, objects, and inscriptions to channel specific energies for protection, healing, and empowerment.
+5. **Talismanic magic**: Crafting and utilizing symbolic images, objects, and inscriptions to channel specific energies for protection, healing, and empowerment.
 
 ### Chapter 4: Guidance for Initiates in Sun Yung Shin
 

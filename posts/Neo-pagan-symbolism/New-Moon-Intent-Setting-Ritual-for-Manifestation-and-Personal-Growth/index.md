@@ -23,7 +23,7 @@ excerpt: >
 New Moon Intention Setting Ritual with Neo-Pagan Symbolism
 
 1. Preparation
-Begin by choosing a quiet, clean space where you can perform the ritual without interruption. ****Prepare the altar with a traditional pentagram layout, using elemental correspondences for each point****: Earth at the top left, Air at the top right, Fire at the bottom left, Water at the bottom right, and Spirit at the center top.
+Begin by choosing a quiet, clean space where you can perform the ritual without interruption. **Prepare the altar with a traditional pentagram layout, using elemental correspondences for each point**: Earth at the top left, Air at the top right, Fire at the bottom left, Water at the bottom right, and Spirit at the center top.
 
 2. Ritual Tools
 For this ritual, you will need the following:

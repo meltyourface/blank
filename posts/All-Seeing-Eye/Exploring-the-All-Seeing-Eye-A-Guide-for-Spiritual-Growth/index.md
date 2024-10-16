@@ -37,9 +37,9 @@ Associated Practices in Occultism
 
 The All-Seeing Eye has long been associated with various esoteric and occult practices. These methods and rituals often seek to awaken or develop one's psychic and intuitive faculties, thus enabling deeper communion with hidden knowledge and the spiritual realm. Techniques such as meditation, visualization, and invocations can help an initiate forge a powerful connection with the symbol and its meanings.
 
-Meditation and Visualization: One of the primary methods for engaging with the All-Seeing Eye is meditation in conjunction with visualization. In this technique, the initiate focuses their mind on the symbol, envisioning it as a source of divine wisdom and insight. Visualizing the symbol during meditation can open psychic channels, allowing for enhanced intuition and clarity.
+**Meditation and Visualization**: One of the primary methods for engaging with the All-Seeing Eye is meditation in conjunction with visualization. In this technique, the initiate focuses their mind on the symbol, envisioning it as a source of divine wisdom and insight. Visualizing the symbol during meditation can open psychic channels, allowing for enhanced intuition and clarity.
 
-Evocation and Invocation: Invoking or evoking the guidance and protection of the All-Seeing Eye may involve rituals that vary depending on the initiate's chosen path or personal preference. These practices may involve reciting prayers, mantras, or even incantations, or using ritual tools such as candles, crystals, and sacred geometry to create a sacred space where one can connect with the energies associated with the symbol.
+**Evocation and Invocation**: Invoking or evoking the guidance and protection of the All-Seeing Eye may involve rituals that vary depending on the initiate's chosen path or personal preference. These practices may involve reciting prayers, mantras, or even incantations, or using ritual tools such as candles, crystals, and sacred geometry to create a sacred space where one can connect with the energies associated with the symbol.
 
 Developing Your Personal Spiritual Journey
 

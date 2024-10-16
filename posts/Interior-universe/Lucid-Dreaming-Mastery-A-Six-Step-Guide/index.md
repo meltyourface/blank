@@ -34,8 +34,8 @@ Research into the secret dream-walkers of the Interior universe reveals various 
 
 Daytime Exercises:
    
-   a. ****Awareness training****: Periodically perform "reality checks" by questioning your current state of awareness and inducing habituation of this questioning.
-   b. ****Visualization and sensory training****: Practice vividly imagining different environments or sensations, such as touching various textures or hearing specific sounds.
+   a. **Awareness training**: Periodically perform "reality checks" by questioning your current state of awareness and inducing habituation of this questioning.
+   b. **Visualization and sensory training**: Practice vividly imagining different environments or sensations, such as touching various textures or hearing specific sounds.
 
 Nighttime rituals:
    

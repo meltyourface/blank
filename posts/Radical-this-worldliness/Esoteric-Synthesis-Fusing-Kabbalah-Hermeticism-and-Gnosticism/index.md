@@ -29,12 +29,12 @@ In order to architect a novel and comprehensive system within the framework of R
 
 **Synthesis**: The fusion of these diverse esoteric traditions results in a system that we will call "The Integrative Path of Radical Illumination." This system encompasses the following:
 
-Ritual Practices: 
+**Ritual Practices**: 
 - Rituals and ceremonies involving elements, colors, and symbols corresponding to the different modalities (e.g., Kabbalistic Sefirot, Hermetic alchemy, and Gnostic divine sparks).
 - Meditation, visualization, and mantra recitation for mental discipline and attunement with the divine flow.
 - Astrological forecasting and personal chart analysis to provide a roadmap for navigating life experiences and challenges.
 
-Metaphysical Principles: 
+**Metaphysical Principles**: 
 - The interconnectivity and emanations of the Tree of Life as a blueprint for both individual and collective spiritual evolution.
 - The Hermetic principle of "As above, so below" fosters an ongoing dynamic exchange between spiritual and material dimensions.
 - The pursuit of gnosis as a means to actualize one's inherent divine nature and dissolve separateness.

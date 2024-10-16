@@ -27,25 +27,25 @@ A VisionEmblemata, a powerful and esoteric branch of the occult, fuses the art o
 
 Core Principles:
 
-1. ****Symbology****: At the heart of A VisionEmblemata lies the sacred interpretation of symbols. These visual representations hold the key to understanding higher truths and serve as a conduit for establishing connections with divine entities or forces. Students must learn to recognize, decipher, and wield these symbols to tap into their inherent power.
+1. **Symbology**: At the heart of A VisionEmblemata lies the sacred interpretation of symbols. These visual representations hold the key to understanding higher truths and serve as a conduit for establishing connections with divine entities or forces. Students must learn to recognize, decipher, and wield these symbols to tap into their inherent power.
 
-2. ****The Union of Cosmos and Psyche****: A VisionEmblemata practitioners comprehend that the cosmos and the psyche are entwined. Recognizing this interconnectedness enables initiates to unveil the greater mysteries of existence and attain gnosis, the divine knowledge of one's true self and the nature of reality.
+2. **The Union of Cosmos and Psyche**: A VisionEmblemata practitioners comprehend that the cosmos and the psyche are entwined. Recognizing this interconnectedness enables initiates to unveil the greater mysteries of existence and attain gnosis, the divine knowledge of one's true self and the nature of reality.
 
-3. ****The Mystery of Manifestation****: One of the primary goals of A VisionEmblemata practitioners is the mastery of manifestation. This involves the art of transcendence—transmuting one's thoughts into tangible outcomes with the aid of symbolism, intention, and focused will. Through this practice, the initiate unlocks limitless potentialities, achieving a perfect harmony between the metaphysical and the material realms.
+3. **The Mystery of Manifestation**: One of the primary goals of A VisionEmblemata practitioners is the mastery of manifestation. This involves the art of transcendence—transmuting one's thoughts into tangible outcomes with the aid of symbolism, intention, and focused will. Through this practice, the initiate unlocks limitless potentialities, achieving a perfect harmony between the metaphysical and the material realms.
 
 Essential Practices:
 
-1. ****Visualization****: Mindful visualization forms the basis of A VisionEmblemata. Practitioners develop their ability to conjure vivid mental images, often steeped in symbolism. This technique empowers them to create, manipulate, and materialize their desires, eventually leading to a greater mastery over reality.
+1. **Visualization**: Mindful visualization forms the basis of A VisionEmblemata. Practitioners develop their ability to conjure vivid mental images, often steeped in symbolism. This technique empowers them to create, manipulate, and materialize their desires, eventually leading to a greater mastery over reality.
 
-2. ****Meditation and Contemplation****: Disciples of A VisionEmblemata strengthen their inner prowess through regular meditation and contemplation, inviting stillness and clarity into their minds. This practice sharpens their intuition, allowing them to better perceive and interpret the hidden symbols that pervade existence.
+2. **Meditation and Contemplation**: Disciples of A VisionEmblemata strengthen their inner prowess through regular meditation and contemplation, inviting stillness and clarity into their minds. This practice sharpens their intuition, allowing them to better perceive and interpret the hidden symbols that pervade existence.
 
-3. ****Ritual and Ceremony****: Practitioners employ rituals and ceremonies to harness and focus energy. Through the use of specific gestures, words, and symbols, they cultivate and direct their intentions, amplifying their manifestations.
+3. **Ritual and Ceremony**: Practitioners employ rituals and ceremonies to harness and focus energy. Through the use of specific gestures, words, and symbols, they cultivate and direct their intentions, amplifying their manifestations.
 
 Deeper Mystic Aspects:
 
-1. ****Lucid Dreaming and Astral Travel****: Students of A VisionEmblemata often delve into the realms of lucid dreaming and astral projection, transcending the boundaries of the physical body to explore unfathomable dimensions. These experiences, rich in symbolism and wisdom, provide invaluable insights into the interconnectedness of all things and allow the practitioner to harness cosmic energy.
+1. **Lucid Dreaming and Astral Travel**: Students of A VisionEmblemata often delve into the realms of lucid dreaming and astral projection, transcending the boundaries of the physical body to explore unfathomable dimensions. These experiences, rich in symbolism and wisdom, provide invaluable insights into the interconnectedness of all things and allow the practitioner to harness cosmic energy.
 
-2. ****Divination and Channeling****: The ability to access cryptic knowledge is highly revered in A VisionEmblemata. As practitioners progress, they learn to employ various forms of divination—be it tarot, runes, or scrying—to receive guidance and wisdom from higher sources. Additionally, channeling, the act of communing with divine entities or spirits, offers a direct means of expanding one's understanding and embracing hidden truths.
+2. **Divination and Channeling**: The ability to access cryptic knowledge is highly revered in A VisionEmblemata. As practitioners progress, they learn to employ various forms of divination—be it tarot, runes, or scrying—to receive guidance and wisdom from higher sources. Additionally, channeling, the act of communing with divine entities or spirits, offers a direct means of expanding one's understanding and embracing hidden truths.
 
 History and Key Figures:
 

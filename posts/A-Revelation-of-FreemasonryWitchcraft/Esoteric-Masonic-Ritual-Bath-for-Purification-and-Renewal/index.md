@@ -26,18 +26,18 @@ excerpt: >
 **Purpose**: To ensure participants are spiritually cleansed and renewed, and to prepare them for participation in arcane ceremonies and spellwork.
 
 ### I. **Setting and Tools for the Ritual Bath**:
-1. ****Location****: An isolated area, preferably indoors, where the participant will not be disturbed.
-2. ****Bath****: A sizeable bathtub or ritual pool, clean and free of debris.
-3. ****Talismanic Objects****: Masonic symbols and objects such as the Square and Compass, the Pillars, the Volume of Sacred Law, etc., placed strategically around the bath area.
-4. ****Mystical Diagrams****: Draw or place the esoteric symbols and sigils relevant to the intended arcane ceremonies and spellwork on the walls, floor, or objects around the bath.
-5. ****Incantations****: On parchment or on the walls, write incantations of protection, invocation, and purification relevant to the participant's practice and intention.
+1. **Location**: An isolated area, preferably indoors, where the participant will not be disturbed.
+2. **Bath**: A sizeable bathtub or ritual pool, clean and free of debris.
+3. **Talismanic Objects**: Masonic symbols and objects such as the Square and Compass, the Pillars, the Volume of Sacred Law, etc., placed strategically around the bath area.
+4. **Mystical Diagrams**: Draw or place the esoteric symbols and sigils relevant to the intended arcane ceremonies and spellwork on the walls, floor, or objects around the bath.
+5. **Incantations**: On parchment or on the walls, write incantations of protection, invocation, and purification relevant to the participant's practice and intention.
 
 ### II. **Ingredients for the Ritual Bath**:
-1. ****Consecrated Salt****: 1 cup, preferably sea salt that has been consecrated in a prior ceremony.
-2. ****Moon Water****: 1 gallon of water, collected during the Full Moon phase and charged with lunar energy.
-3. ****Lavender Flowers****: 1/2 cup, dried or fresh.
-4. ****Mugwort Leaves****: 1/4 cup, dried or fresh.
-5. ****Rosemary Sprigs****: 1/4 cup, dried or fresh.
+1. **Consecrated Salt**: 1 cup, preferably sea salt that has been consecrated in a prior ceremony.
+2. **Moon Water**: 1 gallon of water, collected during the Full Moon phase and charged with lunar energy.
+3. **Lavender Flowers**: 1/2 cup, dried or fresh.
+4. **Mugwort Leaves**: 1/4 cup, dried or fresh.
+5. **Rosemary Sprigs**: 1/4 cup, dried or fresh.
 
 ### III. **Preparatory Meditations, Invocations, and Affirmations**:
 1. Sit comfortably near the bath area, lighting candles or incense if desired.

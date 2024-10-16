@@ -37,7 +37,7 @@ As an initiatory order, the Gate of the Silver Star engages initiates with pract
 
 ### III. Key Principles
 
-The central mission of the Gate of the Silver Star aligns with the maxim inscribed upon the sacred parchment of Thelema: "Do what thou wilt shall be the whole of the Law." To comprehend and fulfill one's True Will is to achieve harmonious synchronization with both the universe and oneself, transcending conventional notions of good and evil.
+**The central mission of the Gate of the Silver Star aligns with the maxim inscribed upon the sacred parchment of Thelema**: "Do what thou wilt shall be the whole of the Law." To comprehend and fulfill one's True Will is to achieve harmonious synchronization with both the universe and oneself, transcending conventional notions of good and evil.
 
 Within the A∴A∴ system, aspirants progress through various stages, known as grades. At each stage, intense study, ritual practice, and self-examination are undertaken to facilitate spiritual alchemy. **Some key concepts guiding aspirants include**:
 

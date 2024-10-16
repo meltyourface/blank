@@ -26,7 +26,7 @@ excerpt: >
 **Overview**:
 The Viper's Coiled Path Divination is a novel technique rooted in the Viper esoteric tradition, specifically tailored for guiding decision-making processes. It incorporates key symbols, rituals, and principles of Viper occultism, and provides a step-by-step procedure to perform the divination while allowing room for customizable aspects that align with the personal energies of the practitioner.
 
-Key Symbols: 
+**Key Symbols**: 
 1. Viper - representing transformation, rebirth, and wisdom.
 2. Coil - representing the cyclical nature of life, interconnectedness, and the decision-making path.
 3. Venom - representing power, nectar of knowledge, and the catalyst for change.

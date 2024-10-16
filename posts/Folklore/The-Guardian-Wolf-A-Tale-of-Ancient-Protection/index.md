@@ -39,6 +39,6 @@ The wise Rasul stepped forward and told Tamsus of the villagers' unwavering dedi
 
 Rasul, Tamsus, and a brave band of villagers journeyed deep into the forest, where they found Ragana's lair hidden beneath a great willow tree. With the combined powers of Lazdinis and Tamsus, they confronted the witch and banished her to the dark realms beyond.
 
-The grateful villagers reunited with their children and pledged to remember the lessons they had learned: to cherish the bond with nature, to trust in the ancient powers that watched over them, and to never let curiosity lead them astray.
+**The grateful villagers reunited with their children and pledged to remember the lessons they had learned**: to cherish the bond with nature, to trust in the ancient powers that watched over them, and to never let curiosity lead them astray.
 
 The tale of Tamsus and the vanquished witch became a cornerstone of Lukna's folklore, passed down from generation to generation. And to this day, the villagers of Lukna continue to honor their sacred bond with Lazdinis and Tamsus, the guardians of their land, as they live their lives in harmony with the forest and the river.

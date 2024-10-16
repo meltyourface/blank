@@ -23,7 +23,7 @@ To design a powerful talisman tailored for the protection of a time-traveling ex
 
 Talisman design:
 
-Shape: The talisman will take the form of an Eye of Horus (Wadjet), a symbol of protection, power, and good health in ancient Egypt. This amulet shape will provide both defense and reinforcement required during time-traveling expeditions.
+**Shape**: The talisman will take the form of an Eye of Horus (Wadjet), a symbol of protection, power, and good health in ancient Egypt. This amulet shape will provide both defense and reinforcement required during time-traveling expeditions.
 
 Materials:
 1. Gold: To symbolize divine energy, eternity, and purity.

@@ -40,11 +40,11 @@ Ethical considerations are crucial within the study and manipulation of Quintess
 
 To safely and effectively incorporate Quintessence into one's metaphysical practice, it is necessary to develop a consistent routine geared towards refining one's awareness and sensitivity to its presence. **The following exercises can serve as the foundation for a student's practice with Quintessence**:
 
-1. ****Elemental meditation****: Begin by meditating on each of the four classical elements separately, focusing on their unique characteristics and how they manifest within your body and surroundings. Once you have developed a thorough understanding of each element, work on integrating these elements to create a holistic vision of their unity. Lastly, envision the presence of Quintessence, seeing it as the unifying force that harmonizes and uplifts each of the four elements.
+1. **Elemental meditation**: Begin by meditating on each of the four classical elements separately, focusing on their unique characteristics and how they manifest within your body and surroundings. Once you have developed a thorough understanding of each element, work on integrating these elements to create a holistic vision of their unity. Lastly, envision the presence of Quintessence, seeing it as the unifying force that harmonizes and uplifts each of the four elements.
 
-2. ****Visualization exercises****: In a quiet, unfocused state, practice visualizing different manifestations of Quintessence. This could be in the form of a specific color, energy, or symbolic representation. Work on maintaining a stable and vivid image of Quintessence in your mind's eye, gradually increasing the duration and consistency of your visualizations.
+2. **Visualization exercises**: In a quiet, unfocused state, practice visualizing different manifestations of Quintessence. This could be in the form of a specific color, energy, or symbolic representation. Work on maintaining a stable and vivid image of Quintessence in your mind's eye, gradually increasing the duration and consistency of your visualizations.
 
-3. ****Energy manipulation****: Experiment with the subtle manipulation of energies in your body. Begin by creating energetic "links" or connections between your hands and various objects or individuals. Visualize Quintessence as the medium connecting and facilitating the transfer of energy between these points.
+3. **Energy manipulation**: Experiment with the subtle manipulation of energies in your body. Begin by creating energetic "links" or connections between your hands and various objects or individuals. Visualize Quintessence as the medium connecting and facilitating the transfer of energy between these points.
 
 ### Chapter 5: Ensuring Safety and Proper Guidance
 

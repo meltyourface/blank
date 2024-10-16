@@ -38,11 +38,11 @@ excerpt: >
 - Week 3: 20-minute daily meditation sessions
 - Week 4: 30-minute daily meditation sessions
 
-Appropriate posture: Sit on a cushion or a chair with a straight back, hands resting on the knees, and feet flat on the floor. Keep the chin slightly tucked and gaze unfocused.
+**Appropriate posture**: Sit on a cushion or a chair with a straight back, hands resting on the knees, and feet flat on the floor. Keep the chin slightly tucked and gaze unfocused.
 
-Setting: Find a quiet, clutter-free space with minimal distractions. Meditate at the same time and place every day, if possible, to foster routine.
+**Setting**: Find a quiet, clutter-free space with minimal distractions. Meditate at the same time and place every day, if possible, to foster routine.
 
-Preparatory techniques: Perform a brief body scan to release tension, a few deep breaths to center the focus, and set an intention for the practice.
+**Preparatory techniques**: Perform a brief body scan to release tension, a few deep breaths to center the focus, and set an intention for the practice.
 
 2. **Developing mindfulness techniques**:
 

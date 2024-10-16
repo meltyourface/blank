@@ -27,13 +27,13 @@ Identify a secluded location in a forest clearing, preferably one with a direct 
 **Step 2**: Gathering of the Vital Ingredients
 To ensure a safe transformation, gather the following items for the ritual:
 
-1. ****Wolfsbane****: A rare and powerful herb that both attracts and controls the spirit of the wolf.
+1. **Wolfsbane**: A rare and powerful herb that both attracts and controls the spirit of the wolf.
 
-2. ****Mugwort****: An herb commonly used in potions and rituals for protection and strength.
+2. **Mugwort**: An herb commonly used in potions and rituals for protection and strength.
 
-3. ****Moonstone****: A crystal that harnesses the power of the moon to aid and direct the transformation.
+3. **Moonstone**: A crystal that harnesses the power of the moon to aid and direct the transformation.
 
-4. ****Silver chalice****: Used to hold and bless the transformative potion.
+4. **Silver chalice**: Used to hold and bless the transformative potion.
 **Step 3**: Preparing the Werewolf Potion
 Blend the following ingredients together in the silver chalice:
 

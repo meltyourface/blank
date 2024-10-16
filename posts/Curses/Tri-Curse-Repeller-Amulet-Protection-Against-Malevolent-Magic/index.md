@@ -23,7 +23,7 @@ Task: Design a personalized protection amulet against curses for a thirteenth-ce
 
 Proposed Solution:
 
-Amulet Name: The Tri-Curse Repeller
+**Amulet Name**: The Tri-Curse Repeller
 
 Cursed Objects:
 

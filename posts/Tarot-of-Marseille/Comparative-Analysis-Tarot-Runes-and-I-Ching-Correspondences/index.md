@@ -32,7 +32,7 @@ Designing a complete and in-depth correspondence chart requires extensive knowle
 
 1. **Separating Tarot of Marseille cards into Major and Minor Arcana within the chart**:
 
-Major Arcana: 
+**Major Arcana**: 
 * I - Le Bateleur (The Magician)
 * II - La Papesse (The High Priestess)
 * III - L'Impératrice (The Empress)

@@ -28,28 +28,28 @@ The inception of Non-dualism began centuries ago, with its roots stemming from v
 ### II. Key Principles
 In the realm of occult and esoteric studies, Non-dualism operates on several overarching principles:
 
-1. ****Unity of All****: Ultimate reality is a singular, undivided consciousness or pure awareness, often referred to as "The Absolute" or "Brahman" in Advaita Vedanta, or "Godhead" in Western mystical traditions. This awareness permeates all existence, unifying everything including material and immaterial forms.
+1. **Unity of All**: Ultimate reality is a singular, undivided consciousness or pure awareness, often referred to as "The Absolute" or "Brahman" in Advaita Vedanta, or "Godhead" in Western mystical traditions. This awareness permeates all existence, unifying everything including material and immaterial forms.
 
-2. ****Illusion of Separateness****: The human experience, bound by the limits of the mind and the senses, creates a perception of separation and individuality called "Maya" or "The Veil" of illusion. This delusion obscures the true nature of reality and the interconnected nature of all things, causing ignorance and suffering.
+2. **Illusion of Separateness**: The human experience, bound by the limits of the mind and the senses, creates a perception of separation and individuality called "Maya" or "The Veil" of illusion. This delusion obscures the true nature of reality and the interconnected nature of all things, causing ignorance and suffering.
 
-3. ****Removing the Veil****: Through direct experience, insight, and deep contemplation of non-dual principles, one can transcend the veil of illusion and experience the underlying unity of existence.
+3. **Removing the Veil**: Through direct experience, insight, and deep contemplation of non-dual principles, one can transcend the veil of illusion and experience the underlying unity of existence.
 
 ### III. Practical Applications
 To enact the principles of Non-dualism in one's life, several practical applications are offered:
 
-1. ****Contemplation****: Contemplate oneness in nature, art, and meditation. These practices can help soothe the mind and foster an understanding of the interconnectedness of all things.
+1. **Contemplation**: Contemplate oneness in nature, art, and meditation. These practices can help soothe the mind and foster an understanding of the interconnectedness of all things.
 
-2. ****Ritual and Magical Workings****: Some occult practitioners perform non-dual rituals designed to invoke or evoke the Absolute. Such practices might involve using symbols that represent unity or sacred texts attributed to non-dual philosophers or mystics.
+2. **Ritual and Magical Workings**: Some occult practitioners perform non-dual rituals designed to invoke or evoke the Absolute. Such practices might involve using symbols that represent unity or sacred texts attributed to non-dual philosophers or mystics.
 
-3. ****Self-Inquiry****: As a form of introspective questioning, one can continuously ask "Who am I?" or "From where does duality arise?" as tools for self-discovery. This practice demands both honesty and a willingness to explore the depths of the self till finally reaching the realization of non-duality. Ramana Maharshi, a revered Indian sage, was a strong advocate for this method.
+3. **Self-Inquiry**: As a form of introspective questioning, one can continuously ask "Who am I?" or "From where does duality arise?" as tools for self-discovery. This practice demands both honesty and a willingness to explore the depths of the self till finally reaching the realization of non-duality. Ramana Maharshi, a revered Indian sage, was a strong advocate for this method.
 
 ### IV. Symbolism and Ritual Practices
 In Non-dualism, various symbols and ritual practices have been developed to embody the essence of unity and interconnectedness. **Here are a few examples**:
 
-1. ****The Ouroboros****: A serpent biting its own tail, representing the eternal cycle of existence, unity, and the boundaries between the finite and the infinite.
+1. **The Ouroboros**: A serpent biting its own tail, representing the eternal cycle of existence, unity, and the boundaries between the finite and the infinite.
 
-2. ****The Yin-Yang Symbol****: Originating in ancient Chinese philosophy, representing the harmonious balance and interdependence of seemingly opposing forces coexisting in unity.
+2. **The Yin-Yang Symbol**: Originating in ancient Chinese philosophy, representing the harmonious balance and interdependence of seemingly opposing forces coexisting in unity.
 
-3. ****Advaitic Meditation****: Practitioners perform meditative practices to enter a state of pure, unadulterated consciousness, transcending thoughts and ego-bound constraints to experience non-duality.
+3. **Advaitic Meditation**: Practitioners perform meditative practices to enter a state of pure, unadulterated consciousness, transcending thoughts and ego-bound constraints to experience non-duality.
 
 In conclusion, this introduction to Non-dualism within the realm of esoteric and occult studies offers a comprehensive understanding of key principles, historical context, practical applications, and symbolism or ritual practices. By contemplating and practicing Non-dualism, the seeker ventures on a journey of self-discovery and spiritual growth to unveil the ultimate unity that pervades the universe.

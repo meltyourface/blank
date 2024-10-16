@@ -28,9 +28,9 @@ To understand the correlation between the psychological symbolism of abomination
 
 Central to the study of abominations is the idea that these creatures, entities, and beings embody deep-rooted fears of humans, often as manifestations of the darker aspects of our psyche. **Despite the vast differences across cultures, there are shared features found in abominations**:
 
-1. ****Hybridity****: Many abominations possess traits from multiple creatures, such as the legendary Chimera, which has the body of a lion, the head of a goat, and the tail of a serpent.
-2. ****Deformity****: Abominations often exhibit physical deformities, such as giants with multiple arms, cyclopes, or body parts in unusual locations.
-3. ****Unnatural origin****: The stories of abominations' origins often involve unnatural or supernatural processes, such as divine punishment or unnatural experimentation.
+1. **Hybridity**: Many abominations possess traits from multiple creatures, such as the legendary Chimera, which has the body of a lion, the head of a goat, and the tail of a serpent.
+2. **Deformity**: Abominations often exhibit physical deformities, such as giants with multiple arms, cyclopes, or body parts in unusual locations.
+3. **Unnatural origin**: The stories of abominations' origins often involve unnatural or supernatural processes, such as divine punishment or unnatural experimentation.
 
 These shared traits showcase the breadth of relationships between abominations and our psychological fears and anxieties.
 
@@ -40,9 +40,9 @@ The concept of the collective unconscious, first popularized by psychologist Car
 
 Abominations, in particular, may stem from our collective fears of:
 
-1. ****The Unknown****: Abominations often represent the dangers lurking just beyond our understanding, embodying our fears of the unfamiliar or uncontrollable.
-2. ****The Unnatural****: By embodying hybridity and deformity, abominations tap into our fears of aberrations in the natural order.
-3. ****The Fragmentation of the Self****: Abominations often symbolize aspects of ourselves we struggle to reconcile or understand, such as greed, wrath, or envy.
+1. **The Unknown**: Abominations often represent the dangers lurking just beyond our understanding, embodying our fears of the unfamiliar or uncontrollable.
+2. **The Unnatural**: By embodying hybridity and deformity, abominations tap into our fears of aberrations in the natural order.
+3. **The Fragmentation of the Self**: Abominations often symbolize aspects of ourselves we struggle to reconcile or understand, such as greed, wrath, or envy.
 
 ### III. **Transformation of Societal Moral Structures**:
 

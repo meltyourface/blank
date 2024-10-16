@@ -21,25 +21,25 @@ excerpt: Delve into the mystical realm of the occult by researching and correlat
 ---
 I have delved into the mystical realm of the occult, and through extensive research and correlation, I present my findings on various deities from multiple pantheons, their respective attributes, powers, and symbols, as well as their influence on ancient and modern practices. 
 
-1. ****Greek Pantheon****: Zeus
+1. **Greek Pantheon**: Zeus
 Attributes: Ruler of the gods, God of lightning and thunder, hospitality, and order
 Powers: Weather manipulation, shapeshifting, and immense physical strength
 Symbols: Lightning bolt, eagle, bull, and oak tree
 Influence: Worshiped by the ancient Greeks as the supreme ruler, and his symbols and stories are still prevalent in Western culture today.
 
-2. ****Egyptian Pantheon****: Isis
+2. **Egyptian Pantheon**: Isis
 Attributes: Goddess of magic, healing, and motherhood
 Powers: Healing, protection, and resurrection
 Symbols: Moon disk, throne, and wings
 Influence: Along with her husband Osiris, Isis played a major role in ancient Egyptian religion. Her influence has spread to other cultures and is revered by many modern spiritual practitioners.
 
-3. ****Norse Pantheon****: Odin
+3. **Norse Pantheon**: Odin
 Attributes: God of war, wisdom, poetry, and death
 Powers: Wisdom, foresight, and mastery of magic
 Symbols: Ravens, wolves, and the spear Gungnir
 Influence: Odin remains a revered figure in modern Norse and Germanic paganism, and his symbols are often incorporated into literature, art, and even fashion.
 
-4. ****Hindu Pantheon****: Shiva
+4. **Hindu Pantheon**: Shiva
 Attributes: God of destruction, yoga, and meditation; part of the Trimurti
 Powers: Destruction and recreation, cosmic consciousness, and control over the energies of existence
 Symbols: Trishula (trident), damaru (drum), and crescent moon

@@ -42,19 +42,19 @@ Practices and Rituals
 
 The rituals and practices of NecrophagiaMysticism vary widely, though certain key aspects remain consistent across different traditions, including:
 
-1. ****Communing with the dead****: The ability to establish contact with and draw upon the wisdom of those who have passed on is an essential aspect of NecrophagiaMysticism. This connection may be established during moments of deep trance, meditation, or through elaborate, prolonged rituals that involve invoking ancestors or spirits.
+1. **Communing with the dead**: The ability to establish contact with and draw upon the wisdom of those who have passed on is an essential aspect of NecrophagiaMysticism. This connection may be established during moments of deep trance, meditation, or through elaborate, prolonged rituals that involve invoking ancestors or spirits.
 
-2. ****Energy manipulation****: The study of the energies inherent in decay and transformation forms the foundation of the necrophagic mystic’s skillset. Harnessing these energies typically requires years of dedication, practice, and the use of carefully crafted ceremonial tools, such as bones, animal remains, and ceremonial daggers.
+2. **Energy manipulation**: The study of the energies inherent in decay and transformation forms the foundation of the necrophagic mystic’s skillset. Harnessing these energies typically requires years of dedication, practice, and the use of carefully crafted ceremonial tools, such as bones, animal remains, and ceremonial daggers.
 
-3. ****Purification and protection****: Owing to the inherently dangerous realms traversed by those who practice NecrophagiaMysticism, it is crucial to employ rituals of purification and protection before, during, and after engaging in such practices. These rituals may include creation of protective sigils, employing sacred herbs and incense, and enlisting the assistance of powerful spirits to serve as guardians during one's work.
+3. **Purification and protection**: Owing to the inherently dangerous realms traversed by those who practice NecrophagiaMysticism, it is crucial to employ rituals of purification and protection before, during, and after engaging in such practices. These rituals may include creation of protective sigils, employing sacred herbs and incense, and enlisting the assistance of powerful spirits to serve as guardians during one's work.
 
 Notable Figures
 
 Throughout history, several figures have played a significant role in shaping NecrophagiaMysticism within different cultural contexts:
 
-1. ****Heinrich Cornelius Agrippa****: A renowned German physician, philosopher, and occultist of the 16th century, Agrippa was known for his detailed works on ceremonial magick, including a great deal of information on necromancy and related practices.
+1. **Heinrich Cornelius Agrippa**: A renowned German physician, philosopher, and occultist of the 16th century, Agrippa was known for his detailed works on ceremonial magick, including a great deal of information on necromancy and related practices.
 
-2. ****Marie Laveau****: The "Voodoo Queen" of New Orleans, Laveau was known to blend necromancy with Afro-Caribbean religious practices, gaining widespread recognition as a powerful spiritual figure during the 19th century.
+2. **Marie Laveau**: The "Voodoo Queen" of New Orleans, Laveau was known to blend necromancy with Afro-Caribbean religious practices, gaining widespread recognition as a powerful spiritual figure during the 19th century.
 
 The Aspiring Practitioner's Journey
 

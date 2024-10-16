@@ -26,7 +26,7 @@ Introduction
 
 The Vishuddha Chakra, commonly known as the Throat Chakra, is among the seven primary chakras in the subtle human body, often portrayed as spinning discs of energy. The importance of the Vishuddha Chakra lies in its role in self-expression, communication, and personal growth. The mastery of this chakra enables individuals to navigate through various aspects of their lives by effectively expressing their thoughts and feelings. This chapter aims to guide students and initiates towards understanding and mastering the Vishuddha Chakra, ultimately allowing them to unlock its full potential and harness the benefits of enhanced communication skills.
 
-The Vishuddha Chakra: A Comprehensive Overview
+**The Vishuddha Chakra**: A Comprehensive Overview
 
 1. Element and Color
 

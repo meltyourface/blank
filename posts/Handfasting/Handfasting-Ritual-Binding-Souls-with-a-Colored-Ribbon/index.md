@@ -23,7 +23,7 @@ excerpt: >
 
 ## The Ribbon Binding of Eternal Souls - A Handfasting Ritual
 
-Materials: A long, flexible ribbon (approximately 9 feet in length)
+**Materials**: A long, flexible ribbon (approximately 9 feet in length)
 
 Colors and Symbolism:
 - Red for passion, and courage
@@ -31,7 +31,7 @@ Colors and Symbolism:
 - White for purity, truth, and spiritual connection
 - Gold or Silver for wisdom, success, and perseverance
 
-Optional: Patterns of entwining vines or swirling spirals for unity and the merging of two souls.
+**Optional**: Patterns of entwining vines or swirling spirals for unity and the merging of two souls.
 
 Preparation:
 Begin by having the couple fac each other, standing at the center of the ceremony space. The officiant stands by their side, holding the ribbon and ready to guide the ritual.
@@ -48,7 +48,7 @@ Instructions:
 **Step 2**: The Verbal Exchange
 As their hands are bound by the sacred ribbon, the couple will recite the following exchange:
 
-Partner A: With this ribbon, I bind my soul to yours.
+**Partner A**: With this ribbon, I bind my soul to yours.
 Partner B: And with it, I entwine our destinies.
 Partner A: As the colors weave together, may our strengths unite and our love grow stronger.
 Partner B: Through the crimsonstrand, I promise passion and bravery.
@@ -56,10 +56,10 @@ Partner A: Through the verdantstrand, I promise growth and steadfast care.
 Partner B: Through the purestrand, I promise truth and spiritual connection.
 Partner A: Through the glowingstrand, I promise wisdom and relentless endurance. 
 
-Together: With hearts entwined, we forge the bonds that shall hold us together, now and forever.
+**Together**: With hearts entwined, we forge the bonds that shall hold us together, now and forever.
 **Step 3**: The Unbinding and Final Blessing
 After the verbal exchange, the officiant carefully undoes the ribbon wrapping and knot from the couple's hands. **As the couple releases their hands, the officiant recites the final blessing**:
 
-Officiant: By the power of the ancient wisdom and the blessings of the universe, I declare your hands forever joined in spirit and love; though the physical ribbon is now unbound, its embrace shall remain upon your souls eternally. May you forever cherish and honor this sacred bond as you journey through life together. So mote it be.
+**Officiant**: By the power of the ancient wisdom and the blessings of the universe, I declare your hands forever joined in spirit and love; though the physical ribbon is now unbound, its embrace shall remain upon your souls eternally. May you forever cherish and honor this sacred bond as you journey through life together. So mote it be.
 
 With the conclusion of the handfasting ritual, the couple embraces and proceeds to the next stage of their union celebration. The ribbon is stored as a cherished keepsake, symbolizing their fateful bond.

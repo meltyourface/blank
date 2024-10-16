@@ -28,13 +28,13 @@ Welcome, dear reader, to a fascinating journey into the world of Kabbalah, an an
 
 Do not let the complexity of these ideas deter you; this is a rare opportunity to peer through the veil and glimpse into a world of hidden wisdom and the deepest truths. Now, let us embark on our voyage of discovery and enlightenment.
 
-The Foundations of Lurianic Kabbalah: En Sof and Cosmic Genesis
+**The Foundations of Lurianic Kabbalah**: En Sof and Cosmic Genesis
 
 At the heart of Isaac Luria's kabbalistic thought lies the concept of En Sof, an infinite, unknowable divine reality. This is the primordial essence from which the entire cosmos emerged, the divine light that preceded creation, and the foundation for Lurianic cosmogony. En Sof is boundless, transcending spatial and temporal dimensions--it is the infinite 'nothingness' from which everything came into being.
 
 From within this infinite expanse, a single divine spark arose, giving birth to a realm teeming with divine energy. This process of creative emanation is the backbone of Lurianic metaphysics--a divine unfolding where the infinite becomes finite. 
 
-The Ten Emanations: The Sefirot and Spiritual Hierarchies
+**The Ten Emanations**: The Sefirot and Spiritual Hierarchies
 
 According to Lurianic Kabbalah, the cosmos is structured around ten divine energies, known as the Sefirot. These are ordered in a hierarchy and serve as both primordial archetypes and as channels through which divine energy flows. Each Sefirah corresponds to a specific aspect of divinity and can be understood as a reflection of En Sof within the created realm. 
 
@@ -51,9 +51,9 @@ The Sefirot are organized as follows:
 9. Yesod (Foundation) – The bridge that connects the spiritual and material realms.
 10. Malkuth (Kingship) – The last emanation, embodying the divine presence in the earthly realm.
 
-Lurianic Metaphysics: Tzimtzum, Shevirat HaKelim, and Tikkun
+**Lurianic Metaphysics**: Tzimtzum, Shevirat HaKelim, and Tikkun
 
-Three central concepts underpin the metaphysical framework of Lurianic Kabbalah: Tzimtzum, Shevirat HaKelim, and Tikkun.
+**Three central concepts underpin the metaphysical framework of Lurianic Kabbalah**: Tzimtzum, Shevirat HaKelim, and Tikkun.
 
 Tzimtzum (Divine Contraction): In order for creation to emerge, the boundless light of En Sof had to undergo a process of contraction. This divine withdrawal allowed for the formation of an empty space, the primordial void, into which the cosmos could take shape. In a sense, this act of self-limitation symbolizes the ultimate sacrifice, as the infinite En Sof concealed itself to allow for the existence of a finite world.
 

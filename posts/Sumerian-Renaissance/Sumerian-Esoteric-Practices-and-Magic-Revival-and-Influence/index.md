@@ -33,33 +33,33 @@ Key Texts
 
 Various texts from the Sumerian Renaissance have illuminated our understanding of the esoteric beliefs and practices of the period. **Among these texts are the following**:
 
-1. ****Enki and the World Order****: This foundational myth delves into the god Enki's role in maintaining order in the cosmos and the god's capacity for magic.
+1. **Enki and the World Order**: This foundational myth delves into the god Enki's role in maintaining order in the cosmos and the god's capacity for magic.
 
-2. ****The Lament for Sumer and Ur****: As a lamentation over the destruction of the Sumerian city-states, the text illustrates the belief in divine intervention and consequences for breaking cosmic rules.
+2. **The Lament for Sumer and Ur**: As a lamentation over the destruction of the Sumerian city-states, the text illustrates the belief in divine intervention and consequences for breaking cosmic rules.
 
-3. ****Gudea Cylinders****: A series of inscriptions from the ruler Gudea, these texts reveal detailed descriptions of rituals, offerings, and temple-construction practices, providing a glimpse into religious and magical ceremonies of the time.
+3. **Gudea Cylinders**: A series of inscriptions from the ruler Gudea, these texts reveal detailed descriptions of rituals, offerings, and temple-construction practices, providing a glimpse into religious and magical ceremonies of the time.
 
 Magical Systems and Esoteric Practices
 
 The Sumerian Renaissance's esoteric knowledge and magical practices were multifaceted and rooted in religious and cosmological beliefs. **Some aspects of this include**:
 
-1. ****Divination****: Sumerians used omens, astrology, and dream interpretation as methods of divination.
+1. **Divination**: Sumerians used omens, astrology, and dream interpretation as methods of divination.
 
-2. ****Rituals****: Rituals included the creation and use of incantations, prayers, and offerings to various deities to ensure divine protection and favor.
+2. **Rituals**: Rituals included the creation and use of incantations, prayers, and offerings to various deities to ensure divine protection and favor.
 
-3. ****Talismans and Amulets****: These objects were believed to offer protection, healing, or various magical properties to the individual.
+3. **Talismans and Amulets**: These objects were believed to offer protection, healing, or various magical properties to the individual.
 
 Specific Spells and Rituals
 
-1. ****Ritual to Nusku****: The god Nusku was associated with fire and light. A ritual devoted to Nusku involved the creation of a sanctified space through incantations and offerings to dispel darkness and bring forth illumination, metaphorically and literally.
+1. **Ritual to Nusku**: The god Nusku was associated with fire and light. A ritual devoted to Nusku involved the creation of a sanctified space through incantations and offerings to dispel darkness and bring forth illumination, metaphorically and literally.
 
-2. ****Lamashtu Amulets****: Lamashtu was a Mesopotamian demoness associated with miscarriage, infant death, and sickness. Amulets inscribed with spells were worn by pregnant women to protect themselves and their children from the demoness. 
+2. **Lamashtu Amulets**: Lamashtu was a Mesopotamian demoness associated with miscarriage, infant death, and sickness. Amulets inscribed with spells were worn by pregnant women to protect themselves and their children from the demoness. 
 
 Techniques and Practical Examples
 
-1. ****Setting Sacred Space****: Modern occultists can learn from the ancient Sumerians' emphasis on creating a sacred space through the invocation of deities, offerings, and verbal incantations.
+1. **Setting Sacred Space**: Modern occultists can learn from the ancient Sumerians' emphasis on creating a sacred space through the invocation of deities, offerings, and verbal incantations.
 
-2. ****Symbolism and Correspondences****: The Sumerians harnessed the power of symbolism as a means of communication between humans and divine beings. Students of the occult might consider incorporating Sumerian symbolism into their practices or observing natural phenomena and their esoteric meanings.
+2. **Symbolism and Correspondences**: The Sumerians harnessed the power of symbolism as a means of communication between humans and divine beings. Students of the occult might consider incorporating Sumerian symbolism into their practices or observing natural phenomena and their esoteric meanings.
 
 Conclusion
 

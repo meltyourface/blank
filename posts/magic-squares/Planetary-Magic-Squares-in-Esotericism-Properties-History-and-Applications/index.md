@@ -19,7 +19,7 @@ tags:
 description: You are a master of the esoteric, occult, magic squares, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: >
 ---
-  Magic squares hold deep significance within the realm of esotericism, particularly when it comes to their connections with planetary symbols. ****These relationships can be explored through three key aspects****: the mathematical properties of magic squares associated with each planetary symbol, the historical development of these connections within Western and Middle Eastern esoteric traditions, and the practical application of magic squares in rituals and divination related to the seven classical planets.
+  Magic squares hold deep significance within the realm of esotericism, particularly when it comes to their connections with planetary symbols. **These relationships can be explored through three key aspects**: the mathematical properties of magic squares associated with each planetary symbol, the historical development of these connections within Western and Middle Eastern esoteric traditions, and the practical application of magic squares in rituals and divination related to the seven classical planets.
   
   1) Mathematical Properties of Magic Squares Associated with Planetary Symbols
   

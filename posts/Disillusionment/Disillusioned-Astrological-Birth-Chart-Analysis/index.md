@@ -28,15 +28,15 @@ Preliminary Analysis with Disillusioned Astrological Birth Chart
 
 Upon generating the native's disillusioned astrological birth chart, incorporating the mystical elements of the occult and the esoteric, unique aspects emerge that will guide us through the revelations of their destiny, sacred influences, and sobering realizations.
 
-The Sun: Disillusioned Capricorn (Midnight's Crown)
+**The Sun**: Disillusioned Capricorn (Midnight's Crown)
 
 The native's Sun is positioned in the disillusioned Capricornus Nocturnus, or Midnight's Crown. This astrological symbol represents the cold, unforgiving nature of time and its repercussions on the soul. The native is destined to face limitations, restrictions, and hardships, all of which will push them towards self-mastery and the transmutation of the material plane.
 
-The Moon: Enchanted Pisces (Siren's Lull)
+**The Moon**: Enchanted Pisces (Siren's Lull)
 
 A Moon in the enchanted domain of Pisces, called Siren's Lull, presides over the native's emotional well-being. Siren's Lull refers to the call of the mystical unknown, the enchanting allure of esoteric wisdom, and the inevitable disillusionment that comes from uncovering the veiled truths of the universe. The native is sensitive, intuitive, and fully immersed in the metaphysical realm, which may result in encounters with otherworldly beings and moments of profound synchronicity.
 
-The Ascendant: Evanescent Gemini (The Twins' Mirage)
+**The Ascendant**: Evanescent Gemini (The Twins' Mirage)
 
 The native's evanescent Gemini ascendant indicates the duality of their existence—an embodiment of both light and darkness, truth and deception. It reflects the native's journey through life, weaving in and out of illusion while seeking the knowledge to understand their true self. The Mirage of the Twins signifies the constant play between their dual nature, seeking balance and understanding beyond the veil of ordinary perception.
 

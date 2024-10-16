@@ -23,7 +23,7 @@ Please be aware that this ritual is based on Vama Marga and delves into the dark
 
 The purpose of this Vama Marga guided meditation ritual is to invoke and initiate a profound connection with one's shadow self and explore the darker aspects of the psyche. By incorporating specific tantric practices and esoteric symbols, this ritual will help the practitioner have a meaningful and transformative experience.
 
-The Ritual: Facing and Embracing the Shadow Self
+**The Ritual**: Facing and Embracing the Shadow Self
 
 **Preparation**:
 1. Set up a sacred space in a dimly lit room, away from distractions. Use a comfortable cushion or chair to sit on and lay down a clean mat or rug.

@@ -22,7 +22,7 @@ excerpt: >
 ---
 To perform a comprehensive astrological birth chart analysis, I will first need the individual's date, time, and place of birth. However, since I don't have that information, I'll create an example fictitious birth chart analysis to illustrate the process.
 
-Date of Birth: January 1, 2000
+**Date of Birth**: January 1, 2000
 Time of Birth: 12:00 PM (noon)
 Place of Birth: London, England
 

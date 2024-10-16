@@ -23,7 +23,7 @@ excerpt: Create a short but informationally dense text about the mechanics of ma
 
 ### I. Introduction
 
-The mechanics of magic revolve around three integral aspects: principles, components, and processes. Understanding these elements is essential to master the art of spellcasting and performance of magical rituals. In this chapter, we delve into the fundamental concepts and offer deep insights to equip budding practitioners of the occult arts with the knowledge required to excel in their craft.
+**The mechanics of magic revolve around three integral aspects**: principles, components, and processes. Understanding these elements is essential to master the art of spellcasting and performance of magical rituals. In this chapter, we delve into the fundamental concepts and offer deep insights to equip budding practitioners of the occult arts with the knowledge required to excel in their craft.
 
 ### II. Fundamental Principles
 

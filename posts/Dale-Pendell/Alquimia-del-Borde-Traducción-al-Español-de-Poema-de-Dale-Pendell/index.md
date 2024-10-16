@@ -22,7 +22,7 @@ excerpt: >
 ---
 I have chosen Dale Pendell's poem "Edge Alchemy," which is a perfect example of his intricate exploration of mysticism and botanical references. I will translate this poem into Spanish, carefully preserving the nuances, essence, and symbolism of the original work.
 
-Original Poem: "Edge Alchemy"
+**Original Poem**: "Edge Alchemy"
 
 Along the rough edges
 of the garden of the mind

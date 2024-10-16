@@ -30,11 +30,11 @@ Origins of the Enochian Language and Adamical Roots
 
 The origins of the Enochian language can be traced back to the 16th century, primarily to the works of English occultist John Dee and his assistant Edward Kelley. Dee's works built upon the earlier European occult tradition that linked the Enochian language to the angelic script and the theoretical primordial language spoken by humanity before the fall from Eden. This primordial language is alternatively referred to as Adamical or Adamic. It is believed that the Enochian language was revealed to Dee and Kelley during scrying sessions, wherein they communicated with angelic beings who instructed them on the language's structure and usage.
 
-Key Concepts: The Mystical and Angelic Components
+**Key Concepts**: The Mystical and Angelic Components
 
 Central to the understanding of Enochian language is its relationship with the angelic and mystical realms. While the Enochian script embraces a unique set of characters, it is also intrinsically connected to the angelic dimension, acting as a means of communication and invocation of celestial beings. The Adamical roots of the language imply that it retains a connection to the original, untainted form of human communication. As such, the Enochian language grants practitioners access to divine knowledge and the ability to tap into the primordial energies of creation.
 
-Linguistic Features: Syntax, Structure, and Pronunciation
+**Linguistic Features**: Syntax, Structure, and Pronunciation
 
 Though the Adamical roots of the Enochian language suggest an ancient and primal origin, its structure and linguistic details reveal an organized and systematic approach. The Enochian language consists of twenty-one letters, each with a distinct geometric shape and phonetic pronunciation. The script reads from right to left and follows a unique syntax that reflects its mystical and divine origins. Additionally, the language is organized into various tables and hierarchies that outline the intricate relationships between magical words and angelic names. These linguistic intricacies imbue the language with profound power when employed in magical and ritualistic contexts.
 

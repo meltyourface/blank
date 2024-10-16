@@ -39,7 +39,7 @@ Yours in the Dark Arts,
 Theophilus Grimoire
 ```
 
-Letter II: From Lysander Moros to Theophilus Grimoire
+**Letter II**: From Lysander Moros to Theophilus Grimoire
 
 ```
 January 17th, 18--
@@ -58,7 +58,7 @@ In Aeternum,
 Lysander Moros
 ```
 
-Letter III: From Theophilus Grimoire to Lysander Moros
+**Letter III**: From Theophilus Grimoire to Lysander Moros
 
 ```
 January 31st, 18--

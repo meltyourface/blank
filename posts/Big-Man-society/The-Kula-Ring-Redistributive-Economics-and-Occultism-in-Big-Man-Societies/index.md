@@ -22,7 +22,7 @@ excerpt: >
 ---
 To understand and fully respond to this knowledge challenge, we must first provide insight into the underlying concepts and related topics. This examination will involve the Big Man society, the Kula Ring and its redistributive economic practices, and the aspects of occultism contributing to its development over time. The step-by-step reasoning process will also be explained.
 
-1. ****Context****: Big Man society
+1. **Context**: Big Man society
 Big Man society refers to a type of social structure often found in tribal communities, specifically in Melanesia and the Pacific Islands. In this setting, a charismatic and influential figure known as the "Big Man" leads and mediates disputes. His power relies on his aptitudes and capacity to obtain resources, redistribute wealth, and establish social and political connections rather than using formal authority.
 
 2. Kula Ring and its economic significance

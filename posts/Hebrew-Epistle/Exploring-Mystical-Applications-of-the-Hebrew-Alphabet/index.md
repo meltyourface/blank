@@ -28,7 +28,7 @@ The Hebrew Epistle, or more commonly referred to as the Hebrew Alphabet, consist
 
 ### I. Symbolism of the Hebrew Epistle
 
-The twenty-two letters of the Hebrew Alphabet can be divided into three categories, reflecting different aspects of Creation and the Divine. ****These categories are****: 
+The twenty-two letters of the Hebrew Alphabet can be divided into three categories, reflecting different aspects of Creation and the Divine. **These categories are**: 
 
 1. The Mother Letters (אמש) - The Three Primordial Forces
 2. The Double Letters (בגדכפרת) - The Seven Creative Forces
@@ -38,7 +38,7 @@ The Mother Letters are attributed to the three primordial forces, which in Kabba
 
 The Double Letters correspond to the seven primary creative forces, symbolizing the dual nature of the physical world and seven planets in traditional astrology. Each letter represents both a positive and negative aspect, mirroring the ongoing polarity in our existence.
 
-The Simple Letters signify the twelve cosmic forces that connect the macrocosm and microcosm. ****These forces correspond to the twelve signs of the zodiac, the twelve tribes of Israel, and the twelve human faculties****: senses, emotions, and intellect.
+The Simple Letters signify the twelve cosmic forces that connect the macrocosm and microcosm. **These forces correspond to the twelve signs of the zodiac, the twelve tribes of Israel, and the twelve human faculties**: senses, emotions, and intellect.
 
 ### II. Correspondences with other Mystical Systems
 
@@ -50,13 +50,13 @@ Another profound correspondence can be observed in Tarot, where the Major Arcana
 
 To harness the power of the Hebrew Epistle in magical workings, one may perform the following practices:
 
-1. ****Meditation on individual letters****: Focus on a single Hebrew letter and concentrate on its shape, sound, and corresponding energies. Let its essence permeate your consciousness, providing profound insights and connection with the specific divine force it represents.
+1. **Meditation on individual letters**: Focus on a single Hebrew letter and concentrate on its shape, sound, and corresponding energies. Let its essence permeate your consciousness, providing profound insights and connection with the specific divine force it represents.
 
-2. ****Constructing sigils and talismans****: By incorporating appropriate Hebrew letters into the design of your sigils and talismans, you can imbue them with the energies of the forces they represent. This amplifies the power and effectiveness of your magical workings.
+2. **Constructing sigils and talismans**: By incorporating appropriate Hebrew letters into the design of your sigils and talismans, you can imbue them with the energies of the forces they represent. This amplifies the power and effectiveness of your magical workings.
 
-3. ****Invoking divine energies through Hebrew letter combinations****: Combinations of Hebrew letters can be used to call upon specific divine or cosmic forces during rituals. By reciting the appropriate letter combinations, you can connect with the divine force's energy, expanding your consciousness and enhancing your magical work.
+3. **Invoking divine energies through Hebrew letter combinations**: Combinations of Hebrew letters can be used to call upon specific divine or cosmic forces during rituals. By reciting the appropriate letter combinations, you can connect with the divine force's energy, expanding your consciousness and enhancing your magical work.
 
-4. ****Aligning rituals with astrological influences****: As each Hebrew letter corresponds to a zodiac sign or planet, you can synchronize the letter-invocations according to their astrological influences, further enhancing the potency of your magical workings.
+4. **Aligning rituals with astrological influences**: As each Hebrew letter corresponds to a zodiac sign or planet, you can synchronize the letter-invocations according to their astrological influences, further enhancing the potency of your magical workings.
 
 Conclusion
 

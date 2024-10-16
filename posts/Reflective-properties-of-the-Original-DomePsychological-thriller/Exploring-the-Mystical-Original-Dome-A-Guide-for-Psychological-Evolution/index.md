@@ -50,9 +50,9 @@ The unpredictable twists and turns of this exploratory journey mirror the ever-e
 
 Incorporating the knowledge of the Original Dome into everyday practice can enrich and enhance one's spiritual development. **By employing rituals, affirmations, and symbolic visualization, it is possible to immerse oneself in the reflection and energies of the Original Dome. Some suggested approaches include**:
 
-1. ****Meditative reflection****: Regular meditation while focusing on the imagery of the Original Dome can establish a deeper connection to its transformative energies, allowing one to access greater self-awareness and spiritual insight.
-2. ****Ritualistic integration****: Incorporate the symbol of the Original Dome into personal altars, talismanic objects, and ritual practices as a focal point for harnessing cosmic energies and promoting personal transformation.
-3. ****Dream exploration****: Engage in lucid dreaming or dream journaling with an emphasis on the Original Dome to help unlock subconscious mysteries and foster psychic and intuitive development.
+1. **Meditative reflection**: Regular meditation while focusing on the imagery of the Original Dome can establish a deeper connection to its transformative energies, allowing one to access greater self-awareness and spiritual insight.
+2. **Ritualistic integration**: Incorporate the symbol of the Original Dome into personal altars, talismanic objects, and ritual practices as a focal point for harnessing cosmic energies and promoting personal transformation.
+3. **Dream exploration**: Engage in lucid dreaming or dream journaling with an emphasis on the Original Dome to help unlock subconscious mysteries and foster psychic and intuitive development.
 
 Through dedication, practice, and reverence, students of the Original Dome may begin to experience profound changes in their awareness, personal power, and spiritual path.
 

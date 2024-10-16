@@ -22,7 +22,7 @@ excerpt: Design an intricate system for the practice of Invocational spiritual j
 
 ## The Invocational Grimoire of the Spiritus Scriptor
 
-The practice of Invocational spiritual journaling and reflection within the Spiritus Scriptor system revolves around five essential components: Personalized Sigils, Sacred Geometry, Symbolic Language, The Ritual of Invocation, and The Multiplex Reflection.
+**The practice of Invocational spiritual journaling and reflection within the Spiritus Scriptor system revolves around five essential components**: Personalized Sigils, Sacred Geometry, Symbolic Language, The Ritual of Invocation, and The Multiplex Reflection.
 
 1. **Personalized Sigils**:
 The practitioner begins by creating personalized sigils representing their internal spiritual journey, significant life events, and desires. These sigils become the core symbols upon which the invocational processes will be built. Each sigil will have its unique meaning, energy, and purpose to the practitioner, acting as a visual representation of their spiritual anatomy.

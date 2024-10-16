@@ -21,15 +21,15 @@ excerpt: >
 ---
   To conduct the Grand Rite of the Witchflame Arte and summon the five elemental guardians with the Dark Prince of the Witchflame Arte mastery, follow these steps carefully:
   
-  1. ****Prepare the ritual space****: Cleanse the area, removing any distractions or negative energies. Cast a circle with a mixture of black salt and ash, imbuing it with the power of the Witchflame Arte to protect the space and contain the energies raised during the ritual.
+  1. **Prepare the ritual space**: Cleanse the area, removing any distractions or negative energies. Cast a circle with a mixture of black salt and ash, imbuing it with the power of the Witchflame Arte to protect the space and contain the energies raised during the ritual.
   
-  2. ****Assemble the relics****: Place the five enchanted relics in a pentagram pattern within the circle. The Shard of Shadowflame should be at the top, representing the element of Obsidyre. Clockwise from there, place the Earthcrack Hammer for Terroquas, the Whirlwind Blade of Thunder for Ventestorm, the Chalice of Darkened Waters for Aquamortis, and finally the Leafspear of the Fading Sun for Aurumnal.
+  2. **Assemble the relics**: Place the five enchanted relics in a pentagram pattern within the circle. The Shard of Shadowflame should be at the top, representing the element of Obsidyre. Clockwise from there, place the Earthcrack Hammer for Terroquas, the Whirlwind Blade of Thunder for Ventestorm, the Chalice of Darkened Waters for Aquamortis, and finally the Leafspear of the Fading Sun for Aurumnal.
   
-  3. ****Light the Witchflame****: Ignite a black candle at the center of the pentagram, representing the heart of the Witchflame Arte. Allow its dark, seductive flames to dance, casting shadows and light upon the enchanted relics.
+  3. **Light the Witchflame**: Ignite a black candle at the center of the pentagram, representing the heart of the Witchflame Arte. Allow its dark, seductive flames to dance, casting shadows and light upon the enchanted relics.
   
-  4. ****Activate the sigils****: Draw the corresponding sigils for each guardian in the air above their respective relics using your ritual athame. Visualize the sigils glowing with the dark energy of the Witchflame Arte as they connect to their corresponding enchanted relics.
+  4. **Activate the sigils**: Draw the corresponding sigils for each guardian in the air above their respective relics using your ritual athame. Visualize the sigils glowing with the dark energy of the Witchflame Arte as they connect to their corresponding enchanted relics.
   
-  5. ****Recite the ancient incantations****: Begin with Obsidyre and continue clockwise, invoking each guardian by reciting the ancient incantations specific to them:
+  5. **Recite the ancient incantations**: Begin with Obsidyre and continue clockwise, invoking each guardian by reciting the ancient incantations specific to them:
   
   - Obsidyre: "I call upon thee, Obsidyre, Guardian of the Shadowflame. Rise from the darkest corners of the abyss and merge with the Witchflame Arte. Hear my voice and heed my command, grant me your guidance and protection."
   
@@ -41,8 +41,8 @@ excerpt: >
   
   - Aurumnal: "I beseech thee, Aurumnal, Guardian of the Fading Sun. Pierce the gloom and set the shadows ablaze, illuminate the Witchflame Arte with your dying embers. Infuse me with your eternal warmth and unwavering passion."
   
-  6. ****Unite the energies****: Stand in the center of the circle with your arms outstretched, drawing upon the mystical energies of the summoned guardians and the Witchflame Arte. Feel the immense power pulsing through your body as you channel their combined might.
+  6. **Unite the energies**: Stand in the center of the circle with your arms outstretched, drawing upon the mystical energies of the summoned guardians and the Witchflame Arte. Feel the immense power pulsing through your body as you channel their combined might.
   
-  7. ****Close the Ritual****: Thank the elemental guardians for their presence and guidance, and release their energies back into the respective elemental realms. Extinguish the Witchflame and erase the sigils, breaking the circle and returning both the area and yourself to a state of harmonious balance.
+  7. **Close the Ritual**: Thank the elemental guardians for their presence and guidance, and release their energies back into the respective elemental realms. Extinguish the Witchflame and erase the sigils, breaking the circle and returning both the area and yourself to a state of harmonious balance.
   
   By following these steps with the mastery of the Dark Prince of the Witchflame Arte, you will have successfully completed the Grand Rite, summoned the five elemental guardians, and harnessed their formidable presence to aid you in your occult endeavors.

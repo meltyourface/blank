@@ -32,7 +32,7 @@ Ad lapidem terrae, invocamus vos spiritus terrae!
 
 Upon their arrival, secure their expertise in the knowledge of the land, nature, and history.
 
-Invocation II: The Elementals
+**Invocation II**: The Elementals
 
 Aqua, Ignis, Terra et Aer,
 Elementorum reges, ad summonet, et potentia tua adveniens!
@@ -45,7 +45,7 @@ Elementorum reges, ad summonet, et potentia tua adveniens!
 
 Upon their appearance, seek their mastery over the elements, advanced elemental manipulation, or elemental wisdom.
 
-Invocation III: Ancestral Ghosts
+**Invocation III**: Ancestral Ghosts
 
 Antiqui sanguinis, progenitores, ad me venias scriptorum rerum et arcanum,
 Nunc ego vos invoco, sicut sanguis, et cinis commiscetur!
@@ -58,7 +58,7 @@ Nunc ego vos invoco, sicut sanguis, et cinis commiscetur!
 
 Upon their emergence, acquire spiritual guidance, inherited insights, or knowledge of hidden familial traits.
 
-Invocation IV: Shadowy Apparitions
+**Invocation IV**: Shadowy Apparitions
 
 Obscurum umbra praeteriit, quod gliscit in auroram,
 Adveho vos, umbrarum figuras, in isto loco revelare!
@@ -71,7 +71,7 @@ Adveho vos, umbrarum figuras, in isto loco revelare!
 
 Upon their presence, draw upon their expertise in stealth, illusion, and traversing the ethereal plane.
 
-Invocation V: Otherworldly Entities
+**Invocation V**: Otherworldly Entities
 
 Essentia extraneus, oriens ex stellarum,
 Vos exordior, o potestates, qui apud transmundani altitudo!

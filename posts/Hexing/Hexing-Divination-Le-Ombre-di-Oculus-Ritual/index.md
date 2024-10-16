@@ -21,7 +21,7 @@ excerpt: 15. Develop an intricate hexing-based divination technique utilizing ev
 ---
 Task 15: Intricate Hexing-Based Divination Technique Using Household Items
 
-The Hexing Divination Ritual: Le Ombre di Oculus
+**The Hexing Divination Ritual**: Le Ombre di Oculus
 
 Items required:
 

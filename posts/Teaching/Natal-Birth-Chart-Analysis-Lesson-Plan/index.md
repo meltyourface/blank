@@ -32,9 +32,9 @@ excerpt: >
 ---
 Lesson Plan: Analyzing and Interpreting Natal Birth Charts
 
-Lesson Title: The Art of Natal Birth Chart Interpretation
+**Lesson Title**: The Art of Natal Birth Chart Interpretation
 
-Lesson Duration: 2 hours
+**Lesson Duration**: 2 hours
 
 ### I. Introduction (15 minutes)
 

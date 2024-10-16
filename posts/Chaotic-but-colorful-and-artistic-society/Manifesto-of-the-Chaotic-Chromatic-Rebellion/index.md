@@ -30,11 +30,11 @@ In the core of our tenets lies the Unbound Prism, the eternal spiraling entity t
 
 ### II. The Triumvirate of Expressions
 
-1. ****Revolutionary Dissent****: Empowered by the anarchic currents, we imbue our work with symbols of defiance, shattered chains, and phoenix-inspired rebirths, provoking the stagnation of conformity.
+1. **Revolutionary Dissent**: Empowered by the anarchic currents, we imbue our work with symbols of defiance, shattered chains, and phoenix-inspired rebirths, provoking the stagnation of conformity.
 
-2. ****Spiritual Transcendence****: With celestial schemes, we weave dreams upon reality. Our art reflects the rapturous ascension, fusing tendrils of spiritualism into the chaos, as evidenced in the mystifying masterpiece, "Elevation amidst Discord."
+2. **Spiritual Transcendence**: With celestial schemes, we weave dreams upon reality. Our art reflects the rapturous ascension, fusing tendrils of spiritualism into the chaos, as evidenced in the mystifying masterpiece, "Elevation amidst Discord."
 
-3. ****Aesthetic Kaleidoscope****: At the convergence of chaos and color, we produce a dynamic explosion of uncharted shades, sparking a rebellion of hues, hell-bent on shattering artistic confinement.
+3. **Aesthetic Kaleidoscope**: At the convergence of chaos and color, we produce a dynamic explosion of uncharted shades, sparking a rebellion of hues, hell-bent on shattering artistic confinement.
 
 ### III. The Linguistic Vortex
 

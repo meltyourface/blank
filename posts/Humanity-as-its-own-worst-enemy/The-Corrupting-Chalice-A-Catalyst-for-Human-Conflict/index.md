@@ -22,19 +22,19 @@ excerpt: >
 ---
 Artifact Name: The Discordant Chalice
 
-Description and Materials: The Discordant Chalice is an insidious artifact crafted by an enigmatic entity known only as "The Architect of Strife." This ancient relic appears to be a tarnished and weathered goblet made of a mysterious alloy, incorporating silver, iron, and gold. Intricate carvings depicting humans in various stages of conflict, despair, and betrayal adorn its surface.
+**Description and Materials**: The Discordant Chalice is an insidious artifact crafted by an enigmatic entity known only as "The Architect of Strife." This ancient relic appears to be a tarnished and weathered goblet made of a mysterious alloy, incorporating silver, iron, and gold. Intricate carvings depicting humans in various stages of conflict, despair, and betrayal adorn its surface.
 
 The chalice is surrounded by an aura of menace, inspiring those who gaze upon it to feel an overwhelming sense of foreboding and unease. While it may not seem remarkable at first glance, the true nature of the Discordant Chalice becomes apparent when its contents are consumed.
 
-Manipulative Powers and Psychological Effects: The true power of the Discordant Chalice lies in its insidious ability to intensify interpersonal conflicts and ignite the destructive tendencies of mankind. When a person drinks from the chalice, no matter if the liquid is water, wine, or another beverage, it becomes tainted by the malevolent energies within the artifact.
+**Manipulative Powers and Psychological Effects**: The true power of the Discordant Chalice lies in its insidious ability to intensify interpersonal conflicts and ignite the destructive tendencies of mankind. When a person drinks from the chalice, no matter if the liquid is water, wine, or another beverage, it becomes tainted by the malevolent energies within the artifact.
 
 Consuming the tainted liquid causes the imbiber's worst traits and fears to rise to the surface. Greed, envy, anger, and paranoia become magnified and all-consuming. Those affected begin to view their friends and allies as enemies, and even the smallest disagreement devolves into a heated argument, eventually leading to physical violence and destruction.
 
 The chalice's dark influence spreads like an infectious disease, as interpersonal conflicts grow exponentially worse as more and more individuals fall victim to the tainted beverage. Eventually, this escalates to the point where entire communities, and even civilizations, crumble under the weight of their own hatred and self-destruction.
 
-Motive Behind Its Creation: The exact purpose behind the creation of the Discordant Chalice remains unknown, but speculation suggests that the Architect of Strife sought to demonstrate just how fragile the bonds between humans can be when faced with their primal, negative emotions. Perhaps it was intended as a cruel lesson, a reminder that humanity is often its own worst enemy, or perhaps it was created simply for its creator's twisted enjoyment.
+**Motive Behind Its Creation**: The exact purpose behind the creation of the Discordant Chalice remains unknown, but speculation suggests that the Architect of Strife sought to demonstrate just how fragile the bonds between humans can be when faced with their primal, negative emotions. Perhaps it was intended as a cruel lesson, a reminder that humanity is often its own worst enemy, or perhaps it was created simply for its creator's twisted enjoyment.
 
-A Specific Event in History: The downfall of the prosperous city-state of Elindor serves as a harrowing example of the destructive power of the Discordant Chalice. At the height of its golden age, Elindor was famed for its thriving markets, advanced cultural achievements, and peaceful coexistence among its diverse citizenry.
+**A Specific Event in History**: The downfall of the prosperous city-state of Elindor serves as a harrowing example of the destructive power of the Discordant Chalice. At the height of its golden age, Elindor was famed for its thriving markets, advanced cultural achievements, and peaceful coexistence among its diverse citizenry.
 
 However, when a mysterious and charismatic traveler arrived with the chalice, everything changed. The traveler was invited to a grand banquet hosted by the city's ruler, where he filled the chalice with wine and offered it as a gift to celebrate their newfound friendship. As the city's elite eagerly partook in the contents of the chalice, its corruptive influence took hold.
 

@@ -29,20 +29,20 @@ excerpt: >
   
   Now that we have established the historical, religious, and philosophical standpoints of Anti-Masonry, we can outline the controversies and conflicts surrounding the intentions, goals, and symbols of Freemasonry:
   
-  1. ****Secrecy and Exclusivity****: One of the most persistent controversies surrounding Freemasonry is its secretive nature, including its rituals, symbols, and communication methods. This secrecy has led to accusations of hidden agendas, subversive intent, and undemocratic ideals.
+  1. **Secrecy and Exclusivity**: One of the most persistent controversies surrounding Freemasonry is its secretive nature, including its rituals, symbols, and communication methods. This secrecy has led to accusations of hidden agendas, subversive intent, and undemocratic ideals.
   
-  2. ****Symbols****: Masonic symbols and imagery, such as the square and compass, the all-seeing eye, and the inverted pentagram, have been associated with occult practices and satanic connotations by Anti-Masonry proponents, further fueling the suspicion and distrust of the organization.
+  2. **Symbols**: Masonic symbols and imagery, such as the square and compass, the all-seeing eye, and the inverted pentagram, have been associated with occult practices and satanic connotations by Anti-Masonry proponents, further fueling the suspicion and distrust of the organization.
   
-  3. ****Political Influence****: Critics argue that the Masonic society has had undue influence on political decisions, resulting in the destabilization of governments and favoritism towards fellow Masons in positions of power.
+  3. **Political Influence**: Critics argue that the Masonic society has had undue influence on political decisions, resulting in the destabilization of governments and favoritism towards fellow Masons in positions of power.
   
-  4. ****Anti-religious Beliefs****: As previously mentioned, Freemasonry has historically been opposed by various religious organizations as its philosophies and practices have been deemed atheistic or anti-Christian.
+  4. **Anti-religious Beliefs**: As previously mentioned, Freemasonry has historically been opposed by various religious organizations as its philosophies and practices have been deemed atheistic or anti-Christian.
   
   Considering the controversies and conflicts surrounding Freemasonry, we can now appreciate its impact on society, politics, and organized religion:
   
-  1. ****Society****: Freemasonry's clandestine nature and its perceived secretive agendas have, over the years, sparked societal upheaval. Anti-Masonic accusations have fueled widespread conspiracy theories and distrust between civilians and those associated with Freemasonry.
+  1. **Society**: Freemasonry's clandestine nature and its perceived secretive agendas have, over the years, sparked societal upheaval. Anti-Masonic accusations have fueled widespread conspiracy theories and distrust between civilians and those associated with Freemasonry.
   
-  2. ****Politics****: Freemasonry has been accused of manipulating political systems to further its goals. This has, in some cases, resulted in political movements, such as the Anti-Masonic Party in the United States, which aimed to counter Freemasonry's perceived influences on various aspects of governance.
+  2. **Politics**: Freemasonry has been accused of manipulating political systems to further its goals. This has, in some cases, resulted in political movements, such as the Anti-Masonic Party in the United States, which aimed to counter Freemasonry's perceived influences on various aspects of governance.
   
-  3. ****Organized Religion****: Various denominations feel that Freemasonry undermines religious values. The rift between Freemasonry and organized religion, especially the Catholic Church, has generated conflict throughout history.
+  3. **Organized Religion**: Various denominations feel that Freemasonry undermines religious values. The rift between Freemasonry and organized religion, especially the Catholic Church, has generated conflict throughout history.
   
   In conclusion, the controversies and conflicts surrounding Freemasonry stem from its secretive nature, symbols, intentions, and goals. By exploring the historical, religious, and philosophical facets of Anti-Masonry, we can understand the implications of Freemasonry's influence on society, politics, and organized religion. These implications have given rise to widespread distrust, political backlash, and religious opposition, which continue to fuel the Anti-Masonic movement.

@@ -27,10 +27,10 @@ excerpt: >
 This comprehensive guide outlines the planetary correspondences and associations of each spirit within the Ars Theurgia Goetia section of the Lemegeton. It provides a thorough understanding of these spirits' roles in summoning, invocation, and theurgy. Furthermore, the guide details the specific times, lunar phases, and optimum ritual conditions required for effective communication with the spirits, carefully researched using historical and esoteric sources to guarantee the highest level of accuracy.
 
 Planetary Correspondences:
-1. ****Sytry (Saturn)****: Associated with ambition, endurance, and austerity. Invoked for matters of discipline and tenacity.
-2. ****Beleth (Venus)****: Connected to love, attraction, and sensuality. Invoked for love spells and emotional healing.
-3. ****Leraje (Mars)****: Corresponding to conflict, courage, and aggression. Invoked for protection and to overcome obstacles.
-4. ****Eligos (Mercury)****: Linked to communication, intellect, and travel. Invoked for understanding hidden things and gaining knowledge.
+1. **Sytry (Saturn)**: Associated with ambition, endurance, and austerity. Invoked for matters of discipline and tenacity.
+2. **Beleth (Venus)**: Connected to love, attraction, and sensuality. Invoked for love spells and emotional healing.
+3. **Leraje (Mars)**: Corresponding to conflict, courage, and aggression. Invoked for protection and to overcome obstacles.
+4. **Eligos (Mercury)**: Linked to communication, intellect, and travel. Invoked for understanding hidden things and gaining knowledge.
 
 Please note that for brevity, only a few examples out of the 72 spirits in Ars Theurgia Goetia are mentioned here.
 
@@ -42,9 +42,9 @@ For instance, Beleth corresponds to Venus, reflecting this planet's qualities of
 Optimum Ritual Conditions:
 Effective communication with Ars Theurgia Goetia spirits requires precise timing and conditions, determined through planetary hours, lunar phases, and ritual cleanliness. **For instance, invoking a Martian spirit like Leraje requires optimum conditions, including the following**:
 
-1. ****Planetary Hours****: Invoke during the planetary hour of Mars on a Tuesday when the planet is above the horizon.
-2. ****Lunar Phases****: Target times when the moon is waxing or full for increased power and intensity in your working.
-3. ****Ritual Cleanliness****: Ensure that the ritual area is clean and free from negative energies, thus aiding focus and intent.
+1. **Planetary Hours**: Invoke during the planetary hour of Mars on a Tuesday when the planet is above the horizon.
+2. **Lunar Phases**: Target times when the moon is waxing or full for increased power and intensity in your working.
+3. **Ritual Cleanliness**: Ensure that the ritual area is clean and free from negative energies, thus aiding focus and intent.
 
 Theurgy and Summoning:
 Understanding the planetary correspondences, astrological symbolism, and optimal ritual conditions lays the foundation for successful summoning and invocation of spirits within the Ars Theurgia Goetia. This enhanced knowledge fosters deeper connections with the spirits, resulting in more powerful and accurate communications and, ultimately, improved theurgic practice.

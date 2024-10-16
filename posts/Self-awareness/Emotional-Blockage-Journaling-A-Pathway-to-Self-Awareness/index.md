@@ -33,11 +33,11 @@ excerpt: >
 
 ## "Unlocking Emotions: A Journey Into Self-Awareness and Emotional Healing"
 
-Overview: The purpose of this self-awareness journaling exercise is to provide individuals with a comprehensive and structured tool for exploring their emotional blockages while promoting deep reflection and healing. 
+**Overview**: The purpose of this self-awareness journaling exercise is to provide individuals with a comprehensive and structured tool for exploring their emotional blockages while promoting deep reflection and healing. 
 
-Requirements: A dedicated journal or notebook, a pen, and a quiet space for reflection
+**Requirements**: A dedicated journal or notebook, a pen, and a quiet space for reflection
 
-Duration: This exercise can be done daily, weekly, or as needed, for a minimum of 4 weeks to effectively assess progress.
+**Duration**: This exercise can be done daily, weekly, or as needed, for a minimum of 4 weeks to effectively assess progress.
 
 Components:
 

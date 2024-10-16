@@ -25,23 +25,23 @@ The Night-roving denizens of the Wild Hunt have a long and storied history that 
 
 Throughout history, various deities and heroes from different cultures have been associated with leading the Wild Hunt. These legendary leaders often wield immense power and influence within the procession and help instill a sense of fear and awe in those unlucky enough to witness the Hunt.
 
-A. ****Odin/Woden****: In Nordic myth, the Allfather is one of the most notable figures associated with the Wild Hunt. Usually depicted as riding atop his eight-legged steed, Sleipnir, Odin guides souls to the afterlife, whether they be fallen warriors or unfortunate individuals caught in the whirlwind of the Hunt.
+A. **Odin/Woden**: In Nordic myth, the Allfather is one of the most notable figures associated with the Wild Hunt. Usually depicted as riding atop his eight-legged steed, Sleipnir, Odin guides souls to the afterlife, whether they be fallen warriors or unfortunate individuals caught in the whirlwind of the Hunt.
 
-B. ****The Fairy Queen****: In British and Celtic folklore, the Fairy Queen is often said to lead the otherworldly cavalcade. Accompanied by a host of fairies, she seeks out mortals who have transgressed against her people and ensures they pay the price for their misdeeds.
+B. **The Fairy Queen**: In British and Celtic folklore, the Fairy Queen is often said to lead the otherworldly cavalcade. Accompanied by a host of fairies, she seeks out mortals who have transgressed against her people and ensures they pay the price for their misdeeds.
 
-C. ****Herne the Hunter****: A ghostly figure said to haunt Windsor Forest in England, Herne is often depicted as a horned man with antlers, leading a spectral procession of hounds, horses, and ghostly huntsmen.
+C. **Herne the Hunter**: A ghostly figure said to haunt Windsor Forest in England, Herne is often depicted as a horned man with antlers, leading a spectral procession of hounds, horses, and ghostly huntsmen.
 
 2. Supernatural Entities Involved
 
 A diverse range of supernatural entities play various roles within the Wild Hunt and contribute to its fearsome reputation.
 
-A. ****Ghostly Huntsmen****: These spectral riders are phantoms of noble huntsmen who have passed on but continue to participate in the Hunt from beyond the grave.
+A. **Ghostly Huntsmen**: These spectral riders are phantoms of noble huntsmen who have passed on but continue to participate in the Hunt from beyond the grave.
 
-B. ****Hellhounds****: Ferocious canines with blazing red eyes, these hounds tirelessly track down the hunted and strike terror into their hearts.
+B. **Hellhounds**: Ferocious canines with blazing red eyes, these hounds tirelessly track down the hunted and strike terror into their hearts.
 
-C. ****Fallen Warriors****: Spirits of warriors - at times still bedecked in their armor - join the Hunt, whether to atone for past misdeeds or as part of a rite of passage to their final resting place.
+C. **Fallen Warriors**: Spirits of warriors - at times still bedecked in their armor - join the Hunt, whether to atone for past misdeeds or as part of a rite of passage to their final resting place.
 
-D. ****Elementals****: Elemental spirits representing earth, air, fire, and water are occasionally found among the ranks of the Wild Hunt, their presence signifying the raw power of nature at work.
+D. **Elementals**: Elemental spirits representing earth, air, fire, and water are occasionally found among the ranks of the Wild Hunt, their presence signifying the raw power of nature at work.
 
 3. Hierarchy and Influence
 

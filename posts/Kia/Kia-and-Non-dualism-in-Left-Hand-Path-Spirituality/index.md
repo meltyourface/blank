@@ -28,7 +28,7 @@ The Left-Hand Path, in broad terms, is a collection of spiritual and magical pra
 
 To explore the interplay between Kia and non-dualism within the Left-Hand Path, we will consider comparative spiritual practices, psychological implications, and the transformative potential attained through self-mastery.
 
-Comparative Spiritual Practices: 
+**Comparative Spiritual Practices**: 
 
 The Left-Hand Path has its roots in various spiritual traditions, including Eastern Tantrism, Gnosticism, and ceremonial magic. In these systems, the emphasis is on realizing the divine nature within oneself, rather than seeking an external source of divinity. The concept of non-dualism is present in several of these traditions, highlighting the intrinsic connection between the individual and the cosmos. 
 

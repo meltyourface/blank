@@ -22,7 +22,7 @@ excerpt: >
 ---
 To design a personalized sigil focused on manifesting self-growth and financial prosperity, follow these steps:
 
-1. ****Choose three empowering symbols****: A pentacle for wealth, a Phoenix for rebirth, and a Fibonacci spiral for balance. These symbols will form the basis of your unique sigil design. Research each symbol to ensure it resonates with your personal transformation goals.
+1. **Choose three empowering symbols**: A pentacle for wealth, a Phoenix for rebirth, and a Fibonacci spiral for balance. These symbols will form the basis of your unique sigil design. Research each symbol to ensure it resonates with your personal transformation goals.
 
 2. Begin by sketching each symbol separately on a piece of paper, making sure you're familiar with their shapes and features. You can find inspiration from references, online images, or books focusing on esoteric symbols and sacred geometry.
 

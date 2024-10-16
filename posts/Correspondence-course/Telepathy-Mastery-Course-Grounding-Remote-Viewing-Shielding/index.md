@@ -22,7 +22,7 @@ excerpt: >
 ---
 Course Title: Mastering Telepathy: A Comprehensive Correspondence Course for Intermediate-level Practitioners
 
-Course Objective: This curriculum is designed to guide students in honing their telepathic abilities through a series of progressive exercises, readings, and practical applications. Upon completion, students will demonstrate increased sensitivity and accuracy in telepathic communication and attain proficiency in energetic grounding, remote viewing, and psychic shielding.
+**Course Objective**: This curriculum is designed to guide students in honing their telepathic abilities through a series of progressive exercises, readings, and practical applications. Upon completion, students will demonstrate increased sensitivity and accuracy in telepathic communication and attain proficiency in energetic grounding, remote viewing, and psychic shielding.
 
 Module 1: Energetic Grounding
 Topic 1: The Importance of Grounding

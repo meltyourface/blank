@@ -21,7 +21,7 @@ excerpt: Design a talismanic image rooted in the esoteric and occult traditions,
 ---
 Design: The Love & Harmony Talisman
 
-Base shape: The talisman will be in the form of a circular pendant, representing unity, wholeness, and infinity. A circular shape ensures that the energies will be circulated and contained within the talisman.
+**Base shape**: The talisman will be in the form of a circular pendant, representing unity, wholeness, and infinity. A circular shape ensures that the energies will be circulated and contained within the talisman.
 
 **Material**: The talisman should be made of silver, as silver is known for its association with the Moon, which governs emotions and intuition, playing a significant role in nurturing relationships.
 

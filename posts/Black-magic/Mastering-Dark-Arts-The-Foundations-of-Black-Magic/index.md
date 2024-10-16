@@ -29,7 +29,7 @@ Black Magic, also referred to as the Dark Arts, is a complex and ancient practic
 
 Key Elements
 
-Black Magic incorporates three essential elements: intention, knowledge, and energy. Intention refers to the practitioner's desired outcome and the driving force behind the spell or ritual. Knowledge encompasses the understanding and expertise of the magical workings required to manifest that intention, and energy signifies the actual power or force needed to bring one's desires to fruition.
+**Black Magic incorporates three essential elements**: intention, knowledge, and energy. Intention refers to the practitioner's desired outcome and the driving force behind the spell or ritual. Knowledge encompasses the understanding and expertise of the magical workings required to manifest that intention, and energy signifies the actual power or force needed to bring one's desires to fruition.
 
 Methods and Philosophies
 

@@ -22,7 +22,7 @@ excerpt: Craft an in-depth compatibility divination for two fictional characters
 Character A: Harry (Birthdate: July 31, 1980)
 Sun: Leo, Moon: Scorpio, Ascendant: Capricorn
 
-Character B: Sally (Birthdate: December 20, 1980)
+**Character B**: Sally (Birthdate: December 20, 1980)
 Sun: Sagittarius, Moon: Cancer, Ascendant: Gemini
 
 Compatibility Divination:

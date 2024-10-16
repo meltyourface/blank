@@ -21,7 +21,7 @@ excerpt: Craft a personalized astrological talisman, designed specifically for m
 ---
 Intention: Achieving professional success.
 
-Primary Planetary Influence: Saturn, the planet of structure, authority, and discipline.
+**Primary Planetary Influence**: Saturn, the planet of structure, authority, and discipline.
 
 Materials Needed:
 

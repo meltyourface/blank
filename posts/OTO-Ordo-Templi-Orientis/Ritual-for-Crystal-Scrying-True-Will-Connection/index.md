@@ -47,11 +47,11 @@ excerpt: >
 **Step 2**: Invocation of the Elements and the True Will
 
 1. Stand in the east, facing the altar.
-2. ****Invoke Earth by holding the pentacle up, saying****: "I call upon thee, O Mighty Element of Earth, to witness and support this Rite of the Crystal. Thy steadfastness and strength shall be my foundation."
-3. ****Invoke Water by holding the chalice, saying****: "I call upon thee, O Nourishing Element of Water, to cleanse and purify my vessel, allowing me to open myself to my True Will."
-4. ****Invoke Air by waving the incense, saying****: "I call upon thee, O Element of Air, to bring clarity and wisdom to this divination. May my thoughts and communication be guided by the Light of my True Will."
-5. ****Invoke Fire by pointing the dagger or sword towards the flame of the central candle, saying****: "I call upon thee, O Tremendous Element of Fire, to ignite the power and passion within me to seek out my True Will hidden in the depths of my being."
-6. ****Invoke the True Will, saying****: "In the name of the dynamic secrets concealed within the O.T.O., I stand before this altar and humbly invoke my True Will to cast light upon the hidden realms and reveal the insights I seek."
+2. **Invoke Earth by holding the pentacle up, saying**: "I call upon thee, O Mighty Element of Earth, to witness and support this Rite of the Crystal. Thy steadfastness and strength shall be my foundation."
+3. **Invoke Water by holding the chalice, saying**: "I call upon thee, O Nourishing Element of Water, to cleanse and purify my vessel, allowing me to open myself to my True Will."
+4. **Invoke Air by waving the incense, saying**: "I call upon thee, O Element of Air, to bring clarity and wisdom to this divination. May my thoughts and communication be guided by the Light of my True Will."
+5. **Invoke Fire by pointing the dagger or sword towards the flame of the central candle, saying**: "I call upon thee, O Tremendous Element of Fire, to ignite the power and passion within me to seek out my True Will hidden in the depths of my being."
+6. **Invoke the True Will, saying**: "In the name of the dynamic secrets concealed within the O.T.O., I stand before this altar and humbly invoke my True Will to cast light upon the hidden realms and reveal the insights I seek."
 **Step 3**: Scrying in the Crystal
 
 1. Take a deep breath and close your eyes. Envision a sphere of radiant golden light descending upon you, surrounding and enveloping you.
@@ -63,7 +63,7 @@ excerpt: >
 **Step 4**: Closing the Ritual
 
 1. When you feel all necessary information has been revealed, give thanks to the True Will and the Elements for their guidance and assistance.
-2. ****Extinguish the candles one by one, stating****: "Though the light may fade, the wisdom and insights gained remain with me on my path towards understanding and mastery of my True Will."
+2. **Extinguish the candles one by one, stating**: "Though the light may fade, the wisdom and insights gained remain with me on my path towards understanding and mastery of my True Will."
 3. Close with the O.T.O. motto, "Love is the law, love under will."
 
 Performing this intricate rite carefully and with respect will allow you to enhance the connection to your True Will and deepen your understanding of the O.T.O. principles. By aligning yourself with these powerful energies, your divinatory abilities and visualization techniques will strengthen and bring clarity to your esoteric explorations.

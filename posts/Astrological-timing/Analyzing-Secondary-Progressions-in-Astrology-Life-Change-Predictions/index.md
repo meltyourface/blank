@@ -23,7 +23,7 @@ To complete an in-depth examination of secondary progressions within a natal cha
 
 For this analysis, I'll need some specific birth data (birthdate, time, and location). However, in the absence of that, I will use a fictional individual's birth data to demonstrate the process:
 
-Birth data: 
+**Birth data**: 
 Date: March 20, 1990
 Time: 11:00 AM
 Location: New York City, NY, USA

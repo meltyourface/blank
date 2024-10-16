@@ -34,19 +34,19 @@ The philosophy behind talismanic and telesmatic practices is rooted in the belie
 
 In most theoretical frameworks, talismans are considered to be repositories of energy that can be manipulated through specific practices. The understanding of these practices is derived from a combination of natural sciences, mysticism, and personal experiences.
 
-Two key theoretical frameworks are the astrological and the elemental theories. ****The astrological theory posits that talismans derive their power from a connection to celestial forces. This understanding is rooted in the idea that the planets and stars shape the energies present in objects and symbols. In contrast, the elemental theory ascribes talismanic power to the four classical elements of nature****: earth, air, fire, and water.
+Two key theoretical frameworks are the astrological and the elemental theories. **The astrological theory posits that talismans derive their power from a connection to celestial forces. This understanding is rooted in the idea that the planets and stars shape the energies present in objects and symbols. In contrast, the elemental theory ascribes talismanic power to the four classical elements of nature**: earth, air, fire, and water.
 
 ### Chapter 3: The Creation and Utilization of Talismans and Telesmatic Symbols
 
 Creating and using talismans and telesmatic symbols typically involves several stages, including:
 
-1. ****Determining the purpose****: A practitioner must first decide the intended goal of the talisman or symbol. This can vary widely, from attracting love or prosperity to healing or protection from harm.
+1. **Determining the purpose**: A practitioner must first decide the intended goal of the talisman or symbol. This can vary widely, from attracting love or prosperity to healing or protection from harm.
 
-2. ****Understanding the relevant correspondences****: Once the goal is determined, the practitioner should research the appropriate symbols and materials that correspond to the desired effect. Celestial, elemental, geometric, or symbolic associations may all play a role.
+2. **Understanding the relevant correspondences**: Once the goal is determined, the practitioner should research the appropriate symbols and materials that correspond to the desired effect. Celestial, elemental, geometric, or symbolic associations may all play a role.
 
-3. ****The construction and consecration****: Carefully crafting the talisman or telesmatic symbol typically requires the practitioner to follow a prescribed ritual. Often, this involves specific timing, such as during a particular astrological event, and may require specialized tools, materials, or words of power (mantras or invocations).
+3. **The construction and consecration**: Carefully crafting the talisman or telesmatic symbol typically requires the practitioner to follow a prescribed ritual. Often, this involves specific timing, such as during a particular astrological event, and may require specialized tools, materials, or words of power (mantras or invocations).
 
-4. ****Activation and ongoing use****: Talismans and telesmatic symbols require activation and ongoing care. This could involve regular ritual maintenance, offerings, or regular exposure to elemental or celestial energies.
+4. **Activation and ongoing use**: Talismans and telesmatic symbols require activation and ongoing care. This could involve regular ritual maintenance, offerings, or regular exposure to elemental or celestial energies.
 
 ### Chapter 4: Benefits and Challenges
 

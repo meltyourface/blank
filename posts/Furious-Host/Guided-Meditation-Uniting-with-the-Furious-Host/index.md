@@ -35,7 +35,7 @@ Guide me through the elemental veil,
 Reveal to me the hidden world beyond,
 And forge an unwavering bond."
 **Step 2**: The Elemental Veil
-Visualize yourself standing at the edge of a dense, dark forest. ****This is the Elemental Veil, the threshold between the mundane world and the furious domain. Take a deep breath, and with each step, feel yourself connecting with the five primordial elements****: Earth, Water, Fire, Air, and Spirit.
+Visualize yourself standing at the edge of a dense, dark forest. **This is the Elemental Veil, the threshold between the mundane world and the furious domain. Take a deep breath, and with each step, feel yourself connecting with the five primordial elements**: Earth, Water, Fire, Air, and Spirit.
 **Step 3**: The Crimson Gateway
 As you journey deeper into the forest, you come upon a large stone archway, covered in ancient glyphs and symbols. **This is the Crimson Gateway, the entrance to the Furious Host. Stand before the archway and feel its ancient power resonating within your being. Speak aloud the following words**:
 

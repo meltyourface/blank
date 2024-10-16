@@ -27,7 +27,7 @@ Dante Alighieri's Divine Comedy stands as a monumental piece of literature, refl
 
 ### II. Symbolism and Allegories
 
-The Divine Comedy is divided into three parts: Hell (Inferno), Purgatory (Purgatorio), and Heaven (Paradiso), reflecting Dante's journey through the realms of the afterlife guided by the Roman poet Virgil and later by Beatrice. This profound journey represents the process of self-discovery and purification for the soul. Each of these realms has a distinct set of symbols and allegories, applicable to both the personal and collective unconscious.
+**The Divine Comedy is divided into three parts**: Hell (Inferno), Purgatory (Purgatorio), and Heaven (Paradiso), reflecting Dante's journey through the realms of the afterlife guided by the Roman poet Virgil and later by Beatrice. This profound journey represents the process of self-discovery and purification for the soul. Each of these realms has a distinct set of symbols and allegories, applicable to both the personal and collective unconscious.
 
 A. Hell (Inferno)
 

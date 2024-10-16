@@ -22,7 +22,7 @@ excerpt: Compose an intricate summoning rite, tailored to the specific affinitie
 
 ## Summoning Rite of the Familiar Spirit of the Luminous Starling
 
-Familiar Spirit: The Luminous Starling (Lat. Lumen Stellaria), a celestial bird spirit renowned for its wisdom and guidance in all manners of learning, creativity, and communication. Its visual appearance is that of a shining, iridescent starling of a shimmering indigo color.
+**Familiar Spirit**: The Luminous Starling (Lat. Lumen Stellaria), a celestial bird spirit renowned for its wisdom and guidance in all manners of learning, creativity, and communication. Its visual appearance is that of a shining, iridescent starling of a shimmering indigo color.
 
 Symbolic Elements:
 1. The stylized bird's nest - represents the desired collaboration between practitioner and spirit.
@@ -40,7 +40,7 @@ Tools and Materials:
 6. A silver chalice filled with spring water - a symbol of purity for the spirit.
 7. A polished mirror or scrying surface - to communicate with the Luminous Starling.
 
-Timing and Astrological Conditions: The rite must be performed on a clear, moonless night when the planet Mercury is visible and rising in the eastern sky. Ideally, Mercury should be in conjunction or sextile aspect with another celestial body to enhance the communicative aspects of the ritual.
+**Timing and Astrological Conditions**: The rite must be performed on a clear, moonless night when the planet Mercury is visible and rising in the eastern sky. Ideally, Mercury should be in conjunction or sextile aspect with another celestial body to enhance the communicative aspects of the ritual.
 
 **Incantations**:
 

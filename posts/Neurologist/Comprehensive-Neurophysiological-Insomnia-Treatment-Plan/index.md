@@ -25,7 +25,7 @@ As a master of the esoteric, occult, and Neurologist, I have analyzed and evalua
 
 Neurophysiological factors like increased cortical arousal and sensitized limbic systems in insomnia patients necessitate the need for an environment conducive to sleep. 
 
-Case example: 
+**Case example**: 
 
 Patient A suffers from severe insomnia due to heightened neurological activity. In this case, the implementation process will include:
 

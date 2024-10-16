@@ -31,7 +31,7 @@ Trance-induced pathworking is an essential practice for spiritual seekers who wi
 
 1. Understanding Kabbalah and the Tree of Life
    a. Definition and origin of Kabbalah
-   b. ****The structure of the Tree of Life****: 10 sephiroth and 22 pathways
+   b. **The structure of the Tree of Life**: 10 sephiroth and 22 pathways
    c. Overview of the Four Worlds
 
 2. The Basics of Trance and Pathworking
@@ -58,20 +58,20 @@ Trance-induced pathworking is an essential practice for spiritual seekers who wi
 
 ### Part III: Sephira by Sephira: Journeying Through the Kabbalistic Tree of Life
 
-6. ****Malkuth****: Embarking on the Journey
-   a. ****Spiritual implications of Malkuth****: grounding, manifestation, and physical reality
+6. **Malkuth**: Embarking on the Journey
+   a. **Spiritual implications of Malkuth**: grounding, manifestation, and physical reality
    b. Visualization and rhythmic frequencies for accessing the energy of Malkuth
    c. Setting intentions and maintaining awareness in Malkuth
 
-7. ****Yesod****: Connecting to the Astral Realm
-   a. ****Spiritual implications of Yesod****: dreams, imagination, and astral connections
+7. **Yesod**: Connecting to the Astral Realm
+   a. **Spiritual implications of Yesod**: dreams, imagination, and astral connections
    b. Visualization and rhythmic frequencies for accessing the energy of Yesod
    c. Setting intentions and maintaining awareness in Yesod
 
-8-14. ****Hod, Netzach, Tiphereth, Geburah, Chesed, Binah, and Chokmah****: (Repeat format as in sections 6-7.)
+8-14. **Hod, Netzach, Tiphereth, Geburah, Chesed, Binah, and Chokmah**: (Repeat format as in sections 6-7.)
 
-15. ****Kether****: The Crown and Ultimate Union
-   a. ****Spiritual implications of Kether****: Divine consciousness, ultimate unity, and spiritual enlightenment
+15. **Kether**: The Crown and Ultimate Union
+   a. **Spiritual implications of Kether**: Divine consciousness, ultimate unity, and spiritual enlightenment
    b. Visualization and rhythmic frequencies for accessing the energy of Kether
    c. Setting intentions and maintaining awareness in Kether
 
@@ -82,7 +82,7 @@ Trance-induced pathworking is an essential practice for spiritual seekers who wi
    b. Maintaining awareness and integrating insights from trance exploration
    c. Balancing the pathworking journey with daily life and personal growth
 
-17. ****Advanced Pathworking****: Exploring the 22 Pathways and the Four Worlds
+17. **Advanced Pathworking**: Exploring the 22 Pathways and the Four Worlds
    a. Delving deeper into the interconnected pathways between the sephiroth
    b. Working with the Four Worlds for greater spiritual understanding and expansion
    c. Visualization and intention practices for advanced pathworking

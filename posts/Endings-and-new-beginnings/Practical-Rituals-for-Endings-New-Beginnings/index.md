@@ -36,9 +36,9 @@ The following rituals and spells facilitate easier transition through life's cyc
 
 1. The Ritual of Release
 
-Objective: To let go of past burdens, traumas, or negative emotions that act as barriers to personal growth.
+**Objective**: To let go of past burdens, traumas, or negative emotions that act as barriers to personal growth.
 
-Ingredients: White candle, a small piece of paper, and a fireproof bowl
+**Ingredients**: White candle, a small piece of paper, and a fireproof bowl
 
 Instructions:
 - Begin by cleansing your working area and grounding your energy.
@@ -52,9 +52,9 @@ Instructions:
 
 2. The New Beginnings Spell
 
-Objective: To manifest opportunities for growth and personal development.
+**Objective**: To manifest opportunities for growth and personal development.
 
-Ingredients: Green candle, a piece of paper, and a pen or pencil.
+**Ingredients**: Green candle, a piece of paper, and a pen or pencil.
 
 Instructions:
 - Prepare your working area and ground your energy.

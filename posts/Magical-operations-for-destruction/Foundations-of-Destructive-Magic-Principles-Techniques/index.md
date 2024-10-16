@@ -45,7 +45,7 @@ Destructive magic can manifest in various forms, including curses, hexes, jinxes
 - Jinxes are minor spells that produce transient, inconvenient outcomes.
 - Enchantments use objects to achieve their desired consequence, often through creating an aura of negative energy around the object.
 
-The foundations of each technique involve three main aspects: preparation, invocation of relevant entities, and the execution of the spell or ritual.
+**The foundations of each technique involve three main aspects**: preparation, invocation of relevant entities, and the execution of the spell or ritual.
 
 1.2.1 Preparation
 

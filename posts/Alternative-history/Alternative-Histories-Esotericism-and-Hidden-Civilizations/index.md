@@ -32,7 +32,7 @@ Occultism and the esoteric tradition place a strong emphasis on the existence of
 
 Alternative histories often involve the exploration of events or civilizations that have been systematically left out of established history or have been distorted in order to fit a particular agenda. They shed light on suppressed truths and challenge the assumptions upon which conventional wisdom is constructed. The occult and esoteric traditions have long been proponents of such alternative viewpoints, as they search for hidden connections and patterns that reveal the underlying fabric of existence.
 
-Ancient Civilizations and Hidden Knowledge: Lemuria and Atlantis
+**Ancient Civilizations and Hidden Knowledge**: Lemuria and Atlantis
 
 Alternative history frequently delves into the subject of ancient civilizations that have been lost or deliberately obscured from human memory. Two of the most prominent examples of such civilizations are the continents of Lemuria and Atlantis, both of which have been central to occult and esoteric theories for centuries.
 

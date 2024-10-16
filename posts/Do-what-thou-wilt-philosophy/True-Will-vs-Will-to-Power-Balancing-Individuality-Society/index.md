@@ -1,6 +1,6 @@
 ---
 id: 491284af-6940-456c-afab-f65080a5f797
-title: 'True Will vs. ****Will to Power****: Balancing Individuality & Society'
+title: 'True Will vs. **Will to Power**: Balancing Individuality & Society'
 permalink: /Do-what-thou-wilt-philosophy/True-Will-vs-Will-to-Power-Balancing-Individuality-Society/
 categories:
   - Do what thou wilt philosophy
@@ -22,9 +22,9 @@ excerpt: Explore the concept of True Will in relation to Nietzsche's theory of W
 Introduction:
 To thoroughly respond to this knowledge challenge, it is essential to first define the key concepts involved:
 
-1. ****True Will****: This is a central concept in the Thelemic belief system, which is founded upon the "Do what thou wilt" philosophy by English occultist Aleister Crowley. True Will refers to an individual's innate and authentic purpose, uninhibited by cultural, familial, or societal expectations. It is the ultimate expression of self-realization and personal fulfillment.
+1. **True Will**: This is a central concept in the Thelemic belief system, which is founded upon the "Do what thou wilt" philosophy by English occultist Aleister Crowley. True Will refers to an individual's innate and authentic purpose, uninhibited by cultural, familial, or societal expectations. It is the ultimate expression of self-realization and personal fulfillment.
 
-2. ****Will to Power****: This concept, proposed by the German philosopher Friedrich Nietzsche, contends that the driving force in humans is the will to power, meaning the personal drive to achieve control over their surroundings. Nietzsche believed that the Will to Power was ultimately a creative, life-affirming force, rather than a destructive one, which defines an individual's actions and desires.
+2. **Will to Power**: This concept, proposed by the German philosopher Friedrich Nietzsche, contends that the driving force in humans is the will to power, meaning the personal drive to achieve control over their surroundings. Nietzsche believed that the Will to Power was ultimately a creative, life-affirming force, rather than a destructive one, which defines an individual's actions and desires.
 
 Personal Freedom and True Will:
 Within the "Do what thou wilt" framework, the concept of True Will exemplifies personal freedom, as individuals are encouraged to pursue their innermost purpose without conforming to external pressures. In this sense, personal freedom aligns with Nietzsche's Will to Power theory, as both ideas emphasize the importance of pursuing one's desires rather than submitting to societal norms or expectations.

@@ -27,7 +27,7 @@ Introduction
 
 The Annexation of Fiume, a historical event that took place between 1919 and 1924, centers around the controversial seizing and eventual incorporation of the city of Fiume, now modern-day Rijeka in Croatia, into the Kingdom of Italy. While the political and social aspects of this event are well-documented, the hidden spiritual implications and symbolic meanings remain unexplored. Delving into the esoteric connections between historical events and spiritual forces allows students of the occult to attune themselves to the universal interplay of energy, power, and intention—drawing inspiration and lessons for their own mystical practice and inner growth. In this section, we will unveil the arcane dimensions of the Annexation of Fiume, illuminating the spiritual underpinnings and occult significance that lie beneath its surface.
 
-### I. ****Symbolism of Fiume****: The River and the Ebb and Flow of Power
+### I. **Symbolism of Fiume**: The River and the Ebb and Flow of Power
 
 Fiume, which translates to "river" in Italian, is aptly named as it is located along the Rječina River, and its maritime and commercial history are deeply intertwined with its geographical location. In esoteric teachings, rivers carry both physical and spiritual significance. Symbolically, a river represents the flow of life, transcending boundaries and representing a force of union and separation. This is mirrored in the political, economic, and social issues surrounding the Annexation of Fiume.
 

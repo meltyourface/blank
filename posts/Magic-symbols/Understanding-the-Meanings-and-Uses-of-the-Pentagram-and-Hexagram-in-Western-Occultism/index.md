@@ -24,7 +24,7 @@ Introduction
 
 In Western occultism, the Pentagram and the Hexagram hold a significant position as powerful symbols which are employed in various magical practices and rituals. Despite their historical and traditional significance, the meanings, associations, and purposes behind these symbols are often misunderstood. In this response, we will delve into the symbolic meanings and purposes of the Pentagram and the Hexagram, explore their associations with the elements, planetary alignments, and celestial influences, and discuss how these factors have influenced their usage in magical practices and rituals throughout history.
 
-The Pentagram: Symbolism, Meaning, and Associations
+**The Pentagram**: Symbolism, Meaning, and Associations
 
 The Pentagram, a five-pointed star enclosed within a circle, is a prevalent symbol in the Western esoteric tradition. At its core, the Pentagram represents the principle of balance, harmony, and connection between the elements and the spirit.
 
@@ -34,7 +34,7 @@ In addition to its elemental symbolism, the Pentagram has associations with plan
 
 Throughout history, the Pentagram has been employed in magical practices and rituals geared towards conjuring elemental powers and seeking balance and protection. It has also been used as a symbol of unity and strength, making it a powerful tool for initiates seeking wisdom, knowledge, and spiritual growth.
 
-The Hexagram: Symbolism, Meaning, and Associations
+**The Hexagram**: Symbolism, Meaning, and Associations
 
 In contrast to the Pentagram, the Hexagram - a six-pointed star composed of two overlapping equilateral triangles - is more closely associated with alchemical and planetary magic in Western occultism. The Hexagram represents the principles of duality, balance, and connection between the macrocosm and the microcosm.
 

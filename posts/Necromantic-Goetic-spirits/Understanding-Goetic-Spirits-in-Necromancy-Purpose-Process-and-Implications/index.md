@@ -23,7 +23,7 @@ In order to answer this knowledge challenge comprehensively, it is necessary to 
 
 First, let's establish the context of the 72 Goetic spirits. These spirits are part of the "Goetia," which is derived from a Greek term referring to the practice of sorcery. The Goetia is a section of a 17th-century grimoire, "The Lesser Key of Solomon", which has its roots in texts from the 14th and 15th centuries and draws heavily upon older demonological and magical traditions. The 72 spirits are said to be demons, fallen angels, or spirits with various associated abilities, characteristics, and legions of minions under their control.
 
-The primary differences between the traditional demonic associations of the Goetic spirits and their role in aiding necromantic practices can be explored through three aspects: purpose, process, and the nature of interactions.
+**The primary differences between the traditional demonic associations of the Goetic spirits and their role in aiding necromantic practices can be explored through three aspects**: purpose, process, and the nature of interactions.
 
 1. Purpose:
 Traditionally, the Goetic demons were invoked for a wide range of purposes, such as bestowing knowledge, granting power, dictating events, inciting love, and manipulating global affairs. In the context of necromancy, their purpose is much more focused on facilitating communication with the deceased or harnessing the energies and knowledge of those spirits.

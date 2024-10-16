@@ -23,7 +23,7 @@ excerpt: >
 
 ## Title: The Rite of Financial Serenity
 
-Objective: The dissolution of monetary hindrances and the attraction of prosperity through the mystic principles of The Coin.
+**Objective**: The dissolution of monetary hindrances and the attraction of prosperity through the mystic principles of The Coin.
 
 Materials Needed:
 1. The Coin (a physical or talismanic representation)

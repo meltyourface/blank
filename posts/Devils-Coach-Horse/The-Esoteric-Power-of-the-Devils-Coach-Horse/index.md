@@ -35,7 +35,7 @@ Symbolism
 
 In terms of symbolism, the DCH represents transformation and metamorphosis, an archetype shared by many insects due to their process of metamorphosis. The DCH undergoes a radical transformation from larva to adult, embracing change and evolution as a fundamental aspect of existence. Consequently, it has become a symbol of embracing the unknown and overcoming challenges.
 
-The DCH also represents the darker aspects of nature: the shadow, the underworld, and the hidden. It is a creature of the night, often found in obscure, scarcely lit places. This association with darkness and the unseen connects the DCH to concepts of hidden knowledge and occult wisdom that can only be attained through exploration of the unknown.
+**The DCH also represents the darker aspects of nature**: the shadow, the underworld, and the hidden. It is a creature of the night, often found in obscure, scarcely lit places. This association with darkness and the unseen connects the DCH to concepts of hidden knowledge and occult wisdom that can only be attained through exploration of the unknown.
 
 Rituals and Practices
 

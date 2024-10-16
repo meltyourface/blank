@@ -26,16 +26,16 @@ Invocation for Summoning the Deity of Spiritual Transformation: Astarya
 Astarya, the deity of spiritual transformation, is known for her divine power to facilitate inner growth, healing, and metamorphosis. To successfully summon her, a ritual must be conducted with the utmost care, incorporating sacred symbols, offerings, chants, and meditations.
 
 **Symbols**:
-1. ****The Serpent****: A symbol of transformation, shedding old skin, and renewal.
-2. ****The Phoenix****: Representing rebirth and rising above challenges.
-3. ****The Lotus****: Demonstrating spiritual development amidst adversity.
-4. ****The Ouroboros****: The eternal cycle of transformation and self-re-creation.
+1. **The Serpent**: A symbol of transformation, shedding old skin, and renewal.
+2. **The Phoenix**: Representing rebirth and rising above challenges.
+3. **The Lotus**: Demonstrating spiritual development amidst adversity.
+4. **The Ouroboros**: The eternal cycle of transformation and self-re-creation.
 
 Sacred Offerings:
-1. ****Incense****: Palo Santo or Sandalwood, to purify and cleanse the space.
-2. ****Crystals****: Labradorite, to aid in transformation and protect from negative energies.
-3. ****Food****: Fresh fruit, symbolic of nature's cycle of growth and abundance.
-4. ****Candle****: A purple or indigo candle to represent spiritual awakening.
+1. **Incense**: Palo Santo or Sandalwood, to purify and cleanse the space.
+2. **Crystals**: Labradorite, to aid in transformation and protect from negative energies.
+3. **Food**: Fresh fruit, symbolic of nature's cycle of growth and abundance.
+4. **Candle**: A purple or indigo candle to represent spiritual awakening.
 
 **Chants**:
 Invoke the presence of Astarya by reciting the following chant in a slow, reverential tone:

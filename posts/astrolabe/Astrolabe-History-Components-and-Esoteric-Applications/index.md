@@ -28,7 +28,7 @@ The astrolabe, often described as an ancient celestial calculator, has a rich an
 
 Astrolabe Components and Functionality
 
-An astrolabe is a sophisticated instrument composed of several basic components: the mater, which is a flat, circular plate that forms the body; a rete, a web-like overlay representing fixed stars and celestial bodies; and a rule or alidade, used for sighting and measurement. These components are held together by a central axis, allowing them to rotate and align in various ways.
+**An astrolabe is a sophisticated instrument composed of several basic components**: the mater, which is a flat, circular plate that forms the body; a rete, a web-like overlay representing fixed stars and celestial bodies; and a rule or alidade, used for sighting and measurement. These components are held together by a central axis, allowing them to rotate and align in various ways.
 
 The occult significance of the astrolabe lies in its ability to provide precise measurements of celestial bodies' positions at any given time, thereby lending itself to divination, astrology, and other esoteric practices. By observing and analyzing the stars' relative positions, an astrologer or occult practitioner could interpret correlations between celestial events and earthly phenomena, thus gaining deep insights into the cosmic order.
 

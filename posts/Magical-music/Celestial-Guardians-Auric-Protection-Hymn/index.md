@@ -30,7 +30,7 @@ excerpt: Compose an enchanting musical composition utilizing the mystical proper
 - Nyckelharpa
 - Celesta
 
-Time Signature: 7/8
+**Time Signature**: 7/8
 
 **Scale**: Egyptian
 

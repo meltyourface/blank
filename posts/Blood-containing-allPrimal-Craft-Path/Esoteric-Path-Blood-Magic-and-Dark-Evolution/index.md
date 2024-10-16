@@ -24,30 +24,30 @@ The Blood containing all Primal Craft Path is an esoteric and occult tradition t
 
 Central Teachings:
 
-1. ****Blood Magic****: Blood is considered the most potent and primal form of energy within the Primal Craft Path. Blood magic is an ancient and powerful form of sorcery, rooted in the belief that blood carries the essence of life and can be utilized as a conduit for harnessing mystical forces. Rituals involving blood sacrifices, bloodletting, and the use of blood in sigils are integral components of this tradition. The life force contained within blood is believed to have the potential to awaken and empower the practitioner, opening doors to hidden knowledge, spiritual awakening, and transformation.
+1. **Blood Magic**: Blood is considered the most potent and primal form of energy within the Primal Craft Path. Blood magic is an ancient and powerful form of sorcery, rooted in the belief that blood carries the essence of life and can be utilized as a conduit for harnessing mystical forces. Rituals involving blood sacrifices, bloodletting, and the use of blood in sigils are integral components of this tradition. The life force contained within blood is believed to have the potential to awaken and empower the practitioner, opening doors to hidden knowledge, spiritual awakening, and transformation.
 
-2. ****Nature and its Darker Aspects****: The Primal Craft Path emphasizes the importance of understanding and embracing the darker aspects of nature, such as death, decay, and the destructive forces that exist in the world. It teaches the practitioners to see beauty and power in these darker facets of life, urging them to use these energies to create change and personal growth. By aligning one's will with these darker forces, individuals can purge old habits, remove obstacles, and reclaim their primal birthright.
+2. **Nature and its Darker Aspects**: The Primal Craft Path emphasizes the importance of understanding and embracing the darker aspects of nature, such as death, decay, and the destructive forces that exist in the world. It teaches the practitioners to see beauty and power in these darker facets of life, urging them to use these energies to create change and personal growth. By aligning one's will with these darker forces, individuals can purge old habits, remove obstacles, and reclaim their primal birthright.
 
-3. ****Self-discovery and Transformation****: This path demands practitioners to explore the depths of their consciousness and confront their inner demons. Through intense introspection and self-examination, adherents seek to identify and understand the shadows within their psyche. By embracing these dark aspects, they integrate them, fostering personal growth and transformation. This process encourages individuals to recognize their own power and potential, enabling them to break free from limitations and step into their true selves.
+3. **Self-discovery and Transformation**: This path demands practitioners to explore the depths of their consciousness and confront their inner demons. Through intense introspection and self-examination, adherents seek to identify and understand the shadows within their psyche. By embracing these dark aspects, they integrate them, fostering personal growth and transformation. This process encourages individuals to recognize their own power and potential, enabling them to break free from limitations and step into their true selves.
 
 Historical and Cultural Influences:
 
 The Blood containing all Primal Craft Path has drawn inspiration and evolved from various spiritual and occult traditions. **Elements of ancient shamanic practices, pagan beliefs, and diverse magical systems can be found interwoven within its teachings. Cultural influences that have impacted this path include**:
 
-1. ****Pre-Christian European and Indigenous African cultures****: The use of blood in rituals can be traced back to ancient pagan and shamanic practices, which involved blood sacrifices and rituals to honor and appease gods and spirits.
+1. **Pre-Christian European and Indigenous African cultures**: The use of blood in rituals can be traced back to ancient pagan and shamanic practices, which involved blood sacrifices and rituals to honor and appease gods and spirits.
 
-2. ****Left-Hand Path****: The focus on self-evolution, personal empowerment, and embracement of inner darkness is reminiscent of various Left-Hand Path (LHP) traditions such as Thelema and LaVeyan Satanism.
+2. **Left-Hand Path**: The focus on self-evolution, personal empowerment, and embracement of inner darkness is reminiscent of various Left-Hand Path (LHP) traditions such as Thelema and LaVeyan Satanism.
 
-3. ****Hermeticism and Alchemy****: The concept of transformation and spiritual enlightenment can also be linked to the ancient schools of Hermeticism and Alchemy, which emphasize the purification and transmutation of the soul.
+3. **Hermeticism and Alchemy**: The concept of transformation and spiritual enlightenment can also be linked to the ancient schools of Hermeticism and Alchemy, which emphasize the purification and transmutation of the soul.
 
 Symbology and Significance:
 
 The symbols, rituals, and practices within the Blood containing all Primal Craft Path hold deep esoteric meaning:
 
-1. ****Blood****: It is symbolic of life, vitality, and the most primal connection to one's ancestors. The use of blood in rituals serves as a direct link to the life force and the spiritual essence that animates all living beings.
+1. **Blood**: It is symbolic of life, vitality, and the most primal connection to one's ancestors. The use of blood in rituals serves as a direct link to the life force and the spiritual essence that animates all living beings.
 
-2. ****The Serpent****: Often found in Primal Craft symbolism, it represents wisdom, transformation, and rebirth. The coiled serpent is an emblem of divine energy, awakening, and personal evolution.
+2. **The Serpent**: Often found in Primal Craft symbolism, it represents wisdom, transformation, and rebirth. The coiled serpent is an emblem of divine energy, awakening, and personal evolution.
 
-3. ****The Dark Moon****: A key aspect of this path is working with the energies of the dark moon, which symbolize the hidden, mysterious, and subconscious aspects of the psyche. Practitioners harness this energy to explore the darker facets of their nature and to cultivate personal transformation.
+3. **The Dark Moon**: A key aspect of this path is working with the energies of the dark moon, which symbolize the hidden, mysterious, and subconscious aspects of the psyche. Practitioners harness this energy to explore the darker facets of their nature and to cultivate personal transformation.
 
 In conclusion, the Blood containing all Primal Craft Path is a powerful and esoteric tradition that takes individuals on a journey through their own darkness in search of self-actualization and empowerment. Grounded in blood magic and ancient wisdom, it encourages practitioners to explore their inner shadows to achieve personal growth and evolution, turning weakness into strength and darkness into enlightenment. It is a path that has been influenced by diverse historical and cultural traditions, and its symbolism and teachings hold deep layers of meaning that provide a rich and transformative spiritual experience for its adherents.

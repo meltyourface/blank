@@ -21,7 +21,7 @@ excerpt: Design a comprehensive and immersive curriculum for a specialized in-de
 ---
 Program Title: The Korybantic Mysteries: Esoteric Studies in the Sacred Arts and Techniques
 
-Program Overview: 
+**Program Overview**: 
 The Korybantic Mysteries is an intensive and immersive program designed to provide students with a well-rounded, in-depth understanding of the Korybantic scene, its esoteric theories, sacred rituals, and its historical and cultural influences. Through a balanced mix of theoretical study and practical application, students will delve into the intricacies of Korybantic arts, harness energies from these practices, and develop a profound connection with their spiritual growth. 
 
 Module 1: Introduction to the Korybantic Scene

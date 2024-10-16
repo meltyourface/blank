@@ -30,7 +30,7 @@ In this chapter, we embark on a journey through the rich and intriguing world of
 
 ### 1.2 Spiritual and Material Aspects
 
-One of the critical principles of alchemy is its dualistic nature: it embodies both material and spiritual aspects. As such, the work of an alchemist involves simultaneous transformations on the physical plane and the ethereal realm. Recognizing the interconnectedness of these two aspects is essential before commencing any alchemical endeavor.
+**One of the critical principles of alchemy is its dualistic nature**: it embodies both material and spiritual aspects. As such, the work of an alchemist involves simultaneous transformations on the physical plane and the ethereal realm. Recognizing the interconnectedness of these two aspects is essential before commencing any alchemical endeavor.
 
 ### 1.3 The Four Elements
 

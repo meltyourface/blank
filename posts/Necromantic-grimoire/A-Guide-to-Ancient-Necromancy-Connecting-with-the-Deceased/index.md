@@ -29,21 +29,21 @@ Throughout history, necromancers have held positions of both admiration and disd
 
 **III. Key Practices and Rituals in Necromancy**
 Necromantic rituals are often conducted in sacred or secluded spaces, where the veil between the living and the dead is believed to be thin. **There are several key practices and rituals that initiates should master, including**:
-1. ****Invocations****: These verbal incantations serve to call forth the spirits of the deceased. They may include specific names, titles, or attributes to draw the attention of a particular spirit.
-2. ****Offerings****: Providing offerings can demonstrate respect and gratitude, as well as attract the desired spirits. Common offerings include food, drink, and incense.
-3. ****Spiritual Protection****: To protect oneself from malevolent or harmful spirits, initiates should perform protective rituals involving symbolic objects, such as amulets, talismans, and ritual circles.
+1. **Invocations**: These verbal incantations serve to call forth the spirits of the deceased. They may include specific names, titles, or attributes to draw the attention of a particular spirit.
+2. **Offerings**: Providing offerings can demonstrate respect and gratitude, as well as attract the desired spirits. Common offerings include food, drink, and incense.
+3. **Spiritual Protection**: To protect oneself from malevolent or harmful spirits, initiates should perform protective rituals involving symbolic objects, such as amulets, talismans, and ritual circles.
 
 **IV. Tools of the Necromantic Craft**
 Several traditional tools are employed by necromancers in their practice, including:
-1. ****Scrying Mirrors or Bowls****: Used for gazing into other planes and receiving visions from the spirit world.
-2. ****Ritual Dagger (Athame)****: A ceremonial tool often used to direct magical energy and cast protective circles.
-3. ****Skulls or Bones****: Represent a connection to the deceased and can serve as a focal point for rituals.
-4. ****Grimoire****: A personal book containing a practitioner’s collected knowledge, rituals, and incantations related to necromancy.
+1. **Scrying Mirrors or Bowls**: Used for gazing into other planes and receiving visions from the spirit world.
+2. **Ritual Dagger (Athame)**: A ceremonial tool often used to direct magical energy and cast protective circles.
+3. **Skulls or Bones**: Represent a connection to the deceased and can serve as a focal point for rituals.
+4. **Grimoire**: A personal book containing a practitioner’s collected knowledge, rituals, and incantations related to necromancy.
 
 **V. Ethics and Precautions in Necromancy**
 As necromancy delves into delicate areas of existence, it is important for practitioners to follow strict ethical guidelines and take necessary precautions. **Key considerations include**:
-1. ****Respect****: Treat all spirits with the reverence and respect that they deserve, acknowledging their humanity and autonomy.
-2. ****Consent****: Always seek permission from the deceased before attempting communication, as violating their boundaries can yield dire consequences.
-3. ****Mental and Spiritual Health****: Necromancy can be taxing on the practitioner’s mind and spirit; focusing on self-care and maintaining personal boundaries is essential to prevent spiritual burnout or susceptibility to malevolent forces.
+1. **Respect**: Treat all spirits with the reverence and respect that they deserve, acknowledging their humanity and autonomy.
+2. **Consent**: Always seek permission from the deceased before attempting communication, as violating their boundaries can yield dire consequences.
+3. **Mental and Spiritual Health**: Necromancy can be taxing on the practitioner’s mind and spirit; focusing on self-care and maintaining personal boundaries is essential to prevent spiritual burnout or susceptibility to malevolent forces.
 
 By understanding the rich history, key practices, and ethical concerns of necromancy, aspiring initiates can embark on a journey connecting them to the vast knowledge and experience of the deceased. This sacred art serves as a powerful reminder of the enduring connections between the living and the dead.

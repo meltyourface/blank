@@ -21,7 +21,7 @@ excerpt: Generate a short yet informationally dense text about the Elemental Pla
 ---
 ## Chapter 1: The Elemental Planes - An Introduction
 
-The Elemental Planes are four domains of existence that embody the four basic elements of the universe: Air, Earth, Fire, and Water. Each plane is a separate reality, distinct from the Material Plane and yet interconnected in complex ways. For those well-versed in the practice of the occult and esoteric arts, understanding the properties, interconnections, and inhabitants of these planes is crucial.
+**The Elemental Planes are four domains of existence that embody the four basic elements of the universe**: Air, Earth, Fire, and Water. Each plane is a separate reality, distinct from the Material Plane and yet interconnected in complex ways. For those well-versed in the practice of the occult and esoteric arts, understanding the properties, interconnections, and inhabitants of these planes is crucial.
 
 ### 1.1 Properties and Principles of the Elemental Planes
 

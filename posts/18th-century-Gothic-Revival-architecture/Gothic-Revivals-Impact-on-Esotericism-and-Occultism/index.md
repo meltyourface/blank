@@ -51,7 +51,7 @@ By emphasizing the primacy of the intuition, the imagination, and the emotional 
 
 Gothic Revival architecture went against the grain of the prevailing neoclassical tastes and mainstream views in 18th-century Western Europe, serving as a counterpoint to the rationalist, empirical perspective that dominated the era. By introducing a competing aesthetic fueled by emotion, spirituality, and supernatural themes, the movement facilitated the disruption of mainstream norms and contributed to a burgeoning fascination with the esoteric and occult.
 
-Occult connoisseurs and practitioners benefitted from the Gothic Revival movement in various ways: it generated a renewed interest in their fields of study and practice; it provided evocative physical spaces in which to explore and communicate their esoteric ideas and beliefs; and it contributed to the revitalization of mythic and symbolic systems crucial to the practice and understanding of alternative spiritual paths.
+**Occult connoisseurs and practitioners benefitted from the Gothic Revival movement in various ways**: it generated a renewed interest in their fields of study and practice; it provided evocative physical spaces in which to explore and communicate their esoteric ideas and beliefs; and it contributed to the revitalization of mythic and symbolic systems crucial to the practice and understanding of alternative spiritual paths.
 
 **Conclusion**
 

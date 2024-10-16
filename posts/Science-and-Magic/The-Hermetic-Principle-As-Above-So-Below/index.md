@@ -43,7 +43,7 @@ Alchemical Transmutation
 
 Alchemy is a predecessor to chemistry, rooted in the pursuit of turning base metals into gold, known as the Magnum Opus or Great Work. Beyond material transformations, alchemists also sought spiritual transformation and enlightenment. The phrase "As above, so below" in alchemy implies that processes taking place on the macrocosmic level also occur on a microcosmic level, thereby mirroring the cosmic relationship between the known universe and the atomic world. 
 
-One of the essential ideas in alchemy is that every substance is composed of different proportions of four basic elements: earth, air, fire, and water. These elements can be transmuted or transformed through the control and manipulation of "ether" or the prima materia, which is considered to be the source and substrate of all elements.
+**One of the essential ideas in alchemy is that every substance is composed of different proportions of four basic elements**: earth, air, fire, and water. These elements can be transmuted or transformed through the control and manipulation of "ether" or the prima materia, which is considered to be the source and substrate of all elements.
 
 Quantum Physics
 

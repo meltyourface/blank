@@ -47,12 +47,12 @@ Zos Kia Cultus encompasses practices such as astral projection, dreamwork, and t
 
 As an individual seeking to apply Spare's teachings and techniques to your own spiritual journey, consider the following practices:
 
-1. ****Sigil Magic****: Experiment with creating your own sigils by condensing your written intentions into symbolic form. Charge and release these sigils in rituals, allowing your subconscious mind to manifest desired outcomes.
+1. **Sigil Magic**: Experiment with creating your own sigils by condensing your written intentions into symbolic form. Charge and release these sigils in rituals, allowing your subconscious mind to manifest desired outcomes.
 
-2. ****Automatic Drawing****: Practice automatic drawing to establish a deeper connection with your inner self. Allow your hand to move on its own and examine the images that arise. Consider incorporating these symbols into your magical practices.
+2. **Automatic Drawing**: Practice automatic drawing to establish a deeper connection with your inner self. Allow your hand to move on its own and examine the images that arise. Consider incorporating these symbols into your magical practices.
 
-3. ****Zos Kia Cultus****: Develop an understanding of Zos and Kia in your own life, and explore techniques such as dreamwork, meditation, and ritual to facilitate communication between the conscious and unconscious aspects of your being.
+3. **Zos Kia Cultus**: Develop an understanding of Zos and Kia in your own life, and explore techniques such as dreamwork, meditation, and ritual to facilitate communication between the conscious and unconscious aspects of your being.
 
-4. ****Personal Mythology****: Develop your own personal mythology by weaving together elements of symbolism, personal experience, and the esoteric concepts that resonate with you. Use this mythology to enrich your daily life and magical practice.
+4. **Personal Mythology**: Develop your own personal mythology by weaving together elements of symbolism, personal experience, and the esoteric concepts that resonate with you. Use this mythology to enrich your daily life and magical practice.
 
 By integrating Spare's practices and ideas into your own spiritual journey, you can develop a potent and transformative path toward self-discovery, heightened consciousness, and magical exploration.

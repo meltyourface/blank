@@ -31,7 +31,7 @@ Grave soil symbolizes the quintessential connection between life and death, repr
 
 In addition to the energies of transformation, grave soil represents the collective wisdom and experiences of the deceased. By incorporating soil from a grave in magical practices, students can draw upon the knowledge and power of departed spirits for guidance, protection, or even assistance in their workings.
 
-Collecting Grave Soil: Step-by-Step Guidelines and Spiritual Precautions
+**Collecting Grave Soil**: Step-by-Step Guidelines and Spiritual Precautions
 
 1. **Selecting the source**: Identify a grave that closely aligns with the specific energies and intentions required for your magical working. Consider factors such as the history, background, and qualities of the deceased individual when making your choice.
 

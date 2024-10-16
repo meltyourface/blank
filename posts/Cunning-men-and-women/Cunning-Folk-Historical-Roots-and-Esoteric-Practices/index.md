@@ -34,29 +34,29 @@ Despite having complex relationships with formal religious institutions of their
 
 Essential Rituals and Practices
 
-1. ****Healing****: One of the primary roles of Cunning men and women was to provide healing and rejuvenating remedies to their communities. They were adept in the use of herbs, plants, and animal products to create concoctions that not only addressed physical ailments but also offered protection against negative energy and evil forces. The process usually involved prayer, casting of protective circles, and the invoking of divine powers or spirits.
+1. **Healing**: One of the primary roles of Cunning men and women was to provide healing and rejuvenating remedies to their communities. They were adept in the use of herbs, plants, and animal products to create concoctions that not only addressed physical ailments but also offered protection against negative energy and evil forces. The process usually involved prayer, casting of protective circles, and the invoking of divine powers or spirits.
 
-2. ****Divination and Scrying****: Cunning folk were relied upon to provide counsel through their abilities to commune with otherworldly forces and reveal hidden knowledge. They utilized a range of divination techniques, such as palmistry, casting of lots, or tea leaf readings, often combining these with trance states or meditative practices to reach beyond the physical realm.
+2. **Divination and Scrying**: Cunning folk were relied upon to provide counsel through their abilities to commune with otherworldly forces and reveal hidden knowledge. They utilized a range of divination techniques, such as palmistry, casting of lots, or tea leaf readings, often combining these with trance states or meditative practices to reach beyond the physical realm.
 
-3. ****Curse Removal and Protection****: Individuals would seek the expertise of Cunning men and women in dealing with malevolent forces or suspected witchcraft. The Cunning practitioners were responsible for identifying the source of the affliction and offering advice on its removal or reversal. Protection and warding were significant aspects of these practices, utilizing talismans, amulets, and charms imbued with protective energy.
+3. **Curse Removal and Protection**: Individuals would seek the expertise of Cunning men and women in dealing with malevolent forces or suspected witchcraft. The Cunning practitioners were responsible for identifying the source of the affliction and offering advice on its removal or reversal. Protection and warding were significant aspects of these practices, utilizing talismans, amulets, and charms imbued with protective energy.
 
 Essential Tools and Artefacts
 
 The use of a wide array of tools was integral to the practice of Cunning men and women, amplifying the potency and efficacy of their rites and rituals. **Some of the most common artefacts include**:
 
-1. ****Grimoires****: These texts were collections of magical knowledge, covering various aspects of the esoteric – from the invocation of spirits to the preparation and use of herbal remedies. Cunning folk would consult and copy from these manuscripts, in some cases creating their original works.
+1. **Grimoires**: These texts were collections of magical knowledge, covering various aspects of the esoteric – from the invocation of spirits to the preparation and use of herbal remedies. Cunning folk would consult and copy from these manuscripts, in some cases creating their original works.
 
-2. ****Athames and Ritual Knives****: These symbolic blades were employed for the purpose of directing and transferring energy during rituals. The athame stands as a key element in the casting of protective circles and in performing acts of consecration or cleansing.
+2. **Athames and Ritual Knives**: These symbolic blades were employed for the purpose of directing and transferring energy during rituals. The athame stands as a key element in the casting of protective circles and in performing acts of consecration or cleansing.
 
-3. ****Stones and Crystals****: Certain stones and crystals were believed to hold special powers or attributes, which Cunning men and women utilized to channel energy and enhance their rituals. These objects often served as amulets or talismans for protection and good fortune.
+3. **Stones and Crystals**: Certain stones and crystals were believed to hold special powers or attributes, which Cunning men and women utilized to channel energy and enhance their rituals. These objects often served as amulets or talismans for protection and good fortune.
 
 Notable Figures
 
 While many Cunning men and women have made significant contributions to the development and practice of the occult, some of the more prominent figures include:
 
-1. ****Biddy Early****: An Irish herbalist and healer active during the 19th century, Biddy Early was renowned for her clairvoyant abilities. She often prescribed herbal concoctions to treat ailments and was known to use a blue bottle filled with a mysterious liquid to assist in divination.
+1. **Biddy Early**: An Irish herbalist and healer active during the 19th century, Biddy Early was renowned for her clairvoyant abilities. She often prescribed herbal concoctions to treat ailments and was known to use a blue bottle filled with a mysterious liquid to assist in divination.
 
-2. ****John Dixey****: A Cunning man from 18th century England, John Dixey was infamous for his ability to remove curses and witches' spells. His services were sought from far and wide, and he inspired a legacy of cunningfolk in the region well into the 20th century.
+2. **John Dixey**: A Cunning man from 18th century England, John Dixey was infamous for his ability to remove curses and witches' spells. His services were sought from far and wide, and he inspired a legacy of cunningfolk in the region well into the 20th century.
 
 Conclusion
 

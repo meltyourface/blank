@@ -24,11 +24,11 @@ excerpt: Compose an intricate dialogue between Manannan mac Lir and the Celtic g
 
 In the heart of the Otherworld, surrounded by an eternal twilight, a sacred gathering took place. Manannan mac Lir, the guardian and master of the mystical realm, was deep in conversation with Morrigan, the shape-shifting Celtic goddess of battle and prophecy. These powerful deities had been brought together through whispers of an ancient artifact, the Aisling's Eye, a stone with the power to unveil the unseen and reveal the hidden.
 
-Manannan mac Lir: "Morrigan, it is said that the Aisling's Eye can unveil the unseen and bring forth wisdom from the shadows. We must find it to hold balance within the Otherworld and beyond."
+**Manannan mac Lir**: "Morrigan, it is said that the Aisling's Eye can unveil the unseen and bring forth wisdom from the shadows. We must find it to hold balance within the Otherworld and beyond."
 
 **Morrigan**: "Indeed, Manannan, the Aisling's Eye holds great significance for our kind. However, finding it shall be no easy feat. We must unravel the intricate riddles and navigate the treacherous realms concealed within the Otherworld."
 
-Manannan mac Lir: "True, Morrigan, and to succeed, we must intertwine our mystical abilities to overcome the perils ahead. Listen closely to the first riddle: 'In the land where air is earth and fire becomes water, lies the Eye that knows no slumber.'"
+**Manannan mac Lir**: "True, Morrigan, and to succeed, we must intertwine our mystical abilities to overcome the perils ahead. Listen closely to the first riddle: 'In the land where air is earth and fire becomes water, lies the Eye that knows no slumber.'"
 
 Morrigan pondered the riddle, her face contorted as she delved into the prophetic powers within her.
 
@@ -38,19 +38,19 @@ As the two deities ventured forth, they encountered the tempestuous crossroads w
 
 **Morrigan**: "By bringing balance to these elements, we unveil the way to the Aisling's Eye. Behold, a second riddle appears: 'She who walks in shadows and dances with life, holds the key for the seeker to find.'"
 
-Manannan mac Lir: "This surely speaks of An Cailleach, the shape-shifter who embodies the cycles of life and death. We must gain her favor to proceed. I shall appease her with the gift of the enchanted Slumbering Wave."
+**Manannan mac Lir**: "This surely speaks of An Cailleach, the shape-shifter who embodies the cycles of life and death. We must gain her favor to proceed. I shall appease her with the gift of the enchanted Slumbering Wave."
 
 The duo approached An Cailleach, offering Manannan's gift. As she accepted it, she revealed another riddle.
 
-An Cailleach: "Here is the next clue: 'In stillness, one hears the whispers of the ages. Reach out, find what you seek, where the quiet footfalls echo.'"
+**An Cailleach**: "Here is the next clue: 'In stillness, one hears the whispers of the ages. Reach out, find what you seek, where the quiet footfalls echo.'"
 
-Manannan mac Lir: "This place is known to me. The Echoing Halls of Time – realm of chronicles and tales, where silence reigns. Within it, the Aisling's Eye must lie."
+**Manannan mac Lir**: "This place is known to me. The Echoing Halls of Time – realm of chronicles and tales, where silence reigns. Within it, the Aisling's Eye must lie."
 
 They entered the Echoing Halls, where all sound was swallowed into oblivion. Morrigan transformed into a raven, soaring above while Manannan walked the hallowed ground. As they neared the end of the hall, a final riddle emerged.
 
 **Morrigan**: "Only when the seeker embraces darkness and light, shall the gateway open, and the Eye meet the sight."
 
-Manannan mac Lir: "Morrigan, as the embodiment of dark and light, it falls to you. Take my hand, and together, we shall unlock the Eye's resting place."
+**Manannan mac Lir**: "Morrigan, as the embodiment of dark and light, it falls to you. Take my hand, and together, we shall unlock the Eye's resting place."
 
 Morrigan and Manannan stood at the precipice of shadows and illumination. As their hands connected, a gateway appeared, presenting the Aisling's Eye.
 

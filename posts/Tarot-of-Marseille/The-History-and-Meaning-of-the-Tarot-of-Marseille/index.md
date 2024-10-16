@@ -26,7 +26,7 @@ The Tarot of Marseille, often referred to as the Marseille Tarot, is a compellin
 
 The Tarot of Marseille is a treasured deck within occult studies and esoteric wisdom. It has played a pivotal role in the development and proliferation of Tarot as a tool for divination and self-discovery. Its imagery is steeped in medieval symbolism and European mysticism, making it one of the most authentic and traditional Tarot decks available today. 
 
-Major and Minor Arcana: Structure and Meanings
+**Major and Minor Arcana**: Structure and Meanings
 
 Much like other Tarot decks, the Tarot of Marseille consists of 78 cards divided into two main categories: the Major Arcana and the Minor Arcana. The Major Arcana comprises 22 cards, each representing a significant life event, spiritual lesson or archetype that holds a profound impact on our life's journey. These cards possess strong symbolism and invoke archetypal energy as they reveal transformative messages.
 

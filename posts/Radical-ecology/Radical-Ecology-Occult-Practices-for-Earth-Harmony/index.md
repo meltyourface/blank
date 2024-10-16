@@ -28,7 +28,7 @@ Radical Ecology, a term coined in the late 20th century, is a holistic approach 
 
 ### 1.2 The Four Elemental Forces
 
-Central to many occult traditions are the four elemental forces: Earth, Air, Fire, and Water. Each element is associated with a particular energetic quality, and understanding their characteristics and interactions is essential for mastering Radical Ecology as an occult practice. 
+**Central to many occult traditions are the four elemental forces**: Earth, Air, Fire, and Water. Each element is associated with a particular energetic quality, and understanding their characteristics and interactions is essential for mastering Radical Ecology as an occult practice. 
 
 1.2.1 Earth: The element of Earth represents the physical properties and structure of the natural world. It is associated with grounding, stability, and abundance. Earth energies can be harnessed for magical workings related to healing, manifestation, and resource management.
 

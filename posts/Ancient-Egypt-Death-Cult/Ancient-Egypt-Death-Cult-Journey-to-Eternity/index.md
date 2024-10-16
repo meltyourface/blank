@@ -28,7 +28,7 @@ The Ancient Egypt Death Cult, while shrouded in mystery, played an essential rol
 
 ### Chapter 2: Core Beliefs
 
-The Ancient Egypt Death Cult centered on the understanding of the dual nature of existence: the physical and the spiritual. Adherents believed that upon physical death, one could obtain eternal life through a journey to the afterlife. This journey, laden with challenges and obstacles, could only be successfully navigated with the proper knowledge, rituals, and practices.
+**The Ancient Egypt Death Cult centered on the understanding of the dual nature of existence**: the physical and the spiritual. Adherents believed that upon physical death, one could obtain eternal life through a journey to the afterlife. This journey, laden with challenges and obstacles, could only be successfully navigated with the proper knowledge, rituals, and practices.
 
 ### Chapter 3: The Journey and its Symbolism
 

@@ -24,9 +24,9 @@ To begin our exploration of the intricate relationships between the Ghede Loa fa
 
 Now, let us discuss the Ghede Loa family and the Rada Loa family, before diving into their connections and manifesting qualities in the lives of their devotees.
 
-The Ghede Loa Family: This family of spirits is primarily associated with death, fertility, and the ancestral realm. They are known for their humor, wisdom, and unpredictable nature. Members of the Ghede Loa family include Baron Samedi, Maman Brigitte, and Ghede Nibo, among others. As overseers of the dead, the Ghede spirits also have a protective role, ensuring that the deceased are at peace and guiding souls to the afterlife.
+**The Ghede Loa Family**: This family of spirits is primarily associated with death, fertility, and the ancestral realm. They are known for their humor, wisdom, and unpredictable nature. Members of the Ghede Loa family include Baron Samedi, Maman Brigitte, and Ghede Nibo, among others. As overseers of the dead, the Ghede spirits also have a protective role, ensuring that the deceased are at peace and guiding souls to the afterlife.
 
-The Rada Loa Family: In contrast, the Rada Loa family represents benevolence, stability, and order. Many Rada spirits have roots in West Africa, specifically among the Yoruba and Fon peoples. Among the Rada Loa, we can find Loco, Ayizan, Damballah, and Erzulie Freda. Rada spirits are invoked for guidance, healing, protection, and to maintain balance in the devotees' lives.
+**The Rada Loa Family**: In contrast, the Rada Loa family represents benevolence, stability, and order. Many Rada spirits have roots in West Africa, specifically among the Yoruba and Fon peoples. Among the Rada Loa, we can find Loco, Ayizan, Damballah, and Erzulie Freda. Rada spirits are invoked for guidance, healing, protection, and to maintain balance in the devotees' lives.
 
 Connections in the Lives of Devotees:
 

@@ -25,9 +25,9 @@ Moonlit Sanctuary Blueprint for Selene
 
 **Climate**: Mild, temperate climate suitable for a diverse range of nocturnal plants.
 
-Soil Type: Rich, well-draining soil to accommodate various plant species.
+**Soil Type**: Rich, well-draining soil to accommodate various plant species.
 
-Water Requirements: A natural water source nearby or a water feature/installation within the sanctuary.
+**Water Requirements**: A natural water source nearby or a water feature/installation within the sanctuary.
 
 1. Plant Selection:
 A. Nocturnal plants: i. Moonflowers (Ipomoea alba) - Open at night, spreading a sweet fragrance. ii. Angel Trumpets (Brugmansia) - Attract nocturnal pollinators, representing abundance and fertility. iii. Night-Blooming Jasmine (Cestrum nocturnum) - Sweet-scented to create a soothing atmosphere.

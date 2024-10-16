@@ -25,7 +25,7 @@ excerpt: >
 
 **Purpose**: To summon a formidable necromantic being - The Ebon Sovereign of the Shadowed Thorns - by using diabolical plants, ancient incantations, and powerful artifacts.
 
-Ideal Conditions: This ritual is best performed during the new moon, when darkness is at its peak. Choose a secluded area, preferably surrounded by an abundance of wild, sinister plants and trees to amplify the ritual's power.
+**Ideal Conditions**: This ritual is best performed during the new moon, when darkness is at its peak. Choose a secluded area, preferably surrounded by an abundance of wild, sinister plants and trees to amplify the ritual's power.
 
 Ingredients and Tools:
 1. Belladonna plant (Atropa belladonna) - 5 leaves and 3 berries.
@@ -55,6 +55,6 @@ Ritual Steps:
 
 8. Sit in silence, allowing the ritual's energies to coalesce. The Ebon Sovereign should manifest within the ritual space, ready to heed your requests or share its forbidden knowledge.
 
-Risks and Consequences: Channeling this formidable necromantic being comes with inherent dangers. Failure to complete the ritual correctly may incur the wrath of The Ebon Sovereign or invite lesser malicious entities. Exposure to the fumes of the diabolical plants and the concoction's ingredients can cause hallucinations, unconsciousness, or death. Exercise caution when creating and handling these deadly substances.
+**Risks and Consequences**: Channeling this formidable necromantic being comes with inherent dangers. Failure to complete the ritual correctly may incur the wrath of The Ebon Sovereign or invite lesser malicious entities. Exposure to the fumes of the diabolical plants and the concoction's ingredients can cause hallucinations, unconsciousness, or death. Exercise caution when creating and handling these deadly substances.
 
 It is advised to proceed with this ritual only after gaining proficiency in the study of Diabolical PlantsNecromancy, as well as obtaining a clear understanding of the potential risks and consequences involved in communing with such dark entities.

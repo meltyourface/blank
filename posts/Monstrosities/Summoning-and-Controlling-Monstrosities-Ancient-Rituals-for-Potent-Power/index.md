@@ -22,7 +22,7 @@ excerpt: >
 ---
 The collective power harnessed by a group of occult practitioners performing an intricate ritual involving the summoning and control of Monstrosities is a potent force rooted in the combined energies, intent, and willpower of the participants. This power taps into the primal, otherworldly forces that govern the innate nature of these Monstrosities and enables the practitioners to bend these beings to their will. 
 
-The underlying principles that dictate the art of summoning and controlling Monstrosities revolve around three main tenets: attunement, connection, and command. 
+**The underlying principles that dictate the art of summoning and controlling Monstrosities revolve around three main tenets**: attunement, connection, and command. 
 
 1. **Attunement**: Practitioners must first attune their own personal energies and consciousness to the plane or realm in which these Monstrosities dwell. This is often achieved through a combination of meditation, invocation, and the utilization of potent symbols and sigils that act as markers for these eldritch dimensions.
 

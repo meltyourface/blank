@@ -70,7 +70,7 @@ Welcome, seeker of wisdom, to this Magickal Retirement grimoire. Within these pa
 **Appendices**:
 - Sigils and Symbols: A visual lexicon of arcane power
 - Ritual Tools: The essential ingredients for Magickal Retirement
-- High Magick vs. ****Low Magick****: Understanding the spectrum
+- High Magick vs. **Low Magick**: Understanding the spectrum
 - Maintaining an Esoteric Journal: The importance of chronicling your journey
 
 **Conclusion**:

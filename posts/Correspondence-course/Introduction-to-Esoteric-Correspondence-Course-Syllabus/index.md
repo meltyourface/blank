@@ -22,11 +22,11 @@ excerpt: >
 ---
 Course Title: Introduction to Esoteric and Occult Correspondence
 
-Course Objective: To prepare the novice to explore and understand the foundations of esoteric and occult Correspondence, develop skills in deciphering symbology, and apply knowledge in spiritual practices and rituals.
+**Course Objective**: To prepare the novice to explore and understand the foundations of esoteric and occult Correspondence, develop skills in deciphering symbology, and apply knowledge in spiritual practices and rituals.
 
 **Duration**: 6 months
 
-Course Format: Weekly lessons, assignments, and assessments
+**Course Format**: Weekly lessons, assignments, and assessments
 
 ### Syllabus Overview
 
@@ -116,4 +116,4 @@ Week 24: Final Project - The Neophyte's Path
 ### Assessments
 Each month, an assessment will be administered covering the previous lessons. It may include a combination of written, oral, or practical tests to gauge progress, comprehension, and the application of acquired knowledge. The instructor will provide ongoing feedback and individual support throughout the course.
 
-Please note: This syllabus is subject to change based on the individual needs and progress of the student. Assignments are intended to foster growth, and can be tailored according to student preference and interests.
+**Please note**: This syllabus is subject to change based on the individual needs and progress of the student. Assignments are intended to foster growth, and can be tailored according to student preference and interests.

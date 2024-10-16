@@ -40,7 +40,7 @@ excerpt: >
   
   4. Rubedo (Reddening) - In rubedo, the purified elements of the previous stages are united and combined, resulting in the birth of the Philosopher's Stone, the mythical substance of spiritual transformation. The initiate, now deeply transformed and purified, emerges as a fully realized being, in touch with their true self, and ready to use their new knowledge and power wisely and responsibly.
   
-  5. ****Quintessence (Fifth Essence) - This stage represents ultimate attainment and the spiritual pinnacle, also known as the Great Work. Quintessence signifies the quintessential essence of all things – bringing forth unity, balance, and harmony between the four classical elements****: earth, air, fire, and water. In the Pathways of PowerNecrosophic Cult, this is the stage where an initiate transcends the physical, mental, emotional, and spiritual limitations to reach their full potential as a powerful, self-realized individual.
+  5. **Quintessence (Fifth Essence) - This stage represents ultimate attainment and the spiritual pinnacle, also known as the Great Work. Quintessence signifies the quintessential essence of all things – bringing forth unity, balance, and harmony between the four classical elements**: earth, air, fire, and water. In the Pathways of PowerNecrosophic Cult, this is the stage where an initiate transcends the physical, mental, emotional, and spiritual limitations to reach their full potential as a powerful, self-realized individual.
   
   Conclusion
   

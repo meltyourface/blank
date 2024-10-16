@@ -43,17 +43,17 @@ Techniques Necessary for Initiates
 
 For practitioners seeking to access and harness the power of the Deified Reservoirs of Nature-as-other, the following steps, crafted to foster a deep attunement to these energies, are essential to a successful practice:
 
-1. ****Develop a deep understanding and respect for nature****: Start by immersing yourself in the natural world, studying its cycles, patterns, and harmonies. A genuine appreciation for the interconnectedness of all things and reverence for the nurturing and transformative aspects of nature is vital for building a strong foundation.
+1. **Develop a deep understanding and respect for nature**: Start by immersing yourself in the natural world, studying its cycles, patterns, and harmonies. A genuine appreciation for the interconnectedness of all things and reverence for the nurturing and transformative aspects of nature is vital for building a strong foundation.
 
-2. ****Establish a regular meditation practice****: Through meditation, you can cultivate a heightened awareness of your innate connection to the natural world and the divine forces at play within it. This practice will help you develop the focus and sensitivity required to tap into these potent reservoirs of energy.
+2. **Establish a regular meditation practice**: Through meditation, you can cultivate a heightened awareness of your innate connection to the natural world and the divine forces at play within it. This practice will help you develop the focus and sensitivity required to tap into these potent reservoirs of energy.
 
-3. ****Engage in rituals and enact symbolic correspondences****: Incorporate elements from nature, such as herbs, crystals, or symbols, into your rituals to forge a more profound link with the Deified Reservoirs of Nature-as-other. The implementation of symbolic correspondences can help align your consciousness with the desired energies and facilitate their flow into your spiritual practice.
+3. **Engage in rituals and enact symbolic correspondences**: Incorporate elements from nature, such as herbs, crystals, or symbols, into your rituals to forge a more profound link with the Deified Reservoirs of Nature-as-other. The implementation of symbolic correspondences can help align your consciousness with the desired energies and facilitate their flow into your spiritual practice.
 
-4. ****Invoke deities or spirits associated with specific reservoirs****: By invoking the powers and wisdom of elemental deities or spirits, you establish a direct connection with the repository of energy they represent. Call upon these entities with reverence, requesting their guidance and assistance in tapping into the hidden forces of nature.
+4. **Invoke deities or spirits associated with specific reservoirs**: By invoking the powers and wisdom of elemental deities or spirits, you establish a direct connection with the repository of energy they represent. Call upon these entities with reverence, requesting their guidance and assistance in tapping into the hidden forces of nature.
 
-5. ****Cultivate personal energy and psychic abilities****: Ascending the path of spiritual growth and mastering the utilization of Deified Reservoirs of Nature-as-other necessitates personal energy cultivation and enhancement of your psychic abilities. Techniques such as energy work, breathwork, divination, and visualization can assist in refining your skills and deepening your connection to the natural world.
+5. **Cultivate personal energy and psychic abilities**: Ascending the path of spiritual growth and mastering the utilization of Deified Reservoirs of Nature-as-other necessitates personal energy cultivation and enhancement of your psychic abilities. Techniques such as energy work, breathwork, divination, and visualization can assist in refining your skills and deepening your connection to the natural world.
 
-6. ****Practice deliberate manifestation and spellwork****: Once you have cultivated a strong bond with the deified reservoirs and honed your skills, engage in activities such as spellwork or manifesting intentions directly connected to these energies. With time and practice, you may observe the tangible effects of harnessing these powerful forces to shape your reality and elevate your spiritual practice.
+6. **Practice deliberate manifestation and spellwork**: Once you have cultivated a strong bond with the deified reservoirs and honed your skills, engage in activities such as spellwork or manifesting intentions directly connected to these energies. With time and practice, you may observe the tangible effects of harnessing these powerful forces to shape your reality and elevate your spiritual practice.
 
 Conclusion
 

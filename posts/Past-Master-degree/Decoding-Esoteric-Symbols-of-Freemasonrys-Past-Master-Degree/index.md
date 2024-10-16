@@ -31,13 +31,13 @@ The Past Master degree, an enigmatic and complex element of Freemasonry, has pro
 
 As with many esoteric disciplines, the development and evolution of the Past Master degree can be traced through a confluence of cultural traditions, philosophical ideas, and spiritual movements. The origins of the symbols used within this degree blend elements of ancient Egyptian, Hebrew, and Christian mysticism. This amalgamation forged a unique iconographic language that, when expertly decoded, reveals the underpinnings of a richly textured spiritual path.
 
-### III. ****Illuminated Manuscripts, Ritual Tools, and Lodge Artifacts****: Case Studies
+### III. **Illuminated Manuscripts, Ritual Tools, and Lodge Artifacts**: Case Studies
 
-1. ****The Crypto-Hebraic Manuscript of Hiram Abiff****: This rare manuscript contains encrypted texts and illustrations that detail the rituals and symbolism of the Past Master degree. Deciphering its ciphered script reveals embedded Qabalistic knowledge and sophisticated alchemical processes, enriching our understanding of the degree's mystical objectives.
+1. **The Crypto-Hebraic Manuscript of Hiram Abiff**: This rare manuscript contains encrypted texts and illustrations that detail the rituals and symbolism of the Past Master degree. Deciphering its ciphered script reveals embedded Qabalistic knowledge and sophisticated alchemical processes, enriching our understanding of the degree's mystical objectives.
 
-2. ****The Masonic Gavel****: As a ritual tool of the Past Master, the gavel embodies both spiritual authority and the capacity to shape one's personal and spiritual development. Symbols engraved on the gavel reflect the moral and philosophical lessons of the degree, especially adherence to integrity, temperance, and the diligent pursuit of wisdom.
+2. **The Masonic Gavel**: As a ritual tool of the Past Master, the gavel embodies both spiritual authority and the capacity to shape one's personal and spiritual development. Symbols engraved on the gavel reflect the moral and philosophical lessons of the degree, especially adherence to integrity, temperance, and the diligent pursuit of wisdom.
 
-3. ****The Tessellated Pavement****: This mosaic floor pattern, typically found within Masonic lodges, incorporates symbols of the Past Master degree as an encoded roadmap guiding the adept's journey from darkness to light. Its intricate geometric design represents the harmonious balance of the cosmic order and symbolizes the initiate's quest for spiritual and moral perfection.
+3. **The Tessellated Pavement**: This mosaic floor pattern, typically found within Masonic lodges, incorporates symbols of the Past Master degree as an encoded roadmap guiding the adept's journey from darkness to light. Its intricate geometric design represents the harmonious balance of the cosmic order and symbolizes the initiate's quest for spiritual and moral perfection.
 
 ### IV. Cipher Techniques and Decoding the Esoteric Symbols
 

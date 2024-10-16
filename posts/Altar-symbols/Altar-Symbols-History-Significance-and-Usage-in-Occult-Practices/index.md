@@ -33,7 +33,7 @@ This chapter offers a detailed analysis of various altar symbols, their historic
 
 **Ankh**: The Ankh, originating from ancient Egypt, symbolizes eternal life and the union of masculine and feminine energies. This symbol is primarily used for healing and working with divine energies.
 
-Triple Moon: The Triple Moon symbol represents the three phases of the moon (waxing, full, and waning) and the Goddess in her aspects as Maiden, Mother, and Crone. The symbol connects the practitioner with the lunar cycle and feminine energy.
+**Triple Moon**: The Triple Moon symbol represents the three phases of the moon (waxing, full, and waning) and the Goddess in her aspects as Maiden, Mother, and Crone. The symbol connects the practitioner with the lunar cycle and feminine energy.
 
 **Sigils**: Sigils are powerful, personalized symbols created by the practitioner to represent their specific intention or desire. They are charged with energy and activated during rituals to manifest their purpose.
 

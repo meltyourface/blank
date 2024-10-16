@@ -30,20 +30,20 @@ Angels are celestial beings that play a vital role in the esoteric and occult sc
 
 Angelic beings are often organized and classified in hierarchical systems that demonstrate their roles, responsibilities, and degrees of power. One such arrangement, known as the angelic hierarchy, ranks angels in a celestial order based on their proximity to the divine. This hierarchy, commonly attributed to Pseudo-Dionysius the Areopagite, a Christian theologian, is composed of nine orders, or choirs, which are subdivided into three triads.
 
-A. ****The First Triad****: The Counselors
-1. ****Seraphim****: These are the highest order of angels, tasked with showering love and adoration upon the divine. Seraphim are often depicted with six wings, representing their ceaseless devotion to serving the divine presence.
-2. ****Cherubim****: Cherubim possess the divine storehouse of wisdom and knowledge. They are conceived as guards of the sacred and eons of divine power.
-3. ****Thrones****: Thrones are angels that dispense divine justice and maintain cosmic balance. They serve as the chariots of God and symbolize spiritual enlightenment.
+A. **The First Triad**: The Counselors
+1. **Seraphim**: These are the highest order of angels, tasked with showering love and adoration upon the divine. Seraphim are often depicted with six wings, representing their ceaseless devotion to serving the divine presence.
+2. **Cherubim**: Cherubim possess the divine storehouse of wisdom and knowledge. They are conceived as guards of the sacred and eons of divine power.
+3. **Thrones**: Thrones are angels that dispense divine justice and maintain cosmic balance. They serve as the chariots of God and symbolize spiritual enlightenment.
 
-B. ****The Second Triad****: The Governors
-4. ****Dominions****: Dominions hold authority over the lesser angelic orders and work to regulate the divine laws. They maintain cosmic harmony by ensuring that their subordinates fulfill their duties.
-5. ****Virtues****: Virtues are responsible for performing miracles and bestowing blessings upon the earthly realm. These angels assist humanity in fulfilling their spiritual purposes.
-6. ****Powers****: Powers work as divine protectors, shielding humanity from evil influences and resisting temptation. They also aid in combating negative energies and malevolent entities.
+B. **The Second Triad**: The Governors
+4. **Dominions**: Dominions hold authority over the lesser angelic orders and work to regulate the divine laws. They maintain cosmic harmony by ensuring that their subordinates fulfill their duties.
+5. **Virtues**: Virtues are responsible for performing miracles and bestowing blessings upon the earthly realm. These angels assist humanity in fulfilling their spiritual purposes.
+6. **Powers**: Powers work as divine protectors, shielding humanity from evil influences and resisting temptation. They also aid in combating negative energies and malevolent entities.
 
-C. ****The Third Triad****: The Ministers
-7. ****Principalities****: Principalities oversee earthly kingdoms, nations, and communities, working towards the common good and divine plan. They help guide political and religious leaders in their duties.
-8. ****Archangels****: Serving as divine messengers, archangels convey critical information as well as provide guidance and assistance to individuals during crucial moments.
-9. ****Angels****: The lowest order in the hierarchy, angels are designated to be personal guides and protectors, actively involved in human affairs and assisting people in their spiritual journeys.
+C. **The Third Triad**: The Ministers
+7. **Principalities**: Principalities oversee earthly kingdoms, nations, and communities, working towards the common good and divine plan. They help guide political and religious leaders in their duties.
+8. **Archangels**: Serving as divine messengers, archangels convey critical information as well as provide guidance and assistance to individuals during crucial moments.
+9. **Angels**: The lowest order in the hierarchy, angels are designated to be personal guides and protectors, actively involved in human affairs and assisting people in their spiritual journeys.
 
 ### III. Roles of Angels
 
@@ -56,14 +56,14 @@ d) Help people harness their inner powers and abilities
 ### IV. Establishing Communication with Angels
 
 A. Preparation
-1. ****Purification****: Before attempting to communicate with angels, one must purify the body, mind, and soul through cleansing rituals, such as taking a ritual bath, meditation, or prayer.
-2. ****Sacred Space****: Creating a serene, tranquil environment is essential for establishing a connection with angels. This may involve setting up an altar, lighting candles, and burning incense to set the atmosphere.
-3. ****Protective Measures****: Surround oneself with protective symbols or items, such as talismans or crystals, to ward off any negative energies or interference.
+1. **Purification**: Before attempting to communicate with angels, one must purify the body, mind, and soul through cleansing rituals, such as taking a ritual bath, meditation, or prayer.
+2. **Sacred Space**: Creating a serene, tranquil environment is essential for establishing a connection with angels. This may involve setting up an altar, lighting candles, and burning incense to set the atmosphere.
+3. **Protective Measures**: Surround oneself with protective symbols or items, such as talismans or crystals, to ward off any negative energies or interference.
 
 B. Invocation and Meditation
-1. ****Invocation****: Call upon the specific angel(s) with whom you seek communication. This can be achieved through prayer, chanting, or using a written invocation.
-2. ****Meditation****: Enter a meditative state, focusing on the connection with the desired angelic being. Envision their presence and await their guidance or message.
-3. ****Gratitude****: Express gratitude towards the angel(s) for their assistance and guidance once the communication is complete. This helps maintain a positive connection with them for future encounters.
+1. **Invocation**: Call upon the specific angel(s) with whom you seek communication. This can be achieved through prayer, chanting, or using a written invocation.
+2. **Meditation**: Enter a meditative state, focusing on the connection with the desired angelic being. Envision their presence and await their guidance or message.
+3. **Gratitude**: Express gratitude towards the angel(s) for their assistance and guidance once the communication is complete. This helps maintain a positive connection with them for future encounters.
 
 ### V. Precautions, Benefits, and Risks
 

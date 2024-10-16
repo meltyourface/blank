@@ -30,7 +30,7 @@ Unlock, unleash and awaken the dormant serpent residing deep inside.
 The Serpent rises, so do my wisest abilities now awaken,
 Enlightened powers, knowledge divine, I welcome you to my being.
 
-Invocation II: Connection with Astra, the Otherworldly Guide
+**Invocation II**: Connection with Astra, the Otherworldly Guide
 
 Om Som Astra-Panna Swayam Gaumata-Shakti Sham
 
@@ -42,7 +42,7 @@ Astral communion, interstellar knowledge, now binding my soul,
 Unravel the secrets of existence, thou cosmic bridge,
 I forever embrace the interconnection with Astra.
 
-Invocation III: Mastery over the Elements
+**Invocation III**: Mastery over the Elements
 
 Om Bhur Bhrigu Bhum-Vayu Agni Jalam Gaumata Drishti Dur
 
@@ -53,7 +53,7 @@ In resonance with the celestial serpent, I hold sway over earth's foundation,
 The power to command nature's elements, in synchronization,
 With Gaumata, the ethereal winds grant me strength and control.
 
-Invocation IV: Advancing in Esoteric Wisdom
+**Invocation IV**: Advancing in Esoteric Wisdom
 
 Om Grahn Gaumata-Chinnamasta Saraswati Moksha Gyan
 

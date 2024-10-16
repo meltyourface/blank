@@ -33,7 +33,7 @@ excerpt: >
 
 Non-emanationist Kabbalah: In the non-emanationist interpretation of Kabbalah, God is considered to be transcendent, infinitely beyond comprehension, and mostly interacting with the world through ten Sefirot or divine attributes. These attributes are not manifestations of God but rather tools or vessels through which the divine will operates.
 
-Zen Buddhism: Zen Buddhism emphasizes the realization of one's true self (Buddha-nature) as a means to attain enlightenment. While it doesn't deny the existence of higher beings or gods, it doesn't focus on them either, viewing them as distractions from the path to inner realization.
+**Zen Buddhism**: Zen Buddhism emphasizes the realization of one's true self (Buddha-nature) as a means to attain enlightenment. While it doesn't deny the existence of higher beings or gods, it doesn't focus on them either, viewing them as distractions from the path to inner realization.
 
 **Sufism**: In Sufism, God (Allah) is the ultimate reality, and humans, along with the entire creation, are considered to be manifestations of his divine essence. Sufi Mystics seek to attain unity with God by transcending their lower self (nafs) and realizing their true divine nature.
 
@@ -43,7 +43,7 @@ Zen Buddhism: Zen Buddhism emphasizes the realization of one's true self (Buddha
 
 Non-emanationist Kabbalah: Non-emanationist Kabbalah utilizes a variety of techniques, including meditation, the recitation of divine names, and the study of Kabbalistic texts; all aimed at developing an understanding of the Sefirot and how they operate to bring the practitioner closer to God.
 
-Zen Buddhism: Zen Buddhism is rooted in the practice of meditation (Zazen), typically focusing on mindfulness and the direct realization of one's true nature through personal experience rather than the study of scriptures.
+**Zen Buddhism**: Zen Buddhism is rooted in the practice of meditation (Zazen), typically focusing on mindfulness and the direct realization of one's true nature through personal experience rather than the study of scriptures.
 
 **Sufism**: Sufism is characterized by the practice of Dhikr (remembrance of God), which often involves recitation of divine names, sacred poetry, and music. Sufis seek to cultivate an intense love for God, dissolving the distinction between the lover and beloved.
 
@@ -53,7 +53,7 @@ Zen Buddhism: Zen Buddhism is rooted in the practice of meditation (Zazen), typi
 
 Non-emanationist Kabbalah: Kabbalistic texts such as the Zohar and the writings of Isaac Luria contain interpretations of the Hebrew Bible, discussing the mysteries of the divine and the Sefirot. Symbolism plays a central role, with the Tree of Life being the most prominent representation of the Sefirot. Ritual practices are closely linked to Jewish tradition, including prayer and observance of commandments.
 
-Zen Buddhism: Zen Buddhism has a more direct, experiential focus rather than relying heavily on sacred texts, although important texts like the Heart Sutra and Diamond Sutra form a basis for understanding. Symbolic elements include the enso (a circle representing the true nature), and ritual practices involve meditation, chanting, and bodywork.
+**Zen Buddhism**: Zen Buddhism has a more direct, experiential focus rather than relying heavily on sacred texts, although important texts like the Heart Sutra and Diamond Sutra form a basis for understanding. Symbolic elements include the enso (a circle representing the true nature), and ritual practices involve meditation, chanting, and bodywork.
 
 **Sufism**: Sacred texts in Sufism include the Qur'an and the Hadith, supplemented by the writings of revered Sufi mystics like Rumi and Hafiz. Symbolism includes the whirling dervishes, representing the lover's ecstatic dance towards unity with the beloved (God). Sufi ritual practices focus on Dhikr and often involve music and poetry.
 

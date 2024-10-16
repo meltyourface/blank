@@ -23,7 +23,7 @@ The Rosarium Philosophorum, or the Rosary of the Philosophers, is a collection o
 
 To thoroughly analyze the Rosarium Philosophorum's illustrations and provide an alternative interpretation of the symbolic elements present, we must first provide a brief overview of the alchemical tinctures and their association with the stages of the Magnum Opus.
 
-There are three primary colors of tinctures in alchemical traditions: black, white, and red. These colors correspond to the three major stages of the Magnum Opus: Nigredo, Albedo, and Rubedo.
+**There are three primary colors of tinctures in alchemical traditions**: black, white, and red. These colors correspond to the three major stages of the Magnum Opus: Nigredo, Albedo, and Rubedo.
 
 Nigredo, represented by the color black, presents the initial stage of the Great Work. It signifies the death or decay of matter and is associated with the symbol of the Green Lion, who devours the body of the sun. This stage implies purification through the breaking down of the ego and old aspects of the self. In the Rosarium's illustrations, the Green Lion attends the death of the old king, symbolizing the decay preceding rebirth in a purified form.
 

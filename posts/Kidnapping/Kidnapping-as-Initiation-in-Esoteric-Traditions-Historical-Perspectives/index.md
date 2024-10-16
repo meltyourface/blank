@@ -25,7 +25,7 @@ To fully understand the role of kidnapping as an initiation rite or spiritual tr
 
 The Dionysian cults were groups of devotees who worshipped Dionysus, the Greek god of wine, theater, fertility, and ritual madness. The initiation process to join these cults involved abduction or voluntary seclusion of the participant, who would be then exposed to various rituals and trials, often accompanied by ecstatic experiences induced by wine and music. This practice revealed profound transformative knowledge about the nature of life, death, pleasure, and pain.
 
-These initiations often resulted in a metaphysical rebirth - the initiate would experience a deeper connection to Dionysus and feel transformed by what they had learned and undergone during their seclusion. ****This practice of kidnapping and initiation served several purposes****: it created a special bond between initiates, encouraged a complete surrender to the ecstatic and often wild energy of the god, and maintained the secrecy of the cult's activities.
+These initiations often resulted in a metaphysical rebirth - the initiate would experience a deeper connection to Dionysus and feel transformed by what they had learned and undergone during their seclusion. **This practice of kidnapping and initiation served several purposes**: it created a special bond between initiates, encouraged a complete surrender to the ecstatic and often wild energy of the god, and maintained the secrecy of the cult's activities.
 
 2. **Elizabethan-era forced apprenticeships**:
 

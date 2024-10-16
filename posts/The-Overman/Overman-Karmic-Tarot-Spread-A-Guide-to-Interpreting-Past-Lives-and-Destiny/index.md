@@ -24,7 +24,7 @@ Introducing the Overman Karmic Tarot Spread
 
 The Overman Karmic Tarot Spread comprises the essence of past lives and karmic connections. This distinctive layout is designed in the shape of a celestial star, with twelve card positions representing the twelve astrological houses. The Overman figure represents the ultimate mastery over one's destiny.
 
-1. ****Central Card****: The Overman
+1. **Central Card**: The Overman
 
 Begin with a central card representing the querent's overarching soul purpose. This card embodies the essence of The Overman and should be chosen specifically to reflect the energies of mastery, self-actualization, and transcendence.
 

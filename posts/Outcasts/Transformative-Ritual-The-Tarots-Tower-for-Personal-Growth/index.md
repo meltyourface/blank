@@ -22,9 +22,9 @@ excerpt: Design an occult meditation ritual for Outcasts to confront and overcom
 
 ## The Ritual of the Tower - Overcoming Personal Obstacles
 
-The Tarot Card: The Tower
+**The Tarot Card**: The Tower
 
-Main Themes: Sudden upheaval, chaos, transformation, breaking of foundations, the opportunity for growth, and change.
+**Main Themes**: Sudden upheaval, chaos, transformation, breaking of foundations, the opportunity for growth, and change.
 
 **Invocation**:
 

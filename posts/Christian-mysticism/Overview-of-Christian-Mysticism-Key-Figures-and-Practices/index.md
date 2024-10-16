@@ -43,21 +43,21 @@ Modern Christian Mysticism (18th century CE - present): The focus shifted toward
 
 ### II. Key Figures in Christian Mysticism
 
-1. ****St. John of the Cross (1542-1591)****: Spanish mystic, poet, and theologian who founded the Discalced Carmelite order alongside St. Teresa of Avila. He wrote 'Dark Night of the Soul,' a guide for the soul's progress towards unity with God.
+1. **St. John of the Cross (1542-1591)**: Spanish mystic, poet, and theologian who founded the Discalced Carmelite order alongside St. Teresa of Avila. He wrote 'Dark Night of the Soul,' a guide for the soul's progress towards unity with God.
 
-2. ****St. Teresa of Avila (1515-1582)****: Spanish mystic who experienced many spiritual ecstasies and wrote 'The Interior Castle,' explaining the journey of the soul through a metaphorical castle with different dwelling places, or mansions, representing stages in spiritual development.
+2. **St. Teresa of Avila (1515-1582)**: Spanish mystic who experienced many spiritual ecstasies and wrote 'The Interior Castle,' explaining the journey of the soul through a metaphorical castle with different dwelling places, or mansions, representing stages in spiritual development.
 
-3. ****Julian of Norwich (1342-1416)****: English mystic and theologian who, after experiencing a series of visions, wrote 'Revelations of Divine Love,' in which she conveys her encounters with Christ and provides insights into the nature of God's love.
+3. **Julian of Norwich (1342-1416)**: English mystic and theologian who, after experiencing a series of visions, wrote 'Revelations of Divine Love,' in which she conveys her encounters with Christ and provides insights into the nature of God's love.
 
 ### III. Principles and Practices of Christian Mysticism
 
-1. ****Contemplative Prayer****: A deep, silent, and focused listening to the Presence of God, often practiced in solitude. Contemplative prayer has a rich history in monasticism, specifically within the practices of Lectio Divina and centering prayer.
+1. **Contemplative Prayer**: A deep, silent, and focused listening to the Presence of God, often practiced in solitude. Contemplative prayer has a rich history in monasticism, specifically within the practices of Lectio Divina and centering prayer.
 
-2. ****Theosis****: The concept of becoming like or united with God through grace, enlightenment, and transformation. The process often involves entering into states of ecstasy or divine union through prayer and meditation.
+2. **Theosis**: The concept of becoming like or united with God through grace, enlightenment, and transformation. The process often involves entering into states of ecstasy or divine union through prayer and meditation.
 
-3. ****Symbolism****: Christian mystics have employed a variety of symbols to communicate complex spiritual experiences and truths. Common imagery includes the bride and bridegroom, reflecting the union between the soul and Christ; the ladder, signifying ascent towards God; and the desert, reflecting solitude and internal spiritual warfare.
+3. **Symbolism**: Christian mystics have employed a variety of symbols to communicate complex spiritual experiences and truths. Common imagery includes the bride and bridegroom, reflecting the union between the soul and Christ; the ladder, signifying ascent towards God; and the desert, reflecting solitude and internal spiritual warfare.
 
-4. ****Asceticism****: The voluntary practice of self-discipline, austerity, and self-denial to achieve a higher level of spiritual awareness, often including fasting, celibacy, and periods of solitude.
+4. **Asceticism**: The voluntary practice of self-discipline, austerity, and self-denial to achieve a higher level of spiritual awareness, often including fasting, celibacy, and periods of solitude.
 
 Conclusion
 

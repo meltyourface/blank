@@ -37,27 +37,27 @@ excerpt: >
 
 **Preparation**: Prior to performing the ritual, gather the following visual symbols and tools, which represent essential aspects of each esoteric tradition:
 
-1. ****Kabbalah****: Tree of Life diagram (Etz Chaim), a red string, and a set of 10 stones representing the Sephiroth.
-2. ****Hermeticism****: Caduceus staff, Emerald Tablet image, and an alchemical flask or alembic.
-3. ****Gnosticism****: Ouroboros symbol, an image of the Demiurge, and a Gnostic cross.
+1. **Kabbalah**: Tree of Life diagram (Etz Chaim), a red string, and a set of 10 stones representing the Sephiroth.
+2. **Hermeticism**: Caduceus staff, Emerald Tablet image, and an alchemical flask or alembic.
+3. **Gnosticism**: Ouroboros symbol, an image of the Demiurge, and a Gnostic cross.
 
 Ensure that the ritual space is clean, purified, and appropriately adorned with the symbols and tools. Light candles and incense as desired for ambiance and focus.
 **Step 1**: Invocation and Channeling
 
 Begin by invoking the energies and entities associated with each system:
 
-1. ****Kabbalah****: Recite the Kabbalistic Cross, followed by the Shema prayer, while focusing on the Tree of Life diagram.
-2. ****Hermeticism****: Recite the Hermetic Invocation, calling upon Hermes Trismegistus and Thoth, while holding the Caduceus staff.
-3. ****Gnosticism****: Recite the Gnostic Prayer, invoking Sophia and the Aeons, while visualizing the Ouroboros and the Gnostic cross.
+1. **Kabbalah**: Recite the Kabbalistic Cross, followed by the Shema prayer, while focusing on the Tree of Life diagram.
+2. **Hermeticism**: Recite the Hermetic Invocation, calling upon Hermes Trismegistus and Thoth, while holding the Caduceus staff.
+3. **Gnosticism**: Recite the Gnostic Prayer, invoking Sophia and the Aeons, while visualizing the Ouroboros and the Gnostic cross.
 **Step 2**: Transcending Consciousness
 
-1. ****Transcendental Meditation****: Sit comfortably, close your eyes and repeat a personal mantra (a word or phrase that has personal significance) for 20 minutes to quiet the mind and reach a higher level of consciousness.
-2. ****Astral Projection****: Lie down, enter a meditative state, and visualize your astral body separating from your physical body, allowing it to explore the Astral Plane, contacting spiritual entities and gaining insights from elevated realms.
-3. ****Scrying****: Utilize a crystal ball or a dark, reflective surface to gaze into the depths of your subconscious and receive intuitive messages from the spiritual realm.
+1. **Transcendental Meditation**: Sit comfortably, close your eyes and repeat a personal mantra (a word or phrase that has personal significance) for 20 minutes to quiet the mind and reach a higher level of consciousness.
+2. **Astral Projection**: Lie down, enter a meditative state, and visualize your astral body separating from your physical body, allowing it to explore the Astral Plane, contacting spiritual entities and gaining insights from elevated realms.
+3. **Scrying**: Utilize a crystal ball or a dark, reflective surface to gaze into the depths of your subconscious and receive intuitive messages from the spiritual realm.
 **Step 3**: Integration and Transformation
 
-1. ****Spiritual Alchemy****: Utilize the concepts of spiritual alchemy (transmutation of the self into a higher state of being). Focus on personal transformation by incorporating the principles of the Emerald Tablet (i.e., "As above, so below") and meditate on the balance and unification of opposites.
-2. ****Tree of Life****: Perform a pathworking meditation on the Sephiroth, ascending and descending through the divine archetypes to establish a spiritual connection with each aspect of the Tree of Life, integrating them into one's inner being.
+1. **Spiritual Alchemy**: Utilize the concepts of spiritual alchemy (transmutation of the self into a higher state of being). Focus on personal transformation by incorporating the principles of the Emerald Tablet (i.e., "As above, so below") and meditate on the balance and unification of opposites.
+2. **Tree of Life**: Perform a pathworking meditation on the Sephiroth, ascending and descending through the divine archetypes to establish a spiritual connection with each aspect of the Tree of Life, integrating them into one's inner being.
 **Step 4**: Evaluation and Adjustments
 
 1. Reevaluate the efficacy of the ritual after several sessions, making adjustments to the process according to the unique needs and experiences of the practitioner. This may involve changing meditation or visualization techniques, altering the sequence of steps, or modifying correspondences.

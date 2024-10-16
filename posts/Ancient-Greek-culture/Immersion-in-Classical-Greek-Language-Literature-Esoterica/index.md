@@ -78,7 +78,7 @@ Course Objectives:
 
 **Prerequisites**: None, but a background in Classics or History is helpful.
 
-Assessment Methods: Class participation, quizzes, written assignments, and a final project.
+**Assessment Methods**: Class participation, quizzes, written assignments, and a final project.
 
 Recommended Resources:
 1. Hansen, W. F. (2004) - Anthology of Ancient Greek Popular Literature.

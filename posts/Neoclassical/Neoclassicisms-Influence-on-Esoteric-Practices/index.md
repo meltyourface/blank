@@ -42,23 +42,23 @@ Neoclassical influence on esoteric practices primarily stems from its emphasis o
 
 Individuals interested in incorporating Neoclassical elements into their occult studies can focus on the following approaches:
 
-a. ****Delve into mythology****: Study ancient Greek and Roman myths, paying special attention to their symbolism, allegorical meaning, and connections with archetypal figures and concepts within magical workings.
+a. **Delve into mythology**: Study ancient Greek and Roman myths, paying special attention to their symbolism, allegorical meaning, and connections with archetypal figures and concepts within magical workings.
 
-b. ****Embrace aesthetic principles****: Decorate ritual spaces and select magical tools that reflect Neoclassical principles of simplicity, order, and harmony.
+b. **Embrace aesthetic principles**: Decorate ritual spaces and select magical tools that reflect Neoclassical principles of simplicity, order, and harmony.
 
-c. ****Explore Neoclassical literature and art****: Reflect on the cultural and historical contexts, themes, and philosophical ideals that created the Neoclassical movement.
+c. **Explore Neoclassical literature and art**: Reflect on the cultural and historical contexts, themes, and philosophical ideals that created the Neoclassical movement.
 
-d. ****Understand the role of correspondence systems****: Learn about the structure and interconnectedness of various aspects of magical practices through the lens of Neoclassicism, gaining deeper knowledge of the occult's underlying principles.
+d. **Understand the role of correspondence systems**: Learn about the structure and interconnectedness of various aspects of magical practices through the lens of Neoclassicism, gaining deeper knowledge of the occult's underlying principles.
 
 5. Notable Neoclassical Occultists and Works
 
 The following are some examples of Neoclassical occultists and works that showcase the connection between these two worlds:
 
-a. ****Eliphas Lévi (1810-1875)****: A French occultist and influential figure in 19th-century occult revival, Lévi incorporated Neoclassical art and symbolism into his esoteric writings, particularly in his works “Dogme et Rituel de la Haute Magie” (Dogma and Ritual of High Magic) and “Histoire de la Magie” (History of Magic).
+a. **Eliphas Lévi (1810-1875)**: A French occultist and influential figure in 19th-century occult revival, Lévi incorporated Neoclassical art and symbolism into his esoteric writings, particularly in his works “Dogme et Rituel de la Haute Magie” (Dogma and Ritual of High Magic) and “Histoire de la Magie” (History of Magic).
 
-b. ****William Blake (1757-1827)****: An English visionary artist, poet, and esoteric philosopher, Blake's work is marked by Neoclassical stylistic elements combined with mystical and symbolic imagery.
+b. **William Blake (1757-1827)**: An English visionary artist, poet, and esoteric philosopher, Blake's work is marked by Neoclassical stylistic elements combined with mystical and symbolic imagery.
 
-c. ****The Tarot de Marseilles****: A significant tarot deck with a long history in esoteric tradition, the Tarot de Marseilles features Neoclassical design elements that were influenced by ancient Greco-Roman art and symbolism.
+c. **The Tarot de Marseilles**: A significant tarot deck with a long history in esoteric tradition, the Tarot de Marseilles features Neoclassical design elements that were influenced by ancient Greco-Roman art and symbolism.
 
 Conclusion
 

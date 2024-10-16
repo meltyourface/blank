@@ -42,13 +42,13 @@ At first, radical alterity and Dragon's Column may appear to be contradictory co
 
 To fully grasp the relationship between radical alterity and Dragon's Column, the student must engage with the following practices and concepts:
 
-1. *****Meditation*****: Cultivating the mind-body connection and attuning oneself to the internal spiritual realm is essential in order to access the transcendent self. 
+1. ***Meditation***: Cultivating the mind-body connection and attuning oneself to the internal spiritual realm is essential in order to access the transcendent self. 
 
-2. *****Visualization*****: Techniques involving visualizing the Dragon's Column as a pillar of energy through the body will strengthen one's connection to the higher energies, enabling the practitioner to draw on this power for spiritual growth and enhanced abilities.
+2. ***Visualization***: Techniques involving visualizing the Dragon's Column as a pillar of energy through the body will strengthen one's connection to the higher energies, enabling the practitioner to draw on this power for spiritual growth and enhanced abilities.
 
-3. *****Energy Work*****: Understanding the circulation and manipulation of various energies within the body – such as chi or prana – is vital to working with the Dragon's Column. Harnessing, balancing, and directing these energies allows the practitioner to bridge the gap between the transcendent and material realms.
+3. ***Energy Work***: Understanding the circulation and manipulation of various energies within the body – such as chi or prana – is vital to working with the Dragon's Column. Harnessing, balancing, and directing these energies allows the practitioner to bridge the gap between the transcendent and material realms.
 
-4. *****Transcendence and Integration*****: Ultimately, the goal of uniting radical alterity and Dragon's Column is to transcend the limitations of the material world and integrate the transcendent self with the cosmic energies accessible through the Dragon's Column. This synthesis empowers the student to reshape their reality, enabling true spiritual transformation and mastery of the occult arts.
+4. ***Transcendence and Integration***: Ultimately, the goal of uniting radical alterity and Dragon's Column is to transcend the limitations of the material world and integrate the transcendent self with the cosmic energies accessible through the Dragon's Column. This synthesis empowers the student to reshape their reality, enabling true spiritual transformation and mastery of the occult arts.
 
 **Conclusion**
 

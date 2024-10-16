@@ -28,45 +28,45 @@ The Lunar Grimoire aims to unveil the arcane knowledge of the otherworldly Moon 
 
 ### Chapter 1: Genesis of Lunar Magic
 
- 1. ****The Ancient Astral Scholars****: Forefathers of lunar magic
- 2. ****Selene's Gift****: The Moon's maiden and the ethereal bond
- 3. ****Lunar Libraries****: Secret repositories for preserving arcane knowledge
+ 1. **The Ancient Astral Scholars**: Forefathers of lunar magic
+ 2. **Selene's Gift**: The Moon's maiden and the ethereal bond
+ 3. **Lunar Libraries**: Secret repositories for preserving arcane knowledge
 
 ### Chapter 2: The Mystical Lexicon
 
- 1. ****The language of the Moon****: The structure and syntax of Lunarian
- 2. ****Moon Phases and Symbols****: The significance of crescent, gibbous, and full moon in the lexicon
- 3. ****Magical Chromatics****: The color symbolism in moonspeak
+ 1. **The language of the Moon**: The structure and syntax of Lunarian
+ 2. **Moon Phases and Symbols**: The significance of crescent, gibbous, and full moon in the lexicon
+ 3. **Magical Chromatics**: The color symbolism in moonspeak
 
 ### Chapter 3: Lunar Spellcraft
 
- 1. ****Basics of Lunar Magic****: Principles, components, and casting techniques
- 2. ****Selene's Sigils****: Enigmatic symbols for amplifying lunar power
- 3. ****Tides of Transformation****: Shape-changing and accessing astral realms
+ 1. **Basics of Lunar Magic**: Principles, components, and casting techniques
+ 2. **Selene's Sigils**: Enigmatic symbols for amplifying lunar power
+ 3. **Tides of Transformation**: Shape-changing and accessing astral realms
 
 ### Chapter 4: Incantations
 
- 1. ****Chants of the Celestial Spheroid****: Summoning and binding lunar entities
- 2. ****Mantras of Metamorphosis****: Potent spells for healing and body control
- 3. ****Astral Whispers****: Telepathic communication and remote viewing
+ 1. **Chants of the Celestial Spheroid**: Summoning and binding lunar entities
+ 2. **Mantras of Metamorphosis**: Potent spells for healing and body control
+ 3. **Astral Whispers**: Telepathic communication and remote viewing
 
 ### Chapter 5: Practical Applications
 
- 1. ****Lunar Empowerment****: Enhancing physical and mental abilities
- 2. ****Moon Warding****: Protection against threats both mundane and supernatural
- 3. ****Phases of Prophecy****: Divination, scrying, and uncovering hidden truths
+ 1. **Lunar Empowerment**: Enhancing physical and mental abilities
+ 2. **Moon Warding**: Protection against threats both mundane and supernatural
+ 3. **Phases of Prophecy**: Divination, scrying, and uncovering hidden truths
 
 ### Chapter 6: Prominent Figures
 
- 1. ****Selenos****: The first great Lunar Magus
- 2. ****Euryphaessa****: Oracle and keeper of the Moon's secrets
- 3. ****Nyxiana****: Renowned Moon priestess and founder of the Lunar Coven
+ 1. **Selenos**: The first great Lunar Magus
+ 2. **Euryphaessa**: Oracle and keeper of the Moon's secrets
+ 3. **Nyxiana**: Renowned Moon priestess and founder of the Lunar Coven
 
 ### Chapter 7: Cultural Influences and Implications
 
- 1. ****The Cry of the Werewolf****: Connection to the moon and lunar magic
- 2. ****Enchantresses of the Moon****: Female figures in mythology and folklore
- 3. ****Lunar Vanguard****: The Moon inhabitants' role as celestial guardians
+ 1. **The Cry of the Werewolf**: Connection to the moon and lunar magic
+ 2. **Enchantresses of the Moon**: Female figures in mythology and folklore
+ 3. **Lunar Vanguard**: The Moon inhabitants' role as celestial guardians
 
 **Conclusion**:
 

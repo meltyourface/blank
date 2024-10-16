@@ -38,7 +38,7 @@ Festival Name: The Veiled Nettling Revelry
 
 The Veiled Nettling Revelry is an enigmatic annual festival that celebrates the magical and mystical properties of the Stinging Nettle plant. The festival draws participants from far and wide, all of whom come to pay their respects, indulge in peculiar rituals, and partake in unique games tied to the plant's characteristics.
 
-Origin Story: 
+**Origin Story**: 
 
 Legend has it that the festival began centuries ago, when a powerful, esoteric witch named Nettleia discovered the supernatural connections of the Stinging Nettle plant. Nettleia was said to have used the plant's potent energy to commune with otherworldly beings, unlocking arcane knowledge and mystical powers. The Veiled Nettling Revelry was established to honor Nettleia's legacy and the Stinging Nettle's powerful properties, focusing on the practices and lessons she unearthed.
 

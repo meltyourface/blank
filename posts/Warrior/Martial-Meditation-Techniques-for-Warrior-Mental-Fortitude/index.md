@@ -28,7 +28,7 @@ The Warrior's Mind is a series of martial arts-inspired meditation practices des
 Technique 1: The Stance of Clarity
 Stance: Stand with your feet shoulder-width apart and your knees slightly bent. Place your hands on your hips, with the thumbs pointing backward. Gaze forward, softening your focus.
 
-Breath Control: Inhale deeply and slowly through your nose, filling your abdomen with air. Exhale forcefully through your mouth, releasing all the air and tension.
+**Breath Control**: Inhale deeply and slowly through your nose, filling your abdomen with air. Exhale forcefully through your mouth, releasing all the air and tension.
 
 **Visualization**: Imagine pure, white light engulfing you. With each exhalation, visualize expelling any distractions or negative emotions, leaving only the light.
 
@@ -37,7 +37,7 @@ Breath Control: Inhale deeply and slowly through your nose, filling your abdomen
 Technique 2: The Flow of Energy
 Stance: Stand with your feet wider than shoulder-width apart and your knees slightly bent. Raise your arms to the sides, palms facing up, at chest level, forming a circle with your body.
 
-Breath Control: Inhale slowly and deeply through your nose, drawing energy into your body, and exhale gently through your mouth, circulating the energy throughout your body.
+**Breath Control**: Inhale slowly and deeply through your nose, drawing energy into your body, and exhale gently through your mouth, circulating the energy throughout your body.
 
 **Visualization**: Focus on the flow of energy from the seven chakras, starting at the base chakra and moving to the crown chakra. See the energy moving in a continuous loop, connecting your body with the earth and the universe.
 
@@ -46,7 +46,7 @@ Breath Control: Inhale slowly and deeply through your nose, drawing energy into 
 Technique 3: The Warrior's Calm
 Stance: Sit in a comfortable cross-legged position or kneel with hands resting on knees. Keep your back straight and your head aligned with your spine.
 
-Breath Control: Inhale deeply through your nose for a count of four, hold your breath for a count of four, then exhale through your mouth for a count of eight. Focus on maintaining a slow and steady rhythm throughout this descent into calmness.
+**Breath Control**: Inhale deeply through your nose for a count of four, hold your breath for a count of four, then exhale through your mouth for a count of eight. Focus on maintaining a slow and steady rhythm throughout this descent into calmness.
 
 **Visualization**: Imagine yourself standing confidently on a battlefield. Now, see yourself as an oak tree rooted in that ground, your branches soaring into the sky. Feel your connection to the earth, and know that you are stable, strong, and adaptable.
 

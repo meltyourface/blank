@@ -35,15 +35,15 @@ Associated Rituals
 
 There are numerous rituals and ceremonies designed to tap into the powerful energies of the lunar surface. The most common of these are Moon rituals, performed during the various phases of the lunar cycle. Each phase of the Moon carries its unique energetic signature and can be harnessed for different magical purposes.
 
-New Moon: The New Moon symbolizes beginnings and is associated with setting intentions and manifesting one's desires. During this phase, practitioners may engage in rituals to initiate new projects and ventures or to plant the seeds of future endeavors.
+**New Moon**: The New Moon symbolizes beginnings and is associated with setting intentions and manifesting one's desires. During this phase, practitioners may engage in rituals to initiate new projects and ventures or to plant the seeds of future endeavors.
 
-Waxing Moon: As the Moon's light slowly grows, this phase is ideal for expanding upon the intentions set during the New Moon. Practitioners may perform rituals to enhance growth, draw abundance, and amplify the energies directed towards their goals.
+**Waxing Moon**: As the Moon's light slowly grows, this phase is ideal for expanding upon the intentions set during the New Moon. Practitioners may perform rituals to enhance growth, draw abundance, and amplify the energies directed towards their goals.
 
-Full Moon: The Full Moon serves as the peak of energy and is associated with increased psychic and spiritual power. This is a time for reflection, meditation, and seeking clarity through divination or magical practices to enhance one's intuition and connection to the spiritual realm.
+**Full Moon**: The Full Moon serves as the peak of energy and is associated with increased psychic and spiritual power. This is a time for reflection, meditation, and seeking clarity through divination or magical practices to enhance one's intuition and connection to the spiritual realm.
 
-Waning Moon: As the Moon's light decreases, this phase is often used for release, letting go, and banishing negativity. Practitioners may engage in rituals to cleanse their energy and remove obstacles impeding their progress or to sever ties with unwanted influences.
+**Waning Moon**: As the Moon's light decreases, this phase is often used for release, letting go, and banishing negativity. Practitioners may engage in rituals to cleanse their energy and remove obstacles impeding their progress or to sever ties with unwanted influences.
 
-Dark Moon: The Dark Moon represents transition and transformation, often used for healing and deeply introspective practices. This is a time for surrendering to the natural cycles of life and embracing the unknown.
+**Dark Moon**: The Dark Moon represents transition and transformation, often used for healing and deeply introspective practices. This is a time for surrendering to the natural cycles of life and embracing the unknown.
 
 Practical Techniques for Harnessing Lunar Energies
 

@@ -40,15 +40,15 @@ Key Components and Symbols
 
 An Altar of the Dead typically includes a range of objects and symbols that hold personal, cultural, or spiritual significance. **Common components of an Altar of the Dead may include**:
 
-1. ****Photos or images of the deceased****: These serve as a way of connecting directly to the individual spirits being venerated or consulted.
+1. **Photos or images of the deceased**: These serve as a way of connecting directly to the individual spirits being venerated or consulted.
 
-2. ****Offerings****: Food, drink, or other items that hold a personal significance to the deceased can help to strengthen the bond between the living and the dead.
+2. **Offerings**: Food, drink, or other items that hold a personal significance to the deceased can help to strengthen the bond between the living and the dead.
 
-3. ****Incense and candles****: These represent the element of fire and can act as a means of purifying the altar space and inviting the presence of benevolent spirits.
+3. **Incense and candles**: These represent the element of fire and can act as a means of purifying the altar space and inviting the presence of benevolent spirits.
 
-4. ****Flowers****: Symbolizing life and renewal, flowers can help to create an environment conducive to positive spiritual connections.
+4. **Flowers**: Symbolizing life and renewal, flowers can help to create an environment conducive to positive spiritual connections.
 
-5. ****Elemental representations****: Objects or symbols representing the four elements (air, earth, fire, and water) can be included to balance the energies at the altar.
+5. **Elemental representations**: Objects or symbols representing the four elements (air, earth, fire, and water) can be included to balance the energies at the altar.
 
 Creating and Maintaining an Altar of the Dead
 

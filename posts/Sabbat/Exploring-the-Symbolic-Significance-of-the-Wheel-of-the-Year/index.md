@@ -23,21 +23,21 @@ To fully understand the symbolic and esoteric connections between the elements o
 
 Let's start by briefly pointing out each of the Sabbats along with their general themes and energies:
 
-1. ****Yule (Winter Solstice)****: This is the time when the darkness is at its peak, and Light begins to return as the days start lengthening again. It symbolizes birth and renewal and is associated with hope and inner reflection.
+1. **Yule (Winter Solstice)**: This is the time when the darkness is at its peak, and Light begins to return as the days start lengthening again. It symbolizes birth and renewal and is associated with hope and inner reflection.
  
-2. ****Imbolc (Early February)****: This Sabbat celebrates the first hints of spring, the increasing Light, and the promise of new life. It is associated with purification, growth, and the awakening of the Earth.
+2. **Imbolc (Early February)**: This Sabbat celebrates the first hints of spring, the increasing Light, and the promise of new life. It is associated with purification, growth, and the awakening of the Earth.
 
-3. ****Ostara (Spring Equinox)****: Ostara symbolizes the balance between Light and Darkness, representing the emergence of life from the slumber of winter. It is a time for growth, renewal, and the celebration of fertility.
+3. **Ostara (Spring Equinox)**: Ostara symbolizes the balance between Light and Darkness, representing the emergence of life from the slumber of winter. It is a time for growth, renewal, and the celebration of fertility.
 
-4. ****Beltane (Early May)****: Beltane marks the height of spring, with energies geared towards abundance, fertility, and the blossoming of love and sexuality. This Sabbat is known for its vibrant and celebratory energy and is often associated with fire, passion, and unity.
+4. **Beltane (Early May)**: Beltane marks the height of spring, with energies geared towards abundance, fertility, and the blossoming of love and sexuality. This Sabbat is known for its vibrant and celebratory energy and is often associated with fire, passion, and unity.
 
-5. ****Litha (Summer solstice)****: At Litha, the Sun is at the height of its power, which is reflected in the abundance of life and growth around the earth. This Sabbat is associated with celebration, vitality, strength, and personal power.
+5. **Litha (Summer solstice)**: At Litha, the Sun is at the height of its power, which is reflected in the abundance of life and growth around the earth. This Sabbat is associated with celebration, vitality, strength, and personal power.
 
-6. ****Lammas/Lughnasadh (Early August)****: Celebrated at the beginning of the harvest season, Lammas is a time of gratitude for the abundance provided by the Earth. It is a period of reflection and thanksgiving.
+6. **Lammas/Lughnasadh (Early August)**: Celebrated at the beginning of the harvest season, Lammas is a time of gratitude for the abundance provided by the Earth. It is a period of reflection and thanksgiving.
 
-7. ****Mabon (Autumnal Equinox)****: Mabon signifies the balance between Light and Darkness, as well as the abundance of the harvest. It is a time for looking inward, spiritual growth, and building on one's wisdom.
+7. **Mabon (Autumnal Equinox)**: Mabon signifies the balance between Light and Darkness, as well as the abundance of the harvest. It is a time for looking inward, spiritual growth, and building on one's wisdom.
 
-8. ****Samhain (End of October)****: Samhain marks the final harvest, the end of the year, and the beginning of the Dark half of the year. It is a time for reflection, honoring ancestors, and seeking guidance from the spirit world.
+8. **Samhain (End of October)**: Samhain marks the final harvest, the end of the year, and the beginning of the Dark half of the year. It is a time for reflection, honoring ancestors, and seeking guidance from the spirit world.
 
 The Wheel of the Year reflects the cyclical nature of life, teaching us that everything follows a natural pattern of birth, growth, decay, and rebirth. The connection between these elements can be thought of as a tapestry, where each Sabbat contributes to the development of the individual on their spiritual journey.
 

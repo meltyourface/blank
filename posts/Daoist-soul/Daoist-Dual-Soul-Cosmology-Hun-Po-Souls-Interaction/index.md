@@ -21,7 +21,7 @@ excerpt: In the context of Daoist dual soul cosmology, how do the concepts of Hu
 ---
 In the context of Daoist dual soul cosmology, the concepts of Hun and Po souls play a significant role in shaping an individual's journey through life and afterlife. To fully understand this intricate relationship, we need to delve into the knowledge of Yin, Yang, Qi, and the Five Elements, which decisively influence the interaction and progression of Hun and Po souls.
 
-The Daoist dual soul cosmology comprises two distinct aspects: the Hun soul (ethereal soul) and the Po soul (corporeal soul). The ethereal soul is yang in nature and is associated with the vital essence (Qi) and the heavens, while the corporeal soul is yin and connected to the earth and the physical body.
+**The Daoist dual soul cosmology comprises two distinct aspects**: the Hun soul (ethereal soul) and the Po soul (corporeal soul). The ethereal soul is yang in nature and is associated with the vital essence (Qi) and the heavens, while the corporeal soul is yin and connected to the earth and the physical body.
 
 The Hun soul governs the aspects of consciousness and intellect, and it seeks ascension. As it is yang-oriented, it is considered the more spiritual, subtle, light element that vies to return to the heavens at the end of earthly existence. The Po soul, on the other hand, presides over the body's physiological functions and has a firm connection to the physical realm. It is responsible for grounding the human experience in the material world and guiding essential life processes.
 

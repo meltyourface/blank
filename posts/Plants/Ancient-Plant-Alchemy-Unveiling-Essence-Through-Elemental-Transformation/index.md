@@ -23,7 +23,7 @@ Plant alchemy, also known as spagyrics, is an ancient and holistic practice that
 
 To understand plant alchemy, one must first understand the classical four elements: earth, air, fire, and water. These elements are symbolic of the basic principles that make up all things, both material and immaterial. Earth represents structure and stability; air symbolizes intellect and movement; water encompasses emotions and fluidity; and fire signifies transformation and energy.
 
-The process of plant alchemy can generally be broken down into three primary stages: Separation, Purification, and Cohobation. Each stage corresponds to specific elements and addresses the symbolic significance to promote spiritual growth.
+**The process of plant alchemy can generally be broken down into three primary stages**: Separation, Purification, and Cohobation. Each stage corresponds to specific elements and addresses the symbolic significance to promote spiritual growth.
 
 1. Separation (corresponding to the elements of air and water):
 The separation stage is where the practitioner begins to break down the plant matter into its basic constituent parts. This process can involve various techniques such as fermentation, distillation, and extraction. Symbolically, the separation process represents the shedding of old beliefs and patterns, allowing the plant's inherent nature to be revealed, and the practitioner's consciousness to expand.

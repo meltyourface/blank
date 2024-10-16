@@ -36,21 +36,21 @@ Ingredients and tools:
 
 Step-by-step procedure:
 
-1. ****Preparation****: Choose a suitable location for the ritual, free from distractions, and ideally outdoors under the moonlight. A quiet, remote spot is best. Cleanse yourself mentally and physically before beginning.
+1. **Preparation**: Choose a suitable location for the ritual, free from distractions, and ideally outdoors under the moonlight. A quiet, remote spot is best. Cleanse yourself mentally and physically before beginning.
 
-2. ****Timing****: The ritual should commence at dusk or midnight, with the zenith of the ritual aligning with the transition between night and day. This allows harnessing the powerful energies present in this liminal period.
+2. **Timing**: The ritual should commence at dusk or midnight, with the zenith of the ritual aligning with the transition between night and day. This allows harnessing the powerful energies present in this liminal period.
 
-3. ****Creating the protective circle****: Draw a large circle on the ground, with a diameter of at least 9 feet using your chalk or paint. Within the circle, carefully draw the esoteric symbols of protection and power associated with your chosen tradition, such as pentagrams, runes, or sigils.
+3. **Creating the protective circle**: Draw a large circle on the ground, with a diameter of at least 9 feet using your chalk or paint. Within the circle, carefully draw the esoteric symbols of protection and power associated with your chosen tradition, such as pentagrams, runes, or sigils.
 
-4. ****Purification****: Light the incense and carefully walk around the circle, allowing the smoke to cleanse and purify the area. ****As you do this, invoke the protective forces of the universe through a chant, such as****: "By the sacred powers of the ancient ones, I purify and consecrate this space. Nothing of ill intent shall pass this barrier."
+4. **Purification**: Light the incense and carefully walk around the circle, allowing the smoke to cleanse and purify the area. **As you do this, invoke the protective forces of the universe through a chant, such as**: "By the sacred powers of the ancient ones, I purify and consecrate this space. Nothing of ill intent shall pass this barrier."
 
-5. ****Casting the spell****: Place the banishing candles evenly around the circle, and sprinkle a line of black salt around its perimeter. ****Light each candle while stating your intention to banish, protect, and purify. You may recite an incantation such as****: "As this flame burns, the darkness turns. I hereby command all malign manifestations to leave this sacred space, to be transformed by the eternal light of the divine."
+5. **Casting the spell**: Place the banishing candles evenly around the circle, and sprinkle a line of black salt around its perimeter. **Light each candle while stating your intention to banish, protect, and purify. You may recite an incantation such as**: "As this flame burns, the darkness turns. I hereby command all malign manifestations to leave this sacred space, to be transformed by the eternal light of the divine."
 
-6. ****Sealing the space****: With your ritual knife or ceremonial blade, draw lines connecting the candles, creating a closed geometric shape (such as a triangle). ****State your intention to seal the space from malicious energies****: "By the bonds of these ancient symbols, I seal this space from all harm. Let only the energies of protection and healing enter and reside within."
+6. **Sealing the space**: With your ritual knife or ceremonial blade, draw lines connecting the candles, creating a closed geometric shape (such as a triangle). **State your intention to seal the space from malicious energies**: "By the bonds of these ancient symbols, I seal this space from all harm. Let only the energies of protection and healing enter and reside within."
 
-7. ****Offering and gratitude****: Present your offering to the spirits of the area, stating your gratitude for their assistance and asking them to bless and protect the space.
+7. **Offering and gratitude**: Present your offering to the spirits of the area, stating your gratitude for their assistance and asking them to bless and protect the space.
 
-8. ****Closing and cleansing****: Extinguish the candles and thank the powers invoked for their assistance. Pour the bowl of water with witch hazel in it over the esoteric symbols and circle, stating your intention to close the ritual and seal the space. Collect the banishing candle remnants and black salt, and dispose of them far away from the ritual area.
+8. **Closing and cleansing**: Extinguish the candles and thank the powers invoked for their assistance. Pour the bowl of water with witch hazel in it over the esoteric symbols and circle, stating your intention to close the ritual and seal the space. Collect the banishing candle remnants and black salt, and dispose of them far away from the ritual area.
 
 Post-ritual process:
 

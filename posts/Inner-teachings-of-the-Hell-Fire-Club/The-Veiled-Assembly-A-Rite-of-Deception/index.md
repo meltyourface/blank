@@ -33,9 +33,9 @@ Historical Members:
 
 **Storyline**: Sir Francis Dashwood summons the esteemed members of the Hell Fire Club for an assembly of paramount importance. At the gathering, Benjamin Franklin reveals his concern that their esoteric practices and pursuit of knowledge might be exposed to the public, putting their reputations and positions at risk. John Wilkes, true to his rebellious spirit, suggests they use the situation to rouse public sentiment against the hypocrisy of the upper classes.
 
-Thomas De Quincey offers an alternate solution: to delve deeper into the mysteries of the Hell Fire Club and perform a ritual that will grant them the power to manipulate public opinion while maintaining their anonymity. This ritual, known as The Rite of the Veiled Truth, will not only secure the clandestine nature of their gatherings but also further their quest for knowledge and enlightenment.
+**Thomas De Quincey offers an alternate solution**: to delve deeper into the mysteries of the Hell Fire Club and perform a ritual that will grant them the power to manipulate public opinion while maintaining their anonymity. This ritual, known as The Rite of the Veiled Truth, will not only secure the clandestine nature of their gatherings but also further their quest for knowledge and enlightenment.
 
-The Rite of the Veiled Truth: The focal point of the meeting is the performance of this ancient ritual, believed to grant the gift of manipulating perception and distorting the truth. The rite commences with the lighting of the ceremonial Black Candle, a symbol of the obsidian veil that separates truth and deception.
+**The Rite of the Veiled Truth**: The focal point of the meeting is the performance of this ancient ritual, believed to grant the gift of manipulating perception and distorting the truth. The rite commences with the lighting of the ceremonial Black Candle, a symbol of the obsidian veil that separates truth and deception.
 
 Each member then adorns a polished Obsidian Mask, signifying their unity and shared purpose. Sir Francis Dashwood, as the High Priest, initiates the rite by invoking the spirits of the Veiled Assembly, whose wisdom and cunning have been passed down through generations of Hell Fire Club members.
 

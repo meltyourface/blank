@@ -46,7 +46,7 @@ Some key principles of Tantra include:
 
 ### III. Practices of Tantra
 
-Tantric practices can be broadly divided into two categories: external, involving rituals and ceremonies, and internal, focusing on meditations and transformative techniques. Some of the common practices in Tantra include:
+**Tantric practices can be broadly divided into two categories**: external, involving rituals and ceremonies, and internal, focusing on meditations and transformative techniques. Some of the common practices in Tantra include:
 
 1. Mantra recitation: The repetition of sacred sounds, words, or phrases is believed to invoke divine powers and transform the practitioner's consciousness.
 

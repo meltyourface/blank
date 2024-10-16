@@ -31,7 +31,7 @@ In various mythological pantheons, storm deities often represent primal forces, 
 - Thor (Norse): The son of Odin and a central figure in Norse mythology, Thor wields his hammer, Mjölnir, and is associated with storms, thunder, and lightning.
 - Indra (Hindu): Indra is the king of the gods and the god of storms, wind, thunder, and rain. He is a prominent figure in the Rigveda, a sacred Hindu text, and wields the thunderbolt, Vajra.
 
-Possible connections: 
+**Possible connections**: 
 - The portrayal of storm gods as powerful leaders or central figures across these pantheons might indicate a shared origin of a primal force or a common fear of unpredictable weather phenomena.
 - Their use of a symbolic weapon, such as Zeus's lightning bolts, Thor's hammer, and Indra's thunderbolt, could signify their authority over the elements and an attempt to personify natural forces.
 

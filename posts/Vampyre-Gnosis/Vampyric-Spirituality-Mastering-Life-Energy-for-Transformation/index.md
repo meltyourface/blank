@@ -41,9 +41,9 @@ Vampyre-Gnosis emphasizes the importance of meditation, visualization, and energ
 ### Section 5: Energy Manipulation Techniques
 
 Central to Vampyre-Gnosis is the mastery of energy manipulation. **There are various methods to achieve this, including the following techniques**:
-1. ****Sanguine Feeding****: The consumption of blood, whether literal or symbolic, allows the practitioner to absorb the essence and vital energy of the donor.
-2. ****Psychic Feeding****: Through techniques such as aura manipulation and empathic connection, the practitioner extracts vital energy directly from the aura or emotional state of a donor.
-3. ****Elemental Feeding****: The practitioner draws energy from their environment, including natural elements like fire, water, earth, and air.
+1. **Sanguine Feeding**: The consumption of blood, whether literal or symbolic, allows the practitioner to absorb the essence and vital energy of the donor.
+2. **Psychic Feeding**: Through techniques such as aura manipulation and empathic connection, the practitioner extracts vital energy directly from the aura or emotional state of a donor.
+3. **Elemental Feeding**: The practitioner draws energy from their environment, including natural elements like fire, water, earth, and air.
 
 ### Section 6: The Role of Astral Projection
 

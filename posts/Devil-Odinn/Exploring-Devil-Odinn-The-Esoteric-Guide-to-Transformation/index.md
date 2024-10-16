@@ -40,12 +40,12 @@ Working with Devil Odinn:
 
 Cultivating a relationship with Devil Odinn requires commitment, dedication, and respect. Prerequisites include a deep understanding of runes, a desire for arcane knowledge, and courage to face one's shadow self. Below are the key means to forge a connection with the enigmatic Devil Odinn.
 
-1. ****Runes and Divination****: To work effectively with Devil Odinn, one must delve deeply into the study and practice of rune magick. Runes serve as an essential tool of connection and communication with the deity.
+1. **Runes and Divination**: To work effectively with Devil Odinn, one must delve deeply into the study and practice of rune magick. Runes serve as an essential tool of connection and communication with the deity.
 
-2. ****Meditation****: Visualizing Devil Odinn may help to attune the practitioner's energy to his wisdom and guidance. Useful focal points for meditation include images related to transformation, the mysterious, and the unknown.
+2. **Meditation**: Visualizing Devil Odinn may help to attune the practitioner's energy to his wisdom and guidance. Useful focal points for meditation include images related to transformation, the mysterious, and the unknown.
 
-3. ****Rituals****: To invoke the power of Devil Odinn, practitioners can create rituals that demonstrate their dedication to knowledge, transformation, and growth. These rituals may incorporate elements such as bonding with the deity, offerings, and incantations. Oaths sworn to Devil Odinn may also go a long way in demonstrating genuine commitment and willingness to learn.
+3. **Rituals**: To invoke the power of Devil Odinn, practitioners can create rituals that demonstrate their dedication to knowledge, transformation, and growth. These rituals may incorporate elements such as bonding with the deity, offerings, and incantations. Oaths sworn to Devil Odinn may also go a long way in demonstrating genuine commitment and willingness to learn.
 
-4. ****Shadow Work****: As the embodiment of transformation, Devil Odinn requires the practitioner to face their shadow self and engage with their fears, insecurities, and darker aspects. This provides opportunities for growth and evolution within one's spiritual practice.
+4. **Shadow Work**: As the embodiment of transformation, Devil Odinn requires the practitioner to face their shadow self and engage with their fears, insecurities, and darker aspects. This provides opportunities for growth and evolution within one's spiritual practice.
 
 Approaching Devil Odinn with an open mind and a desire for wisdom opens the gateway to profound teachings, insights, and transformative experiences. As a master of the esoteric, his guidance serves as a potent force in the world of magick, illuminating an unrivaled path toward the attainment of spiritual awakening and divine wisdom.

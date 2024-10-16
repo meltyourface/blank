@@ -26,14 +26,14 @@ During the Old Kingdom, also known as the Age of Pyramids, architectural styles 
 
 Temple layouts in the Old Kingdom were relatively simple, primarily consisting of rectangular structures with flat roofs and massive stone columns. The necropolis of Saqqara, the burial site for many nobles and high-ranking officials, contains examples of early mastaba tombs with simplistic designs.
 
-Notable case study: Step Pyramid of Djoser, designed by architect Imhotep, marks a transition to more complex tomb structures. Composed of six mastabas stacked on top of each other, it showcased the potential for vertical expansion in Egyptian architecture.
+**Notable case study**: Step Pyramid of Djoser, designed by architect Imhotep, marks a transition to more complex tomb structures. Composed of six mastabas stacked on top of each other, it showcased the potential for vertical expansion in Egyptian architecture.
 
 Middle Kingdom (c. 2055-1650 BCE):
 During the Middle Kingdom, architectural styles shifted as a result of political reforms and the reestablishment of central authority. Temples evolved, with increased complexity in their layouts and more attention to artistic detail. Hypostyle halls, with closely spaced columns supporting a roof, became a more prominent feature in temples.
 
 One significant change was the evolution of tomb structures to rock-cut tombs, often carved into cliffs. This facilitated more elaborate interior decorations, with detailed scenes from the Book of the Dead adorning the walls.
 
-Notable case study: The temple of Karnak, developed over the Middle and New Kingdom periods, exhibits the intricate architectural design and pharaonic inscriptions characteristic of this era. It features an expansive hypostyle hall, containing 134 colossal columns, and multiple shrines dedicated to various deities.
+**Notable case study**: The temple of Karnak, developed over the Middle and New Kingdom periods, exhibits the intricate architectural design and pharaonic inscriptions characteristic of this era. It features an expansive hypostyle hall, containing 134 colossal columns, and multiple shrines dedicated to various deities.
 
 New Kingdom (c. 1550-1070 BCE):
 The New Kingdom period marked a zenith in architectural achievements, featuring elaborately decorated temples, monumental constructions, and funerary complexes. Pharaohs such as Amenhotep III and Ramses II commissioned grand temples to immortalize their reigns and emphasize their divine connections.
@@ -42,6 +42,6 @@ Temple layouts from the New Kingdom were distinguished by the incorporation of p
 
 Tomb structures, particularly those in the Valley of the Kings, were more complex, requiring intricate security measures to protect against tomb robbers. The tomb of Tutankhamun, discovered largely intact in 1922, exemplifies these burial complexes' detailed craftsmanship and the opulence of New Kingdom pharaohs.
 
-Notable case study: The temple of Abu Simbel, built by Ramses II, showcases the grandeur of New Kingdom monumental constructions. Two temples, one dedicated to Ramses himself and the other to his queen Nefertari, are carved directly into a sandstone cliff. Reliefs and colossal statues of Ramses II and Nefertari adorn their facades, highlighting the cultural emphasis on divine kingship and political prowess.
+**Notable case study**: The temple of Abu Simbel, built by Ramses II, showcases the grandeur of New Kingdom monumental constructions. Two temples, one dedicated to Ramses himself and the other to his queen Nefertari, are carved directly into a sandstone cliff. Reliefs and colossal statues of Ramses II and Nefertari adorn their facades, highlighting the cultural emphasis on divine kingship and political prowess.
 
 In conclusion, the architectural styles of Ancient Egypt evolved throughout the Old, Middle, and New Kingdom periods. Temple layouts transitioned from simple structures to elaborate complexes, tombs shifted from mastabas to rock-cut burials, and monumental constructions grew in scale and intricacy. These transitions were shaped by factors such as the role of Pharaohs, involvement of influential architects, and the religious context that permeated Ancient Egyptian society.

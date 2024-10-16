@@ -36,11 +36,11 @@ Misinterpretations and Criticisms:
 
 Necromageia faces several common misinterpretations and criticisms:
 
-1. ****It is associated with malign intent****: Many presume that Necromageia is inherently evil, as it involves interacting with the dead. However, the practice itself is neutral—intentions and actions of individual practitioners predominantly establish its moral character. Necromageia can be employed for benevolent or malicious purposes depending on the person wielding it.
+1. **It is associated with malign intent**: Many presume that Necromageia is inherently evil, as it involves interacting with the dead. However, the practice itself is neutral—intentions and actions of individual practitioners predominantly establish its moral character. Necromageia can be employed for benevolent or malicious purposes depending on the person wielding it.
 
-2. ****It desecrates the dead****: Critics argue that Necromageia violates the sanctity of the deceased by manipulating their spirits for personal gain. While some practitioners indulge in questionable practices, the majority respect the dead and seek their insights or assistance by asking for permission or creating agreements based on mutual understanding.
+2. **It desecrates the dead**: Critics argue that Necromageia violates the sanctity of the deceased by manipulating their spirits for personal gain. While some practitioners indulge in questionable practices, the majority respect the dead and seek their insights or assistance by asking for permission or creating agreements based on mutual understanding.
 
-3. ****Confusion with other forms of magic****: Due to its ancient roots and diverse elements, Necromageia is often confused with or attributed to other magical practices, such as witchcraft, voodoo, or Satanism. This association generates fear and perpetuates harmful stereotypes.
+3. **Confusion with other forms of magic**: Due to its ancient roots and diverse elements, Necromageia is often confused with or attributed to other magical practices, such as witchcraft, voodoo, or Satanism. This association generates fear and perpetuates harmful stereotypes.
 
 Ethical Concerns:
 

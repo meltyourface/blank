@@ -41,13 +41,13 @@ Key Occult Traditions Chronology:
 
 For the interactive presentation, I propose a multi-layered approach that enables the audience to engage with the content in a manner that suits their level of interest and knowledge. I designed the presentation using cutting-edge technology, allowing for personal exploration through touch-screens and immersive virtual reality experiences.
 
-Primary Layer: The Essential Overview
+**Primary Layer**: The Essential Overview
 This layer presents a brief overview of the key aspects of each tradition, ensuring that all audience members have a foundational understanding of the subject matter.
 
-Secondary Layer: Delving Deeper
+**Secondary Layer**: Delving Deeper
 This layer provides more in-depth information, allowing visitors to explore texts, rituals, and practices. There will also be interviews and lectures from experts in the field, video clips, and translations of ancient documents.
 
-Tertiary Layer: The Profound Connections
+**Tertiary Layer**: The Profound Connections
 For those interested in the subtle nuances and interplay between traditions, this layer offers a rich examination of the connections and distinctions between the occult pathways. Visitors can delve into the complex relationships between figures, teachings, and the overarching historical and cultural context.
 
 Interactive Experiences:

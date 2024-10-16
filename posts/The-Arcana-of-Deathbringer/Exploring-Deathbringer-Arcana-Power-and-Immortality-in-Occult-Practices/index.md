@@ -33,11 +33,11 @@ The Arcana of Deathbringer is a highly revered and powerful system of esoteric k
 
 The Arcana of Deathbringer is founded upon three fundamental principles, which serve as the pillars that support this mystical edifice:
 
-1. ****The Laws of Mortality****: The first and foremost concept posits that life and death are intertwined and inexorably linked. By understanding the dynamics between these dual forces, practitioners unlock the ability to perceive the imperceptible, gaining a deeper awareness of the cycles of existence and their own place within them.
+1. **The Laws of Mortality**: The first and foremost concept posits that life and death are intertwined and inexorably linked. By understanding the dynamics between these dual forces, practitioners unlock the ability to perceive the imperceptible, gaining a deeper awareness of the cycles of existence and their own place within them.
 
-2. ****The Balance of Powers****: The Arcana of Deathbringer emphasizes the importance of maintaining equilibrium between life, death, and the ethereal realms. Balance is key to harnessing and directing the energies that flow through the cosmos, and imbalance often leads to dire consequences for both the practitioner and the world.
+2. **The Balance of Powers**: The Arcana of Deathbringer emphasizes the importance of maintaining equilibrium between life, death, and the ethereal realms. Balance is key to harnessing and directing the energies that flow through the cosmos, and imbalance often leads to dire consequences for both the practitioner and the world.
 
-3. ****The Binding of Souls****: A cornerstone of Deathbringer Arcana is the belief that souls can be bound and their energies channeled. Through rituals and invocations, the occultist gains access to the souls of the deceased, as well as the power contained within them. This enables transformation, infusion of supernatural abilities, and communication with spiritual entities.
+3. **The Binding of Souls**: A cornerstone of Deathbringer Arcana is the belief that souls can be bound and their energies channeled. Through rituals and invocations, the occultist gains access to the souls of the deceased, as well as the power contained within them. This enables transformation, infusion of supernatural abilities, and communication with spiritual entities.
 
 ### II. **History and Evolution**:
 
@@ -49,11 +49,11 @@ Over the centuries, the arcana evolved and adapted, weaving itself into the fabr
 
 The Arcana of Deathbringer, when wielded with skill and precision, can endow the practitioner with a myriad of abilities. **Some of these remarkable applications include**:
 
-1. ****Necromancy****: By mastering the binding of souls, the occultist can reanimate the deceased, creating beings wholly devoted to their will. This practice, though powerful, is not without its risks, and intense care must be taken to ensure that balance is maintained.
+1. **Necromancy**: By mastering the binding of souls, the occultist can reanimate the deceased, creating beings wholly devoted to their will. This practice, though powerful, is not without its risks, and intense care must be taken to ensure that balance is maintained.
 
-2. ****Spirit Communication****: Through enhanced perception of the ethereal realms, practitioners can establish contact with entities from beyond the veil, gaining knowledge unattainable by the ordinary. This communion with the otherworldly can lead to prophetic visions, or even guidance from once-human masters of the arcana.
+2. **Spirit Communication**: Through enhanced perception of the ethereal realms, practitioners can establish contact with entities from beyond the veil, gaining knowledge unattainable by the ordinary. This communion with the otherworldly can lead to prophetic visions, or even guidance from once-human masters of the arcana.
 
-3. ****Immortality****: The ultimate goal for many practitioners of the Arcana of Deathbringer is to transcend the limitations of mortality, breaking the cycle of life and death. By drawing upon the essence of countless bound spirits, it is said that one can achieve a state of everlasting existence, unfettered by the confines of time.
+3. **Immortality**: The ultimate goal for many practitioners of the Arcana of Deathbringer is to transcend the limitations of mortality, breaking the cycle of life and death. By drawing upon the essence of countless bound spirits, it is said that one can achieve a state of everlasting existence, unfettered by the confines of time.
 
 **Conclusion**:
 

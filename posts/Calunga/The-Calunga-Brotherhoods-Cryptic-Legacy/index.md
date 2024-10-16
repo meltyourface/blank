@@ -34,7 +34,7 @@ The cipher, known as "O Labirinto das Estrelas (The Labyrinth of Stars)," consis
 
 1. **The First Layer**: An Alchemical Riddle
 
-The first encryption layer requires the protagonist to solve an alchemical riddle hidden within the imagery of the hermetic symbols: the serpent, the moon, and the crucible. Essential Calunga phrases are concealed within the riddle, defining the map to navigate through the text. The answer to the riddle is the philosopher's stone, which unites the elements within the cipher.
+**The first encryption layer requires the protagonist to solve an alchemical riddle hidden within the imagery of the hermetic symbols**: the serpent, the moon, and the crucible. Essential Calunga phrases are concealed within the riddle, defining the map to navigate through the text. The answer to the riddle is the philosopher's stone, which unites the elements within the cipher.
 
 2. **The Second Layer**: Mysterious Calunga Terminology
 

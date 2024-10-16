@@ -27,7 +27,7 @@ excerpt: Compose an intricate ritual framework, focusing on the distinctive esot
 Preliminary Preparations:
 
 1. Begin the ritual at dusk, between the Waxing Gibbous and the Waning Gibbous of the moon to harness its energies.
-2. ****Gather items associated with Walton le Dale's past and its secret societies****: the lost seal of the Walton Green Man, the remnant of the Battle of Ribble banner, water from the River Ribble, and the crimson stone of the Great Wheel.
+2. **Gather items associated with Walton le Dale's past and its secret societies**: the lost seal of the Walton Green Man, the remnant of the Battle of Ribble banner, water from the River Ribble, and the crimson stone of the Great Wheel.
 3. Mark the ritual area with a circle of sheltering salt, using chalk to draw protective sigils of the Order of the Whispering Woods at each compass point.
 4. Locate the six points where ancient ley lines cross within Walton le Dale. These will function as anchor points for the ritual's energy flow.
 

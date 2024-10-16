@@ -25,7 +25,7 @@ The concept of artificial life creation has been a recurrent theme in the fields
 
 In alchemy, the Magnum Opus refers to the process of transforming base metals into gold, and ultimately, discovering the Philosophers' Stone, a substance capable of bestowing eternal life and regenerating matter. Central to this idea is the concept of manipulation and mastery of the elements and their corresponding properties in order to manifest a higher form of existence, both in a material and spiritual sense.
 
-The alchemical process typically involves four primary stages: nigredo (blackening, decomposition, or calcination), albedo (whitening, purification), citrinitas (yellowing, or transmutation), and rubedo (redness or perfection). These stages symbolize a series of operations purifying or transmuting matter and ultimately bringing it to a state of perfection.
+**The alchemical process typically involves four primary stages**: nigredo (blackening, decomposition, or calcination), albedo (whitening, purification), citrinitas (yellowing, or transmutation), and rubedo (redness or perfection). These stages symbolize a series of operations purifying or transmuting matter and ultimately bringing it to a state of perfection.
 
 2. The Golem of Jewish Mysticism
 

@@ -27,19 +27,19 @@ In this context, the alternative community refers to a subculture of people who 
 
 Hermetic philosophy is an ancient wisdom tradition based on the writings attributed to Hermes Trismegistus, an alleged Hellenistic-Egyptian philosopher, and sage. **These ideas are preserved in the Hermetic Corpus, a collection of texts that delve into the inner workings of the universe, spirituality, and the nature of reality. Some key concepts of this philosophy include**:
 
-1. ****The Principle of Mentalism****: "The All is mind; The Universe is Mental." This implies that the universe and everything in it is a manifestation of the divine mind.
+1. **The Principle of Mentalism**: "The All is mind; The Universe is Mental." This implies that the universe and everything in it is a manifestation of the divine mind.
 
-2. ****The Principle of Correspondence****: "As above, so below; as below, so above." This principle emphasizes the interconnectedness of all things in the universe, meaning that the macrocosm (the larger universe) is reflected in the microcosm (the individual) and vice versa.
+2. **The Principle of Correspondence**: "As above, so below; as below, so above." This principle emphasizes the interconnectedness of all things in the universe, meaning that the macrocosm (the larger universe) is reflected in the microcosm (the individual) and vice versa.
 
-3. ****The Principle of Vibration****: "Nothing rests; everything moves; everything vibrates." This expresses the idea that the entire universe is in constant motion, and every particle is vibrating at a specific frequency.
+3. **The Principle of Vibration**: "Nothing rests; everything moves; everything vibrates." This expresses the idea that the entire universe is in constant motion, and every particle is vibrating at a specific frequency.
 
-4. ****The Principle of Polarity****: "Everything is dual; everything has poles; everything has its opposite." This highlights the existence of duality and opposite forces within everything in the universe.
+4. **The Principle of Polarity**: "Everything is dual; everything has poles; everything has its opposite." This highlights the existence of duality and opposite forces within everything in the universe.
 
-5. ****The Principle of Rhythm****: "Everything flows, out and in; everything has its tides; all things rise and fall." This concept deals with the natural cycles and patterns of change that govern the universe.
+5. **The Principle of Rhythm**: "Everything flows, out and in; everything has its tides; all things rise and fall." This concept deals with the natural cycles and patterns of change that govern the universe.
 
-6. ****The Principle of Cause and Effect****: "Every cause has its effect; every effect has its cause; everything happens according to law." This suggests that nothing occurs randomly or by chance, but rather as a consequence of specific causes, following universal laws.
+6. **The Principle of Cause and Effect**: "Every cause has its effect; every effect has its cause; everything happens according to law." This suggests that nothing occurs randomly or by chance, but rather as a consequence of specific causes, following universal laws.
 
-7. ****The Principle of Gender****: "Gender is in everything; everything has its masculine and feminine principles." This principle recognizes the existence of masculine (active) and feminine (receptive) qualities within everything in the universe.
+7. **The Principle of Gender**: "Gender is in everything; everything has its masculine and feminine principles." This principle recognizes the existence of masculine (active) and feminine (receptive) qualities within everything in the universe.
 
 Now, to address the intersection of alternative community principles and Hermetic philosophy, we can focus on several key aspects:
 

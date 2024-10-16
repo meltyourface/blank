@@ -26,7 +26,7 @@ As you breathe, visualize yourself in ancient Greece, standing before a majestic
 
 Feel yourself connected to the energy of this sacred space as you take your first steps into the temple. As you walk down its hallowed halls, your feet touch the cool, ancient marble, worn smooth by millennia of devout pilgrims. The air is rich with the scent of incense and the flickering light of votive candles beckon you further inwards.
 
-You arrive at the sanctuary, where the oracle of Apollo awaits. ****Here, we will invoke the divine presence of Apollo, the patron of prophecy and spiritual enlightenment. Speak softly these words****: "Oh, Apollo, god of light and wisdom, illuminate my path and reveal to me the hidden knowledge that resides within. Let the secrets of the ages manifest before me, that I might understand the complex tapestry of existence."
+You arrive at the sanctuary, where the oracle of Apollo awaits. **Here, we will invoke the divine presence of Apollo, the patron of prophecy and spiritual enlightenment. Speak softly these words**: "Oh, Apollo, god of light and wisdom, illuminate my path and reveal to me the hidden knowledge that resides within. Let the secrets of the ages manifest before me, that I might understand the complex tapestry of existence."
 
 As your words echo through the ancient temple, a mystic energy envelops you, and the temple seems to come alive with ancient rituals long forgotten. Your mind is flooded with cryptic messages, celestial symbols, and the muted whispers of the divine.
 

@@ -38,20 +38,20 @@ excerpt: >
 ---
 To craft an intricate arcane ritual to amplify and refine one's telepathic prowess, follow these meticulously detailed steps:
 
-1. ****Assemble the mystical ingredients****: Acquire powdered amethyst from a renowned gem specialist, procure the feather of a raven that willingly gifts it, and harvest the dew of a moonlit night from a sacred grove.
+1. **Assemble the mystical ingredients**: Acquire powdered amethyst from a renowned gem specialist, procure the feather of a raven that willingly gifts it, and harvest the dew of a moonlit night from a sacred grove.
 
-2. ****Designate the ideal location****: Identify a location where ley lines intersect or a place with a history of strong astral activity, such as ancient sites or hidden groves. Bless and consecrate the space with sacred smoke and purifying salt.
+2. **Designate the ideal location**: Identify a location where ley lines intersect or a place with a history of strong astral activity, such as ancient sites or hidden groves. Bless and consecrate the space with sacred smoke and purifying salt.
 
-3. ****Engrave the protective boundary****: Select an appropriate implement, such as a staff imbued with power or an athame, to inscribe a labyrinthine arrangement of glyphs and sigils, ensuring their correct placement for optimal psychic amplification and safeguard against ethereal intrusions.
+3. **Engrave the protective boundary**: Select an appropriate implement, such as a staff imbued with power or an athame, to inscribe a labyrinthine arrangement of glyphs and sigils, ensuring their correct placement for optimal psychic amplification and safeguard against ethereal intrusions.
 
-4. ****Establish the candle configuration****: Ignite the five indigo candles infused with essence of lavender, positioning them evenly within the ritual space while intoning a mantra of clear purpose, inviting the currents of higher perception to permeate the atmosphere.
+4. **Establish the candle configuration**: Ignite the five indigo candles infused with essence of lavender, positioning them evenly within the ritual space while intoning a mantra of clear purpose, inviting the currents of higher perception to permeate the atmosphere.
 
-5. ****Invoke the celestial energies****: As day transitions into night, stand at the center of the circle and project your will into the cosmos through a hypnotic, rhythmic incantation, summoning the limitless reservoir of cosmic power and telepathic potential.
+5. **Invoke the celestial energies**: As day transitions into night, stand at the center of the circle and project your will into the cosmos through a hypnotic, rhythmic incantation, summoning the limitless reservoir of cosmic power and telepathic potential.
 
-6. ****Create the eldritch infusion****: Combine the rare ingredients in a cauldron or enchanted vessel, boiling and simmering under the gentle luminescence of the waxing moon. Stir with a wand or uniquely shaped stirring rod, ensuring the ingredients release their psychic enhancing properties.
+6. **Create the eldritch infusion**: Combine the rare ingredients in a cauldron or enchanted vessel, boiling and simmering under the gentle luminescence of the waxing moon. Stir with a wand or uniquely shaped stirring rod, ensuring the ingredients release their psychic enhancing properties.
 
-7. ****Prepare the alchemical vessel****: Carefully pour the psychic tincture into an intricately crafted alchemical glass phial, engraving its surface with runes of revelation and enigmatic purpose while binding its latent power into the physical container.
+7. **Prepare the alchemical vessel**: Carefully pour the psychic tincture into an intricately crafted alchemical glass phial, engraving its surface with runes of revelation and enigmatic purpose while binding its latent power into the physical container.
 
-8. ****Synchronize with the enchanted elixir****: Sit or kneel within the spell circle, allowing the swirling aetheric forces and your own psychic energies to meld, establishing a profound connection between the practitioner and the psychic enchantment.
+8. **Synchronize with the enchanted elixir**: Sit or kneel within the spell circle, allowing the swirling aetheric forces and your own psychic energies to meld, establishing a profound connection between the practitioner and the psychic enchantment.
 
-9. ****Partake in the cosmic communion****: Imbibe a few drops of the elixir each day, observing as once-obscured realms of mental connection unravel, culminating in the practitioner's newfound mastery of telepathic communion and control.
+9. **Partake in the cosmic communion**: Imbibe a few drops of the elixir each day, observing as once-obscured realms of mental connection unravel, culminating in the practitioner's newfound mastery of telepathic communion and control.

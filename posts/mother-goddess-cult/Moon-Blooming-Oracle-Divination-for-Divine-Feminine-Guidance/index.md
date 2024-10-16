@@ -26,7 +26,7 @@ excerpt: >
 **Introduction**:
 The Moon-Blooming Oracle is a powerful, intricate divination process dedicated to the reverence of the Mother Goddess. Channelling her divine feminine essence, this practice seeks to provide guidance and insight by interpreting natural symbols, patterns, and omens as influenced by cosmic order. Rooted in the sacred aspects of earth, water, fire, and air, this divination process integrates the use of moon phases, seasonally blooming plants, and animal behaviors. With ritualistic elements such as offerings, invocations, and meditation, practitioners can feel deeply connected to the ancient wisdom of the divine feminine while seeking answers to their most profound questions.
 **Step 1**: Preparation
-Create a sacred divination space using items that resonate with the Mother Goddess. ****Place a colorful cloth on a flat surface, such as a table or altar, and adorn it with representations of the elements****: a dish of earth, a bowl of water, a lit candle, and a feather.
+Create a sacred divination space using items that resonate with the Mother Goddess. **Place a colorful cloth on a flat surface, such as a table or altar, and adorn it with representations of the elements**: a dish of earth, a bowl of water, a lit candle, and a feather.
 **Step 2**: Offering
 Prepare an offering for the Mother Goddess. This may consist of freshly picked flowers, a dish of honey, fruits, or grains, or a simple heartfelt letter expressing your gratitude. Place the offering in the center of your sacred space.
 **Step 3**: Invocation

@@ -28,7 +28,7 @@ Magic Square Configuration:
 3  5  7
 8  1  6
 
-Mudra Description: Begin with your left hand in a fist and your right hand open, palm facing up. Place your left thumb between your right ring and middle fingers. Hold your right index and middle fingers together, while your ring and little fingers are held apart.
+**Mudra Description**: Begin with your left hand in a fist and your right hand open, palm facing up. Place your left thumb between your right ring and middle fingers. Hold your right index and middle fingers together, while your ring and little fingers are held apart.
 
 **Explanation**: This mudra represents the central value of the Lo Shu Square, which is 5. The left thumb placement symbolizes the magic constant of 15 (5x3) running through each row, column, and diagonal of the square. Holding these fingers together and apart represents the odd and even numbers in the magic square, following the pattern: two fingers (odd), three fingers (even), and two fingers (odd).
 
@@ -40,7 +40,7 @@ Magic Square Configuration:
 9  6  7  12
 4  15  14  1
 
-Mudra Description: With both hands, make fists with your thumbs extending outwards, resting on your index fingers. Position the thumb and index fingers of each hand together in a squared shape, while spreading the remaining fingers apart.
+**Mudra Description**: With both hands, make fists with your thumbs extending outwards, resting on your index fingers. Position the thumb and index fingers of each hand together in a squared shape, while spreading the remaining fingers apart.
 
 **Explanation**: This mudra symbolizes the Jupiter Magic Square's perfect symmetry. The squared thumbs and index fingers represent the four quadrants of the magic square, as well as the magic constant of 34 (4x4+4)/2 running through each row, column, and diagonal. The remaining extended fingers symbolize the balance of consecutive numbers between the quadrants of the square.
 
@@ -53,7 +53,7 @@ Magic Square Configuration:
 10  12  19  21  3
 11  18  25  2  9
 
-Mudra Description: Extend your left hand, palm facing upwards, forming a flat surface. Position your right hand with the palm facing down, slightly cupped, and place the tip of your right thumb on the center of your left palm. Spread your right fingers apart so that they form a star shape.
+**Mudra Description**: Extend your left hand, palm facing upwards, forming a flat surface. Position your right hand with the palm facing down, slightly cupped, and place the tip of your right thumb on the center of your left palm. Spread your right fingers apart so that they form a star shape.
 
 **Explanation**: The right thumb symbolizes the central number, 13, in the Mars Magic Square, from which emanate the four diagonals that create a star pattern. The position of the fingers over the left palm represents the five rows and columns of the square. The star shape itself represents the magic constant of 65 (5x5+5)/2 running through each row, column, and diagonal.
 
@@ -62,7 +62,7 @@ Mudra Description: Extend your left hand, palm facing upwards, forming a flat su
 Magic Square Configuration:
 Refer to this link for the configuration: https://mathworld.wolfram.com/MercuryMagicSquare.html
 
-Mudra Description: Position both hands palms facing each other, fingers spread apart, and connect the thumbs, index fingers, and pinky fingers tip-to-tip, forming the resemblance of an octagon with the central space hollow.
+**Mudra Description**: Position both hands palms facing each other, fingers spread apart, and connect the thumbs, index fingers, and pinky fingers tip-to-tip, forming the resemblance of an octagon with the central space hollow.
 
 **Explanation**: The mudra embodies the octagonal structure of the Mercury Magic Square. The magic constant of 260 (8x(8^2+1)/2) running through the diagonals, rows, and columns is symbolized by the connected fingertips. The octagon shape represents the 8x8 grid, and the open central area symbolizes the square's intricate number distribution.
 

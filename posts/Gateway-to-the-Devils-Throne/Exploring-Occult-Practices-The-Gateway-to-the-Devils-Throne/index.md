@@ -32,17 +32,17 @@ The concept of the Gateway to the Devil's Throne dates back to the dawn of esote
 
 Important Rituals
 
-The Conjuring Chamber: A dedicated space, purified and sanctified through the use of sacred incense, potent herbs, and elaborate sigils, is necessary for opening the Gateway. This chamber must possess a complete absence of natural light to paint the canvas of the ether, upon which the practitioner may weave the intricate tapestry of invocations, rituals, and gestures.
+**The Conjuring Chamber**: A dedicated space, purified and sanctified through the use of sacred incense, potent herbs, and elaborate sigils, is necessary for opening the Gateway. This chamber must possess a complete absence of natural light to paint the canvas of the ether, upon which the practitioner may weave the intricate tapestry of invocations, rituals, and gestures.
 
-The Infernal Benediction: Before engaging with the dark forces that reside beyond the Gateway, the sorcerer must invoke affirmation and protection from these powerful energies. By reciting the Infernal Benediction, the practitioner binds themselves to a covenant with the Devil's Throne, establishing a connection to infernal forces while maintaining a semblance of agency over their will and physical form.
+**The Infernal Benediction**: Before engaging with the dark forces that reside beyond the Gateway, the sorcerer must invoke affirmation and protection from these powerful energies. By reciting the Infernal Benediction, the practitioner binds themselves to a covenant with the Devil's Throne, establishing a connection to infernal forces while maintaining a semblance of agency over their will and physical form.
 
-The Blood Key: As is true with many occult practices, the life force contained within blood holds immense power. The Blood Key ritual requires the practitioner to offer a sacrificial offering, either from themselves or another living creature, in order to symbolically unlock the Gateway, creating an ethereal bridge across the chasm between worlds.
+**The Blood Key**: As is true with many occult practices, the life force contained within blood holds immense power. The Blood Key ritual requires the practitioner to offer a sacrificial offering, either from themselves or another living creature, in order to symbolically unlock the Gateway, creating an ethereal bridge across the chasm between worlds.
 
 Symbols and Key Figures
 
 **Baphomet**: A vital symbol in the realm of the occult, Baphomet represents the androgynous embodiment of balance, both in the material and metaphysical realms. Often depicted as a goat-headed being, Baphomet serves as a potent conduit for the energies sought by those venturing towards the Devil's Throne.
 
-The Horned King: A recurring figure in the annals of occult history, the Horned King embodies the essence of the Devil's power. Seen as the lord and protector of the infernal domains, the Horned King is a necessary figure to invoke when traversing the Gateway.
+**The Horned King**: A recurring figure in the annals of occult history, the Horned King embodies the essence of the Devil's power. Seen as the lord and protector of the infernal domains, the Horned King is a necessary figure to invoke when traversing the Gateway.
 
 Warnings and Consequences
 

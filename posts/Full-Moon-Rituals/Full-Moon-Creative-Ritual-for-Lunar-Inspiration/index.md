@@ -25,7 +25,7 @@ excerpt: >
 
 **Objective**: To capture the full moon's energy and channel it into creative endeavors, specifically focusing on artistic projects, writing, and other forms of self-expression.
 
-Key Themes: Creativity, inspiration, self-expression, lunar energy
+**Key Themes**: Creativity, inspiration, self-expression, lunar energy
 
 Tools and Ingredients:
 1. A sacred space, preferably outdoors, where the full moon is visible

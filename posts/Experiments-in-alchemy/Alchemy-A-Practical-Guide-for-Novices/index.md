@@ -30,39 +30,39 @@ Alchemy, an ancient and mystical science, has captivated the minds of countless 
 
 At the core of alchemy are three essential processes - the Nigredo, Albedo, and Rubedo - which together guide the alchemist on their transformative journey.
 
-1. ****Nigredo****: The initial phase known as the "blackening" signifies the decomposition or putrefaction of matter. Here, dissolution and separation of the initial material take place.
+1. **Nigredo**: The initial phase known as the "blackening" signifies the decomposition or putrefaction of matter. Here, dissolution and separation of the initial material take place.
 
-2. ****Albedo****: The second stage, referred to as the "whitening," involves the purification and consolidation of matter. This phase emphasizes the extraction of the purest components.
+2. **Albedo**: The second stage, referred to as the "whitening," involves the purification and consolidation of matter. This phase emphasizes the extraction of the purest components.
 
-3. ****Rubedo****: Finally, the "reddening" marks the culmination of alchemical work, in which the purified elements combine, resulting in a transformed final product, whether physical or spiritual.
+3. **Rubedo**: Finally, the "reddening" marks the culmination of alchemical work, in which the purified elements combine, resulting in a transformed final product, whether physical or spiritual.
 
 Key tools utilized in alchemical practice include:
 
-1. ****Athanor****: The alchemist's furnace, designed for steady and controlled heating of the substance under experimentation.
-2. ****Alembic****: A specialized container for distilling substances, separating volatile components from less volatile ones.
-3. ****Crucible****: A high-temperature resistant container in which substances can be melted for experimentation.
-4. ****Mortar and Pestle****: Standard laboratory tools for grinding and mixing solid substances.
+1. **Athanor**: The alchemist's furnace, designed for steady and controlled heating of the substance under experimentation.
+2. **Alembic**: A specialized container for distilling substances, separating volatile components from less volatile ones.
+3. **Crucible**: A high-temperature resistant container in which substances can be melted for experimentation.
+4. **Mortar and Pestle**: Standard laboratory tools for grinding and mixing solid substances.
 
 ### 4.3 Symbolic Meanings
 
 Alchemy, rich with symbolism, employs various allegories in its teachings. **Some common symbols include**:
 
-1. ****The ouroboros****: Depicting a serpent or dragon devouring its tail, the ouroboros represents the cyclic, eternal nature of alchemical transformation.
-2. ****The Hermetic Seal****: Inspired by the legendary Hermes Trismegistus, the symbol merges a crescent, circle, and cross, signifying unity and synthesis of opposing forces.
-3. ****The Philosopher's Stone****: As the ultimate alchemical goal, the Philosopher's Stone is depicted as a potent substance capable of transmuting base metals into gold, as well as being a vital component in the Elixir of Life.
+1. **The ouroboros**: Depicting a serpent or dragon devouring its tail, the ouroboros represents the cyclic, eternal nature of alchemical transformation.
+2. **The Hermetic Seal**: Inspired by the legendary Hermes Trismegistus, the symbol merges a crescent, circle, and cross, signifying unity and synthesis of opposing forces.
+3. **The Philosopher's Stone**: As the ultimate alchemical goal, the Philosopher's Stone is depicted as a potent substance capable of transmuting base metals into gold, as well as being a vital component in the Elixir of Life.
 
 ### 4.4 Historical Figures and Milestones
 
 Throughout history, several key figures and milestones have shaped and refined alchemical practice. **Notable figures include**:
 
-1. ****Jabir ibn Hayyan (Geber)****: An 8th-century Persian alchemist, his work on distillation and metallurgy laid the foundation for future alchemical experimentation.
-2. ****Paracelsus****: The 16th-century Swiss alchemist contributed significantly to the medical field through his incorporation of alchemical ideas into medicine.
-3. ****Isaac Newton****: The renowned physicist and mathematician was also a practitioner of alchemy, his involvement giving credence to the field.
+1. **Jabir ibn Hayyan (Geber)**: An 8th-century Persian alchemist, his work on distillation and metallurgy laid the foundation for future alchemical experimentation.
+2. **Paracelsus**: The 16th-century Swiss alchemist contributed significantly to the medical field through his incorporation of alchemical ideas into medicine.
+3. **Isaac Newton**: The renowned physicist and mathematician was also a practitioner of alchemy, his involvement giving credence to the field.
 
 ### 4.5 Practical Experiments for Initiates
 
-1. ****Distillation****: Practice the art of distillation to separate substances into their constituent parts. This experiment allows novices to appreciate the importance of purifying materials involved in alchemical processes.
-2. ****Herbal Tinctures****: Create simple herbal extracts by steeping plant materials in alcohol, enabling beginners to explore the world of botanicals within alchemy.
+1. **Distillation**: Practice the art of distillation to separate substances into their constituent parts. This experiment allows novices to appreciate the importance of purifying materials involved in alchemical processes.
+2. **Herbal Tinctures**: Create simple herbal extracts by steeping plant materials in alcohol, enabling beginners to explore the world of botanicals within alchemy.
 
 ### 4.6 Guidelines for Safe Alchemical Practice
 

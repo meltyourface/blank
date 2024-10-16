@@ -27,7 +27,7 @@ excerpt: >
 
 **Duration**: A two-day seminar, with four sessions each day, each session lasting 1.5 hours.
 
-Target Audience: Scholars, academics, practitioners, and enthusiasts of Afro-Brazilian religion and culture.
+**Target Audience**: Scholars, academics, practitioners, and enthusiasts of Afro-Brazilian religion and culture.
 
 Seminar Outline:
 

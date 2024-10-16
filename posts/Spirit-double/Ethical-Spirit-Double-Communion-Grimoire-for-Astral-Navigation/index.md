@@ -45,13 +45,13 @@ Table of Contents
    c. Dissolution and Reintegration
 
 4. Proper Conduct During Ritualistic Encounters
-   a. ****Preparation****: Purification, Setting Intentions, and Shielding
+   a. **Preparation**: Purification, Setting Intentions, and Shielding
    b. Initiation and Permission
    c. Graciousness, Reciprocity, and Boundaries
 
 5. Illustrative Case Studies
    a. The Enlightened Seer and the Elemental Kingdom
-   b. ****Temptation of the Unwary Conjurer****: A Cautionary Tale
+   b. **Temptation of the Unwary Conjurer**: A Cautionary Tale
    c. The Celestial Council and the Resolution of Karmic Ties
 
 ### Chapter 1: The Foundations of Spirit-Double Communion
@@ -116,7 +116,7 @@ The Enlightened Seer and the Elemental Kingdom
 
 Explore the deeply-rooted alliance between a skilled practitioner and the elemental world, uncovering the secrets of long-lasting spiritual partnerships and their innate synergies.
 
-Temptation of the Unwary Conjurer: A Cautionary Tale
+**Temptation of the Unwary Conjurer**: A Cautionary Tale
 
 A harrowing account of unchecked ambition and the consequences of neglecting one's moral compass. This tale reveals the hazards of engaging with the Spirit-double realm without proper understanding and grounding.
 

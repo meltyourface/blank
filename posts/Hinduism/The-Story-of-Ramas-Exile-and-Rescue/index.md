@@ -28,11 +28,11 @@ Act 1: Rama's Exile and Dharma
 Scene 1: The Royal Palace
 (The play opens with a dialogue between King Dasharatha and Rama. The king struggles to share the news of Rama's imminent exile.)
 
-King Dasharatha: My son, fate has dealt me a heavy hand. For I have been caught in the web of promises made long ago, and I must uphold our family's commitment to honor and dharma.
+**King Dasharatha**: My son, fate has dealt me a heavy hand. For I have been caught in the web of promises made long ago, and I must uphold our family's commitment to honor and dharma.
 
 **Rama**: Father, do not be troubled. Speak your heart, and I shall fulfill my dharma.
 
-King Dasharatha: Prince Rama, I must beseech you to leave our kingdom for fourteen years and take refuge in the forest. This is your mother Kaikeyi's wish, as part of a boon granted to her by me.
+**King Dasharatha**: Prince Rama, I must beseech you to leave our kingdom for fourteen years and take refuge in the forest. This is your mother Kaikeyi's wish, as part of a boon granted to her by me.
 
 **Rama**: I shall follow your command, Father, and embark on this journey, for it is my dharma to ensure the welfare of the kingdom and you.
 
@@ -95,7 +95,7 @@ Sita (tearfully): My lord, if my love for you and my devotion to dharma remain u
 Scene 2: The Return of Rama
 (The play concludes with Rama, Sita, and Lakshmana returning to Ayodhya after fourteen years of exile.)
 
-Citizens of Ayodhya: Our beloved Rama returns! Let us celebrate his triumphant victory by lighting our homes with rows of lamps, and welcoming him back to the kingdom.
+**Citizens of Ayodhya**: Our beloved Rama returns! Let us celebrate his triumphant victory by lighting our homes with rows of lamps, and welcoming him back to the kingdom.
 
 **Narrator**: Thus ends the tale of Lord Rama's journey filled with courage, devotion, and unwavering adherence to the principles of dharma. May his divine example guide us all in the pursuit of righteousness.
 

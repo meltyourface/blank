@@ -43,7 +43,7 @@ For example, an initiation ceremony involves the symbolic death of the student's
 
 ### Section 4: Practices and Techniques for the Student
 
-Students who embark on the path of the Voltigeurs must first acquire a foundation in the theoretical aspects of the tradition: history, symbolism, and related concepts. Essential practices, such as meditation, mindfulness, visualization and energy work, should be honed, allowing the student to sense the subtler dimensions of reality.
+**Students who embark on the path of the Voltigeurs must first acquire a foundation in the theoretical aspects of the tradition**: history, symbolism, and related concepts. Essential practices, such as meditation, mindfulness, visualization and energy work, should be honed, allowing the student to sense the subtler dimensions of reality.
 
 One practical exercise a budding Voltigeur may undertake is the ritual observance of planetary hours. This requires tracking the daily positions of the planets, relating their astrological meaning to different aspects of the practitioner's life. By aligning activities to the energies of the planetary hours, the student brings harmony between their microcosmic experience and the macrocosmic patterns.
 

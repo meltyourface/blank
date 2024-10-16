@@ -22,7 +22,7 @@ excerpt: >
 ---
 Demon: Barbatos, the 8th Demon of the Goetic practice, Duke of the infernal realms
 
-Domain of Influence: Barbatos is known for his abilities to understand animals, reveal hidden treasure, and assist in uncovering the secrets of the universe.
+**Domain of Influence**: Barbatos is known for his abilities to understand animals, reveal hidden treasure, and assist in uncovering the secrets of the universe.
 
 The Barbatos Invocation Ritual:
 

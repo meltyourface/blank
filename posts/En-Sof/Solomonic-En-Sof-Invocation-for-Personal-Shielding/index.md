@@ -47,7 +47,7 @@ excerpt: Construct an intricate Solomonic invocation for personal shielding, inc
 
 1. Stand at the center of the circle, facing east, and take a few moments to center yourself and visualize your connection with the En Sof, or the limitless divine energy of the universe.
 
-2. ****Light the incense, and proceed to invoke the four directional Archangels****: 
+2. **Light the incense, and proceed to invoke the four directional Archangels**: 
   - Raphael in the East
   - Gabriel in the West
   - Michael in the South

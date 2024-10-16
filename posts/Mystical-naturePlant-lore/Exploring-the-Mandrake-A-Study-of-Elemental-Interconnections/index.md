@@ -23,10 +23,10 @@ In the realm of mystical naturePlant lore, establishing the interconnectedness o
 
 To begin, let's briefly define the qualities of each element:
 
-1. ****Earth****: The element of stability, grounding, and physical manifestation (related to growth and fertility)
-2. ****Water****: The element of fluidity, emotion, and intuition (linked with healing and transformative properties)
-3. ****Fire****: The element of energy, passion, and transformation (often tied to purification and protection)
-4. ****Air****: The element of intellect, communication, and inspiration (associated with dissemination of knowledge and wisdom)
+1. **Earth**: The element of stability, grounding, and physical manifestation (related to growth and fertility)
+2. **Water**: The element of fluidity, emotion, and intuition (linked with healing and transformative properties)
+3. **Fire**: The element of energy, passion, and transformation (often tied to purification and protection)
+4. **Air**: The element of intellect, communication, and inspiration (associated with dissemination of knowledge and wisdom)
 
 The Mandrake has been revered for centuries due to its peculiar human-shaped root and striking esoteric properties. According to lore, the plant possesses potent healing, fertility, and visionary qualities, and has been utilized in numerous magical rituals and practices across diverse mystical traditions.
 

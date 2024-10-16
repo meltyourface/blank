@@ -59,41 +59,41 @@ The elaborate cover features intertwining designs of twisting serpents, intricat
 
 ### III. Spells, Incantations, and Enchantments
 
-1. ****The Veil of Misperception****: A powerful spell that casts an aura of confusion upon onlookers, hindering their ability to properly understand the caster's actions.
+1. **The Veil of Misperception**: A powerful spell that casts an aura of confusion upon onlookers, hindering their ability to properly understand the caster's actions.
 
-2. ****Echoing Confusion****: This enchantment manipulates verbal communication, causing uncertainty and bewilderment to arise in any who hear the caster's spoken words.
+2. **Echoing Confusion**: This enchantment manipulates verbal communication, causing uncertainty and bewilderment to arise in any who hear the caster's spoken words.
 
-3. ****Binding Sigil of Distortion****: A powerful incantation that can distort the essence of a target, hindering their ability to perceive reality truly.
+3. **Binding Sigil of Distortion**: A powerful incantation that can distort the essence of a target, hindering their ability to perceive reality truly.
 
 ### IV. Glossary
 
-1. ****Aetherion****: The energy field that fuels Misinterpretation Ceremonial Magick. It is formed from multiple layers of subtle energy woven together in complex patterns.
+1. **Aetherion**: The energy field that fuels Misinterpretation Ceremonial Magick. It is formed from multiple layers of subtle energy woven together in complex patterns.
 
-2. ****Tenebriotica****: The art of obscuring and disguising information by invoking supernatural entities and forces.
+2. **Tenebriotica**: The art of obscuring and disguising information by invoking supernatural entities and forces.
 
 ### V. Bestiary
 
-1. ****Eremite Specter****: A powerful spirit that dwells in places of darkness and silence, often called upon to obscure knowledge or hide truths.
+1. **Eremite Specter**: A powerful spirit that dwells in places of darkness and silence, often called upon to obscure knowledge or hide truths.
 
-2. ****Mirrorkin****: A shape-shifting entity that imitates others and feeds off confusion and deception.
+2. **Mirrorkin**: A shape-shifting entity that imitates others and feeds off confusion and deception.
 
 ### VI. Rituals, Ceremonies, and Rites
 
-1. ****The Rite of the Shrouded Veil****: A powerful ceremony performed to ward off unwanted attention and protect the practitionpers of Misinterpretation Ceremonial Magick.
+1. **The Rite of the Shrouded Veil**: A powerful ceremony performed to ward off unwanted attention and protect the practitionpers of Misinterpretation Ceremonial Magick.
 
-2. ****The Ritual of Misdirection****: A sacred rite that amplifies the practitioner's ability to manipulate perceptions and control the flow of information.
+2. **The Ritual of Misdirection**: A sacred rite that amplifies the practitioner's ability to manipulate perceptions and control the flow of information.
 
 ### VII. Illustrations
 
-1. ****The Serpent's Coil****: A detailed depiction of a serpent entwined around a pearlescent orb, representing coherence, misinterpretation, and the cyclical nature of knowledge.
+1. **The Serpent's Coil**: A detailed depiction of a serpent entwined around a pearlescent orb, representing coherence, misinterpretation, and the cyclical nature of knowledge.
 
-2. ****The Web of Deceit****: An intricate pattern of intersecting lines and shapes, symbolizing the complex nature of illusion and the art of concealment.
+2. **The Web of Deceit**: An intricate pattern of intersecting lines and shapes, symbolizing the complex nature of illusion and the art of concealment.
 
 ### VIII. Talismans, Amulets, and Charms
 
-1. ****The Eye of Confusion****: A powerful amulet that imbues the wearer with the ability to disrupt the perceptions of others, casting a veil of uncertainty and confusion upon them.
+1. **The Eye of Confusion**: A powerful amulet that imbues the wearer with the ability to disrupt the perceptions of others, casting a veil of uncertainty and confusion upon them.
 
-2. ****Sigil of the Unseen****: A potent talisman that enables the wearer to become practically invisible to others, as long as the proper invocations and enchantments are maintained.
+2. **Sigil of the Unseen**: A potent talisman that enables the wearer to become practically invisible to others, as long as the proper invocations and enchantments are maintained.
 
 ### IX. Initiation Ritual
 

@@ -37,7 +37,7 @@ A whispered word, a mystic word,
 Oh, sacred Babalon, through veils concealed,
 Your cosmic dance began to yield.
 
-Canto II: The Sanctified Desire
+**Canto II**: The Sanctified Desire
 
 Each veil she twined, celestial silk,
 Desires sweet, the touch of milk.
@@ -49,7 +49,7 @@ From depths unknown, her essence swelled.
 So in the flames, it stirred, unknown,
 A primal need, yet unshown.
 
-Canto III: The Infernal Rapture
+**Canto III**: The Infernal Rapture
 
 Below the heavens' astral span,
 The Salamander's reign began,
@@ -61,7 +61,7 @@ Through seven veils, she bared her head,
 Each one, a secret of creation,
 A tale of lust, life's veneration.
 
-Canto IV: The Empyrean Convergence
+**Canto IV**: The Empyrean Convergence
 
 One spark from Babalon's ablaze,
 Entwined with Salamander's gaze
@@ -73,7 +73,7 @@ Conjoining natures, souls to raise,
 And deep within this burning heart,
 A singularity, worlds apart.
 
-Canto V: The Sublime Alchemy
+**Canto V**: The Sublime Alchemy
 
 The Salamander's flames did blow,
 The veils away, the depths to show,
@@ -85,7 +85,7 @@ In conjugated breaths, they sighed.
 The mystic unity complete,
 All vanished in the growing heat.
 
-Canto VI: The Transcendent Majesty
+**Canto VI**: The Transcendent Majesty
 
 The elements merged, the fire and grace,
 No longer separate, now face to face.
@@ -97,7 +97,7 @@ More potent still, than words descriptive,
 The prayer of SalamandersBabalon,
 The secret union, eons drawn.
 
-Canto VII: The Revelation
+**Canto VII**: The Revelation
 
 So at the close of this cosmic tale,
 The alchemy's dance beyond the veil,

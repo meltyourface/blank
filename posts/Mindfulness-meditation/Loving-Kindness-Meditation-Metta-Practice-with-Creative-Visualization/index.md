@@ -23,7 +23,7 @@ excerpt: >
 
 ## Title: Cultivating Loving-Kindness: A Mindfulness Meditation Session with Creative Visualization
 
-Session duration: 45 minutes
+**Session duration**: 45 minutes
 
 **Objective**: To nurture loving-kindness (Metta) within oneself and towards others 
 

@@ -25,7 +25,7 @@ In the vast and diverse realm of Science Fiction Fantasy, one finds an array of 
 
 ### I. Underlying Principles of Advanced Magic
 
-Advanced magic in Science Fiction Fantasy draws its potency from three vital sources: The Causal Network, Spatio-Temporal Manipulation, and Energy Transmutation.
+**Advanced magic in Science Fiction Fantasy draws its potency from three vital sources**: The Causal Network, Spatio-Temporal Manipulation, and Energy Transmutation.
 
 1. **The Causal Network**: This principle recognizes that all events and entities across the universe are interconnected through a web of cause and effect. By tapping into this network, adepts can subtly influence events and outcomes in accordance with their desires.
 

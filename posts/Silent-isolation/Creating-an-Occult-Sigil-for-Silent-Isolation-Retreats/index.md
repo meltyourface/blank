@@ -26,9 +26,9 @@ To craft an intricate sigil rooted in the art of Silent isolation, the following
 
 2. **To represent the concepts of solitude and transcendental reflection, incorporate the following symbols and elements**:
 
-   a. ****Solitude****: A stylized version of the Hermit tarot card, which features a lone figure enveloped in a cloak and holding a lantern. 
+   a. **Solitude**: A stylized version of the Hermit tarot card, which features a lone figure enveloped in a cloak and holding a lantern. 
   
-   b. ****Transcendental reflection****: The ouroboros — a serpent or dragon swallowing its own tail — to signify the cyclic process of introspection and spiritual self-discovery.
+   b. **Transcendental reflection**: The ouroboros — a serpent or dragon swallowing its own tail — to signify the cyclic process of introspection and spiritual self-discovery.
 
 3. **To better shield from external influences**:
 

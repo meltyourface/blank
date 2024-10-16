@@ -48,7 +48,7 @@ Understanding the importance of The Cup within esoteric and occult practices req
 
 3. Representing Deities and Spirits: In various cultural and religious contexts, The Cup often serves as a vessel to represent or honor deities and spirits whose attributes align with its symbolism, particularly those connected to water, fertility, intuition, and the feminine divine.
 
-Usage in Practices: Tips for Initiates
+**Usage in Practices**: Tips for Initiates
 
 To incorporate The Cup into your esoteric and occult practices, consider these suggestions:
 

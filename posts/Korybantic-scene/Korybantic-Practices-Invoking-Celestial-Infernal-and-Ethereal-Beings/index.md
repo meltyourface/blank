@@ -81,7 +81,7 @@ The Korybantic Nexus is a comprehensive manual, exploring the intricate steps in
 
 **Conclusion**: Embarking on Your Korybantic Journey
 
-Appendix A: Glossary of Terms and Entities
+**Appendix A**: Glossary of Terms and Entities
 Appendix B: Recommended Further Reading and Resources
 Appendix C: The Korybantic Code of Ethics
 

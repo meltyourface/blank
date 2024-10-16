@@ -34,7 +34,7 @@ Runic systems evolved over time, with the Elder Futhark (the oldest runic alphab
 
 ### Chapter 3: Types of Runes and Their Meanings
 
-The diverse runic alphabets share a common underlying theme: they encode esoteric wisdom, powerful symbolism, and the forces of nature in their distinct characters. Each rune encompasses a specific energy, meaning, or concept, reflecting the philosophical and cosmological beliefs of the Germanic peoples. To harness the power of runic magic, practitioners must develop a deep understanding of the essence of each rune, as well as the interconnections between them.
+**The diverse runic alphabets share a common underlying theme**: they encode esoteric wisdom, powerful symbolism, and the forces of nature in their distinct characters. Each rune encompasses a specific energy, meaning, or concept, reflecting the philosophical and cosmological beliefs of the Germanic peoples. To harness the power of runic magic, practitioners must develop a deep understanding of the essence of each rune, as well as the interconnections between them.
 
 For instance, some prominent runes from the Elder Futhark include:
 1. Ansuz - Representing the divine force of communication and inspiration, Ansuz links the practitioner to the realm of the gods.

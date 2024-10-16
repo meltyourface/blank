@@ -29,7 +29,7 @@ The origins of Alu can be traced back to the agricultural societies of Mesopotam
 
 Fundamental Principles:
 
-At the heart of Alu are three guiding principles: synchronicity, balance, and reciprocity.
+**At the heart of Alu are three guiding principles**: synchronicity, balance, and reciprocity.
 
 1. Synchronicity: It emphasizes the importance of aligning oneself with the intrinsic rhythms and cycles of nature and the cosmos. By achieving this synchronization, practitioners aspire to benefit from auspicious moments and events, while mitigating negative consequences that might arise from misaligned actions.
 

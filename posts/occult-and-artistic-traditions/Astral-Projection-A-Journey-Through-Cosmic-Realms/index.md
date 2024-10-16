@@ -37,13 +37,13 @@ Introduction
 -------------
 Welcome, dear traveler, to an odyssey through the astral realms, where your spirit will soar the ethereal skies and traverse the dimensions of existence. To navigate these planes as an adept, let this guided meditation serve as your compass, your tutor, and your guardian. Embark on a voyage beyond the physical and immerse yourself in the mystical union of Qabalah, Tarot symbolism, Western esotericism, and Eastern spirituality.
 
-Phase One: Establishing the Grounding Connection
+**Phase One**: Establishing the Grounding Connection
 ------------------------------------------------
 Begin by finding a quiet, calm place where you can sit or lie down comfortably. Close your eyes and adjust your position as needed. Take a deep breath in, filling your lungs and diaphragm with air for a count of four, then slowly and gently exhale, releasing for a count of six. Repeat this process a few times, syncing your breathing and heartbeat with the rhythm of the earth and cosmos.
 
 Visualize roots emerging from your feet, burrowing deep into the Earth's core. Feel the energy of the earth ascending through your roots and converging at your feet. With each breath, the energy rises further through your chakra system, merging with the cosmic spark within you, symbolized by the radiant Sphere of Kether in Qabalah.
 
-Phase Two: Disentangling the Astral Body
+**Phase Two**: Disentangling the Astral Body
 ----------------------------------------
 Once grounded, turn your attention inward to perceive your astral body. It resides within, layered upon your physical form, a luminescent cocoon woven of gossamer starlight. Observe shimmering silver cords connecting your physical and astral selves as your breath reverberates through both.
 
@@ -51,17 +51,17 @@ To disentangle the astral body, employ the Rope Technique. Envision a celestial 
 
 As you climb, sense a subtle vibrational shift. Allow the vibrations to transition you into the astral plane. Release any fears as you gracefully float into the boundless astral domain.
 
-Phase Three: Exploring Astral Destinations
+**Phase Three**: Exploring Astral Destinations
 ------------------------------------------
 Unfurled before you are the Astral Arches, a series of portals leading to myriad planes of existence. Beneath each archway, a Tarot card symbolizes the destination. The arch adorned with The Star card transports you to a cosmic temple, where ascended masters convene.
 
 Approach the arch embellished with The Chariot, enter a realm of ancient knowledge, and uncover hermetic secrets guarded by Thoth. Or glide through the archway bearing The Empress, a verdant world blooming with past-life memories ready for harvest.
 
-Phase Four: Interactive Astral Experiences
+**Phase Four**: Interactive Astral Experiences
 -------------------------------------------
 As you traverse these realms, engage deeply with unearthed wisdom. Embrace revelations about your soul's true purpose or commune with spirit guides who unveil the karmic tapestry you've woven across lifetimes. Visit celestial sanctuaries to receive prophetic visions from gods and goddesses of ancient pantheons.
 
-Phase Five: Reintegration and Closing
+**Phase Five**: Reintegration and Closing
 -------------------------------------
 When your journey nears its end, allow your astral self to drift peacefully toward the silver cords connecting you to the physical realm. Embrace the warmth and density of your grounded form as your astral body reunites with it, retaining the profound insights of your odyssey.
 

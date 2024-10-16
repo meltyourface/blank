@@ -35,15 +35,15 @@ At its core, magick is based on three fundamental principles - intent, energy, a
 
 ### 1.2 Practical Steps to Harness Magick
 
-Understanding Intent and Visualization: To begin your journey into magick, it is crucial to understand the power of intent and visualization. Start by meditating on your intentions and visualizing the outcome. Focus on the specific goal and see it manifesting in your mind’s eye while embracing the emotions that accompany the successful completion of this goal. 
+**Understanding Intent and Visualization**: To begin your journey into magick, it is crucial to understand the power of intent and visualization. Start by meditating on your intentions and visualizing the outcome. Focus on the specific goal and see it manifesting in your mind’s eye while embracing the emotions that accompany the successful completion of this goal. 
 
-Cultivating Energy Awareness: The next essential step is to become more sensitive to the energies that surround you, as well as the energies within. By practicing meditation, energy work exercises, and grounding techniques, you will develop a stronger connection with the energies that fuel magick. 
+**Cultivating Energy Awareness**: The next essential step is to become more sensitive to the energies that surround you, as well as the energies within. By practicing meditation, energy work exercises, and grounding techniques, you will develop a stronger connection with the energies that fuel magick. 
 
-Choosing Your Tools: As you continue this journey, you will discover methods and tools that resonate with you personally. From talismans to crystals, herbs to sigils, you will find what works best as a conduit of your magickal abilities. Cultivating your own personal form of magick ensures the most powerful and successful outcomes. 
+**Choosing Your Tools**: As you continue this journey, you will discover methods and tools that resonate with you personally. From talismans to crystals, herbs to sigils, you will find what works best as a conduit of your magickal abilities. Cultivating your own personal form of magick ensures the most powerful and successful outcomes. 
 
 ### 1.3 Techniques and Applications
 
-Magickal Methods: There are a vast array of magickal practices and techniques available to choose from. Some of the more common methods include:
+**Magickal Methods**: There are a vast array of magickal practices and techniques available to choose from. Some of the more common methods include:
 
 1. Divination: Gaining insight into situations and foreseeing future events using tarot, runes, and other divination tools.
 

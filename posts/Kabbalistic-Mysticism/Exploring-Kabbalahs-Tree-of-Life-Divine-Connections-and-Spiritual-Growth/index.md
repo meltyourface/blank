@@ -55,9 +55,9 @@ At the core of Kabbalistic teaching lies the concept of the ten Sefirot, which r
 
 Ein Sof is the term used to denote the infinite divine essence that precedes any manifestation or expression. It is the limitless and boundless source of all creation, and the Sefirot are its vessels, channeling this divine essence through the Tree of Life.
 
-The Tree of Life is structured upon three central pillars: the Pillar of Mercy (Chesed, Chokhmah, and Keter), the Pillar of Severity (Gevurah, Binah, and Hochmah), and the Pillar of Balance (Tiferet, Yesod, and Malkhut). These pillars reflect the dual nature of divine energy and the importance of balance and harmony within creation.
+**The Tree of Life is structured upon three central pillars**: the Pillar of Mercy (Chesed, Chokhmah, and Keter), the Pillar of Severity (Gevurah, Binah, and Hochmah), and the Pillar of Balance (Tiferet, Yesod, and Malkhut). These pillars reflect the dual nature of divine energy and the importance of balance and harmony within creation.
 
-The Four Worlds represent different dimensions or realms within which the Sefirot operate: Atzilut (Emanation), Beriah (Creation), Yetzirah (Formation), and Assiah (Action). These worlds encapsulate the progressive steps of divine emanation, from the initial inspiration (Atzilut) to its ultimate manifestation (Assiah).
+**The Four Worlds represent different dimensions or realms within which the Sefirot operate**: Atzilut (Emanation), Beriah (Creation), Yetzirah (Formation), and Assiah (Action). These worlds encapsulate the progressive steps of divine emanation, from the initial inspiration (Atzilut) to its ultimate manifestation (Assiah).
 
 ### Section 3: Practical Applications
 

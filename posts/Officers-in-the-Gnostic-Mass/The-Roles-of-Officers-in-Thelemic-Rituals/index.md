@@ -40,13 +40,13 @@ These Officers facilitate the Mass while embodying symbolic representations that
 
 ### Chapter 3: The Roles and Responsibilities
 
-The Priestess: The Priestess represents the divine feminine, embodying the powers of Nuit, the goddess of infinite space and the night sky. She begins the ceremony by purifying and consecrating the temple space. In a symbolic gesture, she awakens the Priest, drawing him into an active role within the ritual, and assists in administering the Eucharist to the congregation.
+**The Priestess**: The Priestess represents the divine feminine, embodying the powers of Nuit, the goddess of infinite space and the night sky. She begins the ceremony by purifying and consecrating the temple space. In a symbolic gesture, she awakens the Priest, drawing him into an active role within the ritual, and assists in administering the Eucharist to the congregation.
 
-The Priest: Embodying the divine masculine and representing the powers of Hadit, the god of manifestation, the Priest leads the consecration of the elements and the performance of the central ceremony, the Anthem. He is responsible for uniting with the Priestess in a ritual act that represents the divine union of opposites, which leads to the unfolding of spiritual transformation.
+**The Priest**: Embodying the divine masculine and representing the powers of Hadit, the god of manifestation, the Priest leads the consecration of the elements and the performance of the central ceremony, the Anthem. He is responsible for uniting with the Priestess in a ritual act that represents the divine union of opposites, which leads to the unfolding of spiritual transformation.
 
-The Deacon: The Deacon exemplifies the active intellect and serves as the mediator between the congregation and the godforms embodied through the Priest and Priestess. The Deacon maintains the continuity and flow of the Mass by guiding the congregation through the ritual's main aspects, reciting the central creed, and conducting the congregation in their responses.
+**The Deacon**: The Deacon exemplifies the active intellect and serves as the mediator between the congregation and the godforms embodied through the Priest and Priestess. The Deacon maintains the continuity and flow of the Mass by guiding the congregation through the ritual's main aspects, reciting the central creed, and conducting the congregation in their responses.
 
-The Two Children: Representing positive and negative polarities, the Two Children symbolize the duality of the universe. Their roles are to assist the Priestess and the Priest in their actions and to perform the circumambulation on specific parts of the ceremony, serving as witnesses to the divine union.
+**The Two Children**: Representing positive and negative polarities, the Two Children symbolize the duality of the universe. Their roles are to assist the Priestess and the Priest in their actions and to perform the circumambulation on specific parts of the ceremony, serving as witnesses to the divine union.
 
 ### Chapter 4: Symbolic Significance and Insights
 

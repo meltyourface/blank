@@ -34,7 +34,7 @@ The original language of the Emerald Tablet, believed to be written in ancient E
 
 Perhaps the most famous and influential translation of the Emerald Tablet comes from the Latin version attributed to the 12th-century scholar, Hugo of Santalla. This version of the text possesses numerous subtle variations from the original, with later occultists and philosophers refining and expanding upon these differences as they sought to gain a deeper understanding of the Tablet's teachings.
 
-Interconnecting Interpretations: Hermeticism and Alchemy
+**Interconnecting Interpretations**: Hermeticism and Alchemy
 
 The Emerald Tablet is often referred to as the "Smargdine Table" in alchemical texts, and its core principle, "As above, so below," has become synonymous with the process of alchemy. Although the Tablet is a highly cryptic text, its implications can be discerned through an examination of the interconnections between the various translations and interpretations of its contents.
 

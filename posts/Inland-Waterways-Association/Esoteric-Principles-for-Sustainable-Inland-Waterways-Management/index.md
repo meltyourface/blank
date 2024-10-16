@@ -27,7 +27,7 @@ Water has long held a vital and mystical role in the world of the esoteric. As w
 
 Inland waterways, such as rivers and canals, symbolize veins of life, a network of connection, and the uninterrupted flow of energy. They serve as the arteries bringing life, movement, and opportunity to their surroundings, carrying with them knowledge and wisdom from one region to another. In this way, inland waterways are an apt symbol of the interconnectedness of the esoteric and the physical world – the microcosm and the macrocosm.
 
-An example from mythology highlights how waterways intertwine with esoteric wisdom: the ancient Greek myth of the river Styx. It served as the boundary between the world of the living and the world of the dead. The Styx was a symbol of transformation, renewal, and passage from one realm to another – concepts ever-present within the occult and esoteric framework.
+**An example from mythology highlights how waterways intertwine with esoteric wisdom**: the ancient Greek myth of the river Styx. It served as the boundary between the world of the living and the world of the dead. The Styx was a symbol of transformation, renewal, and passage from one realm to another – concepts ever-present within the occult and esoteric framework.
 
 **Practical Application of Occult and Esoteric Concepts in Inland Waterways Preservation and Restoration**
 

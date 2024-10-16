@@ -28,19 +28,19 @@ Theorica Thanatos, the enigmatic study of death, delves into the multi-faceted r
 
 ### I. The Foundational Philosophies
 
-A. ****Dualism of Life and Death****: Central to the study of Theorica Thanatos is the concept of dualism. As the cosmic reality oscillates between creation and dissolution, so does mankind's existence in a dance of birth, life, and death. Life and death are intertwined - each dependent on the other. Embracing this duality is essential to understanding the depths of Theorica Thanatos.
+A. **Dualism of Life and Death**: Central to the study of Theorica Thanatos is the concept of dualism. As the cosmic reality oscillates between creation and dissolution, so does mankind's existence in a dance of birth, life, and death. Life and death are intertwined - each dependent on the other. Embracing this duality is essential to understanding the depths of Theorica Thanatos.
 
-B. ****The Soul's Journey****: Theorica Thanatos posits that death marks the separation of the physical body from the immaterial soul. It is not an extinguishing of consciousness but a transition of the soul to another dimension or plane of existence. As initiates delve further into this study, they must contemplate the nature of the soul and the underlying energies of consciousness.
+B. **The Soul's Journey**: Theorica Thanatos posits that death marks the separation of the physical body from the immaterial soul. It is not an extinguishing of consciousness but a transition of the soul to another dimension or plane of existence. As initiates delve further into this study, they must contemplate the nature of the soul and the underlying energies of consciousness.
 
-C. ****The Cycle of Reincarnation****: Death in Theorica Thanatos is intertwined with the concept of rebirth or reincarnation, based on the esoteric principle of karma. It is believed that individuals undergo cyclic death and rebirth, as the soul traverses through numerous life lessons and experiences to attain spiritual enlightenment and liberation.
+C. **The Cycle of Reincarnation**: Death in Theorica Thanatos is intertwined with the concept of rebirth or reincarnation, based on the esoteric principle of karma. It is believed that individuals undergo cyclic death and rebirth, as the soul traverses through numerous life lessons and experiences to attain spiritual enlightenment and liberation.
 
 ### II. The Elements and Applications
 
-A. ****Element of Air****: The key to understanding the passage from life to death lies in the pristine element of air. Breathing exercises and techniques form the foundation of this concept, opening doors to the metaphysical world. Through breath control and manipulation, initiates can develop their spiritual faculties and increase awareness of the unseen realms.
+A. **Element of Air**: The key to understanding the passage from life to death lies in the pristine element of air. Breathing exercises and techniques form the foundation of this concept, opening doors to the metaphysical world. Through breath control and manipulation, initiates can develop their spiritual faculties and increase awareness of the unseen realms.
 
-B. ****Necromancy****: As initiates dive further into Theorica Thanatos, they may experiment with necromancy - the communication with the dead. This practice allows an insight into the knowledge of the deceased and can enable an exchange of wisdom from the spirits of the past. Necromancy requires a profound understanding of rituals, invocations, and offerings, accompanied by robust mental fortitude and a deep respect for the dead.
+B. **Necromancy**: As initiates dive further into Theorica Thanatos, they may experiment with necromancy - the communication with the dead. This practice allows an insight into the knowledge of the deceased and can enable an exchange of wisdom from the spirits of the past. Necromancy requires a profound understanding of rituals, invocations, and offerings, accompanied by robust mental fortitude and a deep respect for the dead.
 
-C. ****Shadow Work****: The art of shadow work involves recognizing, confronting, and integrating the darker aspects of one's psyche for self-transformation. Theorica Thanatos embraces the notion that embracing and learning from mortality can empower individuals to live a more profound, meaningful, and spiritually enriched life.
+C. **Shadow Work**: The art of shadow work involves recognizing, confronting, and integrating the darker aspects of one's psyche for self-transformation. Theorica Thanatos embraces the notion that embracing and learning from mortality can empower individuals to live a more profound, meaningful, and spiritually enriched life.
 
 ### III. Ethical Considerations
 

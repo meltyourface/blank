@@ -60,9 +60,9 @@ Practitioners can draw upon these techniques to deepen their connection to The C
 
 To fully embrace the power of The Cauldron Gate, initiates must undergo specific practices and exercises that can strengthen their spiritual bond. **Two recommended practices include**:
 
-1. ****Initiation Rite****: Create a sacred space and meditate on your goals and intentions for learning from The Cauldron Gate. Symbolically pass through the flames of transformation by walking a candlelit path or visualizing your passage through The Cauldron Gate. Conclude the ritual with an offering of gratitude to the elemental guardians of fire and water.
+1. **Initiation Rite**: Create a sacred space and meditate on your goals and intentions for learning from The Cauldron Gate. Symbolically pass through the flames of transformation by walking a candlelit path or visualizing your passage through The Cauldron Gate. Conclude the ritual with an offering of gratitude to the elemental guardians of fire and water.
 
-2. ****Meditative Exercise****: Envision yourself standing before The Cauldron Gate in a serene, peaceful setting. Focus on the dancing flames and the energy they hold. Allow yourself to be immersed in the warmth of spiritual transformation, feeling the flames dissolve any lingering doubts or fears. As you step back from the gate, sense the newfound wisdom and strength that has taken their place.
+2. **Meditative Exercise**: Envision yourself standing before The Cauldron Gate in a serene, peaceful setting. Focus on the dancing flames and the energy they hold. Allow yourself to be immersed in the warmth of spiritual transformation, feeling the flames dissolve any lingering doubts or fears. As you step back from the gate, sense the newfound wisdom and strength that has taken their place.
 
 Implementing these practices will enable you to better access the transformative power of The Cauldron Gate and integrate it into your spiritual and mystical journey.
 

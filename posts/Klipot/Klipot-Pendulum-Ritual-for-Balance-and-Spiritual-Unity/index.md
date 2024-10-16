@@ -40,7 +40,7 @@ excerpt: Develop a comprehensive ritual that harnesses the power of Klipot energ
 
 Ritual Steps:
 
-1. ****Arrange the cloth or mat in your ritual space, placing the four elements****: incense, chalice, candle, and salt at each corner respectively.
+1. **Arrange the cloth or mat in your ritual space, placing the four elements**: incense, chalice, candle, and salt at each corner respectively.
 
 2. Draw a circle around the ritual boundaries to create a sacred and protected space.
 

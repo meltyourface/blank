@@ -48,7 +48,7 @@ Ignite the divine essence concealed in form,
 Grant me access to the hallowed realms,
 With this invocation, let the ritual begin."
 
-Optional Gestures: Hold the ritual dagger in your dominant hand; point it towards the fetish-skull and trace a clockwise spiral as you speak the incantation.
+**Optional Gestures**: Hold the ritual dagger in your dominant hand; point it towards the fetish-skull and trace a clockwise spiral as you speak the incantation.
 **Step 2**: Invoking the Essence of the Primary Bone Material
 
 **Materials**: Bone samples (human, animal, or mythical creature), bowl, a chalice filled with the sacred water, and incense.
@@ -68,7 +68,7 @@ Let the secrets of your essence merge with mine,
 Impart your knowledge, wisdom, and power,
 In this sacred union, transform fetters to unity."
 
-Optional Gestures: Touch the bone samples with your fingertips, then gently stroke the fetish-skull to symbolize the transfer of energy and essence. Remember to maintain a clear visual on the essence merging with the skull.
+**Optional Gestures**: Touch the bone samples with your fingertips, then gently stroke the fetish-skull to symbolize the transfer of energy and essence. Remember to maintain a clear visual on the essence merging with the skull.
 **Step 3**: Linking the Skull's Purpose to the Individual or Space
 
 **Materials**: Personal item or substance linked to the individual or space (e.g., hair, photograph, earth), a silk or velvet cloth.
@@ -87,7 +87,7 @@ As this vessel channels its powers refined,
 In service of [individual or space], let us be as one,
 Connected in purpose, our work now begun."
 
-Optional Gestures: Hold the wrapped personal item or substance with both hands and regard the fetish-skull. Visualize an ethereal bond forming between the two objects.
+**Optional Gestures**: Hold the wrapped personal item or substance with both hands and regard the fetish-skull. Visualize an ethereal bond forming between the two objects.
 **Step 4**: Closing Benediction to Seal and Consecrate the Fetish-Skull
 
 **Materials**: Salt, compass, and a ceremonial cloth.
@@ -107,6 +107,6 @@ Consecrated, empowered, and forever devoted.
 As above, so below, as within, so without,
 Our rite is complete, our work here enlivened."
 
-Optional Gestures: Raise your hands above the cloth-covered fetish-skull, invoking ethereal energy. Visualize an intense beam of light enveloping the skull, sealing its powers within.
+**Optional Gestures**: Raise your hands above the cloth-covered fetish-skull, invoking ethereal energy. Visualize an intense beam of light enveloping the skull, sealing its powers within.
 
 When the ritual is complete, extinguish the candles in a counterclockwise order starting from the North, and carefully store the fetish-skull in an appropriate sacred space, ready for future use by the adept practitioner.

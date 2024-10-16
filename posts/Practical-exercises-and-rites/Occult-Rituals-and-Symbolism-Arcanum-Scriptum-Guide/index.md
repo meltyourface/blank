@@ -21,7 +21,7 @@ excerpt: Design an intricate symbolic language tailored for occult practices and
 ---
 I have designed an intricate symbolic language tailored for occult practices and rites, specifically aimed at enhancing communication with the subconscious mind. The language consists of at least 20 unique symbols, drawing inspiration from traditional esoteric and occult sources, such as alchemy, ancient runes, and sacred geometry.
 
-Symbolic Language: Arcanum Scriptum
+**Symbolic Language**: Arcanum Scriptum
 
 1. **Oculus - Eye**: Represents spiritual vision and intuition
 2. **Manus - Hand**: Represents the strength to manifest one's will

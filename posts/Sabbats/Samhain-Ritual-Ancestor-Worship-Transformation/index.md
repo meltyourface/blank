@@ -22,7 +22,7 @@ excerpt: >
 ---
 Blueprint for a Samhain Ritual
 
-1. ****Central Theme****: Ancestor worship, transformation, and the thinning of the veil between the worlds.
+1. **Central Theme**: Ancestor worship, transformation, and the thinning of the veil between the worlds.
 
 2. **Ceremonial Structure**:
    a. **Casting the Circle**:
@@ -43,7 +43,7 @@ Blueprint for a Samhain Ritual
       - One individual walks the circle counterclockwise, closing the energetic boundary.
       - Chant: "Our circle is opened, but never broken; may the love and wisdom we've shared stay with us always."
 
-3. ****Unique Component****: The Witches' Ladder
+3. **Unique Component**: The Witches' Ladder
    - The ladder is constructed from a rope with 9 knots.
    - Symbolic items are woven in, such as feathers for flight, gems for transformation, and an ancestor charm.
    - Consecration: The ladder is anointed with essential oils and charged with the energy of the ritual.

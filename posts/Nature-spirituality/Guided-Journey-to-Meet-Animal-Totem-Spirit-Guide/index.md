@@ -32,7 +32,7 @@ excerpt: >
 - Begin by imagining yourself standing in a clearing within a vast, ancient forest. The air is fresh and crisp, with the scents of leaves, damp soil, and rich moss.
 - Sunlight filters softly through the dense foliage above, casting dappled patterns on the ground around you.
 - Take a moment to ground yourself in this space by imagining the sensation of the soft earth beneath your feet, and reach downward with your senses to feel the roots of the ancient trees connecting deep into the earth.
-- In the center of the clearing, you notice a circle of tall, ancient trees surrounding a bubbling spring of crystal-clear water. ****This is the sacred grove, and as you approach it, you become aware of the presence of the four elements in balance****: earth (the nurturing soil); air (the gentle breeze rustling leaves); fire (the warmth of the sun dappling the grove); and water (the life-giving spring).
+- In the center of the clearing, you notice a circle of tall, ancient trees surrounding a bubbling spring of crystal-clear water. **This is the sacred grove, and as you approach it, you become aware of the presence of the four elements in balance**: earth (the nurturing soil); air (the gentle breeze rustling leaves); fire (the warmth of the sun dappling the grove); and water (the life-giving spring).
 **Step 3**: Meeting Your Animal Totem
 - Now, invite your animal totem or spirit guide to join you in this sacred grove, holding the intention of receiving guidance and wisdom.
 - Be open and receptive, allowing the animal to appear in its own time and manner. You may see it approaching through the trees, swimming in the waters, or descending from the sky.

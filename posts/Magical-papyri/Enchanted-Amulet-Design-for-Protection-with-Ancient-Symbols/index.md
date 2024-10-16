@@ -30,15 +30,15 @@ The enchanted amulet will be triangular in shape, representing the sacred geomet
 **Gemstones**:
 At each corner of the triangle, a gemstone will be placed to amplify the protective powers of the amulet. **For our design, the selected gemstones are**:
 
-1. ****Lapis Lazuli****: A symbol of protection and power.
-2. ****Black Tourmaline****: Effective in repelling negative energy.
-3. ****Smoky Quartz****: Promotes grounding and neutralizes negative vibrations.
+1. **Lapis Lazuli**: A symbol of protection and power.
+2. **Black Tourmaline**: Effective in repelling negative energy.
+3. **Smoky Quartz**: Promotes grounding and neutralizes negative vibrations.
 
 Astrological Symbols:
 The amulet will incorporate the following astrological symbols:
 
-1. ****Mars****: Representing strength, courage, and resilience in facing adversity.
-2. ****Jupiter****: Denoting abundance and protection.
+1. **Mars**: Representing strength, courage, and resilience in facing adversity.
+2. **Jupiter**: Denoting abundance and protection.
 
 Ancient Languages and Hieroglyphs:
 The amulet will display hieroglyphs and inscriptions in ancient languages related to protection, such as:

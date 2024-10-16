@@ -29,19 +29,19 @@ The path of Luciferian illuminismBlack Dragon represents a powerful and enigmati
 
 ### Section I: Key Symbols and Core Beliefs
 
-1. ****The Black Dragon****: The titular symbol of this practice, the Black Dragon, embodies transformation, mystery, and immense power. It represents the untamed and often misunderstood force within the practitioner that can, through disciplined practice and self-discovery, be channeled towards achieving one's higher purpose.
+1. **The Black Dragon**: The titular symbol of this practice, the Black Dragon, embodies transformation, mystery, and immense power. It represents the untamed and often misunderstood force within the practitioner that can, through disciplined practice and self-discovery, be channeled towards achieving one's higher purpose.
 
-2. ****The Luciferian Flame****: A symbol of knowledge, enlightenment, and spiritual growth, the Luciferian Flame can be understood as the guiding light on this path. Practitioners honor Lucifer as an archetype of individualism, wisdom, and the Promethean spirit, embodying the courage to seek truth beyond conventional boundaries.
+2. **The Luciferian Flame**: A symbol of knowledge, enlightenment, and spiritual growth, the Luciferian Flame can be understood as the guiding light on this path. Practitioners honor Lucifer as an archetype of individualism, wisdom, and the Promethean spirit, embodying the courage to seek truth beyond conventional boundaries.
 
-3. ****The Cosmic Tree****: Rooted in many esoteric traditions, the Cosmic Tree symbolizes the interconnectedness of all realms and planes of existence. Dragon Adepts study this symbol to better understand the relationships between the microcosm (the individual) and the macrocosm (the universe).
+3. **The Cosmic Tree**: Rooted in many esoteric traditions, the Cosmic Tree symbolizes the interconnectedness of all realms and planes of existence. Dragon Adepts study this symbol to better understand the relationships between the microcosm (the individual) and the macrocosm (the universe).
 
 ### Section II: Ritual Practices and Harnessing Personal Power
 
-1. ****Invocations and Evocations****: Central to the practice of Luciferian illuminismBlack Dragon are invocations and evocations to connect with higher and lower entities, as well as one's own inner self. Through this process, adepts seek to gain knowledge, harness elemental forces, and invoke personal transformation.
+1. **Invocations and Evocations**: Central to the practice of Luciferian illuminismBlack Dragon are invocations and evocations to connect with higher and lower entities, as well as one's own inner self. Through this process, adepts seek to gain knowledge, harness elemental forces, and invoke personal transformation.
 
-2. ****Sigil Magic and Symbolic Alchemy****: Dragon Adepts employ the powerful tools of sigil magic and symbolic alchemy to manifest their will and direct their personal growth. By combining various symbols and elements, they create new sigils charged with the focused energies of their intention.
+2. **Sigil Magic and Symbolic Alchemy**: Dragon Adepts employ the powerful tools of sigil magic and symbolic alchemy to manifest their will and direct their personal growth. By combining various symbols and elements, they create new sigils charged with the focused energies of their intention.
 
-3. ****Meditation and Astral Travel****: The development of keen introspective abilities and mastery of the astral plane are essential in this practice. Dragon Adepts use meditation to explore the depths of their own psyche and spirit, while astral travel enables them to traverse the limitless landscape beyond the physical body.
+3. **Meditation and Astral Travel**: The development of keen introspective abilities and mastery of the astral plane are essential in this practice. Dragon Adepts use meditation to explore the depths of their own psyche and spirit, while astral travel enables them to traverse the limitless landscape beyond the physical body.
 
 ### Section III: Historical Context and Broader Significance
 

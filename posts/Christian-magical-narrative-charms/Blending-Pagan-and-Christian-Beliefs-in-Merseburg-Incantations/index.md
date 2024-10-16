@@ -26,7 +26,7 @@ The Merseburg Incantations, or the Merseburger Zaubersprüche, are a collection 
 
 The Merseburg Incantations consist of two separate spells, discovered in the 19th century on a parchment codex dating back to the 10th century CE. The incantations were written in Old High German and are some of the earliest examples of Germanic pagan beliefs, especially those connected to the indigenous pantheon and the practice of magic.
 
-Incantation I: Charm for the Release of Prisoners
+**Incantation I**: Charm for the Release of Prisoners
 
 In this incantation, the narrative consists of a set of deities from the Germanic pantheon, including Wodan (the Germanic analogue to the Norse god Odin) and others whose names are obscure or ambiguous. The charm's intent is to release prisoners from their shackles:
 
@@ -40,7 +40,7 @@ over them..."
 
 The invocation of Wodan and Eoroweþ, two of the gods mentioned, exemplifies the persistence of pre-Christian Germanic beliefs in using the power of the divine to perform magical acts. Although scholars have found no direct correlations to Christian elements in this particular spell, the mingling of Christian and pagan motifs is evident in the incantation's preservation as part of a Christian liturgical manuscript. This demonstrates that even wholly pagan incantations were embraced and utilized by the Christian religious authorities of the time, perhaps because of the incantation's efficacy and the cultural importance of these beliefs.
 
-Incantation II: Charm for the Healing of a Horse's Sprained Limb
+**Incantation II**: Charm for the Healing of a Horse's Sprained Limb
 
 In the second incantation, a combination of pagan and Christian elements is evident. The charm recounts a story of Wodan on his journey with Balder (a Germanic god). They come across a horse with a sprained limb, and Wodan speaks an incantation to heal the injury:
 

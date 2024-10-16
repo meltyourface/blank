@@ -28,7 +28,7 @@ The Sepher Yetzirah, a foundational text of the Jewish mystical tradition known 
 [Translation begins]
 
 ### Section 1: The Ten Sefirot
-1. ****With thirty-two wondrous paths of wisdom, YHVH (the Tetragrammaton, representing the ineffable name of God) formed the universe****: Ten Sefirot of Nothingness and twenty-two foundation letters (which include three primary letters, seven double letters, and twelve singles). **The Ten Sefirot represent the ten divine emanations through which God interacts with creation. These Sefirot are**:
+1. **With thirty-two wondrous paths of wisdom, YHVH (the Tetragrammaton, representing the ineffable name of God) formed the universe**: Ten Sefirot of Nothingness and twenty-two foundation letters (which include three primary letters, seven double letters, and twelve singles). **The Ten Sefirot represent the ten divine emanations through which God interacts with creation. These Sefirot are**:
 
 1. Keter (Crown) – representing the Divine Will
 2. Chochmah (Wisdom) – representing the Divine Intellect
@@ -44,10 +44,10 @@ The Sepher Yetzirah, a foundational text of the Jewish mystical tradition known 
 ### Section 2: The Twenty-Two Foundation Letters
 The twenty-two foundation letters are divided into three subsets: three primary letters (Mother Letters), seven double letters (Double Letters), and twelve single letters (Elemental Letters):
 
-1. ****The Mother Letters****: Aleph (א), Mem (מ), and Shin (ש)
+1. **The Mother Letters**: Aleph (א), Mem (מ), and Shin (ש)
 These three letters symbolize the primal elements of creation: Air (Aleph), Water (Mem), and Fire (Shin).
 
-2. ****The Double Letters****: Bet (ב), Gimel (ג), Dalet (ד), Kaf (כ), Pe (פ), Resh (ר), and Tav (ת)
+2. **The Double Letters**: Bet (ב), Gimel (ג), Dalet (ד), Kaf (כ), Pe (פ), Resh (ר), and Tav (ת)
 These seven letters have two forms, hard and soft, representing the duality inherent in their associated planetary and energetic attributes:
 
 - Bet (ב): Saturn - Freedom vs. Boundaries
@@ -58,5 +58,5 @@ These seven letters have two forms, hard and soft, representing the duality inhe
 - Resh (ר): Mercury - Communication vs. Silence
 - Tav (ת): Moon - Perception vs. Illusion
 
-3. ****The Elemental Letters****: He (ה), Vav (ו), Zayin (ז), Chet (ח), Tet (ט), Yud (י), Lamed (ל), Nun (נ), Samekh (ס), Ayin (ע), Tzadi (צ), and Qof (ק)
+3. **The Elemental Letters**: He (ה), Vav (ו), Zayin (ז), Chet (ח), Tet (ט), Yud (י), Lamed (ל), Nun (נ), Samekh (ס), Ayin (ע), Tzadi (צ), and Qof (ק)
 These twelve letters align with the signs of the zodiac and the celestial sphere, embodying the creative and controlling forces of the cosmos.

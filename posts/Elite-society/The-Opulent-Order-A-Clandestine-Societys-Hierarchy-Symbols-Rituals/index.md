@@ -22,7 +22,7 @@ excerpt: >
 ---
 Organization: The Opulent Order
 
-Core Values: Power, Wisdom, Illumination, Legacy, and Transcendence
+**Core Values**: Power, Wisdom, Illumination, Legacy, and Transcendence
 
 **Hierarchy**:
 1. The Enlightened Sovereign

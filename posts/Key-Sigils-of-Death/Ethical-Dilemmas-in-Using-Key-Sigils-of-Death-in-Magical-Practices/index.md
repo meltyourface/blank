@@ -32,18 +32,18 @@ Integrating Key Sigils of Death into shadow manipulation allows practitioners to
 
 Comparing the moral stances of three distinct magical societies:
 
-1. ****The White Order****: The White Order abhors the usage of Key Sigils of Death, considering it unethical and a distortion of the natural order. They believe these sigils should remain unused, fearing they can trigger catastrophic consequences. The main critique is its association with darker arts and the disruption of peace among living beings.
+1. **The White Order**: The White Order abhors the usage of Key Sigils of Death, considering it unethical and a distortion of the natural order. They believe these sigils should remain unused, fearing they can trigger catastrophic consequences. The main critique is its association with darker arts and the disruption of peace among living beings.
 
-2. ****The Grey Alliance****: The Grey Alliance holds a more neutral viewpoint, understanding the potential value of using Key Sigils of Death within specific contexts and disciplines. Still, they promote caution and responsible use to limit negative implications, such as the potential infringement of free will or the disturbance of the natural order.
+2. **The Grey Alliance**: The Grey Alliance holds a more neutral viewpoint, understanding the potential value of using Key Sigils of Death within specific contexts and disciplines. Still, they promote caution and responsible use to limit negative implications, such as the potential infringement of free will or the disturbance of the natural order.
 
-3. ****The Black Conclave****: The Black Conclave shows no moral qualms about employing Key Sigils of Death in any magical discipline, embracing their power and the potential advantages it can accord. They firmly defend the idea that all magic possesses equal importance and potential and that it is the practitioner's intentions that determine the morality of a magical act.
+3. **The Black Conclave**: The Black Conclave shows no moral qualms about employing Key Sigils of Death in any magical discipline, embracing their power and the potential advantages it can accord. They firmly defend the idea that all magic possesses equal importance and potential and that it is the practitioner's intentions that determine the morality of a magical act.
 
 Hypothetical scenarios showcasing artistic richness:
 
-1. ****Ritual of Rebirth****: Practitioners who have lost someone dear to them could form a ritual that incorporates the Key Sigils of Death with shadow manipulation to create an artistic dance-like performance. The ceremony would symbolize life's transient nature and aid in the emotional healing process for the bereaved.
+1. **Ritual of Rebirth**: Practitioners who have lost someone dear to them could form a ritual that incorporates the Key Sigils of Death with shadow manipulation to create an artistic dance-like performance. The ceremony would symbolize life's transient nature and aid in the emotional healing process for the bereaved.
 
-2. ****Blood Magic Symphony****: A group of practitioners performing a spell imbued with blood magic, utilizing their vital energies in conjunction with the Key Sigils of Death. This ensemble creates a rich tapestry of power and energy manifested through music, conveying the beauty of sacrifice and turning the ritual into a transcendental experience.
+2. **Blood Magic Symphony**: A group of practitioners performing a spell imbued with blood magic, utilizing their vital energies in conjunction with the Key Sigils of Death. This ensemble creates a rich tapestry of power and energy manifested through music, conveying the beauty of sacrifice and turning the ritual into a transcendental experience.
 
-3. ****Shades of Enlightenment****: A practitioner combines necromancy and Key Sigils of Death into a mesmerizing ceremony that allows attendees to communicate with spirits from the beyond. The ritual creates a heightened sense of awareness of life's transient nature, imparting wisdom and inspiration for those present to live their lives to the fullest.
+3. **Shades of Enlightenment**: A practitioner combines necromancy and Key Sigils of Death into a mesmerizing ceremony that allows attendees to communicate with spirits from the beyond. The ritual creates a heightened sense of awareness of life's transient nature, imparting wisdom and inspiration for those present to live their lives to the fullest.
 
 In conclusion, the usage of Key Sigils of Death in various magical disciplines holds the power to evoke both dreadful consequences and awe-inspiring artistic expressions. These ethical dilemmas and moral implications require every practitioner to deeply consider their intentions, the consequences, and the potential impacts on the magical community and beyond.

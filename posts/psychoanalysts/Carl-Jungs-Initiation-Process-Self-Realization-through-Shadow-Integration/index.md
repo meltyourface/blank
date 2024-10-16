@@ -21,7 +21,7 @@ excerpt: In the context of occultism and esotericism, analyze the experience of 
 ---
 The challenge at hand calls for an in-depth analysis of the experience of the unfoldment of the Self, its intersection with the Shadow self, and the influence of both the collective unconscious and archetypes, as theorized by Carl Jung, upon an individual's initiation process into the Mysteries. We will delve into the foundational concepts proposed by Jung, explore the primary journey of the Self, discuss the interaction with the Shadow self, and examine their implications on the initiation process within the context of occultism and esotericism.
 
-Foundational Concepts: Collective Unconscious and Archetypes
+**Foundational Concepts**: Collective Unconscious and Archetypes
 According to Swiss psychiatrist Carl Jung, the human mind is composed of three primary aspects: the conscious mind, the personal unconscious and the collective unconscious. The conscious mind pertains to an individual's active thoughts and feelings, whereas the personal unconscious is a reservoir of an individual's forgotten or repressed memories. The collective unconscious, however, transcends individual experiences and consists of latent psychic material inherited from our ancestors.
 
 Jung suggested that this collective unconscious is populated with "archetypes," or universally recognized symbols and themes ingrained in the human psyche. These archetypes surface in various aspects of human experience, such as myths, art, and spiritual practices. Some of the well-known archetypes include the Self, the Shadow, the Anima and Animus, and the Wise Old Man, to name a few.

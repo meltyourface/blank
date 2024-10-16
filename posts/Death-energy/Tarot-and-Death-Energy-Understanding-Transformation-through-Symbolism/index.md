@@ -26,7 +26,7 @@ To thoroughly examine the relationships between the major Tarot cards representi
 
 Meanwhile, the elements—fire, water, air, and earth—are essential building blocks of reality in many esoteric and occult traditions. They correspond to different states of matter and aspects of life, and they are often related to the Tarot suits and cards, providing additional layers of meaning to be unlocked.
 
-Tarot Cards Representing Death Energy: Traditional and Reversed Meanings
+**Tarot Cards Representing Death Energy**: Traditional and Reversed Meanings
 
 Death energy is both transformative and powerful, working on multidimensional levels within the physical and spiritual realms. In the traditional Tarot symbolism, three Major Arcana cards embody this elusive force: Death (XIII), The Tower (XVI), and Judgement (XX).
 

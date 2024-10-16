@@ -41,11 +41,11 @@ The Olivia Robertson Witches' Sabbat builds upon the foundation of the Wiccan Wh
 
 Rituals and Ceremonies
 
-Rites of Balance: Performed during the Olivia Robertson Witches' Sabbat, this ritual is meant to promote harmony between the masculine and feminine energies within oneself and the universe. Built on the principles of duality and equilibrium, the ceremony often incorporates the use of ritual tools, invocations, and offerings to honor the divine forces emanating from different traditions.
+**Rites of Balance**: Performed during the Olivia Robertson Witches' Sabbat, this ritual is meant to promote harmony between the masculine and feminine energies within oneself and the universe. Built on the principles of duality and equilibrium, the ceremony often incorporates the use of ritual tools, invocations, and offerings to honor the divine forces emanating from different traditions.
 
-Ancestral Connections: As an integral part of the Sabbat, connecting with one's ancestors and spirit guides is considered essential for spiritual growth. This is achieved through meditation, creating ancestral altars, and conducting seances in a safe and sacred space.
+**Ancestral Connections**: As an integral part of the Sabbat, connecting with one's ancestors and spirit guides is considered essential for spiritual growth. This is achieved through meditation, creating ancestral altars, and conducting seances in a safe and sacred space.
 
-Sacred Dance and Music: Movement and music are vital components of the Olivia Robertson Witches' Sabbat. The use of sacred dance and rhythm is considered a powerful tool for raising energy, communing with spirits and the Earth, and celebrating the ongoing cycle of life.
+**Sacred Dance and Music**: Movement and music are vital components of the Olivia Robertson Witches' Sabbat. The use of sacred dance and rhythm is considered a powerful tool for raising energy, communing with spirits and the Earth, and celebrating the ongoing cycle of life.
 
 Conclusion
 

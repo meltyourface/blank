@@ -22,7 +22,7 @@ excerpt: Design and craft an intricate Gardnerian Witchcraft spell or ritual, ta
 
 ## Enchantment of Prosperity and Abundance
 
-Magical Intention or Objective: To manifest a continuous flow of financial prosperity and abundance into one's life.
+**Magical Intention or Objective**: To manifest a continuous flow of financial prosperity and abundance into one's life.
 
 ### I. Preparatory Stage
 - Cleanse and consecrate the ritual space.

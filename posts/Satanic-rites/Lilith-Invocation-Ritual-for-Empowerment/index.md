@@ -73,20 +73,20 @@ Lilith, Ancient Serpent, join us in our nocturnal embrace.
 
 The Embrace - Acts of Devotion:
 
-### I. ****Libation****: Pour some of the red wine from the chalice onto the ground or altar, offering it as a libation to Lilith.
+### I. **Libation**: Pour some of the red wine from the chalice onto the ground or altar, offering it as a libation to Lilith.
 
 "Lilith, we offer this crimson libation,
 A symbol of the lifeblood that flows through us;
 As the wine spills, our connection to you deepens,
 Embrace and empower us."
 
-### II. ****Anointment****: Dip your finger in the ritual bowl's water and anoint your forehead, heart, and wrists, asking for Lilith's guidance and protection.
+### II. **Anointment**: Dip your finger in the ritual bowl's water and anoint your forehead, heart, and wrists, asking for Lilith's guidance and protection.
 
 "Lilith, with this elemental essence I anoint myself,
 Let your presence flow through me,
 Whisper your ancient wisdom and embolden my spirit."
 
-### III. ****Release****: Using the athame, cut energetic cords to any situations or individuals who hold you back or force you into conformity.
+### III. **Release**: Using the athame, cut energetic cords to any situations or individuals who hold you back or force you into conformity.
 
 "Lilith, with your guidance and this sacred blade,
 I sever ties to restrictions and limitations,

@@ -38,17 +38,17 @@ To successfully understand and practice Brian EvensonConjuration, it is necessar
   * Resonating with Evenson's Work: Familiarity with Evenson's body of work and a deep appreciation for his literary genius help create a strong resonance with his essence, facilitating a successful conjuration.
 
 ### 6.4 Steps for Successful Brian EvensonConjuration
-1. ****Preparation****: Create a calm, quiet, and clean environment, ideally a space dedicated to practicing the occult arts. Assemble any items symbolically linked to Evenson and his works, such as selected books of the author, a photo of him, or any objects that remind you of his stories.
+1. **Preparation**: Create a calm, quiet, and clean environment, ideally a space dedicated to practicing the occult arts. Assemble any items symbolically linked to Evenson and his works, such as selected books of the author, a photo of him, or any objects that remind you of his stories.
 
-2. ****Protection****: Establish a protective circle or invoke protective spirits to ensure a safe conjuration process. This will eliminate unwanted energies from entering the ritual.
+2. **Protection**: Establish a protective circle or invoke protective spirits to ensure a safe conjuration process. This will eliminate unwanted energies from entering the ritual.
 
-3. ****Connection****: Engage in deep meditation or trance work to enter the ideal mental and emotional state for conjuring Evenson's essence. This pliable state will support your ability to align with his creative forces.
+3. **Connection**: Engage in deep meditation or trance work to enter the ideal mental and emotional state for conjuring Evenson's essence. This pliable state will support your ability to align with his creative forces.
 
-4. ****Invocation****: Upon reaching the appropriate state, recite a carefully crafted invocation that reflects your intent and desire to connect with Brian Evenson's essence. Call forth his creative and intellectual energy with sincerity and conviction.
+4. **Invocation**: Upon reaching the appropriate state, recite a carefully crafted invocation that reflects your intent and desire to connect with Brian Evenson's essence. Call forth his creative and intellectual energy with sincerity and conviction.
 
-5. ****Reception****: When you sense the arrival of Evenson's energy, engage in an internal dialogue allowing you to draw inspiration, insights, or guidance from his creative force. Be open to receiving symbols, words, or images that carry meaning.
+5. **Reception**: When you sense the arrival of Evenson's energy, engage in an internal dialogue allowing you to draw inspiration, insights, or guidance from his creative force. Be open to receiving symbols, words, or images that carry meaning.
 
-6. ****Closing****: Express gratitude for the connection and slowly end the dialogue with the essence of Brian Evenson. Release the protective circle or protective spirits, and return to an ordinary state of consciousness.
+6. **Closing**: Express gratitude for the connection and slowly end the dialogue with the essence of Brian Evenson. Release the protective circle or protective spirits, and return to an ordinary state of consciousness.
 
 ### 6.5 Common Misconceptions
 Some may incorrectly assume that Brian EvensonConjuration is a form of idolatry or ascribing supernatural powers to the author himself. It is crucial to recognize that the practice revolves around connecting with the essential creative force embodied by Brian Evenson's work, not the physical person. Moreover, the practice must be understood as a tool that facilitates access to the depths of literary creativity and enhances the practitioner's ability to expand beyond their normal limitations.

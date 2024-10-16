@@ -47,11 +47,11 @@ Further down the hierarchy, elementals and nature spirits reside within and are 
 
 **Deities**: Deities serve as sources of profound wisdom and guidance. Their strength lies in their vast knowledge and power, but they are vulnerable to being misunderstood or having their teachings misused by followers.
 
-Archangels and Demons: Archangels possess immense power and aid in providing protection, healing, and divine guidance. Demons offer allurements of personal power and influence but can lead practitioners down a dark path. Both are vulnerable to preconceived notions and misunderstandings from practitioners.
+**Archangels and Demons**: Archangels possess immense power and aid in providing protection, healing, and divine guidance. Demons offer allurements of personal power and influence but can lead practitioners down a dark path. Both are vulnerable to preconceived notions and misunderstandings from practitioners.
 
-Lesser Angels and Demons: While lesser angels offer minor blessings and guidance, lesser demons pose threats of deception and manipulation. Both of these groups can be vulnerable to practitioners with exceptionally strong willpower or the use of proper protective measures.
+**Lesser Angels and Demons**: While lesser angels offer minor blessings and guidance, lesser demons pose threats of deception and manipulation. Both of these groups can be vulnerable to practitioners with exceptionally strong willpower or the use of proper protective measures.
 
-Elementals and Nature Spirits: These entities have great influence over their respective elements and can provide deep insights into the workings of the world. However, they can be volatile and unpredictable, requiring careful communication and respect from practitioners.
+**Elementals and Nature Spirits**: These entities have great influence over their respective elements and can provide deep insights into the workings of the world. However, they can be volatile and unpredictable, requiring careful communication and respect from practitioners.
 
 ### Chapter 2: Communicating with Spiritual Entities
 

@@ -33,11 +33,11 @@ Throughout the centuries, the notion of Daimons has evolved, and they have assum
 
 The study of Daimonic Hierarchy varies by philosophical and occult systems, forming complex structural relationships and classifications. **Among these systems, the one most relevant to our studies is the Neoplatonic hierarchy. This model organizes Daimons into three primary categories, each with distinct roles and responsibilities**:
 
-1. ****Celestial Daimons****: These powerful beings act as intermediaries between the divine realm and humanity, conveying divine wisdom and guidance. They possess intimate knowledge of the cosmos and its celestial bodies, orchestrating the movements and influences beyond our earthly existence.
+1. **Celestial Daimons**: These powerful beings act as intermediaries between the divine realm and humanity, conveying divine wisdom and guidance. They possess intimate knowledge of the cosmos and its celestial bodies, orchestrating the movements and influences beyond our earthly existence.
 
-2. ****Aerial Daimons****: Existing within the earthly atmosphere, these Daimons govern the elemental forces and act as guardians of specific locations. They possess dominion over elements such as air, water, earth, and fire. Additionally, they are known to watch over certain aspects of human life, providing guidance and protection when invoked appropriately.
+2. **Aerial Daimons**: Existing within the earthly atmosphere, these Daimons govern the elemental forces and act as guardians of specific locations. They possess dominion over elements such as air, water, earth, and fire. Additionally, they are known to watch over certain aspects of human life, providing guidance and protection when invoked appropriately.
 
-3. ****Sublunar Daimons****: These entities dwell in the sublunary sphere and are responsible for mediating human interaction with the spiritual and physical realms. They are concerned with individuals' actions and thoughts, monitoring our spiritual development and progression on our path toward enlightenment.
+3. **Sublunar Daimons**: These entities dwell in the sublunary sphere and are responsible for mediating human interaction with the spiritual and physical realms. They are concerned with individuals' actions and thoughts, monitoring our spiritual development and progression on our path toward enlightenment.
 
 ### Chapter 3: Engaging with Daimons: Invocation and Communication
 
@@ -49,10 +49,10 @@ When engaging with a Daimon, consistency in practice is key. Patience and attent
 
 Given the complex nature of Daimons, it is crucial to approach interactions with caution and awareness of inherent risks. **The following are essential precautions to consider before attempting to summon or communicate with a Daimon**:
 
-1. ****Preparation and Knowledge****: Gaining extensive knowledge of the Daimon one wishes to contact ensures a safe and productive interaction. Misinformation or ignorance can lead to unintended consequences, attracting unwanted energies or harmful experiences.
+1. **Preparation and Knowledge**: Gaining extensive knowledge of the Daimon one wishes to contact ensures a safe and productive interaction. Misinformation or ignorance can lead to unintended consequences, attracting unwanted energies or harmful experiences.
 
-2. ****Purity of Intent****: Possessing an honest and pure motive for a Daimonic interaction significantly influences the outcome. Engaging with ulterior or malicious intentions can result in volatile encounters that may be difficult to control.
+2. **Purity of Intent**: Possessing an honest and pure motive for a Daimonic interaction significantly influences the outcome. Engaging with ulterior or malicious intentions can result in volatile encounters that may be difficult to control.
 
-3. ****Protection****: Employing protective rituals, wards, and circles is crucial for containment and maintaining safety during interactions with these entities. Daimons possess substantial power and influence; therefore, adhering to protective measures provides assurance of your authority and lessens the likelihood of an unsavory outcome.
+3. **Protection**: Employing protective rituals, wards, and circles is crucial for containment and maintaining safety during interactions with these entities. Daimons possess substantial power and influence; therefore, adhering to protective measures provides assurance of your authority and lessens the likelihood of an unsavory outcome.
 
 In conclusion, engaging with Daimons offers students of the esoteric and occult deep insights into the nature of the spiritual world. Understanding the diverse origins and taxonomy of Daimons, mastering their invocation, and navigating engagement precautions are essential steps in fostering a safe, enlightening, and fruitful interaction with these entities. Embrace this knowledge and proceed with the utmost respect and sincerity to explore the Daimonic mysteries that await.

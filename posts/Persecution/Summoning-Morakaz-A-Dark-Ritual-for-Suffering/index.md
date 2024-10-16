@@ -23,9 +23,9 @@ excerpt: >
 
 ## Title: The Oppressor's Invocation
 
-Objective: To summon the oppressive entity known as Morakaz, the Tormentor, in order to wreak havoc upon one's targets and spread wide-scale suffering.
+**Objective**: To summon the oppressive entity known as Morakaz, the Tormentor, in order to wreak havoc upon one's targets and spread wide-scale suffering.
 
-Warning: This spell is potent, and if performed improperly, the caster may face dire consequences, including becoming a victim of Morakaz's torment. Proceed with caution.
+**Warning**: This spell is potent, and if performed improperly, the caster may face dire consequences, including becoming a victim of Morakaz's torment. Proceed with caution.
 
 Required Ritualistic Objects:
 

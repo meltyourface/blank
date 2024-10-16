@@ -40,26 +40,26 @@ excerpt: >
 6. Personalized Principles Application (10 minutes)
 7. Evaluation and Individual Adaptation (5 minutes)
 
-Total Estimated Time: 2 hours
+**Total Estimated Time**: 2 hours
 
 ### II. Unique Meditations, Chants, or Prayers for Each Eye
 
-1. ****Eye of Wisdom****: Focus on a pearl of knowledge, and chant "Om Shakti Vidyaaye Namaha" three times.
-2. ****Eye of Compassion****: Visualize a loving embrace, and chant "Om Prema Karunaaye Namaha" three times.
-3. ****Eye of Transformation****: Envision a flame of transformation, and chant "Om Agni Shaktiaye Namaha'" three times.
-4. ****Eye of Creation****: Imagine a blossoming flower, and chant "Om Srishti Shaktiaye Namaha" three times.
-5. ****Eye of Nurturing****: Picture a soothing spring, and chant "Om Poshana Shaktiaye Namaha" three times.
-6. ****Eye of Destruction****: Visualize a lightning bolt of power, and chant "Om Samhara Shaktiaye Namaha" three times.
-7. ****Eye of Balance****: Envision a pendulum swinging in equilibrium, and chant "Om Sthiti Shaktiaye Namaha" three times.
-8. ****Eye of Renewal****: Visualize a sunrise, and chant "Om Navanirmana Shaktiaye Namaha" three times.
-9. ****Eye of Understanding****: Picture a bridge, and chant "Om Viveka Shaktiaye Namaha" three times.
-10. ****Eye of Clarity****: Envision an illuminating light, and chant "Om Jyoti Shaktiaye Namaha" three times.
-11. ****Eye of Courage****: Visualize a strong and sturdy tree, and chant "Om Veerya Shaktiaye Namaha" three times.
-12. ****Eye of Protection****: Picture a shield of energy surrounding you, and chant "Om Raksha Shaktiaye Namaha" three times.
-13. ****Eye of Unity****: Envision a world without divisions, and chant "Om Ekata Shaktiaye Namaha" three times.
-14. ****Eye of Abundance****: Visualize a cornucopia of blessings, and chant "Om Aishwarya Shaktiaye Namaha" three times.
-15. ****Eye of Beauty****: Picture a captivating sunset, and chant "Om Saundarya Shaktiaye Namaha" three times.
-16. ****Eye of Mastery****: Envision a crown on your head, and chant "Om Sarva Siddhiaye Namaha" three times.
+1. **Eye of Wisdom**: Focus on a pearl of knowledge, and chant "Om Shakti Vidyaaye Namaha" three times.
+2. **Eye of Compassion**: Visualize a loving embrace, and chant "Om Prema Karunaaye Namaha" three times.
+3. **Eye of Transformation**: Envision a flame of transformation, and chant "Om Agni Shaktiaye Namaha'" three times.
+4. **Eye of Creation**: Imagine a blossoming flower, and chant "Om Srishti Shaktiaye Namaha" three times.
+5. **Eye of Nurturing**: Picture a soothing spring, and chant "Om Poshana Shaktiaye Namaha" three times.
+6. **Eye of Destruction**: Visualize a lightning bolt of power, and chant "Om Samhara Shaktiaye Namaha" three times.
+7. **Eye of Balance**: Envision a pendulum swinging in equilibrium, and chant "Om Sthiti Shaktiaye Namaha" three times.
+8. **Eye of Renewal**: Visualize a sunrise, and chant "Om Navanirmana Shaktiaye Namaha" three times.
+9. **Eye of Understanding**: Picture a bridge, and chant "Om Viveka Shaktiaye Namaha" three times.
+10. **Eye of Clarity**: Envision an illuminating light, and chant "Om Jyoti Shaktiaye Namaha" three times.
+11. **Eye of Courage**: Visualize a strong and sturdy tree, and chant "Om Veerya Shaktiaye Namaha" three times.
+12. **Eye of Protection**: Picture a shield of energy surrounding you, and chant "Om Raksha Shaktiaye Namaha" three times.
+13. **Eye of Unity**: Envision a world without divisions, and chant "Om Ekata Shaktiaye Namaha" three times.
+14. **Eye of Abundance**: Visualize a cornucopia of blessings, and chant "Om Aishwarya Shaktiaye Namaha" three times.
+15. **Eye of Beauty**: Picture a captivating sunset, and chant "Om Saundarya Shaktiaye Namaha" three times.
+16. **Eye of Mastery**: Envision a crown on your head, and chant "Om Sarva Siddhiaye Namaha" three times.
 
 ### III. Offerings and Sacred Elements
 

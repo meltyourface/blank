@@ -28,7 +28,7 @@ Opening Mantras:
 
 **Visualization**: Envision a glowing orb of pure light expanding from your heart, engulfing the entire space.
 
-Physical Gesture: Hold your hands with palms facing up, fingertips pointing away from the body. Lift them high above your head as if offering energy to the divine realm.
+**Physical Gesture**: Hold your hands with palms facing up, fingertips pointing away from the body. Lift them high above your head as if offering energy to the divine realm.
 
 2. Taraka Bhuvi-Shuddhi Svaha (तारका भुवि-शुद्धि स्वहा)
 
@@ -36,7 +36,7 @@ Physical Gesture: Hold your hands with palms facing up, fingertips pointing away
 
 **Visualization**: Imagine a brilliant flame of white and blue light blazing at your core, burning away impurities and distractions.
 
-Physical Gesture: Perform this mantra while seated in a cross-legged position, palms facing down on the knees for grounding.
+**Physical Gesture**: Perform this mantra while seated in a cross-legged position, palms facing down on the knees for grounding.
 
 3. Mahakala Devaraksha Gachchhatu (महाकाल देवरक्षा गच्छतु)
 
@@ -44,7 +44,7 @@ Physical Gesture: Perform this mantra while seated in a cross-legged position, p
 
 **Visualization**: Visualize the presence of your chosen guardian deity or guides, manifesting in the sacred space to accompany and protect you during your practice.
 
-Physical Gesture: Bring your palms together at your heart center, signifying devotion, respect, and humility to the guardian spirits.
+**Physical Gesture**: Bring your palms together at your heart center, signifying devotion, respect, and humility to the guardian spirits.
 
 Main Mantras:
 
@@ -54,7 +54,7 @@ Main Mantras:
 
 **Visualization**: Envision entering a beautiful garden or other serene, safe space within your mind as you begin your spiritual journey.
 
-Physical Gesture: Bring your hands to the heart center, symbolizing the commencement of your inner exploration.
+**Physical Gesture**: Bring your hands to the heart center, symbolizing the commencement of your inner exploration.
 
 5. Jnana Vimarsha Siddhir Bhavatu (ज्ञान विमर्श सिद्धिर् भवतु)
 
@@ -62,7 +62,7 @@ Physical Gesture: Bring your hands to the heart center, symbolizing the commence
 
 **Visualization**: Picture yourself absorbing radiant light particles that represent wisdom, converting them into insights and understanding.
 
-Physical Gesture: Place your right hand on your forehead, symbolizing the absorption of knowledge and wisdom.
+**Physical Gesture**: Place your right hand on your forehead, symbolizing the absorption of knowledge and wisdom.
 
 6. Ananda Sagara Anubhuti Prayojana (आनन्द सागर अनुभूति प्रयोजन)
 
@@ -70,7 +70,7 @@ Physical Gesture: Place your right hand on your forehead, symbolizing the absorp
 
 **Visualization**: Envision your body and mind submerging into a vast ocean of brilliant, shimmering light, feeling the joy and love envelop you like an all-embracing ocean wave.
 
-Physical Gesture: Embrace your body with both arms, symbolizing the loving embrace of divine energy.
+**Physical Gesture**: Embrace your body with both arms, symbolizing the loving embrace of divine energy.
 
 7. Khagendra Pranidhana Sankalpi (खगेन्द्र प्रणिधान सङ्कल्पि)
 
@@ -78,7 +78,7 @@ Physical Gesture: Embrace your body with both arms, symbolizing the loving embra
 
 **Visualization**: Visualize a powerful, confident force within you, growing stronger with each recitation of the mantra.
 
-Physical Gesture: Clasp your hands together, interlocking the fingers, signifying the merging of willpower and intention.
+**Physical Gesture**: Clasp your hands together, interlocking the fingers, signifying the merging of willpower and intention.
 
 8. Dharanidhara Manopurnata Smaranam (धरणिधर मनोपूर्णता स्मरणम्)
 
@@ -86,7 +86,7 @@ Physical Gesture: Clasp your hands together, interlocking the fingers, signifyin
 
 **Visualization**: Envision the loving, grounding energy of the Earth rising into your body like roots, anchoring all you have gained during your journey.
 
-Physical Gesture: Place your hands flat on the ground, palms down, symbolizing your connection to the Earth and the act of grounding.
+**Physical Gesture**: Place your hands flat on the ground, palms down, symbolizing your connection to the Earth and the act of grounding.
 
 Closing Mantras:
 
@@ -96,7 +96,7 @@ Closing Mantras:
 
 **Visualization**: See yourself enveloped in a warm, glowing light, as a symbol of divine grace and appreciation.
 
-Physical Gesture: Bow your head slightly and bring your hands to your heart center in a gesture of humble gratitude.
+**Physical Gesture**: Bow your head slightly and bring your hands to your heart center in a gesture of humble gratitude.
 
 10. Suraksha Vishranta Avakasha (सुरक्षा विश्रान्त अवकाश)
 
@@ -104,7 +104,7 @@ Physical Gesture: Bow your head slightly and bring your hands to your heart cent
 
 **Visualization**: Visualize a strong, protective aura surrounding you, guarding you as you venture back into the world.
 
-Physical Gesture: Cross your arms across your chest, signifying the shielding of your heart and energy field.
+**Physical Gesture**: Cross your arms across your chest, signifying the shielding of your heart and energy field.
 
 11. Antariksha-Bhava Shanti Sarvaloka (अन्तरिक्ष-भव शान्ति सर्वलोक)
 
@@ -112,6 +112,6 @@ Physical Gesture: Cross your arms across your chest, signifying the shielding of
 
 **Visualization**: Envision a soft, soothing light descending from the heavens and spreading across the Earth, imparting peace and kindness to all beings.
 
-Physical Gesture: Open your arms wide, palms facing outwards, as if releasing the energy of the sacred space and embracing the world.
+**Physical Gesture**: Open your arms wide, palms facing outwards, as if releasing the energy of the sacred space and embracing the world.
 
 By incorporating these mantras into your Pathworking practice, you can facilitate powerful spiritual exploration, self-discovery, and inner growth, while maintaining a harmonious connection with the divine, grounding energies, and protective forces. Use these mantras mindfully, applying the suggested visualizations, gestures, and tools to enhance their efficiency.

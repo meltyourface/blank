@@ -22,7 +22,7 @@ excerpt: Invent a comprehensive ritual incorporating physical normality elements
 
 ## Ritual of Purification and Recharge for Divination Tools
 
-Purpose: To purify and recharge a chosen divination tool, such as a crystal ball, pendulum, or tarot cards, removing unwanted energies and influences, realigning the tool's natural vibrations with the physical realm, and promoting accurate divinatory readings.
+**Purpose**: To purify and recharge a chosen divination tool, such as a crystal ball, pendulum, or tarot cards, removing unwanted energies and influences, realigning the tool's natural vibrations with the physical realm, and promoting accurate divinatory readings.
 
 Required Items:
 1. Divination tool (crystal ball, pendulum, or tarot cards)

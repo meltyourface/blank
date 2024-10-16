@@ -32,7 +32,7 @@ Tetractys sang, oh square embrace,
 Lam, lam, basal font aflame,
 Muladhara's power langish not!"
 
-Rhythmic Pattern: 4/4, steady and grounding
+**Rhythmic Pattern**: 4/4, steady and grounding
 Resonant Tone: 194.18 Hz, C note
 
 II). **Svadhisthana (Sacral Chakra) Activation Incantation**:
@@ -46,7 +46,7 @@ Crescent moon, thy shape attest,
 Vam, vam, ablaze within,
 Svadhisthana spins aflame!"
 
-Rhythmic Pattern: 6/8, fluid and flowing
+**Rhythmic Pattern**: 6/8, fluid and flowing
 Resonant Tone: 210.42 Hz, D note
 
 III). **Manipura (Solar Plexus Chakra) Activation Incantation**:
@@ -60,7 +60,7 @@ Triangular sun, strength implores,
 Ram, ram, Manipura shines,
 Solar plexus beams align!"
 
-Rhythmic Pattern: 3/4, dynamic and powerful
+**Rhythmic Pattern**: 3/4, dynamic and powerful
 Resonant Tone: 126.22 Hz, E note
 
 IV). **Anahata (Heart Chakra) Activation Incantation**:
@@ -74,7 +74,7 @@ Hexagram unfolds, love's sweet fire,
 Yam, yam, Anahata opens wide,
 Heart connected, let love abides!"
 
-Rhythmic Pattern: 2/4, balanced and harmonious
+**Rhythmic Pattern**: 2/4, balanced and harmonious
 Resonant Tone: 136.10 Hz, F note
 
 V). **Vishuddha (Throat Chakra) Activation Incantation**:
@@ -88,7 +88,7 @@ Lotus petals sing, voice uncouth,
 Ham, ham, Vishuddha glows,
 Expression pure, throat bestows!"
 
-Rhythmic Pattern: 5/4, flexible and expressive
+**Rhythmic Pattern**: 5/4, flexible and expressive
 Resonant Tone: 141.27 Hz, G note 
 
 VI). **Ajna (Third Eye Chakra) Activation Incantation**:
@@ -102,7 +102,7 @@ Duali-flowers propagate,
 Om, om, Ajna visions grand,
 Perception sharp, third eye expand!" 
 
-Rhythmic Pattern: 7/4, complex and insightful
+**Rhythmic Pattern**: 7/4, complex and insightful
 Resonant Tone: 221.23 Hz, A note
 
 VII). **Sahasrara (Crown Chakra) Activation Incantation**:
@@ -116,7 +116,7 @@ Lotus blooms a thousand rounds,
 Ah, ah, Sahasrara unite,
 Divine current, crown ignites!"
 
-Rhythmic Pattern: 8/4, expansive and transcendent
+**Rhythmic Pattern**: 8/4, expansive and transcendent
 Resonant Tone: 172.06 Hz, B note
 
 When reciting these incantations, align your focus and intention with each corresponding chakra. Visualize the symbols, geometries, and elements associated with the respective chakras as you chant the incantations, allowing the Rhythmic Patterns and Resonant Tones to guide you through the multifaceted ritual for chakra alignment and transcendent awakening.

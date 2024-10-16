@@ -30,41 +30,41 @@ The pursuit of knowledge and mastery in the occult arts is a noble and challengi
 
 The first step in any successful engagement with an entity is determining how to properly summon and establish contact. **There are several traditional and time-tested methods, outlined below**:
 
-1. ****Ritual circle****: Creating a physical circle using specific sigils, symbols, and incantations can help you call forth an entity and provide a channel of communication. The circle often serves as a focal point and boundary to contain the entity's energy, ensuring that it cannot break free and cause harm.
+1. **Ritual circle**: Creating a physical circle using specific sigils, symbols, and incantations can help you call forth an entity and provide a channel of communication. The circle often serves as a focal point and boundary to contain the entity's energy, ensuring that it cannot break free and cause harm.
 
-2. ****Scrying****: Scrying is the art of seeing beyond our plane of existence using various tools like black mirrors, crystals, or even water. This technique often begins with meditation, followed by gazing into the medium until visions and contact with the entity occur.
+2. **Scrying**: Scrying is the art of seeing beyond our plane of existence using various tools like black mirrors, crystals, or even water. This technique often begins with meditation, followed by gazing into the medium until visions and contact with the entity occur.
 
-3. ****Astral projection****: Traveling to an entity's realm through astral projection allows for a more direct and immersive experience. This method requires a strong foundation in the art of astral projection and can be dangerous if one is ill-prepared.
+3. **Astral projection**: Traveling to an entity's realm through astral projection allows for a more direct and immersive experience. This method requires a strong foundation in the art of astral projection and can be dangerous if one is ill-prepared.
 
 ### II. Protection Techniques
 
 When summoning any entity, it is vital to ensure proper protection. **Entities may have their desires and agendas, and it is wise to safeguard oneself from potential harm. Some common protection techniques are**:
 
-1. ****Salt circles****: Surround the ritual circle with a barrier of salt. Salt has long been known for its salient protective properties and is believed to prevent negative energies from crossing its boundary.
+1. **Salt circles**: Surround the ritual circle with a barrier of salt. Salt has long been known for its salient protective properties and is believed to prevent negative energies from crossing its boundary.
 
-2. ****Protective amulets and charms****: Wearing or carrying amulets and charms imbued with protective energies can provide an additional layer of safeguard. Some students may choose to wear a pendant or carry a charm in their hand during the ritual.
+2. **Protective amulets and charms**: Wearing or carrying amulets and charms imbued with protective energies can provide an additional layer of safeguard. Some students may choose to wear a pendant or carry a charm in their hand during the ritual.
 
-3. ****Energy shielding****: Learning to create an energetic shield around yourself is a powerful protective technique. This requires focused mental fortitude and may take time to master but can be invaluable when dealing with entities.
+3. **Energy shielding**: Learning to create an energetic shield around yourself is a powerful protective technique. This requires focused mental fortitude and may take time to master but can be invaluable when dealing with entities.
 
 ### III. Establishing Communication
 
 Once an entity has been summoned, the most crucial aspect of the interaction is communication. **Here are some essential pointers to keep in mind**:
 
-1. ****Respect****: Always address the entity with the utmost respect, as it will set the tone for the conversation and display your intentions.
+1. **Respect**: Always address the entity with the utmost respect, as it will set the tone for the conversation and display your intentions.
 
-2. ****Clarity****: Be clear and concise when asking questions or making requests. Remaining direct ensures that misunderstandings and confusion are minimized.
+2. **Clarity**: Be clear and concise when asking questions or making requests. Remaining direct ensures that misunderstandings and confusion are minimized.
 
-3. ****Listen carefully****: Pay close attention to the responses and wisdom the entity offers. They may speak in riddles or symbolically, so it's important to be mentally agile and adapt to their mode of communication.
+3. **Listen carefully**: Pay close attention to the responses and wisdom the entity offers. They may speak in riddles or symbolically, so it's important to be mentally agile and adapt to their mode of communication.
 
 ### IV. Forming Agreements with Entities
 
 When making a request or forming an agreement with the summoned entity, consider the following guidelines:
 
-1. ****Be precise****: Clearly state the terms and conditions of the agreement, so both parties have a mutual understanding.
+1. **Be precise**: Clearly state the terms and conditions of the agreement, so both parties have a mutual understanding.
 
-2. ****Mutual benefit****: Strive for a fair exchange, where both parties involved receive something of value. This may vary depending on the entity and its abilities.
+2. **Mutual benefit**: Strive for a fair exchange, where both parties involved receive something of value. This may vary depending on the entity and its abilities.
 
-3. ****Fulfill your commitments****: Keep your word and honor the terms of the agreement. Failing to do so can have severe consequences.
+3. **Fulfill your commitments**: Keep your word and honor the terms of the agreement. Failing to do so can have severe consequences.
 
 ### V. Risks and Rewards
 

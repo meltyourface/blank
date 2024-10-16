@@ -30,9 +30,9 @@ Cultural significance is intrinsically tied to the types of armaments used by va
 
 Some common types of folk-magical armaments include:
 
-1. ****Amulets****: Objects or symbols imbued with protective properties, often worn or carried for safety and luck.
-2. ****Talismans****: Similar to amulets, but specifically charged with particular energies or intentions to bring about a desired outcome.
-3. ****Ritual tools****: A wide category encompassing objects such as wands, staffs, and athames, which are employed to channel or direct magical energies.
+1. **Amulets**: Objects or symbols imbued with protective properties, often worn or carried for safety and luck.
+2. **Talismans**: Similar to amulets, but specifically charged with particular energies or intentions to bring about a desired outcome.
+3. **Ritual tools**: A wide category encompassing objects such as wands, staffs, and athames, which are employed to channel or direct magical energies.
 
 ### Chapter 2: Creation and Imbuement of Magical Properties
 

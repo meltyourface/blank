@@ -21,9 +21,9 @@ excerpt: Craft a meticulously-designed herbal concoction, specifically tailored 
 ---
 To craft a meticulously-designed herbal concoction to invoke and establish communion with a preselected supernatural entity, I will consider the entity's known preferences, vibrations, and associations along with the safety, control, and amplification of psychic reach during the process.
 
-1. ****Preparation****: Begin by gathering information about the target entity. Research its associations – element, color, plants, animals, and other symbols. Once you have gathered the information, select herbs that resonate with the being's vibration and preferences.
+1. **Preparation**: Begin by gathering information about the target entity. Research its associations – element, color, plants, animals, and other symbols. Once you have gathered the information, select herbs that resonate with the being's vibration and preferences.
 
-2. ****Selection of herbs****: Based on the research, choose 7-9 herbs that not only amplify psychic reach but also resonate with the entity. **For this example, I'll assume our target entity is associated with the earth element, the color green, and the animals crow, wolf, and serpent. Some potential herbs to consider include**:
+2. **Selection of herbs**: Based on the research, choose 7-9 herbs that not only amplify psychic reach but also resonate with the entity. **For this example, I'll assume our target entity is associated with the earth element, the color green, and the animals crow, wolf, and serpent. Some potential herbs to consider include**:
 
 - Mugwort (for psychic vision)
 - Wormwood (as an offering to spirits)
@@ -35,7 +35,7 @@ To craft a meticulously-designed herbal concoction to invoke and establish commu
 - Yarrow (for protection and courage in interacting with spirits)
 - Juniper berries (for purification and protection)
 
-3. ****Experimenting with proportions and synergies****: Start with a base blend of equal parts of the selected herbs. **For instance**:
+3. **Experimenting with proportions and synergies**: Start with a base blend of equal parts of the selected herbs. **For instance**:
 
 - 2 parts Mugwort
 - 1 part Wormwood 
@@ -47,10 +47,10 @@ To craft a meticulously-designed herbal concoction to invoke and establish commu
 - 1 part Yarrow
 - 1 part Juniper berries
 
-4. ****Crafting the blend****: Crush the herbs in a mortar and pestle while focusing on your intention, to establish a communion with the target entity. Take your time, blending with purpose, and chanting an invocation or affirmation to imbue your blend with your intentions.
+4. **Crafting the blend**: Crush the herbs in a mortar and pestle while focusing on your intention, to establish a communion with the target entity. Take your time, blending with purpose, and chanting an invocation or affirmation to imbue your blend with your intentions.
 
-5. ****Testing and refining the blend****: Place a small amount of the herbal concoction in a fire-safe container and light it with a pure intention, inhaling the fragrance and using a ritualistic method such as astral projection, meditation, or scrying to attempt to establish a connection to the entity. Based on the results, adjust the proportions or herbs if needed, and then test and refine again until you achieve optimal potency.
+5. **Testing and refining the blend**: Place a small amount of the herbal concoction in a fire-safe container and light it with a pure intention, inhaling the fragrance and using a ritualistic method such as astral projection, meditation, or scrying to attempt to establish a connection to the entity. Based on the results, adjust the proportions or herbs if needed, and then test and refine again until you achieve optimal potency.
 
-6. ****Storing the blend****: Store the herbal concoction in an airtight container, preferably made of glass or a material that won't react with the herbs, and keep it in a cool, dark place to preserve its freshness and potency.
+6. **Storing the blend**: Store the herbal concoction in an airtight container, preferably made of glass or a material that won't react with the herbs, and keep it in a cool, dark place to preserve its freshness and potency.
 
 Throughout this process, prioritize safety and control by maintaining proper grounding and protective measures. The meticulously-designed herbal concoction will become an indispensable tool in invoking and establishing communion with the preselected supernatural entity, increasing the likelihood of a vivid, interactive encounter.

@@ -28,10 +28,10 @@ excerpt: >
 1. A private, clean, and quiet space for performing the ritual.
 2. A comfortable cushion or meditation mat.
 3. A dream journal and a pen.
-4. ****A set of esoteric symbols (example****: Ankh, Eye of Horus, Ouroboros, etc.).
+4. **A set of esoteric symbols (example**: Ankh, Eye of Horus, Ouroboros, etc.).
 5. A symbol of lunar cycles (e.g., a lunar calendar or a moon phase tracking application).
 6. Candles or soft lighting to create a tranquil atmosphere.
-7. ****Incense or essential oils for enhanced sensory experience (examples****: lavender, sandalwood, jasmine, etc.).
+7. **Incense or essential oils for enhanced sensory experience (examples**: lavender, sandalwood, jasmine, etc.).
 
 ### II. **Timing**:
 

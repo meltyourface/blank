@@ -33,15 +33,15 @@ This section of the grimoire provides an overview of fetish-skulls, their histor
 
 Creating a fetish-skull requires care, attentiveness, and respect for the materials and forces involved. Below, we enumerate the essential steps in the process.
 
-1. ****Procurement of the base material****: Fetish-skulls can be crafted from animal or human bones, stones, or even certain types of wood. The choice of material will impact the energy type and strength of the fetish-skull. For example, animal bones tend to connect more readily to nature spirits, while human skulls are believed to be conducive to ancestral connections.
+1. **Procurement of the base material**: Fetish-skulls can be crafted from animal or human bones, stones, or even certain types of wood. The choice of material will impact the energy type and strength of the fetish-skull. For example, animal bones tend to connect more readily to nature spirits, while human skulls are believed to be conducive to ancestral connections.
 
-2. ****Preparation of the base material****: Thoroughly clean the chosen material, removing any dirt or residue. Follow traditional cleansing practices, such as smudging the object with herbs or bathing it in salt water, to purify it and remove extraneous energies.
+2. **Preparation of the base material**: Thoroughly clean the chosen material, removing any dirt or residue. Follow traditional cleansing practices, such as smudging the object with herbs or bathing it in salt water, to purify it and remove extraneous energies.
 
-3. ****Adornments and inscriptions****: Decorate the skull with inscriptions, sigils, or runes that harness and focus the energies you wish to call upon. These may be engraved into the surface of the skull, painted on, or affixed with adhesives. Semi-precious stones, metals, and feathers hold specific energies and can be integrated to enhance the power of the fetish-skull.
+3. **Adornments and inscriptions**: Decorate the skull with inscriptions, sigils, or runes that harness and focus the energies you wish to call upon. These may be engraved into the surface of the skull, painted on, or affixed with adhesives. Semi-precious stones, metals, and feathers hold specific energies and can be integrated to enhance the power of the fetish-skull.
 
-4. ****Consecration****: Perform a consecration ritual tailored to your specific tradition and intentions. This may involve reciting specific incantations, performing invocations, or offering gifts and sacrifices to deities or spirits.
+4. **Consecration**: Perform a consecration ritual tailored to your specific tradition and intentions. This may involve reciting specific incantations, performing invocations, or offering gifts and sacrifices to deities or spirits.
 
-5. ****Activation****: Charge your completed fetish-skull with energy before use. This may be achieved through meditation, storing the skull on an altar, or exposing it to lunar or solar power.
+5. **Activation**: Charge your completed fetish-skull with energy before use. This may be achieved through meditation, storing the skull on an altar, or exposing it to lunar or solar power.
 
 ### Section III: Historical Significance and Applications in Rituals
 

@@ -25,7 +25,7 @@ Introduction to the Adamical Roots of Enochian
 
 The Enochian language, often considered the language of angels and divine beings, has a long and fascinating history steeped in esoteric lore and occult studies. Also known as the "Celestial Speech," this enigmatic language traces its origins back to the mythical Adamical language, a lost divine language that was said to have been spoken by Adam in the Garden of Eden and holds a key to unlocking the mysteries of the universe. This chapter offers students an in-depth study of the Adamical roots of the Enochian language, exploring its historical significance, linguistic features, and relevance in the occult practice.
 
-Historical Context: Enochian and Biblical Connections
+**Historical Context**: Enochian and Biblical Connections
 
 The foundation of Enochian lies in the biblical legend of Enoch, a patriarch who was known for his unique gift of communication with celestial beings. According to the Book of Enoch, a non-canonical Jewish religious work, Enoch ascended to the heavens where he became the scribe of the angels, learning their speech and returning with this knowledge to teach humanity.
 

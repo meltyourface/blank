@@ -34,7 +34,7 @@ Mature Berserkir Tradition (c. **200 - 800 CE)**:
 - 5th - 6th Century CE: Key aspects of Berserkir culture, such as shamanic rituals, integration of animal symbolism, and belligerent prowess, become more defined and intricately connected.
 - 7th - 8th Century CE: Integration with Norse spiritual beliefs, the Berserkir warriors assume roles as iconic figures, both to be revered in sagas and feared on the battlefield.
 
-Viking Age: Culmination of Berserkir Culture (c. **800 - 1066 CE)**:
+**Viking Age**: Culmination of Berserkir Culture (c. **800 - 1066 CE)**:
 - 9th Century CE: Summit of Berserkir culture, with Berserkir warriors playing pivotal roles in Viking sagas, including the Volsunga Saga, Egil's Saga, Saga of the Ynglings, and Hrolf Kraki's Saga.
 - Early 10th Century CE: Accounts from Viking raids and battles indicate that Berserkir warriors occupied a fearsome role on the front lines, acting as shock troops, and engaging in acts of legendary prowess, such as the single combat known as holmgangs.
 - Late 10th - Early 11th Century CE: Appearance of the word "berserker" in Old Norse literature representing these warriors and their ferocity. The term becomes synonymous with their unfaltering ability to unleash animalistic fury in battle.

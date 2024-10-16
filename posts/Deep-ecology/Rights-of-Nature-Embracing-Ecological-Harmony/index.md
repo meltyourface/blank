@@ -24,13 +24,13 @@ Epistle I: Legal Recognition of the Rights of Nature
 
 To my esteemed colleagues,
 
-As humble observers of the natural world, we must acknowledge and embrace our indispensable role in shaping its future. ****As such, I draw your attention to a movement that has gained momentum of late and deserves our unyielding support****: the Rights of Nature.
+As humble observers of the natural world, we must acknowledge and embrace our indispensable role in shaping its future. **As such, I draw your attention to a movement that has gained momentum of late and deserves our unyielding support**: the Rights of Nature.
 
 The first step in realizing this vision lies in its legal recognition, for it is through such instruments that our societies correct injustices and protect the vulnerable. Our present legal frameworks regard ecosystems merely as private or public property, and nature as a reservoir of resources. We must redefine these relationships. By recognizing the Rights of Nature, we grant legal standing to ecosystems, validating the necessity of their protection and restoration.
 
 There are commendable examples to follow, such as the Constitution of Ecuador and the Rights of Nature ordinances in various U.S. municipalities. Such pioneering efforts deserve to be both applauded and replicated worldwide.
 
-Epistle II: The Imperative of Community Involvement
+**Epistle II**: The Imperative of Community Involvement
 
 Esteemed friends,
 
@@ -40,7 +40,7 @@ Education and public awareness campaigns can help nurture this cognizance. Initi
 
 Collective action must emerge from a shared vision, heralding the Rights of Nature as a fundamental pillar of local sustainable development plans.
 
-Epistle III: Cultural Transformation and the Rights of Nature
+**Epistle III**: Cultural Transformation and the Rights of Nature
 
 Respected peers,
 
@@ -50,7 +50,7 @@ Indigenous cultures embody such an understanding, venerating nature's vitality w
 
 It is my heartfelt belief that reviving a connection with nature will engender the empathy needed to promote and protect the Rights of Nature.
 
-Epistle IV: Redefining Humanity's Role in Ecosystems
+**Epistle IV**: Redefining Humanity's Role in Ecosystems
 
 Distinguished colleagues,
 

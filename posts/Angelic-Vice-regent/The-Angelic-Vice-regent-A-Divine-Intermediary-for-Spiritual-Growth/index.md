@@ -43,16 +43,16 @@ Esoteric studies have long sought to understand the angels' hierarchy and the Vi
 
 As a prominent figure within esoteric disciplines, the Angelic Vice-regent plays a central role in various spiritual practices. **This divine representative can be invoked for**:
 
-1. ****Guardian of spiritual knowledge****: As the keeper of divine mysteries, the Vice-regent can be sought for wisdom and guidance in esoteric studies and personal evolution.
-2. ****Conduit for divine communication****: The Vice-regent allows for messages and information to flow between the spiritual and material realms, ensuring that knowledge is passed on to those who earnestly seek it.
-3. ****Mediator of energies****: By amplifying and balancing the energies of the spiritual plane, the Vice-regent ensures the cohesiveness and harmony necessary for personal transformation.
+1. **Guardian of spiritual knowledge**: As the keeper of divine mysteries, the Vice-regent can be sought for wisdom and guidance in esoteric studies and personal evolution.
+2. **Conduit for divine communication**: The Vice-regent allows for messages and information to flow between the spiritual and material realms, ensuring that knowledge is passed on to those who earnestly seek it.
+3. **Mediator of energies**: By amplifying and balancing the energies of the spiritual plane, the Vice-regent ensures the cohesiveness and harmony necessary for personal transformation.
 
 ## Incorporating the Angelic Vice-regent in Personal Growth and Esoteric Studies
 
 To unlock the true potential of the Angelic Vice-regent in esoteric education and personal growth, students must become attuned to this powerful figure's characteristics and attributes. **Key considerations include**:
 
-1. ****Recognizing the importance of intermediaries****: Attuning oneself to the Vice-regent requires understanding their vital role as a mediator between the divine and the mortal realms. This foundational recognition allows students to approach their studies with an open heart and respect towards the celestial hierarchy.
-2. ****Acknowledging the Vice-regent as a benevolent guide****: Part of the Vice-regent's wisdom lies in their compassion and mercy. Accepting guidance from this figure involves recognizing the importance of moral values and embracing a path of healing and compassion.
-3. ****Developing a personal connection****: Cultivating a strong relationship with the Vice-regent through ritual, prayer, and heartfelt intentionality helps establish a lasting spiritual bond, leading to greater insights and deeper personal growth.
+1. **Recognizing the importance of intermediaries**: Attuning oneself to the Vice-regent requires understanding their vital role as a mediator between the divine and the mortal realms. This foundational recognition allows students to approach their studies with an open heart and respect towards the celestial hierarchy.
+2. **Acknowledging the Vice-regent as a benevolent guide**: Part of the Vice-regent's wisdom lies in their compassion and mercy. Accepting guidance from this figure involves recognizing the importance of moral values and embracing a path of healing and compassion.
+3. **Developing a personal connection**: Cultivating a strong relationship with the Vice-regent through ritual, prayer, and heartfelt intentionality helps establish a lasting spiritual bond, leading to greater insights and deeper personal growth.
 
 By incorporating these principles and understanding the Angelic Vice-regent's history and significance, students will be well-equipped to deepen their spiritual practices and find solace in the vast and intricate realms of the esoteric and occult.

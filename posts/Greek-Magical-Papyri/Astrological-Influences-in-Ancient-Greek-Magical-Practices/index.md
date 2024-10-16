@@ -29,7 +29,7 @@ Magical hours, tied to planetary motions, are also mentioned in the PGM, affecti
 
 2. Lunar Phases and Rituals
 
-Lunar phases play a significant role in the PGM, with many spells taking into consideration the moon's state. ****In PGM VII.795-845 (a divination ritual), the practitioner must "go out and look at the moon" (PGM VII.802) and recite their invocation during a specific phase****: the text suggests the best results occur when the moon is waxing or full. This principle is shared by many spells in the collection.
+Lunar phases play a significant role in the PGM, with many spells taking into consideration the moon's state. **In PGM VII.795-845 (a divination ritual), the practitioner must "go out and look at the moon" (PGM VII.802) and recite their invocation during a specific phase**: the text suggests the best results occur when the moon is waxing or full. This principle is shared by many spells in the collection.
 
 3. Zodiac Signs and Magical Activities
 

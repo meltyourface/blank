@@ -37,13 +37,13 @@ Rituals of the Ancestors Key
 
 The practice of invoking the Ancestors Key has taken numerous forms across time and space. **In general, these rituals serve to create a sacred space wherein a practitioner may come into direct contact with the ancestral realm. The following elements are pervasive across many such practices**:
 
-1. ****Altar Construction****: The altar serves as the focal point for the ritual, drawing together elements that represent the practitioner's lineage and heritage. These may include photographs of the deceased, cherished heirlooms, or symbols resonant with the seeker's culture.
+1. **Altar Construction**: The altar serves as the focal point for the ritual, drawing together elements that represent the practitioner's lineage and heritage. These may include photographs of the deceased, cherished heirlooms, or symbols resonant with the seeker's culture.
 
-2. ****Offerings****: Presenting offerings of food, drink, or incense is a common feature in rituals involving the Ancestors Key. These offerings serve as tokens of respect and sustenance for the ancestral spirits being invoked.
+2. **Offerings**: Presenting offerings of food, drink, or incense is a common feature in rituals involving the Ancestors Key. These offerings serve as tokens of respect and sustenance for the ancestral spirits being invoked.
 
-3. ****Invocations****: Prayers, songs, or mantras specific to the practitioner's cultural background may be employed to call upon the ancestors, beseeching their guidance and wisdom.
+3. **Invocations**: Prayers, songs, or mantras specific to the practitioner's cultural background may be employed to call upon the ancestors, beseeching their guidance and wisdom.
 
-4. ****Meditations****: Quiet and focused introspection allow the practitioner to enter a receptive state in which ancestral communication can manifest.
+4. **Meditations**: Quiet and focused introspection allow the practitioner to enter a receptive state in which ancestral communication can manifest.
 
 Meditative Exercise for Initiates
 

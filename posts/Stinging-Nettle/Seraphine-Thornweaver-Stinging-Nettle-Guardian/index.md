@@ -22,13 +22,13 @@ excerpt: >
 ---
 Name: Seraphine Thornweaver
 
-Appearance: Seraphine is a tall, lithe woman with silver-white hair, consisting of delicate, finely interwoven Stinging Nettle fibers, cascading down her back. Her eyes match the deep green speckled with the occasional fine silver of Nettle fibers, revealing her deep connection to the plant. She is adorned in ornate tattoos composed of Nettle ink, gracefully wrapping her arms and body, imbuing her with Nettle's power.
+**Appearance**: Seraphine is a tall, lithe woman with silver-white hair, consisting of delicate, finely interwoven Stinging Nettle fibers, cascading down her back. Her eyes match the deep green speckled with the occasional fine silver of Nettle fibers, revealing her deep connection to the plant. She is adorned in ornate tattoos composed of Nettle ink, gracefully wrapping her arms and body, imbuing her with Nettle's power.
 
-Backstory: Seraphine was born under a rare celestial event known as the Viridi Eclipse in the secluded village of Nettleshire, a community thriving within the heart of an ancient, densely packed Nettlewood forest. According to village legend, children born during the Viridi Eclipse are chosen by the Moon Goddess herself and endowed with a unique connection to the Stinging Nettle, destined to wield immense mystical prowess and protect the Nettlewood's sacred heart.
+**Backstory**: Seraphine was born under a rare celestial event known as the Viridi Eclipse in the secluded village of Nettleshire, a community thriving within the heart of an ancient, densely packed Nettlewood forest. According to village legend, children born during the Viridi Eclipse are chosen by the Moon Goddess herself and endowed with a unique connection to the Stinging Nettle, destined to wield immense mystical prowess and protect the Nettlewood's sacred heart.
 
 Over the years, Seraphine forged a strong bond with Stinging Nettle, devouring texts, folklore, and arcane practices passed down through generations. She trained under the tutelage of Nettleshire's High Priestess, who revealed the secrets of harvesting Nettle fibers under the moonlight and crafting otherworldly Nettle artifacts. Through the study of ancient rituals and focused meditation, Seraphine unleashed Stinging Nettle's full potential within her, allowing her dominion over the plant's metaphysical properties.
 
-Rituals: 
+**Rituals**: 
 
 1. **The Ritual of Nocturnal Weaving**: Seraphine performs a moonlit dance, gracefully entwining Stinging Nettle's fibers around her body, creating an unseen armor that grants her protection and greatly enhances her agility and other physical attributes. By aligning with the lunar energies, the ritual lends a balanced feminine magic to the armor, along with lunar intuition.
 

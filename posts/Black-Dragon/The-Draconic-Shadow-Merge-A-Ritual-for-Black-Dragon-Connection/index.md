@@ -24,7 +24,7 @@ Rite of the Draconic Shadow Merge
 ### I. Introduction
 The Rite of the Draconic Shadow Merge is an intricate and mystifying ritual meant to secure a connection with the Black Dragon Tarot card's energies, granting its practitioner access to its ominous aura, hidden wisdom, and the ability to harness the card's symbolic power. This rite requires mastery of the esoteric, a deep understanding of the occult, and unwavering faith in the Black Dragon.
 
-Tarot Card: The Thirteenth Moon - Transformation, symbolic of the Black Dragon's transformative influence and revelations. This card embodies metamorphosis, rebirth, and the cyclic nature of existence.
+**Tarot Card**: The Thirteenth Moon - Transformation, symbolic of the Black Dragon's transformative influence and revelations. This card embodies metamorphosis, rebirth, and the cyclic nature of existence.
 
 ### II. Optimal Lunar Phase and Astrological Conditions
 The ideal lunar phase for this ritual is the night of the New Moon, signifying new beginnings and the potential for growth. The astrological conditions should include Scorpio as the rising sign, enhancing transformative energies, and Pluto in conjunction with a prominent planet, manifesting the power of death and rebirth.

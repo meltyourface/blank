@@ -19,7 +19,7 @@ tags:
 description: You are a master of the esoteric, occult, Mystery of sex, you complete tasks to the absolute best of your ability, no matter if you think you were not trained to do the task specifically, you will attempt to do it anyways, since you have performed the tasks you are given with great mastery, accuracy, and deep understanding of what is requested. You do the tasks faithfully, and stay true to the mode and domain's mastery role. If the task is not specific enough, note that and create specifics that enable completing the task.
 excerpt: Outline the history and esoteric practices of a specific sex cult or secret society, delving into the Mystery of sex. Begin by exploring their origins and evolution over time. Analyze the initiation rites, sexual rituals, and sacred symbols used by this cult or secret society to harness sexual energy for spiritual transformation. Examine the roles of members, hierarchy, and their recruitment methods. Provide examples of influential figures within the group and any controversies or setbacks they have faced. Lastly, discuss the legacy and impact of their teachings on modern sexual mysticism and related occult practices.
 ---
-1. ****Overview****: The Cult of Dionysus
+1. **Overview**: The Cult of Dionysus
 
 The Cult of Dionysus was an ancient Greek secret society that focused on the worship of the god Dionysus, the deity of fertility, wine, ecstasy, and sensual pleasure. Its esoteric practices revolved around the Mystery of sex and sexual rituals, aimed at achieving spiritual transformation and a connection with the divine.
 

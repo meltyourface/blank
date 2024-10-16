@@ -31,21 +31,21 @@ This section will provide a comprehensive overview of the principles and practic
 
 ### I. Foundational Principles
 
-1. ****The Veil of Illusion****: Radical alterity.Dragon's Column recognizes the existence of a veil that obscures our perception of the true nature of reality. This veil, known as the Mists of Ibelon, represents the barriers humanity has constructed to distance itself from the hidden realms of existence.
+1. **The Veil of Illusion**: Radical alterity.Dragon's Column recognizes the existence of a veil that obscures our perception of the true nature of reality. This veil, known as the Mists of Ibelon, represents the barriers humanity has constructed to distance itself from the hidden realms of existence.
 
-2. ****The Multiverse Theory****: Central to the study of Radical alterity.Dragon's Column is the understanding and acceptance of the existence of multiple dimensions or alternate realities. These dimensions coexist and influence one another, creating an interconnected web known as the Dragon's Column.
+2. **The Multiverse Theory**: Central to the study of Radical alterity.Dragon's Column is the understanding and acceptance of the existence of multiple dimensions or alternate realities. These dimensions coexist and influence one another, creating an interconnected web known as the Dragon's Column.
 
-3. ****The 3 Pillars of Radical alterity.Dragon's Column****: The practition of this esoteric art is based on three core pillars: Knowledge, Will, and Connection. Knowledge refers to the understanding of the principles and practices; Will represents the determination and focus to influence reality; and Connection signifies the establishment of a bond between the practitioner and the hidden realms.
+3. **The 3 Pillars of Radical alterity.Dragon's Column**: The practition of this esoteric art is based on three core pillars: Knowledge, Will, and Connection. Knowledge refers to the understanding of the principles and practices; Will represents the determination and focus to influence reality; and Connection signifies the establishment of a bond between the practitioner and the hidden realms.
 
 ### II. Practices and Techniques
 
-1. ****The Summoning****: One of the most important practices in Radical alterity.Dragon's Column is summoning entities or forces from alternate dimensions to aid the practitioner in their quest for knowledge and power. Summoning rituals typically involve the use of sigils, incantations, and ceremonial tools, such as candles, incense, and offerings.
+1. **The Summoning**: One of the most important practices in Radical alterity.Dragon's Column is summoning entities or forces from alternate dimensions to aid the practitioner in their quest for knowledge and power. Summoning rituals typically involve the use of sigils, incantations, and ceremonial tools, such as candles, incense, and offerings.
 
-2. ****Astral Projection****: To explore alternate dimensions and gain a deep understanding of the Dragon's Column, initiates must learn the art of astral projection. This practice allows them to separate their astral body from their physical form, enabling them to traverse the hidden realms beyond space and time.
+2. **Astral Projection**: To explore alternate dimensions and gain a deep understanding of the Dragon's Column, initiates must learn the art of astral projection. This practice allows them to separate their astral body from their physical form, enabling them to traverse the hidden realms beyond space and time.
 
-3. ****Meditation and Visualization****: A key aspect of Radical alterity.Dragon's Column is the practice of meditation and visualization techniques. These are used to attune the practitioner's energy and awareness to the Dragon's Column while simultaneously enhancing their understanding of the interconnected nature of existence.
+3. **Meditation and Visualization**: A key aspect of Radical alterity.Dragon's Column is the practice of meditation and visualization techniques. These are used to attune the practitioner's energy and awareness to the Dragon's Column while simultaneously enhancing their understanding of the interconnected nature of existence.
 
-4. ****Spellcraft and Ritual****: The use of spells and rituals is an inherent aspect of Radical alterity.Dragon's Column. Practitioners use specific words, actions, and symbols to channel the power of the Dragon's Column and influence reality in accordance with their intention.
+4. **Spellcraft and Ritual**: The use of spells and rituals is an inherent aspect of Radical alterity.Dragon's Column. Practitioners use specific words, actions, and symbols to channel the power of the Dragon's Column and influence reality in accordance with their intention.
 
 ### III. Instructions for Initiates
 

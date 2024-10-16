@@ -31,17 +31,17 @@ excerpt: >
 
 ---
 1. **Vibrational qualities of cleansing crystals**:
-a. ****Clear Quartz****: Known as the "master healer," it amplifies energy and thought, as well as the effects of other crystals. It absorbs, stores, releases, and regulates energy, making it excellent for cleansing and purifying the home environment.
-b. ****Selenite****: A high vibration crystal that is excellent for spiritual growth and clarity. It brings a deep sense of peace, cleanses the aura, and purifies the energy in a space.
-c. ****Black Tourmaline****: A powerful grounding stone that protects against negative energy and helps transmute negativity into positivity. It is ideal for shielding a space from harmful energies.
-d. ****Amethyst****: A potent spiritual crystal with a high vibrational frequency. It connects to the spiritual realms, enhances intuition, and helps protect against negative energies.
-e. ****Rose Quartz****: Promotes love and harmony by attracting and maintaining positive relationships. Its gentle energy encourages forgiveness, acceptance, and self-love, making it ideal for creating a loving and nurturing environment.
+a. **Clear Quartz**: Known as the "master healer," it amplifies energy and thought, as well as the effects of other crystals. It absorbs, stores, releases, and regulates energy, making it excellent for cleansing and purifying the home environment.
+b. **Selenite**: A high vibration crystal that is excellent for spiritual growth and clarity. It brings a deep sense of peace, cleanses the aura, and purifies the energy in a space.
+c. **Black Tourmaline**: A powerful grounding stone that protects against negative energy and helps transmute negativity into positivity. It is ideal for shielding a space from harmful energies.
+d. **Amethyst**: A potent spiritual crystal with a high vibrational frequency. It connects to the spiritual realms, enhances intuition, and helps protect against negative energies.
+e. **Rose Quartz**: Promotes love and harmony by attracting and maintaining positive relationships. Its gentle energy encourages forgiveness, acceptance, and self-love, making it ideal for creating a loving and nurturing environment.
 
 2. **Energetic cleansing and consecration**:
 
-a. ****Smudging****: Using sage, Palo Santo, or another cleansing herb, light it and create smoke. Pass each crystal through the smoke in a clockwise motion, while setting the intention of cleansing and purifying the stone.
-b. ****Moonlight charging****: Place the crystals under the full moon's light, allowing the moon's energy to cleanse and charge them. Leave them out from sunset to sunrise.
-c. ****Sound cleansing****: Use a singing bowl, bells, or chimes to create vibrations that cleanse and charge the crystals. Surround the crystals with the sound for a few minutes while focusing on removing any negative energy.
+a. **Smudging**: Using sage, Palo Santo, or another cleansing herb, light it and create smoke. Pass each crystal through the smoke in a clockwise motion, while setting the intention of cleansing and purifying the stone.
+b. **Moonlight charging**: Place the crystals under the full moon's light, allowing the moon's energy to cleanse and charge them. Leave them out from sunset to sunrise.
+c. **Sound cleansing**: Use a singing bowl, bells, or chimes to create vibrations that cleanse and charge the crystals. Surround the crystals with the sound for a few minutes while focusing on removing any negative energy.
 
 3. **Crystal layout plan**:
 
@@ -57,10 +57,10 @@ The chosen arrangement aims to create a harmonious flow of energy in the home, e
 
 5. **Complementary ritual elements**:
 
-a. ****Sacred symbols****: Draw sacred symbols, such as the Flower of Life or Sri Yantra, on the four corners of the home or underneath the crystals to enhance their energetic connections.
-b. ****Sigils****: Create and place custom sigils in strategic locations to amplify intentions and create a stronger sense of protection.
-c. ****Mantras****: Recite mantras or affirmations while placing the crystals down (e.g., "I invite love, healing, and protection into my home.")
-d. ****Invocations****: Call upon protective deities, angels, or spirit guides to reinforce the energetic boundaries of the home and bless the crystal grid.
+a. **Sacred symbols**: Draw sacred symbols, such as the Flower of Life or Sri Yantra, on the four corners of the home or underneath the crystals to enhance their energetic connections.
+b. **Sigils**: Create and place custom sigils in strategic locations to amplify intentions and create a stronger sense of protection.
+c. **Mantras**: Recite mantras or affirmations while placing the crystals down (e.g., "I invite love, healing, and protection into my home.")
+d. **Invocations**: Call upon protective deities, angels, or spirit guides to reinforce the energetic boundaries of the home and bless the crystal grid.
 
 6. **Maintenance and recharging**:
 

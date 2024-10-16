@@ -23,15 +23,15 @@ excerpt: >
 
 ## Title: Unveiling the Mysteries of the Raven: A Journey Through Symbolism, Culture, and the Esoteric
 
-Duration: 6 weeks (2-hour sessions, once a week)
+**Duration**: 6 weeks (2-hour sessions, once a week)
 
-Overview: This comprehensive lesson plan will provide an in-depth exploration of raven symbolism, mysticism, and their roles in various cultural and historical contexts. Participants will engage with diverse learning materials, hands-on activities, and thought-provoking discussions designed to encourage a deeper understanding of ravens and their enigmatic nature.
+**Overview**: This comprehensive lesson plan will provide an in-depth exploration of raven symbolism, mysticism, and their roles in various cultural and historical contexts. Participants will engage with diverse learning materials, hands-on activities, and thought-provoking discussions designed to encourage a deeper understanding of ravens and their enigmatic nature.
 
-Materials: Literature excerpts, mythological stories, visual representations, handouts, writing materials, multimedia resources.
+**Materials**: Literature excerpts, mythological stories, visual representations, handouts, writing materials, multimedia resources.
 
 Week 1: Introduction to Raven Symbolism
 
-Objective: Introduce and familiarize students with raven symbolism and explore the reasons behind their significance in different cultures.
+**Objective**: Introduce and familiarize students with raven symbolism and explore the reasons behind their significance in different cultures.
 
 - Icebreaker: "What comes to mind when you think of ravens?"
 - Presentation on raven symbolism: mythological origins, appearances in literature, and modern adaptations.
@@ -40,7 +40,7 @@ Objective: Introduce and familiarize students with raven symbolism and explore t
 
 Week 2: Ravens in Mythology 
 
-Objective: Examine raven mythology and how it has influenced culture and beliefs.
+**Objective**: Examine raven mythology and how it has influenced culture and beliefs.
 
 - Students present their chosen raven-related myths and stories.
 - Presentation: Ravens in world mythologies (Norse, Native American, Celtic, etc.).
@@ -49,7 +49,7 @@ Objective: Examine raven mythology and how it has influenced culture and beliefs
 
 Week 3: Ravens in Literature and Art
 
-Objective: Analyze the appearances and symbolism of ravens in literature, poetry, and visual arts.
+**Objective**: Analyze the appearances and symbolism of ravens in literature, poetry, and visual arts.
 
 - Presentation on famous literary raven representations: Edgar Allan Poe's "The Raven," "Game of Thrones," etc.
 - Creative writing prompt: compose a short story, poem, or scene featuring a raven with symbolic significance.
@@ -58,7 +58,7 @@ Objective: Analyze the appearances and symbolism of ravens in literature, poetry
 
 Week 4: Ravens and the Esoteric
 
-Objective: Explore the mystical, spiritual, and occult associations with ravens.
+**Objective**: Explore the mystical, spiritual, and occult associations with ravens.
 
 - Guest speaker: an expert on esoteric symbolism and/or raven folklore.
 - Presentation: Ravens in Tarot, alchemy, and other mystical systems.
@@ -67,7 +67,7 @@ Objective: Explore the mystical, spiritual, and occult associations with ravens.
 
 Week 5: Raven-inspired Culture and Multimedia
 
-Objective: Delve into the fascination with ravens in popular culture and multimedia.
+**Objective**: Delve into the fascination with ravens in popular culture and multimedia.
 
 - Presentation: Ravens in movies, television series, music, and online culture.
 - Group activity: create a raven-inspired character or story concept for a multimedia project (film, graphic novel, video game, etc.).
@@ -76,7 +76,7 @@ Objective: Delve into the fascination with ravens in popular culture and multime
 
 Week 6: Synthesis and Reflection
 
-Objective: Review the various aspects of raven symbolism, culture, and its impact on participants' beliefs, perspectives, and understanding.
+**Objective**: Review the various aspects of raven symbolism, culture, and its impact on participants' beliefs, perspectives, and understanding.
 
 - Group discussion: What new insights/information about ravens have you gained? How has your understanding of raven symbolism evolved?
 - Individual presentations: Each participant shares their most significant takeaway(s) from the course or a personal piece of art/writing inspired by ravens.

@@ -35,11 +35,11 @@ The temple is characterized by its spectacular emerald color, symbolizing the un
 
 Rituals and practices within the Temple Smaragdum Thallasses involve the invocation of various elemental forces as well as the celestial influences of the moon, the sun, and the stars. These rituals aim to harmonize the practitioner with the natural world and unleash the innate magical potential within the seeker. 
 
-Purification Ritual: Upon entering the temple, one must undertake a purification ritual that involves the sacred element of water. This process, called "Ablutio Thalassa," signifies the washing away of spiritual impurities and the renewal of the soul. The practitioner then dons a white robe, symbolizing purity and devotion, before proceeding through the temple.
+**Purification Ritual**: Upon entering the temple, one must undertake a purification ritual that involves the sacred element of water. This process, called "Ablutio Thalassa," signifies the washing away of spiritual impurities and the renewal of the soul. The practitioner then dons a white robe, symbolizing purity and devotion, before proceeding through the temple.
 
-Elemental Meditations: The central chamber of the temple features a grand altar with symbols representing the four traditional elements - Earth, Water, Air, and Fire - as well as the fifth element, Spirit or Ether. Each day, the practitioner focuses on a specific element, meditating on its characteristics and how it relates to their own personal spiritual journey.
+**Elemental Meditations**: The central chamber of the temple features a grand altar with symbols representing the four traditional elements - Earth, Water, Air, and Fire - as well as the fifth element, Spirit or Ether. Each day, the practitioner focuses on a specific element, meditating on its characteristics and how it relates to their own personal spiritual journey.
 
-Lunar Cycle Observations: The Temple Smaragdum Thallasses places great emphasis on the observation of the lunar cycle. Students of the temple learn to harness the energies of the moon, utilizing this force to enhance their magical practices. This involves celebrating the various phases of the moon, performing rituals according to the current lunar phase for manifesting personal desires and spiritual growth.
+**Lunar Cycle Observations**: The Temple Smaragdum Thallasses places great emphasis on the observation of the lunar cycle. Students of the temple learn to harness the energies of the moon, utilizing this force to enhance their magical practices. This involves celebrating the various phases of the moon, performing rituals according to the current lunar phase for manifesting personal desires and spiritual growth.
 
 3. Spells and Invocations
 

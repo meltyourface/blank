@@ -23,11 +23,11 @@ To fully understand the question, let us first break down its main components: N
 
 Non-emanationist interpretation of Kabbalah: This interpretation of Kabbalah moves away from the traditional view of emanationism which posits that the physical world is a direct outcome of a series of emanations or outflow of Divine energy from God. Instead, non-emanationist Kabbalah considers that our reality exists independently from the Divine and sees our connection with the divine as one achieved through intellectual, emotional, and mystical means.
 
-Contemplative mysticism: This is a spiritual practice that seeks Divine experiences and deeper understanding of reality through contemplation, introspection, and meditation.
+**Contemplative mysticism**: This is a spiritual practice that seeks Divine experiences and deeper understanding of reality through contemplation, introspection, and meditation.
 
 Devekut (cleaving): Devekut is a Hebrew term for a mystical state in which an individual feels united or attached to the Divine.
 
-Ten Sefirot: The Sefirot are ten attributes, emanations, or channels according to traditional Kabbalah, in which the infinite divine energy manifests and interacts with the created world. They represent a framework for understanding different aspects of God and reality.
+**Ten Sefirot**: The Sefirot are ten attributes, emanations, or channels according to traditional Kabbalah, in which the infinite divine energy manifests and interacts with the created world. They represent a framework for understanding different aspects of God and reality.
 
 Now that we have a basic understanding of the components of the question, let's delve into the analysis of devekut in the context of the Non-emanationist interpretation of Kabbalah and its relationship with the Ten Sefirot. 
 

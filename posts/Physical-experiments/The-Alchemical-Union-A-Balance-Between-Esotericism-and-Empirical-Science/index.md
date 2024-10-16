@@ -33,7 +33,7 @@ The Hermetic principles, including "As above, so below" and "As within, so witho
 
 Alchemy can be seen as the perfect representation of how esotericism and empirical science come together. While many know alchemy for its pursuit of transmutation of base metals into noble metals (e.g., gold), it is also a rich philosophical tradition that focuses on spiritual and personal transformation – the union of opposites in the microcosm and macrocosm.
 
-The Alchemical Experiment: The Philosopher's Stone
+**The Alchemical Experiment**: The Philosopher's Stone
 
 The creation of the Philosopher's Stone, also known as the Magnum Opus, embodies the Hermetic principles in a physical experiment. The Philosopher's Stone is said to be a substance capable of turning base metals into gold and grants the alchemist spiritual enlightenment and physical regeneration.
 

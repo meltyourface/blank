@@ -36,27 +36,27 @@ The Grim Reaper, clad in a dark cloak and wielding a scythe, is a personificatio
 
 Various cultures perceive Death from unique angles, enriching the global tapestry of understanding about this universal concept. Here, we touch upon some of the most influential cultural perspectives on Death, which have shaped both the collective understanding and occult practices related to it.
 
-1. ****Ancient Egyptian****: In ancient Egypt, Death was seen as a threshold between the earthly realm and the afterlife. The Egyptians performed elaborate rituals to ensure safe passage for the deceased into the afterlife. The concept of the soul's immortality was central to Egyptian beliefs.
+1. **Ancient Egyptian**: In ancient Egypt, Death was seen as a threshold between the earthly realm and the afterlife. The Egyptians performed elaborate rituals to ensure safe passage for the deceased into the afterlife. The concept of the soul's immortality was central to Egyptian beliefs.
 
-2. ****Hinduism****: Hindus view Death as a part of the cycle of reincarnation (samsara). The soul is believed to separate from the body at the time of Death and reborn into a new body, depending on the karma accumulated during past lives.
+2. **Hinduism**: Hindus view Death as a part of the cycle of reincarnation (samsara). The soul is believed to separate from the body at the time of Death and reborn into a new body, depending on the karma accumulated during past lives.
 
-3. ****Greek mythology****: The Greek god of Death, Hades, oversaw the realm of the dead, known as the Underworld. According to the myth, souls crossed the River Styx to enter Hades, where they were judged and sent to their respective realms of punishment or reward.
+3. **Greek mythology**: The Greek god of Death, Hades, oversaw the realm of the dead, known as the Underworld. According to the myth, souls crossed the River Styx to enter Hades, where they were judged and sent to their respective realms of punishment or reward.
 
-4. ****Norse mythology****: Death was revered in Norse culture, and warriors who died in battle were believed to enter Odin's hall, Valhalla. Heroes who fell in combat would live an eternal afterlife of feasting and warfare.
+4. **Norse mythology**: Death was revered in Norse culture, and warriors who died in battle were believed to enter Odin's hall, Valhalla. Heroes who fell in combat would live an eternal afterlife of feasting and warfare.
 
-5. ****Shamanism****: In shamanic cultures, the shaman serves as an intermediary between the living and the dead. This spiritual practitioner embarks on otherworldly journeys to gain knowledge, seek healing, and communicate with the deceased.
+5. **Shamanism**: In shamanic cultures, the shaman serves as an intermediary between the living and the dead. This spiritual practitioner embarks on otherworldly journeys to gain knowledge, seek healing, and communicate with the deceased.
 
 ### Section 3: Rituals and Powers Related to Death
 
 Death's rituals and powers have been harnessed by countless practitioners of the occult to facilitate personal transformation, contact the deceased, and glean insights from beyond. **Here are several notable rituals and powers**:
 
-1. ****Necromancy****: The practice of communicating with the spirits of the deceased for divination or guidance. Necromancy involves summoning the spirit of the dead to ask questions or seek advice.
+1. **Necromancy**: The practice of communicating with the spirits of the deceased for divination or guidance. Necromancy involves summoning the spirit of the dead to ask questions or seek advice.
 
-2. ****Scrying****: A divinatory method using a reflective surface, like a black mirror or a bowl of water, to gain visions related to the deceased or the realm of the dead. This practice can tap into the deep wisdom of the departed, offering perspectives and insights into one's life.
+2. **Scrying**: A divinatory method using a reflective surface, like a black mirror or a bowl of water, to gain visions related to the deceased or the realm of the dead. This practice can tap into the deep wisdom of the departed, offering perspectives and insights into one's life.
 
-3. ****Funerary rites****: The burial customs and ceremonies associated with honoring the dead serve to process grief and facilitate the transition to the world beyond. These rites can vary across cultures, but their essential purpose remains the same- to ensure a safe journey and smooth passage into the afterlife for the deceased.
+3. **Funerary rites**: The burial customs and ceremonies associated with honoring the dead serve to process grief and facilitate the transition to the world beyond. These rites can vary across cultures, but their essential purpose remains the same- to ensure a safe journey and smooth passage into the afterlife for the deceased.
 
-4. ****Working with psychopomps****: These are entities who guide the souls of the dead through the liminal space between life and death. Some psychopomps include Anubis (Egyptian), Hermes (Greek), and Valkyries (Norse). Establishing relationships with psychopomps enables occult practitioners to gather deeper knowledge and insights on the nature of Death.
+4. **Working with psychopomps**: These are entities who guide the souls of the dead through the liminal space between life and death. Some psychopomps include Anubis (Egyptian), Hermes (Greek), and Valkyries (Norse). Establishing relationships with psychopomps enables occult practitioners to gather deeper knowledge and insights on the nature of Death.
 
 Conclusion
 

@@ -26,7 +26,7 @@ excerpt: Craft an intricate narrative surrounding a malevolent relic steeped in 
 
 In the heart of ancient Mesopotamia, within the buried sanctums of the Temple of Kish, the Obsidian Phylactery was born. Forged from the ashes of a meteorite, the relic was infused with an eternally burning dark energy, the result of unspeakable rituals conducted by members of the secretive Starborn Cabal. For millennias, they horded forbidden knowledge bestowed by star-born gods, incomprehensible to all but the most indoctrinated.
 
-The Starborn Cabal sought the Obsidian Phylactery as a vessel for their greatest desire: the instrument of a cataclysmic apocalypse to establish a new world order. Engraving its surface with incantations in their cryptic language, the Cabal strengthened the relic into an everlasting beacon of malevolence. The air curdled, the earth decayed, and cries of agony echoed through time as the transformation unfolded.
+**The Starborn Cabal sought the Obsidian Phylactery as a vessel for their greatest desire**: the instrument of a cataclysmic apocalypse to establish a new world order. Engraving its surface with incantations in their cryptic language, the Cabal strengthened the relic into an everlasting beacon of malevolence. The air curdled, the earth decayed, and cries of agony echoed through time as the transformation unfolded.
 
 ### Part II: The Veil of Infamy
 

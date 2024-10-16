@@ -45,11 +45,11 @@ Ultimately, leadership is the defining aspect of the Past Master degree. Initiat
 
 To deepen the understanding of Freemasonry's esoteric aspects, initiates need to unravel the symbolism associated with the Past Master degree. **Key symbols and tools related to this degree include**:
 
-1. ****The Quadrant****: A symbol of the sphere of operation in which the past master’s authority and leadership reside. The quadrant also represents the emphasis on balance and proportion, reminding the Past Master to stay grounded and focused.
+1. **The Quadrant**: A symbol of the sphere of operation in which the past master’s authority and leadership reside. The quadrant also represents the emphasis on balance and proportion, reminding the Past Master to stay grounded and focused.
 
-2. ****The Sun and Moon****: The duality of the sun and moon symbolizes the union of opposites and the balance between light and darkness. The sun represents the masculine and active principles, while the moon represents the feminine and receptive facets of oneself. By uniting these opposites, the Past Master can create harmony within and lead effectively.
+2. **The Sun and Moon**: The duality of the sun and moon symbolizes the union of opposites and the balance between light and darkness. The sun represents the masculine and active principles, while the moon represents the feminine and receptive facets of oneself. By uniting these opposites, the Past Master can create harmony within and lead effectively.
 
-3. ****The Compass and Square****: As universal symbols of Freemasonry, the compass and square's presence in the Past Master degree implies the perpetual need for moral, ethical, and spiritual guidance in one's life. These tools also remind the Past Master to continue applying their lessons and wisdom in their daily lives.
+3. **The Compass and Square**: As universal symbols of Freemasonry, the compass and square's presence in the Past Master degree implies the perpetual need for moral, ethical, and spiritual guidance in one's life. These tools also remind the Past Master to continue applying their lessons and wisdom in their daily lives.
 
 ### Chapter 5: Final Thoughts on the Past Master Degree and Its Relevance in the Modern World
 

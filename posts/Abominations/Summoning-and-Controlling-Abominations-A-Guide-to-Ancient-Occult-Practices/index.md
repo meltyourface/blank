@@ -35,21 +35,21 @@ One of the most notable mentions of Abominations appears in the writings of a 6t
 
 Although Abominations are incredibly diverse in form and function, there are common characteristics that can be identified. **These include**:
 
-1. ****An otherworldly origin****: Abominations are not bound by the natural laws of our universe, giving them abilities far beyond those of any earthly creature.
-2. ****Immense power****: Abominations possess incredible strength and knowledge from their time in the primordial chaos, allowing them to channel immense destructive force.
-3. ****Elemental affinity****: Most Abominations have a deep connection with one or more elements, such as fire, water, air, or earth.
-4. ****Blend of man and beast****: Many Abominations are grotesque amalgamations of human and animal forms, resulting in terrifying and monstrous visages.
-5. ****Vulnerability to certain rituals and symbols****: While incredibly powerful, Abominations are not invulnerable. Knowledge of the proper rituals and symbols can provide protection and control over these entities.
+1. **An otherworldly origin**: Abominations are not bound by the natural laws of our universe, giving them abilities far beyond those of any earthly creature.
+2. **Immense power**: Abominations possess incredible strength and knowledge from their time in the primordial chaos, allowing them to channel immense destructive force.
+3. **Elemental affinity**: Most Abominations have a deep connection with one or more elements, such as fire, water, air, or earth.
+4. **Blend of man and beast**: Many Abominations are grotesque amalgamations of human and animal forms, resulting in terrifying and monstrous visages.
+5. **Vulnerability to certain rituals and symbols**: While incredibly powerful, Abominations are not invulnerable. Knowledge of the proper rituals and symbols can provide protection and control over these entities.
 
 5.3. Practices Associated with Summoning and Controlling Abominations
 
 The art of summoning and controlling Abominations is an intricate and dangerous practice. The following steps outline the general process, but keep in mind that each Abomination might require specific components, rituals, or invocations to gain control.
 
-1. ****Research and preparation****: It is vital to learn about the Abomination's nature and history. Identifying its governing element, associated symbols, and pertinent rituals can significantly improve chances of success.
-2. ****Acquiring components****: Once the necessary knowledge has been amassed, gather the required ingredients for the ritual. These can include sacrificial items, potent elixirs, and specific environmental conditions.
-3. ****Protective measures****: Establishing a protective barrier or circle is critical for ensuring the safety of the summoner. This can be achieved with proper positioning of sigils, sealing the summoning area against unwanted interference, and empowering the space with relevant magics.
-4. ****Invocation and negotiation****: Summon the Abomination by vocalizing the required incantation, and present your terms. Remember that these entities are cunning and manipulative, so a show of strength and resolve is vital.
-5. ****Control and banishment****: Once terms are agreed upon, bind the Abomination to your will using the proper symbols and rituals. After completing the task it was summoned for, terminate the connection and banish the entity back to its place of origin.
+1. **Research and preparation**: It is vital to learn about the Abomination's nature and history. Identifying its governing element, associated symbols, and pertinent rituals can significantly improve chances of success.
+2. **Acquiring components**: Once the necessary knowledge has been amassed, gather the required ingredients for the ritual. These can include sacrificial items, potent elixirs, and specific environmental conditions.
+3. **Protective measures**: Establishing a protective barrier or circle is critical for ensuring the safety of the summoner. This can be achieved with proper positioning of sigils, sealing the summoning area against unwanted interference, and empowering the space with relevant magics.
+4. **Invocation and negotiation**: Summon the Abomination by vocalizing the required incantation, and present your terms. Remember that these entities are cunning and manipulative, so a show of strength and resolve is vital.
+5. **Control and banishment**: Once terms are agreed upon, bind the Abomination to your will using the proper symbols and rituals. After completing the task it was summoned for, terminate the connection and banish the entity back to its place of origin.
 
 5.4. Risks and Precautions
 

@@ -30,7 +30,7 @@ Origins and Significance of Macabre Sense of Humor
 
 The macabre has always been an integral part of human culture and the occult. The roots of this dark humor can be traced back to medieval depictions of the Danse Macabre, which illustrated diverse representations of the living dancing with the dead. The intent of this portrayal was to remind the viewer of the ephemeral nature of existence. As time progressed, this idea gradually weaved into the fabric of esotericism to create a distinct style that combined the grim with wit, enlightenment, and wisdom.
 
-This macabre sense of humor serves two main functions in the occult practice: It works as a tool to break down conventional barriers of thought and perception, thus facilitating psychological transformation and inducing enlightenment. Additionally, it acts as a coping mechanism, allowing practitioners to confront the darker aspects of life and existence and view them with amusement and detachment.
+**This macabre sense of humor serves two main functions in the occult practice**: It works as a tool to break down conventional barriers of thought and perception, thus facilitating psychological transformation and inducing enlightenment. Additionally, it acts as a coping mechanism, allowing practitioners to confront the darker aspects of life and existence and view them with amusement and detachment.
 
 Cultivating and Appreciating Macabre Humor
 

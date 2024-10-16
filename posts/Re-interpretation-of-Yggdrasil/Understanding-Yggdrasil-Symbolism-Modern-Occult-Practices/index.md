@@ -47,19 +47,19 @@ Yggdrasil's Connections to Life
 
 Yggdrasil is entwined with various aspects of life in Norse mythology, including fate, wisdom, the balance of opposing forces, and the cyclical nature of existence. **A few of the most notable connections are**:
 
-The Norns: Three female beings, Urd (past), Verdandi (present), and Skuld (future), reside at the base of Yggdrasil, near the Well of Urd, spinning the threads of fate for all living beings.
+**The Norns**: Three female beings, Urd (past), Verdandi (present), and Skuld (future), reside at the base of Yggdrasil, near the Well of Urd, spinning the threads of fate for all living beings.
 
 Mimir's Well: Found at Yggdrasil's roots, this well contains immense wisdom, where Odin sacrificed one of his eyes in exchange for a sip of its waters.
 
-The World Serpent and the Eagle: Yggdrasil balances Nidhogg, the serpent gnawing at its roots, and an eagle that resides atop its canopy. A squirrel, Ratatoskr, relays messages between the two, symbolizing the flow of information and maintaining connectivity between opposing forces.
+**The World Serpent and the Eagle**: Yggdrasil balances Nidhogg, the serpent gnawing at its roots, and an eagle that resides atop its canopy. A squirrel, Ratatoskr, relays messages between the two, symbolizing the flow of information and maintaining connectivity between opposing forces.
 
 Yggdrasil's Significance in Modern Occult Practices
 
 Today, Yggdrasil is widely employed in esoteric and occult practices, inspiring meditation, divination, rituals, and pathworking. **Some instances include**:
 
-Rune Magic: Encompassing the ancient symbols of the Norse, the runes tell stories of the Nine Worlds and embody the energies of Yggdrasil.
+**Rune Magic**: Encompassing the ancient symbols of the Norse, the runes tell stories of the Nine Worlds and embody the energies of Yggdrasil.
 
-Meditation and Pathworking: Practitioners visualize Yggdrasil and its Nine Worlds to embark on spiritual journeys, exploring the tree's many pathways and connections.
+**Meditation and Pathworking**: Practitioners visualize Yggdrasil and its Nine Worlds to embark on spiritual journeys, exploring the tree's many pathways and connections.
 
 **Rituals**: Yggdrasil is used as a symbol for protection, invocation of elemental forces, and balancing energies in rituals.
 

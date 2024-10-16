@@ -27,11 +27,11 @@ excerpt: >
 
 Throughout human history, societies and cultures across the world have sought to understand and connect with the divine, the transcendent, and the unseen. At the intersection of spiritual practices and altered states of consciousness lies the use of psychoactive substances in religious experiences. This section will explore the historical context, effects on perception and consciousness, and the role of drugs in various spiritual practices.
 
-Historical Context: Early Instances of Entheogenic Traditions
+**Historical Context**: Early Instances of Entheogenic Traditions
 
 Although it is difficult to pinpoint the exact origins of the use of psychoactive substances in religious contexts, archeological evidence points to ancient indigenous cultures that incorporated plant-based hallucinogens into their spiritual practices. Examples include the ritual use of Peyote cactus in Mesoamerica, the Ayahuasca vine in the Amazon, and the Amanita muscaria mushroom in Siberia. This early ethnobotanical interaction highlights humanity's deep-rooted fascination with the spiritual potential of these plants.
 
-Effects on Perception and Consciousness: Unveiling the Inner Mysteries
+**Effects on Perception and Consciousness**: Unveiling the Inner Mysteries
 
 Psychoactive substances, sometimes referred to as entheogens, have profound effects on human perception and consciousness. They often induce mystical states characterized by visions, auditory hallucinations, and a deep sense of connectedness to both the self and the universe. It is within these altered states that practitioners hope to achieve divine revelations, transcendent knowledge, and transformative insights. Many religious traditions view these experiences as doorways to better understand the divine or to achieve unification with a higher power.
 

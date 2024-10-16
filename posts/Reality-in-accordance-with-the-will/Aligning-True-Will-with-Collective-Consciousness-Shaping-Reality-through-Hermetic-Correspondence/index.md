@@ -23,9 +23,9 @@ excerpt: >
 ---
 To best answer this knowledge challenge, let's begin by breaking down the key concepts and principles involved.
 
-1. ****True Will Manifestation****: This refers to the realization and initiation of one's true will or purpose in life. In the context of the occult, true will is seen as the driving force behind an individual's actions and intentions, which aligns with the most profound aspects of their being and, when fully realized, leads them to fulfil their purpose in the grand scheme of the universe.
+1. **True Will Manifestation**: This refers to the realization and initiation of one's true will or purpose in life. In the context of the occult, true will is seen as the driving force behind an individual's actions and intentions, which aligns with the most profound aspects of their being and, when fully realized, leads them to fulfil their purpose in the grand scheme of the universe.
 
-2. ****Hermetic Principle "As above, so below"****: This is a central tenet of Hermeticism, originating in the Emerald Tablet of Hermes Trismegistus. It conveys the idea that there is a correspondence between the microcosm (individual reality) and the macrocosm (universal reality). Essentially, what occurs in one plane of existence reflects or influences what occurs in the other, and this relationship between the two planes is reciprocal.
+2. **Hermetic Principle "As above, so below"**: This is a central tenet of Hermeticism, originating in the Emerald Tablet of Hermes Trismegistus. It conveys the idea that there is a correspondence between the microcosm (individual reality) and the macrocosm (universal reality). Essentially, what occurs in one plane of existence reflects or influences what occurs in the other, and this relationship between the two planes is reciprocal.
 
 With these definitions in mind, we can now explore the connections between true will manifestation and the Hermetic principle "As above, so below" and how these connections hold implications when aligning one's individual will with the collective consciousness to reshape the fabric of perceived reality.
 

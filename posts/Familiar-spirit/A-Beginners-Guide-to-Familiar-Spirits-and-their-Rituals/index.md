@@ -31,13 +31,13 @@ The belief in familiar spirits can be traced back to antiquity, when various cul
 
 Familiar spirits may be classified according to various criteria, including their nature, appearance, and powers. **In general, they may be divided into the following categories**:
 
-1. ****Elemental Spirits****: Associated with the elements of earth, air, fire, and water, these familiars may manifest as animals related to a specific element (e.g., salamanders for fire or fish for water).
+1. **Elemental Spirits**: Associated with the elements of earth, air, fire, and water, these familiars may manifest as animals related to a specific element (e.g., salamanders for fire or fish for water).
 
-2. ****Animal Spirits****: Often appearing as common animals such as cats, dogs, or birds, these familiars are usually characterized by their heightened intelligence and sensitivity to the spiritual realm.
+2. **Animal Spirits**: Often appearing as common animals such as cats, dogs, or birds, these familiars are usually characterized by their heightened intelligence and sensitivity to the spiritual realm.
 
-3. ****Ancestral Spirits****: Ancestors or other departed individuals who have taken the form of an animal or being in the spiritual realm.
+3. **Ancestral Spirits**: Ancestors or other departed individuals who have taken the form of an animal or being in the spiritual realm.
 
-4. ****Mythological and Fantastic Creatures****: Familiars embodying the characteristics of legendary beings such as dragons, unicorns, or sphinxes.
+4. **Mythological and Fantastic Creatures**: Familiars embodying the characteristics of legendary beings such as dragons, unicorns, or sphinxes.
 
 ### Section 2.1: Methods of Summoning Familiar Spirits
 

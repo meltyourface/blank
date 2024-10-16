@@ -25,7 +25,7 @@ Alchemy, an ancient and mysterious practice, has been a cornerstone for students
 
 ### I. The Three Alchemical Principles: Sulphur, Mercury, and Salt
 
-At the core of alchemical teachings lie three fundamental principles that embody the essence of all matter: Sulphur, Mercury, and Salt. These principles are not to be confused with the chemical elements known by the same names in modern science.
+**At the core of alchemical teachings lie three fundamental principles that embody the essence of all matter**: Sulphur, Mercury, and Salt. These principles are not to be confused with the chemical elements known by the same names in modern science.
 
 1. Sulphur: Representing the dynamic, active, and fiery aspect of creation, Sulphur stands for the soul and the power of transformation. It is often illustrated as a blazing sun or a fiery lion, symbolizing the vital energy and passionate drive pulsing through every living being.
 

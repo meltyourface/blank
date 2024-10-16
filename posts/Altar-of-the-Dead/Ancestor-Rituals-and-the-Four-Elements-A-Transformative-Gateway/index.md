@@ -23,13 +23,13 @@ The symbolic representation of the Four Elements (Earth, Air, Fire, and Water) o
 
 To begin, let's briefly review the significance of the Four Elements:
 
-1. ****Earth****: Earth symbolizes stability, grounding, and the material world. In the context of the Altar of the Dead, it represents the physical body of the deceased person and their connection to the living world.
+1. **Earth**: Earth symbolizes stability, grounding, and the material world. In the context of the Altar of the Dead, it represents the physical body of the deceased person and their connection to the living world.
 
-2. ****Air****: Air signifies the mind, communication, and intellect. On the altar, it symbolizes the thoughts, memories, and oral traditions passed down through generations.
+2. **Air**: Air signifies the mind, communication, and intellect. On the altar, it symbolizes the thoughts, memories, and oral traditions passed down through generations.
 
-3. ****Fire****: Fire represents transformation, purification, and passion. On the Altar of the Dead, fire indicates the process of transformation as the soul moves from the realm of the living to the afterlife.
+3. **Fire**: Fire represents transformation, purification, and passion. On the Altar of the Dead, fire indicates the process of transformation as the soul moves from the realm of the living to the afterlife.
 
-4. ****Water****: Water stands for emotions, intuition, and fluidity. It symbolizes the emotional connection between the living and the deceased, as well as the never-ending flow of life and death.
+4. **Water**: Water stands for emotions, intuition, and fluidity. It symbolizes the emotional connection between the living and the deceased, as well as the never-ending flow of life and death.
 
 With the understanding of these elements, let's now delve into how they are manifested in different cross-cultural practices and beliefs related to ancestor reverence.
 

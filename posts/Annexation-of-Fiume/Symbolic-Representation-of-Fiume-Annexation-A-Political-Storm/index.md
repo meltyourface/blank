@@ -22,26 +22,26 @@ excerpt: >
 ---
 To aid in our understanding of the Annexation of Fiume and its connections with the broader geopolitical factors in the early 20th century, let us delve into the key historical and contextual factors that played a role in this event. To make it more engaging and accessible for students new to this subject, I will use a symbolic representation of a vast ocean filled with symbolic islands and ships, where the ocean represents turbulent global politics, and the islands and ships symbolize different countries, historical events, and political movements.
 
-### I. ****Setting the Scene****: The Global Ocean
+### I. **Setting the Scene**: The Global Ocean
 The early 20th century was marked by many geopolitical shifts, such as World War I, the rise of nationalism, and the crumbling of empires. These forces resemble a vast ocean, filled with political tempests, storms of nationalism, and rushing undercurrents of change.
 
-### II. ****The Islands****: Diverse Local Factors
+### II. **The Islands**: Diverse Local Factors
 Fiume (modern-day Rijeka, Croatia) was a city with a unique ethnic composition and history. It housed a heterogeneous population of Italians, Hungarians, Croats, and other ethnic minorities. In our representation, the city will be shown as an archipelago of islets, each highlighting a certain ethnic group and their cultural identity.
 
-Italian Island: A cultural renaissance and the rise of Italian nationalism
+**Italian Island**: A cultural renaissance and the rise of Italian nationalism
 Hungarian Island: Austro-Hungarian rule and the decline of empire
 Croatian Island: Slavic unity and their desire for independence
 
-### III. ****The Ships****: Power Struggles and Personalities
+### III. **The Ships**: Power Struggles and Personalities
 Several key players' interests and ambitions had a significant impact on Fiume's fate. We will symbolize these as powerful ships, navigating through the ocean of global politics. 
 
-a. ****Italy (Fiume's Suitor)****: A ship adorned with the Italian flag, representing Italy's aspiration to expand its territory and influence following World War I and its role in the Paris Peace Conference.
+a. **Italy (Fiume's Suitor)**: A ship adorned with the Italian flag, representing Italy's aspiration to expand its territory and influence following World War I and its role in the Paris Peace Conference.
 
-b. ****Gabriele D'Annunzio (Fiume's Captain)****: An eccentric, decorated warship representing the Italian poet and nationalist leader D'Annunzio, who seized Fiume and declared it an independent state in 1919.
+b. **Gabriele D'Annunzio (Fiume's Captain)**: An eccentric, decorated warship representing the Italian poet and nationalist leader D'Annunzio, who seized Fiume and declared it an independent state in 1919.
 
-c. ****League of Nations (The Diplomatic Vessel)****: A ship flying the flags of many nations that attempted to resolve international disputes post-World War I.
+c. **League of Nations (The Diplomatic Vessel)**: A ship flying the flags of many nations that attempted to resolve international disputes post-World War I.
 
-### IV. ****The Annexation****: The Stormy Sea of Conflict
+### IV. **The Annexation**: The Stormy Sea of Conflict
 The annexation of Fiume can be illustrated by a large whirlpool in the ocean, combining the forces and interests of ethnic tensions, territorial ambitions, and global politics swirling around the city. These factors formed a dramatic and chaotic struggle, resulting in Fiume's eventual annexation by Italy in 1924.
 
 ### V. The Esoteric Connection

@@ -26,13 +26,13 @@ The Magickal Nexus Tarot Spread consists of 21 cards in total, arranged in a hex
 
 Card Positions:
 
-1. ****Central Nexus****: The overall theme of the reading and the querent's current mindset. The key focus for the querent's decision-making. This card connects the querent's energies to the astral plane and channels their intuition to guide them.
+1. **Central Nexus**: The overall theme of the reading and the querent's current mindset. The key focus for the querent's decision-making. This card connects the querent's energies to the astral plane and channels their intuition to guide them.
 
-2-5. ****Elemental Quadrant****: Representing the four elements, these card positions surround the Central Nexus (Fire - 2, Water - 3, Air - 4, and Earth - 5). They explore the interplay between the physical world and the querent's emotional, intellectual, and spiritual journey.
+2-5. **Elemental Quadrant**: Representing the four elements, these card positions surround the Central Nexus (Fire - 2, Water - 3, Air - 4, and Earth - 5). They explore the interplay between the physical world and the querent's emotional, intellectual, and spiritual journey.
 
-6-9. ****Planetary Guidance****: Delve into how the planets' influences affect the querent's decision-making process. These cards form a diamond around the Elemental Quadrant (Sun - 6, Moon - 7, Mercury - 8, and Venus - 9).
+6-9. **Planetary Guidance**: Delve into how the planets' influences affect the querent's decision-making process. These cards form a diamond around the Elemental Quadrant (Sun - 6, Moon - 7, Mercury - 8, and Venus - 9).
 
-10-21. ****Zodiac Pathway****: Twelve cards encircling the entire spread, representing each zodiac sign (Aries - 10, Taurus - 11, Gemini - 12, Cancer - 13, Leo - 14, Virgo - 15, Libra - 16, Scorpio - 17, Sagittarius - 18, Capricorn - 19, Aquarius - 20, Pisces - 21). These cards show how each astrological energy can be harnessed to assist the querent in their decision-making journey.
+10-21. **Zodiac Pathway**: Twelve cards encircling the entire spread, representing each zodiac sign (Aries - 10, Taurus - 11, Gemini - 12, Cancer - 13, Leo - 14, Virgo - 15, Libra - 16, Scorpio - 17, Sagittarius - 18, Capricorn - 19, Aquarius - 20, Pisces - 21). These cards show how each astrological energy can be harnessed to assist the querent in their decision-making journey.
 
 The first reading should begin by placing the Central Nexus card, followed by the Elemental Quadrant cards, starting from the Fire card and moving clockwise. Afterward, place the four Planetary Guidance cards, making them connect the Elemental Quadrant in a diamond shape. Finally, encircle the inner pattern with the twelve Zodiac Pathway cards, beginning with Aries and progressing through the zodiac signs.
 

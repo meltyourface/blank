@@ -28,7 +28,7 @@ Course Overview:
 
 Curriculum Outline:
 
-1. ****Introduction to Black Sun Fire****: Foundations and Origins
+1. **Introduction to Black Sun Fire**: Foundations and Origins
 - History, mythology, and origins of Black Sun Fire
 - Overview of arcane symbols, sigils, and the Black Sun
 - The significance of the Black Sun in esoteric and occult practices
@@ -39,7 +39,7 @@ Curriculum Outline:
 - The role of eldritch energies in Black Sun Fire mastery
 - Alignment of cosmic forces: Understanding planetary and astral influences
 
-3. ****Learning the Language of Black Sun Fire****: Spells and Incantations
+3. **Learning the Language of Black Sun Fire**: Spells and Incantations
 - Fundamentals of spellcraft and incantations unique to Black Sun Fire practice
 - Centuries-old sacred texts and manuscripts on Black Sun Fire
 - Techniques for crafting personalized spells: Protection, manifestation, and transformation
@@ -49,7 +49,7 @@ Curriculum Outline:
 - Invocations and summoning methods
 - Practical demonstrations of Black Sun Fire ritual performances
 
-5. ****Developing Mastery****: Awakening and Channeling Black Sun Fire within
+5. **Developing Mastery**: Awakening and Channeling Black Sun Fire within
 - The cultivation of inner Black Sun Fire energy
 - The role of meditation and mental discipline in awakening the Black Sun Fire within
 - Practical exercises to develop the ability to harness and direct Black Sun Fire energy
@@ -59,7 +59,7 @@ Curriculum Outline:
 - Exploring the ethical considerations in the application of Black Sun Fire
 - Strategies for maintaining balance, minimizing risk, and protecting oneself from misuse
 
-7. ****The Journey Beyond****: Advanced Studies and the Future of Black Sun Fire
+7. **The Journey Beyond**: Advanced Studies and the Future of Black Sun Fire
 - Opportunities for further growth and development in Black Sun Fire mastery
 - Exploration of other esoteric and occult practices to support Black Sun Fire studies
 - Personal development and the path towards becoming a Black Sun Fire adept

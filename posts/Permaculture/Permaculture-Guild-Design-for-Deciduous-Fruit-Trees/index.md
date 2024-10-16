@@ -22,7 +22,7 @@ excerpt: Design and implement a detailed permaculture guild system around a deci
 Permaculture Guild System around a Deciduous Fruit Tree
 Site: 30 ft x 30 ft (approximately 9m x 9m)
 
-Fruit tree species: Apple tree (Malus domestica)
+**Fruit tree species**: Apple tree (Malus domestica)
 
 (Note: This design can be adapted to other deciduous fruit trees by selecting appropriate support species and management practices.)
 

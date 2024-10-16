@@ -30,26 +30,26 @@ Miracle 1: Healing of the Lame Beggar
 
 In the ancient city of Ephesus, Apollonius encountered a lame beggar with twisted, useless legs. Through the esoteric art of healing, he touched the man's legs, and they instantly straightened, enabling the beggar to walk and leap for joy. This act of kindness showcased the empathy and wisdom that constituted Apollonius' teachings. By employing his knowledge of the spiritual and physical realms, he demonstrated the interconnectedness of all things and the power of harnessing such connections for the betterment of humanity.
 
-Historical context: Miracle healing was a widespread phenomenon in the Greco-Roman era, with figures such as Asclepius, Jesus of Nazareth, and Apollonius gaining notable fame for their abilities. This miracle emphasized the potency of divine intervention as a channel for human transformation.
+**Historical context**: Miracle healing was a widespread phenomenon in the Greco-Roman era, with figures such as Asclepius, Jesus of Nazareth, and Apollonius gaining notable fame for their abilities. This miracle emphasized the potency of divine intervention as a channel for human transformation.
 
-Esoteric significance: The healing of the lame beggar not only symbolized the profound power of physical restoration but also signified humanity's potential for spiritual regeneration. Apollonius' act of miraculous healing can be interpreted as a metaphor for the spiritual awakening process, an invitation to alter one's path and embrace a higher state of consciousness.
+**Esoteric significance**: The healing of the lame beggar not only symbolized the profound power of physical restoration but also signified humanity's potential for spiritual regeneration. Apollonius' act of miraculous healing can be interpreted as a metaphor for the spiritual awakening process, an invitation to alter one's path and embrace a higher state of consciousness.
 
 Miracle 2: Vanishing from the Court of Domitian
 
 As recorded in Philostratus' "Life of Apollonius," when the philosopher was dragged before the Roman Emperor Domitian to face charges of conspiring against the throne, Apollonius boldly challenged the tyrant. In a miraculous turn of events, he suddenly vanished from the courtroom in front of the bewildered assembly, demonstrating his mastery over matter and space. This miracle underscored the importance of defiance against oppressive authorities, a recurring theme in Apollonius' teachings.
 
-Historical context: Domitian's reign (81 - 96 CE) was marked by paranoia and tyranny, wherein he often persecuted philosophers and executed perceived enemies. By vanishing from the court, Apollonius challenged the emperor's authority and defied the pervasive climate of fear.
+**Historical context**: Domitian's reign (81 - 96 CE) was marked by paranoia and tyranny, wherein he often persecuted philosophers and executed perceived enemies. By vanishing from the court, Apollonius challenged the emperor's authority and defied the pervasive climate of fear.
 
-Esoteric significance: Apollonius' vanishing act signified the transcendence of physical limitations, a divine connection allowing him to overcome worldly restrictions. This miracle symbolized the journey toward self-realization, an empowering message that an individual can become spiritually empowered to overcome dire circumstances.
+**Esoteric significance**: Apollonius' vanishing act signified the transcendence of physical limitations, a divine connection allowing him to overcome worldly restrictions. This miracle symbolized the journey toward self-realization, an empowering message that an individual can become spiritually empowered to overcome dire circumstances.
 
 Miracle 3: Predicting the Plague of Ephesus
 
 As per Philostratus' account, Apollonius foresaw the impending plague that would devastate Ephesus. With this supernatural foresight, he advised the citizens to construct a statue of the god Heracles to avert the catastrophe. Upon completing the monument, the people witnessed the end of the plague, attributing their salvation to Apollonius' prophetic insight.
 
-Historical context: The tale of predicting and preventing calamities represents the revered Neopythagorean principle of order triumphing over chaos. In classical Greece and Rome, Heracles symbolized strength and protection, making his invocation a suitable countermeasure.
+**Historical context**: The tale of predicting and preventing calamities represents the revered Neopythagorean principle of order triumphing over chaos. In classical Greece and Rome, Heracles symbolized strength and protection, making his invocation a suitable countermeasure.
 
-Esoteric significance: This miracle emphasized the role of intuition, prophecy, and the bond between mortal and divine agencies. Apollonius' prophetic vision speaks to the importance of listening to one's inner wisdom and synchronizing with the natural world to counterbalance potential catastrophes.
+**Esoteric significance**: This miracle emphasized the role of intuition, prophecy, and the bond between mortal and divine agencies. Apollonius' prophetic vision speaks to the importance of listening to one's inner wisdom and synchronizing with the natural world to counterbalance potential catastrophes.
 
-Conclusion: Primary Miracles and their Teachings
+**Conclusion**: Primary Miracles and their Teachings
 
 The healing of the lame beggar, vanishing from Domitian's court, and predicting the plague of Ephesus represent three key miracles that embody Apollonius' teachings. Each of these miracles demonstrates the possibility of transcending worldly limitations, the importance of spiritual awakening, and the defiance of oppressive authority. By examining these stories, we can appreciate the profound wisdom that continues to reverberate in contemporary esotericism and occultism, and how Apollonius' miraculous tales continue to inspire the spiritual seekers today.

@@ -28,7 +28,7 @@ After thorough research and investigation of numerous Spirit Box models, I have 
 - Paranormal detection capabilities: With its 7 available audio frequency ranges, it increases chances for spirit communication.
 - Effectiveness: A favorite among seasoned paranormal investigators because of its versatility, fast sweeping speeds, and noise reduction capabilities allowing them to communicate effectively.
 
-Case study: Paranormal investigator Garry Fields claims to have captured compelling audio evidence of spirit communication during an investigation using the P-SB7.
+**Case study**: Paranormal investigator Garry Fields claims to have captured compelling audio evidence of spirit communication during an investigation using the P-SB7.
 
 2. The SBOX Ghost Scanner
 
@@ -37,7 +37,7 @@ Case study: Paranormal investigator Garry Fields claims to have captured compell
 - Paranormal detection capabilities: The unique combination of frequency scanning and white noise increases the likelihood of direct communication.
 - Effectiveness: Many users claim SBOX's ability to avoid radio interference greatly enhances its performance.
 
-Case study: During the "Haunted Hill House" investigation, the paranormal team from "Ghost Hunts USA" state that they effectively captured ghostly voices using the SBOX scanner.
+**Case study**: During the "Haunted Hill House" investigation, the paranormal team from "Ghost Hunts USA" state that they effectively captured ghostly voices using the SBOX scanner.
 
 3. The P-SB11 Spirit Box
 
@@ -46,7 +46,7 @@ Case study: During the "Haunted Hill House" investigation, the paranormal team f
 - Paranormal detection capabilities: The dual-sweep functionality enhances communication possibilities, while noise reduction minimizes false positives.
 - Effectiveness: Provides an unrivaled experience compared to previous single-sweep models, allowing for richer and more intricate spirit communications.
 
-Case study: Paranormal investigator Kari Winter recounts an incident using the P-SB11 where she captured what she believes is a spirit saying her name, providing validation for the effectiveness of this device.
+**Case study**: Paranormal investigator Kari Winter recounts an incident using the P-SB11 where she captured what she believes is a spirit saying her name, providing validation for the effectiveness of this device.
 
 4. The Ovilus IV:
 
@@ -55,6 +55,6 @@ Case study: Paranormal investigator Kari Winter recounts an incident using the P
 - Paranormal detection capabilities: It offers a unique way of interacting with spirits, allowing more complex communication based on environmental data.
 - Effectiveness: Although subjective, many users find the Ovilus IV to yield astonishingly coherent and meaningful messages from the spirit realm.
 
-Case study: Paranormal investigator Cindy Clay stated that the Ovilus IV provided highly accurate information specific to the location she was investigating, strongly affirming its effectiveness.
+**Case study**: Paranormal investigator Cindy Clay stated that the Ovilus IV provided highly accurate information specific to the location she was investigating, strongly affirming its effectiveness.
 
 In conclusion, while each Spirit Box model has distinctive features and communication methods, their overall effectiveness varies based on user experience and the given situation. Technological advancements like dual sweeping and environmental data interpretation have enriched spirit communication significantly. It is essential for paranormal investigators to select the most suited device for their objectives and familiarize themselves with the intricacies and nuances of these Spirit Box models.

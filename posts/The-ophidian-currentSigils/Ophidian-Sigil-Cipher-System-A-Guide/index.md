@@ -22,10 +22,10 @@ excerpt: >
 ---
 To devise an intricate sigil cipher system centered around the Ophidian Current's esoteric principles, we must first establish a foundational understanding of the primary components of the Ophidian Current and their significance within the system:
 
-1. ****Serpentine/Snake symbolism****: Representing Kundalini energy, wisdom, rebirth, and transformation.
-2. ****The Draconian Path****: Emphasizing self-discovery, emancipation, and overcoming personal limitations.
-3. ****The Void****: Associated with the primordial womb of creation, darkness, chaos, and potential.
-4. ****Ouroboros****: Representing the cyclic nature of existence and the unending pursuit of self-realization.
+1. **Serpentine/Snake symbolism**: Representing Kundalini energy, wisdom, rebirth, and transformation.
+2. **The Draconian Path**: Emphasizing self-discovery, emancipation, and overcoming personal limitations.
+3. **The Void**: Associated with the primordial womb of creation, darkness, chaos, and potential.
+4. **Ouroboros**: Representing the cyclic nature of existence and the unending pursuit of self-realization.
 
 With these key concepts in mind, we can begin constructing the various elements of our sigil cipher system.
 

@@ -33,11 +33,11 @@ In various religious and spiritual traditions, specific rituals exist to honor, 
 
 3. Occult Practices
 
-Hermeticism: Founded on the philosophical principles attributed to Hermes Trismegistus, an ancient Egyptian sage believed to be the source of all wisdom, Hermeticism contains the concept of "as above, so below." This concept embodies the belief that the microcosm of individual human beings mirrors the macrocosm of the universe. The four elements play a key role in understanding and navigating both the inner and outer worlds in Hermetic philosophy.
+**Hermeticism**: Founded on the philosophical principles attributed to Hermes Trismegistus, an ancient Egyptian sage believed to be the source of all wisdom, Hermeticism contains the concept of "as above, so below." This concept embodies the belief that the microcosm of individual human beings mirrors the macrocosm of the universe. The four elements play a key role in understanding and navigating both the inner and outer worlds in Hermetic philosophy.
 
-Alchemy: In alchemy, the four elements are associated with the process of transmutation, which aims to transform base metals into spiritual gold. Each of the elements is represented in the quest for the philosopher's stone, a fabled substance capable of achieving this change.
+**Alchemy**: In alchemy, the four elements are associated with the process of transmutation, which aims to transform base metals into spiritual gold. Each of the elements is represented in the quest for the philosopher's stone, a fabled substance capable of achieving this change.
 
-Elemental magic: Practitioners of elemental magic seek to harness the energies of the natural world in accordance with their will. In the Western tradition, this often involves calling upon the four directions (North, South, East, and West) and their corresponding elements while casting spells or conducting rituals.
+**Elemental magic**: Practitioners of elemental magic seek to harness the energies of the natural world in accordance with their will. In the Western tradition, this often involves calling upon the four directions (North, South, East, and West) and their corresponding elements while casting spells or conducting rituals.
 
 4. Symbolism and mythology
 

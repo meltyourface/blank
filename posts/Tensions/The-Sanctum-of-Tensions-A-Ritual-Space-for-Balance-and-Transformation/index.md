@@ -26,23 +26,23 @@ Sanctum Blueprint for the Practice of Tensions
 The sanctum dedicated to the practice of Tensions is designed to optimize the efficiency and potency of esoteric and occult rituals. It consists of a circular space, surrounded by a series of interconnected chambers. The core principles of sacred geometry, symbolism, and strategic energy focal points are central to the organization and layout of the space.
 
 ### II. Sacred Geometry
-The circular main chamber embodies the Tensions' affinity for balance and wholeness. ****Within this chamber lies a central hexagon, representing the six facets of Tensions****: balance, polarity, connectivity, resonance, harmony, and transformation. The hexagon is surrounded by a dodecagon, with its twelve vertices corresponding to the elemental forces at play in the practice of Tensions. These core geometries are interlaced with golden spirals, enhancing the flow of energy within the space.
+The circular main chamber embodies the Tensions' affinity for balance and wholeness. **Within this chamber lies a central hexagon, representing the six facets of Tensions**: balance, polarity, connectivity, resonance, harmony, and transformation. The hexagon is surrounded by a dodecagon, with its twelve vertices corresponding to the elemental forces at play in the practice of Tensions. These core geometries are interlaced with golden spirals, enhancing the flow of energy within the space.
 
 ### III. Symbolism
 Embedded into the floor of the main chamber are a series of carefully chosen symbols. **At the center of the hexagon lies the Eye of Tensions, representing watchfulness and protection. The surrounding dodecagon contains the symbols of the twelve elemental forces, each associated with a specific aspect of Tensions**:
 
-1. ****Fire****: Convergence
-2. ****Water****: Adaptation
-3. ****Earth****: Grounding
-4. ****Air****: Fluidity
-5. ****Light****: Illumination
-6. ****Shadow****: Concealment
-7. ****Time****: Cycles
-8. ****Space****: Expansion
-9. ****Chaos****: Unpredictability
-10. ****Order****: Structure
-11. ****Life****: Growth
-12. ****Death****: Transformation
+1. **Fire**: Convergence
+2. **Water**: Adaptation
+3. **Earth**: Grounding
+4. **Air**: Fluidity
+5. **Light**: Illumination
+6. **Shadow**: Concealment
+7. **Time**: Cycles
+8. **Space**: Expansion
+9. **Chaos**: Unpredictability
+10. **Order**: Structure
+11. **Life**: Growth
+12. **Death**: Transformation
 
 ### IV. Energy Focal Points
 Four primary energy focal points are situated at the cardinal directions (North, East, South, and West) within the chamber, each marked by a specially crafted quartz crystal obelisk. These obelisks channel and amplify the energies involved in rituals and connect the practitioners to the unseen forces of the Tensions domain.

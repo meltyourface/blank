@@ -33,11 +33,11 @@ Aphrodisiac Drugs in Occult Rituals
 
 Occult and esoteric practitioners throughout history have sought to harness the power of aphrodisiacs in their magical workings. **Several types of aphrodisiac drugs have been commonly used, some of which include**:
 
-1. ****Herbal and plant-based aphrodisiacs****: Damiana, Ginseng, Maca, and Yohimbe are among the numerous plant-based aphrodisiacs used to heighten desire, enhance physical arousal, and strengthen sexual performance. These herbs may be incorporated into potions, oils, or incense blends for use in rituals or spells to attract love or strengthen relationships.
+1. **Herbal and plant-based aphrodisiacs**: Damiana, Ginseng, Maca, and Yohimbe are among the numerous plant-based aphrodisiacs used to heighten desire, enhance physical arousal, and strengthen sexual performance. These herbs may be incorporated into potions, oils, or incense blends for use in rituals or spells to attract love or strengthen relationships.
 
-2. ****Animal-based aphrodisiacs****: Spanish fly, a substance derived from the ground-up blister beetles that contain the compound cantharidin, has been used for its aphrodisiac effects since antiquity. Oysters, a rich source of zinc, have long been associated with increased libido and heightened sexual energy. These animal-derived substances have been incorporated into magical rituals and practices to help unlock and amplify the sexual potential of practitioners.
+2. **Animal-based aphrodisiacs**: Spanish fly, a substance derived from the ground-up blister beetles that contain the compound cantharidin, has been used for its aphrodisiac effects since antiquity. Oysters, a rich source of zinc, have long been associated with increased libido and heightened sexual energy. These animal-derived substances have been incorporated into magical rituals and practices to help unlock and amplify the sexual potential of practitioners.
 
-3. ****Alchemical aphrodisiacs****: In alchemical practices, certain metals, notably copper and gold, were believed to hold aphrodisiac properties. Copper was associated with Venus, the Roman equivalent of Aphrodite, and was believed to have powerful love-attracting qualities. Gold, revered for its purity and incorruptibility, was thought to infuse sexual vitality when ingested or applied during alchemical procedures.
+3. **Alchemical aphrodisiacs**: In alchemical practices, certain metals, notably copper and gold, were believed to hold aphrodisiac properties. Copper was associated with Venus, the Roman equivalent of Aphrodite, and was believed to have powerful love-attracting qualities. Gold, revered for its purity and incorruptibility, was thought to infuse sexual vitality when ingested or applied during alchemical procedures.
 
 Preparation and Application
 

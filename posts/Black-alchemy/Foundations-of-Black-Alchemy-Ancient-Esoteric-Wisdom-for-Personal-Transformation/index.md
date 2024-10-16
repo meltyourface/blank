@@ -44,17 +44,17 @@ Key Texts and Authors
 
 Several seminal works have shaped the foundations of Black Alchemy, including the following:
 
-1. ****The Emerald Tablet****: Attributed to the legendary figure Hermes Trismegistus, this ancient text concisely describes the philosophy and principles of alchemy.
+1. **The Emerald Tablet**: Attributed to the legendary figure Hermes Trismegistus, this ancient text concisely describes the philosophy and principles of alchemy.
  
-2. ****The Book of Aquarius****: A comprehensive guide to practical alchemy, this work delves into the process of creating the Philosopher's Stone and offers insights into the spiritual dimensions of the practice.
+2. **The Book of Aquarius**: A comprehensive guide to practical alchemy, this work delves into the process of creating the Philosopher's Stone and offers insights into the spiritual dimensions of the practice.
  
-3. ****Corpus Hermeticum****: This collection of texts, also attributed to Hermes Trismegistus, covers various topics in Hermetic philosophy, including the nature of reality and the practice of alchemy.
+3. **Corpus Hermeticum**: This collection of texts, also attributed to Hermes Trismegistus, covers various topics in Hermetic philosophy, including the nature of reality and the practice of alchemy.
 
 Various authors have contributed enormously to the development of Black Alchemy, among whom are:
 
-1. ****Paracelsus****: A prominent alchemist, physician, and philosopher, Paracelsus advanced alchemical theories, devising new methods and practices in the pursuit of spiritual transformation.
+1. **Paracelsus**: A prominent alchemist, physician, and philosopher, Paracelsus advanced alchemical theories, devising new methods and practices in the pursuit of spiritual transformation.
 
-2. ****Isaac Newton****: Although primarily known as a physicist, Newton explored alchemy extensively, penning more than a million words on the subject while attempting to decipher the hidden mysteries of the universe.
+2. **Isaac Newton**: Although primarily known as a physicist, Newton explored alchemy extensively, penning more than a million words on the subject while attempting to decipher the hidden mysteries of the universe.
 
 Practical Applications and Potential Pitfalls
 

@@ -35,25 +35,25 @@ The concept of Alchemical Aviary originates from ancient cultures who held birds
 
 A myriad of symbols and elements constitute the core of Alchemical Aviary, with birds holding substantial symbolic significance. **Key avian figures within this domain include**:
 
-1. ****Phoenix****: Symbolizing transformation, rebirth, and the cyclical nature of life, the Phoenix is regarded as a quintessential symbol in alchemy. Its connection to the element of Fire signifies purification and transmutation of the Self.
+1. **Phoenix**: Symbolizing transformation, rebirth, and the cyclical nature of life, the Phoenix is regarded as a quintessential symbol in alchemy. Its connection to the element of Fire signifies purification and transmutation of the Self.
 
-2. ****Pelican****: Representing self-sacrifice, the Pelican signifies the importance of personal dedication in one's spiritual journey. In alchemical lore, it is traditionally depicted piercing its chest to feed its young with its blood, symbolic of the act of giving oneself for a higher purpose.
+2. **Pelican**: Representing self-sacrifice, the Pelican signifies the importance of personal dedication in one's spiritual journey. In alchemical lore, it is traditionally depicted piercing its chest to feed its young with its blood, symbolic of the act of giving oneself for a higher purpose.
 
-3. ****Raven****: Linked to the process of Putrefaction in alchemy, the Raven signifies dark introspection and the confrontation of one's shadow self. Its jet-black feathers are an emblem of the unknown and the mysteries of life.
+3. **Raven**: Linked to the process of Putrefaction in alchemy, the Raven signifies dark introspection and the confrontation of one's shadow self. Its jet-black feathers are an emblem of the unknown and the mysteries of life.
 
-4. ****White Swan****: An antithesis to the Raven, the White Swan represents the Whiteness phase of the alchemical process, where the individual is purified through Self-reflection. It symbolizes spiritual transformation, enlightenment, and beauty.
+4. **White Swan**: An antithesis to the Raven, the White Swan represents the Whiteness phase of the alchemical process, where the individual is purified through Self-reflection. It symbolizes spiritual transformation, enlightenment, and beauty.
 
-5. ****Eagle****: As a representation of Air, an essential alchemical element, the Eagle embodies intellectual freedom, dominance, and the ability to overcome challenges. In Alchemical Aviary, the Eagle represents sublimation, the process of turning a solid into vapor, symbolic of refining one's beliefs and thoughts.
+5. **Eagle**: As a representation of Air, an essential alchemical element, the Eagle embodies intellectual freedom, dominance, and the ability to overcome challenges. In Alchemical Aviary, the Eagle represents sublimation, the process of turning a solid into vapor, symbolic of refining one's beliefs and thoughts.
 
 ### III. Practical Applications in Rituals and Spells
 
 Alchemical Aviary can be incorporated into rituals and spells in various ways, including the summoning of specific birds’ energies or using bird-related symbols and talismans. **Below are some practical applications**:
 
-1. ****Transformation Ritual****: Invoke the Phoenix energy by lighting a bonfire, burning herbs associated with transformation, like sage or rosemary, and meditating on personal growth to harness its regenerative and purifying essence.
+1. **Transformation Ritual**: Invoke the Phoenix energy by lighting a bonfire, burning herbs associated with transformation, like sage or rosemary, and meditating on personal growth to harness its regenerative and purifying essence.
 
-2. ****Guided Meditation****: Employ the Owl's wisdom through guided meditation, invoking the bird's connection with intuition and inner knowledge. Request the Owl's guidance in the exploration of your unconscious to gain newfound wisdom.
+2. **Guided Meditation**: Employ the Owl's wisdom through guided meditation, invoking the bird's connection with intuition and inner knowledge. Request the Owl's guidance in the exploration of your unconscious to gain newfound wisdom.
 
-3. ****Balance Ritual****: Combine the energies of the Raven and White Swan to achieve balance between light and darkness within the self. Meditate on the symbolism and characteristics of each bird, noting their contrasts and complementarity, to facilitate introspection and harmony.
+3. **Balance Ritual**: Combine the energies of the Raven and White Swan to achieve balance between light and darkness within the self. Meditate on the symbolism and characteristics of each bird, noting their contrasts and complementarity, to facilitate introspection and harmony.
 
 ### IV. Relationship with Other Occult Practices
 

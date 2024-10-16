@@ -31,15 +31,15 @@ The Five Cosmic Elements, also known as the Mahabhuta, are the fundamental build
 
 The three major forces of Thai cosmology and symbolism, Phaya Nagas, Hermit Saints, and Deities, are crucial entities that connect Thai sorcerers with the spiritual realm:
 
-1. ****Phaya Nagas****: These are powerful serpentine entities that dwell in water, symbolizing the primal life force, fertility, and the guardian of sacred knowledge. They act as intermediaries between humans and celestial beings.
-2. ****Hermit Saints****: A group of revered ascetics with supernatural powers who have transcended the limitations of the human condition through their spiritual practices. They are known to impart their wisdom and knowledge to sincere seekers.
-3. ****Deities****: The divine beings that exist in the celestial realm and are capable of influencing human affairs. They are often associated with natural forces and embody spiritual virtues and qualities that serve as role models for sorcerers.
+1. **Phaya Nagas**: These are powerful serpentine entities that dwell in water, symbolizing the primal life force, fertility, and the guardian of sacred knowledge. They act as intermediaries between humans and celestial beings.
+2. **Hermit Saints**: A group of revered ascetics with supernatural powers who have transcended the limitations of the human condition through their spiritual practices. They are known to impart their wisdom and knowledge to sincere seekers.
+3. **Deities**: The divine beings that exist in the celestial realm and are capable of influencing human affairs. They are often associated with natural forces and embody spiritual virtues and qualities that serve as role models for sorcerers.
 
 The convergence of these Five Cosmic Elements and the interaction with the three major forces culminate in the spiritual empowerment and transformation of the Thai sorcerer:
 
-1. ****Anchoring in Earth****: Through discipline and ascetic practices, Thai sorcerers ground themselves with the Earth element. This allows them to channel the energy of Phaya Nagas and develops a more profound connection with sacred knowledge.
-2. ****Working with Water and Fire****: Aligning with the cycles of transformation represented by Water and Fire elements, sorcerers harness the regenerative power of change. The guidance of Hermit Saints and Deities helps them navigate their spiritual journey.
-3. ****Embracing Air and Ether****: Achieving a higher state of consciousness by mastering Air and Ether elements, the sorcerer becomes more attuned to the subtle realms. This allows them to fully embody the wisdom of Hermit Saints and access the divine guidance of Deities.
+1. **Anchoring in Earth**: Through discipline and ascetic practices, Thai sorcerers ground themselves with the Earth element. This allows them to channel the energy of Phaya Nagas and develops a more profound connection with sacred knowledge.
+2. **Working with Water and Fire**: Aligning with the cycles of transformation represented by Water and Fire elements, sorcerers harness the regenerative power of change. The guidance of Hermit Saints and Deities helps them navigate their spiritual journey.
+3. **Embracing Air and Ether**: Achieving a higher state of consciousness by mastering Air and Ether elements, the sorcerer becomes more attuned to the subtle realms. This allows them to fully embody the wisdom of Hermit Saints and access the divine guidance of Deities.
 
 Through understanding and embracing the principles of the Five Cosmic Elements and integrating the power of Phaya Nagas, Hermit Saints, and Deities, traditional Thai sorcerers experience spiritual empowerment and transformation. This journey enables them to transcend personal limitations and actualize their potential, ultimately benefiting both themselves and the world around them.
 

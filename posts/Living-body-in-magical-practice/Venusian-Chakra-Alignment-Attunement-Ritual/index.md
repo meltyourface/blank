@@ -25,9 +25,9 @@ excerpt: >
 
 **Purpose**: To align and attune the practitioner's chakras, meridians, and subtle energy pathways with the selected planetary energies.
 
-Primary Planetary Correspondence: Venus (For love, harmony, and inner balance)
+**Primary Planetary Correspondence**: Venus (For love, harmony, and inner balance)
 
-Associated Elements: Earth & Water
+**Associated Elements**: Earth & Water
 
 **Materials**:
 

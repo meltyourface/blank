@@ -35,7 +35,7 @@ In Christianity, the life, death, and resurrection of Jesus Christ symbolize tra
 
 Immortality, though conceived with varying interpretations in different religions, often represents an afterlife or eternal existence beyond the physical world. In Hinduism and Buddhism, immortality is articulated in the concept of an eternal soul or Atman, which is free from the cycle of birth and death called Samsara. These world views emphasize that achieving a higher spiritual plane and breaking free from the cycle of suffering are keys to immortality.
 
-Christianity offers a different perspective on immortality: the idea of eternal life after death in Heaven. Similarly, in Islam, believers who follow the path laid down by Allah will achieve eternal life in paradise. In both cases, immortality is intertwined with the belief in an ultimate deity that governs both life and death, signifying the importance of the afterlife concept in understanding an all-encompassing God.
+**Christianity offers a different perspective on immortality**: the idea of eternal life after death in Heaven. Similarly, in Islam, believers who follow the path laid down by Allah will achieve eternal life in paradise. In both cases, immortality is intertwined with the belief in an ultimate deity that governs both life and death, signifying the importance of the afterlife concept in understanding an all-encompassing God.
 
 Cosmic balance:
 

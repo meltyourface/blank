@@ -25,7 +25,7 @@ At the center of the illustration lies the Philosopher's Stone, depicted as a ra
 
 Surrounding the Philosopher's Stone are various alchemical animals, each representing different aspects of the alchemical journey. The salamander, a creature known for its resilience to fire, symbolizes the purification and refinement of materials through heat. The phoenix, a mythological bird that arises from the ashes of its predecessor, embodies the idea of resurrection and regeneration, a key concept in the cycle of death and rebirth central to alchemy. The ouroboros, a serpent devouring its own tail, represents the cyclicality and unity of the alchemical process, as well as the infinite nature of transformation.
 
-Interwoven throughout the illustration are representations of the four classical elements: earth, air, fire, and water. **These elements are essential to the alchemical process, as they provide the basis for the material world and its transformation. The elements are depicted in various forms, such as animals and plants, with each exhibiting characteristics of the elements**:
+**Interwoven throughout the illustration are representations of the four classical elements**: earth, air, fire, and water. **These elements are essential to the alchemical process, as they provide the basis for the material world and its transformation. The elements are depicted in various forms, such as animals and plants, with each exhibiting characteristics of the elements**:
 
 - Earth is portrayed by a sturdy, resilient tree standing tall, symbolizing stability, fertility, and the tangible world.
 - Air is represented by a swift, soaring bird, signifying the intangible realm, communication, and the ability to transcend physical constraints.

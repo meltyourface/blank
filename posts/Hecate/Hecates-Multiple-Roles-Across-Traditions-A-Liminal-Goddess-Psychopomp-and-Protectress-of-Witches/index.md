@@ -22,11 +22,11 @@ excerpt: Compare Hecate's roles as a liminal goddess, a psychopomp, and a protec
 ---
 In order to compare Hecate's roles as a liminal goddess, a psychopomp, and a protectress of witches among the ancient Greek, Roman, and modern neo-pagan traditions, let us first define these terms and explore their meanings within the context of the respective traditions.
 
-Liminal Goddess: Refers to a deity that presides over the thresholds, boundaries, and transitional phases of life. Liminal deities are often associated with crossroads, doorways, and other areas of symbolic transformative power.
+**Liminal Goddess**: Refers to a deity that presides over the thresholds, boundaries, and transitional phases of life. Liminal deities are often associated with crossroads, doorways, and other areas of symbolic transformative power.
 
 **Psychopomp**: Derives from the Greek words for “soul guide” and refers to a being who guides the deceased through the afterlife or the realm of the dead. Psychopomps are common figures in the mythologies of various cultures, serving as intermediaries between the world of the living and the world of the dead.
 
-Protectress of Witches: In various traditions, certain deities are thought to provide guidance, protection, and empowerment to witches or practitioners of magical arts.
+**Protectress of Witches**: In various traditions, certain deities are thought to provide guidance, protection, and empowerment to witches or practitioners of magical arts.
 
 Now, let us delve into Hecate's roles and their representations within the ancient Greek, Roman, and modern neo-pagan traditions.
 

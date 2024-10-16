@@ -31,11 +31,11 @@ As a warrior, the Shaman is responsible for protecting and safeguarding the comm
 
 Some rites and rituals associated with the warrior aspect of the Shaman include:
 
-1. ****Journeying****: The Shaman embarks on spiritual journeys to the other realms, such as the Lower, Middle, or Upper Worlds, to confront and combat harmful forces and energies. Shamanic journeying involves entering an altered state of consciousness, using rhythmic drumming, dancing, or chanting to connect with spirit guides, animal spirits, and other spiritual helpers in these realms.
+1. **Journeying**: The Shaman embarks on spiritual journeys to the other realms, such as the Lower, Middle, or Upper Worlds, to confront and combat harmful forces and energies. Shamanic journeying involves entering an altered state of consciousness, using rhythmic drumming, dancing, or chanting to connect with spirit guides, animal spirits, and other spiritual helpers in these realms.
 
-2. ****Soul Retrieval****: The Shaman performs soul retrievals to heal individuals suffering from soul loss due to trauma, illness, or other negative experiences. In this practice, the Shaman journeys to the other worlds to locate, engage with, and recover the lost soul fragments to reintegrate them into the individual, enabling them to regain their personal power and vitality.
+2. **Soul Retrieval**: The Shaman performs soul retrievals to heal individuals suffering from soul loss due to trauma, illness, or other negative experiences. In this practice, the Shaman journeys to the other worlds to locate, engage with, and recover the lost soul fragments to reintegrate them into the individual, enabling them to regain their personal power and vitality.
 
-3. ****Spiritual Cleansing and Protection****: The Shaman employs various methods to cleanse and purify individuals, spaces, and objects of negative energies, such as the use of sacred smoke from burning herbs like sage or palo santo, or performing rituals involving sacred symbols, invocations, and rituals.
+3. **Spiritual Cleansing and Protection**: The Shaman employs various methods to cleanse and purify individuals, spaces, and objects of negative energies, such as the use of sacred smoke from burning herbs like sage or palo santo, or performing rituals involving sacred symbols, invocations, and rituals.
 
 The Priest Aspect
 
@@ -43,11 +43,11 @@ As a priest, the Shaman serves as an intermediary between the spiritual realms a
 
 Key rites and rituals associated with the priest aspect of the Shaman include:
 
-1. ****Divination****: The Shaman uses various divination techniques, such as casting bones, reading patterns in nature, or interpreting dreams, to gain insights and guidance from the spiritual realm for individuals and the community.
+1. **Divination**: The Shaman uses various divination techniques, such as casting bones, reading patterns in nature, or interpreting dreams, to gain insights and guidance from the spiritual realm for individuals and the community.
 
-2. ****Spirit Communication****: The Shaman communicates with spirits, ancestors, and deities, petitioning them for assistance, guidance, and healing. These communications often involve rituals, such as offerings, prayers, or trance-induced states.
+2. **Spirit Communication**: The Shaman communicates with spirits, ancestors, and deities, petitioning them for assistance, guidance, and healing. These communications often involve rituals, such as offerings, prayers, or trance-induced states.
 
-3. ****Rites of Passage****: The Shaman presides over rites of passage, such as births, deaths, marriages, and other significant life events, imbuing these events with spiritual significance and facilitating the transition between stages of life.
+3. **Rites of Passage**: The Shaman presides over rites of passage, such as births, deaths, marriages, and other significant life events, imbuing these events with spiritual significance and facilitating the transition between stages of life.
 
 The Symbiotic Function and Significance of the Roles
 

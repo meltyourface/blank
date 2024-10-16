@@ -24,11 +24,11 @@ excerpt: Design an unprecedented meditative or immersive visualization ritual ce
 
 **Duration**: Approximately 1 hour
 
-Materials required: A quiet, comfortable space, incense representing the four elements (fire, air, water, and earth), a diagram of the Etz Chaim, headphones or speakers for the unique sound frequencies, and comfortable seating or cushion.
+**Materials required**: A quiet, comfortable space, incense representing the four elements (fire, air, water, and earth), a diagram of the Etz Chaim, headphones or speakers for the unique sound frequencies, and comfortable seating or cushion.
 
 **Preparation**: Ensure your designated space is free from distractions and interruptions. Arrange the incense in a circle to represent the four elements. Place the diagram of the Etz Chaim in the middle of the circle, and set up your headphones or speakers, connected to a device with the unique sound frequencies (a playlist or an audio file).
 
-Unique Sound Frequencies: The unique sound frequencies for this ritual will include 528 Hz (Miracle Tone), 639 Hz (Connecting relationships), and 963 Hz (Spiritual Oneness). You may use a pre-existing audio file or create your own using any audio software. Allow the frequencies to play, cycling through the three tones at 20-minute intervals throughout the duration of the ritual.
+**Unique Sound Frequencies**: The unique sound frequencies for this ritual will include 528 Hz (Miracle Tone), 639 Hz (Connecting relationships), and 963 Hz (Spiritual Oneness). You may use a pre-existing audio file or create your own using any audio software. Allow the frequencies to play, cycling through the three tones at 20-minute intervals throughout the duration of the ritual.
 
 Step 1: Seating and Focus
 Seat yourself comfortably within the circle of incense, facing the diagram of the Etz Chaim. Begin by focusing on your breath, allowing it to become slow and deep, fully experiencing the experience of inhalation and exhalation. 

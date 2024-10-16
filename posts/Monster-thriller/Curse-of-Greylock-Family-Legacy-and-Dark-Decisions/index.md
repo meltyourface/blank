@@ -28,7 +28,7 @@ Samuel Van Orton, a descendant of the town's founding family, had thought it all
 
 Samuel was a man who valued the good in society and his family. He had been the town's doctor, a trusted and honorable figure in the eyes of the townsfolk. But the ancient entity's influence on Cecilia slowly unraveled his faith in his community and sense of duty. With each day, the fog crept closer to his doorstep, and so did the shivering shadows of the past.
 
-The moral decision Samuel faced tore at his very soul: either sacrifice his beloved sister to the abominable creature, or defy the grim pact and risk the wrath of the damned upon the entire town. 
+**The moral decision Samuel faced tore at his very soul**: either sacrifice his beloved sister to the abominable creature, or defy the grim pact and risk the wrath of the damned upon the entire town. 
 
 As he struggled to make this heart-wrenching decision, he began to unravel the entity's origins. Ancient scrolls hidden within Greylock's vaults revealed it to be a supernatural beast, birthed from the broken heart of a vengeful witch, scorned by Samuel's own ancestor. It was a debt that had to be paid—a life for a life—or the entity's insatiable wrath would eviscerate everything in its path. 
 

@@ -28,10 +28,10 @@ The historical use of occultism and esotericism play a significant role in the c
 
 Alchemy is a philosophical and protoscientific tradition that aimed to transform base metals into noble ones, specifically gold. It also sought to discover a universal panacea and an elixir of life, which could allegedly bestow immortality. Fundamental concepts in alchemy include exploring the relationship between spirit, soul, and body, as well as understanding the nature of reality and harnessing the power within it. This understanding encompasses various aspects through which an initiate could recognize the influence of alchemy on the use of aphrodisiacs.
 
-A. ****The four elements****: Earth, Water, Air, and Fire
+A. **The four elements**: Earth, Water, Air, and Fire
 These elements are foundational to the principles of alchemy and serve as important components of various aphrodisiacs. By understanding their properties, alchemists combined these elements to create a balanced mixture of aphrodisiac substances.
 
-B. ****The three principles****: Salt, Sulfur, and Mercury
+B. **The three principles**: Salt, Sulfur, and Mercury
 These principles also constitute an essential aspect of alchemical tradition. They respectively represent the physical, spiritual, and mental aspects of substances. By manipulating these principles, alchemists aimed to enhance and maximize the potential of the aphrodisiac.
 
 ### II. Planetary Associations

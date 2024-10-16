@@ -25,7 +25,7 @@ Occultism and esotericism are disciplines that seek to uncover hidden or secret 
 
 Symbolically, the Primeval wood represents a place of untamed, primal energy, and has associations with the cycles of life, death, and regeneration. As a mystical concept, it is the source of ancient wisdom, spiritual growth, and transformation, providing a connection to the roots of the Earth. In esoteric and occult practices, the Primeval wood often serves as a bridge between the visible and the invisible worlds, allowing communication with the spiritual realms and Elemental Kingdoms.
 
-The Elemental Kingdoms are the realms of the four classical elements: Earth, Water, Air, and Fire. Each of these elements is associated with specific energies, beings, and directions, and plays an essential role in rituals, initiatory processes, and ancient folklore.
+**The Elemental Kingdoms are the realms of the four classical elements**: Earth, Water, Air, and Fire. Each of these elements is associated with specific energies, beings, and directions, and plays an essential role in rituals, initiatory processes, and ancient folklore.
 
 In ancient rituals, the Primeval wood was often utilized as a sacred space for ceremonies and offerings, invoking the powers of hidden forces that reside there. Initiatory processes often incorporated the Primeval wood as a testing ground for trials, facing fears, and overcoming obstacles on the path towards illumination. In folklore, tales often revolve around mythological beings and spirits inhabiting the Primeval wood, revealing mystical knowledge and guiding those who venture within.
 

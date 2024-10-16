@@ -23,7 +23,7 @@ excerpt: >
   
   Historical Development of Occultism:
   
-  The history of occultism can be traced back to ancient societies such as Egypt, Mesopotamia, and Greece, where various forms of esoteric knowledge and practices were prevalent, particularly in the realms of astronomy, alchemy, and herbal medicine. ****These practices were often considered sacred and were reserved for the elite****: priests, scholars, or aristocracy who had access to such knowledge.
+  The history of occultism can be traced back to ancient societies such as Egypt, Mesopotamia, and Greece, where various forms of esoteric knowledge and practices were prevalent, particularly in the realms of astronomy, alchemy, and herbal medicine. **These practices were often considered sacred and were reserved for the elite**: priests, scholars, or aristocracy who had access to such knowledge.
   
   Throughout history, there have been instances where occult knowledge was suppressed and even demonized, particularly during periods of religious and political upheaval. The most notable example of this would be the rise of Christianity in Europe, which sought to eradicate pagan beliefs and practices associated with magic and divination, labeling them as heresy or witchcraft. This led to the infamous witch-hunts and trials across Europe and the Americas, resulting in the execution of thousands of individuals accused of practicing witchcraft.
   

@@ -35,27 +35,27 @@ The primary purpose of Sigilization is to manifest one's desires and intentions 
 
 Step-by-Step Instructions for Creating and Activating a Sigil
 
-1. ****Define your intent****: Before beginning the Sigilization process, clearly formulate your intention and ensure it is specific, realistic, and positively framed. Write your statement, and avoid using negatives or unnecessary words.
+1. **Define your intent**: Before beginning the Sigilization process, clearly formulate your intention and ensure it is specific, realistic, and positively framed. Write your statement, and avoid using negatives or unnecessary words.
 
-2. ****Remove vowels and repeated consonants****: From your written intent, eliminate all vowels and remove any duplicate consonants to distill the essence of your intention.
+2. **Remove vowels and repeated consonants**: From your written intent, eliminate all vowels and remove any duplicate consonants to distill the essence of your intention.
 
-3. ****Create your sigil****: Combine, arrange, and manipulate the remaining letters into a visual representation that holds meaning to you. Remember that the final form and aesthetic qualities of the sigil matter more to you than anyone else.
+3. **Create your sigil**: Combine, arrange, and manipulate the remaining letters into a visual representation that holds meaning to you. Remember that the final form and aesthetic qualities of the sigil matter more to you than anyone else.
 
-4. ****Charge your sigil****: To activate and empower your sigil, focus intensely on the symbol while entering a trance-like or altered state of consciousness. This can be achieved through sensory deprivation, meditation, rhythmic breathing, or many other methods. The key is to imbue the sigil with power, and your intense emotional energy creates a link between the sigil and the desired goal.
+4. **Charge your sigil**: To activate and empower your sigil, focus intensely on the symbol while entering a trance-like or altered state of consciousness. This can be achieved through sensory deprivation, meditation, rhythmic breathing, or many other methods. The key is to imbue the sigil with power, and your intense emotional energy creates a link between the sigil and the desired goal.
 
-5. ****Release and forget****: Once the sigil is charged, let go of your conscious attachment to it. This can be done by burning or destroying the sigil itself or simply placing it out of sight. Forgetting the sigil allows the subconscious mind to work on manifesting the desired outcome without interference from the conscious mind.
+5. **Release and forget**: Once the sigil is charged, let go of your conscious attachment to it. This can be done by burning or destroying the sigil itself or simply placing it out of sight. Forgetting the sigil allows the subconscious mind to work on manifesting the desired outcome without interference from the conscious mind.
 
 Various Methods of Sigilization
 
 Different occult practitioners may employ their preferred methods of Sigilization, reflecting their beliefs, inclinations, and specific practices. **Some popular techniques include**:
 
-1. ****Traditional method****: As detailed above, this involves creating sigils from written statements and activating them via focused energy and altered states of consciousness.
+1. **Traditional method**: As detailed above, this involves creating sigils from written statements and activating them via focused energy and altered states of consciousness.
 
-2. ****Pictorial method****: Drawing on significant imagery and symbolism, this method creates sigils using evocative pictures rather than alphanumeric sequences.
+2. **Pictorial method**: Drawing on significant imagery and symbolism, this method creates sigils using evocative pictures rather than alphanumeric sequences.
 
-3. ****Abstract method****: This approach generates random shapes and patterns, typically using automation tools such as computer algorithms, that remove the conscious mind's involvement.
+3. **Abstract method**: This approach generates random shapes and patterns, typically using automation tools such as computer algorithms, that remove the conscious mind's involvement.
 
-4. ****Pre-existing symbols****: Borrowing existing symbols from established occult systems or spiritual traditions, this method rests on the belief that these symbols already possess inherent power.
+4. **Pre-existing symbols**: Borrowing existing symbols from established occult systems or spiritual traditions, this method rests on the belief that these symbols already possess inherent power.
 
 The Importance of Proper Focus and Intention
 

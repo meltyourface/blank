@@ -22,7 +22,7 @@ excerpt: >
 ---
 To design the tailor-made protective sigil, let's establish the individual's unique astrological birth chart data:
 
-Birth Date: July 15, 1985
+**Birth Date**: July 15, 1985
 Birth Time: 03:50 AM
 Birth Place: London, United Kingdom
 

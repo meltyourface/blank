@@ -41,7 +41,7 @@ Building upon the symbolism of earlier decks, artist Pamela Colman Smith, under 
 4. **Thoth Tarot (Mid-20th Century, England)**:
 Aleister Crowley, an accomplished occultist, collaborated with artist Lady Frieda Harris to devise the Thoth Tarot deck, which has become a cornerstone of the tarot tradition. Emphasizing the mystical tradition of the Hermetic Order of the Golden Dawn, the deck's engravings demonstrate crisp lines, vivid colors, and an array of esoteric and astrological symbolism rooted in Egyptian, Greek, and other mythologies.
 
-5. ****Contemporary Decks (Late 20th Century to Present)****: 
+5. **Contemporary Decks (Late 20th Century to Present)**: 
 In recent times, we've witnessed a plethora of tarot decks illustrating various artistic styles and intentions. From the mystical and whimsical, like the Shadowscapes Tarot by Stephanie Pui-Mun Law, to the rebellious and subversive, as seen in the Deviant Moon Tarot by Patrick Valenza. Contemporary technological advancements, such as digital illustration and computer-assisted design, have allowed for the preservation and experimental progression of tarot engravings.
 
 **Conclusion**:

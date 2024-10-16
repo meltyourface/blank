@@ -49,7 +49,7 @@ Warmly, remind yourself of the importance of the Horsemen and their elemental gi
 
 Prepare a quiet, undisturbed space for the ritual.
 
-Lay out four elemental representations: a bowl of rich soil (Earth), a feather (Air), a lit candle (Fire), and a chalice of water (Water).
+**Lay out four elemental representations**: a bowl of rich soil (Earth), a feather (Air), a lit candle (Fire), and a chalice of water (Water).
 
 Center yourself and clear your mind. Take several deep, calming breaths, feeling your connection with the Earth beneath you and the vast cosmos above.
 

@@ -48,9 +48,9 @@ For this example, let's say the natal chart has:
 
 Now that we have created the natal chart, we can interpret the planetary positions and their relationships.
 
-Dominant elements: Earth (Sun and Saturn in Capricorn, Pluto in Virgo) and Air (Moon in Gemini, Venus in Aquarius, Mars in Libra)
+**Dominant elements**: Earth (Sun and Saturn in Capricorn, Pluto in Virgo) and Air (Moon in Gemini, Venus in Aquarius, Mars in Libra)
 
-Dominant planetary rulers: Mars (Aries rising), Saturn (Capricorn Sun), Mercury (Gemini Moon)
+**Dominant planetary rulers**: Mars (Aries rising), Saturn (Capricorn Sun), Mercury (Gemini Moon)
 
 **Character**:
 This individual is likely ambitious, practical, and highly competent when it comes to achieving long-term objectives. The Sun in Capricorn imparts an air of responsibility and dedication to goals while the Moon in Gemini contributes to versatility, curiosity, and adaptability. Their Aries rising lends an assertive, pioneering spirit that manifests in their ability to take action and lead.

@@ -42,7 +42,7 @@ excerpt: >
 **Procedure**:
 **Step 1. Preparation
 1.1. Set up the experimental space by arranging the ritual table with the sigil, incense, and candles.
-1.2. **Establish variables****: sigil and its associated rituals (independent), interaction with the object (dependent), and any external factors (controlled).
+1.2. **Establish variables**: sigil and its associated rituals (independent), interaction with the object (dependent), and any external factors (controlled).
 1.3. Record the initial environment conditions (e.g., temperature, humidity, time of day).
 **Step 2**: Materials
 2.1. **Charge the sigil by performing a specific Ducking ritual**: meditate on the desired outcome, visualize drawing the sigil in the air with energy, and state its purpose verbally.

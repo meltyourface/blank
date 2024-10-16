@@ -27,13 +27,13 @@ Introduction
 
 The Stone Age marked a significant period in human history where our ancestors began to interact with the world around them in increasingly complex ways. With this evolution came the conceptualization of the mystical aspects of existence. This section delves into the use of natural elements, the role of the shaman, and the spiritual connections people established with their environment during this era. Drawing from their practices and traditions, initiates can find powerful ways to deepen their cognition of the occult and esoteric practices that surround Stone Age existence.
 
-Natural Elements: Earth, Air, Fire, and Water
+**Natural Elements**: Earth, Air, Fire, and Water
 
 In Stone Age cosmology, the four classical elements - Earth, Air, Fire, and Water - played a crucial role in shaping both the physical and spiritual fabric of the world. With these elements as the cornerstone of their belief system, Stone Age people developed essential rituals and practices aimed at maintaining a harmonious balance between various environmental forces.
 
 Earth, representing stability and abundance, was revered for its life-giving qualities and revered in rituals such as planting seeds and burying objects for protection. Air, embodying freedom and change, including the wind and the breath, was manipulated through sound such as through speeches, chanting, or the use of musical instruments, to invoke its energy during ceremonies. Fire, a symbol of transformation and renewal, was vital to Stone Age rituals. Its purifying properties were used in rites of passage, healing, and the release of negative energies. Lastly, water was perceived as the element of cleansing, regeneration, and emotion - a deeply respected force in their society. By harnessing these natural elements, Stone Age shamans would connect with spiritual realms and channel energies that would profoundly influence their communities and the world around them.
 
-Shamanic Practices: Bridging the Otherworldly and the Earthly
+**Shamanic Practices**: Bridging the Otherworldly and the Earthly
 
 Serving as mediators between the spiritual and physical planes, shamans were integral figures in Stone Age societies. As healers, seers, and mentors, they would undergo intense spiritual journeys, including physical and mental transformations, to attain the wisdom that allowed them to guide their communities.
 
@@ -45,7 +45,7 @@ To benefit from the knowledge and methods of these shamans, initiates can immers
 
 3. **Ritualistic art and symbology**: Shamanic art from the Stone Age showcased various symbols, pictographs, and petroglyphs, essentially serving as a visual bridge between the human psyche and the spiritual world.
 
-Environmental Harmony: Reverence for Nature and its Inhabitants
+**Environmental Harmony**: Reverence for Nature and its Inhabitants
 
 Fundamental to Stone Age esoteric and occult practices was the belief that humans are intrinsically connected with the environment around them. Intimate relationships were maintained with flora, fauna, and the land - embedding spiritual significance in every aspect of nature.
 

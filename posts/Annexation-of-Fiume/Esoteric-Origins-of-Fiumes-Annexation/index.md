@@ -33,15 +33,15 @@ The city of Fiume, located in modern-day Croatia, was a significant point of con
 
 ### II. Key Figures
 
-1. ****Gabriele D'Annunzio****: An enigmatic poet, soldier, and playwright, D'Annunzio was the central figure in the Annexation of Fiume. His controversial and flamboyant character was known for his connection to the esoteric teachings of the Hermetic Order of the Golden Dawn and Theosophical Society. As the leader of the occupation and later the self-proclaimed ruler of Fiume, D'Annunzio played a crucial role in driving this event forward, influenced by his beliefs in the occult.
+1. **Gabriele D'Annunzio**: An enigmatic poet, soldier, and playwright, D'Annunzio was the central figure in the Annexation of Fiume. His controversial and flamboyant character was known for his connection to the esoteric teachings of the Hermetic Order of the Golden Dawn and Theosophical Society. As the leader of the occupation and later the self-proclaimed ruler of Fiume, D'Annunzio played a crucial role in driving this event forward, influenced by his beliefs in the occult.
 
-2. ****Benito Mussolini****: Though not directly involved in the Annexation of Fiume, Mussolini, the future leader of Fascist Italy, closely observed the events unfolding in Fiume. The charismatic qualities and political tactics employed by D'Annunzio are said to have greatly influenced Mussolini's later rise to power. Mussolini held a secretive fascination with the occult, which may have drawn him towards D'Annunzio and the esotericism surrounding the Annexation of Fiume.
+2. **Benito Mussolini**: Though not directly involved in the Annexation of Fiume, Mussolini, the future leader of Fascist Italy, closely observed the events unfolding in Fiume. The charismatic qualities and political tactics employed by D'Annunzio are said to have greatly influenced Mussolini's later rise to power. Mussolini held a secretive fascination with the occult, which may have drawn him towards D'Annunzio and the esotericism surrounding the Annexation of Fiume.
 
 ### III. Magical Implications & Hidden Meanings
 
-1. ****Esoteric Symbolism****: The symbolism used by D'Annunzio in the Fiume occupation, such as the Fasces – a bundle of rods with an axe symbolizing authority – held significant esoteric meanings tied to ancient Roman mysticism. This fascination with esoteric symbolism and mysticism fed into the development of Fascist ideologies in Italy. Moreover, D'Annunzio believed in the invincibility and importance of Fiume, possibly attributing magical properties to the city itself.
+1. **Esoteric Symbolism**: The symbolism used by D'Annunzio in the Fiume occupation, such as the Fasces – a bundle of rods with an axe symbolizing authority – held significant esoteric meanings tied to ancient Roman mysticism. This fascination with esoteric symbolism and mysticism fed into the development of Fascist ideologies in Italy. Moreover, D'Annunzio believed in the invincibility and importance of Fiume, possibly attributing magical properties to the city itself.
 
-2. ****Occult Influences****: The close association of D'Annunzio with occult organizations and secret societies, such as the Hermetic Order of the Golden Dawn and Theosophical Society, brought forth knowledge of Western esotericism, alchemy, and Eastern mysticism into the fold of the Fiume Regency. This esoteric blend became an integral part of Fiume's brief existence as an autonomous state and its rule under D'Annunzio.
+2. **Occult Influences**: The close association of D'Annunzio with occult organizations and secret societies, such as the Hermetic Order of the Golden Dawn and Theosophical Society, brought forth knowledge of Western esotericism, alchemy, and Eastern mysticism into the fold of the Fiume Regency. This esoteric blend became an integral part of Fiume's brief existence as an autonomous state and its rule under D'Annunzio.
 
 Conclusion
 

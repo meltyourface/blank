@@ -29,14 +29,14 @@ The emblem takes on a circular form to represent the unification of different ra
 
 **Elements**:
 
-1. ****Wormhole****: At the center of the emblem lies an intricate wormhole design. This symbolizes the exploration of quantum physics, allowing advanced races to traverse vast distances in space. The wormhole is depicted with swirling lines that create a 3D illusion, signifying the bending of spacetime.
+1. **Wormhole**: At the center of the emblem lies an intricate wormhole design. This symbolizes the exploration of quantum physics, allowing advanced races to traverse vast distances in space. The wormhole is depicted with swirling lines that create a 3D illusion, signifying the bending of spacetime.
 
-2. ****Terraformed Worlds****: Encircling the wormhole are representations of three terraformed worlds, each with unique characteristics, such as diverse landscapes, water systems, and atmospheres. They emphasize the cooperation among various planetary bodies within the federation and their shared pursuit of new habitable worlds.
+2. **Terraformed Worlds**: Encircling the wormhole are representations of three terraformed worlds, each with unique characteristics, such as diverse landscapes, water systems, and atmospheres. They emphasize the cooperation among various planetary bodies within the federation and their shared pursuit of new habitable worlds.
 
-3. ****Cybernetic Enhancements****: Connecting the terraformed worlds, there are delicate lines of circuitry. These represent the seamless fusion of biology and technology, highlighting the federation's advancements in artificial intelligence and cybernetics. The intertwining of the circuitries presents the idea of shared knowledge and interconnectedness across the different races.
+3. **Cybernetic Enhancements**: Connecting the terraformed worlds, there are delicate lines of circuitry. These represent the seamless fusion of biology and technology, highlighting the federation's advancements in artificial intelligence and cybernetics. The intertwining of the circuitries presents the idea of shared knowledge and interconnectedness across the different races.
 
-4. ****Signals and Waves****: Surrounding the emblem's central elements, there are various ethereal emanations representing waves, signals, and light shards. These illustrate the federation's focus on extraterrestrial communication, bridging distances through technological advancements and shared information across the cosmos.
+4. **Signals and Waves**: Surrounding the emblem's central elements, there are various ethereal emanations representing waves, signals, and light shards. These illustrate the federation's focus on extraterrestrial communication, bridging distances through technological advancements and shared information across the cosmos.
 
-5. ****Five-pointed Star****: Encasing the entire emblem is a stylized five-pointed star, with each point extending to wrap around the circular design. The star signifies unity, guidance, and the ultimate aspiration of cosmic knowledge.
+5. **Five-pointed Star**: Encasing the entire emblem is a stylized five-pointed star, with each point extending to wrap around the circular design. The star signifies unity, guidance, and the ultimate aspiration of cosmic knowledge.
 
 Overall, the emblem embodies the interstellar federation's distinctive pursuits and technological achievements. The combination of wormholes, terraformed worlds, cybernetic enhancements, extraterrestrial communications, and unity within the design represents the collective aspirational goal of exploring new frontiers in science, technology, and space.

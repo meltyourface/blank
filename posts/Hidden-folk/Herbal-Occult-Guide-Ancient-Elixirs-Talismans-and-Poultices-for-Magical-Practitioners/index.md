@@ -26,7 +26,7 @@ Having extensively studied and collaborated with the Hidden Folk, I have uncover
 Habitat: Native to the Mediterranean region and Southern Europe
 Ethical Harvesting: Harvested post-autumn, with a ritualized offering to thank the plant spirits.
 
-Occult Properties: Amplifies magical potency, enabling practitioners to access hidden realms, induce potent love spells, and increase psychic abilities.
+**Occult Properties**: Amplifies magical potency, enabling practitioners to access hidden realms, induce potent love spells, and increase psychic abilities.
 Optimal Usage: Dried and ground into a powder for use in rituals, or as a key ingredient in elixirs and talismans.
 Historical Applications: Legendary sorceress Medea utilized Mandrake to enchant her rival, winning the infamous Golden Fleece.
 
@@ -34,7 +34,7 @@ Historical Applications: Legendary sorceress Medea utilized Mandrake to enchant 
 Habitat: Found across temperate regions of Europe, Asia, and Africa
 Ethical Harvesting: Gather at the peak of summer, leaving an adequate portion for the plant's self-regeneration.
 
-Occult Properties: Enhances astral travel and lucid dreaming, provides protection during occult practices, and aids in divination.
+**Occult Properties**: Enhances astral travel and lucid dreaming, provides protection during occult practices, and aids in divination.
 Optimal Usage: Use in smudging rituals, as components in dream pillows, or prepare as an infusion for consumption.
 Historical Applications: Renowned Dr. John Dee, occultist and advisor to Queen Elizabeth I, believed Mugwort enhanced his prophetic abilities.
 
@@ -42,7 +42,7 @@ Historical Applications: Renowned Dr. John Dee, occultist and advisor to Queen E
 Habitat: Europe, North America, and temperate regions of Asia
 Ethical Harvesting: Harvest just before the flowers bloom, showing gratitude to the plant with a small gift.
 
-Occult Properties: Restores emotional balance, invokes happiness and contentment, and ushers in new beginnings.
+**Occult Properties**: Restores emotional balance, invokes happiness and contentment, and ushers in new beginnings.
 Optimal Usage: Employ in elixirs and poultices or incorporate into rituals for the purification of sacred spaces.
 Historical Applications: Associated with mythical figures like Persephone and St. George, renowned for their triumphs over adversity.
 
@@ -50,7 +50,7 @@ Historical Applications: Associated with mythical figures like Persephone and St
 Habitat: Common throughout Europe, North Africa, and Western Asia
 Ethical Harvesting: Approach with caution due to toxicity. Harvest while reciting invocations to banish malevolent spirits.
 
-Occult Properties: Enables scrying and clairvoyance, assists in understanding past lives, and promotes necromantic communication.
+**Occult Properties**: Enables scrying and clairvoyance, assists in understanding past lives, and promotes necromantic communication.
 Optimal Usage: Infuse in oils and elixirs, but never ingest. Employ as part of meditative practices and rituals.
 Historical Applications: Henbane has been referenced in ancient texts like Homer's Odyssey as a plant possessing supernatural powers.
 

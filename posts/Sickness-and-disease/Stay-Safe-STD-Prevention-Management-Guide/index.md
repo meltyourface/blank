@@ -26,9 +26,9 @@ excerpt: >
 
 **Subtitle**: Empower Yourself with Knowledge and Protect Your Sexual Health
 
-Color Scheme: Bright and pleasant shades of teal, purple, and yellow to create a visually appealing and engaging brochure.
+**Color Scheme**: Bright and pleasant shades of teal, purple, and yellow to create a visually appealing and engaging brochure.
 
-Cover Page Image: Dark silhouettes of couples in different poses, with bright graphical icons of condoms, dental dams, and a plus sign to represent regular STD testing.
+**Cover Page Image**: Dark silhouettes of couples in different poses, with bright graphical icons of condoms, dental dams, and a plus sign to represent regular STD testing.
 
 **Introduction**:
 
@@ -36,19 +36,19 @@ Dear reader, thank you for embarking on a journey to protect and maintain your s
 
 ### Section 1: Transmission - The Invisible Risk
 
-• Detailed table listing common STDs like chlamydia, gonorrhea, syphilis, genital warts, herpes, and HIV, as well the mode of transmission for each. ****(Source****: CDC)
+• Detailed table listing common STDs like chlamydia, gonorrhea, syphilis, genital warts, herpes, and HIV, as well the mode of transmission for each. **(Source**: CDC)
 
 • Infographic illustrating various types of sexual contact that can pose a risk and preventive measures to take, such as using condoms and dental dams.
 
 ### Section 2: Symptoms - Recognize the Warning Signs
 
-• Comprehensive tables and illustrations highlighting common and atypical symptoms for each STD, stressing the importance of staying informed and seeking medical attention if needed. ****(Source****: Planned Parenthood)
+• Comprehensive tables and illustrations highlighting common and atypical symptoms for each STD, stressing the importance of staying informed and seeking medical attention if needed. **(Source**: Planned Parenthood)
 
 • Real-life story of a college student's experience with undiagnosed chlamydia, describing the physical and emotional impact of the infection and how early detection could have prevented the ordeal.
 
 ### Section 3: Treatment and Management – Know Your Options
 
-• Accurate, up-to-date information on available medications, treatment durations, and potential limitations of each treatment. ****(Source****: World Health Organization)
+• Accurate, up-to-date information on available medications, treatment durations, and potential limitations of each treatment. **(Source**: World Health Organization)
 
 • Anecdote of a young adult who successfully managed a herpes outbreak with antiviral medication, educating readers on the possibilities of living with well-controlled STDs.
 
@@ -60,12 +60,12 @@ Dear reader, thank you for embarking on a journey to protect and maintain your s
 
 ### Section 5: Resources – Reach Out for Help
 
-• List of reputable clinics and online platforms for consultation and testing, with emphasis on confidentiality, convenience, and affordability. ****(Source****: RAINN)
+• List of reputable clinics and online platforms for consultation and testing, with emphasis on confidentiality, convenience, and affordability. **(Source**: RAINN)
 
 • Quotes from healthcare professionals highlighting the importance of sexual health awareness and reinventing our approach towards STDs.
 
 **Conclusion**: The More You Know, The Safer You'll Be!
 
-Main takeaway: The key to a healthy sexual life lies in the power of awareness, communication, and precaution. Embrace your sensuality while prioritizing your well-being.
+**Main takeaway**: The key to a healthy sexual life lies in the power of awareness, communication, and precaution. Embrace your sensuality while prioritizing your well-being.
 
-Back Page: Important contact details and helpline numbers for STI support, including the National Sexual Health Helpline and local clinics. A QR code that redirects to an online resource hub for sexual health education.
+**Back Page**: Important contact details and helpline numbers for STI support, including the National Sexual Health Helpline and local clinics. A QR code that redirects to an online resource hub for sexual health education.

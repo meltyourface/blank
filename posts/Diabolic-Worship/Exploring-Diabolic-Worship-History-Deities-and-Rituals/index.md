@@ -36,23 +36,23 @@ Main Deities Involved in Diabolic Worship
 
 Some of the most prominent deities and entities worshipped and invoked within Diabolic Worship practices are:
 
-1. ****Lucifer****: Perhaps the most well-known figure in Diabolic Worship, Lucifer represents the archetype of the rebellious angel who turned away from the divine and now symbolizes the path to enlightenment via self-discovery and empowerment.
+1. **Lucifer**: Perhaps the most well-known figure in Diabolic Worship, Lucifer represents the archetype of the rebellious angel who turned away from the divine and now symbolizes the path to enlightenment via self-discovery and empowerment.
  
-2. ****Lilith****: Known as the first woman created before Eve, Lilith refused to submit to Adam and was cast out of the Garden of Eden. She is often associated with unbridled sexuality, empowerment, and feminine independence.
+2. **Lilith**: Known as the first woman created before Eve, Lilith refused to submit to Adam and was cast out of the Garden of Eden. She is often associated with unbridled sexuality, empowerment, and feminine independence.
 
-3. ****Baphomet****: A complex figure whose origins lie in the European witch hunts, Baphomet symbolizes balance, unity, and equilibrium between opposing forces. Worshippers of Baphomet seek to achieve harmony between light and darkness and the reconciliation of spiritual and material realms.
+3. **Baphomet**: A complex figure whose origins lie in the European witch hunts, Baphomet symbolizes balance, unity, and equilibrium between opposing forces. Worshippers of Baphomet seek to achieve harmony between light and darkness and the reconciliation of spiritual and material realms.
 
 Common Rituals in Diabetic Worship
 
 The rituals performed by practitioners of Diabolic Worship vary widely depending on the particular deity or entity being addressed. **However, some general rituals and practices common to most branches of Diabolic Worship include**:
 
-1. ****Invocation****: Worshippers call upon the chosen deity or entity, inviting them to take part in the ritual and grant their presence and power.
+1. **Invocation**: Worshippers call upon the chosen deity or entity, inviting them to take part in the ritual and grant their presence and power.
 
-2. ****Offerings and Sacrifices****: Devotees present offerings to their chosen deity, often in the form of symbolically significant items or, in some branches, blood sacrifices. These offerings signify respect and devotion, and they may serve to strengthen the bond between practitioner and entity.
+2. **Offerings and Sacrifices**: Devotees present offerings to their chosen deity, often in the form of symbolically significant items or, in some branches, blood sacrifices. These offerings signify respect and devotion, and they may serve to strengthen the bond between practitioner and entity.
 
-3. ****Ritualistic Fetishes****: Practitioners may utilize a variety of physical objects to help them commune with the entity, such as a graven image, sigils, candles, incense, or an altar.
+3. **Ritualistic Fetishes**: Practitioners may utilize a variety of physical objects to help them commune with the entity, such as a graven image, sigils, candles, incense, or an altar.
 
-4. ****Meditation andVisualization****: Many rituals include periods of focused meditation and visualization designed to open the worshipper's mind to the entity's influence and facilitate a deeper connection.
+4. **Meditation andVisualization**: Many rituals include periods of focused meditation and visualization designed to open the worshipper's mind to the entity's influence and facilitate a deeper connection.
 
 Ethical Considerations
 

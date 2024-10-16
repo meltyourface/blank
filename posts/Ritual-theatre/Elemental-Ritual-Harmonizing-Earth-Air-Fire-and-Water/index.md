@@ -30,7 +30,7 @@ excerpt: Devise an intricate sequence of symbolic gestures, incorporating the us
 3. **Fire**: A ceremonial dagger, a candle, and a chalice filled with flammable liquid.
 4. **Water**: A seashell, a bowl filled with water, and a satchel of sea salt.
 
-Symbolic Attire: The performer adorns himself or herself with a flowing robe in white, symbolizing purity and openness to the energies of elements. They also wear a leather belt adorned with symbols of the four elements. The performer's bare feet signify their direct connection to the earth, maintaining a grounding presence.
+**Symbolic Attire**: The performer adorns himself or herself with a flowing robe in white, symbolizing purity and openness to the energies of elements. They also wear a leather belt adorned with symbols of the four elements. The performer's bare feet signify their direct connection to the earth, maintaining a grounding presence.
 
 The Ritual Sequence:
 

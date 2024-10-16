@@ -21,7 +21,7 @@ excerpt: Delve into the mystical realm of Transcendence by translating a profoun
 ---
 Verse selected: "It ascends from the earth to the heavens and becomes ruler over that which is above and that which is below."
 
-Contemporary English translation: "From the depths of Earth, it rises above and beyond the heavens, governing the celestial spheres and earthly realms."
+**Contemporary English translation**: "From the depths of Earth, it rises above and beyond the heavens, governing the celestial spheres and earthly realms."
 
 This verse from the enigmatic Emerald Tablet holds rich alchemical and esoteric symbolism. It speaks of a process or force - often interpreted as the universal life force or the transformational power prevalent in alchemy - ascending from the earthly plane to the celestial plane, exerting mastery over all that encompasses both realms.
 

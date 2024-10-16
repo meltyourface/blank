@@ -22,7 +22,7 @@ excerpt: Compose a deeply evocative, multi-act ritual theater performance that i
 
 ## The Magnum Opus: An Alchemical Odyssey
 
-Act I: The Prima Materia
+**Act I**: The Prima Materia
 
 Scene 1: The Elemental Crossroads
 The performance begins with a dark and mysterious set, representing the four elements. In each corner, a ritual takes place: a roaring fire for Egon the Fire Master, a flowing fountain for Halia the Water Priestess, a sandy space for Andros the Earth Warden, and a wind machine for Zefira the Air Keeper. The rituals interact with one another, highlighting the complementary and contrasting natures of the elements.
@@ -33,7 +33,7 @@ Enter the alchemists, intrigued by the power of the elements, and their pursuit 
 Scene 3: Summoning the Homunculus
 The alchemist and elementals join forces to create a homunculus, symbolizing the raw material for alchemical transformation. The creature is brought to life in a breathtaking combination of puppetry, mask work, and physical theater, accompanied by a haunting ethereal score.
 
-Act II: The Magnum Opus
+**Act II**: The Magnum Opus
 
 Scene 1: Nigredo - The Blackening
 A dark, shadowy landscape reflects the first stage of the alchemical process. The alchemists, elemental masters, and homunculus engage in a powerful ritual of decomposition and purification. Whispers and deep resonant drums underscore the sense of the unknown and impending transformation.
@@ -47,7 +47,7 @@ In the citrinitas stage, the set takes on a warm golden hue. A series of dances 
 Scene 4: Rubedo - The Reddening
 In the climactic rubedo stage, the stage is bathed in warm red and orange tones. The unearthly music crescendos as the alchemists, elementals, and homunculus undergo their final transformation in a spectacular display of pyrotechnics and aerial acrobatics.
 
-Act III: The Great Work
+**Act III**: The Great Work
 
 Scene 1: The Philosopher's Stone
 The transformed alchemists and homunculus now stand in the presence of the Philosopher's Stone, a glowing, radiant centerpiece on stage. They perform a mesmerizing final ritual, recognizing their newfound understanding of the interconnectedness of all life and the power of transmutation.
@@ -58,4 +58,4 @@ As the performance concludes, the alchemists and homunculus ascend to a higher p
 Scene 3: The Ethereal Elixir
 The alchemists, elementals, and homunculus share the ethereal elixir, which grants them immortality and spiritual enlightenment. They gather together in a moment of celebration and triumph, and the whole stage bursts with majestic celestial music and visually stunning special effects.
 
-The Magnum Opus: An Alchemical Odyssey leaves the audience with an unforgettable experience that captures the essence of alchemy, the transformative power of the human spirit, and the boundless potential of the soul's journey towards wholeness and unity.
+**The Magnum Opus**: An Alchemical Odyssey leaves the audience with an unforgettable experience that captures the essence of alchemy, the transformative power of the human spirit, and the boundless potential of the soul's journey towards wholeness and unity.

@@ -25,22 +25,22 @@ excerpt: >
 
 ### I. Preparation
 A. Sacred Grove
-1. ****Location****: Deep within the ancient and secluded Gladerend Forest. The sacred grove is marked by a circle of nine towering oak trees, each adorned with emerald moss and ivy.
-2. ****Secret Path****: The path to the grove is veiled by natural illusion, known only to the initiates and requires the use of a lodestone etched with the Forest Lords' sigil to navigate successfully.
+1. **Location**: Deep within the ancient and secluded Gladerend Forest. The sacred grove is marked by a circle of nine towering oak trees, each adorned with emerald moss and ivy.
+2. **Secret Path**: The path to the grove is veiled by natural illusion, known only to the initiates and requires the use of a lodestone etched with the Forest Lords' sigil to navigate successfully.
 
 B. Lunar Phase Requirements
-1. ****Timing****: The ceremony must take place during the Waxing Gibbous Moon, symbolizing growth and the gaining of power from the woodland spirits.
-2. ****Moonrise****: The initiation begins at the exact moment the moon crests above the horizon, ensuring the celestial energies align with the ceremony.
+1. **Timing**: The ceremony must take place during the Waxing Gibbous Moon, symbolizing growth and the gaining of power from the woodland spirits.
+2. **Moonrise**: The initiation begins at the exact moment the moon crests above the horizon, ensuring the celestial energies align with the ceremony.
 
 C. Offerings to Forest Entities
-1. ****To the Forest Lord****: A carved and polished wooden statuette depicting the Forest Lord, placed under the largest oak within the grove.
-2. ****To the Guardian Spirits****: Sprigs of yew, holly, and mistletoe, to be burned as incense during the initiation.
-3. ****To the Nymphs****: A silver bowl filled with pure water drawn from a nearby enchanted spring, garnished with white rose petals.
+1. **To the Forest Lord**: A carved and polished wooden statuette depicting the Forest Lord, placed under the largest oak within the grove.
+2. **To the Guardian Spirits**: Sprigs of yew, holly, and mistletoe, to be burned as incense during the initiation.
+3. **To the Nymphs**: A silver bowl filled with pure water drawn from a nearby enchanted spring, garnished with white rose petals.
 
 D. Ritualistic Tools
-1. ****Staff of Initiation****: A wooden staff adorned with symbols representing the path of the Forest Lord and topped with a quartz crystal, used to channel and direct energies.
-2. ****Cloaks****: Initiates are given the cloaks of the Forest Lords, dyed in deep forest green, signifying their commitment to the order.
-3. ****Silver Athame****: A small ritual dagger used to etch the initiate's name in the bark of a sacred oak tree as a symbol of their bond with the woodland spirits.
+1. **Staff of Initiation**: A wooden staff adorned with symbols representing the path of the Forest Lord and topped with a quartz crystal, used to channel and direct energies.
+2. **Cloaks**: Initiates are given the cloaks of the Forest Lords, dyed in deep forest green, signifying their commitment to the order.
+3. **Silver Athame**: A small ritual dagger used to etch the initiate's name in the bark of a sacred oak tree as a symbol of their bond with the woodland spirits.
 
 ### II. Ceremony
 A. Opening Invocation

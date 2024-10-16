@@ -28,7 +28,7 @@ To address this knowledge challenge, I will be focusing on one of the Orphic Hym
 
 The Orphic Hymns are a collection of 87 ancient Greek hymns that were primarily addressed to various gods and goddesses of the Greek pantheon. This particular hymn to Selene employs symbolism associated with the Moon, such as the phases of the moon, the silver color, and the concept of illumination.
 
-The hymn begins with an invocation of Selene: "Hear, Goddess queen, diffusing silver light, bull-horned and wandering through the gloom of Night." Here, Selene is called upon for her divine powers associated with lunar cycles, reflecting a connection to the various stages of life, transformation, and creativity. The invocation is followed by an address to her various attributes, such as her association with the night, her illuminating power, and her potential effects on the natural world (e.g., seasons, fertility).
+**The hymn begins with an invocation of Selene**: "Hear, Goddess queen, diffusing silver light, bull-horned and wandering through the gloom of Night." Here, Selene is called upon for her divine powers associated with lunar cycles, reflecting a connection to the various stages of life, transformation, and creativity. The invocation is followed by an address to her various attributes, such as her association with the night, her illuminating power, and her potential effects on the natural world (e.g., seasons, fertility).
 
 2. **Function of the Charm**:
 

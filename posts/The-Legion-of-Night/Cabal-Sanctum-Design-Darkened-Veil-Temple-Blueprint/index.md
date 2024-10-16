@@ -46,19 +46,19 @@ D. **Meditation and Energy Chamber**:
 
 ### III. Timeline and Phases
 
-A. ****Phase 1****: Land Acquisition and Preparation (New Moon)
+A. **Phase 1**: Land Acquisition and Preparation (New Moon)
 - Locate and acquire land suitable for the sanctum's construction, ensuring the area aligns with the desired energies.
 - Cleanse and purify the land, establishing a sacred boundary utilizing the Legion's protective wards.
 
-B. ****Phase 2****: Construction (Waxing Moon)
+B. **Phase 2**: Construction (Waxing Moon)
 - Begin construction of the sanctum, working in harmony with the lunar cycle to harness the energies of growth and manifestation.
 - Consecrate the sacred tools and materials used in the building process, incorporating mystical symbols and sigils as required.
 
-C. ****Phase 3****: Interior Decoration (Full Moon)
+C. **Phase 3**: Interior Decoration (Full Moon)
 - Install furnishings and decor specific to the order's aesthetic, including rich tapestries, candles, candelabras, and crystal accents to increase the flow of cosmic energy.
 - Position artifacts and relics with personal significance to the practitioners around the sanctum.
 
-D. ****Phase 4****: Sanctum Consecration and Opening (Waning Moon)
+D. **Phase 4**: Sanctum Consecration and Opening (Waning Moon)
 - Conduct a grand consecration ritual to formally dedicate the sanctum to The Legion of Night, inviting the order's celestial protectors and guides to bless the space.
 - Host an initiation ceremony for new members, as well as a night of collective ritual work to manifest the Legion's goals in the world.
 

@@ -25,9 +25,9 @@ excerpt: >
 
 **Objective**: To cultivate stillness and mindfulness in daily life while integrating elements of primordial darkness and self-empowerment.
 
-Exercise Duration: 20-30 minutes per day
+**Exercise Duration**: 20-30 minutes per day
 
-Materials Needed: Quiet and comfortable space, meditation cushion or chair, ambient music or soundscapes with deep meditative frequencies if desired.
+**Materials Needed**: Quiet and comfortable space, meditation cushion or chair, ambient music or soundscapes with deep meditative frequencies if desired.
 **Step 1**: Preparation
 Choose a quiet and comfortable space where you can sit undisturbed for the duration of the exercise. Find a seated position that is comfortable and sustainable, either on a cushion or chair. If desired, play ambient music or soundscapes featuring deep meditative frequencies to create a supportive environment.
 **Step 2**: Body Awareness and Activation of Primordial Symbols

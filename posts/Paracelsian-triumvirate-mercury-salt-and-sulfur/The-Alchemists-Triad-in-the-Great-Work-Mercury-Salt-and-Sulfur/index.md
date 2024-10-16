@@ -31,7 +31,7 @@ The magnum opus is a transformative process aiming to achieve spiritual and mate
 2. Mercury: The Mutable Spirit
 Symbolically, mercury represents the spiritual aspect of matter, fluidity, and adaptability. Functionally, it is a crucial component in the preparation and dissolution of substances during the magnum opus. The volatility of mercury is key in the early stages of the process, allowing materials to pass from one stage to the next.
 
-Example: 
+**Example**: 
 In the nigredo phase, the 'blackening' or decomposition of matter, mercury's volatility is essential for dismantling the foundational structures, preparing the material for further refinement.
 
 3. Salt: The Solid Foundation

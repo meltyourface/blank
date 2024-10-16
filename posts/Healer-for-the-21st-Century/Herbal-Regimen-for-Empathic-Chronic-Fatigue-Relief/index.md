@@ -37,14 +37,14 @@ Cutting-Edge Herbal Combinations:
 
 Dosage and Preparation:
 
-1. ****Ashwagandha****: 300-500 mg standardized extract; twice a day.
-2. ****Rhodiola****: 200-400 mg standardized extract; once a day, in the morning.
-3. ****Eleuthero****: 200-400 mg standardized extract; twice a day.
-4. ****Reishi Mushroom****: 500-1000 mg extract; twice a day.
-5. ****Schisandra****: 100-200 mg standardized extract; twice a day.
-6. ****Bacopa + Gotu Kola****: 150-300 mg each; twice a day.
-7. ****Passionflower + Skullcap****: 300-500 mg each; as needed, especially at bedtime.
-8. ****Holy Basil + Cordyceps****: 300-500 mg each; twice a day.
+1. **Ashwagandha**: 300-500 mg standardized extract; twice a day.
+2. **Rhodiola**: 200-400 mg standardized extract; once a day, in the morning.
+3. **Eleuthero**: 200-400 mg standardized extract; twice a day.
+4. **Reishi Mushroom**: 500-1000 mg extract; twice a day.
+5. **Schisandra**: 100-200 mg standardized extract; twice a day.
+6. **Bacopa + Gotu Kola**: 150-300 mg each; twice a day.
+7. **Passionflower + Skullcap**: 300-500 mg each; as needed, especially at bedtime.
+8. **Holy Basil + Cordyceps**: 300-500 mg each; twice a day.
 
 Complementary Holistic Practices:
 

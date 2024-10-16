@@ -31,22 +31,22 @@ The Moon as a celestial body holds significant symbolic meaning in various esote
 
 **Intuition**: As the ruler of the night, the Moon represents the intuitive, subconscious aspects of the mind, which can be accessed through rituals, meditation, and other practices. Harnessing and trusting intuition is a core concept of many esoteric and occult practices, and the Moon serves as a conduit to tap into these hidden aspects of the psyche.
 
-Feminine principle: The Moon is often linked to feminine energy, representing the receptive, nurturing, and compassionate side of human nature. In many esoteric and occult systems, the Moon is seen as a divine feminine force, embodying qualities such as intuition, healing, and fertility.
+**Feminine principle**: The Moon is often linked to feminine energy, representing the receptive, nurturing, and compassionate side of human nature. In many esoteric and occult systems, the Moon is seen as a divine feminine force, embodying qualities such as intuition, healing, and fertility.
 
 2. Personal Transformation and Inner Self
 
 The Moon's constantly changing phases serve as a metaphor and a guide for practitioners seeking to understand their inner selves and evolve on a spiritual level. The cyclical nature of the lunar phases signifies the cycle of life, death, and rebirth, providing a framework for personal growth and transformation.
 
-Full Moon: The Full Moon represents the culmination of energies, the peak of psychic and emotional power. It's a time when intentions set during the New Moon come to fruition. Full Moon rituals often revolve around releasing negative energies and patterns, allowing the practitioner to cleanse and make space for new growth.
+**Full Moon**: The Full Moon represents the culmination of energies, the peak of psychic and emotional power. It's a time when intentions set during the New Moon come to fruition. Full Moon rituals often revolve around releasing negative energies and patterns, allowing the practitioner to cleanse and make space for new growth.
 
-New Moon: The New Moon signifies new beginnings. It's a time to set intentions and plant the seeds of change. New Moon rituals focus on self-reflection, setting goals, and embarking on new ventures. In this phase, practitioners are encouraged to connect with their inner selves, revealing hidden potential and allowing for personal growth.
+**New Moon**: The New Moon signifies new beginnings. It's a time to set intentions and plant the seeds of change. New Moon rituals focus on self-reflection, setting goals, and embarking on new ventures. In this phase, practitioners are encouraged to connect with their inner selves, revealing hidden potential and allowing for personal growth.
 
 3. Balance between Light and Darkness
 
 The Moon plays an integral role in striking the balance between light and darkness in an individual's life. Its constant oscillation between the two extremes serves as a reminder of the cyclical nature of existence and the need for harmony between opposing forces.
 
-Full Moon: The Full Moon represents the balance between the spiritual and physical realms, as the Moon is at its brightest and most visible in the night sky. This phase is symbolic of illumination, bringing light to dark places in one's life.
+**Full Moon**: The Full Moon represents the balance between the spiritual and physical realms, as the Moon is at its brightest and most visible in the night sky. This phase is symbolic of illumination, bringing light to dark places in one's life.
 
-New Moon: The New Moon is analogous to the need for introspection and deep self-reflection. In this phase, practitioners delve into the darkness of their subconscious to confront their fears, hidden emotions, and unresolved issues. By integrating these shadow aspects, they can maintain a balanced psyche.
+**New Moon**: The New Moon is analogous to the need for introspection and deep self-reflection. In this phase, practitioners delve into the darkness of their subconscious to confront their fears, hidden emotions, and unresolved issues. By integrating these shadow aspects, they can maintain a balanced psyche.
 
 To summarize, the Moon's role in esoteric and occult practices is multifaceted, with several symbolic elements and meanings, such as water, emotions, intuition, and the feminine principle. Its ever-changing phases guide personal transformation and the inner journey of self-discovery. In addition to these rich meanings, the Moon also serves as a beacon for maintaining balance between light and darkness in an individual's life, promoting harmony and personal growth through the practice of Full and New Moon rituals.

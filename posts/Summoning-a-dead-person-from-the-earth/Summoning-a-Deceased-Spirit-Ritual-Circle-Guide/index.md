@@ -43,7 +43,7 @@ Now, to develop the step-by-step process to effectively and efficiently activate
 **Step 1**: Ground and center
 Find a comfortable position within the inner circle. Take a few deep breaths, and center your mind and energy on the task at hand.
 **Step 2**: Invoke the protective energies
-Light the candles at the four corners of the circle, starting with the East and moving clockwise. ****As you light each candle, invoke the protective energies of the corresponding direction, for example****: "I call upon the powerful energies of the East to keep me safe and protect me during this summoning."
+Light the candles at the four corners of the circle, starting with the East and moving clockwise. **As you light each candle, invoke the protective energies of the corresponding direction, for example**: "I call upon the powerful energies of the East to keep me safe and protect me during this summoning."
 **Step 3**: Visualize protective energies
 Close your eyes, take a few deep breaths, and visualize a powerful, protective energy emanating from the symbols and the circle, creating a protective sphere around you.
 **Step 4**: State your intention

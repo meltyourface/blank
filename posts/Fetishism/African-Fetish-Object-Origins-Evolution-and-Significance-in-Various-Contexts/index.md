@@ -25,7 +25,7 @@ African Roots of the Fetish Object:
 
 The term "fetish" was first introduced by the Portuguese in the 15th century as "feiticio," to describe the religious and cultural practices they observed upon encountering West African societies. In these societies, fetish objects, which were typically natural items such as stones, bones, or carved figurines, were imbued with spiritual significance and believed to hold the power of gods, spirits, or ancestors. These objects became channels of communication between the spiritual and material worlds and were often utilized by religious leaders, such as shamans and diviners, to access divine guidance and protection.
 
-Fetish objects served various purposes in West African societies: they protected individuals and communities from harm, they were used in healing rituals, and they played a role in mediating disputes and maintaining social order. Many societies had specific processes and rites associated with the creation and use of fetish objects, grounding them in a much broader, holistic understanding of the world and the forces that govern it.
+**Fetish objects served various purposes in West African societies**: they protected individuals and communities from harm, they were used in healing rituals, and they played a role in mediating disputes and maintaining social order. Many societies had specific processes and rites associated with the creation and use of fetish objects, grounding them in a much broader, holistic understanding of the world and the forces that govern it.
 
 Evolution within Western Esotericism:
 

@@ -41,7 +41,7 @@ Sabbatic Witchcraft places less emphasis on formal initiation, focusing on the p
 
 Ethical Principles and the Great Rite:
 
-The Gardnerian Wiccan ethical framework is encapsulated in the Wiccan Rede: "An it harm none, do what ye will," emphasizing personal responsibility and the avoidance of harm. Gardnerian practice often involves a symbolic or actual enactment of the Great Rite, representing the sacred union of the God and Goddess, to celebrate fertility and the generative forces of the universe.
+**The Gardnerian Wiccan ethical framework is encapsulated in the Wiccan Rede**: "An it harm none, do what ye will," emphasizing personal responsibility and the avoidance of harm. Gardnerian practice often involves a symbolic or actual enactment of the Great Rite, representing the sacred union of the God and Goddess, to celebrate fertility and the generative forces of the universe.
 
 In Sabbatic Witchcraft, ethical principles may vary depending on the practitioner's worldview. There is an understanding of balance and the interaction of light and dark forces. The Great Rite is present in Sabbatic practice, often emphasizing the practitioner's personal connection to the land or the spirits, with a stronger focus on the mythic, visionary components of the act.
 

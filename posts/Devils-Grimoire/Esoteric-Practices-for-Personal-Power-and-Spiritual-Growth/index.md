@@ -45,7 +45,7 @@ Embodied shadows now awake, to manifest desires and ties,
 Converge with forces from beyond, the unknown realms to seize,
 A vessel I become for thee, to strengthen will, with darkness freed."
 
-Working Mechanism: By reciting this incantation, you are invoking your personal power and aligning yourself with the forces of the dark realms, allowing their energies to bolster your own. This merged power can be directed towards manifesting your desires and enhancing your spiritual abilities.
+**Working Mechanism**: By reciting this incantation, you are invoking your personal power and aligning yourself with the forces of the dark realms, allowing their energies to bolster your own. This merged power can be directed towards manifesting your desires and enhancing your spiritual abilities.
 
 3. Construction of a Consecrated Altar or Sacred Space
 
@@ -63,7 +63,7 @@ Working Mechanism: By reciting this incantation, you are invoking your personal 
 
 **Ingredients**: Nightshade, wormwood, and mandrake root mixed in a base of pomegranate wine.
 
-Goals and Intended Effects: Heightened perception, insight into hidden realms, enhanced arcane abilities.
+**Goals and Intended Effects**: Heightened perception, insight into hidden realms, enhanced arcane abilities.
 
 6. Protective Circle or Barrier
 

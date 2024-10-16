@@ -22,7 +22,7 @@ excerpt: Design a bespoke altar for an intimate home temple sanctuary, incorpora
 
 ## The Sanctum Aeternum Altar
 
-Design Concept: The Sanctum Aeternum Altar is a bespoke, expertly crafted centerpiece for an intimate home temple sanctuary. Designed to serve the diverse needs of spiritual rituals, it embodies sacred symbolism and seamlessly integrates ergonomic and aesthetic aspects, ensuring profound and immersive experiences.
+**Design Concept**: The Sanctum Aeternum Altar is a bespoke, expertly crafted centerpiece for an intimate home temple sanctuary. Designed to serve the diverse needs of spiritual rituals, it embodies sacred symbolism and seamlessly integrates ergonomic and aesthetic aspects, ensuring profound and immersive experiences.
 
 **Materials**: To ensure durability and evoke a sense of the divine, the altar will be primarily constructed from three high-quality materials:
 
@@ -34,7 +34,7 @@ Design Concept: The Sanctum Aeternum Altar is a bespoke, expertly crafted center
 
 **Dimensions**: The altar will be designed to fit comfortably within an intimate home setting, measuring 4 feet in length, 3 feet in width, and standing 3.5 feet high. These dimensions support comfort and accessibility during rituals and everyday use.
 
-Design Features: The Sanctum Aeternum Altar will incorporate the following elements:
+**Design Features**: The Sanctum Aeternum Altar will incorporate the following elements:
 
 1. **Hand-Carved Symbols and Motifs**: The altar's pillars, friezes, and base will feature intricate hand-carved symbols reflecting universal sacred imagery, including the Tree of Life, the Pentacle, the Om, and other significant symbols.
 

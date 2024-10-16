@@ -26,7 +26,7 @@ Introduction
 
 The art of manifestation holds a revered place in the study of esoteric and occult philosophies. It is the practice of harnessing the energies of the universe to bring desires into reality. The Three Circles of Manifestation serve as a foundational framework for understanding the interconnected forces that govern manifestation. In this section, we will examine the principles, significance, and interconnectedness of these three circles and how they provide a cohesive system for those who seek to gain deep knowledge, understanding, and insights in the art of manifestation.
 
-The First Circle: Consciousness
+**The First Circle**: Consciousness
 
 The First Circle of Manifestation represents the realm of human consciousness. Our thoughts and beliefs serve as the cornerstone of our manifestations; they influence how we perceive and interact with the world around us. Within this circle, the student learns the following principles:
 
@@ -34,7 +34,7 @@ The First Circle of Manifestation represents the realm of human consciousness. O
 2. Belief: Believing in our ability to manifest and trusting in the process is crucial for successful outcomes.
 3. Visualization: Mentally perceiving the desired result allows the practitioner to form a clear, vivid picture that serves as a beacon for the energies needed to bring it into being.
 
-The Second Circle: Correspondences
+**The Second Circle**: Correspondences
 
 The Second Circle highlights the importance of connecting with the world around us to amplify our manifestation. By working with the energies present in natural elements, celestial bodies, symbols, and ritual tools, we increase the power of our intention. The key concepts within this circle include:
 
@@ -42,7 +42,7 @@ The Second Circle highlights the importance of connecting with the world around 
 2. Celestial Correspondences: Planetary energies corresponding to specific days, hours, and astrological events can be harnessed to enhance our manifestations. For instance, the energy of the sun promotes success, vitality, and leadership.
 3. Symbolic Correspondences: Utilizing sigils, runes, and other sacred symbols can solidify and represent our intentions, creating a bridge between the conscious and subconscious mind.
 
-The Third Circle: Action
+**The Third Circle**: Action
 
 The final circle in the Three Circles of Manifestation emphasizes the necessity of taking action, both physical and spiritual. Grounding our intentions into the material world requires dedication and persistence. Key principles in the Third Circle include:
 

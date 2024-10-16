@@ -25,7 +25,7 @@ Location: The Cosmos Angelorum, a secret chamber hidden within the great Library
 
 The air is thick with the scent of ancient parchment, perfumed oils, and smoldering cinders as Jacques Gaffarel, the renowned master of esotericism and occult, stands at the center of an exquisite octagonal table. Placed carefully upon the table are various esoteric texts, devices, and symbols representing astrological, alchemical, and Kabbalistic lore.
 
-Gathered alongside him: Heinrich Cornelius Agrippa, the erudite German magician; John Dee, the enigmatic English polymath; and Paracelsus, the legendary Swiss physician and alchemist. Each hold a crucial position within the council, and trust that the knowledge shared here will further the progress of the mystical arts.
+**Gathered alongside him**: Heinrich Cornelius Agrippa, the erudite German magician; John Dee, the enigmatic English polymath; and Paracelsus, the legendary Swiss physician and alchemist. Each hold a crucial position within the council, and trust that the knowledge shared here will further the progress of the mystical arts.
 
 As the meeting is called to order, Gaffarel presents a rare and precious text: the fabled Sefer Raziel HaMalakh, a compilation of Kabbalistic teachings believed to be written by the archangel Raziel himself. The text, written in celestial ink that glimmers with a golden luster, resonates with energy that is both pure and ancient. The room seems to buzz with anticipation.
 

@@ -23,9 +23,9 @@ excerpt: >
 
 ## Title: The Hidden Passions of Père Lachaise
 
-Scenario: The Great Thunderstorm of 1802 in Paris provides the backdrop for this passionate tryst inspired by history. As the storm rages, the winds of change slowly infiltrate the lives of two forbidden lovers who dare to defy the conventions of their time.
+**Scenario**: The Great Thunderstorm of 1802 in Paris provides the backdrop for this passionate tryst inspired by history. As the storm rages, the winds of change slowly infiltrate the lives of two forbidden lovers who dare to defy the conventions of their time.
 
-Setting: The lush, secluded Père Lachaise Cemetery in Paris, complete with its intricate gothic architecture and elaborate tombstones, sets the stage for this romantic adventure. The dark clouds and rain only add to the sensuous atmosphere, as the characters navigate the shadowy corners and hidden pathways of the cemetery, seeking a secret rendezvous spot.
+**Setting**: The lush, secluded Père Lachaise Cemetery in Paris, complete with its intricate gothic architecture and elaborate tombstones, sets the stage for this romantic adventure. The dark clouds and rain only add to the sensuous atmosphere, as the characters navigate the shadowy corners and hidden pathways of the cemetery, seeking a secret rendezvous spot.
 
 Characters Involved:
 

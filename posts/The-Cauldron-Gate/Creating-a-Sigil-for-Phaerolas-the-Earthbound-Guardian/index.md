@@ -21,13 +21,13 @@ excerpt: Craft a unique sigil, employing the intricate arcane principles of The 
 ---
 To craft a unique sigil for invoking the guardian entity, Phaerolas the Earthbound, using the arcane principles of The Cauldron Gate, begin with these steps:
 
-1. ****Examine Phaerolas the Earthbound's mythological background****: Phaerolas is known as a powerful guardian of ancient wisdom and a protector of earthly realms. Called upon to defend sacred sites and to impart knowledge to those who prove themselves worthy, Phaerolas possesses deep connections with the natural world and ancient civilizations. Phaerolas is often depicted as a towering figure made of stone and earth, adorned with symbols of power and etchings from lost languages.
+1. **Examine Phaerolas the Earthbound's mythological background**: Phaerolas is known as a powerful guardian of ancient wisdom and a protector of earthly realms. Called upon to defend sacred sites and to impart knowledge to those who prove themselves worthy, Phaerolas possesses deep connections with the natural world and ancient civilizations. Phaerolas is often depicted as a towering figure made of stone and earth, adorned with symbols of power and etchings from lost languages.
 
-2. ****Identify the entity's elemental affiliation****: Earth is the primary element associated with Phaerolas the Earthbound due to the entity's strong connection with the natural world, protection of the material plane, and its embodiment of stability and endurance.
+2. **Identify the entity's elemental affiliation**: Earth is the primary element associated with Phaerolas the Earthbound due to the entity's strong connection with the natural world, protection of the material plane, and its embodiment of stability and endurance.
 
-3. ****Assess the astrological correspondence****: Phaerolas aligns with the Zodiac sign Capricorn, known for its pragmatism, loyalty, and connection to the earth's energies.
+3. **Assess the astrological correspondence**: Phaerolas aligns with the Zodiac sign Capricorn, known for its pragmatism, loyalty, and connection to the earth's energies.
 
-4. ****Recognize the guardian's domain of expertise****: Phaerolas' primary expertise lies in protection, guidance, and the imparting of ancient wisdom.
+4. **Recognize the guardian's domain of expertise**: Phaerolas' primary expertise lies in protection, guidance, and the imparting of ancient wisdom.
 
 Now, to create the sigil itself:
 

@@ -28,7 +28,7 @@ The sacred magical system of Abramelin is a unique and powerful practice in the 
 
 The Major Components of Abramelin's Sacred Magic
 
-The sacred magical system of Abramelin primarily revolves around two major components: the evocation of the Holy Guardian Angel (HGA) and the subsequent subjugation and command of lesser spirits, or demons. Through this process, the practitioner seeks to attain true spiritual enlightenment and divine guidance, and to develop their personal potential for magical work.
+**The sacred magical system of Abramelin primarily revolves around two major components**: the evocation of the Holy Guardian Angel (HGA) and the subsequent subjugation and command of lesser spirits, or demons. Through this process, the practitioner seeks to attain true spiritual enlightenment and divine guidance, and to develop their personal potential for magical work.
 
 1. The Holy Guardian Angel: This is considered the central figure in the Abramelin tradition, as it serves as the practitioner's personal guiding spirit and divine conduit. The process for invoking the HGA involves a rigorous and disciplined practice of prayer, devotion, and study, lasting six to eighteen months. The practitioner must conform to certain standards of purity, honesty, and asceticism during this period in order to achieve their goal in communion with the HGA.
 

@@ -37,7 +37,7 @@ In contemporary Druidic practice, the prayer reaffirms an individual's commitmen
 
 The Druid's Prayer is laden with symbolic language which encapsulates the essence of Druidic beliefs.
 
-A central theme revolves around the invocation of divine wisdom: "Grant, O God, thy protection, and in protection, strength; and in strength, understanding." This passage underscores the intertwined progression from divine protection, to human strength, and ultimately, to wisdom – a trinity of concepts considered invaluable to the Druidic path.
+**A central theme revolves around the invocation of divine wisdom**: "Grant, O God, thy protection, and in protection, strength; and in strength, understanding." This passage underscores the intertwined progression from divine protection, to human strength, and ultimately, to wisdom – a trinity of concepts considered invaluable to the Druidic path.
 
 Another key symbolism within the prayer is the interdependence between humanity and the natural world:
 

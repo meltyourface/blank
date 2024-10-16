@@ -26,23 +26,23 @@ Pre-History
 - The Age of Creation: A cosmic event births the world of Baron Citadel, and the earliest beings emerge. Elemental forces and magical energies meld into a stable environment suitable for life.
 - Formation of the First Citadel: The original Citadel's creation originates from an unknown time and place. Legend tells of a powerful mage who unified the surrounding realms under a single stronghold. It serves as both a sanctuary and a bastion of knowledge.
 
-First Era: The Dawn of Barons
+**First Era**: The Dawn of Barons
 - Ascension of Baron Arcanis: Esteemed as the first Baron, Baron Arcanis' ascension marks the beginning of the Baron Citadel series. He founds the institution of Barons, noble rulers over vast domains. Each Baron establishes control over the Citadel and its resources.
 - The Great Alliance: Barons Arcanis, Valeria, and Gaius band together, pooling their resources, knowledge, and military might to achieve mutual prosperity. Their alliance lays the groundwork for the Citadel's fundamental structure and operating principles.
 
-Second Era: The Age of Strife
+**Second Era**: The Age of Strife
 - The Bloody Succession: Baron Valthor usurps the Citadel in a coup, assassinating Baron Arcanis and sparking a devastating civil war. Valthor's rule is marked by constant rebellion and retaliation, ultimately plunging the Citadel into darkness.
 - The Emerald Pact: The secretive order of druids, led by Baroness Morgana, forms a clandestine circle within the Citadel. The circle remains hidden, wielding their influence through manipulations and assassination plots.
 
-Third Era: Era of Recovery
+**Third Era**: Era of Recovery
 - The Silver Restoration: Baroness Illyria, granddaughter of the late Baron Arcanis, unites the Citadel’s various factions against Valthor and his tyrannical reign, ultimately driving him from the throne. She restores order and balance throughout the realms.
 - The Magical Renaissance: Citadel scholars spearhead a resurgence in magical research and application, empowering the Citadel and its surrounding territories. Baroness Illyria encourages magicians to experiment with new schools of magic, diversifying the Citadel's arcane resources.
 
-Fourth Era: The Age of Intrigue
+**Fourth Era**: The Age of Intrigue
 - The Shadowspeaker Conspiracy: A group of rogue mages attempts to assassinate Baroness Illyria, seeking to control the Citadel's political landscape. Baron Xander exposes the conspiracy and saves Illyria, earning her trust and forging an alliance with powerful implications.
 - The Labyrinth Accords: Citadel navigators, researchers, and architects design a vast underground network of tunnels, chambers, and catacombs beneath the Citadel. The Labyrinth serves as a key strategic installation for communication, troop movements, and resource transportation.
 
-Fifth Era: The Modern Age
+**Fifth Era**: The Modern Age
 - The Obsidian Rebellion: Baroness Zara instigates a massive rebellion against Baroness Illyria, seeking to establish her own rule. She gains support from some of the lower houses and various organizations within the Citadel, igniting a brutal game of political subterfuge and all-out war.
 - The Unbreakable Bond: Baron Thrax, known for his mastery of dark magic, forges a powerful, supernatural alliance with Baroness Illyria to quell the rebellion, cementing his prominence and maintaining Illyria's reign.
 

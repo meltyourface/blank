@@ -43,7 +43,7 @@ The esoteric understanding of Being and Non-Being revolves around the following 
 
 Practices and Exercises
 
-Meditation and Contemplation: Meditation and contemplative practices can help the student delve more profoundly into the nature of Being and Non-Being. Developing mindfulness and self-awareness allows for a deeper understanding of the transient nature of our thoughts, feelings, and experiences. Some techniques to deepen this spiritual inquiry are:
+**Meditation and Contemplation**: Meditation and contemplative practices can help the student delve more profoundly into the nature of Being and Non-Being. Developing mindfulness and self-awareness allows for a deeper understanding of the transient nature of our thoughts, feelings, and experiences. Some techniques to deepen this spiritual inquiry are:
 
 1. Emptiness Meditation: Purely focusing on the breath, become aware of the subtle interplay between form and emptiness as you inhale and exhale. Let the breath guide you to the space between thoughts, where the awareness of Non-Being and Being converge.
 

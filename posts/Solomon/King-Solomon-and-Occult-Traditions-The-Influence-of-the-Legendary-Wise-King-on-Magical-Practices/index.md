@@ -25,7 +25,7 @@ King Solomon and the Occult: An Overview and Key Principles
 
 Introduction
 
-King Solomon is a central figure in the context of the occult and esoteric traditions, both in terms of his involvement in magical practices and his impact on the understanding of these traditions throughout history. ****Famed for his unrivaled wisdom, Solomon's legendary status is particularly noted in his connection to the grimoires****: compendiums of magic spells, rituals, and other mystical knowledge. Specifically, the Lesser Key of Solomon and the Testament of Solomon stand out as key components in the development of the occult. As we delve deeper, we will explore these elements and the role of Solomon's wisdom in occult traditions.
+King Solomon is a central figure in the context of the occult and esoteric traditions, both in terms of his involvement in magical practices and his impact on the understanding of these traditions throughout history. **Famed for his unrivaled wisdom, Solomon's legendary status is particularly noted in his connection to the grimoires**: compendiums of magic spells, rituals, and other mystical knowledge. Specifically, the Lesser Key of Solomon and the Testament of Solomon stand out as key components in the development of the occult. As we delve deeper, we will explore these elements and the role of Solomon's wisdom in occult traditions.
 
 The Lesser Key of Solomon
 

@@ -22,7 +22,7 @@ excerpt: Design a customized spiritual healing ritual that specifically targets 
 
 ## Emotional Restoration Ritual
 
-Objective: To create a customized spiritual healing ritual targeting emotional restoration, integrating crystal energies, essential oil blends, guided meditation, astrological alignments, elemental correspondences, and sacred geometry.
+**Objective**: To create a customized spiritual healing ritual targeting emotional restoration, integrating crystal energies, essential oil blends, guided meditation, astrological alignments, elemental correspondences, and sacred geometry.
 
 Ritual Outline:
 

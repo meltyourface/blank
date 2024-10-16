@@ -22,7 +22,7 @@ excerpt: Design an intricate ceremonial rite focused on the Elemental Eye of Sep
 
 ## The Sepheranzan Ritual of Elemental Wealth
 
-Purpose: To manifest an influx of material wealth and opulence through the utilization of the six elemental powers.
+**Purpose**: To manifest an influx of material wealth and opulence through the utilization of the six elemental powers.
 
 Ritual Preparation:
 1. Cleanse and purify the ritual space of any negative energies.

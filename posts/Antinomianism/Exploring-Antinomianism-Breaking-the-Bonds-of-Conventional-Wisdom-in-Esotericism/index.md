@@ -46,11 +46,11 @@ Antinomian Practices and Their Application to the Esoteric Journey
 
 Practices associated with Antinomianism often involve rituals and meditations aimed at subverting conventional societal norms, laws, and religious doctrines. **Initiates may engage in acts that deliberately challenge these boundaries, such as**:
 
-1. ****Transgressive rituals****: Practitioners may undertake rituals that intentionally break taboos, with the intent of challenging and questioning the foundations of these imposed limitations. By doing so, initiates can gain insights into the nature of societal and spiritual constraints, potentially finding new paths to self-enlightenment.
+1. **Transgressive rituals**: Practitioners may undertake rituals that intentionally break taboos, with the intent of challenging and questioning the foundations of these imposed limitations. By doing so, initiates can gain insights into the nature of societal and spiritual constraints, potentially finding new paths to self-enlightenment.
 
-2. ****Personal exploration****: Antinomianism encourages individuals to pursue personal development and spiritual growth by exploring their inner desires, beliefs, and fears. This process may involve meditation, journaling, or psychoanalytic techniques that help initiates confront and move beyond their limitations.
+2. **Personal exploration**: Antinomianism encourages individuals to pursue personal development and spiritual growth by exploring their inner desires, beliefs, and fears. This process may involve meditation, journaling, or psychoanalytic techniques that help initiates confront and move beyond their limitations.
 
-3. ****Dissolution of the ego****: Initiates may work toward reducing the influence of their ego and preconceived identities, allowing them to experience the world more freely and openly. The dissolution of the ego can help practitioners gain a deeper understanding of the interconnectedness of all things and the realization of the divine within themselves.
+3. **Dissolution of the ego**: Initiates may work toward reducing the influence of their ego and preconceived identities, allowing them to experience the world more freely and openly. The dissolution of the ego can help practitioners gain a deeper understanding of the interconnectedness of all things and the realization of the divine within themselves.
 
 Conclusion
 

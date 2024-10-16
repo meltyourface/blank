@@ -28,23 +28,23 @@ We will examine three archetypal Psychopomps from different cultural contexts: A
 1. Anubis (Egyptian Mythology):
 Anubis is the ancient Egyptian god of the dead and the afterlife. He is depicted as a man with the head of a jackal or a full jackal form and is closely associated with the process of mummification and funerary rites.
 
-Role: Anubis is responsible for guiding the souls of the deceased through the afterlife and overseeing the "Weighing of the Heart" ceremony. This ceremony assesses the truth, morality, and integrity of the deceased by weighing their heart against the feather of Ma'at, the goddess of truth and justice. If the heart is found to be lighter than the feather, the soul is deemed worthy of entering the afterlife. Conversely, if the heart is heavier than the feather, it is devoured by Ammit, a monstrous creature, resulting in total annihilation of the soul.
+**Role**: Anubis is responsible for guiding the souls of the deceased through the afterlife and overseeing the "Weighing of the Heart" ceremony. This ceremony assesses the truth, morality, and integrity of the deceased by weighing their heart against the feather of Ma'at, the goddess of truth and justice. If the heart is found to be lighter than the feather, the soul is deemed worthy of entering the afterlife. Conversely, if the heart is heavier than the feather, it is devoured by Ammit, a monstrous creature, resulting in total annihilation of the soul.
 
-Function: Anubis embodies the concepts of preservation, protection, and redemption. Through the mummification process, funerary rites, and the Weighing of the Heart ceremony, Anubis sustains the connection between the living and the dead, ensuring that those who have led virtuous lives proceed into the afterlife.
+**Function**: Anubis embodies the concepts of preservation, protection, and redemption. Through the mummification process, funerary rites, and the Weighing of the Heart ceremony, Anubis sustains the connection between the living and the dead, ensuring that those who have led virtuous lives proceed into the afterlife.
 
 2. Charon (Greek Mythology):
 Charon is a figure in Greek mythology that serves as the ferryman escorting the souls of the deceased across the River Styx and Acheron to the afterlife realm of Hades.
 
-Role: For newly deceased souls to reach the afterlife, they must pay Charon with a coin, typically left by their family or friends in the corpse's mouth. Without this payment, the soul is left to wander the shores of the river for a hundred years before Charon grants them passage.
+**Role**: For newly deceased souls to reach the afterlife, they must pay Charon with a coin, typically left by their family or friends in the corpse's mouth. Without this payment, the soul is left to wander the shores of the river for a hundred years before Charon grants them passage.
 
-Function: Charon's role symbolizes the inescapable journey from life to death and the importance of proper funerary rites. His role focuses on transformation and the immutable separation between the realms of the living and the dead.
+**Function**: Charon's role symbolizes the inescapable journey from life to death and the importance of proper funerary rites. His role focuses on transformation and the immutable separation between the realms of the living and the dead.
 
 3. Valkyries (Norse Mythology):
 In Norse mythology, Valkyries are supernatural female figures responsible for selecting slain warriors from the battlefield and guiding them to Valhalla, the great hall of the god Odin, where they will continue to fight and feast until the prophecy of Ragnarok is fulfilled.
 
-Role: Valkyries serve as both soul collectors and intermediaries between the living and the dead, specifically concerning those fallen in battle. Valkyries honor and acknowledge the martial prowess of those chosen to join Odin's ranks and ensure their reintegration into a new, otherworldly existence.
+**Role**: Valkyries serve as both soul collectors and intermediaries between the living and the dead, specifically concerning those fallen in battle. Valkyries honor and acknowledge the martial prowess of those chosen to join Odin's ranks and ensure their reintegration into a new, otherworldly existence.
 
-Function: The Valkyries symbolize valor, glory, and the eternal cycle of life, death, and rebirth within the context of Norse warrior culture. They emphasize the importance of heroic actions and recognition of martial accomplishments.
+**Function**: The Valkyries symbolize valor, glory, and the eternal cycle of life, death, and rebirth within the context of Norse warrior culture. They emphasize the importance of heroic actions and recognition of martial accomplishments.
 
 Comparison and Contrast:
 Anubis, Charon, and Valkyries all function as Psychopomps, responsible for guiding souls from the realm of the living to the afterlife; however, their specific roles and meanings within their respective cultures differ. Anubis's role is centered around the concept of moral judgment and balancing truth and justice, as exemplified by the Weighing of the Heart ceremony. Meanwhile, Charon's role underscores the separation from life and death based solely on material payment. In contrast, Valkyries emphasize honor, valor, and martial prowess, only choosing the most exceptional warriors to guide to the afterlife.

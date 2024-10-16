@@ -47,11 +47,11 @@ How Students Can Learn From Hockley's Teachings
 
 Hockley's teachings and contributions to occult knowledge are invaluable for any student seeking to deepen their understanding of the subject. **In order to benefit from his work, students should**:
 
-1. ****Study Hockley's manuscripts****: Reading and analyzing Hockley's transcriptions of rare manuscripts and grimoires is paramount for any student of the occult. These works are rich sources of esoteric wisdom and provide foundational knowledge in the field.
+1. **Study Hockley's manuscripts**: Reading and analyzing Hockley's transcriptions of rare manuscripts and grimoires is paramount for any student of the occult. These works are rich sources of esoteric wisdom and provide foundational knowledge in the field.
 
-2. ****Practice crystal scrying****: Hockley's work on crystal scrying can serve as a guide for those interested in exploring this ancient technique. Engaging in the practice of scrying may provide insight into the visionary experiences Hockley himself had and strengthen one's own abilities.
+2. **Practice crystal scrying**: Hockley's work on crystal scrying can serve as a guide for those interested in exploring this ancient technique. Engaging in the practice of scrying may provide insight into the visionary experiences Hockley himself had and strengthen one's own abilities.
 
-3. ****Learn from his associations****: Studying the lives and works of Hockley's contemporaries can offer a broader understanding of the intellectual and spiritual context in which his own contributions were made.
+3. **Learn from his associations**: Studying the lives and works of Hockley's contemporaries can offer a broader understanding of the intellectual and spiritual context in which his own contributions were made.
 
 Conclusion
 

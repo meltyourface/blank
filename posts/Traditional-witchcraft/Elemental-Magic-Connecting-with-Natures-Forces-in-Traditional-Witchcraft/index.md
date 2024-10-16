@@ -41,19 +41,19 @@ A popular ritual is the Elemental Gateway Opening, a circle casting rite that in
 
 Within Traditional witchcraft, specific tools and materials are associated with each element, amplifying their respective energies. **Here are some key examples**:
 
- 1. ****Earth****: The pentacle or a bowl of salt represents Earth's grounding and stabilizing energy. Crystals, stones, and herbs can also serve this purpose.
- 2. ****Air****: Feather fans or incense symbolize the intellect and communication aspects of Air. Bells and chimes are instruments to invoke its power.
- 3. ****Fire****: Candles, blades, or an athame emphasize the transformative potential of Fire. Visualization of flames can also stimulate its energy.
- 4. ****Water****: A chalice, cauldron, or bowl holds the receptive and nurturing attributes of Water. Seashells and water from sacred sources are additional tools for working with this element.
+ 1. **Earth**: The pentacle or a bowl of salt represents Earth's grounding and stabilizing energy. Crystals, stones, and herbs can also serve this purpose.
+ 2. **Air**: Feather fans or incense symbolize the intellect and communication aspects of Air. Bells and chimes are instruments to invoke its power.
+ 3. **Fire**: Candles, blades, or an athame emphasize the transformative potential of Fire. Visualization of flames can also stimulate its energy.
+ 4. **Water**: A chalice, cauldron, or bowl holds the receptive and nurturing attributes of Water. Seashells and water from sacred sources are additional tools for working with this element.
 
 ### IV. Elemental Spellwork
 
 To harness the powers of the elements in spellcraft, the witch combines their intention with the specific qualities each element embodies. **For instance**:
 
- 1. ****Earth****: Spells related to prosperity and abundance, physical healing, and grounding could incorporate burying a petition in the soil, planting charged seeds, or working with clay.
- 2. ****Air****: To enhance clarity, communication, and travel, the witch might write their intention on a piece of paper and release it to the wind or burn it as incense.
- 3. ****Fire****: For transformation and protection purposes, a witch could create a fire talisman or use a candle in a dedicated spell, inscribing symbols or intentions upon it.
- 4. ****Water****: Spells for love, emotional healing, and purification can deploy the energies of Water, such as bathing in consecrated waters, brewing potions, or creating a charged sigil to be submerged.
+ 1. **Earth**: Spells related to prosperity and abundance, physical healing, and grounding could incorporate burying a petition in the soil, planting charged seeds, or working with clay.
+ 2. **Air**: To enhance clarity, communication, and travel, the witch might write their intention on a piece of paper and release it to the wind or burn it as incense.
+ 3. **Fire**: For transformation and protection purposes, a witch could create a fire talisman or use a candle in a dedicated spell, inscribing symbols or intentions upon it.
+ 4. **Water**: Spells for love, emotional healing, and purification can deploy the energies of Water, such as bathing in consecrated waters, brewing potions, or creating a charged sigil to be submerged.
 
 Conclusion
 

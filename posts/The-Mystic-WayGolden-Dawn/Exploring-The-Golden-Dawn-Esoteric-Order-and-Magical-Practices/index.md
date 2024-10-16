@@ -38,7 +38,7 @@ The Golden Dawn's teachings were predicated on the belief that the universe is g
 
 Orders and Initiation
 
-The Golden Dawn was divided into three primary orders: the Outer, Inner, and Third Orders. The Outer Order, also known as the Order of the Golden Dawn, was divided into ten grades, each corresponding to a sephirah of the Kabbalistic Tree of Life. New members began at the Neophyte level, progressing through the various grades in sequence. Aspirants were subjected to esoteric examinations, expected to display an aptitude for practical occult work.
+**The Golden Dawn was divided into three primary orders**: the Outer, Inner, and Third Orders. The Outer Order, also known as the Order of the Golden Dawn, was divided into ten grades, each corresponding to a sephirah of the Kabbalistic Tree of Life. New members began at the Neophyte level, progressing through the various grades in sequence. Aspirants were subjected to esoteric examinations, expected to display an aptitude for practical occult work.
 
 Entrance into the Inner Order, or the Rosae Rubeae et Aureae Crucis, was exclusive and available only to those deemed worthy after years of study and practice. This order focused on the more advanced aspects of magic and theurgy.
 

@@ -28,22 +28,22 @@ The Sacred Rite of Salwarística is an elaborate ritual invocation to summon and
 Components and Tools:
 
 1. **Sacred Forest Herbs**:
-   a. ****Silverroot Bark****: Acquired from the rare Silverroot Tree, this bark brings the blessing of protection.
-   b. ****Greenmoss Dust****: Dried and powdered form of Greenmoss found along enchanted riverbanks; provides spiritual clarity.
-   c. ****Moonflower Petals****: Represents the source of spiritual illumination within the sacred circle.
+   a. **Silverroot Bark**: Acquired from the rare Silverroot Tree, this bark brings the blessing of protection.
+   b. **Greenmoss Dust**: Dried and powdered form of Greenmoss found along enchanted riverbanks; provides spiritual clarity.
+   c. **Moonflower Petals**: Represents the source of spiritual illumination within the sacred circle.
 
 2. **Enchanted Symbols**:
-   a. ****Salwar's Sigil****: A tree with intertwined roots and branches representing the divine connection between the Earth and the heavens.
-   b. ****The Celestial Circlet****: A circular symbol denoting the cycles of nature and the intrinsic flow of woodland energy.
+   a. **Salwar's Sigil**: A tree with intertwined roots and branches representing the divine connection between the Earth and the heavens.
+   b. **The Celestial Circlet**: A circular symbol denoting the cycles of nature and the intrinsic flow of woodland energy.
 
 3. **Ancient Chants**:
-   a. ****Lokrou Salwaris****: A chant used to invoke the divine presence of Salwar.
-   b. ****Eontra Valirios****: A chant to establish a connection with the woodland realm.
+   a. **Lokrou Salwaris**: A chant used to invoke the divine presence of Salwar.
+   b. **Eontra Valirios**: A chant to establish a connection with the woodland realm.
 
 4. **Other Tools**:
-   a. ****Ceremonial Dagger****: Used to inscribe the enchanted symbols.
-   b. ****Chalice****: Used to hold the sacred herb mixture.
-   c. ****Wooden Altar****: Serves as the focal point for the ritual.
+   a. **Ceremonial Dagger**: Used to inscribe the enchanted symbols.
+   b. **Chalice**: Used to hold the sacred herb mixture.
+   c. **Wooden Altar**: Serves as the focal point for the ritual.
 
 Step-by-Step Process:
 **Step 1**: Preparing the Sacred Ground

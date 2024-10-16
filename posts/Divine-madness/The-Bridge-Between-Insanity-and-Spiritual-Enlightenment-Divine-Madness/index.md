@@ -32,7 +32,7 @@ Philosophically, the bridge between insanity and spiritual enlightenment is clos
 
 Moreover, divine madness permits the blurring of lines between the self and the divine. The concept of cosmic consciousness, as introduced by Richard Maurice Bucke, elucidates the potential of reaching a sense of spiritual universality, where one's ego dissolves, and a connection with the cosmos is attained.  
 
-The advantages of embracing divine madness are numerous: 
+**The advantages of embracing divine madness are numerous**: 
 
 1. Attaining a heightened state of consciousness and awareness, allowing for deeper spiritual insights.
 2. Facilitating spiritual growth and transcendence, in contrast to conforming to societal norms.

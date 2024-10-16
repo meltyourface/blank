@@ -40,7 +40,7 @@ Steps for the ritual:
 
 4. Take a few deep breaths and begin reciting a mantra specific to your goal such as, "Abundance and wealth, hear my call. Fill my life and overflow, great prosperity, I enthrall."
 
-5. ****Hold the aventurine in your left hand, and with your right hand, use the gold ink to inscribe the following sigil****: 𝒑, which combines the astrological signatures of Jupiter ( ♃ ) and the Earth element ( ⴰ ). This will connect the power of Jupiter to your talisman, aiding in the manifestation of material wealth.
+5. **Hold the aventurine in your left hand, and with your right hand, use the gold ink to inscribe the following sigil**: 𝒑, which combines the astrological signatures of Jupiter ( ♃ ) and the Earth element ( ⴰ ). This will connect the power of Jupiter to your talisman, aiding in the manifestation of material wealth.
 
 6. Once you have inscribed the symbol, wrap the talisman in the white cloth. Hold the bundle in both hands, close your eyes, and visualize a golden aura surrounding the talisman, imbuing it with the energies of wealth, abundance, and prosperity.
 

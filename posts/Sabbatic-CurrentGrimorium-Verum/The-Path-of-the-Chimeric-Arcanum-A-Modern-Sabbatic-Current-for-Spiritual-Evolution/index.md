@@ -25,29 +25,29 @@ The newly designed occult system grounded in the revered Sabbatic CurrentGrimori
 
 Historical Influences:
 
-1. ****Ancient Egyptian Mysteries****: The magical systems of Ancient Egypt, such as Heka, provide a foundation in understanding the natural forces and the divine aspects of the cosmos. The Path of the Chimeric Arcanum integrates these principles through the use of hieroglyphs and symbolic representations of deities, drawing power from their archetypal energies.
+1. **Ancient Egyptian Mysteries**: The magical systems of Ancient Egypt, such as Heka, provide a foundation in understanding the natural forces and the divine aspects of the cosmos. The Path of the Chimeric Arcanum integrates these principles through the use of hieroglyphs and symbolic representations of deities, drawing power from their archetypal energies.
 
-2. ****Hermetic Qabalah****: The foundation in the mystical Jewish tradition of Kabbalah, combined with Hermetic principles, offers a systematic approach to understanding the Divine and connecting to higher realms of consciousness. The Chimeric Arcanum incorporates the Tree of Life diagram and ceremonial magic rituals for spiritual ascent and cosmic exploration.
+2. **Hermetic Qabalah**: The foundation in the mystical Jewish tradition of Kabbalah, combined with Hermetic principles, offers a systematic approach to understanding the Divine and connecting to higher realms of consciousness. The Chimeric Arcanum incorporates the Tree of Life diagram and ceremonial magic rituals for spiritual ascent and cosmic exploration.
 
-3. ****Alchemy****: The art of alchemy offers insights into the spiritual transformation and refinement of the soul. The Chimeric Arcanum adapts elements like the Philosopher's Stone and the alchemical stages of Nigredo, Albedo, and Rubedo, representing the process of personal growth within the practitioner.
+3. **Alchemy**: The art of alchemy offers insights into the spiritual transformation and refinement of the soul. The Chimeric Arcanum adapts elements like the Philosopher's Stone and the alchemical stages of Nigredo, Albedo, and Rubedo, representing the process of personal growth within the practitioner.
 
 Rituals and Spellcraft:
 
-1. ****The Rite of the Sacred Serpent****: This ritual, performed during the dark moon, draws power from the ancient Egyptian serpent deity Apep, the embodiment of chaos and the shadow self. The practitioner confronts their own darkness to achieve balance and spiritual growth.
+1. **The Rite of the Sacred Serpent**: This ritual, performed during the dark moon, draws power from the ancient Egyptian serpent deity Apep, the embodiment of chaos and the shadow self. The practitioner confronts their own darkness to achieve balance and spiritual growth.
 
-2. ****The Liminal Terrace****: A practice wherein the practitioner constructs a ritual space filled with symbols and artifacts representing different historical influences. This space serves as a bridge between the physical and spiritual realms and can be used to commune with ancestral spirits, ethereal beings, or the practitioner's higher self.
+2. **The Liminal Terrace**: A practice wherein the practitioner constructs a ritual space filled with symbols and artifacts representing different historical influences. This space serves as a bridge between the physical and spiritual realms and can be used to commune with ancestral spirits, ethereal beings, or the practitioner's higher self.
 
-3. ****Elemental Convergence****: A spellcraft technique that harnesses the power of the four elements - earth, air, fire, and water - through the medium of corresponding elemental tools. This ritual is used to manifest intention and bring change to the world and oneself.
+3. **Elemental Convergence**: A spellcraft technique that harnesses the power of the four elements - earth, air, fire, and water - through the medium of corresponding elemental tools. This ritual is used to manifest intention and bring change to the world and oneself.
 
 Hierarchy within the System:
 
-1. ****Neophyte****: New initiates into the Path of the Chimeric Arcanum, still learning the basics of the tradition and exploring their personal connection to the various influences.
+1. **Neophyte**: New initiates into the Path of the Chimeric Arcanum, still learning the basics of the tradition and exploring their personal connection to the various influences.
 
-2. ****Adept****: Practitioners who have demonstrated proficiency in ritual and spellcraft, as well as shown a deep understanding of the historical influences and spiritual lessons of the tradition.
+2. **Adept**: Practitioners who have demonstrated proficiency in ritual and spellcraft, as well as shown a deep understanding of the historical influences and spiritual lessons of the tradition.
 
-3. ****Magus****: Highly skilled members who've achieved mastery in multiple aspects of the Chimeric Arcanum, as well as experiencing profound personal transformations. They are responsible for guiding and mentoring the lower ranks.
+3. **Magus**: Highly skilled members who've achieved mastery in multiple aspects of the Chimeric Arcanum, as well as experiencing profound personal transformations. They are responsible for guiding and mentoring the lower ranks.
 
-4. ****Grand Architect****: The leader of a particular community or circle in the Path of the Chimeric Arcanum. The Grand Architect maintains a connection with the overarching spiritual current of the tradition and ensures that the guiding principles are passed down undiluted.
+4. **Grand Architect**: The leader of a particular community or circle in the Path of the Chimeric Arcanum. The Grand Architect maintains a connection with the overarching spiritual current of the tradition and ensures that the guiding principles are passed down undiluted.
 
 Sacred Purpose:
 

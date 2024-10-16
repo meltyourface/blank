@@ -23,13 +23,13 @@ excerpt: >
 Introduction:
 De Intorkatura is an ancient and intricate philosophical system that draws its power from the three central pillars: emanation, transformation, and introspection. Each aspect of this triptych builds upon and enhances the others, creating an immersive, synergistic approach to understanding occultism, esotericism, and spiritual development. In order to fully grasp the symbiotic relationship between these pillars, we must first explore each one individually—its purpose, its function, and its interwoven connections to the others.
 
-Pillar One: Emanation
+**Pillar One**: Emanation
 Emanation, the first pillar, refers to the belief that an individual's reality (the material world) is created from an outpouring of thought, emotion, intention, and energy. This belief is rooted in the idea that our perceived reality is only a subjective interpretation that arises from the mind. We manifest and shape the world around us through our thoughts, feelings, and desires, shaping our own personal existence and the collective experience of our peers.
 
-Pillar Two: Transformation
+**Pillar Two**: Transformation
 Transformation, the second pillar, revolves around the internal development of a person—from their infancy to maturity, and beyond. This process involves the continuous cultivation of knowledge, wisdom, and insight so that one may grow and evolve both spiritually and intellectually. Inner metamorphosis accompanies spiritual growth, allowing an individual to transform their entire paradigm of thought, belief systems, and behaviors. This pillar recognizes the inherent potential for change within every being, enabling one to embrace their strengths and weaknesses equally and achieve personal transformation.
 
-Pillar Three: Introspection
+**Pillar Three**: Introspection
 Introspection, the third and final pillar, engages the power of self-reflection. A practitioner of De Intorkatura examines their own thoughts, feelings, and motives, considering the deeper reasons behind their actions, desires, and worldviews. Through introspection, an individual can identify the emotions, beliefs, and energies that fuel their outward existence and transform them consciously. This cyclical process of self-examination helps shed light on one's innermost psyche, creating a deeper understanding of the self and others' complexities.
 
 Interconnections between the Pillars:

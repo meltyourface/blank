@@ -33,7 +33,7 @@ The Festival of Amentur was born out of the desire to communicate and connect wi
 
 ### III. Purpose of the Festival
 
-The central purpose of the Festival of Amentur is threefold: 
+**The central purpose of the Festival of Amentur is threefold**: 
 1. To obtain profound spiritual insights and wisdom by invoking the divine entities of distant cosmic planes;
 2. To strengthen and purify the initiates' souls for ascension into higher states of consciousness;
 3. To create and maintain a harmonic balance between the human realm and the realm of these divine entities.

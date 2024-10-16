@@ -24,7 +24,7 @@ excerpt: Design a banishment ritual focused on the realm of Ritual Instructions,
 
 **Objective**: To design a banishment ritual for dispelling negative energies from a consecrated space using specific tools, symbols, chants, and techniques.
 
-Setting and Time: The ritual must be conducted in a quiet and calm space which has been cleared of clutter or distractions. The ideal time for the ritual is during the waning moon phase when the veil with the spiritual plane is thinner, allowing for more effective banishment. Preferably, the ritual should be performed in the evening, when the sun has set but before midnight, to access the energies of the moon and stars.
+**Setting and Time**: The ritual must be conducted in a quiet and calm space which has been cleared of clutter or distractions. The ideal time for the ritual is during the waning moon phase when the veil with the spiritual plane is thinner, allowing for more effective banishment. Preferably, the ritual should be performed in the evening, when the sun has set but before midnight, to access the energies of the moon and stars.
 
 **Symbols**:
 

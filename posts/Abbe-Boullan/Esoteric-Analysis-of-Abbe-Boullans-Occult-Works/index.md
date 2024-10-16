@@ -33,7 +33,7 @@ In this work, Boullan conveys the idea of a new divine being who will guide huma
 "Traité des Pratiques Sataniques et des Abominations des Sectes et des Sociétés Secrètes de Lucifer":
 This controversial book examines the organization and practices of Satanic sects and secret Luciferian societies, alleging that they perform blood rituals, sensual initiations, and other abominable acts. There are codes and ciphers found throughout the text, used to detail and critique the activities of occult groups at the time.
 
-Connections with other occultists: 
+**Connections with other occultists**: 
 
 During his life, Abbe Boullan was associated with other well-known figures in the French occult scene, such as Éliphas Lévi and Stanislas de Guaita. Comparing their writings and practices, similarities can be observed in the focus on theurgy, ceremonial magic, and secret teachings.
 

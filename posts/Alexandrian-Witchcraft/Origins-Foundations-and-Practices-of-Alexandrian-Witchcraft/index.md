@@ -41,7 +41,7 @@ An essential aspect of Alexandrian Witchcraft is its fusion of traditional witch
 
 4. **Major Rituals**:
 
-The major rituals within Alexandrian Witchcraft can be categorized into two groups: celebratory and magical. Celebratory rituals include the observance of the eight Sabbats – solar festivals that mark the changes in the seasons – and Esbats – lunar ceremonies that honor the Goddess. These rituals are integral to aligning individuals with natural cycles, imbuing their lives with harmony and balance.
+**The major rituals within Alexandrian Witchcraft can be categorized into two groups**: celebratory and magical. Celebratory rituals include the observance of the eight Sabbats – solar festivals that mark the changes in the seasons – and Esbats – lunar ceremonies that honor the Goddess. These rituals are integral to aligning individuals with natural cycles, imbuing their lives with harmony and balance.
 
 Magical rituals in Alexandrian Witchcraft concentrate on the training and development of the practitioner's psychic and mystical abilities. The major magical rites include initiation, elevating the practitioner's spiritual status and increasing their connection to the divine. Other essential magical rituals involve evocation – summoning and interacting with spiritual entities – and invocation – channelling divine energies to manifest personal transformation.
 

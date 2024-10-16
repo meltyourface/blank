@@ -21,7 +21,7 @@ excerpt: Develop an intricate and potent protective sigil, tailored for a Mercur
 ---
 In order to create this intricate and potent protective sigil tailored for a Mercury cult initiation ceremony, we'll need to weave together several key components of Mercurial and esoteric symbolism. The final sigil encompasses the Mercurial attributes of communication, knowledge, and fluidity, and provides spiritual protection to the initiate during the sacred rite of passage.
 
-Base Symbol: The Caduceus
+**Base Symbol**: The Caduceus
 The Caduceus, which represents the staff of Hermes (Mercury), is a fitting central symbol for this sigil. Two serpents intertwine themselves around a winged staff, symbolizing duality, healing, and fluidity. The wings signify ascension, communication and connection with higher realms.
 
 Enochian Characters:

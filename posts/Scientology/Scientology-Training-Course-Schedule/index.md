@@ -24,7 +24,7 @@ Day 1:
 08:00 - 09:00 - Registration and Welcome (Instructor: John Doe)
 09:00 - 10:15 - Introduction to Scientology - Scientology Beliefs and Goals (Instructor: Sarah Smith)
 10:15 - 10:30 - Break
-10:30 - 12:00 - The Life and Works of L. ****Ron Hubbard (Instructor****: Mary Johnson)
+10:30 - 12:00 - The Life and Works of L. **Ron Hubbard (Instructor**: Mary Johnson)
 12:00 - 13:00 - Lunch
 13:00 - 14:30 - Basics of Dianetics (Instructor: James Wright)
 14:30 - 14:45 - Break

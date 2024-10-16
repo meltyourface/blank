@@ -35,7 +35,7 @@ Relevance of Nature and the Elements
 
 Central to Neo-paganism is a deep reverence for nature and the elements of Earth, Air, Fire, and Water. These elements serve as essential building blocks for understanding and connecting to spiritual energies. Neo-pagan symbols regularly incorporate aspects of the natural world, as they showcase the cyclical passage of time, ecological processes, and cosmic forces.
 
-The Pentacle, a five-pointed star within a circle, is a widely recognized symbol in Neo-paganism. ****Each point represents one of the five elements****: Spirit, Earth, Air, Fire, and Water. The circle surrounding the star is a symbol of unity, encompassing and binding the elements together in harmony.
+The Pentacle, a five-pointed star within a circle, is a widely recognized symbol in Neo-paganism. **Each point represents one of the five elements**: Spirit, Earth, Air, Fire, and Water. The circle surrounding the star is a symbol of unity, encompassing and binding the elements together in harmony.
 
 Modern Neo-Pagan Interpretations and Usage
 

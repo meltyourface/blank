@@ -22,7 +22,7 @@ excerpt: >
 ---
 To establish communication with a metaphysical spirit guide via the ancient practice of automatic writing, one must ensure proper preparations, mindset, and methodologies. Let us delve into each of these components and explore potential outcomes and symbols relevant to this esoteric undertaking.
 
-1. ****Preparations****: The environment and tools used in the practice of automatic writing are crucial for facilitating a strong connection with the spirit guide. **To prepare, follow these steps**:
+1. **Preparations**: The environment and tools used in the practice of automatic writing are crucial for facilitating a strong connection with the spirit guide. **To prepare, follow these steps**:
 
    a. Choose a quiet and comfortable space where you are free from distractions, ideally a place that promotes relaxation and clear thought.
    
@@ -32,18 +32,18 @@ To establish communication with a metaphysical spirit guide via the ancient prac
    
    d. Cleanse the space around you to ward off any negative energy that could obstruct communication. This could be done using sage, visualization techniques, or performing a brief ritual to create a protective barrier.
 
-2. ****Mindset****: The highly adaptive mindset is pivotal in this practice. **To achieve this, remember to**:
+2. **Mindset**: The highly adaptive mindset is pivotal in this practice. **To achieve this, remember to**:
  a. Relax your mind and body through deep breathing exercises, meditation, or any techniques that work best for you.
    b. Set a positive intention for this session, such as seeking guidance, personal growth, or connecting with benevolent spiritual energies.
    c. Open your mind to receive messages, visualize a bridge connecting you to the metaphysical realm, creating an open flow of energy.
    d. Protect yourself by visualizing a shield or bubble of light surrounding you to prevent negative forces from interfering.
 
-3. ****Methodologies****: To establish successful communication while discerning the legitimacy, consider these practices:
+3. **Methodologies**: To establish successful communication while discerning the legitimacy, consider these practices:
  a. Begin by holding your pen or pointing your fingers on the writing device gently; allow your intuition to guide your movements without conscious direction.
  b. Keep your mind clear and receptive, focusing on your connection with the spirit guide. c. Let your hand move freely, without any intervention from your conscious mind. You may start with random marks, scribbles, or doodles, which can evolve into legible writing.
  d. If you find that your conscious mind intervenes, redirect your attention to your breath and relax, returning to a receptive state.
 
-4. ****Interpretation and Discernment****: Not all connections are authentic, and messages could be symbolic or vague. **To accurately interpret and determine the validity, consider these guidelines**:
+4. **Interpretation and Discernment**: Not all connections are authentic, and messages could be symbolic or vague. **To accurately interpret and determine the validity, consider these guidelines**:
  a. Once completed, read what has been written and search for patterns, symbols, themes, or specific information relevant to your inquiry.
  b. Verify the credibility of the messages by comparing them with established spiritual teachings or your personal beliefs and values.
  c. Consider keeping a record of your sessions to analyze the consistency of information and track potential evolutions in the connection.

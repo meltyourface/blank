@@ -33,23 +33,23 @@ Theurgy is grounded in the belief that the cosmos is organized through a hierarc
 
 ### Chapter 3: Key Rituals and Practices
 
-1. ****Invocation of the divine names****: By chanting divine names and sacred formulas, a theurgist seeks to enter into communion with the divine realm. This practice is designed to align practitioners with the divine energies and facilitate their ascent.
+1. **Invocation of the divine names**: By chanting divine names and sacred formulas, a theurgist seeks to enter into communion with the divine realm. This practice is designed to align practitioners with the divine energies and facilitate their ascent.
 
-2. ****The use of symbolic objects****: Material objects imbued with spiritual significance are employed in theurgic ceremonies to solidify one's connection with the divine. This can involve ritual tools, such as wands, candles, and sacred clothes, or substances, such as herbs and incense.
+2. **The use of symbolic objects**: Material objects imbued with spiritual significance are employed in theurgic ceremonies to solidify one's connection with the divine. This can involve ritual tools, such as wands, candles, and sacred clothes, or substances, such as herbs and incense.
 
-3. ****Visualization and meditation****: Theurgy involves active imagination and visualization techniques to foster divine communion. Practitioners may concentrate on images of the divine, contemplate sacred texts, or engage in spiritual breathwork to aid in their ascent.
+3. **Visualization and meditation**: Theurgy involves active imagination and visualization techniques to foster divine communion. Practitioners may concentrate on images of the divine, contemplate sacred texts, or engage in spiritual breathwork to aid in their ascent.
 
-4. ****Sacred rituals****: Various ceremonies and rites are integral to the practice of Theurgy, and can involve group or solitary activities. Examples include purifications, sacrifices, invocations of celestial beings, and participation in the mysteries (initiatory rites).
+4. **Sacred rituals**: Various ceremonies and rites are integral to the practice of Theurgy, and can involve group or solitary activities. Examples include purifications, sacrifices, invocations of celestial beings, and participation in the mysteries (initiatory rites).
 
 ### Chapter 4: Renowned Theurgic Philosophers and Practitioners
 
-1. ****Iamblichus (c. 245-325 CE)****: A prominent philosopher and theurgist, Iamblichus built upon the Neoplatonism of Plotinus and Porphyry to establish Theurgy as a key aspect of mystical practice.
+1. **Iamblichus (c. 245-325 CE)**: A prominent philosopher and theurgist, Iamblichus built upon the Neoplatonism of Plotinus and Porphyry to establish Theurgy as a key aspect of mystical practice.
 
-2. ****Proclus (c. 412-485 CE)****: Proclus, an influential philosopher of his time, integrated Theurgy with the Platonic intellectual tradition, further solidifying its importance within the Western esoteric domain.
+2. **Proclus (c. 412-485 CE)**: Proclus, an influential philosopher of his time, integrated Theurgy with the Platonic intellectual tradition, further solidifying its importance within the Western esoteric domain.
 
-3. ****Julian the Apostate (331-363 CE)****: The Roman emperor and a practitioner of Theurgy, Julian attempted to revive ancient pagan practices and integrate them with Neoplatonic philosophy.
+3. **Julian the Apostate (331-363 CE)**: The Roman emperor and a practitioner of Theurgy, Julian attempted to revive ancient pagan practices and integrate them with Neoplatonic philosophy.
 
-4. ****Giordano Bruno (1548-1600 CE)****: An Italian philosopher and hermeticist, Bruno drew on theurgic principles to develop his system of cosmic understanding and spiritual ascent.
+4. **Giordano Bruno (1548-1600 CE)**: An Italian philosopher and hermeticist, Bruno drew on theurgic principles to develop his system of cosmic understanding and spiritual ascent.
 
 ### Chapter 5: Benefits and Challenges of Theurgical Practice
 

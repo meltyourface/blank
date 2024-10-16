@@ -63,7 +63,7 @@ Table of Contents:
    2. Psychosis & Schizophrenia
    3. Psychic Attacks & Psychic Vampirism
    4. Poltergeist Activity
-   5. ****Plagued by Pareidolia****: Perceiving Patterns in Chaos
+   5. **Plagued by Pareidolia**: Perceiving Patterns in Chaos
 10. Ethical Considerations in Dealing with Possession
 11. Treatments, Defense Mechanisms & Spiritual Warfare
    1. Exorcism Rituals

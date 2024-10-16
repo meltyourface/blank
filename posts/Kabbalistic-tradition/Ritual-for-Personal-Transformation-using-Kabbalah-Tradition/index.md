@@ -46,7 +46,7 @@ Tiferet - ת (Tav, 400)
 Netzach - נ (Nun, 50)
 Yesod - י (Yud, 10)
 
-The affirmation could be: "אני מתקדם ומתרומם באמצעות תפארת, נצח, ויסוד" (Ani mitkadem u'mitromem bemtzaut Tiferet, Netzach, veYesod), meaning "I advance and ascend through the power of Tiferet, Netzach, and Yesod."
+**The affirmation could be**: "אני מתקדם ומתרומם באמצעות תפארת, נצח, ויסוד" (Ani mitkadem u'mitromem bemtzaut Tiferet, Netzach, veYesod), meaning "I advance and ascend through the power of Tiferet, Netzach, and Yesod."
 
 3. Merkabah Meditation
 

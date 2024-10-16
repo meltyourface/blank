@@ -28,7 +28,7 @@ Deciphering symbols:
 2. **Alchemy**: The golden lion, white wolf, and red crow correspond to the three alchemical stages - Nigredo, Albedo, and Rubedo. The dreamer is undergoing a transformative process spiritually, emotionally, and mentally.
 3. **Hermeticism**: The robed figure signifies the Hermetic ideal of connecting with the divine through meditation, contemplation, and self-mastery.
 
-Cosmic meaning: This dream suggests that the dreamer is on a personal spiritual quest, seeking growth by traversing different mystical traditions and connecting to their cosmic origin. The various symbols encourage them to keep exploring and embarking on their personal hero's journey.
+**Cosmic meaning**: This dream suggests that the dreamer is on a personal spiritual quest, seeking growth by traversing different mystical traditions and connecting to their cosmic origin. The various symbols encourage them to keep exploring and embarking on their personal hero's journey.
 
 Dream 2:
 The dreamer finds themselves ascending a spiraling staircase lined with doors of different shapes and designs. They choose a door with a pentagram on it, entering an azure chamber lit with silver flames. In the room stands an androgynous figure wearing a sun-and-moon crown.
@@ -39,7 +39,7 @@ Deciphering symbols:
 2. **Alchemy**: The door with the pentagram symbolizes the five classical elements - Earth, Water, Air, Fire, and Ether - and their balanced integration.
 3. **Hermeticism**: The androgynous figure wearing the sun-and-moon crown embodies the Hermetic principle of the union of opposites, both within oneself and the universe.
 
-Cosmic meaning: This dream indicates that the dreamer is seeking balance and equilibrium in their life. They are learning to reconcile opposing forces, leading them towards a spiritual awakening that aligns them with the cosmos.
+**Cosmic meaning**: This dream indicates that the dreamer is seeking balance and equilibrium in their life. They are learning to reconcile opposing forces, leading them towards a spiritual awakening that aligns them with the cosmos.
 
 Dream 3:
 The dreamer walks barefoot over hot sand, seeking an oasis, guided by a many-pointed star. Eventually, they arrive at a pool of water and watch as an ibis emerges from the depths, in its beak, a key.
@@ -50,6 +50,6 @@ Deciphering symbols:
 2. **Alchemy**: The hot sand is emblematic of the calcination process, implying the dreamer's separation from the physical and confrontation with their spiritual essence.
 3. **Hermeticism**: The ibis, a symbol associated with the Egyptian god Thoth, is the bringer of wisdom and knowledge; the key in its beak indicates that the dreamer is about to unlock profound transformative insight.
 
-Cosmic meaning: This dream shows that the dreamer is in the middle of a spiritual trial, seeking sanctuary and wisdom. By acknowledging and embracing the guidance of cosmic forces, they will unlock the door to newfound understanding and awareness.
+**Cosmic meaning**: This dream shows that the dreamer is in the middle of a spiritual trial, seeking sanctuary and wisdom. By acknowledging and embracing the guidance of cosmic forces, they will unlock the door to newfound understanding and awareness.
 
 In each of these dreams, the dreamer's cosmic journey is illuminated through symbols drawn from diverse esoteric traditions. These dreamscapes reveal the intricate inner workings of the dreamers' spiritual development and their ongoing quest for truth, wisdom, and unity with the cosmos.

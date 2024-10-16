@@ -37,9 +37,9 @@ Roles in Ancient Egyptian Society
 
 Exalted in various forms since the Predynastic period, Thoth held several offices and titles in ancient Egyptian society, reflecting his multifaceted nature. **Among them, Thoth was recognized as**:
 
-1. ****Scribe of the Gods****: Thoth transcribed the words and deeds of deities, registering the actions of souls for judgment in the afterlife.
-2. ****Guardian of Knowledge****: As the protector and patron of libraries and learning centers, Thoth's influence extended to literature, science, and intellectual pursuits.
-3. ****Instructor of Rulers****: Thoth's wisdom guided pharaohs and high priests, providing discernment and prophetic insight to govern the material and spiritual realms.
+1. **Scribe of the Gods**: Thoth transcribed the words and deeds of deities, registering the actions of souls for judgment in the afterlife.
+2. **Guardian of Knowledge**: As the protector and patron of libraries and learning centers, Thoth's influence extended to literature, science, and intellectual pursuits.
+3. **Instructor of Rulers**: Thoth's wisdom guided pharaohs and high priests, providing discernment and prophetic insight to govern the material and spiritual realms.
 
 Accordingly, depictions of Thoth commonly feature him holding a scribe's palette and stylus, highlighting his association with knowledge and writing.
 
@@ -53,19 +53,19 @@ Key Symbols Associated with Thoth
 
 Several symbols accompany Thoth in his diverse portrayals, each signifying significant aspects of his nature and function:
 
-1. ****Ibis****: Thoth's most iconic form is the sacred ibis, emblematic of wisdom, purity, and transcendence of earthly chaos.
-2. ****Baboon****: Thoth also appears as a baboon, symbolizing judgment and the collective memory of knowledge.
-3. ****Moon and crescent****: As a lunar deity, Thoth is depicted with the moon and crescent overhead, tying him to the cycles of time and celestial harmony.
-4. ****Was scepter and Ankh****: These symbols underscore Thoth's power over the divine order and his facilitation of eternal life.
+1. **Ibis**: Thoth's most iconic form is the sacred ibis, emblematic of wisdom, purity, and transcendence of earthly chaos.
+2. **Baboon**: Thoth also appears as a baboon, symbolizing judgment and the collective memory of knowledge.
+3. **Moon and crescent**: As a lunar deity, Thoth is depicted with the moon and crescent overhead, tying him to the cycles of time and celestial harmony.
+4. **Was scepter and Ankh**: These symbols underscore Thoth's power over the divine order and his facilitation of eternal life.
 
 Invoking Thoth's Energy for Spiritual Development
 
 For occult students seeking to invoke Thoth's energy, the following rituals and practices can enhance and deepen your connection to the god of wisdom:
 
-1. ****Meditation****: Regularly practice meditation and visualization, focusing on Thoth's symbols and qualities as a guide to internalizing his wisdom.
-2. ****Studying sacred texts****: Connect with Thoth's intellectual attributes by engaging in the rigorous study of esoteric literature and spiritual texts.
-3. ****Journaling and reflection****: Writing daily about your spiritual experiences and self-discovery empowers your connection to Thoth, the god of writing, and promotes personal growth.
-4. ****Altar dedication****: Create a sacred space or altar, adorned with Thoth's symbols, to serve as a focal point for your ceremonial work and a tangible connection to his presence.
+1. **Meditation**: Regularly practice meditation and visualization, focusing on Thoth's symbols and qualities as a guide to internalizing his wisdom.
+2. **Studying sacred texts**: Connect with Thoth's intellectual attributes by engaging in the rigorous study of esoteric literature and spiritual texts.
+3. **Journaling and reflection**: Writing daily about your spiritual experiences and self-discovery empowers your connection to Thoth, the god of writing, and promotes personal growth.
+4. **Altar dedication**: Create a sacred space or altar, adorned with Thoth's symbols, to serve as a focal point for your ceremonial work and a tangible connection to his presence.
 
 Conclusion
 

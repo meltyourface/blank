@@ -29,7 +29,7 @@ Base Design and Aesthetics:
 Symbolism and Elements:
 1. A depiction of the Ouroboros, symbolizing the eternal cycle of life and the unity of all things, will be engraved around the altar's edge.
 2. The Gnostic cross will be prominently featured, representing the balance between the material and spiritual worlds.
-3. ****Statues of deities associated with Gnostic Oracles will be placed on the altar****: Sophia (wisdom), Abraxas (Lord of Light), and Simon Magus (the Great Power), among others.
+3. **Statues of deities associated with Gnostic Oracles will be placed on the altar**: Sophia (wisdom), Abraxas (Lord of Light), and Simon Magus (the Great Power), among others.
 
 Interactive Features and Offerings:
 1. Users will be able to virtually light candles and place them on the altar, symbolizing their intentions, and promoting concentration and deep meditation.

@@ -55,19 +55,19 @@ Invoke shades, wraiths, and haunts through a conjuration spell that attracts the
 
 4. Proper Mental, Emotional, and Spiritual States:
 
-Prior to the ritual: Enter a state of deep meditation and focus on the intention of augmenting intuition. Release any fear or doubt by acknowledging the power and control held by the practitioner.
+**Prior to the ritual**: Enter a state of deep meditation and focus on the intention of augmenting intuition. Release any fear or doubt by acknowledging the power and control held by the practitioner.
 
-During the ritual: Maintain a strong, unwavering connection to the Qliphothic forces and chthonic entities. 
+**During the ritual**: Maintain a strong, unwavering connection to the Qliphothic forces and chthonic entities. 
 
-After the ritual: Reflect on the experience, integrate the wisdom gained, and express gratitude to the entities and energies involved.
+**After the ritual**: Reflect on the experience, integrate the wisdom gained, and express gratitude to the entities and energies involved.
 
 5. Transformative Effects, Risks, and Side Effects:
 
-Immediate effects: Enhanced intuitive abilities, heightened awareness, and heightened sensitivity to the energies around.
+**Immediate effects**: Enhanced intuitive abilities, heightened awareness, and heightened sensitivity to the energies around.
 
 Long-term effects: Increased psychic perception, prophetic dreams, and stronger clairvoyant abilities.
 
-Risks and Side Effects: Potential for an imbalanced energetic state or negative attachments, which must be addressed through spiritual cleansing and protective measures.
+**Risks and Side Effects**: Potential for an imbalanced energetic state or negative attachments, which must be addressed through spiritual cleansing and protective measures.
 
 6. Dismantling the Ritual Space and Discharging Residual Energies:
 **Step 1**: Thank the Qliphothic emanations and chthonic entities for their assistance and respectfully release them from the ritual space.

@@ -58,12 +58,12 @@ excerpt: >
   
   Potential Side Effects:
   
-  1. ****Heightened emotional sensitivity****: Participants may become more aware of their own emotions and the emotions of others, which could lead to moments of vulnerability or intense emotional experiences.
+  1. **Heightened emotional sensitivity**: Participants may become more aware of their own emotions and the emotions of others, which could lead to moments of vulnerability or intense emotional experiences.
   
-  2. ****Vivid dreams or visions****: As a result of the astral projection, some participants might have vivid dreams and visions related to the perspectives they've gained during the process.
+  2. **Vivid dreams or visions**: As a result of the astral projection, some participants might have vivid dreams and visions related to the perspectives they've gained during the process.
   
-  3. ****Temporary disorientation****: The combination of astral projection, sigil work, and thought-form manifestation can be an energetically consuming process, leaving some feeling disoriented or fatigued.
+  3. **Temporary disorientation**: The combination of astral projection, sigil work, and thought-form manifestation can be an energetically consuming process, leaving some feeling disoriented or fatigued.
   
-  4. ****Energetic imbalances****: As with any spiritual or energetic practice, there is a possibility of energetic imbalances. It is essential to stay grounded and cleanse oneself and the space regularly to maintain balance and a clear energy flow.
+  4. **Energetic imbalances**: As with any spiritual or energetic practice, there is a possibility of energetic imbalances. It is essential to stay grounded and cleanse oneself and the space regularly to maintain balance and a clear energy flow.
   
   Always approach such spells with respect, openness, and a sincere intention to foster growth, understanding, and unity. Participation in this spell requires honesty and vulnerability, and as such, always respect the privacy and experiences of those involved.

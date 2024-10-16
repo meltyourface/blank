@@ -25,7 +25,7 @@ To respond to this knowledge challenge, we will first explore each of the key co
 1. **The Major Arcana of the Tarot**:
 The Tarot, specifically the Major Arcana, is a collection of 22 symbolic cards that represent the archetypal aspects of human experience and consciousness. Each card has a representation of a principle or event that holds spiritual significance. These cards can be understood as a pictorial representation of the different stages on the spiritual journey of inner transformation.
 
-The Major Arcana are traditionally divided into three sets: the first set (cards 1-7) represents the mundane world, the second set (cards 8-14) represents the inner processes of personal transformation, and the third set (cards 15-21) represents spiritual transcendence. The Fool (card 0) is considered both the beginning and end of the journey.
+**The Major Arcana are traditionally divided into three sets**: the first set (cards 1-7) represents the mundane world, the second set (cards 8-14) represents the inner processes of personal transformation, and the third set (cards 15-21) represents spiritual transcendence. The Fool (card 0) is considered both the beginning and end of the journey.
 
 2. **The Hebrew alphabet's relation to Kabbalistic astrology**:
 Kabbalistic astrology uses the Hebrew alphabet to derive insights about the divine and metaphysical aspects of reality. Every letter of the Hebrew alphabet is assigned a numerical value (Gematria), a phonetic value, and an astrological correspondence. The astral correlations are based on three mother letters (Aleph, Mem, and Shin) that link to the three elements (Air, Water, and Fire) and the twelve simple letters that correspond to the twelve zodiac signs.

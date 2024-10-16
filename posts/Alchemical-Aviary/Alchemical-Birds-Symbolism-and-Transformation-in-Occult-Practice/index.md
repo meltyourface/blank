@@ -37,13 +37,13 @@ The Alchemical Aviary serves as a unifying framework for understanding the symbo
 
 ### IV. Symbolism of Alchemical Birds and Associated Concepts
 
-1. ****The Black Crow****: The first stage in the alchemical process, known as Nigredo, is symbolized by the black crow. This bird represents the initial phase of cleansing and purification, where the chaos and unrefined matter undergo the process of putrefaction. This stage signifies the confrontation with the shadow aspects of oneself.
+1. **The Black Crow**: The first stage in the alchemical process, known as Nigredo, is symbolized by the black crow. This bird represents the initial phase of cleansing and purification, where the chaos and unrefined matter undergo the process of putrefaction. This stage signifies the confrontation with the shadow aspects of oneself.
 
-2. ****The White Swan****: Representing the stage of Albedo, the white swan is the emblem of purity, innocence, and spiritual rebirth. It signifies the transformation of the impure substance into a purified state, illuminating the soul and awakening a higher level of awareness.
+2. **The White Swan**: Representing the stage of Albedo, the white swan is the emblem of purity, innocence, and spiritual rebirth. It signifies the transformation of the impure substance into a purified state, illuminating the soul and awakening a higher level of awareness.
 
-3. ****The Red Phoenix****: Symbolic of both the Rubedo stage and the completion of the alchemical process, the red phoenix embodies the concepts of death, resurrection, and rebirth. By merging with its own purified essence, the phoenix signifies the attainment of spiritual wholeness and the perfect harmony of internal and external elements.
+3. **The Red Phoenix**: Symbolic of both the Rubedo stage and the completion of the alchemical process, the red phoenix embodies the concepts of death, resurrection, and rebirth. By merging with its own purified essence, the phoenix signifies the attainment of spiritual wholeness and the perfect harmony of internal and external elements.
 
-4. ****The Peacock****: The multicolored peacock represents the stage of the Peacock's Tail, where the alchemical substance is illuminated with an array of colors. It signifies the unfolding of one's spiritual development, embodying the potential for transformation and transcendence.
+4. **The Peacock**: The multicolored peacock represents the stage of the Peacock's Tail, where the alchemical substance is illuminated with an array of colors. It signifies the unfolding of one's spiritual development, embodying the potential for transformation and transcendence.
 
 ### V. Harnessing Alchemical Bird Concepts in Occult Practice
 

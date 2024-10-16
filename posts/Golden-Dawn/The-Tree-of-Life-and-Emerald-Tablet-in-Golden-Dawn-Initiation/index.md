@@ -25,13 +25,13 @@ THE TREE OF LIFE
 
 The Tree of Life is a central symbol in Kabbalah and other esoteric teachings. Comprising 10 'emanations', or 'sephiroth', it represents the cosmic structure through which divinity is expressed. Each sephirah corresponds to a particular aspect of creation or consciousness and is interconnected by 22 paths. These pathways signify the steps one must take to achieve enlightenment or better understand divine wisdom.
 
-The sephiroth are divided into three pillars: the Pillar of Severity, the Pillar of Mercy, and the Pillar of Equilibrium, reflecting different aspects of divine manifestation. From a broader perspective, the Tree of Life symbolizes not just cosmic order, but also the microcosmic journey of individual spiritual evolution through the study of divine wisdom.
+**The sephiroth are divided into three pillars**: the Pillar of Severity, the Pillar of Mercy, and the Pillar of Equilibrium, reflecting different aspects of divine manifestation. From a broader perspective, the Tree of Life symbolizes not just cosmic order, but also the microcosmic journey of individual spiritual evolution through the study of divine wisdom.
 
 THE EMERALD TABLET
 
 The Emerald Tablet originates from Hermetic and alchemical traditions, dating back to Ancient Egypt when it is said to have been inscribed on a tablet of emerald by Hermes Trismegistus himself. The tablet contains cryptic aphorisms, which are believed to describe the alchemical process of transmuting base metals, or the baser aspects of the self, into spiritual 'gold,' representing the perfection of the soul.
 
-The alchemical process described in the Emerald Tablet consists of seven key stages: Calcination, Dissolution, Separation, Conjunction, Fermentation, Distillation, and Coagulation. Each of these stages corresponds to a physical and spiritual transformation, leading the alchemist to unveil the 'Philosopher's Stone', which is both a symbol of spiritual enlightenment and the key to eternal life.
+**The alchemical process described in the Emerald Tablet consists of seven key stages**: Calcination, Dissolution, Separation, Conjunction, Fermentation, Distillation, and Coagulation. Each of these stages corresponds to a physical and spiritual transformation, leading the alchemist to unveil the 'Philosopher's Stone', which is both a symbol of spiritual enlightenment and the key to eternal life.
 
 COMBINING THE TREE OF LIFE AND THE EMERALD TABLET IN GOLDEN DAWN INITIATION CEREMONIES
 

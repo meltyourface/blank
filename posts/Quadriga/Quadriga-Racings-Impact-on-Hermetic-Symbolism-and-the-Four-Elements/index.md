@@ -30,7 +30,7 @@ Quadriga racing was an ancient chariot racing event in which a chariot was drawn
 
 Hermetic philosophy, on the other hand, is an esoteric tradition based on the teachings of Hermes Trismegistus, a legendary figure in ancient Greece and Egypt. It is a spiritual path that seeks to understand the mysteries of the universe and the nature of reality. The teachings of Hermeticism have permeated many aspects of occult and esoteric traditions throughout history, including alchemy, astrology, and magic.
 
-A fundamental concept in Hermeticism is the idea of the four elements: fire, water, air, and earth. These elements are believed to represent aspects of reality and are connected to every aspect of life, both tangible and intangible. The four elements are used in various esoteric practices, such as alchemy and the construction of magical circles, and serve as the foundation of understanding the forces that shape our world.
+**A fundamental concept in Hermeticism is the idea of the four elements**: fire, water, air, and earth. These elements are believed to represent aspects of reality and are connected to every aspect of life, both tangible and intangible. The four elements are used in various esoteric practices, such as alchemy and the construction of magical circles, and serve as the foundation of understanding the forces that shape our world.
 
 The connection between quadriga racing and Hermetic philosophy is in the number of horses used and their symbolic significance. The four horses in the quadriga can be seen as representing the four elements, and by extension, the forces that govern existence. This association gives the quadriga a deeper, esoteric meaning, highlighting the belief in the interplay between the physical world and the spiritual realm.
 

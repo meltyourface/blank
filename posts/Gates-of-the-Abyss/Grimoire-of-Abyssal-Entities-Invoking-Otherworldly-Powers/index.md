@@ -41,7 +41,7 @@ The abyssal entities dwell within the Gates of the Abyss, awaiting the call of k
 
 Every abyssal entity has an elemental alignment – fire, water, air, earth, or aether – which dictates the nature of their powers. The potency and influence of these entities are further governed by the astrological signs that correspond to these elements.
 
-Fire signs: Aries, Leo, and Sagittarius
+**Fire signs**: Aries, Leo, and Sagittarius
 Water signs: Cancer, Scorpio, and Pisces
 Air signs: Gemini, Libra, and Aquarius
 Earth signs: Taurus, Virgo, and Capricorn

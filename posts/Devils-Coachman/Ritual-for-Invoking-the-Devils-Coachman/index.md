@@ -22,23 +22,23 @@ excerpt: >
 ---
 Ritual Layout:
 
-1. ****Physical Effigy****: At the center of the ritual space, place a large, intricately carved statue or effigy of the Devil's Coachman, with lifelike details capturing his sinister visage and otherworldly presence. The effigy should be made of a material that resonates with dark powers, such as obsidian or blackened wood.
+1. **Physical Effigy**: At the center of the ritual space, place a large, intricately carved statue or effigy of the Devil's Coachman, with lifelike details capturing his sinister visage and otherworldly presence. The effigy should be made of a material that resonates with dark powers, such as obsidian or blackened wood.
 
-2. ****Arcane Glyphs and Sigils****: Surrounding the effigy, draw intricate, interlocking patterns of glyphs and sigils representing the Devil's Coachman's domain. These symbols should include his personal sigil (an inverted pentagram with a coachman's whip intertwined) and other occult symbols associated with control, coercion, and corrupting influence.
+2. **Arcane Glyphs and Sigils**: Surrounding the effigy, draw intricate, interlocking patterns of glyphs and sigils representing the Devil's Coachman's domain. These symbols should include his personal sigil (an inverted pentagram with a coachman's whip intertwined) and other occult symbols associated with control, coercion, and corrupting influence.
 
-3. ****Candles****: Arrange thirteen black candles in a circle around the effigy and sigils, representing the influence and power of the Devil's Coachman. The candles should be anointed with a blend of dark oils such as myrrh, wormwood, and henbane before being lit.
+3. **Candles**: Arrange thirteen black candles in a circle around the effigy and sigils, representing the influence and power of the Devil's Coachman. The candles should be anointed with a blend of dark oils such as myrrh, wormwood, and henbane before being lit.
 
-4. ****Ritual Tools****: Select an assortment of tools that connect with the Coachman's powers, such as a ceremonial dagger (etched with runes for power and invocation), a ritual chalice (to hold a mixture of blood and dark wine), and an incense burner (to burn a mixture of woods and herbs like vervain, mandrake, and deadly nightshade).
+4. **Ritual Tools**: Select an assortment of tools that connect with the Coachman's powers, such as a ceremonial dagger (etched with runes for power and invocation), a ritual chalice (to hold a mixture of blood and dark wine), and an incense burner (to burn a mixture of woods and herbs like vervain, mandrake, and deadly nightshade).
 
-5. ****Offerings****: Prepare a variety of offerings for the Devil's Coachman, including enchanted bones from predatory animals (e.g. wolves, ravens, or snakes), forbidden herbs from a graveyard (gathered at midnight), and sacrificial offerings (such as the blood of a willing participant).
+5. **Offerings**: Prepare a variety of offerings for the Devil's Coachman, including enchanted bones from predatory animals (e.g. wolves, ravens, or snakes), forbidden herbs from a graveyard (gathered at midnight), and sacrificial offerings (such as the blood of a willing participant).
 
 Step-by-Step Instructions for the Ritual:
 
 1. Begin the ritual at the darkest hour of the night, when the thin veil between worlds is at its weakest. Cleanse the ritual space beforehand with a mixture of salt and ash.
 
-2. ****Light the thirteen black candles in a counter-clockwise motion, starting from the northernmost point. As each candle is lit, recite the following chant****: "Flamma tenebris, flamma dominatus, ignis regit viam ad Dominum Plaustrum."
+2. **Light the thirteen black candles in a counter-clockwise motion, starting from the northernmost point. As each candle is lit, recite the following chant**: "Flamma tenebris, flamma dominatus, ignis regit viam ad Dominum Plaustrum."
 
-3. ****Stand before the statue of the Devil's Coachman and slowly pour the sacrificial blood and wine mixture into the chalice. Hold the chalice aloft and invoke the Coachman by reciting the following incantation****: "Omnipotens Dominus Plaustrum, ego te invoco! Descende in hanc effigiem et mecum loquere, ut tua opera revelentur et regnum tenebrarum augeatur!"
+3. **Stand before the statue of the Devil's Coachman and slowly pour the sacrificial blood and wine mixture into the chalice. Hold the chalice aloft and invoke the Coachman by reciting the following incantation**: "Omnipotens Dominus Plaustrum, ego te invoco! Descende in hanc effigiem et mecum loquere, ut tua opera revelentur et regnum tenebrarum augeatur!"
 
 4. Using the ceremonial dagger, carve the Coachman's personal sigil into the air before the effigy, charging each line with your intent and focus.
 

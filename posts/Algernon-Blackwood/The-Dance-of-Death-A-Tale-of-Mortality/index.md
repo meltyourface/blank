@@ -23,7 +23,7 @@ excerpt: >
 
 ## Title: The Dance of Death
 
-Adaptation by: [Your Name]
+**Adaptation by**: [Your Name]
 
 ACT I
 
@@ -61,7 +61,7 @@ Scene 3: The Dance of Death
 
 **NARRATOR**: (Offstage) And with bated breath, Thomas observed as a figure detached itself from the shadows, beckoning him to join.
 
-SHADOWY FIGURE: (Intoning) Dance with us, Thomas. Dance with death.
+**SHADOWY FIGURE**: (Intoning) Dance with us, Thomas. Dance with death.
 
 (Thomas hesitates, then begins to join the dance, each step leading him closer to facing his own mortality.)
 
@@ -77,7 +77,7 @@ Scene 2: The Realm of Shadows
 
 (Thomas awakens in the eerie realm, where he finds the shadowy figure waiting.)
 
-SHADOWY FIGURE: Welcome, Thomas, to the realm of shadows. Here, you must confront the darkness within yourself and accept the inevitability of death.
+**SHADOWY FIGURE**: Welcome, Thomas, to the realm of shadows. Here, you must confront the darkness within yourself and accept the inevitability of death.
 
 (Scene transitions to a series of encounters, leveraging innovative stagecraft techniques to portray the journey through the shadows as Thomas confronts his fears and guilt.)
 

@@ -23,15 +23,15 @@ The Scroll of Sith Sorcery, an ancient and enigmatic text, outlines the fundamen
 
 The Five Core Tenets of the Sith Code:
 
-1. ****Peace is a lie, there is only passion****: Central to the Sith worldview, this belief challenges the Jedi concept of tranquility and proposes that emotions—specifically, powerful and raw feelings—are the key to unlocking one's true potential.
+1. **Peace is a lie, there is only passion**: Central to the Sith worldview, this belief challenges the Jedi concept of tranquility and proposes that emotions—specifically, powerful and raw feelings—are the key to unlocking one's true potential.
 
-2. ****Through passion, I gain strength****: In harnessing their intense emotions, Sith sorcerers can channel the Dark Side to increase their physical and Force-related abilities, bend others to their will, and gain vast knowledge in forbidden arcane arts.
+2. **Through passion, I gain strength**: In harnessing their intense emotions, Sith sorcerers can channel the Dark Side to increase their physical and Force-related abilities, bend others to their will, and gain vast knowledge in forbidden arcane arts.
 
-3. ****Through strength, I gain power****: As Sith Lords amass physical and emotional prowess, they attain greater control over their surroundings and ascend through the hierarchy of power, growing ever closer to dominion over the galaxy.
+3. **Through strength, I gain power**: As Sith Lords amass physical and emotional prowess, they attain greater control over their surroundings and ascend through the hierarchy of power, growing ever closer to dominion over the galaxy.
 
-4. ****Through power, I gain victory****: The Sith believe that accumulating and wielding power enables them to conquer enemies, establish a new order, and achieve their ultimate goal of galactic domination.
+4. **Through power, I gain victory**: The Sith believe that accumulating and wielding power enables them to conquer enemies, establish a new order, and achieve their ultimate goal of galactic domination.
 
-5. ****Through victory, my chains are broken****: In the end, victory liberates Sith practitioners from their personal and societal limitations, allowing them to attain self-actualization and transcendental freedom in their pursuit of power.
+5. **Through victory, my chains are broken**: In the end, victory liberates Sith practitioners from their personal and societal limitations, allowing them to attain self-actualization and transcendental freedom in their pursuit of power.
 
 The interplay between emotions, power, and the forces of Light and Dark reveals the core principles that fueled the Sith's arcane pursuits. Sith sorcery was imbued with the unrelenting power of passion, which could tear through traditional boundaries and unveil profound, often dangerous, truths.
 

@@ -26,13 +26,13 @@ To fully compare and contrast the roles and relationships of Titania, Queen of t
 
 Titania appears as the queen of the fairies in Shakespeare's comedy "A Midsummer Night's Dream" (1595/96), whereas Queen Mab is a figure rooted in ancient British folklore. Although there is no single literary source for Mab, the character appears in various works throughout history, such as in English poet Michael Drayton's "Nymphidia" (1627) and in Shakespeare's "Romeo and Juliet" (1597).
 
-Different Realms: The Realm of Titania and the Realm of Mab
+**Different Realms**: The Realm of Titania and the Realm of Mab
 
 Titania's realm in "A Midsummer Night's Dream" is an enchanted forest near Athens, where the world of humans and the world of fairies intersect, resulting in comedic and magical consequences. The fairies of this forest are mystical creatures who embody various aspects of nature, love, and mischief. Shakespeare's portrayal of this realm as a moonlit, romantic, and wild place highlights the theme of love's irrationality and encapsulates the dream-like atmosphere of the play.
 
 Mab's realm in ancient British folklore, on the other hand, is less defined. As a figure rooted in ancient mythology, her domain can be seen as the entire British Isles, though she presides over the fairy kingdom specifically. Queen Mab is often associated with mischievous and malicious behavior, ruling over a realm where capricious spirits reside.
 
-Interactions with Humankind: Titania and Mab
+**Interactions with Humankind**: Titania and Mab
 
 Titania, in "A Midsummer Night's Dream," interacts with humans indirectly through her quarrel with her husband, Oberon, the king of the fairies. Their dispute over a changeling boy causes chaos in the lives of the other characters, particularly the lovers Hermia, Lysander, Demetrius, and Helena, as well as the amateur actors planning a play. Through Puck, their servant, Oberon and Titania tamper with the emotions of the human characters, using magic and causing misunderstandings, which ultimately leads the characters to self-realization and growth.
 

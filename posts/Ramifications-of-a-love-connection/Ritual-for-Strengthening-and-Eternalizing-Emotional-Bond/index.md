@@ -27,21 +27,21 @@ excerpt: >
 
 Symbolic Elements:
 
-1. ****Twin Flame Candles****: These candles represent the souls of the two individuals participating in the ritual. Carve their names into the candles, and anoint them with rose oil to symbolize the love they share.
+1. **Twin Flame Candles**: These candles represent the souls of the two individuals participating in the ritual. Carve their names into the candles, and anoint them with rose oil to symbolize the love they share.
 
-2. ****Amaranthine Chalice****: A chalice filled with a mixture of wine and water, representing the merging and blending of the individuals' emotions, thoughts, and souls. The Amaranthine Chalice symbolizes the eternal nature of their bond.
+2. **Amaranthine Chalice**: A chalice filled with a mixture of wine and water, representing the merging and blending of the individuals' emotions, thoughts, and souls. The Amaranthine Chalice symbolizes the eternal nature of their bond.
 
-3. ****Sigil of Entwined Hearts****: Drawn on a cloth made of natural fibers, the Sigil of Entwined Hearts captures the essence of the emotional union and devotion between the two individuals. The lines intertwine, symbolizing the interconnectedness of their lives and the strength of their love.
+3. **Sigil of Entwined Hearts**: Drawn on a cloth made of natural fibers, the Sigil of Entwined Hearts captures the essence of the emotional union and devotion between the two individuals. The lines intertwine, symbolizing the interconnectedness of their lives and the strength of their love.
 
 Step-by-step guide:
 
-1. ****Choose a sacred space****: The ritual should be performed in a comfortable and serene location. Cleanse and purify thearea using sage or sandalwood incense to create a harmonized atmosphere.
+1. **Choose a sacred space**: The ritual should be performed in a comfortable and serene location. Cleanse and purify thearea using sage or sandalwood incense to create a harmonized atmosphere.
 
-2. ****Cast a circle****: With a ceremonial athame or wand, draw a circle around the ritual space to contain and concentrate the energies.
+2. **Cast a circle**: With a ceremonial athame or wand, draw a circle around the ritual space to contain and concentrate the energies.
 
-3. ****Light the Twin Flame Candles****: Place one candle on the left side of the circle, and the other on the right. Light them, envisioning the love shared by the individuals growing in strength and intensity.
+3. **Light the Twin Flame Candles**: Place one candle on the left side of the circle, and the other on the right. Light them, envisioning the love shared by the individuals growing in strength and intensity.
 
-4. ****Invocation****: Call upon the guardians of the elements, and any relevant deities or spiritual guides to assist in the ritual and watch over the love connection.
+4. **Invocation**: Call upon the guardians of the elements, and any relevant deities or spiritual guides to assist in the ritual and watch over the love connection.
 
 5. **Recite the following incantation**:
 
@@ -50,15 +50,15 @@ Unite our hearts with a bond, unbreakable and bright.
 Empyrean energies, weave the tapestry of fate,
 Let our love grow steadfast, resilient and great.”
 
-6. ****Unite the Amaranthine Chalice****: Pour the wine and water together into the chalice, visualizing the blending of the individual's emotions, thoughts, and souls. Bless the mixture, sanctifying the bond.
+6. **Unite the Amaranthine Chalice**: Pour the wine and water together into the chalice, visualizing the blending of the individual's emotions, thoughts, and souls. Bless the mixture, sanctifying the bond.
 
-7. ****Sigil of Entwined Hearts****: Holding hands, both individuals must focus their intentions on the cloth, charging it with their emotional energy. Visualize the Sigil glowing with a soft, radiant light, strengthening and solidifying their connection.
+7. **Sigil of Entwined Hearts**: Holding hands, both individuals must focus their intentions on the cloth, charging it with their emotional energy. Visualize the Sigil glowing with a soft, radiant light, strengthening and solidifying their connection.
 
-8. ****Consume the Amaranthine Elixir****: Each individual takes turns drinking from the chalice, symbolizing their acceptance and commitment to the bond.
+8. **Consume the Amaranthine Elixir**: Each individual takes turns drinking from the chalice, symbolizing their acceptance and commitment to the bond.
 
-9. ****Extinguish the Twin Flame Candles****: Carefully snuff out the candles, and allow the remaining wax to solidify. This represents the preservation of the emotional bond.
+9. **Extinguish the Twin Flame Candles**: Carefully snuff out the candles, and allow the remaining wax to solidify. This represents the preservation of the emotional bond.
 
-10. ****Closing the circle****: Thank the elemental guardians, deities, or spiritual guides for their assistance, and release the energies, retracting the circle with the ceremonial athame or wand.
+10. **Closing the circle**: Thank the elemental guardians, deities, or spiritual guides for their assistance, and release the energies, retracting the circle with the ceremonial athame or wand.
 
 Potential Side-effects and Consequences:
 

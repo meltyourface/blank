@@ -29,7 +29,7 @@ Distillation, on the other hand, is a practical technique in alchemy that entail
 
 Now, let's explore the metaphysical correspondences between the elements involved in distillation and their influence on an individual's spiritual growth.
 
-Alchemy is intrinsically tied to the four classical elements: earth, water, air, and fire. These elements possess both literal and symbolic functions in alchemical operations, representing essential stages of transformation that align with the individual's spiritual journey.
+**Alchemy is intrinsically tied to the four classical elements**: earth, water, air, and fire. These elements possess both literal and symbolic functions in alchemical operations, representing essential stages of transformation that align with the individual's spiritual journey.
 
 1. Earth: In the alchemical process, 'earth' represents the initial solid state of matter—the prima materia or raw material to be transformed. Metaphysically, it symbolizes grounding and establishing a firm foundation, correlating with the physical, material aspect of our existence.
  

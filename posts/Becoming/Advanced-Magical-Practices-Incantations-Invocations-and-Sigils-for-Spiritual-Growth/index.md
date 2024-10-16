@@ -22,24 +22,24 @@ excerpt: Design a series of elaborate and potent incantations, invocations, and 
 ---
 Level 1: Novice
 
-Incantation: "Anima evolutio, vox aeternum, veritas revelare!"
+**Incantation**: "Anima evolutio, vox aeternum, veritas revelare!"
 
-Invocation: Stand facing east, with your arms raised at shoulder width, forming a "V" with your palms facing outward. Close your eyes and envision a brilliant white light surrounding your body. Recite the incantation three times, breathing deeply and drawing the energy of the light into your being. Open your eyes and visualize your spirit evolving as you embody the truth of your existence.
+**Invocation**: Stand facing east, with your arms raised at shoulder width, forming a "V" with your palms facing outward. Close your eyes and envision a brilliant white light surrounding your body. Recite the incantation three times, breathing deeply and drawing the energy of the light into your being. Open your eyes and visualize your spirit evolving as you embody the truth of your existence.
 
-Sigil: Draw a circle encompassing an upward-pointing triangle. Within the triangle, place the runes Fehu (for wealth of knowledge), Uruz (for strength and transformation), and Thurisaz (for awakening consciousness).
+**Sigil**: Draw a circle encompassing an upward-pointing triangle. Within the triangle, place the runes Fehu (for wealth of knowledge), Uruz (for strength and transformation), and Thurisaz (for awakening consciousness).
 
 Level 2: Intermediate
 
-Incantation: "Divinae sapiens, serpenita ascendere, ignis initium!"
+**Incantation**: "Divinae sapiens, serpenita ascendere, ignis initium!"
 
-Invocation: Begin in a seated position, facing west. Place your hands on your knees, palms facing upward. Close your eyes and envision a golden serpent ascending from the base of your spine, winding its way up and illuminating each of your chakras. As it reaches the crown chakra, recite the incantation three times, feeling the serpent's wisdom and power fill your being. 
+**Invocation**: Begin in a seated position, facing west. Place your hands on your knees, palms facing upward. Close your eyes and envision a golden serpent ascending from the base of your spine, winding its way up and illuminating each of your chakras. As it reaches the crown chakra, recite the incantation three times, feeling the serpent's wisdom and power fill your being. 
 
-Sigil: Draw a circle encompassing a Svastika, the arms bent either clockwise or counterclockwise, signifying the turning of the wheel of life and transformation. At each bend, place the following symbols: Pentacle (for grounding and balance), Caduceus (for wisdom and divine communication), Ankh (for eternal life), and Ouroboros (for cyclical nature and infinite transformation).
+**Sigil**: Draw a circle encompassing a Svastika, the arms bent either clockwise or counterclockwise, signifying the turning of the wheel of life and transformation. At each bend, place the following symbols: Pentacle (for grounding and balance), Caduceus (for wisdom and divine communication), Ankh (for eternal life), and Ouroboros (for cyclical nature and infinite transformation).
 
 Level 3: Adept
 
-Incantation: "Noctem aperire, stella tenebris, animus unicus, lux et umbra!"
+**Incantation**: "Noctem aperire, stella tenebris, animus unicus, lux et umbra!"
 
-Invocation: On the night of a new moon, step outside and face the clear sky. Stand in a comfortable stance, with your arms by your sides. Close your eyes, and take deep, slow breaths as you attune yourself to the stillness of the night. Once you feel connected to the surrounding energies, slowly raise your arms above your head, palms facing the sky. Open your eyes and recite the incantation, feeling the darkness and light within your soul intertwine and expand your innate abilities.
+**Invocation**: On the night of a new moon, step outside and face the clear sky. Stand in a comfortable stance, with your arms by your sides. Close your eyes, and take deep, slow breaths as you attune yourself to the stillness of the night. Once you feel connected to the surrounding energies, slowly raise your arms above your head, palms facing the sky. Open your eyes and recite the incantation, feeling the darkness and light within your soul intertwine and expand your innate abilities.
 
-Sigil: Create a circle, with an eight-pointed star within it. At each point of the star, place these symbols: Eye of Horus (for protection and insight), Lotus (for purity and spiritual growth), Merkaba (for divine light and spiritual ascension), Triskelion (for progress and personal growth), Bindu (for unity and transformation), Hexagram (for cosmic balance), Vesica Piscis (for interconnectedness and duality) and Yin-Yang (for harmony in polarities).
+**Sigil**: Create a circle, with an eight-pointed star within it. At each point of the star, place these symbols: Eye of Horus (for protection and insight), Lotus (for purity and spiritual growth), Merkaba (for divine light and spiritual ascension), Triskelion (for progress and personal growth), Bindu (for unity and transformation), Hexagram (for cosmic balance), Vesica Piscis (for interconnectedness and duality) and Yin-Yang (for harmony in polarities).

@@ -35,13 +35,13 @@ Key Rituals, Symbols, and Initiation Process
 
 The Arkonian Temple is rich with rituals and symbols, aimed at assisting its practitioners in their spiritual development and understanding of the mysteries of existence.
 
-1. ****The Ritual of Elemental Invocation****: This ritual seeks to establish a connection with the elemental forces of nature – earth, water, fire, and air – encouraging spiritual growth and balance within oneself.
+1. **The Ritual of Elemental Invocation**: This ritual seeks to establish a connection with the elemental forces of nature – earth, water, fire, and air – encouraging spiritual growth and balance within oneself.
 
-2. ****The Arcane Meditation****: A practice designed to guide the practitioner into a state of deep contemplation and mindfulness, facilitating access to higher wisdom and insights.
+2. **The Arcane Meditation**: A practice designed to guide the practitioner into a state of deep contemplation and mindfulness, facilitating access to higher wisdom and insights.
 
-3. ****The Labyrinthine Journey****: The initiate embarks on a symbolic journey through darkness and trials, representing the ego's dissolution and the emergence of a more profound spiritual understanding.
+3. **The Labyrinthine Journey**: The initiate embarks on a symbolic journey through darkness and trials, representing the ego's dissolution and the emergence of a more profound spiritual understanding.
 
-4. ****The Symbol of the Quintessence****: The most venerated emblem in the Arkonian tradition, representing the Fifth Element or the Spirit, which bridges the understanding between the four elemental forces and the divine realm.
+4. **The Symbol of the Quintessence**: The most venerated emblem in the Arkonian tradition, representing the Fifth Element or the Spirit, which bridges the understanding between the four elemental forces and the divine realm.
 
 The initiation process for new members is a transformative experience, often involving a series of tests and trials aimed at cultivating spiritual resilience and self-mastery. These rites of passage are an integral aspect of the Arkonian tradition, serving to strengthen the bond between initiates and the ancient lineage of wisdom bearers.
 
@@ -49,11 +49,11 @@ Prominent Figures and Texts
 
 Throughout the Arkonian Temple's storied history, several prominent figures have contributed to its evolution and transmission of knowledge.
 
-1. ****Arkanis Anistare****: The founder and original philosopher whose teachings and wisdom formed the basis of the Arkonian Temple.
+1. **Arkanis Anistare**: The founder and original philosopher whose teachings and wisdom formed the basis of the Arkonian Temple.
 
-2. ****Svethyra Noktamore****: A gifted seer and influential mystic who expanded the teachings on astral projection and dream work during the 14th century.
+2. **Svethyra Noktamore**: A gifted seer and influential mystic who expanded the teachings on astral projection and dream work during the 14th century.
 
-3. ****Alister Crowley****: A renowned figure in the occult world, Crowley, adopted elements from the Arkonian Temple in his fusion of eastern and western mystical practices known as Thelema.
+3. **Alister Crowley**: A renowned figure in the occult world, Crowley, adopted elements from the Arkonian Temple in his fusion of eastern and western mystical practices known as Thelema.
 
 The primary text of the Arkonian Temple, "The Codex Anistarum," is a comprehensive tome that contains the original teachings of Arkanis Anistare, along with centuries of commentary, practices, and spiritual insights from Arkonian adepts.
 

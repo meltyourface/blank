@@ -23,7 +23,7 @@ excerpt: >
   
   The Hermetic System:
   
-  The Hermetic system is based on the principles outlined in the ancient text, The Emerald Tablet, attributed to Hermes Trismegistus. ****The core idea of Hermeticism revolves around the concept of "As above, so below," which emphasizes the correspondence between the macrocosm (the Universe or the Divine) and the microcosm (the individual). The Seven Hermetic Principles are****: Mentalism, Correspondence, Vibration, Polarity, Rhythm, Cause and Effect, and Gender.
+  The Hermetic system is based on the principles outlined in the ancient text, The Emerald Tablet, attributed to Hermes Trismegistus. **The core idea of Hermeticism revolves around the concept of "As above, so below," which emphasizes the correspondence between the macrocosm (the Universe or the Divine) and the microcosm (the individual). The Seven Hermetic Principles are**: Mentalism, Correspondence, Vibration, Polarity, Rhythm, Cause and Effect, and Gender.
   
   The Kabbalistic System:
   

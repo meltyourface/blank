@@ -54,7 +54,7 @@ Gazing upon the chosen symbol of the thoughtform or egregore stated before, medi
 
 4. Chants and Invocations:
 
-Begin the ritual by welcoming the chosen thoughtform or egregore with an invocation such as: "Mnemosyne the all-knowing, your insight I seek. Intuitus, whose sight pierces beyond the veil, grant me clarity. By the elements and my will, may you join me in this sacred space and lend me your wisdom and power."
+**Begin the ritual by welcoming the chosen thoughtform or egregore with an invocation such as**: "Mnemosyne the all-knowing, your insight I seek. Intuitus, whose sight pierces beyond the veil, grant me clarity. By the elements and my will, may you join me in this sacred space and lend me your wisdom and power."
 
 5. Step-by-Step Ritual Process:
 
@@ -71,7 +71,7 @@ Once you sense the presence of the invoked entity, open a dialogue by stating yo
 
 7. Sealing the Acquired Powers:
 
-Hold the sigil in your hands and empower it with your intentions as you recite: "With this sigil, I seal my bond with Mnemosyne and Intuitus. May your wisdom and insight become part of me, magnifying my mind control abilities and personal growth. Blessed be."
+**Hold the sigil in your hands and empower it with your intentions as you recite**: "With this sigil, I seal my bond with Mnemosyne and Intuitus. May your wisdom and insight become part of me, magnifying my mind control abilities and personal growth. Blessed be."
 
 Wear or carry the sigil with you, allowing its energy and the bond you have forged to become embedded within your life.
 

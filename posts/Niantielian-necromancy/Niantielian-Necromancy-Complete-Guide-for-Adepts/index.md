@@ -24,7 +24,7 @@ excerpt: Develop a comprehensive curriculum outlining the necessary preliminary 
 
 **Curriculum Overview**
 
-The curriculum for an aspiring adept of Niantielian necromancy comprises of four crucial phases: Theoretical Foundations, Acquiring Arcane Relics, Rites of Initiation, and Advanced Practices. Each phase contains relevant modules designed to progressively build the adept's knowledge, skill, and eventually mastery over death's mysteries. This comprehensive curriculum will equip the adept with the necessary theoretical understanding and practical experience to become a true master of the Niantielian necromancy.
+**The curriculum for an aspiring adept of Niantielian necromancy comprises of four crucial phases**: Theoretical Foundations, Acquiring Arcane Relics, Rites of Initiation, and Advanced Practices. Each phase contains relevant modules designed to progressively build the adept's knowledge, skill, and eventually mastery over death's mysteries. This comprehensive curriculum will equip the adept with the necessary theoretical understanding and practical experience to become a true master of the Niantielian necromancy.
 
 **Phase 1: Theoretical Foundations**
 

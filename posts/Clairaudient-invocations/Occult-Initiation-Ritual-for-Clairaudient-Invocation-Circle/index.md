@@ -34,7 +34,7 @@ excerpt: >
 ---
 Initiation Ritual for the Elite Occult Study Circle of Clairaudient Invocations:
 
-Preparation: Ensure that the space where the ritual will be performed is clean and free from any disturbances. Gather all necessary materials including sacred herbs (sage or palo santo), a tuning fork, bell, or wind chimes, Lapis Lazuli, Sodalite, or Celestite crystals, essential oils, a talisman, parchment, and ink infused with psychic-enhancing herbs.
+**Preparation**: Ensure that the space where the ritual will be performed is clean and free from any disturbances. Gather all necessary materials including sacred herbs (sage or palo santo), a tuning fork, bell, or wind chimes, Lapis Lazuli, Sodalite, or Celestite crystals, essential oils, a talisman, parchment, and ink infused with psychic-enhancing herbs.
 **Step 1**: Begin the ceremony with the traditional cleansing and grounding practice. Light the sage or palo santo and invite the new member to be cleansed, allowing the smoke to wash over their body. Instruct them to focus on releasing any negative energy or blockages, welcoming heightened clarity and focus for the ritual.
 **Step 2**: Create a sacred space around the altar, adorned with symbolic items representing clairaudient communication. Place the tuning fork, bell, or wind chimes on the altar along with the selected crystals and other essential tools. Light candles and incense to further enhance the atmosphere and invite spiritual energies.
 **Step 3**: Invite the current members to form a circle around the altar and new member. Together, recite the unique Clairaudient invocation chant:

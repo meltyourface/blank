@@ -40,16 +40,16 @@ Manifestation principles are at the heart of New Moon Rituals. The new moon's sy
 
 To illustrate a practical example of an integrated New Moon Ritual, consider the following outline:
 
-1. ****Preparation****: Create a cleansing and sacred space by lighting candles, burning sage, or placing symbolic items that represent the Triple Goddess (e.g., moonstone, rose quartz, or statues).
+1. **Preparation**: Create a cleansing and sacred space by lighting candles, burning sage, or placing symbolic items that represent the Triple Goddess (e.g., moonstone, rose quartz, or statues).
 
-2. ****Invocation****: Call upon the Triple Goddess, asking for guidance and wisdom for the duration of the ritual. You may use a simple chant or prayer to connect with her energy.
+2. **Invocation**: Call upon the Triple Goddess, asking for guidance and wisdom for the duration of the ritual. You may use a simple chant or prayer to connect with her energy.
 
-3. ****Reflection****: Using journaling or meditation, reflect on your current state and identify the areas in which you seek growth, healing, or transformation.
+3. **Reflection**: Using journaling or meditation, reflect on your current state and identify the areas in which you seek growth, healing, or transformation.
 
-4. ****Intention-setting****: Write down or verbally express your intentions for this new moon cycle. Be sure these intentions align with your deepest desires and goals.
+4. **Intention-setting**: Write down or verbally express your intentions for this new moon cycle. Be sure these intentions align with your deepest desires and goals.
 
-5. ****Visualization and energy work****: Engage in a guided meditation or visualization process to connect with the energy of your intentions. Visualize yourself successfully manifesting your goals, and focus your energy on this desired outcome.
+5. **Visualization and energy work**: Engage in a guided meditation or visualization process to connect with the energy of your intentions. Visualize yourself successfully manifesting your goals, and focus your energy on this desired outcome.
 
-6. ****Closing****: Thank and release the Triple Goddess energy, allowing her wisdom and power to continue guiding you through the manifesting process. Close the ritual by grounding yourself and giving gratitude for the experience.
+6. **Closing**: Thank and release the Triple Goddess energy, allowing her wisdom and power to continue guiding you through the manifesting process. Close the ritual by grounding yourself and giving gratitude for the experience.
 
 In summary, the key themes of the Triple Goddess archetype, psycho-spiritual transformation, and manifestation principles work together within the New Moon Ritual to create a holistic, empowering, and transformative experience. The energy of the Triple Goddess enables personal growth and introspection, while the focus on psycho-spiritual transformation fosters a more in-depth understanding of oneself. Manifestation principles serve to activate and ground the intentions set during the ritual, all while contributing to actualizing the desired outcomes.

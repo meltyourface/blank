@@ -35,7 +35,7 @@ Significance
 
 The Enchiridion has long held an air of mystery and allure for both practitioners and scholars of the occult. Its significance stems from the collection of powerful talismans and prayers, many of which are based on various biblical passages, angelic names, and magical symbols. The Enchiridion represents an amalgamation of Christian and pre-Christian belief systems and is considered a valuable source of information on the development and evolution of esoteric thought throughout the ages.
 
-Key Elements: Talismans and Prayers
+**Key Elements**: Talismans and Prayers
 
 Talismans within the Enchiridion are believed to possess the power to protect their bearer from various catastrophes, diseases, or misfortunes and to bring about desired outcomes. These mystical objects are typically adorned with specific symbols, inscriptions, or images intended to evoke angelic, celestial, or elemental forces.
 

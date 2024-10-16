@@ -23,7 +23,7 @@ Task: Design and conduct an elaborate ritual to invoke the spirit of a renowned 
 
 **Occultist**: Thothirion of the Emerald Flame
 
-Beliefs and Methodology: Thothirion of the Emerald Flame is a master alchemist, mystic, and scholar within The Sound of His Horn universe, heavily influenced by Hermeticism and known for his work on the Emerald Tablet. Thothirion's practices combine his vast knowledge of alchemy, astral projection, and the manipulation of energy to achieve a higher state of consciousness.
+**Beliefs and Methodology**: Thothirion of the Emerald Flame is a master alchemist, mystic, and scholar within The Sound of His Horn universe, heavily influenced by Hermeticism and known for his work on the Emerald Tablet. Thothirion's practices combine his vast knowledge of alchemy, astral projection, and the manipulation of energy to achieve a higher state of consciousness.
 
 Ritual Steps Overview:
 1. Cleanse and sanctify the ritual space

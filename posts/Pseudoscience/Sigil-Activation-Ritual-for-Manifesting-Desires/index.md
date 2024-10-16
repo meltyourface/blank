@@ -23,7 +23,7 @@ excerpt: >
 
 ## The Sigil Activation Ritual of the Omniscient Eye
 
-Purpose: This ritual is designed to manifest a specific desire within the domain of pseudoscience by harnessing the power of sacred geometry, metaphysical forces, and mystical symbols.
+**Purpose**: This ritual is designed to manifest a specific desire within the domain of pseudoscience by harnessing the power of sacred geometry, metaphysical forces, and mystical symbols.
 
 Materials:
 1. A sheet of parchment or quality paper
@@ -50,7 +50,7 @@ Step-By-Step Instructions:
 
 6. Stand or sit in a comfortable position in front of the altar. Close your eyes and take several deep breaths, drawing in the energies of the universe and your surroundings.
 
-7. ****Timing****: For optimal potency, perform this ritual during the planetary hour corresponding to your desire. For example, if your desire relates to love or relationships, choose a time when Venus is dominant in the sky.
+7. **Timing**: For optimal potency, perform this ritual during the planetary hour corresponding to your desire. For example, if your desire relates to love or relationships, choose a time when Venus is dominant in the sky.
 
 8. **Recite the following incantation**:
 
@@ -65,6 +65,6 @@ Step-By-Step Instructions:
 
 11. Extinguish the candles and thank the energies, elements, and sacred geometry for their guidance and assistance.
 
-12. ****Disposal****: To reinforce the process of manifestation, bury the sigil in a garden or natural setting during the new or waxing moon phase. Alternatively, burn the parchment and scatter the ashes to the four winds symbolizing the release of your intention into the universe.
+12. **Disposal**: To reinforce the process of manifestation, bury the sigil in a garden or natural setting during the new or waxing moon phase. Alternatively, burn the parchment and scatter the ashes to the four winds symbolizing the release of your intention into the universe.
 
 Performing this ritual with sincere intention and faith in your ability to manifest your desires will bring forth the power of the esoteric, occult, and pseudoscientific domain. Remember, the universe is always listening, and energy follows intention.

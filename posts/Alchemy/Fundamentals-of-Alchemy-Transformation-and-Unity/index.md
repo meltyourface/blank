@@ -43,7 +43,7 @@ A. The Four Stages
 
 B. Principle of Correspondence
 
-At the core of alchemy is the Hermetic principle of correspondence: "As above, so below." This idea suggests a connection between the physical world and the spiritual plane, wherein the work conducted on physical substances corresponds to inner spiritual changes.
+**At the core of alchemy is the Hermetic principle of correspondence**: "As above, so below." This idea suggests a connection between the physical world and the spiritual plane, wherein the work conducted on physical substances corresponds to inner spiritual changes.
 
 ### III. Key Concepts
 

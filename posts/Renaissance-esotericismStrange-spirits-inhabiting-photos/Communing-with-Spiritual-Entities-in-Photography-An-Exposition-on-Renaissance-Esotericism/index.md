@@ -34,7 +34,7 @@ And manifest they shall! Appearing in forms most peculiar and aberrant, these be
 
 These otherworldly denizens exert an uncanny influence upon the material world, shaping and distorting reality with their arcane whims. A spirit bound to an image of a lush meadow, for instance, may agitate the very winds and summon the balmy airs of springtime; while one anchored within a sepulchral snapshot may invigorate the dead earth, conjuring forth the ominous scent of decay and desolation.
 
-Consider well the tales herein shared: of intrepid mystics engaging with these supernatural forces, harnessing them for divine inspiration, for the healing of maladies, or to fathom the mysteries of the cosmos; but beware the folly of the unwary, for the spirits exact a price for their service, negotiated through the hidden laws of the cosmic equilibrium.
+**Consider well the tales herein shared**: of intrepid mystics engaging with these supernatural forces, harnessing them for divine inspiration, for the healing of maladies, or to fathom the mysteries of the cosmos; but beware the folly of the unwary, for the spirits exact a price for their service, negotiated through the hidden laws of the cosmic equilibrium.
 
 Thus, I have imparted this knowledge upon you, seeker of the arcane, with the deepest reverence for our sacred arts and in recognition of the insatiable inquisitiveness that guides our esoteric pursuits. Meditate upon these revelations, integrate them into your practice, and evermore shall you traverse the path of wisdom illuminated by the resplendent light of Renaissance esotericism.
 

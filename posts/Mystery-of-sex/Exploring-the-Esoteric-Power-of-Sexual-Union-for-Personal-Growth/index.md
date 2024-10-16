@@ -39,14 +39,14 @@ Similarly, the ancient Greek celebrations of the Hieros Gamos – the ritual of 
 
 To harness and explore the power of sexual energy within the practice of occultism, the initiate should first seek to cultivate self-awareness and introspection. By understanding their personal energies, desires, and tendencies, they can better align to the transformative potential of the Mystery of sex.
 
-1. ****Personal Energy Purification****: Begin by meditating regularly and incorporating purification rituals, such as the Lesser Banishing Ritual of the Pentagram or auric cleansing, to rid oneself of energetic blockages and imbalances and remain receptive to the sacred energies of this union.
+1. **Personal Energy Purification**: Begin by meditating regularly and incorporating purification rituals, such as the Lesser Banishing Ritual of the Pentagram or auric cleansing, to rid oneself of energetic blockages and imbalances and remain receptive to the sacred energies of this union.
 
-2. ****Cultivation of Unconditional Love****: Embrace the practice of unconditional love and compassion for oneself and their partner. This will facilitate the opening of both individual energy centers (chakras), allowing for the free flow and intermingling of sacred energies during the act of union.
+2. **Cultivation of Unconditional Love**: Embrace the practice of unconditional love and compassion for oneself and their partner. This will facilitate the opening of both individual energy centers (chakras), allowing for the free flow and intermingling of sacred energies during the act of union.
 
-3. ****Intent and Visualization****: Prior to engaging in sexual union, clarify your intent for harnessing this energy. This could be for healing, spiritual enlightenment, or the manifestation of desired goals. Consciously visualize the merging of energies and visualize the outcome.
+3. **Intent and Visualization**: Prior to engaging in sexual union, clarify your intent for harnessing this energy. This could be for healing, spiritual enlightenment, or the manifestation of desired goals. Consciously visualize the merging of energies and visualize the outcome.
 
-4. ****The Practice of Tantra****: Consider exploring tantric practices that emphasize breathwork, meditation, and sustained physical intimacy, fostering a deeper connection with oneself and one's partner. This approach helps to prolong and channel the sexual energy, allowing for profound transformation on all levels – physical, emotional, and spiritual.
+4. **The Practice of Tantra**: Consider exploring tantric practices that emphasize breathwork, meditation, and sustained physical intimacy, fostering a deeper connection with oneself and one's partner. This approach helps to prolong and channel the sexual energy, allowing for profound transformation on all levels – physical, emotional, and spiritual.
 
-5. ****Integration and Reflection****: After the act of sacred union, take time to reflect upon and integrate the experiences. This may involve journaling, discussing the experience with one's partner, or regular meditation.
+5. **Integration and Reflection**: After the act of sacred union, take time to reflect upon and integrate the experiences. This may involve journaling, discussing the experience with one's partner, or regular meditation.
 
 By engaging with the esoteric aspects of the Mystery of sex and embracing the sacred union as a path towards personal growth and spiritual transformation, initiates can gain a deeper understanding of the larger mysteries of existence. Through this understanding, practitioners are better equipped to embark on a journey of self-discovery, becoming increasingly attuned to the underlying energies and connections that permeate the universe.

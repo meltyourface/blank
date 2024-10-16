@@ -22,10 +22,10 @@ excerpt: >
 ---
 Illuminated Astrological Natal Chart Interpretation for October 31, 1990, 11:45 PM in New York City:
 
-Sun Sign: Scorpio
+**Sun Sign**: Scorpio
 Sun, the core identity, is in the powerful and transformative sign of Scorpio. This placement indicates an individual with intense willpower, emotional depth, and regenerative ability. Scorpios possess the innate alchemical power of transforming negative experiences into stepping stones for personal growth. The retrograde motion of Pluto, the ruling planet of Scorpio, adds further complexity to this individual's life path.
 
-Moon Sign: Capricorn
+**Moon Sign**: Capricorn
 Moon in Capricorn bestows a strong sense of discipline and practicality. Capricorn is ruled by Saturn, the planet of karmic responsibilities, limitations, and structure, reinforcing the occult connection between this individual’s spiritual growth, life choices, and karmic debt. With the moon moving through the eighth house, this person's abilities in the psychic and intuitive realms are heightened and their emotions deeply intertwined with their pursuit of spiritual wisdom.
 
 **Ascendant**: Leo

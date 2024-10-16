@@ -23,7 +23,7 @@ excerpt: >
 
 ## Le Traité de la Pierre Philosophale (Treatise on the Philosopher's Stone)
 
-Original Author: Pseudo-Paracelsus
+**Original Author**: Pseudo-Paracelsus
 
 The Bibliothèque bleue's "Le Traité de la Pierre Philosophale" is a fascinating work on esotericism, folklore, and mysticism. It delves deeply into the quest for the Philosopher's Stone, an elusive substance purported to have the power to transmute base metals into gold.
 

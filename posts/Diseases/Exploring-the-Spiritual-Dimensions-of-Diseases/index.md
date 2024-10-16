@@ -31,7 +31,7 @@ Ancient civilizations, like the Egyptians and Babylonians, held the belief that 
 
 The practice of manipulating diseases using magical techniques dates back to the beginnings of human history. Healers and shamans in various cultures employed rituals and invocations to either alleviate or inflict diseases upon others, guided by the belief that these practices held power over the invisible forces governing diseases.
 
-There are three main areas in which magical practices can influence diseases: healing, cursing, and transformation.
+**There are three main areas in which magical practices can influence diseases**: healing, cursing, and transformation.
 
 1. Healing: In this context, magical practices are aimed at restoring an individual's health by employing the curative powers of elements, symbols, or entities. These rites often involve invoking the healing energies from spiritual realms or ancestral spirits. Common techniques include the use of herbs, crystals, or talismans to facilitate the healing process and strengthen the individual's immune system.
 

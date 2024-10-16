@@ -1,6 +1,6 @@
 ---
 id: 44f6995c-6579-4f55-a558-ff3ae23ff7b5
-title: 'Freemasonry vs. ****Witchcraft****: Esoteric Connections and Shared Foundations'
+title: 'Freemasonry vs. **Witchcraft**: Esoteric Connections and Shared Foundations'
 permalink: /A-Revelation-of-FreemasonryWitchcraft/Freemasonry-vs-Witchcraft-Esoteric-Connections-and-Shared-Foundations/
 categories:
   - A Revelation of FreemasonryWitchcraft

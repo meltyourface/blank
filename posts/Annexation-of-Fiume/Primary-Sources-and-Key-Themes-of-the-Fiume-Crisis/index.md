@@ -32,13 +32,13 @@ Primary Sources:
 
 Key Themes and Perspectives:
 
-1. ****Italian irredentism and nationalism****: Many Italians saw the annexation of Fiume as an opportunity to fulfill dreams of a greater Italy, incorporating irredentist territories inhabited by ethnic Italians.
+1. **Italian irredentism and nationalism**: Many Italians saw the annexation of Fiume as an opportunity to fulfill dreams of a greater Italy, incorporating irredentist territories inhabited by ethnic Italians.
 
-2. ****Wilson’s Fourteen Points and self-determination****: U.S. President Woodrow Wilson's principle of national self-determination played a significant role in shaping the Fiume Crisis, as it raised questions about whether Fiume should join Italy or the Kingdom of Serbs, Croats, and Slovenes.
+2. **Wilson’s Fourteen Points and self-determination**: U.S. President Woodrow Wilson's principle of national self-determination played a significant role in shaping the Fiume Crisis, as it raised questions about whether Fiume should join Italy or the Kingdom of Serbs, Croats, and Slovenes.
 
-3. ****Conflicting Entente interests****: France and the UK had their interests in the Adriatic region, leading to contrasting opinions on how the Fiume Crisis should be resolved.
+3. **Conflicting Entente interests**: France and the UK had their interests in the Adriatic region, leading to contrasting opinions on how the Fiume Crisis should be resolved.
 
-4. ****Yugoslav nationalism and opposition****: The government and people of the Kingdom of Serbs, Croats, and Slovenes were fiercely opposed to Italian attempts to annex Fiume, seeing it as Yugoslav territory.
+4. **Yugoslav nationalism and opposition**: The government and people of the Kingdom of Serbs, Croats, and Slovenes were fiercely opposed to Italian attempts to annex Fiume, seeing it as Yugoslav territory.
 
 Shifts in Sentiment and Underrepresented Viewpoints:
 

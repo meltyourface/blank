@@ -28,7 +28,7 @@ The Sacred Magic of Abramelin the Mage is an ancient system of magic that has in
 
 ### Section 2: Core tenets and philosophical principles
 
-At the heart of the Sacred Magic of Abramelin the Mage is the doctrine of spiritual ascent: a multi-stage, incremental journey from the mundane consciousness of the profane world to the exalted states of divine awareness. Key to this ascent is the attainment of knowledge and conversation with the Holy Guardian Angel - an individual's higher, divine self that guides and enlightens them on their spiritual quest.
+**At the heart of the Sacred Magic of Abramelin the Mage is the doctrine of spiritual ascent**: a multi-stage, incremental journey from the mundane consciousness of the profane world to the exalted states of divine awareness. Key to this ascent is the attainment of knowledge and conversation with the Holy Guardian Angel - an individual's higher, divine self that guides and enlightens them on their spiritual quest.
 
 Abramelin magic places a particular emphasis on purity, asceticism, and devotion, with initiates expected to follow rigorous regimens of prayer, fasting, and spiritual discipline. By adhering to these onerous practices, the practitioner is believed to purify and refine themselves, preparing their soul to receive divine knowledge and magical power.
 

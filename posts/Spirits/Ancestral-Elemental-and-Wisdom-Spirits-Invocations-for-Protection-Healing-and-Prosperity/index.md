@@ -54,7 +54,7 @@ Thank the ancestors and invoke their spiritual guidance before extinguishing the
 
 Invocation 3: Elemental Spirits
 
-Draw elemental symbols in each corresponding corner of your sacred space: Earth (north), Air (east), Fire (south), Water (west). **Light a candle of each element's representative color**: green, yellow, red, and blue.
+**Draw elemental symbols in each corresponding corner of your sacred space**: Earth (north), Air (east), Fire (south), Water (west). **Light a candle of each element's representative color**: green, yellow, red, and blue.
 
 **Chant**:
 "Spirits of earth, wind, fire, and wave,

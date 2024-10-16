@@ -32,9 +32,9 @@ Throughout the centuries, Kirke as a practice evolved into a broader spectrum of
 
 Divination, or the act of seeking knowledge of the future or hidden knowledge by supernatural means, plays a fundamental role in Kirke. **The following divination practices are closely related to the enchantment arts of Kirke and can be used by aspiring practitioners to gain a deeper understanding of their surroundings and inner self**:
 
-1. ****Scrying****: This practice utilizes reflective surfaces, such as mirrors or water, to induce visions and access information otherwise hidden from the conscious mind.
-2. ****Pyromancy****: A form of divination that involves the observation and interpretation of fire or flame patterns to reveal hidden knowledge.
-3. ****Lithomancy****: A technique relying on the casting and reading of stones to answer specific questions, identify future events, and uncover information about one's spiritual path.
+1. **Scrying**: This practice utilizes reflective surfaces, such as mirrors or water, to induce visions and access information otherwise hidden from the conscious mind.
+2. **Pyromancy**: A form of divination that involves the observation and interpretation of fire or flame patterns to reveal hidden knowledge.
+3. **Lithomancy**: A technique relying on the casting and reading of stones to answer specific questions, identify future events, and uncover information about one's spiritual path.
 
 ### III. Rituals and Invocations in Kirke
 
@@ -48,18 +48,18 @@ When invoking divine energies, it is essential to approach the process with reve
 
 Kirke, as an enchantress, has long been connected to various deities from different pantheons. **These deities represent aspects of magic and transformation and can act as guides for practitioners seeking to deepen their understanding of the esoteric arts**:
 
-1. ****Hecate****: A Greek goddess of the crossroads, magic, and witchcraft.
-2. ****Isis****: An Egyptian goddess recognized as the divine mother, healer, and practitioner of magic arts.
-3. ****Brigid****: A Celtic goddess linked to healing, prophecy, and fire.
+1. **Hecate**: A Greek goddess of the crossroads, magic, and witchcraft.
+2. **Isis**: An Egyptian goddess recognized as the divine mother, healer, and practitioner of magic arts.
+3. **Brigid**: A Celtic goddess linked to healing, prophecy, and fire.
 
 ### V. Practical Advice for Utilizing Kirke in Personal Spiritual Growth and Magical Workings
 
 Developing your skills and knowledge in Kirke requires dedication, self-awareness, and patience. **The following practical advice can help guide your journey as you explore the rich traditions of Kirke**:
 
-1. ****Study****: Gain a foundational understanding of Kirke's history, practices, and techniques through research and study.
-2. ****Respect****: Always approach spiritual beings, rituals, and divination practices with respect and humility.
-3. ****Intuition****: Trust your intuition when interpreting magical experiences or engaging in ritual work.
-4. ****Balance****: Ensure your magical workings align with both your personal values and the greater good.
-5. ****Record****: Maintain a journal of your experiences, insights, and progress as a method of self-reflection and growth.
+1. **Study**: Gain a foundational understanding of Kirke's history, practices, and techniques through research and study.
+2. **Respect**: Always approach spiritual beings, rituals, and divination practices with respect and humility.
+3. **Intuition**: Trust your intuition when interpreting magical experiences or engaging in ritual work.
+4. **Balance**: Ensure your magical workings align with both your personal values and the greater good.
+5. **Record**: Maintain a journal of your experiences, insights, and progress as a method of self-reflection and growth.
 
 By cultivating a deep understanding of Kirke, enthusiasts will appreciate the power of enchantment and the role it has played in shaping our relationship with the divine. Practitioners immersed in the rich practices and history of Kirke will not only gain a broad perspective on magic and transformation but will also be equipped to harness its profound power for personal growth and spiritual advancement.

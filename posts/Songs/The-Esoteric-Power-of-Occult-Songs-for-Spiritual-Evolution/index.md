@@ -33,7 +33,7 @@ Occult Songs are found in the roots of various religious and spiritual tradition
 
 Types of Songs in Occult Practices
 
-Occult Songs can be broadly categorized into four types: invocations, evocations, purifications, and transformations. Invocations summon energies and beings from higher realms to aid the practitioner in their spiritual development. Evocations, on the other hand, call forth energies or entities from the self or the physical world and are used for support or guidance. Purification Songs cleanse the practitioner's aura or environment, preparing them for more profound spiritual work. Finally, transformation Songs facilitate personal growth and spiritual evolution by affecting change in the inner psyche or outer world.
+**Occult Songs can be broadly categorized into four types**: invocations, evocations, purifications, and transformations. Invocations summon energies and beings from higher realms to aid the practitioner in their spiritual development. Evocations, on the other hand, call forth energies or entities from the self or the physical world and are used for support or guidance. Purification Songs cleanse the practitioner's aura or environment, preparing them for more profound spiritual work. Finally, transformation Songs facilitate personal growth and spiritual evolution by affecting change in the inner psyche or outer world.
 
 Preparation and Mindset
 

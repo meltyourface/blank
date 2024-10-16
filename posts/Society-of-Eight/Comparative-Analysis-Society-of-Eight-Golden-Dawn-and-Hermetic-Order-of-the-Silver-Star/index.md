@@ -29,7 +29,7 @@ The Society of Eight was created as a result of occultists' quest to understand 
 
 The Golden Dawn
 
-The Golden Dawn, founded in 1888, is a Western esoteric order that incorporates aspects of Hermeticism, Qabalah, Astrology, Geomancy, Theurgy, and Alchemy. ****A key principle of the Golden Dawn is the belief in the ultimate power of human potential, symbolized by the adage****: "As above, so below." This order focuses on the advancement of human consciousness, spiritual growth, and union with the higher self or the divine. The Golden Dawn teachings aim to foster individual empowerment and a greater understanding of natural laws.
+The Golden Dawn, founded in 1888, is a Western esoteric order that incorporates aspects of Hermeticism, Qabalah, Astrology, Geomancy, Theurgy, and Alchemy. **A key principle of the Golden Dawn is the belief in the ultimate power of human potential, symbolized by the adage**: "As above, so below." This order focuses on the advancement of human consciousness, spiritual growth, and union with the higher self or the divine. The Golden Dawn teachings aim to foster individual empowerment and a greater understanding of natural laws.
 
 The Hermetic Order of the Silver Star
 

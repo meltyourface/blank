@@ -42,27 +42,27 @@ The creation and application of these scents can be transformative, with their a
 
 The art of creating ritual perfumes involves blending different aromatics and carrier oils to produce a compound with a specific intention. **Here are some essential steps for crafting your own ritual perfume**:
 
-1. ****Choose high-quality ingredients****: Procure essential oils, absolutes, or extracts derived from reputable sources to ensure the potency and purity of your final product.
+1. **Choose high-quality ingredients**: Procure essential oils, absolutes, or extracts derived from reputable sources to ensure the potency and purity of your final product.
 
-2. ****Determine your intention****: Consider the desired outcome or purpose of your ritual perfume. This intention will guide your selection of ingredients.
+2. **Determine your intention**: Consider the desired outcome or purpose of your ritual perfume. This intention will guide your selection of ingredients.
 
-3. ****Combine the ingredients****: Blend your chosen ingredients in a suitable carrier oil, such as jojoba or almond oil. The ratio of essential oils to the carrier oil will generally depend on the desired strength of the final product. A common ratio is 10% essential oil to 90% carrier oil.
+3. **Combine the ingredients**: Blend your chosen ingredients in a suitable carrier oil, such as jojoba or almond oil. The ratio of essential oils to the carrier oil will generally depend on the desired strength of the final product. A common ratio is 10% essential oil to 90% carrier oil.
 
-4. ****Blend mindfully****: As you mix the ingredients, focus on your intention to infuse your blend with your desired energy.
+4. **Blend mindfully**: As you mix the ingredients, focus on your intention to infuse your blend with your desired energy.
 
-5. ****Store and age appropriately****: Keep your ritual perfume in a dark glass bottle and store it in a cool, dry place. Allow it to age for at least four weeks to attain its full potency.
+5. **Store and age appropriately**: Keep your ritual perfume in a dark glass bottle and store it in a cool, dry place. Allow it to age for at least four weeks to attain its full potency.
 
 ### IV. Tips for Selecting and Using the Right Scents
 
 To enhance your practice, bear these tips in mind while composing your ritual perfumes:
 
-1. ****Learn the meanings of different scents****: Study the correspondences and properties various aromatics possess in order to choose those that align with your intentions best.
+1. **Learn the meanings of different scents**: Study the correspondences and properties various aromatics possess in order to choose those that align with your intentions best.
 
-2. ****Trust your senses****: Pay attention to your intuition and emotional connection to a particular fragrance, as this may offer guidance on its suitability for your purposes.
+2. **Trust your senses**: Pay attention to your intuition and emotional connection to a particular fragrance, as this may offer guidance on its suitability for your purposes.
 
-3. ****Test for sensitivity****: Before applying any new perfume to your skin, perform a small patch test to ensure an absence of any adverse reactions.
+3. **Test for sensitivity**: Before applying any new perfume to your skin, perform a small patch test to ensure an absence of any adverse reactions.
 
-4. ****Choose the method of application****: Ritual perfumes can be used in numerous ways, including anointing oneself or objects, diffusing into space during a ceremony, or integrating them into cleansing baths, among others.
+4. **Choose the method of application**: Ritual perfumes can be used in numerous ways, including anointing oneself or objects, diffusing into space during a ceremony, or integrating them into cleansing baths, among others.
 
 Conclusion
 

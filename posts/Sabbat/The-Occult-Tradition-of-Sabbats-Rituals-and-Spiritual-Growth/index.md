@@ -34,17 +34,17 @@ At its core, the Sabbat is a transformative experience designed to deepen the co
 
 The rituals and practices that comprise each Sabbat vary widely depending on the specific tradition and locality. **However, certain elements are considered fundamental to most celebrations**:
 
-1. ****Casting the Circle****: Initiation starts by casting a sacred circle, a ritual space delineating the boundary between the mundane and the spiritual realms. Participants may use a wand, athame, or their hand to draw the circle while invoking the elements and spirits to join and protect them during the ceremony.
+1. **Casting the Circle**: Initiation starts by casting a sacred circle, a ritual space delineating the boundary between the mundane and the spiritual realms. Participants may use a wand, athame, or their hand to draw the circle while invoking the elements and spirits to join and protect them during the ceremony.
 
-2. ****Calling the Quarters****: Next, the practitioner invites the guardians of the four cardinal directions (East, South, West, and North) to witness and guard the ritual. They may associate each direction with a specific element (Air, Fire, Water, and Earth), or with a totemic animal spirit. Each quarter is called in turn, starting in the East and moving clockwise around the circle.
+2. **Calling the Quarters**: Next, the practitioner invites the guardians of the four cardinal directions (East, South, West, and North) to witness and guard the ritual. They may associate each direction with a specific element (Air, Fire, Water, and Earth), or with a totemic animal spirit. Each quarter is called in turn, starting in the East and moving clockwise around the circle.
 
-3. ****Invoking the God and Goddess****: The practitioner invites the god and goddess to join the ritual, paying homage to their qualities, and expressing gratitude for their presence. This may be personified by specific deities, or as the overarching principle of masculine and feminine energies in the universe.
+3. **Invoking the God and Goddess**: The practitioner invites the god and goddess to join the ritual, paying homage to their qualities, and expressing gratitude for their presence. This may be personified by specific deities, or as the overarching principle of masculine and feminine energies in the universe.
 
-4. ****Celebration and Commemoration****: Each Sabbat is associated with its own unique customs, such as dances, songs, plays, storytelling, feasts, and more. The specific celebrations vary, yet they always align with the seasonal and spiritual themes of the given Sabbat. 
+4. **Celebration and Commemoration**: Each Sabbat is associated with its own unique customs, such as dances, songs, plays, storytelling, feasts, and more. The specific celebrations vary, yet they always align with the seasonal and spiritual themes of the given Sabbat. 
 
-5. ****Offering and Feasting****: The practitioner shares food and drink, symbolically nourishing both the spiritual entities and the participants. This act of communion reinforces the connection between each person present, as well as with the divine forces and nature.
+5. **Offering and Feasting**: The practitioner shares food and drink, symbolically nourishing both the spiritual entities and the participants. This act of communion reinforces the connection between each person present, as well as with the divine forces and nature.
 
-6. ****Closing the Circle****: At the ritual's conclusion, the initiate bids farewell to the deities and guardians, then releases the circle's energy, allowing the participants to return to the physical realm, accompanied by the wisdom and enrichment acquired during the Sabbat.
+6. **Closing the Circle**: At the ritual's conclusion, the initiate bids farewell to the deities and guardians, then releases the circle's energy, allowing the participants to return to the physical realm, accompanied by the wisdom and enrichment acquired during the Sabbat.
 
 ### IV. Spiritual Growth through Participation in Sabbat
 

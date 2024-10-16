@@ -26,13 +26,13 @@ Preparing the Sacred Space:
 
 1. Choose an isolated location surrounded by natural elements—preferably a dense forest or a cave. Ensure no traces of external influences or energies are present.
 
-2. ****Cleanse the area using an herbal smoke bath of sage, lavender, and wormwood. As the smoke fills the space, recite the ancient incantation****: "Cabrik-esh-ra vanok-kar-lash-tav."
+2. **Cleanse the area using an herbal smoke bath of sage, lavender, and wormwood. As the smoke fills the space, recite the ancient incantation**: "Cabrik-esh-ra vanok-kar-lash-tav."
 
-3. ****Create a circle of protection by drawing the eight-pointed star, the emblem of the Society of Eight, in white sand or chalk. Each point symbolizes a force****: earth, air, water, fire, light, darkness, life and death. At the center, draw the secret sigil of the Society representing the equilibrium and interconnectedness of these forces.
+3. **Create a circle of protection by drawing the eight-pointed star, the emblem of the Society of Eight, in white sand or chalk. Each point symbolizes a force**: earth, air, water, fire, light, darkness, life and death. At the center, draw the secret sigil of the Society representing the equilibrium and interconnectedness of these forces.
 
 Gathering the Ceremonial Artifacts:
 
-4. ****Acquire five candles in unique colors that the Society associates with spiritual elements****: indigo (enlightenment), gold (willpower), silver (intuition), emerald green (life force), and crimson (protection).
+4. **Acquire five candles in unique colors that the Society associates with spiritual elements**: indigo (enlightenment), gold (willpower), silver (intuition), emerald green (life force), and crimson (protection).
 
 5. Collect arcane artifacts connected to the influential member, such as their personal emblem or their favorite written works. Place these items in the circle to create a compelling connection.
 
@@ -42,9 +42,9 @@ Performing the Ritual:
 
 7. At midnight, under the full moon, enter the circle. Meditate in silence for fifteen minutes to attune with the natural forces and heighten your consciousness.
 
-8. ****Light the candles counterclockwise, starting with indigo and reciting this incantation after lighting each one****: "Zem-tara reb-voc reshen-vaz-iel sol-amon."
+8. **Light the candles counterclockwise, starting with indigo and reciting this incantation after lighting each one**: "Zem-tara reb-voc reshen-vaz-iel sol-amon."
 
-9. ****Allow the energy to embody you and speak the name of the prominent and influential member three times, followed by this ancient chant****: "Fra-den-kal skov-kem inz-wen rel-tazik tug en-aval mor-chak."
+9. **Allow the energy to embody you and speak the name of the prominent and influential member three times, followed by this ancient chant**: "Fra-den-kal skov-kem inz-wen rel-tazik tug en-aval mor-chak."
 
 10. Take a sip from the ritual chalice, letting the elixir amplify the spiritual connection, and pour the remaining elixir onto the sigil. Allow its powers to summon the ethereal essence of the intended spirit.
 

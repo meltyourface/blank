@@ -23,7 +23,7 @@ excerpt: >
 
 ## The Ritual of the Archetypal Path
 
-Goal: To harness the power of Tarot Major Arcana archetypes in daily activities and spiritual growth.
+**Goal**: To harness the power of Tarot Major Arcana archetypes in daily activities and spiritual growth.
 
 Instructions:
 

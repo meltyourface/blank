@@ -29,11 +29,11 @@ Ritual 1: The Invocation of the Guardian Deity
 
 Guardian deities act as our protectors and can help us banish harmful spirits. This ritual invokes the Guardian deity with an offering and recitation of sacred texts.
 
-1. ****Prepare the area****: Cleanse the space using a smudge stick of sage or a mixture of salt and water.
+1. **Prepare the area**: Cleanse the space using a smudge stick of sage or a mixture of salt and water.
 
-2. ****Create a sacred circle****: Utilize a compass to draw a circle large enough for you to sit in, marking the four cardinal directions.
+2. **Create a sacred circle**: Utilize a compass to draw a circle large enough for you to sit in, marking the four cardinal directions.
 
-3. ****Place the following items around you within the circle****: 
+3. **Place the following items around you within the circle**: 
    - A white or silver candle in the east (for illumination and purity)
    - A thurible containing frankincense or myrrh in the south (for protection)
    - A bowl of saltwater in the west (for cleansing)

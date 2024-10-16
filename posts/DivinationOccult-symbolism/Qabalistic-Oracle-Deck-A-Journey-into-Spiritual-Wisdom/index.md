@@ -22,9 +22,9 @@ excerpt: >
 ---
 To create a distinctive and comprehensive oracle deck based on the Qabalah, we will use the Ten Sephirot and the 22 Paths as the foundation of our design. Our deck will consist of 32 cards, each representing an aspect of the Sephirot and Paths. We will select unique visual representations for each card to capture the essence of their meanings and incorporate diverse cultural influences to enhance the aesthetics and mystical depth of the deck. Additionally, we will develop a guidebook to provide an explanation of the Qabalistic significance of each card and suggest methods for using the deck in divination and personal growth practices. The following is a summary of our proposed oracle deck.
 
-Oracle Deck: Qabalistic Journey
+**Oracle Deck**: Qabalistic Journey
 
-1. ****Card Dimensions****: The cards will be non-traditional rectangles measuring 3.25" x 5.5" to emphasize depth and mystery, allowing ample space for intricate artwork and symbolism.
+1. **Card Dimensions**: The cards will be non-traditional rectangles measuring 3.25" x 5.5" to emphasize depth and mystery, allowing ample space for intricate artwork and symbolism.
 
 **Cards**:
 

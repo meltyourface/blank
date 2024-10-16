@@ -55,14 +55,14 @@ The following are some common practices that a student of diabolic Gnostic ritua
 
 **Purification**: Before engaging in a diabolic Gnostic ritual, a practitioner must purify their body, mind, and spirit to create a clean foundation for their magical work.
 
-Setting the stage: Create a sacred space for the ritual, choosing an altar with representations of the invoked entities and Santa Muerte, along with any other offerings or tools needed for the working.
+**Setting the stage**: Create a sacred space for the ritual, choosing an altar with representations of the invoked entities and Santa Muerte, along with any other offerings or tools needed for the working.
 
 **Invocation**: The practitioner must intone the invocations, mantras, or prayers that connect them with the invoked entities and the energies of Santa Muerte.
 
-Engaging with the energies: During the ritual, the practitioner may perform acts of devotion, such as burning incense, offering food, or making proclamations of loyalty and commitment to the invoked forces.
+**Engaging with the energies**: During the ritual, the practitioner may perform acts of devotion, such as burning incense, offering food, or making proclamations of loyalty and commitment to the invoked forces.
 
-Sealing the pact: If a pact is involved, the practitioner must seal the agreement with the invoked dark entities by some form of ritual action, such as signing a parchment with their own blood.
+**Sealing the pact**: If a pact is involved, the practitioner must seal the agreement with the invoked dark entities by some form of ritual action, such as signing a parchment with their own blood.
 
-Closing of the ritual: To complete the diabolic Gnostic ritual, the practitioner should thank the invoked entities and Santa Muerte for their presence, then formally close the ritual by ritually extinguishing candles and clearing the sacred space.
+**Closing of the ritual**: To complete the diabolic Gnostic ritual, the practitioner should thank the invoked entities and Santa Muerte for their presence, then formally close the ritual by ritually extinguishing candles and clearing the sacred space.
 
 In conclusion, the study of diabolic Gnostic rituals within the Santa Muerte tradition offers a fascinating and challenging approach to understanding the darker aspects of occult work. Through the exploration of history, key concepts, symbolism, and ritual practices, students can gain a deeper understanding of this powerful and secretive tradition and the insights it can provide on the nature of existence.

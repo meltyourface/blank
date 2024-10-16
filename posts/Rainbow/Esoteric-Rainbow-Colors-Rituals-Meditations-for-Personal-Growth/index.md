@@ -28,7 +28,7 @@ The seven colors of the rainbow have long held a significant place in the realm 
 
 **Red**: Vibrancy and Vitality
 
-Spiritual Associations: Red represents the life force, physical energy, and raw passion. It is associated with the base or root chakra (Muladhara), grounding the individual to the Earth and maintaining a sense of stability and security.
+**Spiritual Associations**: Red represents the life force, physical energy, and raw passion. It is associated with the base or root chakra (Muladhara), grounding the individual to the Earth and maintaining a sense of stability and security.
 
 Rituals & Meditations: To harness the energy of red, perform a grounding ritual by envisioning roots extending from your feet deep into the Earth. Meditate on the flow of energy between yourself and the Earth, strengthening your bond to the planet and igniting your inner fire.
 
@@ -36,7 +36,7 @@ Rituals & Meditations: To harness the energy of red, perform a grounding ritual 
 
 **Orange**: Sensuality and Creativity
 
-Spiritual Associations: Orange is linked to sensuality, creativity, and emotional expression. It corresponds with the sacral chakra (Svadhishthana) and governs the flow of creative and sexual energies within the body.
+**Spiritual Associations**: Orange is linked to sensuality, creativity, and emotional expression. It corresponds with the sacral chakra (Svadhishthana) and governs the flow of creative and sexual energies within the body.
 
 Rituals & Meditations: To harness the energy of orange, immerse yourself in activities promoting creativity or indulge in sensory experiences. Meditate on the sacral chakra area and envision a swirling orange sphere, consciously directing your imagination to conjure images or ideas.
 
@@ -44,7 +44,7 @@ Rituals & Meditations: To harness the energy of orange, immerse yourself in acti
 
 **Yellow**: Willpower and Intelligence
 
-Spiritual Associations: Yellow is symbolic of willpower, intellect, and personal power. It resonates with the solar plexus chakra (Manipura) and inspires confidence and decisiveness.
+**Spiritual Associations**: Yellow is symbolic of willpower, intellect, and personal power. It resonates with the solar plexus chakra (Manipura) and inspires confidence and decisiveness.
 
 Rituals & Meditations: To tap into yellow energy, engage in self-affirming practices to bolster self-esteem and determination. Meditate on the solar plexus chakra, fusing it with a warm, yellow glow to generate a sense of personal strength.
 
@@ -52,7 +52,7 @@ Rituals & Meditations: To tap into yellow energy, engage in self-affirming pract
 
 **Green**: Love and Healing
 
-Spiritual Associations: Green is connected to love, compassion, and healing. This color corresponds with the heart chakra (Anahata) and promotes emotional growth, well-being, and empathy.
+**Spiritual Associations**: Green is connected to love, compassion, and healing. This color corresponds with the heart chakra (Anahata) and promotes emotional growth, well-being, and empathy.
 
 Rituals & Meditations: To harness green energy, engage in acts of kindness and self-care. Meditate on the heart chakra, envisioning a radiant green light connecting you to all living beings, fostering compassion and unity.
 
@@ -60,7 +60,7 @@ Rituals & Meditations: To harness green energy, engage in acts of kindness and s
 
 **Blue**: Communication and Expression
 
-Spiritual Associations: Blue represents open communication, self-expression, and truth. It is connected to the throat chakra (Vishuddha) and encourages honest, assertive communication.
+**Spiritual Associations**: Blue represents open communication, self-expression, and truth. It is connected to the throat chakra (Vishuddha) and encourages honest, assertive communication.
 
 Rituals & Meditations: To channel blue energy, speak your truth assertively and without fear. Meditate on the throat chakra, envisioning a bright blue light that facilitates clear, authentic communication.
 
@@ -68,7 +68,7 @@ Rituals & Meditations: To channel blue energy, speak your truth assertively and 
 
 **Indigo**: Intuition and Psychic Abilities
 
-Spiritual Associations: Indigo is linked to intuition, psychic abilities, and spiritual insight. It resonates with the third eye chakra (Ajna) and elevates consciousness and inner wisdom.
+**Spiritual Associations**: Indigo is linked to intuition, psychic abilities, and spiritual insight. It resonates with the third eye chakra (Ajna) and elevates consciousness and inner wisdom.
 
 Rituals & Meditations: To harness indigo's energy, engage in practices that heighten intuition, such as divination or journaling. Meditate on the third eye chakra, envisioning an indigo light that guides your intuitive explorations.
 
@@ -76,7 +76,7 @@ Rituals & Meditations: To harness indigo's energy, engage in practices that heig
 
 **Violet**: Spirituality and Purification
 
-Spiritual Associations: Violet symbolizes spirituality, transformative energy, and purification. Associated with the crown chakra (Sahasrara), it connects individuals to the divine and universal consciousness.
+**Spiritual Associations**: Violet symbolizes spirituality, transformative energy, and purification. Associated with the crown chakra (Sahasrara), it connects individuals to the divine and universal consciousness.
 
 Rituals & Meditations: To tap into violet energy, deepen your spiritual practice through prayer, meditation, or studying sacred texts. Meditate on the crown chakra, envisioning a luminous violet light that extends upward, uniting you with the divine.
 

@@ -33,9 +33,9 @@ Sigils are mystical symbols imbued with the power of intention. By creating and 
 
 Common symbols found in Campaigning include:
 
-1. ****The Eye of Providence****: Signifying divine watchfulness and protection, this symbol is particularly potent in Campaigns aiming to attract spiritual guidance or protection from negative influences.
-2. ****The Pentacle****: A five-pointed star enclosed within a circle, representing the four elements (earth, water, air, fire), along with the spirit. This symbol is often used in Campaigning involving harmony with nature or elemental energy manipulations.
-3. ****The Ouroboros****: Depicting a serpent eating its tail, this symbol represents the cyclical nature of life and the principle of eternal return. Campaigns utilizing the Ouroboros may focus on rebirth, renewal, or transformation.
+1. **The Eye of Providence**: Signifying divine watchfulness and protection, this symbol is particularly potent in Campaigns aiming to attract spiritual guidance or protection from negative influences.
+2. **The Pentacle**: A five-pointed star enclosed within a circle, representing the four elements (earth, water, air, fire), along with the spirit. This symbol is often used in Campaigning involving harmony with nature or elemental energy manipulations.
+3. **The Ouroboros**: Depicting a serpent eating its tail, this symbol represents the cyclical nature of life and the principle of eternal return. Campaigns utilizing the Ouroboros may focus on rebirth, renewal, or transformation.
 
 B. Sacred Geometry
 
@@ -61,17 +61,17 @@ A. Ritual Design
 
 Crafting a powerful Campaign requires intentionality in the design of the ritual itself. **Essential elements of ritual design include**:
 
-1. ****Creating a sacred space****: Designate a specific area for conducting rituals, cleansing it both physically and energetically to maintain an environment conducive to your work.
-2. ****Choosing symbols and tools****: Select symbols, sigils, crystals, candles, and other tools to align with your energy and intention.
-3. ****Timing****: Align your Campaign with relevant lunar phases, astrological alignments, or other significant cosmic events to harness their corresponding elemental energies.
+1. **Creating a sacred space**: Designate a specific area for conducting rituals, cleansing it both physically and energetically to maintain an environment conducive to your work.
+2. **Choosing symbols and tools**: Select symbols, sigils, crystals, candles, and other tools to align with your energy and intention.
+3. **Timing**: Align your Campaign with relevant lunar phases, astrological alignments, or other significant cosmic events to harness their corresponding elemental energies.
 
 B. Energy Manipulation
 
 Effectively channeling and directing energy is essential in the practice of Campaigning. **Techniques for harnessing energy include**:
 
-1. ****Breathwork****: Utilize specific breathing techniques to cultivate inner energy and increase vibrational frequency.
-2. ****Visualization****: Focus on desired outcomes, creating vivid mental images rendered in intricate detail and imbued with intention.
-3. ****Chanting and Invocations****: Use words, phrases, or sounds that resonate with the energy you seek to control or manifest, reciting them in cadence to synchronize your frequency.
+1. **Breathwork**: Utilize specific breathing techniques to cultivate inner energy and increase vibrational frequency.
+2. **Visualization**: Focus on desired outcomes, creating vivid mental images rendered in intricate detail and imbued with intention.
+3. **Chanting and Invocations**: Use words, phrases, or sounds that resonate with the energy you seek to control or manifest, reciting them in cadence to synchronize your frequency.
 
 C. Campaign Implementation
 

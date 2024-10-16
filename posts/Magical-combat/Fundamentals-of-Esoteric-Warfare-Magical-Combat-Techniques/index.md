@@ -21,7 +21,7 @@ excerpt: Generate a brief lesson about the fundamental concepts, principles, and
 ---
 ## Chapter 6: Foundations of Magical Combat
 
-Introduction: The Essentials of Magical Combat
+**Introduction**: The Essentials of Magical Combat
 
 Magical combat is an essential aspect of the esoteric and occult arts. It has played a crucial role in multiple historical events throughout the ages. In this chapter, we will provide an overview of the core concepts, principles, and techniques involved in magical combat. Our aim is to provide a strong foundation for students to develop and hone their skills in this vital area. We shall delve into key aspects such as preparation, offensive and defensive spells, and mental readiness.
 

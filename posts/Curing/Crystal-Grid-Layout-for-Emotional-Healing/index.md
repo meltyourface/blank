@@ -22,7 +22,7 @@ excerpt: Design a comprehensive crystal grid for emotional healing, specifically
 
 ## Crystal Grid for Emotional Healing
 
-Objective: To design a comprehensive crystal grid for emotional healing that addresses a wide range of emotions such as anxiety, grief, and anger. The grid will incorporate healing crystals, sacred geometry patterns, and a suitable focal point for maximizing energy flow.
+**Objective**: To design a comprehensive crystal grid for emotional healing that addresses a wide range of emotions such as anxiety, grief, and anger. The grid will incorporate healing crystals, sacred geometry patterns, and a suitable focal point for maximizing energy flow.
 
 Materials:
 

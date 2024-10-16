@@ -28,11 +28,11 @@ Assign each of the Sixteen Eyes of the Goddess Supreme to a specific aspect of t
 
 Showcase the connection and interactions between the Sixteen Eyes and the various sabbats and seasonal fluctuations. **For each sabbat, create a detailed depiction of how the relevant Eye influences the event, with elements such as invoking blessings, revealing secrets, or enhancing crop growth. Here is an example**:
 
-Sabbat: Imbolc
+**Sabbat**: Imbolc
 
-Eye: Healing
+**Eye**: Healing
 
-Depiction: A radiant Eye encourages the snow to recede, allows new growth to emerge, and oversees the healing of winter-worn land and its inhabitants in anticipation of spring.
+**Depiction**: A radiant Eye encourages the snow to recede, allows new growth to emerge, and oversees the healing of winter-worn land and its inhabitants in anticipation of spring.
 **Step 4**: Symbolic Imagery
 
 Incorporate additional symbolic imagery to enhance the viewer's understanding and connection to the narrative. Utilize colors, animals, plants, and other symbols that have significance in the esoteric tradition. For instance, incorporate the symbol of the snake as a representation of transformation in conjunction with the Eye of Regeneration for the sabbat of Beltane. 

@@ -22,7 +22,7 @@ excerpt: Write a brief but detailed lesson that focuses on the occult topic of "
 
 ## The Rites of Possession: Origins, Principles, and Applications
 
-Lesson Objective: To provide a comprehensive understanding of The Rites of Possession, from its origins to practical applications, while emphasizing the potential risks and necessary precautions.
+**Lesson Objective**: To provide a comprehensive understanding of The Rites of Possession, from its origins to practical applications, while emphasizing the potential risks and necessary precautions.
 
 ### I. Origins of The Rites of Possession
 

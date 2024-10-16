@@ -22,7 +22,7 @@ excerpt: >
 ---
 Deity: Thoth, God of Knowledge and Wisdom
 
-Title: Hymn to the Sacred Ibis
+**Title**: Hymn to the Sacred Ibis
 
 ### I. Invocation
 

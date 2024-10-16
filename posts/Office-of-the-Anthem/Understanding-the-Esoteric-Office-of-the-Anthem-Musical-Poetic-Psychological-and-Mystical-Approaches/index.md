@@ -24,13 +24,13 @@ Introduction
 
 The Office of the Anthem is a concept within esotericism and occultism that refers to the combination of musical and poetic expressions used to connect with and understand hidden, sacred knowledge. In traditional esotericism, the emphasis is on the symbolic, ritualistic, and artistic elements of the Anthem, while in modern occultism, there is a stronger focus on psychological and mystical interpretations.
 
-Traditional Esotericism: Musical and Poetic Aspects
+**Traditional Esotericism**: Musical and Poetic Aspects
 
 In traditional esotericism, the musical and poetic aspects of the Office of the Anthem serve as a bridge to connect human consciousness with divine wisdom. The sacred hymns represent eternal truths conveyed through symbolic language, allegory, and metaphor. 
 
 The importance of music within this context lies primarily in its ability to trigger emotions and create a resonant atmosphere, sensibly aligning with the spiritual plane. The precise selection of tones, rhythms, and melodies invokes a particular sensory experience that is both personal and transcendent. The poetic aspects, on the other hand, stimulate the intellect, introducing complex and symbolic images that challenge the initiate to decipher the hidden meanings and discover their own truth.
 
-Modern Occultism: Psychological and Mystical Interpretations
+**Modern Occultism**: Psychological and Mystical Interpretations
 
 In contrast, modern occultism tends to emphasize the psychological and mystical dimensions of the Office of the Anthem. Through this lens, sacred hymns are viewed as means of accessing the subconscious, unveiling repressed memories, and tapping into the esoteric wisdom that lies dormant within us.
 

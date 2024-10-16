@@ -23,7 +23,7 @@ As an AI text-based model, I am unable to physically draw or illustrate a mandal
 
 Mandala for Human Happiness:
 
-Central Theme: Interconnectedness
+**Central Theme**: Interconnectedness
 
 Begin by drawing a large circle to represent the border of the mandala, symbolizing the universe and unity of all beings.
 

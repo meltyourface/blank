@@ -44,11 +44,11 @@ Charging a talisman involves consecrating it and infusing it with the practition
 
 ### Chapter 6: Practical Examples
 
-1. ****Protection Talisman****: Made with black tourmaline or obsidian and inscribed with a protective sigil or seal of a protective deity or spiritual entity. This talisman can be charged under the waning moon with protective intentions.
+1. **Protection Talisman**: Made with black tourmaline or obsidian and inscribed with a protective sigil or seal of a protective deity or spiritual entity. This talisman can be charged under the waning moon with protective intentions.
 
-2. ****Love Talisman****: Created using rose quartz and engraved with a sigil, representing love or a symbol of Venus, the planet associated with affection and relationships. Charge this talisman during the waxing moon or on a Friday during a Venus hour.
+2. **Love Talisman**: Created using rose quartz and engraved with a sigil, representing love or a symbol of Venus, the planet associated with affection and relationships. Charge this talisman during the waxing moon or on a Friday during a Venus hour.
 
-3. ****Wealth Talisman****: A coin made of gold or another metal can serve as a wealth talisman. Inscription should include symbols of abundance, such as the sigil of Jupiter, the planet linked with growth and prosperity. This talisman can be charged during the waxing moon, particularly on a Thursday during a Jupiter hour.
+3. **Wealth Talisman**: A coin made of gold or another metal can serve as a wealth talisman. Inscription should include symbols of abundance, such as the sigil of Jupiter, the planet linked with growth and prosperity. This talisman can be charged during the waxing moon, particularly on a Thursday during a Jupiter hour.
 
 ### Chapter 7: Precautions
 

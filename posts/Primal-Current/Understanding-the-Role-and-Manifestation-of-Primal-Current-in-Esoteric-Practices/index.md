@@ -23,7 +23,7 @@ The Primal Current, as a fundamental force, forms the bedrock of occultism and i
 
 Primal Current, a mysterious and powerful force, permeates through every aspect of the occult, intertwining itself with various esoteric practices. It operates as the foundational energy or life force driving all growth, evolution, and transformation within the occult, similar to how the blood circulates throughout the human body. In a broader sense, the Primal Current represents the raw expression of existence, the eternal ebb and flow of the universe, which practitioners of esoteric arts seek to tap into and harness for their spiritual progression.
 
-The incorporation of the Primal Current into diverse esoteric practices can be categorized into three interconnected dimensions: historical lineage, praxis, and symbology. 
+**The incorporation of the Primal Current into diverse esoteric practices can be categorized into three interconnected dimensions**: historical lineage, praxis, and symbology. 
 
 From a historical lineage perspective, the Primal Current threads itself through ancient mysticism and spiritual teachings, spanning several civilizations, cultures, and belief systems, including but not limited to Egyptian Hermeticism, Kabbalah, Gnosticism, Indian Tantra, and Shamanism. This historical amalgamation has allowed the Primal Current to thrive within an ever-expanding web of esoteric knowledge.
 

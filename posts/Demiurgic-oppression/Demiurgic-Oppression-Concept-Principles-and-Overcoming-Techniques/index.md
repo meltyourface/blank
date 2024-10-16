@@ -30,7 +30,7 @@ The Demiurge, also known as the Yaldabaoth or Samael in some belief systems, is 
 
 ### Chapter 2: The Key Principles of Demiurgic Oppression
 
-Demiurgic oppression operates on three interconnected planes: the ontological, the archetypal, and the personal. 
+**Demiurgic oppression operates on three interconnected planes**: the ontological, the archetypal, and the personal. 
 
 1. Ontological Plane: The foundational principle of Demiurgic oppression is the belief that the Demiurge has created a hierarchical and imperfect reality. This hierarchy keeps the Elite or Adepts who serve the Demiurge on top and oppresses others who are less spiritually attuned.
 

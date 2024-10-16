@@ -43,7 +43,7 @@ In the context of the occult, the Eucharist can be viewed as an alchemical proce
 
 While the structure of the Eucharist has remained relatively consistent across Christian traditions, various esoteric practices have evolved in different spiritual communities. Some of these practices involve contemplative prayer, meditation, and visualization techniques designed to help participants engage in communion with the divine.
 
-Students seeking to deepen their understanding of the Eucharist's significance within the occult are encouraged to engage in disciplines that develop spiritual sensitivity. ****Such disciplines may include but are not limited to****: meditation, breath control, and energy work. By refining one's spiritual senses, the student may gain a more profound connection to the divine during the Eucharist and comprehend the transformative power inherent in the ritual.
+Students seeking to deepen their understanding of the Eucharist's significance within the occult are encouraged to engage in disciplines that develop spiritual sensitivity. **Such disciplines may include but are not limited to**: meditation, breath control, and energy work. By refining one's spiritual senses, the student may gain a more profound connection to the divine during the Eucharist and comprehend the transformative power inherent in the ritual.
 
 ### IV. Connections to Other Spiritual Traditions
 

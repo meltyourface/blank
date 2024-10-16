@@ -45,7 +45,7 @@ Altered states of consciousness can manifest in various forms, ranging from deep
 
 Esoteric traditions are rich in symbolism, serving as a language through which spiritual truths and wisdom can be communicated. This symbolic language transcends traditional spoken or written language and speaks directly to the psyche, allowing for a more profound understanding of cosmic truths and one's place in the universe.
 
-Symbols found in esoteric traditions often contain multiple layers of meaning: a literal, symbolic, and spiritual interpretation. The study of these symbols allows the individual to access hidden knowledge, connect with their inner wisdom, and attain a higher spiritual understanding.
+**Symbols found in esoteric traditions often contain multiple layers of meaning**: a literal, symbolic, and spiritual interpretation. The study of these symbols allows the individual to access hidden knowledge, connect with their inner wisdom, and attain a higher spiritual understanding.
 
 **4. The unveiling of hidden knowledge**
 

@@ -30,7 +30,7 @@ Spagyrical tinctures, derived from the ancient and arcane tradition of Spagyrics
 
 The practice of Spagyrics traces its origins to the ancient Egyptians and Greek philosophers like Democritus and Plato, who sought to uncover the secrets of the cosmos by studying its constituent elements. This pursuit formed the foundation for alchemical exploration in the Western world, leading to the development of Spagyrical tinctures by renowned alchemists such as Paracelsus in the 16th century.
 
-Paracelsus believed that all matter was composed of three foundational principles: sulfur (the soul), mercury (the spirit), and salt (the body). These principles would later become the cornerstone of Spagyrics, shaping the essential techniques and objectives within the practice.
+**Paracelsus believed that all matter was composed of three foundational principles**: sulfur (the soul), mercury (the spirit), and salt (the body). These principles would later become the cornerstone of Spagyrics, shaping the essential techniques and objectives within the practice.
 
 ### III. Essential Tools and Ingredients
 
@@ -54,7 +54,7 @@ As with any occult practice, safety is of the utmost importance. When working wi
 
 ### V. Crafting Spagyrical Tinctures
 
-The process of creating a Spagyrical tincture can be broken down into three primary phases: separation, purification, and reunification.
+**The process of creating a Spagyrical tincture can be broken down into three primary phases**: separation, purification, and reunification.
 
 1. Separation: Begin by gently crushing and macerating the chosen material with a mortar and pestle. Place it in a covered glass container and mix it with a suitable solvent such as distilled water or alcohol. Allow the mixture to ferment for a period, resulting in a separation of its constituent elements.
 2. Purification: Using the alembic or retort, carefully distill the liquid component (the spirit) to obtain the essential oil or volatile essence of the material. Separately, calcinate the remaining solid residue (the body) until it becomes a fine white ash, representing its purified form. This ash contains the fixed mineral salts of the material, also known as the "salt" principle.

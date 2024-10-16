@@ -52,7 +52,7 @@ Roles of the Priest, Priestess, and Participants
 
 4. Participants: Individuals who participate in the Gnostic Mass play a crucial role in the creation of the ritual's spiritual energy. Through their active involvement and intention, they contribute to the unfolding of the ceremony and its transformative outcomes.
 
-Eucharist Ceremony: Significance and Symbolism
+**Eucharist Ceremony**: Significance and Symbolism
 
 At the heart of the Gnostic Mass lies the Eucharist ceremony, which serves as a focal point for understanding and experiencing the divine. By consuming the consecrated elements (cake and wine), participants metaphorically internalize the spiritual power imbued in these objects. The act symbolizes the individual's recognition and attunement to their divine nature, signifying both communion with the godhead and the realization of spiritual potential.
 

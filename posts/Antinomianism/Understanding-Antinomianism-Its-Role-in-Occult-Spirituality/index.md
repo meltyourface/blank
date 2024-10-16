@@ -32,11 +32,11 @@ Core Principles
 
 Antinomianism, in the context of occult and esoteric studies, holds a few core principles which can be distinguished:
 
-1. ****Transcending the Law****: Antinomianism claims that an individual practitioner should not be merely bound by societal rules, religious doctrines, or moral codes. Instead, Antinomians assert that one can transcend these limitations through direct, personal experience and spiritual growth. This principle aligns with the ultimate goal of many occult practices, which is to attain spiritual illumination and a higher understanding of the universe.
+1. **Transcending the Law**: Antinomianism claims that an individual practitioner should not be merely bound by societal rules, religious doctrines, or moral codes. Instead, Antinomians assert that one can transcend these limitations through direct, personal experience and spiritual growth. This principle aligns with the ultimate goal of many occult practices, which is to attain spiritual illumination and a higher understanding of the universe.
 
-2. ****Individual Empowerment****: In contrast to more hierarchical and structured religious systems, Antinomianism emphasizes the importance of the individual's personal quest for knowledge and self-mastery. Practitioners are encouraged to develop a deep, intuitive understanding of their own spiritual nature, often through the study and application of magical practices, rather than relying on external authorities or doctrines.
+2. **Individual Empowerment**: In contrast to more hierarchical and structured religious systems, Antinomianism emphasizes the importance of the individual's personal quest for knowledge and self-mastery. Practitioners are encouraged to develop a deep, intuitive understanding of their own spiritual nature, often through the study and application of magical practices, rather than relying on external authorities or doctrines.
 
-3. ****Challenging Convention****: Antinomian practitioners often adopt unconventional, heterodox practices, rituals, and beliefs, intentionally breaking traditional taboos and testing the boundaries of morality. This approach serves as a means of stripping away illusions, challenging societal norms, and asserting individual autonomy over one's spiritual journey.
+3. **Challenging Convention**: Antinomian practitioners often adopt unconventional, heterodox practices, rituals, and beliefs, intentionally breaking traditional taboos and testing the boundaries of morality. This approach serves as a means of stripping away illusions, challenging societal norms, and asserting individual autonomy over one's spiritual journey.
 
 Role of Antinomianism in a Practitioner's Path
 
@@ -46,9 +46,9 @@ Examples of Antinomian Practices
 
 Occult and esoteric practices that embody Antinomian principles are often characterized by their subversion of conventional morality and symbolism. **Examples include**:
 
-1. ****Left-Hand Path Traditions****: The Left-Hand Path, found in both Eastern and Western esoteric traditions, emphasizes personal power and individual spiritual growth over adherence to external rules. Practices from these traditions, including certain forms of tantric yoga and Western ceremonial magic, often incorporate transgressive elements to break with established norms and foster spiritual self-reliance.
+1. **Left-Hand Path Traditions**: The Left-Hand Path, found in both Eastern and Western esoteric traditions, emphasizes personal power and individual spiritual growth over adherence to external rules. Practices from these traditions, including certain forms of tantric yoga and Western ceremonial magic, often incorporate transgressive elements to break with established norms and foster spiritual self-reliance.
 
-2. ****Chaos Magic****: As a modern practice emphasizing individuality and adaptability, chaos magic reflects key Antinomian principles. Practitioners use a wide variety of magical techniques, often explicitly breaking with traditional structures in favor of highly personalized approaches that prioritize practical results and individual growth.
+2. **Chaos Magic**: As a modern practice emphasizing individuality and adaptability, chaos magic reflects key Antinomian principles. Practitioners use a wide variety of magical techniques, often explicitly breaking with traditional structures in favor of highly personalized approaches that prioritize practical results and individual growth.
 
 Addressing Misconceptions
 

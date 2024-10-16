@@ -25,7 +25,7 @@ To answer this knowledge challenge, we will begin by addressing each aspect indi
 
 **Kalfou**: Kalfou, sometimes spelled Kalfu or Carrefour, is the aspect that represents the master of crossroads and decision-making. It is connected with unruly and chaotic forces. Kalfou symbolizes the meeting point of various forces, and can be linked to initiation and the beginning of an individual's spiritual journey. In ancient esoteric practices, Kalfou was associated with choices and their consequences.
 
-Papa Legba: Papa Legba is the aspect representing communication and opening the door to the spirit world. He is the gatekeeper, allowing an individual to interact with and understand the workings of the supernatural realm. Papa Legba is a trickster figure, known for his cunning and wit.
+**Papa Legba**: Papa Legba is the aspect representing communication and opening the door to the spirit world. He is the gatekeeper, allowing an individual to interact with and understand the workings of the supernatural realm. Papa Legba is a trickster figure, known for his cunning and wit.
 
 **Ogoun**: Ogoun embodies the aspects of power, strength, and determination. He is considered a warrior, representing iron and the force necessary to forge ahead on one's spiritual path. In ancient esoteric practices, Ogoun was invoked for protection and courage in the face of adversity.
 
@@ -33,7 +33,7 @@ Papa Legba: Papa Legba is the aspect representing communication and opening the 
 
 **Simbi**: Simbi illustrates wisdom, knowledge, and intellectual pursuit. It is connected to rivers and often symbolizes the flow of information. In esoteric history, Simbi was seen as a teacher and counselor, guiding initiates on their spiritual journey.
 
-Baron Samedi: Lastly, Baron Samedi is linked to death, resurrection, and transformation. This aspect embodies the cycle of life and the passage from one state of being to another.
+**Baron Samedi**: Lastly, Baron Samedi is linked to death, resurrection, and transformation. This aspect embodies the cycle of life and the passage from one state of being to another.
 
 For a novice seeking occult wisdom within the context of the Qubes of Kalfou, their interaction with these aspects should be approached with a combination of humility, curiosity, and determination. To first immerse themselves in these aspects and their interconnectivity, a novice should undertake the following steps:
 

@@ -23,15 +23,15 @@ As a language model AI, I cannot create visuals, but I can provide you with a de
 
 **Imagine**:
 
-Central Composition: A stylized lotus flower, symbolizing ancient Egypt, forms the central foundation of the printer's mark design. On one side of the lotus, rests an Egyptian Eye of Horus, while on the other side, an Ankh symbol is draped down. Above the flower, a beautifully crafted scarab beetle complements the array of hieroglyphic symbols.
+**Central Composition**: A stylized lotus flower, symbolizing ancient Egypt, forms the central foundation of the printer's mark design. On one side of the lotus, rests an Egyptian Eye of Horus, while on the other side, an Ankh symbol is draped down. Above the flower, a beautifully crafted scarab beetle complements the array of hieroglyphic symbols.
 
-Medieval European Heraldry: Surrounding the Egyptian motif, a symmetrical decoration in the style of medieval European heraldry frames the core composition. This frame consists of a pair of intertwined dragons, guardians of knowledge in medieval European mythology. Their tails secure a banner with serif lettering, showcasing the name of the printing house.
+**Medieval European Heraldry**: Surrounding the Egyptian motif, a symmetrical decoration in the style of medieval European heraldry frames the core composition. This frame consists of a pair of intertwined dragons, guardians of knowledge in medieval European mythology. Their tails secure a banner with serif lettering, showcasing the name of the printing house.
 
 Japanese Ukiyo-e: Above the heraldic frame, waves inspired by Japanese ukiyo-e paintings crest, providing contrast to the sharp lines of the emblem and allowing the scarab beetle to float amidst these dynamic shapes. A cherry blossom, symbolizing the fleeting beauty of printed works, appears nestled amongst these waves.
 
 **Borders**: The image is encased within a circular geometric border, reminiscent of both cartouches from ancient Egyptian art and the rondels of European heraldry, providing unity throughout the entire composition.
 
-Color Scheme: Rich Egyptian-inspired colors like gold and turquoise accent the hieroglyphs, while the European and Japanese elements are enhanced by their respective colors: deep reds for the heraldry and elegant grays with a splash of pink for the ukiyo-e components. The background for the composition consists of a deep royal blue, which harmoniously ties together the elements from each cultural period.
+**Color Scheme**: Rich Egyptian-inspired colors like gold and turquoise accent the hieroglyphs, while the European and Japanese elements are enhanced by their respective colors: deep reds for the heraldry and elegant grays with a splash of pink for the ukiyo-e components. The background for the composition consists of a deep royal blue, which harmoniously ties together the elements from each cultural period.
 
 **Typography**: Choose complementary serif font with subtle flourishes for the banner, echoing the decorative nature of medieval heraldry. Use this font for the printing house's name and any additional text, such as motto or slogan, to establish aesthetic consistency.
 

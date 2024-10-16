@@ -29,9 +29,9 @@ Intersections between Hockley's Occult Pursuits and Secret Societies:
 Hockley's interest in scrying and crystal-gazing was central to his esoteric work. This practice was closely aligned with the teachings of Rosicrucianism and other mystical traditions, which focus on rituals and symbolism designed to invoke higher states of consciousness. Hockley also delved into the realms of Kabbalah, tarot, alchemy, and astrology, drawing connections between these disciplines and the principles held by various secret societies. In his pursuit for occult knowledge, Hockley continuously corresponded with well-known figures in the occult world, such as Samuel Liddell MacGregor Mathers and A.E. Waite.
 
 Key Figures, Symbols, and Rituals Shared among Secret Societies:
-1. ****Samuel Liddell MacGregor Mathers****: An influential occultist and founding member of the Hermetic Order of the Golden Dawn, who shared Hockley's dedication to the study and dissemination of esoteric knowledge.
-2. ****A.E. Waite****: A prominent occultist, mystic, and author who maintained a close friendship with Hockley and corresponded extensively on esoteric matters.
-3. ****Sigillum Dei Aemeth****: A sacred symbol in Enochian magic, with Hockley's manuscripts indicating his interest in John Dee's work and his connection to both Rosicrucian and Freemason beliefs.
+1. **Samuel Liddell MacGregor Mathers**: An influential occultist and founding member of the Hermetic Order of the Golden Dawn, who shared Hockley's dedication to the study and dissemination of esoteric knowledge.
+2. **A.E. Waite**: A prominent occultist, mystic, and author who maintained a close friendship with Hockley and corresponded extensively on esoteric matters.
+3. **Sigillum Dei Aemeth**: A sacred symbol in Enochian magic, with Hockley's manuscripts indicating his interest in John Dee's work and his connection to both Rosicrucian and Freemason beliefs.
 
 Conflicts or Alliances:
 Despite Hockley's associations to multiple secret societies, his overarching commitment to occult study transcended any potential rivalries of the time. His work essentially served as a unifying force, fostering a sense of camaraderie among various fraternities.

@@ -23,11 +23,11 @@ excerpt: >
 To design and execute an authentic Enochian angel summoning ritual, we must begin with thorough preparation. This includes studying the Enochian language, understanding mystical symbols and their meanings, and gathering the necessary ceremonial tools. For this ritual, let us focus on summoning the powerful Enochian angel Thoa-Ta-Gamon, a guardian angel associated with divine protection and guidance.
 
 Required tools and materials:
-1. ****Enochian Circle****: A white cloth or rug inscribed with Enochian symbols to define the sacred space.
-2. ****Enochian Tablet or Sigillum Dei Aemeth****: A protective talisman specific to Thoa-Ta-Gamon, crafted from beeswax and engraved with the angel's sigil and Enochian characters.
-3. ****Ceremonial Dagger****: Also known as the "Athame," the dagger is used to trace symbols in the air and direct energy.
-4. ****Incense and censor****: Frankincense and myrrh, or preferred scents that align with our intentions.
-5. ****Candles****: Four elemental candles (earth, air, fire, water) and one central candle, preferably white or silver, to represent the divine connection.
+1. **Enochian Circle**: A white cloth or rug inscribed with Enochian symbols to define the sacred space.
+2. **Enochian Tablet or Sigillum Dei Aemeth**: A protective talisman specific to Thoa-Ta-Gamon, crafted from beeswax and engraved with the angel's sigil and Enochian characters.
+3. **Ceremonial Dagger**: Also known as the "Athame," the dagger is used to trace symbols in the air and direct energy.
+4. **Incense and censor**: Frankincense and myrrh, or preferred scents that align with our intentions.
+5. **Candles**: Four elemental candles (earth, air, fire, water) and one central candle, preferably white or silver, to represent the divine connection.
 
 Preparation process:
 1. Choose an appropriate location and time, preferably a quiet, private space during the night or early morning.

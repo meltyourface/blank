@@ -53,7 +53,7 @@ Cosmology
 
 Bon cosmology delineates an intricate, multi-layered universe that encompasses numerous realms inhabited by various sentient beings, spirits, and subtle energies. At the center of this cosmology is the concept of the five-element system, which includes earth, water, fire, air, and space. These elements make up the whole of reality and the basis of all energetic interactions.
 
-The realms of existence in Bon cosmology are classified into three spheres: the formless realm, the realm of form, and the desire realm. The formless realm is a spiritually advanced state where beings exist without material bodies, the realm of form is inhabited by deities and spirits, while the desire realm is characterized by the myriad experiences of the six classes of sentient beings, including gods, demigods, humans, animals, hungry ghosts, and hell beings.
+**The realms of existence in Bon cosmology are classified into three spheres**: the formless realm, the realm of form, and the desire realm. The formless realm is a spiritually advanced state where beings exist without material bodies, the realm of form is inhabited by deities and spirits, while the desire realm is characterized by the myriad experiences of the six classes of sentient beings, including gods, demigods, humans, animals, hungry ghosts, and hell beings.
 
 By engaging in various practices, rituals, and contemplations, Bonpos strive to understand the nature of reality and transcend the cycle of existence, ultimately attaining liberation and enlightenment.
 

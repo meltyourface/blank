@@ -20,9 +20,9 @@ description: You are a master of the esoteric, occult, Ritual tools, you complet
 excerpt: > 
   Craft an intricate sigil tailored for enhancing spiritual evolution by utilizing a designated magical alphabet, such as Theban or Enochian. Integrate corresponding symbols, numerology, and color associations for a heightened potency and a deeper connection to esoteric wisdom. Experiment with various shapes and arrangements, ultimately manifesting a complex and harmonious design that evokes both personal and collective spiritual development.
 ---
-First, we will create the intention statement for our sigil, focusing on the desire for spiritual evolution. ****We'll use the phrase****: "I enhance my spiritual evolution and connect to esoteric wisdom."
+First, we will create the intention statement for our sigil, focusing on the desire for spiritual evolution. **We'll use the phrase**: "I enhance my spiritual evolution and connect to esoteric wisdom."
 
-Now, let's remove duplicate letters and break down the remaining letters of our intention statement. ****We get****: I E H A N C M Y S P R T U L V O W D
+Now, let's remove duplicate letters and break down the remaining letters of our intention statement. **We get**: I E H A N C M Y S P R T U L V O W D
 
 Using the Enochian alphabet, we'll translate these letters accordingly:
 
@@ -66,7 +66,7 @@ M - 13
 X - 24
 B - 2
 
-Our numerology sequence is: 7, 8, 11, 1, 14, 3, 4, 12, 17, 19, 20, 21, 22, 6, 16, 13, 24, 2
+**Our numerology sequence is**: 7, 8, 11, 1, 14, 3, 4, 12, 17, 19, 20, 21, 22, 6, 16, 13, 24, 2
 
 Now, we'll assign colors to the elements based on their spiritual symbolism:
 

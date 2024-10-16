@@ -46,11 +46,11 @@ Ritual Steps:
 
 2. Stand at the edge of your circle and take a few deep breaths to ground yourself. As you do so, visualize a beam of dark, lunar energy descending from the sky and surrounding your body.
 
-3. ****Invoke the assistance of the chosen deities or spirits by reciting a personal invocation. Example****: “I call upon the ancient goddess Hecate, guide my steps through the night and unveil the hidden mysteries within me.”
+3. **Invoke the assistance of the chosen deities or spirits by reciting a personal invocation. Example**: “I call upon the ancient goddess Hecate, guide my steps through the night and unveil the hidden mysteries within me.”
 
-4. ****Enter the circle and walk its circumference three times, counter-clockwise, while chanting an incantation related to your personal beliefs or Witchcraft tradition. Example****: “In the shadows of the moon, I seek the truth that lies within. As I walk the circle round, may self-discovery abound.”
+4. **Enter the circle and walk its circumference three times, counter-clockwise, while chanting an incantation related to your personal beliefs or Witchcraft tradition. Example**: “In the shadows of the moon, I seek the truth that lies within. As I walk the circle round, may self-discovery abound.”
 
-5. ****Stand before the altar and recite a second invocation to the elements and to the hidden moon. Example****: “I call upon the powers of earth, air, fire, and water. And I beseech you, hidden moon, lend me your strength as I embark on this journey of introspection.”
+5. **Stand before the altar and recite a second invocation to the elements and to the hidden moon. Example**: “I call upon the powers of earth, air, fire, and water. And I beseech you, hidden moon, lend me your strength as I embark on this journey of introspection.”
 
 6. Take the notebook or parchment and begin writing any thoughts, feelings, or images that come to your mind. Do not censor yourself; write freely and honestly.
 
@@ -58,7 +58,7 @@ Ritual Steps:
 
 8. Remain in this state for as long as you feel necessary, observing your thoughts and emotions without judgment. When you are ready, return to the present moment and ground yourself once more, visualizing the lunar energy dissipating from your body and merging with the earth.
 
-9. ****Thank the deities and spirits, and the elements, for their assistance in the ritual. Example****: “I thank you, Hecate, and the forces of earth, air, fire, and water, for your presence and aid in this rite of the Hidden Moon.”
+9. **Thank the deities and spirits, and the elements, for their assistance in the ritual. Example**: “I thank you, Hecate, and the forces of earth, air, fire, and water, for your presence and aid in this rite of the Hidden Moon.”
 
 10. Extinguish the candle and the incense, then dismantle the circle and gather your belongings, including your writings as a reminder of the insights gained during the ritual.
 

@@ -37,11 +37,11 @@ Ritualistic Elements:
 
 **Attire**: All attendees, including the candidate, will wear traditional Masonic aprons that feature the symbols of the Master Mason degree. Officers will also wear collars reflective of their positions.
 
-Ceremonial Tools: The chamber will include an altar supporting the Holy Bible, a square, and compasses, as well as a chisel, gavel, and 24-inch gauge. Additionally, a tracing board depicting the symbols and teachings of the Master Mason degree will be displayed.
+**Ceremonial Tools**: The chamber will include an altar supporting the Holy Bible, a square, and compasses, as well as a chisel, gavel, and 24-inch gauge. Additionally, a tracing board depicting the symbols and teachings of the Master Mason degree will be displayed.
 
 **Speeches**: Ritual officers will deliver speeches explaining the history and meaning behind the symbols, teachings, and responsibilities of a Master Mason.
 
-Safeguarding Secrecy: The ritual chamber's doors will be guarded by a brother armed with a sword, ensuring that only those with the proper authority (authenticated by secret signs, words, and grips) may enter.
+**Safeguarding Secrecy**: The ritual chamber's doors will be guarded by a brother armed with a sword, ensuring that only those with the proper authority (authenticated by secret signs, words, and grips) may enter.
 
 Ritual Outline:
 

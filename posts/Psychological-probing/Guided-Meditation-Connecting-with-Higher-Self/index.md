@@ -65,6 +65,6 @@ Stage 5: Closure - Sealing Your Connection with Your Higher Self
 
 As the meditation comes to a close, slowly begin to retrace your steps along the pathway. Carry with you the insights and guidance you have received, allowing them to be integrated into your being.
 
-Take a deep breath and affirm: "I am now deeply connected with my higher self and welcome their guidance and wisdom as I continue my journey of growth and self-discovery."
+**Take a deep breath and affirm**: "I am now deeply connected with my higher self and welcome their guidance and wisdom as I continue my journey of growth and self-discovery."
 
 As you exhale, open your eyes, and return to your surroundings, feeling grounded, revitalized, and forever connected with your higher self. Remember to revisit this meditation as often as needed to strengthen and enrich your relationship with your higher self.

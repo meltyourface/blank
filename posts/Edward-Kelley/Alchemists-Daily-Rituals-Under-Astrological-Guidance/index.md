@@ -21,7 +21,7 @@ excerpt: Chronicle an intricate day in the life of the renowned occultist, Edwar
 ---
 In the dimly lit corner of his hidden laboratory, Edward Kelley awoke to the sound of burbling cauldrons and the whispering wind chimes that hung near his window. **It was 3**:42 am on June 12th, 1587 - the time of day chosen in accordance with the celestial bodies that dominated the night sky - when the alchemical bond between the astrological realm and the physical world was at its peak.
 
-Kelley, a master occultist and alchemist, rubbed the sleep from his eyes and prepared to begin his laborious daily routine. ****He must first attend to the energy that was propelling him forward in his quest for knowledge****: the spirits.
+Kelley, a master occultist and alchemist, rubbed the sleep from his eyes and prepared to begin his laborious daily routine. **He must first attend to the energy that was propelling him forward in his quest for knowledge**: the spirits.
 
 His first task was to commune with the ethereal spirits that guided his experiments. He lit a candle made of beeswax infused with the powdered bark of an ancient oak and began chanting his invocation. In hushed tones, the spirits shared their ancient wisdom regarding the moons of Jupiter, their positions impacting the potency of the experiments Kelley planned to conduct on that day.
 

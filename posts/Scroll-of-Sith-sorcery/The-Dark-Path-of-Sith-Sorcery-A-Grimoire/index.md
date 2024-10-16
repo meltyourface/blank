@@ -32,46 +32,46 @@ The base of Sith sorcery lies in its strong connection with the dark side of the
 
 The practice of Sith sorcery is built upon the following fundamental principles:
 
-1. ****Passion****: Embracing one's genuine emotions and desires, particularly those that stem from fear, anger, and hatred, is the key to unlock the potential of the dark side.
+1. **Passion**: Embracing one's genuine emotions and desires, particularly those that stem from fear, anger, and hatred, is the key to unlock the potential of the dark side.
 
-2. ****Power****: The pursuit of power and dominance is central to the Sith way of life, as power is seen as a means to satisfy one's desires and impose one's will.
+2. **Power**: The pursuit of power and dominance is central to the Sith way of life, as power is seen as a means to satisfy one's desires and impose one's will.
 
-3. ****Knowledge****: The acquisition of knowledge is essential to the growth of a Sith sorcerer. This includes not only the study of the dark side and Sith sorcery techniques but also various other mystical and scientific disciplines.
+3. **Knowledge**: The acquisition of knowledge is essential to the growth of a Sith sorcerer. This includes not only the study of the dark side and Sith sorcery techniques but also various other mystical and scientific disciplines.
 
-4. ****Betrayal****: The expectation that loyalty can shift at any moment to serve personal interests only solidifies that power is the true goal of the Sith—a fact that forces each practitioner to strive for constant self-improvement.
+4. **Betrayal**: The expectation that loyalty can shift at any moment to serve personal interests only solidifies that power is the true goal of the Sith—a fact that forces each practitioner to strive for constant self-improvement.
 
 ### Chapter III: Mastery Levels of Sith Sorcery
 
 Sith sorcery has various levels of mastery, each associated with deeper immersion into the dark side of the Force and greater command of its power. **The levels are as follows**:
 
-1. ****Apprentice****: At this stage, the apprentice is learning the fundamental principles of Sith sorcery, including basic techniques like channeling dark side energies, developing psychic abilities, and enhancing physical attributes.
+1. **Apprentice**: At this stage, the apprentice is learning the fundamental principles of Sith sorcery, including basic techniques like channeling dark side energies, developing psychic abilities, and enhancing physical attributes.
 
-2. ****Adept****: The adept is skilled in using Sith sorcery to perform more complex and powerful spells and rituals. They have greater control over the dark side and can use it to manipulate matter, summon dark entities, and influence others' minds.
+2. **Adept**: The adept is skilled in using Sith sorcery to perform more complex and powerful spells and rituals. They have greater control over the dark side and can use it to manipulate matter, summon dark entities, and influence others' minds.
 
-3. ****Master****: A master of Sith sorcery possesses unprecedented control over the dark side and can perform incredible feats like manipulating matter on a grand scale, accessing the power of ancient Sith artifacts, or even resurrecting the dead.
+3. **Master**: A master of Sith sorcery possesses unprecedented control over the dark side and can perform incredible feats like manipulating matter on a grand scale, accessing the power of ancient Sith artifacts, or even resurrecting the dead.
 
 ### Chapter IV: Common Practices of Sith Sorcery
 
 The following are some common practices among Sith sorcerers to enhance their connection with the dark side and augment their skills:
 
-1. ****Meditation****: Sith sorcerers engage in intense and often painful meditation practices to deepen their connection to the dark side and channel its power more effectively.
+1. **Meditation**: Sith sorcerers engage in intense and often painful meditation practices to deepen their connection to the dark side and channel its power more effectively.
 
-2. ****Rituals****: These involve performing ancient incantations, using various symbols and sigils, and providing offerings to dark entities to invoke their assistance or harness their power.
+2. **Rituals**: These involve performing ancient incantations, using various symbols and sigils, and providing offerings to dark entities to invoke their assistance or harness their power.
 
-3. ****Blood sacrifice****: Blood sacrifices, often from enemies or captured beings, are used to empower spells and rituals or to create blood pacts with dark side entities.
+3. **Blood sacrifice**: Blood sacrifices, often from enemies or captured beings, are used to empower spells and rituals or to create blood pacts with dark side entities.
 
-4. ****Sith alchemy****: Sith sorcerers delve into the transmutation of materials, the creation of powerful talismans, and the enhancement of living beings through cruel experiments.
+4. **Sith alchemy**: Sith sorcerers delve into the transmutation of materials, the creation of powerful talismans, and the enhancement of living beings through cruel experiments.
 
 ### Chapter V: Key Rituals and Evocations of Sith Sorcery
 
 Some of the most fundamental rituals and evocations in Sith sorcery include:
 
-1. ****Dark communion****: A ritual used to commune with dark side energies and entities, seeking guidance, knowledge, or power.
+1. **Dark communion**: A ritual used to commune with dark side energies and entities, seeking guidance, knowledge, or power.
 
-2. ****Sith curse****: Through a powerful incantation and directed will, the Sith sorcerer can curse an enemy with misfortune, illness, or even death.
+2. **Sith curse**: Through a powerful incantation and directed will, the Sith sorcerer can curse an enemy with misfortune, illness, or even death.
 
-3. ****Essence transfer****: One of the most potent techniques in Sith sorcery, allowing the transfer of one's consciousness into another living being or an artifact, effectively cheating death.
+3. **Essence transfer**: One of the most potent techniques in Sith sorcery, allowing the transfer of one's consciousness into another living being or an artifact, effectively cheating death.
 
-4. ****Force storm****: A manifestation of raw dark side energy, generated by the Sith sorcerer and controlled through intense focus, that can devastate entire worlds if wielded by a master.
+4. **Force storm**: A manifestation of raw dark side energy, generated by the Sith sorcerer and controlled through intense focus, that can devastate entire worlds if wielded by a master.
 
 By delving into the secrets of the Scroll of Sith Sorcery, practitioners can unlock abilities and powers beyond imagination. However, such knowledge comes at a great cost, as the dark side can corrode the spirit and bind one to an eternal thirst for power. It is a path fraught with danger, anguish, and the unrelenting call of the darkest aspects of the Force.

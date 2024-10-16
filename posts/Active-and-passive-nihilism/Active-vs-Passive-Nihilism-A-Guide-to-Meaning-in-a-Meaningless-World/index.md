@@ -25,7 +25,7 @@ excerpt: >
 ---
 Answer: Active nihilism allows a person to be critical of existing values and eventually overcome them, while passive nihilism renders a person indifferent to these values.
 
-Explanation: Active nihilism and passive nihilism are two concepts that can be traced back to the ideas of Friedrich Nietzsche, a German philosopher. While both forms of nihilism deal with the belief in the lack or absence of intrinsic meaning, value, or purpose in life, they differ in the way they manifest and influence individuals.
+**Explanation**: Active nihilism and passive nihilism are two concepts that can be traced back to the ideas of Friedrich Nietzsche, a German philosopher. While both forms of nihilism deal with the belief in the lack or absence of intrinsic meaning, value, or purpose in life, they differ in the way they manifest and influence individuals.
 
 Active nihilism is a transformative force that allows individuals to evaluate and critique existing values, norms, beliefs, and morals. This form of nihilism can lead to personal growth, as the individual questions and critically examine the meaning and importance of such values. By challenging these values, the active nihilist is more likely to embrace positive change and eventually overcome or create new values and meaning in life.
 

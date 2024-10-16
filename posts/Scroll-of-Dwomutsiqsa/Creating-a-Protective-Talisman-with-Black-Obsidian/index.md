@@ -25,17 +25,17 @@ To charge the black obsidian, leave it in direct moonlight for three consecutive
 **Step 3**: Inscribing Sigils and Symbols
 Consult the Scroll of Dwomutsiqsa for the specific sigils and symbols associated with protection. **You will need the following**:
 
-1. ****The Seal of Unbreaking****: This provides a barrier against negative energies and entities.
-2. ****The Rune of Fortitude****: This strengthens the talisman's resistance to physical forces.
-3. ****The Glyph of Reflection****: This returns any harmful curses or enchantments to their source.
+1. **The Seal of Unbreaking**: This provides a barrier against negative energies and entities.
+2. **The Rune of Fortitude**: This strengthens the talisman's resistance to physical forces.
+3. **The Glyph of Reflection**: This returns any harmful curses or enchantments to their source.
 
 Carve these symbols onto the black obsidian with a silver tool, such as a chisel or burin, which can be found in the Scroll's accessory section.
 **Step 4**: Conduct the Rituals
 To invoke the necessary entities for protection, perform the following rituals:
 
-1. ****The Ritual of the Abyssal Watchers****: Invoke the guardians of the deepest realms by placing the talisman on a circle of salt and reciting incantations from the Scroll. Burn a mixture of frankincense and myrrh, and collect the resulting smoke in a vial – this is the Breath of the Abyssal Watchers. Pour the contents of the vial onto the talisman.
+1. **The Ritual of the Abyssal Watchers**: Invoke the guardians of the deepest realms by placing the talisman on a circle of salt and reciting incantations from the Scroll. Burn a mixture of frankincense and myrrh, and collect the resulting smoke in a vial – this is the Breath of the Abyssal Watchers. Pour the contents of the vial onto the talisman.
 
-2. ****The Rite of the Celestial Sentinels****: Invoke the heavenly protectors by igniting twelve white candles in a circle around the talisman and reciting the incantations from the Scroll under the star-filled night sky. Their blessings will further empower the talisman.
+2. **The Rite of the Celestial Sentinels**: Invoke the heavenly protectors by igniting twelve white candles in a circle around the talisman and reciting the incantations from the Scroll under the star-filled night sky. Their blessings will further empower the talisman.
 **Step 5**: Consecrating and Activating the Talisman
 To consecrate the talisman, pass it through the four elements: Earth, Water, Fire, and Air. Bury it in a shallow hole, letting the energy of the Earth envelop it. Then, sprinkle it with water (preferably from a sacred source), before passing it through the flames of a candle. Finally, hold the talisman aloft and let the wind blow around it.
 

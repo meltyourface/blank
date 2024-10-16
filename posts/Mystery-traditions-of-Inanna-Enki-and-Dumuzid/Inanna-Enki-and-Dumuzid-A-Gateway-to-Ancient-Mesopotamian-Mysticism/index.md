@@ -50,11 +50,11 @@ Practical Applications for Initiates
 
 Initiates seeking to delve deeper into the mysteries of Inanna, Enki, and Dumuzid can explore several avenues of practical application that will foster personal growth and spiritual development:
 
-1. ****Meditation****: Focusing on the qualities and symbolism of Inanna, Enki, and Dumuzid can bring about a deeper understanding of one's own passions, intellect, and interconnectedness with the universe. By meditating on these themes, one may seek internal balance, strength, and wisdom necessary for personal growth.
+1. **Meditation**: Focusing on the qualities and symbolism of Inanna, Enki, and Dumuzid can bring about a deeper understanding of one's own passions, intellect, and interconnectedness with the universe. By meditating on these themes, one may seek internal balance, strength, and wisdom necessary for personal growth.
 
-2. ****Ritual****: Ritualistic practices honoring the three deities can help to manifest the energies and attributes associated with each deity in one's life. Ceremonies that honor Inanna, for example, may involve offerings of flowers and incense – symbols of love and fertility – and martial arts demonstrations to invoke her warrior aspect. Enki rituals might center around water, and the values of wisdom and creation, while Dumuzid celebrations may focus on gratitude for the abundance and cycles of nature.
+2. **Ritual**: Ritualistic practices honoring the three deities can help to manifest the energies and attributes associated with each deity in one's life. Ceremonies that honor Inanna, for example, may involve offerings of flowers and incense – symbols of love and fertility – and martial arts demonstrations to invoke her warrior aspect. Enki rituals might center around water, and the values of wisdom and creation, while Dumuzid celebrations may focus on gratitude for the abundance and cycles of nature.
 
-3. ****Moral Lessons****: By reflecting on the struggles and victories of the three deities as depicted in their myths, one can derive valuable lessons in overcoming obstacles, managing desire, nurturing knowledge, and embracing the interconnectedness of all life.
+3. **Moral Lessons**: By reflecting on the struggles and victories of the three deities as depicted in their myths, one can derive valuable lessons in overcoming obstacles, managing desire, nurturing knowledge, and embracing the interconnectedness of all life.
 
 Conclusion
 

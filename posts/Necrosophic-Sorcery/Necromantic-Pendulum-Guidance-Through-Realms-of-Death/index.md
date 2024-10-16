@@ -23,17 +23,17 @@ Task: Construct a necromantic pendulum imbued with Necrosophic Sorcery energies.
 
 Materials required:
 
-1. ****Metal****: Shadow Iron - Shadow Iron is a rare and powerful metal known primarily for its conductive properties, making it potent for channelling dark energies. It is essential to forge the core of the pendulum from this material.
+1. **Metal**: Shadow Iron - Shadow Iron is a rare and powerful metal known primarily for its conductive properties, making it potent for channelling dark energies. It is essential to forge the core of the pendulum from this material.
 
-2. ****Gemstone****: Black Onyx - Black Onyx is a gemstone prized for its protective qualities, shielding its user from hostile energies, psychic attacks, and malevolent spirits. A polished Black Onyx shall be embedded within the Shadow Iron core, enhancing the pendulum's capabilities.
+2. **Gemstone**: Black Onyx - Black Onyx is a gemstone prized for its protective qualities, shielding its user from hostile energies, psychic attacks, and malevolent spirits. A polished Black Onyx shall be embedded within the Shadow Iron core, enhancing the pendulum's capabilities.
 
-3. ****Thread****: Woven from the Fibers of the Deathvine - In order to maintain proper contact with the energies of death, the thread should be woven from fibers extracted from the deathvine, a plant that is said to blossom on the ethereal plane where life meets death.
+3. **Thread**: Woven from the Fibers of the Deathvine - In order to maintain proper contact with the energies of death, the thread should be woven from fibers extracted from the deathvine, a plant that is said to blossom on the ethereal plane where life meets death.
 
 Method of Preparation:
 
-1. ****Engraving Occult Symbols****: The Shadow Iron core must be adorned with necromantic runes and sigils to facilitate communication with the underworld. These symbols should be carved while in a meditative trance, allowing the Necrosophic Sorcerer's intuition to guide the designs.
+1. **Engraving Occult Symbols**: The Shadow Iron core must be adorned with necromantic runes and sigils to facilitate communication with the underworld. These symbols should be carved while in a meditative trance, allowing the Necrosophic Sorcerer's intuition to guide the designs.
 
-2. ****Consecration****: To be performed on the night of a New Moon when the veil between the living and the dead is thinnest. **The prepared pendulum should be surrounded by a circle of grave dust and salt within a ritual space. Burn a mixture of wormwood, mugwort, and myrrh while reciting the following incantation**:
+2. **Consecration**: To be performed on the night of a New Moon when the veil between the living and the dead is thinnest. **The prepared pendulum should be surrounded by a circle of grave dust and salt within a ritual space. Burn a mixture of wormwood, mugwort, and myrrh while reciting the following incantation**:
 
     "Spirits of the dark realms,
     Forces of the shadowed worlds,
@@ -42,7 +42,7 @@ Method of Preparation:
     Grant me access to the unseen,
     As I walk between the veils of life and death."
 
-3. ****Infusion of Dark Forces****: Immerse the pendulum in a mixture of graveyard soil, black salt, and moon-charged water. Leave it to rest in a place infused with necromantic energies, such as a cemetery or haunted location, for a complete lunar cycle.
+3. **Infusion of Dark Forces**: Immerse the pendulum in a mixture of graveyard soil, black salt, and moon-charged water. Leave it to rest in a place infused with necromantic energies, such as a cemetery or haunted location, for a complete lunar cycle.
 
 Unique Properties and Effectiveness in Divination, Spirit Communication, and Navigating the Realms of the Dead:
 

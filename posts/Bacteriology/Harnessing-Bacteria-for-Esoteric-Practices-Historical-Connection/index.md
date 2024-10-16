@@ -25,19 +25,19 @@ Introduction
 
 Centuries before the modern scientific understanding of bacteriology, the unseen world of microorganisms played a significant role in various esoteric practices, from alchemy to ancient healing techniques. This chapter aims to provide an overview of the historical relevance of the occult to bacteriological study and highlight ways in which bacteria have been harnessed to achieve mystical goals. As we delve into the techniques and intricacies of esoteric bacteriology, readers will have a better understanding of the multifaceted role bacteria play in our world while expanding their appreciation of the mystical forces at work.
 
-Historical Context: The Unseen World
+**Historical Context**: The Unseen World
 
 In ancient times, long before microscopes could render the invisible visible, bacteria and other microscopic organisms were perceived as a mysterious force that could influence human life in various ways. Spiritual practitioners and healers would attempt to decipher and tap into these unseen energies, harnessing their powers for healing or controlling matter and energy. Through the use of different materials (such as stone, metal, or organic matter), the esotericist would create an environment in which these invisible life forms could be manipulated for desired outcomes.
 
 One notable example is the philosopher's stone of the alchemists, whose purpose was to transmute base metals into gold. While modern science suggests that the archaic depictions of the philosopher's stone actually reflect processes of bacterial fermentation and decomposition, the alchemists saw the unseen world of bacteria as part of the divine process.
 
-Bacteria in Occult Practices: Potions, Rituals, and Sigils
+**Bacteria in Occult Practices**: Potions, Rituals, and Sigils
 
 Bacteria have long been employed knowingly or unknowingly in various aspects of occult practices. Healers and spiritual adepts would create powerful potions and elixirs by cultivating mixtures of organic and inorganic substances, allowing bacteria to grow and imbuing the concoction with transformative powers, often credited to spiritual or magical forces.
 
 Ritualistic practices also involved harnessing the power of bacteria. For example, decay and decomposition can symbolize the end of a cycle and the beginning of a new one. In necromancy or ancestor worship, bacteria and their role in the decomposition of the physical body were directly linked to the spiritual process. Bacterial growth could also be used to power sigils or other forms of magical glyphs, with the intent of achieving a specific outcome.
 
-Harnessing Bacterial Power: Techniques and Applications
+**Harnessing Bacterial Power**: Techniques and Applications
 
 For the modern esoteric practitioner, harnessing bacteria's power involves an understanding of their fundamental properties and how they interact with the environment. **Some common techniques include**:
 

@@ -21,7 +21,7 @@ excerpt: Design a comprehensive battle plan utilizing the Dog Heads of War in a 
 ---
 Battle Plan: Operation Canine Storm
 
-Objective: To conquer enemy territory and neutralize hostile forces using a combination of Dog Heads of War, advanced weaponry, and synergistic relationships with human forces.
+**Objective**: To conquer enemy territory and neutralize hostile forces using a combination of Dog Heads of War, advanced weaponry, and synergistic relationships with human forces.
 
 Phase 1: Strategic Reconnaissance
 - Deploy advanced drones for aerial reconnaissance of enemy territory.

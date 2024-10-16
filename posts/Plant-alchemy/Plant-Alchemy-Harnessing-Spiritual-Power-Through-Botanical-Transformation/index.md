@@ -33,7 +33,7 @@ Plant Alchemy, also known as spagyrics, seeks to promote spiritual growth and re
 
 The principles of Plant Alchemy align with the foundational concepts of the Hermetic tradition, such as the doctrine of correspondence and the three fundamental principles or Three Essentials: Salt, Sulphur, and Mercury.
 
-1. ****Doctrine of Correspondence****: "As above, so below; as within, so without." This axiom emphasizes the interconnectedness of all things and suggests that the microcosmic world of plants relates to the macrocosm of the greater universe.
+1. **Doctrine of Correspondence**: "As above, so below; as within, so without." This axiom emphasizes the interconnectedness of all things and suggests that the microcosmic world of plants relates to the macrocosm of the greater universe.
 
 2. Salt represents the physical, crystalline body or the essence of a plant, its enduring structure that still carries memories of life.
 
@@ -45,34 +45,34 @@ The principles of Plant Alchemy align with the foundational concepts of the Herm
 
 Plant Alchemy involves several key processes that require both precision and a deep understanding of the principles at play. **Essentially, practitioners perform the following steps**:
 
-1. ****Separation****: The plant is separated into its core constituents, such as essential oils, alcohol, and mineral salts. This involves methods like steam or cold press distillation. This process isolates the plant's Sulphur (soul) and Mercury (spirit) components.
+1. **Separation**: The plant is separated into its core constituents, such as essential oils, alcohol, and mineral salts. This involves methods like steam or cold press distillation. This process isolates the plant's Sulphur (soul) and Mercury (spirit) components.
 
-2. ****Purification****: The isolated components are purified to remove any impurities, leading to a clearer vibrational frequency of the substance.
+2. **Purification**: The isolated components are purified to remove any impurities, leading to a clearer vibrational frequency of the substance.
 
-3. ****Reintegration****: The purified components (Salt, Sulphur, and Mercury) are skillfully recombined, leading to an elevated form of the original plant. This alchemically enhanced substance embodies the concentrated magickal and spiritual properties of the plant, making it ripe for intentional application.
+3. **Reintegration**: The purified components (Salt, Sulphur, and Mercury) are skillfully recombined, leading to an elevated form of the original plant. This alchemically enhanced substance embodies the concentrated magickal and spiritual properties of the plant, making it ripe for intentional application.
 
 ### Section 4: Significance of the Great Work in Plant Alchemy
 
-The Great Work, or Magnum Opus, is a metaphor for the spiritual transformation and self-perfection sought by the practitioner. ****In Plant Alchemy, the Great Work corresponds with three stages****: Nigredo, Albedo, and Rubedo.
+The Great Work, or Magnum Opus, is a metaphor for the spiritual transformation and self-perfection sought by the practitioner. **In Plant Alchemy, the Great Work corresponds with three stages**: Nigredo, Albedo, and Rubedo.
 
-1. ****Nigredo****: In this stage, the plant undergoes the process of separation, leading to a breaking down and 'death' of its original state. The Nigredo is symbolic of the initial phase of the practitioner's spiritual journey where decay and dissolution dominate.
+1. **Nigredo**: In this stage, the plant undergoes the process of separation, leading to a breaking down and 'death' of its original state. The Nigredo is symbolic of the initial phase of the practitioner's spiritual journey where decay and dissolution dominate.
 
-2. ****Albedo****: Purification and cleansing of the plant's components correspond to the Albedo stage. This phase aligns with personal purification, where the practitioner sheds egoic attachments to reveal the inner core of wisdom and light.
+2. **Albedo**: Purification and cleansing of the plant's components correspond to the Albedo stage. This phase aligns with personal purification, where the practitioner sheds egoic attachments to reveal the inner core of wisdom and light.
 
-3. ****Rubedo****: The final stage is marked by the reintegration and rebirth of the plant's components, an elevation to a higher state of being. Symbolically, the practitioner experiences a reunion with their divine essence, achieving spiritual illumination.
+3. **Rubedo**: The final stage is marked by the reintegration and rebirth of the plant's components, an elevation to a higher state of being. Symbolically, the practitioner experiences a reunion with their divine essence, achieving spiritual illumination.
 
 ### Section 5: Plants and Associated Properties
 
 Some popular plant examples and their properties in Plant Alchemy are:
 
-1. ****Rosemary****: Protection, purification, and mental clarity.
+1. **Rosemary**: Protection, purification, and mental clarity.
 
-2. ****Sage****: Wisdom, spiritual cleansing, and dispelling negative energy.
+2. **Sage**: Wisdom, spiritual cleansing, and dispelling negative energy.
 
-3. ****Lavender****: Peace, harmonization, and healing.
+3. **Lavender**: Peace, harmonization, and healing.
 
-4. ****St. John's Wort****: Illumination, banishing negativity, and invoking joy.
+4. **St. John's Wort**: Illumination, banishing negativity, and invoking joy.
 
-5. ****Mugwort****: Psychic enhancement, lucid dreams, and astral projection.
+5. **Mugwort**: Psychic enhancement, lucid dreams, and astral projection.
 
 In conclusion, Plant Alchemy is a profound and transformative art with the potential to guide practitioners on an introspective journey through the wisdom of the plant realm, the metaphysical understanding of the self, and the path to spiritual awakening. A dedicated student must be prepared to delve into the intricate process while maintaining respect and reverence for the natural world's inherent magick and power.

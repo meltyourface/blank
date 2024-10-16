@@ -34,18 +34,18 @@ Notably, the hermetic tradition emphasizes the divine principle of "As above, so
 
 A comparative analysis between the alchemical stages and their corresponding psychological processes reveals insights into the concept of transformation and individuation present in both systems:
 
-1. ****Calcination (Nigredo)****: The first stage marks the destruction of the ego and its attachments, akin to the breakdown of psychological barriers during the individuation process.
+1. **Calcination (Nigredo)**: The first stage marks the destruction of the ego and its attachments, akin to the breakdown of psychological barriers during the individuation process.
 
-2. ****Dissolution (Albedo)****: Symbols such as water and dissolution of solid boundaries reflect the blending of conscious and unconscious elements in the psyche, leading to a newfound openness to change.
+2. **Dissolution (Albedo)**: Symbols such as water and dissolution of solid boundaries reflect the blending of conscious and unconscious elements in the psyche, leading to a newfound openness to change.
 
-3. ****Separation****: This stage signifies the discernment between what is useful or detrimental to spiritual growth, mirroring the examination and inner reflection during individuation.
+3. **Separation**: This stage signifies the discernment between what is useful or detrimental to spiritual growth, mirroring the examination and inner reflection during individuation.
 
-4. ****Conjunction****: The fusion of opposite psychic elements (i.e., masculine/feminine, conscious/unconscious) highlights the importance of integrating disparate parts of the self in the journey towards wholeness.
+4. **Conjunction**: The fusion of opposite psychic elements (i.e., masculine/feminine, conscious/unconscious) highlights the importance of integrating disparate parts of the self in the journey towards wholeness.
 
-5. ****Fermentation****: A process of rebirth and reinvigoration, likened to the spark of creative inspiration and newfound purpose in the path towards self-realization.
+5. **Fermentation**: A process of rebirth and reinvigoration, likened to the spark of creative inspiration and newfound purpose in the path towards self-realization.
 
-6. ****Distillation****: The purification and clarification of psychological insights, enabling a more profound understanding of one's self and spiritual journey.
+6. **Distillation**: The purification and clarification of psychological insights, enabling a more profound understanding of one's self and spiritual journey.
 
-7. ****Coagulation****: The final stage of alchemy, representing the attainment of the Philosopher's Stone and the culmination of spiritual transformation, akin to the integration of the psyche and the realization of the true self during the individuation process.
+7. **Coagulation**: The final stage of alchemy, representing the attainment of the Philosopher's Stone and the culmination of spiritual transformation, akin to the integration of the psyche and the realization of the true self during the individuation process.
 
 In conclusion, a Jungian analysis of the Liber Porta Lucis reveals the intricate connections between esoteric practices and psychological self-discovery. By examining archetypal symbolism, the process of individuation, and the alchemical stages within the hermetic tradition, we uncover the fundamental message of inner transformation and spiritual enlightenment embodied within the Liber Porta Lucis.

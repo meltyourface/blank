@@ -36,7 +36,7 @@ Dr. Mordrake's research led him to the secluded town of Arkham, where he opened 
 
 Dr. Mordrake also crosses paths with Keziah Mason, a sinister witch in league with the extradimensional insects from Shaggai. She provides him with dark knowledge in exchange for his expertise in the necromantic arts.
 
-Descent into Madness: As Dr. Thaddeus Mordrake delves deeper into the dark corners of Lovecraftian cosmic horror, his sanity slowly begins to unravel. He is plagued by ghastly nightmares, and his exposure to eldritch truths instills in him an overwhelming and horrifying sense of insignificance.
+**Descent into Madness**: As Dr. Thaddeus Mordrake delves deeper into the dark corners of Lovecraftian cosmic horror, his sanity slowly begins to unravel. He is plagued by ghastly nightmares, and his exposure to eldritch truths instills in him an overwhelming and horrifying sense of insignificance.
 
 One fateful night, Dr. Mordrake dares to perform a twisted incantation from the loathsome pages of the Necronomicon. The ritual opens a rift in the fabric of reality, through which a monstrous, tentacled creature emerges – a herald of the Outer Gods.
 

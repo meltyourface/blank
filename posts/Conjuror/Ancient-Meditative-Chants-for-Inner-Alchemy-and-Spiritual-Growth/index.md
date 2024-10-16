@@ -40,7 +40,7 @@ Tat Savitur Varenyam
 Bhargo Devasya Dhimahi
 Dhiyo Yo Nah Prachodayat
 
-Intended Effects: 
+**Intended Effects**: 
 This mantra stimulates spiritual awakening, inner transformation, and heightened consciousness. It is known to enhance intelligence and concentration.
 
 Best Used:

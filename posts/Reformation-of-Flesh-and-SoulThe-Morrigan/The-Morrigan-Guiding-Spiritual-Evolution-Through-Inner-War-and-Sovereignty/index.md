@@ -32,7 +32,7 @@ The Morrigan is a representation of the destructive and regenerative aspects of 
 
 **Aspects of the Morrigan**
 
-The Morrigan encompasses three primary aspects: war, fate, and sovereignty. Each of these aspects plays a crucial role in the Reformation of Flesh and Soul.
+**The Morrigan encompasses three primary aspects**: war, fate, and sovereignty. Each of these aspects plays a crucial role in the Reformation of Flesh and Soul.
 
 1. **War**: As a goddess of war, the Morrigan represents the inner struggle one must face in order to break free from the confines of the ego and other limiting beliefs. By engaging in this inner battle, the initiate is purged of the old self and is empowered to evolve.
 

@@ -33,7 +33,7 @@ excerpt: >
 
 ## The Rite of Expulsion
 
-Objective: Design a comprehensive banishing ritual for the expulsion of negative energies from a designated space or individual.
+**Objective**: Design a comprehensive banishing ritual for the expulsion of negative energies from a designated space or individual.
 **Step 1**: Determining Sources and Manifestations of Negative Energies
 To identify the specific sources and manifestations of the unwanted energies, all participants are required to meditate in the space for at least 20 minutes. Through this process, individuals will focus their awareness on any emotions, thoughts, or physical sensations they experience, identifying any patterns of discomfort, anxiety, or negativity.
 **Step 2**: Symbolic Focal Point

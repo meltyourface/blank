@@ -33,7 +33,7 @@ Totems embody archetypal powers and attributes that are grounded in both the nat
 
 Types of Totemic Majesties
 
-Totemic majesties can be classified into three primary categories: personal, group, and universal Totems.
+**Totemic majesties can be classified into three primary categories**: personal, group, and universal Totems.
 
 1. Personal Totems: These are the individual spirits assigned to guide and protect a practitioner throughout their spiritual journey. Establishing a connection with one's personal Totem is pivotal for developing self-mastery, forging a stronger intuitive awareness, and integrating the various aspects of the practitioner's life.
 

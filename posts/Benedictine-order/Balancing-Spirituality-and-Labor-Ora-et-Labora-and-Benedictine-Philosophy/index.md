@@ -23,7 +23,7 @@ The Rule of Saint Benedict and the Philosophy of the Benedictine Order: Ora et L
 
 In order to fully analyze the connection between the Rule of Saint Benedict and the philosophy of the Benedictine order with respect to the concept of "Ora et Labora" (Pray and Work), we must first delve into the foundational and historical context behind the Rule. Next, we will dissect the essence of the principle Ora et Labora and its implementation in the lives of the Benedictines. Finally, we will explore the Hermetic axiom "As above, so below" and elucidate its relationship with the Benedictine way of life.
 
-Foundational and Historical Context: Rule of Saint Benedict
+**Foundational and Historical Context**: Rule of Saint Benedict
 
 Saint Benedict of Nursia, a 6th-century monk, is considered the founder of Western monasticism and the father of the Benedictine order. The Rule of Saint Benedict is a set of guidelines that outline a monastic way of life, prescribing daily prayers, manual labor, and intellectual pursuits for the monks within the community. The Rule's purpose, as stated by Saint Benedict himself, was to establish a "school for the Lord's service," where the lives of the monks were focused on the pursuit of spiritual perfection and the service of God.
 

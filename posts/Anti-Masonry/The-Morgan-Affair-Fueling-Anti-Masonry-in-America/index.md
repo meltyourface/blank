@@ -34,10 +34,10 @@ In 1826, after announcing his intentions to expose the secrets of the Freemasons
 
 The other options provided are not as directly connected to the spread of anti-Masonic sentiments during the early 19th century:
 
-1. ****The publication of "Proofs of a Conspiracy" by John Robison****: This book was published in 1797, well before the events of the Morgan Affair, and was more influential in Europe than in the United States. While it did contribute to suspicions about secret societies, its impact on the Anti-Masonry movement in the early 19th-century United States was comparatively minimal.
+1. **The publication of "Proofs of a Conspiracy" by John Robison**: This book was published in 1797, well before the events of the Morgan Affair, and was more influential in Europe than in the United States. While it did contribute to suspicions about secret societies, its impact on the Anti-Masonry movement in the early 19th-century United States was comparatively minimal.
 
-2. ****The rise of Theosophy and the teachings of Helena Blavatsky****: Theosophy emerged in the late 19th century, significantly after the peak of the Anti-Masonic movement in the United States. Helena Blavatsky's teachings focused more on esoteric spirituality and the idea of an ancient, hidden wisdom, but did not directly address or criticize Freemasonry.
+2. **The rise of Theosophy and the teachings of Helena Blavatsky**: Theosophy emerged in the late 19th century, significantly after the peak of the Anti-Masonic movement in the United States. Helena Blavatsky's teachings focused more on esoteric spirituality and the idea of an ancient, hidden wisdom, but did not directly address or criticize Freemasonry.
 
-3. ****The founding of the Church of Satan by Anton LaVey****: This event occurred in 1966, well over a century after the Morgan Affair. The Church of Satan was more about challenging traditional religious authorities and embracing individualism than it was about specifically opposing Masonry or any other secret society.
+3. **The founding of the Church of Satan by Anton LaVey**: This event occurred in 1966, well over a century after the Morgan Affair. The Church of Satan was more about challenging traditional religious authorities and embracing individualism than it was about specifically opposing Masonry or any other secret society.
 
 In conclusion, the Morgan Affair was the catalyst for the rise of the Anti-Masonic movement in the United States during the early 19th century. It created widespread suspicion of the Freemasons, leading to the formation of the Anti-Masonic Party and the spread of anti-Masonic sentiments throughout the country.

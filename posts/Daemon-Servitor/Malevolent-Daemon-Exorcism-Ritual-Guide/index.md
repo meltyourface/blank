@@ -29,13 +29,13 @@ Identify the presence of a malevolent Daemon Servitor within an individual's aur
 Research and collect information about the target Daemon Servitor's characteristics, vulnerabilities, and modus operandi. Utilize historical texts, journals of other practitioners, or channeled information from higher entities to gain a thorough understanding of the daemon's sigil and significances.
 
 3. **Pre-ritual Preparation**:
-a. ****Cleanse the ritual space****: Perform a cleansing ritual using purifying substances like sage, frankincense, or saltwater to neutralize unwanted energies.
-b. ****Set protection barriers****: Establish protective barriers around the ritual space using methods such as casting a circle, calling upon protective deities, or activating specific talismans.
+a. **Cleanse the ritual space**: Perform a cleansing ritual using purifying substances like sage, frankincense, or saltwater to neutralize unwanted energies.
+b. **Set protection barriers**: Establish protective barriers around the ritual space using methods such as casting a circle, calling upon protective deities, or activating specific talismans.
 
 4. **Designing the Ritual**:
-a. ****Invocation of Higher Powers and Protective Beings****: Connect and invoke benevolent entities, guarding spirits, or angelic presences who can strengthen and support the banishing process.
-b. ****Incorporate esoteric symbols****: Utilize symbols like hexagrams, pentagrams, solomonic seals, or other significant sigils related to the target daemon to amplify the ritual's potency.
-c. ****Develop powerful vocal incantations****: Create a set of tailored vocal incantations, either in your native language or the daemon's prefered language, to specifically address, weaken, and neutralize the Daemon Servitor.
+a. **Invocation of Higher Powers and Protective Beings**: Connect and invoke benevolent entities, guarding spirits, or angelic presences who can strengthen and support the banishing process.
+b. **Incorporate esoteric symbols**: Utilize symbols like hexagrams, pentagrams, solomonic seals, or other significant sigils related to the target daemon to amplify the ritual's potency.
+c. **Develop powerful vocal incantations**: Create a set of tailored vocal incantations, either in your native language or the daemon's prefered language, to specifically address, weaken, and neutralize the Daemon Servitor.
 
 5. **Performing the Ritual**:
 a. Open the protective circle and invite the individual and supportive entities into the space.

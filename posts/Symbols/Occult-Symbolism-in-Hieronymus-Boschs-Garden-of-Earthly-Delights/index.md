@@ -22,7 +22,7 @@ excerpt: >
 ---
 Work of Art: The Garden of Earthly Delights by Hieronymus Bosch (circa 1500)
 
-The Garden of Earthly Delights is a visually complex and enigmatic triptych by the Dutch painter Hieronymus Bosch. ****This artwork presents a wealth of occult symbols, hidden meanings and mystic references. For the purpose of this analysis, I will focus on three distinct symbolic elements****: the central panel's imagery, the owls, and the fantastical creatures.
+The Garden of Earthly Delights is a visually complex and enigmatic triptych by the Dutch painter Hieronymus Bosch. **This artwork presents a wealth of occult symbols, hidden meanings and mystic references. For the purpose of this analysis, I will focus on three distinct symbolic elements**: the central panel's imagery, the owls, and the fantastical creatures.
 
 1. Imagery in the Central Panel
 The central panel of the triptych represents a dreamlike, hedonistic garden, in which people indulge in various forms of pleasure. The overall composition is abundant with esoteric symbolism. Standing out among these symbols is a large, multifaceted fountain of life, which could be interpreted as an occult representation of the divine feminine or even the kundalini energy, often depicted as a serpent or water spring. Furthermore, this central panel is enclosed by the other two panels, which depict the Garden of Eden and the Last Judgement. In this context, Bosch might be using the central panel to delve into the concept of duality, as the life of pleasure serves as a middle stage between the divine innocence of Eden and the final reckoning of sinners.

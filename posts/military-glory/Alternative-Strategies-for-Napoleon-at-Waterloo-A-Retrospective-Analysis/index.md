@@ -37,15 +37,15 @@ Alternative Strategies:
 
 1. Improved Intelligence and Unorthodox Tactics: Napoleon could have improved intelligence gathering through increased use of scouts and spies to identify the location and movements of Prussian forces. Additionally, he could have employed unorthodox tactics such as night attacks and using a small elite force to infiltrate the enemy's defenses, creating chaos and confusion.
 
-Likelihood of Success: Moderate. Improved intelligence would have allowed the French forces to fight with a better understanding of the enemy's positions, plans, and movements. However, unorthodox tactics might not have been enough to overcome the Coalition forces' advantage in numbers.
+**Likelihood of Success**: Moderate. Improved intelligence would have allowed the French forces to fight with a better understanding of the enemy's positions, plans, and movements. However, unorthodox tactics might not have been enough to overcome the Coalition forces' advantage in numbers.
 
 2. Strategic Alliances and Diversions: Napoleon could have sought partnership with other European powers, forming strategic alliances to tip the balance of power in his favor. Additionally, he could have employed diversionary tactics, forcing the Coalition armies to spread their forces thin, and opening opportunities for decisive strikes against weakened enemy flanks.
 
-Likelihood of Success: Low. In the political climate of the time, European powers were wary of Napoleon's ambitions. As such, it's unlikely that they would have agreed to support him. Additionally, diversionary tactics could have stretched Napoleon's forces too thin, leaving them vulnerable to counterattacks.
+**Likelihood of Success**: Low. In the political climate of the time, European powers were wary of Napoleon's ambitions. As such, it's unlikely that they would have agreed to support him. Additionally, diversionary tactics could have stretched Napoleon's forces too thin, leaving them vulnerable to counterattacks.
 
 3. Concentrated Forces and Flexible Command: A more effective strategy would have been to concentrate French forces on a single objective, maximizing their firepower and reducing the risk of being outflanked. A more flexible command structure, with improved communication, would have allowed better coordination and faster adaptation to changing battlefield conditions.
 
-Likelihood of Success: High. Concentrating forces and maintaining a flexible command structure would have improved the effectiveness of Napoleon's forces, increasing the likelihood of success. Nonetheless, overcoming the combined strength of the Seventh Coalition would still have been a challenging task.
+**Likelihood of Success**: High. Concentrating forces and maintaining a flexible command structure would have improved the effectiveness of Napoleon's forces, increasing the likelihood of success. Nonetheless, overcoming the combined strength of the Seventh Coalition would still have been a challenging task.
 
 Impact of Alternative Outcomes:
 

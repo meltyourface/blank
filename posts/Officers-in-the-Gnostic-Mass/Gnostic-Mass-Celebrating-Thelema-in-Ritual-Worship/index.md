@@ -20,7 +20,7 @@ description: You are a master of the esoteric, occult, Officers in the Gnostic M
 excerpt: > 
   Research, analyze, and create a comprehensive account of the evolution and intricacies of Gnostic Mass within the domain of Officers and their roles since its inception. Detail the historical context, key figures, and variations of liturgy, regalia, and sacred spaces within Gnostic Mass ceremonies. Additionally, study the influence and reception of Gnostic Mass in contemporary occult and esoteric communities and forecast possible future developments and adaptations within this realm.
 ---
-Gnostic Mass, also known as Liber XV or The Gnostic Catholic Church, is a ritual form of worship practiced by various Thelemic and Gnostic organizations, primarily the Ecclesia Gnostica Catholica (EGC) within the Ordo Templi Orientis (OTO). ****It was formulated by Aleister Crowley in 1913 and is steeped in the esoteric teachings of Kabbalah, Western occultism, and Thelema. The Gnostic Mass centers around ceremonial aspects represented by five key Officers****: The Priest, The Priestess, The Deacon, and the two “Children.”
+Gnostic Mass, also known as Liber XV or The Gnostic Catholic Church, is a ritual form of worship practiced by various Thelemic and Gnostic organizations, primarily the Ecclesia Gnostica Catholica (EGC) within the Ordo Templi Orientis (OTO). **It was formulated by Aleister Crowley in 1913 and is steeped in the esoteric teachings of Kabbalah, Western occultism, and Thelema. The Gnostic Mass centers around ceremonial aspects represented by five key Officers**: The Priest, The Priestess, The Deacon, and the two “Children.”
 
 Historical Context and Key Figures:
 
@@ -30,13 +30,13 @@ Crowley explicitly designed the Gnostic Mass to be a ritual sacrament celebratin
 
 Roles and Liturgy:
 
-1. ****The Priest (Hierophant)****: The Priest’s role is to represent the active, masculine principle. He enacts an aspirational journey from the lowest sphere (Malkuth) to the highest (Kether) in the Kabbalistic Tree of Life. He serves as the central figure, delivering the main liturgical components of the Gnostic Mass. Throughout the ceremony, the Priest interacts with the Priestess, drawing inspiration from her and consecrating the Eucharist.
+1. **The Priest (Hierophant)**: The Priest’s role is to represent the active, masculine principle. He enacts an aspirational journey from the lowest sphere (Malkuth) to the highest (Kether) in the Kabbalistic Tree of Life. He serves as the central figure, delivering the main liturgical components of the Gnostic Mass. Throughout the ceremony, the Priest interacts with the Priestess, drawing inspiration from her and consecrating the Eucharist.
 
-2. ****The Priestess (Soror Mystica)****: The Priestess embodies the passive, feminine principle. She serves as the altar, the gateway to the divine, and the vessel through which the Priest realizes his union with the divine. As an embodiment of the goddess Babalon, the Priestess works to uplift and magnify the energy and will of the Priest.
+2. **The Priestess (Soror Mystica)**: The Priestess embodies the passive, feminine principle. She serves as the altar, the gateway to the divine, and the vessel through which the Priest realizes his union with the divine. As an embodiment of the goddess Babalon, the Priestess works to uplift and magnify the energy and will of the Priest.
 
-3. ****The Deacon (Deaconus)****: The Deacon's role is to assist in the orchestration of the ritual and ensure the proper liturgical flow. The Deacon functions as a bridge between the congregants and the Priest-Priestess dyad, leading the temple in liturgical recitations and coordinating the movements of the two Children.
+3. **The Deacon (Deaconus)**: The Deacon's role is to assist in the orchestration of the ritual and ensure the proper liturgical flow. The Deacon functions as a bridge between the congregants and the Priest-Priestess dyad, leading the temple in liturgical recitations and coordinating the movements of the two Children.
 
-4. ****The Children (Servers)****: The Children are represented by a male and female pair and hold the roles of torchbearers and ceremonial assistants. They facilitate the temple's operations, manage the tools and other sacred objects, and assist the Deacon in attending to the needs of the Priest and Priestess.
+4. **The Children (Servers)**: The Children are represented by a male and female pair and hold the roles of torchbearers and ceremonial assistants. They facilitate the temple's operations, manage the tools and other sacred objects, and assist the Deacon in attending to the needs of the Priest and Priestess.
 
 Variations and Sacred Spaces:
 

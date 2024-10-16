@@ -29,7 +29,7 @@ In realms Arthurian, he shan't decay.
 
 Author's quill: Thomas Malory's sublime art.
 
-### II. ****Spellbound Mistress of Nebulosity****: Melmoth's Adversary
+### II. **Spellbound Mistress of Nebulosity**: Melmoth's Adversary
 
 Through ghostly shades she roves in Stygian dream,
 Afflicted phantom, a wanderer unseen,
@@ -56,7 +56,7 @@ Transcends in fables, eternal as sunlit days.
 
 Author's sigil: The forgotten emblem of R.K. Davenport.
 
-### V. ****In the Nocturnal Veils between Aleph and Omega****: The Menacing Jack Shaftoe
+### V. **In the Nocturnal Veils between Aleph and Omega**: The Menacing Jack Shaftoe
 
 Imbued with vagrant wit and sardonic guile,
 The Vagabond stirs in a half-moon smile,
@@ -65,7 +65,7 @@ Cryptonomicon shadows and Pirate blood.
 
 Author's emblem: Neal Stephenson's cryptic key.
 
-### VI. ****Tragic Hero, Wending Down to Sheol****: The Sorrows of Young Werther
+### VI. **Tragic Hero, Wending Down to Sheol**: The Sorrows of Young Werther
 
 In the abyss of self-destructive passion,
 Maiden's shrine, despair draped in fashion,

@@ -21,11 +21,11 @@ excerpt: Create an in-depth Zodiacal birth chart analysis for a specific individ
 ---
 To create an in-depth Zodiacal birth chart analysis for a specific individual, I would require the date, time, and location of their birth. However, I will create a hypothetical birth chart analysis using the following details:
 
-Date of birth: January 15, 1991
+**Date of birth**: January 15, 1991
 Time of birth: 3:42 PM
 Location of birth: New York, NY, USA
 
-Sun Sign: Capricorn (The Goat)
+**Sun Sign**: Capricorn (The Goat)
 Moon Sign: Leo (The Lion)
 Rising Sign: Taurus (The Bull)
 

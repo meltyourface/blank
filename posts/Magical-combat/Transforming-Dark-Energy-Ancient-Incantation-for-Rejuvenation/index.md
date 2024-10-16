@@ -21,11 +21,11 @@ excerpt: Craft an intricate incantation for an enchanted duel that transmutes da
 ---
 Incantation: "Obscurum Noxis Converti Lux Infusiores"
 
-Materials: A silver-streaked obsidian wand imbued with the aura of freshly fallen meteorite, a small vial of water from the Fountain of Youth, and an enchanted amethyst crystal pendant holding the essence of a balanced universe.
+**Materials**: A silver-streaked obsidian wand imbued with the aura of freshly fallen meteorite, a small vial of water from the Fountain of Youth, and an enchanted amethyst crystal pendant holding the essence of a balanced universe.
 
-Gestures: Begin by gripping the wand between your thumb and index finger, and stir the vial of Fountain of Youth water three times counterclockwise. Trace the shape of an ancient alchemical Ouroboros in the air, with the tail representing the creation of rejuvenating power and the head representing the return to sinister energy. Inscribe the Sigil of Equilibrium within the Ouroboros, symbolizing the harmony between light and darkness.
+**Gestures**: Begin by gripping the wand between your thumb and index finger, and stir the vial of Fountain of Youth water three times counterclockwise. Trace the shape of an ancient alchemical Ouroboros in the air, with the tail representing the creation of rejuvenating power and the head representing the return to sinister energy. Inscribe the Sigil of Equilibrium within the Ouroboros, symbolizing the harmony between light and darkness.
 
-Incantation Phrases: Ignite your mind by chanting the incantation to summon the mystic forces, empowering your intent with each repetition:
+**Incantation Phrases**: Ignite your mind by chanting the incantation to summon the mystic forces, empowering your intent with each repetition:
 
 "Obscurum Noxis Converti Lux Infusiores,
 Tenebris Vitae Transmutate Retrorsum,
@@ -33,7 +33,7 @@ Potestatis Universalis Testare Causam."
 
 Continue the incantation, allowing the energy to build and flow like the eternal rhythm of the universe. As the eldritch power accumulates and pulses, the conversion process begins to take shape.
 
-Maximizing Efficiency and Potency: The potency and efficiency of the incantation depend on the type and intensity of negative energy encountered in magical combat. To optimize the spell's effectiveness, focus your arcane will on the precise transformation of dark energy that aligns with the nature of the malicious force:
+**Maximizing Efficiency and Potency**: The potency and efficiency of the incantation depend on the type and intensity of negative energy encountered in magical combat. To optimize the spell's effectiveness, focus your arcane will on the precise transformation of dark energy that aligns with the nature of the malicious force:
 
 1. Elemental - Visualize the originating energy absorbed and redirected, like violent winds subsided or raging flames extinguished.
 2. Psychic - Envision dark thoughts expelled and replaced with fortifying mental clarity and empathic insights.

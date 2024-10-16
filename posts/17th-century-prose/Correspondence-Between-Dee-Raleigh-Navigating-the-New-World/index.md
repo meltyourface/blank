@@ -47,7 +47,7 @@ John Dee
 
 ***
 
-Letter the Second: from Sir Walter Raleigh to John Dee
+**Letter the Second**: from Sir Walter Raleigh to John Dee
 
 My learned Friend, John Dee,
 

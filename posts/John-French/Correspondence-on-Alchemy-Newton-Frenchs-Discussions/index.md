@@ -58,7 +58,7 @@ Date: July 15, 1666
 
 My Illustrious Sir Isaac Newton,
 
-Your words align with my own thoughts on the riddle. ****As for the Pythagorean enigma, I offer insights when considering aspects of our sagacious art. Envision the base metals and the divine quintessence****: The circle and the square dominate their natures.
+Your words align with my own thoughts on the riddle. **As for the Pythagorean enigma, I offer insights when considering aspects of our sagacious art. Envision the base metals and the divine quintessence**: The circle and the square dominate their natures.
 
 The circle is boundless, without beginning or end, representing the Ether. The square, though possessing a clear limit, symbolizes solid matter. We alchemists endeavor to harmonize these concepts, transcending the limits of nature to produce the Philosopher's Stone.
 

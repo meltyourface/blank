@@ -23,20 +23,20 @@ To create an Antinomian sigil that is both personal and potent, start by identif
 
 Here's an outline for a potential sigil creation process: 
 
-1. ****List your personal symbolic elements****: Consider your life experiences, spiritual journey, and any personal traits that tie into the themes of defiance against conventional moral laws and individual spiritual experiences.
+1. **List your personal symbolic elements**: Consider your life experiences, spiritual journey, and any personal traits that tie into the themes of defiance against conventional moral laws and individual spiritual experiences.
 
-2. ****Determine numerological associations****: Assign numerical values to your chosen symbols based on their associated numerology or other esoteric connections.
+2. **Determine numerological associations**: Assign numerical values to your chosen symbols based on their associated numerology or other esoteric connections.
 
-3. ****Identify alchemical or astrological correspondences****: Analyze your elements by relating them to alchemical or astrological associations that resonate with your individual beliefs and spiritual path.
+3. **Identify alchemical or astrological correspondences**: Analyze your elements by relating them to alchemical or astrological associations that resonate with your individual beliefs and spiritual path.
 
-4. ****Create an interwoven design of shapes and symbols****: Combine your elements into a complex pattern that is interconnected and portrays a harmonious union.
+4. **Create an interwoven design of shapes and symbols**: Combine your elements into a complex pattern that is interconnected and portrays a harmonious union.
 
-5. ****Add layers of hidden meanings****: Intentionally inject hidden layers into the sigil's design, which could include specific number patterns, celestial alignments, or encrypted messages.
+5. **Add layers of hidden meanings**: Intentionally inject hidden layers into the sigil's design, which could include specific number patterns, celestial alignments, or encrypted messages.
 
-6. ****Refine the sigil's arrangement****: Experiment with visual complexity to maximize the sigil's power and mystical obscurities that will energize the sigil.
+6. **Refine the sigil's arrangement**: Experiment with visual complexity to maximize the sigil's power and mystical obscurities that will energize the sigil.
 
-7. ****Channel an aura of transcendent liberation****: Through meditation or ritual, imbue the sigil with your spiritual energy, focusing on the liberation from conventional norms and laws to achieve personal spiritual enlightenment.
+7. **Channel an aura of transcendent liberation**: Through meditation or ritual, imbue the sigil with your spiritual energy, focusing on the liberation from conventional norms and laws to achieve personal spiritual enlightenment.
 
-8. ****Align with Antinomian principles****: Stay true to the principles of Antinomianism by emphasizing the pursuit of inner spiritual revelation and individualism rather than conforming to external moral codes.
+8. **Align with Antinomian principles**: Stay true to the principles of Antinomianism by emphasizing the pursuit of inner spiritual revelation and individualism rather than conforming to external moral codes.
 
 An example of a sigil could involve a serpent coiled around a pentacle with the numbers 3, 7, and 12 hidden within, alchemically correlating to the transformation of the self, defiance towards moral dictums, and the search for spiritual realization. The sigil might also incorporate astrological signs that have personal significance while employing a geometric layout that symbolizes the harmonious and dynamic balance of opposing forces.

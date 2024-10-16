@@ -33,10 +33,10 @@ excerpt: >
 
 ## Necromageia Mastery Curriculum: Unveiling the Esoteric Arts of the Dead
 
-Duration: 3 Years
+**Duration**: 3 Years
 
 Module 1: Foundations of Necromageia
-1.1. ****Introduction to Necromageia****: Origins and Evolution
+1.1. **Introduction to Necromageia**: Origins and Evolution
 1.2. Key Concepts and Terminology in Necromageia
 1.3. Ancient Manuscripts and Esoteric Texts
 1.4. The Fundamentals of Psychic Energy
@@ -52,7 +52,7 @@ Module 2: Energy Manipulation and Psychic Channeling
 2.6. Psychic Calibration and Energy Balance Techniques
 
 Module 3: Advanced Communion with the Deceased
-3.1. ****Mediumship Foundations****: Bridging the Veil
+3.1. **Mediumship Foundations**: Bridging the Veil
 3.2. Spirit Attachments and Spiritual Resonance
 3.3. Entity Classification and Countermeasures
 3.4. Accessing Wisdom from the Otherworld
@@ -62,14 +62,14 @@ Module 3: Advanced Communion with the Deceased
 Module 4: Rituals and Ceremonies
 4.1. Enigmatic Traditions of Necromageia Rituals
 4.2. Preparations and Rites for Meditation and Astral Projection
-4.3. ****Spell Casting****: Principles and Practices
+4.3. **Spell Casting**: Principles and Practices
 4.4. Amplification of Necromageia through Ritualistic Practices
 4.5. Elixirs, Talismans, and Alchemical Solutions in Rituals
 4.6. Dark Rituals for Power Enhancement and Control
 
 Module 5: Protection and Defense Against Dark Forces
 5.1. Recognizing Dangerous Entities and Malevolent Energies
-5.2. ****Amulets, Wards, and Enchantments****: Crafting and Activation
+5.2. **Amulets, Wards, and Enchantments**: Crafting and Activation
 5.3. Psychic Shielding and Spiritual Reinforcement
 5.4. Banishment and Exorcism Techniques
 5.5. Balancing Light and Dark Energies for Spiritual Harmony

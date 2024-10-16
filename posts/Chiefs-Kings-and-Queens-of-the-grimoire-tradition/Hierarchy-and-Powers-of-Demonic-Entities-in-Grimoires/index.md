@@ -21,7 +21,7 @@ excerpt: Create an in-depth analysis and comparative study on the hierarchical s
 ---
 The Lesser Key of Solomon and the Pseudomonarchia Daemonum are two of the most influential and widely-cited grimoires within the Western occult tradition, both of which provide detailed accounts of the hierarchy, relationships, and powers of various demonic entities. This analysis will compare and contrast the hierarchical structures of demonic entities within these texts, focusing on the roles and relationships of the Chiefs, Kings, and Queens of the infernal legions. Additionally, we will explore differences in descriptions and attributed powers, as well as connections or disparities between the rituals used to summon and bind these demons.
 
-Hierarchical Structures: Chiefs, Kings, and Queens
+**Hierarchical Structures**: Chiefs, Kings, and Queens
 
 Within the grimoire traditions, demonic entities are often categorized by rank and organized into a complex hierarchy. Both the Lesser Key of Solomon and the Pseudomonarchia Daemonum contain detailed descriptions of demonic hierarchies, with the former providing information on seventy-two demons, while the latter notes sixty-nine. In each text, there are nine major infernal Kings and several additional Chiefs and Queens.
 

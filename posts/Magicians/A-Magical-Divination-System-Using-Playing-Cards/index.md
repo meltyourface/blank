@@ -25,7 +25,7 @@ excerpt: >
 
 **Introduction**: The Hallowed Arcana of the Household is a comprehensive divination system that utilizes a deck of ordinary playing cards. Each suit and card has its own magical meaning and significance. The system incorporates complex shuffling patterns, precise card arrangements, and a detailed interpretation guide to lead Magicians on a path of self-discovery, personal growth, and guidance.
 
-The Deck: The elements of the standard 52-card playing deck are reinterpreted for the purpose of divination. Four suits represent the four elements, major themes, and aspects of life:
+**The Deck**: The elements of the standard 52-card playing deck are reinterpreted for the purpose of divination. Four suits represent the four elements, major themes, and aspects of life:
 
 1. **Hearts**: Element of Water. Emotions, relationships, love, and intuition.
 2. **Diamonds**: Element of Earth. Material aspects, work, health, and finances.

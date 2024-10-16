@@ -50,7 +50,7 @@ Follow these steps for the ritual:
 1. Begin by casting a circle and calling upon the four elements, along with the Divine presence to bless and guard the space.
 2. Invoke the chosen deities by calling their names three times and inviting them to assist in empowering the talisman.
 3. Hold the talisman in your hands and focus your psychic intentions upon it, ensuring your thoughts and desires are clear.
-4. ****Recite the following incantation****: "By the power of the elements, planets, and deities, I consecrate this talisman to amplify and refine psychic abilities. Let it be a conduit of psychic wisdom and guidance, united with the eternal powers of the cosmos."
+4. **Recite the following incantation**: "By the power of the elements, planets, and deities, I consecrate this talisman to amplify and refine psychic abilities. Let it be a conduit of psychic wisdom and guidance, united with the eternal powers of the cosmos."
 5. Pass the talisman through the smoke of the incense, the flame of each candle, sprinkle it with consecrated water, and touch it to the earth (or altar) representing the four elements.
 6. Meditate on the talisman's purpose, visualizing psychic energy flowing into it and merging with the inherent energies of the symbols and materials. Maintain this visualization for as long as possible, until the talisman's energy feels alive and vibrant.
 7. Offer thanks to the deities, the elements, and the Divine presence for their assistance and guidance.

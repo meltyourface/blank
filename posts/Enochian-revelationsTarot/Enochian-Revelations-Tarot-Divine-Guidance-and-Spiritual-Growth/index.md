@@ -49,21 +49,21 @@ A. Major Arcana
 
 The Major Arcana comprises 22 cards, each with its unique Enochian symbolism and spiritual wisdom. **Major Arcana cards emphasize transformative experiences, spiritual lessons, and the unfolding of one's destiny. Here are some examples**:
 
-1. ****The Fool****: Representing beginnings and potential, the Enochian script imbues the Fool with angelic protection and divine guidance, assuring the traveler of a meaningful journey.
+1. **The Fool**: Representing beginnings and potential, the Enochian script imbues the Fool with angelic protection and divine guidance, assuring the traveler of a meaningful journey.
 
-2. ****The Magician****: Embodies the bridge between the heavenly and earthly realms. Enochian script on the Magician's tools conveys the concept of drawing upon angelic wisdom to manifest desires.
+2. **The Magician**: Embodies the bridge between the heavenly and earthly realms. Enochian script on the Magician's tools conveys the concept of drawing upon angelic wisdom to manifest desires.
 
-3. ****The High Priestess****: The incorporation of Enochian script signifies the access to hidden realms of knowledge through intuition and spiritual receptivity.
+3. **The High Priestess**: The incorporation of Enochian script signifies the access to hidden realms of knowledge through intuition and spiritual receptivity.
 
 B. Minor Arcana
 
-1. ****Cups****: The suit of Cups corresponds to the element of Water and typically signifies emotions, relationships, and spiritual experiences. In an Enochian revelationsTarot reading, the presence of this suit urges the reader to tap into the wisdom of the angelic realm to navigate the complexities of human emotions.
+1. **Cups**: The suit of Cups corresponds to the element of Water and typically signifies emotions, relationships, and spiritual experiences. In an Enochian revelationsTarot reading, the presence of this suit urges the reader to tap into the wisdom of the angelic realm to navigate the complexities of human emotions.
 
-2. ****Pentacles****: Representing the element of Earth, Pentacles are generally linked to material wealth, practicality, and the physical world. Enochian scriptures within these cards induce underlying spiritual lessons and unveil the divine dimensions of our worldly pursuits.
+2. **Pentacles**: Representing the element of Earth, Pentacles are generally linked to material wealth, practicality, and the physical world. Enochian scriptures within these cards induce underlying spiritual lessons and unveil the divine dimensions of our worldly pursuits.
 
-3. ****Swords****: A suit associated with the element of Air, Swords denote mental processes, communication, and challenges. The Enochian script induces a higher perspective, enabling the reader to observe situations from an elevated vantage point.
+3. **Swords**: A suit associated with the element of Air, Swords denote mental processes, communication, and challenges. The Enochian script induces a higher perspective, enabling the reader to observe situations from an elevated vantage point.
 
-4. ****Wands****: Symbolizing the element of Fire, Wands embody passion, creativity, and action. Enochian symbols add a powerful spiritual push that energizes the seeker's efforts and aligns them with their higher purpose.
+4. **Wands**: Symbolizing the element of Fire, Wands embody passion, creativity, and action. Enochian symbols add a powerful spiritual push that energizes the seeker's efforts and aligns them with their higher purpose.
 
 ### IV. Applying Enochian RevelationsTarot in Divination and Spiritual Growth
 

@@ -22,7 +22,7 @@ excerpt: >
 ---
 Task: Develop a comprehensive Shamanic-style ritual for the secure expulsion of detrimental and undesirable energies.
 
-Ritual Name: The Rite of Purification and Rebalancing
+**Ritual Name**: The Rite of Purification and Rebalancing
 
 **Objective**: To expel detrimental and undesirable energies from a person, place, or object, and restore balance to the surrounding energies while ensuring the practitioner's safety.
 

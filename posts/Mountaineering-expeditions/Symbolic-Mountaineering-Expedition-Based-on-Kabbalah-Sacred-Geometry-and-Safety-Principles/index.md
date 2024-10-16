@@ -25,7 +25,7 @@ To fully address this knowledge challenge, let's first deconstruct its elements:
 1. Tree of Life in Kabbalistic Traditions:
 In Kabbalistic traditions, the Tree of Life is a diagram composed of 10 interconnected nodes, known as sephirot, representing the various attributes of God and the different aspects of creation. The sephirot are connected by 22 paths, symbolizing both the spiritual energies that flow between them and the 22 Hebrew letters.
 
-These sephirot are arranged into three pillars: the Pillar of Mercy on the right, consisting of sephirot Chokhmah, Chesed, and Netzach; the Pillar of Severity on the left, consisting of Binah, Gevurah, and Hod; and the Pillar of Balance in the center, containing Keter, Tiferet, Yesod, and Malkuth.
+**These sephirot are arranged into three pillars**: the Pillar of Mercy on the right, consisting of sephirot Chokhmah, Chesed, and Netzach; the Pillar of Severity on the left, consisting of Binah, Gevurah, and Hod; and the Pillar of Balance in the center, containing Keter, Tiferet, Yesod, and Malkuth.
 
 The 10 sephirot, in descending order, are:
 1. Keter (Crown)

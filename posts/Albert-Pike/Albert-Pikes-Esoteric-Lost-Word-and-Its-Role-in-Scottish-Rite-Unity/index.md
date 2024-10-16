@@ -27,11 +27,11 @@ The knowledge challenge we have at hand is to analyze the role of Albert Pike's 
 4. Pike's esoteric interpretation of the "Lost Word"
 5. The significance of the "Lost Word" in unifying various traditions within the Scottish Rite Freemasonry
 
-**1. ****Albert Pike****: A Brief Overview**
+**1. **Albert Pike**: A Brief Overview**
 
 Albert Pike (1809-1891) was an American Freemason, lawyer, writer, poet, and soldier who became an influential figure within the Masonic fraternity. He is best known for his work on creating a comprehensive system of Masonic rituals and ceremonies for the Scottish Rite, one of the two main branches of Freemasonry. Pike was deeply interested in esoteric knowledge, philosophy, and the occult and sought to integrate these elements into Freemasonry, which culminated in his seminal work, "Morals and Dogma."
 
-**2. ****"Morals and Dogma"****: Purpose and Content**
+**2. **"Morals and Dogma"**: Purpose and Content**
 
 "Morals and Dogma of the Ancient and Accepted Scottish Rite of Freemasonry" was published in 1871 and serves as a comprehensive guide to the philosophies, symbols, and rituals of the Scottish Rite. In the book, Pike explores various philosophies, religious beliefs, and ancient mysteries to provide a structural framework for understanding the degrees of the Scottish Rite. His treatise remains one of the most enduring and influential works on Freemasonry and the esoteric wisdom it seeks to preserve.
 

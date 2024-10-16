@@ -37,7 +37,7 @@ Practices
 
 Ophite Gnostic practices consist primarily of focused meditation, ritualistic prayers, and the study of sacred texts. These activities are undertaken to stimulate the awakening of the inner divine spark, or nous, which lies dormant in the human soul. The ultimate goal is to overcome the material world's barriers and achieve spiritual liberation.
 
-One Specific Ritual: The Baptism of Wisdom
+**One Specific Ritual**: The Baptism of Wisdom
 
 A crucial ritual in Ophite Gnostic tradition is the Baptism of Wisdom, which serves as an initiation into the deeper mysteries of the faith. **The ceremony involves three main components**: purification, consecration, and illumination.
 

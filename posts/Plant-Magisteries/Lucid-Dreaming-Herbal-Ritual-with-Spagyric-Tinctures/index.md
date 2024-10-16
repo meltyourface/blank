@@ -22,7 +22,7 @@ excerpt: >
 ---
 Ritual Title: The Dreamer's Garden
 
-Objective: To amplify dream work and enhance lucid dreaming experiences through a comprehensive Plant Magisteries ritual, focused on the selection and synergy of potent herbal allies, performed in alignment with relevant celestial and elemental influences.
+**Objective**: To amplify dream work and enhance lucid dreaming experiences through a comprehensive Plant Magisteries ritual, focused on the selection and synergy of potent herbal allies, performed in alignment with relevant celestial and elemental influences.
 
 Herbal Ingredients:
 

@@ -34,7 +34,7 @@ Their journey led them through the labyrinthine depths of the Merkabah Forest, w
 
 As Celestia and Zephyr faced each trial, their love's enigmatic power manifested – hearts synced, minds connected, and souls intertwined. It enabled them to navigate baffling realms of ethereal existence, defeat otherworldly creatures and outwit supernatural beings. Their love inspired them to make world-defying decisions, to honor self-sacrifice, and to rekindle a sense of wonder that transcended both boundaries and logic.
 
-Finally, Celestia and Zephyr reached the final trial. ****They were confronted by an entity that appeared as a mirror image of themselves****: a singular, radiant reflection. The entity asked them to provide a true essence of love, to reveal their love's most secret and unutterable shape.
+Finally, Celestia and Zephyr reached the final trial. **They were confronted by an entity that appeared as a mirror image of themselves**: a singular, radiant reflection. The entity asked them to provide a true essence of love, to reveal their love's most secret and unutterable shape.
 
 Celestia and Zephyr looked deep into each other's eyes and for the first time, felt the barriers that separated them begin to fade. In that moment, their love embodied every facet of the cosmos and transcended the limitations of mere human emotion. Their love was boundless, unconfined by time, space, or reason. And with a burst of cosmic energy, the barrier shattered.
 

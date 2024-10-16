@@ -44,7 +44,7 @@ The Importance of Electional Charts
 
 Electional charts serve as a roadmap for Astrological Elective Reading. They represent the current and future celestial configurations, highlighting the essential astrological factors described above. By studying these charts, practitioners can gain valuable insights into the quality of time and its suitability for individual actions, decisions, and events.
 
-Using Electional Charts: A Step-by-Step Guide
+**Using Electional Charts**: A Step-by-Step Guide
 
 1. **Define the Objective**: Clearly outline the nature of the event, action, or decision you are planning. This will help you identify the most relevant astrological factors to consider.
 

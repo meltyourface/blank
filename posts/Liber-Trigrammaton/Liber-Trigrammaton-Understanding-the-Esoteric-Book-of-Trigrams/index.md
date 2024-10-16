@@ -32,7 +32,7 @@ The Liber Trigrammaton is attributed to Aleister Crowley, a highly influential 1
 
 Interpretations
 
-Since the release of the Liber Trigrammaton, many interpretations have emerged attempting to decipher its subtle meanings and cryptic nature. ****However, a central theme can be found throughout these interpretations****: the belief that the text provides an understanding of the laws governing the cosmos as well as the forces underlying creation, transformation, and destruction of the universe. It is often linked to the ancient Chinese text, the I Ching, or Book of Changes, which also utilizes trigrams and hexagrams, with the latter being combinations of two trigrams, in its structure.
+Since the release of the Liber Trigrammaton, many interpretations have emerged attempting to decipher its subtle meanings and cryptic nature. **However, a central theme can be found throughout these interpretations**: the belief that the text provides an understanding of the laws governing the cosmos as well as the forces underlying creation, transformation, and destruction of the universe. It is often linked to the ancient Chinese text, the I Ching, or Book of Changes, which also utilizes trigrams and hexagrams, with the latter being combinations of two trigrams, in its structure.
 
 Significance in Esoteric Practices
 
@@ -46,8 +46,8 @@ Liber Trigrammaton consists of 27 trigrams, which are combinations of three line
 
 By analyzing the relationships and correspondences between these trigrams, it is possible to reveal profound insights into the dynamics of the universe and the interplay of its forces. **Here are some examples of trigrams and their meanings within the Liber Trigrammaton, oftentimes linked to elemental attributes and psychological archetypes**:
 
-1. ****☰ - The Creative (Yang, Yang, Yang)****: symbolizes the active, creative force in the universe, often associated with the element of air and the Father archetype.
-2. ****☷ - The Receptive (Yin, Yin, Yin)****: represents the passive, receptive force in the universe, often related to the element of earth and the Mother archetype.
+1. **☰ - The Creative (Yang, Yang, Yang)**: symbolizes the active, creative force in the universe, often associated with the element of air and the Father archetype.
+2. **☷ - The Receptive (Yin, Yin, Yin)**: represents the passive, receptive force in the universe, often related to the element of earth and the Mother archetype.
 
 Understanding the trigrams, their meanings and the forces they represent can lead to a more in-depth knowledge of the cosmic order and the hidden workings of existence.
 

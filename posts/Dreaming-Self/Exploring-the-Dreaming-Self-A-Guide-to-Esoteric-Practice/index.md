@@ -30,7 +30,7 @@ The Dreaming Self represents a complex and multi-dimensional facet of the human 
 
 A. Duality of the Psyche
 
-The human psyche is comprised of two primary elements: the Waking Self and the Dreaming Self. While the Waking Self is grounded in the mundane realities of the physical world, the Dreaming Self transcends the confines of conventional perception, granting access to the unseen realms of the cosmos. It is through the exploration and integration of these dual aspects that an occultist can achieve a more profound sense of self-awareness and spiritual power.
+**The human psyche is comprised of two primary elements**: the Waking Self and the Dreaming Self. While the Waking Self is grounded in the mundane realities of the physical world, the Dreaming Self transcends the confines of conventional perception, granting access to the unseen realms of the cosmos. It is through the exploration and integration of these dual aspects that an occultist can achieve a more profound sense of self-awareness and spiritual power.
 
 B. The Dreaming Self as an Intermediary
 

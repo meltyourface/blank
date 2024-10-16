@@ -30,7 +30,7 @@ excerpt: Create an intricate ritual to harness the power of Transience, focusing
 
 2. Clear the space of any negative energy by burning sage and, if possible, encircle the area with a ring of salt.
 
-3. ****Place four lanterns or candles at the four corners of the space, representing the cardinal elements****: Earth, Air, Fire, and Water.
+3. **Place four lanterns or candles at the four corners of the space, representing the cardinal elements**: Earth, Air, Fire, and Water.
 
 4. Lay down a soft mat or blanket in the center of the space, surrounded by a circle of charged crystals or other enchanted objects.
 

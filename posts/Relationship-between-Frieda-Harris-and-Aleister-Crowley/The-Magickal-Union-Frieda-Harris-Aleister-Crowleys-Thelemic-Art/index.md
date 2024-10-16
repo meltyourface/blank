@@ -24,7 +24,7 @@ excerpt: Create a comprehensive and informative passage that dives into the rela
 
 ### I. Introduction
 
-Frieda Harris and Aleister Crowley, two notable figures in the world of the occult, played significant roles in the advancement and exploration of esoteric and mystical knowledge during the early twentieth century. ****As collaborators and friends, their relationship proved to be a rich breeding ground for innovative ideas and methodologies that greatly impacted the development of modern magick, Thelema, and tarot. In their partnership, Harris' artistic skills beautifully complemented Crowley's profound knowledge of the occult, leading to the creation of one of the most influential tarot decks in history****: the Thoth Tarot.
+Frieda Harris and Aleister Crowley, two notable figures in the world of the occult, played significant roles in the advancement and exploration of esoteric and mystical knowledge during the early twentieth century. **As collaborators and friends, their relationship proved to be a rich breeding ground for innovative ideas and methodologies that greatly impacted the development of modern magick, Thelema, and tarot. In their partnership, Harris' artistic skills beautifully complemented Crowley's profound knowledge of the occult, leading to the creation of one of the most influential tarot decks in history**: the Thoth Tarot.
 
 ### II. Frieda Harris and Her Journey into the Occult
 
@@ -38,7 +38,7 @@ Aleister Crowley, born in 1875, was an influential British occultist, mystic, an
 
 Frieda Harris and Aleister Crowley first met in 1937, when Harris was introduced to Crowley by their mutual friend, G. C. Montefiore. The two immediately formed a strong bond based on shared interest in the esoteric and mystical realms. Harris was particularly drawn to Thelema due to its emphasis on individual spiritual development and self-expression, which resonated with her own beliefs and artistic values.
 
-### V. ****The Thoth Tarot Deck****: A Collaboration
+### V. **The Thoth Tarot Deck**: A Collaboration
 
 One of the most significant outcomes of their partnership was the creation of the Thoth Tarot deck, a groundbreaking synthesis of the tarot, Thelema, and the Qabalistic Tree of Life. Harris and Crowley worked closely together on this project, with Crowley being responsible for the design concepts, symbolism within the cards, and an accompanying book called The Book of Thoth, while Harris was tasked with the actual artwork. Their shared passion for the occult and artistic interpretation resulted in a deck that went beyond traditional tarot symbolism, introducing new elements that reflected Crowley's Thelemic and magickal framework. Harris' innovative use of color, geometry, and visual symbolism would later serve as an inspiration for future tarot artists.
 

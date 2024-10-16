@@ -30,7 +30,7 @@ To unleash the potential of ancient Egyptian occult practices, it is vital to un
 
 Ancient Egyptian magical systems were grounded in the belief that words, chants, and ceremonies held the power to affect the material world. The practitioners, known as heka, were believed to possess the divine force and knowledge required to harness this power. Heka was an integral part of Egyptian spirituality, infused into medicine, protection rituals, and communication with gods.
 
-Two essential elements of ancient Egyptian magical systems are worth noting: the concept of 'Ma'at' and the significance of the 'Ba.' Ma’at refers to the fundamental principle of maintaining balance and harmony within the universe, which was upheld by both the gods and the Egyptian people. The Ba, on the other hand, symbolized the soul's individuality and personal power, essential for navigating the afterlife and seeking protection during earthly life.
+**Two essential elements of ancient Egyptian magical systems are worth noting**: the concept of 'Ma'at' and the significance of the 'Ba.' Ma’at refers to the fundamental principle of maintaining balance and harmony within the universe, which was upheld by both the gods and the Egyptian people. The Ba, on the other hand, symbolized the soul's individuality and personal power, essential for navigating the afterlife and seeking protection during earthly life.
 
 ### II. Gods and Goddesses
 

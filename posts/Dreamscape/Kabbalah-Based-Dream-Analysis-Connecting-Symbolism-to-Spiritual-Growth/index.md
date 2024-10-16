@@ -30,25 +30,25 @@ excerpt: >
 ---
 1. **Assigning dream symbols to the ten Sephirot**:
 
-Keter (Crown) - Represents the divine will and the source of creation. ****Dream symbols****: Eagle, divine light, celestial spheres, and crown.
+Keter (Crown) - Represents the divine will and the source of creation. **Dream symbols**: Eagle, divine light, celestial spheres, and crown.
 
-Chokhmah (Wisdom) - Represents the male principle of wisdom and the first flash of intellect. ****Dream symbols****: Owl, compass, opened book, and storm clouds.
+Chokhmah (Wisdom) - Represents the male principle of wisdom and the first flash of intellect. **Dream symbols**: Owl, compass, opened book, and storm clouds.
 
-Binah (Understanding) - Represents the female principle of understanding and nurturing. ****Dream symbols****: Mother figure, altar, chalice, and ocean.
+Binah (Understanding) - Represents the female principle of understanding and nurturing. **Dream symbols**: Mother figure, altar, chalice, and ocean.
 
-Chesed (Kindness) - Represents the benevolent force behind love, mercy, and forgiveness. ****Dream symbols****: Dove, heart, bridge, and rainbow.
+Chesed (Kindness) - Represents the benevolent force behind love, mercy, and forgiveness. **Dream symbols**: Dove, heart, bridge, and rainbow.
 
-Gevurah (Severity) - Represents boundaries, judgment, and discipline. ****Dream symbols****: Sword, iron gate, mountain, and ox.
+Gevurah (Severity) - Represents boundaries, judgment, and discipline. **Dream symbols**: Sword, iron gate, mountain, and ox.
 
-Tiphareth (Beauty) - Represents the heart of the Tree of Life, balance, and spiritual harmony. ****Dream symbols****: Sun, phoenix, rose, and mirror.
+Tiphareth (Beauty) - Represents the heart of the Tree of Life, balance, and spiritual harmony. **Dream symbols**: Sun, phoenix, rose, and mirror.
 
-Netzach (Eternity) - Represents perseverance, endurance, and the path of victory. ****Dream symbols****: Wreath, lion, pillar, and torch.
+Netzach (Eternity) - Represents perseverance, endurance, and the path of victory. **Dream symbols**: Wreath, lion, pillar, and torch.
 
-Hod (Glory) - Represents analytical intelligence, communication, and divine messages. ****Dream symbols****: Quill, tower, pendulum, and ibis.
+Hod (Glory) - Represents analytical intelligence, communication, and divine messages. **Dream symbols**: Quill, tower, pendulum, and ibis.
 
-Yesod (Foundation) - Represents the link between the spiritual realm and the physical world. ****Dream symbols****: Tree, well, moon, and key.
+Yesod (Foundation) - Represents the link between the spiritual realm and the physical world. **Dream symbols**: Tree, well, moon, and key.
 
-Malkuth (Kingdom) - Represents the physical world, nature, and earthly experience. ****Dream symbols****: Earth, castle, garden, and treasure.
+Malkuth (Kingdom) - Represents the physical world, nature, and earthly experience. **Dream symbols**: Earth, castle, garden, and treasure.
 
 2. **Creating the dream-specific correspondence table for the 22 connecting pathways**:
 
@@ -64,7 +64,7 @@ In order to analyze recurring dream themes, consider categorizing the dreams int
 
 4. **Incorporating color symbolism, numerology, and astrological associations**:
 
-Colors can be assigned to the Sephirot based on traditional associations, enhancing dream interpretation. ****Examples are****: Keter (white), Chokhmah (gray/silver), Binah (black), Chesed (blue), Gevurah (red), Tiferet (yellow/green), Netzach (green), Hod (orange), Yesod (indigo/violet), and Malkuth (earthy colors).
+Colors can be assigned to the Sephirot based on traditional associations, enhancing dream interpretation. **Examples are**: Keter (white), Chokhmah (gray/silver), Binah (black), Chesed (blue), Gevurah (red), Tiferet (yellow/green), Netzach (green), Hod (orange), Yesod (indigo/violet), and Malkuth (earthy colors).
 
 Numerology can also be incorporated through analyzing significant numbers within dreams that correspond to the ten Sephirot's original Hebrew name's numerical value: (1) Keter, (2) Chokhmah, (3) Binah, etc.
 

@@ -53,9 +53,9 @@ The 22 Major Arcana cards in tarot symbolize significant life events, spiritual 
    - Psychological implications: Reconciling opposite forces within one's psyche to achieve balance and understanding
 
 ### III. Real-life Manifestations & Behavioral Patterns
-1. ****The Fool****: Recklessness, spontaneity, and an openness to change
-2. ****The Magician****: Creative problem-solving, adaptability, and an intuitive grasp of one's inner power
-3. ****The High Priestess****: Strong intuition, empathy, and an awareness of the spiritual dimensions of life
+1. **The Fool**: Recklessness, spontaneity, and an openness to change
+2. **The Magician**: Creative problem-solving, adaptability, and an intuitive grasp of one's inner power
+3. **The High Priestess**: Strong intuition, empathy, and an awareness of the spiritual dimensions of life
 
 ### IV. Psychological Implications for Tarot Practitioner and Querent
 - Tarot serves as a mirror that reflects aspects of the unconscious mind

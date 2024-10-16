@@ -34,21 +34,21 @@ Later, influential practitioners, such as the 16th-century alchemist and occulti
 
 Key Concepts
 
-1. ****Telluric energies****: The innate energies present within the Earth are referred to as telluric energies. These energies stem from various sources, including the Earth's magnetic field, ley lines – the alignments of various landforms and sacred sites, and geophysical forces such as tectonic activity and natural underground water currents.
+1. **Telluric energies**: The innate energies present within the Earth are referred to as telluric energies. These energies stem from various sources, including the Earth's magnetic field, ley lines – the alignments of various landforms and sacred sites, and geophysical forces such as tectonic activity and natural underground water currents.
 
-2. ****Elemental correspondences****: Rooted in the belief that everything that exists is comprised of the four basic elements - Earth, Air, Fire, and Water - Telluric Sorcery heavily relies on the principle of elemental correspondences. Earth energies are intrinsically linked with the element of Earth, influencing areas such as stability, growth, and material aspects of life.
+2. **Elemental correspondences**: Rooted in the belief that everything that exists is comprised of the four basic elements - Earth, Air, Fire, and Water - Telluric Sorcery heavily relies on the principle of elemental correspondences. Earth energies are intrinsically linked with the element of Earth, influencing areas such as stability, growth, and material aspects of life.
 
-3. ****Ley lines and power centers****: Identifying and understanding the location of ley lines, which are believed to be channels of concentrated telluric energies, is essential for successful Telluric Sorcery practices. Power centers, where ley lines intersect, are places of immense energy and often sites of ancient temples and sacred structures.
+3. **Ley lines and power centers**: Identifying and understanding the location of ley lines, which are believed to be channels of concentrated telluric energies, is essential for successful Telluric Sorcery practices. Power centers, where ley lines intersect, are places of immense energy and often sites of ancient temples and sacred structures.
 
 Essential Practices for a Neophyte Practitioner
 
-1. ****Developing sensitivity to telluric energies****: To effectively work with telluric energies, it is essential for practitioners to enhance their sensitivity and awareness towards these forces. Techniques such as regular meditation, grounding exercises, and energy work can help in attuning oneself to these energies.
+1. **Developing sensitivity to telluric energies**: To effectively work with telluric energies, it is essential for practitioners to enhance their sensitivity and awareness towards these forces. Techniques such as regular meditation, grounding exercises, and energy work can help in attuning oneself to these energies.
 
-2. ****Constructing an Earth-based altar****: Creating a dedicated space for Telluric Sorcery is key to enabling the flow of telluric energies. An altar can include representations of the Earth, such as crystals, stones, and bones, as well as symbols signifying the Earth element and relevant deities.
+2. **Constructing an Earth-based altar**: Creating a dedicated space for Telluric Sorcery is key to enabling the flow of telluric energies. An altar can include representations of the Earth, such as crystals, stones, and bones, as well as symbols signifying the Earth element and relevant deities.
 
-3. ****Utilizing symbols and sigils****: Symbols and sigils play a significant role in focusing and directing telluric energies towards a specific purpose or intention. Mastering the art of creating sigils for various intents allows the practitioner to communicate with the energies effectively.
+3. **Utilizing symbols and sigils**: Symbols and sigils play a significant role in focusing and directing telluric energies towards a specific purpose or intention. Mastering the art of creating sigils for various intents allows the practitioner to communicate with the energies effectively.
 
-4. ****Conducting rituals and ceremonies****: The core of Telluric Sorcery lies in performing rituals and ceremonies that evoke and manipulate telluric energies. By learning traditional practices and developing new, personalized ceremonies, a practitioner can call upon Earth energies to manifest their desires.
+4. **Conducting rituals and ceremonies**: The core of Telluric Sorcery lies in performing rituals and ceremonies that evoke and manipulate telluric energies. By learning traditional practices and developing new, personalized ceremonies, a practitioner can call upon Earth energies to manifest their desires.
 
 Conclusion
 

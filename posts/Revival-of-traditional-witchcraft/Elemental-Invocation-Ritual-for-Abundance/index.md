@@ -22,7 +22,7 @@ excerpt: >
 ---
 In the realm of traditional witchcraft, the Revival period places emphasis on elements that can be traced back to the roots of witchcraft. To compose an enchanting incantation to summon and harness the elemental powers of Earth, Air, Fire, and Water, we first need to identify the most optimal lunar phase and time of day, as well as the corresponding herbs, stones, and symbols.
 
-Lunar Phase: Waxing Moon (for increasing energy and abundance)
+**Lunar Phase**: Waxing Moon (for increasing energy and abundance)
 Time of Day: Dawn (to symbolize the awakening of elemental energies)
 
 **Herbs**:

@@ -40,7 +40,7 @@ The Lesser Sabbats, on the other hand, focus on astronomical events and are dete
 3. Summer Solstice (June 21st) - Also known as Litha, a celebration of the peak of the Sun's power and the longest day of the year.
 4. Autumn Equinox (September 21st) - Known as Mabon, a period of gratitude and reflection as we prepare for the darker half of the year.
 
-Now, let's examine the agricultural cycle, which can be understood as a parallel to the spiritual growth process. ****The agricultural cycle represents the growth and development of crops throughout the year, from planting to harvesting to their eventual decay. This cycle can be broken down into the following stages****: planting, growth, harvesting, and decay or rest.
+Now, let's examine the agricultural cycle, which can be understood as a parallel to the spiritual growth process. **The agricultural cycle represents the growth and development of crops throughout the year, from planting to harvesting to their eventual decay. This cycle can be broken down into the following stages**: planting, growth, harvesting, and decay or rest.
 
 Planting and growth represent the initial phases of life and development, while harvesting and decay correspond to the latter stages, where we gather our accomplishments and experiences, and then return to a period of rest and contemplation before beginning anew. By celebrating the Sabbats, we honor these stages and reacquaint ourselves with the natural cycles of life.
 

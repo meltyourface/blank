@@ -33,20 +33,20 @@ Throughout history, the Seraphic Amulet has been revered for its protective powe
 
 ### III. Materials and Design
 
-1. ****Materials****: a. A circular, amethyst disc (three inches in diameter) b. Pure silver wire c. Silver leaf d. Black ink made of soot and gum arabic solution e. A linen pouch filled with dried sage and lavender
+1. **Materials**: a. A circular, amethyst disc (three inches in diameter) b. Pure silver wire c. Silver leaf d. Black ink made of soot and gum arabic solution e. A linen pouch filled with dried sage and lavender
 
-2. ****Design****: a. The amethyst disc serves as the central focus of the talisman, imbued with the properties of protection, purification, and spiritual power. b. The silver wire is wrapped around the circumference of the amethyst disc, not only encasing it but enhancing its protective energy. c. Inscriptions written on the amethyst in black ink detail sacred symbols and mantras, invoking the power of higher beings and cosmic energies. d. The silver leaf is applied to the reverse side to facilitate the flow of energy and increase the talisman's potency.
+2. **Design**: a. The amethyst disc serves as the central focus of the talisman, imbued with the properties of protection, purification, and spiritual power. b. The silver wire is wrapped around the circumference of the amethyst disc, not only encasing it but enhancing its protective energy. c. Inscriptions written on the amethyst in black ink detail sacred symbols and mantras, invoking the power of higher beings and cosmic energies. d. The silver leaf is applied to the reverse side to facilitate the flow of energy and increase the talisman's potency.
 
 ### IV. Energy-Infusing Rituals
 
-1. ****Purification Ritual****: a. Cleanse the materials with saltwater and allow them to dry. b. Smudge the amethyst disc and silver wire with the sage and lavender within the linen pouch.
+1. **Purification Ritual**: a. Cleanse the materials with saltwater and allow them to dry. b. Smudge the amethyst disc and silver wire with the sage and lavender within the linen pouch.
 
-2. ****Activation Ritual****: a. During a new moon, place the materials on a clean cloth outdoors, allowing them to absorb lunar energies. b. Meditate over the materials, focusing on visualizing a protective barrier of light surrounding the Talisman. c. At the zenith of your meditation, recite the ancient invocation inscribed on the talisman to call forth its powers and bind your intentions to it.
+2. **Activation Ritual**: a. During a new moon, place the materials on a clean cloth outdoors, allowing them to absorb lunar energies. b. Meditate over the materials, focusing on visualizing a protective barrier of light surrounding the Talisman. c. At the zenith of your meditation, recite the ancient invocation inscribed on the talisman to call forth its powers and bind your intentions to it.
 
 ### V. Practical Instructions for Usage and Maintenance
 
-1. ****Usage****: a. Wear or carry the talisman when in need of spiritual protection or when faced with negative energies. b. Place the talisman near the entrances to your home or sacred space to create a protective barrier against negativity.
+1. **Usage**: a. Wear or carry the talisman when in need of spiritual protection or when faced with negative energies. b. Place the talisman near the entrances to your home or sacred space to create a protective barrier against negativity.
 
-2. ****Maintenance****: a. Regular cleansing with saltwater or smudging with sage and lavender is vital to maintain the talisman's efficacy. b. Recharge the talisman during each new moon to ensure its continuous connection to lunar energies and strengthen its protective powers.
+2. **Maintenance**: a. Regular cleansing with saltwater or smudging with sage and lavender is vital to maintain the talisman's efficacy. b. Recharge the talisman during each new moon to ensure its continuous connection to lunar energies and strengthen its protective powers.
 
 By creating and employing the Seraphic Amulet of Warding according to these instructions, one will be provided with a powerful tool for safeguarding themselves and their environment from harmful influences and malevolent forces.

@@ -67,7 +67,7 @@ Witnesses represent the main influences in the querent's life or situation. Deri
 
 The process of generating these figures allows for the formation of the Judge, which is a single figure summarizing the culmination of geomantic forces in the question. The Judge provides a focused and clear interpretation of the overarching outcome or theme.
 
-Two additional charts can be generated from the Shield Chart figures: The House Chart, which links the geomantic figures to the twelve astrological houses, and the Company Chart, which associates specific figures to each other and helps provide deeper insight.
+**Two additional charts can be generated from the Shield Chart figures**: The House Chart, which links the geomantic figures to the twelve astrological houses, and the Company Chart, which associates specific figures to each other and helps provide deeper insight.
 
 5. Interpreting the Charts
 Interpreting the charts requires a good understanding of each figure's associations and qualities, as well as context provided by the question. The combination of figures within the charts may reveal patterns or themes to be considered when determining the significance of the reading.

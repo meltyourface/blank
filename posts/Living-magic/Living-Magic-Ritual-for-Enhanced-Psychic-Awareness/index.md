@@ -24,7 +24,7 @@ Stage 1: Preparation
 
 1. Choose a quiet and comfortable space, ideally with minimal distractions, where you can perform the ritual without being disturbed.
 
-2. ****Prepare the sacred symbols and unique incantations you'll be using for the ritual. Examples of potent Living magic symbols include the Tree of Life, the Spiral of Ascension, and the Wings of Emanation. Write down some powerful affirmations that correspond with your goals for cultivating psychic awareness and intuitive skills. For example****: "I am a clear and open channel for divine wisdom and insight."
+2. **Prepare the sacred symbols and unique incantations you'll be using for the ritual. Examples of potent Living magic symbols include the Tree of Life, the Spiral of Ascension, and the Wings of Emanation. Write down some powerful affirmations that correspond with your goals for cultivating psychic awareness and intuitive skills. For example**: "I am a clear and open channel for divine wisdom and insight."
 
 3. Sit or stand in a relaxed and comfortable posture, maintaining an open chest area and a straight spine. This posture allows you to breathe deeply and comfortably, and open yourself up to the psychic energy you'll be invoking during the ritual.
 

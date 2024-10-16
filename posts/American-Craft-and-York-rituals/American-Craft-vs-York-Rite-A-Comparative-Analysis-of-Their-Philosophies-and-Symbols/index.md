@@ -36,7 +36,7 @@ In contrast, the York Rite expands upon the foundational symbolism of the Americ
 
 **Objectives**:
 
-The American Craft aims to provide initiates with a comprehensive understanding of Masonic principles and ground them in three core values: brotherly love, relief, and truth. Furthermore, these objectives extend into the development of moral character, the pursuit of knowledge, and the promotion of self-improvement.
+**The American Craft aims to provide initiates with a comprehensive understanding of Masonic principles and ground them in three core values**: brotherly love, relief, and truth. Furthermore, these objectives extend into the development of moral character, the pursuit of knowledge, and the promotion of self-improvement.
 
 Contrastingly, the York Rite delves deeper into the Masonic mysteries and offers a more intricate exploration of esoteric knowledge. The Royal Arch seeks to complete the quest for lost wisdom, the Cryptic degrees center around discovering secrets and preserving them for future generations, and the Knights Templar fosters the development of Christian virtues, spiritual growth, and benevolent protection.
 

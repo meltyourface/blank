@@ -40,25 +40,25 @@ Creating Seals and Sigils
 
 Creating a seal or sigil is a highly personal and introspective process, and there is no single "correct" method for doing so. **However, the following steps typically serve as a roadmap for aspiring practitioners**:
 
-1. ****Set a clear intention****: Before initializing the creation process, it is crucial to have a specific goal or outcome in mind. This intention should be concise, precise, and easily stated.
+1. **Set a clear intention**: Before initializing the creation process, it is crucial to have a specific goal or outcome in mind. This intention should be concise, precise, and easily stated.
 
-2. ****Choose a systems of correspondences****: Many traditions provide specific systems of correspondence that associate symbols, letters, or numbers with specific energies, planetary influences, or deities. Examples of such systems include the planetary symbols used in Western ceremonial magick, the runes of the Norse Futhark, and the Hebrew letters of the Kabbalistic tradition.
+2. **Choose a systems of correspondences**: Many traditions provide specific systems of correspondence that associate symbols, letters, or numbers with specific energies, planetary influences, or deities. Examples of such systems include the planetary symbols used in Western ceremonial magick, the runes of the Norse Futhark, and the Hebrew letters of the Kabbalistic tradition.
 
-3. ****Construction****: After settling on an intention and system, practitioners must then develop a unique symbol that represents their desired outcome. This may involve combining existing symbols or elements from the chosen system or creating a completely new sigil through an intuitive approach.
+3. **Construction**: After settling on an intention and system, practitioners must then develop a unique symbol that represents their desired outcome. This may involve combining existing symbols or elements from the chosen system or creating a completely new sigil through an intuitive approach.
 
-4. ****Activation****: Once the seal or sigil has been created, it must then be activated or consecrated. This can be achieved through a variety of methods, such as visualization, chanting, or anointing the symbol with specific substances.
+4. **Activation**: Once the seal or sigil has been created, it must then be activated or consecrated. This can be achieved through a variety of methods, such as visualization, chanting, or anointing the symbol with specific substances.
 
-5. ****Usage****: With the sigil consecrated, it is now ready for incorporation into rituals, spells, or meditation. The specific application will depend on the practitioner's particular goals and methods.
+5. **Usage**: With the sigil consecrated, it is now ready for incorporation into rituals, spells, or meditation. The specific application will depend on the practitioner's particular goals and methods.
 
 Popular Seals and Sigils
 
 Several well-known seals and sigils have emerged throughout history, which are believed to harness immense power. **Examples include**:
 
-1. ****Solomon's Seals****: Created by the revered King Solomon, these seals are said to hold dominion over an array of spirits, granting their wielder immense power.
+1. **Solomon's Seals**: Created by the revered King Solomon, these seals are said to hold dominion over an array of spirits, granting their wielder immense power.
 
-2. ****Sigil of Baphomet****: Often associated with the Church of Satan, the Sigil of Baphomet represents the culmination of earthly desires and spiritual ascent.
+2. **Sigil of Baphomet**: Often associated with the Church of Satan, the Sigil of Baphomet represents the culmination of earthly desires and spiritual ascent.
 
-3. ****The Rose Cross****: Popularized by the Rosicrucian Order, this symbol embodies a powerful means of protection and spiritual transformation.
+3. **The Rose Cross**: Popularized by the Rosicrucian Order, this symbol embodies a powerful means of protection and spiritual transformation.
 
 Conclusion
 

@@ -27,9 +27,9 @@ Venus' touch ignites the air,
 As intertwined our hearts entwine,
 And love unbroken, we declare.
 
-Verbal Component: Chant beloved names thrice, with affection cradled in every note.
+**Verbal Component**: Chant beloved names thrice, with affection cradled in every note.
 
-Symbolic Element: Entwine two red roses, their thorns pricked in passionate desire.
+**Symbolic Element**: Entwine two red roses, their thorns pricked in passionate desire.
 
 **Visualization**: Envision the night sky with illustrious constellations forming a heart, wrapping the two souls in tender connection.
 
@@ -40,9 +40,9 @@ As opulence unfurls anew,
 Prosperity upon us dawns,
 In lavish riches we pursue.
 
-Verbal Component: Recite a whispered plea to Mammon, god of wealth and avarice.
+**Verbal Component**: Recite a whispered plea to Mammon, god of wealth and avarice.
 
-Symbolic Element: Hold a gold coin and trace with care, a sigil of six pointed prosperity.
+**Symbolic Element**: Hold a gold coin and trace with care, a sigil of six pointed prosperity.
 
 **Visualization**: In golden hues of vibrant dawn, triumphant towers of wealth unleashed, a spire of abundance ascends.
 
@@ -53,8 +53,8 @@ Harmonies of healing rise,
 Soothe a weary, burdened soul,
 From weary ashes, revitalize.
 
-Verbal Component: Sing the seven sacred notes of ancient deities, each note caressing the ethers of rejuvenation.
+**Verbal Component**: Sing the seven sacred notes of ancient deities, each note caressing the ethers of rejuvenation.
 
-Symbolic Element: Inscribe the lesser-known sigil of Lord Melchisedec, a circle adorned with thirteen lines and etched upon a spagyric elixir.
+**Symbolic Element**: Inscribe the lesser-known sigil of Lord Melchisedec, a circle adorned with thirteen lines and etched upon a spagyric elixir.
 
 **Visualization**: A celestial essence of verdant mist enwrapping the body, repairing the core, and restoring the spirit in a dance of tranquil restoration.

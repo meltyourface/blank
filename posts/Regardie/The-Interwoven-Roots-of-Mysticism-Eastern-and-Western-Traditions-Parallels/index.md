@@ -37,7 +37,7 @@ This alignment is apparent in Regardie's work when compared to the ancient India
 
 Moreover, Regardie's work on kundalini draws from the Eastern practices involving the awakening of this dormant cosmic energy coiled at the base of the spine, commonly represented as a snake. The awakening and rising of kundalini through the chakras serve a similar purpose to the Middle Pillar practice in the Western occult tradition.
 
-Middle Pillar and Raising Kundalini: Mutual Influences and Variations
+**Middle Pillar and Raising Kundalini**: Mutual Influences and Variations
 
 The practice of the Middle Pillar, described extensively in Regardie's work, is founded on the Qabalistic Tree of Life, representing the vertical flow of divine energy through the sephiroth. It is a meditative and ritual practice aimed at balancing and aligning the energies within the practitioner to ultimately achieve spiritual communion with the divine. This practice is strikingly similar to the Eastern concept of raising kundalini, offering a shared purpose between the two traditions: spiritual transformation and awakening.
 

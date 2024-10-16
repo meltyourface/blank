@@ -22,9 +22,9 @@ excerpt: >
 ---
 To create an intricate enchantment system for encrypting and decrypting arcane correspondence through the mastery of Enchantments, we will follow these steps:
 
-1. ****Establish a base of arcane knowledge****: To create an enchantment system intricate enough to withstand attempts at decryption, we must delve deep into the realm of Enchantments, gathering knowledge of ancient runes, mystic symbols, and forgotten incantations. Studying from various sources like ancient grimoires, scrolls, and arcane libraries will provide a solid foundation for this task.
+1. **Establish a base of arcane knowledge**: To create an enchantment system intricate enough to withstand attempts at decryption, we must delve deep into the realm of Enchantments, gathering knowledge of ancient runes, mystic symbols, and forgotten incantations. Studying from various sources like ancient grimoires, scrolls, and arcane libraries will provide a solid foundation for this task.
 
-2. ****Design the cipher****: Create a unique cipher that utilizes the gathered arcane runes and symbols as their key components. For added complexity, we may choose to incorporate the use of specific enchanting materials as additional variables in the cipher algorithm. This will increase the cipher's authenticity and strength.
+2. **Design the cipher**: Create a unique cipher that utilizes the gathered arcane runes and symbols as their key components. For added complexity, we may choose to incorporate the use of specific enchanting materials as additional variables in the cipher algorithm. This will increase the cipher's authenticity and strength.
 
 3. **Casting process for encryption**:
    a. Begin by creating a sacred space or enchanting circle to contain the mystical energies.

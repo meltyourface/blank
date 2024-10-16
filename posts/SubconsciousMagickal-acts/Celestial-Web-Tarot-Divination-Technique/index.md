@@ -35,9 +35,9 @@ The Spread:
 **Interpretations**:
 Elemental Associations: Assess the harmony/conflict between the elemental cards regarding the decision/choice. Note how they interact with the Major Arcana cards in terms of balance and stability.
 
-Astrological Correspondences: Analyze the cosmic energies of the Seven Cosmic Influencers and observe how these planetary forces influence the situation.
+**Astrological Correspondences**: Analyze the cosmic energies of the Seven Cosmic Influencers and observe how these planetary forces influence the situation.
 
-Numerological Symbolism: Add the numbers of the Major Arcana cards indicating the Past, Present, and Future. Reduce them to a single digit, representing the core vibration of the issue at hand.
+**Numerological Symbolism**: Add the numbers of the Major Arcana cards indicating the Past, Present, and Future. Reduce them to a single digit, representing the core vibration of the issue at hand.
 
 **Combination**: Synthesize these factors to provide enhanced clarity and understanding. Examine the relationships between the elements, astrological influences, and numerology to create a holistic and in-depth interpretation.
 

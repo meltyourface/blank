@@ -30,21 +30,21 @@ Use a sturdy table or a specific altar stand as a base. On top of the surface, p
 
 **Incense**: Select an incense blend composed of herbs that resonate with the new moon, such as mugwort, myrrh, or lavender. This will be used to purify the space and create a calming atmosphere.
 
-Sacred texts: Incorporate healing texts, sacred scriptures, or prayer books relevant to your spiritual practice on the altar. These texts will serve as a source of inspiration and guidance during the ritual.
+**Sacred texts**: Incorporate healing texts, sacred scriptures, or prayer books relevant to your spiritual practice on the altar. These texts will serve as a source of inspiration and guidance during the ritual.
 **Step 4**: Modern healing tools
 
 **Crystals**: Arrange key healing crystals that amplify manifestation and transformational energy, such as labradorite, black moonstone, and clear quartz. These can be positioned in a grid formation or intuitively placed where they feel energetically aligned.
 
-Essential oils: Incorporate essential oils like sage, lemongrass, or frankincense to purify the space and promote healing. Use a diffuser or oil burner to disperse the fragrance throughout the room.
+**Essential oils**: Incorporate essential oils like sage, lemongrass, or frankincense to purify the space and promote healing. Use a diffuser or oil burner to disperse the fragrance throughout the room.
 
-Energy healing devices: If employing Reiki or another energy healing modality, include related tools like Reiki-charged stones or healing wands on the altar.
+**Energy healing devices**: If employing Reiki or another energy healing modality, include related tools like Reiki-charged stones or healing wands on the altar.
 **Step 5**: Technological integration
 
 **Amplification**: Use Bluetooth speakers to play a binaural beats or solfeggio frequencies audio track during the ritual. This will help to synchronize the brainwaves of those participating and align their energies with the new moon's frequencies.
 
-Synchronizing energies: Utilize a digital lunar cycle tracking app or software to monitor the new moon's phase and exact timing. This ensures the alignment of the altar's energies with the celestial vibrations.
+**Synchronizing energies**: Utilize a digital lunar cycle tracking app or software to monitor the new moon's phase and exact timing. This ensures the alignment of the altar's energies with the celestial vibrations.
 
-Energy enhancement: To further enhance the vibrational frequencies of the altar, introduce energy emitting devices like orgonite pyramids or scalar energy generators. These devices can amplify the potency of the healing intent being channeled during the new moon ritual.
+**Energy enhancement**: To further enhance the vibrational frequencies of the altar, introduce energy emitting devices like orgonite pyramids or scalar energy generators. These devices can amplify the potency of the healing intent being channeled during the new moon ritual.
 **Step 6**: Personalize the altar
 
 Add meaningful personal items, symbols, or talismans that resonate with your healing journey and spiritual practice. This can include photos of loved ones, healing affirmations, or unique pieces that hold significance for you.

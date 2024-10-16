@@ -20,7 +20,7 @@ description: You are a master of the esoteric, occult, Diabolic Worship, you com
 excerpt: > 
   Design an intricate infernal pact ritual by invoking the presence of three unique demonic forces, each embodying distinct malevolent qualities. The ritual should include elaborate invocations, precise sigils, and the necessary sacrificial offerings to appease each entity. Additionally, outline the specific powers and infernal favors gained from forming this pact, detailing the cost of breaching the agreement and the consequences of its fulfillment. Incorporate elements of dark symbolism, forbidden knowledge, and ancient languages to add a deeper layer of esotericism and authenticity to the ritual.
 ---
-## I. ****Introduction of the Infernal Pact Ritual****: Pactum Trium Maleficarum
+## I. **Introduction of the Infernal Pact Ritual**: Pactum Trium Maleficarum
 
 The Pactum Trium Maleficarum (Pact of the Three Evils) is a complex and clandestine ritual that involves the invocation of three distinct demonic forces: 
 

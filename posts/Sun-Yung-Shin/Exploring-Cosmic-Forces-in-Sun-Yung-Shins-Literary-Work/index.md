@@ -36,7 +36,7 @@ The 60-year cycle of Taì Suì is characterized by periods of change, growth, an
 
 4. Huángdì (Chinese emperor)
 
-The concept of the Chinese emperor signifies power, tradition, and authority. ****In Sun Yung Shin's work, this influence can be evidenced through her exploration of authoritative structures, cultural traditions, and the inherent power dynamics in modern society. For example, her collection "The Adopted Koreans****: A Poem" delves into the complexities of race, power, and identity, tackling the systematic disparities that emerge from these intersections.
+The concept of the Chinese emperor signifies power, tradition, and authority. **In Sun Yung Shin's work, this influence can be evidenced through her exploration of authoritative structures, cultural traditions, and the inherent power dynamics in modern society. For example, her collection "The Adopted Koreans**: A Poem" delves into the complexities of race, power, and identity, tackling the systematic disparities that emerge from these intersections.
 
 Interactions of the Four Pillars
 

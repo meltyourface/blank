@@ -26,10 +26,10 @@ Ritual Title: The Illumination of Gaia
 
 **Symbols**:
 
-1. ****Spiral****: Represents growth, evolution, and the interconnectedness of life.
-2. ****Circle****: Symbolizes balance, unity, and the cyclic nature of existence.
-3. ****Tree****: Represents rootedness, stability, and interdependence.
-4. ****Eye****: Symbolizes intuition, clarity, and the ability to perceive hidden meanings.
+1. **Spiral**: Represents growth, evolution, and the interconnectedness of life.
+2. **Circle**: Symbolizes balance, unity, and the cyclic nature of existence.
+3. **Tree**: Represents rootedness, stability, and interdependence.
+4. **Eye**: Symbolizes intuition, clarity, and the ability to perceive hidden meanings.
 
 **Materials**:
 

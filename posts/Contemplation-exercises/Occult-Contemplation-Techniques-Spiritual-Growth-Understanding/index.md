@@ -35,7 +35,7 @@ One essential exercise in the study of esoteric arts is the elemental contemplat
 
 1. Choose a quiet, comfortable space where you won't be disturbed.
 2. Sit or lie down in a relaxed position, focusing on your breath to calm your mind.
-3. ****Begin to visualize one of the four elements****: earth, air, fire, or water.
+3. **Begin to visualize one of the four elements**: earth, air, fire, or water.
 4. Immerse yourself in this element, imagining its properties and how it interacts with your body.
 5. Observe the insights about the element that you receive during this contemplation session.
 6. Slowly bring your awareness back to your breath, returning to the present moment.

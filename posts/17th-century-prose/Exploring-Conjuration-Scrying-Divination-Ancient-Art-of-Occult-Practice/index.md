@@ -25,7 +25,7 @@ Dearest reader, be forewarned that the arcane sciences presented here demand at 
 
 Let us sally forth and delve into the hidden recesses of Conjuration, Scrying, and Divination – those preeminent trifold arts, like chiefest pillars, that uphold the obscured temple of the Occult.
 
-Unto the Summoning of Otherworldly Entities: Conjuration
+**Unto the Summoning of Otherworldly Entities**: Conjuration
 
 In the most eldritch annals of occult learning, one craft above all strikes awe into the stoutest of hearts, that of calling forth beings from nether realms. The process, known as Conjuration, requires scrupulous preparation and extraordinary discernment.
 
@@ -35,7 +35,7 @@ To mount a bridge across this unseen world and the visible reality we inhabit, t
 
 Utmost precision must be observed in the act of inscribing these symbols, for a hastily traced or botched circle may prove disastrous, unleashing forces beyond mortal rein. Let no one forget that secrecy too, is a coveted tool in the arsenal of conjurers, permitting only the worthy to engender communion with these unearthly forces.
 
-Upon the Power of the Piercing Gaze: Scrying
+**Upon the Power of the Piercing Gaze**: Scrying
 
 As Conjuration illuminates the unseen inhabitants of celestial spheres, so does Scrying exalt the visionary capacity of the occultist. Scrying grants unto the beholder a glimpse beyond the veil of our terrestrial realm, allowing him to discern visions of import from across the vast expanse of time and space.
 

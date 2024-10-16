@@ -34,30 +34,30 @@ Now let us examine three distinct spreads tailored to answer specific types of q
 Spread 1: The Path of Knowledge
 Intention: To gain insight and guidance for personal growth and self-discovery.
 
-Layout: Arrange the cards in a triangular shape, with three cards on each side forming the Trident's prongs.
+**Layout**: Arrange the cards in a triangular shape, with three cards on each side forming the Trident's prongs.
 - Top card: The current path or situation.
 - Left Prong: Past influences on the present.
 - Middle Prong: Present challenges and strengths.
 - Right Prong: Future opportunities and risks.
 
-Interpretation: Examine the cards within each prong to understand how past, present, and future factors influence the seeker's personal journey. Consider the interaction between the cards for deeper insights, and use the Trident's symbolism and enchantments to amplify the message.
+**Interpretation**: Examine the cards within each prong to understand how past, present, and future factors influence the seeker's personal journey. Consider the interaction between the cards for deeper insights, and use the Trident's symbolism and enchantments to amplify the message.
 
 Spread 2: The Decision Maker
 Intention: To provide clarity when faced with a difficult decision, weighing the consequences of each option.
 
-Layout: Arrange the cards in a cross pattern with five cards.
+**Layout**: Arrange the cards in a cross pattern with five cards.
 - Center card: The decision's essence.
 - Left card: Pros of Option A.
 - Right card: Cons of Option A.
 - Top card: Pros of Option B.
 - Bottom card: Cons of Option B.
 
-Interpretation: Assess the cards to understand the strengths and weaknesses of each option, and weigh the outcomes against the seeker's values and desires. Use the Trident's sigils and enchantments to clarify the cards' messages and ensure they are aligned with the seeker's objectives.
+**Interpretation**: Assess the cards to understand the strengths and weaknesses of each option, and weigh the outcomes against the seeker's values and desires. Use the Trident's sigils and enchantments to clarify the cards' messages and ensure they are aligned with the seeker's objectives.
 
 Spread 3: The Spiritual Alchemist
 Intention: To facilitate the integration of spiritual lessons and experiences into the seeker's life.
 
-Layout: Arrange the cards in a circular pattern with seven cards, representing the alchemical process.
+**Layout**: Arrange the cards in a circular pattern with seven cards, representing the alchemical process.
 - Card 1: Calcination - Release and transformation.
 - Card 2: Dissolution - Embracing emotional depth.
 - Card 3: Separation - Refining the self.
@@ -66,6 +66,6 @@ Layout: Arrange the cards in a circular pattern with seven cards, representing t
 - Card 6: Distillation - Purification of the spiritual essence.
 - Card 7: Coagulation - The culmination and synthesis of the process.
 
-Interpretation: Analyze the cards in each position to understand the flow of spiritual transformation. Pay particular attention to the spaces in which the cards interact and influence each other, as these signify crucial points in the seeker's spiritual journey. Utilize the Trident's enchantments and sigils in interpreting the cards according to the tradition's principles, applying their meanings to the context of spiritual alchemy.
+**Interpretation**: Analyze the cards in each position to understand the flow of spiritual transformation. Pay particular attention to the spaces in which the cards interact and influence each other, as these signify crucial points in the seeker's spiritual journey. Utilize the Trident's enchantments and sigils in interpreting the cards according to the tradition's principles, applying their meanings to the context of spiritual alchemy.
 
 In summary, by designing custom Tarot spreads that incorporate the principles and symbolism of the Trident of Witchcraft, practitioners can attain deeper insights into their questions and concerns, taking advantage of the powerful energies of sigils and enchantments. By understanding and interpreting these spreads' messages, seekers can tap into the ancient wisdom and guidance of this profound esoteric tradition.

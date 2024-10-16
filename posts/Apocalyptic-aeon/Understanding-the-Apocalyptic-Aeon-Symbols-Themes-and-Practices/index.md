@@ -27,7 +27,7 @@ Symbols and Themes
 
 The Apocalyptic aeon encompasses a myriad of symbols that provide a multi-layered understanding of its intricate nature. Among the most prominently recognized symbols are the Four Horsemen, which embody the harbingers of suffering, strife and war, on which the ultimate transformation is predicated.
 
-Each Horseman represents a distinct aspect of the Apocalyptic narrative: the White Horse embodies conquest, the Red Horse symbolizes war, the Black Horse signifies famine, and finally, the Pale Horse embodies death. These four aspects unveil deeper spiritual mysteries to the initiated, signifying the stages of transformation and purification required to attain higher knowledge.
+**Each Horseman represents a distinct aspect of the Apocalyptic narrative**: the White Horse embodies conquest, the Red Horse symbolizes war, the Black Horse signifies famine, and finally, the Pale Horse embodies death. These four aspects unveil deeper spiritual mysteries to the initiated, signifying the stages of transformation and purification required to attain higher knowledge.
 
 Another potent symbol is the Seven Seals, representing the layers of revelation that must be unveiled for the culmination of the Apocalyptic aeon. Breaking each seal marks the transcending of a cycle of existence, propelling humanity toward a holistic, spiritual renaissance.
 

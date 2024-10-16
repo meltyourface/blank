@@ -50,5 +50,5 @@ Associated Rituals and Customs:
 2. Divination: Reading signs from nature, as Vasilisa does, can be linked to various forms of divination in traditional folklore.
 3. The "Hero's Journey": Vasilisa's tale follows the archetypal journey of a hero through trials and growth, eventually returning transformed.
 
-Impact on the Narrative: 
+**Impact on the Narrative**: 
 The incorporation of astral connections, elemental associations, and zodiac archetypes enhances the story's depth and nuances. The tale of Vasilisa the Beautiful becomes an allegory for the human experience, depicting the trials and rewards of personal growth. Understanding these connections aids in deciphering the profound themes and spiritual significance of the folk tale, as well as how this knowledge can be applied to one's life.

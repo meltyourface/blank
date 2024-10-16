@@ -61,4 +61,4 @@ Post-Ritual:
 13. Dispose of the remaining candle wax and incense ash in a respectful manner, such as burying them in the Earth, symbolically anchoring the wealth intention into the material plane.
 14. Carry the sigil and talismans of wealth with you as a reminder of your intention, remaining open to opportunities for wealth to manifest in your life.
 
-Important Note: This ritual is simply a guide and should be adjusted according to one's personal beliefs, inclinations, and spiritual practices. Always work within your own ethical and spiritual framework. Be patient and open to receiving wealth in unexpected ways, and remember that the ultimate goal should be for the highest good of all involved.
+**Important Note**: This ritual is simply a guide and should be adjusted according to one's personal beliefs, inclinations, and spiritual practices. Always work within your own ethical and spiritual framework. Be patient and open to receiving wealth in unexpected ways, and remember that the ultimate goal should be for the highest good of all involved.

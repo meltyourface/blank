@@ -33,7 +33,7 @@ Key Principles and Techniques
 
 **Crystals**: Some individuals find working with crystals helpful, as each crystal has a unique energy vibration that can enhance psychic abilities. Popular crystals for clairvoyance include amethyst, clear quartz, and lapis lazuli.
 
-Tarot Cards: Tarot cards serve as valuable tools for unlocking the subconscious mind and tapping into psychic intuition. Learning to read tarot cards can help you establish a dialogue between your conscious and unconscious minds, enhancing your clairvoyant channeling.
+**Tarot Cards**: Tarot cards serve as valuable tools for unlocking the subconscious mind and tapping into psychic intuition. Learning to read tarot cards can help you establish a dialogue between your conscious and unconscious minds, enhancing your clairvoyant channeling.
 
 Challenges and Precautions
 

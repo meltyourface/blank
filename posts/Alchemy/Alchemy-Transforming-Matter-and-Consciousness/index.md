@@ -44,7 +44,7 @@ At its core, alchemy focuses on the pursuit of the Magnum Opus, also known as th
 
 ### III. The Transformation Process
 
-The process of transformation in alchemy is based on the belief that all matter is composed of the same fundamental elements: earth, air, fire, and water. These elements, in combination, create the prima materia, the primary formless substance from which all things originate. In order to achieve transmutation, the alchemist must undertake a series of steps to isolate these elements, purify them, and recombine them in the desired form. A simplified overview of the alchemical process is as follows:
+**The process of transformation in alchemy is based on the belief that all matter is composed of the same fundamental elements**: earth, air, fire, and water. These elements, in combination, create the prima materia, the primary formless substance from which all things originate. In order to achieve transmutation, the alchemist must undertake a series of steps to isolate these elements, purify them, and recombine them in the desired form. A simplified overview of the alchemical process is as follows:
 
 1. Calcination: Applying heat to a substance, breaking it down, and reducing it to ash.
 

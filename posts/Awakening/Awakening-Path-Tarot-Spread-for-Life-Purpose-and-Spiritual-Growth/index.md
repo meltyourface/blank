@@ -29,44 +29,44 @@ Layout (in the shape of a diamond with an additional card in the center):
   6 - 8
 9
 
-1. ****Base of potential****: This card represents the innate potential and gifts the seeker possesses. It sheds light on their strengths or abilities that lay the foundation for their purpose in life.
+1. **Base of potential**: This card represents the innate potential and gifts the seeker possesses. It sheds light on their strengths or abilities that lay the foundation for their purpose in life.
 
-2. ****Earthly roots****: The second card signifies the mundane obstacles and challenges that the individual may face. It helps in understanding the personal growth required to overcome these trials.
+2. **Earthly roots**: The second card signifies the mundane obstacles and challenges that the individual may face. It helps in understanding the personal growth required to overcome these trials.
 
-3. ****Steps of flight****: This position discovers the next steps the seeker must take towards spiritual growth and evolution. It may reveal new paths or personal transformations needed to progress in their journey.
+3. **Steps of flight**: This position discovers the next steps the seeker must take towards spiritual growth and evolution. It may reveal new paths or personal transformations needed to progress in their journey.
 
-4. ****Hidden wisdom****: This card unveils the esoteric knowledge the seeker unconsciously possesses. These hidden lessons will serve them in their life purpose once acknowledged and cultivated.
+4. **Hidden wisdom**: This card unveils the esoteric knowledge the seeker unconsciously possesses. These hidden lessons will serve them in their life purpose once acknowledged and cultivated.
 
-5. ****Awaking Catalyst (center card)****: The central card signifies the key event, person, or realization that acts as the pivotal trigger for the individual's Awakening. It marks a turning point in the seeker's understanding of themselves and their place in the universe.
+5. **Awaking Catalyst (center card)**: The central card signifies the key event, person, or realization that acts as the pivotal trigger for the individual's Awakening. It marks a turning point in the seeker's understanding of themselves and their place in the universe.
 
-6. ****Celestial connections****: This card showcases divine guidance or spiritual help the seeker receives from higher realms or otherworldly beings. These connections will play a crucial role in their spiritual growth and development.
+6. **Celestial connections**: This card showcases divine guidance or spiritual help the seeker receives from higher realms or otherworldly beings. These connections will play a crucial role in their spiritual growth and development.
 
-7. ****Life purpose unveiled****: The seventh card represents the ultimate life mission and purpose of the seeker. It shows their role in the cosmic plan and how it interconnects with their personal growth and ascension.
+7. **Life purpose unveiled**: The seventh card represents the ultimate life mission and purpose of the seeker. It shows their role in the cosmic plan and how it interconnects with their personal growth and ascension.
 
-8. ****Ascended self****: This position reveals the person the seeker becomes once they have completed their ascension journey. It is a glimpse into their evolved state of being, wisdom, and power.
+8. **Ascended self**: This position reveals the person the seeker becomes once they have completed their ascension journey. It is a glimpse into their evolved state of being, wisdom, and power.
 
-9. ****Service to others****: The final card stands for the ways the seeker shares their knowledge, gifts, and experiences to uplift and aid others in their spiritual and personal development.
+9. **Service to others**: The final card stands for the ways the seeker shares their knowledge, gifts, and experiences to uplift and aid others in their spiritual and personal development.
 
 Three possible tarot interpretations within the spread:
 
 Example A:
-1. ****Base of Potential****: The Magician
-2. ****Earthly Roots****: Five of Pentacles
-3. ****Steps of Flight****: Knight of Swords
+1. **Base of Potential**: The Magician
+2. **Earthly Roots**: Five of Pentacles
+3. **Steps of Flight**: Knight of Swords
 
 The seeker possesses a natural affinity for manifestation (The Magician). However, their personal growth may be hindered by a fear of inadequacy and financial insecurity (Five of Pentacles). To achieve spiritual development, they must embrace assertiveness and embrace the pursuit of knowledge (Knight of Swords).
 
 Example B:
-1. ****Base of Potential****: Queen of Cups
-2. ****Earthly Roots****: Six of Swords
-3. ****Steps of Flight****: The Hierophant
+1. **Base of Potential**: Queen of Cups
+2. **Earthly Roots**: Six of Swords
+3. **Steps of Flight**: The Hierophant
 
 The individual is intuitively gifted and deeply empathetic (Queen of Cups). They must navigate through past traumas and mental anguish (Six of Swords) to develop spiritual awareness. To continue their Awakening, they must seek traditional wisdom and embrace spiritual teaching (The Hierophant).
 
 Example C:
-1. ****Base of Potential****: The Sun
-2. ****Earthly Roots****: Three of Wands
-3. ****Steps of Flight****: The Star
+1. **Base of Potential**: The Sun
+2. **Earthly Roots**: Three of Wands
+3. **Steps of Flight**: The Star
 
 The seeker possesses an intrinsic radiance and positivity (The Sun), but they need to overcome indecisiveness and strive for long-term goals (Three of Wands). Their journey requires faith in the unseen and the willingness to embrace hope, inspiration, and healing (The Star).
 

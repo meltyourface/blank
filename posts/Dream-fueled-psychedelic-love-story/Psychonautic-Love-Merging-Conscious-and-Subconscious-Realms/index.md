@@ -30,9 +30,9 @@ We will first explore these individual components and then will analyze how, whe
 
 Dream-fueled psychedelic love story: This genre typically centers around the experiences of characters who find themselves engaged in love affairs that transcend the conventional boundaries of reality, often employing dream-like or trance states to delve into the intricacies of the human mind, emotions, and relationships.
 
-Merging of the conscious and subconscious realms: The merging of conscious and subconscious realms refers to the meeting point between the rational, thinking mind and the deeply emotional, instinctual side of the human experience. It is a boundary-blurring process that often allows for creative insights and a fuller exploration of one's own psyche.
+**Merging of the conscious and subconscious realms**: The merging of conscious and subconscious realms refers to the meeting point between the rational, thinking mind and the deeply emotional, instinctual side of the human experience. It is a boundary-blurring process that often allows for creative insights and a fuller exploration of one's own psyche.
 
-Altered states of perception: Altered states of perception refer to situations wherein an individual's experience of reality is modified in some way, often through drug use, trance states, or intense psychological experiences. These altered states can open doors to new interpretations and understandings of one's own experiences and emotions.
+**Altered states of perception**: Altered states of perception refer to situations wherein an individual's experience of reality is modified in some way, often through drug use, trance states, or intense psychological experiences. These altered states can open doors to new interpretations and understandings of one's own experiences and emotions.
 
 In a Dream-fueled psychedelic love story, the merging of conscious and subconscious realms, along with altered states of perception, plays a crucial role in shaping the characters' understanding of love and their unified spiritual growth. **This occurs through several interconnected mechanisms**:
 

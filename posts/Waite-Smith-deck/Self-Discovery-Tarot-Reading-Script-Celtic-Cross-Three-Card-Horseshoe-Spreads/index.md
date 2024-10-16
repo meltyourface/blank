@@ -70,11 +70,11 @@ Example:
 
 Position 1: The Magician (Major Arcana)
 
-Interpretation: The Magician represents personal power, manifestation, and skill. This card indicates that you have the potential to create and effect change in your life. It's time to take action and use your natural abilities to shape your destiny.
+**Interpretation**: The Magician represents personal power, manifestation, and skill. This card indicates that you have the potential to create and effect change in your life. It's time to take action and use your natural abilities to shape your destiny.
 
-Visual Description: The Magician stands at a table, with one hand raised towards the sky and the other pointing to the ground. This symbolizes the connection between the spiritual and the material realms. The four suits of the tarot - Cups, Wands, Swords, and Pentacles - are displayed on the table, representing the elements of water, fire, air, and earth.
+**Visual Description**: The Magician stands at a table, with one hand raised towards the sky and the other pointing to the ground. This symbolizes the connection between the spiritual and the material realms. The four suits of the tarot - Cups, Wands, Swords, and Pentacles - are displayed on the table, representing the elements of water, fire, air, and earth.
 
-Reflection Prompt: Consider your current situation. How can you utilize your skills and abilities to manifest positive change in your life?
+**Reflection Prompt**: Consider your current situation. How can you utilize your skills and abilities to manifest positive change in your life?
 
 [Repeat this process for each card drawn in the chosen spread]
 

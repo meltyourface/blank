@@ -47,7 +47,7 @@ Anzarkûl is summoned to seek guidance on influencing others, revealing hidden e
 
 Summoning Ritual:
 
-Tools required: 
+**Tools required**: 
 
 - Chalk or charcoal for drawing the sigil and ritual circle
 - Black candles

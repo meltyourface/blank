@@ -26,7 +26,7 @@ excerpt: Compose an informative section of a grimoire discussing the significanc
 
 The Moon has long been a potent and significant symbol in the occult and esoteric traditions. Representing mystery, transformation, and hidden knowledge, the Moon has played an essential role within various magical practices. As the celestial body that governs the night and exerts its defined influence through its varied cycles, the Moon encapsulates an enormous array of meanings and powers that can be understood and harnessed by those delving into the esoteric arts.
 
-Phases of the Moon: The Lunar Cycles and Their Effects on Magical Practice
+**Phases of the Moon**: The Lunar Cycles and Their Effects on Magical Practice
 
 Each phase of the Moon holds distinct energies that impact the nature and effectiveness of magical workings. By understanding the symbolism and power behind each phase, an initiate can tailor their rituals to draw upon the unique properties of the Moon's cycle.
 
@@ -38,7 +38,7 @@ Each phase of the Moon holds distinct energies that impact the nature and effect
 
 4. Waning Moon: As the Moon wanes, it carries the energy of release, introspection, and letting go of what no longer serves us. This phase supports rituals aimed at breaking down barriers, dissolving bad habits, and removing unwanted influences.
 
-Moon Deities and Mythologies: The Moon's Divine Associations
+**Moon Deities and Mythologies**: The Moon's Divine Associations
 
 The Moon has been associated with various deities across different cultures and mythologies. Many of these deities share characteristics such as intuition, psychic abilities, and a connection to the ebb and flow of emotional states.
 

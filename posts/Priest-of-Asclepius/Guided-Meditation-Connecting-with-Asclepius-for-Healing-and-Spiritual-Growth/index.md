@@ -49,7 +49,7 @@ Connecting with the Divine:
             Συνδέσουν με την ιερή σου ενέργεια,
             Καθιστώσουν με αγγείο της θεραπείας σου."
 
-   Translation: "Oh Asclepius, giver of healing,
+**   Translation**: "Oh Asclepius, giver of healing,
                    Connect me with your sacred energy,
                    Make me a vessel of your cure."
 

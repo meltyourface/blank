@@ -42,11 +42,11 @@ D'Annunzio's deeply symbolic and spiritual poetry has led many scholars to exami
 
 Some of the key themes that arise from the interplay between D'Annunzio's poetry and the occult domain are:
 
-1. ****Transformation and Transmutation****: Across his works, D'Annunzio often delves into the concept of spiritual alchemy and the idea that through personal growth and conscious effort, an individual can manifest a higher state of being.
+1. **Transformation and Transmutation**: Across his works, D'Annunzio often delves into the concept of spiritual alchemy and the idea that through personal growth and conscious effort, an individual can manifest a higher state of being.
 
-2. ****The Sacred Feminine****: D'Annunzio's emphasis on the divine feminine and its relation to the natural world echoes the reverence for goddesses and the rich tradition of female-centric mystery schools in occultism.
+2. **The Sacred Feminine**: D'Annunzio's emphasis on the divine feminine and its relation to the natural world echoes the reverence for goddesses and the rich tradition of female-centric mystery schools in occultism.
 
-3. ****Syncretism and Cross-Cultural References****: In his writings, D'Annunzio often alludes to various mystical traditions, such as Greek mythology, Christian mysticism, and Eastern philosophy, showcasing his awareness of the interconnected nature of spiritual beliefs and practices across cultures.
+3. **Syncretism and Cross-Cultural References**: In his writings, D'Annunzio often alludes to various mystical traditions, such as Greek mythology, Christian mysticism, and Eastern philosophy, showcasing his awareness of the interconnected nature of spiritual beliefs and practices across cultures.
 
 ### Section Four: Lessons for the Modern Student
 

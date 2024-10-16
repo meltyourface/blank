@@ -21,7 +21,7 @@ excerpt: Develop an in-depth, 30-day program of daily Sigil-enhanced mindfulness
 ---
 Day 1-7: Sigil-enhanced Basic Mindfulness
 
-Exercise: Sigil-enhanced Breath Meditation
+**Exercise**: Sigil-enhanced Breath Meditation
 Duration: 15 minutes daily
 
 1. Choose an intent for your practice, such as increased focus or heightened awareness.
@@ -33,7 +33,7 @@ Duration: 15 minutes daily
 
 Day 8-14: Sigil-enhanced Visualization
 
-Exercise: Sigil-enhanced Object Visualization
+**Exercise**: Sigil-enhanced Object Visualization
 Duration: 20 minutes daily
 
 1. Choose an object that symbolizes your magickal goals (e.g., a wand, crystal, or talisman).
@@ -45,7 +45,7 @@ Duration: 20 minutes daily
 
 Day 15-21: Sigil-enhanced Trance Work
 
-Exercise: Sigil-enhanced Trance Induction
+**Exercise**: Sigil-enhanced Trance Induction
 Duration: 25 minutes daily
 
 1. Create a sigil that embodies trance-like states and heightened psychic abilities.
@@ -57,7 +57,7 @@ Duration: 25 minutes daily
 
 Day 22-28: Sigil-enhanced Energy Manipulation
 
-Exercise: Sigil-enhanced Energy Ball
+**Exercise**: Sigil-enhanced Energy Ball
 Duration: 15-25 minutes daily
 
 1. Craft a sigil that magnifies your ability to manipulate and project psychic energy.
@@ -70,7 +70,7 @@ Duration: 15-25 minutes daily
 
 Day 29-30: Integration and Expansion
 
-Exercise: Sigil-enhanced Magickal Integration
+**Exercise**: Sigil-enhanced Magickal Integration
 Duration: 30 minutes daily
 
 1. Reflect on the progress made throughout the 30-day program.

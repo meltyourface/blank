@@ -37,7 +37,7 @@ With the blessings of the Luminary Ones, I navigate the spectral realms."
 
 Having reached the apex of the staircase, a luminous path unveils itself, leading you to the summit of the highest tower. At its pinnacle, there is a cosmic observatory filled with celestial artifacts and navigational tools. Using these tools, you realize that you have now become a cosmic navigator, able to traverse various astral planes at will.
 
-As you peer through the etheric looking glass, you seek out obscure occult locations hidden within the fabric of the spectral plane. ****Exotic realms unfathomable to the mortal mind reveal themselves****: kaleidoscopic gardens where spectral flowers sing ancient hymns; crystalline palaces inhabited by outlandish beings who weave dreams and nightmares into the tapestry of existence.
+As you peer through the etheric looking glass, you seek out obscure occult locations hidden within the fabric of the spectral plane. **Exotic realms unfathomable to the mortal mind reveal themselves**: kaleidoscopic gardens where spectral flowers sing ancient hymns; crystalline palaces inhabited by outlandish beings who weave dreams and nightmares into the tapestry of existence.
 
 Having witnessed the wonders of the ethereal planes, it is time to return to the physical realm and bring with you the profound insights uncovered. Chart your course back through the swirling stars and begin descending the cosmic staircase.
 

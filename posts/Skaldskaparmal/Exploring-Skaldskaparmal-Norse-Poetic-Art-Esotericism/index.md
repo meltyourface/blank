@@ -32,7 +32,7 @@ Skaldskaparmal has its roots firmly planted in Norse mythology, specifically, th
 
 **Poetic Forms in Skaldskaparmal**
 
-There are two main forms of ancient Norse poetry: drápa and flokkr. A drápa is a long, elaborate poem typically composed in praise of a king or noble, while a flokkr is a shorter composition often used to explore a broad range of themes.
+**There are two main forms of ancient Norse poetry**: drápa and flokkr. A drápa is a long, elaborate poem typically composed in praise of a king or noble, while a flokkr is a shorter composition often used to explore a broad range of themes.
 
 Skaldic poetry is also characterized by its use of complex metrical and alliterative forms. The most common meter, known as fornyrðislag ("old-word meter"), consists of two pairs of stressed syllables followed by an unstressed syllable. It is crucial for students to master these metrical forms when delving into Skaldskaparmal, as understanding their structure and function greatly enhances the ability to decode, interpret, and ultimately create impactful verse.
 

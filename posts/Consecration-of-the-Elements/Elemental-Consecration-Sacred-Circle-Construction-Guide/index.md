@@ -25,7 +25,7 @@ excerpt: >
 
 Introduction
 
-The Elemental Consecration Sacred Circle is a powerful ritual that harnesses the energy of the four fundamental elements: Earth, Water, Air, and Fire. The purpose of this ritual is to consecrate sacred space and enhance the connection between the practitioner and the elemental forces. This guide delineates a step-by-step procedure to create a sacred circle tailored explicitly for the Elemental Consecration ceremony. 
+**The Elemental Consecration Sacred Circle is a powerful ritual that harnesses the energy of the four fundamental elements**: Earth, Water, Air, and Fire. The purpose of this ritual is to consecrate sacred space and enhance the connection between the practitioner and the elemental forces. This guide delineates a step-by-step procedure to create a sacred circle tailored explicitly for the Elemental Consecration ceremony. 
 
 Preparatory Measures
 

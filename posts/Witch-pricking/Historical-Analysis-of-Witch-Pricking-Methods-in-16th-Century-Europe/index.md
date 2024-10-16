@@ -40,7 +40,7 @@ excerpt: >
       2. Inquisition records, trial transcripts, firsthand accounts
    C. Identifying Research Period and Geographical Scope
       1. 16th century
-      2. ****Regional focus****: England, Scotland, France, Spain, Germany, Italy
+      2. **Regional focus**: England, Scotland, France, Spain, Germany, Italy
 
 ### III. Data Collection
    A. Primary Sources

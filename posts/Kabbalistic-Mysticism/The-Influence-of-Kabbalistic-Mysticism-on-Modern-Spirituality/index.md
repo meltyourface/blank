@@ -21,7 +21,7 @@ excerpt: >
 ---
 Kabbalistic Mysticism, originating from Jewish mystical thought and practice, has played a significant role in influencing the development and evolution of various contemporary spiritual practices. To understand its impact, we will explore the dissemination of esoteric Kabbalistic knowledge, the incorporation of Kabbalistic symbolism and rituals in new-age spiritual traditions, and the intersection of Kabbalistic Mysticism with prominent mystical movements like Hermeticism and Sufism.
 
-1. ****Dissemination of Esoteric Kabbalistic knowledge****: 
+1. **Dissemination of Esoteric Kabbalistic knowledge**: 
 
 The widespread availability of Kabbalistic knowledge can be primarily attributed to the proliferation of texts, translations, and adaptations over the centuries. Key historical figures and texts that have contributed to this dissemination include Rabbi Isaac Luria, the founder of Lurianic Kabbalah, who developed a systematic rendition of Kabbalistic theories in the 16th century; and the seminal work Zohar, a foundational text of Kabbalah, which has been translated into numerous languages.
 

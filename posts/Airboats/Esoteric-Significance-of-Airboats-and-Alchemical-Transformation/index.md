@@ -32,7 +32,7 @@ Functionality and Purpose
 
 One of the key purposes of airboats is to traverse environments that would otherwise be inaccessible or extremely difficult for other types of watercraft. This ability represents the breaking of boundaries, a common theme in occult philosophy. The adept seeks to transcend the limitations of the physical world in order to access higher realms of consciousness and gain knowledge of the unseen. The airboat's capacity to navigate various terrains serves as a metaphor for the spiritual seeker's ability to overcome obstacles and gain mastery over their environment.
 
-Key Occult Concept: Alchemy and Transformation
+**Key Occult Concept**: Alchemy and Transformation
 
 Relating the construction, functionality, and purpose of airboats to a key occult concept, we can draw correlations to the practice of spiritual alchemy, specifically the process of transformation. Alchemy involves the transmutation of base metals, such as lead, into their highest form, which is gold. Similarly, the spiritual aspect of alchemy emphasizes the refinement and improvement of the self, in pursuit of spiritual enlightenment and connection to divinity.
 

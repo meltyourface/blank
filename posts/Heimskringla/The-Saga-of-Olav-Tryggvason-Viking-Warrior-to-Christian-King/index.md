@@ -26,7 +26,7 @@ Act 1: The Raiding Years
 
 Scene 1: (In a Viking longhouse, young Olav, the son of Tryggve Olafsson and Astrid Eiriksdottir, listens to stories of his father's exploits. A Viking elder tells the tale of Tryggve's heroism, inspiring the young boy to avenge his father and claim his birthright)
 
-Viking Elder: Fear not, young Olav - for within you lies the memory of your father's heroism, and the fiery passion of your mother. Their union forged a flame that will lead you to great conquests.
+**Viking Elder**: Fear not, young Olav - for within you lies the memory of your father's heroism, and the fiery passion of your mother. Their union forged a flame that will lead you to great conquests.
 
 **Olav**: I will honor their memory by avenging my father's death and claim my rightful place as the ruler of Norway. I shall become a warrior, feared and respected like the mightiest Viking raiders.
 
@@ -36,11 +36,11 @@ Scene 2: (Years pass, and Olav, now a seasoned Viking raider, fights alongside h
 
 Scene 3: (On the island, they encounter hostile spirits, descendants of ancient giants. Olav and his crew fight courageously, but his crew falls one by one, and Olav is captured by the spirits)
 
-Giant Spirit: Who dares trespass on our sacred land?
+**Giant Spirit**: Who dares trespass on our sacred land?
 
 **Olav**: I am Olav Tryggvason of Norway. My lineage is of valor and destiny. I shall not fear you.
 
-Giant Spirit: Such bravery! It has been centuries since we encountered a Viking of your caliber. We shall spare your life, for you have earned our respect and a chance to fulfill your destiny.
+**Giant Spirit**: Such bravery! It has been centuries since we encountered a Viking of your caliber. We shall spare your life, for you have earned our respect and a chance to fulfill your destiny.
 
 Act 2: The Christian Prince
 

@@ -24,16 +24,16 @@ The intricacies of the Black Sun Fire alchemy discipline are deep, multifaceted,
 
 **Origins**:
 
-The Black Sun Fire alchemy discipline is believed to have originated in the ancient world, with roots traced back to the Babylonian, Egyptian, and Hermetic mystery schools. ****These early alchemists sought the ultimate transformation****: the transmutation of base metals into gold and the attainment of immortality. Black Sun Fire offered them an alternate path, leveraging the primal powers of the universe through the darker aspects of spiritual energy.
+The Black Sun Fire alchemy discipline is believed to have originated in the ancient world, with roots traced back to the Babylonian, Egyptian, and Hermetic mystery schools. **These early alchemists sought the ultimate transformation**: the transmutation of base metals into gold and the attainment of immortality. Black Sun Fire offered them an alternate path, leveraging the primal powers of the universe through the darker aspects of spiritual energy.
 
 **Principles**:
 
 At its core, the Black Sun Fire discipline revolves around the following fundamental principles:
 
-1. ****Dualism****: The universe is built upon the balance of opposing forces. Light and dark, positive and negative, creation and destruction.
-2. ****The Black Sun****: As an embodiment of the dark and destructive forces, the Black Sun represents the antithesis of traditional solar energy.
-3. ****Transmutation****: The core aim of the practice is to harness the powers of the Black Sun Fire to transmute oneself or other materials.
-4. ****Spiritual Ascent****: The ultimate goal is to attain personal spiritual mastery and unified consciousness with the cosmic energies in the universe. 
+1. **Dualism**: The universe is built upon the balance of opposing forces. Light and dark, positive and negative, creation and destruction.
+2. **The Black Sun**: As an embodiment of the dark and destructive forces, the Black Sun represents the antithesis of traditional solar energy.
+3. **Transmutation**: The core aim of the practice is to harness the powers of the Black Sun Fire to transmute oneself or other materials.
+4. **Spiritual Ascent**: The ultimate goal is to attain personal spiritual mastery and unified consciousness with the cosmic energies in the universe. 
 
 Practical Applications:
 

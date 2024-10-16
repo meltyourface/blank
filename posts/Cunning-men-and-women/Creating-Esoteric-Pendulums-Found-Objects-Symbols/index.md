@@ -28,11 +28,11 @@ excerpt: >
 ---
 1. **Unique Found Objects with Inherent Occult Properties**:
 
-a. ****Hag Stone****: Hag stones are stones with naturally occurring holes through them, often found in rivers or on beaches. They are believed to hold powerful protection properties and are traditionally used to ward against negative energies and evil spirits.
+a. **Hag Stone**: Hag stones are stones with naturally occurring holes through them, often found in rivers or on beaches. They are believed to hold powerful protection properties and are traditionally used to ward against negative energies and evil spirits.
 
-b. ****Rowan Wood Twig****: Rowan trees are known for their strong association with the faerie realm, magic, and protection. A twig from a rowan tree can harness these magical properties, making it an excellent material for a dowsing pendulum.
+b. **Rowan Wood Twig**: Rowan trees are known for their strong association with the faerie realm, magic, and protection. A twig from a rowan tree can harness these magical properties, making it an excellent material for a dowsing pendulum.
 
-c. ****Raptor Feather****: Feathers from birds of prey, such as eagles or hawks, are considered to carry the spirit and energy of these powerful creatures. They symbolize strength, agility, and heightened intuition, making them a suitable component to incorporate in a pendulum.
+c. **Raptor Feather**: Feathers from birds of prey, such as eagles or hawks, are considered to carry the spirit and energy of these powerful creatures. They symbolize strength, agility, and heightened intuition, making them a suitable component to incorporate in a pendulum.
 
 2. **Combining Found Object and Energies**:
 **Step 1**: Begin by cleansing each of the found objects with a mixture of water and salt or incense smoke to remove any lingering energies.

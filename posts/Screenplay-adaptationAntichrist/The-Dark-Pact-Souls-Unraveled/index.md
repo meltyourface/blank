@@ -30,11 +30,11 @@ excerpt: >
 **Setting**: The story takes place in a small, remote town surrounded by a dense fog-shrouded forest. The town has a rich history of occult practices carried down over generations, which form its dark underbelly.
 
 **Characters**:
-1. ****Arthur Caldwell - The Protagonist****: A struggling writer seeking glory and recognition for his work. Driven by an insatiable ambition, his morality is slowly eroded by his craving for influence.
+1. **Arthur Caldwell - The Protagonist**: A struggling writer seeking glory and recognition for his work. Driven by an insatiable ambition, his morality is slowly eroded by his craving for influence.
 
-2. ****Lilith Nazari - The Antichrist Figure****: A seductive and cunning individual who ensnares Arthur into a dark pact. She possesses powerful occult knowledge and psychologically manipulates her targets, exploiting their darkest desires.
+2. **Lilith Nazari - The Antichrist Figure**: A seductive and cunning individual who ensnares Arthur into a dark pact. She possesses powerful occult knowledge and psychologically manipulates her targets, exploiting their darkest desires.
 
-3. ****Jessica Turner - Arthur's Love Interest****: A warm-hearted painter who tries to save Arthur from the darkness consuming him. She serves as the beacon of hope amidst the nightmarish world that unfolds around them.
+3. **Jessica Turner - Arthur's Love Interest**: A warm-hearted painter who tries to save Arthur from the darkness consuming him. She serves as the beacon of hope amidst the nightmarish world that unfolds around them.
 
 Act 1:
 Arthur arrives in the small town, drawn by a series of cryptic messages hinting at the dark secrets hidden within its history. He hopes to unveil the truth and turns it into a bestseller that would elevate him to literary fame. As he settles into a quaint inn, he encounters the bewitching Lilith.

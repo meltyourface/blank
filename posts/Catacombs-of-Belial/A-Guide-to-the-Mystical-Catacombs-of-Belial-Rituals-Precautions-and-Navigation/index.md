@@ -38,19 +38,19 @@ The exact origins of the Catacombs of Belial remain shrouded in mystery, but num
 
 There is an array of specific rituals, spells, and invocations associated with the Catacombs of Belial, each designed for a particular purpose or to engage with certain entities. **Some commonly known practices include**:
 
-1. ****The Ritual of Opening****: Performed at the entrance of the catacombs, calling upon the guardians to grant access and protection during exploration and magical workings.
-2. ****The Ritual of Binding****: A spell designed for protection and containment of hostile forces within the catacombs.
-3. ****Invocations of Power****: Chants to amplify magical energy, invoking various cosmic and elemental forces in pursuing the practitioner's intent.
-4. ****The Rite of Communion****: A ritualistic approach to establish communication and interaction with the consciousness of the catacombs and its inhabitants.
+1. **The Ritual of Opening**: Performed at the entrance of the catacombs, calling upon the guardians to grant access and protection during exploration and magical workings.
+2. **The Ritual of Binding**: A spell designed for protection and containment of hostile forces within the catacombs.
+3. **Invocations of Power**: Chants to amplify magical energy, invoking various cosmic and elemental forces in pursuing the practitioner's intent.
+4. **The Rite of Communion**: A ritualistic approach to establish communication and interaction with the consciousness of the catacombs and its inhabitants.
 
 ### V. Precautions, Tools, and Mindset
 
 Before venturing into the catacombs and exploring its mysterious depths, it is essential to prepare yourself both physically and mentally. **A few necessary precautions are**:
 
-1. ****Knowledge****: Familiarize yourself with the history, rituals, and various beings associated with the catacombs to understand the forces in play and the potential dangers.
-2. ****Protection****: Wear amulets or talismans imbued with protective energies to ward off harm, and employ protective circles or seals throughout your exploration.
-3. ****Tools****: Bring essential magical implements such as ritual daggers, chalices, candles, incense, and parchment for any spells, rituals, or invocations you might perform.
-4. ****Mindset****: Approach the catacombs with respect, humility, and determination, acknowledging the potential risks while maintaining a strong sense of purpose and self-confidence.
+1. **Knowledge**: Familiarize yourself with the history, rituals, and various beings associated with the catacombs to understand the forces in play and the potential dangers.
+2. **Protection**: Wear amulets or talismans imbued with protective energies to ward off harm, and employ protective circles or seals throughout your exploration.
+3. **Tools**: Bring essential magical implements such as ritual daggers, chalices, candles, incense, and parchment for any spells, rituals, or invocations you might perform.
+4. **Mindset**: Approach the catacombs with respect, humility, and determination, acknowledging the potential risks while maintaining a strong sense of purpose and self-confidence.
 
 ### VI. Navigating the Ethereal Labyrinth and Interacting with Entities
 

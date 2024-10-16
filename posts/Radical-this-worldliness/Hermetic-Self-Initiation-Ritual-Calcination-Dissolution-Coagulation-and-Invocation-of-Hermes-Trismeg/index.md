@@ -36,7 +36,7 @@ Altar setup:
 
 **Offering**: Pass a written list of personal habits through the flame of the candle.
 
-Ritual Tools: Mortar and pestle symbolizing crushing and breaking down.
+**Ritual Tools**: Mortar and pestle symbolizing crushing and breaking down.
 
 Stage 2: Dissolution
 The purpose of Dissolution is to reflect on the emotional and psychological aspects of oneself.
@@ -51,7 +51,7 @@ Altar setup:
 
 **Offering**: Submerge the ashes of the list of habits in the bowl of water.
 
-Ritual Tools: A chalice or cup to represent emotional purification.
+**Ritual Tools**: A chalice or cup to represent emotional purification.
 
 Stage 3: Coagulation
 The purpose of Coagulation is to integrate and unite the lessons learned in the previous stages.
@@ -66,7 +66,7 @@ Altar setup:
 
 **Offering**: Bury the ashes of the list in the earth or release them into the wind.
 
-Ritual Tools: A wand or staff to symbolize the uniting of personal power.
+**Ritual Tools**: A wand or staff to symbolize the uniting of personal power.
 
 Invocation of Hermes Trismegistus:
 

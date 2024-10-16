@@ -27,9 +27,9 @@ Task: Develop a comprehensive ritualistic practice for the targeted activation o
 
 **Mantra**: "Aum Prema Anahata Namah" (I honor the infinite love within my heart)
 
-Sacred Geometry: The twelve-petaled lotus
+**Sacred Geometry**: The twelve-petaled lotus
 
-Elemental Correspondence: Air
+**Elemental Correspondence**: Air
 
 **Preparation**:
 1. Create a calm and quiet environment conducive to meditation and spiritual work.

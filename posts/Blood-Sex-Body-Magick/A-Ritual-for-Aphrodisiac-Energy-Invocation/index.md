@@ -38,7 +38,7 @@ excerpt: >
 9. A variety of percussion instruments or prerecorded sacred sounds
 10. A trusted partner or partners, chosen based on resonance with the intention of the ritual
 
-Celestial Alignments: The optimal time to perform this ritual is during the waxing gibbous or full moon phases, when the moon’s energy is most potent for harnessing aphrodisiac properties. Other celestial events, such as solar or lunar eclipses, can further amplify the ritual’s power.
+**Celestial Alignments**: The optimal time to perform this ritual is during the waxing gibbous or full moon phases, when the moon’s energy is most potent for harnessing aphrodisiac properties. Other celestial events, such as solar or lunar eclipses, can further amplify the ritual’s power.
 
 **Preparation**:
 

@@ -26,7 +26,7 @@ excerpt: Create a detailed overview of Donn, the Irish lord of the dead and the 
 
 In Irish mythology, Donn is known as the Lord of the Dead and the ruler of the afterlife. He is believed to be one of the pre-Christian deities of ancient Ireland, originating from the Tuatha Dé Danann, a supernatural race that inhabited the island before the arrival of the Celts. Donn's name translates to "dark one" or "brown one," representing his association with the earth and the darker aspects of life, such as death and decay.
 
-The mythology surrounding Donn is intertwined with two significant ancient Irish texts: the Book of Invasions and the Annals of the Four Masters. According to the Book of Invasions, Donn was an ancient Irish ancestor and one of the mythical Milesian chieftains who led the final wave of Celtic invaders to the island of Ireland. His death during the invasion resulted in his descent into the underworld, marking the beginning of his reign as the Lord of the Dead.
+**The mythology surrounding Donn is intertwined with two significant ancient Irish texts**: the Book of Invasions and the Annals of the Four Masters. According to the Book of Invasions, Donn was an ancient Irish ancestor and one of the mythical Milesian chieftains who led the final wave of Celtic invaders to the island of Ireland. His death during the invasion resulted in his descent into the underworld, marking the beginning of his reign as the Lord of the Dead.
 
 ### Chapter 2: The Abode of Donn and Associated Legends
 

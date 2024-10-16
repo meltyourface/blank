@@ -94,7 +94,7 @@ Day 2:
    - Group meditation for grounding and integration
    - Farewell and continuation of the journey
 
-8. ****Optional****: Networking & Community (4:30 pm – 5 pm)
+8. **Optional**: Networking & Community (4:30 pm – 5 pm)
    - Connect with fellow participants
    - Sharing resources and recommendations
    - Building an ongoing support network.

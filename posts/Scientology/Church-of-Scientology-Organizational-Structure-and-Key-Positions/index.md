@@ -26,27 +26,27 @@ Organizational Hierarchy:
 
 The hierarchy of the Church of Scientology is complex and consists of several key components, including ecclesiastical and secular aspects. It is organized in a top-down structure, with the highest authority resting within the Church's inner circle.
 
-1. ****Commodore's Messenger Organization (CMO)****: At the top echelon of the organization lies the CMO. It was initially created by L. Ron Hubbard to relay his orders and policy to the rest of the church. Members of the CMO are viewed as highly elite and have access to the highest levels of authority.
+1. **Commodore's Messenger Organization (CMO)**: At the top echelon of the organization lies the CMO. It was initially created by L. Ron Hubbard to relay his orders and policy to the rest of the church. Members of the CMO are viewed as highly elite and have access to the highest levels of authority.
 
-2. ****Religious Technology Center (RTC)****: The RTC, led by the Chairman of the Board, currently held by David Miscavige, is responsible for overseeing the proper application of Scientology and Dianetic technologies, trademarks, and copyrights.
+2. **Religious Technology Center (RTC)**: The RTC, led by the Chairman of the Board, currently held by David Miscavige, is responsible for overseeing the proper application of Scientology and Dianetic technologies, trademarks, and copyrights.
 
-3. ****Sea Organization (Sea Org)****: This is a religious order for the Scientology religion, made up of the most dedicated Scientologists. They work in management and administrative roles throughout the church and commit to a life-long service to Scientology.
+3. **Sea Organization (Sea Org)**: This is a religious order for the Scientology religion, made up of the most dedicated Scientologists. They work in management and administrative roles throughout the church and commit to a life-long service to Scientology.
 
-4. ****Church of Scientology International (CSI)****: The CSI functions as the mother church for all Scientology churches and organizations worldwide, overseeing policy and doctrinal matters, and coordinating global dissemination efforts.
+4. **Church of Scientology International (CSI)**: The CSI functions as the mother church for all Scientology churches and organizations worldwide, overseeing policy and doctrinal matters, and coordinating global dissemination efforts.
 
-5. ****Local Churches****: Local churches and missions are scattered across the globe. They provide introductory courses, auditing, and training for Scientologists at various levels.
+5. **Local Churches**: Local churches and missions are scattered across the globe. They provide introductory courses, auditing, and training for Scientologists at various levels.
 
 Key Positions and Roles:
 
-1. ****Chairman of the Board (COB)****: Held by David Miscavige, this position is the highest authority within the church and oversees all ecclesiastical and administrative operations in conjunction with the RTC.
+1. **Chairman of the Board (COB)**: Held by David Miscavige, this position is the highest authority within the church and oversees all ecclesiastical and administrative operations in conjunction with the RTC.
 
-2. ****Executive Director International (EDI)****: This position oversees the Church of Scientology International's management and implementation of programs and initiatives.
+2. **Executive Director International (EDI)**: This position oversees the Church of Scientology International's management and implementation of programs and initiatives.
 
-3. ****Sea Org Members****: As the most dedicated members, they commit to a lifetime of service, working in various capacities within the church, including management, administration, and auditing.
+3. **Sea Org Members**: As the most dedicated members, they commit to a lifetime of service, working in various capacities within the church, including management, administration, and auditing.
 
-4. ****Auditors****: These are church members trained to lead auditing sessions, a form of spiritual counseling aimed at helping individuals overcome negative experiences and achieve spiritual growth.
+4. **Auditors**: These are church members trained to lead auditing sessions, a form of spiritual counseling aimed at helping individuals overcome negative experiences and achieve spiritual growth.
 
-5. ****Trained Course Supervisors****: These individuals provide guidance and support to Scientologists as they complete various courses and studies within the church.
+5. **Trained Course Supervisors**: These individuals provide guidance and support to Scientologists as they complete various courses and studies within the church.
 
 Connection to L. **Ron Hubbard's Teachings**:
 

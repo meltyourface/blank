@@ -61,4 +61,4 @@ excerpt: >
 3. Perform the Myriaforce Grounding Mudra, pressing your thumb, index, and middle fingertip together, to anchor your energy.
 4. Express gratitude for the experience and meditate on the lessons learned during your astral journey.
 
-Bonus: The advanced Myriaforce astral projection manual and workshop curriculum will be designed to include real-life case studies, in-depth exploration of Myriaforce principles, practical exercises, and student-led astral projection sessions to enhance skill development and understanding.
+**Bonus**: The advanced Myriaforce astral projection manual and workshop curriculum will be designed to include real-life case studies, in-depth exploration of Myriaforce principles, practical exercises, and student-led astral projection sessions to enhance skill development and understanding.

@@ -21,7 +21,7 @@ excerpt: Design a necromantic purification rite for a locale tainted by a tragic
 ---
 Task: Design a necromantic purification rite for a locale tainted by a tragic event, which involves summoning vengeful spirits to cleanse the area.
 
-Necromantic Purification Rite: The Rite of Hallowed Revenants
+**Necromantic Purification Rite**: The Rite of Hallowed Revenants
 
 **Objective**: To cleanse a locale tainted by a tragic event involving restless, vengeful dead.
 

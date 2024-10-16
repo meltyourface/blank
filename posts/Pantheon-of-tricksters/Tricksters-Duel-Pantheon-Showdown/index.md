@@ -23,7 +23,7 @@ excerpt: >
 
 ## Title: The Trickster's Gambit
 
-ACT I: A Pantheon Unveiled
+**ACT I**: A Pantheon Unveiled
 
 Scene 1: The Gathering (Pantheon of Tricksters)
 - The play begins in the Pantheon of Tricksters, a realm where the iconic tricksters from various mythologies gather.
@@ -37,7 +37,7 @@ Scene 2: The First Prank (A village in Germany)
 - Using his classic prank of effectively messing up the meal, he tricks the villagers into eating hedgehogs disguised as pastries.
 - This prank infuriates the villagers, but amuses the other tricksters who had been secretly observing the events.
 
-ACT II: The Great Trickster Duel
+**ACT II**: The Great Trickster Duel
 
 Scene 1: A Test of Wits (A glimmering forest)
 - As the sun sets, the tricksters gather in a glimmering forest to outwit one another.
@@ -52,7 +52,7 @@ Scene 2: The Second Prank (A medieval castle)
 - Teaming up with Loki, both use their cunning to manipulate the court into performing bizarre, humiliating tasks under the guise of pleasing the gods.
 - Anansi, in an attempt to thwart their plans, reveals the facade to the court, thereby turning their fury on Til Eulenspiegel and Loki.
 
-ACT III: The Trickster's Gambit
+**ACT III**: The Trickster's Gambit
 Scene 1: Alliance and Revelations (The Pantheon of Tricksters)
 - Fleeing from the enraged nobles, Til Eulenspiegel and Loki seek refuge in the Pantheon of Tricksters.
 - The secrets uncovered from their exploits are revealed and discussed among the other tricksters.

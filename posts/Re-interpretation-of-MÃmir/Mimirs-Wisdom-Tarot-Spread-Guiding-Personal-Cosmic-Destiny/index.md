@@ -34,7 +34,7 @@ Position 5: Mímir's Revelation (Present Awareness)
 Position 6: Odin's Sacrifice (Transformation Required)
 Position 7: Well of Destiny (Potential Future Outcomes)
 
-Visual Layout: 
+**Visual Layout**: 
 
 The graphical representation of this spread resembles a stylized tree, with the roots and branches symbolizing the interconnectedness of the user and the cosmos. At its center is a well symbol, representing the Well of Wisdom.
 

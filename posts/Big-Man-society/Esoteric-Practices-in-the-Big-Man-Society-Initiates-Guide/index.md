@@ -40,14 +40,14 @@ In these rituals, the connection between the physical world and the spiritual re
 
 As an initiate, you must first develop the necessary foundations for exploring the occult aspects of the Big Man society. **This entails the following steps**:
 
-### I. ****Building Knowledge****: Acquire a solid grasp of the Big Man society's history, philosophy, and core practices. This can be achieved through studying the writings of past masters, participating in group discussions, and attending workshops or seminars led by experienced members.
+### I. **Building Knowledge**: Acquire a solid grasp of the Big Man society's history, philosophy, and core practices. This can be achieved through studying the writings of past masters, participating in group discussions, and attending workshops or seminars led by experienced members.
 
-### II. ****Fostering Personal Development****: Cultivate your mental, emotional, and spiritual faculties in order to strengthen your connection with the esoteric forces at work within the society. This may involve practices such as meditation, journaling, and various forms of self-reflection.
+### II. **Fostering Personal Development**: Cultivate your mental, emotional, and spiritual faculties in order to strengthen your connection with the esoteric forces at work within the society. This may involve practices such as meditation, journaling, and various forms of self-reflection.
 
-### III. ****Seeking Mentorship****: Establish a close relationship with a more experienced member who can guide and support you on your journey. This individual can offer insights, provide practical advice, and help you navigate the complexities of the society’s inner workings.
+### III. **Seeking Mentorship**: Establish a close relationship with a more experienced member who can guide and support you on your journey. This individual can offer insights, provide practical advice, and help you navigate the complexities of the society’s inner workings.
 
-### IV. ****Engaging in Ritual Work****: Participate actively in the society's rituals and ceremonies to deepen your understanding of the esoteric practices and develop your magical proficiency. This may involve learning specific incantations, mastering sacred gestures, or devising your own unique variations on existing rites.
+### IV. **Engaging in Ritual Work**: Participate actively in the society's rituals and ceremonies to deepen your understanding of the esoteric practices and develop your magical proficiency. This may involve learning specific incantations, mastering sacred gestures, or devising your own unique variations on existing rites.
 
-### V. ****Balancing Public and Secret Lives****: Learn to harmoniously integrate your overt role in your community with your covert activities within the society. This balance is integral to the successful implementation of the Big Man society’s objectives, as well as your personal growth as an initiate.
+### V. **Balancing Public and Secret Lives**: Learn to harmoniously integrate your overt role in your community with your covert activities within the society. This balance is integral to the successful implementation of the Big Man society’s objectives, as well as your personal growth as an initiate.
 
 By adhering to these principles and dedicating yourself to understanding and mastering the esoteric elements of the Big Man society, you will join a long line of initiates who have shaped world events from the shadows, drawing upon ancient wisdom and forging a powerful legacy for those who follow.

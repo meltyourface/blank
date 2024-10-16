@@ -27,21 +27,21 @@ excerpt: Investigate and illustrate the parallels between Anti-Masonic sentiment
 
 A. Goals of the report
 B. Definition and brief history of Anti-Masonry
-C. ****Secretive organizations discussed****: Freemasons, Illuminati, and Bilderberg Group
+C. **Secretive organizations discussed**: Freemasons, Illuminati, and Bilderberg Group
 
 ### II. Parallels between Freemasonry, Illuminati, and Bilderberg Group
 
-A. ****Overview****: Freemasonry
+A. **Overview**: Freemasonry
 1. Origins
 2. Beliefs and principles
 3. Structure and organization
 
-B. ****Overview****: Illuminati
+B. **Overview**: Illuminati
 1. Origins
 2. Beliefs and principles
 3. Structure and organization
 
-C. ****Overview****: Bilderberg Group
+C. **Overview**: Bilderberg Group
 1. Origins
 2. Purpose and goals
 3. Structure and organization
@@ -66,7 +66,7 @@ B. Illuminati
 C. Bilderberg Group
 1. Formation in 1954
 2. Political impacts and controversies
-3. ****Turning point in public sentiment****: 9/11
+3. **Turning point in public sentiment**: 9/11
 
 ### IV. Impact of rituals, symbols, and membership policies
 

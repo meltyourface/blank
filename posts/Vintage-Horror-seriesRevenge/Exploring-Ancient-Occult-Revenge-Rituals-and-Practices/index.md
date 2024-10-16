@@ -45,19 +45,19 @@ Throughout history, numerous figures have contributed to the development of Vint
 
 ### III. Key Concepts
 
-1. ****Karma and Consequences****: Practitioners of Vintage Horror seriesRevenge are expected to have a keen understanding of the relationship between actions and reactions. The concept of karma, or the law of cause and effect, is of paramount importance in all spells and rituals within this domain; causing harm without reason or using these powers excessively can have negative consequences for the practitioner.
+1. **Karma and Consequences**: Practitioners of Vintage Horror seriesRevenge are expected to have a keen understanding of the relationship between actions and reactions. The concept of karma, or the law of cause and effect, is of paramount importance in all spells and rituals within this domain; causing harm without reason or using these powers excessively can have negative consequences for the practitioner.
 
-2. ****Intent and Will****: Successfully executing a spell or ritual of Vintage Horror seriesRevenge requires an unwavering intent and willpower on the part of the practitioner. The purity and strength of one's intent can directly influence whether an invocation is successful or backfires.
+2. **Intent and Will**: Successfully executing a spell or ritual of Vintage Horror seriesRevenge requires an unwavering intent and willpower on the part of the practitioner. The purity and strength of one's intent can directly influence whether an invocation is successful or backfires.
 
-3. ****Balance and Equity****: The essence of Vintage Horror seriesRevenge revolves around the pursuit of justice and balance, rather than mindless destruction. The practitioner must ensure that the desired outcome aligns with the cosmic balance; seeking revenge for the sake of chaos or personal gain can result in unpredictable consequences.
+3. **Balance and Equity**: The essence of Vintage Horror seriesRevenge revolves around the pursuit of justice and balance, rather than mindless destruction. The practitioner must ensure that the desired outcome aligns with the cosmic balance; seeking revenge for the sake of chaos or personal gain can result in unpredictable consequences.
 
 ### IV. Foundational Spells and Rituals
 
-1. ****Hex of Reprisal****: A common Vintage Horror seriesRevenge spell that marks a target for suffering the same harm they have inflicted upon the caster. The spell requires the knowledge of the subject's name and the collection of personal belongings or symbolic representations of the harm.
+1. **Hex of Reprisal**: A common Vintage Horror seriesRevenge spell that marks a target for suffering the same harm they have inflicted upon the caster. The spell requires the knowledge of the subject's name and the collection of personal belongings or symbolic representations of the harm.
 
-2. ****Spirit Summoning****: A ritual designed to invoke malevolent spirits or ghosts, which are then unleashed upon the intended target. These spirits are bound by their own desires for vengeance and can be tenacious in their pursuit of justice for their summoners.
+2. **Spirit Summoning**: A ritual designed to invoke malevolent spirits or ghosts, which are then unleashed upon the intended target. These spirits are bound by their own desires for vengeance and can be tenacious in their pursuit of justice for their summoners.
 
-3. ****Circle of Retribution****: A potent ritual that creates a protective field around an individual, reflecting any curses or negative energies sent towards them back to the caster. This circle requires precise knowledge of astrological alignments, sigil creation, and incantations.
+3. **Circle of Retribution**: A potent ritual that creates a protective field around an individual, reflecting any curses or negative energies sent towards them back to the caster. This circle requires precise knowledge of astrological alignments, sigil creation, and incantations.
 
 Conclusion
 

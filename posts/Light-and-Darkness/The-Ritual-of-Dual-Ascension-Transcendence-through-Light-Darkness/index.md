@@ -23,7 +23,7 @@ excerpt: >
 
 ## Title: The Ritual of Dual Ascension
 
-Objective: To vanquish personal hindrances and transcend self-imposed boundaries through the conjuration of Light and Darkness, and with the assistance of celestial and chthonic entities.
+**Objective**: To vanquish personal hindrances and transcend self-imposed boundaries through the conjuration of Light and Darkness, and with the assistance of celestial and chthonic entities.
 
 Required Magical Components:
 

@@ -25,23 +25,23 @@ The symbolic and metaphysical connections between plant growth stages and human 
 
 ### I. Preliminary Concepts
 
-1. ****Alchemy****: A philosophical and protoscientific discipline that originated in the medieval period that aimed to purify, mature, and perfect specific objects such as base metals into higher-level substances like gold. It is an intricate system symbolizing spiritual transformation, self-development, and the union of opposites.
+1. **Alchemy**: A philosophical and protoscientific discipline that originated in the medieval period that aimed to purify, mature, and perfect specific objects such as base metals into higher-level substances like gold. It is an intricate system symbolizing spiritual transformation, self-development, and the union of opposites.
 
-2. ****Psychology****: The scientific study of the mind and behaviors, aiming to understand the mental and emotional processes that drive human actions, aspirations, and relationships.
+2. **Psychology**: The scientific study of the mind and behaviors, aiming to understand the mental and emotional processes that drive human actions, aspirations, and relationships.
 
-3. ****Mystery Schools****: Secretive institutions or groups that sought to preserve ancient wisdom and initiates into the spiritual realms, developing their mystical abilities and understanding of universal laws and deeper truths.
+3. **Mystery Schools**: Secretive institutions or groups that sought to preserve ancient wisdom and initiates into the spiritual realms, developing their mystical abilities and understanding of universal laws and deeper truths.
 
-### II. ****Plant Growth Stages and Human Life Stages****: A Symbolic Parallel
+### II. **Plant Growth Stages and Human Life Stages**: A Symbolic Parallel
 
-1. ****Seed (Human Conception)****: The beginning of life, potentiality, and potential transformation. This stage corresponds to the moment of conception in human life, where the sperm merges with the ovum, and a new existence is formed carrying genetic traits.
+1. **Seed (Human Conception)**: The beginning of life, potentiality, and potential transformation. This stage corresponds to the moment of conception in human life, where the sperm merges with the ovum, and a new existence is formed carrying genetic traits.
 
-2. ****Germination (Human Birth)****: The emergence from dormancy and the breaking of the seed envelope to begin new growth. The parallel in human life is the moment of birth, when an individual enters the world, and the innate potential starts to actualize.
+2. **Germination (Human Birth)**: The emergence from dormancy and the breaking of the seed envelope to begin new growth. The parallel in human life is the moment of birth, when an individual enters the world, and the innate potential starts to actualize.
 
-3. ****Vegetative Growth (Human Childhood and Adolescence)****: The development of leaves, branches, and the root system for growth and nourishment. In this stage, the plant reaches toward the sun and establishes its foundation. In human life, this phase corresponds to childhood and adolescence, wherein an individual experiences physical, mental, and emotional development while coping with their new environment.
+3. **Vegetative Growth (Human Childhood and Adolescence)**: The development of leaves, branches, and the root system for growth and nourishment. In this stage, the plant reaches toward the sun and establishes its foundation. In human life, this phase corresponds to childhood and adolescence, wherein an individual experiences physical, mental, and emotional development while coping with their new environment.
 
-4. ****Flowering (Human Adulthood)****: The manifestation of reproductive organs and display of the plant's beauty and fertility. In humans, this corresponds to adulthood, wherein an individual becomes conscious and capable of self-expression, creativity, and the choice to give birth to their dreams and ideas.
+4. **Flowering (Human Adulthood)**: The manifestation of reproductive organs and display of the plant's beauty and fertility. In humans, this corresponds to adulthood, wherein an individual becomes conscious and capable of self-expression, creativity, and the choice to give birth to their dreams and ideas.
 
-5. ****Fruition (Maturity and Wisdom)****: The plant bears fruit containing seeds for future generations. Similarly, during maturity, a human develops wisdom and leaves a legacy, contributing to the collective growth and nurturing of the future youth.
+5. **Fruition (Maturity and Wisdom)**: The plant bears fruit containing seeds for future generations. Similarly, during maturity, a human develops wisdom and leaves a legacy, contributing to the collective growth and nurturing of the future youth.
 
 ### III. Alchemical and Psychological Connections
 

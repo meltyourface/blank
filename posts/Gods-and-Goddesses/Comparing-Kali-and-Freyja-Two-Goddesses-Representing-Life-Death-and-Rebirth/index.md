@@ -41,7 +41,7 @@ In the Hindu pantheon, Kali is deeply connected to the cycle of life, death, and
 
 Kali's role in the esoteric traditions also emphasizes the concepts of balance and duality. She symbolizes both the creative and destructive forces, reflecting the paradox of life and death, but also highlights the interconnectedness of all things. Furthermore, her role as a warrior goddess in vanquishing demonic forces serves to establish harmony in the universe, maintaining the delicate equilibrium between good and evil.
 
-Comparison and Contrast: Freyja and Kali
+**Comparison and Contrast**: Freyja and Kali
 
 Both Freyja and Kali play essential roles in their respective pantheons, embodying the cycle of life, death, and rebirth. Freyja's association with the realm of the afterlife, Fólkvangr, links her to concepts of death and rebirth, while Kali's destructive yet transformative nature reveals a similar connection. However, their manifestations within these cycles differ due to cultural and mythological contexts. Freyja is primarily portrayed as a benevolent goddess, guiding fallen warriors and connecting to the earthly aspects of life, while Kali is a fiercely destructive force, transcending physical and spiritual bounds to provide necessary transformation and renewal.
 

@@ -35,7 +35,7 @@ To craft a meticulous funerary amulet that draws upon the fusion of Greco-Egypti
 
 4. **Greek Key Motif (Meander)**: The amulet's border is etched with the meandering Greek key motif, which represents the eternal flow of life and the interconnected nature of existence. This pattern signifies the soul's journey and the eternal nature of the cosmos.
 
-Divine Inscriptions: The amulet is inscribed with relevant sacred texts and incantations that invoke the powers of the Greco-Egyptian underworld deities. **Some of these inscriptions include**:
+**Divine Inscriptions**: The amulet is inscribed with relevant sacred texts and incantations that invoke the powers of the Greco-Egyptian underworld deities. **Some of these inscriptions include**:
 
 1. **The Negative Confession**: Excerpts from the ancient Egyptian text, which lists declarations of innocence necessary for the soul to achieve immortality, are engraved in hieroglyphics around the amulet.
 

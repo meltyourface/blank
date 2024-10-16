@@ -22,7 +22,7 @@ excerpt: >
 ---
 Course Title: Introduction to Divination with Bones: History, Culture, and Practice
 
-Course Description: This course provides a comprehensive introduction to Divination with Bones, delving into its historical context, various cultural practices, and hands-on exercises. It explores the types of bones used, preparation rituals, and interpretation techniques. Students will gain a deep understanding of the symbolism and intricacies in bone readings, fostering their intuitive abilities through interactive activities and multimedia resources.
+**Course Description**: This course provides a comprehensive introduction to Divination with Bones, delving into its historical context, various cultural practices, and hands-on exercises. It explores the types of bones used, preparation rituals, and interpretation techniques. Students will gain a deep understanding of the symbolism and intricacies in bone readings, fostering their intuitive abilities through interactive activities and multimedia resources.
 
 Course Objectives:
 1. Understand the historical context of Divination with Bones and various cultural practices.

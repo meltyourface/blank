@@ -21,7 +21,7 @@ excerpt: Design an amulet imbued with the darkness of Satanic tenets to shield i
 ---
 Amulet Design: The Shadow Ward
 
-Shape: Sigil of Baphomet encased within an inverted pentagram 
+**Shape**: Sigil of Baphomet encased within an inverted pentagram 
 
 Materials:
 1. Obsidian base - Known for its strong protective energy and grounding effect.

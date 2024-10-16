@@ -37,7 +37,7 @@ Materials required:
 **Step 4**: Attach the Quartz and Black Tourmaline
 - Attach the clear quartz crystal to the amulet using a silver wire to wrap it securely. Place the black tourmaline on the other side of the amulet, adjacent to the pentacle, and attach it with silver wire as well.
 
-Activating the Talisman: 
+**Activating the Talisman**: 
 **Step 1**: Cleanse and Purify
 - Before the ritual, cleanse the talisman using the smoke from burning sage, ensuring both stones and every symbol have been cleansed from any residual energy.
 **Step 2**: Mindful Preparation

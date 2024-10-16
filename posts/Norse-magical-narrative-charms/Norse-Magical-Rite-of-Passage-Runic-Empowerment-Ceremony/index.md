@@ -23,9 +23,9 @@ excerpt: >
 
 ## The Rite of Ascension: A Norse Magical Narrative Charm-Based Rite of Passage Ceremony
 
-Introduction: The Rite of Ascension is designed for the contemporary practitioner of Norse magic and tradition, delving into the world of ancient rituals and symbolism to enrich their understanding and connection to their heritage. The ceremony ensures a comprehensive and enriched experience, bridging the gap between ancient practices and modern sensibilities.
+**Introduction**: The Rite of Ascension is designed for the contemporary practitioner of Norse magic and tradition, delving into the world of ancient rituals and symbolism to enrich their understanding and connection to their heritage. The ceremony ensures a comprehensive and enriched experience, bridging the gap between ancient practices and modern sensibilities.
 
-Objective: To integrate the seeker into the world of Norse magicians by guiding them through a transformative ritual that blends rune readings, galdr chantings, and seiðr practices.
+**Objective**: To integrate the seeker into the world of Norse magicians by guiding them through a transformative ritual that blends rune readings, galdr chantings, and seiðr practices.
 
 Preparation:
 

@@ -23,7 +23,7 @@ excerpt: >
 
 ## Ritual of the Primordial Harmonization
 
-Note on Specifics: Given that prehistoric sacred sites and ancient monuments come in various forms, sizes, and with unique cultural backgrounds, this Earth-magic ritual is designed to be adapted to the specific site chosen. The examples provided reference Stonehenge, but can be adjusted for any other site.
+**Note on Specifics**: Given that prehistoric sacred sites and ancient monuments come in various forms, sizes, and with unique cultural backgrounds, this Earth-magic ritual is designed to be adapted to the specific site chosen. The examples provided reference Stonehenge, but can be adjusted for any other site.
 
 **Objective**: To enhance the connection between humans and prehistoric sacred sites or ancient monuments, we will invoke the elemental forces and harness mystical symbols to perform the Ritual of the Primordial Harmonization.
 

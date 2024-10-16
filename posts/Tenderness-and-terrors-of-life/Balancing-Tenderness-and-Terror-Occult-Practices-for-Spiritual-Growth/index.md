@@ -26,7 +26,7 @@ excerpt: Create a short but informationally dense section of a grimoire that pro
 The Tenderness and Terrors of Life represent the duality present in the universe and the human experience. To achieve a deep understanding of the inner workings of these opposing forces, students must grasp the full spectrum of energies in the occult realm. This section will explore the key concepts, practices, and teachings related to the balance between tenderness and terror, helping students navigate these energies and harness their power for transformative growth and evolution.
 
 ### I. The Dualistic Nature of Existence
-The universe is fundamentally structured around dualistic principles. ****At the core of these principles lie two opposing forces****: Tenderness - representing love, compassion, and nurturing, and Terror - signifying fear, chaos, and destruction. Understanding and embracing these oppositions are critical for one's development and mastery of the esoteric arts. As above, so below; as within, so without.
+The universe is fundamentally structured around dualistic principles. **At the core of these principles lie two opposing forces**: Tenderness - representing love, compassion, and nurturing, and Terror - signifying fear, chaos, and destruction. Understanding and embracing these oppositions are critical for one's development and mastery of the esoteric arts. As above, so below; as within, so without.
 
 A. The Cosmic Balance
 Both tenderness and terror are equally essential in maintaining the cosmic balance. They are intertwined and play a crucial role in the cycles of creation, preservation, and dissolution that govern the universe. Adept practitioners learn to harmonize these forces, allowing neither to overwhelm the other, thus ensuring their personal development and spiritual progress.
@@ -34,7 +34,7 @@ Both tenderness and terror are equally essential in maintaining the cosmic balan
 B. The Shadow and the Light
 Life itself arises from the delicate balance between the shadow (terror) and the light (tenderness). By exploring both aspects of existence, practitioners can learn invaluable lessons about their own nature and their place in the world. This understanding of the self enables spiritual growth by cultivating inner harmony and integrity.
 
-### II. ****Embracing Tenderness and Terror****: Practices for Balance and Growth
+### II. **Embracing Tenderness and Terror**: Practices for Balance and Growth
 To master the balance between tenderness and terror, students must engage in practices that delve into the heart of these energies and promote a deep understanding of their interconnectedness.
 
 A. Meditation and Visualization

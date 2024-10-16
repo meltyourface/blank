@@ -30,11 +30,11 @@ Simultaneously, Coagula, or "coagulate," illustrates the reintegration of dispar
 
 Now that we've established the core principles of "Solve et Coagula," let's delve further into the hierarchical, sequential steps involved in this process:
 
-1. ****Awareness****: The individual recognizes the need for transformation, usually prompted by a catalyst or crisis that disrupts the status quo.
-2. ****Purification****: The shedding of ego, beliefs, and attachments initiates the process of emotional and psychological cleansing.
-3. ****Illumination****: As the veil of illusion lifts, the individual gains insight and clarity, leading to a greater understanding of their interconnectedness with the universe.
-4. ****Integration****: The newly gained wisdom is absorbed and incorporated into the individual's identity, culminating in a refined state of consciousness.
-5. ****Ascension****: With the transformation complete, the individual can now embody their higher self, allowing them to navigate the world with greater wisdom and spiritual awareness.
+1. **Awareness**: The individual recognizes the need for transformation, usually prompted by a catalyst or crisis that disrupts the status quo.
+2. **Purification**: The shedding of ego, beliefs, and attachments initiates the process of emotional and psychological cleansing.
+3. **Illumination**: As the veil of illusion lifts, the individual gains insight and clarity, leading to a greater understanding of their interconnectedness with the universe.
+4. **Integration**: The newly gained wisdom is absorbed and incorporated into the individual's identity, culminating in a refined state of consciousness.
+5. **Ascension**: With the transformation complete, the individual can now embody their higher self, allowing them to navigate the world with greater wisdom and spiritual awareness.
 
 It's important to note that "Solve et Coagula" is applicable on both macrocosmic and microcosmic levels. On the macrocosmic scale, it reflects the cycles of creation and destruction that govern the universe, maintaining the balance and constant flow of energy throughout the cosmos. In the microcosmic context, it illustrates the inner journey of the individual, embracing the transformations required for spiritual advancement and self-actualization.
 

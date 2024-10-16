@@ -34,7 +34,7 @@ Masonic Affiliations
 
 Pike's induction into the world of Freemasonry occurred in 1840 when he joined Western Star Lodge No. 2 located in Little Rock, Arkansas. His rise within Freemasonry was swift as he joined the York Rite in 1841 and eventually took key leadership roles in both the York Rite and Scottish Rite organizations. As a Freemason, Pike was committed to the ideals of brotherhood, self-improvement, and wisdom. His enduring impact on Freemasonry can be attributed in part to his vision of a more enlightened and ritualistic Masonic order.
 
-Morals and Dogma: A Magnum Opus
+**Morals and Dogma**: A Magnum Opus
 
 Published in 1871, "Morals and Dogma of the Ancient and Accepted Scottish Rite of Freemasonry" is Albert Pike's most influential work. The 800-page book provides an intricate synthesis of various esoteric, philosophical, and religious systems, which serve as an interpretive tool for Masonic degrees and symbolism. In essence, Pike codified a web of knowledge that aims to aid in the moral and spiritual development of its practitioners.
 

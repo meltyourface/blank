@@ -37,7 +37,7 @@ The Labyrinth, called "The Wandering Path," is designed with concentric circles 
 
 The Integrated Wild-man
 
-Appearance: The integrated Wild-man becomes one with the mystical environment, donning attire woven with enchanting materials and flora from the labyrinth itself. Hair adorned with leaves, feathers, and jewels, and eyes that hold the depth of the cosmos itself.
+**Appearance**: The integrated Wild-man becomes one with the mystical environment, donning attire woven with enchanting materials and flora from the labyrinth itself. Hair adorned with leaves, feathers, and jewels, and eyes that hold the depth of the cosmos itself.
 
 Abilities:
 1. Elemental Mastery: The Wild-man acquires complete control over the elements, using them for protection, sustenance, and creation.

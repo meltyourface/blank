@@ -39,7 +39,7 @@ One common form of magic in Sumerian culture was the creation of protective amul
 
 Sumerian magic also included the practice of divination, a method employed to gain insight into the future or uncertain situations. Divination could be conducted through a variety of means, such as interpreting the patterns of smoke from incense, the movements of stars and planets, or the behavior of animals.
 
-Cuneiform Texts: Preserving Occult Knowledge
+**Cuneiform Texts**: Preserving Occult Knowledge
 
 The preservation and transmission of Sumerian occult knowledge can be significantly attributed to the development of the cuneiform writing system. As one of the earliest known forms of writing, cuneiform allowed the Sumerians to record their religious rituals, spells, and divinatory techniques on clay tablets, which have been found in archaeological excavations.
 

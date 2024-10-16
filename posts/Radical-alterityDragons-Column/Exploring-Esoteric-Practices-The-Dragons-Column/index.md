@@ -31,19 +31,19 @@ Radical Alterity, the essential otherness that is both mysterious and exhilarati
 
 To truly understand and embrace the Dragon's Column, one must fathom the concept of Radical Alterity. Radical Alterity is the intrinsic nature of something that cannot be assimilated easily by baseline understanding. It calls for the practitioner to expand their consciousness and attain a new level of perception.
 
-1. ****The Principle of Radical Alterity****: This principle upholds the idea that there exists an entirely different level of understanding beyond our earthly perspectives. This alternate level of consciousness requires deep spiritual exploration and self-discipline.
+1. **The Principle of Radical Alterity**: This principle upholds the idea that there exists an entirely different level of understanding beyond our earthly perspectives. This alternate level of consciousness requires deep spiritual exploration and self-discipline.
 
-2. ****Encountering the Ineffable****: Confronting the unknown is at the heart of the esoteric practices in the Dragon's Column. By invoking the powers of the Great Dragon, practitioners open themselves to the enigma of existence and unlock the doors to self-discovery.
+2. **Encountering the Ineffable**: Confronting the unknown is at the heart of the esoteric practices in the Dragon's Column. By invoking the powers of the Great Dragon, practitioners open themselves to the enigma of existence and unlock the doors to self-discovery.
 
 ### III. Practices in the Dragon's Column
 
 To fully appreciate and engage with the essence of Radical Alterity, certain esoteric practices must be undertaken. These practices, when done with devotion and persistence, help to cultivate an expanded consciousness and bridge the gap between the mundane and the arcane.
 
-1. ****Opening the Dragon's Eye****: This ritual involves opening the spiritual third eye, which allows practitioners to see beyond the veil of corporeal reality. This initiation is essential for the development of intuitive powers and the ability to perceive the energies of the Great Dragon.
+1. **Opening the Dragon's Eye**: This ritual involves opening the spiritual third eye, which allows practitioners to see beyond the veil of corporeal reality. This initiation is essential for the development of intuitive powers and the ability to perceive the energies of the Great Dragon.
 
-2. ****Dragon's Breath Meditation****: Practitioners of the Dragon's Column harness the power of their breath to control, transform, and channel their own life-force energy. Dragon's Breath Meditation generates the sacred fire within, unleashing a sense of spiritual awakening that provides the foundation for transcendent experiences.
+2. **Dragon's Breath Meditation**: Practitioners of the Dragon's Column harness the power of their breath to control, transform, and channel their own life-force energy. Dragon's Breath Meditation generates the sacred fire within, unleashing a sense of spiritual awakening that provides the foundation for transcendent experiences.
 
-3. ****Rhythms of the Cosmic Serpent****: Related to the Dragon's power is that of the Cosmic Serpent, an archetypal representation of Radical Alterity. Engaging with these rhythms in ritualistic dance, drumming, and visualization allows the practitioner to become one with the universal forces at play in their own lives.
+3. **Rhythms of the Cosmic Serpent**: Related to the Dragon's power is that of the Cosmic Serpent, an archetypal representation of Radical Alterity. Engaging with these rhythms in ritualistic dance, drumming, and visualization allows the practitioner to become one with the universal forces at play in their own lives.
 
 ### IV. Concluding Reflections
 

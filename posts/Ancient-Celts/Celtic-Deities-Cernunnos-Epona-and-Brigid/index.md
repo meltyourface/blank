@@ -22,7 +22,7 @@ excerpt: >
 ---
 In this response, we will analyze and compare three prominent Celtic deities - Cernunnos, Epona, and Brigid - in terms of the symbolism, mythology, connections with other ancient cultures, and their impact on the spiritual practices of the Ancient Celts. 
 
-1. ****Cernunnos****: The Horned God 
+1. **Cernunnos**: The Horned God 
 
 Cernunnos is a horned god, also known as the Lord of the Animals or the God of Nature in Celtic mythology. He is depicted with antlers, usually sitting in a meditative pose surrounded by animals. Cernunnos represents the natural world and its cycle of life, death, and rebirth. His characteristic horns symbolize fertility and masculine virility. 
 
@@ -30,7 +30,7 @@ Cernunnos is often associated with the Green Man, a vegetative deity found in ma
 
 The worship of Cernunnos as the god of nature reflects the ancient Celts' respect for the natural environment, highlighting their dependency on the land for sustenance, guidance, and spiritual sustenance. In the modern-day, Cernunnos has been embraced by neo-pagans and Wiccans, who consider him a representative of the masculine divine.
 
-2. ****Epona****: The Horse Goddess
+2. **Epona**: The Horse Goddess
 
 Epona is the Celtic goddess of horses, fertility, and sovereignty. In Celtic art, she is portrayed as riding a horse, either side-saddle or on a mare with accompanying foals. Epona displays her intimate connection to the animal world, particularly horses, which were vital for Celtic societies' transportation, warfare, and agricultural practices. Her association with fertility makes her a nurturer and a life-giver, while her link to sovereignty establishes her as a protector of the tribes and their rulers.
 
@@ -38,7 +38,7 @@ Epona shares similarities with several deities from other Indo-European cultures
 
 Epona's worship had a profound influence on the spiritual practices of the Celts. They honored her by maintaining and adorning horses and incorporating them in various rituals and ceremonies. The cult of Epona persisted in regions that were part of the Roman Empire, emphasizing her enduring impact on Celtic spirituality.
 
-3. ****Brigid****: The Triple Goddess
+3. **Brigid**: The Triple Goddess
 
 Brigid is a Celtic goddess of many facets, including healing, poetry, and smithcraft, symbolizing the divine feminine and the essence of creativity. She is often depicted as a triple goddess, representing the maiden, mother, and crone aspects or the three stages of a woman's life.
 

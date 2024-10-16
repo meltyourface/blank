@@ -21,7 +21,7 @@ excerpt: Design a clandestine ritual, specific to the Practitioner of the crooke
 ---
 Ritual Name: The Dreamer's Path to Secret Wisdom
 
-Objective: To invoke the powers of the concealed realms and acquire secret wisdom through dreams by utilizing potent sigils, enchanted artifacts, and other-worldly invocations. 
+**Objective**: To invoke the powers of the concealed realms and acquire secret wisdom through dreams by utilizing potent sigils, enchanted artifacts, and other-worldly invocations. 
 
 ### I. Ceremonial Preparation
 

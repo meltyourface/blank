@@ -36,19 +36,19 @@ Through the ages, Arcane gnosis has been both revered and feared. It was often a
 
 Arcane gnosis revolves around several key principles, each crucial to understanding the nature of this hidden knowledge:
 
-1. ****Correspondence****: The principle of correspondence states that everything in this universe is an expression of the divine, and that all phenomena are connected by secret, unseen links. "As above, so below" is the maxim often cited to express this idea. 
+1. **Correspondence**: The principle of correspondence states that everything in this universe is an expression of the divine, and that all phenomena are connected by secret, unseen links. "As above, so below" is the maxim often cited to express this idea. 
 
-2. ****Vibrations****: All matter in the universe, from the smallest particle to the largest celestial body, vibrates. Different states of consciousness, energy, and matter correspond to varying vibrational frequencies.
+2. **Vibrations**: All matter in the universe, from the smallest particle to the largest celestial body, vibrates. Different states of consciousness, energy, and matter correspond to varying vibrational frequencies.
 
-3. ****Polarity****: This principle asserts that everything in the universe has its opposite, and this duality is crucial to existence. Light and darkness, male and female, good and evil – these opposites are connected and necessary for balance in the universe.
+3. **Polarity**: This principle asserts that everything in the universe has its opposite, and this duality is crucial to existence. Light and darkness, male and female, good and evil – these opposites are connected and necessary for balance in the universe.
 
 ### Section 3: Fundamental Practices
 
-1. ****Meditation****: Mastery of one's own mind is paramount to any serious occult practitioner. Regular meditation practice allows the initiate to train themselves in focus, self-discipline, and heightened awareness, all critical for Arcane gnosis.
+1. **Meditation**: Mastery of one's own mind is paramount to any serious occult practitioner. Regular meditation practice allows the initiate to train themselves in focus, self-discipline, and heightened awareness, all critical for Arcane gnosis.
 
-2. ****Study****: In-depth study of occult texts and traditions is indispensable for understanding the symbols, archetypes, and patterns that permeate the world of Arcane gnosis. There is no substitute for a well-rounded education in matters of esoteric philosophy and practice.
+2. **Study**: In-depth study of occult texts and traditions is indispensable for understanding the symbols, archetypes, and patterns that permeate the world of Arcane gnosis. There is no substitute for a well-rounded education in matters of esoteric philosophy and practice.
 
-3. ****Ritual****: Rituals are used to harness the power of symbols, gestures, and intention to manifest desired outcomes and connect with higher forces. Properly performed, rituals aid in invoking the hidden forces within the self and create a direct communion with the energies at work in the universe.
+3. **Ritual**: Rituals are used to harness the power of symbols, gestures, and intention to manifest desired outcomes and connect with higher forces. Properly performed, rituals aid in invoking the hidden forces within the self and create a direct communion with the energies at work in the universe.
 
 ### Section 4: Connections to Other Occult Disciplines
 

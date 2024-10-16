@@ -29,11 +29,11 @@ The first step to understanding Abominations is to consider their distinct categ
 
 Categories of Abominations
 
-1. ****Elemental Abominations****: These entities result from the union of conflicting elemental energies and manifest as grotesque and often volatile beings that disrupt the balance of nature. Their presence can lead to catastrophic natural events such as storms, earthquakes, or volcanic eruptions.
+1. **Elemental Abominations**: These entities result from the union of conflicting elemental energies and manifest as grotesque and often volatile beings that disrupt the balance of nature. Their presence can lead to catastrophic natural events such as storms, earthquakes, or volcanic eruptions.
 
-2. ****Astral Abominations****: Born from the convergence of cosmic energies and residual consciousness from deceased beings, these powerful entities embody the chaos of space and time. Astral Abominations can warp reality at their whim, creating disarray in our perceived world.
+2. **Astral Abominations**: Born from the convergence of cosmic energies and residual consciousness from deceased beings, these powerful entities embody the chaos of space and time. Astral Abominations can warp reality at their whim, creating disarray in our perceived world.
 
-3. ****Necromantic Abominations****: These entities are created when the dark art of necromancy goes awry, merging remnants from the living and the dead in unnatural ways. Creatures of decay and perpetual agony, they feed upon the life and spirit of anything nearby to survive.
+3. **Necromantic Abominations**: These entities are created when the dark art of necromancy goes awry, merging remnants from the living and the dead in unnatural ways. Creatures of decay and perpetual agony, they feed upon the life and spirit of anything nearby to survive.
 
 Relations to Other Esoteric Beings and Forces
 

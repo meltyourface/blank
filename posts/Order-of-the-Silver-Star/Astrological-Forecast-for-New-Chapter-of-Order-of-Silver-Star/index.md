@@ -28,7 +28,7 @@ Location: London, England
 
 Given these details, we can now proceed to analyze the chart.
 
-Rising Sign: Capricorn
+**Rising Sign**: Capricorn
 Sun Sign: Gemini
 Moon Sign: Scorpio
 

@@ -30,17 +30,17 @@ The aim of this practice is to summon the essence of Hecate, the ancient deity a
 4. Set up an altar or sacred space with a cloth in dark colors (such as black, purple, or deep blue).
 
 Ritual Tools:
-1. ****Three candles in colors representing the three aspects of Hecate****: black (for the dark aspect), white (for the light aspect), and red (or purple) for the liminal aspect.
+1. **Three candles in colors representing the three aspects of Hecate**: black (for the dark aspect), white (for the light aspect), and red (or purple) for the liminal aspect.
 2. An image or statue of Hecate, or a Triple Goddess symbol.
 3. A chalice filled with a libation, such as wine or moon water.
 4. A plate with offerings such as bread, honey, or pomegranate seeds.
 5. A dagger or athame (optional, for directing energy during the ritual).
 
 Elemental Associations:
-1. ****Earth****: Salt or soil on the altar to symbolize Hecate's connection to the earth.
-2. ****Air****: Incense smoke or a feather to represent the element of air.
-3. ****Fire****: The candles on the altar to symbolize fire and transformation.
-4. ****Water****: The chalice of libation to embody water and emotions.
+1. **Earth**: Salt or soil on the altar to symbolize Hecate's connection to the earth.
+2. **Air**: Incense smoke or a feather to represent the element of air.
+3. **Fire**: The candles on the altar to symbolize fire and transformation.
+4. **Water**: The chalice of libation to embody water and emotions.
 
 **Procedure**:
 

@@ -37,7 +37,7 @@ Quintessence, also known as "Fifth Element," "Aether" or the "Philosopher's Ston
 
 Unifying and Transcending Force:
 
-Quintessence, as the fifth element, serves as the bridge between the material and spiritual realms. ****In the hermetic philosophy, all substances are composed of varying amounts of the four classical elements, which epitomize different qualities****: fire corresponds to activity and expansion, air to fluidity and mobility, water to softness and adaptability, and earth to solidity and stability. As the foundation of creation, Quintessence is the glue that holds these elements together, balancing and harmonizing their interactions.
+Quintessence, as the fifth element, serves as the bridge between the material and spiritual realms. **In the hermetic philosophy, all substances are composed of varying amounts of the four classical elements, which epitomize different qualities**: fire corresponds to activity and expansion, air to fluidity and mobility, water to softness and adaptability, and earth to solidity and stability. As the foundation of creation, Quintessence is the glue that holds these elements together, balancing and harmonizing their interactions.
 
 Yet, Quintessence transcends the limits of material existence. It is believed to be a sublime, spiritual substance, the intermediary between the Divine and the created world. By elevating the classical elements and connecting with the Quintessence, an individual can bring about both inner and outer transformation, achieving greater spiritual heights and gaining mastery over the material world.
 

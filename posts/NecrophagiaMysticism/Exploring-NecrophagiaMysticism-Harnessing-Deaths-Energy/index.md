@@ -36,13 +36,13 @@ Central to NecrophagiaMysticism is the idea that decaying and decomposed matter,
 
 Practices and Rituals
 
-The rituals of NecrophagiaMysticism generally involve three main components: the preparation of the ceremonial site, the invocation of spiritual entities or forces, and the manipulation of life energy to achieve the practitioner's desired outcome.
+**The rituals of NecrophagiaMysticism generally involve three main components**: the preparation of the ceremonial site, the invocation of spiritual entities or forces, and the manipulation of life energy to achieve the practitioner's desired outcome.
 
-1. ****Preparation****: Establishing a sacred space is crucial for the successful execution of NecrophagiaMysticism rituals. This usually entails finding an isolated location surrounded by decomposing matter such as a graveyard, burial site, or morgue. Upon locating a suitable site, practitioners cleanse the area with salts, herbs, or incense to dispel unwanted energies and create a welcoming environment for their work.
+1. **Preparation**: Establishing a sacred space is crucial for the successful execution of NecrophagiaMysticism rituals. This usually entails finding an isolated location surrounded by decomposing matter such as a graveyard, burial site, or morgue. Upon locating a suitable site, practitioners cleanse the area with salts, herbs, or incense to dispel unwanted energies and create a welcoming environment for their work.
 
-2. ****Invocation****: Once the space is prepared, practitioners invoke spiritual entities, ancestors, or other non-corporeal beings to aid in their efforts. This can be done through incantations, meditation, or direct communication with the spirit realm. The goal is to establish a strong connection with the targeted entities to access their wisdom and power.
+2. **Invocation**: Once the space is prepared, practitioners invoke spiritual entities, ancestors, or other non-corporeal beings to aid in their efforts. This can be done through incantations, meditation, or direct communication with the spirit realm. The goal is to establish a strong connection with the targeted entities to access their wisdom and power.
 
-3. ****Energy Manipulation****: NecrophagiaMysticism practitioners believe that the energy released during decomposition can be harnessed and used as a force multiplier for their magical workings. They employ a variety of techniques such as visualization, sigils, or talismans to draw upon this latent energy. Common goals include healing, rejuvenation, and spiritual enlightenment.
+3. **Energy Manipulation**: NecrophagiaMysticism practitioners believe that the energy released during decomposition can be harnessed and used as a force multiplier for their magical workings. They employ a variety of techniques such as visualization, sigils, or talismans to draw upon this latent energy. Common goals include healing, rejuvenation, and spiritual enlightenment.
 
 Notable Figures
 

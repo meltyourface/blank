@@ -30,19 +30,19 @@ The Magnum Opus, or "Great Work," is the ultimate goal in alchemy. It consists o
 
 With this context in mind, I will now detail an alchemical experiment that synthesizes "Solve et Coagula" and emphasizes the fundamental aspects of the Ouroboros within the transmutation process.
 
-1. ****Preparation****: Gather materials for the experiment, such as a glass retort and a sealed crucible, as well as lead (base metal), a mercury-like substance (representing the spirit or life force), and sulfur (representing the soul).
+1. **Preparation**: Gather materials for the experiment, such as a glass retort and a sealed crucible, as well as lead (base metal), a mercury-like substance (representing the spirit or life force), and sulfur (representing the soul).
 
-2. ****Calcination****: Heat the lead in the crucible to reduce it to ash. This process represents the dissolution of the ego (solve) and the release of the base metal's inner essence.
+2. **Calcination**: Heat the lead in the crucible to reduce it to ash. This process represents the dissolution of the ego (solve) and the release of the base metal's inner essence.
 
-3. ****Separation****: Once the lead has been reduced, separate its remaining impurities and collect the purified substance (the albedo stage). This step relates to the idea of rebirth in the Ouroboros, leaving behind the old and ushering in the new.
+3. **Separation**: Once the lead has been reduced, separate its remaining impurities and collect the purified substance (the albedo stage). This step relates to the idea of rebirth in the Ouroboros, leaving behind the old and ushering in the new.
 
-4. ****Conjunction****: Combine the purified substances with the mercury-like substance and sulfur in the glass retort. This mixture represents the rejoining of polar opposites (masculine and feminine qualities, for instance) in the alchemist's quest for wholeness.
+4. **Conjunction**: Combine the purified substances with the mercury-like substance and sulfur in the glass retort. This mixture represents the rejoining of polar opposites (masculine and feminine qualities, for instance) in the alchemist's quest for wholeness.
 
-5. ****Fermentation****: Allow the new compound to gestate and undergo a process of putrefaction. This dark and chaotic phase is akin to the Ouroboros shedding its skin, symbolizing the necessary decay and rebirth for transformation.
+5. **Fermentation**: Allow the new compound to gestate and undergo a process of putrefaction. This dark and chaotic phase is akin to the Ouroboros shedding its skin, symbolizing the necessary decay and rebirth for transformation.
 
-6. ****Distillation****: Once the fermentation process is complete, distill the purified essence from the mixture. This step signifies the reunion of the material and spiritual aspects of the original substance into an exalted form.
+6. **Distillation**: Once the fermentation process is complete, distill the purified essence from the mixture. This step signifies the reunion of the material and spiritual aspects of the original substance into an exalted form.
 
-7. ****Coagulation****: The distilled essence, now appearing golden in color, solidifies into the philosopher's stone. The coagula stage is achieved, representing the manifestation of the perfected substance and the completion of one Ouroboros cycle.
+7. **Coagulation**: The distilled essence, now appearing golden in color, solidifies into the philosopher's stone. The coagula stage is achieved, representing the manifestation of the perfected substance and the completion of one Ouroboros cycle.
 
 To draw an analogy, imagine a caterpillar undergoing the process of becoming a butterfly. The caterpillar first dissolves itself (solve) within its cocoon before taking on a new form (coagula). The Ouroboros' eternal cycle is evident in the constant transformations of the chrysalis into a butterfly, a process that continuously occurs in nature.
 

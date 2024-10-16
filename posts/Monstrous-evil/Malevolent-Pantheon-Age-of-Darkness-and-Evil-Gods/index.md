@@ -21,15 +21,15 @@ excerpt: Create a sinister pantheon of malevolent gods, each embodying a distinc
 ---
 In the age before darkness, the world was ruled by the light, and harmony prevailed. However, the emergence of the sinister pantheon of malevolent gods, known as the Ominvorium, changed everything. Each god embodies a distinct aspect of Monstrous evil and their stories are interwoven into a complex and macabre mythological narrative.
 
-1. ****Lokthar, the Ever-Devouring****: Lokthar is the god of insatiable hunger and consumption. Born from the void, he seeks to devour all that lies before him to grow in power. A monstrous beast with teeth like razors, Lokthar imparts his insatiable desires upon his followers, driving them to consume and conquer without respite.
+1. **Lokthar, the Ever-Devouring**: Lokthar is the god of insatiable hunger and consumption. Born from the void, he seeks to devour all that lies before him to grow in power. A monstrous beast with teeth like razors, Lokthar imparts his insatiable desires upon his followers, driving them to consume and conquer without respite.
 
-2. ****Zurstagnix, the Fleshweaver****: Zurstagnix personifies the corruption of flesh and deformity. This grotesque god jealously seeks to twist and reshape all living things into unrecognizable horrors. Through dark sorcery and blasphemous experimentation, she creates legions of abominations to do her bidding while spreading disease and decay.
+2. **Zurstagnix, the Fleshweaver**: Zurstagnix personifies the corruption of flesh and deformity. This grotesque god jealously seeks to twist and reshape all living things into unrecognizable horrors. Through dark sorcery and blasphemous experimentation, she creates legions of abominations to do her bidding while spreading disease and decay.
 
-3. ****Lythos, the Shadow King****: Lythos embodies deceit, lies, and betrayal. A spectral figure cloaked in shadows, he whispers false promises into the ears of mortals and manipulates their fates for his own amusement. His influence is at the heart of every great betrayal and his presence breeds paranoia and mistrust.
+3. **Lythos, the Shadow King**: Lythos embodies deceit, lies, and betrayal. A spectral figure cloaked in shadows, he whispers false promises into the ears of mortals and manipulates their fates for his own amusement. His influence is at the heart of every great betrayal and his presence breeds paranoia and mistrust.
 
-4. ****Malstera, the Siren of Suffering****: Malstera revels in the agony and despair of others and represents the darkest aspects of sadism and torture. With every scream and plea, she grows stronger, drawing mortals into her wicked embrace. The most twisted and cruel souls willingly serve her in exchange for the power to prolong their victims' torments.
+4. **Malstera, the Siren of Suffering**: Malstera revels in the agony and despair of others and represents the darkest aspects of sadism and torture. With every scream and plea, she grows stronger, drawing mortals into her wicked embrace. The most twisted and cruel souls willingly serve her in exchange for the power to prolong their victims' torments.
 
-5. ****Gavrok, the Lord of Avarice****: Greed and ambition are the domains of Gavrok, the god who drives mortals to their own destruction in pursuit of power and wealth. A cunning manipulator, Gavrok sows the seeds of strife and discord, pitting nations, families, and friends against one another for his own pleasure.
+5. **Gavrok, the Lord of Avarice**: Greed and ambition are the domains of Gavrok, the god who drives mortals to their own destruction in pursuit of power and wealth. A cunning manipulator, Gavrok sows the seeds of strife and discord, pitting nations, families, and friends against one another for his own pleasure.
 
 As the Ominvorium formed, these malevolent gods forged a realm of darkness and horror as their own domain, the Obsidian Abyss. This nightmarish plane mirrors the twisted nature of the dark gods and serves as both their prison and their throne. From here, their vile influence spills into the mortal realm, corrupting and manipulating those who seek their dark power.
 

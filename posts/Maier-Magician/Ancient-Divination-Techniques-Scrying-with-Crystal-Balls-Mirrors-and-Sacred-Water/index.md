@@ -25,9 +25,9 @@ Scrying, an ancient art of divination within the realm of Maier (Magician) pract
 
 1. Consecrated Crystal Ball
 
-Historical Significance: Consecrated Crystal Balls have been employed as divinatory tools by myriad cultures throughout history, including the Celtic Druids, the Chinese, and the Romans. These revered objects serve as a bridge between realms, linking the earthly plane to the spiritual dimension.
+**Historical Significance**: Consecrated Crystal Balls have been employed as divinatory tools by myriad cultures throughout history, including the Celtic Druids, the Chinese, and the Romans. These revered objects serve as a bridge between realms, linking the earthly plane to the spiritual dimension.
 
-Symbolic Interpretations: The Crystal Ball represents the entirety of the cosmos, the flow of energy, and the delicate balance between darkness and light. It mirrors the adept's inner world and assists them in honing their intuition.
+**Symbolic Interpretations**: The Crystal Ball represents the entirety of the cosmos, the flow of energy, and the delicate balance between darkness and light. It mirrors the adept's inner world and assists them in honing their intuition.
 
 Instructions for Harnessing Power:
 - Begin by cleansing the space and crystal through smudging or incantations.
@@ -42,9 +42,9 @@ Instructions for Harnessing Power:
 
 2. Enchanted Mirror
 
-Historical Significance: Enchanted mirrors have been utilized in various religious, mythological, and mystical contexts, from the Greek myth of Narcissus to the African divination practice of Ifá. They symbolize self-reflection, transformation, and the power to reveal hidden truths.
+**Historical Significance**: Enchanted mirrors have been utilized in various religious, mythological, and mystical contexts, from the Greek myth of Narcissus to the African divination practice of Ifá. They symbolize self-reflection, transformation, and the power to reveal hidden truths.
 
-Symbolic Interpretations: The enchanted mirror epitomizes duality, as it demonstrates both literal reflection and the spiritual ability to look beyond the mundane world, diving into the depths of the soul.
+**Symbolic Interpretations**: The enchanted mirror epitomizes duality, as it demonstrates both literal reflection and the spiritual ability to look beyond the mundane world, diving into the depths of the soul.
 
 Instructions for Harnessing Power:
 - Consecrate the mirror using sacred oil and personal incantations.
@@ -59,9 +59,9 @@ Instructions for Harnessing Power:
 
 3. Sacred Water from a Primeval Source
 
-Historical Significance: Water scrying dates to ancient Mesopotamia and Egypt, where priests would interpret the ripples and reflections of water as messages from the gods. Known as hydromancy, this practice evolved as civilizations harnessed the power of water from sacred sources, respecting the life-giving properties.
+**Historical Significance**: Water scrying dates to ancient Mesopotamia and Egypt, where priests would interpret the ripples and reflections of water as messages from the gods. Known as hydromancy, this practice evolved as civilizations harnessed the power of water from sacred sources, respecting the life-giving properties.
 
-Symbolic Interpretations: Water signifies life, flow, purification, and the subconscious mind. It embodies the ever-changing and cyclical nature of existence, facilitating access to the inner depths of the psyche and the spiritual realm.
+**Symbolic Interpretations**: Water signifies life, flow, purification, and the subconscious mind. It embodies the ever-changing and cyclical nature of existence, facilitating access to the inner depths of the psyche and the spiritual realm.
 
 Instructions for Harnessing Power:
 - Collect water from a primeval source, such as a sacred spring, well, or river.

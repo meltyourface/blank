@@ -22,11 +22,11 @@ excerpt: Design a comprehensive and immersive curriculum for instructing novice 
 
 ## Enochian Magic Mastery: A Comprehensive and Immersive Curriculum
 
-Course Objective: To instruct novice practitioners in the mystical art of Enochian magic, focusing on essential theories, rituals, and historical context within Occult traditions.
+**Course Objective**: To instruct novice practitioners in the mystical art of Enochian magic, focusing on essential theories, rituals, and historical context within Occult traditions.
 
-Course Duration: 16 weeks, with two 3-hour sessions per week (96 hours total)
+**Course Duration**: 16 weeks, with two 3-hour sessions per week (96 hours total)
 
-Teaching Methods: Lectures, hands-on exercises, reflective journaling, multimedia presentations, guided ritual performances, and practical assessments.
+**Teaching Methods**: Lectures, hands-on exercises, reflective journaling, multimedia presentations, guided ritual performances, and practical assessments.
 
 Course Modules:
 

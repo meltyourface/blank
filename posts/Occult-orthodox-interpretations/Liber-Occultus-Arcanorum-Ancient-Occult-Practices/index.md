@@ -26,7 +26,7 @@ excerpt: Decipher and interpret an arcane grimoire, specifically rooted in Occul
 
 ### Chapter I: The Four Elements
 
-Liber Occultus Arcanorum posits that the universe is comprised of the four traditional elements: Earth, Air, Water, and Fire. This mirrors the Orthodox principles of balance and material manifestations, as represented, for example, in the Pentacle.
+**Liber Occultus Arcanorum posits that the universe is comprised of the four traditional elements**: Earth, Air, Water, and Fire. This mirrors the Orthodox principles of balance and material manifestations, as represented, for example, in the Pentacle.
 
 ### Chapter II: Conjuration of Elemental Spirits
 

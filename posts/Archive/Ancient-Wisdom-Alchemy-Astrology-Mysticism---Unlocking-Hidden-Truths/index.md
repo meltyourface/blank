@@ -46,7 +46,7 @@ Interconnectedness & Impact on Unlocking Hidden Truths
 -----------------------------------------------
 The transformative impact of these disciplines, along with their intricate connections in the Archive, provides a powerful tool for unveiling hidden aspects of the self and the universe. By examining the links among various practices, we gain insights into the nature of existence, awakening to a heightened sense of unity and interconnectedness.
 
-Alchemy embodies the process of transformation: through spiritual and physical alchemical feats, it teaches us how to refine the raw, imperfect aspects of ourselves. This process parallels astrology's affirmation of the impact celestial phenomena have on shaping the human experience, unveiling the subtle forces guiding our lives. Mysticism, the most inward-looking of these practices, provides a link between the experienced cosmos (astrology) and the internal transformation (alchemy). It magnifies our innate desire to connect transcendentally to larger forces and to the self.
+**Alchemy embodies the process of transformation**: through spiritual and physical alchemical feats, it teaches us how to refine the raw, imperfect aspects of ourselves. This process parallels astrology's affirmation of the impact celestial phenomena have on shaping the human experience, unveiling the subtle forces guiding our lives. Mysticism, the most inward-looking of these practices, provides a link between the experienced cosmos (astrology) and the internal transformation (alchemy). It magnifies our innate desire to connect transcendentally to larger forces and to the self.
 
 Conclusion
 ---------------

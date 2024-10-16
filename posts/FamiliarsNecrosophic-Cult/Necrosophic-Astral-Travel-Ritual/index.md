@@ -37,7 +37,7 @@ Phase 2: Initiation
 
 3. Envision the scene before you, like a misty shore at the edge of the ethereal veil.
 
-4. ****Move around the circle, stopping to acknowledge each talisman****: Asht-kunar (Earth), Vanyar-en (Air), Goth'vkul (Fire), and Morith'tal (Water). **Touching each talisman, speak aloud the following chant to channel the collective energies of the cult's highest-ranking members**:
+4. **Move around the circle, stopping to acknowledge each talisman**: Asht-kunar (Earth), Vanyar-en (Air), Goth'vkul (Fire), and Morith'tal (Water). **Touching each talisman, speak aloud the following chant to channel the collective energies of the cult's highest-ranking members**:
   "Ni-thro baless kreth, kreth'arn pha-hal ikar. By your power and guidance, I shall transcend."
 
 5. Upon returning to the north, visualize the Sigil of Transcendence pulsating with otherworldly energy beneath your feet.

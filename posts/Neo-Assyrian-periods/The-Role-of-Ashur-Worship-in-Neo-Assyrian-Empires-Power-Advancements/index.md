@@ -29,10 +29,10 @@ To understand the connection between the Neo-Assyrian Empire's rise to power and
 
 Now, let us examine how the worship of the god Ashur influenced the Empire's policies and societal advancements, particularly in three key areas: the justification of military conquest, the organization and administration of the Empire, and cultural achievements.
 
-1. ****Justification of military conquest****: 
+1. **Justification of military conquest**: 
 The worship of Ashur had a direct impact on the Empire's expansionist policies. With Ashur as their divine guide, the Assyrian kings believed they were following his will and guidance, which led them to wage wars on many neighboring states and expand their territory. These conquests were seen as a way to establish the dominance of the god Ashur over foreign lands, thereby bringing his divine order to the realms they captured. From the perspective of the Neo-Assyrian Empire, these conquests were not only political but also religious duties that enforced their god's divine order.
 
-2. ****Organization and administration of the Empire****: 
+2. **Organization and administration of the Empire**: 
 The Neo-Assyrian Empire maintained a centralized administration, with the king as both the military and religious head. This centralized administration held Ashur as the source of the king's power and authority, facilitating a direct chain of command from the god to the monarch. Furthermore, the worship of Ashur promoted a strong sense of duty and order, which translated into an efficient bureaucracy that upheld the laws and regulations of the Empire. Worship of Ashur also influenced the internal affairs of the Empire, guiding the kings in their governance. It allowed them to exert control over the vast territories that they had acquired and maintain order in their dominions.
 
 3. **Cultural achievements**:

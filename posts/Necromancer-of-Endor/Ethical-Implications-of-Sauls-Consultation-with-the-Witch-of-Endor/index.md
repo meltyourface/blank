@@ -22,7 +22,7 @@ excerpt: >
 ---
 In the context of the biblical story of the Witch of Endor, we must first understand the events that took place before delving into an analysis of the ethical implications of Saul's consultation with the necromancer. The story of the Witch of Endor can be found in the First Book of Samuel, chapter 28, in the Hebrew Bible and the Old Testament of the Christian Bible.
 
-The story unfolds as follows: The Israelite King Saul is afraid, for he can no longer receive guidance from God. The prophet Samuel had passed away, and the Philistines are preparing to attack the Israelites. In his desperation, Saul seeks the advice of a medium, known as the Witch of Endor, to summon the spirit of Samuel in the hopes of receiving guidance.
+**The story unfolds as follows**: The Israelite King Saul is afraid, for he can no longer receive guidance from God. The prophet Samuel had passed away, and the Philistines are preparing to attack the Israelites. In his desperation, Saul seeks the advice of a medium, known as the Witch of Endor, to summon the spirit of Samuel in the hopes of receiving guidance.
 
 Saul's consultation with the Witch of Endor, a necromancer, carries several ethical implications. First and foremost, it highlights the conflict between Saul's faith in God and his desperate desire for guidance. In the Old Testament, necromancy and consulting with mediums are strictly forbidden by God, as seen in passages such as Leviticus 19:31 and Deuteronomy 18:10-12. By choosing to seek out the Witch of Endor, Saul consciously goes against God's commandments and, in effect, betrays his faith. This disobedience is the first ethical issue we encounter.
 

@@ -40,11 +40,11 @@ Practical Techniques and Mental Exercises
 
 2. Study of diverse occult systems. Familiarizing oneself with various occult systems and traditions (e.g., Hermeticism, Kabbalah, Theosophy, etc.) serves to widen one's perspective and understanding of the esoteric landscape. Each system brings with it specialized methodologies and teachings that can be incorporated and adapted to create a highly nuanced practice.
 
-3. ****Thought Journals****: Recording one's thoughts, ideas, and contemplations is a vital part of deepening one's understanding of the occult. Maintaining a journal dedicated to the exploration of alternative perspectives helps to solidify the practitioner's awareness and understanding of these hidden aspects of reality.
+3. **Thought Journals**: Recording one's thoughts, ideas, and contemplations is a vital part of deepening one's understanding of the occult. Maintaining a journal dedicated to the exploration of alternative perspectives helps to solidify the practitioner's awareness and understanding of these hidden aspects of reality.
 
-4. ****Engaging in Creative and Intuitive Arts****: Creativity and intuition are powerful catalysts for new ways of thinking, making art, music, story-telling, and other related practices valuable tools for cultivating alternative perspectives. These creative endeavors can act as a channel to access deeper levels of consciousness and produce new insights unattainable through analytical thinking alone.
+4. **Engaging in Creative and Intuitive Arts**: Creativity and intuition are powerful catalysts for new ways of thinking, making art, music, story-telling, and other related practices valuable tools for cultivating alternative perspectives. These creative endeavors can act as a channel to access deeper levels of consciousness and produce new insights unattainable through analytical thinking alone.
 
-5. ****Group Discussions and Debates****: Interacting with fellow occult practitioners provides a unique opportunity to exchange ideas and learn from others' alternative perspectives. Engaging in respectful, open-minded discussions and debates can improve one's understanding of the occult and strengthen one's ability to analyze and synthesize diverse ideas.
+5. **Group Discussions and Debates**: Interacting with fellow occult practitioners provides a unique opportunity to exchange ideas and learn from others' alternative perspectives. Engaging in respectful, open-minded discussions and debates can improve one's understanding of the occult and strengthen one's ability to analyze and synthesize diverse ideas.
 
 Conclusion
 

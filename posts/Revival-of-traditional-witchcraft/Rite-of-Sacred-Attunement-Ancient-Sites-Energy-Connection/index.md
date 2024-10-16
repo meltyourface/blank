@@ -22,7 +22,7 @@ excerpt: >
 ---
 Task: Devise a ritualistic method for attuning to the vibrational energies of ancient sacred sites, such as Stonehenge, the Temple of Isis, and the Oracle of Delphi.
 
-Ritual Name: The Rite of Sacred Attunement
+**Ritual Name**: The Rite of Sacred Attunement
 
 Materials Required:
 1. Sigils of the sacred sites (hand-drawn or printed)

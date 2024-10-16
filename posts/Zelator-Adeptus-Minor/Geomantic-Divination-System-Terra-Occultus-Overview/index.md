@@ -44,26 +44,26 @@ In the Terra Occultus system, the four elements are associated with the primary 
 
 In this system, we have 16 distinct figures, each representing a unique combination of elemental associations and sigils. **The figures are as follows**:
 
-1. ****Earth's Foundation (Earth, Earth)****: Stability, grounding, structure
-2. ****Air's Insight (Air, Air)****: Clarity, communication, ideas
-3. ****Fire's Ignition (Fire, Fire)****: Passion, willpower, motivation
-4. ****Water's Depths (Water, Water)****: Intuition, emotion, healing
+1. **Earth's Foundation (Earth, Earth)**: Stability, grounding, structure
+2. **Air's Insight (Air, Air)**: Clarity, communication, ideas
+3. **Fire's Ignition (Fire, Fire)**: Passion, willpower, motivation
+4. **Water's Depths (Water, Water)**: Intuition, emotion, healing
 
-5. ****Earth and Air (Earth, Air)****: Material growth, learning, adaptation
-6. ****Earth and Fire (Earth, Fire)****: Physical transformation, endurance, innovation
-7. ****Earth and Water (Earth, Water)****: Nurturing, protection, emotional stability
+5. **Earth and Air (Earth, Air)**: Material growth, learning, adaptation
+6. **Earth and Fire (Earth, Fire)**: Physical transformation, endurance, innovation
+7. **Earth and Water (Earth, Water)**: Nurturing, protection, emotional stability
 
-8. ****Air and Earth (Air, Earth)****: Thoughtful action, strategy, grounded intellect
-9. ****Air and Fire (Air, Fire)****: Inspiration, risk-taking, enthusiasm
-10. ****Air and Water (Air, Water)****: Emotional intelligence, empathy, inner wisdom
+8. **Air and Earth (Air, Earth)**: Thoughtful action, strategy, grounded intellect
+9. **Air and Fire (Air, Fire)**: Inspiration, risk-taking, enthusiasm
+10. **Air and Water (Air, Water)**: Emotional intelligence, empathy, inner wisdom
 
-11. ****Fire and Earth (Fire, Earth)****: Energy, productivity, ambition
-12. ****Fire and Air (Fire, Air)****: Creativity, quick thinking, leadership
-13. ****Fire and Water (Fire, Water)****: Passionate emotions, spiritual awakening, dramatic change
+11. **Fire and Earth (Fire, Earth)**: Energy, productivity, ambition
+12. **Fire and Air (Fire, Air)**: Creativity, quick thinking, leadership
+13. **Fire and Water (Fire, Water)**: Passionate emotions, spiritual awakening, dramatic change
 
-14. ****Water and Earth (Water, Earth)****: Harmony, balance, comfort
-15. ****Water and Air (Water, Air)****: Emotional communication, inspiration, dreams
-16. ****Water and Fire (Water, Fire)****: Emotional turbulence, spiritual growth, purification
+14. **Water and Earth (Water, Earth)**: Harmony, balance, comfort
+15. **Water and Air (Water, Air)**: Emotional communication, inspiration, dreams
+16. **Water and Fire (Water, Fire)**: Emotional turbulence, spiritual growth, purification
 
 3. **Methodical Process**:
 
@@ -81,10 +81,10 @@ The practice of Terra Occultus combines ceremonial rituals and tools in conjunct
 
 Astrological symbols and signs are embedded into interpretations to add depth and precision. **Each geomantic figure is associated with a celestial influence that enhances its meaning**:
 
-1. ****Earth's Foundation****: Taurus (Fixed Earth)
-2. ****Air's Insight****: Libra (Cardinal Air)
-3. ****Fire's Ignition****: Leo (Fixed Fire)
-4. ****Water's Depths****: Cancer (Cardinal Water)
+1. **Earth's Foundation**: Taurus (Fixed Earth)
+2. **Air's Insight**: Libra (Cardinal Air)
+3. **Fire's Ignition**: Leo (Fixed Fire)
+4. **Water's Depths**: Cancer (Cardinal Water)
 [...]
 
 Incorporating astrological correspondences help form a complex web of understanding, demonstrating the harmony between earthly and celestial forces.
@@ -93,11 +93,11 @@ Incorporating astrological correspondences help form a complex web of understand
 
 The Elemental Cross Spread is designed to exhibit the interplay between geomantic figures, elements, and celestial influences:
 
-1. ****Center (Present Situation)****: Represents the querent's current state
-2. ****Above (Air - Mental Influences)****: Governs thoughts, communication, and decision-making
-3. ****Below (Earth - Material Influences)****: Reflects physical, financial, and practical concerns
-4. ****Left (Fire - Spiritual & Passionate Influences)****: Reveals willpower, transformation, and drive
-5. ****Right (Water - Emotional Influences)****: Showcases feelings, intuition, and spiritual wisdom
+1. **Center (Present Situation)**: Represents the querent's current state
+2. **Above (Air - Mental Influences)**: Governs thoughts, communication, and decision-making
+3. **Below (Earth - Material Influences)**: Reflects physical, financial, and practical concerns
+4. **Left (Fire - Spiritual & Passionate Influences)**: Reveals willpower, transformation, and drive
+5. **Right (Water - Emotional Influences)**: Showcases feelings, intuition, and spiritual wisdom
 
 6. **Initiation Ritual**:
 

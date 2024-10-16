@@ -24,20 +24,20 @@ excerpt: >
 The Veil-inspired method of controlled astral projection, termed "AstraVeil," enables practitioners to accurately navigate the ethereal plane, reach specific destinations, and protect themselves from potential malevolent entities. Combining ancient knowledge and modern Veil mastery, AstraVeil is designed to provide a safe and efficient means of astral exploration.
 
 ### II. Preparatory Rituals
-1. ****Temporal Space Cleansing****: Cleanse the physical environment by lighting some sage or palo santo, allowing the cleansing smoke to permeate the area where the projection will occur.
-2. ****Astral Armor****: Invoke protection by visualizing a robust, luminous energy surrounding you, forming an impenetrable shield.
-3. ****Grounding****: Establish a connection to the Earth by visualizing a self-replenishing, anchoring cord extending from your feet, connecting you to the planet's core.
-4. ****Intent Statement****: Clearly articulate your purpose for astral projection, the desired destination, and any personal objectives related to the journey.
+1. **Temporal Space Cleansing**: Cleanse the physical environment by lighting some sage or palo santo, allowing the cleansing smoke to permeate the area where the projection will occur.
+2. **Astral Armor**: Invoke protection by visualizing a robust, luminous energy surrounding you, forming an impenetrable shield.
+3. **Grounding**: Establish a connection to the Earth by visualizing a self-replenishing, anchoring cord extending from your feet, connecting you to the planet's core.
+4. **Intent Statement**: Clearly articulate your purpose for astral projection, the desired destination, and any personal objectives related to the journey.
 
 ### III. Visualization Techniques
-1. ****The AstraVeil Gateway****: Visualize a shimmering, intertwined lattice of energy serving as a portal. Focus your intent on a destination, allowing the portal to reconfigure, connecting to the desired location in the ethereal plane.
-2. ****Safe Passage****: Imagine a pathway of radiant energy guiding you through the astral realm, ensuring a reliable and secure connection to your intended destination.
-3. ****Return Anchor****: Visualize a silver, intricate cord with one end anchored in your physical body and the other attached to you in the ethereal plane. This cord guides your journey and ensures a safe return.
+1. **The AstraVeil Gateway**: Visualize a shimmering, intertwined lattice of energy serving as a portal. Focus your intent on a destination, allowing the portal to reconfigure, connecting to the desired location in the ethereal plane.
+2. **Safe Passage**: Imagine a pathway of radiant energy guiding you through the astral realm, ensuring a reliable and secure connection to your intended destination.
+3. **Return Anchor**: Visualize a silver, intricate cord with one end anchored in your physical body and the other attached to you in the ethereal plane. This cord guides your journey and ensures a safe return.
 
 ### IV. Protective Measures
-1. ****Astral Watchers****: Invoke benevolent astral entities to watch over you during your journey. These astral guardians are well-versed in navigating the ethereal plane and can protect against malevolent forces.
-2. ****Spiritual Disguise****: Use Veil techniques to cloak yourself in a form that is unrecognizable to potential threats, blending seamlessly with the ethereal environment.
-3. ****Sacred Sigils****: Incorporate potent protection symbols into your astral armor, such as the Lesser Banishing Ritual of the Pentagram or other protective sigils aligned with your belief system.
+1. **Astral Watchers**: Invoke benevolent astral entities to watch over you during your journey. These astral guardians are well-versed in navigating the ethereal plane and can protect against malevolent forces.
+2. **Spiritual Disguise**: Use Veil techniques to cloak yourself in a form that is unrecognizable to potential threats, blending seamlessly with the ethereal environment.
+3. **Sacred Sigils**: Incorporate potent protection symbols into your astral armor, such as the Lesser Banishing Ritual of the Pentagram or other protective sigils aligned with your belief system.
 
 ### V. Energetic Signatures and Locations
 1. **The Crystal Caverns**:

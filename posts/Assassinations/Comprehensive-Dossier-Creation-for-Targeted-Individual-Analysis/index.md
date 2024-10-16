@@ -111,8 +111,8 @@ Example of such plan:
 
 Target's vulnerability: Johnathan Smith has a daily routine of jogging alone in a wooded area within a park between 6:00 AM and 7:00 AM. The area is generally secluded with minimal foot traffic at this time.
 
-Ideal location for stealthy and effective execution: The wooded area of the park during his jogging routine.
+**Ideal location for stealthy and effective execution**: The wooded area of the park during his jogging routine.
 
-Ideal Time: Early morning, between 6:00 AM and 6:30 AM, when the area has the least number of visitors, and before the sun rises for increased cover.
+**Ideal Time**: Early morning, between 6:00 AM and 6:30 AM, when the area has the least number of visitors, and before the sun rises for increased cover.
 
-Environmental factors to consider: Poor weather conditions (rain, fog) provide additional cover during execution.
+**Environmental factors to consider**: Poor weather conditions (rain, fog) provide additional cover during execution.

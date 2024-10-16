@@ -33,13 +33,13 @@ The spiritual journey commenced with seven divine revelations that unfolded like
 
 Allegorically, these revelations were represented by a series of luminescent orbs:
 
-1. ****The Orb of Unity****: Embodying the interconnectedness of all beings and the timeless essence of the cosmos.
-2. ****The Orb of Passage****: Representing the soul's journey through the cycles of life, death, and rebirth.
-3. ****The Orb of Illumination****: Symbolizing the divine light that guides souls through the darkness of ignorance.
-4. ****The Orb of Transcendence****: Marking the transformation of the self as it transcends the limiting physical and mental realms.
-5. ****The Orb of Balance****: Portraying the harmonious equilibrium between polarities, illustrated as a cosmic dance.
-6. ****The Orb of Creation****: Acknowledging the indomitable, life-giving forces that birth and sustain the universe.
-7. ****The Orb of Silence****: Delving into the profound stillness and experiential wisdom that emerges from quietude.
+1. **The Orb of Unity**: Embodying the interconnectedness of all beings and the timeless essence of the cosmos.
+2. **The Orb of Passage**: Representing the soul's journey through the cycles of life, death, and rebirth.
+3. **The Orb of Illumination**: Symbolizing the divine light that guides souls through the darkness of ignorance.
+4. **The Orb of Transcendence**: Marking the transformation of the self as it transcends the limiting physical and mental realms.
+5. **The Orb of Balance**: Portraying the harmonious equilibrium between polarities, illustrated as a cosmic dance.
+6. **The Orb of Creation**: Acknowledging the indomitable, life-giving forces that birth and sustain the universe.
+7. **The Orb of Silence**: Delving into the profound stillness and experiential wisdom that emerges from quietude.
 
 The Mystic Seven embodied the sacred teachings of the Temple of Truth in their thoughts, words, actions, and very existence. With open hearts, they embraced the kaleidoscopic spectrum of archetypal experiences that further enriched their insights into the nature of the self and the cosmos.
 

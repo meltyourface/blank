@@ -20,7 +20,7 @@ description: You are a master of the esoteric, occult, Devil's Servitor, you com
 excerpt: > 
   Explain how to merge principles from diverse demonic and occult practices to construct a distinct Devil's Servitor methodology, including, but not limited to, invocations, sigil design, and energy manipulation. Provide examples of synergistic combinations from at least three specific magical traditions, as well as detailed instructions on the creation, summoning, and control of a powerful servitor entity for your chosen purpose. Evaluate the complexities and potential risks of blending these varied systems and discuss ways to mitigate any potential adverse consequences.
 ---
-To construct a distinct Devil's Servitor methodology, we must draw upon esoteric principles and techniques from various occult and demonic practices. ****This synthesis should retain the core potency of each tradition while enhancing their overall effectiveness. We will explore key aspects of invocations, sigil design, and energy manipulation to establish a comprehensive system. For this purpose, we will reference three distinct magical traditions****: Goetia, Chaos Magic, and Norse Runes. 
+To construct a distinct Devil's Servitor methodology, we must draw upon esoteric principles and techniques from various occult and demonic practices. **This synthesis should retain the core potency of each tradition while enhancing their overall effectiveness. We will explore key aspects of invocations, sigil design, and energy manipulation to establish a comprehensive system. For this purpose, we will reference three distinct magical traditions**: Goetia, Chaos Magic, and Norse Runes. 
 
 1. **Invocations**:
 

@@ -55,13 +55,13 @@ While Anti-cosmic Luciferianism places more emphasis on the figure of Lucifer an
 
 Rituals practiced by those who walk the path of both Anti-cosmic Luciferianism and Sinister Animism often revolve around harnessing the raw energies of chaos and the primordial darkness, often symbiotically entwined with the mythos of Lucifer or other dark figures. **Some common rituals and practices include**:
 
-1. ****Invocation of Nightside Spirits**:** This involves invoking both demonic and primordial spirits, creating a synthesis of energy to be utilized for personal empowerment and transformation.
+1. **Invocation of Nightside Spirits**:** This involves invoking both demonic and primordial spirits, creating a synthesis of energy to be utilized for personal empowerment and transformation.
 
-2. ****The Black Mass**:** A subversion of the traditional Christian Mass, this ritual celebrates the worship of Lucifer, emphasizing the adversarial aspects of the deity and the importance of individual freedom against the oppressive cosmic order.
+2. **The Black Mass**:** A subversion of the traditional Christian Mass, this ritual celebrates the worship of Lucifer, emphasizing the adversarial aspects of the deity and the importance of individual freedom against the oppressive cosmic order.
 
-3. ****Shadow Integration and Transcendence**:** By delving into the depths of their own psyche and integrating the dark aspects of themselves, practitioners can access greater power and work towards self-deification.
+3. **Shadow Integration and Transcendence**:** By delving into the depths of their own psyche and integrating the dark aspects of themselves, practitioners can access greater power and work towards self-deification.
 
-4. ****Elemental Chaos Workings**:** By working with the primordial forces of creation and destruction, practitioners unveil the potential for harnessing the untamed aspects of the elements, allowing for the bending of reality and the acquisition of power from the roots of existence.
+4. **Elemental Chaos Workings**:** By working with the primordial forces of creation and destruction, practitioners unveil the potential for harnessing the untamed aspects of the elements, allowing for the bending of reality and the acquisition of power from the roots of existence.
 
 In symbolism, Lucifer's Sigil, the chaotic nine-pointed star, and the Tree of Qliphoth often feature heavily within the combined path. These symbols act as sigils that concentrate the energies of the adherent's intent during rituals.
 

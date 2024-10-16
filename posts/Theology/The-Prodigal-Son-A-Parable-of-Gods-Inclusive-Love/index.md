@@ -25,11 +25,11 @@ Cultural, Historical, and Theological Context:
 
 To provide a comprehensive analysis and interpretation of the Parable of the Prodigal Son, we must understand the cultural, historical, and theological contexts of the time. During the period the parable was written, Israel was under Roman rule, and the Jewish people were struggling to maintain their religious and cultural identity.
 
-Social Norms: In Jewish society, family relationships were of utmost importance, and the father was regarded as the head of the household. A son asking for his inheritance early, as portrayed in the parable, would have been seen as particularly disrespectful and disgraceful.
+**Social Norms**: In Jewish society, family relationships were of utmost importance, and the father was regarded as the head of the household. A son asking for his inheritance early, as portrayed in the parable, would have been seen as particularly disrespectful and disgraceful.
 
-Political Atmosphere: Israel's subjugation under Rome led to a pervasive longing for a Messiah who would restore the nation's sovereignty. Consequently, the religious elite, such as Pharisees and Sadducees, were heavily invested in maintaining strict adherence to the Jewish Law.
+**Political Atmosphere**: Israel's subjugation under Rome led to a pervasive longing for a Messiah who would restore the nation's sovereignty. Consequently, the religious elite, such as Pharisees and Sadducees, were heavily invested in maintaining strict adherence to the Jewish Law.
 
-Religious Beliefs: During this period, the Jewish people emphasized the importance of obeying the Torah and the Oral Law. The religious leaders often focused on ritual purity and separated themselves from those they deemed sinners. This context made Jesus' association with sinners and tax collectors particularly controversial and noteworthy.
+**Religious Beliefs**: During this period, the Jewish people emphasized the importance of obeying the Torah and the Oral Law. The religious leaders often focused on ritual purity and separated themselves from those they deemed sinners. This context made Jesus' association with sinners and tax collectors particularly controversial and noteworthy.
 
 Comparison with Other Biblical Texts and Traditions:
 

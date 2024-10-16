@@ -34,15 +34,15 @@ As societies evolved, so did the methods of death divination. During the Middle 
 
 There are numerous methods for practicing death divination, each with its own unique set of tools, interpretations, and symbolism. Below are some of the most well-known techniques.
 
-1. ****Tarot Cards****: A common divination tool, tarot cards can provide guidance on various aspects of life, including death. Death-related interpretations can be found in the Major Arcana's Death, Tower, and Judgment cards, among others.
+1. **Tarot Cards**: A common divination tool, tarot cards can provide guidance on various aspects of life, including death. Death-related interpretations can be found in the Major Arcana's Death, Tower, and Judgment cards, among others.
 
-2. ****Scrying****: This form of death divination involves staring into a reflective surface such as a crystal ball, bowl of water, or a mirror. The scryer then interprets the shapes or images that appear in order to gain insights into one's own or another's mortality.
+2. **Scrying**: This form of death divination involves staring into a reflective surface such as a crystal ball, bowl of water, or a mirror. The scryer then interprets the shapes or images that appear in order to gain insights into one's own or another's mortality.
 
-3. ****Astrology****: An analysis of an individual's birth chart and the position of celestial bodies at the time of their birth can offer clues about the timing and nature of their eventual passing. The Eighth House, for example, is often linked to themes of death and transformation.
+3. **Astrology**: An analysis of an individual's birth chart and the position of celestial bodies at the time of their birth can offer clues about the timing and nature of their eventual passing. The Eighth House, for example, is often linked to themes of death and transformation.
 
-4. ****Tasseography****: The art of reading tea leaves, coffee grounds, or wine sediment patterns to glean insights into an individual's life and possible death.
+4. **Tasseography**: The art of reading tea leaves, coffee grounds, or wine sediment patterns to glean insights into an individual's life and possible death.
 
-5. ****Bone Divination****: This ancestral method involves casting specially chosen bones, usually those of animals, and interpreting the patterns formed upon landing. The belief is that the arrangement of the bones can reveal insights into life and death questions.
+5. **Bone Divination**: This ancestral method involves casting specially chosen bones, usually those of animals, and interpreting the patterns formed upon landing. The belief is that the arrangement of the bones can reveal insights into life and death questions.
 
 ### Chapter 3: Symbolism and Interpretation
 

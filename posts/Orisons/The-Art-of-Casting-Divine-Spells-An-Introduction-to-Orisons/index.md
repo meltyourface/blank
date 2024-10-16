@@ -43,7 +43,7 @@ Types of Orisons
 
 4. **Divination Orisons**: Seeking insight into the past, present, or future, these spells enable the caster to gather information from spiritual sources, seeking guidance and clarity in their decision-making or to connect with ancestors or other spiritual beings.
 
-Casting Orisons: Techniques and Procedures
+**Casting Orisons**: Techniques and Procedures
 
 The art of casting Orisons varies between different traditions, but fundamental principles remain universal. The caster must focus their intention, maintain a strong connection with their spiritual source or deity, and follow rituals or procedures specific to the Orison being cast.
 

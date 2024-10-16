@@ -40,25 +40,25 @@ The power of transliterated liturgical compositions lies in their ability to bri
 
 Transcription in occult practices is a delicate and time-honored process that demands reverence and precision. **When engaging in the work of transcription, the following steps should be observed**:
 
-1. ****Research****: The student should thoroughly study the source material from which the original liturgical compositions are derived, delving into the culture, customs, and linguistic structure of the original context. This aids in the understanding and accurate transmission of meaning.
+1. **Research**: The student should thoroughly study the source material from which the original liturgical compositions are derived, delving into the culture, customs, and linguistic structure of the original context. This aids in the understanding and accurate transmission of meaning.
 
-2. ****Selection****: The practitioner must carefully choose an appropriate script or language to act as a conduit for the original compositions. This could involve employing one or more of the various sacred scripts, such as Hebrew, Enochian, or Theban.
+2. **Selection**: The practitioner must carefully choose an appropriate script or language to act as a conduit for the original compositions. This could involve employing one or more of the various sacred scripts, such as Hebrew, Enochian, or Theban.
 
-3. ****Transliteration****: Letter by letter, the original script is painstakingly transcribed into the chosen target language. Utmost care must be taken in this stage to retain the authenticity of the original intent and meaning.
+3. **Transliteration**: Letter by letter, the original script is painstakingly transcribed into the chosen target language. Utmost care must be taken in this stage to retain the authenticity of the original intent and meaning.
 
-4. ****Verification****: Further research and study of the transcription should be carried out to confirm the correctness and integrity of the transliteration.
+4. **Verification**: Further research and study of the transcription should be carried out to confirm the correctness and integrity of the transliteration.
 
-5. ****Application****: Once verified, the transliterated composition can be employed in rituals and esoteric practices, always with intent, respect, and mindfulness.
+5. **Application**: Once verified, the transliterated composition can be employed in rituals and esoteric practices, always with intent, respect, and mindfulness.
 
 ### Chapter 4: Keys to Understanding the Underlying Meaning
 
 As practitioners delve into the complexities of transliterated liturgical compositions, the following keys can unlock a deeper understanding:
 
-1. ****Know the original language****: Familiarity with the source language facilitates an appreciation for the nuances and tones encapsulating the true meaning and power of each word or phrase.
+1. **Know the original language**: Familiarity with the source language facilitates an appreciation for the nuances and tones encapsulating the true meaning and power of each word or phrase.
 
-2. ****Grasp the cultural context****: Appreciating the relevant customs, history, and beliefs of the era and culture from which the composition originates can shed light on the subtle intricacies and hidden symbolism.
+2. **Grasp the cultural context**: Appreciating the relevant customs, history, and beliefs of the era and culture from which the composition originates can shed light on the subtle intricacies and hidden symbolism.
 
-3. ****Engage in meditation****: Contemplatively exploring the deeper layers of meaning within the text can open up insights not immediately discernible to the rational mind.
+3. **Engage in meditation**: Contemplatively exploring the deeper layers of meaning within the text can open up insights not immediately discernible to the rational mind.
 
 **Example**: The Orphic Hymns
 
