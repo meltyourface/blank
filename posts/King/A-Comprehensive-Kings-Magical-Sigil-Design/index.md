@@ -1,6 +1,6 @@
 ---
 id: 16bc66bd-a04f-4b0e-bab5-4a48423619af
-title: ""A Comprehensive King's Magical Sigil Design""
+title: "A Comprehensive King's Magical Sigil Design""
 permalink: /King/A-Comprehensive-Kings-Magical-Sigil-Design/
 categories:
   - King

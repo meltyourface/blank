@@ -1,6 +1,6 @@
 ---
 id: 14867bf4-9fe9-4472-9849-1e1ed957ac98
-title: ""The Ophidian Manuscript: A Scholar's Quest for Cosmic Wisdom""
+title: "The Ophidian Manuscript: A Scholar's Quest for Cosmic Wisdom""
 permalink: /Monosandalos/The-Ophidian-Manuscript-A-Scholars-Quest-for-Cosmic-Wisdom/
 categories:
   - Monosandalos

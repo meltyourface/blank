@@ -1,6 +1,6 @@
 ---
 id: 9e5ede12-fc28-44a5-bb85-293332344337
-title: ""Witch's Riddle: A Guide to Unraveling the Coven's Mysteries""
+title: "Witch's Riddle: A Guide to Unraveling the Coven's Mysteries""
 permalink: /Phantasmagoric-Sabbath-of-the-Witches/Witchs-Riddle-A-Guide-to-Unraveling-the-Covens-Mysteries/
 categories:
   - Phantasmagoric Sabbath of the Witches

@@ -1,6 +1,6 @@
 ---
 id: 43793d44-60e4-400f-b762-f459b82f5477
-title: ""The Sorcerer's Initiation: A Union with the Black Bull""
+title: "The Sorcerer's Initiation: A Union with the Black Bull""
 permalink: /Language-of-substantiating-the-relationship-between-sorcerer-and-Black-Bull/The-Sorcerers-Initiation-A-Union-with-the-Black-Bull/
 categories:
   - Language of substantiating the relationship between sorcerer and Black Bull

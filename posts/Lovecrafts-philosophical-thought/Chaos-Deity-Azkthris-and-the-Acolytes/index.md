@@ -1,6 +1,6 @@
 ---
 id: 2a61eb17-03cb-4254-87d9-df0dcbfc63a5
-title: ""Chaos Deity: Azk'thris and the Acolytes""
+title: "Chaos Deity: Azk'thris and the Acolytes"
 permalink: /Lovecrafts-philosophical-thought/Chaos-Deity-Azkthris-and-the-Acolytes/
 categories:
   - Lovecraft's philosophical thought

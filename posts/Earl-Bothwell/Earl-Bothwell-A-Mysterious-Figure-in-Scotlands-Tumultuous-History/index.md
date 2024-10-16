@@ -1,6 +1,6 @@
 ---
 id: b968fe66-034f-4581-9300-9e932f8d8e6e
-title: ""Earl Bothwell: A Mysterious Figure in Scotland's Tumultuous History""
+title: "Earl Bothwell: A Mysterious Figure in Scotland's Tumultuous History""
 permalink: /Earl-Bothwell/Earl-Bothwell-A-Mysterious-Figure-in-Scotlands-Tumultuous-History/
 categories:
   - Earl Bothwell

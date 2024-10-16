@@ -1,7 +1,7 @@
 ---
 id: 8ff17d05-d060-48db-b8b5-0b469ef5a6ea
 title: 'Unleashing Potential: Self-Love, Unconscious Power, and Sigil Magic in Austin
-  Osman Spare\''s "The Book of Pleasure"'
+  Osman Spare's "The Book of Pleasure"'
 permalink: /The-Book-of-Pleasure/Unleashing-Potential-Self-Love-Unconscious-Power-and-Sigil-Magic-in-Austin-Osman-Spares-The-Book-of-/
 categories:
   - The Book of Pleasure

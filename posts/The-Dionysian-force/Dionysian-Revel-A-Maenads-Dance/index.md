@@ -1,6 +1,6 @@
 ---
 id: 8c6ce901-c5dc-44a2-aefa-55259e500ffd
-title: ""Dionysian Revel: A Maenad's Dance""
+title: "Dionysian Revel: A Maenad's Dance""
 permalink: /The-Dionysian-force/Dionysian-Revel-A-Maenads-Dance/
 categories:
   - The Dionysian force

@@ -1,6 +1,6 @@
 ---
 id: 9b947f0c-7e21-4a98-b8ed-2ac68cca007e
-title: ""Ariadne as Protomystes: A Guide Through Initiation's Labyrinth""
+title: "Ariadne as Protomystes: A Guide Through Initiation's Labyrinth""
 permalink: /Ariadne-as-protomystes/Ariadne-as-Protomystes-A-Guide-Through-Initiations-Labyrinth/
 categories:
   - Ariadne as protomystes

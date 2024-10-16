@@ -1,7 +1,7 @@
 ---
 id: bc2eb760-319b-48ab-a946-e4b9d3a7ba0c
 title: 'Engaging Darker Forces for Personal Growth: A Comparative Analysis of Goetic
-  Demonology, Kabbalah, and Jung\''s Shadow Self'
+  Demonology, Kabbalah, and Jung's Shadow Self'
 permalink: /Enemies/Engaging-Darker-Forces-for-Personal-Growth-A-Comparative-Analysis-of-Goetic-Demonology-Kabbalah-and-/
 categories:
   - Enemies

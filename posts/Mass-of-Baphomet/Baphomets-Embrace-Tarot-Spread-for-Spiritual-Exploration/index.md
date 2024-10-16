@@ -1,6 +1,6 @@
 ---
 id: 6048e5a5-1896-45f6-8720-3808c1297b58
-title: ""Baphomet's Embrace Tarot Spread for Spiritual Exploration""
+title: "Baphomet's Embrace Tarot Spread for Spiritual Exploration""
 permalink: /Mass-of-Baphomet/Baphomets-Embrace-Tarot-Spread-for-Spiritual-Exploration/
 categories:
   - Mass of Baphomet

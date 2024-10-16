@@ -1,6 +1,6 @@
 ---
 id: f79ab09f-2333-4b6a-9d19-686a31983b6b
-title: ""The Urban Hero's Epic Odyssey: A Modern Tale of Courage and Unity""
+title: "The Urban Hero's Epic Odyssey: A Modern Tale of Courage and Unity"
 permalink: /Myths/The-Urban-Heros-Epic-Odyssey-A-Modern-Tale-of-Courage-and-Unity/
 categories:
   - Myths

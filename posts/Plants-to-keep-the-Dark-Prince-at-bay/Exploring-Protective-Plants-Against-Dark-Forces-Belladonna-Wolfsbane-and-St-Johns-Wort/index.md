@@ -1,7 +1,7 @@
 ---
 id: ced50a1e-9026-4d13-9159-e5ca6ae85dcb
 title: 'Exploring Protective Plants Against Dark Forces: Belladonna, Wolfsbane, and
-  St. John\''s Wort'
+  St. John's Wort'
 permalink: /Plants-to-keep-the-Dark-Prince-at-bay/Exploring-Protective-Plants-Against-Dark-Forces-Belladonna-Wolfsbane-and-St-Johns-Wort/
 categories:
   - Plants to keep the Dark Prince at bay

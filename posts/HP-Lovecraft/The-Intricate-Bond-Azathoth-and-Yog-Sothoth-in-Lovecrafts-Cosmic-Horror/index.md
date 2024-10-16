@@ -1,6 +1,6 @@
 ---
 id: 5db89746-e788-4f6e-8cfb-f431633fb7d6
-title: ""The Intricate Bond: Azathoth and Yog-Sothoth in Lovecraft's Cosmic Horror""
+title: "The Intricate Bond: Azathoth and Yog-Sothoth in Lovecraft's Cosmic Horror""
 permalink: /HP-Lovecraft/The-Intricate-Bond-Azathoth-and-Yog-Sothoth-in-Lovecrafts-Cosmic-Horror/
 categories:
   - HP Lovecraft

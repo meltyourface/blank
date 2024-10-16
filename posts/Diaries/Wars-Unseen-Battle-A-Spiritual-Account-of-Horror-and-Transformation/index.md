@@ -1,6 +1,6 @@
 ---
 id: 1d7b59a3-0a41-4414-81c4-e1baf469517b
-title: ""War's Unseen Battle: A Spiritual Account of Horror and Transformation""
+title: "War's Unseen Battle: A Spiritual Account of Horror and Transformation""
 permalink: /Diaries/Wars-Unseen-Battle-A-Spiritual-Account-of-Horror-and-Transformation/
 categories:
   - Diaries

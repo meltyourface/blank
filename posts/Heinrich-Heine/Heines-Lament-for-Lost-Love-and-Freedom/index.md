@@ -1,6 +1,6 @@
 ---
 id: d91f379e-32c0-4a7c-b96e-4dfd6c63dfea
-title: ""Heine's Lament for Lost Love and Freedom""
+title: "Heine's Lament for Lost Love and Freedom""
 permalink: /Heinrich-Heine/Heines-Lament-for-Lost-Love-and-Freedom/
 categories:
   - Heinrich Heine

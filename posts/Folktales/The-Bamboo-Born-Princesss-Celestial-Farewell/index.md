@@ -1,6 +1,6 @@
 ---
 id: f809f001-7aec-4362-9407-22d48446c579
-title: ""The Bamboo-Born Princess's Celestial Farewell""
+title: "The Bamboo-Born Princess's Celestial Farewell""
 permalink: /Folktales/The-Bamboo-Born-Princesss-Celestial-Farewell/
 categories:
   - Folktales

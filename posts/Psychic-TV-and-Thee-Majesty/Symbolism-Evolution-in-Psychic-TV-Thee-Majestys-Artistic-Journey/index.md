@@ -1,6 +1,6 @@
 ---
 id: 258e6591-914b-48b9-87e4-8cb564b29178
-title: ""Symbolism Evolution in Psychic TV & Thee Majesty's Artistic Journey""
+title: "Symbolism Evolution in Psychic TV & Thee Majesty's Artistic Journey""
 permalink: /Psychic-TV-and-Thee-Majesty/Symbolism-Evolution-in-Psychic-TV-Thee-Majestys-Artistic-Journey/
 categories:
   - Psychic TV and Thee Majesty

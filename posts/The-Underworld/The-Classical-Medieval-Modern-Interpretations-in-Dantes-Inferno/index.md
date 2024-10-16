@@ -1,6 +1,6 @@
 ---
 id: 7b331923-a57e-444b-9b9b-5ad846cd7a34
-title: ""The Classical, Medieval, & Modern Interpretations in Dante's Inferno""
+title: "The Classical, Medieval, & Modern Interpretations in Dante's Inferno""
 permalink: /The-Underworld/The-Classical-Medieval-Modern-Interpretations-in-Dantes-Inferno/
 categories:
   - The Underworld

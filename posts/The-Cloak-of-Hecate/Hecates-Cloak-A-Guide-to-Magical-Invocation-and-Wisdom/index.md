@@ -1,6 +1,6 @@
 ---
 id: 5702e978-77fa-4a5a-9032-d1df2ba5a338
-title: ""Hecate's Cloak: A Guide to Magical Invocation and Wisdom""
+title: "Hecate's Cloak: A Guide to Magical Invocation and Wisdom""
 permalink: /The-Cloak-of-Hecate/Hecates-Cloak-A-Guide-to-Magical-Invocation-and-Wisdom/
 categories:
   - The Cloak of Hecate

@@ -1,7 +1,7 @@
 ---
 id: d8a7b1f2-9097-4951-be95-f6f819e8df7e
 title: 'The Occult Path: Gnosis, Conquering Will, and Apotheosis in the Order of the
-  Serpent\''s Eye'
+  Serpent's Eye'
 permalink: /Infamous-societiesOccult-philosophy/The-Occult-Path-Gnosis-Conquering-Will-and-Apotheosis-in-the-Order-of-the-Serpents-Eye/
 categories:
   - Infamous societiesOccult philosophy

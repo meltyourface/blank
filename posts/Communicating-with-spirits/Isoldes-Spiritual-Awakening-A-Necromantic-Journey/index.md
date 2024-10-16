@@ -1,6 +1,6 @@
 ---
 id: 67623f7f-2c06-4b97-8150-eb08d3c4a8c2
-title: ""Isolde's Spiritual Awakening: A Necromantic Journey""
+title: "Isolde's Spiritual Awakening: A Necromantic Journey""
 permalink: /Communicating-with-spirits/Isoldes-Spiritual-Awakening-A-Necromantic-Journey/
 categories:
   - Communicating with spirits

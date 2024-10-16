@@ -1,6 +1,6 @@
 ---
 id: d21793d2-9904-493e-be17-ba7e7be8fc48
-title: ""Life's Journey: A Symbology of Transformation and Healing""
+title: "Life's Journey: A Symbology of Transformation and Healing""
 permalink: /Leonora-Carrington/Lifes-Journey-A-Symbology-of-Transformation-and-Healing/
 categories:
   - Leonora Carrington

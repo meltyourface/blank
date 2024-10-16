@@ -1,6 +1,6 @@
 ---
 id: 89af6ce0-6720-4449-bb57-537e7e50c0b7
-title: "Exploring Symbolism in Dall\''Orto's Depiction of Lord Belial"
+title: "Exploring Symbolism in Dall'Orto's Depiction of Lord Belial"
 permalink: /Lord-Belial/Exploring-Symbolism-in-DallOrtos-Depiction-of-Lord-Belial/
 categories:
   - Lord Belial

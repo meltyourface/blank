@@ -1,6 +1,6 @@
 ---
 id: ff683149-4d12-45f2-8679-baac11bff572
-title: ""Lovecraft's Cthulhu Mythos: Cosmic Entities and Human Psyche""
+title: "Lovecraft's Cthulhu Mythos: Cosmic Entities and Human Psyche""
 permalink: /Cthulhu-Mythos/Lovecrafts-Cthulhu-Mythos-Cosmic-Entities-and-Human-Psyche/
 categories:
   - Cthulhu Mythos

@@ -1,6 +1,6 @@
 ---
 id: d0992265-6f5a-43c9-9cfc-e572cc8aaeb3
-title: ""Breaking Free from Dogma: Jack's Esoteric Journey""
+title: "Breaking Free from Dogma: Jack's Esoteric Journey""
 permalink: /Negation-of-systems/Breaking-Free-from-Dogma-Jacks-Esoteric-Journey/
 categories:
   - Negation of systems

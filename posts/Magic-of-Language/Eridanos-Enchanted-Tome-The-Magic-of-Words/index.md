@@ -1,6 +1,6 @@
 ---
 id: d961ec4a-a766-4518-a234-3c3006edbe8b
-title: ""Eridanos' Enchanted Tome: The Magic of Words""
+title: "Eridanos' Enchanted Tome: The Magic of Words""
 permalink: /Magic-of-Language/Eridanos-Enchanted-Tome-The-Magic-of-Words/
 categories:
   - Magic of Language

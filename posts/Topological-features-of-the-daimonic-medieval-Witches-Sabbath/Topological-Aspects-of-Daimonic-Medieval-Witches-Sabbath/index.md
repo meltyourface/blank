@@ -1,6 +1,6 @@
 ---
 id: f703ab2a-ada3-416c-bd03-b7f074b80b58
-title: ""Topological Aspects of Daimonic Medieval Witches' Sabbath""
+title: "Topological Aspects of Daimonic Medieval Witches' Sabbath"
 permalink: /Topological-features-of-the-daimonic-medieval-Witches-Sabbath/Topological-Aspects-of-Daimonic-Medieval-Witches-Sabbath/
 categories:
   - Topological features of the daimonic medieval Witches' Sabbath

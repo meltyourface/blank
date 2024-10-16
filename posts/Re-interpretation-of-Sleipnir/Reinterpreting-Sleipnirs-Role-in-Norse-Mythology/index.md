@@ -1,6 +1,6 @@
 ---
 id: 775d3729-6fd4-422c-8e36-deb0199acd6e
-title: ""Reinterpreting Sleipnir's Role in Norse Mythology""
+title: "Reinterpreting Sleipnir's Role in Norse Mythology"
 permalink: /Re-interpretation-of-Sleipnir/Reinterpreting-Sleipnirs-Role-in-Norse-Mythology/
 categories:
   - Re-interpretation of Sleipnir

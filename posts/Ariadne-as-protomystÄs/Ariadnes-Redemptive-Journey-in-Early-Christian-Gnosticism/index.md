@@ -1,6 +1,6 @@
 ---
 id: c6fc751f-61cd-47c0-bf57-35839be81454
-title: ""Ariadne's Redemptive Journey in Early Christian Gnosticism""
+title: "Ariadne's Redemptive Journey in Early Christian Gnosticism"
 permalink: "/Ariadne-as-protomyst\xC4s/Ariadnes-Redemptive-Journey-in-Early-Christian-Gnosticism/"
 categories:
   - "Ariadne as protomyst\xC4\u201Cs"

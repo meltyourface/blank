@@ -1,6 +1,6 @@
 ---
 id: 09523d1b-10fd-4ca9-b9c8-0641f1fcb5f7
-title: ""Anna Bonus Kingsford's Synthesis of Mystical Traditions""
+title: "Anna Bonus Kingsford's Synthesis of Mystical Traditions""
 permalink: /Anna-Bonus-Kingsford/Anna-Bonus-Kingsfords-Synthesis-of-Mystical-Traditions/
 categories:
   - Anna Bonus Kingsford

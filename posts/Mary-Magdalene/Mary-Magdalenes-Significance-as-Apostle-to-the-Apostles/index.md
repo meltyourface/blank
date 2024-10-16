@@ -1,6 +1,6 @@
 ---
 id: a03f09f9-63fa-4ec7-b3d7-d1453c062ef6
-title: ""Mary Magdalene's Significance as Apostle to the Apostles""
+title: "Mary Magdalene's Significance as Apostle to the Apostles""
 permalink: /Mary-Magdalene/Mary-Magdalenes-Significance-as-Apostle-to-the-Apostles/
 categories:
   - Mary Magdalene

@@ -1,6 +1,6 @@
 ---
 id: 4dc774af-2168-4e59-83a4-27684f710456
-title: ""Crafting Morrigu's Eye: Ritualistic Amulet of War Goddess Badb""
+title: "Crafting Morrigu's Eye: Ritualistic Amulet of War Goddess Badb""
 permalink: /Badb/Crafting-Morrigus-Eye-Ritualistic-Amulet-of-War-Goddess-Badb/
 categories:
   - Badb

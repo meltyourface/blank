@@ -1,6 +1,6 @@
 ---
 id: 4214e59e-2de9-4891-a981-2fe344f69b5e
-title: ""Machen's Occult Philosophy: Paganism, Sexual Mysticism, and the Supernatural in \"'The Great God Pan'"'
+title: "Machen's Occult Philosophy: Paganism, Sexual Mysticism, and the Supernatural in 'The Great God Pan'"
 permalink: /Arthur-Machen/Machens-Occult-Philosophy-Paganism-Sexual-Mysticism-and-the-Supernatural-in-The-Great-God-Pan/
 categories:
   - Arthur Machen

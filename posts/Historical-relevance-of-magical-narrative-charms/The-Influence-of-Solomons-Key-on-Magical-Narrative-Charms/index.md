@@ -1,6 +1,6 @@
 ---
 id: 2a44e677-c91c-4056-8dda-2cae794b86df
-title: ""The Influence of Solomon's Key on Magical Narrative Charms""
+title: "The Influence of Solomon's Key on Magical Narrative Charms"
 permalink: /Historical-relevance-of-magical-narrative-charms/The-Influence-of-Solomons-Key-on-Magical-Narrative-Charms/
 categories:
   - Historical relevance of magical narrative charms

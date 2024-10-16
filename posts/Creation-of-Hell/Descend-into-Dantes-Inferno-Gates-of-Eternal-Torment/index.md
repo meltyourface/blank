@@ -1,6 +1,6 @@
 ---
 id: 133ca274-90f7-4cd5-a9f8-59f63b162d9a
-title: ""Descend into Dante's Inferno: Gates of Eternal Torment""
+title: "Descend into Dante's Inferno: Gates of Eternal Torment""
 permalink: /Creation-of-Hell/Descend-into-Dantes-Inferno-Gates-of-Eternal-Torment/
 categories:
   - Creation of Hell

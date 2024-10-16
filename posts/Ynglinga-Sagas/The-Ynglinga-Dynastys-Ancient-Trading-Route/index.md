@@ -1,6 +1,6 @@
 ---
 id: 31e5623e-bb00-46f7-9073-50339ddbafbd
-title: ""The Ynglinga Dynasty's Ancient Trading Route""
+title: "The Ynglinga Dynasty's Ancient Trading Route""
 permalink: /Ynglinga-Sagas/The-Ynglinga-Dynastys-Ancient-Trading-Route/
 categories:
   - Ynglinga Sagas

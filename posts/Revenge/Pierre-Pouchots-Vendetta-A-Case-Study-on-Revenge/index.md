@@ -1,6 +1,6 @@
 ---
 id: 2d8fcedb-e1ab-4c3d-a056-3ae3d8a2f771
-title: ""Pierre Pouchot's Vendetta: A Case Study on Revenge""
+title: "Pierre Pouchot's Vendetta: A Case Study on Revenge""
 permalink: /Revenge/Pierre-Pouchots-Vendetta-A-Case-Study-on-Revenge/
 categories:
   - Revenge

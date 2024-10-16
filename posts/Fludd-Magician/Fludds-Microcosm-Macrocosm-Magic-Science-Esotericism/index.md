@@ -1,6 +1,6 @@
 ---
 id: 18710a1c-8b2b-4c7b-a46b-bb97899393a0
-title: ""Fludd's Microcosm-Macrocosm: Magic, Science, & Esotericism""
+title: "Fludd's Microcosm-Macrocosm: Magic, Science, & Esotericism""
 permalink: /Fludd-Magician/Fludds-Microcosm-Macrocosm-Magic-Science-Esotericism/
 categories:
   - Fludd (Magician)

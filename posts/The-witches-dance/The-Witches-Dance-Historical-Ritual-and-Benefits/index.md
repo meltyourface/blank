@@ -1,6 +1,6 @@
 ---
 id: 1e8e7169-7774-423e-9130-1d2f3a9bf466
-title: ""The Witches' Dance: Historical Ritual and Benefits""
+title: "The Witches' Dance: Historical Ritual and Benefits""
 permalink: /The-witches-dance/The-Witches-Dance-Historical-Ritual-and-Benefits/
 categories:
   - The witches dance

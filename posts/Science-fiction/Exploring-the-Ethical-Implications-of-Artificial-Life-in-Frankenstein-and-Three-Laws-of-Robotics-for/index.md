@@ -1,7 +1,7 @@
 ---
 id: 0928dcc2-51b1-48d5-8f0a-7ce507a407b1
-title: ""Exploring the Ethical Implications of Artificial Life in 'Frankenstein\'"
-  and \''Three Laws of Robotics\'' for Modern Occultist Practices"'
+title: "Exploring the Ethical Implications of Artificial Life in 'Frankenstein\'"
+  and 'Three Laws of Robotics' for Modern Occultist Practices"'
 permalink: /Science-fiction/Exploring-the-Ethical-Implications-of-Artificial-Life-in-Frankenstein-and-Three-Laws-of-Robotics-for/
 categories:
   - Science fiction

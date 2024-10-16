@@ -1,6 +1,6 @@
 ---
 id: 2dc4446c-a1df-4424-b44f-087faa282f7f
-title: ""Scythe Symbolism in Tarot's Death Card: Transformation, Time, and Duality""
+title: "Scythe Symbolism in Tarot's Death Card: Transformation, Time, and Duality""
 permalink: /Scythe-symbolism/Scythe-Symbolism-in-Tarots-Death-Card-Transformation-Time-and-Duality/
 categories:
   - Scythe symbolism

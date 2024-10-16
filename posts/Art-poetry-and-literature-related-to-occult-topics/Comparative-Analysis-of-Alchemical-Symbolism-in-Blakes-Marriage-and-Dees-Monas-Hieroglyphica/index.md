@@ -1,7 +1,7 @@
 ---
 id: b71ed76a-eb40-45a3-b779-f5ee8c971fae
 title: ""Comparative Analysis of Alchemical Symbolism in Blake's 'Marriage\'"
-  and Dee\''s \''Monas Hieroglyphica\''"'
+  and Dee's 'Monas Hieroglyphica'"'
 permalink: /Art-poetry-and-literature-related-to-occult-topics/Comparative-Analysis-of-Alchemical-Symbolism-in-Blakes-Marriage-and-Dees-Monas-Hieroglyphica/
 categories:
   - Art, poetry, and literature related to occult topics

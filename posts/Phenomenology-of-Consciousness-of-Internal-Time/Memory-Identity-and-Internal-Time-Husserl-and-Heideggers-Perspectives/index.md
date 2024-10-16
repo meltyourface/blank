@@ -1,6 +1,6 @@
 ---
 id: 3df12e38-a542-4aef-9b02-54efbf7ee4a5
-title: ""Memory, Identity, and Internal Time: Husserl and Heidegger's Perspectives""
+title: "Memory, Identity, and Internal Time: Husserl and Heidegger's Perspectives""
 permalink: /Phenomenology-of-Consciousness-of-Internal-Time/Memory-Identity-and-Internal-Time-Husserl-and-Heideggers-Perspectives/
 categories:
   - Phenomenology of Consciousness of Internal Time

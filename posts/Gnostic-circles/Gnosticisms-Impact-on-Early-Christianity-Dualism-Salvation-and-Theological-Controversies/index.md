@@ -1,6 +1,6 @@
 ---
 id: c51c516f-9395-4143-adb9-323b4b280f8c
-title: ""Gnosticism's Impact on Early Christianity: Dualism, Salvation, and Theological Controversies""
+title: "Gnosticism's Impact on Early Christianity: Dualism, Salvation, and Theological Controversies""
 permalink: /Gnostic-circles/Gnosticisms-Impact-on-Early-Christianity-Dualism-Salvation-and-Theological-Controversies/
 categories:
   - Gnostic circles

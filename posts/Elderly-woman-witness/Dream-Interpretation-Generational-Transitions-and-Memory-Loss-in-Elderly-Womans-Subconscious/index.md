@@ -1,7 +1,7 @@
 ---
 id: 7f8e5b32-37b6-46e9-8d54-a0dc1bb5d015
 title: 'Dream Interpretation: Generational Transitions and Memory Loss in Elderly
-  Woman\''s Subconscious'
+  Woman's Subconscious'
 permalink: /Elderly-woman-witness/Dream-Interpretation-Generational-Transitions-and-Memory-Loss-in-Elderly-Womans-Subconscious/
 categories:
   - Elderly woman witness

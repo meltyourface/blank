@@ -1,6 +1,6 @@
 ---
 id: 801b6d9a-ad23-45c3-87b9-ef89a67e707b
-title: ""Exploring The Wild Adversary's Role in Personal Growth, Society, and Enlightenment""
+title: "Exploring The Wild Adversary's Role in Personal Growth, Society, and Enlightenment""
 permalink: /The-Wild-Adversary/Exploring-The-Wild-Adversarys-Role-in-Personal-Growth-Society-and-Enlightenment/
 categories:
   - The Wild Adversary

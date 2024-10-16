@@ -1,6 +1,6 @@
 ---
 id: c83ff396-a92e-4bc7-982c-05b11a22dce5
-title: ""Vincent Stroud's Cosmic Ascension: Experimental Electronica and the Occult""
+title: "Vincent Stroud's Cosmic Ascension: Experimental Electronica and the Occult""
 permalink: /Experimental-electronicaOccult-fiction/Vincent-Strouds-Cosmic-Ascension-Experimental-Electronica-and-the-Occult/
 categories:
   - Experimental electronicaOccult fiction

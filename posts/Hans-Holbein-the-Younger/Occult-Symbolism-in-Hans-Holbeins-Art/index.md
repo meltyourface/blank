@@ -1,6 +1,6 @@
 ---
 id: a83852e3-192e-433f-a6c2-cf8140e341ca
-title: ""Occult Symbolism in Hans Holbein's Art""
+title: "Occult Symbolism in Hans Holbein's Art""
 permalink: /Hans-Holbein-the-Younger/Occult-Symbolism-in-Hans-Holbeins-Art/
 categories:
   - Hans Holbein the Younger

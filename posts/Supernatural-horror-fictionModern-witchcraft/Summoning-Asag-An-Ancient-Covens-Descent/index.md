@@ -1,6 +1,6 @@
 ---
 id: df8ea835-4e90-412a-8c44-db154de4b094
-title: ""Summoning Asag: An Ancient Coven's Descent""
+title: "Summoning Asag: An Ancient Coven's Descent""
 permalink: /Supernatural-horror-fictionModern-witchcraft/Summoning-Asag-An-Ancient-Covens-Descent/
 categories:
   - Supernatural horror fictionModern witchcraft

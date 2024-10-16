@@ -1,6 +1,6 @@
 ---
 id: 91439fba-b494-4e10-8677-e3d721e3123c
-title: "Crowley\''s Organizations: A.'.A.'. vs. O.T.O. - Individual versus Social Focus"
+title: "Crowley's Organizations: A.'.A.'. vs. O.T.O. - Individual versus Social Focus"
 permalink: /Aleister-Crowleys-occult-fraternities-AA-and-OTO/Crowleys-Organizations-AA-vs-OTO---Individual-versus-Social-Focus/
 categories:
   - Aleister Crowley's occult fraternities (A.A. and O.T.O.)

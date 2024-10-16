@@ -1,6 +1,6 @@
 ---
 id: e5f3426c-a74b-4979-a53b-24380420e3b0
-title: ""Erictho\''s Necromancy in Lucan\''s 'Pharsalia': A Study on Ancient Magic Practices""
+title: "Erictho's Necromancy in Lucan's 'Pharsalia': A Study on Ancient Magic Practices""
 permalink: /Erictho/Ericthos-Necromancy-in-Lucans-Pharsalia-A-Study-on-Ancient-Magic-Practices/
 categories:
   - Erictho

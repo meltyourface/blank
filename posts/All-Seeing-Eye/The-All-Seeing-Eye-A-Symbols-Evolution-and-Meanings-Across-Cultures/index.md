@@ -1,6 +1,6 @@
 ---
 id: 3c5f959e-f734-4874-8b3c-feb2e0a6b65d
-title: ""The All-Seeing Eye: A Symbol's Evolution and Meanings Across Cultures""
+title: "The All-Seeing Eye: A Symbol's Evolution and Meanings Across Cultures""
 permalink: /All-Seeing-Eye/The-All-Seeing-Eye-A-Symbols-Evolution-and-Meanings-Across-Cultures/
 categories:
   - All-Seeing Eye

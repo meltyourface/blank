@@ -1,6 +1,6 @@
 ---
 id: 0413ef51-1dc1-494d-811a-90c02f0180ef
-title: ""Esoteric Exploration: Reinterpreting Yggdrasil's Nine Realms""
+title: "Esoteric Exploration: Reinterpreting Yggdrasil's Nine Realms""
 permalink: /Re-interpretation-of-Yggdrasil/Esoteric-Exploration-Reinterpreting-Yggdrasils-Nine-Realms/
 categories:
   - Re-interpretation of Yggdrasil

@@ -1,6 +1,6 @@
 ---
 id: 052629e3-2200-424c-846a-115ec9374286
-title: ""Understanding Dumuzid and Agrippa's Occult Elemental Realms""
+title: "Understanding Dumuzid and Agrippa's Occult Elemental Realms""
 permalink: /Agrippas-De-Occulta-PhilosophiaDumuzid/Understanding-Dumuzid-and-Agrippas-Occult-Elemental-Realms/
 categories:
   - Agrippa's De Occulta PhilosophiaDumuzid

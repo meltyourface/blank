@@ -1,6 +1,6 @@
 ---
 id: 75f82710-af1f-40d9-ac30-b9255360a7b0
-title: ""Exploring John Dee's Angelic Work and the Enochian System""
+title: "Exploring John Dee's Angelic Work and the Enochian System""
 permalink: /Angelic-work-of-John-Dee/Exploring-John-Dees-Angelic-Work-and-the-Enochian-System/
 categories:
   - Angelic work of John Dee

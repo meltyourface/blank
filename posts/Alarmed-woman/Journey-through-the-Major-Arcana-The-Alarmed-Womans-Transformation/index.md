@@ -1,6 +1,6 @@
 ---
 id: bf36b9c6-007f-49f7-a4d4-375e356d0bfb
-title: ""Journey through the Major Arcana: The Alarmed Woman's Transformation""
+title: "Journey through the Major Arcana: The Alarmed Woman's Transformation""
 permalink: /Alarmed-woman/Journey-through-the-Major-Arcana-The-Alarmed-Womans-Transformation/
 categories:
   - Alarmed woman

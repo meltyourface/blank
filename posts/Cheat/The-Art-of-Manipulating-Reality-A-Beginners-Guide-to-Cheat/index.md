@@ -1,6 +1,6 @@
 ---
 id: f61e95b4-7c14-4665-a7e5-c2c9cd3638ae
-title: ""The Art of Manipulating Reality: A Beginner's Guide to Cheat""
+title: "The Art of Manipulating Reality: A Beginner's Guide to Cheat""
 permalink: /Cheat/The-Art-of-Manipulating-Reality-A-Beginners-Guide-to-Cheat/
 categories:
   - Cheat

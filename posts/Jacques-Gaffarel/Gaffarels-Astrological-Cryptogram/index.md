@@ -1,6 +1,6 @@
 ---
 id: 005225e0-59af-435d-9862-b6c95a20765b
-title: ""Gaffarel's Astrological Cryptogram""
+title: "Gaffarel's Astrological Cryptogram""
 permalink: /Jacques-Gaffarel/Gaffarels-Astrological-Cryptogram/
 categories:
   - Jacques Gaffarel

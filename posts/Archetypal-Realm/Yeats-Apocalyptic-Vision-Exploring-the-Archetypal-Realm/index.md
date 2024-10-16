@@ -1,6 +1,6 @@
 ---
 id: 078b25e8-2537-40d8-8a10-00b9dd0edfc2
-title: ""Yeats' Apocalyptic Vision: Exploring the Archetypal Realm""
+title: "Yeats' Apocalyptic Vision: Exploring the Archetypal Realm""
 permalink: /Archetypal-Realm/Yeats-Apocalyptic-Vision-Exploring-the-Archetypal-Realm/
 categories:
   - Archetypal Realm

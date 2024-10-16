@@ -1,6 +1,6 @@
 ---
 id: e0c4597c-ab28-410b-9c74-03de8c5b5851
-title: ""Ritual for Unification in Hidden Elite's Cult""
+title: "Ritual for Unification in Hidden Elite's Cult"
 permalink: /Cultus-of-a-hidden-elite/Ritual-for-Unification-in-Hidden-Elites-Cult/
 categories:
   - Cultus of a hidden elite

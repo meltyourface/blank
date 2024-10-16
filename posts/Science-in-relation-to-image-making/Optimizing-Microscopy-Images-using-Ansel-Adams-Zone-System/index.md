@@ -1,6 +1,6 @@
 ---
 id: 4ca39dc3-9f1e-4076-99d8-09d0e8aa6678
-title: ""Optimizing Microscopy Images using Ansel Adams' Zone System""
+title: "Optimizing Microscopy Images using Ansel Adams' Zone System""
 permalink: /Science-in-relation-to-image-making/Optimizing-Microscopy-Images-using-Ansel-Adams-Zone-System/
 categories:
   - Science in relation to image-making

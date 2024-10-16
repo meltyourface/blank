@@ -1,6 +1,6 @@
 ---
 id: 9b86a31b-f838-4d98-bd65-5cd11bea5538
-title: ""Corrected Text: The Philosopher's Stone in Historical Perspective""
+title: "Corrected Text: The Philosopher's Stone in Historical Perspective""
 permalink: "/Biblioth\xC3que-bleue/Corrected-Text-The-Philosophers-Stone-in-Historical-Perspective/"
 categories:
   - "Biblioth\xC3\xA8que bleue"

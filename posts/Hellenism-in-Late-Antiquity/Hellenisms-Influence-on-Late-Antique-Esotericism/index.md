@@ -1,6 +1,6 @@
 ---
 id: 83b6fbfe-a303-440e-af0b-8013d5eb87ed
-title: ""Hellenism's Influence on Late Antique Esotericism""
+title: "Hellenism's Influence on Late Antique Esotericism""
 permalink: /Hellenism-in-Late-Antiquity/Hellenisms-Influence-on-Late-Antique-Esotericism/
 categories:
   - Hellenism in Late Antiquity

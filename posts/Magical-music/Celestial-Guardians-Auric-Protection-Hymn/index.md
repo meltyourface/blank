@@ -1,6 +1,6 @@
 ---
 id: 7d5aa54c-c507-4458-93bf-d10fafe39f23
-title: ""Celestial Guardians' Auric Protection Hymn""
+title: "Celestial Guardians' Auric Protection Hymn"
 permalink: /Magical-music/Celestial-Guardians-Auric-Protection-Hymn/
 categories:
   - Magical music

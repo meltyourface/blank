@@ -1,6 +1,6 @@
 ---
 id: 7f417a22-5285-4e1b-bf6e-30db2d23eed4
-title: ""The Magician's Journey: Michael Maier and Spiritual Transformation""
+title: "The Magician's Journey: Michael Maier and Spiritual Transformation""
 permalink: /Maier-Magician/The-Magicians-Journey-Michael-Maier-and-Spiritual-Transformation/
 categories:
   - Maier (Magician)

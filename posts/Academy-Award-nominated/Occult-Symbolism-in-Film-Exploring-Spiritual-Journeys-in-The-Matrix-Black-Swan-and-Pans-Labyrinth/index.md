@@ -1,7 +1,7 @@
 ---
 id: 4a1d8428-510c-495e-8b85-c010f24e32f9
 title: 'Occult Symbolism in Film: Exploring Spiritual Journeys in "The Matrix", "Black
-  Swan", and "Pan\''s Labyrinth"'
+  Swan", and "Pan's Labyrinth"'
 permalink: /Academy-Award-nominated/Occult-Symbolism-in-Film-Exploring-Spiritual-Journeys-in-The-Matrix-Black-Swan-and-Pans-Labyrinth/
 categories:
   - Academy Award nominated

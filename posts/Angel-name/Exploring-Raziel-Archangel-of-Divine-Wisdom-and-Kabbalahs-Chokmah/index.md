@@ -1,6 +1,6 @@
 ---
 id: 0ad22668-7042-4d90-ab57-0f5d4427748d
-title: ""Exploring Raziel: Archangel of Divine Wisdom and Kabbalah's Chokmah""
+title: "Exploring Raziel: Archangel of Divine Wisdom and Kabbalah's Chokmah""
 permalink: /Angel-name/Exploring-Raziel-Archangel-of-Divine-Wisdom-and-Kabbalahs-Chokmah/
 categories:
   - Angel name

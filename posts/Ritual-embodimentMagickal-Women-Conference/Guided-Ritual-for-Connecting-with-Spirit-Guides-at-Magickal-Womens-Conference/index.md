@@ -1,6 +1,6 @@
 ---
 id: 54eb1573-0461-43fd-b4d5-489661824e0c
-title: ""Guided Ritual for Connecting with Spirit Guides at Magickal Women's Conference""
+title: "Guided Ritual for Connecting with Spirit Guides at Magickal Women's Conference""
 permalink: /Ritual-embodimentMagickal-Women-Conference/Guided-Ritual-for-Connecting-with-Spirit-Guides-at-Magickal-Womens-Conference/
 categories:
   - Ritual embodimentMagickal Women Conference

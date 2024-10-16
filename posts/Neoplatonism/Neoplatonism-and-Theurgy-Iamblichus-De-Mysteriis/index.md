@@ -1,6 +1,6 @@
 ---
 id: 1c51be42-7303-4dc9-b6c7-c1478561356d
-title: ""Neoplatonism and Theurgy: Iamblichus' De Mysteriis""
+title: "Neoplatonism and Theurgy: Iamblichus' De Mysteriis""
 permalink: /Neoplatonism/Neoplatonism-and-Theurgy-Iamblichus-De-Mysteriis/
 categories:
   - Neoplatonism

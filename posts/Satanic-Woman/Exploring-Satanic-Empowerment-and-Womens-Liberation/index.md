@@ -1,6 +1,6 @@
 ---
 id: 8d1edc59-03ab-4034-8bdf-549522632381
-title: ""Exploring Satanic Empowerment and Women's Liberation""
+title: "Exploring Satanic Empowerment and Women's Liberation""
 permalink: /Satanic-Woman/Exploring-Satanic-Empowerment-and-Womens-Liberation/
 categories:
   - Satanic Woman

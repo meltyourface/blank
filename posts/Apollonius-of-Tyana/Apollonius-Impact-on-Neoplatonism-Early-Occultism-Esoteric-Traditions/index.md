@@ -1,6 +1,6 @@
 ---
 id: 260900cc-eeb9-4ffd-8724-a860a41c3d31
-title: ""Apollonius' Impact on Neoplatonism, Early Occultism, & Esoteric Traditions""
+title: "Apollonius' Impact on Neoplatonism, Early Occultism, & Esoteric Traditions"
 permalink: /Apollonius-of-Tyana/Apollonius-Impact-on-Neoplatonism-Early-Occultism-Esoteric-Traditions/
 categories:
   - Apollonius of Tyana

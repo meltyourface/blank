@@ -1,6 +1,6 @@
 ---
 id: 35fab4b6-15ff-4fe6-9641-faa440882b2e
-title: ""Odin's Sacrifice: Cosmic Wisdom & Personal Transformation through Runes"
+title: "Odin's Sacrifice: Cosmic Wisdom & Personal Transformation through Runes"
 permalink: /Odin-and-the-runes/Odins-Sacrifice-Cosmic-Wisdom-Personal-Transformation-through-Runes/
 categories:
   - Odin and the runes

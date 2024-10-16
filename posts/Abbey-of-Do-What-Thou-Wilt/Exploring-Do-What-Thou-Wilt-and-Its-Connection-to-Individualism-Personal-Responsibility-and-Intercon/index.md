@@ -1,6 +1,6 @@
 ---
 id: 5a3f8fe9-79d1-418f-99e1-322745b56bf0
-title: ""Exploring 'Do What Thou Wilt' and Its Connection to Individualism, Personal Responsibility, and Interconnectedness""
+title: "Exploring 'Do What Thou Wilt' and Its Connection to Individualism, Personal Responsibility, and Interconnectedness""
 permalink: /Abbey-of-Do-What-Thou-Wilt/Exploring-Do-What-Thou-Wilt-and-Its-Connection-to-Individualism-Personal-Responsibility-and-Intercon/
 categories:
   - Abbey of Do What Thou Wilt

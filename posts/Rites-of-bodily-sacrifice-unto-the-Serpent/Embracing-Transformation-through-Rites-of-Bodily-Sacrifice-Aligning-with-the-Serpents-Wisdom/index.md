@@ -1,7 +1,7 @@
 ---
 id: 58098a1a-25e3-4b5e-b7d6-7aa815887e93
 title: 'Embracing Transformation through Rites of Bodily Sacrifice: Aligning with
-  the Serpent\''s Wisdom'
+  the Serpent's Wisdom'
 permalink: /Rites-of-bodily-sacrifice-unto-the-Serpent/Embracing-Transformation-through-Rites-of-Bodily-Sacrifice-Aligning-with-the-Serpents-Wisdom/
 categories:
   - Rites of bodily sacrifice unto the Serpent

@@ -1,6 +1,6 @@
 ---
 id: 1242c7b7-bc0b-4325-be1e-f81cb675d47a
-title: ""The Conclave's Cosmic Cipher: Communicating with Malevolent Entities"
+title: "The Conclave's Cosmic Cipher: Communicating with Malevolent Entities"
 permalink: /horror-from-beyond-the-stars/The-Conclaves-Cosmic-Cipher-Communicating-with-Malevolent-Entities/
 categories:
   - horror from beyond the stars

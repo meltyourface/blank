@@ -1,6 +1,6 @@
 ---
 id: 2b519fce-c95f-4542-aa8b-03ef53764292
-title: ""Grayhaven's Haunting: A Scholar's Fate""
+title: "Grayhaven's Haunting: A Scholar's Fate""
 permalink: /Literary-horror/Grayhavens-Haunting-A-Scholars-Fate/
 categories:
   - Literary horror

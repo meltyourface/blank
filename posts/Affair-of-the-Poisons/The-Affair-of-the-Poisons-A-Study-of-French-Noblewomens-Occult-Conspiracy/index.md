@@ -1,6 +1,6 @@
 ---
 id: 58abe0f2-098c-4a66-a785-48b8b7a8df7e
-title: ""The Affair of the Poisons: A Study of French Noblewomen's Occult Conspiracy""
+title: "The Affair of the Poisons: A Study of French Noblewomen's Occult Conspiracy""
 permalink: /Affair-of-the-Poisons/The-Affair-of-the-Poisons-A-Study-of-French-Noblewomens-Occult-Conspiracy/
 categories:
   - Affair of the Poisons

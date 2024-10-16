@@ -1,6 +1,6 @@
 ---
 id: a882d696-4e71-4b05-bea8-161c5eec13a8
-title: ""Lucifer's Labyrinth: Psychic Empowerment Ritual""
+title: "Lucifer's Labyrinth: Psychic Empowerment Ritual""
 permalink: /Gates-of-the-Devils-Realm/Lucifers-Labyrinth-Psychic-Empowerment-Ritual/
 categories:
   - Gates of the Devil's Realm

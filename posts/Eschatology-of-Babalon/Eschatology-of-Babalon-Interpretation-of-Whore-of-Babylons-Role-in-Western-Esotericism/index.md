@@ -1,6 +1,6 @@
 ---
 id: c550acd2-25e0-43bd-a10c-bde879d114bd
-title: ""Eschatology of Babalon: Interpretation of Whore of Babylon's Role in Western Esotericism""
+title: "Eschatology of Babalon: Interpretation of Whore of Babylon's Role in Western Esotericism""
 permalink: /Eschatology-of-Babalon/Eschatology-of-Babalon-Interpretation-of-Whore-of-Babylons-Role-in-Western-Esotericism/
 categories:
   - Eschatology of Babalon

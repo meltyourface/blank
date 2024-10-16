@@ -1,6 +1,6 @@
 ---
 id: d1316823-5b05-4e63-9074-b778d1496f3a
-title: ""Cosmic Enigma: A Trio's Quest for Truth""
+title: "Cosmic Enigma: A Trio's Quest for Truth""
 permalink: /Fresh-Fever-from-the-Skies/Cosmic-Enigma-A-Trios-Quest-for-Truth/
 categories:
   - Fresh Fever from the Skies

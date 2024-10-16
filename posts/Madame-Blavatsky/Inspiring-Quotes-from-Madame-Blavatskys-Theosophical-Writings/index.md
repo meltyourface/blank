@@ -1,6 +1,6 @@
 ---
 id: bf804fdc-53f0-4a59-ab9f-bbac72b280ed
-title: ""Inspiring Quotes from Madame Blavatsky's Theosophical Writings""
+title: "Inspiring Quotes from Madame Blavatsky's Theosophical Writings""
 permalink: /Madame-Blavatsky/Inspiring-Quotes-from-Madame-Blavatskys-Theosophical-Writings/
 categories:
   - Madame Blavatsky

@@ -1,6 +1,6 @@
 ---
 id: 825912c2-bbca-4989-8fda-c6898bb3b735
-title: ""The Spiritual Guide at the Crossroads: Papa Legba's Role in Esoteric Transformation""
+title: "The Spiritual Guide at the Crossroads: Papa Legba's Role in Esoteric Transformation"
 permalink: /Papa-Leghba/The-Spiritual-Guide-at-the-Crossroads-Papa-Legbas-Role-in-Esoteric-Transformation/
 categories:
   - Papa Leghba

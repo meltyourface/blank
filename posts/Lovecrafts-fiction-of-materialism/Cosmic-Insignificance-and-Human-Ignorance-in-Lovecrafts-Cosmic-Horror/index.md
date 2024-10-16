@@ -1,6 +1,6 @@
 ---
 id: 123249c4-b833-42ce-a1c5-02ef8cd9e9a5
-title: ""Cosmic Insignificance and Human Ignorance in Lovecraft's Cosmic Horror""
+title: "Cosmic Insignificance and Human Ignorance in Lovecraft's Cosmic Horror"
 permalink: /Lovecrafts-fiction-of-materialism/Cosmic-Insignificance-and-Human-Ignorance-in-Lovecrafts-Cosmic-Horror/
 categories:
   - Lovecrafts fiction of materialism

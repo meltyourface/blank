@@ -1,6 +1,6 @@
 ---
 id: 56658eb2-b443-4514-83cd-f86e045f2dbe
-title: ""Wine's Role in Dionysian Rituals and Mysticism""
+title: "Wine's Role in Dionysian Rituals and Mysticism""
 permalink: /Dionysian-thiasoi/Wines-Role-in-Dionysian-Rituals-and-Mysticism/
 categories:
   - Dionysian thiasoi

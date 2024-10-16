@@ -1,6 +1,6 @@
 ---
 id: 6a39d14e-2cc2-4628-a5aa-16fb911f70df
-title: ""Exploring the Roles of the Triple Goddess and Horned God in Alexandrian Witchcraft's Elevation Ritual""
+title: "Exploring the Roles of the Triple Goddess and Horned God in Alexandrian Witchcraft's Elevation Ritual""
 permalink: /Alexandrian-Witchcraft/Exploring-the-Roles-of-the-Triple-Goddess-and-Horned-God-in-Alexandrian-Witchcrafts-Elevation-Ritual/
 categories:
   - Alexandrian Witchcraft

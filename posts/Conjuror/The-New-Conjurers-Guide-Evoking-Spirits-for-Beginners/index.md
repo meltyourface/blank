@@ -1,6 +1,6 @@
 ---
 id: 381f6dc5-4130-4674-9970-1a786c9d57d7
-title: ""The New Conjurer's Guide: Evoking Spirits for Beginners""
+title: "The New Conjurer's Guide: Evoking Spirits for Beginners""
 permalink: /Conjuror/The-New-Conjurers-Guide-Evoking-Spirits-for-Beginners/
 categories:
   - Conjuror

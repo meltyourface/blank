@@ -1,7 +1,7 @@
 ---
 id: 01bdc741-d4e0-4bc7-8acf-885cfbc762d5
 title: 'The Alchemical Journey: Great Work, Aeons, and Individuation in the Aeon of
-  Ma\''at'
+  Ma'at'
 permalink: /Aeons/The-Alchemical-Journey-Great-Work-Aeons-and-Individuation-in-the-Aeon-of-Maat/
 categories:
   - Aeons

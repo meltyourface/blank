@@ -1,6 +1,6 @@
 ---
 id: 936a04f3-3950-4676-811e-75421e0cd8a9
-title: ""Renaissance Esotericism: Analysis of the Key of Solomon's Influence"
+title: "Renaissance Esotericism: Analysis of the Key of Solomon's Influence"
 permalink: /Renaissance-esotericismStrange-spirits-inhabiting-photos/Renaissance-Esotericism-Analysis-of-the-Key-of-Solomons-Influence/
 categories:
   - Renaissance esotericismStrange spirits inhabiting photos

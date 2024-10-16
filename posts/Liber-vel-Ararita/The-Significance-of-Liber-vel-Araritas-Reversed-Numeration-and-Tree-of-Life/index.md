@@ -1,6 +1,6 @@
 ---
 id: c062c8a8-7886-48bf-8572-95c8ed18dea8
-title: ""The Significance of Liber vel Ararita's Reversed Numeration and Tree of Life""
+title: "The Significance of Liber vel Ararita's Reversed Numeration and Tree of Life""
 permalink: /Liber-vel-Ararita/The-Significance-of-Liber-vel-Araritas-Reversed-Numeration-and-Tree-of-Life/
 categories:
   - Liber vel Ararita

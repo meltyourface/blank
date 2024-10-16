@@ -1,6 +1,6 @@
 ---
 id: d2fb7221-511b-4910-8468-189c2eeea0e2
-title: ""The Priestess's Transformation in Crowley's Gnostic Mass""
+title: "The Priestess's Transformation in Crowley's Gnostic Mass""
 permalink: /Aleister-Crowleys-Gnostic-Mass/The-Priestesss-Transformation-in-Crowleys-Gnostic-Mass/
 categories:
   - Aleister Crowley's Gnostic Mass

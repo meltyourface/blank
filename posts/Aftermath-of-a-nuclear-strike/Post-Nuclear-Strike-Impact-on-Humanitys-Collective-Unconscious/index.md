@@ -1,6 +1,6 @@
 ---
 id: c217c42f-333a-4f94-bbfc-635397bcaeb5
-title: ""Post-Nuclear Strike Impact on Humanity's Collective Unconscious""
+title: "Post-Nuclear Strike Impact on Humanity's Collective Unconscious""
 permalink: /Aftermath-of-a-nuclear-strike/Post-Nuclear-Strike-Impact-on-Humanitys-Collective-Unconscious/
 categories:
   - Aftermath of a nuclear strike

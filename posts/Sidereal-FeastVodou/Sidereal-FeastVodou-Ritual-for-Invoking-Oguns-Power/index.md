@@ -1,6 +1,6 @@
 ---
 id: 3fb9df1a-612b-4c6e-b13e-695361bbed88
-title: ""Sidereal FeastVodou: Ritual for Invoking Ogun's Power""
+title: "Sidereal FeastVodou: Ritual for Invoking Ogun's Power""
 permalink: /Sidereal-FeastVodou/Sidereal-FeastVodou-Ritual-for-Invoking-Oguns-Power/
 categories:
   - Sidereal FeastVodou

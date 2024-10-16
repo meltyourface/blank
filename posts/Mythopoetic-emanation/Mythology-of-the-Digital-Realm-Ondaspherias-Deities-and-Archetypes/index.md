@@ -1,6 +1,6 @@
 ---
 id: b7cb3347-b306-441f-b0d2-371a460a2ec2
-title: ""Mythology of the Digital Realm: Ondaspheria's Deities and Archetypes""
+title: "Mythology of the Digital Realm: Ondaspheria's Deities and Archetypes""
 permalink: /Mythopoetic-emanation/Mythology-of-the-Digital-Realm-Ondaspherias-Deities-and-Archetypes/
 categories:
   - Mythopoetic emanation

@@ -1,6 +1,6 @@
 ---
 id: 9a8a0ce2-55ef-4cc2-b35e-f6d38e852ed2
-title: ""Exploring Andrew Chumbley: Sabbatic Witchcraft's Mastermind""
+title: "Exploring Andrew Chumbley: Sabbatic Witchcraft's Mastermind"
 permalink: /Andrew-D-Chumbley/Exploring-Andrew-Chumbley-Sabbatic-Witchcrafts-Mastermind/
 categories:
   - Andrew D Chumbley

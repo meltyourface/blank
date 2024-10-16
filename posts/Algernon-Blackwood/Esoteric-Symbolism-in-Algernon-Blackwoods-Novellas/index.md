@@ -1,6 +1,6 @@
 ---
 id: 0f67dbfd-70c0-4e37-823b-c2fcfd750ba3
-title: ""Esoteric Symbolism in Algernon Blackwood's Novellas""
+title: "Esoteric Symbolism in Algernon Blackwood's Novellas""
 permalink: /Algernon-Blackwood/Esoteric-Symbolism-in-Algernon-Blackwoods-Novellas/
 categories:
   - Algernon Blackwood

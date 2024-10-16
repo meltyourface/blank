@@ -1,7 +1,7 @@
 ---
 id: 889cdba1-1410-453d-86e2-5093340ab909
 title: 'Exploring the Babalon Working: Thelemic Cosmology, Symbolism, and Scarlet
-  Woman\''s Role'
+  Woman's Role'
 permalink: /Babalon-Working/Exploring-the-Babalon-Working-Thelemic-Cosmology-Symbolism-and-Scarlet-Womans-Role/
 categories:
   - Babalon Working

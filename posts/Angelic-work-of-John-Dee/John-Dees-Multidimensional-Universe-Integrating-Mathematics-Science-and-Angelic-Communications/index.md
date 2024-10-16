@@ -1,6 +1,6 @@
 ---
 id: 1b752432-f5c9-4e15-93d7-7293fdcfb029
-title: ""John Dee's Multidimensional Universe: Integrating Mathematics, Science, and Angelic Communications""
+title: "John Dee's Multidimensional Universe: Integrating Mathematics, Science, and Angelic Communications""
 permalink: /Angelic-work-of-John-Dee/John-Dees-Multidimensional-Universe-Integrating-Mathematics-Science-and-Angelic-Communications/
 categories:
   - Angelic work of John Dee

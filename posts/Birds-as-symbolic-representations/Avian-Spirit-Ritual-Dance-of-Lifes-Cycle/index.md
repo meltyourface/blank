@@ -1,6 +1,6 @@
 ---
 id: 93d44a23-4c20-44a2-a135-a8e21cd29e2f
-title: ""Avian Spirit Ritual: Dance of Life's Cycle""
+title: "Avian Spirit Ritual: Dance of Life's Cycle""
 permalink: /Birds-as-symbolic-representations/Avian-Spirit-Ritual-Dance-of-Lifes-Cycle/
 categories:
   - Birds as symbolic representations

@@ -1,6 +1,6 @@
 ---
 id: 29187b8c-a546-4531-bd4c-8fb6a1f52f57
-title: ""Esoteric Exploration: Transformation Themes in \''The Shape of Water' and \"'Pan\''s Labyrinth'"'
+title: "Esoteric Exploration: Transformation Themes in 'The Shape of Water' and 'Pan's Labyrinth'"
 permalink: /Academy-Award-nominated/Esoteric-Exploration-Transformation-Themes-in-The-Shape-of-Water-and-Pans-Labyrinth/
 categories:
   - Academy Award nominated

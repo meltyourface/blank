@@ -1,6 +1,6 @@
 ---
 id: 3fb01b28-6d4e-47d5-8164-3973df4c6b1a
-title: ""Jungian Archetypes in Human Evolution: A Dream's Symbolic Journey""
+title: "Jungian Archetypes in Human Evolution: A Dream's Symbolic Journey""
 permalink: /Human-evolution/Jungian-Archetypes-in-Human-Evolution-A-Dreams-Symbolic-Journey/
 categories:
   - Human evolution

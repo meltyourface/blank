@@ -1,6 +1,6 @@
 ---
 id: d4defd4e-0970-4fab-aaba-5a3eba3e350a
-title: ""Joseph Smith's Tarring and Feathering: Emma's Heartfelt Account""
+title: "Joseph Smith's Tarring and Feathering: Emma's Heartfelt Account""
 permalink: /Joseph-Smith-and-Mormonism/Joseph-Smiths-Tarring-and-Feathering-Emmas-Heartfelt-Account/
 categories:
   - Joseph Smith and Mormonism

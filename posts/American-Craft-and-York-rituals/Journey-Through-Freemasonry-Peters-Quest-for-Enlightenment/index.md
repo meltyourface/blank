@@ -1,6 +1,6 @@
 ---
 id: c55aee2c-9f01-4d02-9705-04b2089d912b
-title: ""Journey Through Freemasonry: Peter's Quest for Enlightenment""
+title: "Journey Through Freemasonry: Peter's Quest for Enlightenment""
 permalink: /American-Craft-and-York-rituals/Journey-Through-Freemasonry-Peters-Quest-for-Enlightenment/
 categories:
   - American Craft and York rituals

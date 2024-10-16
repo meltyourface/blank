@@ -1,6 +1,6 @@
 ---
 id: 49a84b21-71c1-4779-8487-6a7aefc80e7e
-title: ""A Soul's Eternal Odyssey: Beyond Life and Death""
+title: "A Soul's Eternal Odyssey: Beyond Life and Death""
 permalink: /Hauntingly-poetic-tales/A-Souls-Eternal-Odyssey-Beyond-Life-and-Death/
 categories:
   - Hauntingly poetic tales

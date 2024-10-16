@@ -1,6 +1,6 @@
 ---
 id: 56db29a5-de7d-4c34-a61e-c2623a392954
-title: ""Understanding Duality in the Hell Fire Club's Esoteric Teachings""
+title: "Understanding Duality in the Hell Fire Club's Esoteric Teachings""
 permalink: /Inner-teachings-of-the-Hell-Fire-Club/Understanding-Duality-in-the-Hell-Fire-Clubs-Esoteric-Teachings/
 categories:
   - Inner teachings of the Hell Fire Club

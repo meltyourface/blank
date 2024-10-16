@@ -1,6 +1,6 @@
 ---
 id: 09902896-f197-4a87-a88c-17c0b8ce327b
-title: ""Mimir's Eternal Wisdom and Modern Connection""
+title: "Mimir's Eternal Wisdom and Modern Connection"
 permalink: /Re-interpretation-of-Mimir/Mimirs-Eternal-Wisdom-and-Modern-Connection/
 categories:
   - Re-interpretation of Mimir

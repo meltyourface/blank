@@ -1,6 +1,6 @@
 ---
 id: 3313d9f1-a76f-4fd2-8c35-05e9fdcb2e9f
-title: ""True Will" as the Central Principle in Aleister Crowley's Thelema System"
+title: "True Will" as the Central Principle in Aleister Crowley's Thelema System"
 permalink: /Aleister-Crowley/True-Will-as-the-Central-Principle-in-Aleister-Crowleys-Thelema-System/
 categories:
   - Aleister Crowley

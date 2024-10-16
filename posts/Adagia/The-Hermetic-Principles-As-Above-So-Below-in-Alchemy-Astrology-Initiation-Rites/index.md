@@ -1,6 +1,6 @@
 ---
 id: bbe5f81b-a28b-477a-8225-f24846da238d
-title: ""The Hermetic Principles & 'As Above, So Below' in Alchemy, Astrology, & Initiation Rites""
+title: "The Hermetic Principles & 'As Above, So Below' in Alchemy, Astrology, & Initiation Rites""
 permalink: /Adagia/The-Hermetic-Principles-As-Above-So-Below-in-Alchemy-Astrology-Initiation-Rites/
 categories:
   - Adagia

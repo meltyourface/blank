@@ -1,6 +1,6 @@
 ---
 id: 69174f7e-b075-4903-aa14-08b3d7920c9e
-title: ""Nihilism's Impact: A Hypothetical Dystopian Society""
+title: "Nihilism's Impact: A Hypothetical Dystopian Society"
 permalink: /Active-and-passive-nihilism/Nihilisms-Impact-A-Hypothetical-Dystopian-Society/
 categories:
   - Active and passive nihilism

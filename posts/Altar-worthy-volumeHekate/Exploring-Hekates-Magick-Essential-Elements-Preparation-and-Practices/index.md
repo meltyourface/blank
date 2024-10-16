@@ -1,6 +1,6 @@
 ---
 id: 5586ebe4-91d7-4ce6-bccf-a0ec72f6213b
-title: ""Exploring Hekate's Magick: Essential Elements, Preparation, and Practices"
+title: "Exploring Hekate's Magick: Essential Elements, Preparation, and Practices"
 permalink: /Altar-worthy-volumeHekate/Exploring-Hekates-Magick-Essential-Elements-Preparation-and-Practices/
 categories:
   - Altar-worthy volumeHekate

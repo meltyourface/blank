@@ -1,6 +1,6 @@
 ---
 id: 0b2b4773-2195-4321-b215-7a1f6f1776aa
-title: ""Herne and Cernunnos: Pagan Deity's Lore and Invocation""
+title: "Herne and Cernunnos: Pagan Deity's Lore and Invocation"
 permalink: /Horned-deity/Herne-and-Cernunnos-Pagan-Deitys-Lore-and-Invocation/
 categories:
   - Horned deity

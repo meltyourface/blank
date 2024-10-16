@@ -1,6 +1,6 @@
 ---
 id: 0ba929ad-070c-473b-b01f-5a3f677dcd54
-title: ""Dark Arts: Mastering the Nefarius Manuscript's Hex""
+title: "Dark Arts: Mastering the Nefarius Manuscript's Hex""
 permalink: /Casting-evil-upon-others/Dark-Arts-Mastering-the-Nefarius-Manuscripts-Hex/
 categories:
   - Casting evil upon others

@@ -1,6 +1,6 @@
 ---
 id: 8a35a3c7-c3ee-4553-8665-4e17b45f139f
-title: ""Guided Occult Ritual for Tapping Mimir's Wisdom""
+title: "Guided Occult Ritual for Tapping Mimir's Wisdom"
 permalink: /Re-interpretation-of-Mimir/Guided-Occult-Ritual-for-Tapping-Mimirs-Wisdom/
 categories:
   - Re-interpretation of Mimir

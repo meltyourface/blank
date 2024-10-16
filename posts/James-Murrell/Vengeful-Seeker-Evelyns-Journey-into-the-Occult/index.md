@@ -1,6 +1,6 @@
 ---
 id: 901a4816-23f2-4c16-b80b-3582bf22163f
-title: ""Vengeful Seeker: Evelyn's Journey into the Occult""
+title: "Vengeful Seeker: Evelyn's Journey into the Occult"
 permalink: /James-Murrell/Vengeful-Seeker-Evelyns-Journey-into-the-Occult/
 categories:
   - James Murrell

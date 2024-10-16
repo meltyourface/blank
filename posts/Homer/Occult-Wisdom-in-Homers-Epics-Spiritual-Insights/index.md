@@ -1,6 +1,6 @@
 ---
 id: 0a5f2a99-69de-407d-ab4c-53c83bf491f6
-title: ""Occult Wisdom in Homer's Epics: Spiritual Insights""
+title: "Occult Wisdom in Homer's Epics: Spiritual Insights""
 permalink: /Homer/Occult-Wisdom-in-Homers-Epics-Spiritual-Insights/
 categories:
   - Homer

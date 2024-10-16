@@ -1,6 +1,6 @@
 ---
 id: ba6a4d17-87d0-4d75-b102-c91b9beaa9a9
-title: ""Understanding the Moon's Phases in Beacon SignalMoon Initiation""
+title: "Understanding the Moon's Phases in Beacon SignalMoon Initiation""
 permalink: /Beacon-signalMoon-lore/Understanding-the-Moons-Phases-in-Beacon-SignalMoon-Initiation/
 categories:
   - Beacon signalMoon lore

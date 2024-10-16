@@ -1,7 +1,7 @@
 ---
 id: 19f7f442-e559-43fb-b8d1-9f158bdb7415
 title: 'Comparative Analysis of Tarot, I Ching, and Runes: Esoteric Perspectives on
-  Life\''s Challenges'
+  Life's Challenges'
 permalink: /Internal-dimensions-of-time/Comparative-Analysis-of-Tarot-I-Ching-and-Runes-Esoteric-Perspectives-on-Lifes-Challenges/
 categories:
   - Internal dimensions of time

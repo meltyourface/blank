@@ -1,6 +1,6 @@
 ---
 id: ac3567c9-8b50-4b01-b678-e488fd5b9d4a
-title: ""Theologia Germanica's Impact on Martin Luther's Theology""
+title: "Theologia Germanica's Impact on Martin Luther's Theology""
 permalink: /Theologia-Germanica/Theologia-Germanicas-Impact-on-Martin-Luthers-Theology/
 categories:
   - Theologia Germanica

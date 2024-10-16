@@ -1,6 +1,6 @@
 ---
 id: 24faf66e-5e1c-4568-9bf5-080e5e89b159
-title: ""The Knight's Quest for the Chalice of Light""
+title: "The Knight's Quest for the Chalice of Light""
 permalink: /Templars/The-Knights-Quest-for-the-Chalice-of-Light/
 categories:
   - Templars

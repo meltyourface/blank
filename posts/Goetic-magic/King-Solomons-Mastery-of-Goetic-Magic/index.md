@@ -1,6 +1,6 @@
 ---
 id: e87cece3-35d1-4017-980f-34fddb666e52
-title: ""King Solomon's Mastery of Goetic Magic""
+title: "King Solomon's Mastery of Goetic Magic""
 permalink: /Goetic-magic/King-Solomons-Mastery-of-Goetic-Magic/
 categories:
   - Goetic magic

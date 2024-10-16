@@ -1,6 +1,6 @@
 ---
 id: 5790f94b-246f-4ee2-ab3b-8db9b6b51f2b
-title: ""Salamanders' Dance: A Tribute to Babalon""
+title: "Salamanders' Dance: A Tribute to Babalon"
 permalink: /Prayer-of-the-SalamandersBabalon/Salamanders-Dance-A-Tribute-to-Babalon/
 categories:
   - Prayer of the SalamandersBabalon

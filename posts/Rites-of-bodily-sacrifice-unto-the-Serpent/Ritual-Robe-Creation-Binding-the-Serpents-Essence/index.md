@@ -1,6 +1,6 @@
 ---
 id: b685a995-2f28-4a9a-83b2-a3a4bf3ba298
-title: ""Ritual Robe Creation: Binding the Serpent's Essence""
+title: "Ritual Robe Creation: Binding the Serpent's Essence""
 permalink: /Rites-of-bodily-sacrifice-unto-the-Serpent/Ritual-Robe-Creation-Binding-the-Serpents-Essence/
 categories:
   - Rites of bodily sacrifice unto the Serpent

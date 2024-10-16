@@ -1,6 +1,6 @@
 ---
 id: 15f54be7-b71d-4415-879b-e29a98983040
-title: ""Ansuz's Runes: A Poetic Exploration of the Four Elements""
+title: "Ansuz's Runes: A Poetic Exploration of the Four Elements"
 permalink: /Pasiphae/Ansuzs-Runes-A-Poetic-Exploration-of-the-Four-Elements/
 categories:
   - Pasiphae

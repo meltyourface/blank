@@ -1,6 +1,6 @@
 ---
 id: 403bfcca-4219-459a-9b4e-6d9d32f5d5e8
-title: ""Andrew Chumbley's Legacy in Modern Occultism""
+title: "Andrew Chumbley's Legacy in Modern Occultism""
 permalink: /Andrew-Chumbley/Andrew-Chumbleys-Legacy-in-Modern-Occultism/
 categories:
   - Andrew Chumbley

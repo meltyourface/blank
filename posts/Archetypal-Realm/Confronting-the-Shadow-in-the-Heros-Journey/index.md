@@ -1,6 +1,6 @@
 ---
 id: cf950de1-6812-48e6-89ef-a9d5055a63aa
-title: ""Confronting the Shadow in the Hero's Journey""
+title: "Confronting the Shadow in the Hero's Journey""
 permalink: /Archetypal-Realm/Confronting-the-Shadow-in-the-Heros-Journey/
 categories:
   - Archetypal Realm

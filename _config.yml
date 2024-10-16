@@ -1,7 +1,7 @@
 title: "Hermes Trismegistus: Dataset"
 description: Lets read the Hemes Dataset like a book!
 theme: just-the-docs
-baseurl: "/trismegist"
+baseurl: /trismegist
 url: https://meltyourface.github.io/
 repository: meltyourface/trismegist
 permalink: pretty
