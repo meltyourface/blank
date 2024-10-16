@@ -1,6 +1,6 @@
 ---
 id: 3c35f4b6-2d22-4ae4-b6fa-c89ca27d9b00
-title: '"Unveiling Patient\''s Hidden Psyche through Riddles"'
+title: ""Unveiling Patient's Hidden Psyche through Riddles""
 permalink: /Mysterious-mental-patient/Unveiling-Patients-Hidden-Psyche-through-Riddles/
 categories:
   - Mysterious mental patient

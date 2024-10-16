@@ -1,7 +1,6 @@
 ---
 id: 35d07cea-1710-4498-abd0-24173b1d0041
-title: 'Fundamentals of Esoteric Research: A Practical Guide for the Magician\''s
-  Journey'
+title: "Fundamentals of Esoteric Research: A Practical Guide for the Magician's Journey"
 permalink: /Ritual-and-magical-research/Fundamentals-of-Esoteric-Research-A-Practical-Guide-for-the-Magicians-Journey/
 categories:
   - Ritual and magical research

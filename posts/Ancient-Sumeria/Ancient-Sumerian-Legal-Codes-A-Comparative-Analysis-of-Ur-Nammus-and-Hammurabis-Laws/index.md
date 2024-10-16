@@ -1,7 +1,6 @@
 ---
 id: 5ebda704-5283-4670-9087-4ff68bb73c57
-title: 'Ancient Sumerian Legal Codes: A Comparative Analysis of Ur-Nammu\''s and Hammurabi\''s
-  Laws'
+title: "Ancient Sumerian Legal Codes: A Comparative Analysis of Ur-Nammu's and Hammurabi's Laws"
 permalink: /Ancient-Sumeria/Ancient-Sumerian-Legal-Codes-A-Comparative-Analysis-of-Ur-Nammus-and-Hammurabis-Laws/
 categories:
   - Ancient Sumeria

@@ -1,6 +1,6 @@
 ---
 id: af6ab706-314e-424f-a811-54e4edde2473
-title: 'Ritual for Wrathbones\'' Subjugation: Requiem of Rebonding'
+title: "Ritual for Wrathbones' Subjugation: Requiem of Rebonding"
 permalink: /Cult-of-the-Skeletal-Lord/Ritual-for-Wrathbones-Subjugation-Requiem-of-Rebonding/
 categories:
   - Cult of the Skeletal Lord

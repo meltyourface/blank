@@ -1,6 +1,6 @@
 ---
 id: 21338498-4159-4747-9b3d-9efa52f30ba9
-title: 'Journey into Romantic Luciferianism: Seeker\''s Spiritual Metamorphosis'
+title: "Journey into Romantic Luciferianism: Seeker's Spiritual Metamorphosis"
 permalink: /Spiritual-perfectionRomantic-Luciferianism/Journey-into-Romantic-Luciferianism-Seekers-Spiritual-Metamorphosis/
 categories:
   - Spiritual perfectionRomantic Luciferianism

@@ -1,6 +1,6 @@
 ---
 id: a8058268-6f39-4a19-a506-cc3176d13f32
-title: '"Lovecraft\''s Nihilistic Cosmicism: A Study of Insignificance and Despair"'
+title: ""Lovecraft's Nihilistic Cosmicism: A Study of Insignificance and Despair""
 permalink: /HP-Lovecraft/Lovecrafts-Nihilistic-Cosmicism-A-Study-of-Insignificance-and-Despair/
 categories:
   - HP Lovecraft

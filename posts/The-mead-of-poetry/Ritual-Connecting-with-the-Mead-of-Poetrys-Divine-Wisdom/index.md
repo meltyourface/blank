@@ -1,6 +1,6 @@
 ---
 id: b2a39d6a-b320-45e9-b473-f75260788bb2
-title: 'Ritual: Connecting with the Mead of Poetry\''s Divine Wisdom'
+title: "Ritual: Connecting with the Mead of Poetry's Divine Wisdom"
 permalink: /The-mead-of-poetry/Ritual-Connecting-with-the-Mead-of-Poetrys-Divine-Wisdom/
 categories:
   - The mead of poetry

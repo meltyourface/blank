@@ -1,6 +1,6 @@
 ---
 id: 3df6f707-57a8-4b5f-a6a2-8a6f923bf65f
-title: 'Exploring Lovecraft\''s Themes: Cosmicism, Esotericism, and Fear in His Works'
+title: "Exploring Lovecraft's Themes: Cosmicism, Esotericism, and Fear in His Works"
 permalink: /Lovecrafts-essays-and-letters/Exploring-Lovecrafts-Themes-Cosmicism-Esotericism-and-Fear-in-His-Works/
 categories:
   - Lovecrafts essays and letters

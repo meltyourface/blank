@@ -1,6 +1,6 @@
 ---
 id: 52033972-9644-4357-ad5e-adb294b07bcb
-title: 'Historical Analysis: Christian Rosenkreuz and the Rosicrucian Order\''s Foundations'
+title: "Historical Analysis: Christian Rosenkreuz and the Rosicrucian Order's Foundations"
 permalink: /Rosicrucianism/Historical-Analysis-Christian-Rosenkreuz-and-the-Rosicrucian-Orders-Foundations/
 categories:
   - Rosicrucianism

@@ -1,6 +1,6 @@
 ---
 id: 4272f3de-18c7-441f-ae1a-561f9b67d656
-title: 'Grim Reapers: An Analysis of Their Hierarchy and Role in Death\''s Realm'
+title: "Grim Reapers: An Analysis of Their Hierarchy and Role in Death's Realm"
 permalink: /Grim-reapers/Grim-Reapers-An-Analysis-of-Their-Hierarchy-and-Role-in-Deaths-Realm/
 categories:
   - Grim reapers

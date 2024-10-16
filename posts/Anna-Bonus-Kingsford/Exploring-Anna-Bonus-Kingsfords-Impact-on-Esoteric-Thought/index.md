@@ -1,6 +1,6 @@
 ---
 id: 9ff5dfc9-39ac-46d1-b170-956a789f282c
-title: '"Exploring Anna Bonus Kingsford\''s Impact on Esoteric Thought"'
+title: ""Exploring Anna Bonus Kingsford's Impact on Esoteric Thought""
 permalink: /Anna-Bonus-Kingsford/Exploring-Anna-Bonus-Kingsfords-Impact-on-Esoteric-Thought/
 categories:
   - Anna Bonus Kingsford

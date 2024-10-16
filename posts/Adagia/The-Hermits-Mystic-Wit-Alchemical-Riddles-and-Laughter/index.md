@@ -1,6 +1,6 @@
 ---
 id: ae1319f4-4caa-450c-ac0e-78e4278897e6
-title: 'The Hermit\''s Mystic Wit: Alchemical Riddles and Laughter'
+title: "The Hermit's Mystic Wit: Alchemical Riddles and Laughter"
 permalink: /Adagia/The-Hermits-Mystic-Wit-Alchemical-Riddles-and-Laughter/
 categories:
   - Adagia

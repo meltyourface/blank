@@ -1,6 +1,6 @@
 ---
 id: 43a83ee8-3d8c-48c9-8da5-54ff7c326a34
-title: '"The Mythology of Zaeloria: Avelazor\''s Ascension"'
+title: ""The Mythology of Zaeloria: Avelazor's Ascension""
 permalink: /Writer/The-Mythology-of-Zaeloria-Avelazors-Ascension/
 categories:
   - Writer

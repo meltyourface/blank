@@ -1,6 +1,6 @@
 ---
 id: e36d1e02-761c-4578-8d64-78c473b11e82
-title: 'Love\''s Cosmic Journey: Alchemical Practices and Divine Communion'
+title: "Love's Cosmic Journey: Alchemical Practices and Divine Communion"
 permalink: /Love-as-an-unseen-force/Loves-Cosmic-Journey-Alchemical-Practices-and-Divine-Communion/
 categories:
   - Love as an unseen force

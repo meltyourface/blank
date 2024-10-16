@@ -1,6 +1,6 @@
 ---
 id: bd215e25-46db-4a00-81d3-4ad29f5d5c11
-title: 'Synthesis of Western Esotericism: Agrippa\''s Occult Philosophy'
+title: "Synthesis of Western Esotericism: Agrippa's Occult Philosophy"
 permalink: /Agrippa/Synthesis-of-Western-Esotericism-Agrippas-Occult-Philosophy/
 categories:
   - Agrippa

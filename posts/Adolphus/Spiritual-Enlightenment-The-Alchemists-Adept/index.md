@@ -1,6 +1,6 @@
 ---
 id: 15509c74-302c-4b58-ac27-556276513cbb
-title: 'Spiritual Enlightenment: The Alchemist\''s Adept'
+title: "Spiritual Enlightenment: The Alchemist's Adept"
 permalink: /Adolphus/Spiritual-Enlightenment-The-Alchemists-Adept/
 categories:
   - Adolphus

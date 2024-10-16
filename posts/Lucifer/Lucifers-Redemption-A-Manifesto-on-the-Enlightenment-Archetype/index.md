@@ -1,6 +1,6 @@
 ---
 id: e12c3e70-3922-4615-81f3-535559eef46b
-title: 'Lucifer\''s Redemption: A Manifesto on the Enlightenment Archetype'
+title: "Lucifer's Redemption: A Manifesto on the Enlightenment Archetype"
 permalink: /Lucifer/Lucifers-Redemption-A-Manifesto-on-the-Enlightenment-Archetype/
 categories:
   - Lucifer

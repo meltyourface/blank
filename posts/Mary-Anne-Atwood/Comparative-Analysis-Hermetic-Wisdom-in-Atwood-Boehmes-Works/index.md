@@ -1,6 +1,6 @@
 ---
 id: b4068989-99ce-4a33-b62e-aeb60f3fb953
-title: 'Comparative Analysis: Hermetic Wisdom in Atwood & Boehme\''s Works'
+title: "Comparative Analysis: Hermetic Wisdom in Atwood & Boehme's Works"
 permalink: /Mary-Anne-Atwood/Comparative-Analysis-Hermetic-Wisdom-in-Atwood-Boehmes-Works/
 categories:
   - Mary Anne Atwood

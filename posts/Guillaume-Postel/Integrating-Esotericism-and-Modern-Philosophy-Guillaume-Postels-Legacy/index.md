@@ -1,6 +1,6 @@
 ---
 id: 32ad9b48-20e7-4e70-a8b9-243307971417
-title: 'Integrating Esotericism and Modern Philosophy: Guillaume Postel\''s Legacy'
+title: "Integrating Esotericism and Modern Philosophy: Guillaume Postel's Legacy"
 permalink: /Guillaume-Postel/Integrating-Esotericism-and-Modern-Philosophy-Guillaume-Postels-Legacy/
 categories:
   - Guillaume Postel

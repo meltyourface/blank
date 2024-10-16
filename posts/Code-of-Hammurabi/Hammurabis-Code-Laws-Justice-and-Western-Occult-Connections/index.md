@@ -1,6 +1,6 @@
 ---
 id: fa175ad6-dafc-476e-b607-84836ee5bf6b
-title: '"Hammurabi\''s Code: Laws, Justice, and Western Occult Connections"'
+title: ""Hammurabi's Code: Laws, Justice, and Western Occult Connections""
 permalink: /Code-of-Hammurabi/Hammurabis-Code-Laws-Justice-and-Western-Occult-Connections/
 categories:
   - Code of Hammurabi

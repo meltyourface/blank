@@ -1,6 +1,6 @@
 ---
 id: 8a750f68-0757-4611-994a-7db4efaf1b59
-title: 'The Labyrinth of Daedalus: A Journey Through Life\''s Inner Transformation'
+title: "The Labyrinth of Daedalus: A Journey Through Life's Inner Transformation"
 permalink: /Heterotopias/The-Labyrinth-of-Daedalus-A-Journey-Through-Lifes-Inner-Transformation/
 categories:
   - Heterotopias

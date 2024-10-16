@@ -1,6 +1,6 @@
 ---
 id: 570a8404-3270-4aba-a47c-660359440835
-title: 'The Enigma of Eliphas Blackwood: Master of the \''Big Man\'' Society'
+title: "The Enigma of Eliphas Blackwood: Master of the 'Big Man' Society"
 permalink: /Big-Man-society/The-Enigma-of-Eliphas-Blackwood-Master-of-the-Big-Man-Society/
 categories:
   - '''Big Man'' society'

@@ -1,6 +1,6 @@
 ---
 id: 08d9f397-0e09-486b-99eb-15c0577cae5a
-title: 'Esoteric Exploration of Caitlin R Kiernan\''s Work: Occult Themes and Symbolism'
+title: "Esoteric Exploration of Caitlin R Kiernan's Work: Occult Themes and Symbolism"
 permalink: /Caitlin-R-Kiernan/Esoteric-Exploration-of-Caitlin-R-Kiernans-Work-Occult-Themes-and-Symbolism/
 categories:
   - Caitlin R Kiernan

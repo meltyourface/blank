@@ -1,6 +1,6 @@
 ---
 id: 8da8bc20-6520-4e43-b5fd-b896df22a465
-title: 'Hecate\''s Influence on Personal Transformation: Symbolic Aspects Explored'
+title: "Hecate's Influence on Personal Transformation: Symbolic Aspects Explored"
 permalink: /Goddess-Hecate/Hecates-Influence-on-Personal-Transformation-Symbolic-Aspects-Explored/
 categories:
   - Goddess Hecate

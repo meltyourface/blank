@@ -1,6 +1,6 @@
 ---
 id: 9aaacc81-84e2-4e0a-ac18-e2e218bcea5d
-title: 'The Fool\''s Journey & Kabbalah: Exploring Self-Discovery and Spiritual Growth'
+title: "The Fool's Journey & Kabbalah: Exploring Self-Discovery and Spiritual Growth"
 permalink: /Tarot-imagery/The-Fools-Journey-Kabbalah-Exploring-Self-Discovery-and-Spiritual-Growth/
 categories:
   - Tarot imagery

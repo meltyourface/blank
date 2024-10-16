@@ -1,7 +1,6 @@
 ---
 id: f219dedd-343e-455e-97c8-b010027216f8
-title: 'An Analysis of Holbein\''s "Dance of Death": Themes, Artistic Techniques,
-  and Societal Impact'
+title: "An Analysis of Holbein's "Dance of Death": Themes, Artistic Techniques, and Societal Impact"
 permalink: /Hans-Holbein-the-Younger/An-Analysis-of-Holbeins-Dance-of-Death-Themes-Artistic-Techniques-and-Societal-Impact/
 categories:
   - Hans Holbein the Younger

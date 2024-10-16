@@ -1,6 +1,6 @@
 ---
 id: f99d426d-d4f1-4ca4-96e0-e7fc97a6c649
-title: 'Esoteric Origins: The Evolution of Almanacks\'' Impact on Human Consciousness'
+title: "Esoteric Origins: The Evolution of Almanacks' Impact on Human Consciousness"
 permalink: /almanacks/Esoteric-Origins-The-Evolution-of-Almanacks-Impact-on-Human-Consciousness/
 categories:
   - almanacks

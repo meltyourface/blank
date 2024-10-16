@@ -1,6 +1,6 @@
 ---
 id: ccf72b46-aa36-4796-a9a5-20e41776812e
-title: 'Lee Morgan\''s Esoteric Education: Bridging Mysticism and Pedagogy'
+title: "Lee Morgan's Esoteric Education: Bridging Mysticism and Pedagogy"
 permalink: /Lee-Morgan/Lee-Morgans-Esoteric-Education-Bridging-Mysticism-and-Pedagogy/
 categories:
   - Lee Morgan

@@ -1,6 +1,6 @@
 ---
 id: 08bcbfe7-4e58-45e9-87f7-8a75b84f1368
-title: 'Climate Change: Humanity\''s Apocalypse Scenarios'
+title: "Climate Change: Humanity's Apocalypse Scenarios"
 permalink: /Apocalypse/Climate-Change-Humanitys-Apocalypse-Scenarios/
 categories:
   - Apocalypse

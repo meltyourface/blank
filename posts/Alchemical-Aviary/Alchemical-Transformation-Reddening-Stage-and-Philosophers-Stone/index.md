@@ -1,6 +1,6 @@
 ---
 id: d55a8e42-9882-42fc-a4f7-27594b8d8c88
-title: 'Alchemical Transformation: Reddening Stage and Philosopher\''s Stone'
+title: "Alchemical Transformation: Reddening Stage and Philosopher's Stone"
 permalink: /Alchemical-Aviary/Alchemical-Transformation-Reddening-Stage-and-Philosophers-Stone/
 categories:
   - Alchemical Aviary

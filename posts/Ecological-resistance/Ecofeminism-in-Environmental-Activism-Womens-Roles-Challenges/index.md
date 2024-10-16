@@ -1,6 +1,6 @@
 ---
 id: e723411f-7526-473b-8021-73065a8d912b
-title: 'Ecofeminism in Environmental Activism: Women\''s Roles & Challenges'
+title: "Ecofeminism in Environmental Activism: Women's Roles & Challenges"
 permalink: /Ecological-resistance/Ecofeminism-in-Environmental-Activism-Womens-Roles-Challenges/
 categories:
   - Ecological resistance

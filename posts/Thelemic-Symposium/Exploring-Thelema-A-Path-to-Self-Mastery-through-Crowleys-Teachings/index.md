@@ -1,6 +1,6 @@
 ---
 id: f223675c-acf3-49bd-9b24-6cfe516b154f
-title: 'Exploring Thelema: A Path to Self-Mastery through Crowley\''s Teachings'
+title: "Exploring Thelema: A Path to Self-Mastery through Crowley's Teachings"
 permalink: /Thelemic-Symposium/Exploring-Thelema-A-Path-to-Self-Mastery-through-Crowleys-Teachings/
 categories:
   - Thelemic Symposium

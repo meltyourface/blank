@@ -1,6 +1,6 @@
 ---
 id: f4ef63dc-70a5-4bce-b276-29bab83d9950
-title: 'Overview of Andrew Chumbley\''s Esoteric Path: Sethos, Mysticism, Art & Philosophy'
+title: "Overview of Andrew Chumbley's Esoteric Path: Sethos, Mysticism, Art & Philosophy"
 permalink: /Andrew-Chumbley/Overview-of-Andrew-Chumbleys-Esoteric-Path-Sethos-Mysticism-Art-Philosophy/
 categories:
   - Andrew Chumbley

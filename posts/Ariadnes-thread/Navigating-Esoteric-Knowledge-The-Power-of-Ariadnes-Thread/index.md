@@ -1,6 +1,6 @@
 ---
 id: c0ed7eb8-6e93-4523-aac6-54907b600d27
-title: 'Navigating Esoteric Knowledge: The Power of Ariadne\''s Thread'
+title: "Navigating Esoteric Knowledge: The Power of Ariadne's Thread"
 permalink: /Ariadnes-thread/Navigating-Esoteric-Knowledge-The-Power-of-Ariadnes-Thread/
 categories:
   - Ariadnes thread

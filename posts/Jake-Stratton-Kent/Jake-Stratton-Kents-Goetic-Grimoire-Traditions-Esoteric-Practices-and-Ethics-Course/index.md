@@ -1,7 +1,6 @@
 ---
 id: f4cf97a9-af87-4cc8-8af0-1b489d67fbab
-title: 'Jake Stratton-Kent\''s Goetic Grimoire Traditions: Esoteric Practices and
-  Ethics Course'
+title: "Jake Stratton-Kent's Goetic Grimoire Traditions: Esoteric Practices and Ethics Course"
 permalink: /Jake-Stratton-Kent/Jake-Stratton-Kents-Goetic-Grimoire-Traditions-Esoteric-Practices-and-Ethics-Course/
 categories:
   - Jake Stratton-Kent

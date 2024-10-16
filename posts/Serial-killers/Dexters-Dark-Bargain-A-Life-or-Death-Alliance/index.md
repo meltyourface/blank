@@ -1,6 +1,6 @@
 ---
 id: 899bbbaa-0360-44c7-84a0-8f2f7b5faed9
-title: "Dexter\''s Dark Bargain: A Life-or-Death Alliance"
+title: "Dexter's Dark Bargain: A Life-or-Death Alliance"
 permalink: /Serial-killers/Dexters-Dark-Bargain-A-Life-or-Death-Alliance/
 categories:
   - Serial killers

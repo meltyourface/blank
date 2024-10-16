@@ -1,7 +1,6 @@
 ---
 id: d3cf3026-6f79-4786-9149-4b134e3f7ad1
-title: 'Divine Union: Comparative Analysis of Theologia Germanica and Meister Eckhart\''s
-  Mystical Teachings'
+title: "Divine Union: Comparative Analysis of Theologia Germanica and Meister Eckhart's Mystical Teachings"
 permalink: /Theologia-Germanica/Divine-Union-Comparative-Analysis-of-Theologia-Germanica-and-Meister-Eckharts-Mystical-Teachings/
 categories:
   - Theologia Germanica

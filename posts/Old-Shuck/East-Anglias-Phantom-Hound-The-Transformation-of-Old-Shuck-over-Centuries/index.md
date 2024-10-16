@@ -1,6 +1,6 @@
 ---
 id: 3cdf04e2-7df7-4229-850c-4f6dc922e83c
-title: 'East Anglia\''s Phantom Hound: The Transformation of Old Shuck over Centuries'
+title: "East Anglia's Phantom Hound: The Transformation of Old Shuck over Centuries"
 permalink: /Old-Shuck/East-Anglias-Phantom-Hound-The-Transformation-of-Old-Shuck-over-Centuries/
 categories:
   - Old Shuck

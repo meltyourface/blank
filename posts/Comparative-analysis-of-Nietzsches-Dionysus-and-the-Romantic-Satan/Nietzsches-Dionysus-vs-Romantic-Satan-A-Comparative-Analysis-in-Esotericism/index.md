@@ -1,6 +1,6 @@
 ---
 id: 1a0d827e-7a30-411a-9463-69486d2fd791
-title: 'Nietzsche\''s Dionysus vs Romantic Satan: A Comparative Analysis in Esotericism'
+title: "Nietzsche's Dionysus vs Romantic Satan: A Comparative Analysis in Esotericism"
 permalink: /Comparative-analysis-of-Nietzsches-Dionysus-and-the-Romantic-Satan/Nietzsches-Dionysus-vs-Romantic-Satan-A-Comparative-Analysis-in-Esotericism/
 categories:
   - Comparative analysis of Nietzsche's Dionysus and the Romantic Satan

@@ -1,6 +1,6 @@
 ---
 id: 6a5ae8a7-cb0b-4316-9785-02382d0f640f
-title: 'Astrological Analysis: Harry & Sally\''s Love Journey'
+title: "Astrological Analysis: Harry & Sally's Love Journey"
 permalink: /Divination/Astrological-Analysis-Harry-Sallys-Love-Journey/
 categories:
   - Divination

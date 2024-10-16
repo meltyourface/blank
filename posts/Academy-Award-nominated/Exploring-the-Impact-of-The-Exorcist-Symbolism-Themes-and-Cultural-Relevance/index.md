@@ -1,7 +1,6 @@
 ---
 id: 4a7c226c-1f76-4a9b-ac75-8583304ee0e4
-title: '"Exploring the Impact of \''The Exorcist\'': Symbolism, Themes, and Cultural
-  Relevance'
+title: ""Exploring the Impact of 'The Exorcist': Symbolism, Themes, and Cultural Relevance"
 permalink: /Academy-Award-nominated/Exploring-the-Impact-of-The-Exorcist-Symbolism-Themes-and-Cultural-Relevance/
 categories:
   - Academy Award nominated

@@ -1,6 +1,6 @@
 ---
 id: a6f654e8-bb4f-4066-bc4f-7a0c7bca05c2
-title: 'The Founding of Alexandrian Wicca: Alex Sanders\'' Impact on Modern Witchcraft'
+title: "The Founding of Alexandrian Wicca: Alex Sanders' Impact on Modern Witchcraft"
 permalink: /Alex-Sanders/The-Founding-of-Alexandrian-Wicca-Alex-Sanders-Impact-on-Modern-Witchcraft/
 categories:
   - Alex Sanders

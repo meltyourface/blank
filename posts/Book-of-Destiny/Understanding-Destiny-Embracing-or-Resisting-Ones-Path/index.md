@@ -1,6 +1,6 @@
 ---
 id: 1ee929ee-9c57-4ce9-9c07-5afbbd9bfeaa
-title: 'Understanding Destiny: Embracing or Resisting One\''s Path'
+title: "Understanding Destiny: Embracing or Resisting One's Path"
 permalink: /Book-of-Destiny/Understanding-Destiny-Embracing-or-Resisting-Ones-Path/
 categories:
   - Book of Destiny

@@ -1,6 +1,6 @@
 ---
 id: 269f52f0-2fde-4471-8e36-dcf798425291
-title: '"Navigating Life\''s Cycles: The Wheel of Fortune, Numerology, & Synchronicity"'
+title: ""Navigating Life's Cycles: The Wheel of Fortune, Numerology, & Synchronicity""
 permalink: /Lady-Fortune/Navigating-Lifes-Cycles-The-Wheel-of-Fortune-Numerology-Synchronicity/
 categories:
   - Lady Fortune

@@ -1,6 +1,6 @@
 ---
 id: 85bcc592-5fa0-4e6f-8a7e-1e36b9d1dd8f
-title: "Alchemy\''s Metamorphosis: The Journey of Hieronymus Lamentis"
+title: "Alchemy's Metamorphosis: The Journey of Hieronymus Lamentis"
 permalink: /Radical-alterityDragons-Column/Alchemys-Metamorphosis-The-Journey-of-Hieronymus-Lamentis/
 categories:
   - Radical alterity.Dragon's Column

@@ -1,6 +1,6 @@
 ---
 id: ca2ef0f0-1656-4a40-b6d9-d71108e6b08a
-title: 'Occult Wisdom in Dante\''s Divine Comedy: Symbolic Journey of Self-Discovery'
+title: "Occult Wisdom in Dante's Divine Comedy: Symbolic Journey of Self-Discovery"
 permalink: /Divine-Comedy-by-Dante-Alighieri/Occult-Wisdom-in-Dantes-Divine-Comedy-Symbolic-Journey-of-Self-Discovery/
 categories:
   - Divine Comedy by Dante Alighieri

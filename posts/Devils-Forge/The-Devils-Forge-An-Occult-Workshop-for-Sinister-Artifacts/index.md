@@ -1,6 +1,6 @@
 ---
 id: 8a7186ed-9934-44d6-92b4-b963101f7901
-title: 'The Devil\''s Forge: An Occult Workshop for Sinister Artifacts'
+title: "The Devil's Forge: An Occult Workshop for Sinister Artifacts"
 permalink: /Devils-Forge/The-Devils-Forge-An-Occult-Workshop-for-Sinister-Artifacts/
 categories:
   - Devil's Forge

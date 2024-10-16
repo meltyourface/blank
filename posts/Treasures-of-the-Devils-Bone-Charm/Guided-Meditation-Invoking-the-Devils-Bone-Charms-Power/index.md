@@ -1,6 +1,6 @@
 ---
 id: 4230074f-ac78-41c2-985f-fb44905b429b
-title: 'Guided Meditation: Invoking the Devil\''s Bone Charm\''s Power'
+title: "Guided Meditation: Invoking the Devil's Bone Charm's Power"
 permalink: /Treasures-of-the-Devils-Bone-Charm/Guided-Meditation-Invoking-the-Devils-Bone-Charms-Power/
 categories:
   - Treasures of the Devil's Bone Charm

@@ -1,6 +1,6 @@
 ---
 id: d226d9b8-7d49-46df-a58f-076c1099f8d5
-title: "Decoding Esoteric Symbols of Freemasonry\''s Past Master Degree"
+title: "Decoding Esoteric Symbols of Freemasonry's Past Master Degree"
 permalink: /Past-Master-degree/Decoding-Esoteric-Symbols-of-Freemasonrys-Past-Master-Degree/
 categories:
   - Past Master degree

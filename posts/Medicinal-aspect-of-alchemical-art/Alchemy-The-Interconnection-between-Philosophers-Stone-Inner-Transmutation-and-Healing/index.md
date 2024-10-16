@@ -1,7 +1,6 @@
 ---
 id: a94c12ff-4476-4b75-ba0d-7840ae498ccc
-title: 'Alchemy: The Interconnection between Philosopher\''s Stone, Inner Transmutation,
-  and Healing'
+title: "Alchemy: The Interconnection between Philosopher's Stone, Inner Transmutation, and Healing"
 permalink: /Medicinal-aspect-of-alchemical-art/Alchemy-The-Interconnection-between-Philosophers-Stone-Inner-Transmutation-and-Healing/
 categories:
   - Medicinal aspect of alchemical art

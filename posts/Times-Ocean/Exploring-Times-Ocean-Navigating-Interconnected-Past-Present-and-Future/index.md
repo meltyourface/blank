@@ -1,6 +1,6 @@
 ---
 id: 190df876-f96b-4afd-a2c9-8a5087054528
-title: 'Exploring Time\''s Ocean: Navigating Interconnected Past, Present, and Future'
+title: "Exploring Time's Ocean: Navigating Interconnected Past, Present, and Future"
 permalink: /Times-Ocean/Exploring-Times-Ocean-Navigating-Interconnected-Past-Present-and-Future/
 categories:
   - Time's Ocean

@@ -1,6 +1,6 @@
 ---
 id: 28fa1d63-ac0c-4126-8f8e-e65e15c8744c
-title: 'Exploring Abramelin\''s Sacred Magic: Key Teachings and Practices'
+title: "Exploring Abramelin's Sacred Magic: Key Teachings and Practices"
 permalink: /Sacred-Magic-of-Abramelin-the-Mage/Exploring-Abramelins-Sacred-Magic-Key-Teachings-and-Practices/
 categories:
   - Sacred Magic of Abramelin the Mage

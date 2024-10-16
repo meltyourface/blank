@@ -1,6 +1,6 @@
 ---
 id: 4b31fb86-992c-4160-9e5b-397f6477b0e1
-title: 'Exploring Kabbalah\''s Tree of Life: Divine Connections and Spiritual Growth'
+title: "Exploring Kabbalah's Tree of Life: Divine Connections and Spiritual Growth"
 permalink: /Kabbalistic-Mysticism/Exploring-Kabbalahs-Tree-of-Life-Divine-Connections-and-Spiritual-Growth/
 categories:
   - Kabbalistic Mysticism

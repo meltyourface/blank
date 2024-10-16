@@ -1,6 +1,6 @@
 ---
 id: 92860372-f5c0-427c-9d9f-f3fa14b9db54
-title: 'Exploring Sexual Magick: Crowley\''s Practices for Divine Connection'
+title: "Exploring Sexual Magick: Crowley's Practices for Divine Connection"
 permalink: /Aleister-Crowleys-sexual-magick/Exploring-Sexual-Magick-Crowleys-Practices-for-Divine-Connection/
 categories:
   - Aleister Crowley's sexual magick

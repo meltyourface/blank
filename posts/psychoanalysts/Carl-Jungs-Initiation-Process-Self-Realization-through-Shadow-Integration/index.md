@@ -1,6 +1,6 @@
 ---
 id: e37e5241-75a5-4eda-89a1-26d133d01d6a
-title: 'Carl Jung\''s Initiation Process: Self-Realization through Shadow Integration'
+title: "Carl Jung's Initiation Process: Self-Realization through Shadow Integration"
 permalink: /psychoanalysts/Carl-Jungs-Initiation-Process-Self-Realization-through-Shadow-Integration/
 categories:
   - psychoanalysts

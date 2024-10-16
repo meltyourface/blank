@@ -1,6 +1,6 @@
 ---
 id: bae52c8e-db54-433f-85ea-05551bf00684
-title: 'Alchemical Self-Discovery: The Emerald Tablet\''s Path to Personal Transformation'
+title: "Alchemical Self-Discovery: The Emerald Tablet's Path to Personal Transformation"
 permalink: /Inquiry-into-self/Alchemical-Self-Discovery-The-Emerald-Tablets-Path-to-Personal-Transformation/
 categories:
   - Inquiry into self

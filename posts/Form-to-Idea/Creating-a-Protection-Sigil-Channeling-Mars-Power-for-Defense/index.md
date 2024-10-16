@@ -1,6 +1,6 @@
 ---
 id: 238b4b67-f056-4955-b38d-9e3e20efebc8
-title: 'Creating a Protection Sigil: Channeling Mars\'' Power for Defense'
+title: "Creating a Protection Sigil: Channeling Mars' Power for Defense"
 permalink: /Form-to-Idea/Creating-a-Protection-Sigil-Channeling-Mars-Power-for-Defense/
 categories:
   - Form to Idea

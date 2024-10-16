@@ -1,6 +1,6 @@
 ---
 id: 978d74c4-1441-49b5-9bcf-78a0142465d3
-title: 'Allegory: Mimir\''s Head, Yggdrasil, & Transcendent Knowledge'
+title: "Allegory: Mimir's Head, Yggdrasil, & Transcendent Knowledge"
 permalink: /Re-interpretation-of-Mimir/Allegory-Mimirs-Head-Yggdrasil-Transcendent-Knowledge/
 categories:
   - Re-interpretation of Mimir

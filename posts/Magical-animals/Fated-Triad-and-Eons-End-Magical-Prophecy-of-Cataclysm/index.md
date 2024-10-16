@@ -1,6 +1,6 @@
 ---
 id: e2ddf6d6-5d70-4fb3-903c-233a2c486a9d
-title: 'Fated Triad and Eon\''s End: Magical Prophecy of Cataclysm'
+title: "Fated Triad and Eon's End: Magical Prophecy of Cataclysm"
 permalink: /Magical-animals/Fated-Triad-and-Eons-End-Magical-Prophecy-of-Cataclysm/
 categories:
   - Magical animals

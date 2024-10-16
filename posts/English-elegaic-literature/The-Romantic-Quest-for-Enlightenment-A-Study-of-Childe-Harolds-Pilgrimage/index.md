@@ -1,6 +1,6 @@
 ---
 id: 4763e40c-4a51-4843-b49d-90def5d11793
-title: 'The Romantic Quest for Enlightenment: A Study of Childe Harold\''s Pilgrimage'
+title: "The Romantic Quest for Enlightenment: A Study of Childe Harold's Pilgrimage"
 permalink: /English-elegaic-literature/The-Romantic-Quest-for-Enlightenment-A-Study-of-Childe-Harolds-Pilgrimage/
 categories:
   - English elegaic literature

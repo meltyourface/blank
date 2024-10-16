@@ -1,6 +1,6 @@
 ---
 id: 9d19b4a2-3df7-4d80-a4ab-068bd645eacb
-title: 'Old Norse Mythology: Prophecies, Sacrifice, and Gods\'' Symbolism'
+title: "Old Norse Mythology: Prophecies, Sacrifice, and Gods' Symbolism"
 permalink: /Old-Religion-of-Europe/Old-Norse-Mythology-Prophecies-Sacrifice-and-Gods-Symbolism/
 categories:
   - Old Religion of Europe

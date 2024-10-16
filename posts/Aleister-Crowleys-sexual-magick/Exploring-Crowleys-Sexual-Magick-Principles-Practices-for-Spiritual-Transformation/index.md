@@ -1,7 +1,6 @@
 ---
 id: 44fd022a-a7c6-4144-ae69-13887c0e2592
-title: 'Exploring Crowley\''s Sexual Magick: Principles & Practices for Spiritual
-  Transformation'
+title: "Exploring Crowley's Sexual Magick: Principles & Practices for Spiritual Transformation"
 permalink: /Aleister-Crowleys-sexual-magick/Exploring-Crowleys-Sexual-Magick-Principles-Practices-for-Spiritual-Transformation/
 categories:
   - Aleister Crowley's sexual magick

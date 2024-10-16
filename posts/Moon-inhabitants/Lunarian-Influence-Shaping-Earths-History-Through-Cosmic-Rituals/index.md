@@ -1,6 +1,6 @@
 ---
 id: df9651c7-525c-464f-aaa6-86a1a9783257
-title: 'Lunarian Influence: Shaping Earth\''s History Through Cosmic Rituals'
+title: "Lunarian Influence: Shaping Earth's History Through Cosmic Rituals"
 permalink: /Moon-inhabitants/Lunarian-Influence-Shaping-Earths-History-Through-Cosmic-Rituals/
 categories:
   - Moon inhabitants

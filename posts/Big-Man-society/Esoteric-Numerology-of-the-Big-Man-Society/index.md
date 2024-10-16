@@ -1,6 +1,6 @@
 ---
 id: ddf44765-8756-46db-a945-672050905fc0
-title: "Esoteric Numerology of the \''Big Man\'' Society"
+title: "Esoteric Numerology of the \''Big Man' Society"
 permalink: /Big-Man-society/Esoteric-Numerology-of-the-Big-Man-Society/
 categories:
   - '''Big Man'' society'

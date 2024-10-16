@@ -1,6 +1,6 @@
 ---
 id: 7fd8a253-470e-4d02-919c-3a9b91444a7d
-title: 'Exploring Old Shuck: The Phantom Hound\''s Lore, History, and Esoteric Significance'
+title: "Exploring Old Shuck: The Phantom Hound's Lore, History, and Esoteric Significance"
 permalink: /Old-Shuck/Exploring-Old-Shuck-The-Phantom-Hounds-Lore-History-and-Esoteric-Significance/
 categories:
   - Old Shuck

@@ -1,6 +1,6 @@
 ---
 id: e815f56f-3c06-447f-a807-2521e7eb55dd
-title: 'Exploring Rebel Powers: Lucifer\''s Fall Across Theology, Mythology, and Psychology'
+title: "Exploring Rebel Powers: Lucifer's Fall Across Theology, Mythology, and Psychology"
 permalink: /Rebel-powers/Exploring-Rebel-Powers-Lucifers-Fall-Across-Theology-Mythology-and-Psychology/
 categories:
   - Rebel powers

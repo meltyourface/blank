@@ -1,6 +1,6 @@
 ---
 id: d4cc72e6-f5ff-405d-9b36-d0987e1b0d5d
-title: 'Occult Rituals in Swamps: Harnessing Nature\''s Mysteries'
+title: "Occult Rituals in Swamps: Harnessing Nature's Mysteries"
 permalink: /Murky-swamps/Occult-Rituals-in-Swamps-Harnessing-Natures-Mysteries/
 categories:
   - Murky swamps

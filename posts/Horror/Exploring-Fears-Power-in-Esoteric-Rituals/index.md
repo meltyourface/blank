@@ -1,6 +1,6 @@
 ---
 id: 48c2d9a8-17c3-4097-aed6-2589b2fc4afa
-title: "Exploring Fear\''s Power in Esoteric Rituals"
+title: "Exploring Fear's Power in Esoteric Rituals"
 permalink: /Horror/Exploring-Fears-Power-in-Esoteric-Rituals/
 categories:
   - Horror

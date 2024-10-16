@@ -1,6 +1,6 @@
 ---
 id: 98d33939-ce44-4f5a-b94d-f3a7bddc9845
-title: 'Occult Engineering: Blending Esoteric Techniques with Newton\''s Laws'
+title: "Occult Engineering: Blending Esoteric Techniques with Newton's Laws"
 permalink: /Motion/Occult-Engineering-Blending-Esoteric-Techniques-with-Newtons-Laws/
 categories:
   - Motion

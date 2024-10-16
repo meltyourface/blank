@@ -1,6 +1,6 @@
 ---
 id: 7b776c55-1ed0-4cb7-9520-3a7e5332fd6e
-title: 'Exploring John Dee\''s Angelic Magic: A Comprehensive Guide'
+title: "Exploring John Dee's Angelic Magic: A Comprehensive Guide"
 permalink: /Angelic-work-of-John-Dee/Exploring-John-Dees-Angelic-Magic-A-Comprehensive-Guide/
 categories:
   - Angelic work of John Dee

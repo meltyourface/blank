@@ -1,7 +1,6 @@
 ---
 id: be5a0530-9247-4711-9754-2771dc0cd971
-title: '"Reinterpreting Lee Morgan\''s \''Sidewinder\'' Lick: Esoteric and Occult
-  Elements"'
+title: ""Reinterpreting Lee Morgan\''s 'Sidewinder' Lick: Esoteric and Occult Elements""
 permalink: /Lee-Morgan/Reinterpreting-Lee-Morgans-Sidewinder-Lick-Esoteric-and-Occult-Elements/
 categories:
   - Lee Morgan

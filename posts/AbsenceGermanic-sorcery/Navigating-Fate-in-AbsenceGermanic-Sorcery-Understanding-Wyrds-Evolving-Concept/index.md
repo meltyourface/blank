@@ -1,7 +1,6 @@
 ---
 id: cb91df7e-c519-4c39-acdd-1b46f5da5013
-title: 'Navigating Fate in AbsenceGermanic Sorcery: Understanding Wyrd\''s Evolving
-  Concept'
+title: "Navigating Fate in AbsenceGermanic Sorcery: Understanding Wyrd's Evolving Concept"
 permalink: /AbsenceGermanic-sorcery/Navigating-Fate-in-AbsenceGermanic-Sorcery-Understanding-Wyrds-Evolving-Concept/
 categories:
   - AbsenceGermanic sorcery

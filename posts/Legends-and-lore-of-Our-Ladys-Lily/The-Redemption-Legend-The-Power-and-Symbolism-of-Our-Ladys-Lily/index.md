@@ -1,6 +1,6 @@
 ---
 id: 2b2c2044-44cf-4053-87ae-8e22f78434ef
-title: '"The Redemption Legend: The Power and Symbolism of Our Lady\''s Lily"'
+title: ""The Redemption Legend: The Power and Symbolism of Our Lady's Lily""
 permalink: /Legends-and-lore-of-Our-Ladys-Lily/The-Redemption-Legend-The-Power-and-Symbolism-of-Our-Ladys-Lily/
 categories:
   - Legends and lore of Our Lady's Lily

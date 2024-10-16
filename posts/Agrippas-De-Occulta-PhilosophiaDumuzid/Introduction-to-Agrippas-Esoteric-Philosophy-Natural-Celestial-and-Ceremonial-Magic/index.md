@@ -1,7 +1,6 @@
 ---
 id: 06151b73-4399-458a-9fac-457e2d6ba036
-title: 'Introduction to Agrippa\''s Esoteric Philosophy: Natural, Celestial, and Ceremonial
-  Magic'
+title: "Introduction to Agrippa's Esoteric Philosophy: Natural, Celestial, and Ceremonial Magic"
 permalink: /Agrippas-De-Occulta-PhilosophiaDumuzid/Introduction-to-Agrippas-Esoteric-Philosophy-Natural-Celestial-and-Ceremonial-Magic/
 categories:
   - Agrippa's De Occulta PhilosophiaDumuzid

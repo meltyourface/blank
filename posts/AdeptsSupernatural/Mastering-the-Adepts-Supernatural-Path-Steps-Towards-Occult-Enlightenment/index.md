@@ -1,6 +1,6 @@
 ---
 id: 482cd75a-f546-46da-b143-c0e4533108eb
-title: '"Mastering the Adept\''s Supernatural Path: Steps Towards Occult Enlightenment"'
+title: ""Mastering the Adept's Supernatural Path: Steps Towards Occult Enlightenment""
 permalink: /AdeptsSupernatural/Mastering-the-Adepts-Supernatural-Path-Steps-Towards-Occult-Enlightenment/
 categories:
   - AdeptsSupernatural

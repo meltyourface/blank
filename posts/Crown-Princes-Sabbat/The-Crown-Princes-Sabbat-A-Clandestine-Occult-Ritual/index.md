@@ -1,6 +1,6 @@
 ---
 id: fd85a606-d3f7-40aa-9a6f-7922b58d6030
-title: 'The Crown Prince\''s Sabbat: A Clandestine Occult Ritual'
+title: "The Crown Prince's Sabbat: A Clandestine Occult Ritual"
 permalink: /Crown-Princes-Sabbat/The-Crown-Princes-Sabbat-A-Clandestine-Occult-Ritual/
 categories:
   - Crown Prince's Sabbat

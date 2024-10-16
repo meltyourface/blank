@@ -1,6 +1,6 @@
 ---
 id: b2f51967-6c2d-459b-95cc-1dce3986176b
-title: 'Alchemical Transformation: The Tale of Circe\''s Spiritual Evolution'
+title: "Alchemical Transformation: The Tale of Circe's Spiritual Evolution"
 permalink: /Kirke/Alchemical-Transformation-The-Tale-of-Circes-Spiritual-Evolution/
 categories:
   - Kirke

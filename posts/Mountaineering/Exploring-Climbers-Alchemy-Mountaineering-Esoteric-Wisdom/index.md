@@ -1,6 +1,6 @@
 ---
 id: e742fdbc-e90e-4f01-b1b9-a2fad9d763b7
-title: 'Exploring Climber\''s Alchemy: Mountaineering & Esoteric Wisdom'
+title: "Exploring Climber's Alchemy: Mountaineering & Esoteric Wisdom"
 permalink: /Mountaineering/Exploring-Climbers-Alchemy-Mountaineering-Esoteric-Wisdom/
 categories:
   - Mountaineering

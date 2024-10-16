@@ -1,6 +1,6 @@
 ---
 id: aff687e7-db01-4b1e-9f98-c58440b3b56f
-title: 'Entheogenic Witches\'' Flying Ointment: Historical and Ritual Use'
+title: "Entheogenic Witches' Flying Ointment: Historical and Ritual Use"
 permalink: /Entheogenic-Witches-Flying-Ointment/Entheogenic-Witches-Flying-Ointment-Historical-and-Ritual-Use/
 categories:
   - Entheogenic Witches Flying Ointment

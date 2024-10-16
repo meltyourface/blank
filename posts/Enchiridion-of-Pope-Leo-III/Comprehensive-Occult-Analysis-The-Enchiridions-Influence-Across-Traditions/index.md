@@ -1,6 +1,6 @@
 ---
 id: 81153e7e-f803-4327-afb6-378f16b12e0d
-title: 'Comprehensive Occult Analysis: The Enchiridion\''s Influence Across Traditions'
+title: "Comprehensive Occult Analysis: The Enchiridion's Influence Across Traditions"
 permalink: /Enchiridion-of-Pope-Leo-III/Comprehensive-Occult-Analysis-The-Enchiridions-Influence-Across-Traditions/
 categories:
   - Enchiridion of Pope Leo III

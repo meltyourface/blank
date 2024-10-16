@@ -1,6 +1,6 @@
 ---
 id: b8c596a1-ae47-489e-937d-79ba6d83c16a
-title: 'Dante\''s Allegorical Journey: Holy Alchemy in The Divine Comedy'
+title: "Dante's Allegorical Journey: Holy Alchemy in The Divine Comedy"
 permalink: /Holy-Alchemy/Dantes-Allegorical-Journey-Holy-Alchemy-in-The-Divine-Comedy/
 categories:
   - Holy Alchemy

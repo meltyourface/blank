@@ -1,6 +1,6 @@
 ---
 id: 783dd3d3-d6ab-40a3-9695-925225870827
-title: 'Lovecraft\''s Cosmicism: Exploring Humanity\''s Insignificance in the Universe'
+title: "Lovecraft's Cosmicism: Exploring Humanity's Insignificance in the Universe"
 permalink: /Lovecrafts-philosophical-thought/Lovecrafts-Cosmicism-Exploring-Humanitys-Insignificance-in-the-Universe/
 categories:
   - Lovecrafts philosophical thought

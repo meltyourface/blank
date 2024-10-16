@@ -1,6 +1,6 @@
 ---
 id: 28b6ba2d-eb5d-46a0-9b36-ba6872365612
-title: 'The Slumbering Alchemist: A Phantom\''s Lament'
+title: "The Slumbering Alchemist: A Phantom's Lament"
 permalink: /Graveyards/The-Slumbering-Alchemist-A-Phantoms-Lament/
 categories:
   - Graveyards

@@ -1,6 +1,6 @@
 ---
 id: 40f1e65d-599a-4037-952f-c08c5df43319
-title: 'Saturnalia: Exploring Saturn\''s Influence on Human Evolution and Social Harmony'
+title: "Saturnalia: Exploring Saturn's Influence on Human Evolution and Social Harmony"
 permalink: /Cult-of-Saturn/Saturnalia-Exploring-Saturns-Influence-on-Human-Evolution-and-Social-Harmony/
 categories:
   - Cult of Saturn

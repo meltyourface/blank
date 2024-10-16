@@ -1,6 +1,6 @@
 ---
 id: 6883150d-0ea9-46e5-9ace-9eafde7e85d5
-title: 'Historical Analysis: Entheogenic Witches\'' Flying Ointments and Their Impact'
+title: "Historical Analysis: Entheogenic Witches' Flying Ointments and Their Impact"
 permalink: /Entheogenic-Witches-Flying-Ointment/Historical-Analysis-Entheogenic-Witches-Flying-Ointments-and-Their-Impact/
 categories:
   - Entheogenic Witches' 'Flying Ointment'

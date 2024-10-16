@@ -1,6 +1,6 @@
 ---
 id: 539cbd3f-7e56-4bbe-8f62-25ddddfac9e6
-title: 'Alternate History: John Dee\''s Global Utopian Society Based on Occultism'
+title: "Alternate History: John Dee's Global Utopian Society Based on Occultism"
 permalink: /exploration-of-things-that-never-happened/Alternate-History-John-Dees-Global-Utopian-Society-Based-on-Occultism/
 categories:
   - exploration of things that never happened

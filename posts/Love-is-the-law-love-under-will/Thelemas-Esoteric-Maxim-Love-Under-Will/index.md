@@ -1,6 +1,6 @@
 ---
 id: 7abaf015-09b9-4110-96ab-a9ddd32109de
-title: 'Thelema\''s Esoteric Maxim: Love Under Will'
+title: "Thelema's Esoteric Maxim: Love Under Will"
 permalink: /Love-is-the-law-love-under-will/Thelemas-Esoteric-Maxim-Love-Under-Will/
 categories:
   - Love is the law, love under will

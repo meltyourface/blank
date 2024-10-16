@@ -1,6 +1,6 @@
 ---
 id: 420e52f8-b3ea-4d1a-83ab-68e20fcec81e
-title: 'Active vs Passive Nihilism: Two Responses to Life\''s Meaninglessness'
+title: "Active vs Passive Nihilism: Two Responses to Life's Meaninglessness"
 permalink: /Active-and-passive-nihilism/Active-vs-Passive-Nihilism-Two-Responses-to-Lifes-Meaninglessness/
 categories:
   - Active and passive nihilism

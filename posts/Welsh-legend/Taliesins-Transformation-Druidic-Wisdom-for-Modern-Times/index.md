@@ -1,6 +1,6 @@
 ---
 id: 7abaec2f-03e2-4b04-be6f-e56b1a3364d5
-title: "Taliesin\''s Transformation: Druidic Wisdom for Modern Times"
+title: "Taliesin's Transformation: Druidic Wisdom for Modern Times"
 permalink: /Welsh-legend/Taliesins-Transformation-Druidic-Wisdom-for-Modern-Times/
 categories:
   - Welsh legend

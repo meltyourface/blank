@@ -1,7 +1,6 @@
 ---
 id: 986e05a6-a062-4ff8-926f-71cf71d14e41
-title: 'Exploring Transformative Divinity in Art: From Raphael\''s Transfiguration
-  to Kahlo\''s Broken Column'
+title: "Exploring Transformative Divinity in Art: From Raphael's Transfiguration to Kahlo\"'s Broken Column'
 permalink: /Ecstatic-God/Exploring-Transformative-Divinity-in-Art-From-Raphaels-Transfiguration-to-Kahlos-Broken-Column/
 categories:
   - Ecstatic God

@@ -1,7 +1,6 @@
 ---
 id: 7219ba5c-5b9e-4af9-b580-06d4f210c0b9
-title: 'The Formula of Baphomet in O.T.O.\''s Ninth Degree: Sex Magick and Divine
-  Union'
+title: "The Formula of Baphomet in O.T.O.'s Ninth Degree: Sex Magick and Divine Union"
 permalink: /IX-of-the-ORDO-TEMPLI-ORIENTIS/The-Formula-of-Baphomet-in-OTOs-Ninth-Degree-Sex-Magick-and-Divine-Union/
 categories:
   - IX of the ORDO TEMPLI ORIENTIS

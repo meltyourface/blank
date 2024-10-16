@@ -1,7 +1,6 @@
 ---
 id: 4cf9b82d-f1d3-45fb-ad4e-939acc35fa9e
-title: 'Nidhogg, Yggdrasil, and the Regeneration Cycle: Navigating Ragnarok\''s Challenges
-  through Individual Transformation and Collective Enlightenment'
+title: "Nidhogg, Yggdrasil, and the Regeneration Cycle: Navigating Ragnarok's Challenges through Individual Transformation and Collective Enlightenment"
 permalink: /Surviving-Ragnarok/Nidhogg-Yggdrasil-and-the-Regeneration-Cycle-Navigating-Ragnaroks-Challenges-through-Individual-Tran/
 categories:
   - Surviving Ragnarok

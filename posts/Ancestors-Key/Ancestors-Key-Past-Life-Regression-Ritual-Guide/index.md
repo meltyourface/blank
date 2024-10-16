@@ -1,6 +1,6 @@
 ---
 id: 506a7eda-76c0-405b-8015-95c7e4a30b75
-title: 'Ancestors\'' Key: Past Life Regression Ritual Guide'
+title: "Ancestors' Key: Past Life Regression Ritual Guide"
 permalink: /Ancestors-Key/Ancestors-Key-Past-Life-Regression-Ritual-Guide/
 categories:
   - Ancestors' Key

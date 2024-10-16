@@ -1,6 +1,6 @@
 ---
 id: a78fdcb9-729e-471e-a7a8-8119b9c800ef
-title: 'Esoteric Understanding and Practices: Humanity\''s Spiritual Growth'
+title: "Esoteric Understanding and Practices: Humanity's Spiritual Growth"
 permalink: /Humanity/Esoteric-Understanding-and-Practices-Humanitys-Spiritual-Growth/
 categories:
   - Humanity

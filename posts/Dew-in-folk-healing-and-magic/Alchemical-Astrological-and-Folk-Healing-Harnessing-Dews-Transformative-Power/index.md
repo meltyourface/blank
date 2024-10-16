@@ -1,7 +1,6 @@
 ---
 id: 905e529e-1e5c-4ccf-a97b-c37fa27f1785
-title: 'Alchemical, Astrological, and Folk Healing: Harnessing Dew\''s Transformative
-  Power'
+title: "Alchemical, Astrological, and Folk Healing: Harnessing Dew's Transformative Power"
 permalink: /Dew-in-folk-healing-and-magic/Alchemical-Astrological-and-Folk-Healing-Harnessing-Dews-Transformative-Power/
 categories:
   - Dew in folk healing and magic

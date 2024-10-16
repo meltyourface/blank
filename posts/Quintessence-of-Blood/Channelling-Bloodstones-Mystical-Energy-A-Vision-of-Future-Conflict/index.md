@@ -1,6 +1,6 @@
 ---
 id: d09708c4-b125-4eab-8308-65078eb18a90
-title: '"Channelling Bloodstone\''s Mystical Energy: A Vision of Future Conflict"'
+title: ""Channelling Bloodstone's Mystical Energy: A Vision of Future Conflict""
 permalink: /Quintessence-of-Blood/Channelling-Bloodstones-Mystical-Energy-A-Vision-of-Future-Conflict/
 categories:
   - Quintessence of Blood

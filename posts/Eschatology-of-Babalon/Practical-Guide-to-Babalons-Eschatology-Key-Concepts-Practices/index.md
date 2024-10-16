@@ -1,6 +1,6 @@
 ---
 id: 9fc815d7-4a15-4814-a780-1498bd455308
-title: 'Practical Guide to Babalon\''s Eschatology: Key Concepts & Practices'
+title: "Practical Guide to Babalon's Eschatology: Key Concepts & Practices"
 permalink: /Eschatology-of-Babalon/Practical-Guide-to-Babalons-Eschatology-Key-Concepts-Practices/
 categories:
   - Eschatology of Babalon

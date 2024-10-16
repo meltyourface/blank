@@ -1,6 +1,6 @@
 ---
 id: 58cc01a5-26c8-4b70-bdc7-717ad3fbb806
-title: 'Esoteric Exploration: Aleister Crowley\''s A.A. & O.T.O. Rituals & Teachings'
+title: "Esoteric Exploration: Aleister Crowley's A.A. & O.T.O. Rituals & Teachings"
 permalink: /Aleister-Crowleys-occult-fraternities-AA-and-OTO/Esoteric-Exploration-Aleister-Crowleys-AA-OTO-Rituals-Teachings/
 categories:
   - Aleister Crowley's occult fraternities (A.A. and O.T.O.)

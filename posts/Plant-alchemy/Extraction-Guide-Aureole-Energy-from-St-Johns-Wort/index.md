@@ -1,6 +1,6 @@
 ---
 id: 54e973e8-4289-45b8-92f5-5be9ceaa3819
-title: 'Extraction Guide: Aureole Energy from St. John\''s Wort'
+title: "Extraction Guide: Aureole Energy from St. John's Wort"
 permalink: /Plant-alchemy/Extraction-Guide-Aureole-Energy-from-St-Johns-Wort/
 categories:
   - Plant alchemy

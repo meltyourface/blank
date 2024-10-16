@@ -1,6 +1,6 @@
 ---
 id: dd4c465c-0d15-43e8-a759-84dbfae43f29
-title: 'Esotericism\''s Roots: Gnosticism, Hermeticism, and Golden Dawn'
+title: "Esotericism's Roots: Gnosticism, Hermeticism, and Golden Dawn"
 permalink: /Religious-and-societal-movements/Esotericisms-Roots-Gnosticism-Hermeticism-and-Golden-Dawn/
 categories:
   - Religious and societal movements

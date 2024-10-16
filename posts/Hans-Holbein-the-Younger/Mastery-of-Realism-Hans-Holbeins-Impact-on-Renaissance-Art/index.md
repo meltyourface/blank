@@ -1,6 +1,6 @@
 ---
 id: d486b100-22fa-4dae-ad85-31e7189bd64a
-title: 'Mastery of Realism: Hans Holbein\''s Impact on Renaissance Art'
+title: "Mastery of Realism: Hans Holbein's Impact on Renaissance Art"
 permalink: /Hans-Holbein-the-Younger/Mastery-of-Realism-Hans-Holbeins-Impact-on-Renaissance-Art/
 categories:
   - Hans Holbein the Younger

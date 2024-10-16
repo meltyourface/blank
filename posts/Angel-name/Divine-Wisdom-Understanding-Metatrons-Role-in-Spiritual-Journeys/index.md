@@ -1,6 +1,6 @@
 ---
 id: 4e1a7a89-754e-441a-892a-7f490b17836d
-title: 'Divine Wisdom: Understanding Metatron\''s Role in Spiritual Journeys'
+title: "Divine Wisdom: Understanding Metatron's Role in Spiritual Journeys"
 permalink: /Angel-name/Divine-Wisdom-Understanding-Metatrons-Role-in-Spiritual-Journeys/
 categories:
   - Angel name

@@ -1,6 +1,6 @@
 ---
 id: 05cb03c7-8e52-4c76-af83-a33e4fa461a2
-title: 'Thelemic Will vs. Hindu Dharma: Aligning with One\''s True Path'
+title: "Thelemic Will vs. Hindu Dharma: Aligning with One's True Path"
 permalink: /The-Book-of-the-Law/Thelemic-Will-vs-Hindu-Dharma-Aligning-with-Ones-True-Path/
 categories:
   - The Book of the Law

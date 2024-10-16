@@ -1,6 +1,6 @@
 ---
 id: f5ece464-e72d-4cfe-9756-04991bdbe6a2
-title: 'Navigating Personal Growth: The Labyrinth and Ariadne\''s Thread'
+title: "Navigating Personal Growth: The Labyrinth and Ariadne's Thread"
 permalink: /Ariadnes-thread/Navigating-Personal-Growth-The-Labyrinth-and-Ariadnes-Thread/
 categories:
   - Ariadnes thread

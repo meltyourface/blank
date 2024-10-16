@@ -1,6 +1,6 @@
 ---
 id: d9db3d55-b2da-4ef0-a2af-486a53946256
-title: 'Unraveling Odin\''s Wisdom: Magic, Runes & Norse Mythology'
+title: "Unraveling Odin's Wisdom: Magic, Runes & Norse Mythology"
 permalink: /Odin/Unraveling-Odins-Wisdom-Magic-Runes-Norse-Mythology/
 categories:
   - Odin

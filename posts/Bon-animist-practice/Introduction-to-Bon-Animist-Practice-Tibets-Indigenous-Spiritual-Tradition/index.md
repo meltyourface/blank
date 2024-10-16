@@ -1,6 +1,6 @@
 ---
 id: 42e581e4-cc3b-4e0f-a70d-adb008822679
-title: 'Introduction to Bon Animist Practice: Tibet\''s Indigenous Spiritual Tradition'
+title: "Introduction to Bon Animist Practice: Tibet's Indigenous Spiritual Tradition"
 permalink: /Bon-animist-practice/Introduction-to-Bon-Animist-Practice-Tibets-Indigenous-Spiritual-Tradition/
 categories:
   - Bon animist practice

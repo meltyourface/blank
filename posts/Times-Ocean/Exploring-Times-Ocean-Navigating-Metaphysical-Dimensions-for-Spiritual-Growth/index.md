@@ -1,7 +1,6 @@
 ---
 id: 82ee88ab-2200-4b58-bef2-be9345621274
-title: 'Exploring Time\''s Ocean: Navigating Metaphysical Dimensions for Spiritual
-  Growth'
+title: "Exploring Time's Ocean: Navigating Metaphysical Dimensions for Spiritual Growth"
 permalink: /Times-Ocean/Exploring-Times-Ocean-Navigating-Metaphysical-Dimensions-for-Spiritual-Growth/
 categories:
   - Time's Ocean

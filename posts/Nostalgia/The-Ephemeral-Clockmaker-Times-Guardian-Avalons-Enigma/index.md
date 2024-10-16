@@ -1,6 +1,6 @@
 ---
 id: 184ff368-ba9d-4dbb-a10a-4f04740590a7
-title: 'The Ephemeral Clockmaker: Time\''s Guardian & Avalon\''s Enigma'
+title: "The Ephemeral Clockmaker: Time's Guardian & Avalon's Enigma"
 permalink: /Nostalgia/The-Ephemeral-Clockmaker-Times-Guardian-Avalons-Enigma/
 categories:
   - Nostalgia

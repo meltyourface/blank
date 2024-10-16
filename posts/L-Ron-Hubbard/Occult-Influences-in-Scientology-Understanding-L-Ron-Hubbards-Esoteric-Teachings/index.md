@@ -1,7 +1,6 @@
 ---
 id: 568cb64c-c946-4a80-aace-c81bd6c2492f
-title: 'Occult Influences in Scientology: Understanding L. Ron Hubbard\''s Esoteric
-  Teachings'
+title: "Occult Influences in Scientology: Understanding L. Ron Hubbard's Esoteric Teachings"
 permalink: /L-Ron-Hubbard/Occult-Influences-in-Scientology-Understanding-L-Ron-Hubbards-Esoteric-Teachings/
 categories:
   - L Ron Hubbard

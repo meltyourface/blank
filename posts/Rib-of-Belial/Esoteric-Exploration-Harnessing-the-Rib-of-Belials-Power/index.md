@@ -1,6 +1,6 @@
 ---
 id: 934592d1-d90b-4070-8e5f-b038a3437e6c
-title: 'Esoteric Exploration: Harnessing the Rib of Belial\''s Power'
+title: "Esoteric Exploration: Harnessing the Rib of Belial's Power"
 permalink: /Rib-of-Belial/Esoteric-Exploration-Harnessing-the-Rib-of-Belials-Power/
 categories:
   - Rib of Belial

@@ -1,6 +1,6 @@
 ---
 id: abe1a4c3-e8c5-4351-a5f9-4c7ea98306e3
-title: 'Witch\''s Marks: Physical Evidence in Early Modern Witch Trials'
+title: "Witch's Marks: Physical Evidence in Early Modern Witch Trials"
 permalink: /Witchfinder-General/Witchs-Marks-Physical-Evidence-in-Early-Modern-Witch-Trials/
 categories:
   - Witchfinder General

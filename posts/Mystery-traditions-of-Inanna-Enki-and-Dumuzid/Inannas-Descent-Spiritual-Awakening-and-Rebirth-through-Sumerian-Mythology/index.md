@@ -1,6 +1,6 @@
 ---
 id: d68223b4-f9fb-4545-bba2-2dde7e346008
-title: 'Inanna\''s Descent: Spiritual Awakening and Rebirth through Sumerian Mythology'
+title: "Inanna's Descent: Spiritual Awakening and Rebirth through Sumerian Mythology"
 permalink: /Mystery-traditions-of-Inanna-Enki-and-Dumuzid/Inannas-Descent-Spiritual-Awakening-and-Rebirth-through-Sumerian-Mythology/
 categories:
   - Mystery traditions of Inanna, Enki, and Dumuzid

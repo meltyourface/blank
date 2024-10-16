@@ -1,6 +1,6 @@
 ---
 id: 5fecc814-ba5f-49e2-8776-af7e1fd914ff
-title: 'Demiurge, Light & Darkness: A Gnostic Perspective on Plato\''s Cave Allegory'
+title: "Demiurge, Light & Darkness: A Gnostic Perspective on Plato's Cave Allegory"
 permalink: /Demiurge/Demiurge-Light-Darkness-A-Gnostic-Perspective-on-Platos-Cave-Allegory/
 categories:
   - Demiurge

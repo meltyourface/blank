@@ -1,6 +1,6 @@
 ---
 id: 08692ce8-4b0a-43c0-aa8a-5403412e83b0
-title: 'Odin\''s Quest for Wisdom: A Journey Through Norse Mythology'
+title: "Odin's Quest for Wisdom: A Journey Through Norse Mythology"
 permalink: "/\xC3\xC3inns-quest-of-discovery/Odins-Quest-for-Wisdom-A-Journey-Through-Norse-Mythology/"
 categories:
   - "\xC3\u201C\xC3\xB0inn's quest of discovery"

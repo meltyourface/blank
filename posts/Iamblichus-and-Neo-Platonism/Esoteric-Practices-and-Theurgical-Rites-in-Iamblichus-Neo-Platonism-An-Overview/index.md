@@ -1,7 +1,6 @@
 ---
 id: bc966f63-3625-4ff9-9252-48e749ccfe2a
-title: 'Esoteric Practices and Theurgical Rites in Iamblichus\'' Neo-Platonism: An
-  Overview'
+title: "Esoteric Practices and Theurgical Rites in Iamblichus' Neo-Platonism: An Overview"
 permalink: /Iamblichus-and-Neo-Platonism/Esoteric-Practices-and-Theurgical-Rites-in-Iamblichus-Neo-Platonism-An-Overview/
 categories:
   - Iamblichus and Neo-Platonism

@@ -1,6 +1,6 @@
 ---
 id: 19cdb7d3-224a-4204-9840-6103d6bc2754
-title: '"Exploring Black Books: A Guide to European Necromancy\''s History & Practices'
+title: ""Exploring Black Books: A Guide to European Necromancy's History & Practices"
 permalink: /Black-Books-of-European-necromancy/Exploring-Black-Books-A-Guide-to-European-Necromancys-History-Practices/
 categories:
   - Black Books of European necromancy

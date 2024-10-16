@@ -1,6 +1,6 @@
 ---
 id: 282374eb-4684-4991-9305-df04d3eb206f
-title: "Cultural, Historical, and Esoteric Exploration in \''Unbearable Splendor\''"
+title: "Cultural, Historical, and Esoteric Exploration in \''Unbearable Splendor'"
 permalink: /Sun-Yung-Shin/Cultural-Historical-and-Esoteric-Exploration-in-Unbearable-Splendor/
 categories:
   - Sun Yung Shin

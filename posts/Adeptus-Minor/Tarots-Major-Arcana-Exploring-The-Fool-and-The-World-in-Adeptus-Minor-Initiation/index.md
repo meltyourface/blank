@@ -1,7 +1,6 @@
 ---
 id: d29a0433-720d-4cd1-adb3-b811c251ac57
-title: 'Tarot\''s Major Arcana: Exploring The Fool and The World in Adeptus Minor
-  Initiation'
+title: "Tarot's Major Arcana: Exploring The Fool and The World in Adeptus Minor Initiation"
 permalink: /Adeptus-Minor/Tarots-Major-Arcana-Exploring-The-Fool-and-The-World-in-Adeptus-Minor-Initiation/
 categories:
   - Adeptus Minor

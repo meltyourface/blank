@@ -1,6 +1,6 @@
 ---
 id: e88886b4-998d-4120-8367-cc75f7f6ee48
-title: 'Exploring the Soul\''s Hidden Realms: Meditation Techniques for Self-Discovery'
+title: "Exploring the Soul's Hidden Realms: Meditation Techniques for Self-Discovery"
 permalink: /Hidden-landscape-of-the-soul/Exploring-the-Souls-Hidden-Realms-Meditation-Techniques-for-Self-Discovery/
 categories:
   - Hidden landscape of the soul

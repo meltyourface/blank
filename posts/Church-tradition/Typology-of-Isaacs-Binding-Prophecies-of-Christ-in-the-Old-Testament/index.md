@@ -1,6 +1,6 @@
 ---
 id: 356e6ae1-8f3c-49f8-9c13-841b9aac7b8d
-title: 'Typology of Isaac\''s Binding: Prophecies of Christ in the Old Testament'
+title: "Typology of Isaac's Binding: Prophecies of Christ in the Old Testament"
 permalink: /Church-tradition/Typology-of-Isaacs-Binding-Prophecies-of-Christ-in-the-Old-Testament/
 categories:
   - Church tradition

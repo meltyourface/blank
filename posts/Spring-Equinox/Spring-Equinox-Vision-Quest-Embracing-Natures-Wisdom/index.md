@@ -1,6 +1,6 @@
 ---
 id: e96527d6-a5f3-486c-87e2-e953d8e1f80c
-title: 'Spring Equinox Vision Quest: Embracing Nature\''s Wisdom'
+title: "Spring Equinox Vision Quest: Embracing Nature's Wisdom"
 permalink: /Spring-Equinox/Spring-Equinox-Vision-Quest-Embracing-Natures-Wisdom/
 categories:
   - Spring Equinox

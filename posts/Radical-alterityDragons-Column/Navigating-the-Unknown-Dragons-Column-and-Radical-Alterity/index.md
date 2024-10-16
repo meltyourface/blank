@@ -1,6 +1,6 @@
 ---
 id: ed2d81dc-76e4-4c66-ba82-b0965a8b64ef
-title: 'Navigating the Unknown: Dragon\''s Column and Radical Alterity'
+title: "Navigating the Unknown: Dragon's Column and Radical Alterity"
 permalink: /Radical-alterityDragons-Column/Navigating-the-Unknown-Dragons-Column-and-Radical-Alterity/
 categories:
   - Radical alterity.Dragon's Column

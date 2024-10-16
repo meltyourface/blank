@@ -1,6 +1,6 @@
 ---
 id: de2bf50b-3870-466b-958d-acedfc47b71c
-title: '"Rhythmic Innovation in \''Rite of Spring\''"'
+title: ""Rhythmic Innovation in 'Rite of Spring'""
 permalink: /classical-music/Rhythmic-Innovation-in-Rite-of-Spring/
 categories:
   - classical music

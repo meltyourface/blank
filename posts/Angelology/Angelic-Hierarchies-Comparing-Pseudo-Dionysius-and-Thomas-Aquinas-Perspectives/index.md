@@ -1,6 +1,6 @@
 ---
 id: e7cce789-4d58-43f4-8e72-ef29f6b4ae08
-title: '"Angelic Hierarchies: Comparing Pseudo-Dionysius and Thomas Aquinas\'' Perspectives"'
+title: ""Angelic Hierarchies: Comparing Pseudo-Dionysius and Thomas Aquinas' Perspectives""
 permalink: /Angelology/Angelic-Hierarchies-Comparing-Pseudo-Dionysius-and-Thomas-Aquinas-Perspectives/
 categories:
   - Angelology

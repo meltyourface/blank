@@ -1,6 +1,6 @@
 ---
 id: 320d612d-6f87-4d9c-a8a5-23d11b33fa54
-title: 'Influential Occult Pioneers: Blavatsky, Crowley, and Dee\''s Impact on Esotericism'
+title: "Influential Occult Pioneers: Blavatsky, Crowley, and Dee's Impact on Esotericism"
 permalink: /Occult-researchers/Influential-Occult-Pioneers-Blavatsky-Crowley-and-Dees-Impact-on-Esotericism/
 categories:
   - Occult researchers

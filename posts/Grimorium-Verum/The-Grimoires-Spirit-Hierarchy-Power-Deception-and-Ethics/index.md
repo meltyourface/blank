@@ -1,6 +1,6 @@
 ---
 id: 7ad55886-67f7-4a55-bbf1-0c5d424f3801
-title: 'The Grimoire\''s Spirit Hierarchy: Power, Deception, and Ethics'
+title: "The Grimoire's Spirit Hierarchy: Power, Deception, and Ethics"
 permalink: /Grimorium-Verum/The-Grimoires-Spirit-Hierarchy-Power-Deception-and-Ethics/
 categories:
   - Grimorium Verum

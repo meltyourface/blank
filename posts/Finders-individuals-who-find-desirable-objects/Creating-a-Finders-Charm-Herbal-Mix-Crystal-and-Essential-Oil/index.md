@@ -1,6 +1,6 @@
 ---
 id: 5e853e62-9829-45bd-b9f5-b85df20ba518
-title: 'Creating a Finder\''s Charm: Herbal Mix, Crystal, and Essential Oil'
+title: "Creating a Finder's Charm: Herbal Mix, Crystal, and Essential Oil"
 permalink: /Finders-individuals-who-find-desirable-objects/Creating-a-Finders-Charm-Herbal-Mix-Crystal-and-Essential-Oil/
 categories:
   - Finders (individuals who find desirable objects)

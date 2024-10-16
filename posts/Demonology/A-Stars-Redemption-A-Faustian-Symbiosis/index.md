@@ -1,6 +1,6 @@
 ---
 id: 7959a4ed-5e7a-4127-892f-7d43fd4025de
-title: 'A Star\''s Redemption: A Faustian Symbiosis'
+title: "A Star's Redemption: A Faustian Symbiosis"
 permalink: /Demonology/A-Stars-Redemption-A-Faustian-Symbiosis/
 categories:
   - Demonology

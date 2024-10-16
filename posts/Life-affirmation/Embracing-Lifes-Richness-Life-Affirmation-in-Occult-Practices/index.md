@@ -1,6 +1,6 @@
 ---
 id: ef687cf2-86e4-4e02-a67b-3d516ac864af
-title: 'Embracing Life\''s Richness: Life-Affirmation in Occult Practices'
+title: "Embracing Life's Richness: Life-Affirmation in Occult Practices"
 permalink: /Life-affirmation/Embracing-Lifes-Richness-Life-Affirmation-in-Occult-Practices/
 categories:
   - Life-affirmation

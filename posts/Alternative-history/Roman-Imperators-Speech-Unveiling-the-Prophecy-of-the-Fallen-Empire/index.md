@@ -1,6 +1,6 @@
 ---
 id: f30d6e7d-3b7e-42b0-ac0b-a030db5dd0c4
-title: '"Roman Imperator\''s Speech: Unveiling the Prophecy of the Fallen Empire"'
+title: ""Roman Imperator's Speech: Unveiling the Prophecy of the Fallen Empire""
 permalink: /Alternative-history/Roman-Imperators-Speech-Unveiling-the-Prophecy-of-the-Fallen-Empire/
 categories:
   - Alternative history

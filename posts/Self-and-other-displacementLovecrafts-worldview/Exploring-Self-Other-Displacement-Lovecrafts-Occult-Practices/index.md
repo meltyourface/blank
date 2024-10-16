@@ -1,6 +1,6 @@
 ---
 id: 58654d94-a8cf-49ea-b25a-8980777ecf32
-title: 'Exploring Self & Other Displacement: Lovecraft\''s Occult Practices'
+title: "Exploring Self & Other Displacement: Lovecraft's Occult Practices"
 permalink: /Self-and-other-displacementLovecrafts-worldview/Exploring-Self-Other-Displacement-Lovecrafts-Occult-Practices/
 categories:
   - Self and other displacementLovecraft's worldview

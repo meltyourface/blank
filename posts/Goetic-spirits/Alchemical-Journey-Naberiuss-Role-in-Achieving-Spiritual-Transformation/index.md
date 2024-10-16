@@ -1,6 +1,6 @@
 ---
 id: 68ede79a-7d14-4494-905c-c86fba8feee1
-title: 'Alchemical Journey: Naberius\''s Role in Achieving Spiritual Transformation'
+title: "Alchemical Journey: Naberius's Role in Achieving Spiritual Transformation"
 permalink: /Goetic-spirits/Alchemical-Journey-Naberiuss-Role-in-Achieving-Spiritual-Transformation/
 categories:
   - Goetic spirits

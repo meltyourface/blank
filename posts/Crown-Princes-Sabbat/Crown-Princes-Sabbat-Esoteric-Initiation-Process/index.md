@@ -1,6 +1,6 @@
 ---
 id: c8ab2281-e42f-41c2-b78d-8ad8d7b050c0
-title: 'Crown Prince\''s Sabbat: Esoteric Initiation Process'
+title: "Crown Prince's Sabbat: Esoteric Initiation Process"
 permalink: /Crown-Princes-Sabbat/Crown-Princes-Sabbat-Esoteric-Initiation-Process/
 categories:
   - Crown Prince's Sabbat

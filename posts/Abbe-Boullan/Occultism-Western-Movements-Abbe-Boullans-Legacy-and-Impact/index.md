@@ -1,6 +1,6 @@
 ---
 id: 07dbfc4d-7c0f-4669-9c14-a35279678f40
-title: 'Occultism & Western Movements: Abbe Boullan\''s Legacy and Impact'
+title: "Occultism & Western Movements: Abbe Boullan's Legacy and Impact"
 permalink: /Abbe-Boullan/Occultism-Western-Movements-Abbe-Boullans-Legacy-and-Impact/
 categories:
   - Abbe Boullan

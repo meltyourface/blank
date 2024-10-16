@@ -1,7 +1,6 @@
 ---
 id: d375dbd2-e6cc-4f74-b1a1-9dedfa4b02da
-title: 'Four Archangels\'' Roles in Religion & Esotericism: Protection, Communication,
-  Healing, Wisdom'
+title: "Four Archangels' Roles in Religion & Esotericism: Protection, Communication, Healing, Wisdom"
 permalink: /Angel/Four-Archangels-Roles-in-Religion-Esotericism-Protection-Communication-Healing-Wisdom/
 categories:
   - Angel

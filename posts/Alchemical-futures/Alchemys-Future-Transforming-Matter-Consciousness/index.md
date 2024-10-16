@@ -1,6 +1,6 @@
 ---
 id: 0fbedb70-8e72-4400-9bca-35a34b971bd9
-title: 'Alchemy\''s Future: Transforming Matter & Consciousness'
+title: "Alchemy's Future: Transforming Matter & Consciousness"
 permalink: /Alchemical-futures/Alchemys-Future-Transforming-Matter-Consciousness/
 categories:
   - Alchemical futures

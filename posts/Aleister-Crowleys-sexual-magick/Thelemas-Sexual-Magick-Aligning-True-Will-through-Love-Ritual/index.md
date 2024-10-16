@@ -1,6 +1,6 @@
 ---
 id: 76ade5c5-ae00-421f-96df-807ef163c11a
-title: 'Thelema\''s Sexual Magick: Aligning True Will through Love & Ritual'
+title: "Thelema's Sexual Magick: Aligning True Will through Love & Ritual"
 permalink: /Aleister-Crowleys-sexual-magick/Thelemas-Sexual-Magick-Aligning-True-Will-through-Love-Ritual/
 categories:
   - Aleister Crowley's sexual magick

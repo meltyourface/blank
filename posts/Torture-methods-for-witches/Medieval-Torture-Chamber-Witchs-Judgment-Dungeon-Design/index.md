@@ -1,6 +1,6 @@
 ---
 id: af04d586-ceab-4e48-b6e2-f9a497239364
-title: 'Medieval Torture Chamber: Witch\''s Judgment Dungeon Design'
+title: "Medieval Torture Chamber: Witch's Judgment Dungeon Design"
 permalink: /Torture-methods-for-witches/Medieval-Torture-Chamber-Witchs-Judgment-Dungeon-Design/
 categories:
   - Torture methods for witches

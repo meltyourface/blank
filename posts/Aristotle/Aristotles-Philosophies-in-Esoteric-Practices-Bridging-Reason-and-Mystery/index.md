@@ -1,6 +1,6 @@
 ---
 id: 3879de2b-d247-42bb-9453-e274accac217
-title: 'Aristotle\''s Philosophies in Esoteric Practices: Bridging Reason and Mystery'
+title: "Aristotle's Philosophies in Esoteric Practices: Bridging Reason and Mystery"
 permalink: /Aristotle/Aristotles-Philosophies-in-Esoteric-Practices-Bridging-Reason-and-Mystery/
 categories:
   - Aristotle

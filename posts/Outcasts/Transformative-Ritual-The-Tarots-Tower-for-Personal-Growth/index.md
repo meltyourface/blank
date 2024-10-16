@@ -1,6 +1,6 @@
 ---
 id: 2772d28e-2fed-4cf4-9d58-4204697eba12
-title: 'Transformative Ritual: The Tarot\''s Tower for Personal Growth'
+title: "Transformative Ritual: The Tarot's Tower for Personal Growth"
 permalink: /Outcasts/Transformative-Ritual-The-Tarots-Tower-for-Personal-Growth/
 categories:
   - Outcasts

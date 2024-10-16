@@ -1,6 +1,6 @@
 ---
 id: c79c084b-f5bc-4d20-97a7-1ffab1a403d8
-title: "Exploring Jasmine\''s Aphrodisiac Properties in Love Rituals"
+title: "Exploring Jasmine's Aphrodisiac Properties in Love Rituals"
 permalink: /ritual-perfumes/Exploring-Jasmines-Aphrodisiac-Properties-in-Love-Rituals/
 categories:
   - ritual perfumes

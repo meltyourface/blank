@@ -1,6 +1,6 @@
 ---
 id: ed510308-8ad7-4777-b482-efcc44a71887
-title: "Aeson\''s Enlightenment: Cosmic Harmony and the Wisdom of Pythagoras"
+title: "Aeson's Enlightenment: Cosmic Harmony and the Wisdom of Pythagoras"
 permalink: /Mythos-Philosophy/Aesons-Enlightenment-Cosmic-Harmony-and-the-Wisdom-of-Pythagoras/
 categories:
   - Mythos & Philosophy

@@ -1,6 +1,6 @@
 ---
 id: 0a00b436-36e0-41a4-9e95-ecae0c8560c2
-title: '"Exploring the Devil\''s Crown: Demons & Rituals from the Lesser Key of Solomon"'
+title: ""Exploring the Devil's Crown: Demons & Rituals from the Lesser Key of Solomon""
 permalink: /Devils-crown/Exploring-the-Devils-Crown-Demons-Rituals-from-the-Lesser-Key-of-Solomon/
 categories:
   - Devil's crown

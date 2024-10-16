@@ -1,6 +1,6 @@
 ---
 id: b6b0624c-7d63-4dbf-96d3-2edfc1fc952d
-title: 'The Quest for the Aisling\''s Eye: An Odyssey Through Celtic Mythology'
+title: "The Quest for the Aisling's Eye: An Odyssey Through Celtic Mythology"
 permalink: /Manannan-mac-Lir/The-Quest-for-the-Aislings-Eye-An-Odyssey-Through-Celtic-Mythology/
 categories:
   - Manannan mac Lir

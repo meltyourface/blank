@@ -1,6 +1,6 @@
 ---
 id: cae17bf9-1b25-409e-8f6b-011440b16492
-title: '"Agrippa\''s Esoteric Philosophy"'
+title: ""Agrippa's Esoteric Philosophy""
 permalink: /17th-century-prose/Agrippas-Esoteric-Philosophy/
 categories:
   - 17th-century prose

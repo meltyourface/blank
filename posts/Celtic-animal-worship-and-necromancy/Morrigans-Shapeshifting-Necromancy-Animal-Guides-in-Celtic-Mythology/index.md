@@ -1,6 +1,6 @@
 ---
 id: 29475bca-5123-40ed-99ad-f796a91df720
-title: 'Morrigan\''s Shapeshifting: Necromancy & Animal Guides in Celtic Mythology'
+title: "Morrigan's Shapeshifting: Necromancy & Animal Guides in Celtic Mythology"
 permalink: /Celtic-animal-worship-and-necromancy/Morrigans-Shapeshifting-Necromancy-Animal-Guides-in-Celtic-Mythology/
 categories:
   - Celtic animal worship and necromancy

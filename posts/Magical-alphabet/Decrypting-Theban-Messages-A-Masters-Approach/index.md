@@ -1,6 +1,6 @@
 ---
 id: 04b54a44-cbf9-49e7-b509-aaf6fe5ddbb6
-title: 'Decrypting Theban Messages: A Master\''s Approach'
+title: "Decrypting Theban Messages: A Master's Approach"
 permalink: /Magical-alphabet/Decrypting-Theban-Messages-A-Masters-Approach/
 categories:
   - Magical alphabet

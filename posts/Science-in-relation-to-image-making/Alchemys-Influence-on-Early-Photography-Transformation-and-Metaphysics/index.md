@@ -1,6 +1,6 @@
 ---
 id: a97422fc-befa-4e26-99b3-e2417f6b3e89
-title: 'Alchemy\''s Influence on Early Photography: Transformation and Metaphysics'
+title: "Alchemy's Influence on Early Photography: Transformation and Metaphysics"
 permalink: /Science-in-relation-to-image-making/Alchemys-Influence-on-Early-Photography-Transformation-and-Metaphysics/
 categories:
   - Science in relation to image-making

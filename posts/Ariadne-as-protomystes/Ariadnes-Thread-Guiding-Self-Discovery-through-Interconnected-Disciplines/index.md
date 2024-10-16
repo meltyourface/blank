@@ -1,6 +1,6 @@
 ---
 id: 320a283b-7d0f-4bd9-9d15-7e52a1b68678
-title: 'Ariadne\''s Thread: Guiding Self-Discovery through Interconnected Disciplines'
+title: "Ariadne's Thread: Guiding Self-Discovery through Interconnected Disciplines"
 permalink: /Ariadne-as-protomystes/Ariadnes-Thread-Guiding-Self-Discovery-through-Interconnected-Disciplines/
 categories:
   - Ariadne as protomystes

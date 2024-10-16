@@ -1,6 +1,6 @@
 ---
 id: 95bf0fb7-6cd2-4526-8128-566287355362
-title: 'The Fool\''s Journey: Navigating the Alchemical Magnum Opus'
+title: "The Fool's Journey: Navigating the Alchemical Magnum Opus"
 permalink: /Mystery-to-be-solved/The-Fools-Journey-Navigating-the-Alchemical-Magnum-Opus/
 categories:
   - Mystery to be solved

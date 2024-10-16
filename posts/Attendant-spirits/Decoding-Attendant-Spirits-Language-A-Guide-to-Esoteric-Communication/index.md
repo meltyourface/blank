@@ -1,6 +1,6 @@
 ---
 id: 9f19c7c5-c327-4238-a721-de18d86abbc1
-title: 'Decoding Attendant Spirits\'' Language: A Guide to Esoteric Communication'
+title: "Decoding Attendant Spirits' Language: A Guide to Esoteric Communication"
 permalink: /Attendant-spirits/Decoding-Attendant-Spirits-Language-A-Guide-to-Esoteric-Communication/
 categories:
   - Attendant spirits

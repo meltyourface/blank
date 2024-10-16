@@ -1,6 +1,6 @@
 ---
 id: d39dc2ae-0f10-40cd-a30d-16942e70d080
-title: '"Justice and Guilt: Reflections on Society\''s Verdict"'
+title: ""Justice and Guilt: Reflections on Society's Verdict""
 permalink: "/Annette-von-Droste-H\xC3\xBClshoff/Justice-and-Guilt-Reflections-on-Societys-Verdict/"
 categories:
   - "Annette von Droste-H\xC3\xBClshoff"

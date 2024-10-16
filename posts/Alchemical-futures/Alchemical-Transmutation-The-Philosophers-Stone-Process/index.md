@@ -1,6 +1,6 @@
 ---
 id: ce04f819-2ad4-4d38-9353-5273b541adaf
-title: 'Alchemical Transmutation: The Philosopher\''s Stone Process'
+title: "Alchemical Transmutation: The Philosopher's Stone Process"
 permalink: /Alchemical-futures/Alchemical-Transmutation-The-Philosophers-Stone-Process/
 categories:
   - Alchemical futures

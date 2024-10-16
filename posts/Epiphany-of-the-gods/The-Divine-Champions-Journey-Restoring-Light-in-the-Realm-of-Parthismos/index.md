@@ -1,6 +1,6 @@
 ---
 id: 77b8473a-5dfc-43d3-9897-337c4795b772
-title: 'The Divine Champion\''s Journey: Restoring Light in the Realm of Parthismos'
+title: "The Divine Champion's Journey: Restoring Light in the Realm of Parthismos"
 permalink: /Epiphany-of-the-gods/The-Divine-Champions-Journey-Restoring-Light-in-the-Realm-of-Parthismos/
 categories:
   - Epiphany of the gods

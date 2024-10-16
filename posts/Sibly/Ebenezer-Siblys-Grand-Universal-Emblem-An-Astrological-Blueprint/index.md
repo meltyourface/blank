@@ -1,6 +1,6 @@
 ---
 id: ef03190b-9249-45ea-ae5d-150610154c90
-title: 'Ebenezer Sibly\''s "Grand Universal Emblem": An Astrological Blueprint'
+title: "Ebenezer Sibly's "Grand Universal Emblem": An Astrological Blueprint"
 permalink: /Sibly/Ebenezer-Siblys-Grand-Universal-Emblem-An-Astrological-Blueprint/
 categories:
   - Sibly

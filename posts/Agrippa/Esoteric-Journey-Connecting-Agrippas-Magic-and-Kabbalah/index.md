@@ -1,6 +1,6 @@
 ---
 id: 9f631dc8-3ed0-460c-b342-12e5463f0a14
-title: 'Esoteric Journey: Connecting Agrippa\''s Magic and Kabbalah'
+title: "Esoteric Journey: Connecting Agrippa's Magic and Kabbalah"
 permalink: /Agrippa/Esoteric-Journey-Connecting-Agrippas-Magic-and-Kabbalah/
 categories:
   - Agrippa

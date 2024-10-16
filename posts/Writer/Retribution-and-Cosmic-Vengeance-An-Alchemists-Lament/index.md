@@ -1,6 +1,6 @@
 ---
 id: 40e94e94-ce2c-4aa5-a763-9a8065c3b96a
-title: 'Retribution and Cosmic Vengeance: An Alchemist\''s Lament'
+title: "Retribution and Cosmic Vengeance: An Alchemist's Lament"
 permalink: /Writer/Retribution-and-Cosmic-Vengeance-An-Alchemists-Lament/
 categories:
   - Writer

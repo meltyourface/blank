@@ -1,6 +1,6 @@
 ---
 id: ae1ac87b-0240-4e86-a5d9-25795b6d2d1a
-title: "Mnemonic Labyrinth for Solomon\''s Seals"
+title: "Mnemonic Labyrinth for Solomon's Seals"
 permalink: /Crazies/Mnemonic-Labyrinth-for-Solomons-Seals/
 categories:
   - Crazies

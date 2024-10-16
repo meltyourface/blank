@@ -1,6 +1,6 @@
 ---
 id: e8199ea0-88c4-4e69-bc98-0a716db48a92
-title: "The Witches\'' Examination: Inquisitorial Cruelty in Spain"
+title: "The Witches' Examination: Inquisitorial Cruelty in Spain"
 permalink: /Witch-pricking/The-Witches-Examination-Inquisitorial-Cruelty-in-Spain/
 categories:
   - Witch-pricking

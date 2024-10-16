@@ -1,6 +1,6 @@
 ---
 id: 24dd4ded-ccfd-4e7a-8d5e-4467cbaf8903
-title: 'Nefertatem\''s Serpent Virus: Fusing Occultism and Virology'
+title: "Nefertatem's Serpent Virus: Fusing Occultism and Virology"
 permalink: /Noahs-ArkViral-experimentation/Nefertatems-Serpent-Virus-Fusing-Occultism-and-Virology/
 categories:
   - Noah's ArkViral experimentation

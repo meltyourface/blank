@@ -1,6 +1,6 @@
 ---
 id: 61228468-745b-42b3-981e-5064e4cbdf47
-title: 'Esoteric Paths: Connecting Dante\''s Inferno, Qliphoth, & Deadly Sins'
+title: "Esoteric Paths: Connecting Dante's Inferno, Qliphoth, & Deadly Sins"
 permalink: /Hell/Esoteric-Paths-Connecting-Dantes-Inferno-Qliphoth-Deadly-Sins/
 categories:
   - Hell

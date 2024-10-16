@@ -1,6 +1,6 @@
 ---
 id: ddc81386-de27-46bc-8318-16df3a4d8a46
-title: 'Thoth\''s Enigma: Seeking Wisdom Through Sacred Geometry'
+title: "Thoth's Enigma: Seeking Wisdom Through Sacred Geometry"
 permalink: /Greater-Mysteries/Thoths-Enigma-Seeking-Wisdom-Through-Sacred-Geometry/
 categories:
   - Greater Mysteries

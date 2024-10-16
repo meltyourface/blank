@@ -1,6 +1,6 @@
 ---
 id: 061ab2f5-14fc-44aa-a6ad-733a8d7a8f56
-title: "Eirik\''s Journey: Mastering Dark Arts and Redeeming an Infernal Mentor"
+title: "Eirik's Journey: Mastering Dark Arts and Redeeming an Infernal Mentor"
 permalink: /Devil-Odinn/Eiriks-Journey-Mastering-Dark-Arts-and-Redeeming-an-Infernal-Mentor/
 categories:
   - Devil Odinn

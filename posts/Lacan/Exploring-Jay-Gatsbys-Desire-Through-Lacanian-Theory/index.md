@@ -1,6 +1,6 @@
 ---
 id: f3a39982-0278-4846-83a7-39d26f8e03ac
-title: '"Exploring Jay Gatsby\''s Desire Through Lacanian Theory"'
+title: ""Exploring Jay Gatsby's Desire Through Lacanian Theory""
 permalink: /Lacan/Exploring-Jay-Gatsbys-Desire-Through-Lacanian-Theory/
 categories:
   - Lacan

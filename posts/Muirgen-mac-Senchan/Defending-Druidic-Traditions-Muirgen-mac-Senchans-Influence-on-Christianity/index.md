@@ -1,6 +1,6 @@
 ---
 id: 1c4ed051-6b2f-4b77-9d36-b2e1001a99df
-title: 'Defending Druidic Traditions: Muirgen mac Senchan\''s Influence on Christianity'
+title: "Defending Druidic Traditions: Muirgen mac Senchan's Influence on Christianity"
 permalink: /Muirgen-mac-Senchan/Defending-Druidic-Traditions-Muirgen-mac-Senchans-Influence-on-Christianity/
 categories:
   - Muirgen mac Senchan

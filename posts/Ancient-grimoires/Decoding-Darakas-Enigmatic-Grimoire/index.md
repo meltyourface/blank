@@ -1,6 +1,6 @@
 ---
 id: 670dc985-7618-47d1-963f-658594269d04
-title: '"Decoding Daraka\''s Enigmatic Grimoire"'
+title: ""Decoding Daraka's Enigmatic Grimoire""
 permalink: /Ancient-grimoires/Decoding-Darakas-Enigmatic-Grimoire/
 categories:
   - Ancient grimoires

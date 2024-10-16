@@ -1,6 +1,6 @@
 ---
 id: d91fd681-ec46-4564-9f4f-90042a484d1c
-title: '"Sacred Dance Ritual: Enchantress\''s Embrace"'
+title: ""Sacred Dance Ritual: Enchantress's Embrace""
 permalink: /Higher-kingdomsKurukulla/Sacred-Dance-Ritual-Enchantresss-Embrace/
 categories:
   - Higher kingdomsKurukulla

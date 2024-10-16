@@ -1,6 +1,6 @@
 ---
 id: 1bcb4811-0210-4d82-81fe-37511f6b969a
-title: 'The Watching Witches: Herbs, Magic, and Women\''s Power'
+title: "The Watching Witches: Herbs, Magic, and Women's Power"
 permalink: /Watching-witches/The-Watching-Witches-Herbs-Magic-and-Womens-Power/
 categories:
   - Watching witches

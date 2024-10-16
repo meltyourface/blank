@@ -1,6 +1,6 @@
 ---
 id: f1727e74-cae5-4ded-bbb9-08911e6c90eb
-title: 'Nihilism\''s Influence on Literature: A Historical Overview'
+title: "Nihilism's Influence on Literature: A Historical Overview"
 permalink: /Nihilism/Nihilisms-Influence-on-Literature-A-Historical-Overview/
 categories:
   - Nihilism

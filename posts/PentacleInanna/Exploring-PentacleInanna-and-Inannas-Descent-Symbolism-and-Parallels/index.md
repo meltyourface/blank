@@ -1,6 +1,6 @@
 ---
 id: 8f2d1ab7-c24f-4202-810e-ac485d2b2046
-title: 'Exploring PentacleInanna and Inanna\''s Descent: Symbolism and Parallels'
+title: "Exploring PentacleInanna and Inanna's Descent: Symbolism and Parallels"
 permalink: /PentacleInanna/Exploring-PentacleInanna-and-Inannas-Descent-Symbolism-and-Parallels/
 categories:
   - PentacleInanna

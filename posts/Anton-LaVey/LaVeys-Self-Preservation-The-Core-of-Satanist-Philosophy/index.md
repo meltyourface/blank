@@ -1,6 +1,6 @@
 ---
 id: 89bda959-42cd-4ea3-89d3-68509423a778
-title: 'LaVey\''s Self-Preservation: The Core of Satanist Philosophy'
+title: "LaVey's Self-Preservation: The Core of Satanist Philosophy"
 permalink: /Anton-LaVey/LaVeys-Self-Preservation-The-Core-of-Satanist-Philosophy/
 categories:
   - Anton LaVey

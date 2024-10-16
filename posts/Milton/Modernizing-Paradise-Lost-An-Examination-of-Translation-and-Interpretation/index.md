@@ -1,6 +1,6 @@
 ---
 id: 9ccb425e-0269-4528-b51b-e49dd02f1195
-title: '"Modernizing \''Paradise Lost\'': An Examination of Translation and Interpretation"'
+title: ""Modernizing 'Paradise Lost': An Examination of Translation and Interpretation""
 permalink: /Milton/Modernizing-Paradise-Lost-An-Examination-of-Translation-and-Interpretation/
 categories:
   - Milton

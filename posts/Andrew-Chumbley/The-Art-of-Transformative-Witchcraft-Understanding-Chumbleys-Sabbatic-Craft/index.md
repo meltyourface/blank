@@ -1,7 +1,6 @@
 ---
 id: a2f29d77-0691-4041-ba78-f64b13bb9f81
-title: 'The Art of Transformative Witchcraft: Understanding Chumbley\''s Sabbatic
-  Craft'
+title: "The Art of Transformative Witchcraft: Understanding Chumbley's Sabbatic Craft"
 permalink: /Andrew-Chumbley/The-Art-of-Transformative-Witchcraft-Understanding-Chumbleys-Sabbatic-Craft/
 categories:
   - Andrew Chumbley

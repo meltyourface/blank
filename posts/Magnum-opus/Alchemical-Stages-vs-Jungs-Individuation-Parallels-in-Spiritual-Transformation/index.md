@@ -1,6 +1,6 @@
 ---
 id: 49cb1eb7-33aa-488a-a9e3-73a41333b545
-title: 'Alchemical Stages vs. Jung\''s Individuation: Parallels in Spiritual Transformation'
+title: "Alchemical Stages vs. Jung's Individuation: Parallels in Spiritual Transformation"
 permalink: /Magnum-opus/Alchemical-Stages-vs-Jungs-Individuation-Parallels-in-Spiritual-Transformation/
 categories:
   - Magnum opus

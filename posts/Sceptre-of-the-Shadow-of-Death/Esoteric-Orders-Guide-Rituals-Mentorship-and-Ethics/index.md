@@ -1,6 +1,6 @@
 ---
 id: 91aebe12-75e1-4724-9334-f4a5b2cfa930
-title: 'Esoteric Order\''s Guide: Rituals, Mentorship, and Ethics'
+title: "Esoteric Order's Guide: Rituals, Mentorship, and Ethics"
 permalink: /Sceptre-of-the-Shadow-of-Death/Esoteric-Orders-Guide-Rituals-Mentorship-and-Ethics/
 categories:
   - Sceptre of the Shadow of Death

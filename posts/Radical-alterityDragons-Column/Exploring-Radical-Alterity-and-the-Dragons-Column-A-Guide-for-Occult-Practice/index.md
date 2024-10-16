@@ -1,6 +1,6 @@
 ---
 id: f815c135-e71f-4e2c-bf68-7c9447637457
-title: 'Exploring Radical Alterity and the Dragon\''s Column: A Guide for Occult Practice'
+title: "Exploring Radical Alterity and the Dragon's Column: A Guide for Occult Practice"
 permalink: /Radical-alterityDragons-Column/Exploring-Radical-Alterity-and-the-Dragons-Column-A-Guide-for-Occult-Practice/
 categories:
   - Radical alterity.Dragon's Column

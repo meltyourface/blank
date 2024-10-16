@@ -1,6 +1,6 @@
 ---
 id: a809ea1b-408a-4303-b461-645106e43fb3
-title: 'The Tarot\''s Major Arcana: Wisdom and Transformation'
+title: "The Tarot's Major Arcana: Wisdom and Transformation"
 permalink: /Symbolic-images/The-Tarots-Major-Arcana-Wisdom-and-Transformation/
 categories:
   - Symbolic images

@@ -1,6 +1,6 @@
 ---
 id: d17d59f7-9b4e-4e04-a321-86dcd12ef2e5
-title: 'Esoteric Exploration: Red Dragon Grimoire\''s Prime Elements & Celestial Intelligences'
+title: "Esoteric Exploration: Red Dragon Grimoire's Prime Elements & Celestial Intelligences"
 permalink: /Red-Dragon/Esoteric-Exploration-Red-Dragon-Grimoires-Prime-Elements-Celestial-Intelligences/
 categories:
   - Red Dragon

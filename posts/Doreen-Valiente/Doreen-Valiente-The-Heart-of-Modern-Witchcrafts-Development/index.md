@@ -1,6 +1,6 @@
 ---
 id: 6df123ef-e643-4b77-a817-00aa2edc170b
-title: 'Doreen Valiente: The Heart of Modern Witchcraft\''s Development'
+title: "Doreen Valiente: The Heart of Modern Witchcraft's Development"
 permalink: /Doreen-Valiente/Doreen-Valiente-The-Heart-of-Modern-Witchcrafts-Development/
 categories:
   - Doreen Valiente

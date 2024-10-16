@@ -1,6 +1,6 @@
 ---
 id: adb6f93d-3109-47eb-88e5-9af4a1eda1d6
-title: 'Syncretic Entity of Life and Death: Santa Muerte\''s Cultural Evolution'
+title: "Syncretic Entity of Life and Death: Santa Muerte's Cultural Evolution"
 permalink: /Holy-Death/Syncretic-Entity-of-Life-and-Death-Santa-Muertes-Cultural-Evolution/
 categories:
   - Holy Death

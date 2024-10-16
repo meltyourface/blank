@@ -1,7 +1,6 @@
 ---
 id: 6ccd74b3-caa3-4456-ab29-b931798e9219
-title: 'Bridging Spiritual Realms: Merging Kabbalah\''s Tree of Life and Tarot\''s
-  Major Arcana'
+title: "Bridging Spiritual Realms: Merging Kabbalah's Tree of Life and Tarot's Major Arcana"
 permalink: /Communicating-with-spirits/Bridging-Spiritual-Realms-Merging-Kabbalahs-Tree-of-Life-and-Tarots-Major-Arcana/
 categories:
   - Communicating with spirits

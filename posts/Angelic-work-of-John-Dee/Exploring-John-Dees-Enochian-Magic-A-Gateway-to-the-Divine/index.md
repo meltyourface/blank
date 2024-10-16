@@ -1,6 +1,6 @@
 ---
 id: 008e53cb-7966-40df-9996-6e227ad3f0cf
-title: 'Exploring John Dee\''s Enochian Magic: A Gateway to the Divine'
+title: "Exploring John Dee's Enochian Magic: A Gateway to the Divine"
 permalink: /Angelic-work-of-John-Dee/Exploring-John-Dees-Enochian-Magic-A-Gateway-to-the-Divine/
 categories:
   - Angelic work of John Dee

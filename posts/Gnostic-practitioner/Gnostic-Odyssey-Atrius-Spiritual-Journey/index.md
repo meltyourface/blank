@@ -1,6 +1,6 @@
 ---
 id: f23b3738-57a1-40ac-935c-28bfb9f937d5
-title: 'Gnostic Odyssey: Atrius\'' Spiritual Journey'
+title: "Gnostic Odyssey: Atrius' Spiritual Journey"
 permalink: /Gnostic-practitioner/Gnostic-Odyssey-Atrius-Spiritual-Journey/
 categories:
   - Gnostic practitioner

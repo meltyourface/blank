@@ -1,6 +1,6 @@
 ---
 id: 91febf44-4c33-4888-b0c5-1bffc12e1490
-title: 'Derrida\''s Deconstruction: Exploring Esotericism'
+title: "Derrida's Deconstruction: Exploring Esotericism"
 permalink: /Derrida/Derridas-Deconstruction-Exploring-Esotericism/
 categories:
   - Derrida

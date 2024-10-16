@@ -1,7 +1,6 @@
 ---
 id: 2f488b48-1e42-42ad-b804-22fda50aecaa
-title: 'Aleister Crowley\''s Thelema: Uniting Sexual Energy, Higher Self, and Divine
-  Purpose'
+title: "Aleister Crowley's Thelema: Uniting Sexual Energy, Higher Self, and Divine Purpose"
 permalink: /Aleister-Crowleys-sexual-magick/Aleister-Crowleys-Thelema-Uniting-Sexual-Energy-Higher-Self-and-Divine-Purpose/
 categories:
   - Aleister Crowley's sexual magick

@@ -1,7 +1,6 @@
 ---
 id: 857764d6-2cde-4bdb-a9c8-35bd4fa508a0
-title: 'Understanding the Three Aeons: Isis, Osiris, and Horus in Thelema\''s Esoteric
-  Cosmology'
+title: "Understanding the Three Aeons: Isis, Osiris, and Horus in Thelema's Esoteric Cosmology"
 permalink: /Aeons/Understanding-the-Three-Aeons-Isis-Osiris-and-Horus-in-Thelemas-Esoteric-Cosmology/
 categories:
   - Aeons

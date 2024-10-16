@@ -1,7 +1,6 @@
 ---
 id: 9d35da86-2062-4bf1-b146-3604191f552c
-title: '"The Interplay of Horror, Knowledge, and Esotericism in \''The Voice of the
-  Beach\''"'
+title: ""The Interplay of Horror, Knowledge, and Esotericism in 'The Voice of the Beach\"'"'
 permalink: /Ramsey-Campbell/The-Interplay-of-Horror-Knowledge-and-Esotericism-in-The-Voice-of-the-Beach/
 categories:
   - Ramsey Campbell

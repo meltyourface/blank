@@ -1,7 +1,6 @@
 ---
 id: a951ddbe-dd58-42ca-90c5-61bbf40849ba
-title: 'Alchemical Marriage vs Hero\''s Journey: Transformation Through Romance &
-  Adventure'
+title: "Alchemical Marriage vs Hero's Journey: Transformation Through Romance & Adventure"
 permalink: /Adventure-and-romance/Alchemical-Marriage-vs-Heros-Journey-Transformation-Through-Romance-Adventure/
 categories:
   - Adventure and romance

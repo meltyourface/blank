@@ -1,6 +1,6 @@
 ---
 id: 128420f3-df4d-41b4-b4a1-9ff469ca8431
-title: 'Lacanian Analysis: Prufrock\''s Psychological Landscape'
+title: "Lacanian Analysis: Prufrock's Psychological Landscape"
 permalink: /Lacan/Lacanian-Analysis-Prufrocks-Psychological-Landscape/
 categories:
   - Lacan

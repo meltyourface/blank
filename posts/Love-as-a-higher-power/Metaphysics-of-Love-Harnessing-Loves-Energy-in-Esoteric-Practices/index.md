@@ -1,6 +1,6 @@
 ---
 id: 46a81319-3a97-4851-8595-be630def2d7c
-title: 'Metaphysics of Love: Harnessing Love\''s Energy in Esoteric Practices'
+title: "Metaphysics of Love: Harnessing Love's Energy in Esoteric Practices"
 permalink: /Love-as-a-higher-power/Metaphysics-of-Love-Harnessing-Loves-Energy-in-Esoteric-Practices/
 categories:
   - Love as a higher power

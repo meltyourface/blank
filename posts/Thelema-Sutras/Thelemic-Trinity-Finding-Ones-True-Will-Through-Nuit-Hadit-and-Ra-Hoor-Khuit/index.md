@@ -1,6 +1,6 @@
 ---
 id: 67c4e7cc-90de-44d1-995b-a620341fe342
-title: 'Thelemic Trinity: Finding One\''s True Will Through Nuit, Hadit, and Ra-Hoor-Khuit'
+title: "Thelemic Trinity: Finding One's True Will Through Nuit, Hadit, and Ra-Hoor-Khuit"
 permalink: /Thelema-Sutras/Thelemic-Trinity-Finding-Ones-True-Will-Through-Nuit-Hadit-and-Ra-Hoor-Khuit/
 categories:
   - Thelema Sutras

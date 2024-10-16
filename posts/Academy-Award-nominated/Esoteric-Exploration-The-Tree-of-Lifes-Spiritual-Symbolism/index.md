@@ -1,6 +1,6 @@
 ---
 id: 52d4af58-9225-4c27-b319-c7d03c096ef9
-title: 'Esoteric Exploration: The Tree of Life\''s Spiritual Symbolism'
+title: "Esoteric Exploration: The Tree of Life's Spiritual Symbolism"
 permalink: /Academy-Award-nominated/Esoteric-Exploration-The-Tree-of-Lifes-Spiritual-Symbolism/
 categories:
   - Academy Award nominated

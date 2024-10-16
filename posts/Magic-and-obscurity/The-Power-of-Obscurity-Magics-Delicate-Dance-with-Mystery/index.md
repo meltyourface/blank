@@ -1,6 +1,6 @@
 ---
 id: 129f3baa-7e91-4728-a216-b8b424284c7c
-title: 'The Power of Obscurity: Magic\''s Delicate Dance with Mystery'
+title: "The Power of Obscurity: Magic's Delicate Dance with Mystery"
 permalink: /Magic-and-obscurity/The-Power-of-Obscurity-Magics-Delicate-Dance-with-Mystery/
 categories:
   - Magic and obscurity

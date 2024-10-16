@@ -1,6 +1,6 @@
 ---
 id: e33b309a-1df5-4aa0-8a8f-9b31a7c1a50a
-title: 'Pietro d\''Abano: A Renaissance Maverick in Occult Sciences'
+title: "Pietro d'Abano: A Renaissance Maverick in Occult Sciences"
 permalink: /Pietro-dAbano/Pietro-dAbano-A-Renaissance-Maverick-in-Occult-Sciences/
 categories:
   - Pietro dAbano

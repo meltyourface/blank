@@ -1,6 +1,6 @@
 ---
 id: 18546d8a-b53f-4489-aced-3dfcfd70f48a
-title: '"Aisling\''s Journey into the Dream Realm"'
+title: ""Aisling's Journey into the Dream Realm""
 permalink: /Dreaming-Self/Aislings-Journey-into-the-Dream-Realm/
 categories:
   - Dreaming Self

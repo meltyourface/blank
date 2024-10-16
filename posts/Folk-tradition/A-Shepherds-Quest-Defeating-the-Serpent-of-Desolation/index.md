@@ -1,6 +1,6 @@
 ---
 id: 67811c5b-edc0-4e98-9a11-4533d7da24cb
-title: 'A Shepherd\''s Quest: Defeating the Serpent of Desolation'
+title: "A Shepherd's Quest: Defeating the Serpent of Desolation"
 permalink: /Folk-tradition/A-Shepherds-Quest-Defeating-the-Serpent-of-Desolation/
 categories:
   - Folk tradition

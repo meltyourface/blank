@@ -1,6 +1,6 @@
 ---
 id: d5d76506-4019-436e-ab42-6dcb78476c3b
-title: 'Personal and Spiritual Collaboration: Harris and Crowley\''s Thoth Tarot Project'
+title: "Personal and Spiritual Collaboration: Harris and Crowley's Thoth Tarot Project"
 permalink: /Relationship-between-Frieda-Harris-and-Aleister-Crowley/Personal-and-Spiritual-Collaboration-Harris-and-Crowleys-Thoth-Tarot-Project/
 categories:
   - Relationship between Frieda Harris and Aleister Crowley

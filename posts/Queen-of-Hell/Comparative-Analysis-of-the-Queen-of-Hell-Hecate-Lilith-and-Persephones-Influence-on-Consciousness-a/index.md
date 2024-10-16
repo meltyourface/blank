@@ -1,7 +1,6 @@
 ---
 id: 58767b2e-ab83-4ab2-8050-d4957609d16d
-title: 'Comparative Analysis of the Queen of Hell: Hecate, Lilith, and Persephone\''s
-  Influence on Consciousness and Spirituality'
+title: "Comparative Analysis of the Queen of Hell: Hecate, Lilith, and Persephone's Influence on Consciousness and Spirituality"
 permalink: /Queen-of-Hell/Comparative-Analysis-of-the-Queen-of-Hell-Hecate-Lilith-and-Persephones-Influence-on-Consciousness-a/
 categories:
   - Queen of Hell

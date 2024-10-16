@@ -1,6 +1,6 @@
 ---
 id: 711aab3c-c538-4863-ae53-65d235640991
-title: 'The Golden Ritual: Invoking Freyja\''s Blessings'
+title: "The Golden Ritual: Invoking Freyja's Blessings"
 permalink: /Goddesses/The-Golden-Ritual-Invoking-Freyjas-Blessings/
 categories:
   - Goddesses

@@ -1,6 +1,6 @@
 ---
 id: 86ba2909-be4e-433e-b38f-457b34f30d54
-title: 'Gnostic Mass: Crowley\''s Esoteric Ritual and Spiritual Development'
+title: "Gnostic Mass: Crowley's Esoteric Ritual and Spiritual Development"
 permalink: /Aleister-Crowleys-Gnostic-Mass/Gnostic-Mass-Crowleys-Esoteric-Ritual-and-Spiritual-Development/
 categories:
   - Aleister Crowley's Gnostic Mass

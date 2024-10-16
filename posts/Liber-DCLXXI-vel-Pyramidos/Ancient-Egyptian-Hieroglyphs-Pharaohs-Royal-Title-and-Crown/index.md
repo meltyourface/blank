@@ -1,6 +1,6 @@
 ---
 id: 8fe2b325-2528-4695-93e5-33ee0bb80b13
-title: 'Ancient Egyptian Hieroglyphs: Pharaoh\''s Royal Title and Crown'
+title: "Ancient Egyptian Hieroglyphs: Pharaoh's Royal Title and Crown"
 permalink: /Liber-DCLXXI-vel-Pyramidos/Ancient-Egyptian-Hieroglyphs-Pharaohs-Royal-Title-and-Crown/
 categories:
   - Liber DCLXXI vel Pyramidos

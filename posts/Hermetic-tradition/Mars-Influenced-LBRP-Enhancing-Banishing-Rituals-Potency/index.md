@@ -1,6 +1,6 @@
 ---
 id: 8721517a-4cc8-4f01-83d0-ce87d96b15fb
-title: 'Mars-Influenced LBRP: Enhancing Banishing Ritual\''s Potency'
+title: "Mars-Influenced LBRP: Enhancing Banishing Ritual's Potency"
 permalink: /Hermetic-tradition/Mars-Influenced-LBRP-Enhancing-Banishing-Rituals-Potency/
 categories:
   - Hermetic tradition

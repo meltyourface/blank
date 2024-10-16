@@ -1,6 +1,6 @@
 ---
 id: e71c9385-4b57-4ad3-92ba-e4f30049bf0d
-title: 'Elixir of Eldritch Empowerment: Brewing the Sorcerer\''s Potent Potion'
+title: "Elixir of Eldritch Empowerment: Brewing the Sorcerer's Potent Potion"
 permalink: /Sorcerous-workings/Elixir-of-Eldritch-Empowerment-Brewing-the-Sorcerers-Potent-Potion/
 categories:
   - Sorcerous workings

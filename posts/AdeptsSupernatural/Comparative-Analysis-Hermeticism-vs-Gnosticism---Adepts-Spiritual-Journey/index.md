@@ -1,6 +1,6 @@
 ---
 id: 8bb8676c-4bb6-40d2-bf9d-d3b8e276d27c
-title: 'Comparative Analysis: Hermeticism vs. Gnosticism - Adepts\'' Spiritual Journey'
+title: "Comparative Analysis: Hermeticism vs. Gnosticism - Adepts' Spiritual Journey"
 permalink: /AdeptsSupernatural/Comparative-Analysis-Hermeticism-vs-Gnosticism---Adepts-Spiritual-Journey/
 categories:
   - AdeptsSupernatural

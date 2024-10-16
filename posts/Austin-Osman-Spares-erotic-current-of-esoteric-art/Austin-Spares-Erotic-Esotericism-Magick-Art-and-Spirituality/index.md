@@ -1,6 +1,6 @@
 ---
 id: 7d0828cd-4fe6-4735-b39a-c62529978f28
-title: '"Austin Spare\''s Erotic Esotericism: Magick, Art, and Spirituality"'
+title: ""Austin Spare's Erotic Esotericism: Magick, Art, and Spirituality""
 permalink: /Austin-Osman-Spares-erotic-current-of-esoteric-art/Austin-Spares-Erotic-Esotericism-Magick-Art-and-Spirituality/
 categories:
   - Austin Osman Spare's erotic current of esoteric art

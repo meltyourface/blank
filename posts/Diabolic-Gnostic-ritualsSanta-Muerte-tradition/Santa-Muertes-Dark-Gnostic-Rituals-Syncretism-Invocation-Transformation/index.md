@@ -1,6 +1,6 @@
 ---
 id: 263f4079-50ff-4e68-8fc0-36a0a8c58d41
-title: 'Santa Muerte\''s Dark Gnostic Rituals: Syncretism, Invocation & Transformation'
+title: "Santa Muerte's Dark Gnostic Rituals: Syncretism, Invocation & Transformation"
 permalink: /Diabolic-Gnostic-ritualsSanta-Muerte-tradition/Santa-Muertes-Dark-Gnostic-Rituals-Syncretism-Invocation-Transformation/
 categories:
   - Diabolic Gnostic ritualsSanta Muerte tradition

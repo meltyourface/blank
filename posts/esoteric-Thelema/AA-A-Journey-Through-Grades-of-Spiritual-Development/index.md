@@ -1,6 +1,6 @@
 ---
 id: 7ade7baa-b22a-4f00-83be-da23c40d3b62
-title: 'A.\''.A.\''.: A Journey Through Grades of Spiritual Development'
+title: "A.'.A.'.: A Journey Through Grades of Spiritual Development"
 permalink: /esoteric-Thelema/AA-A-Journey-Through-Grades-of-Spiritual-Development/
 categories:
   - esoteric Thelema

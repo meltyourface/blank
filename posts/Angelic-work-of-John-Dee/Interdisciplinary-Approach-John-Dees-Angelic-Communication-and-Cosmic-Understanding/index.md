@@ -1,7 +1,6 @@
 ---
 id: 3e80d104-ecfe-459c-a1a8-b0a9e413a6ae
-title: 'Interdisciplinary Approach: John Dee\''s Angelic Communication and Cosmic
-  Understanding'
+title: "Interdisciplinary Approach: John Dee's Angelic Communication and Cosmic Understanding"
 permalink: /Angelic-work-of-John-Dee/Interdisciplinary-Approach-John-Dees-Angelic-Communication-and-Cosmic-Understanding/
 categories:
   - Angelic work of John Dee

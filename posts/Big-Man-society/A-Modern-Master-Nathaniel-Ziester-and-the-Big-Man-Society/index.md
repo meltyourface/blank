@@ -1,6 +1,6 @@
 ---
 id: 9ef38c3a-31ed-48d7-94d2-75fc588bcb2e
-title: 'A Modern Master: Nathaniel Ziester and the \''Big Man\'' Society'
+title: "A Modern Master: Nathaniel Ziester and the 'Big Man' Society"
 permalink: /Big-Man-society/A-Modern-Master-Nathaniel-Ziester-and-the-Big-Man-Society/
 categories:
   - '''Big Man'' society'

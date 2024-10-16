@@ -1,6 +1,6 @@
 ---
 id: 6d97251e-7147-443b-97cd-2d43b8fccb56
-title: 'Exploring the Nine Realms: Troll King\''s Seal & Esoteric Knowledge'
+title: "Exploring the Nine Realms: Troll King's Seal & Esoteric Knowledge"
 permalink: /Troll-formulae/Exploring-the-Nine-Realms-Troll-Kings-Seal-Esoteric-Knowledge/
 categories:
   - Troll formulae

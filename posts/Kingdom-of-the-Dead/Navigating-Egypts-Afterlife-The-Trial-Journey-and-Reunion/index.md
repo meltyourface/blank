@@ -1,6 +1,6 @@
 ---
 id: 55b9c54c-73dc-466d-9355-ee51049df7b7
-title: 'Navigating Egypt\''s Afterlife: The Trial, Journey, and Reunion'
+title: "Navigating Egypt's Afterlife: The Trial, Journey, and Reunion"
 permalink: /Kingdom-of-the-Dead/Navigating-Egypts-Afterlife-The-Trial-Journey-and-Reunion/
 categories:
   - Kingdom of the Dead

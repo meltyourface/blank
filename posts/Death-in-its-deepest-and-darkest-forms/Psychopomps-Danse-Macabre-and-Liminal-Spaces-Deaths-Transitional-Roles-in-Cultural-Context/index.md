@@ -1,7 +1,6 @@
 ---
 id: 816af532-278a-46c8-a353-f41ff5229cb0
-title: 'Psychopomps, Danse Macabre, and Liminal Spaces: Death\''s Transitional Roles
-  in Cultural Context'
+title: "Psychopomps, Danse Macabre, and Liminal Spaces: Death's Transitional Roles in Cultural Context"
 permalink: /Death-in-its-deepest-and-darkest-forms/Psychopomps-Danse-Macabre-and-Liminal-Spaces-Deaths-Transitional-Roles-in-Cultural-Context/
 categories:
   - Death in its deepest and darkest forms

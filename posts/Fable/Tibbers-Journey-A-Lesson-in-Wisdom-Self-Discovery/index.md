@@ -1,6 +1,6 @@
 ---
 id: 06e7c7fc-1ab7-4d7a-9d53-34bd1e1dce72
-title: "Tibber\''s Journey: A Lesson in Wisdom & Self-Discovery"
+title: "Tibber's Journey: A Lesson in Wisdom & Self-Discovery"
 permalink: /Fable/Tibbers-Journey-A-Lesson-in-Wisdom-Self-Discovery/
 categories:
   - Fable

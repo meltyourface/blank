@@ -1,6 +1,6 @@
 ---
 id: f2d5a992-8704-4629-8f7d-cac35a6ca47a
-title: 'Ancient Legal Ritual: Invoking Macha\''s Guidance'
+title: "Ancient Legal Ritual: Invoking Macha's Guidance"
 permalink: /Macha/Ancient-Legal-Ritual-Invoking-Machas-Guidance/
 categories:
   - Macha

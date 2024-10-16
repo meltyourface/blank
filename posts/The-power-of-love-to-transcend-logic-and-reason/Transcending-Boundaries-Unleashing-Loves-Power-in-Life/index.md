@@ -1,6 +1,6 @@
 ---
 id: 3c8d878e-0232-4ec1-a285-cc20054f11f4
-title: 'Transcending Boundaries: Unleashing Love\''s Power in Life'
+title: "Transcending Boundaries: Unleashing Love's Power in Life"
 permalink: /The-power-of-love-to-transcend-logic-and-reason/Transcending-Boundaries-Unleashing-Loves-Power-in-Life/
 categories:
   - The power of love to transcend logic and reason

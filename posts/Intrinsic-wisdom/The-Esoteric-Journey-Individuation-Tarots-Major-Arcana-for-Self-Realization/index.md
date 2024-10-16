@@ -1,6 +1,6 @@
 ---
 id: 86da350d-a5ff-4cd7-972a-74477146c614
-title: 'The Esoteric Journey: Individuation & Tarot\''s Major Arcana for Self-Realization'
+title: "The Esoteric Journey: Individuation & Tarot's Major Arcana for Self-Realization"
 permalink: /Intrinsic-wisdom/The-Esoteric-Journey-Individuation-Tarots-Major-Arcana-for-Self-Realization/
 categories:
   - Intrinsic wisdom

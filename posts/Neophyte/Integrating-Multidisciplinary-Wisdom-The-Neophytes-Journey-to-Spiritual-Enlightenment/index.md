@@ -1,7 +1,6 @@
 ---
 id: c9a8fdfb-cd8c-486e-802d-081bd36b554d
-title: 'Integrating Multidisciplinary Wisdom: The Neophyte\''s Journey to Spiritual
-  Enlightenment'
+title: "Integrating Multidisciplinary Wisdom: The Neophyte's Journey to Spiritual Enlightenment"
 permalink: /Neophyte/Integrating-Multidisciplinary-Wisdom-The-Neophytes-Journey-to-Spiritual-Enlightenment/
 categories:
   - Neophyte

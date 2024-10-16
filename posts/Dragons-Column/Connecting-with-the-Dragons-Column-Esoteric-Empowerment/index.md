@@ -1,6 +1,6 @@
 ---
 id: c30c3659-80a4-4fb1-af27-c7d0802340a4
-title: 'Connecting with the Dragon\''s Column: Esoteric Empowerment'
+title: "Connecting with the Dragon's Column: Esoteric Empowerment"
 permalink: /Dragons-Column/Connecting-with-the-Dragons-Column-Esoteric-Empowerment/
 categories:
   - Dragon's Column

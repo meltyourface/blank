@@ -1,6 +1,6 @@
 ---
 id: d7e4bf2d-8184-4acd-bc0f-10ef8eddb172
-title: '"Exploring Tarot\''s Esoteric Connections: Astrology, Numerology, and Kabbalah"'
+title: ""Exploring Tarot's Esoteric Connections: Astrology, Numerology, and Kabbalah""
 permalink: /Occult-masters/Exploring-Tarots-Esoteric-Connections-Astrology-Numerology-and-Kabbalah/
 categories:
   - Occult masters

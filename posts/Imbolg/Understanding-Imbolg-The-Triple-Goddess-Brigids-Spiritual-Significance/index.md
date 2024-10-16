@@ -1,6 +1,6 @@
 ---
 id: c8fb1770-6458-41ae-b1fd-4bf46db937f1
-title: 'Understanding Imbolg: The Triple Goddess & Brigid\''s Spiritual Significance'
+title: "Understanding Imbolg: The Triple Goddess & Brigid's Spiritual Significance"
 permalink: /Imbolg/Understanding-Imbolg-The-Triple-Goddess-Brigids-Spiritual-Significance/
 categories:
   - Imbolg

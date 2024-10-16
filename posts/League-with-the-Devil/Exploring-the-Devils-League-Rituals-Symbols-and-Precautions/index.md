@@ -1,6 +1,6 @@
 ---
 id: c3015dbf-9a59-45cf-9dc7-f461ea89640f
-title: 'Exploring the Devil\''s League: Rituals, Symbols, and Precautions'
+title: "Exploring the Devil's League: Rituals, Symbols, and Precautions"
 permalink: /League-with-the-Devil/Exploring-the-Devils-League-Rituals-Symbols-and-Precautions/
 categories:
   - League with the Devil

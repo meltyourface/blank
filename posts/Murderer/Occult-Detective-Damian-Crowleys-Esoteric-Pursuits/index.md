@@ -1,6 +1,6 @@
 ---
 id: 87c66d5f-873f-4aa8-8ebe-eeee89287bed
-title: '"Occult Detective: Damian Crowley\''s Esoteric Pursuits"'
+title: ""Occult Detective: Damian Crowley's Esoteric Pursuits""
 permalink: /Murderer/Occult-Detective-Damian-Crowleys-Esoteric-Pursuits/
 categories:
   - Murderer

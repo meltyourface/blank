@@ -1,6 +1,6 @@
 ---
 id: 59992372-3578-44c5-99fd-0709920979b1
-title: 'Metaphorical Interplay: Kalfou\''s Crossroads and Hermetic Elements'
+title: "Metaphorical Interplay: Kalfou's Crossroads and Hermetic Elements"
 permalink: /Qubes-of-Kalfou/Metaphorical-Interplay-Kalfous-Crossroads-and-Hermetic-Elements/
 categories:
   - Qubes of Kalfou

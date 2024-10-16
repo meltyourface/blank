@@ -1,6 +1,6 @@
 ---
 id: 93599bfc-3554-4f14-9b0e-4622a97e13ec
-title: 'John Dee\''s Journey: From Hermetic Studies to Enochian Magic'
+title: "John Dee's Journey: From Hermetic Studies to Enochian Magic"
 permalink: /Angelic-work-of-John-Dee/John-Dees-Journey-From-Hermetic-Studies-to-Enochian-Magic/
 categories:
   - Angelic work of John Dee

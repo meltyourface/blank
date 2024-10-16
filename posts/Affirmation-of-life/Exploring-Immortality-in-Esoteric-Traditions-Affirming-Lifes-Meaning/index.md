@@ -1,6 +1,6 @@
 ---
 id: b90859e3-77c1-4435-8960-499bad627ba5
-title: '"Exploring Immortality in Esoteric Traditions: Affirming Life\''s Meaning"'
+title: ""Exploring Immortality in Esoteric Traditions: Affirming Life's Meaning""
 permalink: /Affirmation-of-life/Exploring-Immortality-in-Esoteric-Traditions-Affirming-Lifes-Meaning/
 categories:
   - Affirmation of life

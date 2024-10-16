@@ -1,6 +1,6 @@
 ---
 id: c75e5f19-d519-4b94-88af-48bee0f77d82
-title: 'Exploring Spiritual Alchemy: Mary Anne Atwood\''s Legacy'
+title: "Exploring Spiritual Alchemy: Mary Anne Atwood's Legacy"
 permalink: /Mary-Anne-Atwood/Exploring-Spiritual-Alchemy-Mary-Anne-Atwoods-Legacy/
 categories:
   - Mary Anne Atwood

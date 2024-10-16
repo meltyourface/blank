@@ -1,6 +1,6 @@
 ---
 id: c16665f2-e614-443e-bc5b-4f5adb3dd91f
-title: 'Exploring "Dreams Less Sweet": Psychic TV\''s Experimental Masterpiece'
+title: "Exploring "Dreams Less Sweet": Psychic TV's Experimental Masterpiece"
 permalink: /Psychic-TV-and-Thee-Majesty/Exploring-Dreams-Less-Sweet-Psychic-TVs-Experimental-Masterpiece/
 categories:
   - Psychic TV and Thee Majesty

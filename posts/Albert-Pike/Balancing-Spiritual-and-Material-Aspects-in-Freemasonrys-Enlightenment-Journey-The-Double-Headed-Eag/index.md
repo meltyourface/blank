@@ -1,7 +1,6 @@
 ---
 id: 2b028b17-81fe-4af8-8fb3-48f867ea203f
-title: 'Balancing Spiritual and Material Aspects in Freemasonry\''s Enlightenment
-  Journey: The Double-Headed Eagle Symbol'
+title: "Balancing Spiritual and Material Aspects in Freemasonry's Enlightenment Journey: The Double-Headed Eagle Symbol"
 permalink: /Albert-Pike/Balancing-Spiritual-and-Material-Aspects-in-Freemasonrys-Enlightenment-Journey-The-Double-Headed-Eag/
 categories:
   - Albert Pike

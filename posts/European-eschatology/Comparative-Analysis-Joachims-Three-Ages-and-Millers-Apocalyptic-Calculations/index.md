@@ -1,6 +1,6 @@
 ---
 id: f86a0e49-af22-48d1-8d71-0c66fc8c9959
-title: 'Comparative Analysis: Joachim\''s Three Ages and Miller\''s Apocalyptic Calculations'
+title: "Comparative Analysis: Joachim's Three Ages and Miller's Apocalyptic Calculations"
 permalink: /European-eschatology/Comparative-Analysis-Joachims-Three-Ages-and-Millers-Apocalyptic-Calculations/
 categories:
   - European eschatology

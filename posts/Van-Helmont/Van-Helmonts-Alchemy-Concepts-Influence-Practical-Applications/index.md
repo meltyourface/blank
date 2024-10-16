@@ -1,6 +1,6 @@
 ---
 id: d81960fd-5bb9-427f-91c3-917d1db320d6
-title: 'Van Helmont\''s Alchemy: Concepts, Influence, & Practical Applications'
+title: "Van Helmont's Alchemy: Concepts, Influence, & Practical Applications"
 permalink: /Van-Helmont/Van-Helmonts-Alchemy-Concepts-Influence-Practical-Applications/
 categories:
   - Van Helmont

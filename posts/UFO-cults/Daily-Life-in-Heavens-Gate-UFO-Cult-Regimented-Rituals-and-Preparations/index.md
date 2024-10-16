@@ -1,6 +1,6 @@
 ---
 id: e06c60ba-a26c-4579-97a5-9384a843d499
-title: 'Daily Life in Heaven\''s Gate UFO Cult: Regimented Rituals and Preparations'
+title: "Daily Life in Heaven's Gate UFO Cult: Regimented Rituals and Preparations"
 permalink: /UFO-cults/Daily-Life-in-Heavens-Gate-UFO-Cult-Regimented-Rituals-and-Preparations/
 categories:
   - UFO cults

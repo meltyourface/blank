@@ -1,6 +1,6 @@
 ---
 id: 4f405fa0-c6fa-41de-9dbc-6692732c8c50
-title: 'Dragon\''s Blood Incense: History, Properties, and Uses in Rituals'
+title: "Dragon's Blood Incense: History, Properties, and Uses in Rituals"
 permalink: "/Dragon\xE2s-Blood-incense/Dragons-Blood-Incense-History-Properties-and-Uses-in-Rituals/"
 categories:
   - "Dragon\xE2\u20AC\u2122s Blood incense"

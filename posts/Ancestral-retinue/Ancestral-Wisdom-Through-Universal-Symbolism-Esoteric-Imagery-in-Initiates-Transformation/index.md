@@ -1,7 +1,6 @@
 ---
 id: ba213303-0f69-4019-94fa-e6efef9dd670
-title: 'Ancestral Wisdom Through Universal Symbolism: Esoteric Imagery in Initiate\''s
-  Transformation'
+title: "Ancestral Wisdom Through Universal Symbolism: Esoteric Imagery in Initiate's Transformation"
 permalink: /Ancestral-retinue/Ancestral-Wisdom-Through-Universal-Symbolism-Esoteric-Imagery-in-Initiates-Transformation/
 categories:
   - Ancestral retinue

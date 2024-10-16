@@ -1,7 +1,6 @@
 ---
 id: 53f7d615-bcb9-46cf-a536-e7d1689a4688
-title: 'Overview: Agrippa\''s Magickal System - Elements, Celestial Spheres, and Intellectual
-  Faculties'
+title: "Overview: Agrippa's Magickal System - Elements, Celestial Spheres, and Intellectual Faculties"
 permalink: /Agrippa/Overview-Agrippas-Magickal-System---Elements-Celestial-Spheres-and-Intellectual-Faculties/
 categories:
   - Agrippa

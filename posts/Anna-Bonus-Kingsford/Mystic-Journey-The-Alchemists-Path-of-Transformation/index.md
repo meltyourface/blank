@@ -1,6 +1,6 @@
 ---
 id: ecfb7586-44b8-4a54-9c2d-9ac34c5975a0
-title: 'Mystic Journey: The Alchemist\''s Path of Transformation'
+title: "Mystic Journey: The Alchemist's Path of Transformation"
 permalink: /Anna-Bonus-Kingsford/Mystic-Journey-The-Alchemists-Path-of-Transformation/
 categories:
   - Anna Bonus Kingsford

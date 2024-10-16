@@ -1,6 +1,6 @@
 ---
 id: e9b9fe7a-6fb7-471f-a526-c12021427d03
-title: 'The Herem Concept: Shaping Israelites\'' Identity in Joshua'
+title: "The Herem Concept: Shaping Israelites' Identity in Joshua"
 permalink: /Biblical-curses/The-Herem-Concept-Shaping-Israelites-Identity-in-Joshua/
 categories:
   - Biblical curses

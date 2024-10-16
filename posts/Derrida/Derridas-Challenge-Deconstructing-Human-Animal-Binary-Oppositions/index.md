@@ -1,6 +1,6 @@
 ---
 id: dc2740c2-3a64-4e16-bfad-5d6f0135c71a
-title: 'Derrida\''s Challenge: Deconstructing Human-Animal Binary Oppositions'
+title: "Derrida's Challenge: Deconstructing Human-Animal Binary Oppositions"
 permalink: /Derrida/Derridas-Challenge-Deconstructing-Human-Animal-Binary-Oppositions/
 categories:
   - Derrida

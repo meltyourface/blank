@@ -1,6 +1,6 @@
 ---
 id: 637dabba-aca0-45d5-bbed-e378e5973b7c
-title: 'Ritual: Harnessing Saturn\''s Power for Transformation'
+title: "Ritual: Harnessing Saturn's Power for Transformation"
 permalink: /Individual-cultus-of-Saturn/Ritual-Harnessing-Saturns-Power-for-Transformation/
 categories:
   - Individual cultus of Saturn

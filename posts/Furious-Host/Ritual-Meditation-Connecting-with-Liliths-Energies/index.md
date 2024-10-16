@@ -1,6 +1,6 @@
 ---
 id: 2a7fb6d6-dd39-4e3e-a7db-275d8ac27672
-title: 'Ritual Meditation: Connecting with Lilith\''s Energies'
+title: "Ritual Meditation: Connecting with Lilith's Energies"
 permalink: /Furious-Host/Ritual-Meditation-Connecting-with-Liliths-Energies/
 categories:
   - Furious Host

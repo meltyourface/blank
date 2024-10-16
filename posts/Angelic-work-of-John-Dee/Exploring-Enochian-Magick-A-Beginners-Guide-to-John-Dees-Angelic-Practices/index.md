@@ -1,6 +1,6 @@
 ---
 id: 9b09789d-f5c8-458b-a750-a93d12d0dd8b
-title: 'Exploring Enochian Magick: A Beginner\''s Guide to John Dee\''s Angelic Practices'
+title: "Exploring Enochian Magick: A Beginner's Guide to John Dee's Angelic Practices"
 permalink: /Angelic-work-of-John-Dee/Exploring-Enochian-Magick-A-Beginners-Guide-to-John-Dees-Angelic-Practices/
 categories:
   - Angelic work of John Dee

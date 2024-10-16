@@ -1,6 +1,6 @@
 ---
 id: 12a1b932-0d50-4015-b939-d46a4b9c605b
-title: 'The Ambiguous Legacy: Dee and Kelley\''s Influence on English Magic'
+title: "The Ambiguous Legacy: Dee and Kelley's Influence on English Magic"
 permalink: /English-magic/The-Ambiguous-Legacy-Dee-and-Kelleys-Influence-on-English-Magic/
 categories:
   - English magic

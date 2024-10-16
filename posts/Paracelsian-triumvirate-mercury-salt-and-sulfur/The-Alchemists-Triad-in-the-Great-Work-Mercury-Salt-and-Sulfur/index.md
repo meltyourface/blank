@@ -1,6 +1,6 @@
 ---
 id: 7e9bab07-750a-4bfb-973f-57399f739580
-title: 'The Alchemist\''s Triad in the Great Work: Mercury, Salt, and Sulfur'
+title: "The Alchemist's Triad in the Great Work: Mercury, Salt, and Sulfur"
 permalink: /Paracelsian-triumvirate-mercury-salt-and-sulfur/The-Alchemists-Triad-in-the-Great-Work-Mercury-Salt-and-Sulfur/
 categories:
   - Paracelsian triumvirate mercury, salt, and sulfur

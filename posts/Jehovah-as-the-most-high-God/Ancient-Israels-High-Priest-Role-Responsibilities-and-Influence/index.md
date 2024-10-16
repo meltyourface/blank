@@ -1,6 +1,6 @@
 ---
 id: fdac0b57-8ab0-40ce-9cf8-32749fb1c745
-title: 'Ancient Israel\''s High Priest: Role, Responsibilities, and Influence'
+title: "Ancient Israel's High Priest: Role, Responsibilities, and Influence"
 permalink: /Jehovah-as-the-most-high-God/Ancient-Israels-High-Priest-Role-Responsibilities-and-Influence/
 categories:
   - Jehovah as the most high God

@@ -1,7 +1,6 @@
 ---
 id: 1990dcdd-f759-483b-8134-4f7b2ec95e6f
-title: 'Archetypal Quests as Paths to Spiritual Transformation: The Hero\''s Journey,
-  Lover\''s Quest, Alchemy, and Sacred Marriage'
+title: "Archetypal Quests as Paths to Spiritual Transformation: The Hero's Journey, Lover\"'s Quest, Alchemy, and Sacred Marriage'
 permalink: /Adventure-and-romance/Archetypal-Quests-as-Paths-to-Spiritual-Transformation-The-Heros-Journey-Lovers-Quest-Alchemy-and-Sa/
 categories:
   - Adventure and romance

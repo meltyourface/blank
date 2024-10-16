@@ -1,6 +1,6 @@
 ---
 id: d3dfd237-8802-4f90-b0d2-726c478df5e5
-title: 'Nietzsche\''s Dionysus vs Romantic Satan: Emancipation and Transformation'
+title: "Nietzsche's Dionysus vs Romantic Satan: Emancipation and Transformation"
 permalink: /Comparative-analysis-of-Nietzsches-Dionysus-and-the-Romantic-Satan/Nietzsches-Dionysus-vs-Romantic-Satan-Emancipation-and-Transformation/
 categories:
   - Comparative analysis of Nietzsche's Dionysus and the Romantic Satan

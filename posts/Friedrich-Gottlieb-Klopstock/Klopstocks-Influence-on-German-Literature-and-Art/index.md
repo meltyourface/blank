@@ -1,6 +1,6 @@
 ---
 id: 6b907ae4-a05b-4664-ab58-2e7a29739a5d
-title: "Klopstock\''s Influence on German Literature and Art"
+title: "Klopstock's Influence on German Literature and Art"
 permalink: /Friedrich-Gottlieb-Klopstock/Klopstocks-Influence-on-German-Literature-and-Art/
 categories:
   - Friedrich Gottlieb Klopstock

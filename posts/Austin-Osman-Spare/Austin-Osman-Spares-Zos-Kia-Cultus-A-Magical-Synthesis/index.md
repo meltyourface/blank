@@ -1,6 +1,6 @@
 ---
 id: bdad1ffa-a55f-46de-8116-f56c7fd8c01d
-title: 'Austin Osman Spare\''s Zos Kia Cultus: A Magical Synthesis'
+title: "Austin Osman Spare's Zos Kia Cultus: A Magical Synthesis"
 permalink: /Austin-Osman-Spare/Austin-Osman-Spares-Zos-Kia-Cultus-A-Magical-Synthesis/
 categories:
   - Austin Osman Spare

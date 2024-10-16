@@ -1,6 +1,6 @@
 ---
 id: 3870cc04-1056-4a8b-a6e2-7788d2ea4b5a
-title: 'Renaissance Occultism: Kabbalah\''s Influence on Western Esotericism'
+title: "Renaissance Occultism: Kabbalah's Influence on Western Esotericism"
 permalink: /Occult-texts/Renaissance-Occultism-Kabbalahs-Influence-on-Western-Esotericism/
 categories:
   - Occult texts

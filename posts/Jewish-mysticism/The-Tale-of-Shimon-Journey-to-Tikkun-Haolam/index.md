@@ -1,6 +1,6 @@
 ---
 id: 8e4f5693-f630-4446-96ec-c866768b0d85
-title: 'The Tale of Shimon: Journey to Tikkun Ha\''olam'
+title: "The Tale of Shimon: Journey to Tikkun Ha'olam"
 permalink: /Jewish-mysticism/The-Tale-of-Shimon-Journey-to-Tikkun-Haolam/
 categories:
   - Jewish mysticism

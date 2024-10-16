@@ -1,6 +1,6 @@
 ---
 id: 35fc3f16-7f9a-4360-912b-d529791cadb4
-title: 'Nietzsche\''s Eternal Return Meditation: Embracing Self-Transformation'
+title: "Nietzsche's Eternal Return Meditation: Embracing Self-Transformation"
 permalink: /Friedrich-NietzscheSupernatural/Nietzsches-Eternal-Return-Meditation-Embracing-Self-Transformation/
 categories:
   - Friedrich NietzscheSupernatural

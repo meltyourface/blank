@@ -1,6 +1,6 @@
 ---
 id: df13a5a7-1de9-4229-8b5c-ba971a4fb7a2
-title: 'Affirmations for Empowerment: Hekate\''s Guidance and Protection'
+title: "Affirmations for Empowerment: Hekate's Guidance and Protection"
 permalink: /Mysteries-of-Hekate/Affirmations-for-Empowerment-Hekates-Guidance-and-Protection/
 categories:
   - Mysteries of Hekate

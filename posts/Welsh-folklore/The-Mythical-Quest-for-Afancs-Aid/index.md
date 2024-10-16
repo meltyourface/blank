@@ -1,6 +1,6 @@
 ---
 id: a492e875-eb0f-4dfa-8a9f-8551dd4a6440
-title: '"The Mythical Quest for Afanc\''s Aid"'
+title: ""The Mythical Quest for Afanc's Aid""
 permalink: /Welsh-folklore/The-Mythical-Quest-for-Afancs-Aid/
 categories:
   - Welsh folklore

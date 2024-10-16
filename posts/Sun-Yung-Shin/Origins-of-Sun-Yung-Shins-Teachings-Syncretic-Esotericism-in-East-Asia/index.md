@@ -1,6 +1,6 @@
 ---
 id: 736619b1-bac0-42f7-81ea-352509391b05
-title: 'Origins of Sun Yung Shin\''s Teachings: Syncretic Esotericism in East Asia'
+title: "Origins of Sun Yung Shin's Teachings: Syncretic Esotericism in East Asia"
 permalink: /Sun-Yung-Shin/Origins-of-Sun-Yung-Shins-Teachings-Syncretic-Esotericism-in-East-Asia/
 categories:
   - Sun Yung Shin

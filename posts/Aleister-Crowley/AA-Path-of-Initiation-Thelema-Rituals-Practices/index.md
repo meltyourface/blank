@@ -1,6 +1,6 @@
 ---
 id: 397b327e-e2fe-4825-b6b7-cf754cdd90f4
-title: 'A.\''.A.\''. Path of Initiation: Thelema Rituals & Practices'
+title: "A.'.A.'. Path of Initiation: Thelema Rituals & Practices"
 permalink: /Aleister-Crowley/AA-Path-of-Initiation-Thelema-Rituals-Practices/
 categories:
   - Aleister Crowley

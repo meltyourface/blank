@@ -1,6 +1,6 @@
 ---
 id: 55e5fd8f-8198-4bb7-ad00-b5b599f87bd6
-title: 'The Alchemy of Transformation: The Philosopher\''s Stone and Elixir of Life'
+title: "The Alchemy of Transformation: The Philosopher's Stone and Elixir of Life"
 permalink: /Elixirs/The-Alchemy-of-Transformation-The-Philosophers-Stone-and-Elixir-of-Life/
 categories:
   - Elixirs

@@ -1,6 +1,6 @@
 ---
 id: abb45786-4ae2-427d-bf5d-fe27f74fc0c0
-title: 'Enigma of Murrell: Cunning Man\''s Quest for Power'
+title: "Enigma of Murrell: Cunning Man's Quest for Power"
 permalink: /James-Murrell/Enigma-of-Murrell-Cunning-Mans-Quest-for-Power/
 categories:
   - James Murrell

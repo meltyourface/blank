@@ -1,6 +1,6 @@
 ---
 id: 02fd456b-7e2b-4619-a897-7b5d63637810
-title: 'Deciphering Dragons: The Tome of Azhdeha\''s Symbolism'
+title: "Deciphering Dragons: The Tome of Azhdeha's Symbolism"
 permalink: /Dragon-Azhdeha/Deciphering-Dragons-The-Tome-of-Azhdehas-Symbolism/
 categories:
   - Dragon Azhdeha

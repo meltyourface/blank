@@ -1,6 +1,6 @@
 ---
 id: d5d280a5-cd61-4273-b971-b2008b662f15
-title: 'Unifying Mystical Arts: A Council\''s Quest for Cosmic Harmony'
+title: "Unifying Mystical Arts: A Council's Quest for Cosmic Harmony"
 permalink: /Jacques-Gaffarel/Unifying-Mystical-Arts-A-Councils-Quest-for-Cosmic-Harmony/
 categories:
   - Jacques Gaffarel

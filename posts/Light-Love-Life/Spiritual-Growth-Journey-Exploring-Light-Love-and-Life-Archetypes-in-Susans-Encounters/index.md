@@ -1,7 +1,6 @@
 ---
 id: 5f9b5b5f-a16e-4c90-b5ce-ef2e04fb487a
-title: 'Spiritual Growth Journey: Exploring Light, Love, and Life Archetypes in Susan\''s
-  Encounters'
+title: "Spiritual Growth Journey: Exploring Light, Love, and Life Archetypes in Susan's Encounters"
 permalink: /Light-Love-Life/Spiritual-Growth-Journey-Exploring-Light-Love-and-Life-Archetypes-in-Susans-Encounters/
 categories:
   - Light, Love, Life

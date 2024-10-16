@@ -1,6 +1,6 @@
 ---
 id: 61e9aa79-eb87-4d06-927e-6b297c3ae52a
-title: 'Occult Practices for Personal Growth: Harnessing Saturn\''s Energies'
+title: "Occult Practices for Personal Growth: Harnessing Saturn's Energies"
 permalink: /Occult-essence-of-Saturn/Occult-Practices-for-Personal-Growth-Harnessing-Saturns-Energies/
 categories:
   - Occult essence of Saturn

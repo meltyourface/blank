@@ -1,6 +1,6 @@
 ---
 id: 4312341f-04cb-4e6d-b330-1b00f472af55
-title: 'Loki\''s Deception: The Ambiguous Morality of Norse Tricksters'
+title: "Loki's Deception: The Ambiguous Morality of Norse Tricksters"
 permalink: /Pantheon-of-tricksters/Lokis-Deception-The-Ambiguous-Morality-of-Norse-Tricksters/
 categories:
   - Pantheon of tricksters

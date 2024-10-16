@@ -1,6 +1,6 @@
 ---
 id: d0f5bcd1-ad49-49b2-858e-6ddd803a1603
-title: 'Parallels Between Ba\''al Hammon and Natural Phenomena: Carthaginian Connections'
+title: "Parallels Between Ba'al Hammon and Natural Phenomena: Carthaginian Connections"
 permalink: "/Ba\xE2al-Hammon/Parallels-Between-Baal-Hammon-and-Natural-Phenomena-Carthaginian-Connections/"
 categories:
   - "Ba\xE2\u20AC\u2122al Hammon"

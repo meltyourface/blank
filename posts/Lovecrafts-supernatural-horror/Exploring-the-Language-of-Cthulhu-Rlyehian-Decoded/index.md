@@ -1,6 +1,6 @@
 ---
 id: f87a0fff-a82c-42c6-aa04-0525a331bac8
-title: 'Exploring the Language of Cthulhu: R\''lyehian Decoded'
+title: "Exploring the Language of Cthulhu: R'lyehian Decoded"
 permalink: /Lovecrafts-supernatural-horror/Exploring-the-Language-of-Cthulhu-Rlyehian-Decoded/
 categories:
   - Lovecraft's supernatural horror

@@ -1,6 +1,6 @@
 ---
 id: f8c28987-c715-41fa-8e5d-44a863ca4055
-title: 'Norse Mythology: Runes, Yggdrasil, and Fate\''s Interconnectedness'
+title: "Norse Mythology: Runes, Yggdrasil, and Fate's Interconnectedness"
 permalink: /Nordic-culture/Norse-Mythology-Runes-Yggdrasil-and-Fates-Interconnectedness/
 categories:
   - Nordic culture

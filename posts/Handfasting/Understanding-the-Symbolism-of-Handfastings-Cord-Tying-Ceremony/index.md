@@ -1,6 +1,6 @@
 ---
 id: 683efa7f-0381-4f0e-b458-5041df4b2c83
-title: "Understanding the Symbolism of Handfasting\''s Cord-Tying Ceremony"
+title: "Understanding the Symbolism of Handfasting's Cord-Tying Ceremony"
 permalink: /Handfasting/Understanding-the-Symbolism-of-Handfastings-Cord-Tying-Ceremony/
 categories:
   - Handfasting

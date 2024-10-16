@@ -1,6 +1,6 @@
 ---
 id: ccccc01a-fe5f-4952-abcf-3b2f9b57cef2
-title: 'Exploring Occult Practices: The Gateway to the Devil\''s Throne'
+title: "Exploring Occult Practices: The Gateway to the Devil's Throne"
 permalink: /Gateway-to-the-Devils-Throne/Exploring-Occult-Practices-The-Gateway-to-the-Devils-Throne/
 categories:
   - Gateway to the Devil's Throne

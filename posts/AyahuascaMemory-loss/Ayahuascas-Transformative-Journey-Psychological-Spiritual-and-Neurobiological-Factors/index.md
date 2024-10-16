@@ -1,7 +1,6 @@
 ---
 id: 710efa7b-74a5-4964-8fe1-dce0ae909b7c
-title: 'Ayahuasca\''s Transformative Journey: Psychological, Spiritual, and Neurobiological
-  Factors'
+title: "Ayahuasca's Transformative Journey: Psychological, Spiritual, and Neurobiological Factors"
 permalink: /AyahuascaMemory-loss/Ayahuascas-Transformative-Journey-Psychological-Spiritual-and-Neurobiological-Factors/
 categories:
   - AyahuascaMemory loss

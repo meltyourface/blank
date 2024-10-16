@@ -1,6 +1,6 @@
 ---
 id: 5f98659a-152a-46a4-8516-7e17f7b0ac79
-title: '"Understanding the Meaning of \''Athanochrysosis\'' in Medieval Alchemy"'
+title: ""Understanding the Meaning of 'Athanochrysosis' in Medieval Alchemy""
 permalink: /Latin-texts/Understanding-the-Meaning-of-Athanochrysosis-in-Medieval-Alchemy/
 categories:
   - Latin texts

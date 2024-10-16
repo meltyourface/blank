@@ -1,6 +1,6 @@
 ---
 id: 4a9ce067-0c7f-4945-a47b-386ee96ec340
-title: 'Plato\''s Allegory of the Cave: A Journey from Ignorance to Enlightenment'
+title: "Plato's Allegory of the Cave: A Journey from Ignorance to Enlightenment"
 permalink: /Allegory/Platos-Allegory-of-the-Cave-A-Journey-from-Ignorance-to-Enlightenment/
 categories:
   - Allegory

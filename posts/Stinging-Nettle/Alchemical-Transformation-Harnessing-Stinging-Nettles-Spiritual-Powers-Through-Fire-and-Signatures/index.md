@@ -1,7 +1,6 @@
 ---
 id: 3c34b5c7-7229-46a9-b9e8-b8fa7e5eb8c5
-title: 'Alchemical Transformation: Harnessing Stinging Nettle\''s Spiritual Powers
-  Through Fire and Signatures'
+title: "Alchemical Transformation: Harnessing Stinging Nettle's Spiritual Powers Through Fire and Signatures"
 permalink: /Stinging-Nettle/Alchemical-Transformation-Harnessing-Stinging-Nettles-Spiritual-Powers-Through-Fire-and-Signatures/
 categories:
   - Stinging Nettle

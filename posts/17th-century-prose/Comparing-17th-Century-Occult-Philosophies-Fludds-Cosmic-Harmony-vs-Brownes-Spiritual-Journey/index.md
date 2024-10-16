@@ -1,7 +1,6 @@
 ---
 id: 64c6cd0d-386d-4043-9c96-2d68ea60c86b
-title: 'Comparing 17th Century Occult Philosophies: Fludd\''s Cosmic Harmony vs Browne\''s
-  Spiritual Journey'
+title: "Comparing 17th Century Occult Philosophies: Fludd's Cosmic Harmony vs Browne's Spiritual Journey"
 permalink: /17th-century-prose/Comparing-17th-Century-Occult-Philosophies-Fludds-Cosmic-Harmony-vs-Brownes-Spiritual-Journey/
 categories:
   - 17th-century prose

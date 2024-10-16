@@ -1,6 +1,6 @@
 ---
 id: c50ab77f-1968-4ae9-8ff2-2d25095afa14
-title: 'Transcendent Journey: Uniting Plato\''s Cave and Jung\''s Shadow'
+title: "Transcendent Journey: Uniting Plato's Cave and Jung's Shadow"
 permalink: /philosophers/Transcendent-Journey-Uniting-Platos-Cave-and-Jungs-Shadow/
 categories:
   - philosophers

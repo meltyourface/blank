@@ -1,6 +1,6 @@
 ---
 id: 33634399-d4e0-4fed-ad67-16c218cb81bc
-title: 'Creating a Powerful Witch\''s Sigil: Four Elements and Tools Combined'
+title: "Creating a Powerful Witch's Sigil: Four Elements and Tools Combined"
 permalink: /Witches-Tools/Creating-a-Powerful-Witchs-Sigil-Four-Elements-and-Tools-Combined/
 categories:
   - Witches' Tools

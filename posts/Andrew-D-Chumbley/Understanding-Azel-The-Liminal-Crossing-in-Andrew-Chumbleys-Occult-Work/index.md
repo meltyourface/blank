@@ -1,6 +1,6 @@
 ---
 id: fb051c20-da0c-475d-b3a2-423bf68eb364
-title: 'Understanding Azel: The Liminal Crossing in Andrew Chumbley\''s Occult Work'
+title: "Understanding Azel: The Liminal Crossing in Andrew Chumbley's Occult Work"
 permalink: /Andrew-D-Chumbley/Understanding-Azel-The-Liminal-Crossing-in-Andrew-Chumbleys-Occult-Work/
 categories:
   - Andrew D Chumbley

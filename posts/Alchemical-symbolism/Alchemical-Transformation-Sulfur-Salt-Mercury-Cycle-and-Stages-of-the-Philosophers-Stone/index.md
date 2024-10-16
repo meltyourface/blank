@@ -1,7 +1,6 @@
 ---
 id: 1f7a9132-cd31-45b1-a1a9-699703652854
-title: 'Alchemical Transformation: Sulfur-Salt-Mercury Cycle and Stages of the Philosopher\''s
-  Stone'
+title: "Alchemical Transformation: Sulfur-Salt-Mercury Cycle and Stages of the Philosopher's Stone"
 permalink: /Alchemical-symbolism/Alchemical-Transformation-Sulfur-Salt-Mercury-Cycle-and-Stages-of-the-Philosophers-Stone/
 categories:
   - Alchemical symbolism

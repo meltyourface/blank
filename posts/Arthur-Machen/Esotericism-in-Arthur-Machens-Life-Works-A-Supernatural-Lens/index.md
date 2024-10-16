@@ -1,6 +1,6 @@
 ---
 id: d70f2137-82b1-4f71-bd94-a3c110a8b428
-title: 'Esotericism in Arthur Machen\''s Life & Works: A Supernatural Lens'
+title: "Esotericism in Arthur Machen's Life & Works: A Supernatural Lens"
 permalink: /Arthur-Machen/Esotericism-in-Arthur-Machens-Life-Works-A-Supernatural-Lens/
 categories:
   - Arthur Machen

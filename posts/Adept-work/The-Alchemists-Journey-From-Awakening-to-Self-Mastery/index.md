@@ -1,6 +1,6 @@
 ---
 id: 10a64571-4d0a-4deb-938e-e9cd20c08b6a
-title: 'The Alchemist\''s Journey: From Awakening to Self-Mastery'
+title: "The Alchemist's Journey: From Awakening to Self-Mastery"
 permalink: /Adept-work/The-Alchemists-Journey-From-Awakening-to-Self-Mastery/
 categories:
   - Adept work

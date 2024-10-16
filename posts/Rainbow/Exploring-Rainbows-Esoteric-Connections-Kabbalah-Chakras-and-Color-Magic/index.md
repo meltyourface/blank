@@ -1,6 +1,6 @@
 ---
 id: 0f301196-90f2-4b16-b7e8-e37ad2f8a813
-title: 'Exploring Rainbow\''s Esoteric Connections: Kabbalah, Chakras, and Color Magic'
+title: "Exploring Rainbow's Esoteric Connections: Kabbalah, Chakras, and Color Magic"
 permalink: /Rainbow/Exploring-Rainbows-Esoteric-Connections-Kabbalah-Chakras-and-Color-Magic/
 categories:
   - Rainbow

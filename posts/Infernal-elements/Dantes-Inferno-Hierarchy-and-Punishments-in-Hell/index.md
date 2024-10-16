@@ -1,6 +1,6 @@
 ---
 id: 087c26f3-87eb-47e9-9a86-bf7bc826df2a
-title: 'Dante\''s Inferno: Hierarchy and Punishments in Hell'
+title: "Dante's Inferno: Hierarchy and Punishments in Hell"
 permalink: /Infernal-elements/Dantes-Inferno-Hierarchy-and-Punishments-in-Hell/
 categories:
   - Infernal elements

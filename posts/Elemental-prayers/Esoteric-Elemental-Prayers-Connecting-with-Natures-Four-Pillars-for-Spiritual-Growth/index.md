@@ -1,7 +1,6 @@
 ---
 id: 540db878-c246-45a0-9178-22c676f0d1e8
-title: 'Esoteric Elemental Prayers: Connecting with Nature\''s Four Pillars for Spiritual
-  Growth'
+title: "Esoteric Elemental Prayers: Connecting with Nature's Four Pillars for Spiritual Growth"
 permalink: /Elemental-prayers/Esoteric-Elemental-Prayers-Connecting-with-Natures-Four-Pillars-for-Spiritual-Growth/
 categories:
   - Elemental prayers

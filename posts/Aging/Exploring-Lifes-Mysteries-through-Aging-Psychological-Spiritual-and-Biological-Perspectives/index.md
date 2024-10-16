@@ -1,7 +1,6 @@
 ---
 id: 4cc3761c-81d2-427a-8c10-fd55a10ff005
-title: 'Exploring Life\''s Mysteries through Aging: Psychological, Spiritual, and
-  Biological Perspectives'
+title: "Exploring Life's Mysteries through Aging: Psychological, Spiritual, and Biological Perspectives"
 permalink: /Aging/Exploring-Lifes-Mysteries-through-Aging-Psychological-Spiritual-and-Biological-Perspectives/
 categories:
   - Aging

@@ -1,6 +1,6 @@
 ---
 id: 0e9d211e-40d9-4fd5-ac9a-02a3e3423b78
-title: "Krishna\''s Teaching on Selfless Action in Bhagavad Gita"
+title: "Krishna's Teaching on Selfless Action in Bhagavad Gita"
 permalink: /Hinduism/Krishnas-Teaching-on-Selfless-Action-in-Bhagavad-Gita/
 categories:
   - Hinduism

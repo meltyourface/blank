@@ -1,7 +1,6 @@
 ---
 id: 61a286f3-4a05-49f5-ba5e-d5e7402a9dde
-title: 'Quantum Entanglement and Hermetic Interconnectedness: Implications for Initiates\''
-  Spiritual Journey'
+title: "Quantum Entanglement and Hermetic Interconnectedness: Implications for Initiates' Spiritual Journey"
 permalink: /Quantum-and-New-Physics/Quantum-Entanglement-and-Hermetic-Interconnectedness-Implications-for-Initiates-Spiritual-Journey/
 categories:
   - Quantum and New Physics

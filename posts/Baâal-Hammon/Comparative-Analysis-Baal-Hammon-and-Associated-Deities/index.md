@@ -1,6 +1,6 @@
 ---
 id: 9b3b3ff0-41af-4559-9786-06d86f1dc08a
-title: 'Comparative Analysis: Ba\''al Hammon and Associated Deities'
+title: "Comparative Analysis: Ba'al Hammon and Associated Deities"
 permalink: "/Ba\xE2al-Hammon/Comparative-Analysis-Baal-Hammon-and-Associated-Deities/"
 categories:
   - "Ba\xE2\u20AC\u2122al Hammon"

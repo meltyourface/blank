@@ -1,6 +1,6 @@
 ---
 id: 79fea8e6-1c26-41e6-9cad-c001bf9eba3b
-title: '"Occult Significance of the Dagger\''s Multifaceted Symbolism"'
+title: ""Occult Significance of the Dagger's Multifaceted Symbolism""
 permalink: /The-Dagger/Occult-Significance-of-the-Daggers-Multifaceted-Symbolism/
 categories:
   - The Dagger

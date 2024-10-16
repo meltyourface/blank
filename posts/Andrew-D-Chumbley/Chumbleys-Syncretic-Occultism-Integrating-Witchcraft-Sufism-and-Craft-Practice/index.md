@@ -1,7 +1,6 @@
 ---
 id: c6258ab3-70c3-4169-bfbe-c786aad25a46
-title: 'Chumbley\''s Syncretic Occultism: Integrating Witchcraft, Sufism, and Craft
-  Practice'
+title: "Chumbley's Syncretic Occultism: Integrating Witchcraft, Sufism, and Craft Practice"
 permalink: /Andrew-D-Chumbley/Chumbleys-Syncretic-Occultism-Integrating-Witchcraft-Sufism-and-Craft-Practice/
 categories:
   - Andrew D Chumbley

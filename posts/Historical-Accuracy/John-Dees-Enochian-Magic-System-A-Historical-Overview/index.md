@@ -1,6 +1,6 @@
 ---
 id: df8f6618-8437-465d-ad65-cd8dcf12f715
-title: 'John Dee\''s Enochian Magic System: A Historical Overview'
+title: "John Dee's Enochian Magic System: A Historical Overview"
 permalink: /Historical-Accuracy/John-Dees-Enochian-Magic-System-A-Historical-Overview/
 categories:
   - Historical Accuracy

@@ -1,7 +1,6 @@
 ---
 id: b6fe0169-610c-47de-b43a-f7a126c77e94
-title: 'Comparative Analysis: Titania vs. Queen Mab - Their Roles and Lessons in Shakespeare\''s
-  Work and Folklore'
+title: "Comparative Analysis: Titania vs. Queen Mab - Their Roles and Lessons in Shakespeare's Work and Folklore"
 permalink: /Queen-of-the-Fairies/Comparative-Analysis-Titania-vs-Queen-Mab---Their-Roles-and-Lessons-in-Shakespeares-Work-and-Folklor/
 categories:
   - Queen of the Fairies

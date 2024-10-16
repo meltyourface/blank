@@ -1,6 +1,6 @@
 ---
 id: 10ddbdb6-13fe-4245-ab33-741e87d873d7
-title: 'Ritual for Astral Connection: Olympic Spirit Witches\'' Sabbat'
+title: "Ritual for Astral Connection: Olympic Spirit Witches' Sabbat"
 permalink: "/Ritual-of-the-Olympic-SpiritWitches\xE2-Sabbat/Ritual-for-Astral-Connection-Olympic-Spirit-Witches-Sabbat/"
 categories:
   - "Ritual of the Olympic SpiritWitches\xE2\u20AC\u2122 Sabbat"

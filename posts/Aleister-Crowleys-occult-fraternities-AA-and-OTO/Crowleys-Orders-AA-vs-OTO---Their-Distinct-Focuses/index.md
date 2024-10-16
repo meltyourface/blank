@@ -1,6 +1,6 @@
 ---
 id: 1b95ae72-9544-4f80-b73a-bcc2ccae4a37
-title: 'Crowley\''s Orders: A.A. vs. O.T.O. - Their Distinct Focuses'
+title: "Crowley's Orders: A.A. vs. O.T.O. - Their Distinct Focuses"
 permalink: /Aleister-Crowleys-occult-fraternities-AA-and-OTO/Crowleys-Orders-AA-vs-OTO---Their-Distinct-Focuses/
 categories:
   - Aleister Crowley's occult fraternities (A.A. and O.T.O.)

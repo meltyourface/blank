@@ -1,6 +1,6 @@
 ---
 id: 0f7c03c5-ca6c-4104-bbbd-22804d6126c6
-title: 'Revolutionizing Thelema: Achad\''s New Aeon and Switched Kabbalistic Paths'
+title: "Revolutionizing Thelema: Achad's New Aeon and Switched Kabbalistic Paths"
 permalink: /Frater-Achad/Revolutionizing-Thelema-Achads-New-Aeon-and-Switched-Kabbalistic-Paths/
 categories:
   - Frater Achad

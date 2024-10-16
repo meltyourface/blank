@@ -1,6 +1,6 @@
 ---
 id: fd5da927-6869-40aa-92e2-d38c769bebab
-title: "The Antichrist\''s Inner Struggle"
+title: "The Antichrist's Inner Struggle"
 permalink: /Screenplay-adaptationAntichrist/The-Antichrists-Inner-Struggle/
 categories:
   - Screenplay adaptationAntichrist

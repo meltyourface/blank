@@ -1,6 +1,6 @@
 ---
 id: 6e8b5029-2ff0-4a0c-b021-344cd47f7866
-title: 'Dream Oracle Ritual: Invoking Inanna\''s Guidance'
+title: "Dream Oracle Ritual: Invoking Inanna's Guidance"
 permalink: /PentacleInanna/Dream-Oracle-Ritual-Invoking-Inannas-Guidance/
 categories:
   - PentacleInanna

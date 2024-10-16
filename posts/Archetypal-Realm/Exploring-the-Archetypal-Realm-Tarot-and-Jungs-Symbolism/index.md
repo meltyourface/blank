@@ -1,6 +1,6 @@
 ---
 id: b7f29f6f-419a-4b9d-976b-ccc2e382d6ca
-title: 'Exploring the Archetypal Realm: Tarot and Jung\''s Symbolism'
+title: "Exploring the Archetypal Realm: Tarot and Jung's Symbolism"
 permalink: /Archetypal-Realm/Exploring-the-Archetypal-Realm-Tarot-and-Jungs-Symbolism/
 categories:
   - Archetypal Realm

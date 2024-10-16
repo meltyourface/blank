@@ -1,6 +1,6 @@
 ---
 id: 836d2c9a-0f5d-44f3-961b-4664063f52a3
-title: 'Abramelin: Contacting One\''s Holy Guardian Angel'
+title: "Abramelin: Contacting One's Holy Guardian Angel"
 permalink: /Abramelin/Abramelin-Contacting-Ones-Holy-Guardian-Angel/
 categories:
   - Abramelin

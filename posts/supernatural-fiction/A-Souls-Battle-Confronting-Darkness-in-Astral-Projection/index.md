@@ -1,6 +1,6 @@
 ---
 id: 9f309a11-7ae8-4892-9efc-34ba73fed1a9
-title: 'A Soul\''s Battle: Confronting Darkness in Astral Projection'
+title: "A Soul's Battle: Confronting Darkness in Astral Projection"
 permalink: /supernatural-fiction/A-Souls-Battle-Confronting-Darkness-in-Astral-Projection/
 categories:
   - supernatural fiction

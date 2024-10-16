@@ -1,6 +1,6 @@
 ---
 id: da2c2181-d434-4275-a953-db683279d9e8
-title: "Evenson\''s Dreaming Smoke Incense Recipe"
+title: "Evenson's Dreaming Smoke Incense Recipe"
 permalink: /Brian-EvensonConjuration/Evensons-Dreaming-Smoke-Incense-Recipe/
 categories:
   - Brian EvensonConjuration

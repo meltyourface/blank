@@ -1,6 +1,6 @@
 ---
 id: f1edd6d4-2e65-4551-8dec-96e2c6516ac8
-title: 'Numerology in Agrippa\''s De Occulta Philosophia: Understanding Hidden Relationships'
+title: "Numerology in Agrippa's De Occulta Philosophia: Understanding Hidden Relationships"
 permalink: /Agrippas-De-Occulta-PhilosophiaDumuzid/Numerology-in-Agrippas-De-Occulta-Philosophia-Understanding-Hidden-Relationships/
 categories:
   - Agrippa's De Occulta PhilosophiaDumuzid

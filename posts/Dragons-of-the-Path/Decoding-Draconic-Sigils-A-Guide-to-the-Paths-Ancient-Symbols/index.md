@@ -1,6 +1,6 @@
 ---
 id: ecabe1f3-0787-4533-ba15-a3729d90c50f
-title: 'Decoding Draconic Sigils: A Guide to the Path\''s Ancient Symbols'
+title: "Decoding Draconic Sigils: A Guide to the Path's Ancient Symbols"
 permalink: /Dragons-of-the-Path/Decoding-Draconic-Sigils-A-Guide-to-the-Paths-Ancient-Symbols/
 categories:
   - Dragons of the Path

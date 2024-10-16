@@ -1,6 +1,6 @@
 ---
 id: b2ade713-b35f-4741-8b52-ef22a12cf072
-title: 'Astrological Analysis: Nietzsche\''s Birth Chart and the Will to Power'
+title: "Astrological Analysis: Nietzsche's Birth Chart and the Will to Power"
 permalink: /The-will-to-power/Astrological-Analysis-Nietzsches-Birth-Chart-and-the-Will-to-Power/
 categories:
   - The will to power

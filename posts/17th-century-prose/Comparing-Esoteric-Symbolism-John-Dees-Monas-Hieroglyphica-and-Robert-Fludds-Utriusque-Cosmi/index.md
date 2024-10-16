@@ -1,7 +1,6 @@
 ---
 id: 8b1ca53b-b175-46de-bf35-593cd677c935
-title: 'Comparing Esoteric Symbolism: John Dee\''s "Monas Hieroglyphica" and Robert
-  Fludd\''s "Utriusque Cosmi"'
+title: "Comparing Esoteric Symbolism: John Dee's "Monas Hieroglyphica" and Robert Fludd\"'s "Utriusque Cosmi"'
 permalink: /17th-century-prose/Comparing-Esoteric-Symbolism-John-Dees-Monas-Hieroglyphica-and-Robert-Fludds-Utriusque-Cosmi/
 categories:
   - 17th-century prose

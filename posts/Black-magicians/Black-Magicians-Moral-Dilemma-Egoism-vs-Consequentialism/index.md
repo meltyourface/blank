@@ -1,6 +1,6 @@
 ---
 id: 605c8229-b96c-476f-907d-7cecd4787bc0
-title: 'Black Magician\''s Moral Dilemma: Egoism vs. Consequentialism'
+title: "Black Magician's Moral Dilemma: Egoism vs. Consequentialism"
 permalink: /Black-magicians/Black-Magicians-Moral-Dilemma-Egoism-vs-Consequentialism/
 categories:
   - Black magicians

@@ -1,6 +1,6 @@
 ---
 id: 9d31e2bc-e74a-418f-a3d3-c6db18d6db80
-title: 'Tarot-Infused Handfasting Ritual: A Couple\''s Journey in Symbolism and Love'
+title: "Tarot-Infused Handfasting Ritual: A Couple's Journey in Symbolism and Love"
 permalink: /Handfasting/Tarot-Infused-Handfasting-Ritual-A-Couples-Journey-in-Symbolism-and-Love/
 categories:
   - Handfasting

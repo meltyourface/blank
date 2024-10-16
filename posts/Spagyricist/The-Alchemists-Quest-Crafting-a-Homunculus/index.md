@@ -1,6 +1,6 @@
 ---
 id: 3d9b7773-52db-4377-9b6d-7ed6e4e43206
-title: 'The Alchemist\''s Quest: Crafting a Homunculus'
+title: "The Alchemist's Quest: Crafting a Homunculus"
 permalink: /Spagyricist/The-Alchemists-Quest-Crafting-a-Homunculus/
 categories:
   - Spagyricist

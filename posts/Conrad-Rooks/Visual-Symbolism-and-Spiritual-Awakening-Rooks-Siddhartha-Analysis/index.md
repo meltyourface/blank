@@ -1,6 +1,6 @@
 ---
 id: 2183d26f-ff4d-4c7e-875c-7c872a3b0fbc
-title: "Visual Symbolism and Spiritual Awakening: Rooks\'' Siddhartha Analysis"
+title: "Visual Symbolism and Spiritual Awakening: Rooks' Siddhartha Analysis"
 permalink: /Conrad-Rooks/Visual-Symbolism-and-Spiritual-Awakening-Rooks-Siddhartha-Analysis/
 categories:
   - Conrad Rooks

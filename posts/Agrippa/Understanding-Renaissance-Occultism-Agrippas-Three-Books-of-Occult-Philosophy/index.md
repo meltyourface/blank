@@ -1,6 +1,6 @@
 ---
 id: fb707670-0612-493b-ac93-2619c65ac109
-title: 'Understanding Renaissance Occultism: Agrippa\''s Three Books of Occult Philosophy'
+title: "Understanding Renaissance Occultism: Agrippa's Three Books of Occult Philosophy"
 permalink: /Agrippa/Understanding-Renaissance-Occultism-Agrippas-Three-Books-of-Occult-Philosophy/
 categories:
   - Agrippa

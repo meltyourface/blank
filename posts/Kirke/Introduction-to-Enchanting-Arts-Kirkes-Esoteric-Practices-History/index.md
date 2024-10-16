@@ -1,6 +1,6 @@
 ---
 id: 0fc55e16-fe3a-4cb6-aafb-e3fec79d0010
-title: 'Introduction to Enchanting Arts: Kirke\''s Esoteric Practices & History'
+title: "Introduction to Enchanting Arts: Kirke's Esoteric Practices & History"
 permalink: /Kirke/Introduction-to-Enchanting-Arts-Kirkes-Esoteric-Practices-History/
 categories:
   - Kirke

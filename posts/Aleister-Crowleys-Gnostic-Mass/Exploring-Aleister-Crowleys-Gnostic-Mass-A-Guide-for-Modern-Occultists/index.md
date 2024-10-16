@@ -1,6 +1,6 @@
 ---
 id: 9f287ef6-3489-4f8b-8b6c-b647c47878e1
-title: 'Exploring Aleister Crowley\''s Gnostic Mass: A Guide for Modern Occultists'
+title: "Exploring Aleister Crowley's Gnostic Mass: A Guide for Modern Occultists"
 permalink: /Aleister-Crowleys-Gnostic-Mass/Exploring-Aleister-Crowleys-Gnostic-Mass-A-Guide-for-Modern-Occultists/
 categories:
   - Aleister Crowley's Gnostic Mass

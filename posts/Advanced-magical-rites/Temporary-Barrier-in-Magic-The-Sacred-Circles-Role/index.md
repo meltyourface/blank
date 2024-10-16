@@ -1,6 +1,6 @@
 ---
 id: 83ad8829-2b61-4fdf-9afb-f642b49bb604
-title: 'Temporary Barrier in Magic: The Sacred Circle\''s Role'
+title: "Temporary Barrier in Magic: The Sacred Circle's Role"
 permalink: /Advanced-magical-rites/Temporary-Barrier-in-Magic-The-Sacred-Circles-Role/
 categories:
   - Advanced magical rites

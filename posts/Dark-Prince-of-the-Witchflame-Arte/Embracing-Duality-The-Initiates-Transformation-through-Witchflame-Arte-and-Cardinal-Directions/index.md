@@ -1,7 +1,6 @@
 ---
 id: f7102298-e075-4afe-81fd-53d7ddf15933
-title: 'Embracing Duality: The Initiate\''s Transformation through Witchflame Arte
-  and Cardinal Directions'
+title: "Embracing Duality: The Initiate's Transformation through Witchflame Arte and Cardinal Directions"
 permalink: /Dark-Prince-of-the-Witchflame-Arte/Embracing-Duality-The-Initiates-Transformation-through-Witchflame-Arte-and-Cardinal-Directions/
 categories:
   - Dark Prince of the Witchflame Arte

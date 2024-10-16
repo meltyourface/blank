@@ -1,6 +1,6 @@
 ---
 id: 7c06af41-3641-4964-b8e3-f7a2b96caee0
-title: 'Understanding the Devil\''s Crown: Mastery, Light, and Darkness'
+title: "Understanding the Devil's Crown: Mastery, Light, and Darkness"
 permalink: /Devils-crown/Understanding-the-Devils-Crown-Mastery-Light-and-Darkness/
 categories:
   - Devil's crown

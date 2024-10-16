@@ -1,6 +1,6 @@
 ---
 id: 895266df-8e84-4f7b-a142-a38aa64683c4
-title: 'Balancing Life & Death: Azrael\''s Dominion, Necromancy, and Sigils'
+title: "Balancing Life & Death: Azrael's Dominion, Necromancy, and Sigils"
 permalink: /Key-Sigils-of-Death/Balancing-Life-Death-Azraels-Dominion-Necromancy-and-Sigils/
 categories:
   - Key Sigils of Death

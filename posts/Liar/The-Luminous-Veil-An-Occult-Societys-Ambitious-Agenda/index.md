@@ -1,6 +1,6 @@
 ---
 id: 891a49f6-cf47-41e6-a449-a658b7fcf04d
-title: '"The Luminous Veil: An Occult Society\''s Ambitious Agenda"'
+title: ""The Luminous Veil: An Occult Society's Ambitious Agenda""
 permalink: /Liar/The-Luminous-Veil-An-Occult-Societys-Ambitious-Agenda/
 categories:
   - Liar

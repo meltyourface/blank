@@ -1,6 +1,6 @@
 ---
 id: c3507b94-a3d8-462a-95e8-27125cf26244
-title: 'Knight\''s Spiritual Journey: Encounter with the Sphinx of Shadow'
+title: "Knight's Spiritual Journey: Encounter with the Sphinx of Shadow"
 permalink: /Knight-errant/Knights-Spiritual-Journey-Encounter-with-the-Sphinx-of-Shadow/
 categories:
   - Knight errant

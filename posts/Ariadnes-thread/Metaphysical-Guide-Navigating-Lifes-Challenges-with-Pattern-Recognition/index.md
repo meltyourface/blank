@@ -1,6 +1,6 @@
 ---
 id: 721b07eb-5f81-4cb3-90c0-12c599c579f1
-title: 'Metaphysical Guide: Navigating Life\''s Challenges with Pattern Recognition'
+title: "Metaphysical Guide: Navigating Life's Challenges with Pattern Recognition"
 permalink: /Ariadnes-thread/Metaphysical-Guide-Navigating-Lifes-Challenges-with-Pattern-Recognition/
 categories:
   - Ariadnes thread

@@ -1,6 +1,6 @@
 ---
 id: 9403d810-2d99-4b48-9b2e-48612d37eaef
-title: 'Exploring Agrippa\''s Occult Philosophy: Key Principles, Influences, & Applications'
+title: "Exploring Agrippa's Occult Philosophy: Key Principles, Influences, & Applications"
 permalink: /Agrippas-De-Occulta-PhilosophiaDumuzid/Exploring-Agrippas-Occult-Philosophy-Key-Principles-Influences-Applications/
 categories:
   - Agrippa's De Occulta PhilosophiaDumuzid

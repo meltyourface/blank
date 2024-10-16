@@ -1,6 +1,6 @@
 ---
 id: 8583a5d1-2e4e-47b5-8c1b-6bbcf772c482
-title: 'Hecate\''s Enchanted Altar: A Guide to Magickal Connection'
+title: "Hecate's Enchanted Altar: A Guide to Magickal Connection"
 permalink: /Magickal-practices/Hecates-Enchanted-Altar-A-Guide-to-Magickal-Connection/
 categories:
   - Magickal practices

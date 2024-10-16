@@ -1,6 +1,6 @@
 ---
 id: b3b452d1-fc75-48a9-9b38-05c528078856
-title: 'Esoteric Wisdom: The Big Man Society\''s Practices and Beliefs'
+title: "Esoteric Wisdom: The Big Man Society's Practices and Beliefs"
 permalink: /Big-Man-society/Esoteric-Wisdom-The-Big-Man-Societys-Practices-and-Beliefs/
 categories:
   - Big Man society

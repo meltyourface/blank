@@ -1,7 +1,6 @@
 ---
 id: 018487c5-d16f-441e-b271-3840e908695e
-title: 'Artworks Exploring Human Darkness: Goya\''s "Saturn Devouring His Son" and
-  Giger\''s "Necronomicon" Compared'
+title: "Artworks Exploring Human Darkness: Goya's "Saturn Devouring His Son" and Giger\"'s "Necronomicon" Compared'
 permalink: /Disturbing-images/Artworks-Exploring-Human-Darkness-Goyas-Saturn-Devouring-His-Son-and-Gigers-Necronomicon-Compared/
 categories:
   - Disturbing images

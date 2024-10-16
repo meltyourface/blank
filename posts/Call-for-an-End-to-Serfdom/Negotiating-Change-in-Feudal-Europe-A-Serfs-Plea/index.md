@@ -1,6 +1,6 @@
 ---
 id: 2bc74ab1-080e-4435-8ba3-fd0bf0587f68
-title: '"Negotiating Change in Feudal Europe: A Serf\''s Plea"'
+title: ""Negotiating Change in Feudal Europe: A Serf's Plea""
 permalink: /Call-for-an-End-to-Serfdom/Negotiating-Change-in-Feudal-Europe-A-Serfs-Plea/
 categories:
   - Call for an End to Serfdom

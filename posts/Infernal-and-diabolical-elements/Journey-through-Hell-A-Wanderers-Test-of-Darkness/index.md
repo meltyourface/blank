@@ -1,6 +1,6 @@
 ---
 id: 6474e3ca-8888-40f4-b320-f7c8cfe3b8dd
-title: 'Journey through Hell: A Wanderer\''s Test of Darkness'
+title: "Journey through Hell: A Wanderer's Test of Darkness"
 permalink: /Infernal-and-diabolical-elements/Journey-through-Hell-A-Wanderers-Test-of-Darkness/
 categories:
   - Infernal and diabolical elements

@@ -1,6 +1,6 @@
 ---
 id: bbe04f25-b4f8-48c1-8564-485f6330ee15
-title: 'The Ouroboros\'' Enigma: Timeless Cycle of Power and Destiny'
+title: "The Ouroboros' Enigma: Timeless Cycle of Power and Destiny"
 permalink: /Ouroboros/The-Ouroboros-Enigma-Timeless-Cycle-of-Power-and-Destiny/
 categories:
   - Ouroboros

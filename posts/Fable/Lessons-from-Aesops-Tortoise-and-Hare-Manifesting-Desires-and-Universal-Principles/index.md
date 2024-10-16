@@ -1,7 +1,6 @@
 ---
 id: 384b8a6c-09b4-4e9d-8ec5-673faee59310
-title: 'Lessons from Aesop\''s Tortoise and Hare: Manifesting Desires and Universal
-  Principles'
+title: "Lessons from Aesop's Tortoise and Hare: Manifesting Desires and Universal Principles"
 permalink: /Fable/Lessons-from-Aesops-Tortoise-and-Hare-Manifesting-Desires-and-Universal-Principles/
 categories:
   - Fable

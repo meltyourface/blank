@@ -1,6 +1,6 @@
 ---
 id: 0bf1ed06-a22b-4bc1-8878-8b9839829c9c
-title: 'A Magus\''s Odyssey: The Librarium Arcanum'
+title: "A Magus's Odyssey: The Librarium Arcanum"
 permalink: /Lexicon-of-terminology-used-by-alchemists-magicians-and-mystics/A-Maguss-Odyssey-The-Librarium-Arcanum/
 categories:
   - Lexicon of terminology used by alchemists, magicians, and mystics

@@ -1,6 +1,6 @@
 ---
 id: 1faae4d9-6a41-454a-9e97-52c9fad78cad
-title: 'The Wisdom of Ravens: An Esoteric Examination of Odin\''s Companions'
+title: "The Wisdom of Ravens: An Esoteric Examination of Odin's Companions"
 permalink: /Raven/The-Wisdom-of-Ravens-An-Esoteric-Examination-of-Odins-Companions/
 categories:
   - Raven

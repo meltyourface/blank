@@ -1,6 +1,6 @@
 ---
 id: a7e8b210-db09-46bd-b0f8-5f8a8432f126
-title: 'The Esoteric Aspirant\''s Path: Initiation and Growth'
+title: "The Esoteric Aspirant's Path: Initiation and Growth"
 permalink: /Probationer/The-Esoteric-Aspirants-Path-Initiation-and-Growth/
 categories:
   - Probationer

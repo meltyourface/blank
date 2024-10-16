@@ -1,6 +1,6 @@
 ---
 id: 75b5aa06-e6a3-4917-aa60-0dd15b64df40
-title: 'The Crown Prince\''s Sabbat: Evolving Legacy of Three Esoteric Visionaries'
+title: "The Crown Prince's Sabbat: Evolving Legacy of Three Esoteric Visionaries"
 permalink: /Crown-Princes-Sabbat/The-Crown-Princes-Sabbat-Evolving-Legacy-of-Three-Esoteric-Visionaries/
 categories:
   - Crown Prince's Sabbat

@@ -1,6 +1,6 @@
 ---
 id: d02049ea-2f95-4c4c-8ed1-3d9bf906b0f9
-title: 'Owl as Guide: Symbolic Exploration in The Night\''s Watcher'
+title: "Owl as Guide: Symbolic Exploration in The Night's Watcher"
 permalink: /Owl-as-a-symbol/Owl-as-Guide-Symbolic-Exploration-in-The-Nights-Watcher/
 categories:
   - Owl as a symbol

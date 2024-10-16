@@ -1,7 +1,6 @@
 ---
 id: 2f1a2c85-e956-4317-b5c3-8fe0e83ab45d
-title: '"Exploring Freemasonry\''s Winding Stairs: Senses, Liberal Arts, and Personal
-  Growth"'
+title: ""Exploring Freemasonry's Winding Stairs: Senses, Liberal Arts, and Personal Growth""
 permalink: /Fellow-Craft-degree/Exploring-Freemasonrys-Winding-Stairs-Senses-Liberal-Arts-and-Personal-Growth/
 categories:
   - Fellow Craft degree

@@ -1,6 +1,6 @@
 ---
 id: c7acedf6-0b73-42d7-be1a-d8edb7d1d9e6
-title: 'A Disciples Devotion: Shamash\''s Guiding Light'
+title: "A Disciples Devotion: Shamash's Guiding Light"
 permalink: /Shamash-solar-god-of-justice/A-Disciples-Devotion-Shamashs-Guiding-Light/
 categories:
   - Shamash (solar god of justice)

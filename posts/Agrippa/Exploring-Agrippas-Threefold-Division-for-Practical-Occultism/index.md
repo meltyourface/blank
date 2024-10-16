@@ -1,6 +1,6 @@
 ---
 id: 89dabeae-63ea-4c1e-9e95-bcb21727cdaf
-title: '"Exploring Agrippa\''s Threefold Division for Practical Occultism"'
+title: ""Exploring Agrippa's Threefold Division for Practical Occultism""
 permalink: /Agrippa/Exploring-Agrippas-Threefold-Division-for-Practical-Occultism/
 categories:
   - Agrippa

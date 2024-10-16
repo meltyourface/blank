@@ -1,6 +1,6 @@
 ---
 id: a7463bb9-f22b-4615-b585-36632938ce6e
-title: 'Goethe\''s Inspirations: Key Works Shaping His Thoughts'
+title: "Goethe's Inspirations: Key Works Shaping His Thoughts"
 permalink: /Johann-Wolfgang-von-Goethe/Goethes-Inspirations-Key-Works-Shaping-His-Thoughts/
 categories:
   - Johann Wolfgang von Goethe

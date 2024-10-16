@@ -1,6 +1,6 @@
 ---
 id: 23082c63-6f1c-40cc-9c35-3c1b51af584c
-title: 'Foundations of Spirit Conjuration: LBRP, Watchtowers, & Summoner\''s Triangle'
+title: "Foundations of Spirit Conjuration: LBRP, Watchtowers, & Summoner's Triangle"
 permalink: /Summoner-of-spirits/Foundations-of-Spirit-Conjuration-LBRP-Watchtowers-Summoners-Triangle/
 categories:
   - Summoner of spirits

@@ -1,6 +1,6 @@
 ---
 id: 73a6274f-3cdc-419f-bb67-a62748ab800b
-title: 'Alchemical Transformation: The Philosopher\''s Stone'
+title: "Alchemical Transformation: The Philosopher's Stone"
 permalink: /Alchemical-tradition/Alchemical-Transformation-The-Philosophers-Stone/
 categories:
   - Alchemical tradition

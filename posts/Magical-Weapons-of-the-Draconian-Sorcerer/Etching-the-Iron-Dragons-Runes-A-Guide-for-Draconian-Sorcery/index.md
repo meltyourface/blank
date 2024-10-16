@@ -1,6 +1,6 @@
 ---
 id: 7d83f72f-8f81-4495-8130-1b688921a33e
-title: '"Etching the Iron Dragon\''s Runes: A Guide for Draconian Sorcery"'
+title: ""Etching the Iron Dragon's Runes: A Guide for Draconian Sorcery""
 permalink: /Magical-Weapons-of-the-Draconian-Sorcerer/Etching-the-Iron-Dragons-Runes-A-Guide-for-Draconian-Sorcery/
 categories:
   - Magical Weapons of the Draconian Sorcerer

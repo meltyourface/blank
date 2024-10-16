@@ -1,7 +1,6 @@
 ---
 id: 603cf878-e617-41dc-95e2-8e04c18471dd
-title: 'The Prophet Mani\''s Universal Spiritual Synthesis: Perennial Wisdom and the
-  Manichaean Religion'
+title: "The Prophet Mani's Universal Spiritual Synthesis: Perennial Wisdom and the Manichaean Religion"
 permalink: /Prophet/The-Prophet-Manis-Universal-Spiritual-Synthesis-Perennial-Wisdom-and-the-Manichaean-Religion/
 categories:
   - Prophet

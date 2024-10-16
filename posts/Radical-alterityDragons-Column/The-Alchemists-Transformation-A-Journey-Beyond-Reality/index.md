@@ -1,6 +1,6 @@
 ---
 id: 963cfd34-3859-4f68-a0d1-0cb3d7f86c7e
-title: 'The Alchemist\''s Transformation: A Journey Beyond Reality'
+title: "The Alchemist's Transformation: A Journey Beyond Reality"
 permalink: /Radical-alterityDragons-Column/The-Alchemists-Transformation-A-Journey-Beyond-Reality/
 categories:
   - Radical alterity.Dragon's Column

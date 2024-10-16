@@ -1,6 +1,6 @@
 ---
 id: 8938fc38-9ecb-496f-9bc9-cd8c26bbd386
-title: "Cyclical Transformation through Snake\''s Shedding and Alchemy"
+title: "Cyclical Transformation through Snake's Shedding and Alchemy"
 permalink: /Skin-Turning/Cyclical-Transformation-through-Snakes-Shedding-and-Alchemy/
 categories:
   - Skin-Turning

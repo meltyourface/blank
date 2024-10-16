@@ -1,6 +1,6 @@
 ---
 id: 581eb081-e0c0-4d22-81d2-7ab470a75008
-title: '"Eternal Love & Cosmic Union: Raia and Ankhmahor\''s Karmic Bond"'
+title: ""Eternal Love & Cosmic Union: Raia and Ankhmahor's Karmic Bond""
 permalink: /Love/Eternal-Love-Cosmic-Union-Raia-and-Ankhmahors-Karmic-Bond/
 categories:
   - Love

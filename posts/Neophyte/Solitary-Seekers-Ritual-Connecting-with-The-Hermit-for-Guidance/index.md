@@ -1,6 +1,6 @@
 ---
 id: 866731f9-0416-4482-ba8e-7ff824a42e18
-title: 'Solitary Seeker\''s Ritual: Connecting with The Hermit for Guidance'
+title: "Solitary Seeker's Ritual: Connecting with The Hermit for Guidance"
 permalink: /Neophyte/Solitary-Seekers-Ritual-Connecting-with-The-Hermit-for-Guidance/
 categories:
   - Neophyte

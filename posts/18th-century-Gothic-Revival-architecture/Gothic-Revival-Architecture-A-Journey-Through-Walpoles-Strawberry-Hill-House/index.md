@@ -1,7 +1,6 @@
 ---
 id: 64875408-6293-42c6-8b2b-dceab3e73df9
-title: 'Gothic Revival Architecture: A Journey Through Walpole\''s Strawberry Hill
-  House'
+title: "Gothic Revival Architecture: A Journey Through Walpole's Strawberry Hill House"
 permalink: /18th-century-Gothic-Revival-architecture/Gothic-Revival-Architecture-A-Journey-Through-Walpoles-Strawberry-Hill-House/
 categories:
   - 18th-century Gothic Revival architecture

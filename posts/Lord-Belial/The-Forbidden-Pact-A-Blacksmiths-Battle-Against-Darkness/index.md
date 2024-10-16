@@ -1,6 +1,6 @@
 ---
 id: a7690209-c837-4215-8884-04775efb9755
-title: 'The Forbidden Pact: A Blacksmith\''s Battle Against Darkness'
+title: "The Forbidden Pact: A Blacksmith's Battle Against Darkness"
 permalink: /Lord-Belial/The-Forbidden-Pact-A-Blacksmiths-Battle-Against-Darkness/
 categories:
   - Lord Belial

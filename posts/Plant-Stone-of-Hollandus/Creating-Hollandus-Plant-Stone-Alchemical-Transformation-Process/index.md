@@ -1,6 +1,6 @@
 ---
 id: 664d57d0-be77-4862-bcc7-93d5bcd16aba
-title: 'Creating Hollandus\'' Plant Stone: Alchemical Transformation Process'
+title: "Creating Hollandus' Plant Stone: Alchemical Transformation Process"
 permalink: /Plant-Stone-of-Hollandus/Creating-Hollandus-Plant-Stone-Alchemical-Transformation-Process/
 categories:
   - Plant Stone of Hollandus

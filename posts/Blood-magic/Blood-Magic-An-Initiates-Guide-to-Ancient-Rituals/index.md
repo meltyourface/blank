@@ -1,6 +1,6 @@
 ---
 id: c3da0ae6-10f3-4f57-8df8-bac23c00ed69
-title: 'Blood Magic: An Initiate\''s Guide to Ancient Rituals'
+title: "Blood Magic: An Initiate's Guide to Ancient Rituals"
 permalink: /Blood-magic/Blood-Magic-An-Initiates-Guide-to-Ancient-Rituals/
 categories:
   - Blood magic

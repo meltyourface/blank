@@ -1,6 +1,6 @@
 ---
 id: c21688bf-6b69-4981-867d-03651728d094
-title: 'Abbey of Do What Thou Wilt\''s Central Tenet: Love Under Will'
+title: "Abbey of Do What Thou Wilt's Central Tenet: Love Under Will"
 permalink: /Abbey-of-Do-What-Thou-Wilt/Abbey-of-Do-What-Thou-Wilts-Central-Tenet-Love-Under-Will/
 categories:
   - Abbey of Do What Thou Wilt

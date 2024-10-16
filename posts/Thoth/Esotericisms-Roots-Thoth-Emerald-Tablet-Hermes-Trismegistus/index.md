@@ -1,6 +1,6 @@
 ---
 id: c5af0fc3-edc3-4a06-a89d-33c7a0a83f3a
-title: 'Esotericism\''s Roots: Thoth, Emerald Tablet, Hermes Trismegistus'
+title: "Esotericism's Roots: Thoth, Emerald Tablet, Hermes Trismegistus"
 permalink: /Thoth/Esotericisms-Roots-Thoth-Emerald-Tablet-Hermes-Trismegistus/
 categories:
   - Thoth

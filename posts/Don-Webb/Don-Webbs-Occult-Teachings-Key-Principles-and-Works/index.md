@@ -1,6 +1,6 @@
 ---
 id: d5701010-99c8-49fc-afe0-ee4ada1f3569
-title: 'Don Webb\''s Occult Teachings: Key Principles and Works'
+title: "Don Webb's Occult Teachings: Key Principles and Works"
 permalink: /Don-Webb/Don-Webbs-Occult-Teachings-Key-Principles-and-Works/
 categories:
   - Don Webb

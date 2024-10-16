@@ -1,6 +1,6 @@
 ---
 id: 96d7b046-3f02-4aa6-b87b-c56c401f7b25
-title: 'Overview: Agrippa\''s Fourth Book on Esoteric Magic'
+title: "Overview: Agrippa's Fourth Book on Esoteric Magic"
 permalink: /Liber-Quartus-de-Occulta-Philosophia/Overview-Agrippas-Fourth-Book-on-Esoteric-Magic/
 categories:
   - Liber Quartus de Occulta Philosophia

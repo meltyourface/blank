@@ -1,6 +1,6 @@
 ---
 id: 962363d9-4cde-4a9f-8d60-587e0559cedc
-title: 'Navigating Gamaliel\''s Labyrinth: A Qliphothic Journey into Dreams and Shadows'
+title: "Navigating Gamaliel's Labyrinth: A Qliphothic Journey into Dreams and Shadows"
 permalink: /Qliphothic-Impulse/Navigating-Gamaliels-Labyrinth-A-Qliphothic-Journey-into-Dreams-and-Shadows/
 categories:
   - Qliphothic Impulse

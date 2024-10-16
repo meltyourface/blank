@@ -1,6 +1,6 @@
 ---
 id: 40413239-b96d-458a-b870-b124db90d6f5
-title: 'Algernon Blackwood\''s Supernatural Narrative: Theosophy and Psychical Research'
+title: "Algernon Blackwood's Supernatural Narrative: Theosophy and Psychical Research"
 permalink: /Algernon-Blackwood/Algernon-Blackwoods-Supernatural-Narrative-Theosophy-and-Psychical-Research/
 categories:
   - Algernon Blackwood

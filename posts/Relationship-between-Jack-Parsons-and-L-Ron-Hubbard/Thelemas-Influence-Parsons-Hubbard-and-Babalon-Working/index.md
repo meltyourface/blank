@@ -1,6 +1,6 @@
 ---
 id: 4b6c3dde-0a38-40ca-8def-8d296fb12b17
-title: 'Thelema\''s Influence: Parsons, Hubbard, and Babalon Working'
+title: "Thelema's Influence: Parsons, Hubbard, and Babalon Working"
 permalink: /Relationship-between-Jack-Parsons-and-L-Ron-Hubbard/Thelemas-Influence-Parsons-Hubbard-and-Babalon-Working/
 categories:
   - Relationship between Jack Parsons and L Ron Hubbard

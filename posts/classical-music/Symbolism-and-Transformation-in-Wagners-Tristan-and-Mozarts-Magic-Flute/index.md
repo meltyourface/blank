@@ -1,7 +1,6 @@
 ---
 id: db8b09ba-395a-42a8-9e9c-42027adecdb5
-title: '"Symbolism and Transformation in Wagner\''s \''Tristan\'' and Mozart\''s \''Magic
-  Flute\''"'
+title: ""Symbolism and Transformation in Wagner\''s \''Tristan\'' and Mozart's 'Magic Flute\"'"'
 permalink: /classical-music/Symbolism-and-Transformation-in-Wagners-Tristan-and-Mozarts-Magic-Flute/
 categories:
   - classical music

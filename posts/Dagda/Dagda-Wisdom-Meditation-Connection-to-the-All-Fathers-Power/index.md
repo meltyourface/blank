@@ -1,6 +1,6 @@
 ---
 id: c6b112ab-6450-4229-85b4-aa49538e27e2
-title: 'Dagda Wisdom Meditation: Connection to the All-Father\''s Power'
+title: "Dagda Wisdom Meditation: Connection to the All-Father's Power"
 permalink: /Dagda/Dagda-Wisdom-Meditation-Connection-to-the-All-Fathers-Power/
 categories:
   - Dagda

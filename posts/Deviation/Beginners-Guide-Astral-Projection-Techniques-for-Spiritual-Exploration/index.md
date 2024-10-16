@@ -1,6 +1,6 @@
 ---
 id: fce44826-ab40-477e-9bfb-d1f0ba300bdd
-title: 'Beginner\''s Guide: Astral Projection Techniques for Spiritual Exploration'
+title: "Beginner's Guide: Astral Projection Techniques for Spiritual Exploration"
 permalink: /Deviation/Beginners-Guide-Astral-Projection-Techniques-for-Spiritual-Exploration/
 categories:
   - Deviation

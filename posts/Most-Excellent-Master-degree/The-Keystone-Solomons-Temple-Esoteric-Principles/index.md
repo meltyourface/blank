@@ -1,6 +1,6 @@
 ---
 id: 78a81cb6-b17f-416b-b8d3-c7c2e7082072
-title: 'The Keystone: Solomon\''s Temple & Esoteric Principles'
+title: "The Keystone: Solomon's Temple & Esoteric Principles"
 permalink: /Most-Excellent-Master-degree/The-Keystone-Solomons-Temple-Esoteric-Principles/
 categories:
   - Most Excellent Master degree

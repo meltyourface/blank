@@ -1,6 +1,6 @@
 ---
 id: 59fe7ab5-6171-41d1-bb48-38d235342661
-title: '"Alaric\''s Initiation into the World of Diagrammatica"'
+title: ""Alaric's Initiation into the World of Diagrammatica""
 permalink: /Diagrammatic-material/Alarics-Initiation-into-the-World-of-Diagrammatica/
 categories:
   - Diagrammatic material

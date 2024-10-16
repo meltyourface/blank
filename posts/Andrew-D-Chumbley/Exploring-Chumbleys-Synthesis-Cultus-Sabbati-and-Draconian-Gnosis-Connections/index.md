@@ -1,6 +1,6 @@
 ---
 id: 64a6e663-6b2e-410b-a0a1-830fc3311de2
-title: 'Exploring Chumbley\''s Synthesis: Cultus Sabbati and Draconian Gnosis Connections'
+title: "Exploring Chumbley's Synthesis: Cultus Sabbati and Draconian Gnosis Connections"
 permalink: /Andrew-D-Chumbley/Exploring-Chumbleys-Synthesis-Cultus-Sabbati-and-Draconian-Gnosis-Connections/
 categories:
   - Andrew D Chumbley

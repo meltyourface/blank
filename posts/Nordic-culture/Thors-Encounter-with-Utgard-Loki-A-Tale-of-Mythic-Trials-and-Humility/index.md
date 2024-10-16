@@ -1,6 +1,6 @@
 ---
 id: 902355ce-aeea-43d6-8d4f-575c91a249a8
-title: 'Thor\''s Encounter with Utgard-Loki: A Tale of Mythic Trials and Humility'
+title: "Thor's Encounter with Utgard-Loki: A Tale of Mythic Trials and Humility"
 permalink: /Nordic-culture/Thors-Encounter-with-Utgard-Loki-A-Tale-of-Mythic-Trials-and-Humility/
 categories:
   - Nordic culture

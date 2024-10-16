@@ -1,6 +1,6 @@
 ---
 id: 66b2923a-b802-4060-9ef0-941bb967e439
-title: 'Astrological Analysis: John Doe\''s Natal Chart'
+title: "Astrological Analysis: John Doe's Natal Chart"
 permalink: /Western-esotericism/Astrological-Analysis-John-Does-Natal-Chart/
 categories:
   - Western esotericism

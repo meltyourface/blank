@@ -1,6 +1,6 @@
 ---
 id: a08160a0-1e3c-4a93-9b77-c3e1c0ef3f7e
-title: 'Exploring Kosmic Gnosis: Devil\''s Witchcraft Practices'
+title: "Exploring Kosmic Gnosis: Devil's Witchcraft Practices"
 permalink: /Kosmic-GnosisDevils-Witchcraft/Exploring-Kosmic-Gnosis-Devils-Witchcraft-Practices/
 categories:
   - Kosmic GnosisDevil's Witchcraft

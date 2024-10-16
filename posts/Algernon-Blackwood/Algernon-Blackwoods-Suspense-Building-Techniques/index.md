@@ -1,6 +1,6 @@
 ---
 id: 223db10a-d348-4c28-8a28-5948c407124e
-title: '"Algernon Blackwood\''s Suspense-Building Techniques"'
+title: ""Algernon Blackwood's Suspense-Building Techniques""
 permalink: /Algernon-Blackwood/Algernon-Blackwoods-Suspense-Building-Techniques/
 categories:
   - Algernon Blackwood

@@ -1,6 +1,6 @@
 ---
 id: 9002ec33-ae79-431c-bd43-9623c8536fca
-title: 'Nightly Dream Work: Hecate\''s Guided Ritual for Prophetic Insights'
+title: "Nightly Dream Work: Hecate's Guided Ritual for Prophetic Insights"
 permalink: /Goddess-Hecate/Nightly-Dream-Work-Hecates-Guided-Ritual-for-Prophetic-Insights/
 categories:
   - Goddess Hecate

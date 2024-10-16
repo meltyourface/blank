@@ -1,7 +1,6 @@
 ---
 id: c59c78ba-2faa-4271-9c31-5dbc38b5f53f
-title: 'Contemporary Witch-Hunting: Preserving Matthew Hopkins\'' Legacy in the Digital
-  Age'
+title: "Contemporary Witch-Hunting: Preserving Matthew Hopkins' Legacy in the Digital Age"
 permalink: /Items-used-and-kept-by-Matthew-HopkinsGnostic-treatise/Contemporary-Witch-Hunting-Preserving-Matthew-Hopkins-Legacy-in-the-Digital-Age/
 categories:
   - Items used and kept by Matthew HopkinsGnostic treatise

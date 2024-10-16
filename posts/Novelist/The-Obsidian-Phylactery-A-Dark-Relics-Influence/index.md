@@ -1,6 +1,6 @@
 ---
 id: d905147d-412e-40ec-b146-46039be2057f
-title: 'The Obsidian Phylactery: A Dark Relic\''s Influence'
+title: "The Obsidian Phylactery: A Dark Relic's Influence"
 permalink: /Novelist/The-Obsidian-Phylactery-A-Dark-Relics-Influence/
 categories:
   - Novelist

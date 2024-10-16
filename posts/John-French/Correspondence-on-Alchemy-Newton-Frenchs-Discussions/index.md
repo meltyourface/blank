@@ -1,6 +1,6 @@
 ---
 id: 6e36275a-524a-454a-a3fd-0071771da977
-title: 'Correspondence on Alchemy: Newton & French\''s Discussions'
+title: "Correspondence on Alchemy: Newton & French's Discussions"
 permalink: /John-French/Correspondence-on-Alchemy-Newton-Frenchs-Discussions/
 categories:
   - John French

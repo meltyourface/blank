@@ -1,6 +1,6 @@
 ---
 id: e33cb295-b552-4aec-8406-d2ec19394222
-title: 'Lunar Ritual: Empowerment & Personal Growth (Artemis\'' Enigmatic Rite)'
+title: "Lunar Ritual: Empowerment & Personal Growth (Artemis' Enigmatic Rite)"
 permalink: /Artemis/Lunar-Ritual-Empowerment-Personal-Growth-Artemis-Enigmatic-Rite/
 categories:
   - Artemis

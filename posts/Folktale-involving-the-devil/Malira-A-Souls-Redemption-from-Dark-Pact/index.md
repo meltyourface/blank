@@ -1,6 +1,6 @@
 ---
 id: 02041287-26ab-4ece-92e9-6eb072a27d55
-title: 'Malira: A Soul\''s Redemption from Dark Pact'
+title: "Malira: A Soul's Redemption from Dark Pact"
 permalink: /Folktale-involving-the-devil/Malira-A-Souls-Redemption-from-Dark-Pact/
 categories:
   - Folktale involving the devil

@@ -1,6 +1,6 @@
 ---
 id: 9b58d7a7-4b89-4334-b73b-ace907d3be91
-title: 'Abramelin System: Connecting with One\''s Holy Guardian Angel'
+title: "Abramelin System: Connecting with One's Holy Guardian Angel"
 permalink: /Abramelin/Abramelin-System-Connecting-with-Ones-Holy-Guardian-Angel/
 categories:
   - Abramelin

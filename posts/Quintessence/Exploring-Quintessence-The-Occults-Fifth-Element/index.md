@@ -1,6 +1,6 @@
 ---
 id: 718c640f-c72d-435f-9d66-297b82557b55
-title: 'Exploring Quintessence: The Occult\''s Fifth Element'
+title: "Exploring Quintessence: The Occult's Fifth Element"
 permalink: /Quintessence/Exploring-Quintessence-The-Occults-Fifth-Element/
 categories:
   - Quintessence

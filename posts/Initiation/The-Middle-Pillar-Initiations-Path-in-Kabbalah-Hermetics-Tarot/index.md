@@ -1,6 +1,6 @@
 ---
 id: ba3b2f7a-6d32-4c77-ba2a-69368daa73a2
-title: 'The Middle Pillar: Initiation\''s Path in Kabbalah, Hermetics, & Tarot'
+title: "The Middle Pillar: Initiation's Path in Kabbalah, Hermetics, & Tarot"
 permalink: /Initiation/The-Middle-Pillar-Initiations-Path-in-Kabbalah-Hermetics-Tarot/
 categories:
   - Initiation

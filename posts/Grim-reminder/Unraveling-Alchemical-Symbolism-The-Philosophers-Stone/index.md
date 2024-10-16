@@ -1,6 +1,6 @@
 ---
 id: 97849a41-aa86-4056-b380-ad5929421d08
-title: "Unraveling Alchemical Symbolism: The Philosopher\''s Stone"
+title: "Unraveling Alchemical Symbolism: The Philosopher's Stone"
 permalink: /Grim-reminder/Unraveling-Alchemical-Symbolism-The-Philosophers-Stone/
 categories:
   - Grim reminder

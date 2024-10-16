@@ -1,6 +1,6 @@
 ---
 id: a07c6297-7974-4798-bc83-6e024d245819
-title: 'Alchemical Raven: Emblem of Soul\''s Transformation'
+title: "Alchemical Raven: Emblem of Soul's Transformation"
 permalink: /Raven/Alchemical-Raven-Emblem-of-Souls-Transformation/
 categories:
   - Raven

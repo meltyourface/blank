@@ -1,6 +1,6 @@
 ---
 id: 66f19578-bc4b-4152-a848-bea311972af1
-title: 'Aristotle\''s Cosmology vs Contemporary Science: A Comparative Study'
+title: "Aristotle's Cosmology vs Contemporary Science: A Comparative Study"
 permalink: /Aristotle/Aristotles-Cosmology-vs-Contemporary-Science-A-Comparative-Study/
 categories:
   - Aristotle

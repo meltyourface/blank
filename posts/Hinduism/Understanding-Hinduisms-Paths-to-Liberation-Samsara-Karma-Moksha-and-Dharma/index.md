@@ -1,7 +1,6 @@
 ---
 id: b4a00edf-b562-4250-bd05-7c48bf01a57f
-title: 'Understanding Hinduism\''s Paths to Liberation: Samsara, Karma, Moksha, and
-  Dharma'
+title: "Understanding Hinduism's Paths to Liberation: Samsara, Karma, Moksha, and Dharma"
 permalink: /Hinduism/Understanding-Hinduisms-Paths-to-Liberation-Samsara-Karma-Moksha-and-Dharma/
 categories:
   - Hinduism

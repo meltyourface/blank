@@ -1,6 +1,6 @@
 ---
 id: 017598b3-d33a-44d8-bb95-3c4ffdfdae3d
-title: 'The Alchemical Symphony: Leklai\''s Connection to the Emerald Tablet'
+title: "The Alchemical Symphony: Leklai's Connection to the Emerald Tablet"
 permalink: /LeklaiHermetic-Tradition/The-Alchemical-Symphony-Leklais-Connection-to-the-Emerald-Tablet/
 categories:
   - LeklaiHermetic Tradition

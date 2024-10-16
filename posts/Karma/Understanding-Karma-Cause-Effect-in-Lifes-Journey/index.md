@@ -1,6 +1,6 @@
 ---
 id: 01d95f11-1848-471d-bc65-7efe95bb46cc
-title: 'Understanding Karma: Cause & Effect in Life\''s Journey'
+title: "Understanding Karma: Cause & Effect in Life's Journey"
 permalink: /Karma/Understanding-Karma-Cause-Effect-in-Lifes-Journey/
 categories:
   - Karma

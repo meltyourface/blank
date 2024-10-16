@@ -1,6 +1,6 @@
 ---
 id: 0b4a7581-ab93-4853-9786-c5eefe6af9a9
-title: '"Rasputin\''s Occult Rise and Fall: The Covenant of Azazel"'
+title: ""Rasputin's Occult Rise and Fall: The Covenant of Azazel""
 permalink: /Magia-negra/Rasputins-Occult-Rise-and-Fall-The-Covenant-of-Azazel/
 categories:
   - Magia negra

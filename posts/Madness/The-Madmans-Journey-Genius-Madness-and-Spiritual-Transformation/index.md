@@ -1,6 +1,6 @@
 ---
 id: 4ba935ea-4872-4640-b43b-2befad375090
-title: 'The Madman\''s Journey: Genius, Madness, and Spiritual Transformation'
+title: "The Madman's Journey: Genius, Madness, and Spiritual Transformation"
 permalink: /Madness/The-Madmans-Journey-Genius-Madness-and-Spiritual-Transformation/
 categories:
   - Madness

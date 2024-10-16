@@ -1,6 +1,6 @@
 ---
 id: fe4c8b3e-a625-4d78-840c-753faec95cc3
-title: 'Comparative Analysis: Hero\''s Journey and Redemption in Mayan and Greek Mythologies'
+title: "Comparative Analysis: Hero's Journey and Redemption in Mayan and Greek Mythologies"
 permalink: /Mythopoetic-journey/Comparative-Analysis-Heros-Journey-and-Redemption-in-Mayan-and-Greek-Mythologies/
 categories:
   - Mythopoetic journey

@@ -1,6 +1,6 @@
 ---
 id: a11aac4d-51cc-419f-856e-d1a5e98b04dd
-title: 'Core Tenets and Symbols of Thelema: Aleister Crowley\''s Modern Spirituality'
+title: "Core Tenets and Symbols of Thelema: Aleister Crowley's Modern Spirituality"
 permalink: /The-Cult-of-Thelema/Core-Tenets-and-Symbols-of-Thelema-Aleister-Crowleys-Modern-Spirituality/
 categories:
   - The Cult of Thelema

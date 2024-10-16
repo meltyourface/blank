@@ -1,6 +1,6 @@
 ---
 id: 77796046-a11f-4d94-9155-1a5e18f5b5d4
-title: 'Exploring Mysticism & Supernaturalism: Algernon Blackwood\''s Life & Work'
+title: "Exploring Mysticism & Supernaturalism: Algernon Blackwood's Life & Work"
 permalink: /Algernon-Blackwood/Exploring-Mysticism-Supernaturalism-Algernon-Blackwoods-Life-Work/
 categories:
   - Algernon Blackwood

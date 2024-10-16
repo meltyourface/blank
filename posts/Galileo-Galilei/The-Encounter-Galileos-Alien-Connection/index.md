@@ -1,6 +1,6 @@
 ---
 id: 35cc8fb9-628d-4fb9-9c4a-a5a1fc6dde37
-title: 'The Encounter: Galileo\''s Alien Connection'
+title: "The Encounter: Galileo's Alien Connection"
 permalink: /Galileo-Galilei/The-Encounter-Galileos-Alien-Connection/
 categories:
   - Galileo Galilei

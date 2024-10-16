@@ -1,7 +1,6 @@
 ---
 id: 4671e885-eb2d-4565-aabb-dd503d984bb7
-title: 'Leonora Carrington\''s Surrealist Artwork and Occult Beliefs: Female Empowerment
-  and Mythological Symbolism'
+title: "Leonora Carrington's Surrealist Artwork and Occult Beliefs: Female Empowerment and Mythological Symbolism"
 permalink: /Leonora-Carrington/Leonora-Carringtons-Surrealist-Artwork-and-Occult-Beliefs-Female-Empowerment-and-Mythological-Symbol/
 categories:
   - Leonora Carrington

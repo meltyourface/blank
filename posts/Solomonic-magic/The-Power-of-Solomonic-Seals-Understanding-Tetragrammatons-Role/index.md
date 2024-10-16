@@ -1,6 +1,6 @@
 ---
 id: aaf8c565-e24d-4113-b82d-b0303aed98c8
-title: 'The Power of Solomonic Seals: Understanding Tetragrammaton\''s Role'
+title: "The Power of Solomonic Seals: Understanding Tetragrammaton's Role"
 permalink: /Solomonic-magic/The-Power-of-Solomonic-Seals-Understanding-Tetragrammatons-Role/
 categories:
   - Solomonic magic

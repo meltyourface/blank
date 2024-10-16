@@ -1,7 +1,6 @@
 ---
 id: b77c3058-1285-42ae-91bd-014bad5248c7
-title: 'Michael Cisco\''s Metaphysical Cosmos: A Literary Journey Through Esotericism
-  and the Occult'
+title: "Michael Cisco's Metaphysical Cosmos: A Literary Journey Through Esotericism and the Occult"
 permalink: /Michael-Cisco/Michael-Ciscos-Metaphysical-Cosmos-A-Literary-Journey-Through-Esotericism-and-the-Occult/
 categories:
   - Michael Cisco

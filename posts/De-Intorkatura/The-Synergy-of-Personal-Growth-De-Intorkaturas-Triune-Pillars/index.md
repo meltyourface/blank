@@ -1,6 +1,6 @@
 ---
 id: e1c662c3-15fc-4ab3-a9ef-f13165977632
-title: 'The Synergy of Personal Growth: De Intorkatura\''s Triune Pillars'
+title: "The Synergy of Personal Growth: De Intorkatura's Triune Pillars"
 permalink: /De-Intorkatura/The-Synergy-of-Personal-Growth-De-Intorkaturas-Triune-Pillars/
 categories:
   - De Intorkatura

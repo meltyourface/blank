@@ -1,6 +1,6 @@
 ---
 id: 9f87c97e-ae88-4147-8269-9bd266115a04
-title: 'Manifesto of The Unseen Hand: A Criminal Mastermind\''s Quest for Global Change'
+title: "Manifesto of The Unseen Hand: A Criminal Mastermind's Quest for Global Change"
 permalink: /putting-oneself-in-a-criminals-shoes/Manifesto-of-The-Unseen-Hand-A-Criminal-Masterminds-Quest-for-Global-Change/
 categories:
   - putting oneself in a criminal's shoes

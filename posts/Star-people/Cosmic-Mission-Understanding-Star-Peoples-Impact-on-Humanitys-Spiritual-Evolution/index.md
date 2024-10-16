@@ -1,7 +1,6 @@
 ---
 id: e8caddec-fc05-4e65-91de-67385bbb0ca1
-title: 'Cosmic Mission: Understanding Star People\''s Impact on Humanity\''s Spiritual
-  Evolution'
+title: "Cosmic Mission: Understanding Star People's Impact on Humanity's Spiritual Evolution"
 permalink: /Star-people/Cosmic-Mission-Understanding-Star-Peoples-Impact-on-Humanitys-Spiritual-Evolution/
 categories:
   - Star people

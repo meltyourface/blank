@@ -1,6 +1,6 @@
 ---
 id: 236b004c-690e-4b0a-aabc-7be05b7c79f8
-title: 'Esotericism\''s Impact on Three Royal Dynasties: Egypt, Russia, England'
+title: "Esotericism's Impact on Three Royal Dynasties: Egypt, Russia, England"
 permalink: /Royal-dynasties/Esotericisms-Impact-on-Three-Royal-Dynasties-Egypt-Russia-England/
 categories:
   - Royal dynasties

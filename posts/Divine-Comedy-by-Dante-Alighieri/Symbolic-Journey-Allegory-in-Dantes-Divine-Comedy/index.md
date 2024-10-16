@@ -1,6 +1,6 @@
 ---
 id: f92332ee-a733-4b65-9e11-becb79e6fdd6
-title: 'Symbolic Journey: Allegory in Dante\''s Divine Comedy'
+title: "Symbolic Journey: Allegory in Dante's Divine Comedy"
 permalink: /Divine-Comedy-by-Dante-Alighieri/Symbolic-Journey-Allegory-in-Dantes-Divine-Comedy/
 categories:
   - Divine Comedy by Dante Alighieri

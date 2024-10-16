@@ -1,6 +1,6 @@
 ---
 id: 1333f299-c0fd-404d-a13e-eb99c3ac1771
-title: 'Adolphus\'' Mentalism: Power of Intention in Occultism'
+title: "Adolphus' Mentalism: Power of Intention in Occultism"
 permalink: /Adolphus/Adolphus-Mentalism-Power-of-Intention-in-Occultism/
 categories:
   - Adolphus

@@ -1,6 +1,6 @@
 ---
 id: fd9e1cda-bab3-45a9-af47-94325c6bdd74
-title: '"The Fool\''s Journey: Balancing Duality through Geb & Nut Union"'
+title: ""The Fool's Journey: Balancing Duality through Geb & Nut Union""
 permalink: /Egyptian-Tarot/The-Fools-Journey-Balancing-Duality-through-Geb-Nut-Union/
 categories:
   - Egyptian Tarot

@@ -1,6 +1,6 @@
 ---
 id: 0200ddd6-4433-4b99-b5f5-a8d4a73e99e5
-title: 'Exploring the Power of Esoteric Fissure: Accessing Reality\''s Hidden Cracks'
+title: "Exploring the Power of Esoteric Fissure: Accessing Reality's Hidden Cracks"
 permalink: /Fissure/Exploring-the-Power-of-Esoteric-Fissure-Accessing-Realitys-Hidden-Cracks/
 categories:
   - Fissure

@@ -1,6 +1,6 @@
 ---
 id: 74536156-f607-4348-8fe6-eb4c9ced9a83
-title: 'The Inverted Scythe: Emblem of the Left-Handed Reaper\''s Esoteric Philosophy'
+title: "The Inverted Scythe: Emblem of the Left-Handed Reaper's Esoteric Philosophy"
 permalink: /Cult-of-the-Left-Handed-Reaper/The-Inverted-Scythe-Emblem-of-the-Left-Handed-Reapers-Esoteric-Philosophy/
 categories:
   - Cult of the Left-Handed Reaper

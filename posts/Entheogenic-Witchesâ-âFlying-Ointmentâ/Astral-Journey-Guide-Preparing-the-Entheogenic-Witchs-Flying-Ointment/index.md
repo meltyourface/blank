@@ -1,6 +1,6 @@
 ---
 id: 1e518a8e-c339-4ed5-981c-6d3e590abab4
-title: 'Astral Journey Guide: Preparing the Entheogenic Witch\''s Flying Ointment'
+title: "Astral Journey Guide: Preparing the Entheogenic Witch's Flying Ointment"
 permalink: "/Entheogenic-Witches\xE2-\xE2Flying-Ointment\xE2/Astral-Journey-Guide-Preparing-the-Entheogenic-Witchs-Flying-Ointment/"
 categories:
   - "Entheogenic Witches\xE2\u20AC\u2122 \xE2\u20AC\u02DCFlying Ointment\xE2\u20AC\u2122"

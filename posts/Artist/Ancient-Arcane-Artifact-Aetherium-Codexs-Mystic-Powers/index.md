@@ -1,6 +1,6 @@
 ---
 id: e7953f7f-d280-4eeb-9e73-3df8207a7569
-title: 'Ancient Arcane Artifact: Aetherium Codex\''s Mystic Powers'
+title: "Ancient Arcane Artifact: Aetherium Codex's Mystic Powers"
 permalink: /Artist/Ancient-Arcane-Artifact-Aetherium-Codexs-Mystic-Powers/
 categories:
   - Artist

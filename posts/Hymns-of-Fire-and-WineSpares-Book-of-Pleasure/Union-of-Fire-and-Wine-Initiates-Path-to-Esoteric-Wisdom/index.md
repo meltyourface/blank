@@ -1,6 +1,6 @@
 ---
 id: b23c0041-f0a7-4aef-9037-4aed56501fae
-title: 'Union of Fire and Wine: Initiates\'' Path to Esoteric Wisdom'
+title: "Union of Fire and Wine: Initiates' Path to Esoteric Wisdom"
 permalink: /Hymns-of-Fire-and-WineSpares-Book-of-Pleasure/Union-of-Fire-and-Wine-Initiates-Path-to-Esoteric-Wisdom/
 categories:
   - Hymns of Fire and WineSpare's Book of Pleasure

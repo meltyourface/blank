@@ -1,6 +1,6 @@
 ---
 id: 2feb7701-7bb0-4798-a6a7-4c612a897c1f
-title: 'Mastering Spellcraft: A Beginner\''s Guide to Magick'
+title: "Mastering Spellcraft: A Beginner's Guide to Magick"
 permalink: /Magic-spells/Mastering-Spellcraft-A-Beginners-Guide-to-Magick/
 categories:
   - Magic spells

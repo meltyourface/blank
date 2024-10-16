@@ -1,6 +1,6 @@
 ---
 id: 3a8cc959-5860-43e7-b72b-6e71ca7ae112
-title: 'Abramelin\''s Magic System: Hierarchy of Divine Names & Planetary Correspondences'
+title: "Abramelin's Magic System: Hierarchy of Divine Names & Planetary Correspondences"
 permalink: /Abramelin/Abramelins-Magic-System-Hierarchy-of-Divine-Names-Planetary-Correspondences/
 categories:
   - Abramelin

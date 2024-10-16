@@ -1,6 +1,6 @@
 ---
 id: 53359ac0-6907-4533-9db0-05dd454efce6
-title: '"Soul\''s Journey Through the Afterlife"'
+title: ""Soul's Journey Through the Afterlife""
 permalink: /Mourning/Souls-Journey-Through-the-Afterlife/
 categories:
   - Mourning

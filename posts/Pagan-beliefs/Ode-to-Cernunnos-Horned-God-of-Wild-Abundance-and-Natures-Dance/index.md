@@ -1,6 +1,6 @@
 ---
 id: 72eb1419-7afb-4c8f-b31f-7ddb0ac80430
-title: 'Ode to Cernunnos: Horned God of Wild Abundance and Nature\''s Dance'
+title: "Ode to Cernunnos: Horned God of Wild Abundance and Nature's Dance"
 permalink: /Pagan-beliefs/Ode-to-Cernunnos-Horned-God-of-Wild-Abundance-and-Natures-Dance/
 categories:
   - Pagan beliefs

@@ -1,6 +1,6 @@
 ---
 id: 9286f098-cdd6-4037-98d0-153331e24a63
-title: '"Market Harborough\''s Colorful Art & Boat Festival"'
+title: ""Market Harborough's Colorful Art & Boat Festival""
 permalink: /Market-Harborough-Festival-of-Boats-and-Arts/Market-Harboroughs-Colorful-Art-Boat-Festival/
 categories:
   - Market Harborough Festival of Boats and Arts

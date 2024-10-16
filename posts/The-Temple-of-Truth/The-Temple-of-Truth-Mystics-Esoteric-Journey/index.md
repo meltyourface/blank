@@ -1,6 +1,6 @@
 ---
 id: 7d294edc-c3a8-45df-9804-02502db67bb9
-title: 'The Temple of Truth: Mystics\'' Esoteric Journey'
+title: "The Temple of Truth: Mystics' Esoteric Journey"
 permalink: /The-Temple-of-Truth/The-Temple-of-Truth-Mystics-Esoteric-Journey/
 categories:
   - The Temple of Truth

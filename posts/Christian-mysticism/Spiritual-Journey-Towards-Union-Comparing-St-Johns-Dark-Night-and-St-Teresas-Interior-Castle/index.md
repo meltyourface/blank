@@ -1,7 +1,6 @@
 ---
 id: a8660c9f-520c-4067-b20f-e2af476afb76
-title: 'Spiritual Journey Towards Union: Comparing St. John\''s Dark Night and St.
-  Teresa\''s Interior Castle'
+title: "Spiritual Journey Towards Union: Comparing St. John's Dark Night and St. Teresa\"'s Interior Castle'
 permalink: /Christian-mysticism/Spiritual-Journey-Towards-Union-Comparing-St-Johns-Dark-Night-and-St-Teresas-Interior-Castle/
 categories:
   - Christian mysticism

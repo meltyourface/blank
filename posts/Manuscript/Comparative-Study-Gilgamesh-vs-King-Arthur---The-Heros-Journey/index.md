@@ -1,6 +1,6 @@
 ---
 id: 87e88039-4fb7-4c38-9254-d80839a23033
-title: 'Comparative Study: Gilgamesh vs. King Arthur - The Hero\''s Journey'
+title: "Comparative Study: Gilgamesh vs. King Arthur - The Hero's Journey"
 permalink: /Manuscript/Comparative-Study-Gilgamesh-vs-King-Arthur---The-Heros-Journey/
 categories:
   - Manuscript

@@ -1,7 +1,6 @@
 ---
 id: 72c74db0-efbd-4fc7-b2f2-948da372eb48
-title: '"Mankind\''s Pursuit of Forbidden Knowledge: A Triad of Ambition, Dante, and
-  Demons"'
+title: ""Mankind's Pursuit of Forbidden Knowledge: A Triad of Ambition, Dante, and Demons""
 permalink: /Hell-bent-with-perdition/Mankinds-Pursuit-of-Forbidden-Knowledge-A-Triad-of-Ambition-Dante-and-Demons/
 categories:
   - Hell-bent with perdition

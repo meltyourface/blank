@@ -1,6 +1,6 @@
 ---
 id: 211f1d87-dea2-4d9c-ae04-758ac420f7b6
-title: 'Serial Killer\''s Occult-Fueled Crimes: The Order of the Crimson Eye'
+title: "Serial Killer's Occult-Fueled Crimes: The Order of the Crimson Eye"
 permalink: /Origins-of-a-killer/Serial-Killers-Occult-Fueled-Crimes-The-Order-of-the-Crimson-Eye/
 categories:
   - Origins of a killer

@@ -1,6 +1,6 @@
 ---
 id: da36ad99-39ea-428f-a21f-46951b1b37c7
-title: 'Cosmogony, Metaphysics, & Soul\''s Ascent: Neoplatonism & Orphism Compared'
+title: "Cosmogony, Metaphysics, & Soul's Ascent: Neoplatonism & Orphism Compared"
 permalink: /Orphism/Cosmogony-Metaphysics-Souls-Ascent-Neoplatonism-Orphism-Compared/
 categories:
   - Orphism

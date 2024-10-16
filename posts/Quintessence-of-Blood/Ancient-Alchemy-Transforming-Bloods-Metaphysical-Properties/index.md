@@ -1,6 +1,6 @@
 ---
 id: a8a02cde-7d69-4f4a-a538-a64e64a28107
-title: 'Ancient Alchemy: Transforming Blood\''s Metaphysical Properties'
+title: "Ancient Alchemy: Transforming Blood's Metaphysical Properties"
 permalink: /Quintessence-of-Blood/Ancient-Alchemy-Transforming-Bloods-Metaphysical-Properties/
 categories:
   - Quintessence of Blood

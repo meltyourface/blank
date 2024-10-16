@@ -1,6 +1,6 @@
 ---
 id: 29a5369c-32d0-4938-9a39-6b48fdc71229
-title: 'Orpheus & Eurydice: A Hero\''s Journey through Symbolism and Archetypes'
+title: "Orpheus & Eurydice: A Hero's Journey through Symbolism and Archetypes"
 permalink: /Mythopoetic-journey/Orpheus-Eurydice-A-Heros-Journey-through-Symbolism-and-Archetypes/
 categories:
   - Mythopoetic journey

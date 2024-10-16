@@ -1,7 +1,6 @@
 ---
 id: dc90b7a5-b704-4f7a-b4ae-8b255d3c2d50
-title: 'Exploring Esoteric Symbolism: The Cup, Water, Earth, and Tarot\''s High Priestess
-  & Empress'
+title: "Exploring Esoteric Symbolism: The Cup, Water, Earth, and Tarot's High Priestess & Empress"
 permalink: /The-Cup/Exploring-Esoteric-Symbolism-The-Cup-Water-Earth-and-Tarots-High-Priestess-Empress/
 categories:
   - The Cup

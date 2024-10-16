@@ -1,6 +1,6 @@
 ---
 id: 1b68a531-2a54-46c7-80c8-ab54038aa6c1
-title: 'Exploring Baphomet: The Goat\''s Role in Occult Symbolism and Initiation'
+title: "Exploring Baphomet: The Goat's Role in Occult Symbolism and Initiation"
 permalink: /Goat/Exploring-Baphomet-The-Goats-Role-in-Occult-Symbolism-and-Initiation/
 categories:
   - Goat

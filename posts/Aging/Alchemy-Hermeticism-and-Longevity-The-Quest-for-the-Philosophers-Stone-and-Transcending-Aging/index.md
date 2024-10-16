@@ -1,7 +1,6 @@
 ---
 id: dc6791b4-3fa1-44c0-9012-57ac5a1a87c9
-title: 'Alchemy, Hermeticism, and Longevity: The Quest for the Philosopher\''s Stone
-  and Transcending Aging'
+title: "Alchemy, Hermeticism, and Longevity: The Quest for the Philosopher's Stone and Transcending Aging"
 permalink: /Aging/Alchemy-Hermeticism-and-Longevity-The-Quest-for-the-Philosophers-Stone-and-Transcending-Aging/
 categories:
   - Aging

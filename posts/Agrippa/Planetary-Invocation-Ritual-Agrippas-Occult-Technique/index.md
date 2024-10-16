@@ -1,6 +1,6 @@
 ---
 id: d5c8f17f-0e78-4785-a9a2-8266fffb17e0
-title: 'Planetary Invocation Ritual: Agrippa\''s Occult Technique'
+title: "Planetary Invocation Ritual: Agrippa's Occult Technique"
 permalink: /Agrippa/Planetary-Invocation-Ritual-Agrippas-Occult-Technique/
 categories:
   - Agrippa

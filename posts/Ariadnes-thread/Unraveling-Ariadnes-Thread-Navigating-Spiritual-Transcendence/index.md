@@ -1,6 +1,6 @@
 ---
 id: 1bcaf84a-d474-4704-afb1-703b732dc9d8
-title: 'Unraveling Ariadne\''s Thread: Navigating Spiritual Transcendence'
+title: "Unraveling Ariadne's Thread: Navigating Spiritual Transcendence"
 permalink: /Ariadnes-thread/Unraveling-Ariadnes-Thread-Navigating-Spiritual-Transcendence/
 categories:
   - Ariadnes thread

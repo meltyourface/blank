@@ -1,6 +1,6 @@
 ---
 id: 15f1d57e-0088-490e-ab9a-f20049b7417b
-title: '"Exploring the Mind\''s Labyrinth: Mental Arabesque"'
+title: ""Exploring the Mind's Labyrinth: Mental Arabesque""
 permalink: /Mental-arabesque/Exploring-the-Minds-Labyrinth-Mental-Arabesque/
 categories:
   - Mental arabesque

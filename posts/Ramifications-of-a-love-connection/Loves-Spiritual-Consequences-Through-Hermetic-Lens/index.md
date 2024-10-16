@@ -1,6 +1,6 @@
 ---
 id: f312cb4a-ee94-438e-9740-fb48483e45e9
-title: "Love\''s Spiritual Consequences Through Hermetic Lens"
+title: "Love's Spiritual Consequences Through Hermetic Lens"
 permalink: /Ramifications-of-a-love-connection/Loves-Spiritual-Consequences-Through-Hermetic-Lens/
 categories:
   - Ramifications of a love connection

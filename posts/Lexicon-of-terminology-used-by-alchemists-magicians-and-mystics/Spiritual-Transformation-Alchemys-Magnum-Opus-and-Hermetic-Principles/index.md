@@ -1,6 +1,6 @@
 ---
 id: 6f39431b-2365-4a3f-9815-1de7f67a8af7
-title: 'Spiritual Transformation: Alchemy\''s Magnum Opus and Hermetic Principles'
+title: "Spiritual Transformation: Alchemy's Magnum Opus and Hermetic Principles"
 permalink: /Lexicon-of-terminology-used-by-alchemists-magicians-and-mystics/Spiritual-Transformation-Alchemys-Magnum-Opus-and-Hermetic-Principles/
 categories:
   - Lexicon of terminology used by alchemists, magicians, and mystics

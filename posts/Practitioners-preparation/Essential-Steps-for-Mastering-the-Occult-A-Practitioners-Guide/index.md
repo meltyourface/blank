@@ -1,6 +1,6 @@
 ---
 id: 5b524f15-3ecd-4505-a2f5-e418dabbe82a
-title: 'Essential Steps for Mastering the Occult: A Practitioner\''s Guide'
+title: "Essential Steps for Mastering the Occult: A Practitioner's Guide"
 permalink: /Practitioners-preparation/Essential-Steps-for-Mastering-the-Occult-A-Practitioners-Guide/
 categories:
   - Practitioners preparation

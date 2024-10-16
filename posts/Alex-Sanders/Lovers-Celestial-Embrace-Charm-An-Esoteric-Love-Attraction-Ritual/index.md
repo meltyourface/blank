@@ -1,6 +1,6 @@
 ---
 id: 06b7339d-6b8c-4e15-a8bb-fb1585ee25fa
-title: '"Lover\''s Celestial Embrace Charm: An Esoteric Love Attraction Ritual"'
+title: ""Lover's Celestial Embrace Charm: An Esoteric Love Attraction Ritual""
 permalink: /Alex-Sanders/Lovers-Celestial-Embrace-Charm-An-Esoteric-Love-Attraction-Ritual/
 categories:
   - Alex Sanders

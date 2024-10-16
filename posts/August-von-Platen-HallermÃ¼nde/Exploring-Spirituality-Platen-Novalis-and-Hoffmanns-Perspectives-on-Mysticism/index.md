@@ -1,7 +1,6 @@
 ---
 id: f26375d0-5824-49a4-bf65-a3862df12ae5
-title: 'Exploring Spirituality: Platen, Novalis, and Hoffmann\''s Perspectives on
-  Mysticism'
+title: "Exploring Spirituality: Platen, Novalis, and Hoffmann's Perspectives on Mysticism"
 permalink: "/August-von-Platen-Hallerm\xC3\xBCnde/Exploring-Spirituality-Platen-Novalis-and-Hoffmanns-Perspectives-on-Mysticism/"
 categories:
   - "August von Platen-Hallerm\xC3\xBCnde"

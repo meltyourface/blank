@@ -1,6 +1,6 @@
 ---
 id: 61e15a10-05d2-41cd-a865-67c52a8dab62
-title: 'Goblin Ancestor Ritual Dance: Gruul\''nak Tok Explained'
+title: "Goblin Ancestor Ritual Dance: Gruul'nak Tok Explained"
 permalink: /Goblins/Goblin-Ancestor-Ritual-Dance-Gruulnak-Tok-Explained/
 categories:
   - Goblins

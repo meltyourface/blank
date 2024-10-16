@@ -1,6 +1,6 @@
 ---
 id: d59155c0-8824-41ef-857b-f78bee7af38e
-title: 'Exploring Hell\''s Creation: A Guide for Occult Studies'
+title: "Exploring Hell's Creation: A Guide for Occult Studies"
 permalink: /Creation-of-Hell/Exploring-Hells-Creation-A-Guide-for-Occult-Studies/
 categories:
   - Creation of Hell

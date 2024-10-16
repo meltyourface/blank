@@ -1,6 +1,6 @@
 ---
 id: d0d5ca91-bd74-4329-8299-ccc999037b2f
-title: 'Paracelsus\'' Tria Principia: An Alchemical Perspective'
+title: "Paracelsus' Tria Principia: An Alchemical Perspective"
 permalink: /Paracelsus/Paracelsus-Tria-Principia-An-Alchemical-Perspective/
 categories:
   - Paracelsus

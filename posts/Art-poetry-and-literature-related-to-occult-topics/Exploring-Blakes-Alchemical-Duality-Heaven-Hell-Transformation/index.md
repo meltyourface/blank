@@ -1,6 +1,6 @@
 ---
 id: b95ffb6e-79ca-4e4d-a65a-7e422c5fe2e3
-title: 'Exploring Blake\''s Alchemical Duality: Heaven, Hell, & Transformation'
+title: "Exploring Blake's Alchemical Duality: Heaven, Hell, & Transformation"
 permalink: /Art-poetry-and-literature-related-to-occult-topics/Exploring-Blakes-Alchemical-Duality-Heaven-Hell-Transformation/
 categories:
   - Art, poetry, and literature related to occult topics

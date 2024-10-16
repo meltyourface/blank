@@ -1,6 +1,6 @@
 ---
 id: 343039d1-b65c-42db-8f40-0bf5d558b890
-title: 'Tarot as a Mirror for Self-Discovery: Patricia Cram\''s Reframed Archetypes'
+title: "Tarot as a Mirror for Self-Discovery: Patricia Cram's Reframed Archetypes"
 permalink: /Patricia-Cram/Tarot-as-a-Mirror-for-Self-Discovery-Patricia-Crams-Reframed-Archetypes/
 categories:
   - Patricia Cram

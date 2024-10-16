@@ -1,6 +1,6 @@
 ---
 id: 935c1d5f-65d2-4a22-a84c-0859e7a9f467
-title: "Crowley\''s Personal Motto: A Journey of Self-discovery and Spiritual Revolution"
+title: "Crowley's Personal Motto: A Journey of Self-discovery and Spiritual Revolution"
 permalink: /Personal-insights-into-Aleister-Crowleys-character/Crowleys-Personal-Motto-A-Journey-of-Self-discovery-and-Spiritual-Revolution/
 categories:
   - Personal insights into Aleister Crowley's character

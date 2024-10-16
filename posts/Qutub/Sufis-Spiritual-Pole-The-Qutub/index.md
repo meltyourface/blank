@@ -1,6 +1,6 @@
 ---
 id: f6cd61f4-3695-42a0-91a7-a9cd1d1473e0
-title: 'Sufi\''s Spiritual Pole: The Qutub'
+title: "Sufi's Spiritual Pole: The Qutub"
 permalink: /Qutub/Sufis-Spiritual-Pole-The-Qutub/
 categories:
   - Qutub

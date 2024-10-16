@@ -1,6 +1,6 @@
 ---
 id: d053cd42-2988-4c48-b519-939917f5d866
-title: 'Mimir\''s Wisdom Tarot Spread: Guiding Personal & Cosmic Destiny'
+title: "Mimir's Wisdom Tarot Spread: Guiding Personal & Cosmic Destiny"
 permalink: "/Re-interpretation-of-M\xC3mir/Mimirs-Wisdom-Tarot-Spread-Guiding-Personal-Cosmic-Destiny/"
 categories:
   - "Re-interpretation of M\xC3\xADmir"

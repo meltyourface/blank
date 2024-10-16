@@ -1,6 +1,6 @@
 ---
 id: c4b057bd-e704-4860-9504-284dcd4d1f2d
-title: 'Summoning and Binding a Necromancer\''s Steed: An Occult Ritual Guide'
+title: "Summoning and Binding a Necromancer's Steed: An Occult Ritual Guide"
 permalink: /Necromancers-SteedNecromantic-lore/Summoning-and-Binding-a-Necromancers-Steed-An-Occult-Ritual-Guide/
 categories:
   - Necromancers SteedNecromantic lore

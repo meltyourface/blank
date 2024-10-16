@@ -1,7 +1,6 @@
 ---
 id: 89a4d6e5-e44a-459e-bd6e-b9e6f86a4312
-title: 'Occult Connections: Noah\''s Ark and Viral Experimentation in the Esoteric
-  Realm'
+title: "Occult Connections: Noah's Ark and Viral Experimentation in the Esoteric Realm"
 permalink: /Noahs-ArkViral-experimentation/Occult-Connections-Noahs-Ark-and-Viral-Experimentation-in-the-Esoteric-Realm/
 categories:
   - Noah's ArkViral experimentation

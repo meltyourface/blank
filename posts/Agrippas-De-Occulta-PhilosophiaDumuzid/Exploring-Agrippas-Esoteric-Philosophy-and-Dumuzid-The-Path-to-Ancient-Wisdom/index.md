@@ -1,7 +1,6 @@
 ---
 id: 115d4fe3-6284-45b7-a85d-8440b4dedaa4
-title: 'Exploring Agrippa\''s Esoteric Philosophy and Dumuzid: The Path to Ancient
-  Wisdom'
+title: "Exploring Agrippa's Esoteric Philosophy and Dumuzid: The Path to Ancient Wisdom"
 permalink: /Agrippas-De-Occulta-PhilosophiaDumuzid/Exploring-Agrippas-Esoteric-Philosophy-and-Dumuzid-The-Path-to-Ancient-Wisdom/
 categories:
   - Agrippa's De Occulta PhilosophiaDumuzid

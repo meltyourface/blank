@@ -1,6 +1,6 @@
 ---
 id: f646cb23-78a4-44a5-9bc4-8dd1106b1e04
-title: 'Transformative Tarot Spread: Initiate\''s Journey of Spiritual Evolution'
+title: "Transformative Tarot Spread: Initiate's Journey of Spiritual Evolution"
 permalink: /Initiatory-drama/Transformative-Tarot-Spread-Initiates-Journey-of-Spiritual-Evolution/
 categories:
   - Initiatory drama

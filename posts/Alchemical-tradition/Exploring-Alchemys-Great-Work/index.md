@@ -1,6 +1,6 @@
 ---
 id: e30e0dde-4d47-4f7e-af3f-d5190a320dd8
-title: '"Exploring Alchemy\''s Great Work"'
+title: ""Exploring Alchemy's Great Work""
 permalink: /Alchemical-tradition/Exploring-Alchemys-Great-Work/
 categories:
   - Alchemical tradition

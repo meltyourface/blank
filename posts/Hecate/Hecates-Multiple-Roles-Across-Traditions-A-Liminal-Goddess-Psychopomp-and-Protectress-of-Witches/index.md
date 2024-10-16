@@ -1,7 +1,6 @@
 ---
 id: 2945f0f7-0bd9-4bdc-8131-d292791301a3
-title: 'Hecate\''s Multiple Roles Across Traditions: A Liminal Goddess, Psychopomp,
-  and Protectress of Witches'
+title: "Hecate's Multiple Roles Across Traditions: A Liminal Goddess, Psychopomp, and Protectress of Witches"
 permalink: /Hecate/Hecates-Multiple-Roles-Across-Traditions-A-Liminal-Goddess-Psychopomp-and-Protectress-of-Witches/
 categories:
   - Hecate

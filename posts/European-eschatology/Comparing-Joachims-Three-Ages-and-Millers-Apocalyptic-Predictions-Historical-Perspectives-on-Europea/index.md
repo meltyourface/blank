@@ -1,7 +1,6 @@
 ---
 id: 0780a334-3da3-4ad3-8e6d-65e55df2b485
-title: 'Comparing Joachim\''s Three Ages and Miller\''s Apocalyptic Predictions: Historical
-  Perspectives on European Eschatology'
+title: "Comparing Joachim's Three Ages and Miller's Apocalyptic Predictions: Historical Perspectives on European Eschatology"
 permalink: /European-eschatology/Comparing-Joachims-Three-Ages-and-Millers-Apocalyptic-Predictions-Historical-Perspectives-on-Europea/
 categories:
   - European eschatology

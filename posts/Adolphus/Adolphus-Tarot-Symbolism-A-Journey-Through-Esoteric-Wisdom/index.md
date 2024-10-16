@@ -1,6 +1,6 @@
 ---
 id: 2addbc9c-e601-4ba4-bdb2-de1019433a2d
-title: 'Adolphus\'' Tarot Symbolism: A Journey Through Esoteric Wisdom'
+title: "Adolphus' Tarot Symbolism: A Journey Through Esoteric Wisdom"
 permalink: /Adolphus/Adolphus-Tarot-Symbolism-A-Journey-Through-Esoteric-Wisdom/
 categories:
   - Adolphus

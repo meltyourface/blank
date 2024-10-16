@@ -1,6 +1,6 @@
 ---
 id: e4947af1-dec4-4542-a15f-6e5a058a7e10
-title: 'FitzGerald\''s Influence on Khayyam\''s Rubaiyat Translations: Bias and Discrepancies'
+title: "FitzGerald's Influence on Khayyam's Rubaiyat Translations: Bias and Discrepancies"
 permalink: /Rubaiyat/FitzGeralds-Influence-on-Khayyams-Rubaiyat-Translations-Bias-and-Discrepancies/
 categories:
   - Rubaiyat

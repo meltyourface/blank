@@ -1,6 +1,6 @@
 ---
 id: 8d70afc6-93ec-4e34-b8f9-6aa1ad092253
-title: '"Valdar the Unyielding: The Ruthless Warlord\''s Rise and Fall"'
+title: ""Valdar the Unyielding: The Ruthless Warlord's Rise and Fall""
 permalink: /war-booty/Valdar-the-Unyielding-The-Ruthless-Warlords-Rise-and-Fall/
 categories:
   - war booty

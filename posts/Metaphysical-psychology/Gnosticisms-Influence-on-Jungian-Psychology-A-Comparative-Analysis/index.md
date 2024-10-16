@@ -1,6 +1,6 @@
 ---
 id: d4cf72b3-6ebc-41c2-ac90-fce5bf1bdf6e
-title: 'Gnosticism\''s Influence on Jungian Psychology: A Comparative Analysis'
+title: "Gnosticism's Influence on Jungian Psychology: A Comparative Analysis"
 permalink: /Metaphysical-psychology/Gnosticisms-Influence-on-Jungian-Psychology-A-Comparative-Analysis/
 categories:
   - Metaphysical psychology

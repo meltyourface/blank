@@ -1,6 +1,6 @@
 ---
 id: 92171c82-cff2-459a-a79b-656f655f6b0a
-title: 'Ancient-Meets-Modern: Fusion Printer\''s Mark Design'
+title: "Ancient-Meets-Modern: Fusion Printer's Mark Design"
 permalink: /Printers-mark/Ancient-Meets-Modern-Fusion-Printers-Mark-Design/
 categories:
   - Printer's mark

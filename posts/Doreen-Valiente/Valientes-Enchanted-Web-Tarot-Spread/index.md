@@ -1,6 +1,6 @@
 ---
 id: bafc3694-2e13-480d-a46e-651012eb23cc
-title: '"Valiente\''s Enchanted Web Tarot Spread"'
+title: ""Valiente's Enchanted Web Tarot Spread""
 permalink: /Doreen-Valiente/Valientes-Enchanted-Web-Tarot-Spread/
 categories:
   - Doreen Valiente

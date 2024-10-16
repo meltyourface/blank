@@ -1,7 +1,6 @@
 ---
 id: 2bac6f2e-8820-457f-a20c-ccf16a8b649f
-title: 'Prehistoric Shamanic Meditations: Harnessing Gorgath\''s Time Mastery and
-  Ourothel\''s Shapeshifting'
+title: "Prehistoric Shamanic Meditations: Harnessing Gorgath's Time Mastery and Ourothel\"'s Shapeshifting'
 permalink: /Prehistoric-wish-fulfillment-magic/Prehistoric-Shamanic-Meditations-Harnessing-Gorgaths-Time-Mastery-and-Ourothels-Shapeshifting/
 categories:
   - Prehistoric wish-fulfillment magic

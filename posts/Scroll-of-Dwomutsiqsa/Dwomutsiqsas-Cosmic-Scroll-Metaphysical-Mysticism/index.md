@@ -1,6 +1,6 @@
 ---
 id: 4a9a5c64-13e3-4ebb-9fac-4a42002d3cf9
-title: "Dwomutsiqsa\''s Cosmic Scroll: Metaphysical Mysticism"
+title: "Dwomutsiqsa's Cosmic Scroll: Metaphysical Mysticism"
 permalink: /Scroll-of-Dwomutsiqsa/Dwomutsiqsas-Cosmic-Scroll-Metaphysical-Mysticism/
 categories:
   - Scroll of Dwomutsiqsa

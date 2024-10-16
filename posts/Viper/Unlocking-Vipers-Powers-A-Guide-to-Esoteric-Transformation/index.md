@@ -1,6 +1,6 @@
 ---
 id: 32eb8f8a-f216-475b-b49f-368bc16945e9
-title: 'Unlocking Viper\''s Powers: A Guide to Esoteric Transformation'
+title: "Unlocking Viper's Powers: A Guide to Esoteric Transformation"
 permalink: /Viper/Unlocking-Vipers-Powers-A-Guide-to-Esoteric-Transformation/
 categories:
   - Viper

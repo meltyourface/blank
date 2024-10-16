@@ -1,6 +1,6 @@
 ---
 id: 14fa4356-9350-4fa6-92fa-772844135e44
-title: 'The Occult Hero: Svipdag\''s Magical Journey and Spells'
+title: "The Occult Hero: Svipdag's Magical Journey and Spells"
 permalink: /Svipdag/The-Occult-Hero-Svipdags-Magical-Journey-and-Spells/
 categories:
   - Svipdag

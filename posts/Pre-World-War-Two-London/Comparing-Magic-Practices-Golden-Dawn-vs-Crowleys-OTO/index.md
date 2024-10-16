@@ -1,6 +1,6 @@
 ---
 id: 8754e7e7-5202-40b4-b0fa-b62d63488b1d
-title: 'Comparing Magic Practices: Golden Dawn vs. Crowley\''s O.T.O.'
+title: "Comparing Magic Practices: Golden Dawn vs. Crowley's O.T.O."
 permalink: /Pre-World-War-Two-London/Comparing-Magic-Practices-Golden-Dawn-vs-Crowleys-OTO/
 categories:
   - Pre-World War Two London

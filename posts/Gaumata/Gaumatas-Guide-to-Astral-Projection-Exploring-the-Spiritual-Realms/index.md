@@ -1,6 +1,6 @@
 ---
 id: 9dc26e3c-72f4-41b7-82ca-c536c65a5d3f
-title: 'Gaumata\''s Guide to Astral Projection: Exploring the Spiritual Realms'
+title: "Gaumata's Guide to Astral Projection: Exploring the Spiritual Realms"
 permalink: /Gaumata/Gaumatas-Guide-to-Astral-Projection-Exploring-the-Spiritual-Realms/
 categories:
   - Gaumata

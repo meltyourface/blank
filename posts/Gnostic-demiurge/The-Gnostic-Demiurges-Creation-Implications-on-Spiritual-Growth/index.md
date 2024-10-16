@@ -1,6 +1,6 @@
 ---
 id: a7050c2e-e04f-4d15-814c-9d28e2a35138
-title: 'The Gnostic Demiurge\''s Creation: Implications on Spiritual Growth'
+title: "The Gnostic Demiurge's Creation: Implications on Spiritual Growth"
 permalink: /Gnostic-demiurge/The-Gnostic-Demiurges-Creation-Implications-on-Spiritual-Growth/
 categories:
   - Gnostic demiurge

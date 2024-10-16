@@ -1,6 +1,6 @@
 ---
 id: 6d0ca4ce-4e8b-400b-b5bd-5bb36df4c450
-title: 'Understanding Qlippoth: Dark Side of Kabbalah\''s Tree of Life'
+title: "Understanding Qlippoth: Dark Side of Kabbalah's Tree of Life"
 permalink: /Qlippothic-Mirror/Understanding-Qlippoth-Dark-Side-of-Kabbalahs-Tree-of-Life/
 categories:
   - Qlippothic Mirror

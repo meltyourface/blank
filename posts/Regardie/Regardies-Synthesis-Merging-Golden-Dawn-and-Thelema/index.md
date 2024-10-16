@@ -1,6 +1,6 @@
 ---
 id: 4632c76e-e249-4452-92db-df2874301f93
-title: '"Regardie\''s Synthesis: Merging Golden Dawn and Thelema"'
+title: ""Regardie's Synthesis: Merging Golden Dawn and Thelema""
 permalink: /Regardie/Regardies-Synthesis-Merging-Golden-Dawn-and-Thelema/
 categories:
   - Regardie

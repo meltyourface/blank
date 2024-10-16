@@ -1,6 +1,6 @@
 ---
 id: c4ad9b49-00af-4571-bdb1-9f7e828fa54a
-title: 'Exploring Viral Esotericism: Noah\''s ArkViral Experimentation'
+title: "Exploring Viral Esotericism: Noah's ArkViral Experimentation"
 permalink: /Noahs-ArkViral-experimentation/Exploring-Viral-Esotericism-Noahs-ArkViral-Experimentation/
 categories:
   - Noah's ArkViral experimentation

@@ -1,6 +1,6 @@
 ---
 id: 96785eab-2c99-43b6-8d54-a368ed3851e0
-title: 'Ariadne\''s Thread: A Guide for Esoteric Navigation'
+title: "Ariadne's Thread: A Guide for Esoteric Navigation"
 permalink: /Ariadnes-thread/Ariadnes-Thread-A-Guide-for-Esoteric-Navigation/
 categories:
   - Ariadnes thread

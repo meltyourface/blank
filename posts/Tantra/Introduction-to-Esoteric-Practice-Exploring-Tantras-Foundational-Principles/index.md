@@ -1,6 +1,6 @@
 ---
 id: cdf20344-a660-48e1-b349-bb20a08b690a
-title: 'Introduction to Esoteric Practice: Exploring Tantra\''s Foundational Principles'
+title: "Introduction to Esoteric Practice: Exploring Tantra's Foundational Principles"
 permalink: /Tantra/Introduction-to-Esoteric-Practice-Exploring-Tantras-Foundational-Principles/
 categories:
   - Tantra

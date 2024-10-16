@@ -1,6 +1,6 @@
 ---
 id: fb0c8fb0-8e67-46fd-a903-ff05740b01c5
-title: 'Exploring Diabolical Plants Necromancy: Dark Magic with Nature\''s Energy'
+title: "Exploring Diabolical Plants Necromancy: Dark Magic with Nature's Energy"
 permalink: /Diabolical-PlantsNecromancy/Exploring-Diabolical-Plants-Necromancy-Dark-Magic-with-Natures-Energy/
 categories:
   - Diabolical PlantsNecromancy

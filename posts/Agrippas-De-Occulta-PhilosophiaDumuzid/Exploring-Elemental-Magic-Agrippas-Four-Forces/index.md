@@ -1,6 +1,6 @@
 ---
 id: 9aecb7d9-aa36-4462-915a-22e3efa3bd0a
-title: 'Exploring Elemental Magic: Agrippa\''s Four Forces'
+title: "Exploring Elemental Magic: Agrippa's Four Forces"
 permalink: /Agrippas-De-Occulta-PhilosophiaDumuzid/Exploring-Elemental-Magic-Agrippas-Four-Forces/
 categories:
   - Agrippa's De Occulta PhilosophiaDumuzid

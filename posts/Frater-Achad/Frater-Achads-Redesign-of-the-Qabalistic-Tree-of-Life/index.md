@@ -1,6 +1,6 @@
 ---
 id: 538301d4-aba4-49aa-bae4-1f285ba50ca9
-title: '"Frater Achad\''s Redesign of the Qabalistic Tree of Life"'
+title: ""Frater Achad's Redesign of the Qabalistic Tree of Life""
 permalink: /Frater-Achad/Frater-Achads-Redesign-of-the-Qabalistic-Tree-of-Life/
 categories:
   - Frater Achad

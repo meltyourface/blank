@@ -1,6 +1,6 @@
 ---
 id: b5e4f66b-4aae-411d-a285-979fbe08cfac
-title: 'Journey to Hades: A Scholar\''s Tragic Fate'
+title: "Journey to Hades: A Scholar's Tragic Fate"
 permalink: /Styx-River/Journey-to-Hades-A-Scholars-Tragic-Fate/
 categories:
   - Styx River

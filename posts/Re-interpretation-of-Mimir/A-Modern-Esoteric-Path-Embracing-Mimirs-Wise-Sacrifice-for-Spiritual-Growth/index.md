@@ -1,6 +1,6 @@
 ---
 id: 126a8b40-b0bc-469f-a1e7-74ab9965b4cd
-title: 'A Modern Esoteric Path: Embracing Mimir\''s Wise Sacrifice for Spiritual Growth'
+title: "A Modern Esoteric Path: Embracing Mimir's Wise Sacrifice for Spiritual Growth"
 permalink: /Re-interpretation-of-Mimir/A-Modern-Esoteric-Path-Embracing-Mimirs-Wise-Sacrifice-for-Spiritual-Growth/
 categories:
   - Re-interpretation of Mimir

@@ -1,7 +1,6 @@
 ---
 id: 2b0a9581-e9fb-4a15-94d5-f4bbdf8bbae1
-title: 'Anna Bonus Kingsford\''s Spiritual Synthesis: A Life of Visionary Experiences,
-  Animal Rights Activism, and Theosophy'
+title: "Anna Bonus Kingsford's Spiritual Synthesis: A Life of Visionary Experiences, Animal Rights Activism, and Theosophy"
 permalink: /Anna-Bonus-Kingsford/Anna-Bonus-Kingsfords-Spiritual-Synthesis-A-Life-of-Visionary-Experiences-Animal-Rights-Activism-and/
 categories:
   - Anna Bonus Kingsford

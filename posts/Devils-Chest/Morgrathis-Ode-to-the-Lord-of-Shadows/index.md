@@ -1,6 +1,6 @@
 ---
 id: a33c1b25-23ff-41a3-962a-a07e1f12de71
-title: "Mor\''grathis: Ode to the Lord of Shadows"
+title: "Mor'grathis: Ode to the Lord of Shadows"
 permalink: /Devils-Chest/Morgrathis-Ode-to-the-Lord-of-Shadows/
 categories:
   - Devil's Chest

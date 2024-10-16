@@ -1,6 +1,6 @@
 ---
 id: ef4ef6f0-d0e3-4ffb-86ab-259b2a80c6b8
-title: 'Ma\''at vs Isfet: Egyptian Deities Representing Order and Chaos'
+title: "Ma'at vs Isfet: Egyptian Deities Representing Order and Chaos"
 permalink: /Egyptian-gods/Maat-vs-Isfet-Egyptian-Deities-Representing-Order-and-Chaos/
 categories:
   - Egyptian gods

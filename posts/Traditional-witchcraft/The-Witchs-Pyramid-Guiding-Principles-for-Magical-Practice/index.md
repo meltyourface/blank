@@ -1,6 +1,6 @@
 ---
 id: ada55ee0-4c2b-4958-98ce-41023d5b026b
-title: 'The Witch\''s Pyramid: Guiding Principles for Magical Practice'
+title: "The Witch's Pyramid: Guiding Principles for Magical Practice"
 permalink: /Traditional-witchcraft/The-Witchs-Pyramid-Guiding-Principles-for-Magical-Practice/
 categories:
   - Traditional witchcraft

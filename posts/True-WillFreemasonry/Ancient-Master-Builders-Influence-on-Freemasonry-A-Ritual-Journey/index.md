@@ -1,6 +1,6 @@
 ---
 id: ec4831bb-6103-4f56-afa7-b8e68bb7c4b0
-title: 'Ancient Master Builders\'' Influence on Freemasonry: A Ritual Journey'
+title: "Ancient Master Builders' Influence on Freemasonry: A Ritual Journey"
 permalink: /True-WillFreemasonry/Ancient-Master-Builders-Influence-on-Freemasonry-A-Ritual-Journey/
 categories:
   - True WillFreemasonry

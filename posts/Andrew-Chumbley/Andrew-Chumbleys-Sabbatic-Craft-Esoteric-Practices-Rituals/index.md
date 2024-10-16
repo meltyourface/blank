@@ -1,6 +1,6 @@
 ---
 id: 859d9815-0152-43c5-8c1e-db7e222995a8
-title: 'Andrew Chumbley\''s Sabbatic Craft: Esoteric Practices & Rituals'
+title: "Andrew Chumbley's Sabbatic Craft: Esoteric Practices & Rituals"
 permalink: /Andrew-Chumbley/Andrew-Chumbleys-Sabbatic-Craft-Esoteric-Practices-Rituals/
 categories:
   - Andrew Chumbley

@@ -1,6 +1,6 @@
 ---
 id: fdcbac7f-cdd6-4bbb-bc18-168c17cdc7ed
-title: 'Alchemical Transformation: The Philosopher\''s Stone Process'
+title: "Alchemical Transformation: The Philosopher's Stone Process"
 permalink: /Secret-elixir/Alchemical-Transformation-The-Philosophers-Stone-Process/
 categories:
   - Secret elixir

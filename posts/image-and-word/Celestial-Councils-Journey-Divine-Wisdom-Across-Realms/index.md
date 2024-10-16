@@ -1,6 +1,6 @@
 ---
 id: 26ff01dd-04de-4100-9aab-dc08940cac3e
-title: '"Celestial Council\''s Journey: Divine Wisdom Across Realms"'
+title: ""Celestial Council's Journey: Divine Wisdom Across Realms""
 permalink: /image-and-word/Celestial-Councils-Journey-Divine-Wisdom-Across-Realms/
 categories:
   - image and word

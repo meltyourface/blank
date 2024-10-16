@@ -1,6 +1,6 @@
 ---
 id: 68a08fe2-ed06-41fb-849e-4f53afef640e
-title: 'The Fool: A Journey into Tarot\''s Enigmatic Archetype'
+title: "The Fool: A Journey into Tarot's Enigmatic Archetype"
 permalink: /Image-making-lore/The-Fool-A-Journey-into-Tarots-Enigmatic-Archetype/
 categories:
   - Image-making lore

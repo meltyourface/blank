@@ -1,6 +1,6 @@
 ---
 id: 7998a0f6-fca7-482c-a4fd-41666db1192f
-title: 'Tarot\''s Role in Western Esotericism: History, Symbolism, and Modern Significance'
+title: "Tarot's Role in Western Esotericism: History, Symbolism, and Modern Significance"
 permalink: /book-of-secrets/Tarots-Role-in-Western-Esotericism-History-Symbolism-and-Modern-Significance/
 categories:
   - book of secrets

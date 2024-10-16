@@ -1,6 +1,6 @@
 ---
 id: 49aa5bf7-88c7-4273-ad7b-97f0e5849307
-title: '"Mael Cariz: The Telepathic Chieftain Shaping Iberia\''s Destiny"'
+title: ""Mael Cariz: The Telepathic Chieftain Shaping Iberia's Destiny""
 permalink: /Iberian-Chieftain/Mael-Cariz-The-Telepathic-Chieftain-Shaping-Iberias-Destiny/
 categories:
   - Iberian Chieftain

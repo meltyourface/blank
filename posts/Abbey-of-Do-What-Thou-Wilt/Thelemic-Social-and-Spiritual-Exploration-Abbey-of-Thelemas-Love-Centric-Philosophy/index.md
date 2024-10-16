@@ -1,7 +1,6 @@
 ---
 id: 7ed87eee-3806-4fe4-a40d-f8a464bbb051
-title: 'Thelemic Social and Spiritual Exploration: Abbey of Thelema\''s Love-Centric
-  Philosophy'
+title: "Thelemic Social and Spiritual Exploration: Abbey of Thelema's Love-Centric Philosophy"
 permalink: /Abbey-of-Do-What-Thou-Wilt/Thelemic-Social-and-Spiritual-Exploration-Abbey-of-Thelemas-Love-Centric-Philosophy/
 categories:
   - Abbey of Do What Thou Wilt

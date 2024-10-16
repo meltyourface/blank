@@ -1,6 +1,6 @@
 ---
 id: fa6a5111-7087-474d-8ee7-209ef5ee2d8b
-title: 'Yithian Time-Space Navigator: Unveiling Lovecraft\''s Realms'
+title: "Yithian Time-Space Navigator: Unveiling Lovecraft's Realms"
 permalink: /Lovecrafts-other-planets/Yithian-Time-Space-Navigator-Unveiling-Lovecrafts-Realms/
 categories:
   - Lovecraft's other planets

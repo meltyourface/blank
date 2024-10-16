@@ -1,6 +1,6 @@
 ---
 id: 97e93b2d-d9db-4853-93f5-618b5d4156dc
-title: '"Spiritual Symbolism: Exploring the Death Card & Yew Tree\''s Connection"'
+title: ""Spiritual Symbolism: Exploring the Death Card & Yew Tree's Connection""
 permalink: /Funerary-trees/Spiritual-Symbolism-Exploring-the-Death-Card-Yew-Trees-Connection/
 categories:
   - Funerary trees

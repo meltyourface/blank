@@ -1,6 +1,6 @@
 ---
 id: 9c5474a7-f5c8-4732-b8c8-f00ef2f19d44
-title: 'Celtic Epic: Finn MacCool\''s Journey with Aisling'
+title: "Celtic Epic: Finn MacCool's Journey with Aisling"
 permalink: /Celtic-animal-soul/Celtic-Epic-Finn-MacCools-Journey-with-Aisling/
 categories:
   - Celtic animal soul

@@ -1,6 +1,6 @@
 ---
 id: 80025d05-8b7a-490e-8e7c-12e212fe4198
-title: 'Mastering the Dark Arts: A Guide to Lucifer\''s Book of Shadows'
+title: "Mastering the Dark Arts: A Guide to Lucifer's Book of Shadows"
 permalink: /Death-and-destructionLucifer/Mastering-the-Dark-Arts-A-Guide-to-Lucifers-Book-of-Shadows/
 categories:
   - Death and destructionLucifer

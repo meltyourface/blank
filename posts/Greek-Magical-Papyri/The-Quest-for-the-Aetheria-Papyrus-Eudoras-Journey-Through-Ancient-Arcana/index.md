@@ -1,6 +1,6 @@
 ---
 id: 34a40a2d-3f53-4cde-83b2-8cc899da3b1a
-title: 'The Quest for the Aetheria Papyrus: Eudora\''s Journey Through Ancient Arcana'
+title: "The Quest for the Aetheria Papyrus: Eudora's Journey Through Ancient Arcana"
 permalink: /Greek-Magical-Papyri/The-Quest-for-the-Aetheria-Papyrus-Eudoras-Journey-Through-Ancient-Arcana/
 categories:
   - Greek Magical Papyri

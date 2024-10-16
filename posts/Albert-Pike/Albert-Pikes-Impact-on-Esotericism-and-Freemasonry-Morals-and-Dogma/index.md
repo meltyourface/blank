@@ -1,6 +1,6 @@
 ---
 id: e87a419a-173d-4a9b-a3e0-53a1e1ed7a2d
-title: 'Albert Pike\''s Impact on Esotericism and Freemasonry: "Morals and Dogma"'
+title: "Albert Pike's Impact on Esotericism and Freemasonry: "Morals and Dogma""
 permalink: /Albert-Pike/Albert-Pikes-Impact-on-Esotericism-and-Freemasonry-Morals-and-Dogma/
 categories:
   - Albert Pike

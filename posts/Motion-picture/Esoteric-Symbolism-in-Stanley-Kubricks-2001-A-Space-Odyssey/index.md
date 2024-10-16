@@ -1,6 +1,6 @@
 ---
 id: 4a621e77-1491-4f37-8f61-da1794269fba
-title: 'Esoteric Symbolism in Stanley Kubrick\''s "2001: A Space Odyssey"'
+title: "Esoteric Symbolism in Stanley Kubrick's "2001: A Space Odyssey""
 permalink: /Motion-picture/Esoteric-Symbolism-in-Stanley-Kubricks-2001-A-Space-Odyssey/
 categories:
   - Motion picture

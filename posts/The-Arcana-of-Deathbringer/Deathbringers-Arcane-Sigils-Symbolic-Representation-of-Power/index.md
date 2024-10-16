@@ -1,6 +1,6 @@
 ---
 id: 0f5b5d0d-2fe7-4920-bcec-7580c99c058b
-title: "Deathbringer\''s Arcane Sigils: Symbolic Representation of Power"
+title: "Deathbringer's Arcane Sigils: Symbolic Representation of Power"
 permalink: /The-Arcana-of-Deathbringer/Deathbringers-Arcane-Sigils-Symbolic-Representation-of-Power/
 categories:
   - The Arcana of Deathbringer

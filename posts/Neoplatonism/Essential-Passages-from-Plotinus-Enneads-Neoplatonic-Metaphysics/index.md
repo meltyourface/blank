@@ -1,6 +1,6 @@
 ---
 id: a9272c72-14d7-4d31-af7e-82c0c682e7f9
-title: 'Essential Passages from Plotinus\'' Enneads: Neoplatonic Metaphysics'
+title: "Essential Passages from Plotinus' Enneads: Neoplatonic Metaphysics"
 permalink: /Neoplatonism/Essential-Passages-from-Plotinus-Enneads-Neoplatonic-Metaphysics/
 categories:
   - Neoplatonism

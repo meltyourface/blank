@@ -1,6 +1,6 @@
 ---
 id: a6171718-fb76-492c-811c-e0df15896a3c
-title: 'Necromancer\''s Lair Blueprint: A Gothic Fortress of Dark Arts'
+title: "Necromancer's Lair Blueprint: A Gothic Fortress of Dark Arts"
 permalink: /Necromancers-SteedNecromantic-lore/Necromancers-Lair-Blueprint-A-Gothic-Fortress-of-Dark-Arts/
 categories:
   - Necromancer's SteedNecromantic lore

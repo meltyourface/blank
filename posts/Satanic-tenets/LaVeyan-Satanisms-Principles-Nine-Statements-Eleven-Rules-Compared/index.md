@@ -1,6 +1,6 @@
 ---
 id: e246f88f-871f-4d49-9f34-f188b1eb75df
-title: 'LaVeyan Satanism\''s Principles: Nine Statements & Eleven Rules Compared'
+title: "LaVeyan Satanism's Principles: Nine Statements & Eleven Rules Compared"
 permalink: /Satanic-tenets/LaVeyan-Satanisms-Principles-Nine-Statements-Eleven-Rules-Compared/
 categories:
   - Satanic tenets

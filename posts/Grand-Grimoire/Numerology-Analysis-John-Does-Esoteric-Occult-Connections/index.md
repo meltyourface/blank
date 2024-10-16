@@ -1,6 +1,6 @@
 ---
 id: 12d37955-d3e7-4848-b6c5-f3f37b0e2dea
-title: 'Numerology Analysis: John Doe\''s Esoteric & Occult Connections'
+title: "Numerology Analysis: John Doe's Esoteric & Occult Connections"
 permalink: /Grand-Grimoire/Numerology-Analysis-John-Does-Esoteric-Occult-Connections/
 categories:
   - Grand Grimoire

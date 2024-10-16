@@ -1,6 +1,6 @@
 ---
 id: e7972feb-0859-4d36-91f0-6143d1bef9de
-title: 'Deconstructing Esotericism: Connecting Derrida\''s Method with Ancient Wisdom'
+title: "Deconstructing Esotericism: Connecting Derrida's Method with Ancient Wisdom"
 permalink: /Derrida/Deconstructing-Esotericism-Connecting-Derridas-Method-with-Ancient-Wisdom/
 categories:
   - Derrida

@@ -1,6 +1,6 @@
 ---
 id: 06028d2c-4ef9-4a5b-8370-d7270eb70bb2
-title: 'The Profane: Threnor\''s Dark Mastery Over the Abyss'
+title: "The Profane: Threnor's Dark Mastery Over the Abyss"
 permalink: /Heresy/The-Profane-Threnors-Dark-Mastery-Over-the-Abyss/
 categories:
   - Heresy

@@ -1,7 +1,6 @@
 ---
 id: cf6c9af2-7abb-41d7-87d5-7f77200116b7
-title: 'Occult Influences in Shakespeare\''s Plays: Alchemy, Magic, and Supernatural
-  Forces'
+title: "Occult Influences in Shakespeare's Plays: Alchemy, Magic, and Supernatural Forces"
 permalink: /Shakespeare/Occult-Influences-in-Shakespeares-Plays-Alchemy-Magic-and-Supernatural-Forces/
 categories:
   - Shakespeare

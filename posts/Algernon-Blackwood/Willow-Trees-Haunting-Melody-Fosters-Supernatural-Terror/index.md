@@ -1,6 +1,6 @@
 ---
 id: ec915c09-9201-4422-9dc3-93fbdfed3263
-title: '"Willow Trees\'' Haunting Melody Fosters Supernatural Terror"'
+title: ""Willow Trees' Haunting Melody Fosters Supernatural Terror""
 permalink: /Algernon-Blackwood/Willow-Trees-Haunting-Melody-Fosters-Supernatural-Terror/
 categories:
   - Algernon Blackwood

@@ -1,6 +1,6 @@
 ---
 id: a5bb11c1-b947-4675-b8e3-3447816de71a
-title: "Dr. Mordecai Brimstone\''s Descent into Chaotic Darkness"
+title: "Dr. Mordecai Brimstone's Descent into Chaotic Darkness"
 permalink: /Chaos-and-carnage-caused-by-bats/Dr-Mordecai-Brimstones-Descent-into-Chaotic-Darkness/
 categories:
   - Chaos and carnage caused by bats

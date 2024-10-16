@@ -1,6 +1,6 @@
 ---
 id: 2a205f0d-a2f8-4924-a378-b44b1e352f0a
-title: 'Master of Synthetic Occultism: Andrew Chumbley\''s Approach'
+title: "Master of Synthetic Occultism: Andrew Chumbley's Approach"
 permalink: /Andrew-Chumbley/Master-of-Synthetic-Occultism-Andrew-Chumbleys-Approach/
 categories:
   - Andrew Chumbley

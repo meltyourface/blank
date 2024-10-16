@@ -1,6 +1,6 @@
 ---
 id: 75a33a36-992c-45d3-b938-3cca3fd3c910
-title: 'Satanism: Self-Worship and Personal Development in LaVey\''s Church of Satan'
+title: "Satanism: Self-Worship and Personal Development in LaVey's Church of Satan"
 permalink: /Anton-LaVey/Satanism-Self-Worship-and-Personal-Development-in-LaVeys-Church-of-Satan/
 categories:
   - Anton LaVey

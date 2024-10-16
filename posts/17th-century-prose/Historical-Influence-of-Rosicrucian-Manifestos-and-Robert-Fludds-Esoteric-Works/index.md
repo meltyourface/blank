@@ -1,7 +1,6 @@
 ---
 id: feb0cdfe-ddb2-4fb9-8500-e84724f8cc75
-title: '"Historical Influence of Rosicrucian Manifestos and Robert Fludd\''s Esoteric
-  Works"'
+title: ""Historical Influence of Rosicrucian Manifestos and Robert Fludd's Esoteric Works""
 permalink: /17th-century-prose/Historical-Influence-of-Rosicrucian-Manifestos-and-Robert-Fludds-Esoteric-Works/
 categories:
   - 17th-century prose

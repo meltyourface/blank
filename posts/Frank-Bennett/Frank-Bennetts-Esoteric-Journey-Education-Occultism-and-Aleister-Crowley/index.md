@@ -1,6 +1,6 @@
 ---
 id: 50a36922-bd0c-412d-ad7b-5a0fe637e80b
-title: 'Frank Bennett\''s Esoteric Journey: Education, Occultism, and Aleister Crowley'
+title: "Frank Bennett's Esoteric Journey: Education, Occultism, and Aleister Crowley"
 permalink: /Frank-Bennett/Frank-Bennetts-Esoteric-Journey-Education-Occultism-and-Aleister-Crowley/
 categories:
   - Frank Bennett

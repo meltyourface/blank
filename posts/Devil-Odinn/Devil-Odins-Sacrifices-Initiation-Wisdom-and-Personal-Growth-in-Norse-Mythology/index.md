@@ -1,7 +1,6 @@
 ---
 id: 3f1ec79d-1aff-4805-ab45-97ea1a965c54
-title: '"Devil Odin\''s Sacrifices: Initiation, Wisdom, and Personal Growth in Norse
-  Mythology"'
+title: ""Devil Odin's Sacrifices: Initiation, Wisdom, and Personal Growth in Norse Mythology""
 permalink: /Devil-Odinn/Devil-Odins-Sacrifices-Initiation-Wisdom-and-Personal-Growth-in-Norse-Mythology/
 categories:
   - Devil Odinn

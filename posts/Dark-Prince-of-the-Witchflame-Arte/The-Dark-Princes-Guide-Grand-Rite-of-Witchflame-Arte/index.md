@@ -1,6 +1,6 @@
 ---
 id: 37a89948-66e5-4b65-aa08-7e352bdcf84f
-title: 'The Dark Prince\''s Guide: Grand Rite of Witchflame Arte'
+title: "The Dark Prince's Guide: Grand Rite of Witchflame Arte"
 permalink: /Dark-Prince-of-the-Witchflame-Arte/The-Dark-Princes-Guide-Grand-Rite-of-Witchflame-Arte/
 categories:
   - Dark Prince of the Witchflame Arte

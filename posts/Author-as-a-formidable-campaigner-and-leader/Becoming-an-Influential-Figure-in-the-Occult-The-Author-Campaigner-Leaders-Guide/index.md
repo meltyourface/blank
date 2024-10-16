@@ -1,7 +1,6 @@
 ---
 id: 704e6b56-a693-4606-a49f-3ba194b0048e
-title: 'Becoming an Influential Figure in the Occult: The Author-Campaigner-Leader\''s
-  Guide'
+title: "Becoming an Influential Figure in the Occult: The Author-Campaigner-Leader's Guide"
 permalink: /Author-as-a-formidable-campaigner-and-leader/Becoming-an-Influential-Figure-in-the-Occult-The-Author-Campaigner-Leaders-Guide/
 categories:
   - Author as a formidable campaigner and leader

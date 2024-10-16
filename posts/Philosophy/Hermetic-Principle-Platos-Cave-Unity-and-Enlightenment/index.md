@@ -1,6 +1,6 @@
 ---
 id: 47e5d7f3-c364-434e-a7a8-b52645a37dca
-title: 'Hermetic Principle & Plato\''s Cave: Unity and Enlightenment'
+title: "Hermetic Principle & Plato's Cave: Unity and Enlightenment"
 permalink: /Philosophy/Hermetic-Principle-Platos-Cave-Unity-and-Enlightenment/
 categories:
   - Philosophy

@@ -1,6 +1,6 @@
 ---
 id: 3035e35b-94df-4e2a-9525-152852ecb27b
-title: 'The Esoteric Potential of Rural Landscapes: Exploring Nature\''s Magical Influence'
+title: "The Esoteric Potential of Rural Landscapes: Exploring Nature's Magical Influence"
 permalink: /Rural-idyll/The-Esoteric-Potential-of-Rural-Landscapes-Exploring-Natures-Magical-Influence/
 categories:
   - Rural idyll

@@ -1,6 +1,6 @@
 ---
 id: df4796fd-dad3-407c-ae18-5368242eee25
-title: 'The Prophecies of Aislinn: Celtic Oracle\''s Guidance in Warring Factions'
+title: "The Prophecies of Aislinn: Celtic Oracle's Guidance in Warring Factions"
 permalink: /Folklore-of-ancient-Europe-and-the-British-Isles/The-Prophecies-of-Aislinn-Celtic-Oracles-Guidance-in-Warring-Factions/
 categories:
   - Folklore of ancient Europe and the British Isles

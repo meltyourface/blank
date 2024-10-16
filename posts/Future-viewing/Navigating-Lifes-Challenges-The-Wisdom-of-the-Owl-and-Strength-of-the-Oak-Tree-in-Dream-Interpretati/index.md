@@ -1,7 +1,6 @@
 ---
 id: 47f1ab9a-fbcc-4fcd-9a34-330df7f7b710
-title: 'Navigating Life\''s Challenges: The Wisdom of the Owl and Strength of the
-  Oak Tree in Dream Interpretation'
+title: "Navigating Life's Challenges: The Wisdom of the Owl and Strength of the Oak Tree in Dream Interpretation"
 permalink: /Future-viewing/Navigating-Lifes-Challenges-The-Wisdom-of-the-Owl-and-Strength-of-the-Oak-Tree-in-Dream-Interpretati/
 categories:
   - Future viewing

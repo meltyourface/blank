@@ -1,6 +1,6 @@
 ---
 id: 73eb93bc-bb9b-440e-8473-ec759ab5761a
-title: 'Elemental Fire and Dragon\''s Blood Incense: A Transformative Ritual'
+title: "Elemental Fire and Dragon's Blood Incense: A Transformative Ritual"
 permalink: "/Dragon\xE2s-Blood-incense/Elemental-Fire-and-Dragons-Blood-Incense-A-Transformative-Ritual/"
 categories:
   - "Dragon\xE2\u20AC\u2122s Blood incense"

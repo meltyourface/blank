@@ -1,6 +1,6 @@
 ---
 id: 781b80d2-4803-4e87-a7e6-a35e46013171
-title: 'Comparing Crowley\''s A.A. and O.T.O: Paths to Spiritual Awakening'
+title: "Comparing Crowley's A.A. and O.T.O: Paths to Spiritual Awakening"
 permalink: /Aleister-Crowleys-occult-fraternities-AA-and-OTO/Comparing-Crowleys-AA-and-OTO-Paths-to-Spiritual-Awakening/
 categories:
   - Aleister Crowley's occult fraternities (A.A. and O.T.O.)

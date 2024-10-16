@@ -1,6 +1,6 @@
 ---
 id: 0c4584ff-1d6a-4477-a661-1ec89c349337
-title: 'Astral Projection: Outcast\''s Guide for Esoteric Mastery'
+title: "Astral Projection: Outcast's Guide for Esoteric Mastery"
 permalink: /Outcasts/Astral-Projection-Outcasts-Guide-for-Esoteric-Mastery/
 categories:
   - Outcasts

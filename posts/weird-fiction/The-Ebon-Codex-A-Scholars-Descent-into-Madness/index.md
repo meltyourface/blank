@@ -1,6 +1,6 @@
 ---
 id: f063700b-214f-4172-b0f1-20bab330474c
-title: 'The Ebon Codex: A Scholar\''s Descent into Madness'
+title: "The Ebon Codex: A Scholar's Descent into Madness"
 permalink: /weird-fiction/The-Ebon-Codex-A-Scholars-Descent-into-Madness/
 categories:
   - weird fiction

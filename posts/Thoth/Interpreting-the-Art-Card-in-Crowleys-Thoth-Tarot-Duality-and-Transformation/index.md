@@ -1,6 +1,6 @@
 ---
 id: 61990db4-0bbc-43a9-af4c-f267b2355e46
-title: 'Interpreting the Art Card in Crowley\''s Thoth Tarot: Duality and Transformation'
+title: "Interpreting the Art Card in Crowley's Thoth Tarot: Duality and Transformation"
 permalink: /Thoth/Interpreting-the-Art-Card-in-Crowleys-Thoth-Tarot-Duality-and-Transformation/
 categories:
   - Thoth

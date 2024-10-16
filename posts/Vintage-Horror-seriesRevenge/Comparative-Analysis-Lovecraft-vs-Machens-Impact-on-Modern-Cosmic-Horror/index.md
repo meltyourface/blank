@@ -1,6 +1,6 @@
 ---
 id: 5835e4ca-7c1b-4181-aa92-752962adec48
-title: 'Comparative Analysis: Lovecraft vs Machen\''s Impact on Modern Cosmic Horror'
+title: "Comparative Analysis: Lovecraft vs Machen's Impact on Modern Cosmic Horror"
 permalink: /Vintage-Horror-seriesRevenge/Comparative-Analysis-Lovecraft-vs-Machens-Impact-on-Modern-Cosmic-Horror/
 categories:
   - Vintage Horror seriesRevenge

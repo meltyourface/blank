@@ -1,6 +1,6 @@
 ---
 id: 3506b20c-b95b-4b3d-8e6b-5926a9617b40
-title: 'Jack Parsons\'' Babalon: The Scarlet Woman and Spiritual Liberation'
+title: "Jack Parsons' Babalon: The Scarlet Woman and Spiritual Liberation"
 permalink: /Jack-Parsons/Jack-Parsons-Babalon-The-Scarlet-Woman-and-Spiritual-Liberation/
 categories:
   - Jack Parsons

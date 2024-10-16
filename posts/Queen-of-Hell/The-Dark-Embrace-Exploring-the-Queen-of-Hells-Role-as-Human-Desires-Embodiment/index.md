@@ -1,7 +1,6 @@
 ---
 id: 15e41e80-3ed5-45d0-9e05-2d23d551e0d3
-title: 'The Dark Embrace: Exploring the Queen of Hell\''s Role as Human Desire\''s
-  Embodiment'
+title: "The Dark Embrace: Exploring the Queen of Hell's Role as Human Desire's Embodiment"
 permalink: /Queen-of-Hell/The-Dark-Embrace-Exploring-the-Queen-of-Hells-Role-as-Human-Desires-Embodiment/
 categories:
   - Queen of Hell

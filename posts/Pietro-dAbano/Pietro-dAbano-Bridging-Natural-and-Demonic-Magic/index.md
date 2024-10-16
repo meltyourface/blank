@@ -1,6 +1,6 @@
 ---
 id: b8f50fd2-bc0f-4347-8b30-811ffafd4832
-title: 'Pietro d\''Abano: Bridging Natural and Demonic Magic'
+title: "Pietro d'Abano: Bridging Natural and Demonic Magic"
 permalink: /Pietro-dAbano/Pietro-dAbano-Bridging-Natural-and-Demonic-Magic/
 categories:
   - Pietro dAbano

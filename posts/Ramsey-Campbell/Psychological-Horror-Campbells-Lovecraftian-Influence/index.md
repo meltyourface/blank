@@ -1,6 +1,6 @@
 ---
 id: 554dc98d-0f3d-435b-a349-83ee371c8fcf
-title: 'Psychological Horror: Campbell\''s Lovecraftian Influence'
+title: "Psychological Horror: Campbell's Lovecraftian Influence"
 permalink: /Ramsey-Campbell/Psychological-Horror-Campbells-Lovecraftian-Influence/
 categories:
   - Ramsey Campbell

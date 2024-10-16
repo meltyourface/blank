@@ -1,6 +1,6 @@
 ---
 id: 4488ffc5-70b6-4617-bfc6-a8092a89bc4a
-title: 'Knight Errant\''s Journey: Alchemy, Chivalry, and Trials'
+title: "Knight Errant's Journey: Alchemy, Chivalry, and Trials"
 permalink: /Knight-errant/Knight-Errants-Journey-Alchemy-Chivalry-and-Trials/
 categories:
   - Knight errant

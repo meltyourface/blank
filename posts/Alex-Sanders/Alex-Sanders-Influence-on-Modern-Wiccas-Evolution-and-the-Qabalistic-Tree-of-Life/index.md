@@ -1,7 +1,6 @@
 ---
 id: 51d4d133-ee5e-44ae-a6c5-8aad83a81d38
-title: 'Alex Sanders: Influence on Modern Wicca\''s Evolution and the Qabalistic Tree
-  of Life'
+title: "Alex Sanders: Influence on Modern Wicca's Evolution and the Qabalistic Tree of Life"
 permalink: /Alex-Sanders/Alex-Sanders-Influence-on-Modern-Wiccas-Evolution-and-the-Qabalistic-Tree-of-Life/
 categories:
   - Alex Sanders

@@ -1,6 +1,6 @@
 ---
 id: e7e7a879-1f12-43f4-be15-95c8de356191
-title: 'Color Magic: Exploring Agrippa\''s De Occulta PhilosophiaDumuzid'
+title: "Color Magic: Exploring Agrippa's De Occulta PhilosophiaDumuzid"
 permalink: /Agrippas-De-Occulta-PhilosophiaDumuzid/Color-Magic-Exploring-Agrippas-De-Occulta-PhilosophiaDumuzid/
 categories:
   - Agrippa's De Occulta PhilosophiaDumuzid

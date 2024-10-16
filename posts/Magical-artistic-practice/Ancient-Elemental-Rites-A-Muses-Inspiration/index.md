@@ -1,6 +1,6 @@
 ---
 id: 56b8d033-f9d2-4eb7-ac52-80bc468fa6ea
-title: 'Ancient Elemental Rites: A Muse\''s Inspiration'
+title: "Ancient Elemental Rites: A Muse's Inspiration"
 permalink: /Magical-artistic-practice/Ancient-Elemental-Rites-A-Muses-Inspiration/
 categories:
   - Magical artistic practice

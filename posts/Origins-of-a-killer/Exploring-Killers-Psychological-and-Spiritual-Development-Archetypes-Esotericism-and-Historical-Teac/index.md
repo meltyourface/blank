@@ -1,7 +1,6 @@
 ---
 id: 6758ee47-0763-4eb1-8d07-19fd5798b406
-title: 'Exploring Killers\'' Psychological and Spiritual Development: Archetypes,
-  Esotericism, and Historical Teachings'
+title: "Exploring Killers' Psychological and Spiritual Development: Archetypes, Esotericism, and Historical Teachings"
 permalink: /Origins-of-a-killer/Exploring-Killers-Psychological-and-Spiritual-Development-Archetypes-Esotericism-and-Historical-Teac/
 categories:
   - Origins of a killer

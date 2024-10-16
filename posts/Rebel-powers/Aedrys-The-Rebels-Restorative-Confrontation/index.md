@@ -1,6 +1,6 @@
 ---
 id: 0ed051ee-55b5-4582-9cce-fea94ae35be7
-title: 'Aedrys: The Rebel\''s Restorative Confrontation'
+title: "Aedrys: The Rebel's Restorative Confrontation"
 permalink: /Rebel-powers/Aedrys-The-Rebels-Restorative-Confrontation/
 categories:
   - Rebel powers

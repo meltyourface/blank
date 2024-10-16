@@ -1,6 +1,6 @@
 ---
 id: 589b090f-30c7-483c-9b58-c33e763421e8
-title: 'Exploring Renaissance Magic: Agrippa\''s Three Books of Occult Philosophy'
+title: "Exploring Renaissance Magic: Agrippa's Three Books of Occult Philosophy"
 permalink: /Three-Books-of-Occult-Philosophy/Exploring-Renaissance-Magic-Agrippas-Three-Books-of-Occult-Philosophy/
 categories:
   - Three Books of Occult Philosophy

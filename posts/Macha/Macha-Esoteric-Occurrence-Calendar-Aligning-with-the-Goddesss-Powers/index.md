@@ -1,6 +1,6 @@
 ---
 id: e1182188-0b22-475d-b610-9d5e71474199
-title: 'Macha Esoteric Occurrence Calendar: Aligning with the Goddess\''s Powers'
+title: "Macha Esoteric Occurrence Calendar: Aligning with the Goddess's Powers"
 permalink: /Macha/Macha-Esoteric-Occurrence-Calendar-Aligning-with-the-Goddesss-Powers/
 categories:
   - Macha

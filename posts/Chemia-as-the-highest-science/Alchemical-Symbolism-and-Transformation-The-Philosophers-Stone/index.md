@@ -1,6 +1,6 @@
 ---
 id: be837d0c-b1a0-4833-97f6-60ae780a0910
-title: 'Alchemical Symbolism and Transformation: The Philosopher\''s Stone'
+title: "Alchemical Symbolism and Transformation: The Philosopher's Stone"
 permalink: /Chemia-as-the-highest-science/Alchemical-Symbolism-and-Transformation-The-Philosophers-Stone/
 categories:
   - Chemia as the highest science

@@ -1,6 +1,6 @@
 ---
 id: eec2e185-a3d6-4c9e-b37e-a051cc266e32
-title: 'Exploring the Esoteric Realms: Algernon Blackwood\''s Impact on Occult Literature'
+title: "Exploring the Esoteric Realms: Algernon Blackwood's Impact on Occult Literature"
 permalink: /Algernon-Blackwood/Exploring-the-Esoteric-Realms-Algernon-Blackwoods-Impact-on-Occult-Literature/
 categories:
   - Algernon Blackwood

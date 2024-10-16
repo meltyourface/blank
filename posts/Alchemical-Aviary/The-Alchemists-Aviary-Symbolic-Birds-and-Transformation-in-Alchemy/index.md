@@ -1,6 +1,6 @@
 ---
 id: 63800a2e-d678-4f11-ab98-9524bad67a32
-title: 'The Alchemist\''s Aviary: Symbolic Birds and Transformation in Alchemy'
+title: "The Alchemist's Aviary: Symbolic Birds and Transformation in Alchemy"
 permalink: /Alchemical-Aviary/The-Alchemists-Aviary-Symbolic-Birds-and-Transformation-in-Alchemy/
 categories:
   - Alchemical Aviary

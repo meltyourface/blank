@@ -1,6 +1,6 @@
 ---
 id: 08648864-3ef3-4c62-84a6-51a1b67fc478
-title: '"Geomancy: Interpreting Earth\''s Elemental Patterns"'
+title: ""Geomancy: Interpreting Earth's Elemental Patterns""
 permalink: /Geomancy/Geomancy-Interpreting-Earths-Elemental-Patterns/
 categories:
   - Geomancy

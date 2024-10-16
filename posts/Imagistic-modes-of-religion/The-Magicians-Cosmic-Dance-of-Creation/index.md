@@ -1,6 +1,6 @@
 ---
 id: d48b5c79-eaed-4dff-a876-61dd0911c270
-title: "The Magician\''s Cosmic Dance of Creation"
+title: "The Magician's Cosmic Dance of Creation"
 permalink: /Imagistic-modes-of-religion/The-Magicians-Cosmic-Dance-of-Creation/
 categories:
   - Imagistic modes of religion

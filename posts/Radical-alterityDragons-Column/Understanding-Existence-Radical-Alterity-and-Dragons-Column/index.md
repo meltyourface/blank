@@ -1,6 +1,6 @@
 ---
 id: a6a52c4b-a5e9-4fa9-ae75-aa7cb8193d61
-title: 'Understanding Existence: Radical Alterity and Dragon\''s Column'
+title: "Understanding Existence: Radical Alterity and Dragon's Column"
 permalink: /Radical-alterityDragons-Column/Understanding-Existence-Radical-Alterity-and-Dragons-Column/
 categories:
   - Radical alterity.Dragon's Column

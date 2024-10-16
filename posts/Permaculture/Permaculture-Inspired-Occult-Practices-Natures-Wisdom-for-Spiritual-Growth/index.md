@@ -1,6 +1,6 @@
 ---
 id: a8cdfee8-7720-4706-bc37-c9dd2ab81e49
-title: 'Permaculture-Inspired Occult Practices: Nature\''s Wisdom for Spiritual Growth'
+title: "Permaculture-Inspired Occult Practices: Nature's Wisdom for Spiritual Growth"
 permalink: /Permaculture/Permaculture-Inspired-Occult-Practices-Natures-Wisdom-for-Spiritual-Growth/
 categories:
   - Permaculture

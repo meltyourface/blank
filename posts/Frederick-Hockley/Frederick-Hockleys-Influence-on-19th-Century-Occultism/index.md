@@ -1,6 +1,6 @@
 ---
 id: 88850da7-32bf-4cb1-bce0-ccf4371406a3
-title: "Frederick Hockley\''s Influence on 19th-Century Occultism"
+title: "Frederick Hockley's Influence on 19th-Century Occultism"
 permalink: /Frederick-Hockley/Frederick-Hockleys-Influence-on-19th-Century-Occultism/
 categories:
   - Frederick Hockley

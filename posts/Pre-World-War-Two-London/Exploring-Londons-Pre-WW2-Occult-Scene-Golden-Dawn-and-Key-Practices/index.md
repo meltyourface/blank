@@ -1,6 +1,6 @@
 ---
 id: e3e0aaf7-2b5a-44a5-bbc4-c5cb14b3678f
-title: 'Exploring London\''s Pre-WW2 Occult Scene: Golden Dawn and Key Practices'
+title: "Exploring London's Pre-WW2 Occult Scene: Golden Dawn and Key Practices"
 permalink: /Pre-World-War-Two-London/Exploring-Londons-Pre-WW2-Occult-Scene-Golden-Dawn-and-Key-Practices/
 categories:
   - Pre-World War Two London

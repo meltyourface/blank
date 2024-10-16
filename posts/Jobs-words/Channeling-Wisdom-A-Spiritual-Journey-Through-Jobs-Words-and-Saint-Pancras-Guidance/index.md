@@ -1,6 +1,6 @@
 ---
 id: 24a6314b-9e08-4874-88b5-3acdded30063
-title: 'Channeling Wisdom: A Spiritual Journey Through Job\''s Words and Saint Pancras\''
+title: "Channeling Wisdom: A Spiritual Journey Through Job's Words and Saint Pancras\'"
   Guidance'
 permalink: /Jobs-words/Channeling-Wisdom-A-Spiritual-Journey-Through-Jobs-Words-and-Saint-Pancras-Guidance/
 categories:

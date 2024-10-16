@@ -1,6 +1,6 @@
 ---
 id: 1cd2e652-0d2d-4316-8b9f-4740927aecc8
-title: '"Karmic Connections in Blake\''s \''Ancient of Days\''"'
+title: ""Karmic Connections in Blake\''s 'Ancient of Days'""
 permalink: /Karmic-attachments/Karmic-Connections-in-Blakes-Ancient-of-Days/
 categories:
   - Karmic attachments

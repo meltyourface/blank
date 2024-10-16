@@ -1,6 +1,6 @@
 ---
 id: 2afeb2cd-0a05-432e-ac4d-f9018c2e3cdf
-title: '"Designing the As-Sa\''at Al-Kubra: The Hourglass of Islamic Saturn Rituals"'
+title: ""Designing the As-Sa'at Al-Kubra: The Hourglass of Islamic Saturn Rituals""
 permalink: /Islamic-cult-of-Saturn/Designing-the-As-Saat-Al-Kubra-The-Hourglass-of-Islamic-Saturn-Rituals/
 categories:
   - Islamic cult of Saturn

@@ -1,6 +1,6 @@
 ---
 id: 6c9e5311-30b0-446a-8425-224addc86860
-title: 'Ritual: Channeling Black Dragon\''s Arcane Power'
+title: "Ritual: Channeling Black Dragon's Arcane Power"
 permalink: /Black-Dragon/Ritual-Channeling-Black-Dragons-Arcane-Power/
 categories:
   - Black Dragon

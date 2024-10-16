@@ -1,6 +1,6 @@
 ---
 id: 576e4124-6fc4-4152-bc6b-6a83b7459d91
-title: 'A Scholar\''s Quest: Rediscovering Ancient Emblematic Ornaments'
+title: "A Scholar's Quest: Rediscovering Ancient Emblematic Ornaments"
 permalink: /Emblematic-Ornaments/A-Scholars-Quest-Rediscovering-Ancient-Emblematic-Ornaments/
 categories:
   - Emblematic Ornaments

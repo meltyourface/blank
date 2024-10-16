@@ -1,7 +1,6 @@
 ---
 id: 8a740248-5f1d-49fb-b3e5-05f32c94a81e
-title: 'Evolution of Mesopotamian Worship: Comparing Enheduanna\''s Hymn and Akkadian
-  Liturgies'
+title: "Evolution of Mesopotamian Worship: Comparing Enheduanna's Hymn and Akkadian Liturgies"
 permalink: /Akkadian-liturgical-texts/Evolution-of-Mesopotamian-Worship-Comparing-Enheduannas-Hymn-and-Akkadian-Liturgies/
 categories:
   - Akkadian liturgical texts

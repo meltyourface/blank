@@ -1,6 +1,6 @@
 ---
 id: 78be7027-01d6-4f40-8595-ef53eb3ea324
-title: 'The Poisons Affair: Intrigue and Corruption at Louis XIV\''s Court'
+title: "The Poisons Affair: Intrigue and Corruption at Louis XIV's Court"
 permalink: /Affair-of-the-Poisons/The-Poisons-Affair-Intrigue-and-Corruption-at-Louis-XIVs-Court/
 categories:
   - Affair of the Poisons

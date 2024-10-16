@@ -1,6 +1,6 @@
 ---
 id: 3d4e00aa-94d1-4125-a3b4-eb08d33d6356
-title: 'Aleister Crowley\''s Alchemy vs. Chaos Magick: The Great Work and True Will'
+title: "Aleister Crowley's Alchemy vs. Chaos Magick: The Great Work and True Will"
 permalink: /Aleister-CrowleyAlchemy/Aleister-Crowleys-Alchemy-vs-Chaos-Magick-The-Great-Work-and-True-Will/
 categories:
   - Aleister CrowleyAlchemy

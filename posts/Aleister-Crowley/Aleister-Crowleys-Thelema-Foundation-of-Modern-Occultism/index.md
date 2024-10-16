@@ -1,6 +1,6 @@
 ---
 id: e56ee798-d64f-4401-8521-84ce45a53898
-title: '"Aleister Crowley\''s Thelema: Foundation of Modern Occultism"'
+title: ""Aleister Crowley's Thelema: Foundation of Modern Occultism""
 permalink: /Aleister-Crowley/Aleister-Crowleys-Thelema-Foundation-of-Modern-Occultism/
 categories:
   - Aleister Crowley

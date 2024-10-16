@@ -1,6 +1,6 @@
 ---
 id: a823bd6d-8875-4cdf-ba49-37164105695d
-title: '"Agrippa\''s Three Books: An Overview of Occult Philosophy"'
+title: ""Agrippa's Three Books: An Overview of Occult Philosophy""
 permalink: /Agrippa/Agrippas-Three-Books-An-Overview-of-Occult-Philosophy/
 categories:
   - Agrippa

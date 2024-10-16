@@ -1,6 +1,6 @@
 ---
 id: 6e870a22-da08-4acf-b3b9-1bb55a6589be
-title: 'Philosophy: Ariadne\''s Thread as a Problem-Solving Technique'
+title: "Philosophy: Ariadne's Thread as a Problem-Solving Technique"
 permalink: /Ariadnes-thread/Philosophy-Ariadnes-Thread-as-a-Problem-Solving-Technique/
 categories:
   - Ariadnes thread

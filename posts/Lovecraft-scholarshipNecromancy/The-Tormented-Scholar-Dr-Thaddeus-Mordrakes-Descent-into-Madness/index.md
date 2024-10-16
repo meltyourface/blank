@@ -1,6 +1,6 @@
 ---
 id: 10ec5676-c0cb-4ad2-b134-9f3d1a566eb7
-title: "The Tormented Scholar: Dr. Thaddeus Mordrake\''s Descent into Madness"
+title: "The Tormented Scholar: Dr. Thaddeus Mordrake's Descent into Madness"
 permalink: /Lovecraft-scholarshipNecromancy/The-Tormented-Scholar-Dr-Thaddeus-Mordrakes-Descent-into-Madness/
 categories:
   - Lovecraft scholarshipNecromancy

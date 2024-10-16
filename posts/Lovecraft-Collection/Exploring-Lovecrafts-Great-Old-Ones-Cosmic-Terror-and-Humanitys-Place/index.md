@@ -1,6 +1,6 @@
 ---
 id: 3017912a-7598-4f0e-8fa1-d149c68b7930
-title: 'Exploring Lovecraft\''s Great Old Ones: Cosmic Terror and Humanity\''s Place'
+title: "Exploring Lovecraft's Great Old Ones: Cosmic Terror and Humanity's Place"
 permalink: /Lovecraft-Collection/Exploring-Lovecrafts-Great-Old-Ones-Cosmic-Terror-and-Humanitys-Place/
 categories:
   - Lovecraft Collection

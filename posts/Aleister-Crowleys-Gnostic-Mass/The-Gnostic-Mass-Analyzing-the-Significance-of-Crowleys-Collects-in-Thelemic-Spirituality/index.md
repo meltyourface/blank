@@ -1,7 +1,6 @@
 ---
 id: c7e11412-f913-4e89-93ef-b74963dbdc10
-title: '"The Gnostic Mass: Analyzing the Significance of Crowley\''s Collects in Thelemic
-  Spirituality"'
+title: ""The Gnostic Mass: Analyzing the Significance of Crowley's Collects in Thelemic Spirituality""
 permalink: /Aleister-Crowleys-Gnostic-Mass/The-Gnostic-Mass-Analyzing-the-Significance-of-Crowleys-Collects-in-Thelemic-Spirituality/
 categories:
   - Aleister Crowley's Gnostic Mass

@@ -1,6 +1,6 @@
 ---
 id: f9b38047-2fd2-4de4-aff4-a8242779c4ae
-title: 'A.A. vs O.T.O.: Differences and Similarities in Thelema\''s Esoteric Orders'
+title: "A.A. vs O.T.O.: Differences and Similarities in Thelema's Esoteric Orders"
 permalink: /Aleister-Crowleys-occult-fraternities-AA-and-OTO/AA-vs-OTO-Differences-and-Similarities-in-Thelemas-Esoteric-Orders/
 categories:
   - Aleister Crowley's occult fraternities (A.A. and O.T.O.)

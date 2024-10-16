@@ -1,6 +1,6 @@
 ---
 id: e4411899-17d4-468f-bfbc-6b9064b3a5b6
-title: 'Dark Alchemy and Magick: The Black Dragon\''s Grimoire'
+title: "Dark Alchemy and Magick: The Black Dragon's Grimoire"
 permalink: /Luciferian-illuminismBlack-Dragon/Dark-Alchemy-and-Magick-The-Black-Dragons-Grimoire/
 categories:
   - Luciferian illuminismBlack Dragon

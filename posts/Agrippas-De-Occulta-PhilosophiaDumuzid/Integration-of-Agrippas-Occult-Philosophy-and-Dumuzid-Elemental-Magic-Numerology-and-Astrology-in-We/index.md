@@ -1,7 +1,6 @@
 ---
 id: baaec325-944c-4c74-b7fc-26e35bc9fae5
-title: 'Integration of Agrippa\''s Occult Philosophy and Dumuzid: Elemental Magic,
-  Numerology, and Astrology in Western Esotericism'
+title: "Integration of Agrippa's Occult Philosophy and Dumuzid: Elemental Magic, Numerology, and Astrology in Western Esotericism"
 permalink: /Agrippas-De-Occulta-PhilosophiaDumuzid/Integration-of-Agrippas-Occult-Philosophy-and-Dumuzid-Elemental-Magic-Numerology-and-Astrology-in-We/
 categories:
   - Agrippa's De Occulta PhilosophiaDumuzid

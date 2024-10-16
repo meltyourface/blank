@@ -1,6 +1,6 @@
 ---
 id: 4c3f210e-cd7e-4d60-8b33-2f493c5e72b0
-title: 'Tarot\''s Lovers and High Priestess: Exploring Love\''s Transcendence'
+title: "Tarot's Lovers and High Priestess: Exploring Love's Transcendence"
 permalink: /The-power-of-love-to-transcend-logic-and-reason/Tarots-Lovers-and-High-Priestess-Exploring-Loves-Transcendence/
 categories:
   - The power of love to transcend logic and reason

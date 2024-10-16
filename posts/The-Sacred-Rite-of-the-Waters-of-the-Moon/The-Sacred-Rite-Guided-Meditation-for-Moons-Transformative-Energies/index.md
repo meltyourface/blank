@@ -1,6 +1,6 @@
 ---
 id: 172e4416-5d66-4e19-9383-f3dda5a93f05
-title: 'The Sacred Rite: Guided Meditation for Moon\''s Transformative Energies'
+title: "The Sacred Rite: Guided Meditation for Moon's Transformative Energies"
 permalink: /The-Sacred-Rite-of-the-Waters-of-the-Moon/The-Sacred-Rite-Guided-Meditation-for-Moons-Transformative-Energies/
 categories:
   - The Sacred Rite of the Waters of the Moon

@@ -1,6 +1,6 @@
 ---
 id: 1a1d3618-834d-4bcd-8adc-84a11b105d4e
-title: 'Nietzschean Esotericism: D\''Annunzio\''s Influence on Fiume Annexation'
+title: "Nietzschean Esotericism: D'Annunzio's Influence on Fiume Annexation"
 permalink: /Annexation-of-Fiume/Nietzschean-Esotericism-DAnnunzios-Influence-on-Fiume-Annexation/
 categories:
   - Annexation of Fiume

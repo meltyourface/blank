@@ -1,6 +1,6 @@
 ---
 id: 986d435c-5947-431f-ac64-dafcc12ffef8
-title: 'Devotee\''s Guide to Worshiping Diana: Ethics & Practices'
+title: "Devotee's Guide to Worshiping Diana: Ethics & Practices"
 permalink: /Devotees-of-Diana/Devotees-Guide-to-Worshiping-Diana-Ethics-Practices/
 categories:
   - Devotees of Diana

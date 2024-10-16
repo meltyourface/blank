@@ -1,6 +1,6 @@
 ---
 id: 70592c57-66cf-4f13-8cd2-836d40586f3a
-title: 'Exploring Gardner\''s Book of Shadows: A Foundation for Wicca'
+title: "Exploring Gardner's Book of Shadows: A Foundation for Wicca"
 permalink: /Gardners-Book-of-Shadows/Exploring-Gardners-Book-of-Shadows-A-Foundation-for-Wicca/
 categories:
   - Gardners Book of Shadows

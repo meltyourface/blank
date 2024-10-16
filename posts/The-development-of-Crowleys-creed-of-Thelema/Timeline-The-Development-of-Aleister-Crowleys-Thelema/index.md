@@ -1,6 +1,6 @@
 ---
 id: 26a587fd-f05d-4f7b-87bd-dd6a6a587202
-title: 'Timeline: The Development of Aleister Crowley\''s Thelema'
+title: "Timeline: The Development of Aleister Crowley's Thelema"
 permalink: /The-development-of-Crowleys-creed-of-Thelema/Timeline-The-Development-of-Aleister-Crowleys-Thelema/
 categories:
   - The development of Crowley's creed of Thelema

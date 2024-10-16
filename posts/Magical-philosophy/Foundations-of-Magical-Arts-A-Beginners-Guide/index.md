@@ -1,6 +1,6 @@
 ---
 id: 58393e8e-177c-4c92-af91-de713584487c
-title: 'Foundations of Magical Arts: A Beginner\''s Guide'
+title: "Foundations of Magical Arts: A Beginner's Guide"
 permalink: /Magical-philosophy/Foundations-of-Magical-Arts-A-Beginners-Guide/
 categories:
   - Magical philosophy

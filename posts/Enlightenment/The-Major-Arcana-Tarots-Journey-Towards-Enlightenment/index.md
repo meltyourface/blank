@@ -1,6 +1,6 @@
 ---
 id: 83979e55-94a8-4968-99c7-397a2d91355a
-title: 'The Major Arcana: Tarot\''s Journey Towards Enlightenment'
+title: "The Major Arcana: Tarot's Journey Towards Enlightenment"
 permalink: /Enlightenment/The-Major-Arcana-Tarots-Journey-Towards-Enlightenment/
 categories:
   - Enlightenment

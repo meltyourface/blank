@@ -1,6 +1,6 @@
 ---
 id: 7376210e-4212-4b5f-b62a-a84c98fd9f0f
-title: 'Spiritual Alchemy: The Descent and Ascent in Crowley\''s Pyramidos'
+title: "Spiritual Alchemy: The Descent and Ascent in Crowley's Pyramidos"
 permalink: /Liber-DCLXXI-vel-Pyramidos/Spiritual-Alchemy-The-Descent-and-Ascent-in-Crowleys-Pyramidos/
 categories:
   - Liber DCLXXI vel Pyramidos

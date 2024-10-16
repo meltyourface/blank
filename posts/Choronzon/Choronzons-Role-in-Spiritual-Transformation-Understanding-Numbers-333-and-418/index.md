@@ -1,7 +1,6 @@
 ---
 id: 544dca5d-f41f-44ce-892c-afdcbdc34a80
-title: 'Choronzon\''s Role in Spiritual Transformation: Understanding Numbers 333
-  and 418'
+title: "Choronzon's Role in Spiritual Transformation: Understanding Numbers 333 and 418"
 permalink: /Choronzon/Choronzons-Role-in-Spiritual-Transformation-Understanding-Numbers-333-and-418/
 categories:
   - Choronzon

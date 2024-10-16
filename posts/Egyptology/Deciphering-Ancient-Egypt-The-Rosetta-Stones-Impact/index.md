@@ -1,6 +1,6 @@
 ---
 id: a0b45dc3-b2c2-4682-b1bd-57a2af127924
-title: 'Deciphering Ancient Egypt: The Rosetta Stone\''s Impact'
+title: "Deciphering Ancient Egypt: The Rosetta Stone's Impact"
 permalink: /Egyptology/Deciphering-Ancient-Egypt-The-Rosetta-Stones-Impact/
 categories:
   - Egyptology

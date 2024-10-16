@@ -1,7 +1,6 @@
 ---
 id: 8423371c-9cfe-4714-b239-946b1d68d098
-title: 'Guided Meditation: Harnessing the Power of Aquarian Foundation\''s Law of
-  Attraction'
+title: "Guided Meditation: Harnessing the Power of Aquarian Foundation's Law of Attraction"
 permalink: /Aquarian-Foundation/Guided-Meditation-Harnessing-the-Power-of-Aquarian-Foundations-Law-of-Attraction/
 categories:
   - Aquarian Foundation

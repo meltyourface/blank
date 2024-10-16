@@ -1,6 +1,6 @@
 ---
 id: 7a634b20-a396-46f4-872a-70d30d4eab6d
-title: "Van Helmont\''s Alchemical Wisdom: Decoding Mysteries"
+title: "Van Helmont's Alchemical Wisdom: Decoding Mysteries"
 permalink: /Van-Helmont/Van-Helmonts-Alchemical-Wisdom-Decoding-Mysteries/
 categories:
   - Van Helmont

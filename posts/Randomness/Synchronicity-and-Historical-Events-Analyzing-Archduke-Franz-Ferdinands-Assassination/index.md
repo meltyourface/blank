@@ -1,7 +1,6 @@
 ---
 id: 77de8b25-964e-4a5a-b1a7-9f0e882b8c44
-title: 'Synchronicity and Historical Events: Analyzing Archduke Franz Ferdinand\''s
-  Assassination'
+title: "Synchronicity and Historical Events: Analyzing Archduke Franz Ferdinand's Assassination"
 permalink: /Randomness/Synchronicity-and-Historical-Events-Analyzing-Archduke-Franz-Ferdinands-Assassination/
 categories:
   - Randomness

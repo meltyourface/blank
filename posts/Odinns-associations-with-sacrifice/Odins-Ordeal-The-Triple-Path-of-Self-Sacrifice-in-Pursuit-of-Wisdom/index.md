@@ -1,6 +1,6 @@
 ---
 id: 97c6aa6a-5361-4342-9194-e7ca53471326
-title: 'Odin\''s Ordeal: The Triple Path of Self-Sacrifice in Pursuit of Wisdom'
+title: "Odin's Ordeal: The Triple Path of Self-Sacrifice in Pursuit of Wisdom"
 permalink: /Odinns-associations-with-sacrifice/Odins-Ordeal-The-Triple-Path-of-Self-Sacrifice-in-Pursuit-of-Wisdom/
 categories:
   - Odinns associations with sacrifice

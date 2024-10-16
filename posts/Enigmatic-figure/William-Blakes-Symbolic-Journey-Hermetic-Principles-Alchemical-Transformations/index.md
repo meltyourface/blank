@@ -1,6 +1,6 @@
 ---
 id: e74d5f95-41bd-4be9-9fd7-525b5dc8405d
-title: 'William Blake\''s Symbolic Journey: Hermetic Principles & Alchemical Transformations'
+title: "William Blake's Symbolic Journey: Hermetic Principles & Alchemical Transformations"
 permalink: /Enigmatic-figure/William-Blakes-Symbolic-Journey-Hermetic-Principles-Alchemical-Transformations/
 categories:
   - Enigmatic figure

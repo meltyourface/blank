@@ -1,6 +1,6 @@
 ---
 id: 3ad1da41-93c9-4dca-bd5f-db4402270865
-title: 'Plato\''s Cave & Eleusinian Mysteries: Enlightenment Journeys'
+title: "Plato's Cave & Eleusinian Mysteries: Enlightenment Journeys"
 permalink: /Classics/Platos-Cave-Eleusinian-Mysteries-Enlightenment-Journeys/
 categories:
   - Classics

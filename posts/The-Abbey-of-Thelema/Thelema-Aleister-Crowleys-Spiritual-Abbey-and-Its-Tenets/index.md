@@ -1,6 +1,6 @@
 ---
 id: a3d1bf1d-5db5-4522-b9a1-351f35f81321
-title: 'Thelema: Aleister Crowley\''s Spiritual Abbey and Its Tenets'
+title: "Thelema: Aleister Crowley's Spiritual Abbey and Its Tenets"
 permalink: /The-Abbey-of-Thelema/Thelema-Aleister-Crowleys-Spiritual-Abbey-and-Its-Tenets/
 categories:
   - The Abbey of Thelema

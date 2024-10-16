@@ -1,6 +1,6 @@
 ---
 id: 44af0341-4d12-4a59-89c2-5282a7713c38
-title: 'The Gothic Revival\''s Esoteric Connection: Walpole and Wyatt'
+title: "The Gothic Revival's Esoteric Connection: Walpole and Wyatt"
 permalink: /18th-century-Gothic-Revival-architecture/The-Gothic-Revivals-Esoteric-Connection-Walpole-and-Wyatt/
 categories:
   - 18th-century Gothic Revival architecture

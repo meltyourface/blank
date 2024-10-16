@@ -1,6 +1,6 @@
 ---
 id: 16b1a029-8bdc-42e1-9f31-ac629ee74775
-title: 'Aleister Crowley: Occultist, Thelema, and Magick\''s Influence on Modern Esotericism'
+title: "Aleister Crowley: Occultist, Thelema, and Magick's Influence on Modern Esotericism"
 permalink: /Aleister-Crowley/Aleister-Crowley-Occultist-Thelema-and-Magicks-Influence-on-Modern-Esotericism/
 categories:
   - Aleister Crowley

@@ -1,6 +1,6 @@
 ---
 id: 594b7af2-11bb-4b4d-a32f-d22e4c28d39e
-title: 'Embracing Diana: Nature\''s Sovereign Guardian in Modern Life'
+title: "Embracing Diana: Nature's Sovereign Guardian in Modern Life"
 permalink: /Devotees-of-Diana/Embracing-Diana-Natures-Sovereign-Guardian-in-Modern-Life/
 categories:
   - Devotees of Diana

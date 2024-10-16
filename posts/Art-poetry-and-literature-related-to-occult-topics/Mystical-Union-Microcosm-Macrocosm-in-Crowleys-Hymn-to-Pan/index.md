@@ -1,6 +1,6 @@
 ---
 id: 9b9520aa-ba31-41b0-81cc-3a7a6daa4bb5
-title: '"Mystical Union: Microcosm-Macrocosm in Crowley\''s \''Hymn to Pan\''"'
+title: ""Mystical Union: Microcosm-Macrocosm in Crowley\''s 'Hymn to Pan'""
 permalink: /Art-poetry-and-literature-related-to-occult-topics/Mystical-Union-Microcosm-Macrocosm-in-Crowleys-Hymn-to-Pan/
 categories:
   - Art, poetry, and literature related to occult topics

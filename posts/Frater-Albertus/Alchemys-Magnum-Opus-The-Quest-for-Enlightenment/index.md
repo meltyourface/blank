@@ -1,6 +1,6 @@
 ---
 id: c9d84396-3940-4776-8940-4a4e8f17628a
-title: 'Alchemy\''s Magnum Opus: The Quest for Enlightenment'
+title: "Alchemy's Magnum Opus: The Quest for Enlightenment"
 permalink: /Frater-Albertus/Alchemys-Magnum-Opus-The-Quest-for-Enlightenment/
 categories:
   - Frater Albertus

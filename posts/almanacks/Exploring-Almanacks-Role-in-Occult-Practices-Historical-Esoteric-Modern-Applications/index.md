@@ -1,7 +1,6 @@
 ---
 id: e0a30ebc-8c58-400b-8453-dcb2ba82add5
-title: 'Exploring Almanack\''s Role in Occult Practices: Historical, Esoteric & Modern
-  Applications'
+title: "Exploring Almanack's Role in Occult Practices: Historical, Esoteric & Modern Applications"
 permalink: /almanacks/Exploring-Almanacks-Role-in-Occult-Practices-Historical-Esoteric-Modern-Applications/
 categories:
   - almanacks

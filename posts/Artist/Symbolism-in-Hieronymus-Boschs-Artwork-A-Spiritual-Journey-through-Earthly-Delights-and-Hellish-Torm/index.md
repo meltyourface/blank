@@ -1,7 +1,6 @@
 ---
 id: b032cbf7-c3da-4f6d-b62a-3759c955a5f1
-title: 'Symbolism in Hieronymus Bosch\''s Artwork: A Spiritual Journey through Earthly
-  Delights and Hellish Torments'
+title: "Symbolism in Hieronymus Bosch's Artwork: A Spiritual Journey through Earthly Delights and Hellish Torments"
 permalink: /Artist/Symbolism-in-Hieronymus-Boschs-Artwork-A-Spiritual-Journey-through-Earthly-Delights-and-Hellish-Torm/
 categories:
   - Artist

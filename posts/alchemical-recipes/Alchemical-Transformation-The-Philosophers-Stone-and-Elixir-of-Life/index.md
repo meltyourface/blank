@@ -1,6 +1,6 @@
 ---
 id: 19c6dd2d-b265-423b-a33c-fd04c74c81c7
-title: 'Alchemical Transformation: The Philosopher\''s Stone and Elixir of Life'
+title: "Alchemical Transformation: The Philosopher's Stone and Elixir of Life"
 permalink: /alchemical-recipes/Alchemical-Transformation-The-Philosophers-Stone-and-Elixir-of-Life/
 categories:
   - alchemical recipes

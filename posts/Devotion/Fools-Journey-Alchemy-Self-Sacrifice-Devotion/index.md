@@ -1,6 +1,6 @@
 ---
 id: 582b2ddc-26e0-4e86-9ec4-361513dc568b
-title: 'Fool\''s Journey: Alchemy, Self-Sacrifice, & Devotion'
+title: "Fool's Journey: Alchemy, Self-Sacrifice, & Devotion"
 permalink: /Devotion/Fools-Journey-Alchemy-Self-Sacrifice-Devotion/
 categories:
   - Devotion

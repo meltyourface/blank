@@ -1,6 +1,6 @@
 ---
 id: c1721694-1e5c-4833-8f05-6bbf8a0aab44
-title: "Matthew Hopkins: England\''s Notorious Witch-Hunter"
+title: "Matthew Hopkins: England's Notorious Witch-Hunter"
 permalink: /Items-used-and-kept-by-Matthew-HopkinsGnostic-treatise/Matthew-Hopkins-Englands-Notorious-Witch-Hunter/
 categories:
   - Items used and kept by Matthew HopkinsGnostic treatise

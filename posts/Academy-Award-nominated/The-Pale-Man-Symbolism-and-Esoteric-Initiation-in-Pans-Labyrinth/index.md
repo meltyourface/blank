@@ -1,6 +1,6 @@
 ---
 id: aa3a712b-49fc-4179-aa27-730ed8532b30
-title: 'The Pale Man: Symbolism and Esoteric Initiation in Pan\''s Labyrinth'
+title: "The Pale Man: Symbolism and Esoteric Initiation in Pan's Labyrinth"
 permalink: /Academy-Award-nominated/The-Pale-Man-Symbolism-and-Esoteric-Initiation-in-Pans-Labyrinth/
 categories:
   - Academy Award nominated

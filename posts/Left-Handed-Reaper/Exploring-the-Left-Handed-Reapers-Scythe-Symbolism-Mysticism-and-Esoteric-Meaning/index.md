@@ -1,7 +1,6 @@
 ---
 id: 2687715d-f654-4f84-bc1b-8a9e3effc641
-title: 'Exploring the Left-Handed Reaper\''s Scythe: Symbolism, Mysticism, and Esoteric
-  Meaning'
+title: "Exploring the Left-Handed Reaper's Scythe: Symbolism, Mysticism, and Esoteric Meaning"
 permalink: /Left-Handed-Reaper/Exploring-the-Left-Handed-Reapers-Scythe-Symbolism-Mysticism-and-Esoteric-Meaning/
 categories:
   - Left-Handed Reaper

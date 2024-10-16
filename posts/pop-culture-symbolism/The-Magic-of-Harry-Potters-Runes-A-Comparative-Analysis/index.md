@@ -1,6 +1,6 @@
 ---
 id: 09aa9b62-695f-496f-b1d3-1dda1edfc588
-title: 'The Magic of Harry Potter\''s Runes: A Comparative Analysis'
+title: "The Magic of Harry Potter's Runes: A Comparative Analysis"
 permalink: /pop-culture-symbolism/The-Magic-of-Harry-Potters-Runes-A-Comparative-Analysis/
 categories:
   - pop culture symbolism

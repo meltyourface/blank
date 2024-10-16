@@ -1,6 +1,6 @@
 ---
 id: f1ff26c1-e309-408f-bc82-de5fec24fd6e
-title: '"The Magickal Union: Frieda Harris & Aleister Crowley\''s Thelemic Art"'
+title: ""The Magickal Union: Frieda Harris & Aleister Crowley's Thelemic Art""
 permalink: /Relationship-between-Frieda-Harris-and-Aleister-Crowley/The-Magickal-Union-Frieda-Harris-Aleister-Crowleys-Thelemic-Art/
 categories:
   - Relationship between Frieda Harris and Aleister Crowley

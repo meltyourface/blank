@@ -1,6 +1,6 @@
 ---
 id: 471a8d9c-87f4-4f9b-ba14-3a787a514b20
-title: 'Initiation and Enlightenment: The Journey in Plato\''s Allegory of the Cave'
+title: "Initiation and Enlightenment: The Journey in Plato's Allegory of the Cave"
 permalink: /Allegory/Initiation-and-Enlightenment-The-Journey-in-Platos-Allegory-of-the-Cave/
 categories:
   - Allegory

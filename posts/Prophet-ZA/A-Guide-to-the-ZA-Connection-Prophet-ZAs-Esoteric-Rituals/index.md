@@ -1,6 +1,6 @@
 ---
 id: b4b383ea-60fd-44c3-ae63-b09e9bbacc19
-title: 'A Guide to the ZA Connection: Prophet ZA\''s Esoteric Rituals'
+title: "A Guide to the ZA Connection: Prophet ZA's Esoteric Rituals"
 permalink: /Prophet-ZA/A-Guide-to-the-ZA-Connection-Prophet-ZAs-Esoteric-Rituals/
 categories:
   - Prophet ZA

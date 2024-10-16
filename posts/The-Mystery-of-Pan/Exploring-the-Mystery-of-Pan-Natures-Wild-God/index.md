@@ -1,6 +1,6 @@
 ---
 id: 07dc1c3e-deb5-4562-b89d-a75626124b70
-title: 'Exploring the Mystery of Pan: Nature\''s Wild God'
+title: "Exploring the Mystery of Pan: Nature's Wild God"
 permalink: /The-Mystery-of-Pan/Exploring-the-Mystery-of-Pan-Natures-Wild-God/
 categories:
   - The Mystery of Pan

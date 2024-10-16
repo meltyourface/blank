@@ -1,6 +1,6 @@
 ---
 id: 720659c9-141d-4f37-bf26-6573090c532a
-title: 'Esoteric Intertwining: Freemasonry & Witchcraft\''s Shared Pursuit of Wisdom'
+title: "Esoteric Intertwining: Freemasonry & Witchcraft's Shared Pursuit of Wisdom"
 permalink: /A-Revelation-of-FreemasonryWitchcraft/Esoteric-Intertwining-Freemasonry-Witchcrafts-Shared-Pursuit-of-Wisdom/
 categories:
   - A Revelation of FreemasonryWitchcraft

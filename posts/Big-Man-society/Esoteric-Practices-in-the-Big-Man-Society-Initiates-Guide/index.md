@@ -1,6 +1,6 @@
 ---
 id: 20b2aa90-f114-4261-a515-c3a56c3b920c
-title: 'Esoteric Practices in the Big Man Society: Initiate\''s Guide'
+title: "Esoteric Practices in the Big Man Society: Initiate's Guide"
 permalink: /Big-Man-society/Esoteric-Practices-in-the-Big-Man-Society-Initiates-Guide/
 categories:
   - Big Man society

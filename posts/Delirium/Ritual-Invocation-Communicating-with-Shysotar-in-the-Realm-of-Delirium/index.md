@@ -1,6 +1,6 @@
 ---
 id: 5513d9c3-b3d5-4f6a-b2dd-4dac0891fc4c
-title: 'Ritual Invocation: Communicating with Shy\''sotar in the Realm of Delirium'
+title: "Ritual Invocation: Communicating with Shy'sotar in the Realm of Delirium"
 permalink: /Delirium/Ritual-Invocation-Communicating-with-Shysotar-in-the-Realm-of-Delirium/
 categories:
   - Delirium

@@ -1,7 +1,6 @@
 ---
 id: 1246aef7-540b-4955-8dd1-e9b75b92787d
-title: 'Ancient Wisdom, Occult Practices, & Personal Growth: Tenderness and Life\''s
-  Terrors'
+title: "Ancient Wisdom, Occult Practices, & Personal Growth: Tenderness and Life's Terrors"
 permalink: /Tenderness-and-terrors-of-life/Ancient-Wisdom-Occult-Practices-Personal-Growth-Tenderness-and-Lifes-Terrors/
 categories:
   - Tenderness and terrors of life

@@ -1,6 +1,6 @@
 ---
 id: 7e5608e3-66bd-4ae5-85ad-cd607c76121b
-title: 'Evolution of Mencken\''s Social Perspectives: Race, Class, Gender & Religion'
+title: "Evolution of Mencken's Social Perspectives: Race, Class, Gender & Religion"
 permalink: /H-L-Mencken/Evolution-of-Menckens-Social-Perspectives-Race-Class-Gender-Religion/
 categories:
   - H. L. Mencken

@@ -1,6 +1,6 @@
 ---
 id: 21795bbe-8e1b-41dc-b1f3-422e8773eef6
-title: 'The Interwoven Roots of Mysticism: Eastern and Western Traditions\'' Parallels'
+title: "The Interwoven Roots of Mysticism: Eastern and Western Traditions' Parallels"
 permalink: /Regardie/The-Interwoven-Roots-of-Mysticism-Eastern-and-Western-Traditions-Parallels/
 categories:
   - Regardie

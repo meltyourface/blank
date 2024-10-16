@@ -1,6 +1,6 @@
 ---
 id: b3ce0227-4108-48ba-9bb7-07ff8c0922a0
-title: 'Overview: Renaissance Geomancy\''s Sixteen Figures and Their Meanings'
+title: "Overview: Renaissance Geomancy's Sixteen Figures and Their Meanings"
 permalink: /Sixteen-Figures-of-Renaissance-European-geomancy/Overview-Renaissance-Geomancys-Sixteen-Figures-and-Their-Meanings/
 categories:
   - Sixteen Figures of Renaissance European geomancy

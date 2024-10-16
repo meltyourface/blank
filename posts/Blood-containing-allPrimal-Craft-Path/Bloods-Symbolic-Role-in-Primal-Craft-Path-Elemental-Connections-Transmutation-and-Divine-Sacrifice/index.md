@@ -1,7 +1,6 @@
 ---
 id: 6525fdfb-e4ec-4dd0-a32a-bc76c5ed2925
-title: 'Blood\''s Symbolic Role in Primal Craft Path: Elemental Connections, Transmutation,
-  and Divine Sacrifice'
+title: "Blood's Symbolic Role in Primal Craft Path: Elemental Connections, Transmutation, and Divine Sacrifice"
 permalink: /Blood-containing-allPrimal-Craft-Path/Bloods-Symbolic-Role-in-Primal-Craft-Path-Elemental-Connections-Transmutation-and-Divine-Sacrifice/
 categories:
   - Blood containing allPrimal Craft Path

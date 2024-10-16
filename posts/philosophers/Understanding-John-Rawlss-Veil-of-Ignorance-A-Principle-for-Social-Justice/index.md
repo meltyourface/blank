@@ -1,6 +1,6 @@
 ---
 id: c805b955-4030-4ed7-a58f-300ec57d5974
-title: 'Understanding John Rawls\''s Veil of Ignorance: A Principle for Social Justice'
+title: "Understanding John Rawls's Veil of Ignorance: A Principle for Social Justice"
 permalink: /philosophers/Understanding-John-Rawlss-Veil-of-Ignorance-A-Principle-for-Social-Justice/
 categories:
   - philosophers

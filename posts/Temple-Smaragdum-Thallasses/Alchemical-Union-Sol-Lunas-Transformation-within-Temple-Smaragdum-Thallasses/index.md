@@ -1,6 +1,6 @@
 ---
 id: 6d3a265b-eb37-4d29-9720-3989db669dc2
-title: 'Alchemical Union: Sol & Luna\''s Transformation within Temple Smaragdum Thallasses'
+title: "Alchemical Union: Sol & Luna's Transformation within Temple Smaragdum Thallasses"
 permalink: /Temple-Smaragdum-Thallasses/Alchemical-Union-Sol-Lunas-Transformation-within-Temple-Smaragdum-Thallasses/
 categories:
   - Temple Smaragdum Thallasses

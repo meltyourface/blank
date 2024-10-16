@@ -1,6 +1,6 @@
 ---
 id: 196dddc6-0cf3-4246-a48e-feda8bc1b268
-title: 'Ba\''al Hammon: A Comprehensive Guide to Rituals and Symbolism'
+title: "Ba'al Hammon: A Comprehensive Guide to Rituals and Symbolism"
 permalink: "/Ba\xE2al-Hammon/Baal-Hammon-A-Comprehensive-Guide-to-Rituals-and-Symbolism/"
 categories:
   - "Ba\xE2\u20AC\u2122al Hammon"

@@ -1,7 +1,6 @@
 ---
 id: 022909f5-23f8-4118-a420-f01645f5a37c
-title: '"Influential Artists, Writers, and Musicians Connected to Joseph Peladan\''s
-  Esoteric Circle"'
+title: ""Influential Artists, Writers, and Musicians Connected to Joseph Peladan's Esoteric Circle""
 permalink: /Joseph-Peladan/Influential-Artists-Writers-and-Musicians-Connected-to-Joseph-Peladans-Esoteric-Circle/
 categories:
   - Joseph Peladan

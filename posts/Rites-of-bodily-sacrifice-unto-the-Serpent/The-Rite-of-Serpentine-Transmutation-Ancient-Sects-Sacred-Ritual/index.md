@@ -1,6 +1,6 @@
 ---
 id: a0e7445b-ab91-4ec9-b9ec-1ef2a1b2c8de
-title: 'The Rite of Serpentine Transmutation: Ancient Sect\''s Sacred Ritual'
+title: "The Rite of Serpentine Transmutation: Ancient Sect's Sacred Ritual"
 permalink: /Rites-of-bodily-sacrifice-unto-the-Serpent/The-Rite-of-Serpentine-Transmutation-Ancient-Sects-Sacred-Ritual/
 categories:
   - Rites of bodily sacrifice unto the Serpent

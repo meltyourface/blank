@@ -1,7 +1,6 @@
 ---
 id: a7f257bb-af2c-4488-a37e-68469989ac1f
-title: 'Cornelius Agrippa\''s "Three Books of Occult Philosophy": A Comprehensive
-  Guide to Western Esotericism'
+title: "Cornelius Agrippa's "Three Books of Occult Philosophy": A Comprehensive Guide to Western Esotericism"
 permalink: /Agrippa/Cornelius-Agrippas-Three-Books-of-Occult-Philosophy-A-Comprehensive-Guide-to-Western-Esotericism/
 categories:
   - Agrippa

@@ -1,6 +1,6 @@
 ---
 id: 5b65f848-a42f-47dd-abad-7541bec534a8
-title: 'Thematic Parallels: Mercury\''s Alchemical Transformation & Initiation Process'
+title: "Thematic Parallels: Mercury's Alchemical Transformation & Initiation Process"
 permalink: /Mercury-cults/Thematic-Parallels-Mercurys-Alchemical-Transformation-Initiation-Process/
 categories:
   - Mercury cults

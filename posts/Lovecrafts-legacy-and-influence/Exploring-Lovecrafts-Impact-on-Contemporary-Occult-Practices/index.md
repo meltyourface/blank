@@ -1,6 +1,6 @@
 ---
 id: 09fdf0dd-4671-43ff-8254-b36c07883af3
-title: '"Exploring Lovecraft\''s Impact on Contemporary Occult Practices"'
+title: ""Exploring Lovecraft's Impact on Contemporary Occult Practices""
 permalink: /Lovecrafts-legacy-and-influence/Exploring-Lovecrafts-Impact-on-Contemporary-Occult-Practices/
 categories:
   - Lovecrafts legacy and influence

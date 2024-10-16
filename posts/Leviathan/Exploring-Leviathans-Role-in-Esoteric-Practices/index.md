@@ -1,6 +1,6 @@
 ---
 id: bf1ea9b1-cb3c-45c6-9856-ee0696b2777a
-title: '"Exploring Leviathan\''s Role in Esoteric Practices"'
+title: ""Exploring Leviathan's Role in Esoteric Practices""
 permalink: /Leviathan/Exploring-Leviathans-Role-in-Esoteric-Practices/
 categories:
   - Leviathan

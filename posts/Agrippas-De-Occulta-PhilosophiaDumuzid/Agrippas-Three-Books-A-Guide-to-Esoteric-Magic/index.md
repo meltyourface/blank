@@ -1,6 +1,6 @@
 ---
 id: 1f354a97-350a-4c3d-8c4f-f7cf34f2aa9f
-title: 'Agrippa\''s "Three Books": A Guide to Esoteric Magic'
+title: "Agrippa's "Three Books": A Guide to Esoteric Magic"
 permalink: /Agrippas-De-Occulta-PhilosophiaDumuzid/Agrippas-Three-Books-A-Guide-to-Esoteric-Magic/
 categories:
   - Agrippa's De Occulta PhilosophiaDumuzid

@@ -1,7 +1,6 @@
 ---
 id: bf4c9da6-54dd-413a-b585-64f131b2820a
-title: 'Psychological Analysis of Serial Killers\'' Weapons & MOs: Jack the Ripper,
-  Ted Bundy, and Zodiac Killer'
+title: "Psychological Analysis of Serial Killers' Weapons & MOs: Jack the Ripper, Ted Bundy, and Zodiac Killer"
 permalink: /Serial-killers/Psychological-Analysis-of-Serial-Killers-Weapons-MOs-Jack-the-Ripper-Ted-Bundy-and-Zodiac-Killer/
 categories:
   - Serial killers

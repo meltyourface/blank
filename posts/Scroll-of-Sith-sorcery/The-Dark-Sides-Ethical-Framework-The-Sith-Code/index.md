@@ -1,6 +1,6 @@
 ---
 id: c6d6cb39-8199-4c87-bcdf-ce081d0e2d17
-title: 'The Dark Side\''s Ethical Framework: The Sith Code'
+title: "The Dark Side's Ethical Framework: The Sith Code"
 permalink: /Scroll-of-Sith-sorcery/The-Dark-Sides-Ethical-Framework-The-Sith-Code/
 categories:
   - Scroll of Sith sorcery

@@ -1,6 +1,6 @@
 ---
 id: 9a8dbbb3-34ef-4ba2-a3c2-e78f70b98b06
-title: 'Esotericism\''s Legacy: From Hermeticism to Modern Witchcraft'
+title: "Esotericism's Legacy: From Hermeticism to Modern Witchcraft"
 permalink: /A-Revelation-of-FreemasonryWitchcraft/Esotericisms-Legacy-From-Hermeticism-to-Modern-Witchcraft/
 categories:
   - A Revelation of FreemasonryWitchcraft

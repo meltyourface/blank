@@ -1,6 +1,6 @@
 ---
 id: 51587099-f026-413e-b3b9-e216e11f6b91
-title: '"Goya\''s Saturn Devouring Son: A Study in Macabre Symbolism"'
+title: ""Goya's Saturn Devouring Son: A Study in Macabre Symbolism""
 permalink: /Disturbing-images/Goyas-Saturn-Devouring-Son-A-Study-in-Macabre-Symbolism/
 categories:
   - Disturbing images

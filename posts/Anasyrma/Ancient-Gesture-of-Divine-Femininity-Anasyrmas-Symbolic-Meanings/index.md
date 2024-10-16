@@ -1,6 +1,6 @@
 ---
 id: 6d6ed022-32de-4525-9d6a-491946cf8d1c
-title: 'Ancient Gesture of Divine Femininity: Anasyrma\''s Symbolic Meanings'
+title: "Ancient Gesture of Divine Femininity: Anasyrma's Symbolic Meanings"
 permalink: /Anasyrma/Ancient-Gesture-of-Divine-Femininity-Anasyrmas-Symbolic-Meanings/
 categories:
   - Anasyrma

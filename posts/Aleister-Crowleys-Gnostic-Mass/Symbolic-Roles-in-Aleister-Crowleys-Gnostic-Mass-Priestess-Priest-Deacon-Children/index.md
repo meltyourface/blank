@@ -1,7 +1,6 @@
 ---
 id: e64d519f-5798-4802-9ea1-a9aa7fcddb10
-title: 'Symbolic Roles in Aleister Crowley\''s Gnostic Mass: Priestess, Priest, Deacon,
-  Children'
+title: "Symbolic Roles in Aleister Crowley's Gnostic Mass: Priestess, Priest, Deacon, Children"
 permalink: /Aleister-Crowleys-Gnostic-Mass/Symbolic-Roles-in-Aleister-Crowleys-Gnostic-Mass-Priestess-Priest-Deacon-Children/
 categories:
   - Aleister Crowley's Gnostic Mass

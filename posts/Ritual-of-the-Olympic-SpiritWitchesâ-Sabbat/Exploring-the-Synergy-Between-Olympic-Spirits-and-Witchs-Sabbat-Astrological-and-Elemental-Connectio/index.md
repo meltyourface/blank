@@ -1,7 +1,6 @@
 ---
 id: fa7c2b21-53f5-43b8-8955-77cc736d3c7a
-title: 'Exploring the Synergy Between Olympic Spirits and Witch\''s Sabbat: Astrological
-  and Elemental Connections.'
+title: "Exploring the Synergy Between Olympic Spirits and Witch's Sabbat: Astrological and Elemental Connections."
 permalink: "/Ritual-of-the-Olympic-SpiritWitches\xE2-Sabbat/Exploring-the-Synergy-Between-Olympic-Spirits-and-Witchs-Sabbat-Astrological-and-Elemental-Connectio/"
 categories:
   - "Ritual of the Olympic SpiritWitches\xE2\u20AC\u2122 Sabbat"

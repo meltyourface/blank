@@ -1,6 +1,6 @@
 ---
 id: b9c30752-c4d0-4a68-a2b3-04042d641b56
-title: 'The Alchemist\''s Pursuit: Transmutation and Spiritual Awareness'
+title: "The Alchemist's Pursuit: Transmutation and Spiritual Awareness"
 permalink: /Alchemical-Aviary/The-Alchemists-Pursuit-Transmutation-and-Spiritual-Awareness/
 categories:
   - Alchemical Aviary

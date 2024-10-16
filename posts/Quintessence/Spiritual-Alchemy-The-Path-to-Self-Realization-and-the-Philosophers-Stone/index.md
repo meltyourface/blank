@@ -1,6 +1,6 @@
 ---
 id: 22e1aba6-b8a8-41eb-af3a-6a38e195f38f
-title: 'Spiritual Alchemy: The Path to Self-Realization and the Philosopher\''s Stone'
+title: "Spiritual Alchemy: The Path to Self-Realization and the Philosopher's Stone"
 permalink: /Quintessence/Spiritual-Alchemy-The-Path-to-Self-Realization-and-the-Philosophers-Stone/
 categories:
   - Quintessence

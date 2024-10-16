@@ -1,6 +1,6 @@
 ---
 id: c0077b69-6c09-4413-98b4-5bcb152140c9
-title: 'Pioneering Spiritual Alchemy: Anna Bonus Kingsford\''s Life and Work'
+title: "Pioneering Spiritual Alchemy: Anna Bonus Kingsford's Life and Work"
 permalink: /Anna-Bonus-Kingsford/Pioneering-Spiritual-Alchemy-Anna-Bonus-Kingsfords-Life-and-Work/
 categories:
   - Anna Bonus Kingsford

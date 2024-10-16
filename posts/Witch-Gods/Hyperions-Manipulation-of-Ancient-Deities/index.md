@@ -1,6 +1,6 @@
 ---
 id: 182cb002-53da-43b6-9e6f-c10476c12e1c
-title: '"Hyperion\''s Manipulation of Ancient Deities"'
+title: ""Hyperion's Manipulation of Ancient Deities""
 permalink: /Witch-Gods/Hyperions-Manipulation-of-Ancient-Deities/
 categories:
   - Witch Gods

@@ -1,6 +1,6 @@
 ---
 id: b9904a38-e8bb-4098-80e5-5e623d3ea836
-title: 'Odin\''s Sacrifice: Norse Mythology\''s Quest for Knowledge'
+title: "Odin's Sacrifice: Norse Mythology's Quest for Knowledge"
 permalink: /Odinns-associations-with-sacrifice/Odins-Sacrifice-Norse-Mythologys-Quest-for-Knowledge/
 categories:
   - Odinns associations with sacrifice

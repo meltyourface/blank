@@ -1,6 +1,6 @@
 ---
 id: 92205966-7fab-4f34-a1e4-72423220c97f
-title: 'John Dee\''s Enochian Communication: Occult Practices and Personal Growth'
+title: "John Dee's Enochian Communication: Occult Practices and Personal Growth"
 permalink: /Angelic-work-of-John-Dee/John-Dees-Enochian-Communication-Occult-Practices-and-Personal-Growth/
 categories:
   - Angelic work of John Dee

@@ -1,6 +1,6 @@
 ---
 id: 559e0e59-edea-401f-87f8-89b609f763a5
-title: 'The Opulent Order: A Clandestine Society\''s Hierarchy, Symbols, & Rituals'
+title: "The Opulent Order: A Clandestine Society's Hierarchy, Symbols, & Rituals"
 permalink: /Elite-society/The-Opulent-Order-A-Clandestine-Societys-Hierarchy-Symbols-Rituals/
 categories:
   - Elite society

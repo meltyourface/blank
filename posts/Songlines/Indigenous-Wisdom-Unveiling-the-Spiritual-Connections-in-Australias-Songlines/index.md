@@ -1,6 +1,6 @@
 ---
 id: f2adbc10-3277-45d7-9e31-a62f756bbd3a
-title: 'Indigenous Wisdom: Unveiling the Spiritual Connections in Australia\''s Songlines'
+title: "Indigenous Wisdom: Unveiling the Spiritual Connections in Australia's Songlines"
 permalink: /Songlines/Indigenous-Wisdom-Unveiling-the-Spiritual-Connections-in-Australias-Songlines/
 categories:
   - Songlines

@@ -1,6 +1,6 @@
 ---
 id: 66298e17-d46a-4c42-8edc-70e3b67001c0
-title: 'Decoding Nature\''s Messages: A Biological Phenomena Ritual'
+title: "Decoding Nature's Messages: A Biological Phenomena Ritual"
 permalink: /Living-body-in-practice/Decoding-Natures-Messages-A-Biological-Phenomena-Ritual/
 categories:
   - Living body in practice

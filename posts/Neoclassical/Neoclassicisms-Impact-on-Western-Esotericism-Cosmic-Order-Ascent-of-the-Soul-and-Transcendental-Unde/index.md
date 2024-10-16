@@ -1,7 +1,6 @@
 ---
 id: 9c59e502-918d-47fa-b3fd-6c4402b02536
-title: 'Neoclassicism\''s Impact on Western Esotericism: Cosmic Order, Ascent of the
-  Soul, and Transcendental Understanding'
+title: "Neoclassicism's Impact on Western Esotericism: Cosmic Order, Ascent of the Soul, and Transcendental Understanding"
 permalink: /Neoclassical/Neoclassicisms-Impact-on-Western-Esotericism-Cosmic-Order-Ascent-of-the-Soul-and-Transcendental-Unde/
 categories:
   - Neoclassical

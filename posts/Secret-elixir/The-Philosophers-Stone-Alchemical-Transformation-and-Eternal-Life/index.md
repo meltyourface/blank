@@ -1,6 +1,6 @@
 ---
 id: 5e66a97c-3a9f-4232-9079-7e1d54faf550
-title: 'The Philosopher\''s Stone: Alchemical Transformation and Eternal Life'
+title: "The Philosopher's Stone: Alchemical Transformation and Eternal Life"
 permalink: /Secret-elixir/The-Philosophers-Stone-Alchemical-Transformation-and-Eternal-Life/
 categories:
   - Secret elixir

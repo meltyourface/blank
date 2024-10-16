@@ -1,6 +1,6 @@
 ---
 id: 74635191-3f74-4b53-86b2-65b5c48da9f1
-title: 'Courtly Love in Chretien\''s Works: A Reinterpretation'
+title: "Courtly Love in Chretien's Works: A Reinterpretation"
 permalink: /Romance-literature/Courtly-Love-in-Chretiens-Works-A-Reinterpretation/
 categories:
   - Romance literature

@@ -1,6 +1,6 @@
 ---
 id: e8c27d4c-3073-492d-bd0b-461e77470fe6
-title: 'Atmospheric Terror and Mystical Forces: Algernon Blackwood\''s Literary Style'
+title: "Atmospheric Terror and Mystical Forces: Algernon Blackwood's Literary Style"
 permalink: /Algernon-Blackwood/Atmospheric-Terror-and-Mystical-Forces-Algernon-Blackwoods-Literary-Style/
 categories:
   - Algernon Blackwood

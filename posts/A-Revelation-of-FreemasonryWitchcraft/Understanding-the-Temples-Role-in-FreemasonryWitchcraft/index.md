@@ -1,6 +1,6 @@
 ---
 id: f30b8f31-8cfd-42cc-b5ea-ff28d6585d07
-title: "Understanding the Temple\''s Role in FreemasonryWitchcraft"
+title: "Understanding the Temple's Role in FreemasonryWitchcraft"
 permalink: /A-Revelation-of-FreemasonryWitchcraft/Understanding-the-Temples-Role-in-FreemasonryWitchcraft/
 categories:
   - A Revelation of FreemasonryWitchcraft

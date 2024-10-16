@@ -1,6 +1,6 @@
 ---
 id: 4caa3e3c-7f00-4f7c-9c4d-9abf4d12c033
-title: 'Alchemical Symbolism: Ouroboros, Caduceus, & Philosopher\''s Stone'
+title: "Alchemical Symbolism: Ouroboros, Caduceus, & Philosopher's Stone"
 permalink: /Alchemical-symbolism/Alchemical-Symbolism-Ouroboros-Caduceus-Philosophers-Stone/
 categories:
   - Alchemical symbolism

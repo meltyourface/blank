@@ -1,6 +1,6 @@
 ---
 id: d4ed8297-6b2d-465f-8e12-dc7537a8a174
-title: 'Connecting with Elemental Energies: A Beginner\''s Ritual for Primal Craft'
+title: "Connecting with Elemental Energies: A Beginner's Ritual for Primal Craft"
 permalink: /Primal-Craft/Connecting-with-Elemental-Energies-A-Beginners-Ritual-for-Primal-Craft/
 categories:
   - Primal Craft

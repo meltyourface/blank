@@ -1,6 +1,6 @@
 ---
 id: ba5ce038-235e-495e-b4d4-e45f9986b406
-title: 'Dissolution into the Void: Anti-Cosmic Occultism\''s Ultimate Goal'
+title: "Dissolution into the Void: Anti-Cosmic Occultism's Ultimate Goal"
 permalink: /Anti-cosmic/Dissolution-into-the-Void-Anti-Cosmic-Occultisms-Ultimate-Goal/
 categories:
   - Anti-cosmic

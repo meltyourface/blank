@@ -1,6 +1,6 @@
 ---
 id: 1746e935-000d-452f-acde-e8f8903dd559
-title: 'Alchemy\''s True Gold: Beyond Material Transformation'
+title: "Alchemy's True Gold: Beyond Material Transformation"
 permalink: /Latin-verses/Alchemys-True-Gold-Beyond-Material-Transformation/
 categories:
   - Latin verses

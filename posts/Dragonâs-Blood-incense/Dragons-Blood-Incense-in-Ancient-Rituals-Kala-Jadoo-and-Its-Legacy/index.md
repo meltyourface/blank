@@ -1,6 +1,6 @@
 ---
 id: cd09790a-ca3f-43bc-afbf-d6e23540a967
-title: 'Dragon\''s Blood Incense in Ancient Rituals: Kala Jadoo and Its Legacy'
+title: "Dragon's Blood Incense in Ancient Rituals: Kala Jadoo and Its Legacy"
 permalink: "/Dragon\xE2s-Blood-incense/Dragons-Blood-Incense-in-Ancient-Rituals-Kala-Jadoo-and-Its-Legacy/"
 categories:
   - "Dragon\xE2\u20AC\u2122s Blood incense"

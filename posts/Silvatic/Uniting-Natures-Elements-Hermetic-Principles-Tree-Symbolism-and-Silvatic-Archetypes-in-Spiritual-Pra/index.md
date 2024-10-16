@@ -1,7 +1,6 @@
 ---
 id: 478adda6-2e68-49b4-bfae-e48d7e4fcab7
-title: 'Uniting Nature\''s Elements: Hermetic Principles, Tree Symbolism, and Silvatic
-  Archetypes in Spiritual Practice'
+title: "Uniting Nature's Elements: Hermetic Principles, Tree Symbolism, and Silvatic Archetypes in Spiritual Practice"
 permalink: /Silvatic/Uniting-Natures-Elements-Hermetic-Principles-Tree-Symbolism-and-Silvatic-Archetypes-in-Spiritual-Pra/
 categories:
   - Silvatic

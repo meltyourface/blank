@@ -1,6 +1,6 @@
 ---
 id: ccec8985-7b4f-40f8-84fc-f8f614372a5a
-title: 'Evolution and Modern Interpretations of Ba\''al: From Canaanite God to Demon'
+title: "Evolution and Modern Interpretations of Ba'al: From Canaanite God to Demon"
 permalink: /Demonized-divine-figures/Evolution-and-Modern-Interpretations-of-Baal-From-Canaanite-God-to-Demon/
 categories:
   - Demonized divine figures

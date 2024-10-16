@@ -1,6 +1,6 @@
 ---
 id: f31e1c65-2649-4ead-a7d5-637a68734878
-title: 'The Devil\''s Bone Charm: A Guide to its Creation and Use'
+title: "The Devil's Bone Charm: A Guide to its Creation and Use"
 permalink: /Devils-Bone-Charm/The-Devils-Bone-Charm-A-Guide-to-its-Creation-and-Use/
 categories:
   - Devil's Bone Charm

@@ -1,6 +1,6 @@
 ---
 id: 4a213670-40fc-48c0-9507-b1280081ce34
-title: 'The Tree of Life: A Key to Crowley\''s Occult Fraternities\'' Spiritual Growth'
+title: "The Tree of Life: A Key to Crowley's Occult Fraternities' Spiritual Growth"
 permalink: /Aleister-Crowleys-occult-fraternities-AA-and-OTO/The-Tree-of-Life-A-Key-to-Crowleys-Occult-Fraternities-Spiritual-Growth/
 categories:
   - Aleister Crowley's occult fraternities (A.A. and O.T.O.)

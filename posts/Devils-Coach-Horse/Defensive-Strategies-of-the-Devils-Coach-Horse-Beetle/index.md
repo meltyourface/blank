@@ -1,6 +1,6 @@
 ---
 id: fd1ba52f-d187-47a9-962d-a3f0948a1513
-title: '"Defensive Strategies of the Devil\''s Coach Horse Beetle"'
+title: ""Defensive Strategies of the Devil's Coach Horse Beetle""
 permalink: /Devils-Coach-Horse/Defensive-Strategies-of-the-Devils-Coach-Horse-Beetle/
 categories:
   - Devil's Coach Horse

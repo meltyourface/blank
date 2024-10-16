@@ -1,7 +1,6 @@
 ---
 id: a06d8e46-27fa-4a2f-ae75-888bf96eff99
-title: 'Understanding Chumbley\''s Sabbatic Witchcraft: A Bridge Between Dream Metaphor
-  & Chaos Magick'
+title: "Understanding Chumbley's Sabbatic Witchcraft: A Bridge Between Dream Metaphor & Chaos Magick"
 permalink: /Andrew-Chumbley/Understanding-Chumbleys-Sabbatic-Witchcraft-A-Bridge-Between-Dream-Metaphor-Chaos-Magick/
 categories:
   - Andrew Chumbley

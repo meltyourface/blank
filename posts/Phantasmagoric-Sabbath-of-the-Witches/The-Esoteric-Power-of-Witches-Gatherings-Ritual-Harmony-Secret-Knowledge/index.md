@@ -1,6 +1,6 @@
 ---
 id: 8b0b5198-6c2a-4d04-ad6c-1f5dd2a608d4
-title: 'The Esoteric Power of Witches\'' Gatherings: Ritual, Harmony, & Secret Knowledge'
+title: "The Esoteric Power of Witches' Gatherings: Ritual, Harmony, & Secret Knowledge"
 permalink: /Phantasmagoric-Sabbath-of-the-Witches/The-Esoteric-Power-of-Witches-Gatherings-Ritual-Harmony-Secret-Knowledge/
 categories:
   - Phantasmagoric Sabbath of the Witches

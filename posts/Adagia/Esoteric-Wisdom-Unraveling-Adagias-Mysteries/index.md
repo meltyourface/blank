@@ -1,6 +1,6 @@
 ---
 id: 10d7ff85-45fb-40b8-939f-327640aad407
-title: 'Esoteric Wisdom: Unraveling Adagia\''s Mysteries'
+title: "Esoteric Wisdom: Unraveling Adagia's Mysteries"
 permalink: /Adagia/Esoteric-Wisdom-Unraveling-Adagias-Mysteries/
 categories:
   - Adagia

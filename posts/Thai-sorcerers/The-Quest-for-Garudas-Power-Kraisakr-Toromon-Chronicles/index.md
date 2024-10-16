@@ -1,6 +1,6 @@
 ---
 id: 2758266c-3ab6-4d48-9904-add49b6dd963
-title: 'The Quest for Garuda\''s Power: Kraisakr Toromon Chronicles'
+title: "The Quest for Garuda's Power: Kraisakr Toromon Chronicles"
 permalink: /Thai-sorcerers/The-Quest-for-Garudas-Power-Kraisakr-Toromon-Chronicles/
 categories:
   - Thai sorcerers

@@ -1,6 +1,6 @@
 ---
 id: a6ad3855-25fb-4dfd-8bde-154150484a25
-title: 'The Witch\''s Pyramid: Foundations of Esoteric Practice'
+title: "The Witch's Pyramid: Foundations of Esoteric Practice"
 permalink: /Cunning-craft/The-Witchs-Pyramid-Foundations-of-Esoteric-Practice/
 categories:
   - Cunning craft

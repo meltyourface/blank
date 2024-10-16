@@ -1,6 +1,6 @@
 ---
 id: 286ee77a-e6bc-49ca-9f51-69b91d9d1b18
-title: '"Patricia Cram\''s Impact on Esotericism: Contributions, Teachings, and Rituals"'
+title: ""Patricia Cram's Impact on Esotericism: Contributions, Teachings, and Rituals""
 permalink: /Patricia-Cram/Patricia-Crams-Impact-on-Esotericism-Contributions-Teachings-and-Rituals/
 categories:
   - Patricia Cram

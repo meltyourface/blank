@@ -1,6 +1,6 @@
 ---
 id: 038c3f52-f65f-42e4-b01b-f7279f0fa070
-title: 'The Magician\''s Journey: An Archetypal Sojourn'
+title: "The Magician's Journey: An Archetypal Sojourn"
 permalink: /Major-Arcana/The-Magicians-Journey-An-Archetypal-Sojourn/
 categories:
   - Major Arcana

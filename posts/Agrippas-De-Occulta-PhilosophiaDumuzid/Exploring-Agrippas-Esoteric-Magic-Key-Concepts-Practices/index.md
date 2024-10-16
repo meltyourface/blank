@@ -1,6 +1,6 @@
 ---
 id: 2f65e182-26ae-4c1a-af68-b3b3fa78f473
-title: 'Exploring Agrippa\''s Esoteric Magic: Key Concepts & Practices'
+title: "Exploring Agrippa's Esoteric Magic: Key Concepts & Practices"
 permalink: /Agrippas-De-Occulta-PhilosophiaDumuzid/Exploring-Agrippas-Esoteric-Magic-Key-Concepts-Practices/
 categories:
   - Agrippa's De Occulta PhilosophiaDumuzid

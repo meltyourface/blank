@@ -1,6 +1,6 @@
 ---
 id: 6886713b-95b2-42a5-80d6-fb7ed3a87d29
-title: 'Thelema\''s Abbey: Occult Rituals and Esoteric Architecture'
+title: "Thelema's Abbey: Occult Rituals and Esoteric Architecture"
 permalink: /Abbey-of-Do-What-Thou-Wilt/Thelemas-Abbey-Occult-Rituals-and-Esoteric-Architecture/
 categories:
   - Abbey of Do What Thou Wilt

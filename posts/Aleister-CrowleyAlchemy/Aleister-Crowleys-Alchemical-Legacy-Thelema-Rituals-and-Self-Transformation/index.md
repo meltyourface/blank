@@ -1,6 +1,6 @@
 ---
 id: eaa89f84-3b02-4850-b2a3-58c9d848028b
-title: 'Aleister Crowley\''s Alchemical Legacy: Thelema, Rituals, and Self-Transformation'
+title: "Aleister Crowley's Alchemical Legacy: Thelema, Rituals, and Self-Transformation"
 permalink: /Aleister-CrowleyAlchemy/Aleister-Crowleys-Alchemical-Legacy-Thelema-Rituals-and-Self-Transformation/
 categories:
   - Aleister CrowleyAlchemy

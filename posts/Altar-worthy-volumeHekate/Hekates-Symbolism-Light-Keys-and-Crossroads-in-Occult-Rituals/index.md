@@ -1,6 +1,6 @@
 ---
 id: f746685e-df3e-487f-8c9f-46c86f9b880b
-title: 'Hekate\''s Symbolism: Light, Keys, and Crossroads in Occult Rituals'
+title: "Hekate's Symbolism: Light, Keys, and Crossroads in Occult Rituals"
 permalink: /Altar-worthy-volumeHekate/Hekates-Symbolism-Light-Keys-and-Crossroads-in-Occult-Rituals/
 categories:
   - Altar-worthy volumeHekate

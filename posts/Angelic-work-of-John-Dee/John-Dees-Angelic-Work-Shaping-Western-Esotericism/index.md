@@ -1,6 +1,6 @@
 ---
 id: aadb534a-2ce8-47ed-90ad-8f85a45450c7
-title: 'John Dee\''s Angelic Work: Shaping Western Esotericism'
+title: "John Dee's Angelic Work: Shaping Western Esotericism"
 permalink: /Angelic-work-of-John-Dee/John-Dees-Angelic-Work-Shaping-Western-Esotericism/
 categories:
   - Angelic work of John Dee

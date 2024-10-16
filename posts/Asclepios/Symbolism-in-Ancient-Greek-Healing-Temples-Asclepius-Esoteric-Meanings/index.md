@@ -1,6 +1,6 @@
 ---
 id: c6ee769e-a728-4334-ba81-879b6b60ee8c
-title: '"Symbolism in Ancient Greek Healing Temples: Asclepius\'' Esoteric Meanings"'
+title: ""Symbolism in Ancient Greek Healing Temples: Asclepius' Esoteric Meanings""
 permalink: /Asclepios/Symbolism-in-Ancient-Greek-Healing-Temples-Asclepius-Esoteric-Meanings/
 categories:
   - Asclepios

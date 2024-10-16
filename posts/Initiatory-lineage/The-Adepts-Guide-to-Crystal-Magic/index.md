@@ -1,6 +1,6 @@
 ---
 id: b868bd4b-3241-445b-9074-a754d0a8ae6e
-title: '"The Adept\''s Guide to Crystal Magic"'
+title: ""The Adept's Guide to Crystal Magic""
 permalink: /Initiatory-lineage/The-Adepts-Guide-to-Crystal-Magic/
 categories:
   - Initiatory lineage

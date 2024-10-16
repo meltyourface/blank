@@ -1,6 +1,6 @@
 ---
 id: 079e1412-5ff2-45e4-ac37-f5d0992e3841
-title: 'Exploring Occult Philosophy: Agrippa\''s De Occulta PhilosophiaDumuzid'
+title: "Exploring Occult Philosophy: Agrippa's De Occulta PhilosophiaDumuzid"
 permalink: /Agrippas-De-Occulta-PhilosophiaDumuzid/Exploring-Occult-Philosophy-Agrippas-De-Occulta-PhilosophiaDumuzid/
 categories:
   - Agrippa's De Occulta PhilosophiaDumuzid

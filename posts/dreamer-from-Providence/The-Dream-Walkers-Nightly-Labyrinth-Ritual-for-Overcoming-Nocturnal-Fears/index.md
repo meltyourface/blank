@@ -1,6 +1,6 @@
 ---
 id: 47c04d1c-d95b-4df2-b580-ede8e16a2a7a
-title: 'The Dream Walker\''s Nightly Labyrinth: Ritual for Overcoming Nocturnal Fears'
+title: "The Dream Walker's Nightly Labyrinth: Ritual for Overcoming Nocturnal Fears"
 permalink: /dreamer-from-Providence/The-Dream-Walkers-Nightly-Labyrinth-Ritual-for-Overcoming-Nocturnal-Fears/
 categories:
   - dreamer from Providence

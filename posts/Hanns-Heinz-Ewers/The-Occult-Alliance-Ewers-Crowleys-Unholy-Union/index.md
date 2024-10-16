@@ -1,6 +1,6 @@
 ---
 id: 0d140c33-605a-43d9-891c-1434dff78752
-title: 'The Occult Alliance: Ewers & Crowley\''s Unholy Union'
+title: "The Occult Alliance: Ewers & Crowley's Unholy Union"
 permalink: /Hanns-Heinz-Ewers/The-Occult-Alliance-Ewers-Crowleys-Unholy-Union/
 categories:
   - Hanns Heinz Ewers

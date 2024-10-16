@@ -1,6 +1,6 @@
 ---
 id: 588bc846-efe3-4f5a-ae98-1181ba01623a
-title: 'Alchemy\''s Great Work: Unifying Microcosm and Macrocosm'
+title: "Alchemy's Great Work: Unifying Microcosm and Macrocosm"
 permalink: /Alchemical-tincture/Alchemys-Great-Work-Unifying-Microcosm-and-Macrocosm/
 categories:
   - Alchemical tincture

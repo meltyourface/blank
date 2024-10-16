@@ -1,6 +1,6 @@
 ---
 id: 010403ad-d7c7-4723-9f4c-626ef2d4dcc6
-title: '"Interpreting Tarot: Fool\''s Journey and Individuation"'
+title: ""Interpreting Tarot: Fool's Journey and Individuation""
 permalink: /Arcanum/Interpreting-Tarot-Fools-Journey-and-Individuation/
 categories:
   - Arcanum

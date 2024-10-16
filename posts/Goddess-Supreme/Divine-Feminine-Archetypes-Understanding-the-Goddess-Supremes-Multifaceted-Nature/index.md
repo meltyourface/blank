@@ -1,7 +1,6 @@
 ---
 id: 819a98af-a349-445b-9119-1b1fbd42bf13
-title: 'Divine Feminine Archetypes: Understanding the Goddess Supreme\''s Multifaceted
-  Nature'
+title: "Divine Feminine Archetypes: Understanding the Goddess Supreme's Multifaceted Nature"
 permalink: /Goddess-Supreme/Divine-Feminine-Archetypes-Understanding-the-Goddess-Supremes-Multifaceted-Nature/
 categories:
   - Goddess Supreme

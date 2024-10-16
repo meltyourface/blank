@@ -1,6 +1,6 @@
 ---
 id: 22b33a7d-2828-481d-b7d4-f3b25ef1cb9d
-title: 'Exploring Ariadne\''s Thread: A Guide to Esoteric Pathfinding'
+title: "Exploring Ariadne's Thread: A Guide to Esoteric Pathfinding"
 permalink: /Ariadnes-thread/Exploring-Ariadnes-Thread-A-Guide-to-Esoteric-Pathfinding/
 categories:
   - Ariadnes thread

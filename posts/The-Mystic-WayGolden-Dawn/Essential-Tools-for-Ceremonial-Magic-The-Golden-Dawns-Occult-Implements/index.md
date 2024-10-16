@@ -1,6 +1,6 @@
 ---
 id: 06e0ce79-e240-4700-bbb1-d552c5ec4709
-title: 'Essential Tools for Ceremonial Magic: The Golden Dawn\''s Occult Implements'
+title: "Essential Tools for Ceremonial Magic: The Golden Dawn's Occult Implements"
 permalink: /The-Mystic-WayGolden-Dawn/Essential-Tools-for-Ceremonial-Magic-The-Golden-Dawns-Occult-Implements/
 categories:
   - The Mystic WayGolden Dawn

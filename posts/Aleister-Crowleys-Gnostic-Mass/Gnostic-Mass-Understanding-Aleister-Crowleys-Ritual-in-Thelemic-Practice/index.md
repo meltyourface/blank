@@ -1,6 +1,6 @@
 ---
 id: 014dcea1-9e41-4e7a-b8ec-b556a603545b
-title: 'Gnostic Mass: Understanding Aleister Crowley\''s Ritual in Thelemic Practice'
+title: "Gnostic Mass: Understanding Aleister Crowley's Ritual in Thelemic Practice"
 permalink: /Aleister-Crowleys-Gnostic-Mass/Gnostic-Mass-Understanding-Aleister-Crowleys-Ritual-in-Thelemic-Practice/
 categories:
   - Aleister Crowley's Gnostic Mass

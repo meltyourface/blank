@@ -1,6 +1,6 @@
 ---
 id: d57d2bfb-c1ad-4725-8bcf-6d8b6b52ac8a
-title: 'Occult Practices: Exploring Death\''s Symbolism, Rituals, and Powers'
+title: "Occult Practices: Exploring Death's Symbolism, Rituals, and Powers"
 permalink: /Death/Occult-Practices-Exploring-Deaths-Symbolism-Rituals-and-Powers/
 categories:
   - Death

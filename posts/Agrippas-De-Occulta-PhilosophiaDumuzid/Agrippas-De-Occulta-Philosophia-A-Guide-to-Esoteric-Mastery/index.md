@@ -1,6 +1,6 @@
 ---
 id: fed1aae9-eada-4b1d-85c2-328dd43a012b
-title: 'Agrippa\''s De Occulta Philosophia: A Guide to Esoteric Mastery'
+title: "Agrippa's De Occulta Philosophia: A Guide to Esoteric Mastery"
 permalink: /Agrippas-De-Occulta-PhilosophiaDumuzid/Agrippas-De-Occulta-Philosophia-A-Guide-to-Esoteric-Mastery/
 categories:
   - Agrippa's De Occulta PhilosophiaDumuzid

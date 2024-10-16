@@ -1,6 +1,6 @@
 ---
 id: 8be0a063-b185-4ac3-8d6b-55e7becd52be
-title: 'Paradoxical Demiurge: Gnosticism\''s Creator-Destroyer'
+title: "Paradoxical Demiurge: Gnosticism's Creator-Destroyer"
 permalink: /Gnostic-demiurge/Paradoxical-Demiurge-Gnosticisms-Creator-Destroyer/
 categories:
   - Gnostic demiurge

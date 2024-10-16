@@ -1,6 +1,6 @@
 ---
 id: b42f0785-fc40-493d-aa0f-e282568d072d
-title: 'Understanding Kabbalah\''s Tree of Life: Divine Energies and Spiritual Growth'
+title: "Understanding Kabbalah's Tree of Life: Divine Energies and Spiritual Growth"
 permalink: /Cabala/Understanding-Kabbalahs-Tree-of-Life-Divine-Energies-and-Spiritual-Growth/
 categories:
   - Cabala

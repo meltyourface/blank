@@ -1,6 +1,6 @@
 ---
 id: 6d5496b2-9197-4eaa-b4d9-0e5c633a18e1
-title: 'Hecate\''s Crossroads: A Magical Invocation and Offering Ceremony'
+title: "Hecate's Crossroads: A Magical Invocation and Offering Ceremony"
 permalink: /Rituals-of-body-and-soul/Hecates-Crossroads-A-Magical-Invocation-and-Offering-Ceremony/
 categories:
   - Rituals of body and soul

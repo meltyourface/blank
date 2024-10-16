@@ -1,6 +1,6 @@
 ---
 id: 31dfac65-ffbf-42f7-884b-903c9099a42d
-title: 'Spare\''s Magical System: Zos and Kia Principles for Self-Realization'
+title: "Spare's Magical System: Zos and Kia Principles for Self-Realization"
 permalink: /Austin-Osman-Spare/Spares-Magical-System-Zos-and-Kia-Principles-for-Self-Realization/
 categories:
   - Austin Osman Spare

@@ -1,6 +1,6 @@
 ---
 id: 154af376-39fb-4acb-8078-d3d01801e000
-title: 'Exploring Lovecraft\''s Dream World: A Guide to Occult Navigation'
+title: "Exploring Lovecraft's Dream World: A Guide to Occult Navigation"
 permalink: /Lovecrafts-dream-world/Exploring-Lovecrafts-Dream-World-A-Guide-to-Occult-Navigation/
 categories:
   - Lovecrafts dream world

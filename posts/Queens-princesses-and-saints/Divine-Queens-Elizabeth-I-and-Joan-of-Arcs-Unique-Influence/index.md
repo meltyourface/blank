@@ -1,6 +1,6 @@
 ---
 id: c7b3d0ae-0e2a-4b49-b56f-f8cdc6c0c6b8
-title: 'Divine Queens: Elizabeth I and Joan of Arc\''s Unique Influence'
+title: "Divine Queens: Elizabeth I and Joan of Arc's Unique Influence"
 permalink: /Queens-princesses-and-saints/Divine-Queens-Elizabeth-I-and-Joan-of-Arcs-Unique-Influence/
 categories:
   - Queens, princesses, and saints

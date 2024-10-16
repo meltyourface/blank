@@ -1,6 +1,6 @@
 ---
 id: a75c4b89-fbfb-430d-95a7-20aa814b9e9c
-title: 'Mastering Animal Form: A Spiritual Connection to Nature\''s Wisdom'
+title: "Mastering Animal Form: A Spiritual Connection to Nature's Wisdom"
 permalink: /Animal-form/Mastering-Animal-Form-A-Spiritual-Connection-to-Natures-Wisdom/
 categories:
   - Animal form

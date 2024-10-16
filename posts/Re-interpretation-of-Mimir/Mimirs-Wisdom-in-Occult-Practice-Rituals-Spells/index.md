@@ -1,6 +1,6 @@
 ---
 id: f7f41cd0-cbbe-4258-866a-656f97819026
-title: 'Mimir\''s Wisdom in Occult Practice: Rituals & Spells'
+title: "Mimir's Wisdom in Occult Practice: Rituals & Spells"
 permalink: /Re-interpretation-of-Mimir/Mimirs-Wisdom-in-Occult-Practice-Rituals-Spells/
 categories:
   - Re-interpretation of Mimir

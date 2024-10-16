@@ -1,6 +1,6 @@
 ---
 id: 852843a5-bd43-434d-b3b8-8599b866a52b
-title: 'Gnostic Mass Symbolism: Hermetic Scribe\''s Initiation and Transformation'
+title: "Gnostic Mass Symbolism: Hermetic Scribe's Initiation and Transformation"
 permalink: /Gnostic-Mass-symbolism/Gnostic-Mass-Symbolism-Hermetic-Scribes-Initiation-and-Transformation/
 categories:
   - Gnostic Mass symbolism

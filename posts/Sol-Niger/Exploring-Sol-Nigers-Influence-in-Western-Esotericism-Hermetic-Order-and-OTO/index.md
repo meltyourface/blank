@@ -1,7 +1,6 @@
 ---
 id: 77878a38-1752-481c-9dc9-fbc3f8102261
-title: 'Exploring Sol Niger\''s Influence in Western Esotericism: Hermetic Order and
-  O.T.O.'
+title: "Exploring Sol Niger's Influence in Western Esotericism: Hermetic Order and O.T.O."
 permalink: /Sol-Niger/Exploring-Sol-Nigers-Influence-in-Western-Esotericism-Hermetic-Order-and-OTO/
 categories:
   - Sol Niger

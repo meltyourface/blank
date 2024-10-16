@@ -1,7 +1,6 @@
 ---
 id: 14512802-8459-42bb-8ff5-5dcdb019ea28
-title: 'The Philosophy of the Philosopher\''s Stone: Elemental Integration and Spiritual
-  Ascension'
+title: "The Philosophy of the Philosopher's Stone: Elemental Integration and Spiritual Ascension"
 permalink: /Quintessence/The-Philosophy-of-the-Philosophers-Stone-Elemental-Integration-and-Spiritual-Ascension/
 categories:
   - Quintessence

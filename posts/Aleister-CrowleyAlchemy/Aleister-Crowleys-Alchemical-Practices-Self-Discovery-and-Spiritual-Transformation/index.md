@@ -1,6 +1,6 @@
 ---
 id: 03d64a89-d75e-4db7-a997-eed456e00361
-title: 'Aleister Crowley\''s Alchemical Practices: Self-Discovery and Spiritual Transformation'
+title: "Aleister Crowley's Alchemical Practices: Self-Discovery and Spiritual Transformation"
 permalink: /Aleister-CrowleyAlchemy/Aleister-Crowleys-Alchemical-Practices-Self-Discovery-and-Spiritual-Transformation/
 categories:
   - Aleister CrowleyAlchemy

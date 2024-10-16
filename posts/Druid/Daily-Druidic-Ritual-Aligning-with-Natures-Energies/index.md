@@ -1,6 +1,6 @@
 ---
 id: aff9ba03-a716-4d03-bba3-a478a0f1005e
-title: 'Daily Druidic Ritual: Aligning with Nature\''s Energies'
+title: "Daily Druidic Ritual: Aligning with Nature's Energies"
 permalink: /Druid/Daily-Druidic-Ritual-Aligning-with-Natures-Energies/
 categories:
   - Druid

@@ -1,6 +1,6 @@
 ---
 id: d52116eb-732a-44a0-9792-61a3a5234267
-title: 'Early 20th-Century Occult Literature: Hanns Heinz Ewers\'' Works'
+title: "Early 20th-Century Occult Literature: Hanns Heinz Ewers' Works"
 permalink: /Hanns-Heinz-Ewers/Early-20th-Century-Occult-Literature-Hanns-Heinz-Ewers-Works/
 categories:
   - Hanns Heinz Ewers

@@ -1,6 +1,6 @@
 ---
 id: 144dba32-df69-41d0-8b36-613534c4c1ea
-title: 'The Devil\''s Bone Charm: An Occult Mystery'
+title: "The Devil's Bone Charm: An Occult Mystery"
 permalink: /Treasures-of-the-Devils-Bone-Charm/The-Devils-Bone-Charm-An-Occult-Mystery/
 categories:
   - Treasures of the Devil's Bone Charm

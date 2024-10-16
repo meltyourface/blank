@@ -1,6 +1,6 @@
 ---
 id: 986c04a2-403f-4722-8b00-4d2a81e3c375
-title: "Devil\''s Servitor Protection Ritual: A Dark Binding"
+title: "Devil's Servitor Protection Ritual: A Dark Binding"
 permalink: /Devils-Servitor/Devils-Servitor-Protection-Ritual-A-Dark-Binding/
 categories:
   - Devil's Servitor

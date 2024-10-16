@@ -1,6 +1,6 @@
 ---
 id: 9f9c37e3-a662-4659-b352-01e730655b5b
-title: 'Elemental Magic: Connecting with Nature\''s Forces in Traditional Witchcraft'
+title: "Elemental Magic: Connecting with Nature's Forces in Traditional Witchcraft"
 permalink: /Traditional-witchcraft/Elemental-Magic-Connecting-with-Natures-Forces-in-Traditional-Witchcraft/
 categories:
   - Traditional witchcraft

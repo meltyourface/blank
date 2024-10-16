@@ -1,6 +1,6 @@
 ---
 id: 919ee8b0-df20-4b19-b84d-cc14f03b923a
-title: 'Nostradamus\''s Occult Grimoire: Mystical Secrets Revealed'
+title: "Nostradamus's Occult Grimoire: Mystical Secrets Revealed"
 permalink: /Liar/Nostradamuss-Occult-Grimoire-Mystical-Secrets-Revealed/
 categories:
   - Liar

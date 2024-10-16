@@ -1,6 +1,6 @@
 ---
 id: 6301baf5-6c40-4c54-a921-33621c3e89fd
-title: 'Aleister Crowley\''s Sexual Magick: A Guide to True Will and Transformation'
+title: "Aleister Crowley's Sexual Magick: A Guide to True Will and Transformation"
 permalink: /Aleister-Crowleys-sexual-magick/Aleister-Crowleys-Sexual-Magick-A-Guide-to-True-Will-and-Transformation/
 categories:
   - Aleister Crowley's sexual magick

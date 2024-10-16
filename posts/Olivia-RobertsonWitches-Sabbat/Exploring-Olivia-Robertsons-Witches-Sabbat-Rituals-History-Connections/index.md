@@ -1,6 +1,6 @@
 ---
 id: 92fe1941-ea49-4ebd-a8fe-34f78c7ccbd2
-title: '"Exploring Olivia Robertson\''s Witches\'' Sabbat: Rituals, History & Connections"'
+title: ""Exploring Olivia Robertson's Witches' Sabbat: Rituals, History & Connections""
 permalink: /Olivia-RobertsonWitches-Sabbat/Exploring-Olivia-Robertsons-Witches-Sabbat-Rituals-History-Connections/
 categories:
   - Olivia RobertsonWitches' Sabbat

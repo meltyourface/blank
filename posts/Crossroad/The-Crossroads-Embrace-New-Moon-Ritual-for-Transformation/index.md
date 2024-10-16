@@ -1,6 +1,6 @@
 ---
 id: d356776f-de71-4dfb-b668-d5728a1f3ba8
-title: 'The Crossroad\''s Embrace: New Moon Ritual for Transformation'
+title: "The Crossroad's Embrace: New Moon Ritual for Transformation"
 permalink: /Crossroad/The-Crossroads-Embrace-New-Moon-Ritual-for-Transformation/
 categories:
   - Crossroad

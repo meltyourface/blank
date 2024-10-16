@@ -1,6 +1,6 @@
 ---
 id: 2d53230c-4a35-45ff-8f81-5393c438ec5e
-title: 'Devil\''s Servitor: Synthesizing Esoteric Traditions for Magical Summoning'
+title: "Devil's Servitor: Synthesizing Esoteric Traditions for Magical Summoning"
 permalink: /Devils-Servitor/Devils-Servitor-Synthesizing-Esoteric-Traditions-for-Magical-Summoning/
 categories:
   - Devil's Servitor

@@ -1,6 +1,6 @@
 ---
 id: 2f0d55ac-7487-430e-9cae-b1ef31bf831d
-title: 'The Sinister Pantheon: Tales of Ne\''ghorath'
+title: "The Sinister Pantheon: Tales of Ne'ghorath"
 permalink: /Monstrous-evil/The-Sinister-Pantheon-Tales-of-Neghorath/
 categories:
   - Monstrous evil

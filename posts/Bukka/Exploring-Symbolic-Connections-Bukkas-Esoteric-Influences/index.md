@@ -1,6 +1,6 @@
 ---
 id: 0e643360-f31d-44d7-a260-575cd15b2779
-title: 'Exploring Symbolic Connections: Bukka\''s Esoteric Influences'
+title: "Exploring Symbolic Connections: Bukka's Esoteric Influences"
 permalink: /Bukka/Exploring-Symbolic-Connections-Bukkas-Esoteric-Influences/
 categories:
   - Bukka

@@ -1,6 +1,6 @@
 ---
 id: f1dc95f4-a945-47ff-8cf3-500d79b88775
-title: '"Symbolic Exploration of Anna Bonus Kingsford\''s \''Perfect Way\''"'
+title: ""Symbolic Exploration of Anna Bonus Kingsford\''s 'Perfect Way'""
 permalink: /Anna-Bonus-Kingsford/Symbolic-Exploration-of-Anna-Bonus-Kingsfords-Perfect-Way/
 categories:
   - Anna Bonus Kingsford

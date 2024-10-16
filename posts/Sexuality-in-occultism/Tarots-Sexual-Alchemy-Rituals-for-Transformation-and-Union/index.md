@@ -1,6 +1,6 @@
 ---
 id: 17afd5f6-846b-4384-b898-f45a27612668
-title: 'Tarot\''s Sexual Alchemy: Rituals for Transformation and Union'
+title: "Tarot's Sexual Alchemy: Rituals for Transformation and Union"
 permalink: /Sexuality-in-occultism/Tarots-Sexual-Alchemy-Rituals-for-Transformation-and-Union/
 categories:
   - Sexuality in occultism

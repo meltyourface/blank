@@ -1,6 +1,6 @@
 ---
 id: 67260691-6a9a-4b35-94a2-582624460ee8
-title: 'Imbolc Incense Recipe & Rituals: Honoring Brigid\''s Purifying Flame'
+title: "Imbolc Incense Recipe & Rituals: Honoring Brigid's Purifying Flame"
 permalink: /Imbolg/Imbolc-Incense-Recipe-Rituals-Honoring-Brigids-Purifying-Flame/
 categories:
   - Imbolg

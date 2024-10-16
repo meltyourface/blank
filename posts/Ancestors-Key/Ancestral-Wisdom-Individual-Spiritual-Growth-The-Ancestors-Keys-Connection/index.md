@@ -1,6 +1,6 @@
 ---
 id: d98d0e81-b652-43e1-b386-316f226ebf62
-title: 'Ancestral Wisdom & Individual Spiritual Growth: The Ancestors Key\''s Connection'
+title: "Ancestral Wisdom & Individual Spiritual Growth: The Ancestors Key's Connection"
 permalink: /Ancestors-Key/Ancestral-Wisdom-Individual-Spiritual-Growth-The-Ancestors-Keys-Connection/
 categories:
   - Ancestors Key

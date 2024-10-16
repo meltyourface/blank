@@ -1,6 +1,6 @@
 ---
 id: 95271392-6eda-4a51-adc8-8c4961574814
-title: 'Tantra: Impact on Hinduism and Buddhism\''s Rituals, Cosmology, and Spirituality'
+title: "Tantra: Impact on Hinduism and Buddhism's Rituals, Cosmology, and Spirituality"
 permalink: /Vedic-sciences/Tantra-Impact-on-Hinduism-and-Buddhisms-Rituals-Cosmology-and-Spirituality/
 categories:
   - Vedic sciences

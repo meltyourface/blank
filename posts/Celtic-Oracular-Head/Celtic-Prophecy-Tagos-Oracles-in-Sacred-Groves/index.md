@@ -1,6 +1,6 @@
 ---
 id: be933eea-8244-4f34-80db-3f00d5a877bc
-title: 'Celtic Prophecy: Tago\''s Oracles in Sacred Groves'
+title: "Celtic Prophecy: Tago's Oracles in Sacred Groves"
 permalink: /Celtic-Oracular-Head/Celtic-Prophecy-Tagos-Oracles-in-Sacred-Groves/
 categories:
   - Celtic Oracular Head

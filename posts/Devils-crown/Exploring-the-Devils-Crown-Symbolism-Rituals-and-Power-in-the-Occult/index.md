@@ -1,6 +1,6 @@
 ---
 id: 838509f9-79b3-4d47-8ba8-1251ef8ccf3d
-title: 'Exploring the Devil\''s Crown: Symbolism, Rituals, and Power in the Occult'
+title: "Exploring the Devil's Crown: Symbolism, Rituals, and Power in the Occult"
 permalink: /Devils-crown/Exploring-the-Devils-Crown-Symbolism-Rituals-and-Power-in-the-Occult/
 categories:
   - Devil's crown

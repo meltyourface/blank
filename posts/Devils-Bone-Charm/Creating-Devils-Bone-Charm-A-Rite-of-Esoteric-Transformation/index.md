@@ -1,6 +1,6 @@
 ---
 id: 762b8bfa-a3f0-494d-bdef-53a22bc4fe1b
-title: 'Creating Devil\''s Bone Charm: A Rite of Esoteric Transformation'
+title: "Creating Devil's Bone Charm: A Rite of Esoteric Transformation"
 permalink: /Devils-Bone-Charm/Creating-Devils-Bone-Charm-A-Rite-of-Esoteric-Transformation/
 categories:
   - Devil's Bone Charm

@@ -1,6 +1,6 @@
 ---
 id: dfe42225-48a4-4596-ae23-4c9098f45219
-title: 'Balanced Spirituality: Augustine\''s Path to Divine Union'
+title: "Balanced Spirituality: Augustine's Path to Divine Union"
 permalink: /Augustine/Balanced-Spirituality-Augustines-Path-to-Divine-Union/
 categories:
   - Augustine

@@ -1,6 +1,6 @@
 ---
 id: 8649890d-b690-4c2d-a4b7-88b64cbdc3de
-title: 'Necromantic Barrier: Ward of Oblivion\''s Respite'
+title: "Necromantic Barrier: Ward of Oblivion's Respite"
 permalink: /Necromancers-SteedNecromantic-lore/Necromantic-Barrier-Ward-of-Oblivions-Respite/
 categories:
   - Necromancer's SteedNecromantic lore

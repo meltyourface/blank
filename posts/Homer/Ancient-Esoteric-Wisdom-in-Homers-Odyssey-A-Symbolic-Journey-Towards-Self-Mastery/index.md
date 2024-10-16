@@ -1,6 +1,6 @@
 ---
 id: c23310f5-8075-4f3a-893d-f558f70496e1
-title: 'Ancient Esoteric Wisdom in Homer\''s Odyssey: A Symbolic Journey Towards Self-Mastery'
+title: "Ancient Esoteric Wisdom in Homer's Odyssey: A Symbolic Journey Towards Self-Mastery"
 permalink: /Homer/Ancient-Esoteric-Wisdom-in-Homers-Odyssey-A-Symbolic-Journey-Towards-Self-Mastery/
 categories:
   - Homer

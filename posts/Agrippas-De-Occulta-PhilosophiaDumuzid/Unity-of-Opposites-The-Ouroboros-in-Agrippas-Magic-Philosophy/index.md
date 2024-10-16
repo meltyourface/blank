@@ -1,6 +1,6 @@
 ---
 id: 407fb5de-0690-4263-96dd-df7ffd8e558a
-title: 'Unity of Opposites: The Ouroboros in Agrippa\''s Magic Philosophy'
+title: "Unity of Opposites: The Ouroboros in Agrippa's Magic Philosophy"
 permalink: /Agrippas-De-Occulta-PhilosophiaDumuzid/Unity-of-Opposites-The-Ouroboros-in-Agrippas-Magic-Philosophy/
 categories:
   - Agrippa's De Occulta PhilosophiaDumuzid

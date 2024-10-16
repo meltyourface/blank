@@ -1,6 +1,6 @@
 ---
 id: 4a8b0dec-23fd-401a-b72b-eab972a73ed0
-title: 'Exploring Esoteric Symbolism in the Greek Isopsephy of Jesus\'' Name: 888'
+title: "Exploring Esoteric Symbolism in the Greek Isopsephy of Jesus' Name: 888"
 permalink: /Isopsephy/Exploring-Esoteric-Symbolism-in-the-Greek-Isopsephy-of-Jesus-Name-888/
 categories:
   - Isopsephy

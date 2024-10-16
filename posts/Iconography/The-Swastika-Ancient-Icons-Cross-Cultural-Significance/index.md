@@ -1,6 +1,6 @@
 ---
 id: de6004eb-5861-40ed-8248-34d3ef6f5b24
-title: 'The Swastika: Ancient Icon\''s Cross-Cultural Significance'
+title: "The Swastika: Ancient Icon's Cross-Cultural Significance"
 permalink: /Iconography/The-Swastika-Ancient-Icons-Cross-Cultural-Significance/
 categories:
   - Iconography

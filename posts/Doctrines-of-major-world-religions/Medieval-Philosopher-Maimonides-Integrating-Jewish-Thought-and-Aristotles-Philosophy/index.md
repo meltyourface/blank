@@ -1,7 +1,6 @@
 ---
 id: 3344ba0d-e1d6-4044-bce0-d84546c5acf1
-title: 'Medieval Philosopher Maimonides: Integrating Jewish Thought and Aristotle\''s
-  Philosophy'
+title: "Medieval Philosopher Maimonides: Integrating Jewish Thought and Aristotle's Philosophy"
 permalink: /Doctrines-of-major-world-religions/Medieval-Philosopher-Maimonides-Integrating-Jewish-Thought-and-Aristotles-Philosophy/
 categories:
   - Doctrines of major world religions

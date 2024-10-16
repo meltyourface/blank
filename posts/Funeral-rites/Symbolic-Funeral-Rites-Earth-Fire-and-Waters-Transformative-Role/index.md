@@ -1,6 +1,6 @@
 ---
 id: ba52c568-d5df-4b98-95bf-e6c544d9e252
-title: 'Symbolic Funeral Rites: Earth, Fire, and Water\''s Transformative Role'
+title: "Symbolic Funeral Rites: Earth, Fire, and Water's Transformative Role"
 permalink: /Funeral-rites/Symbolic-Funeral-Rites-Earth-Fire-and-Waters-Transformative-Role/
 categories:
   - Funeral rites

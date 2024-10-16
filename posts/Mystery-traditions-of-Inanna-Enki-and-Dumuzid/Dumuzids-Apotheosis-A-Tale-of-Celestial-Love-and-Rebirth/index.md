@@ -1,6 +1,6 @@
 ---
 id: 7f5541d5-15dc-4891-b908-241e30cca946
-title: '"Dumuzid\''s Apotheosis: A Tale of Celestial Love and Rebirth'
+title: ""Dumuzid's Apotheosis: A Tale of Celestial Love and Rebirth"
 permalink: /Mystery-traditions-of-Inanna-Enki-and-Dumuzid/Dumuzids-Apotheosis-A-Tale-of-Celestial-Love-and-Rebirth/
 categories:
   - Mystery traditions of Inanna, Enki, and Dumuzid

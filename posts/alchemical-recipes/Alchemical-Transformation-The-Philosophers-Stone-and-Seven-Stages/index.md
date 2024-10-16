@@ -1,6 +1,6 @@
 ---
 id: bf597fdd-6c65-4189-aef1-207c06b1802a
-title: 'Alchemical Transformation: The Philosopher\''s Stone and Seven Stages'
+title: "Alchemical Transformation: The Philosopher's Stone and Seven Stages"
 permalink: /alchemical-recipes/Alchemical-Transformation-The-Philosophers-Stone-and-Seven-Stages/
 categories:
   - alchemical recipes

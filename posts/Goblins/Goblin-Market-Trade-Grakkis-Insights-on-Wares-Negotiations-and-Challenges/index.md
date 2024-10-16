@@ -1,6 +1,6 @@
 ---
 id: ee26c40e-9e58-4271-ac4c-0c633fa9d948
-title: 'Goblin Market Trade: Grakkis\'' Insights on Wares, Negotiations, and Challenges'
+title: "Goblin Market Trade: Grakkis' Insights on Wares, Negotiations, and Challenges"
 permalink: /Goblins/Goblin-Market-Trade-Grakkis-Insights-on-Wares-Negotiations-and-Challenges/
 categories:
   - Goblins

@@ -1,6 +1,6 @@
 ---
 id: 81534a71-af19-426c-bc71-c459d25e431b
-title: 'Sabbatai Zevi\''s Utopian Jewish State: A Reimagined Spiritual Realm'
+title: "Sabbatai Zevi's Utopian Jewish State: A Reimagined Spiritual Realm"
 permalink: /Heresy-of-Sabbatai-Zevi/Sabbatai-Zevis-Utopian-Jewish-State-A-Reimagined-Spiritual-Realm/
 categories:
   - Heresy of Sabbatai Zevi

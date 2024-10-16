@@ -1,7 +1,6 @@
 ---
 id: 65dab443-eb9b-4a20-9fc4-e8d7e30a4d20
-title: 'Harnessing Divine Energy: Creative Visualization & Kabbalah\''s Tree of Life
-  for Self-Development'
+title: "Harnessing Divine Energy: Creative Visualization & Kabbalah's Tree of Life for Self-Development"
 permalink: /Power-of-imagination/Harnessing-Divine-Energy-Creative-Visualization-Kabbalahs-Tree-of-Life-for-Self-Development/
 categories:
   - Power of imagination

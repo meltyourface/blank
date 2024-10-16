@@ -1,7 +1,6 @@
 ---
 id: 3111f540-260c-4d8e-a7e3-3eb7f97e2589
-title: 'Cosmic Theatre: The Esoteric Connection Between Shakespeare\''s Quote and
-  Ancient Wisdom'
+title: "Cosmic Theatre: The Esoteric Connection Between Shakespeare's Quote and Ancient Wisdom"
 permalink: /The-theatre/Cosmic-Theatre-The-Esoteric-Connection-Between-Shakespeares-Quote-and-Ancient-Wisdom/
 categories:
   - The theatre

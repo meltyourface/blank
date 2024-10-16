@@ -1,6 +1,6 @@
 ---
 id: 4b4ae31a-e916-4889-b01e-b286f6a5513f
-title: 'Exploring Thelema\''s Abbey: Architecture as Spiritual Guide'
+title: "Exploring Thelema's Abbey: Architecture as Spiritual Guide"
 permalink: /Abbey-of-Do-What-Thou-Wilt/Exploring-Thelemas-Abbey-Architecture-as-Spiritual-Guide/
 categories:
   - Abbey of Do What Thou Wilt

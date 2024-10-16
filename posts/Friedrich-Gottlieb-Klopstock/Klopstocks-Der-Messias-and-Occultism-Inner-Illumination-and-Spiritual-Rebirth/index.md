@@ -1,7 +1,6 @@
 ---
 id: 05eef008-70ef-4c45-a71c-559ba95faf49
-title: 'Klopstock\''s "Der Messias" and Occultism: Inner Illumination and Spiritual
-  Rebirth'
+title: "Klopstock's "Der Messias" and Occultism: Inner Illumination and Spiritual Rebirth"
 permalink: /Friedrich-Gottlieb-Klopstock/Klopstocks-Der-Messias-and-Occultism-Inner-Illumination-and-Spiritual-Rebirth/
 categories:
   - Friedrich Gottlieb Klopstock

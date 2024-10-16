@@ -1,6 +1,6 @@
 ---
 id: 3280b0e3-2e0e-4316-9f44-a39cf8e84c63
-title: 'Navigating Time\''s Web: Consciousness, Synchronicity, and Divination'
+title: "Navigating Time's Web: Consciousness, Synchronicity, and Divination"
 permalink: /Consciousness-of-timeFuturoscope/Navigating-Times-Web-Consciousness-Synchronicity-and-Divination/
 categories:
   - Consciousness of timeFuturoscope

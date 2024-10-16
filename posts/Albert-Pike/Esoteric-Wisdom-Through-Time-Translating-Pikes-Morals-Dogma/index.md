@@ -1,6 +1,6 @@
 ---
 id: 6fd7ed86-887a-4aec-b94a-9aa178f1ef50
-title: 'Esoteric Wisdom Through Time: Translating Pike\''s "Morals & Dogma"'
+title: "Esoteric Wisdom Through Time: Translating Pike's "Morals & Dogma""
 permalink: /Albert-Pike/Esoteric-Wisdom-Through-Time-Translating-Pikes-Morals-Dogma/
 categories:
   - Albert Pike

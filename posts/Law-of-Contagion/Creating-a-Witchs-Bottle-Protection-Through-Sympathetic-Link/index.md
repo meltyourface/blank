@@ -1,6 +1,6 @@
 ---
 id: 7d46020c-8ef5-4bc2-826e-62b8bbd64497
-title: 'Creating a Witch\''s Bottle: Protection Through Sympathetic Link'
+title: "Creating a Witch's Bottle: Protection Through Sympathetic Link"
 permalink: /Law-of-Contagion/Creating-a-Witchs-Bottle-Protection-Through-Sympathetic-Link/
 categories:
   - Law of Contagion

@@ -1,6 +1,6 @@
 ---
 id: a32fca30-28f4-42f4-ad3e-845e6a9c65c3
-title: 'Aspirant\''s Journey: Transformation through the Silver Star and Astral Light'
+title: "Aspirant's Journey: Transformation through the Silver Star and Astral Light"
 permalink: /Gate-of-the-Silver-Star/Aspirants-Journey-Transformation-through-the-Silver-Star-and-Astral-Light/
 categories:
   - Gate of the Silver Star

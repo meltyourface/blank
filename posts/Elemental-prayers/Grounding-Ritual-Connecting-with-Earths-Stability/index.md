@@ -1,6 +1,6 @@
 ---
 id: de637f52-2425-40b5-8771-1e5cff2c9d5d
-title: 'Grounding Ritual: Connecting with Earth\''s Stability'
+title: "Grounding Ritual: Connecting with Earth's Stability"
 permalink: /Elemental-prayers/Grounding-Ritual-Connecting-with-Earths-Stability/
 categories:
   - Elemental prayers

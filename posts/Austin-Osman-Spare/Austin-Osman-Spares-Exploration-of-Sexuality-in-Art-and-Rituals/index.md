@@ -1,6 +1,6 @@
 ---
 id: e1c3557a-4633-46dc-b95e-da7711269e37
-title: '"Austin Osman Spare\''s Exploration of Sexuality in Art and Rituals"'
+title: ""Austin Osman Spare's Exploration of Sexuality in Art and Rituals""
 permalink: /Austin-Osman-Spare/Austin-Osman-Spares-Exploration-of-Sexuality-in-Art-and-Rituals/
 categories:
   - Austin Osman Spare

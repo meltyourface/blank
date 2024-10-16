@@ -1,6 +1,6 @@
 ---
 id: 6bab66ab-972d-4561-bbd7-cf33943c7128
-title: 'Lunar Ritual Script: Honoring the Moon\''s Phases'
+title: "Lunar Ritual Script: Honoring the Moon's Phases"
 permalink: /Ritual-pages/Lunar-Ritual-Script-Honoring-the-Moons-Phases/
 categories:
   - Ritual pages

@@ -1,7 +1,6 @@
 ---
 id: b5002d55-b833-4f4d-ac4f-8ffdae5f1d59
-title: 'Torture Methods Used Against Accused Witches: Pear of Anguish, Witch\''s Chair,
-  and Strappado'
+title: "Torture Methods Used Against Accused Witches: Pear of Anguish, Witch's Chair, and Strappado"
 permalink: /Torture-methods-for-witches/Torture-Methods-Used-Against-Accused-Witches-Pear-of-Anguish-Witchs-Chair-and-Strappado/
 categories:
   - Torture methods for witches

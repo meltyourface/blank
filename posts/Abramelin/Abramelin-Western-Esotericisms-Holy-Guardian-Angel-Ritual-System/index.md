@@ -1,6 +1,6 @@
 ---
 id: 25944525-de24-4376-8393-d222732094d9
-title: 'Abramelin: Western Esotericism\''s Holy Guardian Angel Ritual System'
+title: "Abramelin: Western Esotericism's Holy Guardian Angel Ritual System"
 permalink: /Abramelin/Abramelin-Western-Esotericisms-Holy-Guardian-Angel-Ritual-System/
 categories:
   - Abramelin

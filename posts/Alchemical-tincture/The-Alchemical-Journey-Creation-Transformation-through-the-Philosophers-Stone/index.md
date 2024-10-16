@@ -1,7 +1,6 @@
 ---
 id: 208d5854-585e-4bc2-95a2-df27d60cb4f6
-title: 'The Alchemical Journey: Creation & Transformation through the Philosopher\''s
-  Stone'
+title: "The Alchemical Journey: Creation & Transformation through the Philosopher's Stone"
 permalink: /Alchemical-tincture/The-Alchemical-Journey-Creation-Transformation-through-the-Philosophers-Stone/
 categories:
   - Alchemical tincture

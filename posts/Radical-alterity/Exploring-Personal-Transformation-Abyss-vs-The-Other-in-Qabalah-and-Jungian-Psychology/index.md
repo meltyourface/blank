@@ -1,7 +1,6 @@
 ---
 id: 4082f117-beb1-4c31-a929-a2609c4b6c9d
-title: '"Exploring Personal Transformation: Abyss vs. \''The Other\'' in Qabalah and
-  Jungian Psychology"'
+title: ""Exploring Personal Transformation: Abyss vs. 'The Other' in Qabalah and Jungian Psychology""
 permalink: /Radical-alterity/Exploring-Personal-Transformation-Abyss-vs-The-Other-in-Qabalah-and-Jungian-Psychology/
 categories:
   - Radical alterity

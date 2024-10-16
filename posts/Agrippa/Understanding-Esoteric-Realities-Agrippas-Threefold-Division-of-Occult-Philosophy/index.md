@@ -1,7 +1,6 @@
 ---
 id: 2ea75d0a-455f-40c9-b204-40d01f314cd1
-title: 'Understanding Esoteric Realities: Agrippa\''s Threefold Division of Occult
-  Philosophy'
+title: "Understanding Esoteric Realities: Agrippa's Threefold Division of Occult Philosophy"
 permalink: /Agrippa/Understanding-Esoteric-Realities-Agrippas-Threefold-Division-of-Occult-Philosophy/
 categories:
   - Agrippa

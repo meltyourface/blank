@@ -1,6 +1,6 @@
 ---
 id: 1f2e8ecb-fb6b-4b3c-bc96-025706c42729
-title: 'Antiquity\''s Legacy: Key Figures & Teachings in Modern Occult Practices'
+title: "Antiquity's Legacy: Key Figures & Teachings in Modern Occult Practices"
 permalink: /Antiquity-and-its-influence-on-life/Antiquitys-Legacy-Key-Figures-Teachings-in-Modern-Occult-Practices/
 categories:
   - Antiquity and its influence on life

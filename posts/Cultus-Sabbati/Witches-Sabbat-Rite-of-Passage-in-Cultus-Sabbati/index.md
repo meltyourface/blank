@@ -1,6 +1,6 @@
 ---
 id: 1a4884e4-e2df-4c95-8da1-69953fe793e8
-title: '"Witches\'' Sabbat: Rite of Passage in Cultus Sabbati"'
+title: ""Witches' Sabbat: Rite of Passage in Cultus Sabbati""
 permalink: /Cultus-Sabbati/Witches-Sabbat-Rite-of-Passage-in-Cultus-Sabbati/
 categories:
   - Cultus Sabbati

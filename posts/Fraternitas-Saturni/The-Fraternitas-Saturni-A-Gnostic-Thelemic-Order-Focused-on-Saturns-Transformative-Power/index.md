@@ -1,7 +1,6 @@
 ---
 id: 405f890f-4fd6-47c3-9853-751a3a638bd7
-title: '"The Fraternitas Saturni: A Gnostic-Thelemic Order Focused on Saturn\''s Transformative
-  Power"'
+title: ""The Fraternitas Saturni: A Gnostic-Thelemic Order Focused on Saturn's Transformative Power""
 permalink: /Fraternitas-Saturni/The-Fraternitas-Saturni-A-Gnostic-Thelemic-Order-Focused-on-Saturns-Transformative-Power/
 categories:
   - Fraternitas Saturni

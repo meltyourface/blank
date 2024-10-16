@@ -1,6 +1,6 @@
 ---
 id: 404e2ab6-77f0-4a54-8824-ac05f09a71bd
-title: 'Introduction to Performance Movement Magick: A Beginner\''s Guide'
+title: "Introduction to Performance Movement Magick: A Beginner's Guide"
 permalink: /Performance-Movement-Magick/Introduction-to-Performance-Movement-Magick-A-Beginners-Guide/
 categories:
   - Performance Movement Magick

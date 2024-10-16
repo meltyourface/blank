@@ -1,6 +1,6 @@
 ---
 id: 6fba7788-a4d7-4bc2-b00a-430e86b922cc
-title: 'Devil\''s Crossroads: Symbolism and Lessons in Folkloric Esotericism'
+title: "Devil's Crossroads: Symbolism and Lessons in Folkloric Esotericism"
 permalink: /Folktale-involving-the-devil/Devils-Crossroads-Symbolism-and-Lessons-in-Folkloric-Esotericism/
 categories:
   - Folktale involving the devil

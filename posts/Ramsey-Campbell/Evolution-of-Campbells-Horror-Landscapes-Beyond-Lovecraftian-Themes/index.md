@@ -1,6 +1,6 @@
 ---
 id: e23f5f51-27c6-4a27-a00f-90d0aa292fd5
-title: 'Evolution of Campbell\''s Horror Landscapes: Beyond Lovecraftian Themes'
+title: "Evolution of Campbell's Horror Landscapes: Beyond Lovecraftian Themes"
 permalink: /Ramsey-Campbell/Evolution-of-Campbells-Horror-Landscapes-Beyond-Lovecraftian-Themes/
 categories:
   - Ramsey Campbell

@@ -1,6 +1,6 @@
 ---
 id: 82d5a923-9b39-4161-928f-982ebc19575f
-title: 'The Enigmatic Queen of the Fairies: Balancing Life\''s Light and Darkness'
+title: "The Enigmatic Queen of the Fairies: Balancing Life's Light and Darkness"
 permalink: /Queen-of-the-Fairies/The-Enigmatic-Queen-of-the-Fairies-Balancing-Lifes-Light-and-Darkness/
 categories:
   - Queen of the Fairies

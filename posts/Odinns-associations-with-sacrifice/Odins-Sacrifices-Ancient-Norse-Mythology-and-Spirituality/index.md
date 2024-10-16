@@ -1,6 +1,6 @@
 ---
 id: be4f7303-d6f8-48a2-ab94-842a2dd25fce
-title: 'Odin\''s Sacrifices: Ancient Norse Mythology and Spirituality'
+title: "Odin's Sacrifices: Ancient Norse Mythology and Spirituality"
 permalink: /Odinns-associations-with-sacrifice/Odins-Sacrifices-Ancient-Norse-Mythology-and-Spirituality/
 categories:
   - Odinns associations with sacrifice

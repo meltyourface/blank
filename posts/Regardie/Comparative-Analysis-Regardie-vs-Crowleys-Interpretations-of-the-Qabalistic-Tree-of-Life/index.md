@@ -1,7 +1,6 @@
 ---
 id: 3aa6f784-7425-4477-bfb5-d72fc987a64e
-title: 'Comparative Analysis: Regardie vs Crowley\''s Interpretations of the Qabalistic
-  Tree of Life'
+title: "Comparative Analysis: Regardie vs Crowley's Interpretations of the Qabalistic Tree of Life"
 permalink: /Regardie/Comparative-Analysis-Regardie-vs-Crowleys-Interpretations-of-the-Qabalistic-Tree-of-Life/
 categories:
   - Regardie

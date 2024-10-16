@@ -1,6 +1,6 @@
 ---
 id: 7b01af9b-01e3-415c-be8a-0b12a57c0da5
-title: 'Alcohol\''s Role in Occult Practices: Benefits and Risks'
+title: "Alcohol's Role in Occult Practices: Benefits and Risks"
 permalink: /Alcoholism/Alcohols-Role-in-Occult-Practices-Benefits-and-Risks/
 categories:
   - Alcoholism

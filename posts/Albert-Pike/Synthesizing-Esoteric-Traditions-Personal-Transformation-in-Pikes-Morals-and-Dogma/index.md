@@ -1,7 +1,6 @@
 ---
 id: 1d05e532-49f8-4500-94c9-0b418048c063
-title: 'Synthesizing Esoteric Traditions: Personal Transformation in Pike\''s "Morals
-  and Dogma"'
+title: "Synthesizing Esoteric Traditions: Personal Transformation in Pike's "Morals and Dogma""
 permalink: /Albert-Pike/Synthesizing-Esoteric-Traditions-Personal-Transformation-in-Pikes-Morals-and-Dogma/
 categories:
   - Albert Pike

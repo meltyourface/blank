@@ -1,6 +1,6 @@
 ---
 id: e43e015c-bce1-47b2-a3ee-30e8caccd15d
-title: 'Exploring Lovecraft\''s Cosmicism: Human Insignificance and Beyond'
+title: "Exploring Lovecraft's Cosmicism: Human Insignificance and Beyond"
 permalink: /Lovecrafts-religion/Exploring-Lovecrafts-Cosmicism-Human-Insignificance-and-Beyond/
 categories:
   - Lovecrafts religion

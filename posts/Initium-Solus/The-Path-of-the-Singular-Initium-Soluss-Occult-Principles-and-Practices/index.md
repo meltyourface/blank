@@ -1,6 +1,6 @@
 ---
 id: 951ee512-59a8-4711-9d4d-fcd0992859fc
-title: 'The Path of the Singular: Initium Solus\''s Occult Principles and Practices'
+title: "The Path of the Singular: Initium Solus's Occult Principles and Practices"
 permalink: /Initium-Solus/The-Path-of-the-Singular-Initium-Soluss-Occult-Principles-and-Practices/
 categories:
   - Initium Solus

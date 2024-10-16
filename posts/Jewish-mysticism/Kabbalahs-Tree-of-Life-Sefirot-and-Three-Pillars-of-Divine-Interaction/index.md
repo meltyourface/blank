@@ -1,6 +1,6 @@
 ---
 id: 51bcd64d-7b29-4c1a-b957-7587b85f5092
-title: 'Kabbalah\''s Tree of Life: Sefirot and Three Pillars of Divine Interaction'
+title: "Kabbalah's Tree of Life: Sefirot and Three Pillars of Divine Interaction"
 permalink: /Jewish-mysticism/Kabbalahs-Tree-of-Life-Sefirot-and-Three-Pillars-of-Divine-Interaction/
 categories:
   - Jewish mysticism

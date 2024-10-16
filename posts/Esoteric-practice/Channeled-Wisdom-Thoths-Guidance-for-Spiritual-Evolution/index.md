@@ -1,6 +1,6 @@
 ---
 id: e6636063-fabc-4051-a5a0-b247a8ab5877
-title: '"Channeled Wisdom: Thoth\''s Guidance for Spiritual Evolution"'
+title: ""Channeled Wisdom: Thoth's Guidance for Spiritual Evolution""
 permalink: /Esoteric-practice/Channeled-Wisdom-Thoths-Guidance-for-Spiritual-Evolution/
 categories:
   - Esoteric practice

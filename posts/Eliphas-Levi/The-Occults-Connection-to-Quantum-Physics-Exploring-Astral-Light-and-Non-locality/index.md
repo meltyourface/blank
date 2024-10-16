@@ -1,6 +1,6 @@
 ---
 id: 1d6b8bc4-93cf-4f82-9710-32c8605a2a47
-title: 'The Occult\''s Connection to Quantum Physics: Exploring Astral Light and Non-locality'
+title: "The Occult's Connection to Quantum Physics: Exploring Astral Light and Non-locality"
 permalink: /Eliphas-Levi/The-Occults-Connection-to-Quantum-Physics-Exploring-Astral-Light-and-Non-locality/
 categories:
   - Eliphas Levi

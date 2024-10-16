@@ -1,6 +1,6 @@
 ---
 id: fc282531-c2d7-44ee-98e9-5c72d4e1fcd0
-title: 'Archetypal Exploration: Analyzing Baba Yaga\''s Symbolism'
+title: "Archetypal Exploration: Analyzing Baba Yaga's Symbolism"
 permalink: /Folktales/Archetypal-Exploration-Analyzing-Baba-Yagas-Symbolism/
 categories:
   - Folktales

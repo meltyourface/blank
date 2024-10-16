@@ -1,6 +1,6 @@
 ---
 id: ad98ac7a-2b23-4e51-876e-99cfe242e1b7
-title: 'Aleister Crowley\''s Sexual Magick: Principles, Rituals, and Legacy'
+title: "Aleister Crowley's Sexual Magick: Principles, Rituals, and Legacy"
 permalink: /Aleister-Crowleys-sexual-magick/Aleister-Crowleys-Sexual-Magick-Principles-Rituals-and-Legacy/
 categories:
   - Aleister Crowley's sexual magick

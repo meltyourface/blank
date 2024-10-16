@@ -1,6 +1,6 @@
 ---
 id: 6f982365-0acb-486f-ab05-96ba2ccddeb0
-title: 'Hecate\''s Sacred Herbs: Harvesting, Consecration, and Ritual Use'
+title: "Hecate's Sacred Herbs: Harvesting, Consecration, and Ritual Use"
 permalink: /Path-of-Hecate/Hecates-Sacred-Herbs-Harvesting-Consecration-and-Ritual-Use/
 categories:
   - Path of Hecate

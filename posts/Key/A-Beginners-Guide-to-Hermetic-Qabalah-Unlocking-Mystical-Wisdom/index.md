@@ -1,6 +1,6 @@
 ---
 id: cb5b5042-37c3-4206-9564-044a13ed7d06
-title: 'A Beginner\''s Guide to Hermetic Qabalah: Unlocking Mystical Wisdom'
+title: "A Beginner's Guide to Hermetic Qabalah: Unlocking Mystical Wisdom"
 permalink: /Key/A-Beginners-Guide-to-Hermetic-Qabalah-Unlocking-Mystical-Wisdom/
 categories:
   - Key

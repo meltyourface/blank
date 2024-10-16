@@ -1,6 +1,6 @@
 ---
 id: 45bd1638-40b1-4380-a01b-06e880c658af
-title: 'The Rise of Jehovah: Monotheism\''s Formative Influence'
+title: "The Rise of Jehovah: Monotheism's Formative Influence"
 permalink: /Jehovah-as-the-most-high-God/The-Rise-of-Jehovah-Monotheisms-Formative-Influence/
 categories:
   - Jehovah as the most high God

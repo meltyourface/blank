@@ -1,6 +1,6 @@
 ---
 id: e9b60799-8f0c-4657-bedd-ed44ce7a1fec
-title: 'Harnessing Hurricanes\'' Energy: Esoteric Guidance for Rituals & Transformation'
+title: "Harnessing Hurricanes' Energy: Esoteric Guidance for Rituals & Transformation"
 permalink: /Hurricane/Harnessing-Hurricanes-Energy-Esoteric-Guidance-for-Rituals-Transformation/
 categories:
   - Hurricane

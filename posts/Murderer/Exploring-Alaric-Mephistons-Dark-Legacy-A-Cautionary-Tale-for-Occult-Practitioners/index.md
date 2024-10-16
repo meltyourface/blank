@@ -1,6 +1,6 @@
 ---
 id: bd046586-848c-4057-8daf-1f85d7ca9b95
-title: 'Exploring Alaric Mephiston\''s Dark Legacy: A Cautionary Tale for Occult Practitioners'
+title: "Exploring Alaric Mephiston's Dark Legacy: A Cautionary Tale for Occult Practitioners"
 permalink: /Murderer/Exploring-Alaric-Mephistons-Dark-Legacy-A-Cautionary-Tale-for-Occult-Practitioners/
 categories:
   - Murderer

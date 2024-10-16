@@ -1,6 +1,6 @@
 ---
 id: 78c59843-24c5-4fff-aa3c-9a5a6e914c29
-title: '"Mencken\''s Critique of Religion & Education: Esoteric Connections"'
+title: ""Mencken's Critique of Religion & Education: Esoteric Connections""
 permalink: /HL-Mencken/Menckens-Critique-of-Religion-Education-Esoteric-Connections/
 categories:
   - HL Mencken

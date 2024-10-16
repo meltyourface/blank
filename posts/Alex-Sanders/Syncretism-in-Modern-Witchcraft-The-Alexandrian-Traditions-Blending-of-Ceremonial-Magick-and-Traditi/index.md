@@ -1,7 +1,6 @@
 ---
 id: c58b340f-7d4b-4931-87e8-603cbfe04111
-title: 'Syncretism in Modern Witchcraft: The Alexandrian Tradition\''s Blending of
-  Ceremonial Magick and Traditional Witchcraft'
+title: "Syncretism in Modern Witchcraft: The Alexandrian Tradition's Blending of Ceremonial Magick and Traditional Witchcraft"
 permalink: /Alex-Sanders/Syncretism-in-Modern-Witchcraft-The-Alexandrian-Traditions-Blending-of-Ceremonial-Magick-and-Traditi/
 categories:
   - Alex Sanders

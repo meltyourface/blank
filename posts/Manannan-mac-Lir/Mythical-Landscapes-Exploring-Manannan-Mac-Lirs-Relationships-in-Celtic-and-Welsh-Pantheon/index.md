@@ -1,7 +1,6 @@
 ---
 id: 7ccbf556-f226-4e0b-b197-24d1eaacb496
-title: 'Mythical Landscapes: Exploring Manannan Mac Lir\''s Relationships in Celtic
-  and Welsh Pantheon'
+title: "Mythical Landscapes: Exploring Manannan Mac Lir's Relationships in Celtic and Welsh Pantheon"
 permalink: /Manannan-mac-Lir/Mythical-Landscapes-Exploring-Manannan-Mac-Lirs-Relationships-in-Celtic-and-Welsh-Pantheon/
 categories:
   - Manannan mac Lir

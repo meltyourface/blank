@@ -1,6 +1,6 @@
 ---
 id: 67b8b3c6-2acf-450e-b98e-6b33cb66964b
-title: 'Exploring Aleister Crowley\''s Esoteric Orders: A.\''.A.\''. and O.T.O.'
+title: "Exploring Aleister Crowley\''s Esoteric Orders: A.'.A.'. and O.T.O."
 permalink: /Aleister-Crowleys-occult-fraternities-AA-and-OTO/Exploring-Aleister-Crowleys-Esoteric-Orders-AA-and-OTO/
 categories:
   - Aleister Crowley's occult fraternities (A.A. and O.T.O.)

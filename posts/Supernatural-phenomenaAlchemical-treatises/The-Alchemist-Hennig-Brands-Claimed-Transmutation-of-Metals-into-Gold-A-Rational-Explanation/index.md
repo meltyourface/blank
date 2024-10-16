@@ -1,7 +1,6 @@
 ---
 id: 995c0df4-8874-4213-9e02-a7922a0988df
-title: 'The Alchemist Hennig Brand\''s Claimed Transmutation of Metals into Gold:
-  A Rational Explanation'
+title: "The Alchemist Hennig Brand's Claimed Transmutation of Metals into Gold: A Rational Explanation"
 permalink: /Supernatural-phenomenaAlchemical-treatises/The-Alchemist-Hennig-Brands-Claimed-Transmutation-of-Metals-into-Gold-A-Rational-Explanation/
 categories:
   - Supernatural phenomenaAlchemical treatises

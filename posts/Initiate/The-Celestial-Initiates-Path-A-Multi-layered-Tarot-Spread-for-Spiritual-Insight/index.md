@@ -1,7 +1,6 @@
 ---
 id: 01881a48-cf09-4884-a76b-0e9c08b3efa6
-title: 'The Celestial Initiate\''s Path: A Multi-layered Tarot Spread for Spiritual
-  Insight'
+title: "The Celestial Initiate's Path: A Multi-layered Tarot Spread for Spiritual Insight"
 permalink: /Initiate/The-Celestial-Initiates-Path-A-Multi-layered-Tarot-Spread-for-Spiritual-Insight/
 categories:
   - Initiate

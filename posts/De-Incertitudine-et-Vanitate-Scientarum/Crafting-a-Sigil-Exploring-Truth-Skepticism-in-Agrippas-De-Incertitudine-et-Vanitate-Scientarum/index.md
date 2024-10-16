@@ -1,7 +1,6 @@
 ---
 id: 79ef5a57-5130-47e1-95fe-050c963fdbfe
-title: 'Crafting a Sigil: Exploring Truth & Skepticism in Agrippa\''s De Incertitudine
-  et Vanitate Scientarum'
+title: "Crafting a Sigil: Exploring Truth & Skepticism in Agrippa's De Incertitudine et Vanitate Scientarum"
 permalink: /De-Incertitudine-et-Vanitate-Scientarum/Crafting-a-Sigil-Exploring-Truth-Skepticism-in-Agrippas-De-Incertitudine-et-Vanitate-Scientarum/
 categories:
   - De Incertitudine et Vanitate Scientarum

@@ -1,6 +1,6 @@
 ---
 id: 9d36dc22-a4c7-4684-a8d4-601d87e1d419
-title: "Secret Societies\'' Influence on Big Men Appointment and Succession"
+title: "Secret Societies' Influence on Big Men Appointment and Succession"
 permalink: /Big-Man-society/Secret-Societies-Influence-on-Big-Men-Appointment-and-Succession/
 categories:
   - Big Man society

@@ -1,6 +1,6 @@
 ---
 id: 8482d548-3c6d-4cdf-afcf-fe673a114320
-title: 'Aleister Crowley\''s Sacred Sexual Magick: Uniting with One\''s True Will'
+title: "Aleister Crowley's Sacred Sexual Magick: Uniting with One's True Will"
 permalink: /Aleister-Crowleys-sexual-magick/Aleister-Crowleys-Sacred-Sexual-Magick-Uniting-with-Ones-True-Will/
 categories:
   - Aleister Crowley's sexual magick

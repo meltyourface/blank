@@ -1,6 +1,6 @@
 ---
 id: 5331d0ce-ae2c-420b-b7a6-be03620ba629
-title: 'Modern Gnostic Mass: A Ritual Honoring Baphomet\''s Divine Androgyny'
+title: "Modern Gnostic Mass: A Ritual Honoring Baphomet's Divine Androgyny"
 permalink: /Rite-of-Baphomet/Modern-Gnostic-Mass-A-Ritual-Honoring-Baphomets-Divine-Androgyny/
 categories:
   - Rite of Baphomet

@@ -1,7 +1,6 @@
 ---
 id: 0a3fb45d-7254-4fdd-b862-5d2af37bfcad
-title: 'Eco-Magic\''s Influence on Politics and Environment: Case Studies and Ethical
-  Considerations'
+title: "Eco-Magic's Influence on Politics and Environment: Case Studies and Ethical Considerations"
 permalink: /Ecological-and-political-environment-in-magical-work/Eco-Magics-Influence-on-Politics-and-Environment-Case-Studies-and-Ethical-Considerations/
 categories:
   - Ecological and political environment in magical work

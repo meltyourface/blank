@@ -1,6 +1,6 @@
 ---
 id: c4bcb2bf-dbbe-483c-9e19-eb8576c64a8c
-title: 'Debate: Dante Alighieri on Morality and Hell\''s Punishments'
+title: "Debate: Dante Alighieri on Morality and Hell's Punishments"
 permalink: /Divine-Comedy-by-Dante-Alighieri/Debate-Dante-Alighieri-on-Morality-and-Hells-Punishments/
 categories:
   - Divine Comedy by Dante Alighieri

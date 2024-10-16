@@ -1,6 +1,6 @@
 ---
 id: 8c7526d8-e116-4c33-a068-bfabbfb5a6fb
-title: 'Exploring Esoteric Symbols: A Beginner\''s Guide'
+title: "Exploring Esoteric Symbols: A Beginner's Guide"
 permalink: /General-Symbolism/Exploring-Esoteric-Symbols-A-Beginners-Guide/
 categories:
   - General Symbolism

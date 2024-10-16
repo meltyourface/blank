@@ -1,6 +1,6 @@
 ---
 id: 7a6740a0-da5a-473e-821d-e32db9a9b203
-title: 'Exploring Hecate\''s Path: A Guide for Witches and Sorcerers'
+title: "Exploring Hecate's Path: A Guide for Witches and Sorcerers"
 permalink: /Path-of-Hecate/Exploring-Hecates-Path-A-Guide-for-Witches-and-Sorcerers/
 categories:
   - Path of Hecate

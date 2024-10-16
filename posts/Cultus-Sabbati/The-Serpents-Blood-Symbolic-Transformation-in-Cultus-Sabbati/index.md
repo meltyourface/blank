@@ -1,6 +1,6 @@
 ---
 id: edf9a72b-cceb-4960-81d8-20dca441e869
-title: 'The Serpent\''s Blood: Symbolic Transformation in Cultus Sabbati'
+title: "The Serpent's Blood: Symbolic Transformation in Cultus Sabbati"
 permalink: /Cultus-Sabbati/The-Serpents-Blood-Symbolic-Transformation-in-Cultus-Sabbati/
 categories:
   - Cultus Sabbati

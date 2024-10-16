@@ -1,7 +1,6 @@
 ---
 id: 13eb807f-fc86-432d-88a7-6aeaea3e161f
-title: 'Order of the Silver Star\''s Key Spiritual Teachings: True Will, Thelema Philosophy,
-  and Polarity'
+title: "Order of the Silver Star's Key Spiritual Teachings: True Will, Thelema Philosophy, and Polarity"
 permalink: /Order-of-the-Silver-Star/Order-of-the-Silver-Stars-Key-Spiritual-Teachings-True-Will-Thelema-Philosophy-and-Polarity/
 categories:
   - Order of the Silver Star

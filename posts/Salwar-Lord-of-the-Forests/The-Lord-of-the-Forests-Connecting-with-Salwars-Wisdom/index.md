@@ -1,6 +1,6 @@
 ---
 id: d402ff9e-8b79-4543-a865-0561ced4507f
-title: 'The Lord of the Forests: Connecting with Salwar\''s Wisdom'
+title: "The Lord of the Forests: Connecting with Salwar's Wisdom"
 permalink: /Salwar-Lord-of-the-Forests/The-Lord-of-the-Forests-Connecting-with-Salwars-Wisdom/
 categories:
   - Salwar, Lord of the Forests

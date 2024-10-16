@@ -1,6 +1,6 @@
 ---
 id: 7fdc5e6e-9ae8-47dc-940b-6d67d011e109
-title: 'Kabbalah\''s Tree of Life: A Pathway for Spiritual Growth'
+title: "Kabbalah's Tree of Life: A Pathway for Spiritual Growth"
 permalink: /Open-Your-Mind/Kabbalahs-Tree-of-Life-A-Pathway-for-Spiritual-Growth/
 categories:
   - Open Your Mind

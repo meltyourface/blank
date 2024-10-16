@@ -1,6 +1,6 @@
 ---
 id: a64ed77c-ca19-48ce-b4db-d8c7caf10b8e
-title: 'Original Sin: Augustine\''s Impact on Western Thought'
+title: "Original Sin: Augustine's Impact on Western Thought"
 permalink: /Augustine/Original-Sin-Augustines-Impact-on-Western-Thought/
 categories:
   - Augustine

@@ -1,6 +1,6 @@
 ---
 id: 4f5981be-6709-4221-b385-324e1012eab3
-title: 'Astrology\''s Impact on Magical Practices: The Great Conjunction of 1524'
+title: "Astrology's Impact on Magical Practices: The Great Conjunction of 1524"
 permalink: /Magical-texts/Astrologys-Impact-on-Magical-Practices-The-Great-Conjunction-of-1524/
 categories:
   - Magical texts

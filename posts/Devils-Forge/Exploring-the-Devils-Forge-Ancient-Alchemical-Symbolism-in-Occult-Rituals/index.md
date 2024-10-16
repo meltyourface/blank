@@ -1,6 +1,6 @@
 ---
 id: 1618d6c2-74a3-4392-9bf6-a0b6f88bc5b9
-title: 'Exploring the Devil\''s Forge: Ancient Alchemical Symbolism in Occult Rituals'
+title: "Exploring the Devil's Forge: Ancient Alchemical Symbolism in Occult Rituals"
 permalink: /Devils-Forge/Exploring-the-Devils-Forge-Ancient-Alchemical-Symbolism-in-Occult-Rituals/
 categories:
   - Devil's Forge

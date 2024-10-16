@@ -1,6 +1,6 @@
 ---
 id: ee220aa1-7372-4514-97f4-c9a4e4a2182c
-title: 'Solomon\''s Temple: Ethics and Spiritual Mastery in Esoteric Practice'
+title: "Solomon's Temple: Ethics and Spiritual Mastery in Esoteric Practice"
 permalink: /Solomon/Solomons-Temple-Ethics-and-Spiritual-Mastery-in-Esoteric-Practice/
 categories:
   - Solomon

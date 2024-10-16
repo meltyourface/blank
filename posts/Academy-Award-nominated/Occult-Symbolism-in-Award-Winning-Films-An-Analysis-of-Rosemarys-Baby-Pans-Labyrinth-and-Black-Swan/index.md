@@ -1,7 +1,6 @@
 ---
 id: 6dec9379-e965-4d3e-afeb-a173d00a6397
-title: 'Occult Symbolism in Award-Winning Films: An Analysis of Rosemary\''s Baby,
-  Pan\''s Labyrinth, and Black Swan'
+title: "Occult Symbolism in Award-Winning Films: An Analysis of Rosemary's Baby, Pan\"'s Labyrinth, and Black Swan'
 permalink: /Academy-Award-nominated/Occult-Symbolism-in-Award-Winning-Films-An-Analysis-of-Rosemarys-Baby-Pans-Labyrinth-and-Black-Swan/
 categories:
   - Academy Award nominated

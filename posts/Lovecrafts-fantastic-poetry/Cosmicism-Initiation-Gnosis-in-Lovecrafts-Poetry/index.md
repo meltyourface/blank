@@ -1,6 +1,6 @@
 ---
 id: 9f326b30-567d-4a38-bbf7-37a594e9f1eb
-title: '"Cosmicism, Initiation, & Gnosis in Lovecraft\''s Poetry"'
+title: ""Cosmicism, Initiation, & Gnosis in Lovecraft's Poetry""
 permalink: /Lovecrafts-fantastic-poetry/Cosmicism-Initiation-Gnosis-in-Lovecrafts-Poetry/
 categories:
   - Lovecrafts fantastic poetry

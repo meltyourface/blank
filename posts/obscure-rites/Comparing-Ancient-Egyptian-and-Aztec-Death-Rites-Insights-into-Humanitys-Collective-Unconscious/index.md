@@ -1,7 +1,6 @@
 ---
 id: e050f191-a791-4cb1-b36f-dbd0f6277222
-title: 'Comparing Ancient Egyptian and Aztec Death Rites: Insights into Humanity\''s
-  Collective Unconscious'
+title: "Comparing Ancient Egyptian and Aztec Death Rites: Insights into Humanity's Collective Unconscious"
 permalink: /obscure-rites/Comparing-Ancient-Egyptian-and-Aztec-Death-Rites-Insights-into-Humanitys-Collective-Unconscious/
 categories:
   - obscure rites

@@ -1,6 +1,6 @@
 ---
 id: df05966b-a7d7-4766-9072-e5f1154fbcd6
-title: '"Silvaticae: Mastering Nature\''s Arcane Secrets"'
+title: ""Silvaticae: Mastering Nature's Arcane Secrets""
 permalink: /Silvaticae/Silvaticae-Mastering-Natures-Arcane-Secrets/
 categories:
   - Silvaticae

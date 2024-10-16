@@ -1,6 +1,6 @@
 ---
 id: b649eb7b-7ad2-4175-9cd7-b97857184a19
-title: 'Exploring Niantiel\''s Energies: Personal Transformation and Introspection'
+title: "Exploring Niantiel's Energies: Personal Transformation and Introspection"
 permalink: /Invoking-the-energies-of-Niantiel/Exploring-Niantiels-Energies-Personal-Transformation-and-Introspection/
 categories:
   - Invoking the energies of Niantiel

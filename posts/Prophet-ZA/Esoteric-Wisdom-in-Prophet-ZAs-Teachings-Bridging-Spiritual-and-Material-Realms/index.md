@@ -1,7 +1,6 @@
 ---
 id: 083bbfd3-b05a-4629-88ab-41ef9dce2ff0
-title: 'Esoteric Wisdom in Prophet ZA\''s Teachings: Bridging Spiritual and Material
-  Realms'
+title: "Esoteric Wisdom in Prophet ZA's Teachings: Bridging Spiritual and Material Realms"
 permalink: /Prophet-ZA/Esoteric-Wisdom-in-Prophet-ZAs-Teachings-Bridging-Spiritual-and-Material-Realms/
 categories:
   - Prophet ZA

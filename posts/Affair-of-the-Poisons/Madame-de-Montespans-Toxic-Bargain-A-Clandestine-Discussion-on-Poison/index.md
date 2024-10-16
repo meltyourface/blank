@@ -1,6 +1,6 @@
 ---
 id: bdd72adc-76da-470d-b30f-de4fad231126
-title: '"Madame de Montespan\''s Toxic Bargain: A Clandestine Discussion on Poison"'
+title: ""Madame de Montespan's Toxic Bargain: A Clandestine Discussion on Poison""
 permalink: /Affair-of-the-Poisons/Madame-de-Montespans-Toxic-Bargain-A-Clandestine-Discussion-on-Poison/
 categories:
   - Affair of the Poisons

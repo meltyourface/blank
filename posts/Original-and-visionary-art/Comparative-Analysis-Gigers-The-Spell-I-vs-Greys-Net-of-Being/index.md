@@ -1,6 +1,6 @@
 ---
 id: 8460c103-c0ca-4090-b52d-b256f945debd
-title: 'Comparative Analysis: Giger\''s "The Spell I" vs Grey\''s "Net of Being"'
+title: "Comparative Analysis: Giger's "The Spell I" vs Grey's "Net of Being""
 permalink: /Original-and-visionary-art/Comparative-Analysis-Gigers-The-Spell-I-vs-Greys-Net-of-Being/
 categories:
   - Original and visionary art

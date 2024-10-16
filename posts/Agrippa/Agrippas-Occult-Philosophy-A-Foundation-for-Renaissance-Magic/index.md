@@ -1,6 +1,6 @@
 ---
 id: bedbde40-9196-46fb-b700-4e45f8f5f7f2
-title: 'Agrippa\''s Occult Philosophy: A Foundation for Renaissance Magic'
+title: "Agrippa's Occult Philosophy: A Foundation for Renaissance Magic"
 permalink: /Agrippa/Agrippas-Occult-Philosophy-A-Foundation-for-Renaissance-Magic/
 categories:
   - Agrippa

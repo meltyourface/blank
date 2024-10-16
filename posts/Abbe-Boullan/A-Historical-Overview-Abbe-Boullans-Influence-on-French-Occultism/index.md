@@ -1,6 +1,6 @@
 ---
 id: 7789a413-ba63-4cfe-b8cb-37fa0e31254e
-title: 'A Historical Overview: Abbe Boullan\''s Influence on French Occultism'
+title: "A Historical Overview: Abbe Boullan's Influence on French Occultism"
 permalink: /Abbe-Boullan/A-Historical-Overview-Abbe-Boullans-Influence-on-French-Occultism/
 categories:
   - Abbe Boullan

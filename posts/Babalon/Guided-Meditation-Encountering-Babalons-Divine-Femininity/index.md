@@ -1,6 +1,6 @@
 ---
 id: 2e218654-e678-4ead-bfdb-6284e45804dc
-title: 'Guided Meditation: Encountering Babalon\''s Divine Femininity'
+title: "Guided Meditation: Encountering Babalon's Divine Femininity"
 permalink: /Babalon/Guided-Meditation-Encountering-Babalons-Divine-Femininity/
 categories:
   - Babalon

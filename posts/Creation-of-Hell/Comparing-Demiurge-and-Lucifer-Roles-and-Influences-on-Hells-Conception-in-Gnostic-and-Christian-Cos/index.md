@@ -1,7 +1,6 @@
 ---
 id: 757d8d7a-11c7-4eec-9316-66195daa0dd7
-title: 'Comparing Demiurge and Lucifer: Roles and Influences on Hell\''s Conception
-  in Gnostic and Christian Cosmologies'
+title: "Comparing Demiurge and Lucifer: Roles and Influences on Hell's Conception in Gnostic and Christian Cosmologies"
 permalink: /Creation-of-Hell/Comparing-Demiurge-and-Lucifer-Roles-and-Influences-on-Hells-Conception-in-Gnostic-and-Christian-Cos/
 categories:
   - Creation of Hell

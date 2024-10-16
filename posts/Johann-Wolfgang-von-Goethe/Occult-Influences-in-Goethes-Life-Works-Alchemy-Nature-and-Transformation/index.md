@@ -1,6 +1,6 @@
 ---
 id: fa2f65d0-3cdf-4635-843b-ed0edab86aca
-title: 'Occult Influences in Goethe\''s Life & Works: Alchemy, Nature, and Transformation'
+title: "Occult Influences in Goethe's Life & Works: Alchemy, Nature, and Transformation"
 permalink: /Johann-Wolfgang-von-Goethe/Occult-Influences-in-Goethes-Life-Works-Alchemy-Nature-and-Transformation/
 categories:
   - Johann Wolfgang von Goethe

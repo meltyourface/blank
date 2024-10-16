@@ -1,7 +1,6 @@
 ---
 id: 573cd34c-0b96-497b-98e3-a158fd19d8ed
-title: 'Medical Strategies Against China\''s Corpse Walkers: Evolution Throughout
-  History'
+title: "Medical Strategies Against China's Corpse Walkers: Evolution Throughout History"
 permalink: /Corpse-walkers-of-China/Medical-Strategies-Against-Chinas-Corpse-Walkers-Evolution-Throughout-History/
 categories:
   - Corpse walkers of China

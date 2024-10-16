@@ -1,6 +1,6 @@
 ---
 id: 4f16fe14-cab0-4fb1-a531-5792216f9469
-title: 'Exploring the Dark Side: The Qlippothic Mirror\''s Mystical Applications'
+title: "Exploring the Dark Side: The Qlippothic Mirror's Mystical Applications"
 permalink: /Qlippothic-Mirror/Exploring-the-Dark-Side-The-Qlippothic-Mirrors-Mystical-Applications/
 categories:
   - Qlippothic Mirror

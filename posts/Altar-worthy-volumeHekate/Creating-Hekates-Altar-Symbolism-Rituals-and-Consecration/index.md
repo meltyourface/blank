@@ -1,6 +1,6 @@
 ---
 id: d2cc0c54-8cce-4f02-9a42-745d96156f59
-title: 'Creating Hekate\''s Altar: Symbolism, Rituals, and Consecration'
+title: "Creating Hekate's Altar: Symbolism, Rituals, and Consecration"
 permalink: /Altar-worthy-volumeHekate/Creating-Hekates-Altar-Symbolism-Rituals-and-Consecration/
 categories:
   - Altar-worthy volumeHekate

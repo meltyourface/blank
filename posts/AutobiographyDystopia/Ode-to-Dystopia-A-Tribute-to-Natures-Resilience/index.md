@@ -1,6 +1,6 @@
 ---
 id: 99d9f5c5-92ad-472b-b870-fbd13194ee8b
-title: 'Ode to Dystopia: A Tribute to Nature\''s Resilience'
+title: "Ode to Dystopia: A Tribute to Nature's Resilience"
 permalink: /AutobiographyDystopia/Ode-to-Dystopia-A-Tribute-to-Natures-Resilience/
 categories:
   - AutobiographyDystopia

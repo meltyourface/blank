@@ -1,6 +1,6 @@
 ---
 id: 367238e4-6f0c-406b-bd85-6a3c05fa526e
-title: 'Mastering Occult Arts: Radical Alterity and Dragon\''s Column Connection'
+title: "Mastering Occult Arts: Radical Alterity and Dragon's Column Connection"
 permalink: /Radical-alterityDragons-Column/Mastering-Occult-Arts-Radical-Alterity-and-Dragons-Column-Connection/
 categories:
   - Radical alterity.Dragon's Column

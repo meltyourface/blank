@@ -1,6 +1,6 @@
 ---
 id: 3ac469c2-5c6b-47eb-b02c-08f5d0861591
-title: 'Exploring NecrophagiaMysticism: Harnessing Death\''s Energy'
+title: "Exploring NecrophagiaMysticism: Harnessing Death's Energy"
 permalink: /NecrophagiaMysticism/Exploring-NecrophagiaMysticism-Harnessing-Deaths-Energy/
 categories:
   - NecrophagiaMysticism

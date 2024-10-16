@@ -1,6 +1,6 @@
 ---
 id: 1fc3eaad-df09-46e4-a2b3-149d84292f96
-title: 'The Calamity at Rythoria\''s Amentan Gate: An In-Depth Account'
+title: "The Calamity at Rythoria's Amentan Gate: An In-Depth Account"
 permalink: /Amentan-Gates/The-Calamity-at-Rythorias-Amentan-Gate-An-In-Depth-Account/
 categories:
   - Amentan Gates

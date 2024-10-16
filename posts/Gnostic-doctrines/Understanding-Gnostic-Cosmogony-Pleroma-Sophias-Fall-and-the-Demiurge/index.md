@@ -1,6 +1,6 @@
 ---
 id: 380662e4-d5ef-433c-955a-58260a93db8e
-title: 'Understanding Gnostic Cosmogony: Pleroma, Sophia\''s Fall, and the Demiurge'
+title: "Understanding Gnostic Cosmogony: Pleroma, Sophia's Fall, and the Demiurge"
 permalink: /Gnostic-doctrines/Understanding-Gnostic-Cosmogony-Pleroma-Sophias-Fall-and-the-Demiurge/
 categories:
   - Gnostic doctrines

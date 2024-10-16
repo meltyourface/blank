@@ -1,6 +1,6 @@
 ---
 id: 264491a5-8b74-4227-9fa8-1b3b40b72a2d
-title: 'Analyzing Frankenstein\''s Monster: Core Attributes in Mythology'
+title: "Analyzing Frankenstein's Monster: Core Attributes in Mythology"
 permalink: /Monsters/Analyzing-Frankensteins-Monster-Core-Attributes-in-Mythology/
 categories:
   - Monsters

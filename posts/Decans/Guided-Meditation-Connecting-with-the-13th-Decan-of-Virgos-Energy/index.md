@@ -1,6 +1,6 @@
 ---
 id: bade3e05-83a3-44e4-86fc-e7e3dee34255
-title: 'Guided Meditation: Connecting with the 13th Decan of Virgo\''s Energy'
+title: "Guided Meditation: Connecting with the 13th Decan of Virgo's Energy"
 permalink: /Decans/Guided-Meditation-Connecting-with-the-13th-Decan-of-Virgos-Energy/
 categories:
   - Decans

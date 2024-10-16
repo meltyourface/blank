@@ -1,6 +1,6 @@
 ---
 id: bae834b9-bc6c-4bdf-b633-5176fe51ad17
-title: 'Improving Gannon\''s Grimoire: Enhancing Magical Practices'
+title: "Improving Gannon's Grimoire: Enhancing Magical Practices"
 permalink: /Magical-textbookImprecatory-arts/Improving-Gannons-Grimoire-Enhancing-Magical-Practices/
 categories:
   - Magical textbookImprecatory arts

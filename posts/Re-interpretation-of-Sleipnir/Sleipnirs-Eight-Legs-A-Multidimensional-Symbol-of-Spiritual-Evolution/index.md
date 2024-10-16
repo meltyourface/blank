@@ -1,6 +1,6 @@
 ---
 id: fc53b2e4-bf09-49ac-a4cf-4fd9eb9005cd
-title: '"Sleipnir\''s Eight Legs: A Multidimensional Symbol of Spiritual Evolution"'
+title: ""Sleipnir's Eight Legs: A Multidimensional Symbol of Spiritual Evolution""
 permalink: /Re-interpretation-of-Sleipnir/Sleipnirs-Eight-Legs-A-Multidimensional-Symbol-of-Spiritual-Evolution/
 categories:
   - Re-interpretation of Sleipnir

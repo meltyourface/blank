@@ -1,6 +1,6 @@
 ---
 id: 0065716a-e00e-4b5d-8393-c1612898601c
-title: 'Exploring Agrippa\''s Three Worlds: Magic, Numbers, and Cosmic Harmony'
+title: "Exploring Agrippa's Three Worlds: Magic, Numbers, and Cosmic Harmony"
 permalink: /Agrippa/Exploring-Agrippas-Three-Worlds-Magic-Numbers-and-Cosmic-Harmony/
 categories:
   - Agrippa

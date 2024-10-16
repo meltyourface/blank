@@ -1,6 +1,6 @@
 ---
 id: 169859a9-6b0a-4f0e-abd4-531ecf6de3f0
-title: 'Invocation to Hades: A Necromancer\''s Pact'
+title: "Invocation to Hades: A Necromancer's Pact"
 permalink: /Rituals-of-necromancy/Invocation-to-Hades-A-Necromancers-Pact/
 categories:
   - Rituals of necromancy

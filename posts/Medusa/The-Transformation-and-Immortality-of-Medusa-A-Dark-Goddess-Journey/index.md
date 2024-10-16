@@ -1,6 +1,6 @@
 ---
 id: 0dd6809e-7b31-4ec8-82c9-b84003ba0a18
-title: 'The Transformation and Immortality of Medusa: A Dark Goddess\'' Journey'
+title: "The Transformation and Immortality of Medusa: A Dark Goddess' Journey"
 permalink: /Medusa/The-Transformation-and-Immortality-of-Medusa-A-Dark-Goddess-Journey/
 categories:
   - Medusa

@@ -1,7 +1,6 @@
 ---
 id: 536426d2-31e2-4a95-b84c-dbf2fc26bdba
-title: 'The Serpent\''s Path in Adeptus Minor: Equilibrium and Qabalistic Interpretations
-  of Eden'
+title: "The Serpent's Path in Adeptus Minor: Equilibrium and Qabalistic Interpretations of Eden"
 permalink: /Adeptus-Minor/The-Serpents-Path-in-Adeptus-Minor-Equilibrium-and-Qabalistic-Interpretations-of-Eden/
 categories:
   - Adeptus Minor

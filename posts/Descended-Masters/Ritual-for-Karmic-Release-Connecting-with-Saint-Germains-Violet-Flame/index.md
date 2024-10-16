@@ -1,6 +1,6 @@
 ---
 id: ead98b3e-e3ce-4853-a101-da07adb4ffaa
-title: 'Ritual for Karmic Release: Connecting with Saint Germain\''s Violet Flame'
+title: "Ritual for Karmic Release: Connecting with Saint Germain's Violet Flame"
 permalink: /Descended-Masters/Ritual-for-Karmic-Release-Connecting-with-Saint-Germains-Violet-Flame/
 categories:
   - Descended Masters

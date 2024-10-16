@@ -1,6 +1,6 @@
 ---
 id: 4b724121-4b06-4602-a8fd-1a82b1c71ce4
-title: 'Empowering Letter from the Future Self: Guidance for Navigating Life\''s Crossroads'
+title: "Empowering Letter from the Future Self: Guidance for Navigating Life's Crossroads"
 permalink: /Personal-empowerment/Empowering-Letter-from-the-Future-Self-Guidance-for-Navigating-Lifes-Crossroads/
 categories:
   - Personal empowerment

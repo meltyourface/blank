@@ -1,6 +1,6 @@
 ---
 id: 8034f256-623d-4621-8e40-f74883c8fce1
-title: '"Ariadne\''s Underworld Rescue: A Tale of Hekate\''s Divine Intervention"'
+title: ""Ariadne's Underworld Rescue: A Tale of Hekate's Divine Intervention""
 permalink: /Greco-Egyptian-underworld-spiritHekate/Ariadnes-Underworld-Rescue-A-Tale-of-Hekates-Divine-Intervention/
 categories:
   - Greco-Egyptian underworld spiritHekate

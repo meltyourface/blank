@@ -1,7 +1,6 @@
 ---
 id: 5f8ee758-b5ad-4bba-8803-e51c6fd9946a
-title: 'A Spiritual Guide\''s Wisdom: Connection to Earth and Understanding Balance
-  in Life'
+title: "A Spiritual Guide's Wisdom: Connection to Earth and Understanding Balance in Life"
 permalink: /Mound/A-Spiritual-Guides-Wisdom-Connection-to-Earth-and-Understanding-Balance-in-Life/
 categories:
   - Mound

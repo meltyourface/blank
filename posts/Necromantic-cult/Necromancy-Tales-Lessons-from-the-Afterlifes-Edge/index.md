@@ -1,6 +1,6 @@
 ---
 id: fcbd0e44-5dbc-4482-8f54-c4cdee75fb31
-title: 'Necromancy Tales: Lessons from the Afterlife\''s Edge'
+title: "Necromancy Tales: Lessons from the Afterlife's Edge"
 permalink: /Necromantic-cult/Necromancy-Tales-Lessons-from-the-Afterlifes-Edge/
 categories:
   - Necromantic cult

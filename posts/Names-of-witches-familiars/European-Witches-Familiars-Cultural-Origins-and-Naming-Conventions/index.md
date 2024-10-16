@@ -1,6 +1,6 @@
 ---
 id: c3f55ea9-d2f4-451c-8d1b-31a36a67a5ce
-title: 'European Witches\'' Familiars: Cultural Origins and Naming Conventions'
+title: "European Witches' Familiars: Cultural Origins and Naming Conventions"
 permalink: /Names-of-witches-familiars/European-Witches-Familiars-Cultural-Origins-and-Naming-Conventions/
 categories:
   - Names of witches' familiars

@@ -1,6 +1,6 @@
 ---
 id: 66a3d91c-e5f7-4c42-8e6c-df85c80401c2
-title: '"Occult Fiction: Exploring Jack Parsons\'' Immolation and Its Impact"'
+title: ""Occult Fiction: Exploring Jack Parsons' Immolation and Its Impact""
 permalink: /Immolation-of-Jack-Parsons/Occult-Fiction-Exploring-Jack-Parsons-Immolation-and-Its-Impact/
 categories:
   - Immolation of Jack Parsons

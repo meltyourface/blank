@@ -1,6 +1,6 @@
 ---
 id: ac519e6b-9dcb-4b95-a256-ea422c5a0667
-title: 'Universal Language and Religious Reconciliation: Guillaume Postel\''s Legacy'
+title: "Universal Language and Religious Reconciliation: Guillaume Postel's Legacy"
 permalink: /Guillaume-Postel/Universal-Language-and-Religious-Reconciliation-Guillaume-Postels-Legacy/
 categories:
   - Guillaume Postel

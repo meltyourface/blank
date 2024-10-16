@@ -1,6 +1,6 @@
 ---
 id: a9c6f5a5-2146-4c4f-9a06-df60145fbdff
-title: 'Morrigan\''s Veil: A Mnemonic System for Prophecy Knowledge'
+title: "Morrigan's Veil: A Mnemonic System for Prophecy Knowledge"
 permalink: /Prophecy-of-the-Morrigan/Morrigans-Veil-A-Mnemonic-System-for-Prophecy-Knowledge/
 categories:
   - Prophecy of the Morrigan

@@ -1,6 +1,6 @@
 ---
 id: f5e570ec-23f3-4cb3-949a-89239bf18a96
-title: 'Alchemy\''s Spiritual Journey: Unveiling the Divine Within'
+title: "Alchemy's Spiritual Journey: Unveiling the Divine Within"
 permalink: /AdorationMagical-literature/Alchemys-Spiritual-Journey-Unveiling-the-Divine-Within/
 categories:
   - AdorationMagical literature

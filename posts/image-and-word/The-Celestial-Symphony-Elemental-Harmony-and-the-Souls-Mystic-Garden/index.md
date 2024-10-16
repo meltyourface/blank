@@ -1,6 +1,6 @@
 ---
 id: b19e6a41-74dd-4a0c-b2e7-a8ff55776856
-title: 'The Celestial Symphony: Elemental Harmony and the Soul\''s Mystic Garden'
+title: "The Celestial Symphony: Elemental Harmony and the Soul's Mystic Garden"
 permalink: /image-and-word/The-Celestial-Symphony-Elemental-Harmony-and-the-Souls-Mystic-Garden/
 categories:
   - image and word

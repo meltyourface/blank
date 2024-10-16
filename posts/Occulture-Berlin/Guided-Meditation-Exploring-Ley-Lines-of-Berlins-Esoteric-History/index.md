@@ -1,6 +1,6 @@
 ---
 id: a2442b7f-99c9-42aa-896d-09a0b18ee095
-title: 'Guided Meditation: Exploring Ley Lines of Berlin\''s Esoteric History'
+title: "Guided Meditation: Exploring Ley Lines of Berlin's Esoteric History"
 permalink: /Occulture-Berlin/Guided-Meditation-Exploring-Ley-Lines-of-Berlins-Esoteric-History/
 categories:
   - Occulture Berlin

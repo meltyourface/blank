@@ -1,6 +1,6 @@
 ---
 id: c03e4863-5295-4721-a236-8c2741916a91
-title: 'Early Church Fathers: Augustine & Athanasius\'' Contributions to Christology'
+title: "Early Church Fathers: Augustine & Athanasius' Contributions to Christology"
 permalink: /Church-tradition/Early-Church-Fathers-Augustine-Athanasius-Contributions-to-Christology/
 categories:
   - Church tradition

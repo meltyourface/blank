@@ -1,6 +1,6 @@
 ---
 id: 9542519e-5538-4ced-988f-c5fe7abdc063
-title: 'Witches Dance: Harnessing Nature\''s Elements for Spiritual Transformation'
+title: "Witches Dance: Harnessing Nature's Elements for Spiritual Transformation"
 permalink: /The-witches-dance/Witches-Dance-Harnessing-Natures-Elements-for-Spiritual-Transformation/
 categories:
   - The witches dance

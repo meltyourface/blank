@@ -1,6 +1,6 @@
 ---
 id: f7a5bc1c-b9ae-4cb2-a63f-e61faec4185d
-title: 'Ritualistic Invocation: Honoring Hecate\''s Divine Presence'
+title: "Ritualistic Invocation: Honoring Hecate's Divine Presence"
 permalink: /occult-art/Ritualistic-Invocation-Honoring-Hecates-Divine-Presence/
 categories:
   - occult art

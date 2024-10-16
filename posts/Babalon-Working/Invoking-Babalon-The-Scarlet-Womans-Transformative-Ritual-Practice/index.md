@@ -1,6 +1,6 @@
 ---
 id: 51353394-e092-4bdd-8fc6-ecaf4fc1de2f
-title: 'Invoking Babalon: The Scarlet Woman\''s Transformative Ritual Practice'
+title: "Invoking Babalon: The Scarlet Woman's Transformative Ritual Practice"
 permalink: /Babalon-Working/Invoking-Babalon-The-Scarlet-Womans-Transformative-Ritual-Practice/
 categories:
   - Babalon Working

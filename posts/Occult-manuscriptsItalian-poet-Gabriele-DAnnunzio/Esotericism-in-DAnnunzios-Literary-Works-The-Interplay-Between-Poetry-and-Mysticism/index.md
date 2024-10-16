@@ -1,7 +1,6 @@
 ---
 id: 291a59f1-ad7e-41e9-a5fa-13afb6cbb86b
-title: 'Esotericism in D\''Annunzio\''s Literary Works: The Interplay Between Poetry
-  and Mysticism'
+title: "Esotericism in D'Annunzio's Literary Works: The Interplay Between Poetry and Mysticism"
 permalink: /Occult-manuscriptsItalian-poet-Gabriele-DAnnunzio/Esotericism-in-DAnnunzios-Literary-Works-The-Interplay-Between-Poetry-and-Mysticism/
 categories:
   - Occult manuscriptsItalian poet Gabriele D'Annunzio

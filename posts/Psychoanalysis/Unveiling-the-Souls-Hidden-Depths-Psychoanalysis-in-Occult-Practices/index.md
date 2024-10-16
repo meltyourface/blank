@@ -1,6 +1,6 @@
 ---
 id: d897c003-1b30-437d-a20b-4f797471981b
-title: 'Unveiling the Soul\''s Hidden Depths: Psychoanalysis in Occult Practices'
+title: "Unveiling the Soul's Hidden Depths: Psychoanalysis in Occult Practices"
 permalink: /Psychoanalysis/Unveiling-the-Souls-Hidden-Depths-Psychoanalysis-in-Occult-Practices/
 categories:
   - Psychoanalysis

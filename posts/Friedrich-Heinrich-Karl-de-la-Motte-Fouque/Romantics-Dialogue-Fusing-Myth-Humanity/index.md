@@ -1,6 +1,6 @@
 ---
 id: aae56743-b5e3-48ab-9fac-04e3d3936017
-title: 'Romantics\'' Dialogue: Fusing Myth & Humanity'
+title: "Romantics' Dialogue: Fusing Myth & Humanity"
 permalink: /Friedrich-Heinrich-Karl-de-la-Motte-Fouque/Romantics-Dialogue-Fusing-Myth-Humanity/
 categories:
   - Friedrich Heinrich Karl de la Motte Fouque

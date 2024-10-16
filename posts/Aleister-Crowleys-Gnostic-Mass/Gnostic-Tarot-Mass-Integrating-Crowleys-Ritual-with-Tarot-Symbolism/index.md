@@ -1,6 +1,6 @@
 ---
 id: 43bf2bbe-3258-4737-b8d1-17cce533812e
-title: 'Gnostic Tarot Mass: Integrating Crowley\''s Ritual with Tarot Symbolism'
+title: "Gnostic Tarot Mass: Integrating Crowley's Ritual with Tarot Symbolism"
 permalink: /Aleister-Crowleys-Gnostic-Mass/Gnostic-Tarot-Mass-Integrating-Crowleys-Ritual-with-Tarot-Symbolism/
 categories:
   - Aleister Crowley's Gnostic Mass

@@ -1,6 +1,6 @@
 ---
 id: 7b84609a-918c-46c3-8f87-a4198fc25df3
-title: 'Divination in European Necromancy: The Black Books\'' Focus'
+title: "Divination in European Necromancy: The Black Books' Focus"
 permalink: /Black-Books-of-European-necromancy/Divination-in-European-Necromancy-The-Black-Books-Focus/
 categories:
   - Black Books of European necromancy

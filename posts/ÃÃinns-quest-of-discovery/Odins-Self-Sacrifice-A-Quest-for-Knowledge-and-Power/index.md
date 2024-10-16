@@ -1,6 +1,6 @@
 ---
 id: ff2f27ab-a59b-4770-8f80-741b1bc035a0
-title: 'Odin\''s Self-Sacrifice: A Quest for Knowledge and Power'
+title: "Odin's Self-Sacrifice: A Quest for Knowledge and Power"
 permalink: "/\xC3\xC3inns-quest-of-discovery/Odins-Self-Sacrifice-A-Quest-for-Knowledge-and-Power/"
 categories:
   - "\xC3\u201C\xC3\xB0inn's quest of discovery"

@@ -1,7 +1,6 @@
 ---
 id: 4120c43e-369e-4fdc-bda1-bdd465675a1d
-title: 'Exploring the Esoteric Path: Understanding the Book of the Law\''s Symbols
-  & Principles'
+title: "Exploring the Esoteric Path: Understanding the Book of the Law's Symbols & Principles"
 permalink: /Book-of-the-Law/Exploring-the-Esoteric-Path-Understanding-the-Book-of-the-Laws-Symbols-Principles/
 categories:
   - Book of the Law

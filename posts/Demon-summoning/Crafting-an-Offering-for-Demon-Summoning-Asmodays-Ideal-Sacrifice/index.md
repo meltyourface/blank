@@ -1,6 +1,6 @@
 ---
 id: 40572913-93b5-49b4-ae9f-eb79f2a0951e
-title: 'Crafting an Offering for Demon Summoning: Asmoday\''s Ideal Sacrifice'
+title: "Crafting an Offering for Demon Summoning: Asmoday's Ideal Sacrifice"
 permalink: /Demon-summoning/Crafting-an-Offering-for-Demon-Summoning-Asmodays-Ideal-Sacrifice/
 categories:
   - Demon summoning

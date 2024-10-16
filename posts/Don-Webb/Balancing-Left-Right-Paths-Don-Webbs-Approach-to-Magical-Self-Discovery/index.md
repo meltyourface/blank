@@ -1,6 +1,6 @@
 ---
 id: f1b1b754-0a3b-4eae-b368-875efd417caa
-title: 'Balancing Left & Right Paths: Don Webb\''s Approach to Magical Self-Discovery'
+title: "Balancing Left & Right Paths: Don Webb's Approach to Magical Self-Discovery"
 permalink: /Don-Webb/Balancing-Left-Right-Paths-Don-Webbs-Approach-to-Magical-Self-Discovery/
 categories:
   - Don Webb

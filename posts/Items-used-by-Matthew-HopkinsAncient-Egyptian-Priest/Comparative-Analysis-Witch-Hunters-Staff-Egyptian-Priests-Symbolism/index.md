@@ -1,6 +1,6 @@
 ---
 id: c6378768-f1ea-4e76-a182-66d432043e40
-title: 'Comparative Analysis: Witch-Hunter\''s Staff & Egyptian Priest\''s Symbolism'
+title: "Comparative Analysis: Witch-Hunter's Staff & Egyptian Priest's Symbolism"
 permalink: /Items-used-by-Matthew-HopkinsAncient-Egyptian-Priest/Comparative-Analysis-Witch-Hunters-Staff-Egyptian-Priests-Symbolism/
 categories:
   - Items used by Matthew HopkinsAncient Egyptian Priest

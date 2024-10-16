@@ -1,6 +1,6 @@
 ---
 id: dde2b926-31d1-47ee-858e-5d29b920409c
-title: 'A Beginner\''s Guide to Conjurations: Principles and Applications'
+title: "A Beginner's Guide to Conjurations: Principles and Applications"
 permalink: /Conjurations/A-Beginners-Guide-to-Conjurations-Principles-and-Applications/
 categories:
   - Conjurations

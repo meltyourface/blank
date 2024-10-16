@@ -1,7 +1,6 @@
 ---
 id: bd00eb4f-8471-4c9d-9504-8e4851fd6663
-title: 'The Dragon-Man\''s Journey Through Three Serpents: An Allegory of Spiritual
-  Mastery'
+title: "The Dragon-Man's Journey Through Three Serpents: An Allegory of Spiritual Mastery"
 permalink: /Dragon-man/The-Dragon-Mans-Journey-Through-Three-Serpents-An-Allegory-of-Spiritual-Mastery/
 categories:
   - Dragon-man

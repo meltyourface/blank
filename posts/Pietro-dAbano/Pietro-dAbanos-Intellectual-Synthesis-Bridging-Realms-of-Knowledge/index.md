@@ -1,6 +1,6 @@
 ---
 id: a0448ac1-1af9-4439-b380-e27b00a8ccae
-title: 'Pietro d\''Abano\''s Intellectual Synthesis: Bridging Realms of Knowledge'
+title: "Pietro d'Abano's Intellectual Synthesis: Bridging Realms of Knowledge"
 permalink: /Pietro-dAbano/Pietro-dAbanos-Intellectual-Synthesis-Bridging-Realms-of-Knowledge/
 categories:
   - Pietro dAbano

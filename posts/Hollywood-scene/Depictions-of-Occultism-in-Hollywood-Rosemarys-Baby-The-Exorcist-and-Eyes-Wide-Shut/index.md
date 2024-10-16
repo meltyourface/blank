@@ -1,7 +1,6 @@
 ---
 id: 0c31702b-b963-43a9-a252-19b4abc98706
-title: 'Depictions of Occultism in Hollywood: "Rosemary\''s Baby," "The Exorcist,"
-  and "Eyes Wide Shut"'
+title: "Depictions of Occultism in Hollywood: "Rosemary's Baby," "The Exorcist," and "Eyes Wide Shut""
 permalink: /Hollywood-scene/Depictions-of-Occultism-in-Hollywood-Rosemarys-Baby-The-Exorcist-and-Eyes-Wide-Shut/
 categories:
   - Hollywood scene

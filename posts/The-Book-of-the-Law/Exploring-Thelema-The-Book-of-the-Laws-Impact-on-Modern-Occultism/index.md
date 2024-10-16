@@ -1,6 +1,6 @@
 ---
 id: 9083709b-f4e8-451a-a3e9-617d76408fdc
-title: 'Exploring Thelema: The Book of the Law\''s Impact on Modern Occultism'
+title: "Exploring Thelema: The Book of the Law's Impact on Modern Occultism"
 permalink: /The-Book-of-the-Law/Exploring-Thelema-The-Book-of-the-Laws-Impact-on-Modern-Occultism/
 categories:
   - The Book of the Law

@@ -1,6 +1,6 @@
 ---
 id: 1694ba56-c81a-41c2-b881-883ad46af86e
-title: 'Astrological Analysis: John Smith\''s Birth Chart Interpretation'
+title: "Astrological Analysis: John Smith's Birth Chart Interpretation"
 permalink: /Liber-Liberivel-Lapidis-Lazuli/Astrological-Analysis-John-Smiths-Birth-Chart-Interpretation/
 categories:
   - Liber Liberivel Lapidis Lazuli

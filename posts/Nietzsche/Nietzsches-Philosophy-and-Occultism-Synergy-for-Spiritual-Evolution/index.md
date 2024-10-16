@@ -1,6 +1,6 @@
 ---
 id: 937c767b-e880-45fb-ae4d-56c6fac148a6
-title: 'Nietzsche\''s Philosophy and Occultism: Synergy for Spiritual Evolution'
+title: "Nietzsche's Philosophy and Occultism: Synergy for Spiritual Evolution"
 permalink: /Nietzsche/Nietzsches-Philosophy-and-Occultism-Synergy-for-Spiritual-Evolution/
 categories:
   - Nietzsche

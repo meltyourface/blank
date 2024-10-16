@@ -1,6 +1,6 @@
 ---
 id: 0ecaa91d-6c3a-496e-8338-24bde3d5bff9
-title: 'Exploring Aleister Crowley\''s Gnostic Mass: Structure, Symbolism, and Purpose'
+title: "Exploring Aleister Crowley's Gnostic Mass: Structure, Symbolism, and Purpose"
 permalink: /Aleister-Crowleys-Gnostic-Mass/Exploring-Aleister-Crowleys-Gnostic-Mass-Structure-Symbolism-and-Purpose/
 categories:
   - Aleister Crowley's Gnostic Mass

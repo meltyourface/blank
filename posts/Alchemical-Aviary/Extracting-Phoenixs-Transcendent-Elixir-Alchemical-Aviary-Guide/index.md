@@ -1,6 +1,6 @@
 ---
 id: 236ba97b-9bfa-47c6-b9cf-7611418031b3
-title: 'Extracting Phoenix\''s Transcendent Elixir: Alchemical Aviary Guide'
+title: "Extracting Phoenix's Transcendent Elixir: Alchemical Aviary Guide"
 permalink: /Alchemical-Aviary/Extracting-Phoenixs-Transcendent-Elixir-Alchemical-Aviary-Guide/
 categories:
   - Alchemical Aviary

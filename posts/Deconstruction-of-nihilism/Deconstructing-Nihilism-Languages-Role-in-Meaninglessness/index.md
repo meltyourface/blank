@@ -1,6 +1,6 @@
 ---
 id: 3678620c-35a4-4fd9-9600-5de401fe7327
-title: 'Deconstructing Nihilism: Language\''s Role in Meaninglessness'
+title: "Deconstructing Nihilism: Language's Role in Meaninglessness"
 permalink: /Deconstruction-of-nihilism/Deconstructing-Nihilism-Languages-Role-in-Meaninglessness/
 categories:
   - Deconstruction of nihilism

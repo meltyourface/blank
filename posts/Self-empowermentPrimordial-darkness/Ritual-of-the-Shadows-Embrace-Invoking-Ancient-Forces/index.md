@@ -1,6 +1,6 @@
 ---
 id: a0ce0730-807f-4b05-86da-f8f5e215539d
-title: 'Ritual of the Shadow\''s Embrace: Invoking Ancient Forces'
+title: "Ritual of the Shadow's Embrace: Invoking Ancient Forces"
 permalink: /Self-empowermentPrimordial-darkness/Ritual-of-the-Shadows-Embrace-Invoking-Ancient-Forces/
 categories:
   - Self-empowermentPrimordial darkness

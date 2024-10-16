@@ -1,6 +1,6 @@
 ---
 id: 3d86a391-b9ed-4ed6-8855-46fdcfeab6b6
-title: 'Lovecraft\''s Cosmic Horror: Insignificance, Fear, and Unknown'
+title: "Lovecraft's Cosmic Horror: Insignificance, Fear, and Unknown"
 permalink: /Lovecraftian-themes/Lovecrafts-Cosmic-Horror-Insignificance-Fear-and-Unknown/
 categories:
   - Lovecraftian themes

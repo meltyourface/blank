@@ -1,6 +1,6 @@
 ---
 id: 770f3353-ea04-490f-9e7e-a24398a456e3
-title: 'Introduction to Satanic Philosophy and Rituals: A Beginner\''s Guide'
+title: "Introduction to Satanic Philosophy and Rituals: A Beginner's Guide"
 permalink: /Satanic-tenets/Introduction-to-Satanic-Philosophy-and-Rituals-A-Beginners-Guide/
 categories:
   - Satanic tenets

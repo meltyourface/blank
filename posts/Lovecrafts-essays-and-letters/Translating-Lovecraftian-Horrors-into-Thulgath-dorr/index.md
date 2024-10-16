@@ -1,6 +1,6 @@
 ---
 id: 042d4aa7-1bf0-4f31-916e-1f18e30139e6
-title: '"Translating Lovecraftian Horrors into Thul\''gath-dorr"'
+title: ""Translating Lovecraftian Horrors into Thul'gath-dorr""
 permalink: /Lovecrafts-essays-and-letters/Translating-Lovecraftian-Horrors-into-Thulgath-dorr/
 categories:
   - Lovecraft's essays and letters

@@ -1,6 +1,6 @@
 ---
 id: 4552ac6d-18c8-4e70-937e-cdd24014b78f
-title: 'Exploring the Devil\''s Coach Horse: Esoteric Symbolism for Personal Growth'
+title: "Exploring the Devil's Coach Horse: Esoteric Symbolism for Personal Growth"
 permalink: /Devils-Coach-Horse/Exploring-the-Devils-Coach-Horse-Esoteric-Symbolism-for-Personal-Growth/
 categories:
   - Devil's Coach Horse

@@ -1,6 +1,6 @@
 ---
 id: 90126928-4da2-4cef-b74e-1dd84da56d7b
-title: 'Guided Meditation: Harnessing Water Element\''s Power for Transformation'
+title: "Guided Meditation: Harnessing Water Element's Power for Transformation"
 permalink: /Folk-magical-sorcery/Guided-Meditation-Harnessing-Water-Elements-Power-for-Transformation/
 categories:
   - Folk-magical sorcery

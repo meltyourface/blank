@@ -1,7 +1,6 @@
 ---
 id: 6adf8ebf-7117-4f7c-9843-23cab673acce
-title: 'Ariadne\''s Thread: A Guide for Personal and Spiritual Growth in Esoteric
-  Traditions'
+title: "Ariadne's Thread: A Guide for Personal and Spiritual Growth in Esoteric Traditions"
 permalink: /Ariadnes-thread/Ariadnes-Thread-A-Guide-for-Personal-and-Spiritual-Growth-in-Esoteric-Traditions/
 categories:
   - Ariadnes thread

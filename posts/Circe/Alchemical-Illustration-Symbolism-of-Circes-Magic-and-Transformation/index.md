@@ -1,6 +1,6 @@
 ---
 id: f8ff4c15-fbf1-4a35-868a-369da51e564e
-title: 'Alchemical Illustration: Symbolism of Circe\''s Magic and Transformation'
+title: "Alchemical Illustration: Symbolism of Circe's Magic and Transformation"
 permalink: /Circe/Alchemical-Illustration-Symbolism-of-Circes-Magic-and-Transformation/
 categories:
   - Circe

@@ -1,6 +1,6 @@
 ---
 id: e17ec3a0-88c0-4c2f-9763-c990de3b3fe2
-title: 'Mastering Occultism: The Triadic Influence on Adolphus\'' Teachings'
+title: "Mastering Occultism: The Triadic Influence on Adolphus' Teachings"
 permalink: /Adolphus/Mastering-Occultism-The-Triadic-Influence-on-Adolphus-Teachings/
 categories:
   - Adolphus

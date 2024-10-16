@@ -1,6 +1,6 @@
 ---
 id: fa268b81-113b-4971-bb38-8d4d48d8b928
-title: 'The Guide Through Life\''s Labyrinth: Ariadne\''s Thread'
+title: "The Guide Through Life's Labyrinth: Ariadne's Thread"
 permalink: /Ariadne-as-protomystes/The-Guide-Through-Lifes-Labyrinth-Ariadnes-Thread/
 categories:
   - Ariadne as protomystes

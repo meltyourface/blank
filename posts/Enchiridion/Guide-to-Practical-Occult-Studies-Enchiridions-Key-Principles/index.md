@@ -1,6 +1,6 @@
 ---
 id: afc42286-97c7-4dd1-80c3-ba275f80e06b
-title: 'Guide to Practical Occult Studies: Enchiridion\''s Key Principles'
+title: "Guide to Practical Occult Studies: Enchiridion's Key Principles"
 permalink: /Enchiridion/Guide-to-Practical-Occult-Studies-Enchiridions-Key-Principles/
 categories:
   - Enchiridion

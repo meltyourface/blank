@@ -1,6 +1,6 @@
 ---
 id: b368d403-2d9a-4c0e-b35a-d2e82e12ece1
-title: 'Unveiling the Haunted Asylum: A Guide to Urban Horror\''s Dark History'
+title: "Unveiling the Haunted Asylum: A Guide to Urban Horror's Dark History"
 permalink: /urban-horror/Unveiling-the-Haunted-Asylum-A-Guide-to-Urban-Horrors-Dark-History/
 categories:
   - urban horror

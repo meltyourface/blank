@@ -1,6 +1,6 @@
 ---
 id: 32babcd4-5fe4-4cfc-9ee2-bbfd69e07fe5
-title: 'Alchemy\''s Three Primes: Sulfur, Salt, Mercury and Their Human Body Correspondences'
+title: "Alchemy's Three Primes: Sulfur, Salt, Mercury and Their Human Body Correspondences"
 permalink: /Alchemy/Alchemys-Three-Primes-Sulfur-Salt-Mercury-and-Their-Human-Body-Correspondences/
 categories:
   - Alchemy

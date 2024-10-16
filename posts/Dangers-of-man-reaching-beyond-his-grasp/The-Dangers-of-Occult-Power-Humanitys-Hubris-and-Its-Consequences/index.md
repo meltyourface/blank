@@ -1,6 +1,6 @@
 ---
 id: b68fbe91-d937-4058-abdf-7da7a015b86e
-title: 'The Dangers of Occult Power: Humanity\''s Hubris and Its Consequences'
+title: "The Dangers of Occult Power: Humanity's Hubris and Its Consequences"
 permalink: /Dangers-of-man-reaching-beyond-his-grasp/The-Dangers-of-Occult-Power-Humanitys-Hubris-and-Its-Consequences/
 categories:
   - Dangers of man reaching beyond his grasp

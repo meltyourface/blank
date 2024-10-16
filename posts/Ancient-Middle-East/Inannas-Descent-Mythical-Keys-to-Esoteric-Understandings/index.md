@@ -1,6 +1,6 @@
 ---
 id: 2a3a2adf-5f31-40f2-8024-724e5397d0ff
-title: 'Inanna\''s Descent: Mythical Keys to Esoteric Understandings'
+title: "Inanna's Descent: Mythical Keys to Esoteric Understandings"
 permalink: /Ancient-Middle-East/Inannas-Descent-Mythical-Keys-to-Esoteric-Understandings/
 categories:
   - Ancient Middle East

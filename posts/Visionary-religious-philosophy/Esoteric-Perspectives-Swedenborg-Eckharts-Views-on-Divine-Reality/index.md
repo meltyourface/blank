@@ -1,6 +1,6 @@
 ---
 id: af78e631-0756-472c-998d-eb29ce1458b1
-title: 'Esoteric Perspectives: Swedenborg & Eckhart\''s Views on Divine Reality'
+title: "Esoteric Perspectives: Swedenborg & Eckhart's Views on Divine Reality"
 permalink: /Visionary-religious-philosophy/Esoteric-Perspectives-Swedenborg-Eckharts-Views-on-Divine-Reality/
 categories:
   - Visionary religious philosophy

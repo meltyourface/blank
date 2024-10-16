@@ -1,6 +1,6 @@
 ---
 id: 8a4d1f7b-d51c-4ae9-afab-54af897a7124
-title: 'The Dreamer\''s Ritual: Accessing Hidden Knowledge Through Lucid Dreaming'
+title: "The Dreamer's Ritual: Accessing Hidden Knowledge Through Lucid Dreaming"
 permalink: /Practitioner-of-the-crooked-path/The-Dreamers-Ritual-Accessing-Hidden-Knowledge-Through-Lucid-Dreaming/
 categories:
   - Practitioner of the crooked path

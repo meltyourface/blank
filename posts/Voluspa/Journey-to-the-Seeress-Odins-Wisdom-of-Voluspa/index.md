@@ -1,6 +1,6 @@
 ---
 id: c96ae198-6075-4a45-8311-3dd74253a25a
-title: 'Journey to the Seeress: Odin\''s Wisdom of Voluspa'
+title: "Journey to the Seeress: Odin's Wisdom of Voluspa"
 permalink: /Voluspa/Journey-to-the-Seeress-Odins-Wisdom-of-Voluspa/
 categories:
   - Voluspa

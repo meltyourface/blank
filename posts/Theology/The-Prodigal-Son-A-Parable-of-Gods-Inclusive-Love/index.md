@@ -1,6 +1,6 @@
 ---
 id: 1e6d5638-6ffb-40e2-b9c3-a8ba3e455fbe
-title: 'The Prodigal Son: A Parable of God\''s Inclusive Love'
+title: "The Prodigal Son: A Parable of God's Inclusive Love"
 permalink: /Theology/The-Prodigal-Son-A-Parable-of-Gods-Inclusive-Love/
 categories:
   - Theology

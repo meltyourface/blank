@@ -1,6 +1,6 @@
 ---
 id: bd410989-28b9-4955-95ca-e7f0eb1c6d40
-title: 'Journey into the Qutub: An Astral Encounter with Chumbley\''s Entities'
+title: "Journey into the Qutub: An Astral Encounter with Chumbley's Entities"
 permalink: /Andrew-Chumbley/Journey-into-the-Qutub-An-Astral-Encounter-with-Chumbleys-Entities/
 categories:
   - Andrew Chumbley

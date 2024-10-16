@@ -1,6 +1,6 @@
 ---
 id: b63d19d4-ab7d-4be0-bcf3-8ceb099ee042
-title: 'Mythical Artifact: The Powerful Serpent\''s Scale'
+title: "Mythical Artifact: The Powerful Serpent's Scale"
 permalink: /Folklore/Mythical-Artifact-The-Powerful-Serpents-Scale/
 categories:
   - Folklore

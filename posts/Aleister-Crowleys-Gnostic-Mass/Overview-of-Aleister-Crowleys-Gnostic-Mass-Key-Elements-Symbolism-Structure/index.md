@@ -1,7 +1,6 @@
 ---
 id: 9e94e490-b095-4fc4-b975-2054e00710d5
-title: 'Overview of Aleister Crowley\''s Gnostic Mass: Key Elements, Symbolism, &
-  Structure'
+title: "Overview of Aleister Crowley's Gnostic Mass: Key Elements, Symbolism, & Structure"
 permalink: /Aleister-Crowleys-Gnostic-Mass/Overview-of-Aleister-Crowleys-Gnostic-Mass-Key-Elements-Symbolism-Structure/
 categories:
   - Aleister Crowley's Gnostic Mass

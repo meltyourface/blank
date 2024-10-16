@@ -1,6 +1,6 @@
 ---
 id: 2901831a-5bd9-4d8f-8c0d-cac2b44d5089
-title: 'Medea\''s Mastery of Goetic Magical Traditions: Rituals and Esoteric Knowledge'
+title: "Medea's Mastery of Goetic Magical Traditions: Rituals and Esoteric Knowledge"
 permalink: /Medea/Medeas-Mastery-of-Goetic-Magical-Traditions-Rituals-and-Esoteric-Knowledge/
 categories:
   - Medea

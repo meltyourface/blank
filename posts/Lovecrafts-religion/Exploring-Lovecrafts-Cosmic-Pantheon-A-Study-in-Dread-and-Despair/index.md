@@ -1,6 +1,6 @@
 ---
 id: f17cb7d6-318a-41d9-80cc-a3c479d842e2
-title: 'Exploring Lovecraft\''s Cosmic Pantheon: A Study in Dread and Despair'
+title: "Exploring Lovecraft's Cosmic Pantheon: A Study in Dread and Despair"
 permalink: /Lovecrafts-religion/Exploring-Lovecrafts-Cosmic-Pantheon-A-Study-in-Dread-and-Despair/
 categories:
   - Lovecraft's religion

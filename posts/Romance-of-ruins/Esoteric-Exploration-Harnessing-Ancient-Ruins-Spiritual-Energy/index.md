@@ -1,6 +1,6 @@
 ---
 id: 483c7e6f-a33f-4d43-ac74-6e614371ece2
-title: 'Esoteric Exploration: Harnessing Ancient Ruins\'' Spiritual Energy'
+title: "Esoteric Exploration: Harnessing Ancient Ruins' Spiritual Energy"
 permalink: /Romance-of-ruins/Esoteric-Exploration-Harnessing-Ancient-Ruins-Spiritual-Energy/
 categories:
   - Romance of ruins

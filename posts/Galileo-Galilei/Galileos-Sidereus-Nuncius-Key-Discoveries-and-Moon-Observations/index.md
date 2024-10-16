@@ -1,6 +1,6 @@
 ---
 id: 25ed9ccb-2bec-43c9-b69c-4b451df6ced6
-title: 'Galileo\''s Sidereus Nuncius: Key Discoveries and Moon Observations'
+title: "Galileo's Sidereus Nuncius: Key Discoveries and Moon Observations"
 permalink: /Galileo-Galilei/Galileos-Sidereus-Nuncius-Key-Discoveries-and-Moon-Observations/
 categories:
   - Galileo Galilei

@@ -1,6 +1,6 @@
 ---
 id: 19f2515f-b3ca-4390-8608-476dda3c8125
-title: 'Exploring Reality\''s Borders: The Influence of Brian Evenson\''s Works'
+title: "Exploring Reality's Borders: The Influence of Brian Evenson's Works"
 permalink: /Brian-EvensonConjuration/Exploring-Realitys-Borders-The-Influence-of-Brian-Evensons-Works/
 categories:
   - Brian EvensonConjuration

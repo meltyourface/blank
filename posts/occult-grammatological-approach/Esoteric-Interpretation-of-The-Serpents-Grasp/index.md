@@ -1,6 +1,6 @@
 ---
 id: 74ac1a10-61ec-480f-ab34-10a94980dd1e
-title: '"Esoteric Interpretation of \''The Serpent\''s Grasp\''"'
+title: ""Esoteric Interpretation of \''The Serpent's Grasp'""
 permalink: /occult-grammatological-approach/Esoteric-Interpretation-of-The-Serpents-Grasp/
 categories:
   - occult grammatological approach

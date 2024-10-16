@@ -1,6 +1,6 @@
 ---
 id: da8c3ee6-630b-4d23-a2fb-53260806fec3
-title: 'Exploring Higher Realms Through Death\''s Embrace: Grim Reminder'
+title: "Exploring Higher Realms Through Death's Embrace: Grim Reminder"
 permalink: /Grim-reminder/Exploring-Higher-Realms-Through-Deaths-Embrace-Grim-Reminder/
 categories:
   - Grim reminder

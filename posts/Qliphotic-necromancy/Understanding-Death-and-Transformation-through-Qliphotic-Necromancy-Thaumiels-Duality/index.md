@@ -1,7 +1,6 @@
 ---
 id: e7d2d670-134b-4c2e-8182-5bed37d999ca
-title: 'Understanding Death and Transformation through Qliphotic Necromancy: Thaumiel\''s
-  Duality'
+title: "Understanding Death and Transformation through Qliphotic Necromancy: Thaumiel's Duality"
 permalink: /Qliphotic-necromancy/Understanding-Death-and-Transformation-through-Qliphotic-Necromancy-Thaumiels-Duality/
 categories:
   - Qliphotic necromancy

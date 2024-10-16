@@ -1,6 +1,6 @@
 ---
 id: b92902f9-c526-4da6-a8a5-ac07fc4d2a6d
-title: 'God\''s Omnipresence & Free Will: Navigating Divine Tensions'
+title: "God's Omnipresence & Free Will: Navigating Divine Tensions"
 permalink: /The-Word-that-is-God/Gods-Omnipresence-Free-Will-Navigating-Divine-Tensions/
 categories:
   - The Word that is God

@@ -1,6 +1,6 @@
 ---
 id: e322ad6c-cd39-4436-8b38-18de1ca5c8af
-title: '"A Hymn to Aphrodite: Love\''s Divine Beauty"'
+title: ""A Hymn to Aphrodite: Love's Divine Beauty""
 permalink: /Feminine-aesthetics/A-Hymn-to-Aphrodite-Loves-Divine-Beauty/
 categories:
   - Feminine aesthetics

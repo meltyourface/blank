@@ -1,6 +1,6 @@
 ---
 id: 983722aa-28c9-409a-9fc1-d135687f51d9
-title: 'Guided Meditation: Embracing Freyja\''s Wisdom & Power'
+title: "Guided Meditation: Embracing Freyja's Wisdom & Power"
 permalink: /Paganism/Guided-Meditation-Embracing-Freyjas-Wisdom-Power/
 categories:
   - Paganism

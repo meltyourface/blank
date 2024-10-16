@@ -1,6 +1,6 @@
 ---
 id: ffee4646-ab2e-4703-86ce-d8c38bc70f64
-title: 'Exploring the Queen of Hell\''s Influence Across Cultures: Common Themes'
+title: "Exploring the Queen of Hell's Influence Across Cultures: Common Themes"
 permalink: /Queen-of-Hell/Exploring-the-Queen-of-Hells-Influence-Across-Cultures-Common-Themes/
 categories:
   - Queen of Hell

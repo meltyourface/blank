@@ -1,6 +1,6 @@
 ---
 id: f6a6ac0d-c8f6-4ebf-a78a-baba2175dddf
-title: 'Exploring Love\''s Power: A Guide to AdorationMagical Literature'
+title: "Exploring Love's Power: A Guide to AdorationMagical Literature"
 permalink: /AdorationMagical-literature/Exploring-Loves-Power-A-Guide-to-AdorationMagical-Literature/
 categories:
   - AdorationMagical literature

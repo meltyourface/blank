@@ -1,6 +1,6 @@
 ---
 id: 3101429e-19be-4338-9573-0bf58c2ab91f
-title: 'Medieval Heresies: Origins, Beliefs, and Church\''s Response'
+title: "Medieval Heresies: Origins, Beliefs, and Church's Response"
 permalink: /Medieval-heresy/Medieval-Heresies-Origins-Beliefs-and-Churchs-Response/
 categories:
   - Medieval heresy

@@ -1,6 +1,6 @@
 ---
 id: d9d9567e-f594-4383-81e5-c75d5231516f
-title: 'The Devil\''s Garden: Dark Meditations for Personal Transformation'
+title: "The Devil's Garden: Dark Meditations for Personal Transformation"
 permalink: /The-Devils-Garden/The-Devils-Garden-Dark-Meditations-for-Personal-Transformation/
 categories:
   - The Devils Garden

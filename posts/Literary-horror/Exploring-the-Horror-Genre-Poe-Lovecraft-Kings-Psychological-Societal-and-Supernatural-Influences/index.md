@@ -1,7 +1,6 @@
 ---
 id: 85b53508-a726-4060-9c50-bce8e7823d18
-title: 'Exploring the Horror Genre: Poe, Lovecraft, & King\''s Psychological, Societal,
-  and Supernatural Influences'
+title: "Exploring the Horror Genre: Poe, Lovecraft, & King's Psychological, Societal, and Supernatural Influences"
 permalink: /Literary-horror/Exploring-the-Horror-Genre-Poe-Lovecraft-Kings-Psychological-Societal-and-Supernatural-Influences/
 categories:
   - Literary horror

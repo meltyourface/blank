@@ -1,6 +1,6 @@
 ---
 id: edb31d07-0aba-4e3f-a226-65a766aff3d9
-title: 'Consecration Ritual: Empowering a Dagger with Furies\'' Vengeance'
+title: "Consecration Ritual: Empowering a Dagger with Furies' Vengeance"
 permalink: /The-Furies/Consecration-Ritual-Empowering-a-Dagger-with-Furies-Vengeance/
 categories:
   - The Furies

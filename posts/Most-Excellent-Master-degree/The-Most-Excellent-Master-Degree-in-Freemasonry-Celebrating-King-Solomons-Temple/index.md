@@ -1,7 +1,6 @@
 ---
 id: d8d66fb7-5ac5-4b55-8a99-7b0cf1a5e93e
-title: 'The Most Excellent Master Degree in Freemasonry: Celebrating King Solomon\''s
-  Temple'
+title: "The Most Excellent Master Degree in Freemasonry: Celebrating King Solomon's Temple"
 permalink: /Most-Excellent-Master-degree/The-Most-Excellent-Master-Degree-in-Freemasonry-Celebrating-King-Solomons-Temple/
 categories:
   - Most Excellent Master degree

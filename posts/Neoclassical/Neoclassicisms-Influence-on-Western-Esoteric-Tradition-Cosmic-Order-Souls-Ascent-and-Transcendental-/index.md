@@ -1,7 +1,6 @@
 ---
 id: 5826d512-537d-464a-8c40-c6a37d66c60d
-title: 'Neoclassicism\''s Influence on Western Esoteric Tradition: Cosmic Order, Soul\''s
-  Ascent, and Transcendental Nature'
+title: "Neoclassicism's Influence on Western Esoteric Tradition: Cosmic Order, Soul's Ascent, and Transcendental Nature"
 permalink: /Neoclassical/Neoclassicisms-Influence-on-Western-Esoteric-Tradition-Cosmic-Order-Souls-Ascent-and-Transcendental-/
 categories:
   - Neoclassical

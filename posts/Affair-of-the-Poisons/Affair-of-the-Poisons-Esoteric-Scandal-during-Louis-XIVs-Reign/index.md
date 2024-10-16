@@ -1,6 +1,6 @@
 ---
 id: d3ada203-060e-42d8-8b0a-669fbb508ddc
-title: 'Affair of the Poisons: Esoteric Scandal during Louis XIV\''s Reign'
+title: "Affair of the Poisons: Esoteric Scandal during Louis XIV's Reign"
 permalink: /Affair-of-the-Poisons/Affair-of-the-Poisons-Esoteric-Scandal-during-Louis-XIVs-Reign/
 categories:
   - Affair of the Poisons

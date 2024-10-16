@@ -1,6 +1,6 @@
 ---
 id: 07a2f52b-486c-4c24-944f-ecfd733d1ecb
-title: 'Comparative Analysis: Omar Khayyam\''s Rubaiyat vs. FitzGerald\''s Translation'
+title: "Comparative Analysis: Omar Khayyam's Rubaiyat vs. FitzGerald's Translation"
 permalink: /Rubaiyat/Comparative-Analysis-Omar-Khayyams-Rubaiyat-vs-FitzGeralds-Translation/
 categories:
   - Rubaiyat

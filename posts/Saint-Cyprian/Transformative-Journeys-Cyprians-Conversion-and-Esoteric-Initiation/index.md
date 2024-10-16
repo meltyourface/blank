@@ -1,6 +1,6 @@
 ---
 id: 686a8f5e-fa11-4806-8880-a236329c3d2c
-title: 'Transformative Journeys: Cyprian\''s Conversion and Esoteric Initiation'
+title: "Transformative Journeys: Cyprian's Conversion and Esoteric Initiation"
 permalink: /Saint-Cyprian/Transformative-Journeys-Cyprians-Conversion-and-Esoteric-Initiation/
 categories:
   - Saint Cyprian

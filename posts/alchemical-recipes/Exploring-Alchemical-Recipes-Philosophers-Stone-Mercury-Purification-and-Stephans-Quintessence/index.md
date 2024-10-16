@@ -1,7 +1,6 @@
 ---
 id: dd52ddea-c9e6-4873-a633-1535c5d2bc61
-title: 'Exploring Alchemical Recipes: Philosophers\'' Stone, Mercury Purification,
-  and Stephan\''s Quintessence'
+title: "Exploring Alchemical Recipes: Philosophers' Stone, Mercury Purification, and Stephan\"'s Quintessence'
 permalink: /alchemical-recipes/Exploring-Alchemical-Recipes-Philosophers-Stone-Mercury-Purification-and-Stephans-Quintessence/
 categories:
   - alchemical recipes

@@ -1,6 +1,6 @@
 ---
 id: 4ff02eaa-dba7-4c2f-9714-8dd503997290
-title: 'Exploring Esoteric Practices: The Dragon\''s Column'
+title: "Exploring Esoteric Practices: The Dragon's Column"
 permalink: /Radical-alterityDragons-Column/Exploring-Esoteric-Practices-The-Dragons-Column/
 categories:
   - Radical alterity.Dragon's Column

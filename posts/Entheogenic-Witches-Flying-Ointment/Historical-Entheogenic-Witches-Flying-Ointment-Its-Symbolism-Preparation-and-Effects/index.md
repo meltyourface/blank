@@ -1,7 +1,6 @@
 ---
 id: 70310475-9d23-4a35-996c-36a8734a9b67
-title: 'Historical Entheogenic Witches\'' Flying Ointment: Its Symbolism, Preparation,
-  and Effects'
+title: "Historical Entheogenic Witches' Flying Ointment: Its Symbolism, Preparation, and Effects"
 permalink: /Entheogenic-Witches-Flying-Ointment/Historical-Entheogenic-Witches-Flying-Ointment-Its-Symbolism-Preparation-and-Effects/
 categories:
   - Entheogenic Witches Flying Ointment

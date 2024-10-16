@@ -1,6 +1,6 @@
 ---
 id: c174d560-ee39-4f33-a73e-fb312c5680ef
-title: 'Trickster\''s Duel: Pantheon Showdown'
+title: "Trickster's Duel: Pantheon Showdown"
 permalink: /Pantheon-of-tricksters/Tricksters-Duel-Pantheon-Showdown/
 categories:
   - Pantheon of tricksters

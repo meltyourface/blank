@@ -1,6 +1,6 @@
 ---
 id: c8f943ef-13ff-42cd-a3e4-f571be53b329
-title: 'Moonlit Ritual: An Ode to Selene\''s Power and Grace'
+title: "Moonlit Ritual: An Ode to Selene's Power and Grace"
 permalink: /Full-and-New-Moon-rituals/Moonlit-Ritual-An-Ode-to-Selenes-Power-and-Grace/
 categories:
   - Full and New Moon rituals

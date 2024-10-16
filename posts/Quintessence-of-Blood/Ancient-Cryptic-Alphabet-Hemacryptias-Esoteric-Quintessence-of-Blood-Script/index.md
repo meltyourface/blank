@@ -1,7 +1,6 @@
 ---
 id: a5988711-b56a-4e42-b9b7-b22dda793108
-title: '"Ancient, Cryptic Alphabet: Hemacryptia\''s Esoteric Quintessence of Blood
-  Script"'
+title: ""Ancient, Cryptic Alphabet: Hemacryptia's Esoteric Quintessence of Blood Script""
 permalink: /Quintessence-of-Blood/Ancient-Cryptic-Alphabet-Hemacryptias-Esoteric-Quintessence-of-Blood-Script/
 categories:
   - Quintessence of Blood

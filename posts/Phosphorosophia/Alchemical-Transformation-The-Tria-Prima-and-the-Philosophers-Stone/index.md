@@ -1,6 +1,6 @@
 ---
 id: 17d41627-10a7-41b2-bf81-2aa91ef78201
-title: 'Alchemical Transformation: The Tria Prima and the Philosopher\''s Stone'
+title: "Alchemical Transformation: The Tria Prima and the Philosopher's Stone"
 permalink: /Phosphorosophia/Alchemical-Transformation-The-Tria-Prima-and-the-Philosophers-Stone/
 categories:
   - Phosphorosophia

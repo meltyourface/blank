@@ -1,6 +1,6 @@
 ---
 id: 1557fe79-d792-4181-ab13-6c7cb2816786
-title: 'An Overview of Crowley\''s Occult Fraternities: A.A. & O.T.O.'
+title: "An Overview of Crowley's Occult Fraternities: A.A. & O.T.O."
 permalink: /Aleister-Crowleys-occult-fraternities-AA-and-OTO/An-Overview-of-Crowleys-Occult-Fraternities-AA-OTO/
 categories:
   - Aleister Crowley's occult fraternities (A.A. and O.T.O.)
